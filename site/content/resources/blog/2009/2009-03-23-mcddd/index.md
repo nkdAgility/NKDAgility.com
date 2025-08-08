@@ -1,32 +1,35 @@
 ---
 title: McDDD
 description: Join developers in Glasgow on 2nd May for Developer Day Scotland 2, featuring talks from returning and new speakers on software development and technology topics.
+date: 2009-03-23
+lastmod: 2009-03-23
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 6pw2YiuYEJ1
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 134
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-03-23
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: mcddd
 aliases:
-- /resources/6pw2YiuYEJ1
+  - /resources/6pw2YiuYEJ1
 aliasesArchive:
-- /blog/mcddd
-- /mcddd
-- /resources/blog/mcddd
+  - /blog/mcddd
+  - /mcddd
+  - /resources/blog/mcddd
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-2-2.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T15:24:22Z
-concepts: []
+ResourceImportId: 134
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-2.png
 
 ---
 Its that time again and you should all be in Glasgow on the 2nd May for [Developer Day Scotland 2](http://developerdayscotland.com). There are some excellent speakers, some we saw last time and some new.

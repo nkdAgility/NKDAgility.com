@@ -1,32 +1,35 @@
 ---
 title: TFS Sticky Buddy Codeplex project
 description: Open source tool for visualising Team Foundation Server project status, showing work items, assignments, and progress in real time on large displays for team visibility.
+date: 2008-02-05
+lastmod: 2008-02-05
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: g0bjuq5cIqX
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 250
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-02-05
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-sticky-buddy-codeplex-project
 aliases:
-- /resources/g0bjuq5cIqX
+  - /resources/g0bjuq5cIqX
 aliasesArchive:
-- /blog/tfs-sticky-buddy-codeplex-project
-- /tfs-sticky-buddy-codeplex-project
-- /resources/blog/tfs-sticky-buddy-codeplex-project
-tags: []
+  - /blog/tfs-sticky-buddy-codeplex-project
+  - /tfs-sticky-buddy-codeplex-project
+  - /resources/blog/tfs-sticky-buddy-codeplex-project
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:37Z
-concepts: []
+ResourceImportId: 250
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 I hade been looking with envy at the [digital whiteboard experiment](http://www.agilemanagement.net/Articles/Weblog/DigitalWhiteboardExperime.html), and with dismay at the lack of open source for the project. So...

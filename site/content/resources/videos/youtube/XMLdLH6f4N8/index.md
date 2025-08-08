@@ -5,10 +5,10 @@ description: Explores how adopting a shared framework and structured communicati
 tldr: Introducing a common framework and structured backlog helped transform a chaotic team environment into one marked by better collaboration, clearer communication, and increased trust. Teams benefited from a shared language, improved confidence, and more effective problem-solving, while regular feedback channels boosted morale and engagement. Development managers should consider adopting structured frameworks and open communication practices to drive positive change and sustain team momentum.
 date: 2017-07-28T11:55:30Z
 lastmod: 2017-07-28T11:55:30Z
-weight: 690
+weight: 325
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: monthly
 ResourceId: XMLdLH6f4N8
 ResourceImport: true
@@ -31,6 +31,7 @@ concepts: []
 categories:
   - Uncategorized
 tags:
+  - Operational Practices
   - Social Technologies
   - Organisational Culture
 Watermarks:

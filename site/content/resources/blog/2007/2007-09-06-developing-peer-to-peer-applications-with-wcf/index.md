@@ -1,31 +1,34 @@
 ---
 title: Developing Peer-To-Peer Applications With WCF
 description: Guide to building peer-to-peer applications using Windows Communication Foundation (WCF), covering key concepts, implementation steps, and practical resources.
+date: 2007-09-06
+lastmod: 2007-09-06
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: SlusLOwCCkg
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 317
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-09-06
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: developing-peer-to-peer-applications-with-wcf
 aliases:
-- /resources/SlusLOwCCkg
+  - /resources/SlusLOwCCkg
 aliasesArchive:
-- /blog/developing-peer-to-peer-applications-with-wcf
-- /developing-peer-to-peer-applications-with-wcf
-- /resources/blog/developing-peer-to-peer-applications-with-wcf
-tags: []
+  - /blog/developing-peer-to-peer-applications-with-wcf
+  - /developing-peer-to-peer-applications-with-wcf
+  - /resources/blog/developing-peer-to-peer-applications-with-wcf
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:17Z
-concepts: []
+ResourceImportId: 317
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 I recently had the need to create and deliver a presentation on [Developing Peer-To-Peer Applications With WCF](http://presentations.multidimensionalfreethinking.co.uk/Developing%20Peer-To-Peer%20Applications%20With%20WCF.pptx). Although the technical content was good, my delivery was not. I got stage fright...

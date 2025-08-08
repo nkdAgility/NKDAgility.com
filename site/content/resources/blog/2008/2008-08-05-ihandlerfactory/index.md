@@ -1,33 +1,36 @@
 ---
 title: IHandlerFactory
 description: Explains how to use a custom IHttpHandler and handler factory in ASP.NET to redirect old URLs to a new site, preserving links and SEO with permanent redirects.
+date: 2008-08-05
+lastmod: 2008-08-05
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: kYNSKaqUYb7
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 214
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-08-05
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: ihandlerfactory
 aliases:
-- /resources/kYNSKaqUYb7
+  - /resources/kYNSKaqUYb7
 aliasesArchive:
-- /blog/ihandlerfactory
-- /ihandlerfactory
-- /resources/blog/ihandlerfactory
-tags:
-- Software Development
+  - /blog/ihandlerfactory
+  - /ihandlerfactory
+  - /resources/blog/ihandlerfactory
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T16:23:45Z
-concepts: []
+ResourceImportId: 214
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 As you have probably noticed I have moved URL’s (sorry to all you feed readers with the duplicate entries). The reason I moved my blog was to free up the [http://hinshelwood.com](http://hinshelwood.com) URL for use as a personal site that then links to my blog. When you do this you need to consider all of your current users, bookmarks, feeds, links and all that malarkey.

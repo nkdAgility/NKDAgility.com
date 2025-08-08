@@ -1,32 +1,35 @@
 ---
 title: TFS Sticky Buddy Update
 description: The latest update fixes login issues when no domain is entered and improves handling of large work item lists in TFS Sticky Buddy version 1.6.
+date: 2008-09-03
+lastmod: 2008-09-03
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 6FP0Axpic3s
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 200
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-09-03
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-sticky-buddy-update
 aliases:
-- /resources/6FP0Axpic3s
+  - /resources/6FP0Axpic3s
 aliasesArchive:
-- /blog/tfs-sticky-buddy-update
-- /tfs-sticky-buddy-update
-- /resources/blog/tfs-sticky-buddy-update
-tags: []
-preview: metro-aggreko-128-link-1-1.png
+  - /blog/tfs-sticky-buddy-update
+  - /tfs-sticky-buddy-update
+  - /resources/blog/tfs-sticky-buddy-update
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:23:23Z
-concepts: []
+ResourceImportId: 200
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-aggreko-128-link-1-1.png
 
 ---
 The Sticky Buddy has been updated to fix the following problems:

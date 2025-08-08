@@ -1,37 +1,40 @@
 ---
 title: 'Team Foundation Server Error TF30177 : Team Project Creation Failed'
 description: Explains how to resolve Team Foundation Server TF30177 errors by updating server URLs to use the FQDN, addressing proxy and DNS issues during project creation.
+date: 2007-08-14
+lastmod: 2007-08-14
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ovERk0hj1XD
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 332
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-14
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: team-foundation-server-error-tf30177-team-project-creation-failed
 aliases:
-- /resources/ovERk0hj1XD
+  - /resources/ovERk0hj1XD
 aliasesArchive:
-- /blog/team-foundation-server-error-tf30177-team-project-creation-failed
-- /team-foundation-server-error-tf30177-team-project-creation-failed
-- /team-foundation-server-error-tf30177---team-project-creation-failed
-- /blog/team-foundation-server-error-tf30177---team-project-creation-failed
-- /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed
-tags:
-- Troubleshooting
-- Install and Configuration
-- System Configuration
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/team-foundation-server-error-tf30177-team-project-creation-failed
+  - /team-foundation-server-error-tf30177-team-project-creation-failed
+  - /team-foundation-server-error-tf30177---team-project-creation-failed
+  - /blog/team-foundation-server-error-tf30177---team-project-creation-failed
+  - /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T16:26:39Z
-concepts: []
+ResourceImportId: 332
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 When you create your first project, you may get an error during the creation process. When you look at the log file and see a "proxy error" message detail it may be to do with the way that TFS installs.

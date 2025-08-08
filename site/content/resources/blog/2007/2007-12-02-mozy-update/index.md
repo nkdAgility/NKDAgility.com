@@ -1,32 +1,35 @@
 ---
 title: Mozy update
 description: Gained 4.3GB total Mozy cloud storage through referrals, detailing backup choices and ease of use for family members. Excludes music, code, and emails from backup.
+date: 2007-12-02
+lastmod: 2007-12-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Tb5vwyZh7DY
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 281
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-12-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: mozy-update
 aliases:
-- /resources/Tb5vwyZh7DY
+  - /resources/Tb5vwyZh7DY
 aliasesArchive:
-- /blog/mozy-update
-- /mozy-update
-- /resources/blog/mozy-update
+  - /blog/mozy-update
+  - /mozy-update
+  - /resources/blog/mozy-update
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:25Z
-concepts: []
+ResourceImportId: 281
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Well, due to my campaign to get lots of free bandwidth I now have an additional 2.3 GB on top of my initial free 2GB bringing the grand total to 4.3 GB of online storage with [Mozy](https://mozy.com/?code=8R96AG)!

@@ -1,36 +1,38 @@
 ---
 title: Investigation - SEO permanent redirects for old URL’s?
 description: Explains how to implement SEO-friendly permanent 301 redirects for old URLs to preserve search rankings, comparing IIS tools and custom solutions for database-driven mapping.
+date: 2009-12-28
+lastmod: 2009-12-28
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: roXmyU8SYFJ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 74
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-12-28
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: investigation-seo-permanent-redirects-for-old-urls
+slug: investigation-seo-permanent-redirects-for-old-url-s
 aliases:
-- /resources/blog/investigation-seo-permanent-redirects-for-old-url-s
-- /resources/roXmyU8SYFJ
+  - /resources/roXmyU8SYFJ
 aliasesArchive:
-- /blog/investigation-seo-permanent-redirects-for-old-urls
-- /investigation-seo-permanent-redirects-for-old-urls
-- /investigation---seo-permanent-redirects-for-old-url’s-
-- /blog/investigation---seo-permanent-redirects-for-old-url’s-
-- /resources/blog/investigation-seo-permanent-redirects-for-old-urls
-- /resources/blog/investigation-seo-permanent-redirects-for-old-url-s
-tags: []
+  - /blog/investigation-seo-permanent-redirects-for-old-urls
+  - /investigation-seo-permanent-redirects-for-old-urls
+  - /investigation---seo-permanent-redirects-for-old-url’s-
+  - /blog/investigation---seo-permanent-redirects-for-old-url’s-
+  - /resources/blog/investigation-seo-permanent-redirects-for-old-urls
+  - /resources/blog/investigation-seo-permanent-redirects-for-old-url-s
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-4-4.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:22:50Z
-concepts: []
+ResourceImportId: 74
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-4-4.png
 
 ---
 On the project I am currently working on we want to change the nasty [http://northwind.com/products.aspx?ProductId=1](http://northwind.com/products.aspx?ProductId=1) to a nice friendly URL on the website. This is pretty easy and can result in nice URL’s like [http://northwind.com/products/BigGreenTeddyBaresFromParis.aspx](http://northwind.com/products/BigGreenTeddyBaresFromParis.aspx).

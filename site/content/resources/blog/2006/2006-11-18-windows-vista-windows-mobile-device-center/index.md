@@ -1,34 +1,37 @@
 ---
 title: 'Windows Vista: windows mobile device center'
 description: Guidance on installing and running Windows Mobile Device Center on Windows Vista 6000 RTM, including beta availability and manual download instructions.
+date: 2006-11-18
+lastmod: 2006-11-18
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: V8uWqfxfKyn
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 455
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2006-11-18
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: windows-vista-windows-mobile-device-center
 aliases:
-- /resources/V8uWqfxfKyn
+  - /resources/V8uWqfxfKyn
 aliasesArchive:
-- /blog/windows-vista-windows-mobile-device-center
-- /windows-vista-windows-mobile-device-center
-- /windows-vista--windows-mobile-device-center
-- /blog/windows-vista--windows-mobile-device-center
-- /resources/blog/windows-vista-windows-mobile-device-center
-tags: []
+  - /blog/windows-vista-windows-mobile-device-center
+  - /windows-vista-windows-mobile-device-center
+  - /windows-vista--windows-mobile-device-center
+  - /blog/windows-vista--windows-mobile-device-center
+  - /resources/blog/windows-vista-windows-mobile-device-center
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:29:54Z
-concepts: []
+ResourceImportId: 455
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 If you are trying to get windows mobile device center running on Vista 6000 RTM then you will need to install the beta as it is not actively released.

@@ -1,32 +1,35 @@
 ---
 title: Its that time again
 description: A developer reflects on career changes, balancing family and work, and considers moving into contracting for flexibility and better pay, especially in .NET and enterprise tech.
+date: 2007-07-16
+lastmod: 2007-07-16
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: n0GHiv0sTfp
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 370
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-16
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: its-that-time-again
 aliases:
-- /resources/n0GHiv0sTfp
+  - /resources/n0GHiv0sTfp
 aliasesArchive:
-- /blog/its-that-time-again
-- /its-that-time-again
-- /resources/blog/its-that-time-again
-tags: []
+  - /blog/its-that-time-again
+  - /its-that-time-again
+  - /resources/blog/its-that-time-again
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:41Z
-concepts: []
+ResourceImportId: 370
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 With a new baby, new mortgage rate and declining job satisfaction I am getting that itchy feeling in my feet. There was a time that I was allowed to Code for a living and not just support applications and document deployment strategies. I have ended up filling my free time with my love of Coding and now, with the new baby, I find that my free time is drying up.

@@ -40,6 +40,7 @@ tags:
   - Product Owner
   - Pragmatic Thinking
   - Backlog Refinement
+  - Personal
   - Operational Practices
 Watermarks:
   description: 2025-05-07T13:07:22Z

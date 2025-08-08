@@ -1,32 +1,35 @@
 ---
 title: Live Framework
 description: Explores using Azure Services Platform to enable cloud-based configuration, real-time chat, and collaboration features in WPF applications, similar to Xbox Live.
+date: 2008-12-04
+lastmod: 2008-12-04
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Z0HJqKyl85C
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 156
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-12-04
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: live-framework
 aliases:
-- /resources/Z0HJqKyl85C
+  - /resources/Z0HJqKyl85C
 aliasesArchive:
-- /blog/live-framework
-- /live-framework
-- /resources/blog/live-framework
-tags: []
-preview: metro-cloud-azure-link-2-2.png
+  - /blog/live-framework
+  - /live-framework
+  - /resources/blog/live-framework
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:22:12Z
-concepts: []
+ResourceImportId: 156
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-cloud-azure-link-2-2.png
 
 ---
 I have been getting very interested in the new [Azure Services Platform](http://www.microsoft.com/azure/register.mspx) and how I can use it to facilitate WPF development.

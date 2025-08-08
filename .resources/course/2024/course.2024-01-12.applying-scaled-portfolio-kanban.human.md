@@ -2,30 +2,35 @@
 title: Applying Scaled Portfolio Kanban
 short_title: Applying Scaled Portfolio Kanban
 description: Learn to design and operate Portfolio Kanban boards, align work with strategy, manage dependencies, and improve transparency in large-scale portfolio management.
+tldr: This one-day intermediate course teaches development leaders how to design and operate a Portfolio Kanban board, align work with strategy, and manage dependencies for better forecasting and transparency. Participants will learn to use data for organization-wide improvements and can earn Scaled Portfolio Kanban certification. Consider this course to improve portfolio management and strategic alignment in your teams.
 date: 2024-01-12
-weight: 1000
+weight: 765
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: gUxi6u7gQcc
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: applying-scaled-portfolio-kanban
 aliases:
-- /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
-- /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
-- /resources/gUxi6u7gQcc
+  - /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
+  - /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
+  - /resources/gUxi6u7gQcc
 aliasesArchive:
-- /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
-- /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
+  - /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
+  - /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
 concepts:
-- Method
+  - Method
 categories:
-- Kanban
+  - Kanban
 tags:
-- Agile Frameworks
-- Operational Practices
-- Portfolio Management
-- Pragmatic Thinking
-- Transparency
+  - Agile Frameworks
+  - Operational Practices
+  - Portfolio Management
+  - Pragmatic Thinking
+  - Transparency
 card:
   button:
     content: ""
@@ -34,25 +39,26 @@ card:
 Watermarks:
   description: 2025-07-29T15:01:00Z
   short_title: 2025-07-29T15:01:00Z
+  tldr: 2025-08-08T11:37:26Z
 creator: Martin Hinshelwood
 type: course
 url: 
 course_topics:
-- Kanban Training Courses
+  - Kanban Training Courses
 course_vendors:
-- ProKanbanorg
+  - ProKanbanorg
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- Teams
-- Product Owners
-- Lean Agile Practitioners
+  - Teams
+  - Product Owners
+  - Lean Agile Practitioners
 preview: NKDAgility-Courses-SPK-16x9-1.jpg
 previewIcon: SPK@600.png
 brandColour: 
 code: ASPK
 course_proficiencies:
-- intermediate
+  - intermediate
 introduction: 
 overview: Professionals in leadership and project management roles, including Heads of Departments, Agile Coaches, Project Managers, Development Leaders, Product Owners, Scrum Masters, and Product Managers, seeking to enhance their organization's efficiency, effectiveness, and predictability through the application of Scaled Portfolio Kanban principles.
 outcomes: |2+

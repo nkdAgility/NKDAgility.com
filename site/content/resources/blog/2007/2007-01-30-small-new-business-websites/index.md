@@ -1,34 +1,37 @@
 ---
 title: Small / New business websites
 description: Guidance on building a small or new business website, covering SEO, DNS, blogs, accessibility, choosing designers and developers, hosting, and typical costs.
+date: 2007-01-30
+lastmod: 2007-01-30
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: w2k6P2xrp7B
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 441
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-01-30
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: small-new-business-websites
 aliases:
-- /resources/w2k6P2xrp7B
+  - /resources/w2k6P2xrp7B
 aliasesArchive:
-- /blog/small-new-business-websites
-- /small-new-business-websites
-- /small---new-business-websites
-- /blog/small---new-business-websites
-- /resources/blog/small-new-business-websites
-tags: []
+  - /blog/small-new-business-websites
+  - /small-new-business-websites
+  - /small---new-business-websites
+  - /blog/small---new-business-websites
+  - /resources/blog/small-new-business-websites
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:29:26Z
-concepts: []
+ResourceImportId: 441
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 There are a number of challenges to overcome when developing a new business. One of the hardest to get right is your web presence. I have been involved with [Scottish Enterprise](http://www.scottish-enterprise.com/) before and recently got a question from my sister-in-law who has a new job over at [Islington Enterprise](http://www.islingtonenterprise.co.uk/), and questions are always asked about Websites, SEO, DNS, Blogs, Accessibility and other things that most Internet users just do not understand. The may appreciate the results, but they do not understand the complexities of producing it. I will answer a few questions here for all to see...

@@ -1,35 +1,38 @@
 ---
 title: Windows 7 Beta is Live!
 description: Windows 7 Beta is now available for download, offering early access to the next version of Windows with improved stability and limited licences for public testing.
+date: 2009-01-08
+lastmod: 2009-01-08
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: KpwfCU1oWjz
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 149
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-01-08
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: windows-7-beta-is-live
 aliases:
-- /resources/KpwfCU1oWjz
+  - /resources/KpwfCU1oWjz
 aliasesArchive:
-- /blog/windows-7-beta-is-live
-- /windows-7-beta-is-live
-- /windows-7-beta-is-live-
-- /blog/windows-7-beta-is-live-
-- /resources/blog/windows-7-beta-is-live
-tags:
-- Windows
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/windows-7-beta-is-live
+  - /windows-7-beta-is-live
+  - /windows-7-beta-is-live-
+  - /blog/windows-7-beta-is-live-
+  - /resources/blog/windows-7-beta-is-live
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Windows
 Watermarks:
   description: 2025-05-13T16:22:00Z
-concepts: []
+ResourceImportId: 149
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 If you have an [MSDN](https://msdn.microsoft.com) account you will be able to download [Windows 7](http://www.microsoft.com/windows/windows-7/default.aspx) Beta today, but it should be available for anyone by the end of next week.

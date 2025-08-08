@@ -1,34 +1,37 @@
 ---
 title: Web 2.0
 description: Explains the concept of Web 2.0, highlighting its ethos, evolution from earlier web technologies, and why it has become a common term in tech discussions.
+date: 2006-09-08
+lastmod: 2006-09-08
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: phKPK_P0xjA
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 463
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2006-09-08
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: web-2-0
 aliases:
-- /resources/blog/web-2.0
-- /resources/phKPK_P0xjA
+  - /resources/blog/web-2.0
+  - /resources/phKPK_P0xjA
 aliasesArchive:
-- /blog/web-2-0
-- /web-2-0
-- /resources/blog/web-2-0
-- /resources/blog/web-2.0
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/web-2-0
+  - /web-2-0
+  - /resources/blog/web-2-0
+  - /resources/blog/web-2.0
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:29:58Z
-concepts: []
+ResourceImportId: 463
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Over the last wee while I have been seeing a lot of talk of “Web 2.0” and I wondered what the hell it was! Was it .NET related? No. (Well kind of) So I set out on the onerous task of finding out. So I Googled it, and low and behold, the first result!

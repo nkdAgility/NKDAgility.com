@@ -1,32 +1,35 @@
 ---
 title: Interviewing for Microsoft
 description: A personal account of interviewing for a Microsoft Application Developer Consultant role, detailing the process, technical requirements, and lessons learned from the experience.
+date: 2007-09-12
+lastmod: 2007-09-12
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ldGtzdVxYwE
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 315
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-09-12
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: interviewing-for-microsoft
 aliases:
-- /resources/ldGtzdVxYwE
+  - /resources/ldGtzdVxYwE
 aliasesArchive:
-- /blog/interviewing-for-microsoft
-- /interviewing-for-microsoft
-- /resources/blog/interviewing-for-microsoft
-tags: []
+  - /blog/interviewing-for-microsoft
+  - /interviewing-for-microsoft
+  - /resources/blog/interviewing-for-microsoft
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:11Z
-concepts: []
+ResourceImportId: 315
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I was not sure wither I was going to post this, but I am pretty crazy anyway, so...what the hell.

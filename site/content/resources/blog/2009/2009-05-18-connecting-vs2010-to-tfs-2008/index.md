@@ -1,32 +1,35 @@
 ---
 title: Connecting VS2010 to TFS 2008
 description: Learn how to connect Visual Studio 2010 to Team Foundation Server 2008, view legacy project collections, and access projects without installing Team Explorer separately.
+date: 2009-05-18
+lastmod: 2009-05-18
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: LrLP9ghLVoC
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 118
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-05-18
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: connecting-vs2010-to-tfs-2008
 aliases:
-- /resources/LrLP9ghLVoC
+  - /resources/LrLP9ghLVoC
 aliasesArchive:
-- /blog/connecting-vs2010-to-tfs-2008
-- /connecting-vs2010-to-tfs-2008
-- /resources/blog/connecting-vs2010-to-tfs-2008
-tags: []
-preview: metro-visual-studio-2010-128-link-5-5.png
+  - /blog/connecting-vs2010-to-tfs-2008
+  - /connecting-vs2010-to-tfs-2008
+  - /resources/blog/connecting-vs2010-to-tfs-2008
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:23:51Z
-concepts: []
+ResourceImportId: 118
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-5-5.png
 
 ---
 ![VS-TS_rgb_thumb[2][5][5][5]](images/ConnectingVS2010toTFS2008_EA90-VSTS_rgb_thumb2555-4-4.png)Connecting Visual Studio 2010 to Team Foundation Server 2008 is a snitch… If you have done it from VS200x to TFS200x then you will have no problems understanding what is going on…

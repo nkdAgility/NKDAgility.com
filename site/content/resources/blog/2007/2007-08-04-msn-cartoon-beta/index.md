@@ -1,35 +1,37 @@
 ---
 title: MSN Cartoon (Beta)
 description: Step-by-step guide to using MSN Cartoon Beta, a Microsoft tool for creating custom cartoon avatars from photos, including installation, editing, and saving options.
+date: 2007-08-04
+lastmod: 2007-08-04
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: fFkCnlj8PXW
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 347
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-04
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: msn-cartoon-beta
 aliases:
-- /resources/blog/msn-cartoon-beta
-- /resources/fFkCnlj8PXW
+  - /resources/fFkCnlj8PXW
 aliasesArchive:
-- /blog/msn-cartoon-beta
-- /msn-cartoon-beta
-- /msn-cartoon-(beta)
-- /blog/msn-cartoon-(beta)
-- /resources/blog/msn-cartoon-beta
-tags: []
+  - /blog/msn-cartoon-beta
+  - /msn-cartoon-beta
+  - /msn-cartoon-(beta)
+  - /blog/msn-cartoon-(beta)
+  - /resources/blog/msn-cartoon-beta
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-25-25.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:01Z
-concepts: []
+ResourceImportId: 347
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-25-25.png
 
 ---
 I just got a comment from Reto Winter to let me know about a [post](http://www.liveside.net/blogs/main/archive/2007/08/03/creating-custom-avatars-a-microsoft-tool-and-others.aspx "Creating custom avatars") regarding a new [Microsoft Avatar service](http://cartoon.msn.com.cn/) on MSN China, so as I am sitting here writing some posts anyway, I will have a look. It is in the same vain as the [Southparkify](http://blog.hinshelwood.com/archive/2007/07/31/Southparkify--Simposonize--better-with-both.aspx) and [Simpsonize me](http://blog.hinshelwood.com/archive/2007/07/30/Simpsonize-Me.aspx) options that I have blogged before.

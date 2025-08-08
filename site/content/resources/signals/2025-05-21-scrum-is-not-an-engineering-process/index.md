@@ -35,7 +35,6 @@ tags:
   - Pragmatic Thinking
   - Agile Leadership
   - Sociotechnical Systems
-  - Self Organisation
   - Professional Scrum
 platform_signals:
   - platform: LinkedIn

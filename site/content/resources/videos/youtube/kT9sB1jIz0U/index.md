@@ -33,6 +33,7 @@ categories:
   - Uncategorized
 tags:
   - Competence
+  - Continuous Learning
 Watermarks:
   description: 2025-05-07T13:12:45Z
   short_title: 2025-07-07T17:55:30Z

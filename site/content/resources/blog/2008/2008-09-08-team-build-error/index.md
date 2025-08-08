@@ -1,33 +1,36 @@
 ---
 title: Team Build Error
 description: Explains troubleshooting a confusing MS Build error in a mixed Visual Studio 2005/2008 environment, resolved by updating GDR and Business Intelligence components.
+date: 2008-09-08
+lastmod: 2008-09-08
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: hLCFRDIvAXj
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 197
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-09-08
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: team-build-error
 aliases:
-- /resources/hLCFRDIvAXj
+  - /resources/hLCFRDIvAXj
 aliasesArchive:
-- /blog/team-build-error
-- /team-build-error
-- /resources/blog/team-build-error
-tags:
-- Troubleshooting
-preview: metro-visual-studio-2005-128-link-3-1.png
+  - /blog/team-build-error
+  - /team-build-error
+  - /resources/blog/team-build-error
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:23:19Z
-concepts: []
+ResourceImportId: 197
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-3-1.png
 
 ---
 I received a confusing error from MS Build on Friday. I assumed that it was a GDR version issue for the top level message:

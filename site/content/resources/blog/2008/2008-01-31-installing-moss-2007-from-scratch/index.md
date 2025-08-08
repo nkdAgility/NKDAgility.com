@@ -1,35 +1,38 @@
 ---
 title: Installing MOSS 2007 from scratch
 description: Step-by-step guide to installing Microsoft Office SharePoint Server 2007 from a clean environment, including prerequisites, SQL setup, service packs, and configuration tips.
+date: 2008-01-31
+lastmod: 2008-01-31
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: JkKTE2p0wpo
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 253
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-01-31
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-moss-2007-from-scratch
 aliases:
-- /resources/JkKTE2p0wpo
+  - /resources/JkKTE2p0wpo
 aliasesArchive:
-- /blog/installing-moss-2007-from-scratch
-- /installing-moss-2007-from-scratch
-- /resources/blog/installing-moss-2007-from-scratch
-tags:
-- Install and Configuration
-- System Configuration
-- Windows
+  - /blog/installing-moss-2007-from-scratch
+  - /installing-moss-2007-from-scratch
+  - /resources/blog/installing-moss-2007-from-scratch
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-7-7.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
+  - Windows
 Watermarks:
   description: 2025-05-13T16:24:45Z
-concepts: []
+ResourceImportId: 253
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-7-7.png
 
 ---
 I am having occasion to rebuild my Microsoft Office SharePoint Server (MOSS) development server. In fact, I killed it by adding a Business Data Catalog (BDC) that pointed to a table that had just over a million rows... Now, maybe this would not have caused a problem if I was not using a single server deployment with SQL server on the same box...

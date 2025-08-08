@@ -32,7 +32,8 @@ layout: video
 concepts: []
 categories:
   - Leadership
-tags: []
+tags:
+  - Personal
 Watermarks:
   description: 2025-05-07T13:08:15Z
   short_title: 2025-07-07T17:52:02Z

@@ -1,36 +1,39 @@
 ---
 title: Hold on lads, I have an idea!
 description: Proposal for an interface to view and edit company hierarchy data, enabling staff management, reorganisation, and integration with HR, Active Directory, and SharePoint systems.
+date: 2007-11-20
+lastmod: 2007-11-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: foVNVdAmeyw
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 289
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-11-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: hold-on-lads-i-have-an-idea
 aliases:
-- /resources/foVNVdAmeyw
+  - /resources/foVNVdAmeyw
 aliasesArchive:
-- /blog/hold-on-lads-i-have-an-idea
-- /hold-on-lads-i-have-an-idea
-- /hold-on-lads,-i-have-an-idea-
-- /blog/hold-on-lads,-i-have-an-idea-
-- /hold-on-lads--i-have-an-idea-
-- /blog/hold-on-lads--i-have-an-idea-
-- /resources/blog/hold-on-lads-i-have-an-idea
-tags: []
+  - /blog/hold-on-lads-i-have-an-idea
+  - /hold-on-lads-i-have-an-idea
+  - /hold-on-lads,-i-have-an-idea-
+  - /blog/hold-on-lads,-i-have-an-idea-
+  - /hold-on-lads--i-have-an-idea-
+  - /blog/hold-on-lads--i-have-an-idea-
+  - /resources/blog/hold-on-lads-i-have-an-idea
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-3-3.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:38Z
-concepts: []
+ResourceImportId: 289
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-3-3.png
 
 ---
 ![lightbulb](images/lightbulb-2-2.gif) Something occured to me after seeing the [Family Show](http://www.vertigo.com/familyshow.aspx) application from [Vertigo](http://www.vertigo.com). If you have not seen this application it is definitely worth a look. What I want to achieve would be to display and allow the edit of company Higherarchical data through a similar interface to the one presented in Family Show.

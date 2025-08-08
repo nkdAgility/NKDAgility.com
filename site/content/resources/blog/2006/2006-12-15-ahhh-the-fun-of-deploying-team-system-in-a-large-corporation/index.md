@@ -1,36 +1,39 @@
 ---
 title: Ahhh, the fun of deploying Team System in a large corporation
 description: Guidance on deploying Team Foundation Server in large organisations, including database setup workarounds and links to official TFS administration resources.
+date: 2006-12-15
+lastmod: 2006-12-15
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: w548lro11wJ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 447
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2006-12-15
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
 aliases:
-- /resources/w548lro11wJ
+  - /resources/w548lro11wJ
 aliasesArchive:
-- /blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
-- /ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
-- /ahhh,-the-fun-of-deploying-team-system-in-a-large-corporation
-- /blog/ahhh,-the-fun-of-deploying-team-system-in-a-large-corporation
-- /ahhh--the-fun-of-deploying-team-system-in-a-large-corporation
-- /blog/ahhh--the-fun-of-deploying-team-system-in-a-large-corporation
-- /resources/blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
+  - /ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
+  - /ahhh,-the-fun-of-deploying-team-system-in-a-large-corporation
+  - /blog/ahhh,-the-fun-of-deploying-team-system-in-a-large-corporation
+  - /ahhh--the-fun-of-deploying-team-system-in-a-large-corporation
+  - /blog/ahhh--the-fun-of-deploying-team-system-in-a-large-corporation
+  - /resources/blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:48Z
-concepts: []
+ResourceImportId: 447
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I can see that this project is going to be fun. I need to deploy team system within the investment bank that I work for. The DBA's will not let me access their servers! And the TFS installation needs to be run on them.

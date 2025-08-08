@@ -1,34 +1,37 @@
 ---
 title: 'Presenting Aplication Lifecycle Management: Precursor'
 description: An introduction to Application Lifecycle Management (ALM), sharing first-time presentation experiences, preparation tips, and insights on related tools like Visual Studio Team System.
+date: 2008-09-10
+lastmod: 2008-09-10
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 896VMaXqzu_
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 194
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-09-10
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: presenting-aplication-lifecycle-management-precursor
 aliases:
-- /resources/896VMaXqzu_
+  - /resources/896VMaXqzu_
 aliasesArchive:
-- /blog/presenting-aplication-lifecycle-management-precursor
-- /presenting-aplication-lifecycle-management-precursor
-- /presenting-aplication-lifecycle-management--precursor
-- /blog/presenting-aplication-lifecycle-management--precursor
-- /resources/blog/presenting-aplication-lifecycle-management-precursor
-tags: []
-preview: metro-aggreko-128-link-1-1.png
+  - /blog/presenting-aplication-lifecycle-management-precursor
+  - /presenting-aplication-lifecycle-management-precursor
+  - /presenting-aplication-lifecycle-management--precursor
+  - /blog/presenting-aplication-lifecycle-management--precursor
+  - /resources/blog/presenting-aplication-lifecycle-management-precursor
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:23:16Z
-concepts: []
+ResourceImportId: 194
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-aggreko-128-link-1-1.png
 
 ---
 I am doing a presentation this afternoon on Application Lifecycle Management (ALM). This is the first time that I have ever presented on this topic, and I found out that I was doing it on Friday!

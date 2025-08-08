@@ -2,38 +2,44 @@
 title: Continuous Delivery Using Azure DevOps Services Training
 short_title: Continuous Delivery with Azure DevOps
 description: Learn DevOps principles and hands-on CI/CD using Azure DevOps Services, Visual Studio, and Azure to improve team collaboration, delivery, and continuous learning.
+tldr: This two-day intermediate course teaches experienced developers how to implement DevOps practices and continuous delivery using Azure DevOps Services and Visual Studio. Participants will learn to improve workflow, scale planning and execution, and enable continuous integration and delivery through hands-on team exercises. Development managers can expect their teams to collaborate more effectively and deliver software faster by applying these skills.
 date: 2018-11-28
 weight: 350
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: Et_C1UNbGdO
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: continuous-delivery-using-azure-devops-services-training
 aliases:
-- /resources/Et_C1UNbGdO
+  - /resources/Et_C1UNbGdO
 aliasesArchive:
-- /training-courses/continuous-delivery-using-azure-devops-services
-- /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
-- /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
+  - /training-courses/continuous-delivery-using-azure-devops-services
+  - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
+  - /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
 concepts:
-- Tool
+  - Tool
 categories:
-- Engineering Excellence
-- Product Development
+  - DevOps
+  - Engineering Excellence
+  - Product Development
 tags:
-- Azure DevOps
-- Continuous Learning
-- Engineering Practices
-- Frequent Releases
-- Market Adaptability
-- Operational Practices
-- Product Delivery
-- Software Development
-- Team Collaboration
-- Technical Excellence
-- Technical Mastery
-- Value Delivery
-- Working Software
+  - Azure DevOps
+  - Continuous Learning
+  - Engineering Practices
+  - Frequent Releases
+  - Market Adaptability
+  - Operational Practices
+  - Product Delivery
+  - Software Development
+  - Team Collaboration
+  - Technical Excellence
+  - Technical Mastery
+  - Value Delivery
+  - Working Software
 card:
   button:
     content: ""
@@ -42,23 +48,24 @@ card:
 Watermarks:
   description: 2025-07-29T15:01:47Z
   short_title: 2025-07-29T15:01:48Z
+  tldr: 2025-08-08T11:40:24Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 course_topics:
-- Azure DevOps Training Courses
+  - Azure DevOps Training Courses
 course_vendors:
-- Accentient
+  - Accentient
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- Developers
+  - Developers
 preview: pipelines-icon-80.png
 previewIcon: A-CDADS.png
 brandColour: 
 code: cdads
 course_proficiencies:
-- intermediate
+  - intermediate
 introduction: 
 overview: This course is intended for experienced software development professionals who want to learn about DevOps in order to achieve Continuous Integration, Continuous Delivery, Continuous Feedback, and Continuous Learning in a technical value stream as supported by Azure DevOps Services, Visual Studio, and Azure in order to continually deliver working software at scale. Students will also install and evaluate several extensions from the Azure DevOps Marketplace. Those who use the on-premises version of Azure DevOps Server (Team Foundation Server/TFS) will also benefit from this course. Attendees should be familiar with Visual Studio, Scrum, and have basic experience with Azure DevOps Services, Visual Studio Team Services or Team Foundation Server.
 outcomes: |2+

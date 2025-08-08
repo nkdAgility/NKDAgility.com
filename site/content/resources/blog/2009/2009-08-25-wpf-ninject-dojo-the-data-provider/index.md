@@ -1,36 +1,39 @@
 ---
 title: 'Wpf Ninject Dojo: The Data Provider'
 description: Explains how to use a custom NinjectDataProvider in WPF to enable dependency injection for ViewModels, improving flexibility and design-time support in MVVM projects.
+date: 2009-08-25
+lastmod: 2009-08-25
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: fiHZn7VEOpq
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 88
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-08-25
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: wpf-ninject-dojo-the-data-provider
 aliases:
-- /resources/fiHZn7VEOpq
+  - /resources/fiHZn7VEOpq
 aliasesArchive:
-- /blog/wpf-ninject-dojo-the-data-provider
-- /wpf-ninject-dojo-the-data-provider
-- /wpf-ninject-dojo--the-data-provider
-- /blog/wpf-ninject-dojo--the-data-provider
-- /resources/blog/wpf-ninject-dojo-the-data-provider
-tags:
-- Software Development
-- Technical Mastery
+  - /blog/wpf-ninject-dojo-the-data-provider
+  - /wpf-ninject-dojo-the-data-provider
+  - /wpf-ninject-dojo--the-data-provider
+  - /blog/wpf-ninject-dojo--the-data-provider
+  - /resources/blog/wpf-ninject-dojo-the-data-provider
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:23:11Z
-concepts: []
+ResourceImportId: 88
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 You have probably heard me go on about Unity a couple of times:

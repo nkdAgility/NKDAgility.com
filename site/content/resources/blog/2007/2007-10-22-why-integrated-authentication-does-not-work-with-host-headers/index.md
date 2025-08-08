@@ -1,35 +1,38 @@
 ---
 title: Why Integrated Authentication does not work with host headers!
 description: Explains why Integrated Authentication fails with custom host headers on IIS, causing 401.1 errors, due to Windows loopback security checks and how to resolve it.
+date: 2007-10-22
+lastmod: 2007-10-22
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: WqcZtyTF5t3
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 296
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-10-22
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: why-integrated-authentication-does-not-work-with-host-headers
 aliases:
-- /resources/WqcZtyTF5t3
+  - /resources/WqcZtyTF5t3
 aliasesArchive:
-- /blog/why-integrated-authentication-does-not-work-with-host-headers
-- /why-integrated-authentication-does-not-work-with-host-headers
-- /why-integrated-authentication-does-not-work-with-host-headers-
-- /blog/why-integrated-authentication-does-not-work-with-host-headers-
-- /resources/blog/why-integrated-authentication-does-not-work-with-host-headers
-tags:
-- Windows
-- Troubleshooting
+  - /blog/why-integrated-authentication-does-not-work-with-host-headers
+  - /why-integrated-authentication-does-not-work-with-host-headers
+  - /why-integrated-authentication-does-not-work-with-host-headers-
+  - /blog/why-integrated-authentication-does-not-work-with-host-headers-
+  - /resources/blog/why-integrated-authentication-does-not-work-with-host-headers
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Windows
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:25:46Z
-concepts: []
+ResourceImportId: 296
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 **You receive error 401.1 when you browse a [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Web site that uses Integrated Authentication and is hosted on IIS 5.1 or IIS 6**

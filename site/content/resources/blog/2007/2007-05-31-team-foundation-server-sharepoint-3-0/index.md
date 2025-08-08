@@ -1,36 +1,39 @@
 ---
 title: Team Foundation Server & SharePoint 3.0
 description: Guidance on configuring Team Foundation Server to create project sites under a SharePoint 3.0 subsite, enabling a central intranet portal with project dashboards.
+date: 2007-05-31
+lastmod: 2007-05-31
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: vIsHKPxOtz-
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 391
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-05-31
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: team-foundation-server-sharepoint-3-0
 aliases:
-- /resources/blog/team-foundation-server-sharepoint-3.0
-- /resources/vIsHKPxOtz-
+  - /resources/blog/team-foundation-server-sharepoint-3.0
+  - /resources/vIsHKPxOtz-
 aliasesArchive:
-- /blog/team-foundation-server-sharepoint-3-0
-- /team-foundation-server-sharepoint-3-0
-- /team-foundation-server-&-sharepoint-3-0
-- /blog/team-foundation-server-&-sharepoint-3-0
-- /resources/blog/team-foundation-server-sharepoint-3-0
-- /resources/blog/team-foundation-server-sharepoint-3.0
-tags: []
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/team-foundation-server-sharepoint-3-0
+  - /team-foundation-server-sharepoint-3-0
+  - /team-foundation-server-&-sharepoint-3-0
+  - /blog/team-foundation-server-&-sharepoint-3-0
+  - /resources/blog/team-foundation-server-sharepoint-3-0
+  - /resources/blog/team-foundation-server-sharepoint-3.0
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:11Z
-concepts: []
+ResourceImportId: 391
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 I have managed to install SharePoint 3.0 on my dev Team server box in side by side mode by using  [Brian Keller's](http://blogs.msdn.com/briankel/default.aspx "Brian Keller: Technical Evangelist for Team System") blog on "[Configuring Visual Studio 2005 Team Foundation Server with Windows SharePoint Services 3.0](http://blogs.msdn.com/briankel/archive/2007/04/14/Configuring-Visual-Studio-2005-Team-Foundation-Server-with-Windows-SharePoint-Services-3.0.aspx "Team Foundation Server with Windows SharePoint Services 3.0")".

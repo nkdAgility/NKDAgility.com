@@ -1,33 +1,36 @@
 ---
 title: Reformat your CSS on the fly
 description: Learn how to use a .NET HTTP handler to dynamically adjust CSS file paths, ensuring images and resources load correctly across different web application locations.
+date: 2009-01-27
+lastmod: 2009-01-27
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: elcSY_VSAVs
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 142
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-01-27
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: reformat-your-css-on-the-fly
 aliases:
-- /resources/elcSY_VSAVs
+  - /resources/elcSY_VSAVs
 aliasesArchive:
-- /blog/reformat-your-css-on-the-fly
-- /reformat-your-css-on-the-fly
-- /resources/blog/reformat-your-css-on-the-fly
-tags:
-- Software Development
+  - /blog/reformat-your-css-on-the-fly
+  - /reformat-your-css-on-the-fly
+  - /resources/blog/reformat-your-css-on-the-fly
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-2-1.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T16:21:50Z
-concepts: []
+ResourceImportId: 142
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-2-1.png
 
 ---
 Have you ever, when developing a website, been frustrated when you get a different result when you deploy your application to [http://site/](http://site/) and [http://site/app/](http://site/app/).

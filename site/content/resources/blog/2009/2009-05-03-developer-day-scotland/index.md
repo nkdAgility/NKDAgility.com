@@ -1,34 +1,37 @@
 ---
 title: Developer Day Scotland
 description: Summary of sessions from a Glasgow developer event, covering refactoring, dynamic languages in .NET, MVVM for WPF, architecture, and ASP.NET 4.0 insights.
+date: 2009-05-03
+lastmod: 2009-05-03
+weight: 610
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: qtc58tBJRtL
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 125
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-05-03
-weight: 610
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: developer-day-scotland
 aliases:
-- /resources/qtc58tBJRtL
+  - /resources/qtc58tBJRtL
 aliasesArchive:
-- /blog/developer-day-scotland
-- /developer-day-scotland
-- /resources/blog/developer-day-scotland
-tags:
-- Software Development
-- Technical Mastery
+  - /blog/developer-day-scotland
+  - /developer-day-scotland
+  - /resources/blog/developer-day-scotland
+layout: blog
+concepts: []
 categories:
-- Engineering Excellence
-preview: metro-event-128-link-1-1.png
+  - Engineering Excellence
+tags:
+  - Software Development
+  - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:24:11Z
-concepts: []
+ResourceImportId: 125
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-event-128-link-1-1.png
 
 ---
 The [Developer Developer Developer](http://developerdayscotland.com) event held at [Glasgow Caledonian University](http://www.gcal.ac.uk/) (my University) yesterday was excellent. Kudos to [Colin Angus Mackay](http://blog.colinmackay.net/) and the other organisers for all of the effort they have put in once again.

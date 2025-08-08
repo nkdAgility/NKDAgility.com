@@ -46,6 +46,7 @@ tags:
   - Agile Transformation
   - Agile Values and Principles
   - Pragmatic Thinking
+  - Personal
 Watermarks:
   description: 2025-05-07T13:02:43Z
   short_title: 2025-07-07T17:49:05Z

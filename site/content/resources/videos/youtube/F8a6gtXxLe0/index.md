@@ -5,10 +5,10 @@ description: Explores how learning Scrum and process improvement can shift devel
 tldr: Understanding and embracing Scrum processes can transform developer mindsets, leading to better collaboration, higher quality product delivery, and more empowered teams. Taking time to learn and refine processes is essential for sustainable success, not just individual productivity. Development managers should encourage their teams to invest in process improvement to drive long-term value and team growth.
 date: 2017-07-27T19:14:11Z
 lastmod: 2017-07-27T19:14:11Z
-weight: 670
+weight: 330
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: monthly
 ResourceId: F8a6gtXxLe0
 ResourceImport: true

@@ -5,10 +5,10 @@ description: Get updates on new trainers, expanded Scrum training classes, commu
 tldr: Naked Agility is expanding its team of expert trainers and has added new training options and community features to support Scrum and Agile development. The Lean-Agile Practitioners Community now has over 1300 members, and updated courses focus on facilitation skills and collaborative case studies. Development managers can explore upcoming classes or request private training to upskill their teams.
 date: 2022-12-21
 lastmod: 2022-12-21
-weight: 885
+weight: 680
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: weekly
 author: MrHinsh
 ResourceId: Tx-0zZJ1biI

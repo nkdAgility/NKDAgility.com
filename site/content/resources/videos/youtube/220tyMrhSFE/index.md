@@ -35,6 +35,7 @@ categories:
   - Product Development
 tags:
   - Operational Practices
+  - Personal
   - Pragmatic Thinking
   - Definition of Workflow
 Watermarks:

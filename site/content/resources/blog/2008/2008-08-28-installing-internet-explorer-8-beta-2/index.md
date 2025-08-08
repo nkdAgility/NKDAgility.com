@@ -1,33 +1,36 @@
 ---
 title: Installing Internet Explorer 8 Beta 2
 description: Provides download links, installation guidance, and updates for Internet Explorer 8 Beta 2 on various Windows versions, plus resources for IT professionals and businesses.
+date: 2008-08-28
+lastmod: 2008-08-28
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: JYf3i9TAak5
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 204
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-08-28
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-internet-explorer-8-beta-2
 aliases:
-- /resources/JYf3i9TAak5
+  - /resources/JYf3i9TAak5
 aliasesArchive:
-- /blog/installing-internet-explorer-8-beta-2
-- /installing-internet-explorer-8-beta-2
-- /resources/blog/installing-internet-explorer-8-beta-2
-tags:
-- Windows
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/installing-internet-explorer-8-beta-2
+  - /installing-internet-explorer-8-beta-2
+  - /resources/blog/installing-internet-explorer-8-beta-2
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Windows
 Watermarks:
   description: 2025-05-13T16:23:30Z
-concepts: []
+ResourceImportId: 204
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 After I got my computer rebuilt (due to [Problems with Team Explorer after installed Visual Studio 2008 SP1 RTM](http://blog.hinshelwood.com/archive/2008/08/12/problems-with-team-explorer-after-installed-visual-studio-2008-sp1.aspx)) I did not reinstall IE8 Beta 1 as I knew that Beta 2 was soon to be available.

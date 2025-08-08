@@ -1,36 +1,39 @@
 ---
 title: It's nice to be appreciated!
 description: Describes joining Community Credit, earning recognition and prizes for tech contributions, and becoming a moderator after engaging with the site's community and founder.
+date: 2007-11-29
+lastmod: 2007-11-29
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Kmtwkw7RD0K
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 283
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-11-29
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: its-nice-to-be-appreciated
+slug: it-s-nice-to-be-appreciated
 aliases:
-- /resources/blog/it-s-nice-to-be-appreciated
-- /resources/Kmtwkw7RD0K
+  - /resources/blog/it-s-nice-to-be-appreciated
+  - /resources/Kmtwkw7RD0K
 aliasesArchive:
-- /blog/its-nice-to-be-appreciated
-- /its-nice-to-be-appreciated
-- /it's-nice-to-be-appreciated-
-- /blog/it's-nice-to-be-appreciated-
-- /resources/blog/its-nice-to-be-appreciated
-- /resources/blog/it-s-nice-to-be-appreciated
-tags: []
+  - /blog/its-nice-to-be-appreciated
+  - /its-nice-to-be-appreciated
+  - /it's-nice-to-be-appreciated-
+  - /blog/it's-nice-to-be-appreciated-
+  - /resources/blog/its-nice-to-be-appreciated
+  - /resources/blog/it-s-nice-to-be-appreciated
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:27Z
-concepts: []
+ResourceImportId: 283
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 A few months ago I found a cool site called [Community Credit](http://www.community-credit.com). I did not understand the premise at first, but after seeing the prizes page, I thought, what the heak! Community Credit is the brain child of one David Silverlight, and yes, it is quite possible that "Silverlight" was named after him :). What is this wondrous site you may ask...Well, its part bragging, part recognition, and part prizes :)

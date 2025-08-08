@@ -1,36 +1,39 @@
 ---
 title: I always like a good Serenity plug...
 description: Find out which Serenity character you resemble most with quiz results, including detailed character match percentages and a brief personality summary.
+date: 2008-01-07
+lastmod: 2008-01-07
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 5Grofbh67Vs
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 270
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-01-07
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: i-always-like-a-good-serenity-plug
 aliases:
-- /resources/blog/i-always-like-a-good-serenity-plug...
-- /resources/5Grofbh67Vs
+  - /resources/blog/i-always-like-a-good-serenity-plug...
+  - /resources/5Grofbh67Vs
 aliasesArchive:
-- /blog/i-always-like-a-good-serenity-plug
-- /i-always-like-a-good-serenity-plug---
-- /blog/i-always-like-a-good-serenity-plug---
-- /i-always-like-a-good-serenity-plug
-- /resources/blog/i-always-like-a-good-serenity-plug
-- /resources/blog/i-always-like-a-good-serenity-plug...
+  - /blog/i-always-like-a-good-serenity-plug
+  - /i-always-like-a-good-serenity-plug---
+  - /blog/i-always-like-a-good-serenity-plug---
+  - /i-always-like-a-good-serenity-plug
+  - /resources/blog/i-always-like-a-good-serenity-plug
+  - /resources/blog/i-always-like-a-good-serenity-plug...
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:03Z
-concepts: []
+ResourceImportId: 270
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Your results:  

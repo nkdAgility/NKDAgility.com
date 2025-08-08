@@ -1,34 +1,37 @@
 ---
 title: TFS Stick Buddy v0.4.0 CTP2 released
 description: TFS Stick Buddy v0.4.0 CTP2 lets you customise and display TFS work items by query, with colour-coded states and support for Visual Studio and TFS Web Access.
+date: 2008-04-17
+lastmod: 2008-04-17
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: G2LTuEadTg9
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 238
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-04-17
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-stick-buddy-v0-4-0-ctp2-released
 aliases:
-- /resources/blog/tfs-stick-buddy-v0.4.0-ctp2-released
-- /resources/G2LTuEadTg9
+  - /resources/blog/tfs-stick-buddy-v0.4.0-ctp2-released
+  - /resources/G2LTuEadTg9
 aliasesArchive:
-- /blog/tfs-stick-buddy-v0-4-0-ctp2-released
-- /tfs-stick-buddy-v0-4-0-ctp2-released
-- /resources/blog/tfs-stick-buddy-v0-4-0-ctp2-released
-- /resources/blog/tfs-stick-buddy-v0.4.0-ctp2-released
-tags: []
+  - /blog/tfs-stick-buddy-v0-4-0-ctp2-released
+  - /tfs-stick-buddy-v0-4-0-ctp2-released
+  - /resources/blog/tfs-stick-buddy-v0-4-0-ctp2-released
+  - /resources/blog/tfs-stick-buddy-v0.4.0-ctp2-released
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:20Z
-concepts: []
+ResourceImportId: 238
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 All to soon and it is that time again...I have been developing, hell bent on getting a [working sticky buddy](http://www.codeplex.com/TFSStickyBuddy) online, and here it is...

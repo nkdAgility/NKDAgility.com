@@ -30,6 +30,7 @@ tags:
   - Pragmatic Thinking
   - Team Performance
   - Software Development
+  - Transparency
   - Azure Boards
 platform_signals:
   - platform: LinkedIn

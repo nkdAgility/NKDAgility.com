@@ -1,32 +1,35 @@
 ---
 title: List all files changed under an Iteration
 description: Shows how to use TFS API calls to list all files changed in a specific iteration, including querying work items and extracting changesets to a text file.
+date: 2009-07-22
+lastmod: 2009-07-22
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: M07b_KU6l8f
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 99
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-07-22
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: list-all-files-changed-under-an-iteration
 aliases:
-- /resources/M07b_KU6l8f
+  - /resources/M07b_KU6l8f
 aliasesArchive:
-- /blog/list-all-files-changed-under-an-iteration
-- /list-all-files-changed-under-an-iteration
-- /resources/blog/list-all-files-changed-under-an-iteration
-tags: []
+  - /blog/list-all-files-changed-under-an-iteration
+  - /list-all-files-changed-under-an-iteration
+  - /resources/blog/list-all-files-changed-under-an-iteration
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:23:28Z
-concepts: []
+ResourceImportId: 99
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 I was asked by a colleague to provide a list of all files that were changed under a particular iteration. Rather than delving into the data, I made a couple of API calls to TFS to output a text file with the list.

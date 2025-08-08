@@ -1,32 +1,35 @@
 ---
 title: TFS Event Handler Prototype Feedback
 description: Request for user feedback on the TFS Event Handler tool, focusing on installation, configuration, functionality, and interest in future versions for Team Foundation Server.
+date: 2007-07-16
+lastmod: 2007-07-16
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: J5YgyYAO9sM
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 369
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-16
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-event-handler-prototype-feedback
 aliases:
-- /resources/J5YgyYAO9sM
+  - /resources/J5YgyYAO9sM
 aliasesArchive:
-- /blog/tfs-event-handler-prototype-feedback
-- /tfs-event-handler-prototype-feedback
-- /resources/blog/tfs-event-handler-prototype-feedback
-tags: []
+  - /blog/tfs-event-handler-prototype-feedback
+  - /tfs-event-handler-prototype-feedback
+  - /resources/blog/tfs-event-handler-prototype-feedback
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-merilllynch-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:39Z
-concepts: []
+ResourceImportId: 369
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-merilllynch-128-link-1-1.png
 
 ---
 I would be interested in finding out if anyone is using the [TFS Event Handler](http://www.codeplex.com/TFSEventHandler) I created on [CodePlex](http://www.codeplex.com "CodePlex"). The main reason for this is to solicit feedback for the process and integration capabilities.

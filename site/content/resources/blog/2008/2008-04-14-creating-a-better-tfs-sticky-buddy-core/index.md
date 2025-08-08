@@ -1,35 +1,37 @@
 ---
 title: Creating a better TFS Sticky Buddy (Core)
 description: Explains building a flexible WPF data model in VB.NET for visualising hierarchical relationships using generics, ObservableCollections, and INotifyPropertyChanged.
+date: 2008-04-14
+lastmod: 2008-04-14
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: NNnyeihSpHg
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 241
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-04-14
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: creating-a-better-tfs-sticky-buddy-core
 aliases:
-- /resources/blog/creating-a-better-tfs-sticky-buddy-core
-- /resources/NNnyeihSpHg
+  - /resources/NNnyeihSpHg
 aliasesArchive:
-- /blog/creating-a-better-tfs-sticky-buddy-core
-- /creating-a-better-tfs-sticky-buddy-core
-- /creating-a-better-tfs-sticky-buddy-(core)
-- /blog/creating-a-better-tfs-sticky-buddy-(core)
-- /resources/blog/creating-a-better-tfs-sticky-buddy-core
-tags: []
+  - /blog/creating-a-better-tfs-sticky-buddy-core
+  - /creating-a-better-tfs-sticky-buddy-core
+  - /creating-a-better-tfs-sticky-buddy-(core)
+  - /blog/creating-a-better-tfs-sticky-buddy-(core)
+  - /resources/blog/creating-a-better-tfs-sticky-buddy-core
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:24Z
-concepts: []
+ResourceImportId: 241
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-2-2.png
 
 ---
 [![TFSStickyBuddy_Core_ClassDiagram](images/CreatingabetterTFSStickyBuddyCore_8719-TFSStickyBuddy_Core_ClassDiagram_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingabetterTFSStickyBuddyCore_8719-TFSStickyBuddy_Core_ClassDiagram_4.png) Over the last week I have been looking at the source for the [Family.Show](http://www.vertigo.com/familyshow.aspx) application from [Vertigo](http://www.vertigo.com/). I needed to look at methods of presentation of hierarchical information graphically using WPF and I saw this as a good representation of that sort of data. So I se about not only converting it to VB.NET but adding generics to the mix.

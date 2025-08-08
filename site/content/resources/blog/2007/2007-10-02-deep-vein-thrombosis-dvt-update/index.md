@@ -1,36 +1,38 @@
 ---
 title: Deep vein thrombosis (DVT) Update
 description: Update on efforts to improve DVT diagnosis and screening in Scotland, including a petition for mandatory assessment tools and Factor V gene testing in newborns.
+date: 2007-10-02
+lastmod: 2007-10-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: X8m1aVRWGUa
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 306
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-10-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: deep-vein-thrombosis-dvt-update
 aliases:
-- /resources/blog/deep-vein-thrombosis-dvt-update
-- /resources/X8m1aVRWGUa
+  - /resources/X8m1aVRWGUa
 aliasesArchive:
-- /blog/deep-vein-thrombosis-dvt-update
-- /deep-vein-thrombosis-dvt-update
-- /deep-vein-thrombosis-(dvt)-update
-- /blog/deep-vein-thrombosis-(dvt)-update
-- /resources/blog/deep-vein-thrombosis-dvt-update
+  - /blog/deep-vein-thrombosis-dvt-update
+  - /deep-vein-thrombosis-dvt-update
+  - /deep-vein-thrombosis-(dvt)-update
+  - /blog/deep-vein-thrombosis-(dvt)-update
+  - /resources/blog/deep-vein-thrombosis-dvt-update
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags:
-- Miscellaneous
+  - Miscellaneous
 Watermarks:
   description: 2025-05-13T16:26:01Z
-concepts: []
+ResourceImportId: 306
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Back in March I [posted](http://blog.hinshelwood.com/archive/2007/03/03/Deep_vein_thrombosis_DVT.aspx) about my friend Katie McPherson that died of DVT and her family's [petition](http://epetitions.scottish.parliament.uk/view_petition.asp?PetitionID=155) calling for the Scottish Executive to [introduce mandatory assessment](http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/7024788.stm) tools for all health boards for the diagnosis of deep vein thrombosis and to get all newborn babies tested for the "Factor V" gene that increases their susceptibility to the condition.

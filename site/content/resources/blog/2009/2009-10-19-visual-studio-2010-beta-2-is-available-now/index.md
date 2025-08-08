@@ -1,34 +1,37 @@
 ---
 title: Visual Studio 2010 Beta 2 is available Now!
 description: Visual Studio 2010 Beta 2 introduces new editions, simplified licensing, and enhanced ALM, testing, and lab management features. Now available for download on MSDN.
+date: 2009-10-19
+lastmod: 2009-10-19
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 8vMRaXfImnd
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 86
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-10-19
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: visual-studio-2010-beta-2-is-available-now
 aliases:
-- /resources/8vMRaXfImnd
+  - /resources/8vMRaXfImnd
 aliasesArchive:
-- /blog/visual-studio-2010-beta-2-is-available-now
-- /visual-studio-2010-beta-2-is-available-now
-- /visual-studio-2010-beta-2-is-available-now-
-- /blog/visual-studio-2010-beta-2-is-available-now-
-- /resources/blog/visual-studio-2010-beta-2-is-available-now
-tags: []
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - /blog/visual-studio-2010-beta-2-is-available-now
+  - /visual-studio-2010-beta-2-is-available-now
+  - /visual-studio-2010-beta-2-is-available-now-
+  - /blog/visual-studio-2010-beta-2-is-available-now-
+  - /resources/blog/visual-studio-2010-beta-2-is-available-now
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:23:09Z
-concepts: []
+ResourceImportId: 86
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 Visual Studio 2010 Beta 2 is now available on MSDN for download!

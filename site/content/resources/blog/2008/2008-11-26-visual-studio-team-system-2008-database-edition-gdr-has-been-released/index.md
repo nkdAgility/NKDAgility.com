@@ -1,33 +1,36 @@
 ---
 title: Visual Studio Team System 2008 Database Edition GDR has been released!
 description: The new Database Edition GDR for Visual Studio Team System 2008 adds model-based SQL schema design, extensibility, provider support, and standalone deployment tools.
+date: 2008-11-26
+lastmod: 2008-11-26
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: VkCGOULM8GF
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 162
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-11-26
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: visual-studio-team-system-2008-database-edition-gdr-has-been-released
 aliases:
-- /resources/VkCGOULM8GF
+  - /resources/VkCGOULM8GF
 aliasesArchive:
-- /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
-- /visual-studio-team-system-2008-database-edition-gdr-has-been-released
-- /visual-studio-team-system-2008-database-edition-gdr-has-been-released-
-- /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released-
-- /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
-tags: []
+  - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
+  - /visual-studio-team-system-2008-database-edition-gdr-has-been-released
+  - /visual-studio-team-system-2008-database-edition-gdr-has-been-released-
+  - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released-
+  - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:22:20Z
-concepts: []
+ResourceImportId: 162
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 What a mouthful! Has there ever been any products with names as long as the Team System toolset ;), Maybe thats why it is just called [Data Dude](http://www.microsoft.com/downloads/details.aspx?FamilyID=bb3ad767-5f69-4db9-b1c9-8f55759846ed&displaylang=en).

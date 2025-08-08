@@ -32,6 +32,7 @@ categories:
   - Product Development
 tags:
   - Market Adaptability
+  - Agile Product Management
   - Software Development
   - Social Technologies
 Watermarks:

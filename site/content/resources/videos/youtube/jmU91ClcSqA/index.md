@@ -5,7 +5,7 @@ description: Explains project management’s origins, key tools like the Gantt c
 tldr: Project management began in the early 1900s with tools like the Gantt chart and was designed to help teams plan and deliver work efficiently. Its core principles remain relevant today, having evolved to support the fast pace of modern business. Consider exploring Agile and Scrum approaches to further enhance your team's project management skills.
 date: 2023-05-22T07:00:14Z
 lastmod: 2023-05-22T07:00:14Z
-weight: 960
+weight: 855
 sitemap:
   filename: sitemap.xml
   priority: 0.1

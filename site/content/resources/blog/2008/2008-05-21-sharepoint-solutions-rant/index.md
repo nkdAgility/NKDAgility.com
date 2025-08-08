@@ -1,32 +1,35 @@
 ---
 title: SharePoint Solutions Rant
 description: Discusses the need for a streamlined, end-to-end way to build and deploy SharePoint solutions in Visual Studio, including remote development and simplified workflows.
+date: 2008-05-21
+lastmod: 2008-05-21
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: z6JKvHvhWuI
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 222
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-05-21
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: sharepoint-solutions-rant
 aliases:
-- /resources/z6JKvHvhWuI
+  - /resources/z6JKvHvhWuI
 aliasesArchive:
-- /blog/sharepoint-solutions-rant
-- /sharepoint-solutions-rant
-- /resources/blog/sharepoint-solutions-rant
-tags: []
+  - /blog/sharepoint-solutions-rant
+  - /sharepoint-solutions-rant
+  - /resources/blog/sharepoint-solutions-rant
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-2-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:23:58Z
-concepts: []
+ResourceImportId: 222
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-2-1.png
 
 ---
 <Rant>

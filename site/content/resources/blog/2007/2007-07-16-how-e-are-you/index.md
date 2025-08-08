@@ -1,35 +1,38 @@
 ---
 title: How 'e' are you?
 description: Discover your "e-score" and see how you rank online with a quick test that measures your digital expertise and compares your results to others.
+date: 2007-07-16
+lastmod: 2007-07-16
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: YDrhk8yEGQa
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 368
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-16
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: how-e-are-you
+slug: how-'e'-are-you
 aliases:
-- /resources/blog/how-e-are-you
-- /resources/YDrhk8yEGQa
+  - /resources/blog/how-e-are-you
+  - /resources/YDrhk8yEGQa
 aliasesArchive:
-- /blog/how-e-are-you
-- /how-e-are-you
-- /how-'e'-are-you-
-- /blog/how-'e'-are-you-
-- /resources/blog/how-e-are-you
-tags: []
+  - /blog/how-e-are-you
+  - /how-e-are-you
+  - /how-'e'-are-you-
+  - /blog/how-'e'-are-you-
+  - /resources/blog/how-e-are-you
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:38Z
-concepts: []
+ResourceImportId: 368
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 [Will Pritchard](http://geekswithblogs.net/MOSSParadox/) posted an interesting blog entry about this and I though I would give it a go...

@@ -1,32 +1,35 @@
 ---
 title: Custom WCF Proxy
 description: Explains how to create custom WCF proxies in .NET to avoid redundant class generation and object conversion when consuming Windows Communication Foundation services.
+date: 2007-05-29
+lastmod: 2007-05-29
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: hfv2zp8Q-i4
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 394
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-05-29
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: custom-wcf-proxy
 aliases:
-- /resources/hfv2zp8Q-i4
+  - /resources/hfv2zp8Q-i4
 aliasesArchive:
-- /blog/custom-wcf-proxy
-- /custom-wcf-proxy
-- /resources/blog/custom-wcf-proxy
-tags: []
-preview: metro-merilllynch-128-link-1-1.png
+  - /blog/custom-wcf-proxy
+  - /custom-wcf-proxy
+  - /resources/blog/custom-wcf-proxy
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:16Z
-concepts: []
+ResourceImportId: 394
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-merilllynch-128-link-1-1.png
 
 ---
 The think that always annoys me with web services is that when you connect to it and generate the proxy it always generates proxies for all of the extra classes and interfaces as well, even when you have them available. This means that you always have to write convertors or adapters to convert one object type to another even though they are the same object (only core class and proxy of that class).

@@ -5,10 +5,10 @@ description: A product backlog is a prioritised list of features, tasks, or impr
 tldr: A product backlog is a prioritized list of features or improvements that guides the development team and fosters collaboration. It should be flexible, clearly understood by everyone involved, and regularly pruned to stay lean and effective. Development managers should ensure their teams maintain a focused and well-understood backlog to maximize productivity and alignment.
 date: 2023-05-18T07:00:16Z
 lastmod: 2023-05-18T07:00:16Z
-weight: 810
+weight: 625
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ResourceId: _Eer3X3Z_LE
 ResourceImport: true

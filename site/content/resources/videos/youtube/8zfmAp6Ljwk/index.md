@@ -30,6 +30,7 @@ categories:
   - Leadership
   - Technical Leadership
 tags:
+  - Continuous Improvement
   - Pragmatic Thinking
   - Software Development
 Watermarks:

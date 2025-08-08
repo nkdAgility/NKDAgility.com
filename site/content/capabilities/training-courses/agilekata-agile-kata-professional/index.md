@@ -2,31 +2,37 @@
 title: Agile Kata Professional
 short_title: Agile Kata Professional
 description: Instructor-led course teaching teams and leaders to apply the Agile Kata pattern for process improvement, agile transformation, and increased business agility.
+tldr: This one-day, instructor-led course teaches teams and leaders how to use the Agile Kata pattern to improve processes and drive cultural change by combining scientific thinking with agile values. Participants will learn practical techniques for applying Agile Kata in real transformation scenarios, enhancing business agility and team performance. Consider this course if you want actionable methods to boost agility and continuous improvement in your organization.
 date: 2023-11-24
-weight: 750
+weight: 605
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: p62cJsAjQNw
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: agile-kata-professional
 aliases:
-- /training-courses/agile-workshops/agile-kata-professional/
-- /akp/
-- /resources/p62cJsAjQNw
+  - /training-courses/agile-workshops/agile-kata-professional/
+  - /akp/
+  - /resources/p62cJsAjQNw
 aliasesArchive:
-- /training-courses/agile-workshops/agile-kata-professional/
-- /akp/
+  - /training-courses/agile-workshops/agile-kata-professional/
+  - /akp/
 concepts:
-- Practice
+  - Practice
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Agile Frameworks
-- Agile Transformation
-- Operational Practices
-- Organisational Agility
-- Organisational Change
-- Software Development
+  - Organisational Agility
+  - Agile Transformation
+  - Change Management
+  - Agile Frameworks
+  - Operational Practices
+  - Organisational Change
+  - Software Development
 card:
   button:
     content: ""
@@ -35,23 +41,24 @@ card:
 Watermarks:
   description: 2025-07-29T15:01:02Z
   short_title: 2025-07-29T15:01:02Z
+  tldr: 2025-08-08T11:37:28Z
 creator: Martin Hinshelwood
 type: course
 url: 
 course_topics:
-- Agile Training Courses
+  - Agile Training Courses
 course_vendors:
-- Agile Kata
+  - Agile Kata
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- Teams
+  - Teams
 preview: NKDAgility-Courses-AKP-16x9-1.jpg
 previewIcon: AgileKataProLevel1.png
 brandColour: 
 code: AKP1
 course_proficiencies:
-- intermediate
+  - intermediate
 introduction: 
 overview: |2+
 

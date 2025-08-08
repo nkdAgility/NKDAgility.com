@@ -1,34 +1,37 @@
 ---
 title: 'TeamPlain Error: TF14002'
 description: Explains the TF14002 error in TeamPlain, where NT AUTHORITY\NETWORK SERVICE lacks valid user group access, and discusses possible causes like proxy server settings.
+date: 2007-03-27
+lastmod: 2007-03-27
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: PHs0D35ZIo4
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 424
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-03-27
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: teamplain-error-tf14002
 aliases:
-- /resources/PHs0D35ZIo4
+  - /resources/PHs0D35ZIo4
 aliasesArchive:
-- /blog/teamplain-error-tf14002
-- /teamplain-error-tf14002
-- /teamplain-error--tf14002
-- /blog/teamplain-error--tf14002
-- /resources/blog/teamplain-error-tf14002
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/teamplain-error-tf14002
+  - /teamplain-error-tf14002
+  - /teamplain-error--tf14002
+  - /blog/teamplain-error--tf14002
+  - /resources/blog/teamplain-error-tf14002
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:58Z
-concepts: []
+ResourceImportId: 424
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Some prople have encountered this error when viewing the source control tab in TeamPlain:

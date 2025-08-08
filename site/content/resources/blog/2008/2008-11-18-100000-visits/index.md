@@ -1,36 +1,39 @@
 ---
 title: 100,000 Visits
 description: Celebrates reaching over 100,000 website visits, sharing traffic stats, browser usage, and visitor countries, highlighting site growth and audience diversity.
+date: 2008-11-18
+lastmod: 2008-11-18
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: gnzE3Qr_jz-
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 167
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-11-18
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: 100000-visits
+slug: 100-000-visits
 aliases:
-- /resources/gnzE3Qr_jz-
+  - /resources/gnzE3Qr_jz-
 aliasesArchive:
-- /blog/100000-visits
-- /100000-visits
-- /100,000-visits
-- /blog/100,000-visits
-- /100-000-visits
-- /blog/100-000-visits
-- /resources/blog/100000-visits
-tags: []
+  - /blog/100000-visits
+  - /100000-visits
+  - /100,000-visits
+  - /blog/100,000-visits
+  - /100-000-visits
+  - /blog/100-000-visits
+  - /resources/blog/100000-visits
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-3-3.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:22:29Z
-concepts: []
+ResourceImportId: 167
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-3-3.png
 
 ---
 Well, that's me got passed the [100,000 Visits milestone](http://www.sitemeter.com/?a=stats&s=s41hinshelm). I guess it is seams bigger than it is, but as the next big one would be a million I am chuffed to get this far :)

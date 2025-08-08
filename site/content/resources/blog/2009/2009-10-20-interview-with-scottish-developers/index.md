@@ -1,32 +1,35 @@
 ---
 title: Interview with Scottish Developers
 description: A personal interview featured in the Scottish Developers newsletter, discussing experiences and insights from a developer’s perspective within the Scottish tech community.
+date: 2009-10-20
+lastmod: 2009-10-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: -9zhZou8GwO
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 85
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-10-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: interview-with-scottish-developers
 aliases:
-- /resources/-9zhZou8GwO
+  - /resources/-9zhZou8GwO
 aliasesArchive:
-- /blog/interview-with-scottish-developers
-- /interview-with-scottish-developers
-- /resources/blog/interview-with-scottish-developers
+  - /blog/interview-with-scottish-developers
+  - /interview-with-scottish-developers
+  - /resources/blog/interview-with-scottish-developers
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:04Z
-concepts: []
+ResourceImportId: 85
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I was recently contacted by [Colin Mackay](http://www.colinmackay.net/), the chairman of [Scottish Developers](http://scottishdevelopers.com) about doing an interview with them. Colin has been pestering me for a while now to do some speaking engagements, but I am still not comfortable with that! (Yes, I am too chicken), so I capitulated…

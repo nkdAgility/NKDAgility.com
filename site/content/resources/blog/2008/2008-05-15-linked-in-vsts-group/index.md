@@ -1,32 +1,35 @@
 ---
 title: Linked in VSTS Group
 description: A LinkedIn group for developers customising or extending Visual Studio Team System (VSTS), covering .NET, ALM, TFS, version control, testing, and related topics.
+date: 2008-05-15
+lastmod: 2008-05-15
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: HSVy1vwtnsH
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 226
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-05-15
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: linked-in-vsts-group
 aliases:
-- /resources/HSVy1vwtnsH
+  - /resources/HSVy1vwtnsH
 aliasesArchive:
-- /blog/linked-in-vsts-group
-- /linked-in-vsts-group
-- /resources/blog/linked-in-vsts-group
-tags: []
+  - /blog/linked-in-vsts-group
+  - /linked-in-vsts-group
+  - /resources/blog/linked-in-vsts-group
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:04Z
-concepts: []
+ResourceImportId: 226
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-2-2.png
 
 ---
 If you are a developer who customises or extends Visual Studio Team System then this LinkedIn group is for you...

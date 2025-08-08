@@ -1,32 +1,35 @@
 ---
 title: Get Analysis Services last processed date
 description: Provides code to retrieve the last processed date of cubes on an Analysis Services server, highlighting performance considerations and error handling in .NET environments.
+date: 2009-04-30
+lastmod: 2009-04-30
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: _Pa-Z4LIvzg
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 129
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-04-30
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: get-analysis-services-last-processed-date
 aliases:
-- /resources/_Pa-Z4LIvzg
+  - /resources/_Pa-Z4LIvzg
 aliasesArchive:
-- /blog/get-analysis-services-last-processed-date
-- /get-analysis-services-last-processed-date
-- /resources/blog/get-analysis-services-last-processed-date
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/get-analysis-services-last-processed-date
+  - /get-analysis-services-last-processed-date
+  - /resources/blog/get-analysis-services-last-processed-date
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:24:15Z
-concepts: []
+ResourceImportId: 129
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I need a little bit of code to get the last processed date for the cube that my site connects to:

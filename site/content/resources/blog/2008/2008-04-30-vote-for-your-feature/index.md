@@ -1,32 +1,35 @@
 ---
 title: Vote for your feature
 description: Vote for upcoming TFS Sticky Buddy features, view current suggestions, and submit your own ideas to help shape future updates for this .NET WPF tool.
+date: 2008-04-30
+lastmod: 2008-04-30
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 0gvfwOdoE6v
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 234
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-04-30
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: vote-for-your-feature
 aliases:
-- /resources/0gvfwOdoE6v
+  - /resources/0gvfwOdoE6v
 aliasesArchive:
-- /blog/vote-for-your-feature
-- /vote-for-your-feature
-- /resources/blog/vote-for-your-feature
-tags: []
+  - /blog/vote-for-your-feature
+  - /vote-for-your-feature
+  - /resources/blog/vote-for-your-feature
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:14Z
-concepts: []
+ResourceImportId: 234
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I am currently taking votes for which features will make it into the next version of the [TFS Sticky Buddy](https://www.codeplex.com/TFSStickyBuddy) ([v1.1 CTP 1](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSStickyBuddy&ReleaseId=12982)), which will move towards v2.0. The current list of features is slim, but specific.

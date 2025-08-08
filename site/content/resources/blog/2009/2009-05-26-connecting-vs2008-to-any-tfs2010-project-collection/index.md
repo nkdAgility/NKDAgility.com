@@ -1,33 +1,36 @@
 ---
 title: Connecting VS2008 to any TFS2010 Project Collection
 description: Learn how to connect Visual Studio 2008 SP1 to any TFS 2010 project collection using the correct URL format, including compatibility notes for VS2005 and TFS 2010.
+date: 2009-05-26
+lastmod: 2009-05-26
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: f6DE_mA4Fk1
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 108
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-05-26
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: connecting-vs2008-to-any-tfs2010-project-collection
 aliases:
-- /resources/f6DE_mA4Fk1
+  - /resources/f6DE_mA4Fk1
 aliasesArchive:
-- /blog/connecting-vs2008-to-any-tfs2010-project-collection
-- /connecting-vs2008-to-any-tfs2010-project-collection
-- /resources/blog/connecting-vs2008-to-any-tfs2010-project-collection
-tags:
-- Install and Configuration
-preview: metro-visual-studio-2005-128-link-3-3.png
+  - /blog/connecting-vs2008-to-any-tfs2010-project-collection
+  - /connecting-vs2008-to-any-tfs2010-project-collection
+  - /resources/blog/connecting-vs2008-to-any-tfs2010-project-collection
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:23:42Z
-concepts: []
+ResourceImportId: 108
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-3-3.png
 
 ---
 Easy peasy, all you need is the full URL from the project collection and you will be able to connect directly to it as if it was a different Team Server. This functionality was added with Visual Studio 2008 Service Pack 1, so if you don’t have SP1 installed yet you had better get it:

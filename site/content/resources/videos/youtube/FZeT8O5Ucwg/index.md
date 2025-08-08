@@ -5,10 +5,10 @@ description: Learn how to identify authentic agile practices, spot common myths,
 tldr: Most organizations claim to be agile, but few actually follow core practices like short iterations, ordered backlogs, and regular retrospectives, which limits their ability to deliver value and improve. Cultural resistance and outdated management styles are major barriers to genuine agility. Development managers should honestly assess their teams against key agile principles and take action to remove obstacles, empower teams, and focus on rapid feedback and continuous improvement.
 date: 2020-03-18T13:56:05Z
 lastmod: 2020-03-18T13:56:05Z
-weight: 670
+weight: 295
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: monthly
 ResourceId: FZeT8O5Ucwg
 ResourceImport: true
@@ -30,6 +30,7 @@ concepts:
   - Ethos
 categories:
   - Product Development
+  - Technical Leadership
 tags:
   - Agile Philosophy
   - Agile Transformation

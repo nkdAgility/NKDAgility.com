@@ -1,31 +1,34 @@
 ---
 title: Wakoopa
 description: Tracks and analyses your software usage, providing detailed statistics on application activity and allowing users to join teams or view individual app stats.
+date: 2008-10-27
+lastmod: 2008-10-27
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: -dqfdSPfCHx
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 180
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-10-27
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: wakoopa
 aliases:
-- /resources/-dqfdSPfCHx
+  - /resources/-dqfdSPfCHx
 aliasesArchive:
-- /blog/wakoopa
-- /wakoopa
-- /resources/blog/wakoopa
-tags: []
+  - /blog/wakoopa
+  - /wakoopa
+  - /resources/blog/wakoopa
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:22:48Z
-concepts: []
+ResourceImportId: 180
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 I am having a little bit of fun with this application and I though I would share. it logs all of the applications that you are using and gives you stats on it. How about joining the [Microsoft MVP](http://wakoopa.com/teams/MicrosoftMVP) (MVP’s only please) team, or creating your own…

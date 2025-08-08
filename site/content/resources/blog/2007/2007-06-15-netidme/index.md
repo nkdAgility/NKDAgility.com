@@ -1,32 +1,35 @@
 ---
 title: NetIDme
 description: Online identity verification service enabling users to prove their identity for safer interactions, with support for CardSpace, ChatShield, and potential single sign-on integration.
+date: 2007-06-15
+lastmod: 2007-06-15
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: QY3BJhuGqTa
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 384
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-06-15
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: netidme
 aliases:
-- /resources/QY3BJhuGqTa
+  - /resources/QY3BJhuGqTa
 aliasesArchive:
-- /blog/netidme
-- /netidme
-- /resources/blog/netidme
-tags: []
-preview: metro-sharepoint-128-link-1-1.png
+  - /blog/netidme
+  - /netidme
+  - /resources/blog/netidme
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:02Z
-concepts: []
+ResourceImportId: 384
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 I have just been made aware of a [new ('ish) service.](http://www.netidme.net/ "netidme") It allows you to verify the identity of those users you interact with online. This is a very usefully service for any online site or community where users are under 18, but is there any value for those of us that are not?

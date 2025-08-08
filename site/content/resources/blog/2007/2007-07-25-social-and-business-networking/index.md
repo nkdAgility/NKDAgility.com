@@ -1,32 +1,35 @@
 ---
 title: Social and Business Networking
 description: Explores challenges of managing multiple social and business networks, proposing a unified, secure system for centralised contact management and seamless data updates.
+date: 2007-07-25
+lastmod: 2007-07-25
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: wm96r47cCGV
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 359
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-25
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: social-and-business-networking
 aliases:
-- /resources/wm96r47cCGV
+  - /resources/wm96r47cCGV
 aliasesArchive:
-- /blog/social-and-business-networking
-- /social-and-business-networking
-- /resources/blog/social-and-business-networking
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/social-and-business-networking
+  - /social-and-business-networking
+  - /resources/blog/social-and-business-networking
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:23Z
-concepts: []
+ResourceImportId: 359
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 In the modern era networking is not just the preview of business men. There have been many sites created over the last few years but they only seam to implement one or maybe two if the strategies for providing either a community or business networking site. A [list of social networking sites](http://en.wikipedia.org/wiki/List_of_social_networking_websites "list of social networking sites") can be found on Wikipedia.

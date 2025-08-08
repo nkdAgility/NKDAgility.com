@@ -1,34 +1,37 @@
 ---
 title: What to do when you dont have a working computer!
 description: Tips for staying productive without a computer, including using mobile devices for web browsing, writing, and software tasks when your main PC is unavailable.
+date: 2008-08-16
+lastmod: 2008-08-16
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: nD4pBeQgpZK
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 208
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-08-16
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: what-to-do-when-you-dont-have-a-working-computer
 aliases:
-- /resources/nD4pBeQgpZK
+  - /resources/nD4pBeQgpZK
 aliasesArchive:
-- /blog/what-to-do-when-you-dont-have-a-working-computer
-- /what-to-do-when-you-dont-have-a-working-computer
-- /what-to-do-when-you-dont-have-a-working-computer-
-- /blog/what-to-do-when-you-dont-have-a-working-computer-
-- /resources/blog/what-to-do-when-you-dont-have-a-working-computer
-tags: []
+  - /blog/what-to-do-when-you-dont-have-a-working-computer
+  - /what-to-do-when-you-dont-have-a-working-computer
+  - /what-to-do-when-you-dont-have-a-working-computer-
+  - /blog/what-to-do-when-you-dont-have-a-working-computer-
+  - /resources/blog/what-to-do-when-you-dont-have-a-working-computer
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:23:36Z
-concepts: []
+ResourceImportId: 208
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 I have a little problem...I don't have a computer at home at the moment :( So I am writing this post from my Pocket PC using Diarist 2. I will come back to that, but first...

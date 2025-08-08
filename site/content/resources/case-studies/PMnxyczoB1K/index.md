@@ -37,9 +37,9 @@ tags:
   - Self Organisation
   - Large Scale Agility
   - Release Management
+  - Technical Excellence
   - Product Delivery
   - Sociotechnical Systems
-  - Technical Excellence
   - One Engineering System
   - Agentic Agility
 Watermarks:

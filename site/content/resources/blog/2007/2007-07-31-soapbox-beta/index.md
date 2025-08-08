@@ -1,32 +1,35 @@
 ---
 title: Soapbox Beta
 description: Microsoft Soapbox is an online video sharing platform similar to YouTube, using Flash for playback instead of Silverlight, and accessible through standard firewalls.
+date: 2007-07-31
+lastmod: 2007-07-31
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: pFTm6k2yWBc
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 352
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-31
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: soapbox-beta
 aliases:
-- /resources/pFTm6k2yWBc
+  - /resources/pFTm6k2yWBc
 aliasesArchive:
-- /blog/soapbox-beta
-- /soapbox-beta
-- /resources/blog/soapbox-beta
-tags: []
+  - /blog/soapbox-beta
+  - /soapbox-beta
+  - /resources/blog/soapbox-beta
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:13Z
-concepts: []
+ResourceImportId: 352
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Just found a new services from Microsoft called [Soapbox](http://soapbox.msn.com/). It is similar to YouTube, but I assumed it would be implemented using [Silverlight](http://silverlight.net/). But as it turns out, its Flash! Boo....

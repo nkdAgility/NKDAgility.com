@@ -1,32 +1,35 @@
 ---
 title: TFS Usage Statistics
 description: Provides key statistics on Team Foundation Server usage, including user activity, work items, version control, builds, and recent command counts for project tracking.
+date: 2008-10-22
+lastmod: 2008-10-22
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: s5nBJ6ec37-
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 187
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-10-22
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-usage-statistics
 aliases:
-- /resources/s5nBJ6ec37-
+  - /resources/s5nBJ6ec37-
 aliasesArchive:
-- /blog/tfs-usage-statistics
-- /tfs-usage-statistics
-- /resources/blog/tfs-usage-statistics
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/tfs-usage-statistics
+  - /tfs-usage-statistics
+  - /resources/blog/tfs-usage-statistics
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:22:55Z
-concepts: []
+ResourceImportId: 187
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Stats on out [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Instance. Not much but growing.

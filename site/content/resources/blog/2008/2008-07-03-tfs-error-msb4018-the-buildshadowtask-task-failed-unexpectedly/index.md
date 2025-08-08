@@ -1,36 +1,39 @@
 ---
 title: 'TFS Error: MSB4018 The "BuildShadowTask" task failed unexpectedly'
 description: Explains the MSB4018 "BuildShadowTask" error in TFS when using Accessors in unit test projects, its cause, and how removing .accessor files resolves build issues.
+date: 2008-07-03
+lastmod: 2008-07-03
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: xi_wQ8zFW_U
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 219
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-07-03
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
 aliases:
-- /resources/xi_wQ8zFW_U
+  - /resources/xi_wQ8zFW_U
 aliasesArchive:
-- /blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
-- /tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
-- /tfs-error--msb4018-the--buildshadowtask--task-failed-unexpectedly
-- /blog/tfs-error--msb4018-the--buildshadowtask--task-failed-unexpectedly
-- /resources/blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
-tags:
-- Troubleshooting
-- Windows
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
+  - /tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
+  - /tfs-error--msb4018-the--buildshadowtask--task-failed-unexpectedly
+  - /blog/tfs-error--msb4018-the--buildshadowtask--task-failed-unexpectedly
+  - /resources/blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Windows
 Watermarks:
   description: 2025-05-13T16:23:54Z
-concepts: []
+ResourceImportId: 219
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 There seams to be a problem in MSBuild when you add an “Accessor” as part of a Unit Test project.

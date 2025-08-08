@@ -1,34 +1,37 @@
 ---
 title: 'A change for the better #2 - Aggreko to SSW'
 description: Describes a career move from Aggreko to SSW, focusing on software architecture, ALM, TFS migrations, and applying productivity rules in team environments.
+date: 2009-10-25
+lastmod: 2009-10-25
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 4gwofOJZOmj
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 82
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-10-25
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: a-change-for-the-better-2
 aliases:
-- /resources/4gwofOJZOmj
+  - /resources/4gwofOJZOmj
 aliasesArchive:
-- /blog/a-change-for-the-better-2
-- /a-change-for-the-better-2
-- /a-change-for-the-better--2---aggreko-to-ssw
-- /blog/a-change-for-the-better--2---aggreko-to-ssw
-- /resources/blog/a-change-for-the-better-2
-tags: []
+  - /blog/a-change-for-the-better-2
+  - /a-change-for-the-better-2
+  - /a-change-for-the-better--2---aggreko-to-ssw
+  - /blog/a-change-for-the-better--2---aggreko-to-ssw
+  - /resources/blog/a-change-for-the-better-2
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-SSWLogo-128-link-3-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:23:03Z
-concepts: []
+ResourceImportId: 82
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-SSWLogo-128-link-3-1.png
 
 ---
 In the last 2+ years at Aggreko I have worked with Visual Studio 2008 Team Foundation Server, Office SharePoint Server 2007 and a number of WPF, Silverlight and ASP.NET projects.

@@ -5,10 +5,10 @@ description: Explores the shift from people to systems in work, the impact on Ag
 tldr: The Industrial Revolution shifted focus from individuals to systems for productivity, but in Agile environments, it is essential to balance effective systems with the needs of people. Systems should empower teams and not become obstacles, so regularly review and adapt them based on team feedback. Development managers should ensure systems support collaboration and productivity rather than hinder them.
 date: 2023-10-12T11:00:15Z
 lastmod: 2023-10-12T11:00:15Z
-weight: 680
+weight: 340
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: monthly
 ResourceId: KX1xViey_BA
 ResourceImport: true

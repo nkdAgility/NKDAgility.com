@@ -32,6 +32,7 @@ concepts: []
 categories:
   - Product Development
 tags:
+  - Personal
   - Agile Philosophy
   - Organisational Agility
   - Empirical Process Control

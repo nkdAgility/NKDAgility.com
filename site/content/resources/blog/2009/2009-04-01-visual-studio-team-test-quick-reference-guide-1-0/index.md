@@ -1,34 +1,37 @@
 ---
 title: Visual Studio Team Test Quick Reference Guide 1.0
 description: A practical guide offering solutions, workarounds, and troubleshooting tips for Microsoft Visual Studio Team Test, based on real-world testing experience and expert advice.
+date: 2009-04-01
+lastmod: 2009-04-01
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: FhliT2Rp-7y
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 133
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-04-01
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: visual-studio-team-test-quick-reference-guide-1-0
 aliases:
-- /resources/blog/visual-studio-team-test-quick-reference-guide-1.0
-- /resources/FhliT2Rp-7y
+  - /resources/blog/visual-studio-team-test-quick-reference-guide-1.0
+  - /resources/FhliT2Rp-7y
 aliasesArchive:
-- /blog/visual-studio-team-test-quick-reference-guide-1-0
-- /visual-studio-team-test-quick-reference-guide-1-0
-- /resources/blog/visual-studio-team-test-quick-reference-guide-1-0
-- /resources/blog/visual-studio-team-test-quick-reference-guide-1.0
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/visual-studio-team-test-quick-reference-guide-1-0
+  - /visual-studio-team-test-quick-reference-guide-1-0
+  - /resources/blog/visual-studio-team-test-quick-reference-guide-1-0
+  - /resources/blog/visual-studio-team-test-quick-reference-guide-1.0
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:24:20Z
-concepts: []
+ResourceImportId: 133
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 If you are in any way involved in or thinking bout Testing code, Websites or Web Services then you should have a look at the [VSTT Quick Reference Guide 1.0](http://vstt2008qrg.codeplex.com/) which the [Visual Studio Team System](http://msdn2.microsoft.com/en-us/teamsystem/default.aspx "Visual Studio Team System") Rangers team has published on [CodePlex](http://www.codeplex.com "CodePlex").

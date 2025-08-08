@@ -1,38 +1,41 @@
 ---
 title: Hosted TFS, and cheap….from Phase2
 description: Overview of Phase2’s hosted Team Foundation Server (TFS) service, including features, pricing, backup, scalability, integration, and support details.
+date: 2008-10-23
+lastmod: 2008-10-23
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: UAYEfY1bHiv
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 183
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-10-23
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: hosted-tfs-and-cheap-from-phase2
+slug: hosted-tfs-and-cheap…-from-phase2
 aliases:
-- /resources/blog/hosted-tfs-and-cheap-.from-phase2
-- /resources/UAYEfY1bHiv
+  - /resources/blog/hosted-tfs-and-cheap-.from-phase2
+  - /resources/UAYEfY1bHiv
 aliasesArchive:
-- /blog/hosted-tfs-and-cheap-from-phase2
-- /hosted-tfs-and-cheap-from-phase2
-- /hosted-tfs,-and-cheap…-from-phase2
-- /blog/hosted-tfs,-and-cheap…-from-phase2
-- /hosted-tfs--and-cheap…-from-phase2
-- /blog/hosted-tfs--and-cheap…-from-phase2
-- /resources/blog/hosted-tfs-and-cheap-from-phase2
-- /resources/blog/hosted-tfs-and-cheap-.from-phase2
-tags: []
-preview: metro-sharepoint-128-link-2-2.png
+  - /blog/hosted-tfs-and-cheap-from-phase2
+  - /hosted-tfs-and-cheap-from-phase2
+  - /hosted-tfs,-and-cheap…-from-phase2
+  - /blog/hosted-tfs,-and-cheap…-from-phase2
+  - /hosted-tfs--and-cheap…-from-phase2
+  - /blog/hosted-tfs--and-cheap…-from-phase2
+  - /resources/blog/hosted-tfs-and-cheap-from-phase2
+  - /resources/blog/hosted-tfs-and-cheap-.from-phase2
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:22:53Z
-concepts: []
+ResourceImportId: 183
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-2-2.png
 
 ---
 [![image](images/21c33c4198cb_76CA-image_thumb_2-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-21c33c4198cb_76CA-image_6.png)

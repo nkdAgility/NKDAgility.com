@@ -1,37 +1,40 @@
 ---
 title: Internet connection speed, WOW
 description: A personal account of UK cable internet speed improvements, comparing dial-up, ADSL, and Virgin Media, with real-world download rates and upgrade experiences.
+date: 2009-12-07
+lastmod: 2009-12-07
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: iBNwIFFQrmS
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 78
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-12-07
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: internet-connection-speed-wow
 aliases:
-- /resources/iBNwIFFQrmS
+  - /resources/iBNwIFFQrmS
 aliasesArchive:
-- /blog/internet-connection-speed-wow
-- /internet-connection-speed-wow
-- /internet-connection-speed,-wow
-- /blog/internet-connection-speed,-wow
-- /internet-connection-speed--wow
-- /blog/internet-connection-speed--wow
-- /resources/blog/internet-connection-speed-wow
+  - /blog/internet-connection-speed-wow
+  - /internet-connection-speed-wow
+  - /internet-connection-speed,-wow
+  - /blog/internet-connection-speed,-wow
+  - /internet-connection-speed--wow
+  - /blog/internet-connection-speed--wow
+  - /resources/blog/internet-connection-speed-wow
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-5-1.png
+  - Uncategorized
 tags:
-- Miscellaneous
+  - Miscellaneous
 Watermarks:
   description: 2025-05-13T15:22:54Z
-concepts: []
+ResourceImportId: 78
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-5-1.png
 
 ---
 I have been a cable customer in the UK since day one when it was Cable & Wireless.

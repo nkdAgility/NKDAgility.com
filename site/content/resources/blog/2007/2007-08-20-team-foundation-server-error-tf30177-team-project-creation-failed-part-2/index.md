@@ -1,38 +1,41 @@
 ---
 title: 'Team Foundation Server Error TF30177: Team Project Creation Failed  - Part 2'
 description: Explains how to resolve Team Foundation Server project creation errors caused by SharePoint managed path conflicts, with steps to identify and fix site URL issues.
+date: 2007-08-20
+lastmod: 2007-08-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: -H--7dlWeGE
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 327
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: team-foundation-server-error-tf30177-team-project-creation-failed-part-2
 aliases:
-- /resources/-H--7dlWeGE
+  - /resources/-H--7dlWeGE
 aliasesArchive:
-- /blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
-- /team-foundation-server-error-tf30177-team-project-creation-failed-part-2
-- /team-foundation-server-error-tf30177--team-project-creation-failed---part-2
-- /blog/team-foundation-server-error-tf30177--team-project-creation-failed---part-2
-- /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
-- /team-foundation-server-error-tf30177--team-project-creation-failed----part-2
-- /blog/team-foundation-server-error-tf30177--team-project-creation-failed----part-2
-tags:
-- Troubleshooting
-- Windows
+  - /blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
+  - /team-foundation-server-error-tf30177-team-project-creation-failed-part-2
+  - /team-foundation-server-error-tf30177--team-project-creation-failed---part-2
+  - /blog/team-foundation-server-error-tf30177--team-project-creation-failed---part-2
+  - /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
+  - /team-foundation-server-error-tf30177--team-project-creation-failed----part-2
+  - /blog/team-foundation-server-error-tf30177--team-project-creation-failed----part-2
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Windows
 Watermarks:
   description: 2025-05-13T16:26:35Z
-concepts: []
+ResourceImportId: 327
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 If you are trying to get team server to talk to another Sharepoint farm this is something to watch out for. I fell into this one myself, and now my American colleagues have hot the same problem (I have changed things like server, account and company names to protect the, erm, servers?). The key things to look for in the log file are the creation details:

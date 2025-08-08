@@ -1,36 +1,39 @@
 ---
 title: Stuck with Vista?
 description: Overview of Windows Vista Service Pack 2 release, its availability, installation process, and potential improvements for users experiencing performance issues.
+date: 2009-05-26
+lastmod: 2009-05-26
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: WFhOkuWMbpS
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 107
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-05-26
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: stuck-with-vista
 aliases:
-- /resources/WFhOkuWMbpS
+  - /resources/WFhOkuWMbpS
 aliasesArchive:
-- /blog/stuck-with-vista
-- /stuck-with-vista
-- /stuck-with-vista-
-- /blog/stuck-with-vista-
-- /resources/blog/stuck-with-vista
-tags:
-- Windows
-- Miscellaneous
-preview: nakedalm-logo-128-link-7-1.png
+  - /blog/stuck-with-vista
+  - /stuck-with-vista
+  - /stuck-with-vista-
+  - /blog/stuck-with-vista-
+  - /resources/blog/stuck-with-vista
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Windows
+  - Miscellaneous
 Watermarks:
   description: 2025-05-13T15:23:40Z
-concepts: []
+ResourceImportId: 107
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-7-1.png
 
 ---
 If, like me, you are stuck with the old and decrepit version of Windows that is Vista SP1 at work then you may be interested in Service Pack 2 which became available on the MS Download site today.

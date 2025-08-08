@@ -1,34 +1,37 @@
 ---
 title: 'Finding features: Conversations'
 description: Explains how email conversation view groups related messages into threads, making it easier to follow discussions and manage multiple replies in email clients.
+date: 2009-07-16
+lastmod: 2009-07-16
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: hqtW-w7ZTE1
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 101
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-07-16
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: finding-features-conversations
 aliases:
-- /resources/hqtW-w7ZTE1
+  - /resources/hqtW-w7ZTE1
 aliasesArchive:
-- /blog/finding-features-conversations
-- /finding-features-conversations
-- /finding-features--conversations
-- /blog/finding-features--conversations
-- /resources/blog/finding-features-conversations
-tags: []
-preview: nakedalm-logo-128-link-5-5.png
+  - /blog/finding-features-conversations
+  - /finding-features-conversations
+  - /finding-features--conversations
+  - /blog/finding-features--conversations
+  - /resources/blog/finding-features-conversations
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:23:35Z
-concepts: []
+ResourceImportId: 101
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-5-5.png
 
 ---
 Hey, well the dentist was fun! And I have had time to install Office 2010 on my wife's Windows 7 laptop. I will try to put together some of the interesting features…

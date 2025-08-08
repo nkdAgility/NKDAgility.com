@@ -1,34 +1,37 @@
 ---
 title: 'Search just got better: Part 2'
 description: Comparison of Tafiti and Search Crystal visual search engines, highlighting interface features, result display options, and usability for search visualisation.
+date: 2007-08-22
+lastmod: 2007-08-22
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: _3B1lqJWcF5
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 322
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-22
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: search-just-got-better-part-2
 aliases:
-- /resources/_3B1lqJWcF5
+  - /resources/_3B1lqJWcF5
 aliasesArchive:
-- /blog/search-just-got-better-part-2
-- /search-just-got-better-part-2
-- /search-just-got-better--part-2
-- /blog/search-just-got-better--part-2
-- /resources/blog/search-just-got-better-part-2
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/search-just-got-better-part-2
+  - /search-just-got-better-part-2
+  - /search-just-got-better--part-2
+  - /blog/search-just-got-better--part-2
+  - /resources/blog/search-just-got-better-part-2
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:22Z
-concepts: []
+ResourceImportId: 322
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 After my post on the new [Tafiti](http://www.tafiti.com/) search engine a fellow by the name of [Anselm](http://www.searchcrystal.com/) pointed out [Search Crystal](http://www.searchcrystal.com "http://www.searchcrystal.com"), another visual search engine that produces some good result. I did not get he same Wow that I did from Tafiti, but the amount of information that is provided through the interface is extensive.

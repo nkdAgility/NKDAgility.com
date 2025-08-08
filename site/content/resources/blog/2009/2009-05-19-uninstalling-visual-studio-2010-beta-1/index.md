@@ -1,32 +1,35 @@
 ---
 title: Uninstalling Visual Studio 2010 Beta 1
 description: Step-by-step account of uninstalling Visual Studio 2010 Beta 1 and .NET 4.0, including common issues, manual cleanup, and troubleshooting on Windows Vista.
+date: 2009-05-19
+lastmod: 2009-05-19
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 2ZvRKJUmrD9
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 115
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-05-19
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: uninstalling-visual-studio-2010-beta-1
 aliases:
-- /resources/2ZvRKJUmrD9
+  - /resources/2ZvRKJUmrD9
 aliasesArchive:
-- /blog/uninstalling-visual-studio-2010-beta-1
-- /uninstalling-visual-studio-2010-beta-1
-- /resources/blog/uninstalling-visual-studio-2010-beta-1
-tags: []
+  - /blog/uninstalling-visual-studio-2010-beta-1
+  - /uninstalling-visual-studio-2010-beta-1
+  - /resources/blog/uninstalling-visual-studio-2010-beta-1
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:23:49Z
-concepts: []
+ResourceImportId: 115
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 You may think, why is he uninstalling VS2010? Well, apart from proving that it works…And that it plays well with VS2008 I need to remove the pre-beta beta that I have installed.

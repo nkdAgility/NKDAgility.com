@@ -34,6 +34,7 @@ categories:
   - Technical Leadership
 tags:
   - Scrum Master
+  - Personal
   - Software Development
   - Competence
   - Pragmatic Thinking

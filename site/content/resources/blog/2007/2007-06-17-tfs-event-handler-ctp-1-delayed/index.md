@@ -1,34 +1,37 @@
 ---
 title: 'TFS Event Handler: CTP 1 Delayed'
 description: The first Community Technology Preview of the TFS Event Handler is delayed, with updates on framework enhancements, current progress, and pending development tasks.
+date: 2007-06-17
+lastmod: 2007-06-17
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: m_vdrvzZrol
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 381
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-06-17
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-event-handler-ctp-1-delayed
 aliases:
-- /resources/m_vdrvzZrol
+  - /resources/m_vdrvzZrol
 aliasesArchive:
-- /blog/tfs-event-handler-ctp-1-delayed
-- /tfs-event-handler-ctp-1-delayed
-- /tfs-event-handler--ctp-1-delayed
-- /blog/tfs-event-handler--ctp-1-delayed
-- /resources/blog/tfs-event-handler-ctp-1-delayed
-tags: []
+  - /blog/tfs-event-handler-ctp-1-delayed
+  - /tfs-event-handler-ctp-1-delayed
+  - /tfs-event-handler--ctp-1-delayed
+  - /blog/tfs-event-handler--ctp-1-delayed
+  - /resources/blog/tfs-event-handler-ctp-1-delayed
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:57Z
-concepts: []
+ResourceImportId: 381
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Due to a number of reasons:

@@ -1,32 +1,35 @@
 ---
 title: VS2008 Update
 description: Covers experiences updating to Visual Studio 2008 RTM, installing Team Explorer, project upgrades from Beta 2, and attending a SharePoint developer event in Edinburgh.
+date: 2007-11-20
+lastmod: 2007-11-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: EbUyy4iPQCa
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 291
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-11-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: vs2008-update
 aliases:
-- /resources/EbUyy4iPQCa
+  - /resources/EbUyy4iPQCa
 aliasesArchive:
-- /blog/vs2008-update
-- /vs2008-update
-- /resources/blog/vs2008-update
-tags: []
+  - /blog/vs2008-update
+  - /vs2008-update
+  - /resources/blog/vs2008-update
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:36Z
-concepts: []
+ResourceImportId: 291
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 Well it seems that Microsoft took the generally felt community suggestion and bundles Team Explorer with Visual Studio 2008 team Suit. I don't know if they did the same with VS2008 Pro or the other version, but it would seem a good idea.

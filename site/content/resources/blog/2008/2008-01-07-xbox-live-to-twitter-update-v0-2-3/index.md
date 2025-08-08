@@ -1,38 +1,41 @@
 ---
 title: Xbox  Live to Twitter Update (v0.2.3)
 description: An updated tool that posts Xbox Live status updates to Twitter, with plans for customisation options and achievement tracking. Source code and downloads available.
+date: 2008-01-07
+lastmod: 2008-01-07
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 4kh61B4o7T1
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 267
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-01-07
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: xbox-live-to-twitter-update-v0-2-3
 aliases:
-- /resources/blog/xbox-live-to-twitter-update-v0.2.3
-- /resources/4kh61B4o7T1
+  - /resources/blog/xbox-live-to-twitter-update-v0.2.3
+  - /resources/4kh61B4o7T1
 aliasesArchive:
-- /blog/xbox-live-to-twitter-update-v0-2-3
-- /xbox-live-to-twitter-update-v0-2-3
-- /xbox-live-to-twitter-update-(v0-2-3)
-- /blog/xbox-live-to-twitter-update-(v0-2-3)
-- /resources/blog/xbox-live-to-twitter-update-v0-2-3
-- /xbox--live-to-twitter-update-(v0-2-3)
-- /blog/xbox--live-to-twitter-update-(v0-2-3)
-- /resources/blog/xbox-live-to-twitter-update-v0.2.3
-tags: []
+  - /blog/xbox-live-to-twitter-update-v0-2-3
+  - /xbox-live-to-twitter-update-v0-2-3
+  - /xbox-live-to-twitter-update-(v0-2-3)
+  - /blog/xbox-live-to-twitter-update-(v0-2-3)
+  - /resources/blog/xbox-live-to-twitter-update-v0-2-3
+  - /xbox--live-to-twitter-update-(v0-2-3)
+  - /blog/xbox--live-to-twitter-update-(v0-2-3)
+  - /resources/blog/xbox-live-to-twitter-update-v0.2.3
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-xbox-360-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:06Z
-concepts: []
+ResourceImportId: 267
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-xbox-360-link-1-1.png
 
 ---
 I have updated the [Xbox Live to Twitter application](http://blog.hinshelwood.com/archive/2008/01/04/xbox-live-to-twitter.aspx) and it works quite well now. There are currently too many updates as you can see from my twitter on the left of my blog ![smile_omg](images/smile_omg-2-2.gif).

@@ -1,32 +1,35 @@
 ---
 title: Search just got better
 description: Tafiti is a visual search tool from Microsoft, offering easy filtering, saved searches, and features designed to improve web search for dyslexic users.
+date: 2007-08-21
+lastmod: 2007-08-21
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: TUpvQFU0NSg
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 323
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-21
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: search-just-got-better
 aliases:
-- /resources/TUpvQFU0NSg
+  - /resources/TUpvQFU0NSg
 aliasesArchive:
-- /blog/search-just-got-better
-- /search-just-got-better
-- /resources/blog/search-just-got-better
-tags: []
+  - /blog/search-just-got-better
+  - /search-just-got-better
+  - /resources/blog/search-just-got-better
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-6-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:28Z
-concepts: []
+ResourceImportId: 323
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-6-1.png
 
 ---
 I just had to pick my jaw up off the floor. What made me gawk! [Tafiti](http://www.tafiti.com/) that's what.

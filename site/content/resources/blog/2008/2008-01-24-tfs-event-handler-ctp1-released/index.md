@@ -1,32 +1,35 @@
 ---
 title: TFS Event Handler CTP1 Released
 description: Early release of a TFS Event Handler tool for managing server events, requiring manual setup and not production-ready; includes a basic client app with known issues.
+date: 2008-01-24
+lastmod: 2008-01-24
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: iC_oZlW88n0
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 261
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-01-24
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-event-handler-ctp1-released
 aliases:
-- /resources/iC_oZlW88n0
+  - /resources/iC_oZlW88n0
 aliasesArchive:
-- /blog/tfs-event-handler-ctp1-released
-- /tfs-event-handler-ctp1-released
-- /resources/blog/tfs-event-handler-ctp1-released
-tags: []
+  - /blog/tfs-event-handler-ctp1-released
+  - /tfs-event-handler-ctp1-released
+  - /resources/blog/tfs-event-handler-ctp1-released
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-4-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:53Z
-concepts: []
+ResourceImportId: 261
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-4-1.png
 
 ---
 I have just released a [new version](http://www.codeplex.com/TFSEventHandler/Release/ProjectReleases.aspx?ReleaseId=3910) of the [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Event Handler. This is a really rough version and you should not be used in a production environment.

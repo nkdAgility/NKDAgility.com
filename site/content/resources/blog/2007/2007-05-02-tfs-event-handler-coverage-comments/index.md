@@ -1,35 +1,37 @@
 ---
 title: 'TFS Event Handler: Coverage & Comments'
 description: Discusses feedback and key issues for the TFS Event Handler project, focusing on security for uploaded assemblies and handling of referenced assemblies in internal team use.
+date: 2007-05-02
+lastmod: 2007-05-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: PEksFd3ugtL
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 406
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-05-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-event-handler-coverage-comments
 aliases:
-- /resources/blog/tfs-event-handler-coverage-comments
-- /resources/PEksFd3ugtL
+  - /resources/PEksFd3ugtL
 aliasesArchive:
-- /blog/tfs-event-handler-coverage-comments
-- /tfs-event-handler-coverage-comments
-- /tfs-event-handler--coverage-&-comments
-- /blog/tfs-event-handler--coverage-&-comments
-- /resources/blog/tfs-event-handler-coverage-comments
-tags: []
+  - /blog/tfs-event-handler-coverage-comments
+  - /tfs-event-handler-coverage-comments
+  - /tfs-event-handler--coverage-&-comments
+  - /blog/tfs-event-handler--coverage-&-comments
+  - /resources/blog/tfs-event-handler-coverage-comments
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:34Z
-concepts: []
+ResourceImportId: 406
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 I am getting some positive feedback on the project from [Richard Berg](http://blogs.msdn.com/richardb), and he had blogged about it under the title of [New CodePlex project: TFS Event Handler](http://blogs.msdn.com/richardb/archive/2007/05/01/new-codeplex-project-tfs-event-handler.aspx "BUGBUG: poor title"). And [John Lambert](http://forums.microsoft.com/MSDN/showpost.aspx?postid=1542164&siteid=1 "Pass a assembly over a web service!") has commented on some issues that he has envisioned with referenced assemblies and security of allowing people to upload Assemblies.

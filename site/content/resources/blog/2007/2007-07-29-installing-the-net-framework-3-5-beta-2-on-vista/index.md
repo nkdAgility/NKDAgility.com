@@ -1,39 +1,42 @@
 ---
 title: Installing the .NET Framework 3.5 Beta 2 on Vista
 description: Step-by-step guide to resolving .NET Framework 3.5 Beta 2 installation issues on Windows Vista by uninstalling specific hotfixes and retrying the setup.
+date: 2007-07-29
+lastmod: 2007-07-29
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: kroCooKCsgh
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 357
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-29
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-the-net-framework-3-5-beta-2-on-vista
 aliases:
-- /resources/blog/installing-the-.net-framework-3.5-beta-2-on-vista
-- /resources/kroCooKCsgh
+  - /resources/blog/installing-the-.net-framework-3.5-beta-2-on-vista
+  - /resources/kroCooKCsgh
 aliasesArchive:
-- /blog/installing-the-net-framework-3-5-beta-2-on-vista
-- /installing-the-net-framework-3-5-beta-2-on-vista
-- /installing-the--net-framework-3-5-beta-2-on-vista
-- /blog/installing-the--net-framework-3-5-beta-2-on-vista
-- /resources/blog/installing-the-net-framework-3-5-beta-2-on-vista
-- /resources/blog/installing-the-.net-framework-3.5-beta-2-on-vista
-tags:
-- Windows
-- Install and Configuration
-- Troubleshooting
+  - /blog/installing-the-net-framework-3-5-beta-2-on-vista
+  - /installing-the-net-framework-3-5-beta-2-on-vista
+  - /installing-the--net-framework-3-5-beta-2-on-vista
+  - /blog/installing-the--net-framework-3-5-beta-2-on-vista
+  - /resources/blog/installing-the-net-framework-3-5-beta-2-on-vista
+  - /resources/blog/installing-the-.net-framework-3.5-beta-2-on-vista
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Windows
+  - Install and Configuration
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:27:16Z
-concepts: []
+ResourceImportId: 357
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 As you may have seen from my previous [post](http://blog.hinshelwood.com/archive/2007/07/27/Installing-Visual-Studio-2008-Beta-2.aspx "Installing Visual Studio 2008 Beta 2 on XP"), I have just installed VS2008B2 onto my old work computer, well it is now time to hit my Vista laptop with it:

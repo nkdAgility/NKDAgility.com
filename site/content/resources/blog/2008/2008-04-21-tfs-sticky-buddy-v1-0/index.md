@@ -1,34 +1,37 @@
 ---
 title: TFS Sticky Buddy v1.0
 description: Graphical tool for viewing, navigating, and managing TFS Work Items with customisable templates. Built in VB.NET and WPF; requires .NET 3.5 and Team Foundation Server.
+date: 2008-04-21
+lastmod: 2008-04-21
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: aLPelZ6_wNc
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 236
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-04-21
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-sticky-buddy-v1-0
 aliases:
-- /resources/blog/tfs-sticky-buddy-v1.0
-- /resources/aLPelZ6_wNc
+  - /resources/blog/tfs-sticky-buddy-v1.0
+  - /resources/aLPelZ6_wNc
 aliasesArchive:
-- /blog/tfs-sticky-buddy-v1-0
-- /tfs-sticky-buddy-v1-0
-- /resources/blog/tfs-sticky-buddy-v1-0
-- /resources/blog/tfs-sticky-buddy-v1.0
-tags: []
+  - /blog/tfs-sticky-buddy-v1-0
+  - /tfs-sticky-buddy-v1-0
+  - /resources/blog/tfs-sticky-buddy-v1-0
+  - /resources/blog/tfs-sticky-buddy-v1.0
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-2-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:17Z
-concepts: []
+ResourceImportId: 236
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-2-1.png
 
 ---
 This is the first [full release](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx) of the [TFS Sticky Buddy application](http://www.codeplex.com/TFSStickyBuddy) written in VB.NET 9 and WPF with Visual Studio 2008 Team Suit.

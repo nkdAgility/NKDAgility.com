@@ -1,32 +1,35 @@
 ---
 title: Serialize Assembly for Service calls over Http
 description: Explains how to transmit a .NET assembly over HTTP in a WCF service call, focusing on serialisation and deserialisation without using byte streams.
+date: 2007-04-24
+lastmod: 2007-04-24
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: TgSz2FK5KBK
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 415
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-04-24
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: serialize-assembly-for-service-calls-over-http
 aliases:
-- /resources/TgSz2FK5KBK
+  - /resources/TgSz2FK5KBK
 aliasesArchive:
-- /blog/serialize-assembly-for-service-calls-over-http
-- /serialize-assembly-for-service-calls-over-http
-- /resources/blog/serialize-assembly-for-service-calls-over-http
-tags: []
+  - /blog/serialize-assembly-for-service-calls-over-http
+  - /serialize-assembly-for-service-calls-over-http
+  - /resources/blog/serialize-assembly-for-service-calls-over-http
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:48Z
-concepts: []
+ResourceImportId: 415
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 I want to send a .NET assembly as either an System.Reflection.Assembly or as a string over the wire through a [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") web service. It seems that the class System.Reflection.Assembly can serialize, but is unable to deserialize at the other end. How can this be achieved without sending as a straem of Byte.

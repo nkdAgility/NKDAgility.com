@@ -1,34 +1,37 @@
 ---
 title: Windows Live Writer Beta 3 Hmm!
 description: Details an issue with downloading Windows Live Writer Beta 3, support response, and provides updated links for the correct installer and troubleshooting steps.
+date: 2007-10-03
+lastmod: 2007-10-03
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Mr03tdjOlLS
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 305
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-10-03
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: windows-live-writer-beta-3-hmm
 aliases:
-- /resources/Mr03tdjOlLS
+  - /resources/Mr03tdjOlLS
 aliasesArchive:
-- /blog/windows-live-writer-beta-3-hmm
-- /windows-live-writer-beta-3-hmm
-- /windows-live-writer-beta-3-hmm-
-- /blog/windows-live-writer-beta-3-hmm-
-- /resources/blog/windows-live-writer-beta-3-hmm
-tags: []
+  - /blog/windows-live-writer-beta-3-hmm
+  - /windows-live-writer-beta-3-hmm
+  - /windows-live-writer-beta-3-hmm-
+  - /blog/windows-live-writer-beta-3-hmm-
+  - /resources/blog/windows-live-writer-beta-3-hmm
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:58Z
-concepts: []
+ResourceImportId: 305
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I submitted a trouble ticket about my previous [post](http://blog.hinshelwood.com/archive/2007/10/02/Windows-Live-Writer-Beta-3.aspx) on [http://support.live.com](http://support.live.com) and got a prompt reply from Microsoft support giving me some directions for cleaning up beta bits of my system, and a URL for a direct download:

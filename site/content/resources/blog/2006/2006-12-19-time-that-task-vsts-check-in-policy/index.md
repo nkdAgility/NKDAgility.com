@@ -1,32 +1,35 @@
 ---
 title: Time That Task VSTS Check-In Policy
 description: Explores a TFS check-in policy for tracking task time, discusses challenges like task switching, and suggests using an external app to improve developer workflow.
+date: 2006-12-19
+lastmod: 2006-12-19
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 3-mqIx3Xkgv
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 446
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2006-12-19
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: time-that-task-vsts-check-in-policy
 aliases:
-- /resources/3-mqIx3Xkgv
+  - /resources/3-mqIx3Xkgv
 aliasesArchive:
-- /blog/time-that-task-vsts-check-in-policy
-- /time-that-task-vsts-check-in-policy
-- /resources/blog/time-that-task-vsts-check-in-policy
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/time-that-task-vsts-check-in-policy
+  - /time-that-task-vsts-check-in-policy
+  - /resources/blog/time-that-task-vsts-check-in-policy
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:44Z
-concepts: []
+ResourceImportId: 446
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I have found this interesting policy for TFS.

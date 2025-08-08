@@ -2,20 +2,32 @@
 title: The Scrum Guide (February 2010)
 short_title: The Scrum Guide (February 2010)
 description: A clear summary of Scrum’s framework, roles, events, artefacts, and values, explaining how teams use Scrum to deliver value and adapt to complex problems.
-ResourceId: 59gcHh1fYtC
+date: 2010-02-01
+lastmod: 2010-02-01
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 author:
   - Ken Schwaber
   - Jeff Sutherland
-date: 2010-02-01
-weight: 690
+ResourceId: 59gcHh1fYtC
 ResourceImport: false
 ResourceType: guides
-slug: "2010.2"
+ResourceContentOrigin: human
+slug: the-scrum-guide-february-2010
+aliases:
+  - /resources/59gcHh1fYtC
+concepts: []
+categories:
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-07T12:58:15Z
   short_title: 2025-07-07T16:40:32Z
----
 
+---
 ## Acknowledgements
 
 ### General

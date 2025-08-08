@@ -1,36 +1,39 @@
 ---
 title: Removing ACL's for dead AD accounts
 description: Explains how to identify and remove access control entries (ACLs) for deleted Active Directory accounts using .NET, including challenges and code examples for automation.
+date: 2008-01-22
+lastmod: 2008-01-22
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: l3dnUvBZV8r
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 262
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-01-22
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: removing-acls-for-dead-ad-accounts
+slug: removing-acl's-for-dead-ad-accounts
 aliases:
-- /resources/blog/removing-acl-s-for-dead-ad-accounts
-- /resources/l3dnUvBZV8r
+  - /resources/blog/removing-acl-s-for-dead-ad-accounts
+  - /resources/l3dnUvBZV8r
 aliasesArchive:
-- /blog/removing-acls-for-dead-ad-accounts
-- /removing-acls-for-dead-ad-accounts
-- /removing-acl's-for-dead-ad-accounts
-- /blog/removing-acl's-for-dead-ad-accounts
-- /resources/blog/removing-acls-for-dead-ad-accounts
-- /resources/blog/removing-acl-s-for-dead-ad-accounts
-tags: []
+  - /blog/removing-acls-for-dead-ad-accounts
+  - /removing-acls-for-dead-ad-accounts
+  - /removing-acl's-for-dead-ad-accounts
+  - /blog/removing-acl's-for-dead-ad-accounts
+  - /resources/blog/removing-acls-for-dead-ad-accounts
+  - /resources/blog/removing-acl-s-for-dead-ad-accounts
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:54Z
-concepts: []
+ResourceImportId: 262
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 [![image](images/RemovingACLsfordeadADaccounts_C3E6-image_thumb-5-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-RemovingACLsfordeadADaccounts_C3E6-image_2.png) I have run into a very vexing problem with one of my applications. I was asked to provide an application that would fin all of the permissions set against Active Directory accounts that have been since removed. These normally show up in the permissions dialogs for folders as the full SID of the account as there is no longer nay way to look it up in Active Directory.

@@ -5,10 +5,10 @@ description: Explores how teaching the reasons behind Agile practices boosts tea
 tldr: Helping teams understand the reasons behind Agile practices is key to real engagement and lasting change. When team members grasp the value and purpose of what they do, they collaborate better, adapt more easily, and drive continuous improvement. Development managers should focus on explaining the "why" behind processes to empower teams and boost performance.
 date: 2023-04-27T07:00:31Z
 lastmod: 2023-04-27T07:00:31Z
-weight: 745
+weight: 290
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: monthly
 ResourceId: xuNNZnCNVWs
 ResourceImport: true
@@ -33,9 +33,11 @@ source: youtube
 layout: video
 concepts: []
 categories:
+  - Technical Leadership
   - Product Development
   - Leadership
 tags:
+  - Pragmatic Thinking
   - Coaching
   - Software Development
   - Scrum Master

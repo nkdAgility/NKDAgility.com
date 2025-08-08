@@ -1,32 +1,35 @@
 ---
 title: OutSync with proxy servers
 description: Explains how to configure .NET applications, like OutSync, to work with proxy servers by editing the config file for proxy authentication and connectivity.
+date: 2008-06-11
+lastmod: 2008-06-11
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: juUxY8REuRz
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 220
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-06-11
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: outsync-with-proxy-servers
 aliases:
-- /resources/juUxY8REuRz
+  - /resources/juUxY8REuRz
 aliasesArchive:
-- /blog/outsync-with-proxy-servers
-- /outsync-with-proxy-servers
-- /resources/blog/outsync-with-proxy-servers
-tags: []
+  - /blog/outsync-with-proxy-servers
+  - /outsync-with-proxy-servers
+  - /resources/blog/outsync-with-proxy-servers
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-2-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:23:56Z
-concepts: []
+ResourceImportId: 220
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-1.png
 
 ---
 [![image](images/OutSyncwithproxyservers_B70A-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-OutSyncwithproxyservers_B70A-image_2.png)If like me you want to try the rather [groovy sync tool for Outlook](http://blogs.msdn.com/lokeuei/archive/2007/09/12/outsync-outlook-facebook-sync-released.aspx) that syncs your contacts (and pictures ) with your outlook contacts, which will then be displayed on your mobile phone, and you are behind a proxy server, then this info is for you…

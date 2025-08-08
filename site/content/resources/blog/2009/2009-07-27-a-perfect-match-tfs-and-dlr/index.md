@@ -1,32 +1,35 @@
 ---
 title: A perfect match TFS and DLR
 description: Explores integrating Team Foundation Server check-in policies with the Dynamic Language Runtime to enable flexible, centralised policy management across clients.
+date: 2009-07-27
+lastmod: 2009-07-27
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: JlC3Gm8IgO8
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 96
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-07-27
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: a-perfect-match-tfs-and-dlr
 aliases:
-- /resources/JlC3Gm8IgO8
+  - /resources/JlC3Gm8IgO8
 aliasesArchive:
-- /blog/a-perfect-match-tfs-and-dlr
-- /a-perfect-match-tfs-and-dlr
-- /resources/blog/a-perfect-match-tfs-and-dlr
-tags: []
+  - /blog/a-perfect-match-tfs-and-dlr
+  - /a-perfect-match-tfs-and-dlr
+  - /resources/blog/a-perfect-match-tfs-and-dlr
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2010-128-link-3-3.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:23:25Z
-concepts: []
+ResourceImportId: 96
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---
 [![ConfigurationRequired](images/Aperfictmatch_701B-ConfigurationRequired_thumb-2-2.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Aperfictmatch_701B-ConfigurationRequired_2.jpg) I have always been annoyed with the mechanics of the Team Foundation Server check-in policies. I understand the limitations, but having to have a specific policy installed on every developers computer before you can use it is slightly ridicules and practically unmanageable. Why is there not a way to have a single installation that allows you to select any policy you want and have it execute in the desired manor on every client, including web clients?

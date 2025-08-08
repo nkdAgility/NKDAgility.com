@@ -1,36 +1,39 @@
 ---
 title: .NET Service Manager
 description: A tool for managing and integrating local and remote services in .NET applications, enabling easy creation of client-side APIs for web services and components.
+date: 2008-08-06
+lastmod: 2008-08-06
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: tzY7cIvFnOc
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 213
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-08-06
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: net-service-manager
 aliases:
-- /resources/blog/.net-service-manager
-- /resources/tzY7cIvFnOc
+  - /resources/blog/.net-service-manager
+  - /resources/tzY7cIvFnOc
 aliasesArchive:
-- /blog/net-service-manager
-- /net-service-manager
-- /-net-service-manager
-- /blog/-net-service-manager
-- /resources/blog/net-service-manager
-- /resources/blog/.net-service-manager
-tags: []
+  - /blog/net-service-manager
+  - /net-service-manager
+  - /-net-service-manager
+  - /blog/-net-service-manager
+  - /resources/blog/net-service-manager
+  - /resources/blog/.net-service-manager
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:23:43Z
-concepts: []
+ResourceImportId: 213
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-2.png
 
 ---
 A while a go I create a [Service Manager](http://blog.hinshelwood.com/articles/Creating-a-managed-service-factory-Article.aspx). A way of wrapping local and remote services (widgets, bits, things) for use in any application within your business or just in your own code…

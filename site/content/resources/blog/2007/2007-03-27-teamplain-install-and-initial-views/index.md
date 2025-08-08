@@ -1,34 +1,37 @@
 ---
 title: TeamPlain - Install and initial views
 description: Covers installing TeamPlain, initial setup experience, project name display issues, and early observations on user access control and web-based project management features.
+date: 2007-03-27
+lastmod: 2007-03-27
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: SlsFZ5kO1Jc
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 421
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-03-27
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: teamplain-install-and-initial-views
 aliases:
-- /resources/SlsFZ5kO1Jc
+  - /resources/SlsFZ5kO1Jc
 aliasesArchive:
-- /blog/teamplain-install-and-initial-views
-- /teamplain-install-and-initial-views
-- /teamplain---install-and-initial-views
-- /blog/teamplain---install-and-initial-views
-- /resources/blog/teamplain-install-and-initial-views
-tags: []
+  - /blog/teamplain-install-and-initial-views
+  - /teamplain-install-and-initial-views
+  - /teamplain---install-and-initial-views
+  - /blog/teamplain---install-and-initial-views
+  - /resources/blog/teamplain-install-and-initial-views
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:56Z
-concepts: []
+ResourceImportId: 421
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 Well, I got TeamPlain installed in about 30 seconds on my dev servers. In fact, it went so well that after about 10 minutes of messing around with it, I installed it in production as well.

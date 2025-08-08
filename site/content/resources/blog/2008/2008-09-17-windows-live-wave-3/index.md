@@ -1,32 +1,35 @@
 ---
 title: Windows Live Wave 3
 description: Download and try the latest Windows Live Wave 3 beta applications, including Messenger and Writer, with options for web or full local installation in multiple languages.
+date: 2008-09-17
+lastmod: 2008-09-17
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: V2MkZWsiMbX
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 192
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-09-17
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: windows-live-wave-3
 aliases:
-- /resources/V2MkZWsiMbX
+  - /resources/V2MkZWsiMbX
 aliasesArchive:
-- /blog/windows-live-wave-3
-- /windows-live-wave-3
-- /resources/blog/windows-live-wave-3
-tags: []
+  - /blog/windows-live-wave-3
+  - /windows-live-wave-3
+  - /resources/blog/windows-live-wave-3
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:23:12Z
-concepts: []
+ResourceImportId: 192
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 With the new Windows Live Wave 3 betas now available I am looking forward to many of the features I have already previewed in the beta of Windows Live Messenger 9.

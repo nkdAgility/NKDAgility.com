@@ -38,6 +38,7 @@ tags:
   - Pragmatic Thinking
   - Software Development
   - Technical Excellence
+  - Personal
 Watermarks:
   description: 2025-05-07T12:56:41Z
   short_title: 2025-07-07T17:47:09Z

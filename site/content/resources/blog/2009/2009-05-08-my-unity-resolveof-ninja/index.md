@@ -1,37 +1,40 @@
 ---
 title: My.Unity.Resolve(Of Ninja)
 description: Shows how to create a shared UnityContainer singleton in VB.NET using the “My” namespace, enabling dependency injection across WPF and ASP.NET applications.
+date: 2009-05-08
+lastmod: 2009-05-08
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: whj_VeMcGAL
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 123
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-05-08
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: my-unity-resolveof-ninja
+slug: my-unity-resolve-of-ninja
 aliases:
-- /resources/blog/my.unity.resolve-of-ninja
-- /resources/whj_VeMcGAL
+  - /resources/blog/my.unity.resolve-of-ninja
+  - /resources/whj_VeMcGAL
 aliasesArchive:
-- /blog/my-unity-resolveof-ninja
-- /my-unity-resolveof-ninja
-- /my-unity-resolve(of-ninja)
-- /blog/my-unity-resolve(of-ninja)
-- /resources/blog/my-unity-resolveof-ninja
-- /resources/blog/my.unity.resolve-of-ninja
-tags:
-- Software Development
+  - /blog/my-unity-resolveof-ninja
+  - /my-unity-resolveof-ninja
+  - /my-unity-resolve(of-ninja)
+  - /blog/my-unity-resolve(of-ninja)
+  - /resources/blog/my-unity-resolveof-ninja
+  - /resources/blog/my.unity.resolve-of-ninja
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-4-1.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T15:24:08Z
-concepts: []
+ResourceImportId: 123
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-4-1.png
 
 ---
 I have been attempting to integrate the Unity Application Block into my website to allow me to share the same base object code between a WPF and an ASP.NET application. I will let you know how I am getting along later as I am still knee deep in refactoring, but I have found something a little useful.

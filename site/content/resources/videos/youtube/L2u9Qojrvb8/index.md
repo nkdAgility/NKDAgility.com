@@ -32,6 +32,7 @@ concepts: []
 categories:
   - DevOps
 tags:
+  - Personal
   - Software Development
   - Pragmatic Thinking
 Watermarks:

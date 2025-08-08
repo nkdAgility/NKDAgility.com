@@ -1,34 +1,37 @@
 ---
 title: TFS Sticky Buddy v0.3.1 CTP1
 description: Preview release of a WPF-based dashboard for Team Foundation Server, showing Areas and Iterations as diagrams; early version with limited features and bug reporting.
+date: 2008-04-15
+lastmod: 2008-04-15
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: UkSxUYTe7U_
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 239
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-04-15
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-sticky-buddy-v0-3-1-ctp1
 aliases:
-- /resources/blog/tfs-sticky-buddy-v0.3.1-ctp1
-- /resources/UkSxUYTe7U_
+  - /resources/blog/tfs-sticky-buddy-v0.3.1-ctp1
+  - /resources/UkSxUYTe7U_
 aliasesArchive:
-- /blog/tfs-sticky-buddy-v0-3-1-ctp1
-- /tfs-sticky-buddy-v0-3-1-ctp1
-- /resources/blog/tfs-sticky-buddy-v0-3-1-ctp1
-- /resources/blog/tfs-sticky-buddy-v0.3.1-ctp1
-tags: []
+  - /blog/tfs-sticky-buddy-v0-3-1-ctp1
+  - /tfs-sticky-buddy-v0-3-1-ctp1
+  - /resources/blog/tfs-sticky-buddy-v0-3-1-ctp1
+  - /resources/blog/tfs-sticky-buddy-v0.3.1-ctp1
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-3-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:22Z
-concepts: []
+ResourceImportId: 239
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-3-1.png
 
 ---
 [![image](images/TFSStickyBuddyv0.3.1CTP1_FB78-image_thumb_2-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyv0.3.1CTP1_FB78-image_6.png) There is a Community Technology Preview release of the [Team Foundation Server Sticky Buddy](http://www.codeplex.com/TFSStickyBuddy) digital dashboard project that is built using Windows Presentation Foundation (WPF). I have used the source code from the Family.Show project to create functionality and a look that is appealing.

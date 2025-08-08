@@ -1,37 +1,40 @@
 ---
 title: Installing .NET 4.0 Beta 1 on Windows Vista 64x
 description: Step-by-step guide to installing .NET 4.0 Beta 1 on Windows Vista 64-bit, including installation time, key new features, and links to further resources.
+date: 2009-05-18
+lastmod: 2009-05-18
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: v5UNW1ylUxI
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 120
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-05-18
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-net-4-0-beta-1-on-windows-vista-64x
 aliases:
-- /resources/blog/installing-.net-4.0-beta-1-on-windows-vista-64x
-- /resources/v5UNW1ylUxI
+  - /resources/blog/installing-.net-4.0-beta-1-on-windows-vista-64x
+  - /resources/v5UNW1ylUxI
 aliasesArchive:
-- /blog/installing-net-4-0-beta-1-on-windows-vista-64x
-- /installing-net-4-0-beta-1-on-windows-vista-64x
-- /installing--net-4-0-beta-1-on-windows-vista-64x
-- /blog/installing--net-4-0-beta-1-on-windows-vista-64x
-- /resources/blog/installing-net-4-0-beta-1-on-windows-vista-64x
-- /resources/blog/installing-.net-4.0-beta-1-on-windows-vista-64x
-tags:
-- Windows
+  - /blog/installing-net-4-0-beta-1-on-windows-vista-64x
+  - /installing-net-4-0-beta-1-on-windows-vista-64x
+  - /installing--net-4-0-beta-1-on-windows-vista-64x
+  - /blog/installing--net-4-0-beta-1-on-windows-vista-64x
+  - /resources/blog/installing-net-4-0-beta-1-on-windows-vista-64x
+  - /resources/blog/installing-.net-4.0-beta-1-on-windows-vista-64x
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-4-4.png
+  - Uncategorized
+tags:
+  - Windows
 Watermarks:
   description: 2025-05-13T15:23:52Z
-concepts: []
+ResourceImportId: 120
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-4-4.png
 
 ---
 [![VS-TS_rgb_thumb[2][5]](images/Installing.NET4_.0Beta1onWindowsVista64x_E872-VS-TS_rgb_thumb25-3-3.png)](/Users/martihins/AppData/Local/Temp/WindowsLiveWriter1286139640/supfiles16EE3EF/VS-TS_rgb%5B4%5D.png)Today we see the first beta release of Microsoft's latest version of the .NET Framework. I will document the install process here, because well, some people just need assurances that it works ;)

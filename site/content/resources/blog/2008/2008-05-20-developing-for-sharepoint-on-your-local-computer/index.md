@@ -1,32 +1,35 @@
 ---
 title: Developing for SharePoint on your local computer
 description: Guide to setting up Visual Studio 2008 and required tools for developing and testing SharePoint solutions locally without a full SharePoint server installation.
+date: 2008-05-20
+lastmod: 2008-05-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: WDzxUI3sjlD
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 223
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-05-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: developing-for-sharepoint-on-your-local-computer
 aliases:
-- /resources/WDzxUI3sjlD
+  - /resources/WDzxUI3sjlD
 aliasesArchive:
-- /blog/developing-for-sharepoint-on-your-local-computer
-- /developing-for-sharepoint-on-your-local-computer
-- /resources/blog/developing-for-sharepoint-on-your-local-computer
-tags: []
+  - /blog/developing-for-sharepoint-on-your-local-computer
+  - /developing-for-sharepoint-on-your-local-computer
+  - /resources/blog/developing-for-sharepoint-on-your-local-computer
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:23:59Z
-concepts: []
+ResourceImportId: 223
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 If you are wanting to developer solutions for SharePoint in Visual Studio 2008 then you need a couple of things to get started:

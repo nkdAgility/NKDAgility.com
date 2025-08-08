@@ -33,12 +33,12 @@ tags:
   - Product Delivery
   - Operational Practices
   - Agile Leadership
+  - Coaching
   - Team Performance
   - Agentic Agility
   - Agile Frameworks
   - Organisational Agility
   - Pragmatic Thinking
-  - Coaching
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7310337177316478976

@@ -1,32 +1,35 @@
 ---
 title: Experts Exchange Hell - The slowest site in the world
 description: Analysis of Experts Exchange’s slow website performance, highlighting large page sizes, excessive HTML, and poor user experience on both fast and slow connections.
+date: 2007-10-05
+lastmod: 2007-10-05
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 994E1GchH-N
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 302
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-10-05
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: experts-exchange-hell-the-slowest-site-in-the-world
 aliases:
-- /resources/994E1GchH-N
+  - /resources/994E1GchH-N
 aliasesArchive:
-- /blog/experts-exchange-hell-the-slowest-site-in-the-world
-- /experts-exchange-hell-the-slowest-site-in-the-world
-- /resources/blog/experts-exchange-hell-the-slowest-site-in-the-world
-tags: []
+  - /blog/experts-exchange-hell-the-slowest-site-in-the-world
+  - /experts-exchange-hell-the-slowest-site-in-the-world
+  - /resources/blog/experts-exchange-hell-the-slowest-site-in-the-world
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-3-3.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:54Z
-concepts: []
+ResourceImportId: 302
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-3-3.png
 
 ---
 I know a couple of people who have been complaining that Experts Exchange was getting rather slow, and I had noticed the same. So I thought I would investigate how big the pages really are.

@@ -2,34 +2,39 @@
 title: Mastering Azure Repos Training
 short_title: Mastering Azure Repos Training
 description: Learn to configure and use Azure Repos for Git version control, collaborate with branching and pull requests, and integrate with Visual Studio and GitHub in Azure DevOps.
+tldr: This one-day intermediate course teaches developers how to configure and use Azure Repos for Git version control, focusing on collaboration, code quality, and integration with Visual Studio tools. Participants will learn core Git workflows, advanced Azure Repos features, and best practices for team collaboration. Consider enrolling your team to improve version control skills and streamline development processes in Azure DevOps.
 date: 2020-08-31
 weight: 600
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: d4jyFSYdS2v
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: mastering-azure-repos-training
 aliases:
-- /training-courses/mastering-azure-repos
-- /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
-- /capabilities/training-courses/accentient/mastering-azure-repos-training
-- /resources/d4jyFSYdS2v
+  - /training-courses/mastering-azure-repos
+  - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
+  - /capabilities/training-courses/accentient/mastering-azure-repos-training
+  - /resources/d4jyFSYdS2v
 aliasesArchive:
-- /training-courses/mastering-azure-repos
-- /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
-- /capabilities/training-courses/accentient/mastering-azure-repos-training
+  - /training-courses/mastering-azure-repos
+  - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
+  - /capabilities/training-courses/accentient/mastering-azure-repos-training
 concepts:
-- Tool
+  - Tool
 categories:
-- Engineering Excellence
+  - Engineering Excellence
 tags:
-- Azure DevOps
-- Azure Repos
-- Install and Configuration
-- Modern Source Control
-- Software Development
-- Technical Excellence
-- Technical Mastery
+  - Azure DevOps
+  - Azure Repos
+  - Install and Configuration
+  - Modern Source Control
+  - Software Development
+  - Technical Excellence
+  - Technical Mastery
 card:
   button:
     content: ""
@@ -38,23 +43,24 @@ card:
 Watermarks:
   description: 2025-07-29T15:01:22Z
   short_title: 2025-07-29T15:01:23Z
+  tldr: 2025-08-08T11:40:18Z
 creator: Martin Hinshelwood
 type: course
 url: 
 course_topics:
-- Azure DevOps Training Courses
+  - Azure DevOps Training Courses
 course_vendors:
-- Accentient
+  - Accentient
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- Developers
+  - Developers
 preview: 
 previewIcon: A-MARS.png
 brandColour: 
 code: MARS
 course_proficiencies:
-- intermediate
+  - intermediate
 introduction: |2-
 
   ### Course content

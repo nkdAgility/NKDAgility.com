@@ -25,7 +25,7 @@ aliasesArchive:
   - /resources/blog/work-can-flow-across-sprint-boundary
 layout: blog
 concepts:
-  - Practice
+  - Method
 categories:
   - Product Development
   - Scrum

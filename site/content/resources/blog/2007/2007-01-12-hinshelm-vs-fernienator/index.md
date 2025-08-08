@@ -1,32 +1,35 @@
 ---
 title: hinshelm vs fernienator
 description: A light-hearted comparison of gaming performance between the author and their brother-in-law, featuring Xbox gameplay and a personal scoreboard update.
+date: 2007-01-12
+lastmod: 2007-01-12
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: RqLAuKHYWAJ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 443
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-01-12
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: hinshelm-vs-fernienator
 aliases:
-- /resources/RqLAuKHYWAJ
+  - /resources/RqLAuKHYWAJ
 aliasesArchive:
-- /blog/hinshelm-vs-fernienator
-- /hinshelm-vs-fernienator
-- /resources/blog/hinshelm-vs-fernienator
-tags: []
+  - /blog/hinshelm-vs-fernienator
+  - /hinshelm-vs-fernienator
+  - /resources/blog/hinshelm-vs-fernienator
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-xbox-360-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:29:28Z
-concepts: []
+ResourceImportId: 443
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-xbox-360-link-2-2.png
 
 ---
 Or me vs my brother-in-law!

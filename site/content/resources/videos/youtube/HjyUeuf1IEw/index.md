@@ -5,10 +5,10 @@ description: Explore practical strategies for Agile training, including virtual 
 tldr: Continuous forecasting in Agile, supported by metrics and tools like Monte Carlo simulations, enables teams to plan flexibly and adapt quickly rather than committing to a full sprint plan upfront. Virtual training with interactive tools and follow-up sessions has improved learning and engagement. Development managers should consider adopting continuous forecasting and leveraging available training resources to enhance team performance and responsiveness.
 date: 2020-05-21T05:26:17Z
 lastmod: 2020-05-21T05:26:17Z
-weight: 675
+weight: 385
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ResourceId: HjyUeuf1IEw
 ResourceImport: true

@@ -2,34 +2,40 @@
 title: Scrum for Stakeholders Training
 short_title: Scrum Fundamentals for Stakeholders
 description: Introduces stakeholders to Scrum fundamentals, roles, and events, focusing on effective engagement, benefits over traditional methods, and practical participation skills.
+tldr: This one-day beginner course helps stakeholders understand Scrum, its benefits over traditional methods, and how to engage effectively with Scrum teams. Participants will learn Scrum fundamentals, how to interact with key roles, and how to measure success in agile environments. Consider enrolling your stakeholders to improve collaboration and support for Scrum adoption.
 date: 2020-08-31
-weight: 1000
+weight: 645
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: 33qyqKjBf3T
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: scrum-for-stakeholders-training
 aliases:
-- /training-courses/scrum-for-stakeholders
-- /training-courses/scrum-for-stakeholders-training/
-- /capabilities/training-courses/accentient/scrum-for-stakeholders-training
-- /resources/33qyqKjBf3T
+  - /training-courses/scrum-for-stakeholders
+  - /training-courses/scrum-for-stakeholders-training/
+  - /capabilities/training-courses/accentient/scrum-for-stakeholders-training
+  - /resources/33qyqKjBf3T
 aliasesArchive:
-- /training-courses/scrum-for-stakeholders
-- /training-courses/scrum-for-stakeholders-training/
-- /capabilities/training-courses/accentient/scrum-for-stakeholders-training
+  - /training-courses/scrum-for-stakeholders
+  - /training-courses/scrum-for-stakeholders-training/
+  - /capabilities/training-courses/accentient/scrum-for-stakeholders-training
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Project Management
-- Agile Frameworks
-- Agile Product Management
-- Agile Transformation
-- Professional Scrum
-- Software Development
+  - Project Management
+  - Product Delivery
+  - Agile Frameworks
+  - Agile Product Management
+  - Agile Transformation
+  - Professional Scrum
+  - Software Development
 card:
   button:
     content: ""
@@ -38,23 +44,24 @@ card:
 Watermarks:
   description: 2025-07-29T15:01:30Z
   short_title: 2025-07-29T15:01:31Z
+  tldr: 2025-08-08T11:40:11Z
 creator: Martin Hinshelwood
 type: course
 url: 
 course_topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course_vendors:
-- Accentient
+  - Accentient
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- Product Managers
+  - Product Managers
 preview: 
 previewIcon: A-S4S.png
 brandColour: 
 code: S4S
 course_proficiencies:
-- beginner
+  - beginner
 introduction: |2
 
   ### Course Outline

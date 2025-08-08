@@ -1,33 +1,36 @@
 ---
 title: Merry Christmas
 description: Seasonal greetings with links to create and send ElfYourself eCards, plus troubleshooting tips for viewing animated holiday cards online.
+date: 2008-12-10
+lastmod: 2008-12-10
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: MUY1jFEETH6
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 154
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-12-10
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: merry-christmas
 aliases:
-- /resources/MUY1jFEETH6
+  - /resources/MUY1jFEETH6
 aliasesArchive:
-- /blog/merry-christmas
-- /merry-christmas
-- /resources/blog/merry-christmas
+  - /blog/merry-christmas
+  - /merry-christmas
+  - /resources/blog/merry-christmas
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags:
-- Miscellaneous
+  - Miscellaneous
 Watermarks:
   description: 2025-05-13T16:22:08Z
-concepts: []
+ResourceImportId: 154
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 With many people skipping off early for their holly bags, me included.. I thought I should send this out now…

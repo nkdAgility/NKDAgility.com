@@ -1,39 +1,41 @@
 ---
 title: TFS Gotcha (server name)
 description: Explains how to fix TFS installation issues caused by server name and proxy settings by editing the hosts file and renaming the server to its fully qualified domain name.
+date: 2007-03-19
+lastmod: 2007-03-19
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: l7s81fXVkty
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 427
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-03-19
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-gotcha-server-name
 aliases:
-- /resources/blog/tfs-gotcha-server-name
-- /resources/l7s81fXVkty
+  - /resources/l7s81fXVkty
 aliasesArchive:
-- /blog/tfs-gotcha-server-name
-- /tfs-gotcha-server-name
-- /tfs-gotcha-(server-name)
-- /blog/tfs-gotcha-(server-name)
-- /resources/blog/tfs-gotcha-server-name
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/tfs-gotcha-server-name
+  - /tfs-gotcha-server-name
+  - /tfs-gotcha-(server-name)
+  - /blog/tfs-gotcha-(server-name)
+  - /resources/blog/tfs-gotcha-server-name
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Troubleshooting
-- Install and Configuration
-- Windows
-- System Configuration
+  - Troubleshooting
+  - Install and Configuration
+  - Windows
+  - System Configuration
 Watermarks:
   description: 2025-05-13T16:29:06Z
-concepts: []
+ResourceImportId: 427
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 If you are installing TFS in a large network that utilises proxy servers, especialy those that strip network credentials for what it thinks are internet sites, then you may run into problems..

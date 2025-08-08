@@ -1,32 +1,35 @@
 ---
 title: Service Manager Factory
 description: Provides an upgraded managed service factory for .NET, with installer support for GAC deployment, enabling integration into various applications. Download and documentation available.
+date: 2007-08-11
+lastmod: 2007-08-11
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 2LUs5HFK_O5
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 335
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-11
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: service-manager-factory
 aliases:
-- /resources/2LUs5HFK_O5
+  - /resources/2LUs5HFK_O5
 aliasesArchive:
-- /blog/service-manager-factory
-- /service-manager-factory
-- /resources/blog/service-manager-factory
-tags: []
+  - /blog/service-manager-factory
+  - /service-manager-factory
+  - /resources/blog/service-manager-factory
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:47Z
-concepts: []
+ResourceImportId: 335
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I have upgraded and [release](http://servicemanager.codeplex.com/) some code for the [managed service factory](http://blog.hinshelwood.com/articles/Creating-a-managed-service-factory-Article.aspx) that I wrote about earlier in the year. I have started the internal documentation process and the installer will install it to the GAC so you can use it in any of your applications... More to follow.

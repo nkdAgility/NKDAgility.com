@@ -1,31 +1,34 @@
 ---
 title: Falling of the TFS rehabilitation wagon
 description: Discusses implementing Team Foundation Server (TFS) for comprehensive project management, customising features, and integrating with SharePoint 2007 and business data tools.
+date: 2007-10-19
+lastmod: 2007-10-19
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: xhOqFwLeKh2
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 298
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-10-19
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: falling-of-the-tfs-rehabilitation-wagon
 aliases:
-- /resources/xhOqFwLeKh2
+  - /resources/xhOqFwLeKh2
 aliasesArchive:
-- /blog/falling-of-the-tfs-rehabilitation-wagon
-- /falling-of-the-tfs-rehabilitation-wagon
-tags: []
+  - /blog/falling-of-the-tfs-rehabilitation-wagon
+  - /falling-of-the-tfs-rehabilitation-wagon
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:49Z
-concepts: []
+ResourceImportId: 298
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 And here I though I was waving good buy to [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") in the short term, but here I am Installing it for [Aggreko](http://www.aggreko.co.uk). My boss came to me a couple of days ago and asked for a Work Item Tracking system in SharePoint 2007. I did my best, but as the requirements got more complicated and the metrics that they wanted to report on exploded, I said that TFS was the answer...

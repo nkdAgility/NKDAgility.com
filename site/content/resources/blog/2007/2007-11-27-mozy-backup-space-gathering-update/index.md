@@ -1,32 +1,35 @@
 ---
 title: Mozy Backup Space Gathering update
 description: Update on Mozy backup referral progress, explaining how extra storage is earned when referrals complete their first backup and tracking current referral statuses.
+date: 2007-11-27
+lastmod: 2007-11-27
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Ijl3My1sDG-
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 286
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-11-27
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: mozy-backup-space-gathering-update
 aliases:
-- /resources/Ijl3My1sDG-
+  - /resources/Ijl3My1sDG-
 aliasesArchive:
-- /blog/mozy-backup-space-gathering-update
-- /mozy-backup-space-gathering-update
-- /resources/blog/mozy-backup-space-gathering-update
+  - /blog/mozy-backup-space-gathering-update
+  - /mozy-backup-space-gathering-update
+  - /resources/blog/mozy-backup-space-gathering-update
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-2-2.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:32Z
-concepts: []
+ResourceImportId: 286
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-2.png
 
 ---
 Well, I currently have two referrals :)

@@ -5,10 +5,10 @@ description: Explores practical ways to apply agile training at work, using expe
 tldr: Agile training is most effective when participants actively experiment with new tools and techniques in their own work environments, adapting them to fit their team’s context. Techniques like "One, Two, Four, All" foster inclusive engagement and help turn group ideas into actionable plans, even in virtual settings. Development managers should encourage their teams to try these approaches and create safe spaces for sharing, which leads to better collaboration and practical results.
 date: 2023-04-24T07:00:03Z
 lastmod: 2023-04-24T07:00:03Z
-weight: 805
+weight: 435
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ResourceId: BRRQ1JWsHpQ
 ResourceImport: true

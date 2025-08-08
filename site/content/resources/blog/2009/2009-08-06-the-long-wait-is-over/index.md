@@ -1,33 +1,36 @@
 ---
 title: The long wait is over
 description: Windows 7 is now available to developers and beta testers, offering improved stability, speed, and features over Vista, with general release coming in September 2009.
+date: 2009-08-06
+lastmod: 2009-08-06
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Ahz5CpOOGZl
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 93
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-08-06
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-long-wait-is-over
 aliases:
-- /resources/Ahz5CpOOGZl
+  - /resources/Ahz5CpOOGZl
 aliasesArchive:
-- /blog/the-long-wait-is-over
-- /the-long-wait-is-over
-- /resources/blog/the-long-wait-is-over
-tags:
-- Windows
+  - /blog/the-long-wait-is-over
+  - /the-long-wait-is-over
+  - /resources/blog/the-long-wait-is-over
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-2-2.png
+  - Uncategorized
+tags:
+  - Windows
 Watermarks:
   description: 2025-05-13T15:23:22Z
-concepts: []
+ResourceImportId: 93
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-2.png
 
 ---
 Have you been waiting for a long time for [Windows 7](http://www.microsoft.com/windows/windows-7/)? Well I have.. I have been able to use Beta 1 and the RC for a good while now, and it surprised me that the Windows 7 Beta 1 was more stable, responsive and cleaner than Vista was after Service Pack 3.

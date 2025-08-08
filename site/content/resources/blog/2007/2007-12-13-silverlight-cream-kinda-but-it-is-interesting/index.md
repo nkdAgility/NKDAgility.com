@@ -1,36 +1,39 @@
 ---
 title: Silverlight cream, kinda, but it is interesting!
 description: Explores Microsoft's use of Silverlight in its downloads site beta, comparing it to Flash, and discusses early adoption and internal testing of Silverlight technology.
+date: 2007-12-13
+lastmod: 2007-12-13
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: FoFh5MvtoSA
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 278
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-12-13
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: silverlight-cream-kinda-but-it-is-interesting
 aliases:
-- /resources/FoFh5MvtoSA
+  - /resources/FoFh5MvtoSA
 aliasesArchive:
-- /blog/silverlight-cream-kinda-but-it-is-interesting
-- /silverlight-cream-kinda-but-it-is-interesting
-- /silverlight-cream,-kinda,-but-it-is-interesting-
-- /blog/silverlight-cream,-kinda,-but-it-is-interesting-
-- /silverlight-cream--kinda--but-it-is-interesting-
-- /blog/silverlight-cream--kinda--but-it-is-interesting-
-- /resources/blog/silverlight-cream-kinda-but-it-is-interesting
-tags: []
+  - /blog/silverlight-cream-kinda-but-it-is-interesting
+  - /silverlight-cream-kinda-but-it-is-interesting
+  - /silverlight-cream,-kinda,-but-it-is-interesting-
+  - /blog/silverlight-cream,-kinda,-but-it-is-interesting-
+  - /silverlight-cream--kinda--but-it-is-interesting-
+  - /blog/silverlight-cream--kinda--but-it-is-interesting-
+  - /resources/blog/silverlight-cream-kinda-but-it-is-interesting
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:14Z
-concepts: []
+ResourceImportId: 278
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Well, I was browsing the Microsoft downloads site looking for SP1 for SharePoint and a wee popup asked if I would like to see the [http://download.microsoft.com](http://download.microsoft.com) beta...

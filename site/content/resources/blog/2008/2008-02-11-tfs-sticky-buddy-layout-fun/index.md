@@ -1,36 +1,39 @@
 ---
 title: TFS Sticky Buddy layout fun...
 description: A developer shares challenges and insights from building a TFS Sticky Buddy UI in WinForms and WPF, comparing layout issues and ease of use between the two frameworks.
+date: 2008-02-11
+lastmod: 2008-02-11
+weight: 875
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: kiOEzMLUa0k
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 249
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-02-11
-weight: 875
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-sticky-buddy-layout-fun
 aliases:
-- /resources/blog/tfs-sticky-buddy-layout-fun...
-- /resources/kiOEzMLUa0k
+  - /resources/blog/tfs-sticky-buddy-layout-fun...
+  - /resources/kiOEzMLUa0k
 aliasesArchive:
-- /blog/tfs-sticky-buddy-layout-fun
-- /tfs-sticky-buddy-layout-fun---
-- /blog/tfs-sticky-buddy-layout-fun---
-- /tfs-sticky-buddy-layout-fun
-- /resources/blog/tfs-sticky-buddy-layout-fun
-- /resources/blog/tfs-sticky-buddy-layout-fun...
-tags: []
+  - /blog/tfs-sticky-buddy-layout-fun
+  - /tfs-sticky-buddy-layout-fun---
+  - /blog/tfs-sticky-buddy-layout-fun---
+  - /tfs-sticky-buddy-layout-fun
+  - /resources/blog/tfs-sticky-buddy-layout-fun
+  - /resources/blog/tfs-sticky-buddy-layout-fun...
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-3-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:35Z
-concepts: []
+ResourceImportId: 249
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-3-1.png
 
 ---
 [![TFS Sticky Buddy (WinForms) Screenshot](images/TFSStickyBuddylayoutfun_782F-image_thumb-2-8.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddylayoutfun_782F-image_2.png) I had a lot of fun trying to lay out my [TFS Sticky Buddy](http://www.codeplex.com/TFSStickyBuddy) project using Windows Forms, and eventually decided that it was way to fiddle doing it in a Forms based application. It was not just that tables and panels don't work as I expected, but that there were way to many bits that were more difficult than they should be. This is mostly down to my inexperience and down right ineptitude with graphics and UI's, but it still should not be this hard. ![smile_baringteeth](images/smile_baringteeth-4-2.gif)

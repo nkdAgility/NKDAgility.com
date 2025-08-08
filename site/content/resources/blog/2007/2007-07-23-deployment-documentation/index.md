@@ -1,33 +1,36 @@
 ---
 title: Deployment documentation
 description: Outlines steps to document and improve deployment for a complex business app, focusing on automation, rollback, vendor updates, and multi-environment management.
+date: 2007-07-23
+lastmod: 2007-07-23
+weight: 690
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: 154BNVcnbaU
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 363
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-23
-weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: deployment-documentation
 aliases:
-- /resources/154BNVcnbaU
+  - /resources/154BNVcnbaU
 aliasesArchive:
-- /blog/deployment-documentation
-- /deployment-documentation
-- /resources/blog/deployment-documentation
+  - /blog/deployment-documentation
+  - /deployment-documentation
+  - /resources/blog/deployment-documentation
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
 tags:
-- Product Delivery
+  - Product Delivery
 Watermarks:
   description: 2025-05-13T16:27:30Z
-concepts: []
+ResourceImportId: 363
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 Over the past week I have been working on creating and documenting a deployment process for our new main business application. This application is very complicated and requires twenty servers per four environments. We need to track and control deployment to UAT, pre-production, production and C&R (disaster recovery site), but my company as a larger organization only requires control of production.

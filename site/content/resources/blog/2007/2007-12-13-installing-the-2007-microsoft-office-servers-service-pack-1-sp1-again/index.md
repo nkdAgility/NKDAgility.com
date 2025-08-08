@@ -1,37 +1,40 @@
 ---
 title: Installing The 2007 Microsoft Office Servers Service Pack 1 (SP1) ...Again...
 description: Documents the installation issues and error logs encountered when applying Microsoft Office Servers 2007 SP1, including timeout exceptions and troubleshooting steps.
+date: 2007-12-13
+lastmod: 2007-12-13
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: RgZYSYc6tNy
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 276
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-12-13
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
 aliases:
-- /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-...again...
-- /resources/RgZYSYc6tNy
+  - /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-...again...
+  - /resources/RgZYSYc6tNy
 aliasesArchive:
-- /blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
-- /installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
-- /installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
-- /blog/installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
-- /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
-- /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-...again...
-tags:
-- Troubleshooting
+  - /blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
+  - /installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
+  - /installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
+  - /blog/installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
+  - /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
+  - /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-...again...
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-office-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:25:21Z
-concepts: []
+ResourceImportId: 276
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-office-128-link-1-1.png
 
 ---
 So far it is exactly the same show as with the WSS update. Installing updates before moving onto the main feature... And it did not ask me to install WSS SP1 this time.. That is another one of those mixed signs...

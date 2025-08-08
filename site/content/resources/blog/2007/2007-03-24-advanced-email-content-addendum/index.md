@@ -1,32 +1,35 @@
 ---
 title: Advanced Email Content addendum
 description: Discusses the limitations of emailing XBAP applications, highlighting the impact on sharing WPF-based presentations, forms, and demos within the .NET ecosystem.
+date: 2007-03-24
+lastmod: 2007-03-24
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: MmuYvqDCRX7
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 432
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-03-24
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: advanced-email-content-addendum
 aliases:
-- /resources/MmuYvqDCRX7
+  - /resources/MmuYvqDCRX7
 aliasesArchive:
-- /blog/advanced-email-content-addendum
-- /advanced-email-content-addendum
-- /resources/blog/advanced-email-content-addendum
-tags: []
+  - /blog/advanced-email-content-addendum
+  - /advanced-email-content-addendum
+  - /resources/blog/advanced-email-content-addendum
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-merilllynch-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:29:03Z
-concepts: []
+ResourceImportId: 432
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-merilllynch-128-link-1-1.png
 
 ---
 [RE: What I Hate About XBAPs](http://nerddawg.blogspot.com/2006/11/re-what-i-hat...)

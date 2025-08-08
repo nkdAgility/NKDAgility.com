@@ -1,36 +1,39 @@
 ---
 title: Installing Windows SharePoint Services 3.0 Service Pack 1 (SP1)
 description: Step-by-step guide to downloading, unpacking, and troubleshooting the installation of Windows SharePoint Services 3.0 Service Pack 1 (SP1) on Windows systems.
+date: 2007-12-13
+lastmod: 2007-12-13
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: kTx0ZCg43dC
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 275
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-12-13
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-windows-sharepoint-services-3-0-service-pack-1-sp1
 aliases:
-- /resources/blog/installing-windows-sharepoint-services-3.0-service-pack-1-sp1
-- /resources/kTx0ZCg43dC
+  - /resources/blog/installing-windows-sharepoint-services-3.0-service-pack-1-sp1
+  - /resources/kTx0ZCg43dC
 aliasesArchive:
-- /blog/installing-windows-sharepoint-services-3-0-service-pack-1-sp1
-- /installing-windows-sharepoint-services-3-0-service-pack-1-sp1
-- /installing-windows-sharepoint-services-3-0-service-pack-1-(sp1)
-- /blog/installing-windows-sharepoint-services-3-0-service-pack-1-(sp1)
-- /resources/blog/installing-windows-sharepoint-services-3-0-service-pack-1-sp1
-- /resources/blog/installing-windows-sharepoint-services-3.0-service-pack-1-sp1
-tags: []
+  - /blog/installing-windows-sharepoint-services-3-0-service-pack-1-sp1
+  - /installing-windows-sharepoint-services-3-0-service-pack-1-sp1
+  - /installing-windows-sharepoint-services-3-0-service-pack-1-(sp1)
+  - /blog/installing-windows-sharepoint-services-3-0-service-pack-1-(sp1)
+  - /resources/blog/installing-windows-sharepoint-services-3-0-service-pack-1-sp1
+  - /resources/blog/installing-windows-sharepoint-services-3.0-service-pack-1-sp1
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-6-6.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:19Z
-concepts: []
+ResourceImportId: 275
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-6-6.png
 
 ---
 - wssv3sp1-kb936988-x86-fullfile-en-us.exe

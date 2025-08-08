@@ -5,10 +5,10 @@ description: 'Covers key skills for agile consultants: mastering domain knowledg
 tldr: Agile consultants are most effective when they understand the business domain, actively listen to all team members to uncover gaps in transparency, and communicate difficult truths honestly, even to leadership. These skills help build trust and drive meaningful change. Development managers should ensure consultants are empowered to ask tough questions and share candid feedback to improve team performance.
 date: 2023-04-14T07:00:24Z
 lastmod: 2023-04-14T07:00:24Z
-weight: 815
+weight: 585
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ResourceId: gImXmxjn_1g
 ResourceImport: true

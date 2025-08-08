@@ -1,34 +1,37 @@
 ---
 title: 'A change for the better #1 - Merrill Lynch to Aggreko'
 description: A developer transitions from Merrill Lynch to Aggreko, seeking stability and opportunities to work with new technologies like SharePoint, TFS, and .NET 3.x.
+date: 2007-08-16
+lastmod: 2007-08-16
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: _UxrL9mWMdL
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 331
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-16
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: a-change-for-the-better-1
 aliases:
-- /resources/_UxrL9mWMdL
+  - /resources/_UxrL9mWMdL
 aliasesArchive:
-- /blog/a-change-for-the-better-1
-- /a-change-for-the-better-1
-- /a-change-for-the-better--1---merrill-lynch-to-aggreko
-- /blog/a-change-for-the-better--1---merrill-lynch-to-aggreko
-- /resources/blog/a-change-for-the-better-1
-tags: []
+  - /blog/a-change-for-the-better-1
+  - /a-change-for-the-better-1
+  - /a-change-for-the-better--1---merrill-lynch-to-aggreko
+  - /blog/a-change-for-the-better--1---merrill-lynch-to-aggreko
+  - /resources/blog/a-change-for-the-better-1
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-aggreko-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:38Z
-concepts: []
+ResourceImportId: 331
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-aggreko-128-link-1-1.png
 
 ---
 Well, that's me in my last month at [Merrill Lynch](http://www.ml.com/) after a nice run as a developer. My reasons for moving I have [stated](http://blog.hinshelwood.com/archive/2007/07/16/Its-that-time-again.aspx) before, but I have decided that the contractor business is just too risky for me at the moment.

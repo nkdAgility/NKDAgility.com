@@ -1,35 +1,38 @@
 ---
 title: Sync extension for Lists/Collections or whatever
 description: Explains how to synchronise two .NET collections by applying differences, with thread safety using locks, ensuring target lists match source lists efficiently.
+date: 2008-10-13
+lastmod: 2008-10-13
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: hDlrQdNzLp1
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 188
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-10-13
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: sync-extension-for-listscollections-or-whatever
+slug: sync-extension-for-lists-collections-or-whatever
 aliases:
-- /resources/hDlrQdNzLp1
+  - /resources/hDlrQdNzLp1
 aliasesArchive:
-- /blog/sync-extension-for-listscollections-or-whatever
-- /sync-extension-for-listscollections-or-whatever
-- /sync-extension-for-lists-collections-or-whatever
-- /blog/sync-extension-for-lists-collections-or-whatever
-- /resources/blog/sync-extension-for-listscollections-or-whatever
-tags:
-- Software Development
+  - /blog/sync-extension-for-listscollections-or-whatever
+  - /sync-extension-for-listscollections-or-whatever
+  - /sync-extension-for-lists-collections-or-whatever
+  - /blog/sync-extension-for-lists-collections-or-whatever
+  - /resources/blog/sync-extension-for-listscollections-or-whatever
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T16:23:01Z
-concepts: []
+ResourceImportId: 188
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 I recently found the need to Sync two lists. I have one list that is used for display, and I want to dynamically sync that list with a new one by applying a delta.

@@ -1,34 +1,37 @@
 ---
 title: 'Southparkify / Simpsonize : better with both!'
 description: Comparison of Southparkify and Simpsonize avatar creators, highlighting differences and personal preferences for creating cartoon-style self-portraits online.
+date: 2007-07-31
+lastmod: 2007-07-31
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: PEl4lRY2qjH
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 353
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-31
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: southparkify-simpsonize-better-with-both
 aliases:
-- /resources/PEl4lRY2qjH
+  - /resources/PEl4lRY2qjH
 aliasesArchive:
-- /blog/southparkify-simpsonize-better-with-both
-- /southparkify-simpsonize-better-with-both
-- /southparkify
-- /southparkify---simpsonize---better-with-both-
-- /blog/southparkify---simpsonize---better-with-both-
-- /resources/blog/southparkify-simpsonize-better-with-both
+  - /blog/southparkify-simpsonize-better-with-both
+  - /southparkify-simpsonize-better-with-both
+  - /southparkify
+  - /southparkify---simpsonize---better-with-both-
+  - /blog/southparkify---simpsonize---better-with-both-
+  - /resources/blog/southparkify-simpsonize-better-with-both
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:12Z
-concepts: []
+ResourceImportId: 353
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 simpsonize---better-with-both-

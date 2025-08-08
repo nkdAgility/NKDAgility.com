@@ -1,32 +1,35 @@
 ---
 title: Microsoft MyPhone service available to the public
 description: Sync your mobile phone data—contacts, calendar, tasks, photos, and more—with the web using Microsoft MyPhone, enabling easy backup and online access.
+date: 2009-05-21
+lastmod: 2009-05-21
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: NJdlXIZJJyN
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 111
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-05-21
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: microsoft-myphone-service-available-to-the-public
 aliases:
-- /resources/NJdlXIZJJyN
+  - /resources/NJdlXIZJJyN
 aliasesArchive:
-- /blog/microsoft-myphone-service-available-to-the-public
-- /microsoft-myphone-service-available-to-the-public
-- /resources/blog/microsoft-myphone-service-available-to-the-public
-tags: []
+  - /blog/microsoft-myphone-service-available-to-the-public
+  - /microsoft-myphone-service-available-to-the-public
+  - /resources/blog/microsoft-myphone-service-available-to-the-public
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:23:44Z
-concepts: []
+ResourceImportId: 111
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-2.png
 
 ---
 Microsoft recently opened up there beta of the MyPhone service to the general public. The service syncs your Mobile phone with the web and allows access to your Contacts Calendar tasks, pictures and more.

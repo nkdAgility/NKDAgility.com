@@ -1,34 +1,37 @@
 ---
 title: Removing a dead Solution Deployment from MOSS 2007
 description: Learn how to manually remove a failed or stuck solution deployment job in Microsoft Office SharePoint Server 2007 using Central Administration tools.
+date: 2008-12-10
+lastmod: 2008-12-10
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: JD6-7WEsi2d
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 155
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-12-10
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: removing-a-dead-solution-deployment-from-moss-2007
 aliases:
-- /resources/JD6-7WEsi2d
+  - /resources/JD6-7WEsi2d
 aliasesArchive:
-- /blog/removing-a-dead-solution-deployment-from-moss-2007
-- /removing-a-dead-solution-deployment-from-moss-2007
-- /resources/blog/removing-a-dead-solution-deployment-from-moss-2007
-tags:
-- Troubleshooting
-- Install and Configuration
-preview: metro-sharepoint-128-link-1-1.png
+  - /blog/removing-a-dead-solution-deployment-from-moss-2007
+  - /removing-a-dead-solution-deployment-from-moss-2007
+  - /resources/blog/removing-a-dead-solution-deployment-from-moss-2007
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:22:09Z
-concepts: []
+ResourceImportId: 155
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 If, like me, you tried to deploy a solution to Microsoft Office SharePoint Server 2007 and it ether failed or hung you will need to remove it somehow. But once the status has moved to “deploying”, if you receive an error like this:

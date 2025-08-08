@@ -2,54 +2,59 @@
 title: Professional Agile Leadership - Evidence-Based Management (PAL-EBM)
 short_title: Evidence-Based Management
 description: Learn to apply Evidence-Based Management for agile leadership, focusing on empiricism, customer value, key metrics, and data-driven decision-making to achieve business goals.
+tldr: This advanced one-day course teaches leaders how to use the Evidence-Based Management framework to drive business agility and improve customer value by focusing on empiricism, experimentation, and customer-centric outcomes. Participants learn to set strategic goals, measure what matters using four key value areas, and foster a culture of self-management and continuous improvement. Completing the course includes a certification exam attempt and equips managers to make better decisions and boost organizational agility.
 date: 2021-07-21
 weight: 350
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: enw9s_l3PeE
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: professional-agile-leadership-evidence-based-management-pal-ebm
 aliases:
-- /ebm
-- /pal-ebm
-- /training-courses/professional-agile-leadership-with-evidence-based-management-training-with-certification
-- /training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification
-- /training-courses/professional-scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
-- /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
-- /resources/enw9s_l3PeE
-- /capabilities/evidence-based-leadership/
-- /capabilities/training-courses/scrumorg-professional-agile-leadership-with-evidence-based-management
+  - /ebm
+  - /pal-ebm
+  - /training-courses/professional-agile-leadership-with-evidence-based-management-training-with-certification
+  - /training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification
+  - /training-courses/professional-scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
+  - /resources/enw9s_l3PeE
+  - /capabilities/evidence-based-leadership/
+  - /capabilities/training-courses/scrumorg-professional-agile-leadership-with-evidence-based-management
 aliasesArchive:
-- /ebm
-- /pal-ebm
-- /training-courses/professional-agile-leadership-with-evidence-based-management-training-with-certification
-- /training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification
-- /training-courses/professional-scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
-- /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
-- /capabilities/evidence-based-leadership/
-- /capabilities/training-courses/scrumorg-professional-agile-leadership-with-evidence-based-management
+  - /ebm
+  - /pal-ebm
+  - /training-courses/professional-agile-leadership-with-evidence-based-management-training-with-certification
+  - /training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification
+  - /training-courses/professional-scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
+  - /capabilities/evidence-based-leadership/
+  - /capabilities/training-courses/scrumorg-professional-agile-leadership-with-evidence-based-management
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Leadership
-- Product Management
+  - Product Development
+  - Leadership
+  - Product Management
 tags:
-- Customer Focus
-- Metrics and Learning
-- Project Management
-- Ability to Innovate
-- Agile Frameworks
-- Agile Leadership
-- Agile Philosophy
-- Agile Product Management
-- Agile Strategy
-- Agile Transformation
-- Business Agility
-- Continuous Learning
-- Decision Making
-- Empirical Process Control
-- Evidence Based Leadership
+  - Value Delivery
+  - Empirical Process Control
+  - Customer Focus
+  - Metrics and Learning
+  - Project Management
+  - Organisational Culture
+  - Ability to Innovate
+  - Agile Frameworks
+  - Agile Leadership
+  - Agile Philosophy
+  - Agile Product Management
+  - Agile Strategy
+  - Agile Transformation
+  - Business Agility
+  - Continuous Learning
 card:
   button:
     content: ""
@@ -57,26 +62,27 @@ card:
   content: Scrum.org created the Evidence-Based Management™ (EBM) framework which is an Agile approach to help leaders guide their teams toward continuously improving customer outcomes, organizational capabilities, and business results. EBM focuses on customer value and intentional experimentation to systematically improve an organization’s performance and achieve its strategic goals.
 Watermarks:
   description: 2025-07-29T15:01:09Z
+  tldr: 2025-08-08T11:37:34Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course_vendors:
-- Scrumorg
+  - Scrumorg
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- Product Owners
-- Product Managers
-- Managers
-- Entrepreneurs
+  - Product Owners
+  - Product Managers
+  - Managers
+  - Entrepreneurs
 preview: naked-agility-Professional-Scrum-PALEBM-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PALEBM-400x.png
 brandColour: 
 code: PAL-EBM
 course_proficiencies:
-- advanced
+  - advanced
 introduction: 
 overview: |-
   PAL-EBM is for professionals in leadership roles (including executives, managers, Scrum Masters, Product Owners, coaches, and consultants) who: 

@@ -1,33 +1,36 @@
 ---
 title: No love between McAfee Enterprise and MOSS 2007
 description: Explains how McAfee antivirus can cause search errors in Microsoft Office SharePoint Server 2007, highlighting compatibility issues and the need for specialised solutions.
+date: 2007-12-13
+lastmod: 2007-12-13
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: uprMOboloWH
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 274
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-12-13
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: no-love-between-mcafee-enterprise-and-moss-2007
 aliases:
-- /resources/uprMOboloWH
+  - /resources/uprMOboloWH
 aliasesArchive:
-- /blog/no-love-between-mcafee-enterprise-and-moss-2007
-- /no-love-between-mcafee-enterprise-and-moss-2007
-- /resources/blog/no-love-between-mcafee-enterprise-and-moss-2007
-tags:
-- Troubleshooting
+  - /blog/no-love-between-mcafee-enterprise-and-moss-2007
+  - /no-love-between-mcafee-enterprise-and-moss-2007
+  - /resources/blog/no-love-between-mcafee-enterprise-and-moss-2007
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:25:15Z
-concepts: []
+ResourceImportId: 274
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 Well I think I have found the root of the problem with my Microsoft office SharePoint Server 2007 dev box! It was McAfee  plain and simple.

@@ -1,33 +1,36 @@
 ---
 title: The future of software development
 description: Explores how software factories, web services, and specialised development teams can speed up software delivery, improve adaptability, and meet fast-changing business needs.
+date: 2007-07-14
+lastmod: 2007-07-14
+weight: 530
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: y4gWKp3Fy4v
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 371
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-14
-weight: 530
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-future-of-software-development
 aliases:
-- /resources/y4gWKp3Fy4v
+  - /resources/y4gWKp3Fy4v
 aliasesArchive:
-- /blog/the-future-of-software-development
-- /the-future-of-software-development
-- /resources/blog/the-future-of-software-development
-tags:
-- Software Development
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/the-future-of-software-development
+  - /the-future-of-software-development
+  - /resources/blog/the-future-of-software-development
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T16:27:42Z
-concepts: []
+ResourceImportId: 371
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I have been thinking a lot recently about the future of software development and where I see it going. I have worked for seven companies since leaving university (two design studios, two software studios, one community startup, one Internet bank and one investment bank), and my conclusion is that all of the SSADM (Structured Systems Analysis and Design Methodologies), or Development Lifecycle, that I learned in university does not work in the real world. Yes, if you can charge your customers two million for an intranet that you will deliver over two years you can do what you like, but these days your customers business moves too quickly for this to work. A solution that was started last year, or the year before in my current company, is obsolete and has to be binned and started again. Or if the business has had its fingers in your specification from the get-go and if they have no idea what "signed-off" means you will get only one result; you will never finish and what you do finish will not meet the business need (80% syndrome).

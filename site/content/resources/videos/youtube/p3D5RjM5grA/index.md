@@ -30,7 +30,9 @@ concepts: []
 categories:
   - Leadership
 tags:
+  - Continuous Learning
   - Agile Leadership
+  - Business Agility
   - Team Collaboration
   - Social Technologies
   - Agile Transformation

@@ -22,7 +22,7 @@ aliasesArchive:
   - /blog/your-evolving-definition-of-done
 layout: blog
 concepts:
-  - Strategy
+  - Tenet
 categories:
   - Product Development
   - Engineering Excellence
@@ -31,6 +31,7 @@ tags:
   - Definition of Done
   - Operational Practices
   - Agile Frameworks
+  - Product Delivery
   - Software Development
   - Continuous Improvement
   - Technical Mastery
@@ -42,7 +43,6 @@ tags:
   - Common Goals
   - Technical Excellence
   - Engineering Practices
-  - Product Delivery
 Watermarks:
   description: 2025-05-07T12:49:17Z
   short_title: 2025-07-07T16:45:08Z

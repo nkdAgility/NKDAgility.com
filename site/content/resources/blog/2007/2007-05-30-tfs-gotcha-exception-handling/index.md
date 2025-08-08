@@ -1,35 +1,37 @@
 ---
 title: TFS Gotcha (Exception Handling)
 description: Explains how to handle non-serialisable Team Foundation Server exceptions in WCF by creating custom serialisable exceptions for reliable cross-service error handling.
+date: 2007-05-30
+lastmod: 2007-05-30
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: OMGmyApgm0G
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 392
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-05-30
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-gotcha-exception-handling
 aliases:
-- /resources/blog/tfs-gotcha-exception-handling
-- /resources/OMGmyApgm0G
+  - /resources/OMGmyApgm0G
 aliasesArchive:
-- /blog/tfs-gotcha-exception-handling
-- /tfs-gotcha-exception-handling
-- /tfs-gotcha-(exception-handling)
-- /blog/tfs-gotcha-(exception-handling)
-- /resources/blog/tfs-gotcha-exception-handling
-tags:
-- Software Development
+  - /blog/tfs-gotcha-exception-handling
+  - /tfs-gotcha-exception-handling
+  - /tfs-gotcha-(exception-handling)
+  - /blog/tfs-gotcha-(exception-handling)
+  - /resources/blog/tfs-gotcha-exception-handling
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T16:28:15Z
-concepts: []
+ResourceImportId: 392
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 When coding against team foundation server you must be aware that some of the exceptions thrown by [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") are not Serilisable! I think that this was an oversite by Microsoft, but it is there none the less.

@@ -1,35 +1,38 @@
 ---
 title: 'How-To: Allow other users to interact with workflow on your MySite'
 description: Learn how to give colleagues access to workflow tasks on your MySite by setting permissions on task lists in SharePoint, including adding users to the Contributors group.
+date: 2008-10-22
+lastmod: 2008-10-22
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: JUQrPR1RNmh
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 185
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-10-22
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 aliases:
-- /resources/JUQrPR1RNmh
+  - /resources/JUQrPR1RNmh
 aliasesArchive:
-- /blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
-- /how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
-- /how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
-- /blog/how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
-- /resources/blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
-tags:
-- Install and Configuration
-preview: metro-sharepoint-128-link-15-15.png
+  - /blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
+  - /how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
+  - /how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
+  - /blog/how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
+  - /resources/blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:22:58Z
-concepts: []
+ResourceImportId: 185
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-15-15.png
 
 ---
 If you want to be able to use workflow on you're my site that will allow you to assign tasks to your colleagues, then you need to take a couple of thing into consideration. The most important is to give any users assigned tasks access to the tasks list that you are using for your workflow.

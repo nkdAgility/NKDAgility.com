@@ -5,10 +5,10 @@ description: Explains the key differences between traditional and empirical appr
 tldr: Traditional project management works well for predictable, simple projects, but in complex and fast-changing environments, empirical approaches like Scrum are more effective because they support adaptability and continuous improvement. The newsletter highlights resources explaining these differences, offers an overview of Scrum, and invites managers to join a growing Lean-Agile community and explore targeted training options. Consider reviewing the recommended materials and training to help your teams stay competitive and responsive to change.
 date: 2023-01-03
 lastmod: 2023-01-03
-weight: 885
+weight: 710
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: weekly
 author: MrHinsh
 ResourceId: -D7_0lz9GU6

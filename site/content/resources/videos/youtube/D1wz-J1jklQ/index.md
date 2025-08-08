@@ -48,7 +48,7 @@ tags:
   - Value Delivery
   - Pragmatic Thinking
   - Customer Focus
-  - Engineering Practices
+  - Personal
 Watermarks:
   description: 2025-05-07T12:50:00Z
   short_title: 2025-07-07T17:47:00Z

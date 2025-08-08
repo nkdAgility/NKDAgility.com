@@ -1,32 +1,35 @@
 ---
 title: TFS Event Handler Progress
 description: Update on TFS Event Handler project progress, focusing on resolving security issues, improving error handling in WCF services, and finalising the admin system.
+date: 2007-05-07
+lastmod: 2007-05-07
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: MY8gn3hmXhh
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 402
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-05-07
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-event-handler-progress
 aliases:
-- /resources/MY8gn3hmXhh
+  - /resources/MY8gn3hmXhh
 aliasesArchive:
-- /blog/tfs-event-handler-progress
-- /tfs-event-handler-progress
-- /resources/blog/tfs-event-handler-progress
-tags: []
+  - /blog/tfs-event-handler-progress
+  - /tfs-event-handler-progress
+  - /resources/blog/tfs-event-handler-progress
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:28Z
-concepts: []
+ResourceImportId: 402
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 I am making lots of progress with this project and I have only a couple of work items left for CTP1:

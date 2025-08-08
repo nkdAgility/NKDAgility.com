@@ -5,10 +5,10 @@ description: Agile success depends on core principles like adaptability and coll
 tldr: Focusing on Agile principles rather than tools leads to better decision-making, consistency, and long-term team success. Overreliance on tools can create rigid, ineffective processes, while principles support adaptability and collaboration. Development managers should reflect on whether their teams are prioritising principles and consider shifting their focus to foster continuous improvement.
 date: 2023-05-03T07:00:33Z
 lastmod: 2023-05-03T07:00:33Z
-weight: 760
+weight: 425
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ResourceId: y2TObrUi3m0
 ResourceImport: true

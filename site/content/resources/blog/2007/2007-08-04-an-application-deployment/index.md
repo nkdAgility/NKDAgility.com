@@ -1,32 +1,35 @@
 ---
 title: An Application Deployment
 description: Highlights the challenges of deploying complex enterprise applications with incomplete, unclear documentation, emphasising the need for accurate installation guides.
+date: 2007-08-04
+lastmod: 2007-08-04
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: UnvdJlF863n
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 349
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-04
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: an-application-deployment
 aliases:
-- /resources/UnvdJlF863n
+  - /resources/UnvdJlF863n
 aliasesArchive:
-- /blog/an-application-deployment
-- /an-application-deployment
-- /resources/blog/an-application-deployment
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/an-application-deployment
+  - /an-application-deployment
+  - /resources/blog/an-application-deployment
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:06Z
-concepts: []
+ResourceImportId: 349
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Why is it that vendors insist on developers staying up all night to write installation documentation for a 40 component on 19 server installation? Do they not realize that this is not the best way to have your documentation produced? What about the image that it presents to the customer, or the impact of someone actually following said documentation!

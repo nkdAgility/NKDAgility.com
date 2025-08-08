@@ -5,10 +5,10 @@ description: Learn how to identify and prevent the harm caused by unqualified Ag
 tldr: Relying on leaders with only Agile certifications but no real software development experience can harm team trust, stifle growth, and lead to ineffective processes. To protect your teams, prioritize practical experience over credentials, encourage ongoing learning, and focus on delivering value rather than just following procedures. Ensure Agile leadership is grounded in genuine expertise to maintain team effectiveness and resilience.
 date: 2023-11-07T07:36:21Z
 lastmod: 2023-11-07T07:36:21Z
-weight: 670
+weight: 290
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: monthly
 ResourceId: T07AK-1FAK4
 ResourceImport: true
@@ -32,7 +32,9 @@ concepts: []
 categories:
   - Leadership
   - Product Development
+  - Technical Leadership
 tags:
+  - Personal
   - Competence
   - Social Technologies
 Watermarks:

@@ -1,32 +1,35 @@
 ---
 title: Developer vindication
 description: A .NET developer shares their experience of being approached by Microsoft for a potential job, highlighting the challenges of US work visa requirements in the tech industry.
+date: 2007-08-04
+lastmod: 2007-08-04
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: YexFt6yC4wk
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 350
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-04
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: developer-vindication
 aliases:
-- /resources/YexFt6yC4wk
+  - /resources/YexFt6yC4wk
 aliasesArchive:
-- /blog/developer-vindication
-- /developer-vindication
-- /resources/blog/developer-vindication
+  - /blog/developer-vindication
+  - /developer-vindication
+  - /resources/blog/developer-vindication
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:02Z
-concepts: []
+ResourceImportId: 350
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 The biggest vindication of your .Net developer status would be if Microsoft wanted to employ you! And it happened to me...

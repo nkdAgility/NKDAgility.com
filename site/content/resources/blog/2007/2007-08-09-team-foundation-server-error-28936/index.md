@@ -1,35 +1,38 @@
 ---
 title: Team Foundation Server Error 28936
 description: Explains how Team Foundation Server installation fails with error 28936 due to IIS URLScan filter blocking web services, and how removing it resolves the issue.
+date: 2007-08-09
+lastmod: 2007-08-09
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: pfq93Zq1pW6
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 337
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-09
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: team-foundation-server-error-28936
 aliases:
-- /resources/pfq93Zq1pW6
+  - /resources/pfq93Zq1pW6
 aliasesArchive:
-- /blog/team-foundation-server-error-28936
-- /team-foundation-server-error-28936
-- /resources/blog/team-foundation-server-error-28936
-tags:
-- Troubleshooting
-- Install and Configuration
-- Windows
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/team-foundation-server-error-28936
+  - /team-foundation-server-error-28936
+  - /resources/blog/team-foundation-server-error-28936
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
+  - Windows
 Watermarks:
   description: 2025-05-13T16:26:49Z
-concepts: []
+ResourceImportId: 337
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 Some of my colleagues in New York have been working on deploying Team Foundation Server as a change management system and they ran into a little error while installing to the QA (UAT) environment.

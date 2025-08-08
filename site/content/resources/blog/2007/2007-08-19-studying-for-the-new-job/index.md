@@ -1,32 +1,35 @@
 ---
 title: Studying for the new job
 description: Preparing for a new job by studying BizTalk Server, SharePoint Services, and .NET certifications, with recommended books and resources for exam readiness.
+date: 2007-08-19
+lastmod: 2007-08-19
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Vt_AB1py8ZH
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 330
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-19
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: studying-for-the-new-job
 aliases:
-- /resources/Vt_AB1py8ZH
+  - /resources/Vt_AB1py8ZH
 aliasesArchive:
-- /blog/studying-for-the-new-job
-- /studying-for-the-new-job
-- /resources/blog/studying-for-the-new-job
-tags: []
-preview: metro-sharepoint-128-link-1-1.png
+  - /blog/studying-for-the-new-job
+  - /studying-for-the-new-job
+  - /resources/blog/studying-for-the-new-job
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:37Z
-concepts: []
+ResourceImportId: 330
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 I will be [starting a new job](http://blog.hinshelwood.com/archive/2007/08/16/A-change-for-the-better.aspx) in around a month and I wanted to get up-to-speed with the technologies that the new company want to be using. To start with I have had a look at a number of certifications:

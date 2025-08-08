@@ -33,8 +33,8 @@ layout: blog
 concepts:
   - Principle
 categories:
-  - Product Development
   - Kanban
+  - Product Development
   - Lean
 tags:
   - Flow Efficiency

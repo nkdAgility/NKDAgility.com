@@ -1,32 +1,35 @@
 ---
 title: Another day another Codeplex Project
 description: Explores extending SharePoint Designer with custom workflow activities from CodePlex, highlighting solutions for user profile lookups beyond default site info.
+date: 2008-05-07
+lastmod: 2008-05-07
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Jk2Pp119tUF
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 232
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-05-07
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: another-day-another-codeplex-project
 aliases:
-- /resources/Jk2Pp119tUF
+  - /resources/Jk2Pp119tUF
 aliasesArchive:
-- /blog/another-day-another-codeplex-project
-- /another-day-another-codeplex-project
-- /resources/blog/another-day-another-codeplex-project
-tags: []
+  - /blog/another-day-another-codeplex-project
+  - /another-day-another-codeplex-project
+  - /resources/blog/another-day-another-codeplex-project
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:12Z
-concepts: []
+ResourceImportId: 232
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-2-2.png
 
 ---
 I have been using the [Useful Sharepoint Designer Custom Workflow Activities](http://www.codeplex.com/SPDActivities/) project on [CodePlex](http://www.codeplex.com "CodePlex") to augment the capabilities of SharePoint Designer to add such features as "Start another workflow" which is very useful for compartmentalising your workflow so as to not make it too complicated.

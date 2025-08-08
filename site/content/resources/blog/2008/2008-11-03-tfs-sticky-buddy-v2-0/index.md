@@ -1,34 +1,37 @@
 ---
 title: TFS Sticky Buddy v2.0
 description: Sticky Buddy v2.0 introduces a redesigned interface, modular structure, and expanded diagram features for improved usability in TFS-related workflows.
+date: 2008-11-03
+lastmod: 2008-11-03
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: fxUFeDoOsrZ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 174
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-11-03
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-sticky-buddy-v2-0
 aliases:
-- /resources/blog/tfs-sticky-buddy-v2.0
-- /resources/fxUFeDoOsrZ
+  - /resources/blog/tfs-sticky-buddy-v2.0
+  - /resources/fxUFeDoOsrZ
 aliasesArchive:
-- /blog/tfs-sticky-buddy-v2-0
-- /tfs-sticky-buddy-v2-0
-- /resources/blog/tfs-sticky-buddy-v2-0
-- /resources/blog/tfs-sticky-buddy-v2.0
-tags: []
-preview: nakedalm-logo-128-link-2-1.png
+  - /blog/tfs-sticky-buddy-v2-0
+  - /tfs-sticky-buddy-v2-0
+  - /resources/blog/tfs-sticky-buddy-v2-0
+  - /resources/blog/tfs-sticky-buddy-v2.0
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:22:41Z
-concepts: []
+ResourceImportId: 174
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-1.png
 
 ---
 I will be working on some new features to the Sticky Buddy application. Improvements in the interface, along with a more modular structure and more diagram offering are in the mix. I have been working on some of the enhancements and their implementation in my other lesser known project [TFS Heat ITSM](http://hinshelwood.com/TFSHeatITSM.aspx)…

@@ -1,33 +1,36 @@
 ---
 title: Proxy server settings for SharePoint 2007
 description: Explains how to configure proxy server settings in SharePoint 2007, including passing user credentials and setting bypass rules for specific domains in the config file.
+date: 2007-10-24
+lastmod: 2007-10-24
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 5_4fz8bD4UU
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 295
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-10-24
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: proxy-server-settings-for-sharepoint-2007
 aliases:
-- /resources/5_4fz8bD4UU
+  - /resources/5_4fz8bD4UU
 aliasesArchive:
-- /blog/proxy-server-settings-for-sharepoint-2007
-- /proxy-server-settings-for-sharepoint-2007
-- /resources/blog/proxy-server-settings-for-sharepoint-2007
-tags:
-- System Configuration
+  - /blog/proxy-server-settings-for-sharepoint-2007
+  - /proxy-server-settings-for-sharepoint-2007
+  - /resources/blog/proxy-server-settings-for-sharepoint-2007
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-1-1.png
+  - Uncategorized
+tags:
+  - System Configuration
 Watermarks:
   description: 2025-05-13T16:25:44Z
-concepts: []
+ResourceImportId: 295
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 Well this was fun... All the [examples](http://dotnet.org.za/jpfouche/archive/2007/03/23/sharepoint-2007-rss-viewer-and-proxy-configuration.aspx "Missing details") of how to connect through a proxy from SharePoint are missing a crucial piece of information!

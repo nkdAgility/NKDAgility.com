@@ -1,34 +1,37 @@
 ---
 title: 'Codeplex Project: RDdotNET White Label'
 description: Open-source RDdotNET White Label project hosted on Codeplex, providing .NET solution resources and documentation for developers. Includes project link and tags.
+date: 2006-10-31
+lastmod: 2006-10-31
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: LNv6D2UC7-n
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 459
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2006-10-31
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: codeplex-project-rddotnet-white-label
 aliases:
-- /resources/LNv6D2UC7-n
+  - /resources/LNv6D2UC7-n
 aliasesArchive:
-- /blog/codeplex-project-rddotnet-white-label
-- /codeplex-project-rddotnet-white-label
-- /codeplex-project--rddotnet-white-label
-- /blog/codeplex-project--rddotnet-white-label
-- /resources/blog/codeplex-project-rddotnet-white-label
-tags: []
+  - /blog/codeplex-project-rddotnet-white-label
+  - /codeplex-project-rddotnet-white-label
+  - /codeplex-project--rddotnet-white-label
+  - /blog/codeplex-project--rddotnet-white-label
+  - /resources/blog/codeplex-project-rddotnet-white-label
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:29:57Z
-concepts: []
+ResourceImportId: 459
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 I have created a codeplex project for one of my solutions. View it here:

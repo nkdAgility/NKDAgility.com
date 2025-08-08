@@ -5,10 +5,10 @@ description: Learn how frequent product releases help businesses lead markets, a
 tldr: Frequent product releases help you lead the market by allowing rapid response to user feedback and emerging trends. Teams that adopt this approach see higher user engagement and improved morale, as they can quickly deliver value and adapt to change. To stay competitive, focus on releasing updates regularly and listening closely to your users.
 date: 2025-02-06T11:02:31Z
 lastmod: 2025-02-06T11:02:31Z
-weight: 725
+weight: 440
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ResourceId: gM0_K8u2puo
 ResourceImport: true

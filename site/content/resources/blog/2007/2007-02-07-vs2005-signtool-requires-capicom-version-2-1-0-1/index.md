@@ -1,39 +1,42 @@
 ---
 title: VS2005 - Signtool requires CAPICOM version 2.1.0.1
 description: Learn how to resolve the "Signtool requires CAPICOM version 2.1.0.1" error in VS2005 by installing and registering capicom.dll for successful project publishing.
+date: 2007-02-07
+lastmod: 2007-02-07
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: XiAV2LaArje
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 435
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-02-07
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: vs2005-signtool-requires-capicom-version-2-1-0-1
 aliases:
-- /resources/blog/vs2005-signtool-requires-capicom-version-2.1.0.1
-- /resources/XiAV2LaArje
+  - /resources/blog/vs2005-signtool-requires-capicom-version-2.1.0.1
+  - /resources/XiAV2LaArje
 aliasesArchive:
-- /blog/vs2005-signtool-requires-capicom-version-2-1-0-1
-- /vs2005-signtool-requires-capicom-version-2-1-0-1
-- /vs2005
-- /vs2005---signtool-requires-capicom-version-2-1-0-1
-- /blog/vs2005---signtool-requires-capicom-version-2-1-0-1
-- /resources/blog/vs2005-signtool-requires-capicom-version-2-1-0-1
-- /resources/blog/vs2005-signtool-requires-capicom-version-2.1.0.1
-tags:
-- Troubleshooting
-- Install and Configuration
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/vs2005-signtool-requires-capicom-version-2-1-0-1
+  - /vs2005-signtool-requires-capicom-version-2-1-0-1
+  - /vs2005
+  - /vs2005---signtool-requires-capicom-version-2-1-0-1
+  - /blog/vs2005---signtool-requires-capicom-version-2-1-0-1
+  - /resources/blog/vs2005-signtool-requires-capicom-version-2-1-0-1
+  - /resources/blog/vs2005-signtool-requires-capicom-version-2.1.0.1
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:29:16Z
-concepts: []
+ResourceImportId: 435
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 If you get the following error publishing a project,

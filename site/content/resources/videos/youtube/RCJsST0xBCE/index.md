@@ -5,10 +5,10 @@ description: Learn how to use Azure DevOps Migration Tools for efficient, large-
 tldr: Azure DevOps Migration Tools enable experienced teams to move work items and related data between environments efficiently, supporting features like syncing changes during migration and extensive customization. For best results, set up a dedicated environment, migrate open work items first, use date-based queries for updates, and monitor API performance. Engage with the active open-source community for support and improvements to ensure a smooth migration.
 date: 2019-10-17T19:16:03Z
 lastmod: 2019-10-17T19:16:03Z
-weight: 645
+weight: 470
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.3
   changefreq: monthly
 ResourceId: RCJsST0xBCE
 ResourceImport: true

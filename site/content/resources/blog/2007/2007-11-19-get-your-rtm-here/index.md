@@ -1,34 +1,37 @@
 ---
 title: Get your RTM here!
 description: Visual Studio 2008 and .NET 3.5 have reached RTM status, with developers now able to access and download the official releases for production use.
+date: 2007-11-19
+lastmod: 2007-11-19
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 8gqTTHiRrpk
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 293
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-11-19
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: get-your-rtm-here
 aliases:
-- /resources/8gqTTHiRrpk
+  - /resources/8gqTTHiRrpk
 aliasesArchive:
-- /blog/get-your-rtm-here
-- /get-your-rtm-here
-- /get-your-rtm-here-
-- /blog/get-your-rtm-here-
-- /resources/blog/get-your-rtm-here
-tags: []
+  - /blog/get-your-rtm-here
+  - /get-your-rtm-here
+  - /get-your-rtm-here-
+  - /blog/get-your-rtm-here-
+  - /resources/blog/get-your-rtm-here
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:40Z
-concepts: []
+ResourceImportId: 293
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 Well, its official. Visual Studio 2008 and .NET 3.5 went RTM this morning....

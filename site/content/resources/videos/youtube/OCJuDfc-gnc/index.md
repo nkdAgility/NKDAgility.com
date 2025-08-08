@@ -5,10 +5,10 @@ description: Explores practical strategies for scaling agile practices, key metr
 tldr: Scaling agility is about more than just expanding frameworks like Scrum or Nexus; it requires focusing on core practices, using meaningful metrics, and adapting to new ways of working such as virtual training. Key insights include the importance of revisiting Scrum fundamentals, tailoring metrics to your context, and leveraging technology for effective remote collaboration. Development managers should prioritize continuous learning, experiment with virtual tools, and stay open to sharing experiences to navigate the challenges of scaling in today’s changing work environment.
 date: 2020-03-25T16:17:15Z
 lastmod: 2020-03-25T16:17:15Z
-weight: 730
+weight: 440
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ResourceId: OCJuDfc-gnc
 ResourceImport: true

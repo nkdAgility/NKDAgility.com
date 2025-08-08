@@ -5,10 +5,10 @@ description: Scrum is a framework that helps teams organise and adapt to complex
 tldr: Scrum is a framework that helps teams organize around shared goals and is especially effective for tackling complex, unpredictable work where you learn as you go. It is designed to help teams navigate tasks that are novel or constantly changing, making it ideal for software development environments. Consider exploring Scrum further to boost your team's productivity and adaptability.
 date: 2023-05-19T07:00:31Z
 lastmod: 2023-05-19T07:00:31Z
-weight: 815
+weight: 630
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ResourceId: o-wVeh3CIVI
 ResourceImport: true

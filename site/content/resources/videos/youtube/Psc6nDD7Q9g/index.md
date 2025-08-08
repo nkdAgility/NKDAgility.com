@@ -38,6 +38,7 @@ categories:
 tags:
   - Operational Practices
   - Software Development
+  - Personal
   - Continuous Improvement
   - Social Technologies
   - Agile Frameworks

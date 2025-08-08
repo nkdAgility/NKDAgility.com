@@ -5,7 +5,7 @@ description: Discover why “done” means live in production—not just code co
 tldr: Work is only truly done when it is live in production and delivering value to users, not just when code is written, tested, or demoed. Teams often mistake internal milestones for real progress, which delays learning and frustrates stakeholders; real feedback and value come only from live usage and telemetry. Development managers should redefine “done” as live in production, invest in automation to shorten release cycles, and focus on measuring and celebrating actual user impact.
 date: 2025-05-07T11:46:58Z
 lastmod: 2025-05-07T11:46:58Z
-weight: 95
+weight: 125
 sitemap:
   filename: sitemap.xml
   priority: 0.7

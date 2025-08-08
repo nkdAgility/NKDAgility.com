@@ -1,32 +1,35 @@
 ---
 title: TFS Event Handler CTP 2 Released
 description: CTP 2 of TFS Event Handler is now available, offering updated executables and source code for managing Team Foundation Server events. Requires Team Explorer 2008 and .NET 3.5.
+date: 2008-01-28
+lastmod: 2008-01-28
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: eFFwzH5niQO
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 260
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-01-28
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-event-handler-ctp-2-released
 aliases:
-- /resources/eFFwzH5niQO
+  - /resources/eFFwzH5niQO
 aliasesArchive:
-- /blog/tfs-event-handler-ctp-2-released
-- /tfs-event-handler-ctp-2-released
-- /resources/blog/tfs-event-handler-ctp-2-released
-tags: []
+  - /blog/tfs-event-handler-ctp-2-released
+  - /tfs-event-handler-ctp-2-released
+  - /resources/blog/tfs-event-handler-ctp-2-released
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:51Z
-concepts: []
+ResourceImportId: 260
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 I have just uploaded [CTP 2](http://www.codeplex.com/TFSEventHandler/Release/ProjectReleases.aspx) of the [TFS Event Handler](http://www.codeplex.com/TFSEventHandler).This is a fully functional version of the application and I will be releasing documentation for this in due course, but all configuration of team servers and events is handled through the [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Event Handler Explorer, but all Event Handlers are setup manually.

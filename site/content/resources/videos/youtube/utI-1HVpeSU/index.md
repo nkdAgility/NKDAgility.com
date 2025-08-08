@@ -5,10 +5,10 @@ description: Compares dictatorship and democracy in Agile leadership, highlighti
 tldr: Effective Agile leadership requires balancing clear direction from leaders with empowering teams to collaborate and make decisions. Relying solely on top-down control limits innovation and engagement, while pure democracy can slow progress. Leaders should set the vision, encourage open dialogue, and trust teams to act, creating a more innovative and committed environment.
 date: 2023-10-15T07:00:31Z
 lastmod: 2023-10-15T07:00:31Z
-weight: 835
+weight: 445
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ResourceId: utI-1HVpeSU
 ResourceImport: true
@@ -28,6 +28,7 @@ layout: video
 concepts: []
 categories:
   - Leadership
+  - Technical Leadership
 tags:
   - Team Motivation
   - Organisational Psychology

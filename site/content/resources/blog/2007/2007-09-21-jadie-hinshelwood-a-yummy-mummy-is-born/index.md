@@ -1,34 +1,37 @@
 ---
 title: 'Jadie Hinshelwood: A yummy mummy is born!'
 description: Personal blog sharing experiences with pregnancy, miscarriage, and family life, offering support and insights for others on similar journeys to parenthood.
+date: 2007-09-21
+lastmod: 2007-09-21
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: zcpMYmgu_vJ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 309
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-09-21
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: jadie-hinshelwood-a-yummy-mummy-is-born
 aliases:
-- /resources/zcpMYmgu_vJ
+  - /resources/zcpMYmgu_vJ
 aliasesArchive:
-- /blog/jadie-hinshelwood-a-yummy-mummy-is-born
-- /jadie-hinshelwood-a-yummy-mummy-is-born
-- /jadie-hinshelwood--a-yummy-mummy-is-born-
-- /blog/jadie-hinshelwood--a-yummy-mummy-is-born-
-- /resources/blog/jadie-hinshelwood-a-yummy-mummy-is-born
+  - /blog/jadie-hinshelwood-a-yummy-mummy-is-born
+  - /jadie-hinshelwood-a-yummy-mummy-is-born
+  - /jadie-hinshelwood--a-yummy-mummy-is-born-
+  - /blog/jadie-hinshelwood--a-yummy-mummy-is-born-
+  - /resources/blog/jadie-hinshelwood-a-yummy-mummy-is-born
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-3-3.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:04Z
-concepts: []
+ResourceImportId: 309
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-3-3.png
 
 ---
 My wife, Jadie Hinshelwood, has just started [blogging](http://jadie.hinshelwood.com/2007/09/story-so-far.html) about our journey to get pregnant, miscarriage via [A Yummy Mummy is Born](http://jadie.hinshelwood.com), I hope you will give her some support.

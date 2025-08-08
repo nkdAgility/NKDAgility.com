@@ -1,31 +1,34 @@
 ---
 title: Hosted Team Foundation Server
 description: Explains challenges of hosting Team Foundation Server, including project isolation issues, upcoming improvements, and the availability of commercial hosted TFS services.
+date: 2007-08-05
+lastmod: 2007-08-05
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: uP5FXaFL6Lx
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 342
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-05
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: hosted-team-foundation-server
 aliases:
-- /resources/uP5FXaFL6Lx
+  - /resources/uP5FXaFL6Lx
 aliasesArchive:
-- /blog/hosted-team-foundation-server
-- /hosted-team-foundation-server
-- /resources/blog/hosted-team-foundation-server
-tags: []
+  - /blog/hosted-team-foundation-server
+  - /hosted-team-foundation-server
+  - /resources/blog/hosted-team-foundation-server
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:55Z
-concepts: []
+ResourceImportId: 342
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 I have [posted](http://blog.hinshelwood.com/archive/2007/05/31/Hosted-Team-Foundation-Server.aspx "Hosted Team Foundation Server") about Hosted Team Foundation server before and I have had a few discussions with [Jon Pratt](http://blogs.msdn.com/ukvsts/pages/jon-pratt.aspx) from the [Microsoft UK Development Tools Team](http://blogs.msdn.com/ukvsts/default.aspx) on the subject. The issue with Hosted [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") is that there is no real partitioning of projects within the system and thus if you had two clients on the same server they would be able to view each others data.

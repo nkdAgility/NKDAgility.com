@@ -1,32 +1,35 @@
 ---
 title: Mozy Backup
 description: Mozy Backup offers affordable, easy-to-use online backup with free storage, simple setup, and automatic protection for your digital files, photos, and documents.
+date: 2007-11-26
+lastmod: 2007-11-26
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: w40y2iYjQLv
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 287
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-11-26
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: mozy-backup
 aliases:
-- /resources/w40y2iYjQLv
+  - /resources/w40y2iYjQLv
 aliasesArchive:
-- /blog/mozy-backup
-- /mozy-backup
-- /resources/blog/mozy-backup
+  - /blog/mozy-backup
+  - /mozy-backup
+  - /resources/blog/mozy-backup
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-3-3.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:33Z
-concepts: []
+ResourceImportId: 287
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-3-3.png
 
 ---
 I was looking for an online backup solution and [Scott Hanselman](http://www.hanselman.com/blog/OnLosingDataAndAFamilyBackupStrategy.aspx) provided it for me: Thanks Scott and good luck with all the [new stuff](http://www.hanselman.com/blog/NewJobNewHouseNewBabyAndDesigningATotallyNewHomeOffice.aspx) :).

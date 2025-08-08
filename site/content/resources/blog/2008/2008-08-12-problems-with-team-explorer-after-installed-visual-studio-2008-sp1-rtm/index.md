@@ -1,33 +1,36 @@
 ---
 title: Problems with Team Explorer after installed Visual Studio 2008 SP1 RTM
 description: Describes a Team Explorer error after installing Visual Studio 2008 SP1 RTM, troubleshooting steps taken, and issues with accessing version control features.
+date: 2008-08-12
+lastmod: 2008-08-12
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: DLSNF8iLvfk
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 210
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-08-12
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 aliases:
-- /resources/DLSNF8iLvfk
+  - /resources/DLSNF8iLvfk
 aliasesArchive:
-- /blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
-- /problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
-- /resources/blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
-tags:
-- Troubleshooting
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
+  - /problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
+  - /resources/blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:23:40Z
-concepts: []
+ResourceImportId: 210
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 I received the following error box after installing VS2008 SP1 RTM:

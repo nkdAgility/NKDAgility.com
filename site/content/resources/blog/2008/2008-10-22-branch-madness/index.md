@@ -1,35 +1,38 @@
 ---
 title: Branch madness!
 description: Describes a complex source control issue in TFS involving branch mismanagement, its impact on merging, and step-by-step actions taken to restore proper branch structure.
+date: 2008-10-22
+lastmod: 2008-10-22
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: s2fykp0ti2Y
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 186
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-10-22
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: branch-madness
 aliases:
-- /resources/s2fykp0ti2Y
+  - /resources/s2fykp0ti2Y
 aliasesArchive:
-- /blog/branch-madness
-- /branch-madness
-- /branch-madness-
-- /blog/branch-madness-
-- /resources/blog/branch-madness
-tags:
-- Software Development
-preview: nakedalm-logo-128-link-2-1.png
+  - /blog/branch-madness
+  - /branch-madness
+  - /branch-madness-
+  - /blog/branch-madness-
+  - /resources/blog/branch-madness
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T16:22:59Z
-concepts: []
+ResourceImportId: 186
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-1.png
 
 ---
 [![image](images/WherehasMartinbeen_C9BB-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-WherehasMartinbeen_C9BB-image_2.png)I know that I have not been posting in a while, and I hope to remedy that. I have been working on getting our internal team up to speed on using [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") as a full ALM tool and not just for source control. I am getting a lot of resistance on creating work items ( as this is a PM’s job !) but we are making progress.

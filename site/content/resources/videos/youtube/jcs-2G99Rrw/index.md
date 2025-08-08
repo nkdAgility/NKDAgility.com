@@ -38,6 +38,7 @@ tags:
   - Pragmatic Thinking
   - Product Delivery
   - Operational Practices
+  - Personal
 Watermarks:
   description: 2025-05-07T13:05:18Z
   short_title: 2025-07-07T17:49:22Z

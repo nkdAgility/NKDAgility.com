@@ -1,34 +1,37 @@
 ---
 title: 'TFS EventHandler: MSMQ Refactor'
 description: Refactoring a TFS Event Handler to use MSMQ, splitting it into modular services for event queuing and handling, improving maintainability and administration.
+date: 2007-04-30
+lastmod: 2007-04-30
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 1monS4nfW6w
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 407
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-04-30
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-eventhandler-msmq-refactor
 aliases:
-- /resources/1monS4nfW6w
+  - /resources/1monS4nfW6w
 aliasesArchive:
-- /blog/tfs-eventhandler-msmq-refactor
-- /tfs-eventhandler-msmq-refactor
-- /tfs-eventhandler--msmq-refactor
-- /blog/tfs-eventhandler--msmq-refactor
-- /resources/blog/tfs-eventhandler-msmq-refactor
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/tfs-eventhandler-msmq-refactor
+  - /tfs-eventhandler-msmq-refactor
+  - /tfs-eventhandler--msmq-refactor
+  - /blog/tfs-eventhandler--msmq-refactor
+  - /resources/blog/tfs-eventhandler-msmq-refactor
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:37Z
-concepts: []
+ResourceImportId: 407
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I am half way through the MSMQ Refactor of my [TFS Event Handler](http://www.codeplex.com/TFSEventHandler) project and thing are starting to come together. I have changed it so that instead of one big solution I will have three smaller ones. This will allow me to cross reference the different services.

@@ -35,9 +35,9 @@ tags:
   - Value Delivery
   - Metrics and Learning
   - Pragmatic Thinking
+  - Continuous Delivery
   - Team Performance
   - Release Management
-  - Continuous Delivery
   - Operational Practices
   - Decision Making
   - Continuous Improvement

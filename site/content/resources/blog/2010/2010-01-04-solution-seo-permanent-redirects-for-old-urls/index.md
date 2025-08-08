@@ -1,41 +1,43 @@
 ---
 title: Solution - SEO permanent redirects for old URL’s?
 description: Explains how to set up SEO-friendly permanent redirects for old URLs to new ones in ASP.NET, covering best practices and code examples for preserving search rankings.
+date: 2010-01-04
+lastmod: 2010-01-04
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 2x0w1Oay2UF
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 73
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2010-01-04
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: solution-seo-permanent-redirects-for-old-urls
+slug: solution-seo-permanent-redirects-for-old-url-s
 aliases:
-- /resources/blog/solution-seo-permanent-redirects-for-old-url-s
-- /resources/2x0w1Oay2UF
+  - /resources/2x0w1Oay2UF
 aliasesArchive:
-- /blog/solution-seo-permanent-redirects-for-old-urls
-- /solution-seo-permanent-redirects-for-old-urls
-- /solution---seo-permanent-redirects-for-old-url’s-
-- /blog/solution---seo-permanent-redirects-for-old-url’s-
-- /resources/blog/solution-seo-permanent-redirects-for-old-urls
-- /resources/blog/solution-seo-permanent-redirects-for-old-url-s
-tags:
-- Software Development
-- Install and Configuration
-- Pragmatic Thinking
-- Troubleshooting
-- Technical Mastery
+  - /blog/solution-seo-permanent-redirects-for-old-urls
+  - /solution-seo-permanent-redirects-for-old-urls
+  - /solution---seo-permanent-redirects-for-old-url’s-
+  - /blog/solution---seo-permanent-redirects-for-old-url’s-
+  - /resources/blog/solution-seo-permanent-redirects-for-old-urls
+  - /resources/blog/solution-seo-permanent-redirects-for-old-url-s
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Install and Configuration
+  - Pragmatic Thinking
+  - Troubleshooting
+  - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:22:48Z
-concepts: []
+ResourceImportId: 73
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 From time to time, your website structure may change. When this happens, you do not want to have to start from scratch with your Google rankings, so you need to map all of your Old URLs to new ones.

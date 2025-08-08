@@ -2,39 +2,44 @@
 title: Applying Professional Kanban (APK) Course with Certification
 short_title: Applying Professional Kanban Course Certification
 description: Gain practical Kanban skills through live sessions and real-world practice, covering workflow design, flow metrics, visual boards, and continuous improvement. Certification included.
+tldr: This course offers practical, hands-on training in Kanban principles and workflow design, helping teams and managers improve productivity and delivery through real-world application and live sessions. Participants will learn to use visual boards, set work-in-progress limits, and interpret key flow metrics to continuously enhance their processes. Completing the course provides certification and actionable skills for integrating Kanban into software development teams.
 date: 2020-12-17
-weight: 1000
+weight: 735
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: ZeqWpEsyhbv
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: applying-professional-kanban-apk-course-with-certification
 aliases:
-- /apk/
-- /training-courses/apk/
-- /training-courses/applying-professional-kanban/
-- /training-courses/applying-professional-kanban-training-with-certification/
-- /training-courses/prokanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
-- /capabilities/training-courses/prokanban.org/applying-professional-kanban-apk-training-experience-with-certification/
-- /resources/ZeqWpEsyhbv
+  - /apk/
+  - /training-courses/apk/
+  - /training-courses/applying-professional-kanban/
+  - /training-courses/applying-professional-kanban-training-with-certification/
+  - /training-courses/prokanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
+  - /capabilities/training-courses/prokanban.org/applying-professional-kanban-apk-training-experience-with-certification/
+  - /resources/ZeqWpEsyhbv
 aliasesArchive:
-- /apk/
-- /training-courses/apk/
-- /training-courses/applying-professional-kanban/
-- /training-courses/applying-professional-kanban-training-with-certification/
-- /training-courses/prokanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
-- /capabilities/training-courses/prokanban.org/applying-professional-kanban-apk-training-experience-with-certification/
+  - /apk/
+  - /training-courses/apk/
+  - /training-courses/applying-professional-kanban/
+  - /training-courses/applying-professional-kanban-training-with-certification/
+  - /training-courses/prokanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
+  - /capabilities/training-courses/prokanban.org/applying-professional-kanban-apk-training-experience-with-certification/
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- Kanban
+  - Product Development
+  - Kanban
 tags:
-- Agile Frameworks
-- Flow Efficiency
-- Lean Thinking
-- Operational Practices
-- Pragmatic Thinking
+  - Agile Frameworks
+  - Flow Efficiency
+  - Lean Thinking
+  - Operational Practices
+  - Pragmatic Thinking
 card:
   button:
     content: ""
@@ -43,25 +48,26 @@ card:
 Watermarks:
   description: 2025-07-29T15:01:13Z
   short_title: 2025-07-29T15:01:15Z
+  tldr: 2025-08-08T11:37:40Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/kanban-training-courses/:slug/
 course_topics:
-- Kanban Training Courses
+  - Kanban Training Courses
 course_vendors:
-- ProKanbanorg
+  - ProKanbanorg
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- Teams
-- Product Owners
-- Lean Agile Practitioners
+  - Teams
+  - Product Owners
+  - Lean Agile Practitioners
 preview: NKDAgility-Courses-APK-16x9-1.jpg
 previewIcon: APK@2x.png
 brandColour: 
 code: APK
 course_proficiencies:
-- intermediate
+  - intermediate
 introduction: 
 overview: |2-
 

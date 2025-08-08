@@ -35,6 +35,7 @@ categories:
 tags:
   - Continuous Improvement
   - Operational Practices
+  - Personal
   - Empirical Process Control
   - Metrics and Learning
   - Continuous Learning

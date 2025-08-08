@@ -1,32 +1,35 @@
 ---
 title: Recipe for Team Server in a small business
 description: Breaks down the costs and benefits of setting up Team Foundation Server for small businesses, covering licensing, hardware, and key features like source control and project management.
+date: 2007-05-24
+lastmod: 2007-05-24
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: wOQl29WfTz6
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 399
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-05-24
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: recipe-for-team-server-in-a-small-business
 aliases:
-- /resources/wOQl29WfTz6
+  - /resources/wOQl29WfTz6
 aliasesArchive:
-- /blog/recipe-for-team-server-in-a-small-business
-- /recipe-for-team-server-in-a-small-business
-- /resources/blog/recipe-for-team-server-in-a-small-business
-tags: []
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/recipe-for-team-server-in-a-small-business
+  - /recipe-for-team-server-in-a-small-business
+  - /resources/blog/recipe-for-team-server-in-a-small-business
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:21Z
-concepts: []
+ResourceImportId: 399
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 If you have a small company, say 6 to 30 people, you will look at team server and think, cool...But what does it cost.

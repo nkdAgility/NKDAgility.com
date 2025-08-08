@@ -1,36 +1,39 @@
 ---
 title: My first Extension method...
 description: Explains how to create and use extension methods in VB.NET, with an example for enhancing the XboxInfo class to display and track Xbox Live status changes.
+date: 2008-01-07
+lastmod: 2008-01-07
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: QJ6lF5ONMCD
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 269
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-01-07
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: my-first-extension-method
 aliases:
-- /resources/blog/my-first-extension-method...
-- /resources/QJ6lF5ONMCD
+  - /resources/blog/my-first-extension-method...
+  - /resources/QJ6lF5ONMCD
 aliasesArchive:
-- /blog/my-first-extension-method
-- /my-first-extension-method---
-- /blog/my-first-extension-method---
-- /my-first-extension-method
-- /resources/blog/my-first-extension-method
-- /resources/blog/my-first-extension-method...
-tags: []
+  - /blog/my-first-extension-method
+  - /my-first-extension-method---
+  - /blog/my-first-extension-method---
+  - /my-first-extension-method
+  - /resources/blog/my-first-extension-method
+  - /resources/blog/my-first-extension-method...
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:05Z
-concepts: []
+ResourceImportId: 269
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 I decided as part of my .NET 3.5 learning curve to rebuild [Duncan Mackenzie](http://duncanmackenzie.net/blog/connect-your-xbox-360-gamertag-to-twitter/default.aspx)'s [Xbox to Twitter application](http://www.duncanmackenzie.net/blog/using-the-xbox-to-twitter-app-please-update-your-client/default.aspx) just for fun...

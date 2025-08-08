@@ -5,10 +5,10 @@ description: Explains how to apply and manage branch policies in TFVC using regu
 tldr: A new branch policy tool for TFVC allows you to apply policies like branch locks, code reviews, and work item requirements across multiple branches using simple patterns, making policy management much easier for large, complex codebases. This approach avoids cumbersome path-based setups and helps ensure key quality steps are not missed without overburdening developers. You can try the tool, provide feedback, or contribute to its development on GitHub.
 date: 2016-01-13
 lastmod: 2016-01-13
-weight: 660
+weight: 495
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: weekly
 ResourceId: _26VFOA-vCe
 ResourceImport: false

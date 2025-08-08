@@ -1,32 +1,35 @@
 ---
 title: Windows Communication Framework Evaluation
 description: Assessment of Windows Communication Foundation (WCF) for enterprise web services, focusing on security, compatibility, and benefits over previous .NET frameworks.
+date: 2006-08-09
+lastmod: 2006-08-09
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: piNenAHpFYq
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 464
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2006-08-09
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: windows-communication-framework-evaluation
 aliases:
-- /resources/piNenAHpFYq
+  - /resources/piNenAHpFYq
 aliasesArchive:
-- /blog/windows-communication-framework-evaluation
-- /windows-communication-framework-evaluation
-- /resources/blog/windows-communication-framework-evaluation
-tags: []
-preview: metro-binary-vb-128-link-1-1.png
+  - /blog/windows-communication-framework-evaluation
+  - /windows-communication-framework-evaluation
+  - /resources/blog/windows-communication-framework-evaluation
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:30:00Z
-concepts: []
+ResourceImportId: 464
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 I am currently evaluating WCF for my company. Now, ML has some pretty strong polocies on beta software, but they seam to be missing something with WinFX. I can find information on the company intranet on Vista and Office 2007, I can even request them to be installed on my desktop as part of an internal beta program, but nothing on WinFX or WCF!

@@ -1,32 +1,35 @@
 ---
 title: The Hinshelwood Family Portrait
 description: A family shares their positive experience with a professional photo shoot, highlighting the photographer’s skill, patience with children, and quality of the resulting portraits.
+date: 2009-05-03
+lastmod: 2009-05-03
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: HklqA9qkC3L
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 124
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-05-03
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-hinshelwood-family-portrait
 aliases:
-- /resources/HklqA9qkC3L
+  - /resources/HklqA9qkC3L
 aliasesArchive:
-- /blog/the-hinshelwood-family-portrait
-- /the-hinshelwood-family-portrait
-- /resources/blog/the-hinshelwood-family-portrait
+  - /blog/the-hinshelwood-family-portrait
+  - /the-hinshelwood-family-portrait
+  - /resources/blog/the-hinshelwood-family-portrait
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-2-1.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T15:24:09Z
-concepts: []
+ResourceImportId: 124
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-1.png
 
 ---
 For my wife’s birthday my brother and his wife bought us a professional photo shoot, and the photographer got some [fantastic shots](http://perfectexpressions.co.uk/blog/2009/05/the-hinshelwood-family-portrait-shoot/). I love the one of my daughter jumping. We have had a couple of go’s at this before, but we have always been disappointed in both the photographer and the results.

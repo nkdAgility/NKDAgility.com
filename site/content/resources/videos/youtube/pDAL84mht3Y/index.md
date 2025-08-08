@@ -5,10 +5,10 @@ description: Explores how rigid adherence to tools and processes hinders true ag
 tldr: Rigidly sticking to tools and processes can cause teams to stagnate, resist change, and miss out on innovation. True agility comes from regularly reassessing practices, encouraging experimentation, and focusing on outcomes rather than methods. Development managers should foster a culture of continuous improvement and adaptability to keep their teams responsive and effective.
 date: 2023-11-08T11:00:53Z
 lastmod: 2023-11-08T11:00:53Z
-weight: 690
+weight: 345
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: monthly
 ResourceId: pDAL84mht3Y
 ResourceImport: true

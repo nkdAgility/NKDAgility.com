@@ -1,35 +1,38 @@
 ---
 title: Deploying Visual Studio 2010 Team Foundation Server Beta 2 - Done
 description: Covers the step-by-step process and team effort involved in migrating from TFS 2008 to Visual Studio 2010 Team Foundation Server Beta 2, including key lessons learned.
+date: 2009-10-25
+lastmod: 2009-10-25
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: n3zK02HdExl
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 81
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-10-25
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: deploying-visual-studio-2010-team-foundation-server-beta-2-done
 aliases:
-- /resources/n3zK02HdExl
+  - /resources/n3zK02HdExl
 aliasesArchive:
-- /blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
-- /deploying-visual-studio-2010-team-foundation-server-beta-2-done
-- /deploying-visual-studio-2010-team-foundation-server-beta-2---done
-- /blog/deploying-visual-studio-2010-team-foundation-server-beta-2---done
-- /resources/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
-tags:
-- Install and Configuration
-preview: metro-visual-studio-2010-128-link-1-1.png
+  - /blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
+  - /deploying-visual-studio-2010-team-foundation-server-beta-2-done
+  - /deploying-visual-studio-2010-team-foundation-server-beta-2---done
+  - /blog/deploying-visual-studio-2010-team-foundation-server-beta-2---done
+  - /resources/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:23:01Z
-concepts: []
+ResourceImportId: 81
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
 Well, nothing like hitting the ground running, my first job at SSW was to join the TFS Migration Team, it was a fun experience, let me tell you how it went.

@@ -1,36 +1,39 @@
 ---
 title: Windows Mobile 6 Black Shadow (4.0)
 description: Guide to updating HTC Hermes phones with Windows Mobile 6 Black Shadow (4.0) ROM, including installation steps, benefits, and tips to avoid common update issues.
+date: 2007-06-21
+lastmod: 2007-06-21
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: zVL1JtizXQg
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 375
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-06-21
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: windows-mobile-6-black-shadow-4-0
 aliases:
-- /resources/blog/windows-mobile-6-black-shadow-4.0
-- /resources/zVL1JtizXQg
+  - /resources/blog/windows-mobile-6-black-shadow-4.0
+  - /resources/zVL1JtizXQg
 aliasesArchive:
-- /blog/windows-mobile-6-black-shadow-4-0
-- /windows-mobile-6-black-shadow-4-0
-- /windows-mobile-6-black-shadow-(4-0)
-- /blog/windows-mobile-6-black-shadow-(4-0)
-- /resources/blog/windows-mobile-6-black-shadow-4-0
-- /resources/blog/windows-mobile-6-black-shadow-4.0
-tags: []
+  - /blog/windows-mobile-6-black-shadow-4-0
+  - /windows-mobile-6-black-shadow-4-0
+  - /windows-mobile-6-black-shadow-(4-0)
+  - /blog/windows-mobile-6-black-shadow-(4-0)
+  - /resources/blog/windows-mobile-6-black-shadow-4-0
+  - /resources/blog/windows-mobile-6-black-shadow-4.0
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:48Z
-concepts: []
+ResourceImportId: 375
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I know that you are not supposed to do it, but I updated my phone to [Windows Mobile 6 Black](http://wmblack.info/), specifically Black 4 (Shadow). This is a fantastic ROM and, if you are not that technical, much better than trying to cook your own! It is described as a Hybrid OEM of [HTC Hermes](http://www.europe.htc.com/products/htctytn.html) and [Touch](http://www.htctouch.com/) designed specifically for the Hermes. This is good as the current [HTC Touch](http://www.europe.htc.com/products/htctouch.html) phone does not have 3G or a keyboard, it looks fantastic though. I knew the iPhone would be good for something, pushing HTC to advance the interface!

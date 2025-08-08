@@ -1,34 +1,37 @@
 ---
 title: Installing Windows 7
 description: Step-by-step guide to installing Windows 7 in a virtual environment, covering setup options, first boot, and initial configuration with screenshots.
+date: 2009-01-09
+lastmod: 2009-01-09
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: il4oYdn6wqL
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 148
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-01-09
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-windows-7
 aliases:
-- /resources/il4oYdn6wqL
+  - /resources/il4oYdn6wqL
 aliasesArchive:
-- /blog/installing-windows-7
-- /installing-windows-7
-- /resources/blog/installing-windows-7
-tags:
-- Windows
-- Install and Configuration
-preview: nakedalm-logo-128-link-18-18.png
+  - /blog/installing-windows-7
+  - /installing-windows-7
+  - /resources/blog/installing-windows-7
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Windows
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:21:56Z
-concepts: []
+ResourceImportId: 148
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-18-18.png
 
 ---
 Installing Windows 7 is so similar to the Vista install it almost does not deserve a post on it, but as I did not do a Vista install post, and I am waiting for the install to complete, I though you should see, erm…. the nice new colours…

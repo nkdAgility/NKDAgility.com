@@ -37,6 +37,7 @@ categories:
   - Product Management
   - Technical Leadership
 tags:
+  - Personal
   - Product Delivery
   - Agile Product Management
   - Agile Planning

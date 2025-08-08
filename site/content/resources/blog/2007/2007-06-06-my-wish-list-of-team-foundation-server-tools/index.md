@@ -1,32 +1,35 @@
 ---
 title: My Wish List of Team Foundation Server Tools
 description: A list of desired Team Foundation Server tools, including event handlers, workflow integration, Jira and BPEL sync, simplified work item submission, notifications, and SharePoint support.
+date: 2007-06-06
+lastmod: 2007-06-06
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ew4cQCgRYB0
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 389
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-06-06
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: my-wish-list-of-team-foundation-server-tools
 aliases:
-- /resources/ew4cQCgRYB0
+  - /resources/ew4cQCgRYB0
 aliasesArchive:
-- /blog/my-wish-list-of-team-foundation-server-tools
-- /my-wish-list-of-team-foundation-server-tools
-- /resources/blog/my-wish-list-of-team-foundation-server-tools
-tags: []
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/my-wish-list-of-team-foundation-server-tools
+  - /my-wish-list-of-team-foundation-server-tools
+  - /resources/blog/my-wish-list-of-team-foundation-server-tools
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:09Z
-concepts: []
+ResourceImportId: 389
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 **TFS Event Handler**

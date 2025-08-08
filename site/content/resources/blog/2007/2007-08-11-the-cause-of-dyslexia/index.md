@@ -1,32 +1,35 @@
 ---
 title: The cause of dyslexia
 description: Dyslexia is a hereditary, neurological condition linked to brain structure and function, affecting reading ability but often associated with unique cognitive strengths.
+date: 2007-08-11
+lastmod: 2007-08-11
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: W_2y81Yg8QB
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 334
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-11
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-cause-of-dyslexia
 aliases:
-- /resources/W_2y81Yg8QB
+  - /resources/W_2y81Yg8QB
 aliasesArchive:
-- /blog/the-cause-of-dyslexia
-- /the-cause-of-dyslexia
-- /resources/blog/the-cause-of-dyslexia
-tags: []
+  - /blog/the-cause-of-dyslexia
+  - /the-cause-of-dyslexia
+  - /resources/blog/the-cause-of-dyslexia
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:46Z
-concepts: []
+ResourceImportId: 334
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Rather than confuse the issue with my verbal dexterity (or excrement from my brain is more likely) I will quote from a source on the web:

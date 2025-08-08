@@ -1,34 +1,37 @@
 ---
 title: 'Studying for Exam 70-536: MCTS Application Development Foundation'
 description: Guidance on self-studying for Microsoft Exam 70-536, covering .NET Framework 2.0 fundamentals for MCTS certification and tips for developers with prior .NET experience.
+date: 2007-05-04
+lastmod: 2007-05-04
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: pVQvZ2ZSyk-
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 404
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-05-04
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: studying-for-exam-70-536-mcts-application-development-foundation
 aliases:
-- /resources/pVQvZ2ZSyk-
+  - /resources/pVQvZ2ZSyk-
 aliasesArchive:
-- /blog/studying-for-exam-70-536-mcts-application-development-foundation
-- /studying-for-exam-70-536-mcts-application-development-foundation
-- /studying-for-exam-70-536--mcts-application-development-foundation
-- /blog/studying-for-exam-70-536--mcts-application-development-foundation
-- /resources/blog/studying-for-exam-70-536-mcts-application-development-foundation
-tags: []
+  - /blog/studying-for-exam-70-536-mcts-application-development-foundation
+  - /studying-for-exam-70-536-mcts-application-development-foundation
+  - /studying-for-exam-70-536--mcts-application-development-foundation
+  - /blog/studying-for-exam-70-536--mcts-application-development-foundation
+  - /resources/blog/studying-for-exam-70-536-mcts-application-development-foundation
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:31Z
-concepts: []
+ResourceImportId: 404
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 After my success with [Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server](http://hinshelwood.com/archive/2007/04/25/Beta-Exam-71-510-TS-Visual-Studio-2005-Team-Foundation-Server.aspx) I now find myself thinking that I should get my developer exams sorted. I had never done them before as I would have had to pay for them myself. Which sucks...

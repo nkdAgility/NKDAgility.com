@@ -2,41 +2,45 @@
 title: Professional Scrum Product Backlog Management Skills (PSPBMS) Course with Certification
 short_title: Product Backlog Management Skills
 description: Gain practical skills in managing Product Backlogs, engaging stakeholders, and using data to align backlog items with product vision in Scrum environments. Certification included.
+tldr: This one-day intermediate course helps development managers and their teams improve Product Backlog management by aligning it with product vision, engaging stakeholders, and using data for better decisions. Participants will learn practical skills to increase backlog transparency and balance strategy with team autonomy. Completing the course prepares you for a Scrum.org certification in Product Backlog Mastery.
 date: 2023-09-27
-weight: 750
+weight: 575
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: N4fzkLtirTS
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: professional-scrum-product-backlog-management-skills-pspbms-course-with-certification
 aliases:
-- /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-product-backlog-management-skills-with-certification/
-- /resources/N4fzkLtirTS
+  - /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-product-backlog-management-skills-with-certification/
+  - /resources/N4fzkLtirTS
 aliasesArchive:
-- /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-product-backlog-management-skills-with-certification/
+  - /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-product-backlog-management-skills-with-certification/
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Scrum
-- Product Development
-- Product Management
+  - Scrum
+  - Product Development
+  - Product Management
 tags:
-- Product Backlog
-- Agile Frameworks
-- Agile Planning
-- Agile Planning Tools
-- Agile Product Management
-- Agile Transformation
-- Backlog Refinement
-- Pragmatic Thinking
-- Product Delivery
-- Product Owner
-- Professional Scrum
-- Software Development
-- Transparency
-- Value Delivery
+  - Product Backlog
+  - Product Owner
+  - Agile Frameworks
+  - Agile Planning
+  - Agile Planning Tools
+  - Agile Product Management
+  - Agile Transformation
+  - Backlog Refinement
+  - Pragmatic Thinking
+  - Product Delivery
+  - Professional Scrum
+  - Software Development
+  - Value Delivery
 card:
   button:
     content: ""
@@ -44,26 +48,27 @@ card:
   content: Step into the dynamic world of Scrum with our 'Professional Scrum Product Backlog Mastery' course. Unlock the secrets of effective backlog management, stakeholder engagement, and data-driven decision-making. Whether you're a seasoned Scrum Master or an aspiring Product Owner, this course promises to elevate your skills, offering a blend of theory and real-world application. Dive in, and let's turn your Scrum visions into actionable strategies.
 Watermarks:
   description: 2025-07-29T15:01:04Z
+  tldr: 2025-08-08T11:37:30Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course_vendors:
-- Scrumorg
+  - Scrumorg
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- Product Owners
-- Product Managers
-- Scrum Masters
-- Lean Agile Practitioners
+  - Product Owners
+  - Product Managers
+  - Scrum Masters
+  - Lean Agile Practitioners
 preview: naked-agility-Professional-Scrum-PSPBMS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSPBMS-400x.png
 brandColour: 
 code: PSPBMS
 course_proficiencies:
-- intermediate
+  - intermediate
 introduction: |2-
 
   ### **Why is the Product Backlog so important?**

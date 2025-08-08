@@ -1,32 +1,35 @@
 ---
 title: Unique ID in SharePoint list
 description: SharePoint lists include a built-in unique, auto-generated ID column. Enable its display in list settings to show unique IDs for each item without custom solutions.
+date: 2008-01-11
+lastmod: 2008-01-11
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: IydVW3AXWCp
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 265
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-01-11
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: unique-id-in-sharepoint-list
 aliases:
-- /resources/IydVW3AXWCp
+  - /resources/IydVW3AXWCp
 aliasesArchive:
-- /blog/unique-id-in-sharepoint-list
-- /unique-id-in-sharepoint-list
-- /resources/blog/unique-id-in-sharepoint-list
-tags: []
+  - /blog/unique-id-in-sharepoint-list
+  - /unique-id-in-sharepoint-list
+  - /resources/blog/unique-id-in-sharepoint-list
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-2-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:59Z
-concepts: []
+ResourceImportId: 265
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-2-1.png
 
 ---
 [This seams to be a common problem, and one that I get many calls from users about:](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-UniqueIDinSharePointlist_7B3D-image_2.png)

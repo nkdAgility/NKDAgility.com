@@ -1,34 +1,37 @@
 ---
 title: Developer day Scotland!
 description: Event for software developers in Glasgow featuring talks, networking, and a post-event dinner. Held at Glasgow Caledonian University on 10 May 2008.
+date: 2008-05-10
+lastmod: 2008-05-10
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: R2pvi8SYo_y
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 230
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-05-10
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: developer-day-scotland-2
+slug: developer-day-scotland
 aliases:
-- /resources/R2pvi8SYo_y
+  - /resources/R2pvi8SYo_y
 aliasesArchive:
-- /blog/developer-day-scotland-2
-- /developer-day-scotland-2
-- /developer-day-scotland-
-- /blog/developer-day-scotland-
-- /resources/blog/developer-day-scotland-2
+  - /blog/developer-day-scotland-2
+  - /developer-day-scotland-2
+  - /developer-day-scotland-
+  - /blog/developer-day-scotland-
+  - /resources/blog/developer-day-scotland-2
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:09Z
-concepts: []
+ResourceImportId: 230
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 [![](images/GetReady1-large.png)](http://developerdayscotland.com/main/Default.aspx) Its the main event tomorrow...

@@ -5,10 +5,10 @@ description: A personal account highlighting the importance of organisational re
 tldr: Organisations must be ready and willing to engage for agile consulting to be effective; without this, even the best advice will be ignored and no real progress will happen. Repeated experiences showed that lack of readiness and follow-through leads to wasted effort and stagnation. Development managers should ensure their teams are prepared to listen and act before bringing in external help.
 date: 2023-04-04T07:00:16Z
 lastmod: 2023-04-04T07:00:16Z
-weight: 815
+weight: 605
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ResourceId: sKYVNHcf1jg
 ResourceImport: true

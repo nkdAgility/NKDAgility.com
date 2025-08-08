@@ -1,33 +1,36 @@
 ---
 title: TFS Admin Tool 1.2 Gotcha
 description: Describes an issue in TFS Admin Tool 1.2 where adding a user as "Contributer" fails to grant necessary "Reader" permissions in reporting services, causing access problems.
+date: 2007-03-29
+lastmod: 2007-03-29
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: SmRXtDPyViB
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 422
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-03-29
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-admin-tool-1-2-gotcha
 aliases:
-- /resources/blog/tfs-admin-tool-1.2-gotcha
-- /resources/SmRXtDPyViB
+  - /resources/blog/tfs-admin-tool-1.2-gotcha
+  - /resources/SmRXtDPyViB
 aliasesArchive:
-- /blog/tfs-admin-tool-1-2-gotcha
-- /tfs-admin-tool-1-2-gotcha
-- /resources/blog/tfs-admin-tool-1-2-gotcha
-- /resources/blog/tfs-admin-tool-1.2-gotcha
-tags: []
+  - /blog/tfs-admin-tool-1-2-gotcha
+  - /tfs-admin-tool-1-2-gotcha
+  - /resources/blog/tfs-admin-tool-1-2-gotcha
+  - /resources/blog/tfs-admin-tool-1.2-gotcha
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:54Z
-concepts: []
+ResourceImportId: 422
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 I ran into a small problem with the tfs admin tool.

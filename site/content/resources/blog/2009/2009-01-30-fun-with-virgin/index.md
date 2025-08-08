@@ -1,35 +1,37 @@
 ---
 title: Fun with Virgin+
 description: A practical guide to resolving display issues with Virgin+ boxes when switching from HDMI to SCART, including step-by-step reset instructions for picture recovery.
+date: 2009-01-30
+lastmod: 2009-01-30
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: PHUHjUVq45E
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 141
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-01-30
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: fun-with-virgin
 aliases:
-- /resources/blog/fun-with-virgin
-- /resources/PHUHjUVq45E
+  - /resources/PHUHjUVq45E
 aliasesArchive:
-- /blog/fun-with-virgin
-- /fun-with-virgin
-- /fun-with-virgin+
-- /blog/fun-with-virgin+
-- /resources/blog/fun-with-virgin
+  - /blog/fun-with-virgin
+  - /fun-with-virgin
+  - /fun-with-virgin+
+  - /blog/fun-with-virgin+
+  - /resources/blog/fun-with-virgin
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-3-3.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:21:47Z
-concepts: []
+ResourceImportId: 141
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-3-3.png
 
 ---
 We are getting a new carpet tomorrow… my wife is 8 and a half months pregnant and she’s nesting…

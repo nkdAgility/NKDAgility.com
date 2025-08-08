@@ -37,6 +37,7 @@ tags:
   - Continuous Improvement
   - Continuous Learning
   - Operational Practices
+  - Personal
   - Transparency
   - Metrics and Learning
   - Lean Principles

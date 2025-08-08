@@ -40,6 +40,7 @@ tags:
   - Azure DevOps
   - Software Development
   - Organisational Agility
+  - Personal
   - Technical Mastery
   - Cross Functional Teams
   - Deployment Frequency
@@ -47,7 +48,6 @@ tags:
   - Market Adaptability
   - Product Delivery
   - Sociotechnical Systems
-  - Technical Debt
 Watermarks:
   description: 2025-05-07T13:15:41Z
   short_title: 2025-07-07T17:58:04Z

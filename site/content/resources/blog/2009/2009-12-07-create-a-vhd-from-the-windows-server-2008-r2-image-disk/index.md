@@ -1,35 +1,38 @@
 ---
 title: Create a VHD from the Windows Server 2008 R2 Image disk
 description: Step-by-step guide to create a Virtual Hard Disk (VHD) from a Windows Server 2008 R2 image using Windows AIK and WIM2VHD, including common pitfalls and tips.
+date: 2009-12-07
+lastmod: 2009-12-07
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: drLuFfVqIJ7
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 75
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2009-12-07
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: create-a-vhd-from-the-windows-server-2008-r2-image-disk
 aliases:
-- /resources/drLuFfVqIJ7
+  - /resources/drLuFfVqIJ7
 aliasesArchive:
-- /blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
-- /create-a-vhd-from-the-windows-server-2008-r2-image-disk
-- /resources/blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
-tags:
-- Windows
-- Install and Configuration
-- System Configuration
-preview: metro-SSWLogo-128-link-10-10.png
+  - /blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
+  - /create-a-vhd-from-the-windows-server-2008-r2-image-disk
+  - /resources/blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Windows
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T15:22:55Z
-concepts: []
+ResourceImportId: 75
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-SSWLogo-128-link-10-10.png
 
 ---
 Previously I created this [the manual way](http://blog.hinshelwood.com/archive/2009/12/07/create-a-vhd-from-the-windows-7-image-disk.aspx), but if you have a fast internet connection and can take the 1.6gb download of the AIK, then this is a much easier way of getting started.

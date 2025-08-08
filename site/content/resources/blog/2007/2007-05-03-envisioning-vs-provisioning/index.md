@@ -1,32 +1,35 @@
 ---
 title: Envisioning vs Provisioning
 description: Compares envisioners, who innovate and prototype with new tech, to provisioners, who deliver reliable solutions, highlighting their roles in effective software development teams.
+date: 2007-05-03
+lastmod: 2007-05-03
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: klxWFYrDmai
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 405
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-05-03
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: envisioning-vs-provisioning
 aliases:
-- /resources/klxWFYrDmai
+  - /resources/klxWFYrDmai
 aliasesArchive:
-- /blog/envisioning-vs-provisioning
-- /envisioning-vs-provisioning
-- /resources/blog/envisioning-vs-provisioning
-tags: []
+  - /blog/envisioning-vs-provisioning
+  - /envisioning-vs-provisioning
+  - /resources/blog/envisioning-vs-provisioning
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:32Z
-concepts: []
+ResourceImportId: 405
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Developers fall into two categories with regard to building solutions:

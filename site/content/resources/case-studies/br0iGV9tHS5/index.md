@@ -38,7 +38,7 @@ tags:
   - Agile Strategy
   - Enterprise Agility
   - Sociotechnical Systems
-  - Operational Practices
+  - Digital Transformation
 Watermarks:
   description: 2025-06-17T09:44:06Z
   short_title: 2025-07-07T16:43:35Z

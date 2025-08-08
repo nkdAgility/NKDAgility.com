@@ -1,32 +1,35 @@
 ---
 title: Major deadline
 description: A critical SharePoint migration project faces urgent deadlines after performance issues, requiring rapid deployment of a new MOSS portal to support key business functions.
+date: 2008-04-30
+lastmod: 2008-04-30
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: qNeovUSRj-o
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 233
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-04-30
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: major-deadline
 aliases:
-- /resources/qNeovUSRj-o
+  - /resources/qNeovUSRj-o
 aliasesArchive:
-- /blog/major-deadline
-- /major-deadline
-- /resources/blog/major-deadline
-tags: []
+  - /blog/major-deadline
+  - /major-deadline
+  - /resources/blog/major-deadline
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-5-5.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:15Z
-concepts: []
+ResourceImportId: 233
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-5-5.png
 
 ---
 ![image](images/Majordeadline_13060-image_thumb_6-4-4.png)Well the faeces hit the fan at work today...let me explain...

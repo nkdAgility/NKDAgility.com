@@ -1,35 +1,37 @@
 ---
 title: Would anyone be interested in hosted Visual Studio Team System (LinkedIn Question)
 description: Discussion on the demand and benefits of hosted Visual Studio Team System for small businesses, covering customisation, security, access, and technical considerations.
+date: 2007-05-20
+lastmod: 2007-05-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: aGh8Dn3evEi
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 400
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-05-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 aliases:
-- /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
-- /resources/aGh8Dn3evEi
+  - /resources/aGh8Dn3evEi
 aliasesArchive:
-- /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
-- /would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
-- /would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
-- /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
-- /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
-tags: []
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
+  - /would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
+  - /would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
+  - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
+  - /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:24Z
-concepts: []
+ResourceImportId: 400
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 View Full Question and Answers: [Would anyone be interested in hosted Visual Studio Team System](http://www.linkedin.com/answers/technology/software-development/TCH_SFT/46649-1363184)

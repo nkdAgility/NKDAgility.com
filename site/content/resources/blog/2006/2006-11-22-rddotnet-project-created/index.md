@@ -1,32 +1,35 @@
 ---
 title: RDdotNET Project Created
 description: A new RD.NET Community Foundation project offers extensible services for community sites, including globalisation, relationship management, and modular application support.
+date: 2006-11-22
+lastmod: 2006-11-22
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: cD1LS3C3pX0
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 460
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2006-11-22
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: rddotnet-project-created
 aliases:
-- /resources/cD1LS3C3pX0
+  - /resources/cD1LS3C3pX0
 aliasesArchive:
-- /blog/rddotnet-project-created
-- /rddotnet-project-created
-- /resources/blog/rddotnet-project-created
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/rddotnet-project-created
+  - /rddotnet-project-created
+  - /resources/blog/rddotnet-project-created
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:29:51Z
-concepts: []
+ResourceImportId: 460
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I have now created a new project within [CodePlex](http://www.codeplex.com "CodePlex") that encompases all of the features of WhiteLabel, but with a whole host of extras. The WhiteLabel project is now complete and a release will be uploaded as soon as [CodePlex](http://www.codeplex.com "CodePlex") starts working again.

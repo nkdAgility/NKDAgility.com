@@ -1,34 +1,37 @@
 ---
 title: TFS Event Handler v1.3 released
 description: TFS Event Handler v1.3 automates work item notifications in Team Foundation Server 2008, now supporting group alerts and custom event handler extensions. .NET 3.5 SP1 required.
+date: 2008-12-02
+lastmod: 2008-12-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 5utkJgImhFT
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 158
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-12-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-event-handler-v1-3-released
 aliases:
-- /resources/blog/tfs-event-handler-v1.3-released
-- /resources/5utkJgImhFT
+  - /resources/blog/tfs-event-handler-v1.3-released
+  - /resources/5utkJgImhFT
 aliasesArchive:
-- /blog/tfs-event-handler-v1-3-released
-- /tfs-event-handler-v1-3-released
-- /resources/blog/tfs-event-handler-v1-3-released
-- /resources/blog/tfs-event-handler-v1.3-released
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/tfs-event-handler-v1-3-released
+  - /tfs-event-handler-v1-3-released
+  - /resources/blog/tfs-event-handler-v1-3-released
+  - /resources/blog/tfs-event-handler-v1.3-released
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:22:14Z
-concepts: []
+ResourceImportId: 158
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Updated and improved for Team System 2008.

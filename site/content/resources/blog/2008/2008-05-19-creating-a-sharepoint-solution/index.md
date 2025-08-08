@@ -1,32 +1,35 @@
 ---
 title: Creating a SharePoint Solution
 description: Follow the development of a .NET 3.5 SharePoint Time Off Management app using WebParts, Workflow, InfoPath, SQL Server, and test-driven development techniques.
+date: 2008-05-19
+lastmod: 2008-05-19
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: pnYkYt4HZFP
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 225
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-05-19
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: creating-a-sharepoint-solution
 aliases:
-- /resources/pnYkYt4HZFP
+  - /resources/pnYkYt4HZFP
 aliasesArchive:
-- /blog/creating-a-sharepoint-solution
-- /creating-a-sharepoint-solution
-- /resources/blog/creating-a-sharepoint-solution
-tags: []
+  - /blog/creating-a-sharepoint-solution
+  - /creating-a-sharepoint-solution
+  - /resources/blog/creating-a-sharepoint-solution
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:03Z
-concepts: []
+ResourceImportId: 225
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 Over the next few weeks I will be blogging my escapades in developing an application solution for Microsoft Office SharePoint Server. I have entitled the application "_MOSS Time Off Management_" and it will be up on [CodePlex](http://www.codeplex.com "CodePlex") for all to follow @ [http://www.codeplex.com/mosstom](http://www.codeplex.com/mosstom) (coming soon).

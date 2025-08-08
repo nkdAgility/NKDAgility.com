@@ -5,10 +5,10 @@ description: Learn which skills, capabilities, and certifications make you stand
 tldr: To stay competitive and valuable in today’s uncertain market, development managers should focus on building agile skills, capabilities, and certifications that demonstrate clear value and adaptability. Companies are prioritizing employees who can innovate and create value, not just follow orders, so upskilling and earning relevant certifications can set you apart and increase your job security. Consider enrolling your team or yourself in advanced Scrum and UX courses to strengthen your expertise and stand out to hiring managers.
 date: 2022-11-28
 lastmod: 2022-11-28
-weight: 795
+weight: 600
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: weekly
 author: MrHinsh
 ResourceId: Kn3i3yGquon

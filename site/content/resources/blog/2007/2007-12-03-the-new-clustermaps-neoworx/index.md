@@ -1,34 +1,37 @@
 ---
 title: 'The new ClusterMaps: NeoWORX'
 description: Overview of NeoWORX, a web service for visualising global data on interactive maps, with potential for real-time fleet tracking and customisable geolocation displays.
+date: 2007-12-03
+lastmod: 2007-12-03
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: _tT2jcz-s4u
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 280
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-12-03
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-new-clustermaps-neoworx
 aliases:
-- /resources/_tT2jcz-s4u
+  - /resources/_tT2jcz-s4u
 aliasesArchive:
-- /blog/the-new-clustermaps-neoworx
-- /the-new-clustermaps-neoworx
-- /the-new-clustermaps--neoworx
-- /blog/the-new-clustermaps--neoworx
-- /resources/blog/the-new-clustermaps-neoworx
-tags: []
+  - /blog/the-new-clustermaps-neoworx
+  - /the-new-clustermaps-neoworx
+  - /the-new-clustermaps--neoworx
+  - /blog/the-new-clustermaps--neoworx
+  - /resources/blog/the-new-clustermaps-neoworx
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:24Z
-concepts: []
+ResourceImportId: 280
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I came across this amazing new service which is very similar to [ClusterMaps](http://www.clustermaps.com/), [NeoWORX](http://www.neoworx.net/). It is a bit of a pain in Flash as the system resources required for flash these days seams a little excessive, but I would like to see it running as a WPF XBAP.

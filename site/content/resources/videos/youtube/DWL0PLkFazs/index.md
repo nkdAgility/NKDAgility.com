@@ -5,10 +5,10 @@ description: Explores how health, mindset, and diverse perspectives drive innova
 tldr: Prioritising health and well-being boosts innovation and leadership in tech by improving perspective and fostering creativity. Supporting hands-on builders, embracing diverse viewpoints, and engaging with sceptics lead to stronger outcomes. Development managers should encourage healthy habits, value unique perspectives, and build deeper connections within their teams to drive better results.
 date: 2017-07-28T12:40:03Z
 lastmod: 2017-07-28T12:40:03Z
-weight: 830
+weight: 545
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ResourceId: DWL0PLkFazs
 ResourceImport: true

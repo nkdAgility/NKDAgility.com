@@ -5,10 +5,10 @@ description: Explores how reflecting on past experiences, as Steve Jobs advised,
 tldr: Steve Jobs’ idea that you can only connect the dots looking backward highlights the value of learning from past experiences in Agile environments. Development managers should regularly reflect on previous outcomes, use data to inform decisions, and remain flexible to adapt strategies as new information emerges. Encourage your teams to balance lessons from the past with ongoing validation and iterative improvement to stay effective in a changing landscape.
 date: 2023-10-13T11:00:40Z
 lastmod: 2023-10-13T11:00:40Z
-weight: 705
+weight: 415
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ResourceId: hj31XHbmWbA
 ResourceImport: true

@@ -5,10 +5,10 @@ description: Explores the difference between true agility and superficial agile 
 tldr: Many teams claim to be agile but still operate with outdated management mindsets that stifle autonomy and engagement, leading to low adoption of core agile practices like short iterations and retrospectives. True agility requires transparency, regular feedback, and a focus on delivering value rather than just completing tasks. Development managers should assess whether their teams meet these criteria and actively foster a culture that supports genuine agile principles.
 date: 2020-07-21T18:00:53Z
 lastmod: 2020-07-21T18:00:53Z
-weight: 685
+weight: 365
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ResourceId: Sa7uw3CX_yE
 ResourceImport: true
@@ -29,7 +29,8 @@ concepts:
   - Ethos
 categories:
   - Product Development
-tags: []
+tags:
+  - Personal
 Watermarks:
   description: 2025-05-07T13:15:27Z
   short_title: 2025-07-07T17:57:52Z

@@ -1,32 +1,35 @@
 ---
 title: Naming your servers in an enterprise environment
 description: Explains the importance of consistent, informative server naming conventions in enterprise environments to improve identification, management, and scalability.
+date: 2007-10-18
+lastmod: 2007-10-18
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: LahLCH4hO9O
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 299
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-10-18
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: naming-your-servers-in-an-enterprise-environment
 aliases:
-- /resources/LahLCH4hO9O
+  - /resources/LahLCH4hO9O
 aliasesArchive:
-- /blog/naming-your-servers-in-an-enterprise-environment
-- /naming-your-servers-in-an-enterprise-environment
-- /resources/blog/naming-your-servers-in-an-enterprise-environment
-tags: []
+  - /blog/naming-your-servers-in-an-enterprise-environment
+  - /naming-your-servers-in-an-enterprise-environment
+  - /resources/blog/naming-your-servers-in-an-enterprise-environment
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:50Z
-concepts: []
+ResourceImportId: 299
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 This is an issue of contention in many companies, but I am firmly of the belief that server names should be at least consistent and at most should be able impart a large amount of information at a glance. Information should include:

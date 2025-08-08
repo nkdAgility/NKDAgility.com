@@ -5,10 +5,10 @@ description: Explores adapting agile learning to remote environments, emphasisin
 tldr: Adapting to remote work and uncertainty, agile learning now emphasizes flexibility in teaching, flow management to help teams handle remote challenges, and gamified tools for better engagement. Building a strong, interactive community and gathering feedback are key to effective virtual learning. Managers should support team adaptability and encourage participation in collaborative, skill-building opportunities.
 date: 2020-04-01T16:26:05Z
 lastmod: 2020-04-01T16:26:05Z
-weight: 805
+weight: 615
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ResourceId: xaLNCbr9o3Y
 ResourceImport: true

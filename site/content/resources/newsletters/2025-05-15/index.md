@@ -29,6 +29,8 @@ tags:
   - Agentic Agility
   - Agentic Engineering
   - Collective Intelligence
+  - Sociotechnical Systems
+  - Product Delivery
   - Artificial Intelligence
   - Value Delivery
   - Digital Transformation
