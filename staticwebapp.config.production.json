@@ -12,6 +12,8 @@
     {
       "route": "/login",
       "redirect": "/.auth/login/github?post_login_redirect_uri=/?success"
-    }
-  ]
+    },
+    { "route": "/.auth/*", "allowedRoles": ["anonymous"] }
+  ],
+  "navigationFallback": { "rewrite": "/index.html", "exclude": ["/.auth/*"] }
 }
