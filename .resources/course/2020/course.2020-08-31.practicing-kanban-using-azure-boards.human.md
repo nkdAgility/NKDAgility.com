@@ -2,42 +2,47 @@
 title: Practicing Kanban Using Azure Boards
 short_title: Practicing Kanban with Azure Boards
 description: Learn Kanban principles and hands-on Azure Boards setup to visualize workflow, set WIP limits, track flow metrics, and improve team throughput and predictability.
+tldr: This one-day course teaches development teams how to apply Kanban principles using Azure Boards to improve workflow, throughput, and predictability. Participants will learn to configure boards, set up pull systems with WIP limits, and use flow-based metrics to identify and address bottlenecks. Consider this course if you want practical skills to optimize your team's delivery process with Kanban in Azure DevOps.
 date: 2020-08-31
-weight: 1000
+weight: 375
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: wHhDvrn-8PH
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: practicing-kanban-using-azure-boards
 aliases:
-- /PKAB/
-- /training-courses/practicing-kanban-using-azure-boards
-- /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
-- /capabilities/training-courses/accentient/practicing-kanban-using-azure-boards/
-- /resources/wHhDvrn-8PH
+  - /PKAB/
+  - /training-courses/practicing-kanban-using-azure-boards
+  - /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
+  - /capabilities/training-courses/accentient/practicing-kanban-using-azure-boards/
+  - /resources/wHhDvrn-8PH
 aliasesArchive:
-- /PKAB/
-- /training-courses/practicing-kanban-using-azure-boards
-- /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
-- /capabilities/training-courses/accentient/practicing-kanban-using-azure-boards/
+  - /PKAB/
+  - /training-courses/practicing-kanban-using-azure-boards
+  - /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
+  - /capabilities/training-courses/accentient/practicing-kanban-using-azure-boards/
 concepts:
-- Tool
+  - Tool
 categories:
-- Product Development
-- Kanban
+  - Product Development
+  - Kanban
+  - Engineering Excellence
 tags:
-- Definition of Workflow
-- Agile Frameworks
-- Azure Boards
-- Azure DevOps
-- Flow Efficiency
-- Lean Principles
-- Lean Thinking
-- Metrics and Learning
-- Operational Practices
-- Pragmatic Thinking
-- Software Development
-- Throughput
+  - Definition of Workflow
+  - Agile Frameworks
+  - Azure Boards
+  - Azure DevOps
+  - Flow Efficiency
+  - Lean Principles
+  - Lean Thinking
+  - Metrics and Learning
+  - Operational Practices
+  - Pragmatic Thinking
+  - Software Development
 card:
   button:
     content: ""
@@ -46,23 +51,24 @@ card:
 Watermarks:
   description: 2025-07-29T15:01:34Z
   short_title: 2025-07-29T15:01:35Z
+  tldr: 2025-08-08T11:37:45Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 course_topics:
-- Azure DevOps Training Courses
+  - Azure DevOps Training Courses
 course_vendors:
-- Accentient
+  - Accentient
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- Developers
-- Lean Agile Practitioners
-- Product Managers
-- Teams
+  - Developers
+  - Lean Agile Practitioners
+  - Product Managers
+  - Teams
 code: PKAB
 course_proficiencies:
-- intermediate
+  - intermediate
 introduction: 
 overview: 
 outcomes: 
@@ -75,76 +81,76 @@ prerequisites: For more information, read the [Kanban guide for Scrum Teams](htt
 audience:
   overview: This course is appropriate for all members of a software development team, especially those who are actively involved with creating and refining a product backlog as well as planning and executing the work. This course will also provide value for individuals outside the development team (managers, Scrum Masters, coaches, and other stakeholders) who are interested in establishing and improving flow for their team. Even teams currently practicing Scrum should consider attending this course, as Kanban is a great complementary practice for managing and improving their flow.
   personas:
-  - capabilities/training-courses/audiences/developers.md
-  - capabilities/training-courses/audiences/lean-agile-practitioners.md
-  - capabilities/training-courses/audiences/product-managers.md
-  - capabilities/training-courses/audiences/teams.md
+    - capabilities/training-courses/audiences/developers.md
+    - capabilities/training-courses/audiences/lean-agile-practitioners.md
+    - capabilities/training-courses/audiences/product-managers.md
+    - capabilities/training-courses/audiences/teams.md
 trainers: 
 roadmap: 
 syllabus:
-- id: 1
-  title: Introduction to Kanban
-  duration: 120
-  overview: This module provides an overview of Kanban, its core practices, and how to use Azure Boards to support them. You will learn how to configure an Azure DevOps project and manage a product backlog.
-  details: |
-    - Kanban overview
-    - Kanban core practices
-    - Kanban support in Azure Boards
-    - Configuring an Azure DevOps project
-    - Managing a product backlog - Hands-on
-- id: 2
-  title: Visualizing the Workflow
-  duration: 120
-  overview: This module covers the Kanban board overview, defining the workflow, making policies explicit, defining classes of service, and filtering the board. You will also learn about keyboard shortcuts.
-  details: |
-    - Kanboard board overview
-    - Kanban board vs. a backlog
-    - Kanban board vs. a taskboard
-    - Defining the workflow
-    - Making policies explicit
-    - Definition of “Done”
-    - Defining classes of service (swimlanes)
-    - Defining task checklists and inline tests
-    - Filtering the board
-    - Keyboard shortcuts - Hands-on
-- id: 3
-  title: Limiting WIP
-  duration: 120
-  overview: This module covers the overview of Work in Progress (WIP), visualizing WIP limits, creating a pull system, and challenges with limiting WIP. You will also learn about bottlenecks.
-  details: |
-    - Work in Progress (WIP) overview
-    - Visualizing WIP limits
-    - Creating a pull system
-    - Splitting columns into “doing” and “done”
-    - Challenges with limiting WIP
-    - Bottlenecks - Hands-on
-- id: 4
-  title: Managing for Flow
-  duration: 120
-  overview: This module covers flow-based metrics, flow-based analytics, and achieving flow and predictability. You will also learn about cycle time vs. lead time and Little’s Law.
-  details: |
-    - Flow-based metrics
-    - Cycle time vs. lead time
-    - Little’s Law
-    - Flow-based analytics
-    - Cumulative Flow Diagrams
-    - Scatterplots
-    - ActionableAgile Analytics
-    - Monte Carlo simulation
-    - Achieving flow and predictability - Hands-on
+  - id: 1
+    title: Introduction to Kanban
+    duration: 120
+    overview: This module provides an overview of Kanban, its core practices, and how to use Azure Boards to support them. You will learn how to configure an Azure DevOps project and manage a product backlog.
+    details: |
+      - Kanban overview
+      - Kanban core practices
+      - Kanban support in Azure Boards
+      - Configuring an Azure DevOps project
+      - Managing a product backlog - Hands-on
+  - id: 2
+    title: Visualizing the Workflow
+    duration: 120
+    overview: This module covers the Kanban board overview, defining the workflow, making policies explicit, defining classes of service, and filtering the board. You will also learn about keyboard shortcuts.
+    details: |
+      - Kanboard board overview
+      - Kanban board vs. a backlog
+      - Kanban board vs. a taskboard
+      - Defining the workflow
+      - Making policies explicit
+      - Definition of “Done”
+      - Defining classes of service (swimlanes)
+      - Defining task checklists and inline tests
+      - Filtering the board
+      - Keyboard shortcuts - Hands-on
+  - id: 3
+    title: Limiting WIP
+    duration: 120
+    overview: This module covers the overview of Work in Progress (WIP), visualizing WIP limits, creating a pull system, and challenges with limiting WIP. You will also learn about bottlenecks.
+    details: |
+      - Work in Progress (WIP) overview
+      - Visualizing WIP limits
+      - Creating a pull system
+      - Splitting columns into “doing” and “done”
+      - Challenges with limiting WIP
+      - Bottlenecks - Hands-on
+  - id: 4
+    title: Managing for Flow
+    duration: 120
+    overview: This module covers flow-based metrics, flow-based analytics, and achieving flow and predictability. You will also learn about cycle time vs. lead time and Little’s Law.
+    details: |
+      - Flow-based metrics
+      - Cycle time vs. lead time
+      - Little’s Law
+      - Flow-based analytics
+      - Cumulative Flow Diagrams
+      - Scatterplots
+      - ActionableAgile Analytics
+      - Monte Carlo simulation
+      - Achieving flow and predictability - Hands-on
 events:
-- start_date: 2025-10-01
-  location: Online
-  registration_link: ""
-  sessions:
-  - start_datetime: 2025-10-01T09:00:00
-    end_datetime: 2025-10-01T17:00:00
-    timezone: America/Los_Angeles
-    syllabus_ids:
-    - 1
-    - 2
-    - 3
-    - 4
+  - start_date: 2025-10-01
+    location: Online
+    registration_link: ""
+    sessions:
+      - start_datetime: 2025-10-01T09:00:00
+        end_datetime: 2025-10-01T17:00:00
+        timezone: America/Los_Angeles
+        syllabus_ids:
+          - 1
+          - 2
+          - 3
+          - 4
 
 ---
 # Practicing Kanban Using Azure Boards

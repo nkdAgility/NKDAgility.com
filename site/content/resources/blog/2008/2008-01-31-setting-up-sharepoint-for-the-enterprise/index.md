@@ -1,32 +1,35 @@
 ---
 title: Setting up SharePoint for the Enterprise
 description: Guidance on deploying SharePoint for global enterprises, including architecture considerations and best practices for multi-country user access and scalability.
+date: 2008-01-31
+lastmod: 2008-01-31
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: q0Nsf_xfijz
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 252
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-01-31
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: setting-up-sharepoint-for-the-enterprise
 aliases:
-- /resources/q0Nsf_xfijz
+  - /resources/q0Nsf_xfijz
 aliasesArchive:
-- /blog/setting-up-sharepoint-for-the-enterprise
-- /setting-up-sharepoint-for-the-enterprise
-- /resources/blog/setting-up-sharepoint-for-the-enterprise
-tags: []
+  - /blog/setting-up-sharepoint-for-the-enterprise
+  - /setting-up-sharepoint-for-the-enterprise
+  - /resources/blog/setting-up-sharepoint-for-the-enterprise
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:46Z
-concepts: []
+ResourceImportId: 252
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 I currently have the task of setting up SharePoint Portal for my company. But here is the kicker, they have users in almost every country in the world, so how to structure the deployment.

@@ -1,32 +1,35 @@
 ---
 title: Xbox 360 Elite
 description: A personal account of upgrading from a faulty Xbox 360 to an Xbox 360 Elite, including trade-in details and experiences with games like Bioshock and Stranglehold.
+date: 2007-09-17
+lastmod: 2007-09-17
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ELz8sUhrCKr
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 311
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-09-17
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: xbox-360-elite
 aliases:
-- /resources/ELz8sUhrCKr
+  - /resources/ELz8sUhrCKr
 aliasesArchive:
-- /blog/xbox-360-elite
-- /xbox-360-elite
-- /resources/blog/xbox-360-elite
-tags: []
+  - /blog/xbox-360-elite
+  - /xbox-360-elite
+  - /resources/blog/xbox-360-elite
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-xbox-360-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:05Z
-concepts: []
+ResourceImportId: 311
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-xbox-360-link-1-1.png
 
 ---
 Wohoo, I traded my sometimes crashing Xbox 360 in for an Xbox 360 Elite in Saturday. Over the last two weeks I have been playing Bioshock to death, but the crashing finaly anoyed me enough to get it sorted.

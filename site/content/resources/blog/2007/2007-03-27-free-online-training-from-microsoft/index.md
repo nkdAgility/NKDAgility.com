@@ -1,32 +1,35 @@
 ---
 title: Free Online training from Microsoft
 description: Access free Microsoft online training workshops and courses on WSE 3.0 security, routing, and SQL Server 2005, suitable for .NET and Visual Studio 2005 users.
+date: 2007-03-27
+lastmod: 2007-03-27
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: BGC7JkOCdJs
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 423
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-03-27
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: free-online-training-from-microsoft
 aliases:
-- /resources/BGC7JkOCdJs
+  - /resources/BGC7JkOCdJs
 aliasesArchive:
-- /blog/free-online-training-from-microsoft
-- /free-online-training-from-microsoft
-- /resources/blog/free-online-training-from-microsoft
-tags: []
+  - /blog/free-online-training-from-microsoft
+  - /free-online-training-from-microsoft
+  - /resources/blog/free-online-training-from-microsoft
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:59Z
-concepts: []
+ResourceImportId: 423
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 Check out this blog from Steve. You will need to use the code in the comments as the other one is maxed out!

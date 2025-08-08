@@ -2,43 +2,48 @@
 title: Applying Professional Scrum (APS) Course with Certification
 short_title: Applying Professional Scrum
 description: Hands-on course teaching Scrum fundamentals, Agile mindset, and teamwork through interactive exercises, with the option to earn the Professional Scrum Master I certification.
+tldr: This two-day, hands-on course helps teams and individuals understand and apply Scrum principles through immersive exercises and simulations, with a focus on building an Agile mindset and avoiding common pitfalls. Participants gain practical experience, foundational Scrum knowledge, and tools to improve team collaboration and delivery, plus the opportunity to earn the Professional Scrum Master I certification. Consider this course for onboarding new team members, refreshing existing skills, or preparing teams for Agile transformation.
 date: 2017-01-01
-weight: 750
+weight: 490
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: _w2xgO2i3C9
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: applying-professional-scrum-aps-course-with-certification
 aliases:
-- /resources/_w2xgO2i3C9
+  - /resources/_w2xgO2i3C9
 aliasesArchive:
-- /training-courses/professional-scrum-foundations
-- /training-courses/professional-scrum-foundations-psf-training
-- /training-courses/applying-professional-scrum-aps-training
-- /training-courses/applying-professional-scrum-training-with-certification
-- /training-courses/applying-professional-scrum-aps-training-experience-with-certification-solidify-your-knowledge-through-practice
-- /training-courses/applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
-- /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
-- /capabilities/training-courses/Scrum.org/applying-professional-scrum-aps-with-certification/
+  - /training-courses/professional-scrum-foundations
+  - /training-courses/professional-scrum-foundations-psf-training
+  - /training-courses/applying-professional-scrum-aps-training
+  - /training-courses/applying-professional-scrum-training-with-certification
+  - /training-courses/applying-professional-scrum-aps-training-experience-with-certification-solidify-your-knowledge-through-practice
+  - /training-courses/applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
+  - /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
+  - /capabilities/training-courses/Scrum.org/applying-professional-scrum-aps-with-certification/
 concepts:
-- Method
+  - Method
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Frameworks
-- Agile Planning
-- Agile Product Management
-- Agile Transformation
-- Continuous Learning
-- Market Adaptability
-- Organisational Agility
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Team
-- Software Development
-- Team Collaboration
-- Team Performance
+  - Agile Frameworks
+  - Agile Planning
+  - Agile Product Management
+  - Agile Transformation
+  - Continuous Learning
+  - Market Adaptability
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Professional Scrum
+  - Scrum Team
+  - Software Development
+  - Team Collaboration
+  - Team Performance
 card:
   button:
     content: ""
@@ -46,27 +51,28 @@ card:
   content: Enables all members of the Scrum Team to learn Scrum while doing it, experiencing what it is like to deliver products using the Scrum framework
 Watermarks:
   description: 2025-07-29T15:01:55Z
+  tldr: 2025-08-08T11:40:31Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 cascade:
-- url: /capabilities/training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/:slug/
+  - url: /capabilities/training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/:slug/
 course_topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course_vendors:
-- Scrumorg
+  - Scrumorg
 course_learning_experiences:
-- Immersive
-- Traditional
-- Self-paced
+  - Immersive
+  - Traditional
+  - Self-paced
 delivery_audiences:
-- Teams
+  - Teams
 preview: naked-agility-Professional-Scrum-APS-Minecraft-1600x900-1.jpg
 previewIcon: Scrumorg-Course-APS 400x.png
 brandColour: '#c75129'
 code: APS
 course_proficiencies:
-- beginner
+  - beginner
 introduction: |-
   Applying Professional Scrum™ (APS) is a hands-on, activity-based course where students experience how Professional Scrum and the Scrum framework enhance their ability to deliver value compared to traditional methods. Scrum offers a superior way of working by emphasizing experimentation, incremental delivery of customer value, frequent feedback loops, and fostering strong team dynamics.
 
@@ -127,12 +133,12 @@ audience:
 
     The course is designed for a wide range of industries and is domain-agnostic, providing essential knowledge for continuing education in various Scrum roles, while staying focused on NKD Agility's core values of competence, engineering excellence, and directness.
 trainers:
-- /company/people/martin-hinshelwood/
+  - /company/people/martin-hinshelwood/
 roadmap:
   next:
-  - /capabilities/training-courses/scrum-training-courses/professional-scrum-master/
-  - /capabilities/training-courses/scrum-training-courses/professional-scrum-product-owner/
-  - /capabilities/training-courses/scrum-training-courses/scrumorg-applying-professional-scrum-for-software-development/
+    - /capabilities/training-courses/scrum-training-courses/professional-scrum-master/
+    - /capabilities/training-courses/scrum-training-courses/professional-scrum-product-owner/
+    - /capabilities/training-courses/scrum-training-courses/scrumorg-applying-professional-scrum-for-software-development/
 events: 
 
 ---

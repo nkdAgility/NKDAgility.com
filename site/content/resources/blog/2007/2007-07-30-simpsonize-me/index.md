@@ -1,34 +1,37 @@
 ---
 title: Simpsonize Me!
 description: Transform your photo into a character styled like The Simpsons using an online tool that creates cartoon versions of real-life images.
+date: 2007-07-30
+lastmod: 2007-07-30
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: vThsgxwl-Tv
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 355
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-30
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: simpsonize-me
 aliases:
-- /resources/vThsgxwl-Tv
+  - /resources/vThsgxwl-Tv
 aliasesArchive:
-- /blog/simpsonize-me
-- /simpsonize-me
-- /simpsonize-me-
-- /blog/simpsonize-me-
-- /resources/blog/simpsonize-me
+  - /blog/simpsonize-me
+  - /simpsonize-me
+  - /simpsonize-me-
+  - /blog/simpsonize-me-
+  - /resources/blog/simpsonize-me
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-2-1.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:14Z
-concepts: []
+ResourceImportId: 355
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-1.png
 
 ---
 [Scott Miller](http://geekswithblogs.net/appsguild) alerted my to this with his [post](http://geekswithblogs.net/appsguild/archive/2007/07/18/114038.aspx "Simpsonize Me!") about 4 days ago, and I have finally got it working:

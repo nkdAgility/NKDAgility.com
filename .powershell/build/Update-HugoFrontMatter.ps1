@@ -351,6 +351,14 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         { $_ -in @("case-studies") } { 
             $sitemap.changefreq = "monthly"
         }
+        { $_ -in @("capabilities") } { 
+            $sitemap.priority = 0.9
+            $sitemap.changefreq = "weekly"
+        }
+        { $_ -in @("course") } { 
+            $sitemap.priority = 0.8
+            $sitemap.changefreq = "weekly"
+        }
         default { 
             # Do nothing
             $sitemap.priority = $sitemap.priority - 0.4

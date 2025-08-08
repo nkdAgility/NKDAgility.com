@@ -1,37 +1,40 @@
 ---
 title: Custom UI colour scheme for Windows Forms .NET
 description: Learn how to customise Windows Forms ToolStrip, MainMenu, and StatusBar colours in .NET by creating a custom ColorTable and applying it with a custom renderer.
+date: 2006-06-22
+lastmod: 2006-06-22
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 2vSr2gsP4Rt
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 466
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2006-06-22
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: custom-ui-colour-scheme-for-windows-forms-net
 aliases:
-- /resources/blog/custom-ui-colour-scheme-for-windows-forms-.net
-- /resources/2vSr2gsP4Rt
+  - /resources/blog/custom-ui-colour-scheme-for-windows-forms-.net
+  - /resources/2vSr2gsP4Rt
 aliasesArchive:
-- /blog/custom-ui-colour-scheme-for-windows-forms-net
-- /custom-ui-colour-scheme-for-windows-forms-net
-- /custom-ui-colour-scheme-for-windows-forms--net
-- /blog/custom-ui-colour-scheme-for-windows-forms--net
-- /resources/blog/custom-ui-colour-scheme-for-windows-forms-net
-- /resources/blog/custom-ui-colour-scheme-for-windows-forms-.net
-tags:
-- Windows
+  - /blog/custom-ui-colour-scheme-for-windows-forms-net
+  - /custom-ui-colour-scheme-for-windows-forms-net
+  - /custom-ui-colour-scheme-for-windows-forms--net
+  - /blog/custom-ui-colour-scheme-for-windows-forms--net
+  - /resources/blog/custom-ui-colour-scheme-for-windows-forms-net
+  - /resources/blog/custom-ui-colour-scheme-for-windows-forms-.net
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Windows
 Watermarks:
   description: 2025-05-13T16:30:06Z
-concepts: []
+ResourceImportId: 466
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 The easyest way to customise you display of your ToolStrip, MainMenu and StatusBar is to use a custom ColorTable.

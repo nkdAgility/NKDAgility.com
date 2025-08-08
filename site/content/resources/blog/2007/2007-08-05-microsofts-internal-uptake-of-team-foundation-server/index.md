@@ -1,36 +1,39 @@
 ---
 title: Microsoft's internal uptake of Team Foundation Server
 description: Microsoft widely adopted Team Foundation Server internally, with 21 instances supporting 734 projects and 5,600 users, driving rapid product development and updates.
+date: 2007-08-05
+lastmod: 2007-08-05
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 1NIc24-e5FY
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 343
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-05
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: microsofts-internal-uptake-of-team-foundation-server
+slug: microsoft's-internal-uptake-of-team-foundation-server
 aliases:
-- /resources/blog/microsoft-s-internal-uptake-of-team-foundation-server
-- /resources/1NIc24-e5FY
+  - /resources/blog/microsoft-s-internal-uptake-of-team-foundation-server
+  - /resources/1NIc24-e5FY
 aliasesArchive:
-- /blog/microsofts-internal-uptake-of-team-foundation-server
-- /microsofts-internal-uptake-of-team-foundation-server
-- /microsoft's-internal-uptake-of-team-foundation-server
-- /blog/microsoft's-internal-uptake-of-team-foundation-server
-- /resources/blog/microsofts-internal-uptake-of-team-foundation-server
-- /resources/blog/microsoft-s-internal-uptake-of-team-foundation-server
-tags: []
+  - /blog/microsofts-internal-uptake-of-team-foundation-server
+  - /microsofts-internal-uptake-of-team-foundation-server
+  - /microsoft's-internal-uptake-of-team-foundation-server
+  - /blog/microsoft's-internal-uptake-of-team-foundation-server
+  - /resources/blog/microsofts-internal-uptake-of-team-foundation-server
+  - /resources/blog/microsoft-s-internal-uptake-of-team-foundation-server
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:57Z
-concepts: []
+ResourceImportId: 343
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 I am very encouraged by [Brain Harry's blog](http://blogs.msdn.com/bharry/archive/2007/07/24/update-on-adoption-of-tfs-at-microsoft.aspx "update on adoption of tfs at microsoft") on [dogfooding](http://en.wikipedia.org/wiki/Dogfooding) at Microsoft. In my battles to get my company to use Team Foundation Server I recently contacted the manager of the most highly regarded development team in the company.

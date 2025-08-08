@@ -1,32 +1,35 @@
 ---
 title: How to become a Multi-Dimensional Free Thinker
 description: Explores how dyslexia can enhance multi-dimensional thinking, creativity, and problem-solving, highlighting benefits for careers in engineering, design, and software development.
+date: 2007-07-22
+lastmod: 2007-07-22
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: zHaP_THOBQT
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 364
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-22
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: how-to-become-a-multi-dimensional-free-thinker
 aliases:
-- /resources/zHaP_THOBQT
+  - /resources/zHaP_THOBQT
 aliasesArchive:
-- /blog/how-to-become-a-multi-dimensional-free-thinker
-- /how-to-become-a-multi-dimensional-free-thinker
-- /resources/blog/how-to-become-a-multi-dimensional-free-thinker
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/how-to-become-a-multi-dimensional-free-thinker
+  - /how-to-become-a-multi-dimensional-free-thinker
+  - /resources/blog/how-to-become-a-multi-dimensional-free-thinker
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:34Z
-concepts: []
+ResourceImportId: 364
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 All you have to do to become a multi-dimensional free thinker is to change the way you think of your dyslexia. The benefits of having dyslexia far outweigh the negatives: The concepts of multi-dimensional thinking are incredibly difficult to learn if you have not been born with the ability, and if you are dyslexic, you have.

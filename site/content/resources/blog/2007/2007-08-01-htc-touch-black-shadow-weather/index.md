@@ -1,34 +1,37 @@
 ---
 title: HTC Touch / Black Shadow Weather
 description: Guide to adding custom cities to the HTC Touch or Black Shadow Weather app by editing registry or XML files, enabling local weather display on Windows Mobile 6 devices.
+date: 2007-08-01
+lastmod: 2007-08-01
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: zGbUhq_phsz
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 351
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-01
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: htc-touch-black-shadow-weather
 aliases:
-- /resources/zGbUhq_phsz
+  - /resources/zGbUhq_phsz
 aliasesArchive:
-- /blog/htc-touch-black-shadow-weather
-- /htc-touch-black-shadow-weather
-- /htc-touch
-- /htc-touch---black-shadow-weather
-- /blog/htc-touch---black-shadow-weather
-- /resources/blog/htc-touch-black-shadow-weather
+  - /blog/htc-touch-black-shadow-weather
+  - /htc-touch-black-shadow-weather
+  - /htc-touch
+  - /htc-touch---black-shadow-weather
+  - /blog/htc-touch---black-shadow-weather
+  - /resources/blog/htc-touch-black-shadow-weather
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:07Z
-concepts: []
+ResourceImportId: 351
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 black-shadow-weather

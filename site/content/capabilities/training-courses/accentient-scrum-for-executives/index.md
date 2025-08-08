@@ -2,34 +2,39 @@
 title: Scrum for Executives Training
 short_title: Scrum for Executives Training
 description: Instructor-led course for executives and managers to understand Scrum, its benefits, executive roles, Agile metrics, case studies, and adoption best practices.
+tldr: This one-day, beginner-level course gives executives and managers a clear understanding of Scrum, its benefits, and how it fits into their organization. Participants learn to identify key facts and misconceptions, evaluate relevant Agile metrics, and analyze real-world case studies. Consider this training to help guide effective Agile adoption and decision-making at the leadership level.
 date: 2020-08-31
-weight: 750
+weight: 525
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: AHschsDjL2E
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: scrum-for-executives-training
 aliases:
-- /training-courses/scrum-for-executives
-- /training-courses/scrum-for-executives-training/
-- /capabilities/training-courses/accentient/scrum-for-executives
-- /resources/AHschsDjL2E
+  - /training-courses/scrum-for-executives
+  - /training-courses/scrum-for-executives-training/
+  - /capabilities/training-courses/accentient/scrum-for-executives
+  - /resources/AHschsDjL2E
 aliasesArchive:
-- /training-courses/scrum-for-executives
-- /training-courses/scrum-for-executives-training/
-- /capabilities/training-courses/accentient/scrum-for-executives
+  - /training-courses/scrum-for-executives
+  - /training-courses/scrum-for-executives-training/
+  - /capabilities/training-courses/accentient/scrum-for-executives
 concepts:
-- Framework
+  - Framework
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Agile Frameworks
-- Project Management
-- Agile Transformation
-- Organisational Agility
-- Professional Scrum
-- Software Development
+  - Agile Frameworks
+  - Agile Transformation
+  - Organisational Agility
+  - Project Management
+  - Professional Scrum
+  - Software Development
 card:
   button:
     content: ""
@@ -40,24 +45,25 @@ card:
 Watermarks:
   description: 2025-07-29T15:01:25Z
   short_title: 2025-07-29T15:01:26Z
+  tldr: 2025-08-08T11:40:16Z
 creator: Martin Hinshelwood
 type: course
 url: 
 course_topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course_vendors:
-- Accentient
+  - Accentient
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- Entrepreneurs
-- Executives
+  - Entrepreneurs
+  - Executives
 preview: 
 previewIcon: A-S4E.png
 brandColour: 
 code: S4E
 course_proficiencies:
-- beginner
+  - beginner
 introduction: |2
 
   ### Course Outline

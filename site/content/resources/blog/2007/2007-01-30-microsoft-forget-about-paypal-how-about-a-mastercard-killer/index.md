@@ -1,36 +1,39 @@
 ---
 title: 'Microsoft: forget about PayPal, how about a MasterCard killer?'
 description: Explores speculation about Microsoft entering digital payments, comparing past attempts to rival PayPal and considering potential competition with MasterCard.
+date: 2007-01-30
+lastmod: 2007-01-30
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: i3ovxH1TSqK
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 439
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-01-30
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: microsoft-forget-about-paypal-how-about-a-mastercard-killer
 aliases:
-- /resources/i3ovxH1TSqK
+  - /resources/i3ovxH1TSqK
 aliasesArchive:
-- /blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer
-- /microsoft-forget-about-paypal-how-about-a-mastercard-killer
-- /microsoft--forget-about-paypal,-how-about-a-mastercard-killer-
-- /blog/microsoft--forget-about-paypal,-how-about-a-mastercard-killer-
-- /microsoft--forget-about-paypal--how-about-a-mastercard-killer-
-- /blog/microsoft--forget-about-paypal--how-about-a-mastercard-killer-
-- /resources/blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer
+  - /microsoft-forget-about-paypal-how-about-a-mastercard-killer
+  - /microsoft--forget-about-paypal,-how-about-a-mastercard-killer-
+  - /blog/microsoft--forget-about-paypal,-how-about-a-mastercard-killer-
+  - /microsoft--forget-about-paypal--how-about-a-mastercard-killer-
+  - /blog/microsoft--forget-about-paypal--how-about-a-mastercard-killer-
+  - /resources/blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:29:23Z
-concepts: []
+ResourceImportId: 439
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Ever since PayPal burst on to the scene, the Nostradamus types have been predicting one PayPal killer after another. First it was "e-gold," then Western Union, then C2IT (by Citibank), then Google.

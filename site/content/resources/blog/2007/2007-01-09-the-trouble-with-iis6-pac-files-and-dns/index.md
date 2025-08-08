@@ -1,38 +1,41 @@
 ---
 title: The trouble with IIS6, .pac files and DNS
 description: Explains issues with serving .pac proxy files on IIS6 due to missing MIME types and how to resolve DNS for proxy appliances lacking host file support.
+date: 2007-01-09
+lastmod: 2007-01-09
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: R2MUioX4tLG
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 448
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-01-09
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-trouble-with-iis6-pac-files-and-dns
 aliases:
-- /resources/blog/the-trouble-with-iis6-.pac-files-and-dns
-- /resources/R2MUioX4tLG
+  - /resources/blog/the-trouble-with-iis6-.pac-files-and-dns
+  - /resources/R2MUioX4tLG
 aliasesArchive:
-- /blog/the-trouble-with-iis6-pac-files-and-dns
-- /the-trouble-with-iis6-pac-files-and-dns
-- /the-trouble-with-iis6,--pac-files-and-dns
-- /blog/the-trouble-with-iis6,--pac-files-and-dns
-- /the-trouble-with-iis6---pac-files-and-dns
-- /blog/the-trouble-with-iis6---pac-files-and-dns
-- /resources/blog/the-trouble-with-iis6-pac-files-and-dns
-- /resources/blog/the-trouble-with-iis6-.pac-files-and-dns
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/the-trouble-with-iis6-pac-files-and-dns
+  - /the-trouble-with-iis6-pac-files-and-dns
+  - /the-trouble-with-iis6,--pac-files-and-dns
+  - /blog/the-trouble-with-iis6,--pac-files-and-dns
+  - /the-trouble-with-iis6---pac-files-and-dns
+  - /blog/the-trouble-with-iis6---pac-files-and-dns
+  - /resources/blog/the-trouble-with-iis6-pac-files-and-dns
+  - /resources/blog/the-trouble-with-iis6-.pac-files-and-dns
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:29:32Z
-concepts: []
+ResourceImportId: 448
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Now, I have, up until now, not had any experience with proxy servers. Well, to be honest, I still don't... But I do have some experience with IIS as I have been using it since the sad old days of NT4. Yes that's right, before Active Directory, The bad old days when domains were the work of a craftsman.

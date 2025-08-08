@@ -1,35 +1,38 @@
 ---
 title: TFS Weekend Part 1 - Install
 description: A walkthrough of installing Team Foundation Server (TFS) in a small business, covering setup steps, admin access, permissions, and remote developer access challenges.
+date: 2007-03-19
+lastmod: 2007-03-19
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: B1LQBjDfDfF
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 426
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-03-19
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-weekend-part-1-install
 aliases:
-- /resources/B1LQBjDfDfF
+  - /resources/B1LQBjDfDfF
 aliasesArchive:
-- /blog/tfs-weekend-part-1-install
-- /tfs-weekend-part-1-install
-- /tfs-weekend-part-1
-- /tfs-weekend-part-1---install
-- /blog/tfs-weekend-part-1---install
-- /resources/blog/tfs-weekend-part-1-install
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/tfs-weekend-part-1-install
+  - /tfs-weekend-part-1-install
+  - /tfs-weekend-part-1
+  - /tfs-weekend-part-1---install
+  - /blog/tfs-weekend-part-1---install
+  - /resources/blog/tfs-weekend-part-1-install
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:08Z
-concepts: []
+ResourceImportId: 426
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I got a call from a friend of mine (Neil Ramsay) who was installing TFS for his company ([http://www.quantad.com](http://www.quantad.com)). Needless to say, he had a few problems, as everyone does when installing TFS. So he gave me a call and I road to the resque.

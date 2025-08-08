@@ -1,35 +1,38 @@
 ---
 title: Adding ToolStripPanel UI Adapter Support to the Composite UI Application Block
 description: Explains how to extend the Composite UI Application Block to support ToolStripPanel UI adapters, enabling dynamic ToolStrip integration and customisation in CAB applications.
+date: 2006-06-22
+lastmod: 2006-06-22
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: y_vlPh65_5Q
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 467
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2006-06-22
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: hinshelm-on-composite-ui-application-block
+slug: adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
 aliases:
-- /resources/y_vlPh65_5Q
+  - /resources/y_vlPh65_5Q
 aliasesArchive:
-- /blog/hinshelm-on-composite-ui-application-block
-- /hinshelm-on-composite-ui-application-block
-- /adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
-- /blog/adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
-- /resources/blog/hinshelm-on-composite-ui-application-block
-tags:
-- Software Development
+  - /blog/hinshelm-on-composite-ui-application-block
+  - /hinshelm-on-composite-ui-application-block
+  - /adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
+  - /blog/adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
+  - /resources/blog/hinshelm-on-composite-ui-application-block
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T16:30:07Z
-concepts: []
+ResourceImportId: 467
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 I was very surprised to find that CAB did not support a higher-level component like the ToolStrip in its basic implementation. I resolved to fix this and added an adapter and factory for the ToolStripPanel initially, but I encountered issues with the ToolStripContainer. As my first post, here is the ToolStripPanel code.

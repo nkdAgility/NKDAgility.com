@@ -2,38 +2,44 @@
 title: Scrum for Product Owners Training
 short_title: Scrum for Product Owners Training
 description: Interactive course for Product Owners covering Scrum roles, backlog refinement, estimation, technical debt, and team collaboration through hands-on activities and discussions.
+tldr: This one-day, beginner-level course helps Product Owners and related roles understand and apply Scrum fundamentals, clarify common misconceptions, and improve backlog refinement and team collaboration. Participants will learn practical techniques for managing requirements, estimation, and technical debt, with a focus on delivering value and achieving high team performance. Consider enrolling team members who need a solid foundation in Scrum practices to enhance product delivery.
 date: 2020-08-31
-weight: 750
+weight: 455
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: qVBmvY9STVE
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: scrum-for-product-owners-training
 aliases:
-- /training-courses/scrum-for-product-owners
-- /training-courses/scrum-for-product-owners-training/
-- /capabilities/training-courses/accentient/scrum-for-product-owners-training
-- /resources/qVBmvY9STVE
+  - /training-courses/scrum-for-product-owners
+  - /training-courses/scrum-for-product-owners-training/
+  - /capabilities/training-courses/accentient/scrum-for-product-owners-training
+  - /resources/qVBmvY9STVE
 aliasesArchive:
-- /training-courses/scrum-for-product-owners
-- /training-courses/scrum-for-product-owners-training/
-- /capabilities/training-courses/accentient/scrum-for-product-owners-training
+  - /training-courses/scrum-for-product-owners
+  - /training-courses/scrum-for-product-owners-training/
+  - /capabilities/training-courses/accentient/scrum-for-product-owners-training
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- Scrum
-- Product Management
+  - Product Development
+  - Scrum
+  - Product Management
 tags:
-- Product Backlog
-- Agile Frameworks
-- Agile Product Management
-- Backlog Refinement
-- Product Owner
-- Professional Scrum
-- Scrum Team
-- Software Development
-- Team Performance
+  - Product Backlog
+  - Team Collaboration
+  - Agile Frameworks
+  - Agile Product Management
+  - Backlog Refinement
+  - Product Owner
+  - Professional Scrum
+  - Scrum Team
+  - Software Development
+  - Team Performance
 card:
   button:
     content: ""
@@ -44,24 +50,25 @@ card:
 Watermarks:
   description: 2025-07-29T15:01:27Z
   short_title: 2025-07-29T15:01:28Z
+  tldr: 2025-08-08T11:40:13Z
 creator: Martin Hinshelwood
 type: course
 url: 
 course_topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course_vendors:
-- Accentient
+  - Accentient
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- Entrepreneurs
-- Product Managers
+  - Entrepreneurs
+  - Product Managers
 preview: 
 previewIcon: A-S4PO.png
 brandColour: 
 code: S4PO
 course_proficiencies:
-- beginner
+  - beginner
 introduction: |2
 
   ### Course Outline

@@ -1,35 +1,37 @@
 ---
 title: TFS Event Handler (Prototype) Refresh
 description: Bug fixes and updates for the TFS Event Handler Prototype, now supporting .NET 3.5 and Visual Studio 2008. Includes installer refresh and event handler examples.
+date: 2008-01-29
+lastmod: 2008-01-29
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: RcunqCP6sF8
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 259
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-01-29
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-event-handler-prototype-refresh
 aliases:
-- /resources/blog/tfs-event-handler-prototype-refresh
-- /resources/RcunqCP6sF8
+  - /resources/RcunqCP6sF8
 aliasesArchive:
-- /blog/tfs-event-handler-prototype-refresh
-- /tfs-event-handler-prototype-refresh
-- /tfs-event-handler-(prototype)-refresh
-- /blog/tfs-event-handler-(prototype)-refresh
-- /resources/blog/tfs-event-handler-prototype-refresh
-tags: []
+  - /blog/tfs-event-handler-prototype-refresh
+  - /tfs-event-handler-prototype-refresh
+  - /tfs-event-handler-(prototype)-refresh
+  - /blog/tfs-event-handler-(prototype)-refresh
+  - /resources/blog/tfs-event-handler-prototype-refresh
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:50Z
-concepts: []
+ResourceImportId: 259
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 I found a couple of bugs in the [TFS Event Handler Prototype release](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSEventHandler&ReleaseId=5057). As I am still supporting this release (many people use it in production) I have fixed the bugs and uploaded new installers.

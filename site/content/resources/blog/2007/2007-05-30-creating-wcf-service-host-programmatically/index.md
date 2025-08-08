@@ -1,36 +1,39 @@
 ---
 title: Creating WCF Service Host Programmatically
 description: Explains how to programmatically create and configure a WCF Service Host in .NET, including base addresses, endpoints, bindings, and service behaviours for secure hosting.
+date: 2007-05-30
+lastmod: 2007-05-30
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: z78UlmtJAzV
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 393
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-05-30
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: creating-wcf-service-host-programmatically
 aliases:
-- /resources/z78UlmtJAzV
+  - /resources/z78UlmtJAzV
 aliasesArchive:
-- /blog/creating-wcf-service-host-programmatically
-- /creating-wcf-service-host-programmatically
-- /resources/blog/creating-wcf-service-host-programmatically
-tags:
-- Software Development
-- Windows
-- Technical Mastery
-- Install and Configuration
+  - /blog/creating-wcf-service-host-programmatically
+  - /creating-wcf-service-host-programmatically
+  - /resources/blog/creating-wcf-service-host-programmatically
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
+  - Windows
+  - Technical Mastery
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:28:13Z
-concepts: []
+ResourceImportId: 393
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 If you want to create a [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") Service Host on the fly then you will need to first create a base address. I would recommend using the DNS host entry instead of the My.Computer.Name as I had many problems on the corporate network with \[computername\] not working with our proxy settings.

@@ -1,32 +1,35 @@
 ---
 title: Team Server Event Handlers made easy
 description: Explains a simple way for power users to create, upload, and manage custom event handlers for Team Foundation Server events using an admin interface and web services.
+date: 2007-04-27
+lastmod: 2007-04-27
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: NjGpMY3aKfH
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 412
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-04-27
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: team-server-event-handlers-made-easy
 aliases:
-- /resources/NjGpMY3aKfH
+  - /resources/NjGpMY3aKfH
 aliasesArchive:
-- /blog/team-server-event-handlers-made-easy
-- /team-server-event-handlers-made-easy
-- /resources/blog/team-server-event-handlers-made-easy
+  - /blog/team-server-event-handlers-made-easy
+  - /team-server-event-handlers-made-easy
+  - /resources/blog/team-server-event-handlers-made-easy
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
-preview: metro-visual-studio-2005-128-link-1-1.png
 Watermarks:
   description: 2025-05-13T16:28:43Z
-concepts: []
+ResourceImportId: 412
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 Will, not really...

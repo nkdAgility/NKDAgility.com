@@ -1,33 +1,36 @@
 ---
 title: Creating a custom proxy class
 description: Learn how to build a custom proxy class in .NET 3.0 for duplex communication, enabling maintainable code and easy updates when service interfaces change.
+date: 2007-08-20
+lastmod: 2007-08-20
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: S4XG-Is-FHq
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 326
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-20
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: creating-a-custom-proxy-class
 aliases:
-- /resources/S4XG-Is-FHq
+  - /resources/S4XG-Is-FHq
 aliasesArchive:
-- /blog/creating-a-custom-proxy-class
-- /creating-a-custom-proxy-class
-- /resources/blog/creating-a-custom-proxy-class
-tags:
-- Software Development
+  - /blog/creating-a-custom-proxy-class
+  - /creating-a-custom-proxy-class
+  - /resources/blog/creating-a-custom-proxy-class
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T16:26:30Z
-concepts: []
+ResourceImportId: 326
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 Instead of using the proxy generation features of Visual Studio you can create a custom proxy in .NET 3.0 to handle all of your needs in a more maintainable manor and with less code. This method works best when you have access to the interfaces that created the service.

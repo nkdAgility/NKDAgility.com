@@ -1,34 +1,37 @@
 ---
 title: Where am I?
 description: Describes a .NET application that tracks users’ locations via IP, updates Active Directory, and uses LINQ for database queries, aiding internal office presence visibility.
+date: 2007-11-09
+lastmod: 2007-11-09
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: LIBAeHbeyk9
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 294
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-11-09
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: where-am-i
 aliases:
-- /resources/LIBAeHbeyk9
+  - /resources/LIBAeHbeyk9
 aliasesArchive:
-- /blog/where-am-i
-- /where-am-i
-- /where-am-i-
-- /blog/where-am-i-
-- /resources/blog/where-am-i
-tags: []
+  - /blog/where-am-i
+  - /where-am-i
+  - /where-am-i-
+  - /blog/where-am-i-
+  - /resources/blog/where-am-i
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-merilllynch-128-link-5-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:43Z
-concepts: []
+ResourceImportId: 294
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-merilllynch-128-link-5-1.png
 
 ---
 I decided that I should have a go at this LINQ thing, so as .NET 3.5 will be RTM at the end of the month I am using LINQ and .NET 3.5 in my new Locator project.

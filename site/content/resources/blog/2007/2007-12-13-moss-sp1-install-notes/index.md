@@ -1,33 +1,36 @@
 ---
 title: MOSS SP1 Install Notes
 description: Step-by-step notes for installing Microsoft Office SharePoint Server 2007 Service Pack 1, including prerequisites, download links, and key resources for a smooth update.
+date: 2007-12-13
+lastmod: 2007-12-13
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: s8EZNFYedNl
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 277
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-12-13
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: moss-sp1-install-notes
 aliases:
-- /resources/s8EZNFYedNl
+  - /resources/s8EZNFYedNl
 aliasesArchive:
-- /blog/moss-sp1-install-notes
-- /moss-sp1-install-notes
-- /resources/blog/moss-sp1-install-notes
-tags:
-- Install and Configuration
+  - /blog/moss-sp1-install-notes
+  - /moss-sp1-install-notes
+  - /resources/blog/moss-sp1-install-notes
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:25:17Z
-concepts: []
+ResourceImportId: 277
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 I thought I should create this blog as I am going along because I usually forget some critical item that gubs my server if I try it again ![smile_nerd](images/smile_nerd-2-2.gif)

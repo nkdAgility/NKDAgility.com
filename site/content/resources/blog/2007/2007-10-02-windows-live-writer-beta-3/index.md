@@ -1,32 +1,35 @@
 ---
 title: Windows Live Writer Beta 3
 description: Discusses challenges installing Windows Live Writer Beta 3 in workplace environments due to bundled installers and network restrictions, with a workaround using direct downloads.
+date: 2007-10-02
+lastmod: 2007-10-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 7OIuDx9W3kb
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 307
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-10-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: windows-live-writer-beta-3
 aliases:
-- /resources/7OIuDx9W3kb
+  - /resources/7OIuDx9W3kb
 aliasesArchive:
-- /blog/windows-live-writer-beta-3
-- /windows-live-writer-beta-3
-- /resources/blog/windows-live-writer-beta-3
-tags: []
+  - /blog/windows-live-writer-beta-3
+  - /windows-live-writer-beta-3
+  - /resources/blog/windows-live-writer-beta-3
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:59Z
-concepts: []
+ResourceImportId: 307
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Well, a new version of WLW, [Windows Live Writer Beta 3](http://windowslivewriter.spaces.live.com/blog/cns!D85741BB5E0BE8AA!1421.entry), is [available](http://windowslivewriter.spaces.live.com/blog/cns!D85741BB5E0BE8AA!1421.entry). Its just a pity that I can't install it. Why do Microsoft insist on writing these bundle application for installing many products at once? I can see the point for home users, but at work you always get something blocked. They should provide the choice of using the bulk installer or using a direct download link. This would allow companies to unblock a specific URL without allowing users to download and install one of the other, **banned**, applications.

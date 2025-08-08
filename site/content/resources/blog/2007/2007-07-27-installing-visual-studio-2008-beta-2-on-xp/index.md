@@ -1,33 +1,36 @@
 ---
 title: Installing Visual Studio 2008 Beta 2 on XP
 description: Guide to resolving installation issues with Visual Studio 2008 Beta 2 on Windows XP, including removing Office 2007 beta and hardware requirements for optimal setup.
+date: 2007-07-27
+lastmod: 2007-07-27
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: QyRk0KkQYbz
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 358
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-27
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-visual-studio-2008-beta-2-on-xp
 aliases:
-- /resources/QyRk0KkQYbz
+  - /resources/QyRk0KkQYbz
 aliasesArchive:
-- /blog/installing-visual-studio-2008-beta-2-on-xp
-- /installing-visual-studio-2008-beta-2-on-xp
-- /resources/blog/installing-visual-studio-2008-beta-2-on-xp
-tags:
-- Miscellaneous
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/installing-visual-studio-2008-beta-2-on-xp
+  - /installing-visual-studio-2008-beta-2-on-xp
+  - /resources/blog/installing-visual-studio-2008-beta-2-on-xp
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags:
+  - Miscellaneous
 Watermarks:
   description: 2025-05-13T16:27:21Z
-concepts: []
+ResourceImportId: 358
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 The first problem I have encountered in that in the past I have had various version of Office 2007 beta and other bits and bobs. You will need to remove these to install Visual Studio 2008 Beta 2.

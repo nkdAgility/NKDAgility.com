@@ -1,35 +1,38 @@
 ---
 title: I'm Luke Skywalker according to the Star Wars personality test
 description: Result of a Star Wars personality test revealing a match with Luke Skywalker, reflecting on the outcome and sharing related links and personal reactions.
+date: 2007-04-28
+lastmod: 2007-04-28
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: q9eDYUo8WyX
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 409
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-04-28
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
-slug: im-luke-skywalker-according-to-the-star-wars-personality-test
+slug: i'm-luke-skywalker-according-to-the-star-wars-personality-test
 aliases:
-- /resources/blog/i-m-luke-skywalker-according-to-the-star-wars-personality-test
-- /resources/q9eDYUo8WyX
+  - /resources/blog/i-m-luke-skywalker-according-to-the-star-wars-personality-test
+  - /resources/q9eDYUo8WyX
 aliasesArchive:
-- /blog/im-luke-skywalker-according-to-the-star-wars-personality-test
-- /im-luke-skywalker-according-to-the-star-wars-personality-test
-- /i'm-luke-skywalker-according-to-the-star-wars-personality-test
-- /resources/blog/im-luke-skywalker-according-to-the-star-wars-personality-test
-- /resources/blog/i-m-luke-skywalker-according-to-the-star-wars-personality-test
+  - /blog/im-luke-skywalker-according-to-the-star-wars-personality-test
+  - /im-luke-skywalker-according-to-the-star-wars-personality-test
+  - /i'm-luke-skywalker-according-to-the-star-wars-personality-test
+  - /resources/blog/im-luke-skywalker-according-to-the-star-wars-personality-test
+  - /resources/blog/i-m-luke-skywalker-according-to-the-star-wars-personality-test
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-2-2.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:38Z
-concepts: []
+ResourceImportId: 409
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-2.png
 
 ---
 [![](images/Card_LukeSkywalker-1-1.jpg)](http://www.liquidgeneration.com/Media/Games/The_Ultimate_Star_Wars_Personality_Test/)

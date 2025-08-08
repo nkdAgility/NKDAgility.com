@@ -1,32 +1,35 @@
 ---
 title: Software Development Industrial Revolution
 description: Explores how industrialising software development with tools like Team Foundation Server boosts speed, collaboration, and scalability in competitive industries.
+date: 2007-01-30
+lastmod: 2007-01-30
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 3YR-l0WfbLK
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 416
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-01-30
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: software-development-industrial-revolution
 aliases:
-- /resources/3YR-l0WfbLK
+  - /resources/3YR-l0WfbLK
 aliasesArchive:
-- /blog/software-development-industrial-revolution
-- /software-development-industrial-revolution
-- /resources/blog/software-development-industrial-revolution
-tags: []
+  - /blog/software-development-industrial-revolution
+  - /software-development-industrial-revolution
+  - /resources/blog/software-development-industrial-revolution
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:29:24Z
-concepts: []
+ResourceImportId: 416
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I found out the other day that there is another implementation of TFS in the company. Not even the principal UK Architect, who recently visited the US knew of this. I do not think that it has been communicated outside of the department. That is an inevitable aspect of such a large company. The only way to get things working is to keep your head down until you have a viable solution, otherwise you get blown out of the water as soon as department z resizes that you product my do away with their solution for one part of of a larger system. Sillyness...

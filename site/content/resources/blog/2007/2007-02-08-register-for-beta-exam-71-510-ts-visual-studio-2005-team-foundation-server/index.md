@@ -1,34 +1,37 @@
 ---
 title: 'Register For Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server'
 description: Learn how to register for the beta exam 70-510 on Visual Studio 2005 Team Foundation Server, including dates, locations, and registration details for global candidates.
+date: 2007-02-08
+lastmod: 2007-02-08
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: tQ69oSCcULR
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 434
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-02-08
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
 aliases:
-- /resources/tQ69oSCcULR
+  - /resources/tQ69oSCcULR
 aliasesArchive:
-- /blog/register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
-- /register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
-- /register-for-beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
-- /blog/register-for-beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
-- /resources/blog/register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
-tags: []
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
+  - /register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
+  - /register-for-beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
+  - /blog/register-for-beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
+  - /resources/blog/register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:29:14Z
-concepts: []
+ResourceImportId: 434
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 Exam 70-510: TS: Visual Studio 2005 Team Foundation Server counts as credit towards the following certification.

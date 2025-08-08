@@ -1,34 +1,37 @@
 ---
 title: TFS Event Handler prototype Configuration Demystified
 description: Explains how to configure the TFS Event Handler Prototype, covering service setup, team server options, event subscriptions, handlers, and URL replacements.
+date: 2007-06-18
+lastmod: 2007-06-18
+weight: 875
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ENx7u9d6Q6z
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 379
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-06-18
-weight: 875
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-event-handler-prototype-configuration-demystified
 aliases:
-- /resources/ENx7u9d6Q6z
+  - /resources/ENx7u9d6Q6z
 aliasesArchive:
-- /blog/tfs-event-handler-prototype-configuration-demystified
-- /tfs-event-handler-prototype-configuration-demystified
-- /resources/blog/tfs-event-handler-prototype-configuration-demystified
-tags:
-- Install and Configuration
-- System Configuration
+  - /blog/tfs-event-handler-prototype-configuration-demystified
+  - /tfs-event-handler-prototype-configuration-demystified
+  - /resources/blog/tfs-event-handler-prototype-configuration-demystified
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Install and Configuration
+  - System Configuration
 Watermarks:
   description: 2025-05-13T16:27:52Z
-concepts: []
+ResourceImportId: 379
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 There are a number of config options for the [TFS Event Handler Prototype](http://www.codeplex.com/TFSEventHandler/Release/ProjectReleases.aspx?ReleaseId=5057). I will describe all of them in depth here. The first step is to set the [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") service options, which really only requires you to change one value.

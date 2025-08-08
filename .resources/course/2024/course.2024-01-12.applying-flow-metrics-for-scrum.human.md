@@ -2,43 +2,48 @@
 title: Applying Flow Metrics for Scrum
 short_title: Applying Flow Metrics for Scrum
 description: Learn to use flow metrics like WIP, cycle time, and throughput in Scrum to improve team efficiency, planning, forecasting, and workflow with practical data-driven tools.
+tldr: This one-day, hands-on course teaches development managers and teams how to use flow metrics like WIP, cycle time, and throughput to improve efficiency and forecasting in Scrum. Participants learn to apply these metrics in Scrum events, use analytical tools for better decision-making, and drive measurable team improvements. Consider enrolling to make your Scrum practices more data-driven and effective.
 date: 2024-01-12
-weight: 500
+weight: 410
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: Ej_UgfRAGhZ
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: applying-flow-metrics-for-scrum
 aliases:
-- /training-courses/applying-flow-metrics-for-scrum/
-- /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
-- /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
-- /resources/Ej_UgfRAGhZ
+  - /training-courses/applying-flow-metrics-for-scrum/
+  - /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
+  - /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
+  - /resources/Ej_UgfRAGhZ
 aliasesArchive:
-- /training-courses/applying-flow-metrics-for-scrum/
-- /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
-- /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
+  - /training-courses/applying-flow-metrics-for-scrum/
+  - /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
+  - /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
 concepts:
-- Practice
+  - Practice
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Flow Efficiency
-- Metrics and Learning
-- Agile Frameworks
-- Agile Planning
-- Agile Product Management
-- Agile Transformation
-- Cycle Time
-- Empirical Process Control
-- Forecasting
-- Operational Practices
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Team
-- Software Development
-- Team Performance
+  - Throughput
+  - Flow Efficiency
+  - Metrics and Learning
+  - Agile Frameworks
+  - Agile Planning
+  - Agile Product Management
+  - Agile Transformation
+  - Cycle Time
+  - Empirical Process Control
+  - Forecasting
+  - Operational Practices
+  - Pragmatic Thinking
+  - Professional Scrum
+  - Scrum Team
+  - Software Development
 card:
   button:
     content: ""
@@ -47,26 +52,27 @@ card:
 Watermarks:
   description: 2025-07-29T15:00:55Z
   short_title: 2025-07-29T15:00:56Z
+  tldr: 2025-08-08T11:37:22Z
 creator: Martin Hinshelwood
 type: course
 url: /training-courses/kanban-training-courses/:slug/
 course_topics:
-- Kanban Training Courses
+  - Kanban Training Courses
 course_vendors:
-- ProKanbanorg
+  - ProKanbanorg
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- Teams
-- Product Owners
-- Lean Agile Practitioners
+  - Teams
+  - Product Owners
+  - Lean Agile Practitioners
 preview: NKDAgility-Courses-AFMS-16x9-1.jpg
 previewIcon: AFMS.png
 brandColour: 
 course-topic: Professional Kanban
 code: AFMS
 course_proficiencies:
-- intermediate
+  - intermediate
 introduction: 
 overview: This course is suitable for Scrum Masters, Product Owners, Development Team Members, Agile Coaches, Leaders, Managers, Scrum Enthusiasts, and anyone interested in data-driven Scrum practices, aiming to optimize their Scrum processes through the application of flow metrics.
 outcomes: |2-

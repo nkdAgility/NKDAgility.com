@@ -1,36 +1,39 @@
 ---
 title: Some thoughts on .NET 3.0 from LinkedIn
 description: Insights on adopting .NET 3.0 for new applications, its features like WPF, WF, WCF, CardSpace, and comparisons with BizTalk, plus upgrade considerations for organisations.
+date: 2007-02-06
+lastmod: 2007-02-06
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: L_rhObh8cmE
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 436
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-02-06
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: some-thoughts-on-net-3-0-from-linkedin
 aliases:
-- /resources/blog/some-thoughts-on-.net-3.0-from-linkedin
-- /resources/L_rhObh8cmE
+  - /resources/blog/some-thoughts-on-.net-3.0-from-linkedin
+  - /resources/L_rhObh8cmE
 aliasesArchive:
-- /blog/some-thoughts-on-net-3-0-from-linkedin
-- /some-thoughts-on-net-3-0-from-linkedin
-- /some-thoughts-on--net-3-0-from-linkedin
-- /blog/some-thoughts-on--net-3-0-from-linkedin
-- /resources/blog/some-thoughts-on-net-3-0-from-linkedin
-- /resources/blog/some-thoughts-on-.net-3.0-from-linkedin
-tags: []
+  - /blog/some-thoughts-on-net-3-0-from-linkedin
+  - /some-thoughts-on-net-3-0-from-linkedin
+  - /some-thoughts-on--net-3-0-from-linkedin
+  - /blog/some-thoughts-on--net-3-0-from-linkedin
+  - /resources/blog/some-thoughts-on-net-3-0-from-linkedin
+  - /resources/blog/some-thoughts-on-.net-3.0-from-linkedin
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:29:17Z
-concepts: []
+ResourceImportId: 436
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 I was asked on LinkedIn:

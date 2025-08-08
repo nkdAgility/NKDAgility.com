@@ -1,32 +1,35 @@
 ---
 title: Deploying Team Server
 description: Discusses the challenges, costs, and benefits of implementing Team Foundation Server (TFS) for large development teams in a corporate investment banking environment.
+date: 2007-01-30
+lastmod: 2007-01-30
+weight: 630
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: BcNPa5LLzLX
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 440
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-01-30
-weight: 630
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: deploying-team-server
 aliases:
-- /resources/BcNPa5LLzLX
+  - /resources/BcNPa5LLzLX
 aliasesArchive:
-- /blog/deploying-team-server
-- /deploying-team-server
-- /resources/blog/deploying-team-server
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/deploying-team-server
+  - /deploying-team-server
+  - /resources/blog/deploying-team-server
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:29:21Z
-concepts: []
+ResourceImportId: 440
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Sorry that I have not posted on this subject in a while, but I am lazy. After that last elongated post I am in the mood to write again...

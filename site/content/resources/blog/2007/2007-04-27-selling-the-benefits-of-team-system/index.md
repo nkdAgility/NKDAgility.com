@@ -1,31 +1,34 @@
 ---
 title: Selling the benefits of Team System
 description: Guidance on effectively promoting Team System to developers, managers, and project teams, addressing their concerns and strategies for successful adoption.
+date: 2007-04-27
+lastmod: 2007-04-27
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: _jpQbjqxlCl
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 410
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-04-27
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: selling-the-benefits-of-team-system
 aliases:
-- /resources/_jpQbjqxlCl
+  - /resources/_jpQbjqxlCl
 aliasesArchive:
-- /blog/selling-the-benefits-of-team-system
-- /selling-the-benefits-of-team-system
-- /resources/blog/selling-the-benefits-of-team-system
-tags: []
+  - /blog/selling-the-benefits-of-team-system
+  - /selling-the-benefits-of-team-system
+  - /resources/blog/selling-the-benefits-of-team-system
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:45Z
-concepts: []
+ResourceImportId: 410
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 I have found that there is very little content available on the art of selling Team System for developers that want to use it. Developers need to sell it not only to their manager, but to a hole host of people, and it is no small expense to implement it.

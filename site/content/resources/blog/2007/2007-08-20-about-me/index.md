@@ -1,32 +1,35 @@
 ---
 title: About Me
 description: Personal profile with links to Martin Hinshelwood’s resume, LinkedIn, and background, clarifying identity and focusing on technology over football in search results.
+date: 2007-08-20
+lastmod: 2007-08-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: sLyEoCihMuc
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 329
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: about-me
 aliases:
-- /resources/sLyEoCihMuc
+  - /resources/sLyEoCihMuc
 aliasesArchive:
-- /blog/about-me
-- /about-me
-- /resources/blog/about-me
+  - /blog/about-me
+  - /about-me
+  - /resources/blog/about-me
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:32Z
-concepts: []
+ResourceImportId: 329
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I thought I should take a leaf out of [Scott Dorman's](http://geekswithblogs.net/sdorman/archive/2007/08/15/About.aspx "About Scott Dorman") book and post some information about me:

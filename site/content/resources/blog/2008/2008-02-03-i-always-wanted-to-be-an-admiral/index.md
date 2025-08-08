@@ -1,35 +1,38 @@
 ---
 title: I always wanted to be an Admiral!
 description: A personal reflection on taking a Battlestar Galactica character quiz after finishing season 3, sharing excitement and anticipation for the upcoming final season.
+date: 2008-02-03
+lastmod: 2008-02-03
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: GsQob9JDjYK
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 251
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-02-03
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: i-always-wanted-to-be-an-admiral
 aliases:
-- /resources/GsQob9JDjYK
+  - /resources/GsQob9JDjYK
 aliasesArchive:
-- /blog/i-always-wanted-to-be-an-admiral
-- /i-always-wanted-to-be-an-admiral
-- /i-always-wanted-to-be-an-admiral-
-- /blog/i-always-wanted-to-be-an-admiral-
-- /resources/blog/i-always-wanted-to-be-an-admiral
+  - /blog/i-always-wanted-to-be-an-admiral
+  - /i-always-wanted-to-be-an-admiral
+  - /i-always-wanted-to-be-an-admiral-
+  - /blog/i-always-wanted-to-be-an-admiral-
+  - /resources/blog/i-always-wanted-to-be-an-admiral
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-2-2.png
+  - Uncategorized
 tags:
-- Miscellaneous
+  - Miscellaneous
 Watermarks:
   description: 2025-05-13T16:24:38Z
-concepts: []
+ResourceImportId: 251
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-2-2.png
 
 ---
 [Which Battlestar Galactica Character Are You?  

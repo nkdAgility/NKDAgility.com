@@ -2,32 +2,37 @@
 title: Assuring Quality Using Azure Test Plans Training
 short_title: Assuring Quality with Azure Test Plans
 description: Learn to manage, execute, and report on tests for web and desktop apps using Azure Test Plans, with hands-on training for agile teams and quality assurance roles.
+tldr: This one-day, hands-on course teaches teams how to use Azure Test Plans to manage and execute tests for web and desktop applications, improving quality assurance in agile environments. Participants will learn to create and run test cases, track results, and report bugs efficiently. Consider enrolling your QA and development staff to strengthen your team's testing capabilities and streamline quality processes.
 date: 2020-09-01
-weight: 600
+weight: 385
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: m932F_fIGB5
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: assuring-quality-using-azure-test-plans-training
 aliases:
-- /training-courses/assuring-quality-using-azure-test-plans
-- /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
-- /AD-QA/
-- /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
-- /resources/m932F_fIGB5
+  - /training-courses/assuring-quality-using-azure-test-plans
+  - /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
+  - /AD-QA/
+  - /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
+  - /resources/m932F_fIGB5
 aliasesArchive:
-- /training-courses/assuring-quality-using-azure-test-plans
-- /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
-- /AD-QA/
-- /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
+  - /training-courses/assuring-quality-using-azure-test-plans
+  - /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
+  - /AD-QA/
+  - /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
 concepts:
-- Tool
+  - Tool
 categories:
-- Engineering Excellence
+  - Engineering Excellence
 tags:
-- Azure DevOps
-- Software Development
-- Technical Excellence
+  - Azure DevOps
+  - Software Development
+  - Technical Excellence
 card:
   button:
     content: ""
@@ -36,23 +41,24 @@ card:
 Watermarks:
   description: 2025-07-29T15:01:19Z
   short_title: 2025-07-29T15:01:21Z
+  tldr: 2025-08-08T11:37:41Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 course_topics:
-- Azure DevOps Training Courses
+  - Azure DevOps Training Courses
 course_vendors:
-- Accentient
+  - Accentient
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- QA
+  - QA
 preview: 
 previewIcon: A-AQATP.png
 brandColour: 
 code: AD-QA
 course_proficiencies:
-- intermediate
+  - intermediate
 introduction: |2-
 
   ### Course content

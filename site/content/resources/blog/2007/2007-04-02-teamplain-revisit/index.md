@@ -1,34 +1,37 @@
 ---
 title: TeamPlain - Revisit
 description: Shows how to use JavaScript to shorten long project names in a TeamPlain dropdown, offering a workaround for poor project name compartmentalisation in Team Foundation Server.
+date: 2007-04-02
+lastmod: 2007-04-02
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 74iowBMHVfu
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 419
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-04-02
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: teamplain-revisit
 aliases:
-- /resources/74iowBMHVfu
+  - /resources/74iowBMHVfu
 aliasesArchive:
-- /blog/teamplain-revisit
-- /teamplain-revisit
-- /teamplain---revisit
-- /blog/teamplain---revisit
-- /resources/blog/teamplain-revisit
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/teamplain-revisit
+  - /teamplain-revisit
+  - /teamplain---revisit
+  - /blog/teamplain---revisit
+  - /resources/blog/teamplain-revisit
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:52Z
-concepts: []
+ResourceImportId: 419
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I ran into some problems that I blogged on in my [TeamPlain - Install and initial views](http://team.worldnet-dev.ml.com/workitem.aspx?id=185) post. I have got a work around for the long project name problem, but it only works when you really daft project names like ours:

@@ -4,8 +4,14 @@
       "title": "Applying Professional Kanban (APK) Course with Certification",
       "short_title": "Applying Professional Kanban Course Certification",
       "description": "Gain practical Kanban skills through live sessions and real-world practice, covering workflow design, flow metrics, visual boards, and continuous improvement. Certification included.",
+      "tldr": "This course offers practical, hands-on training in Kanban principles and workflow design, helping teams and managers improve productivity and delivery through real-world application and live sessions. Participants will learn to use visual boards, set work-in-progress limits, and interpret key flow metrics to continuously enhance their processes. Completing the course provides certification and actionable skills for integrating Kanban into software development teams.",
       "date": "2020-12-17",
-      "weight": 1000.0,
+      "weight": 735.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.8,
+        "changefreq": "weekly"
+      },
       "ResourceId": "ZeqWpEsyhbv",
       "ResourceImport": false,
       "ResourceType": "course",
@@ -51,7 +57,8 @@
       },
       "Watermarks": {
         "description": "2025-07-29T15:01:13Z",
-        "short_title": "2025-07-29T15:01:15Z"
+        "short_title": "2025-07-29T15:01:15Z",
+        "tldr": "2025-08-08T11:37:40Z"
       },
       "creator": "Martin Hinshelwood",
       "type": "course",
@@ -99,8 +106,14 @@
       "title": "Assuring Quality Using Azure Test Plans Training",
       "short_title": "Assuring Quality with Azure Test Plans",
       "description": "Learn to manage, execute, and report on tests for web and desktop apps using Azure Test Plans, with hands-on training for agile teams and quality assurance roles.",
+      "tldr": "This one-day, hands-on course teaches teams how to use Azure Test Plans to manage and execute tests for web and desktop applications, improving quality assurance in agile environments. Participants will learn to create and run test cases, track results, and report bugs efficiently. Consider enrolling your QA and development staff to strengthen your team's testing capabilities and streamline quality processes.",
       "date": "2020-09-01",
-      "weight": 600.0,
+      "weight": 385.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.8,
+        "changefreq": "weekly"
+      },
       "ResourceId": "m932F_fIGB5",
       "ResourceImport": false,
       "ResourceType": "course",
@@ -139,7 +152,8 @@
       },
       "Watermarks": {
         "description": "2025-07-29T15:01:19Z",
-        "short_title": "2025-07-29T15:01:21Z"
+        "short_title": "2025-07-29T15:01:21Z",
+        "tldr": "2025-08-08T11:37:41Z"
       },
       "creator": "Martin Hinshelwood",
       "type": "course",
@@ -182,463 +196,17 @@
   },
   {
     "FrontMatter": {
-      "title": "Mastering Azure Repos Training",
-      "short_title": "Mastering Azure Repos Training",
-      "description": "Learn to configure and use Azure Repos for Git version control, collaborate with branching and pull requests, and integrate with Visual Studio and GitHub in Azure DevOps.",
-      "date": "2020-08-31",
-      "weight": 600.0,
-      "ResourceId": "d4jyFSYdS2v",
-      "ResourceImport": false,
-      "ResourceType": "course",
-      "ResourceContentOrigin": "human",
-      "slug": "mastering-azure-repos-training",
-      "aliases": [
-        "/training-courses/mastering-azure-repos",
-        "/training-courses/azure-devops-training-courses/mastering-azure-repos-training/",
-        "/capabilities/training-courses/accentient/mastering-azure-repos-training",
-        "/resources/d4jyFSYdS2v"
-      ],
-      "aliasesArchive": [
-        "/training-courses/mastering-azure-repos",
-        "/training-courses/azure-devops-training-courses/mastering-azure-repos-training/",
-        "/capabilities/training-courses/accentient/mastering-azure-repos-training"
-      ],
-      "concepts": [
-        "Tool"
-      ],
-      "categories": [
-        "Engineering Excellence"
-      ],
-      "tags": [
-        "Azure DevOps",
-        "Azure Repos",
-        "Install and Configuration",
-        "Modern Source Control",
-        "Software Development",
-        "Technical Excellence",
-        "Technical Mastery"
-      ],
-      "card": {
-        "button": {
-          "content": ""
-        },
-        "title": "Mastering Azure Repos Training",
-        "content": "Azure DevOps Services provide a set of cloud-hosted tools that software teams can use to quickly plan, develop, test, and deliver value in the form of working software. Azure Repos provide public or private Git repositories that enable better collaboration and cleaner code. To maximize learning, students will work in teams, in a common team project, on a common codebase."
-      },
-      "Watermarks": {
-        "description": "2025-07-29T15:01:22Z",
-        "short_title": "2025-07-29T15:01:23Z"
-      },
-      "creator": "Martin Hinshelwood",
-      "type": "course",
-      "url": null,
-      "course_topics": [
-        "Azure DevOps Training Courses"
-      ],
-      "course_vendors": [
-        "Accentient"
-      ],
-      "course_learning_experiences": [
-        "Traditional"
-      ],
-      "delivery_audiences": [
-        "Developers"
-      ],
-      "preview": null,
-      "previewIcon": "A-MARS.png",
-      "brandColour": null,
-      "code": "MARS",
-      "course_proficiencies": [
-        "intermediate"
-      ],
-      "introduction": "\n### Course content\n This course contains several modules, progressively explaining how to configure and use Azure Repos in basic and advanced ways in order to manage changes to code in a software development effort. 1. INTRODUCTION TO AZURE REPOS - Azure DevOps overview - Azure Repos overview - Public vs. private repos - Creating, configuring, and securing repos - Hands-on 2. GIT CONCEPTS - DVCS concepts and Git overview - Using Git from the command line - Creating/cloning a repository - Git commit and history - Basic Git workflows - Git for Windows - Hands-on 3. VISUAL STUDIO INTEGRATION - Visual Studio Integration - Connecting-to a repository - Basic Git workflows revisited - Associating comments and work items - Viewing commit history - Ignoring files when committing - Visual Studio Code Integration - Hands-on 4. WORKING WITH AZURE REPOS - Annotating changes (for blame/praise) - Tagging - Editing commit history - Checkout to a previos version - Reverting to a previous version - Resetting to a previous version - Stashing changes - Branching and merging - Rebasing - Pull requests - Branch policies - Code reviews using pull requests - Hands-on 5. MASTERING AZURE REPOS - Git Hooks and Git extensions - Code Search - GitHub integration - Forking - Workflows (Git Flow, GitHub Flow) - Virtual File System for Git (VFS) - Repository limits - Hands-on \n### Course Designer\n This course was designed by Richard Hundhausen, a Microsoft Development Technologies MVP, Professional Scrum Trainer, and an experienced software developer",
-      "overview": "This course is appropriate for all software developers who are using or considering using Azure Repos for Git version control. Having some experience with version control is recommended. Experience with Git, Visual Studio, and C# are also helpful, but not required.",
-      "outcomes": "\n1. Azure Repos\n2. Git Concepts\n3. Visual Studio Integration\n4. Working with Azure Repos\n5. Mastering Azure Repos\n\n",
-      "assessment": null,
-      "objectives": null,
-      "prerequisites": "None",
-      "audience": null,
-      "trainers": null,
-      "roadmap": null,
-      "syllabus": null,
-      "events": null
-    },
-    "BodyContent": "# Mastering Azure Repos Training\n\n**Course Code:** MARS\n\n## Overview\n\nThis course provides software developers with practical skills to configure and use Azure Repos for Git version control, enhancing collaboration and code quality within Azure DevOps Services.\n\n## Target Audience\n\n- Software developers using or considering Azure Repos for Git version control\n\n## Learning Outcomes\n\n1. Understand and configure Azure Repos\n2. Apply core Git concepts and workflows\n3. Integrate Git with Visual Studio and Visual Studio Code\n4. Collaborate using Azure Repos features (branching, pull requests, code reviews)\n5. Master advanced Azure Repos capabilities (Git hooks, GitHub integration, workflows)\n\n## Course Topics\n\n- Introduction to Azure Repos\n- Git Concepts and Workflows\n- Visual Studio and Visual Studio Code Integration\n- Working with Azure Repos (branching, merging, pull requests, code reviews)\n- Advanced Azure Repos (Git hooks, extensions, GitHub integration, workflows, VFS)\n\n## Delivery Format\n\n- Traditional (instructor-led, team-based hands-on exercises)\n\n## Proficiency Level\n\n- Intermediate\n\n## Course Length\n\n- 1 day\n\n## Trainer/Designer\n\n- Richard Hundhausen (Microsoft Development Technologies MVP, Professional Scrum Trainer)\n\n## Vendor\n\n- Accentient\n",
-    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-mastering-azure-repos\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-mastering-azure-repos",
-    "ReferencePath": "capabilities/training-courses/accentient-mastering-azure-repos"
-  },
-  {
-    "FrontMatter": {
-      "title": "Scrum for Executives Training",
-      "short_title": "Scrum for Executives Training",
-      "description": "Instructor-led course for executives and managers to understand Scrum, its benefits, executive roles, Agile metrics, case studies, and adoption best practices.",
-      "date": "2020-08-31",
-      "weight": 750.0,
-      "ResourceId": "AHschsDjL2E",
-      "ResourceImport": false,
-      "ResourceType": "course",
-      "ResourceContentOrigin": "human",
-      "slug": "scrum-for-executives-training",
-      "aliases": [
-        "/training-courses/scrum-for-executives",
-        "/training-courses/scrum-for-executives-training/",
-        "/capabilities/training-courses/accentient/scrum-for-executives",
-        "/resources/AHschsDjL2E"
-      ],
-      "aliasesArchive": [
-        "/training-courses/scrum-for-executives",
-        "/training-courses/scrum-for-executives-training/",
-        "/capabilities/training-courses/accentient/scrum-for-executives"
-      ],
-      "concepts": [
-        "Framework"
-      ],
-      "categories": [
-        "Product Development",
-        "Scrum"
-      ],
-      "tags": [
-        "Agile Frameworks",
-        "Project Management",
-        "Agile Transformation",
-        "Organisational Agility",
-        "Professional Scrum",
-        "Software Development"
-      ],
-      "card": {
-        "button": {
-          "content": ""
-        },
-        "title": "Scrum for Executives Training",
-        "content": "\n*What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions.\n"
-      },
-      "Watermarks": {
-        "description": "2025-07-29T15:01:25Z",
-        "short_title": "2025-07-29T15:01:26Z"
-      },
-      "creator": "Martin Hinshelwood",
-      "type": "course",
-      "url": null,
-      "course_topics": [
-        "Scrum Training Courses"
-      ],
-      "course_vendors": [
-        "Accentient"
-      ],
-      "course_learning_experiences": [
-        "Traditional"
-      ],
-      "delivery_audiences": [
-        "Entrepreneurs",
-        "Executives"
-      ],
-      "preview": null,
-      "previewIcon": "A-S4E.png",
-      "brandColour": null,
-      "code": "S4E",
-      "course_proficiencies": [
-        "beginner"
-      ],
-      "introduction": "\n### Course Outline\n\nThe course includes several important topics for Executives. Each topic contains slides, discussions, and team-based activities. 1. Why Scrum ✓ Agile over waterfall ✓ Agility Index over scope, schedule, cost ✓ Economic advantages of Scrum 5. Scrum Case Studies ✓ The FBI Sentinel case study ✓ Additional case studies and reading ✓ www.scrumcasestudies.com 2. Scrum: An Executive Summary ✓ Scrum overview ✓ The Scrum framework ✓ Assessing whether you are currently doing Scrum 6. Myths and Misconceptions ✓ Requirements, documentation, analysis, and planning ✓ Managers, successful organizations, and culture ✓ Roles, PMO, and self-managing teams 3. Top 10 Things You Should Know About Scrum ✓ Agile’s success over other ineffective models ✓ Scrum’s answer to risks, meetings, and urgencies ✓ Continuous learning strategies 7. The Scrum Principles ✓ Principles and complementary practices ✓ Teams vs. groups ✓ Rules vs. strategies 4. Agile Metrics for the Enterprise ✓ Direct evidence over indirect/subjective evidence ✓ Organizational metrics and foundational metrics ✓ Value, time to market, and ability to innovate 8. Where Scrum Fits and Where It Doesn’t ✓ Simple, complicated, complex, and chaotic work ✓ Scrum for non-complex and unplannable work ✓ Scrum for support and maintenance teams\n\n### Course Designers\n\nThis course was designed by Richard Hundhausen (Accentient) and Charles Bradley (ScrumCrazy). Richard and Charles are both management consultants with experience educating fortune 500 executives and managers. Richard and Charles are also Scrum.org Professional Scrum Trainers, coaches, and software developers.\n\n*This course consistently receives rave reviews from managers and executives. See for yourself!*\n",
-      "overview": "\nThis course is intended for executives, managers, and other leaders who want to learn more about Scrum, why it works, and a high-level approach to get started on their path to agility. Typical attendees are those who have never heard of Scrum but want their organization to become agile or those who may be evaluating Scrum, to see if it’s right for their organization. Other attendees may be from organizations that are already on their way to adopting Scrum. Regardless of your current capabilities, this course is flexible enough to give you the knowledge that you require.\n",
-      "outcomes": "\n1. Why Scrum?\n2. Scrum: An Executive Summary\n3. Top 10 Things You Should Know About Scrum\n4. Agile Metrics in the Enterprise\n5. Scrum Case Studies\n6. Myths and Misconceptions\n7. The Scrum Principles\n8. Where Scrum Fits and Where It Doesn’t\n\n",
-      "assessment": null,
-      "objectives": null,
-      "prerequisites": null,
-      "audience": null,
-      "trainers": null,
-      "roadmap": null,
-      "syllabus": null,
-      "events": null
-    },
-    "BodyContent": "# Scrum for Executives Training\n\n**Course Code:** S4E\n\n---\n\n## Overview\n\nThis instructor-led course provides executives, managers, and organizational leaders with a practical understanding of Scrum, its value, and the executive’s role in successful adoption.\n\n---\n\n## Target Audience\n\n- Executives\n- Managers\n- Entrepreneurs\n- Organizational leaders considering or undergoing Agile transformation\n\n---\n\n## Learning Outcomes\n\n1. Understand the purpose and benefits of Scrum.\n2. Summarize the Scrum framework from an executive perspective.\n3. Identify key facts and misconceptions about Scrum.\n4. Evaluate Agile metrics relevant to enterprise environments.\n5. Analyze real-world Scrum case studies.\n6. Recognize common myths and misconceptions about Scrum adoption.\n7. Distinguish Scrum principles and complementary practices.\n8. Assess where Scrum is appropriate within the organization.\n\n---\n\n## Course Topics\n\n- Why Scrum?\n- Scrum: An Executive Summary\n- Top 10 Things You Should Know About Scrum\n- Agile Metrics for the Enterprise\n- Scrum Case Studies\n- Myths and Misconceptions\n- The Scrum Principles\n- Where Scrum Fits and Where It Doesn’t\n\n---\n\n## Delivery Format\n\n- Instructor-led\n- Traditional classroom\n- Team-based activities and discussions\n\n---\n\n## Proficiency Level\n\n- Beginner\n\n---\n\n## Course Length\n\n- 1 day\n\n---\n\n## Trainer/Designer\n\n- Richard Hundhausen (Accentient)\n- Charles Bradley (ScrumCrazy)\n\n---\n\n## Vendor\n\n- Accentient\n\n---\n",
-    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-scrum-for-executives\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-scrum-for-executives",
-    "ReferencePath": "capabilities/training-courses/accentient-scrum-for-executives"
-  },
-  {
-    "FrontMatter": {
-      "title": "Scrum for Product Owners Training",
-      "short_title": "Scrum for Product Owners Training",
-      "description": "Interactive course for Product Owners covering Scrum roles, backlog refinement, estimation, technical debt, and team collaboration through hands-on activities and discussions.",
-      "date": "2020-08-31",
-      "weight": 750.0,
-      "ResourceId": "qVBmvY9STVE",
-      "ResourceImport": false,
-      "ResourceType": "course",
-      "ResourceContentOrigin": "human",
-      "slug": "scrum-for-product-owners-training",
-      "aliases": [
-        "/training-courses/scrum-for-product-owners",
-        "/training-courses/scrum-for-product-owners-training/",
-        "/capabilities/training-courses/accentient/scrum-for-product-owners-training",
-        "/resources/qVBmvY9STVE"
-      ],
-      "aliasesArchive": [
-        "/training-courses/scrum-for-product-owners",
-        "/training-courses/scrum-for-product-owners-training/",
-        "/capabilities/training-courses/accentient/scrum-for-product-owners-training"
-      ],
-      "concepts": [
-        "Practice"
-      ],
-      "categories": [
-        "Product Development",
-        "Scrum",
-        "Product Management"
-      ],
-      "tags": [
-        "Product Backlog",
-        "Agile Frameworks",
-        "Agile Product Management",
-        "Backlog Refinement",
-        "Product Owner",
-        "Professional Scrum",
-        "Scrum Team",
-        "Software Development",
-        "Team Performance"
-      ],
-      "card": {
-        "button": {
-          "content": ""
-        },
-        "title": "Scrum for Product Owners Training",
-        "content": "\nThis instructor-led class is intended to help *Product Owners* be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.\n"
-      },
-      "Watermarks": {
-        "description": "2025-07-29T15:01:27Z",
-        "short_title": "2025-07-29T15:01:28Z"
-      },
-      "creator": "Martin Hinshelwood",
-      "type": "course",
-      "url": null,
-      "course_topics": [
-        "Scrum Training Courses"
-      ],
-      "course_vendors": [
-        "Accentient"
-      ],
-      "course_learning_experiences": [
-        "Traditional"
-      ],
-      "delivery_audiences": [
-        "Entrepreneurs",
-        "Product Managers"
-      ],
-      "preview": null,
-      "previewIcon": "A-S4PO.png",
-      "brandColour": null,
-      "code": "S4PO",
-      "course_proficiencies": [
-        "beginner"
-      ],
-      "introduction": "\n### Course Outline\n\nThe course includes several important topics for Product Owner. Each topic contains slides, discussions, and team-based activities. 1. The Scrum Framework ✓ The Scrum Gide ✓ The Scrum Framework ✓ Roles, events, artifacts ✓ Professional Scrum 4. Product Backlog Refinement (part 2) ✓ Agile estimation ✓ Practice: wall/affinity estimation ✓ Practice: planning poker ✓ Tracking and handling technical debt 2. Myths and Misconceptions ✓ Requirements and documentation ✓ Analysis and planning ✓ Culture and successful organizations 5. Getting “Done” ✓ Definition of “done” ✓ Expectations and limits of the Product Owner ✓ Undone work 3. Product Backlog Refinement (part 1) ✓ User stories ✓ Acceptance criteria ✓ Reducing waste in requirements ✓ Definition of “ready 6. Improving as a Team ✓ Working as a Scrum Team ✓ Common dysfunctions ✓ Collaborating with the Development Team ✓ Becoming a high-performance team\n\n### Course Designer\n\nThis course was designed by Richard Hundhausen, a Professional Scrum Trainer, co-creator of the Scaled Professional Scrum framework (the Nexus), and author of books on software development.\n",
-      "overview": "\nThis course is intended for existing or candidate Product Owners who want to focus on the expectations and activities related to their role. In addition, business analysts (BAs), subject matter experts (SMEs), or other stakeholders who interact with a Product Owner in order to deliver a product of the highest value are encouraged to attend. Typical attendees are those who have experience on a Scrum Team or who have recently attended Scrum training. Regardless of your current role or capabilities, this course is flexible enough to give you the knowledge that you require.\n",
-      "outcomes": "\n1. The Scrum Framework\n2. Myths and Misconceptions\n3. Product Backlog Refinement\n4. Product Backlog Refinement (Advanced)\n5. Getting “Done”\n6. Improving as a team\n\n",
-      "assessment": null,
-      "objectives": null,
-      "prerequisites": null,
-      "audience": null,
-      "trainers": null,
-      "roadmap": null,
-      "syllabus": null,
-      "events": null
-    },
-    "BodyContent": "# Scrum for Product Owners Training\n\n**Course Code:** S4PO\n\n---\n\n## Overview\n\nEnhance your effectiveness as a Product Owner in this interactive, instructor-led course. Learn key responsibilities, practices, and techniques to drive value within a Scrum Team through presentations, discussions, and hands-on activities.\n\n---\n\n## Target Audience\n\n- Product Owners (existing or aspiring)\n- Product Managers\n- Entrepreneurs\n- Business Analysts (BAs)\n- Subject Matter Experts (SMEs)\n- Stakeholders who interact with Product Owners\n\n---\n\n## Learning Outcomes\n\n1. Understand the Scrum Framework, including roles, events, and artifacts\n2. Identify and address common myths and misconceptions about Scrum\n3. Apply effective Product Backlog refinement techniques\n4. Practice advanced backlog refinement, including estimation and planning\n5. Define and achieve “Done” in Scrum, including managing technical debt\n6. Improve team collaboration and performance within the Scrum Team\n\n---\n\n## Course Topics\n\n- The Scrum Framework\n  - The Scrum Guide\n  - Roles, events, and artifacts\n  - Professional Scrum\n- Myths and Misconceptions\n  - Requirements and documentation\n  - Analysis and planning\n  - Culture and successful organizations\n- Product Backlog Refinement (Parts 1 & 2)\n  - User stories and acceptance criteria\n  - Reducing waste in requirements\n  - Definition of “Ready”\n  - Agile estimation (wall/affinity estimation, planning poker)\n  - Tracking and handling technical debt\n- Getting “Done”\n  - Definition of “Done”\n  - Expectations and limits of the Product Owner\n  - Managing undone work\n- Improving as a Team\n  - Working as a Scrum Team\n  - Common dysfunctions\n  - Collaborating with the Development Team\n  - Becoming a high-performance team\n\n---\n\n## Delivery Format\n\n- Instructor-led\n- Traditional (presentations, discussions, team-based activities)\n\n---\n\n## Proficiency Level\n\n- Beginner\n\n---\n\n## Course Length\n\n- 1 day\n\n---\n\n## Trainer/Designer\n\n- Richard Hundhausen (Professional Scrum Trainer, co-creator of the Scaled Professional Scrum framework)\n\n---\n\n## Vendor\n\n- Accentient\n\n---\n",
-    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-scrum-for-product-owners\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-scrum-for-product-owners",
-    "ReferencePath": "capabilities/training-courses/accentient-scrum-for-product-owners"
-  },
-  {
-    "FrontMatter": {
-      "title": "Scrum for Stakeholders Training",
-      "short_title": "Scrum Fundamentals for Stakeholders",
-      "description": "Introduces stakeholders to Scrum fundamentals, roles, and events, focusing on effective engagement, benefits over traditional methods, and practical participation skills.",
-      "date": "2020-08-31",
-      "weight": 1000.0,
-      "ResourceId": "33qyqKjBf3T",
-      "ResourceImport": false,
-      "ResourceType": "course",
-      "ResourceContentOrigin": "human",
-      "slug": "scrum-for-stakeholders-training",
-      "aliases": [
-        "/training-courses/scrum-for-stakeholders",
-        "/training-courses/scrum-for-stakeholders-training/",
-        "/capabilities/training-courses/accentient/scrum-for-stakeholders-training",
-        "/resources/33qyqKjBf3T"
-      ],
-      "aliasesArchive": [
-        "/training-courses/scrum-for-stakeholders",
-        "/training-courses/scrum-for-stakeholders-training/",
-        "/capabilities/training-courses/accentient/scrum-for-stakeholders-training"
-      ],
-      "concepts": [
-        "Practice"
-      ],
-      "categories": [
-        "Product Development",
-        "Scrum"
-      ],
-      "tags": [
-        "Project Management",
-        "Agile Frameworks",
-        "Agile Product Management",
-        "Agile Transformation",
-        "Professional Scrum",
-        "Software Development"
-      ],
-      "card": {
-        "button": {
-          "content": ""
-        },
-        "title": "Scrum for Stakeholders Training",
-        "content": ""
-      },
-      "Watermarks": {
-        "description": "2025-07-29T15:01:30Z",
-        "short_title": "2025-07-29T15:01:31Z"
-      },
-      "creator": "Martin Hinshelwood",
-      "type": "course",
-      "url": null,
-      "course_topics": [
-        "Scrum Training Courses"
-      ],
-      "course_vendors": [
-        "Accentient"
-      ],
-      "course_learning_experiences": [
-        "Traditional"
-      ],
-      "delivery_audiences": [
-        "Product Managers"
-      ],
-      "preview": null,
-      "previewIcon": "A-S4S.png",
-      "brandColour": null,
-      "code": "S4S",
-      "course_proficiencies": [
-        "beginner"
-      ],
-      "introduction": "\n### Course Outline\n\nEach topic contains a blend of slides, discussions, and team-based activities. 1. What is Scrum ✓ Scrum overview ✓ Scrum values ✓ Scrum framework: roles, events, artifacts 5. The Product Backlog ✓ Purpose of the Product Backlog ✓ Definition of “Ready” ✓ Capturing Stakeholder feedback 2. Why Scrum ✓ Agile over waterfall ✓ Problems with targets: scope, schedule, cost ✓ Economic advantages of Scrum 6. Participating in the Scrum Events ✓ Participating in Sprint Planning ✓ Participating in Product Backlog Refinement ✓ Participating in Sprint Review 3. Myths and Misconceptions ✓ Requirements, documentation, analysis, and planning ✓ Managers, successful organizations, and culture ✓ Roles, PMO, and self-managing teams 7. New Ways of Measuring Success ✓ Direct evidence over indirect/subjective evidence ✓ Organizational metrics and foundational metrics ✓ Value, time to market, and ability to innovate 4. Interacting with the Scrum Team ✓ Interacting with the Product Owner ✓ Interacting with the Development Team ✓ Interacting with the Scrum Master 8. Roadmap ✓ Summary of what will be different going forward ✓ A Shu-Ha-Ri approach to implementing change ✓ A culture of continuous learning and improvement\n\n### Course Designers\n\nThis course was designed by Richard Hundhausen (Accentient) and Charles Bradley (ScrumCrazy). Richard and Charles are both management consultants with experience educating fortune 500 executives and managers. Richard and Charles are also Scrum.org Professional Scrum Trainers, coaches, and software developers.\n",
-      "overview": "\nIn Scrum, a *Stakeholder* is anyone that is potentially affected by the outcome of the product development. Stakeholders can include users, customers, managers, sponsors, business analysts, subject matter experts, help desk, operations/support, project managers, auditors, and more. This course is intended for anyone in that cloud of interested parties who wants to learn more about Scrum, why Scrum works, what process and culture changes are involved, and a roadmap for implementing those changes. Regardless of where your organization is at in their Scrum adoption, this course provides the knowledge and opportunity to ask questions about your piece of that pathway to agility.\n",
-      "outcomes": "\n1. What is Scrum\n2. Why Scrum\n3. Myths and Misconceptions\n4. Working with the Scrum Team\n5. The Product Backlog\n6. Participating in the Scrum Events\n7. New Ways of Measuring Success\n8. Roadmap\n\n",
-      "assessment": null,
-      "objectives": null,
-      "prerequisites": null,
-      "audience": null,
-      "trainers": null,
-      "roadmap": null,
-      "syllabus": null,
-      "events": null
-    },
-    "BodyContent": "# Scrum for Stakeholders Training\n\n**Course Code:** S4S\n\n---\n\n## Overview\n\nThis instructor-led course introduces stakeholders to Scrum, its benefits, and how it transforms stakeholder engagement in product development. Participants will learn through presentations, discussions, and team-based activities.\n\n---\n\n## Target Audience\n\n- Product Managers\n- Users, Customers, and Sponsors\n- Managers and Project Managers\n- Business Analysts and Subject Matter Experts\n- Operations/Support and Help Desk Staff\n- Auditors and other interested stakeholders\n\n---\n\n## Learning Outcomes\n\n1. Understand what Scrum is and its core values.\n2. Recognize the benefits of Scrum over traditional approaches.\n3. Identify and address common myths and misconceptions about Scrum.\n4. Learn effective ways to interact with Scrum Teams.\n5. Understand the purpose and management of the Product Backlog.\n6. Participate effectively in Scrum events.\n7. Explore new ways of measuring success in agile environments.\n8. Develop a roadmap for implementing Scrum and continuous improvement.\n\n---\n\n## Course Topics\n\n- Scrum Overview and Values\n- Scrum Framework: Roles, Events, Artifacts\n- Agile vs. Waterfall Approaches\n- Economic Advantages of Scrum\n- Myths and Misconceptions about Scrum\n- Interacting with Product Owner, Development Team, and Scrum Master\n- Product Backlog Management and Stakeholder Feedback\n- Participating in Scrum Events (Sprint Planning, Backlog Refinement, Sprint Review)\n- Measuring Success: Metrics and Evidence\n- Roadmap for Change and Continuous Learning\n\n---\n\n## Delivery Format\n\n- Instructor-led\n- Traditional classroom or virtual sessions\n- Presentations, discussions, and team-based activities\n\n---\n\n## Proficiency Level\n\n- Beginner\n\n---\n\n## Course Length\n\n- 1 day\n\n---\n\n## Trainer/Designer\n\n- Richard Hundhausen (Accentient)\n- Charles Bradley (ScrumCrazy)\n\n---\n\n## Vendor\n\n- Accentient\n\n---\n",
-    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-scrum-for-stakeholders\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-scrum-for-stakeholders",
-    "ReferencePath": "capabilities/training-courses/accentient-scrum-for-stakeholders"
-  },
-  {
-    "FrontMatter": {
-      "title": "Managing Projects Using Azure Boards Training",
-      "short_title": "Managing Projects with Azure Boards",
-      "description": "Learn to plan, track, and manage agile software projects using Azure Boards, including backlog refinement, sprint planning, and team collaboration in a hands-on setting.",
-      "date": "2020-08-31",
-      "weight": 750.0,
-      "ResourceId": "81zAbGYQP0o",
-      "ResourceImport": false,
-      "ResourceType": "course",
-      "ResourceContentOrigin": "human",
-      "slug": "managing-projects-using-azure-boards-training",
-      "aliases": [
-        "/training-courses/managing-projects-using-azure-boards",
-        "/training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/",
-        "/A-MPAB/",
-        "/capabilities/training-courses/accentient/managing-projects-using-azure-boards-training/",
-        "/resources/81zAbGYQP0o"
-      ],
-      "aliasesArchive": [
-        "/training-courses/managing-projects-using-azure-boards",
-        "/training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/",
-        "/A-MPAB/",
-        "/capabilities/training-courses/accentient/managing-projects-using-azure-boards-training/"
-      ],
-      "concepts": [
-        "Tool"
-      ],
-      "categories": [
-        "Product Development"
-      ],
-      "tags": [
-        "Project Management",
-        "Product Backlog",
-        "Agile Planning",
-        "Agile Planning Tools",
-        "Azure Boards",
-        "Azure DevOps",
-        "Collaboration Tools",
-        "Operational Practices",
-        "Pragmatic Thinking",
-        "Product Delivery",
-        "Software Development"
-      ],
-      "card": {
-        "button": {
-          "content": ""
-        },
-        "title": "Managing Projects Using Azure Boards Training",
-        "content": "Azure DevOps Services provide a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software. Azure Boards enable an agile team to plan, track, and discuss work across the entire development effort. This one day course will demonstrate how an agile team can configure and use Azure Boards effectively. To maximize learning, students will work in teams, in a common team project, on a common case study."
-      },
-      "Watermarks": {
-        "description": "2025-07-29T15:01:32Z",
-        "short_title": "2025-07-29T15:01:33Z"
-      },
-      "creator": "Martin Hinshelwood",
-      "type": "course",
-      "url": "/capabilities/training-courses/azure-devops-training-courses/:slug/",
-      "course_topics": [
-        "Azure DevOps Training Courses"
-      ],
-      "course_vendors": [
-        "Accentient"
-      ],
-      "course_learning_experiences": [
-        "Traditional"
-      ],
-      "delivery_audiences": [
-        "Product managers"
-      ],
-      "preview": "naked-agility-Accentient-MPAB-1600x900-1.jpg",
-      "previewIcon": "A-MPAB.png",
-      "brandColour": null,
-      "code": "A-MPAB",
-      "course_proficiencies": [
-        "intermediate"
-      ],
-      "introduction": "\n### Course Designer\n This course was designed by Richard Hundhausen, Microsoft’s first Visual Studio ALM/DevOps MVP, Professional Scrum Trainer, and an experienced software developer.",
-      "overview": "This course is appropriate for all members of a software development team, especially those who are actively involved with creating and refining a product backlog as well as planning and executing work within a sprint. This course will also provide value for individuals outside the development team (managers, Scrum Masters, coaches, and other stakeholders) who want hands-on exposure to the capabilities of Azure Boards. Having some project management and software development experience, either as a team member or as a manager, is recommended. Experience with Agile software development, Scrum, and Visual Studio are also helpful, but not required. Attendees should read and be familiar with the [Scrum Guide](http://www.scrumguides.org/) prior to class.",
-      "outcomes": "\n1. Azure Boards\n2. The Product Backlog\n3. Planning and Managing a Sprint\n\n",
-      "assessment": null,
-      "objectives": "\n1. INTRODUCTION TO AZURE BOARDS\n    - Azure DevOps Services overview\n    - Azure Boards overview\n    - The team project\n    - Creating and configuring a team project\n    - Securing a team project\n    - Teams, profiles, and notifications\n    - Extending Azure Boards\n    - Creating and using a Wiki\n    - Hands-on\n2. THE PRODUCT BACKLOG\n    - Process overview\n    - Working with the backlog\n    - Product Backlog Item vs. Bug work item type\n    - Features and Epics backlogs\n    - Decomposing large items\n    - Kanban board\n    - Tagging, querying, and charting work items\n    - Hands-on\n3. PLANNING AND MANAGING A SPRINT\n    1. Setting up a new sprint\n    2. Forecasting work in the backlog\n    3. The sprint backlog\n    4. Creating a sprint plan\n    5. The Task work item type\n    6. The Test Case work item type\n    7. Working with the Task Board\n    8. Collaborating as a team\n    9. Daily activities\n    10. Implementing a definition of “Done”\n    11. Completing a sprint\n    12. Splitting an unfinished item\n    13. Hands-on\n\n",
-      "prerequisites": "Attendees should read and be familiar with the Scrum Guide prior to class.",
-      "audience": null,
-      "trainers": null,
-      "roadmap": null,
-      "syllabus": null,
-      "events": null
-    },
-    "BodyContent": "# Managing Projects Using Azure Boards Training\n\n**Course Code:** A-MPAB\n\n## Overview\nMaster Azure Boards in this one-day course, empowering your agile team to plan, track, and deliver software effectively through hands-on collaboration. This course demonstrates how an agile team can configure and use Azure Boards in a practical, team-based environment.\n\n## Target Audience\n- Product managers\n- Software development team members (especially those involved in backlog creation, refinement, and sprint planning/execution)\n- Managers, Scrum Masters, coaches, and other stakeholders seeking hands-on exposure to Azure Boards\n\n## Learning Outcomes\n1. Understand and utilize Azure Boards for agile project management.\n2. Effectively manage and refine the Product Backlog.\n3. Plan and manage sprints using Azure Boards.\n\n## Course Topics\n- Introduction to Azure Boards\n  - Azure DevOps Services overview\n  - Creating, configuring, and securing a team project\n  - Teams, profiles, notifications, and extending Azure Boards\n  - Using Wikis\n- The Product Backlog\n  - Backlog management and work item types\n  - Features, Epics, and decomposition\n  - Kanban board usage\n  - Tagging, querying, and charting work items\n- Planning and Managing a Sprint\n  - Sprint setup and forecasting\n  - Sprint backlog and planning\n  - Task and Test Case work item types\n  - Task Board usage and team collaboration\n  - Daily activities, definition of “Done,” sprint completion, and handling unfinished items\n\n## Delivery Format\n- Traditional (instructor-led, hands-on, team-based exercises)\n\n## Proficiency Level\n- Intermediate\n\n## Course Length\n- 1 day\n\n## Trainer/Designer\n- Richard Hundhausen (Microsoft’s first Visual Studio ALM/DevOps MVP, Professional Scrum Trainer)\n\n## Vendor\n- Accentient\n\n## Prerequisites\n- Attendees should read and be familiar with the [Scrum Guide](http://www.scrumguides.org/) prior to class.\n\n---\n\n**Certification:** Not specified\n",
-    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-managing-projects-using-azure-boards\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-managing-projects-using-azure-boards",
-    "ReferencePath": "capabilities/training-courses/accentient-managing-projects-using-azure-boards"
-  },
-  {
-    "FrontMatter": {
       "title": "Practicing Kanban Using Azure Boards",
       "short_title": "Practicing Kanban with Azure Boards",
       "description": "Learn Kanban principles and hands-on Azure Boards setup to visualize workflow, set WIP limits, track flow metrics, and improve team throughput and predictability.",
+      "tldr": "This one-day course teaches development teams how to apply Kanban principles using Azure Boards to improve workflow, throughput, and predictability. Participants will learn to configure boards, set up pull systems with WIP limits, and use flow-based metrics to identify and address bottlenecks. Consider this course if you want practical skills to optimize your team's delivery process with Kanban in Azure DevOps.",
       "date": "2020-08-31",
-      "weight": 1000.0,
+      "weight": 375.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.8,
+        "changefreq": "weekly"
+      },
       "ResourceId": "wHhDvrn-8PH",
       "ResourceImport": false,
       "ResourceType": "course",
@@ -662,7 +230,8 @@
       ],
       "categories": [
         "Product Development",
-        "Kanban"
+        "Kanban",
+        "Engineering Excellence"
       ],
       "tags": [
         "Definition of Workflow",
@@ -675,8 +244,7 @@
         "Metrics and Learning",
         "Operational Practices",
         "Pragmatic Thinking",
-        "Software Development",
-        "Throughput"
+        "Software Development"
       ],
       "card": {
         "button": {
@@ -687,7 +255,8 @@
       },
       "Watermarks": {
         "description": "2025-07-29T15:01:34Z",
-        "short_title": "2025-07-29T15:01:35Z"
+        "short_title": "2025-07-29T15:01:35Z",
+        "tldr": "2025-08-08T11:37:45Z"
       },
       "creator": "Martin Hinshelwood",
       "type": "course",
@@ -786,5 +355,494 @@
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentiant-practicing-kanban-using-azure-boards\\index.md",
     "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentiant-practicing-kanban-using-azure-boards",
     "ReferencePath": "capabilities/training-courses/accentiant-practicing-kanban-using-azure-boards"
+  },
+  {
+    "FrontMatter": {
+      "title": "Managing Projects Using Azure Boards Training",
+      "short_title": "Managing Projects with Azure Boards",
+      "description": "Learn to plan, track, and manage agile software projects using Azure Boards, including backlog refinement, sprint planning, and team collaboration in a hands-on setting.",
+      "tldr": "This one-day, hands-on course teaches development managers and teams how to use Azure Boards for agile project management, including backlog refinement and sprint planning. Participants will learn to configure Azure Boards, manage backlogs, and run sprints effectively in a team setting. Consider enrolling your team to improve project tracking and delivery using Azure Boards.",
+      "date": "2020-08-31",
+      "weight": 480.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.8,
+        "changefreq": "weekly"
+      },
+      "ResourceId": "81zAbGYQP0o",
+      "ResourceImport": false,
+      "ResourceType": "course",
+      "ResourceContentOrigin": "human",
+      "slug": "managing-projects-using-azure-boards-training",
+      "aliases": [
+        "/training-courses/managing-projects-using-azure-boards",
+        "/training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/",
+        "/A-MPAB/",
+        "/capabilities/training-courses/accentient/managing-projects-using-azure-boards-training/",
+        "/resources/81zAbGYQP0o"
+      ],
+      "aliasesArchive": [
+        "/training-courses/managing-projects-using-azure-boards",
+        "/training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/",
+        "/A-MPAB/",
+        "/capabilities/training-courses/accentient/managing-projects-using-azure-boards-training/"
+      ],
+      "concepts": [
+        "Tool"
+      ],
+      "categories": [
+        "Product Development"
+      ],
+      "tags": [
+        "Project Management",
+        "Product Backlog",
+        "Collaboration Tools",
+        "Agile Planning",
+        "Agile Planning Tools",
+        "Azure Boards",
+        "Azure DevOps",
+        "Operational Practices",
+        "Pragmatic Thinking",
+        "Product Delivery",
+        "Software Development"
+      ],
+      "card": {
+        "button": {
+          "content": ""
+        },
+        "title": "Managing Projects Using Azure Boards Training",
+        "content": "Azure DevOps Services provide a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software. Azure Boards enable an agile team to plan, track, and discuss work across the entire development effort. This one day course will demonstrate how an agile team can configure and use Azure Boards effectively. To maximize learning, students will work in teams, in a common team project, on a common case study."
+      },
+      "Watermarks": {
+        "description": "2025-07-29T15:01:32Z",
+        "short_title": "2025-07-29T15:01:33Z",
+        "tldr": "2025-08-08T11:40:10Z"
+      },
+      "creator": "Martin Hinshelwood",
+      "type": "course",
+      "url": "/capabilities/training-courses/azure-devops-training-courses/:slug/",
+      "course_topics": [
+        "Azure DevOps Training Courses"
+      ],
+      "course_vendors": [
+        "Accentient"
+      ],
+      "course_learning_experiences": [
+        "Traditional"
+      ],
+      "delivery_audiences": [
+        "Product managers"
+      ],
+      "preview": "naked-agility-Accentient-MPAB-1600x900-1.jpg",
+      "previewIcon": "A-MPAB.png",
+      "brandColour": null,
+      "code": "A-MPAB",
+      "course_proficiencies": [
+        "intermediate"
+      ],
+      "introduction": "\n### Course Designer\n This course was designed by Richard Hundhausen, Microsoft’s first Visual Studio ALM/DevOps MVP, Professional Scrum Trainer, and an experienced software developer.",
+      "overview": "This course is appropriate for all members of a software development team, especially those who are actively involved with creating and refining a product backlog as well as planning and executing work within a sprint. This course will also provide value for individuals outside the development team (managers, Scrum Masters, coaches, and other stakeholders) who want hands-on exposure to the capabilities of Azure Boards. Having some project management and software development experience, either as a team member or as a manager, is recommended. Experience with Agile software development, Scrum, and Visual Studio are also helpful, but not required. Attendees should read and be familiar with the [Scrum Guide](http://www.scrumguides.org/) prior to class.",
+      "outcomes": "\n1. Azure Boards\n2. The Product Backlog\n3. Planning and Managing a Sprint\n\n",
+      "assessment": null,
+      "objectives": "\n1. INTRODUCTION TO AZURE BOARDS\n    - Azure DevOps Services overview\n    - Azure Boards overview\n    - The team project\n    - Creating and configuring a team project\n    - Securing a team project\n    - Teams, profiles, and notifications\n    - Extending Azure Boards\n    - Creating and using a Wiki\n    - Hands-on\n2. THE PRODUCT BACKLOG\n    - Process overview\n    - Working with the backlog\n    - Product Backlog Item vs. Bug work item type\n    - Features and Epics backlogs\n    - Decomposing large items\n    - Kanban board\n    - Tagging, querying, and charting work items\n    - Hands-on\n3. PLANNING AND MANAGING A SPRINT\n    1. Setting up a new sprint\n    2. Forecasting work in the backlog\n    3. The sprint backlog\n    4. Creating a sprint plan\n    5. The Task work item type\n    6. The Test Case work item type\n    7. Working with the Task Board\n    8. Collaborating as a team\n    9. Daily activities\n    10. Implementing a definition of “Done”\n    11. Completing a sprint\n    12. Splitting an unfinished item\n    13. Hands-on\n\n",
+      "prerequisites": "Attendees should read and be familiar with the Scrum Guide prior to class.",
+      "audience": null,
+      "trainers": null,
+      "roadmap": null,
+      "syllabus": null,
+      "events": null
+    },
+    "BodyContent": "# Managing Projects Using Azure Boards Training\n\n**Course Code:** A-MPAB\n\n## Overview\nMaster Azure Boards in this one-day course, empowering your agile team to plan, track, and deliver software effectively through hands-on collaboration. This course demonstrates how an agile team can configure and use Azure Boards in a practical, team-based environment.\n\n## Target Audience\n- Product managers\n- Software development team members (especially those involved in backlog creation, refinement, and sprint planning/execution)\n- Managers, Scrum Masters, coaches, and other stakeholders seeking hands-on exposure to Azure Boards\n\n## Learning Outcomes\n1. Understand and utilize Azure Boards for agile project management.\n2. Effectively manage and refine the Product Backlog.\n3. Plan and manage sprints using Azure Boards.\n\n## Course Topics\n- Introduction to Azure Boards\n  - Azure DevOps Services overview\n  - Creating, configuring, and securing a team project\n  - Teams, profiles, notifications, and extending Azure Boards\n  - Using Wikis\n- The Product Backlog\n  - Backlog management and work item types\n  - Features, Epics, and decomposition\n  - Kanban board usage\n  - Tagging, querying, and charting work items\n- Planning and Managing a Sprint\n  - Sprint setup and forecasting\n  - Sprint backlog and planning\n  - Task and Test Case work item types\n  - Task Board usage and team collaboration\n  - Daily activities, definition of “Done,” sprint completion, and handling unfinished items\n\n## Delivery Format\n- Traditional (instructor-led, hands-on, team-based exercises)\n\n## Proficiency Level\n- Intermediate\n\n## Course Length\n- 1 day\n\n## Trainer/Designer\n- Richard Hundhausen (Microsoft’s first Visual Studio ALM/DevOps MVP, Professional Scrum Trainer)\n\n## Vendor\n- Accentient\n\n## Prerequisites\n- Attendees should read and be familiar with the [Scrum Guide](http://www.scrumguides.org/) prior to class.\n\n---\n\n**Certification:** Not specified\n",
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-managing-projects-using-azure-boards\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-managing-projects-using-azure-boards",
+    "ReferencePath": "capabilities/training-courses/accentient-managing-projects-using-azure-boards"
+  },
+  {
+    "FrontMatter": {
+      "title": "Scrum for Stakeholders Training",
+      "short_title": "Scrum Fundamentals for Stakeholders",
+      "description": "Introduces stakeholders to Scrum fundamentals, roles, and events, focusing on effective engagement, benefits over traditional methods, and practical participation skills.",
+      "tldr": "This one-day beginner course helps stakeholders understand Scrum, its benefits over traditional methods, and how to engage effectively with Scrum teams. Participants will learn Scrum fundamentals, how to interact with key roles, and how to measure success in agile environments. Consider enrolling your stakeholders to improve collaboration and support for Scrum adoption.",
+      "date": "2020-08-31",
+      "weight": 645.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.8,
+        "changefreq": "weekly"
+      },
+      "ResourceId": "33qyqKjBf3T",
+      "ResourceImport": false,
+      "ResourceType": "course",
+      "ResourceContentOrigin": "human",
+      "slug": "scrum-for-stakeholders-training",
+      "aliases": [
+        "/training-courses/scrum-for-stakeholders",
+        "/training-courses/scrum-for-stakeholders-training/",
+        "/capabilities/training-courses/accentient/scrum-for-stakeholders-training",
+        "/resources/33qyqKjBf3T"
+      ],
+      "aliasesArchive": [
+        "/training-courses/scrum-for-stakeholders",
+        "/training-courses/scrum-for-stakeholders-training/",
+        "/capabilities/training-courses/accentient/scrum-for-stakeholders-training"
+      ],
+      "concepts": [
+        "Practice"
+      ],
+      "categories": [
+        "Product Development",
+        "Scrum"
+      ],
+      "tags": [
+        "Project Management",
+        "Product Delivery",
+        "Agile Frameworks",
+        "Agile Product Management",
+        "Agile Transformation",
+        "Professional Scrum",
+        "Software Development"
+      ],
+      "card": {
+        "button": {
+          "content": ""
+        },
+        "title": "Scrum for Stakeholders Training",
+        "content": ""
+      },
+      "Watermarks": {
+        "description": "2025-07-29T15:01:30Z",
+        "short_title": "2025-07-29T15:01:31Z",
+        "tldr": "2025-08-08T11:40:11Z"
+      },
+      "creator": "Martin Hinshelwood",
+      "type": "course",
+      "url": null,
+      "course_topics": [
+        "Scrum Training Courses"
+      ],
+      "course_vendors": [
+        "Accentient"
+      ],
+      "course_learning_experiences": [
+        "Traditional"
+      ],
+      "delivery_audiences": [
+        "Product Managers"
+      ],
+      "preview": null,
+      "previewIcon": "A-S4S.png",
+      "brandColour": null,
+      "code": "S4S",
+      "course_proficiencies": [
+        "beginner"
+      ],
+      "introduction": "\n### Course Outline\n\nEach topic contains a blend of slides, discussions, and team-based activities. 1. What is Scrum ✓ Scrum overview ✓ Scrum values ✓ Scrum framework: roles, events, artifacts 5. The Product Backlog ✓ Purpose of the Product Backlog ✓ Definition of “Ready” ✓ Capturing Stakeholder feedback 2. Why Scrum ✓ Agile over waterfall ✓ Problems with targets: scope, schedule, cost ✓ Economic advantages of Scrum 6. Participating in the Scrum Events ✓ Participating in Sprint Planning ✓ Participating in Product Backlog Refinement ✓ Participating in Sprint Review 3. Myths and Misconceptions ✓ Requirements, documentation, analysis, and planning ✓ Managers, successful organizations, and culture ✓ Roles, PMO, and self-managing teams 7. New Ways of Measuring Success ✓ Direct evidence over indirect/subjective evidence ✓ Organizational metrics and foundational metrics ✓ Value, time to market, and ability to innovate 4. Interacting with the Scrum Team ✓ Interacting with the Product Owner ✓ Interacting with the Development Team ✓ Interacting with the Scrum Master 8. Roadmap ✓ Summary of what will be different going forward ✓ A Shu-Ha-Ri approach to implementing change ✓ A culture of continuous learning and improvement\n\n### Course Designers\n\nThis course was designed by Richard Hundhausen (Accentient) and Charles Bradley (ScrumCrazy). Richard and Charles are both management consultants with experience educating fortune 500 executives and managers. Richard and Charles are also Scrum.org Professional Scrum Trainers, coaches, and software developers.\n",
+      "overview": "\nIn Scrum, a *Stakeholder* is anyone that is potentially affected by the outcome of the product development. Stakeholders can include users, customers, managers, sponsors, business analysts, subject matter experts, help desk, operations/support, project managers, auditors, and more. This course is intended for anyone in that cloud of interested parties who wants to learn more about Scrum, why Scrum works, what process and culture changes are involved, and a roadmap for implementing those changes. Regardless of where your organization is at in their Scrum adoption, this course provides the knowledge and opportunity to ask questions about your piece of that pathway to agility.\n",
+      "outcomes": "\n1. What is Scrum\n2. Why Scrum\n3. Myths and Misconceptions\n4. Working with the Scrum Team\n5. The Product Backlog\n6. Participating in the Scrum Events\n7. New Ways of Measuring Success\n8. Roadmap\n\n",
+      "assessment": null,
+      "objectives": null,
+      "prerequisites": null,
+      "audience": null,
+      "trainers": null,
+      "roadmap": null,
+      "syllabus": null,
+      "events": null
+    },
+    "BodyContent": "# Scrum for Stakeholders Training\n\n**Course Code:** S4S\n\n---\n\n## Overview\n\nThis instructor-led course introduces stakeholders to Scrum, its benefits, and how it transforms stakeholder engagement in product development. Participants will learn through presentations, discussions, and team-based activities.\n\n---\n\n## Target Audience\n\n- Product Managers\n- Users, Customers, and Sponsors\n- Managers and Project Managers\n- Business Analysts and Subject Matter Experts\n- Operations/Support and Help Desk Staff\n- Auditors and other interested stakeholders\n\n---\n\n## Learning Outcomes\n\n1. Understand what Scrum is and its core values.\n2. Recognize the benefits of Scrum over traditional approaches.\n3. Identify and address common myths and misconceptions about Scrum.\n4. Learn effective ways to interact with Scrum Teams.\n5. Understand the purpose and management of the Product Backlog.\n6. Participate effectively in Scrum events.\n7. Explore new ways of measuring success in agile environments.\n8. Develop a roadmap for implementing Scrum and continuous improvement.\n\n---\n\n## Course Topics\n\n- Scrum Overview and Values\n- Scrum Framework: Roles, Events, Artifacts\n- Agile vs. Waterfall Approaches\n- Economic Advantages of Scrum\n- Myths and Misconceptions about Scrum\n- Interacting with Product Owner, Development Team, and Scrum Master\n- Product Backlog Management and Stakeholder Feedback\n- Participating in Scrum Events (Sprint Planning, Backlog Refinement, Sprint Review)\n- Measuring Success: Metrics and Evidence\n- Roadmap for Change and Continuous Learning\n\n---\n\n## Delivery Format\n\n- Instructor-led\n- Traditional classroom or virtual sessions\n- Presentations, discussions, and team-based activities\n\n---\n\n## Proficiency Level\n\n- Beginner\n\n---\n\n## Course Length\n\n- 1 day\n\n---\n\n## Trainer/Designer\n\n- Richard Hundhausen (Accentient)\n- Charles Bradley (ScrumCrazy)\n\n---\n\n## Vendor\n\n- Accentient\n\n---\n",
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-scrum-for-stakeholders\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-scrum-for-stakeholders",
+    "ReferencePath": "capabilities/training-courses/accentient-scrum-for-stakeholders"
+  },
+  {
+    "FrontMatter": {
+      "title": "Scrum for Product Owners Training",
+      "short_title": "Scrum for Product Owners Training",
+      "description": "Interactive course for Product Owners covering Scrum roles, backlog refinement, estimation, technical debt, and team collaboration through hands-on activities and discussions.",
+      "tldr": "This one-day, beginner-level course helps Product Owners and related roles understand and apply Scrum fundamentals, clarify common misconceptions, and improve backlog refinement and team collaboration. Participants will learn practical techniques for managing requirements, estimation, and technical debt, with a focus on delivering value and achieving high team performance. Consider enrolling team members who need a solid foundation in Scrum practices to enhance product delivery.",
+      "date": "2020-08-31",
+      "weight": 455.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.8,
+        "changefreq": "weekly"
+      },
+      "ResourceId": "qVBmvY9STVE",
+      "ResourceImport": false,
+      "ResourceType": "course",
+      "ResourceContentOrigin": "human",
+      "slug": "scrum-for-product-owners-training",
+      "aliases": [
+        "/training-courses/scrum-for-product-owners",
+        "/training-courses/scrum-for-product-owners-training/",
+        "/capabilities/training-courses/accentient/scrum-for-product-owners-training",
+        "/resources/qVBmvY9STVE"
+      ],
+      "aliasesArchive": [
+        "/training-courses/scrum-for-product-owners",
+        "/training-courses/scrum-for-product-owners-training/",
+        "/capabilities/training-courses/accentient/scrum-for-product-owners-training"
+      ],
+      "concepts": [
+        "Practice"
+      ],
+      "categories": [
+        "Product Development",
+        "Scrum",
+        "Product Management"
+      ],
+      "tags": [
+        "Product Backlog",
+        "Team Collaboration",
+        "Agile Frameworks",
+        "Agile Product Management",
+        "Backlog Refinement",
+        "Product Owner",
+        "Professional Scrum",
+        "Scrum Team",
+        "Software Development",
+        "Team Performance"
+      ],
+      "card": {
+        "button": {
+          "content": ""
+        },
+        "title": "Scrum for Product Owners Training",
+        "content": "\nThis instructor-led class is intended to help *Product Owners* be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.\n"
+      },
+      "Watermarks": {
+        "description": "2025-07-29T15:01:27Z",
+        "short_title": "2025-07-29T15:01:28Z",
+        "tldr": "2025-08-08T11:40:13Z"
+      },
+      "creator": "Martin Hinshelwood",
+      "type": "course",
+      "url": null,
+      "course_topics": [
+        "Scrum Training Courses"
+      ],
+      "course_vendors": [
+        "Accentient"
+      ],
+      "course_learning_experiences": [
+        "Traditional"
+      ],
+      "delivery_audiences": [
+        "Entrepreneurs",
+        "Product Managers"
+      ],
+      "preview": null,
+      "previewIcon": "A-S4PO.png",
+      "brandColour": null,
+      "code": "S4PO",
+      "course_proficiencies": [
+        "beginner"
+      ],
+      "introduction": "\n### Course Outline\n\nThe course includes several important topics for Product Owner. Each topic contains slides, discussions, and team-based activities. 1. The Scrum Framework ✓ The Scrum Gide ✓ The Scrum Framework ✓ Roles, events, artifacts ✓ Professional Scrum 4. Product Backlog Refinement (part 2) ✓ Agile estimation ✓ Practice: wall/affinity estimation ✓ Practice: planning poker ✓ Tracking and handling technical debt 2. Myths and Misconceptions ✓ Requirements and documentation ✓ Analysis and planning ✓ Culture and successful organizations 5. Getting “Done” ✓ Definition of “done” ✓ Expectations and limits of the Product Owner ✓ Undone work 3. Product Backlog Refinement (part 1) ✓ User stories ✓ Acceptance criteria ✓ Reducing waste in requirements ✓ Definition of “ready 6. Improving as a Team ✓ Working as a Scrum Team ✓ Common dysfunctions ✓ Collaborating with the Development Team ✓ Becoming a high-performance team\n\n### Course Designer\n\nThis course was designed by Richard Hundhausen, a Professional Scrum Trainer, co-creator of the Scaled Professional Scrum framework (the Nexus), and author of books on software development.\n",
+      "overview": "\nThis course is intended for existing or candidate Product Owners who want to focus on the expectations and activities related to their role. In addition, business analysts (BAs), subject matter experts (SMEs), or other stakeholders who interact with a Product Owner in order to deliver a product of the highest value are encouraged to attend. Typical attendees are those who have experience on a Scrum Team or who have recently attended Scrum training. Regardless of your current role or capabilities, this course is flexible enough to give you the knowledge that you require.\n",
+      "outcomes": "\n1. The Scrum Framework\n2. Myths and Misconceptions\n3. Product Backlog Refinement\n4. Product Backlog Refinement (Advanced)\n5. Getting “Done”\n6. Improving as a team\n\n",
+      "assessment": null,
+      "objectives": null,
+      "prerequisites": null,
+      "audience": null,
+      "trainers": null,
+      "roadmap": null,
+      "syllabus": null,
+      "events": null
+    },
+    "BodyContent": "# Scrum for Product Owners Training\n\n**Course Code:** S4PO\n\n---\n\n## Overview\n\nEnhance your effectiveness as a Product Owner in this interactive, instructor-led course. Learn key responsibilities, practices, and techniques to drive value within a Scrum Team through presentations, discussions, and hands-on activities.\n\n---\n\n## Target Audience\n\n- Product Owners (existing or aspiring)\n- Product Managers\n- Entrepreneurs\n- Business Analysts (BAs)\n- Subject Matter Experts (SMEs)\n- Stakeholders who interact with Product Owners\n\n---\n\n## Learning Outcomes\n\n1. Understand the Scrum Framework, including roles, events, and artifacts\n2. Identify and address common myths and misconceptions about Scrum\n3. Apply effective Product Backlog refinement techniques\n4. Practice advanced backlog refinement, including estimation and planning\n5. Define and achieve “Done” in Scrum, including managing technical debt\n6. Improve team collaboration and performance within the Scrum Team\n\n---\n\n## Course Topics\n\n- The Scrum Framework\n  - The Scrum Guide\n  - Roles, events, and artifacts\n  - Professional Scrum\n- Myths and Misconceptions\n  - Requirements and documentation\n  - Analysis and planning\n  - Culture and successful organizations\n- Product Backlog Refinement (Parts 1 & 2)\n  - User stories and acceptance criteria\n  - Reducing waste in requirements\n  - Definition of “Ready”\n  - Agile estimation (wall/affinity estimation, planning poker)\n  - Tracking and handling technical debt\n- Getting “Done”\n  - Definition of “Done”\n  - Expectations and limits of the Product Owner\n  - Managing undone work\n- Improving as a Team\n  - Working as a Scrum Team\n  - Common dysfunctions\n  - Collaborating with the Development Team\n  - Becoming a high-performance team\n\n---\n\n## Delivery Format\n\n- Instructor-led\n- Traditional (presentations, discussions, team-based activities)\n\n---\n\n## Proficiency Level\n\n- Beginner\n\n---\n\n## Course Length\n\n- 1 day\n\n---\n\n## Trainer/Designer\n\n- Richard Hundhausen (Professional Scrum Trainer, co-creator of the Scaled Professional Scrum framework)\n\n---\n\n## Vendor\n\n- Accentient\n\n---\n",
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-scrum-for-product-owners\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-scrum-for-product-owners",
+    "ReferencePath": "capabilities/training-courses/accentient-scrum-for-product-owners"
+  },
+  {
+    "FrontMatter": {
+      "title": "Scrum for Executives Training",
+      "short_title": "Scrum for Executives Training",
+      "description": "Instructor-led course for executives and managers to understand Scrum, its benefits, executive roles, Agile metrics, case studies, and adoption best practices.",
+      "tldr": "This one-day, beginner-level course gives executives and managers a clear understanding of Scrum, its benefits, and how it fits into their organization. Participants learn to identify key facts and misconceptions, evaluate relevant Agile metrics, and analyze real-world case studies. Consider this training to help guide effective Agile adoption and decision-making at the leadership level.",
+      "date": "2020-08-31",
+      "weight": 525.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.8,
+        "changefreq": "weekly"
+      },
+      "ResourceId": "AHschsDjL2E",
+      "ResourceImport": false,
+      "ResourceType": "course",
+      "ResourceContentOrigin": "human",
+      "slug": "scrum-for-executives-training",
+      "aliases": [
+        "/training-courses/scrum-for-executives",
+        "/training-courses/scrum-for-executives-training/",
+        "/capabilities/training-courses/accentient/scrum-for-executives",
+        "/resources/AHschsDjL2E"
+      ],
+      "aliasesArchive": [
+        "/training-courses/scrum-for-executives",
+        "/training-courses/scrum-for-executives-training/",
+        "/capabilities/training-courses/accentient/scrum-for-executives"
+      ],
+      "concepts": [
+        "Framework"
+      ],
+      "categories": [
+        "Product Development",
+        "Scrum"
+      ],
+      "tags": [
+        "Agile Frameworks",
+        "Agile Transformation",
+        "Organisational Agility",
+        "Project Management",
+        "Professional Scrum",
+        "Software Development"
+      ],
+      "card": {
+        "button": {
+          "content": ""
+        },
+        "title": "Scrum for Executives Training",
+        "content": "\n*What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions.\n"
+      },
+      "Watermarks": {
+        "description": "2025-07-29T15:01:25Z",
+        "short_title": "2025-07-29T15:01:26Z",
+        "tldr": "2025-08-08T11:40:16Z"
+      },
+      "creator": "Martin Hinshelwood",
+      "type": "course",
+      "url": null,
+      "course_topics": [
+        "Scrum Training Courses"
+      ],
+      "course_vendors": [
+        "Accentient"
+      ],
+      "course_learning_experiences": [
+        "Traditional"
+      ],
+      "delivery_audiences": [
+        "Entrepreneurs",
+        "Executives"
+      ],
+      "preview": null,
+      "previewIcon": "A-S4E.png",
+      "brandColour": null,
+      "code": "S4E",
+      "course_proficiencies": [
+        "beginner"
+      ],
+      "introduction": "\n### Course Outline\n\nThe course includes several important topics for Executives. Each topic contains slides, discussions, and team-based activities. 1. Why Scrum ✓ Agile over waterfall ✓ Agility Index over scope, schedule, cost ✓ Economic advantages of Scrum 5. Scrum Case Studies ✓ The FBI Sentinel case study ✓ Additional case studies and reading ✓ www.scrumcasestudies.com 2. Scrum: An Executive Summary ✓ Scrum overview ✓ The Scrum framework ✓ Assessing whether you are currently doing Scrum 6. Myths and Misconceptions ✓ Requirements, documentation, analysis, and planning ✓ Managers, successful organizations, and culture ✓ Roles, PMO, and self-managing teams 3. Top 10 Things You Should Know About Scrum ✓ Agile’s success over other ineffective models ✓ Scrum’s answer to risks, meetings, and urgencies ✓ Continuous learning strategies 7. The Scrum Principles ✓ Principles and complementary practices ✓ Teams vs. groups ✓ Rules vs. strategies 4. Agile Metrics for the Enterprise ✓ Direct evidence over indirect/subjective evidence ✓ Organizational metrics and foundational metrics ✓ Value, time to market, and ability to innovate 8. Where Scrum Fits and Where It Doesn’t ✓ Simple, complicated, complex, and chaotic work ✓ Scrum for non-complex and unplannable work ✓ Scrum for support and maintenance teams\n\n### Course Designers\n\nThis course was designed by Richard Hundhausen (Accentient) and Charles Bradley (ScrumCrazy). Richard and Charles are both management consultants with experience educating fortune 500 executives and managers. Richard and Charles are also Scrum.org Professional Scrum Trainers, coaches, and software developers.\n\n*This course consistently receives rave reviews from managers and executives. See for yourself!*\n",
+      "overview": "\nThis course is intended for executives, managers, and other leaders who want to learn more about Scrum, why it works, and a high-level approach to get started on their path to agility. Typical attendees are those who have never heard of Scrum but want their organization to become agile or those who may be evaluating Scrum, to see if it’s right for their organization. Other attendees may be from organizations that are already on their way to adopting Scrum. Regardless of your current capabilities, this course is flexible enough to give you the knowledge that you require.\n",
+      "outcomes": "\n1. Why Scrum?\n2. Scrum: An Executive Summary\n3. Top 10 Things You Should Know About Scrum\n4. Agile Metrics in the Enterprise\n5. Scrum Case Studies\n6. Myths and Misconceptions\n7. The Scrum Principles\n8. Where Scrum Fits and Where It Doesn’t\n\n",
+      "assessment": null,
+      "objectives": null,
+      "prerequisites": null,
+      "audience": null,
+      "trainers": null,
+      "roadmap": null,
+      "syllabus": null,
+      "events": null
+    },
+    "BodyContent": "# Scrum for Executives Training\n\n**Course Code:** S4E\n\n---\n\n## Overview\n\nThis instructor-led course provides executives, managers, and organizational leaders with a practical understanding of Scrum, its value, and the executive’s role in successful adoption.\n\n---\n\n## Target Audience\n\n- Executives\n- Managers\n- Entrepreneurs\n- Organizational leaders considering or undergoing Agile transformation\n\n---\n\n## Learning Outcomes\n\n1. Understand the purpose and benefits of Scrum.\n2. Summarize the Scrum framework from an executive perspective.\n3. Identify key facts and misconceptions about Scrum.\n4. Evaluate Agile metrics relevant to enterprise environments.\n5. Analyze real-world Scrum case studies.\n6. Recognize common myths and misconceptions about Scrum adoption.\n7. Distinguish Scrum principles and complementary practices.\n8. Assess where Scrum is appropriate within the organization.\n\n---\n\n## Course Topics\n\n- Why Scrum?\n- Scrum: An Executive Summary\n- Top 10 Things You Should Know About Scrum\n- Agile Metrics for the Enterprise\n- Scrum Case Studies\n- Myths and Misconceptions\n- The Scrum Principles\n- Where Scrum Fits and Where It Doesn’t\n\n---\n\n## Delivery Format\n\n- Instructor-led\n- Traditional classroom\n- Team-based activities and discussions\n\n---\n\n## Proficiency Level\n\n- Beginner\n\n---\n\n## Course Length\n\n- 1 day\n\n---\n\n## Trainer/Designer\n\n- Richard Hundhausen (Accentient)\n- Charles Bradley (ScrumCrazy)\n\n---\n\n## Vendor\n\n- Accentient\n\n---\n",
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-scrum-for-executives\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-scrum-for-executives",
+    "ReferencePath": "capabilities/training-courses/accentient-scrum-for-executives"
+  },
+  {
+    "FrontMatter": {
+      "title": "Mastering Azure Repos Training",
+      "short_title": "Mastering Azure Repos Training",
+      "description": "Learn to configure and use Azure Repos for Git version control, collaborate with branching and pull requests, and integrate with Visual Studio and GitHub in Azure DevOps.",
+      "tldr": "This one-day intermediate course teaches developers how to configure and use Azure Repos for Git version control, focusing on collaboration, code quality, and integration with Visual Studio tools. Participants will learn core Git workflows, advanced Azure Repos features, and best practices for team collaboration. Consider enrolling your team to improve version control skills and streamline development processes in Azure DevOps.",
+      "date": "2020-08-31",
+      "weight": 600.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.8,
+        "changefreq": "weekly"
+      },
+      "ResourceId": "d4jyFSYdS2v",
+      "ResourceImport": false,
+      "ResourceType": "course",
+      "ResourceContentOrigin": "human",
+      "slug": "mastering-azure-repos-training",
+      "aliases": [
+        "/training-courses/mastering-azure-repos",
+        "/training-courses/azure-devops-training-courses/mastering-azure-repos-training/",
+        "/capabilities/training-courses/accentient/mastering-azure-repos-training",
+        "/resources/d4jyFSYdS2v"
+      ],
+      "aliasesArchive": [
+        "/training-courses/mastering-azure-repos",
+        "/training-courses/azure-devops-training-courses/mastering-azure-repos-training/",
+        "/capabilities/training-courses/accentient/mastering-azure-repos-training"
+      ],
+      "concepts": [
+        "Tool"
+      ],
+      "categories": [
+        "Engineering Excellence"
+      ],
+      "tags": [
+        "Azure DevOps",
+        "Azure Repos",
+        "Install and Configuration",
+        "Modern Source Control",
+        "Software Development",
+        "Technical Excellence",
+        "Technical Mastery"
+      ],
+      "card": {
+        "button": {
+          "content": ""
+        },
+        "title": "Mastering Azure Repos Training",
+        "content": "Azure DevOps Services provide a set of cloud-hosted tools that software teams can use to quickly plan, develop, test, and deliver value in the form of working software. Azure Repos provide public or private Git repositories that enable better collaboration and cleaner code. To maximize learning, students will work in teams, in a common team project, on a common codebase."
+      },
+      "Watermarks": {
+        "description": "2025-07-29T15:01:22Z",
+        "short_title": "2025-07-29T15:01:23Z",
+        "tldr": "2025-08-08T11:40:18Z"
+      },
+      "creator": "Martin Hinshelwood",
+      "type": "course",
+      "url": null,
+      "course_topics": [
+        "Azure DevOps Training Courses"
+      ],
+      "course_vendors": [
+        "Accentient"
+      ],
+      "course_learning_experiences": [
+        "Traditional"
+      ],
+      "delivery_audiences": [
+        "Developers"
+      ],
+      "preview": null,
+      "previewIcon": "A-MARS.png",
+      "brandColour": null,
+      "code": "MARS",
+      "course_proficiencies": [
+        "intermediate"
+      ],
+      "introduction": "\n### Course content\n This course contains several modules, progressively explaining how to configure and use Azure Repos in basic and advanced ways in order to manage changes to code in a software development effort. 1. INTRODUCTION TO AZURE REPOS - Azure DevOps overview - Azure Repos overview - Public vs. private repos - Creating, configuring, and securing repos - Hands-on 2. GIT CONCEPTS - DVCS concepts and Git overview - Using Git from the command line - Creating/cloning a repository - Git commit and history - Basic Git workflows - Git for Windows - Hands-on 3. VISUAL STUDIO INTEGRATION - Visual Studio Integration - Connecting-to a repository - Basic Git workflows revisited - Associating comments and work items - Viewing commit history - Ignoring files when committing - Visual Studio Code Integration - Hands-on 4. WORKING WITH AZURE REPOS - Annotating changes (for blame/praise) - Tagging - Editing commit history - Checkout to a previos version - Reverting to a previous version - Resetting to a previous version - Stashing changes - Branching and merging - Rebasing - Pull requests - Branch policies - Code reviews using pull requests - Hands-on 5. MASTERING AZURE REPOS - Git Hooks and Git extensions - Code Search - GitHub integration - Forking - Workflows (Git Flow, GitHub Flow) - Virtual File System for Git (VFS) - Repository limits - Hands-on \n### Course Designer\n This course was designed by Richard Hundhausen, a Microsoft Development Technologies MVP, Professional Scrum Trainer, and an experienced software developer",
+      "overview": "This course is appropriate for all software developers who are using or considering using Azure Repos for Git version control. Having some experience with version control is recommended. Experience with Git, Visual Studio, and C# are also helpful, but not required.",
+      "outcomes": "\n1. Azure Repos\n2. Git Concepts\n3. Visual Studio Integration\n4. Working with Azure Repos\n5. Mastering Azure Repos\n\n",
+      "assessment": null,
+      "objectives": null,
+      "prerequisites": "None",
+      "audience": null,
+      "trainers": null,
+      "roadmap": null,
+      "syllabus": null,
+      "events": null
+    },
+    "BodyContent": "# Mastering Azure Repos Training\n\n**Course Code:** MARS\n\n## Overview\n\nThis course provides software developers with practical skills to configure and use Azure Repos for Git version control, enhancing collaboration and code quality within Azure DevOps Services.\n\n## Target Audience\n\n- Software developers using or considering Azure Repos for Git version control\n\n## Learning Outcomes\n\n1. Understand and configure Azure Repos\n2. Apply core Git concepts and workflows\n3. Integrate Git with Visual Studio and Visual Studio Code\n4. Collaborate using Azure Repos features (branching, pull requests, code reviews)\n5. Master advanced Azure Repos capabilities (Git hooks, GitHub integration, workflows)\n\n## Course Topics\n\n- Introduction to Azure Repos\n- Git Concepts and Workflows\n- Visual Studio and Visual Studio Code Integration\n- Working with Azure Repos (branching, merging, pull requests, code reviews)\n- Advanced Azure Repos (Git hooks, extensions, GitHub integration, workflows, VFS)\n\n## Delivery Format\n\n- Traditional (instructor-led, team-based hands-on exercises)\n\n## Proficiency Level\n\n- Intermediate\n\n## Course Length\n\n- 1 day\n\n## Trainer/Designer\n\n- Richard Hundhausen (Microsoft Development Technologies MVP, Professional Scrum Trainer)\n\n## Vendor\n\n- Accentient\n",
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-mastering-azure-repos\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\accentient-mastering-azure-repos",
+    "ReferencePath": "capabilities/training-courses/accentient-mastering-azure-repos"
   }
 ]

@@ -1,32 +1,35 @@
 ---
 title: Windows Live Alerts
 description: Windows Live Alerts notifies you of new blog posts, offering standard alert features with ads. Free to use and includes a link for your blog.
+date: 2006-12-20
+lastmod: 2006-12-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: kr2gucSHKSd
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 454
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2006-12-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: windows-live-alerts
 aliases:
-- /resources/kr2gucSHKSd
+  - /resources/kr2gucSHKSd
 aliasesArchive:
-- /blog/windows-live-alerts
-- /windows-live-alerts
-- /resources/blog/windows-live-alerts
-tags: []
+  - /blog/windows-live-alerts
+  - /windows-live-alerts
+  - /resources/blog/windows-live-alerts
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:29:41Z
-concepts: []
+ResourceImportId: 454
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Just got my Live alerts for this blog setup. If you sign up for it you should get notified whenever I post! Cool...

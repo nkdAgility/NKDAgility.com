@@ -2,34 +2,40 @@
 title: Scaled Professional Scrum with Nexus (SPS) with Certification
 short_title: Scaled Professional Scrum with Nexus (SPS)
 description: Learn to scale Scrum with the Nexus Framework, tackle cross-team challenges, and prepare for SPS certification through hands-on workshops and collaborative exercises.
+tldr: This advanced, hands-on course teaches development managers and teams how to scale Scrum effectively using the Nexus Framework, focusing on organizing multiple teams, managing dependencies, and overcoming cross-team challenges. Participants gain practical experience through interactive workshops and case studies, and the course includes a free attempt at the Scaled Professional Scrum (SPS) certification. Consider enrolling if you need to coordinate large Agile projects and want to improve team productivity and integration.
 date: 2017-01-01
 weight: 500
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: -U-z8x8yTw9
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: scaled-professional-scrum-with-nexus-sps-with-certification
 aliases:
-- /resources/-U-z8x8yTw9
+  - /resources/-U-z8x8yTw9
 aliasesArchive:
-- /training-courses/scrum-at-scale-workshop
-- /training-courses/scaling-professional-scrum
-- /training-courses/scaled-professional-scrum-sps
-- /training-courses/scaled-professional-scrum-sps-with-nexus
-- /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
-- /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
-- /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
+  - /training-courses/scrum-at-scale-workshop
+  - /training-courses/scaling-professional-scrum
+  - /training-courses/scaled-professional-scrum-sps
+  - /training-courses/scaled-professional-scrum-sps-with-nexus
+  - /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
+  - /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
+  - /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
 concepts:
-- Framework
+  - Framework
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Scaling
-- Agile Frameworks
-- Large Scale Agility
-- Professional Scrum
-- Software Development
+  - Scaling
+  - Team Collaboration
+  - Agile Frameworks
+  - Large Scale Agility
+  - Professional Scrum
+  - Software Development
 card:
   button:
     content: ""
@@ -38,21 +44,22 @@ card:
 Watermarks:
   description: 2025-07-29T15:01:58Z
   short_title: 2025-07-29T15:01:59Z
+  tldr: 2025-08-08T11:40:36Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course_vendors:
-- Scrumorg
+  - Scrumorg
 course_learning_experiences:
-- Immersive
+  - Immersive
 delivery_audiences:
-- Product Owners
-- Product Managers
-- Scrum Masters
-- Lean Agile Practitioners
-- Teams
+  - Product Owners
+  - Product Managers
+  - Scrum Masters
+  - Lean Agile Practitioners
+  - Teams
 preview: naked-agility-Professional-Scrum-SPS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-SPS-400x.png
 brandColour: 
@@ -60,7 +67,7 @@ code: SPS
 course_length: 16
 course_sessions: 8
 course_proficiencies:
-- advanced
+  - advanced
 introduction: |2-
 
   ### What Scaled Professional Scrum Students Say

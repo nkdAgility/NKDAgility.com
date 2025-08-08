@@ -2,34 +2,40 @@
 title: Applying Metrics for Predictability
 short_title: Applying Metrics for Predictability
 description: Learn to use agile metrics, flow analytics, and Monte Carlo simulation to improve project predictability, risk management, and data-driven decisions in real-world projects.
+tldr: This 8-week course teaches development managers how to use agile metrics and forecasting tools like flow metrics and Monte Carlo simulation to improve project predictability and risk management. Participants will learn to apply these techniques directly to their projects for immediate results and validate their understanding through assessments. Consider enrolling to strengthen your team's data-driven decision-making and delivery reliability.
 date: 2024-01-12
 weight: 500
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: dnZMM8p0lC4
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: applying-metrics-for-predictability
 aliases:
-- /training-courses/applying-metrics-for-predictability/
-- /training-courses/kanban-training-courses/applying-metrics-for-predictability/
-- /capabilities/training-courses/prokanban.org/prokanban-applying-metrics-for-predictability/
-- /resources/dnZMM8p0lC4
+  - /training-courses/applying-metrics-for-predictability/
+  - /training-courses/kanban-training-courses/applying-metrics-for-predictability/
+  - /capabilities/training-courses/prokanban.org/prokanban-applying-metrics-for-predictability/
+  - /resources/dnZMM8p0lC4
 aliasesArchive:
-- /training-courses/applying-metrics-for-predictability/
-- /training-courses/kanban-training-courses/applying-metrics-for-predictability/
-- /capabilities/training-courses/prokanban.org/prokanban-applying-metrics-for-predictability/
+  - /training-courses/applying-metrics-for-predictability/
+  - /training-courses/kanban-training-courses/applying-metrics-for-predictability/
+  - /capabilities/training-courses/prokanban.org/prokanban-applying-metrics-for-predictability/
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Metrics and Learning
-- Agile Planning
-- Decision Making
-- Flow Efficiency
-- Forecasting
-- Operational Practices
-- Pragmatic Thinking
-- Throughput
+  - Team Performance
+  - Metrics and Learning
+  - Agile Planning
+  - Decision Making
+  - Flow Efficiency
+  - Forecasting
+  - Operational Practices
+  - Pragmatic Thinking
+  - Throughput
 card:
   button:
     content: ""
@@ -38,25 +44,26 @@ card:
 Watermarks:
   description: 2025-07-29T15:00:57Z
   short_title: 2025-07-29T15:00:59Z
+  tldr: 2025-08-08T11:37:24Z
 creator: Martin Hinshelwood
 type: course
 url: /training-courses/kanban-training-courses/:slug/
 course_topics:
-- Kanban Training Courses
+  - Kanban Training Courses
 course_vendors:
-- ProKanbanorg
+  - ProKanbanorg
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- Teams
-- Product Owners
-- Lean Agile Practitioners
+  - Teams
+  - Product Owners
+  - Lean Agile Practitioners
 preview: NKDAgility-Courses-AMP-16x9-1.jpg
 previewIcon: Course-logo-AMP@1x.png
 brandColour: 
 code: AMP
 course_proficiencies:
-- intermediate
+  - intermediate
 introduction: 
 overview: The course is intended for executives, managers, team members, and anyone involved in Agile or Lean project management, aiming to enhance predictability and data-driven decision-making.
 outcomes: |2+

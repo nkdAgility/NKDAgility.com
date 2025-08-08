@@ -1,32 +1,35 @@
 ---
 title: Moderating for Community-Credit
 description: Describes volunteering as a moderator for Community-Credit, reviewing user submissions, supporting an honest community, and earning credits and prizes through participation.
+date: 2007-09-13
+lastmod: 2007-09-13
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ChsE6EP6OC4
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 313
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-09-13
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: moderating-for-community-credit
 aliases:
-- /resources/ChsE6EP6OC4
+  - /resources/ChsE6EP6OC4
 aliasesArchive:
-- /blog/moderating-for-community-credit
-- /moderating-for-community-credit
-- /resources/blog/moderating-for-community-credit
+  - /blog/moderating-for-community-credit
+  - /moderating-for-community-credit
+  - /resources/blog/moderating-for-community-credit
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:10Z
-concepts: []
+ResourceImportId: 313
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Well, today I started a new part time job that I do not get paid for, but put just as much professional interest into as may main job.

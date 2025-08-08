@@ -1,32 +1,35 @@
 ---
 title: Team Foundation Server SharePoint Integration
 description: Explores the need for deeper integration between Team Foundation Server and SharePoint, including work item visibility, workflow support, and unified project management.
+date: 2007-10-16
+lastmod: 2007-10-16
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Dn2_7F_mhyC
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 300
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-10-16
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: team-foundation-server-sharepoint-integration
 aliases:
-- /resources/Dn2_7F_mhyC
+  - /resources/Dn2_7F_mhyC
 aliasesArchive:
-- /blog/team-foundation-server-sharepoint-integration
-- /team-foundation-server-sharepoint-integration
-- /resources/blog/team-foundation-server-sharepoint-integration
-tags: []
+  - /blog/team-foundation-server-sharepoint-integration
+  - /team-foundation-server-sharepoint-integration
+  - /resources/blog/team-foundation-server-sharepoint-integration
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:51Z
-concepts: []
+ResourceImportId: 300
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 Why is there not more integration found in Team Foundation Server "out-of-the-box" with SharePoint 2007. It seams obvious to me that you would want to show your Work Items in SharePoint and integrate SharePoint Workflow into Team Foundation Server. It only make sense to be able to initially create a SharePoint Work item that is a request from a user into SharePoint, have some sort of approval workflow before assigning it to a project within [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server").

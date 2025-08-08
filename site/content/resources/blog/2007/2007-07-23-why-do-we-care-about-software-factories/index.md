@@ -1,34 +1,37 @@
 ---
 title: Why do we care about software factories?
 description: Explains the benefits of software factories, how they improve software development, and highlights resources that make the concept easier to understand and adopt.
+date: 2007-07-23
+lastmod: 2007-07-23
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: cdrcglA4d9D
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 362
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-23
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: why-do-we-care-about-software-factories
 aliases:
-- /resources/cdrcglA4d9D
+  - /resources/cdrcglA4d9D
 aliasesArchive:
-- /blog/why-do-we-care-about-software-factories
-- /why-do-we-care-about-software-factories
-- /why-do-we-care-about-software-factories-
-- /blog/why-do-we-care-about-software-factories-
-- /resources/blog/why-do-we-care-about-software-factories
-tags: []
+  - /blog/why-do-we-care-about-software-factories
+  - /why-do-we-care-about-software-factories
+  - /why-do-we-care-about-software-factories-
+  - /blog/why-do-we-care-about-software-factories-
+  - /resources/blog/why-do-we-care-about-software-factories
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:24Z
-concepts: []
+ResourceImportId: 362
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I have just read a good [post](http://blogs.msdn.com/viking/archive/2007/07/20/software-factories-illustrated-storyboard.aspx "Software Factories Illustrated StoryBoard") by [Erik Gunvaldson](http://blogs.msdn.com/viking "Viking quest") from Microsoft. In it he explains why we want to use software factories and he provides a nifty storyboard to get across the ideas.

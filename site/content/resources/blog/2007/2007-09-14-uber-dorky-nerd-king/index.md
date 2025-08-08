@@ -1,32 +1,35 @@
 ---
 title: Uber-Dorky Nerd King
 description: A light-hearted reflection on taking an online nerd test, sharing results, and playfully questioning what it means to be a nerd in today's digital culture.
+date: 2007-09-14
+lastmod: 2007-09-14
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Ujdt5B-Adqp
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 312
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-09-14
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: uber-dorky-nerd-king
 aliases:
-- /resources/Ujdt5B-Adqp
+  - /resources/Ujdt5B-Adqp
 aliasesArchive:
-- /blog/uber-dorky-nerd-king
-- /uber-dorky-nerd-king
-- /resources/blog/uber-dorky-nerd-king
+  - /blog/uber-dorky-nerd-king
+  - /uber-dorky-nerd-king
+  - /resources/blog/uber-dorky-nerd-king
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:08Z
-concepts: []
+ResourceImportId: 312
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I spotted this [post](http://geekswithblogs.net/sbargelt/archive/2007/09/13/115331.aspx "Uber-Dorky Nerd King") by [Steve Bargelt](http://geekswithblogs.net/sbargelt/), and I just could not help myself...

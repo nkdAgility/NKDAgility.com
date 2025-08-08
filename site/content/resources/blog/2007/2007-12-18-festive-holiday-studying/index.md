@@ -1,32 +1,35 @@
 ---
 title: Festive holiday studying
 description: A personal update on holiday plans, family time, Xbox gaming, and learning WPF for .NET development, with reflections on SharePoint and festive online activities.
+date: 2007-12-18
+lastmod: 2007-12-18
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: tUIp9FEu7QH
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 273
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-12-18
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: festive-holiday-studying
 aliases:
-- /resources/tUIp9FEu7QH
+  - /resources/tUIp9FEu7QH
 aliasesArchive:
-- /blog/festive-holiday-studying
-- /festive-holiday-studying
-- /resources/blog/festive-holiday-studying
-tags: []
+  - /blog/festive-holiday-studying
+  - /festive-holiday-studying
+  - /resources/blog/festive-holiday-studying
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-xbox-360-link-3-3.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:11Z
-concepts: []
+ResourceImportId: 273
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-xbox-360-link-3-3.png
 
 ---
 [![020](images/Festiveholidaystudying_12D57-020_thumb-1-1.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Festiveholidaystudying_12D57-020.jpg)

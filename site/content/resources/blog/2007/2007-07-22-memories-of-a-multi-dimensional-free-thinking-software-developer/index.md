@@ -1,32 +1,35 @@
 ---
 title: Memories of a multi-dimensional free thinking software developer
 description: Explores how neurodiversity, particularly dyslexia, influences software development skills, offering insights and resources for developers and employers.
+date: 2007-07-22
+lastmod: 2007-07-22
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 4HQ5Qef6qsH
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 365
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-22
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: memories-of-a-multi-dimensional-free-thinking-software-developer
 aliases:
-- /resources/4HQ5Qef6qsH
+  - /resources/4HQ5Qef6qsH
 aliasesArchive:
-- /blog/memories-of-a-multi-dimensional-free-thinking-software-developer
-- /memories-of-a-multi-dimensional-free-thinking-software-developer
-- /resources/blog/memories-of-a-multi-dimensional-free-thinking-software-developer
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/memories-of-a-multi-dimensional-free-thinking-software-developer
+  - /memories-of-a-multi-dimensional-free-thinking-software-developer
+  - /resources/blog/memories-of-a-multi-dimensional-free-thinking-software-developer
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:32Z
-concepts: []
+ResourceImportId: 365
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I thought I should blog about my gift and how it has impacted my skills as a software developer. I want to do this for a number of reasons:

@@ -1,34 +1,37 @@
 ---
 title: SharePoint Content Request | What would you like to see?
 description: Share your ideas for new SharePoint features, including better Team Foundation Server integration for both technical and non-technical users, and expanded TFS use cases.
+date: 2007-07-23
+lastmod: 2007-07-23
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: pyKCdDNWdPB
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 361
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-23
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: sharepoint-content-request-what-would-you-like-to-see
 aliases:
-- /resources/pyKCdDNWdPB
+  - /resources/pyKCdDNWdPB
 aliasesArchive:
-- /blog/sharepoint-content-request-what-would-you-like-to-see
-- /sharepoint-content-request-what-would-you-like-to-see
-- /sharepoint-content-request
-- /sharepoint-content-request---what-would-you-like-to-see-
-- /blog/sharepoint-content-request---what-would-you-like-to-see-
-- /resources/blog/sharepoint-content-request-what-would-you-like-to-see
+  - /blog/sharepoint-content-request-what-would-you-like-to-see
+  - /sharepoint-content-request-what-would-you-like-to-see
+  - /sharepoint-content-request
+  - /sharepoint-content-request---what-would-you-like-to-see-
+  - /blog/sharepoint-content-request---what-would-you-like-to-see-
+  - /resources/blog/sharepoint-content-request-what-would-you-like-to-see
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:27Z
-concepts: []
+ResourceImportId: 361
+creator: Martin Hinshelwood
+resourceTypes: blog
 
 ---
 what-would-you-like-to-see-

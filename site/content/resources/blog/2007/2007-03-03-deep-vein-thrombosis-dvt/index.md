@@ -1,36 +1,38 @@
 ---
 title: Deep vein thrombosis (DVT)
 description: Highlights the risks of deep vein thrombosis, genetic factors like Factor V Leiden, and calls for increased awareness, testing, and early detection to prevent deaths.
+date: 2007-03-03
+lastmod: 2007-03-03
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: _7Yp1RZb_8I
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 433
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-03-03
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: deep-vein-thrombosis-dvt
 aliases:
-- /resources/blog/deep-vein-thrombosis-dvt
-- /resources/_7Yp1RZb_8I
+  - /resources/_7Yp1RZb_8I
 aliasesArchive:
-- /blog/deep-vein-thrombosis-dvt
-- /deep-vein-thrombosis-dvt
-- /deep-vein-thrombosis-(dvt)
-- /blog/deep-vein-thrombosis-(dvt)
-- /resources/blog/deep-vein-thrombosis-dvt
+  - /blog/deep-vein-thrombosis-dvt
+  - /deep-vein-thrombosis-dvt
+  - /deep-vein-thrombosis-(dvt)
+  - /blog/deep-vein-thrombosis-(dvt)
+  - /resources/blog/deep-vein-thrombosis-dvt
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags:
-- Miscellaneous
+  - Miscellaneous
 Watermarks:
   description: 2025-05-13T16:29:12Z
-concepts: []
+ResourceImportId: 433
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 As most of my friends know a very good friend of mine, Katie McPherson died 4 years ago of DVT. I would like to share a letter I received from her brother, another very good friend of mine, and I would ask you to sign the petition.

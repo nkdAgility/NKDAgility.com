@@ -1,32 +1,35 @@
 ---
 title: Team System Web Access finally released
 description: Team System Web Access, the successor to TeamPlain, is now available, offering improved stability and features for TFS users, but with some known link and access issues.
+date: 2007-07-31
+lastmod: 2007-07-31
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 8tIDL2NtDSj
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 354
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-31
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: team-system-web-access-finally-released
 aliases:
-- /resources/8tIDL2NtDSj
+  - /resources/8tIDL2NtDSj
 aliasesArchive:
-- /blog/team-system-web-access-finally-released
-- /team-system-web-access-finally-released
-- /resources/blog/team-system-web-access-finally-released
-tags: []
-preview: metro-visual-studio-2005-128-link-3-3.png
+  - /blog/team-system-web-access-finally-released
+  - /team-system-web-access-finally-released
+  - /resources/blog/team-system-web-access-finally-released
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:10Z
-concepts: []
+ResourceImportId: 354
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-3-3.png
 
 ---
 [Brian Harry](http://blogs.msdn.com/bharry/) has just [announced](http://blogs.msdn.com/bharry/archive/2007/07/30/team-system-web-access-power-tool-available.aspx "Team System Web Access Power Tool Available") the release of Team System Web Access the next incarnation of DevBiz's TeamPlain product.

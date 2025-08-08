@@ -1,35 +1,37 @@
 ---
 title: 'Event: MSDN: SharePoint for Developers (Edinburgh)'
 description: Insights from an Edinburgh MSDN event covering SharePoint 2007 development, workflows in Visual Studio 2008, enterprise search, and InfoPath integration for forms.
+date: 2007-11-23
+lastmod: 2007-11-23
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Z3OPR0BDfsD
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 288
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-11-23
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: event-msdn-sharepoint-for-developers-edinburgh
 aliases:
-- /resources/blog/event-msdn-sharepoint-for-developers-edinburgh
-- /resources/Z3OPR0BDfsD
+  - /resources/Z3OPR0BDfsD
 aliasesArchive:
-- /blog/event-msdn-sharepoint-for-developers-edinburgh
-- /event-msdn-sharepoint-for-developers-edinburgh
-- /event--msdn--sharepoint-for-developers-(edinburgh)
-- /blog/event--msdn--sharepoint-for-developers-(edinburgh)
-- /resources/blog/event-msdn-sharepoint-for-developers-edinburgh
-tags: []
+  - /blog/event-msdn-sharepoint-for-developers-edinburgh
+  - /event-msdn-sharepoint-for-developers-edinburgh
+  - /event--msdn--sharepoint-for-developers-(edinburgh)
+  - /blog/event--msdn--sharepoint-for-developers-(edinburgh)
+  - /resources/blog/event-msdn-sharepoint-for-developers-edinburgh
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-2-2.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:35Z
-concepts: []
+ResourceImportId: 288
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-2-2.png
 
 ---
 Better late than never, but I [attended](http://blog.hinshelwood.com/archive/2007/11/20/VS2008-Update.aspx) a [MSDN event](https://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-GB&eventid=1032355353) on Tuesday night in Edinburgh. Although I eagerly signed up for it, I did not expect to learn a lot:

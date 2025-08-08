@@ -1,33 +1,36 @@
 ---
 title: Creating a managed service factory
 description: Explains how to build a managed service factory to access and manage local or remote services across multiple servers, supporting flexible service discovery and integration.
+date: 2007-06-19
+lastmod: 2007-06-19
+weight: 790
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: dfhN35mUMDl
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 377
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-06-19
-weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: creating-a-managed-service-factory
 aliases:
-- /resources/dfhN35mUMDl
+  - /resources/dfhN35mUMDl
 aliasesArchive:
-- /blog/creating-a-managed-service-factory
-- /creating-a-managed-service-factory
-- /resources/blog/creating-a-managed-service-factory
-tags:
-- Software Development
+  - /blog/creating-a-managed-service-factory
+  - /creating-a-managed-service-factory
+  - /resources/blog/creating-a-managed-service-factory
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-merilllynch-128-link-3-3.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T16:27:50Z
-concepts: []
+ResourceImportId: 377
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-merilllynch-128-link-3-3.png
 
 ---
 I had a plan. I wanted to create a way of accessing services in multiple locations from any location. Each location could have one or more services which may be duplications or different. That is a really abstract way of thing about it, but I eventually came up with a solution.

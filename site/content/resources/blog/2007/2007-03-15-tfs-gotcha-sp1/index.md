@@ -1,38 +1,40 @@
 ---
 title: TFS Gotcha (SP1)
 description: Step-by-step guide to resolving common installation and repair issues with Team Foundation Server SP1 on data and application tiers, including rollback options.
+date: 2007-03-15
+lastmod: 2007-03-15
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ZlJuM9fduW9
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 428
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-03-15
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-gotcha-sp1
 aliases:
-- /resources/blog/tfs-gotcha-sp1
-- /resources/ZlJuM9fduW9
+  - /resources/ZlJuM9fduW9
 aliasesArchive:
-- /blog/tfs-gotcha-sp1
-- /tfs-gotcha-sp1
-- /tfs-gotcha-(sp1)
-- /blog/tfs-gotcha-(sp1)
-- /resources/blog/tfs-gotcha-sp1
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/tfs-gotcha-sp1
+  - /tfs-gotcha-sp1
+  - /tfs-gotcha-(sp1)
+  - /blog/tfs-gotcha-(sp1)
+  - /resources/blog/tfs-gotcha-sp1
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Install and Configuration
-- Troubleshooting
-- System Configuration
+  - Install and Configuration
+  - Troubleshooting
+  - System Configuration
 Watermarks:
   description: 2025-05-13T16:29:09Z
-concepts: []
+ResourceImportId: 428
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 If you are out there and you have installed SP1 for Team Foundation Server you probably went through as much pain as I did...

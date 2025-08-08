@@ -2,33 +2,40 @@
 title: Professional Scrum with Kanban (PSK) with Certification
 short_title: Professional Scrum with Kanban (PSK)
 description: Advanced 2-day course for experienced Scrum teams on integrating Kanban practices into Scrum to boost flow, transparency, and effectiveness; includes PSK certification.
+tldr: This advanced two-day course teaches experienced Scrum teams how to integrate Kanban practices into Scrum to boost effectiveness, transparency, and workflow without changing the core Scrum framework. Participants gain hands-on experience, learn to improve flow and visibility, and receive a free attempt at the PSK I certification. Consider this course if you want to enhance your team's delivery and transparency using proven Kanban techniques within Scrum.
 date: 2018-02-26
-weight: 750
+weight: 425
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: 9TCIWaWs_mz
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: professional-scrum-with-kanban-psk-with-certification
 aliases:
-- /resources/9TCIWaWs_mz
+  - /resources/9TCIWaWs_mz
 aliasesArchive:
-- /training-courses/professional-scrum-with-kanban-psk
-- /training-courses/professional-scrum-with-kanban-psk-training
-- /training-courses/professional-scrum-with-kanban-training-with-certification
-- /training-courses/scrum-training-courses/professional-scrum-with-kanban-psk-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-with-kanban-psk-with-certification/
+  - /training-courses/professional-scrum-with-kanban-psk
+  - /training-courses/professional-scrum-with-kanban-psk-training
+  - /training-courses/professional-scrum-with-kanban-training-with-certification
+  - /training-courses/scrum-training-courses/professional-scrum-with-kanban-psk-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-with-kanban-psk-with-certification/
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
+  - Product Development
+  - Scrum
+  - Kanban
 tags:
-- Agile Frameworks
-- Agile Transformation
-- Flow Efficiency
-- Operational Practices
-- Professional Scrum
-- Software Development
-- Transparency
+  - Agile Frameworks
+  - Agile Transformation
+  - Flow Efficiency
+  - Operational Practices
+  - Professional Scrum
+  - Software Development
+  - Transparency
 card:
   button:
     content: ""
@@ -37,27 +44,28 @@ card:
 Watermarks:
   description: 2025-07-29T15:01:49Z
   short_title: 2025-07-29T15:01:50Z
+  tldr: 2025-08-08T11:40:28Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course_vendors:
-- Scrumorg
+  - Scrumorg
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- Product Owners
-- Product Managers
-- Scrum Masters
-- Lean Agile Practitioners
-- Teams
+  - Product Owners
+  - Product Managers
+  - Scrum Masters
+  - Lean Agile Practitioners
+  - Teams
 preview: naked-agility-Professional-Scrum-PSK-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSK-400x.png
 brandColour: 
 code: PSK
 course_proficiencies:
-- advanced
+  - advanced
 introduction: |2-
 
   ### What Professional Scrum with Kanban Students Say

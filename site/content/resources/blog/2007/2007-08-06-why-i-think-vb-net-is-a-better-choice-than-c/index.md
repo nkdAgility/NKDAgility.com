@@ -1,36 +1,39 @@
 ---
 title: Why I think VB.NET is a better choice than C#
 description: Compares VB.NET and C#, highlighting VB.NET’s advantages in readability, accessibility, case insensitivity, and real-time code checking, especially for dyslexic users.
+date: 2007-08-06
+lastmod: 2007-08-06
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 1Vt6-eiRtjI
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 340
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-06
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: why-i-think-vb-net-is-a-better-choice-than-c
 aliases:
-- /resources/blog/why-i-think-vb.net-is-a-better-choice-than-c
-- /resources/1Vt6-eiRtjI
+  - /resources/blog/why-i-think-vb.net-is-a-better-choice-than-c
+  - /resources/1Vt6-eiRtjI
 aliasesArchive:
-- /blog/why-i-think-vb-net-is-a-better-choice-than-c
-- /why-i-think-vb-net-is-a-better-choice-than-c
-- /why-i-think-vb-net-is-a-better-choice-than-c-
-- /blog/why-i-think-vb-net-is-a-better-choice-than-c-
-- /resources/blog/why-i-think-vb-net-is-a-better-choice-than-c
-- /resources/blog/why-i-think-vb.net-is-a-better-choice-than-c
-tags: []
+  - /blog/why-i-think-vb-net-is-a-better-choice-than-c
+  - /why-i-think-vb-net-is-a-better-choice-than-c
+  - /why-i-think-vb-net-is-a-better-choice-than-c-
+  - /blog/why-i-think-vb-net-is-a-better-choice-than-c-
+  - /resources/blog/why-i-think-vb-net-is-a-better-choice-than-c
+  - /resources/blog/why-i-think-vb.net-is-a-better-choice-than-c
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:53Z
-concepts: []
+ResourceImportId: 340
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 The reasons I think that VB.NET is better than C# are many, but I will try to put some of them down in a coherent manor unlike the usual C# developer that can only come up with "[vb is a language for mediocre programmers...anyway looks ugly and smells ugly..](http://blog.hinshelwood.com/archive/2007/08/05/114415.aspx#140605)" (Hmm, he must have thought long and hard to come up with that).

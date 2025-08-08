@@ -2,75 +2,81 @@
 title: Professional Scrum Master (PSM) Course with Certification
 short_title: Professional Scrum Master
 description: Learn Scrum principles, the Scrum Master role, and agile team leadership through hands-on training, with certification and practical skills for effective Scrum implementation.
+tldr: This two-day course prepares participants to effectively lead Scrum teams and drive agile practices by covering Scrum principles, the Scrum Master role, and practical skills like backlog management, stakeholder engagement, and scaling Scrum. It uses hands-on, activity-based learning and includes a free attempt at the PSM I certification exam. Development managers can use this course to upskill team leaders and improve agile delivery across their organisation.
 date: 2017-01-01
 weight: 350
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: NphdCz-Fh4k
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: professional-scrum-master-psm-course-with-certification
 aliases:
-- /resources/NphdCz-Fh4k
+  - /resources/NphdCz-Fh4k
 aliasesArchive:
-- /training-courses/professional-scrum-master
-- /training-courses/professional-scrum-master-psm-training
-- /training-courses/professional-scrum-master-training-with-certification
-- /training-courses/professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it
-- /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-master-psm-with-certification/
+  - /training-courses/professional-scrum-master
+  - /training-courses/professional-scrum-master-psm-training
+  - /training-courses/professional-scrum-master-training-with-certification
+  - /training-courses/professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it
+  - /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-master-psm-with-certification/
 concepts:
-- Framework
+  - Framework
 categories:
-- Product Development
-- Scrum
-- Technical Leadership
+  - Product Development
+  - Scrum
+  - Leadership
 tags:
-- Scrum Master
-- Agile Frameworks
-- Agile Leadership
-- Agile Planning
-- Agile Product Management
-- Agile Transformation
-- Coaching
-- Complexity Thinking
-- Continuous Learning
-- Empirical Process Control
-- Operational Practices
-- Organisational Agility
-- Pragmatic Thinking
-- Product Delivery
-- Professional Scrum
+  - Scrum Master
+  - Agile Frameworks
+  - Agile Leadership
+  - Agile Planning
+  - Agile Product Management
+  - Agile Transformation
+  - Coaching
+  - Complexity Thinking
+  - Continuous Learning
+  - Empirical Process Control
+  - Operational Practices
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Product Delivery
+  - Professional Scrum
 card:
   title: Professional Scrum Master
   content: Our **Professional Scrum Master Training Program** features **PSM Training** from Scrum.org, delivered as an **Immersive Learning Experience**. It combines live, instructor-led sessions with additional offline exercises, covering the principles of the Scrum framework and the Scrum Master role. This multi-week format integrates real-world applications, encouraging continuous improvement through practical assignments.
 Watermarks:
   description: 2025-07-29T15:01:53Z
+  tldr: 2025-08-08T11:40:33Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course_vendors:
-- Scrumorg
+  - Scrumorg
 course_learning_experiences:
-- Immersive
-- Traditional
+  - Immersive
+  - Traditional
 delivery_audiences:
-- Managers
-- Scrum Masters
-- Lean Agile Practitioners
+  - Managers
+  - Scrum Masters
+  - Lean Agile Practitioners
 delivery_audiences_weight: 100
 preview: NKDAgility-Courses-PSM-16x9.svg
 code: PSM
 course_proficiencies:
-- intermediate
+  - intermediate
 carousel:
-- link: images/NKDAgility-Courses-PSM-16x9.svg
-  type: image
-- link: resources/videos/youtube/vWfebO_pwIU
-  type: video
-- link: resources/videos/youtube/xo4jMxupIM0
-  type: video
+  - link: images/NKDAgility-Courses-PSM-16x9.svg
+    type: image
+  - link: resources/videos/youtube/vWfebO_pwIU
+    type: video
+  - link: resources/videos/youtube/xo4jMxupIM0
+    type: video
 introduction: |
   **Learn Professional Scrum and Elevate Your Role as a Scrum Master with NKD Agility**
 
@@ -127,32 +133,32 @@ prerequisites: |
 audience:
   overview: The Professional Scrum Master course is for anyone involved in software development using the Scrum framework. It is particularly beneficial for those people within an organization accountable for getting the most out of Scrum, including Scrum Masters, managers, and Scrum Team members.  We also suggest that you read through the [PSM Subject Areas](https://www.scrum.org/resources/suggested-reading-professional-scrum-master). If you are new to Scrum and are interested in getting started then the [Certified Professional Scrum Foundations Training](/training/courses/professional-scrum-foundations/) is more relevant. This class is perfect if you are studying for the [Professional Scrum Master II assessment.](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments)
 trainers:
-- /company/people/martin-hinshelwood/
+  - /company/people/martin-hinshelwood/
 roadmap:
   next:
-  - /capabilities/training-courses/scrum-training-courses/professional-scrum-master-ii-psm-ii-with-certification/
+    - /capabilities/training-courses/scrum-training-courses/professional-scrum-master-ii-psm-ii-with-certification/
   previous:
-  - /capabilities/training-courses/scrum-training-courses/professional-scrum-foundations/
+    - /capabilities/training-courses/scrum-training-courses/professional-scrum-foundations/
 events:
-- start_date: 2025-02-23
-  location: Virtual
-  registration_link: ""
-  sessions:
-  - start_datetime: 2025-01-23T09:00:00
-    end_datetime: 2025-10-23T17:00:00
-    timezone: America/Los_Angeles
-    syllabus_ids:
-    - 1
-    - 2
-    - 3
-    - 4
-  - start_datetime: 2025-01-24T09:00:00
-    end_datetime: 2025-01-02T17:00:00
-    timezone: America/Los_Angeles
-    syllabus_ids:
-    - 5
-    - 6
-    - 7
+  - start_date: 2025-02-23
+    location: Virtual
+    registration_link: ""
+    sessions:
+      - start_datetime: 2025-01-23T09:00:00
+        end_datetime: 2025-10-23T17:00:00
+        timezone: America/Los_Angeles
+        syllabus_ids:
+          - 1
+          - 2
+          - 3
+          - 4
+      - start_datetime: 2025-01-24T09:00:00
+        end_datetime: 2025-01-02T17:00:00
+        timezone: America/Los_Angeles
+        syllabus_ids:
+          - 5
+          - 6
+          - 7
 
 ---
 # Professional Scrum Master (PSM) Course with Certification

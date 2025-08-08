@@ -1,32 +1,35 @@
 ---
 title: Amusing job requirements
 description: A humorous look at unrealistic job requirements for analyst programmers, highlighting the pitfalls of overloaded skill lists and offering practical advice for employers and job seekers.
+date: 2007-10-06
+lastmod: 2007-10-06
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: NU1-eAy72tU
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 301
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-10-06
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: amusing-job-requirements
 aliases:
-- /resources/NU1-eAy72tU
+  - /resources/NU1-eAy72tU
 aliasesArchive:
-- /blog/amusing-job-requirements
-- /amusing-job-requirements
-- /resources/blog/amusing-job-requirements
-tags: []
+  - /blog/amusing-job-requirements
+  - /amusing-job-requirements
+  - /resources/blog/amusing-job-requirements
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:53Z
-concepts: []
+ResourceImportId: 301
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 I recently received a job spec that had the most ridiculous "Required" skill set for an "Analyst Programmer". I though I should share it with you as I have just spent the last 10 minutes cleaning tea out of my keyboard with cotton bud's. Here is how it was presented in the email:

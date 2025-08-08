@@ -1,34 +1,37 @@
 ---
 title: Solution to sub sites in Sharepoint 3.0 with Team Foundation Server
 description: Explains how to configure Team Foundation Server to create SharePoint 3.0 project portals as sub-sites, including manual and automated setup steps and key considerations.
+date: 2007-06-20
+lastmod: 2007-06-20
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: B1bu87flA8w
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 376
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-06-20
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 aliases:
-- /resources/blog/solution-to-sub-sites-in-sharepoint-3.0-with-team-foundation-server
-- /resources/B1bu87flA8w
+  - /resources/blog/solution-to-sub-sites-in-sharepoint-3.0-with-team-foundation-server
+  - /resources/B1bu87flA8w
 aliasesArchive:
-- /blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
-- /solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
-- /resources/blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
-- /resources/blog/solution-to-sub-sites-in-sharepoint-3.0-with-team-foundation-server
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
+  - /solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
+  - /resources/blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
+  - /resources/blog/solution-to-sub-sites-in-sharepoint-3.0-with-team-foundation-server
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:49Z
-concepts: []
+ResourceImportId: 376
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 This subject goes back over a number of posts:

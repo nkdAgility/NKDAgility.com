@@ -1,32 +1,35 @@
 ---
 title: AD Update-O-Matic
 description: Application for automating Active Directory updates by extracting user data, editing in a database, and syncing changes, supporting .NET and MOSS 2007 environments.
+date: 2007-11-20
+lastmod: 2007-11-20
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: PxQXixHg3e3
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 290
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-11-20
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: ad-update-o-matic
 aliases:
-- /resources/PxQXixHg3e3
+  - /resources/PxQXixHg3e3
 aliasesArchive:
-- /blog/ad-update-o-matic
-- /ad-update-o-matic
-- /resources/blog/ad-update-o-matic
-tags: []
+  - /blog/ad-update-o-matic
+  - /ad-update-o-matic
+  - /resources/blog/ad-update-o-matic
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:39Z
-concepts: []
+ResourceImportId: 290
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 In my quest to

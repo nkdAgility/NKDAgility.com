@@ -2,49 +2,54 @@
 title: Applying Professional Scrum for Software Development (APS-SD) with Certification
 short_title: Scrum for Software Development
 description: Gain practical skills in Scrum, Agile, and DevOps for software development, with hands-on team exercises and preparation for the Professional Scrum Developer I certification.
+tldr: This course gives software development teams practical experience with Scrum, Agile, and DevOps, focusing on collaboration, code quality, and adaptive architecture. Participants learn to work effectively in Scrum Teams, manage backlogs, and integrate engineering practices like TDD and DevOps. Completing the course prepares teams for the PSD I certification and helps improve delivery and team performance.
 date: 2017-01-01
 weight: 350
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: IoUQqtS1U1Y
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: applying-professional-scrum-for-software-development-aps-sd-with-certification
 aliases:
-- /resources/IoUQqtS1U1Y
+  - /resources/IoUQqtS1U1Y
 aliasesArchive:
-- /training-courses/professional-scrum-developer
-- /training-courses/applying-professional-scrum-with-certification
-- /training-courses/professional-scrum-development-team-training
-- /training-courses/professional-scrum-developer-training
-- /training-courses/professional-software-delivery-with-scrum-training
-- /training-courses/applying-professional-scrum-for-software-development-training
-- /training-courses/applying-professional-scrum-for-software-delivery-training-with-certification
-- /training-courses/applying-professional-scrum-for-software-development-training-with-certification
-- /training-courses/applying-professional-scrum-for-software-development-aps-sd-training-experience-with-certification-practices-for-scrum-teams-to-deliver-quality-software-frequently
-- /training-courses/scrum-training-courses/applying-professional-scrum-for-software-development-aps-sd-with-certification/
-- /capabilities/training-courses/Scrum.org/applying-professional-scrum-for-software-development-aps-sd-with-certification/
+  - /training-courses/professional-scrum-developer
+  - /training-courses/applying-professional-scrum-with-certification
+  - /training-courses/professional-scrum-development-team-training
+  - /training-courses/professional-scrum-developer-training
+  - /training-courses/professional-software-delivery-with-scrum-training
+  - /training-courses/applying-professional-scrum-for-software-development-training
+  - /training-courses/applying-professional-scrum-for-software-delivery-training-with-certification
+  - /training-courses/applying-professional-scrum-for-software-development-training-with-certification
+  - /training-courses/applying-professional-scrum-for-software-development-aps-sd-training-experience-with-certification-practices-for-scrum-teams-to-deliver-quality-software-frequently
+  - /training-courses/scrum-training-courses/applying-professional-scrum-for-software-development-aps-sd-with-certification/
+  - /capabilities/training-courses/Scrum.org/applying-professional-scrum-for-software-development-aps-sd-with-certification/
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- Scrum
-- Engineering Excellence
+  - Product Development
+  - Scrum
+  - Engineering Excellence
 tags:
-- Software Development
-- Agile Frameworks
-- Agile Planning
-- Agile Product Management
-- Agile Transformation
-- Engineering Practices
-- Operational Practices
-- Pragmatic Thinking
-- Product Delivery
-- Professional Scrum
-- Scrum Team
-- Team Collaboration
-- Team Performance
-- Technical Excellence
-- Technical Mastery
+  - Software Development
+  - Market Adaptability
+  - Agile Frameworks
+  - Agile Planning
+  - Agile Product Management
+  - Agile Transformation
+  - Engineering Practices
+  - Operational Practices
+  - Pragmatic Thinking
+  - Product Delivery
+  - Professional Scrum
+  - Scrum Team
+  - Team Collaboration
+  - Team Performance
+  - Technical Excellence
 card:
   button:
     content: ""
@@ -52,18 +57,19 @@ card:
   content: 'Experience APS-SD: Hands-on Scrum training for delivering quality software. Gain practical skills in Agile, DevOps, and Scrum principles. Free PSD I certification exam included. Enhance your software development expertise.'
 Watermarks:
   description: 2025-07-29T15:01:56Z
+  tldr: 2025-08-08T11:40:35Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course_vendors:
-- Scrumorg
+  - Scrumorg
 course_learning_experiences:
-- Immersive
+  - Immersive
 delivery_audiences:
-- Teams
-- Developers
+  - Teams
+  - Developers
 preview: naked-agility-Professional-Scrum-APSSD-1600x900-1.jpg
 previewIcon: Scrumorg-Course-APSSD-400x.png
 brandColour: 
@@ -71,7 +77,7 @@ code: APS-SD
 course_length: 24
 course_sessions: 12
 course_proficiencies:
-- intermediate
+  - intermediate
 introduction: |2-
 
   ### What Applying Professional Scrum for Software Development Students Say

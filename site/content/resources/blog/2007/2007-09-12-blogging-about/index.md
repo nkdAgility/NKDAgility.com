@@ -1,32 +1,35 @@
 ---
 title: Blogging about
 description: A personal update covering job changes, technical projects with TFS and VS2008, learning goals, and life events, including job interviews and family milestones.
+date: 2007-09-12
+lastmod: 2007-09-12
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: mYU-gZ_KBo3
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 314
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-09-12
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: blogging-about
 aliases:
-- /resources/mYU-gZ_KBo3
+  - /resources/mYU-gZ_KBo3
 aliasesArchive:
-- /blog/blogging-about
-- /blogging-about
-- /resources/blog/blogging-about
-tags: []
+  - /blog/blogging-about
+  - /blogging-about
+  - /resources/blog/blogging-about
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:12Z
-concepts: []
+ResourceImportId: 314
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 Well, I have not done one of these is a while...I could say that I have been busy, but I have not been :)

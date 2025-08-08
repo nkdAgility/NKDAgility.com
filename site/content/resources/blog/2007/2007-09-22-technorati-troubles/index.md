@@ -1,32 +1,35 @@
 ---
 title: Technorati Troubles
 description: Describes issues with Technorati blog claim verification, URL redirects, and invalid tag clouds, highlighting difficulties resolving these problems through support.
+date: 2007-09-22
+lastmod: 2007-09-22
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: r1BGZbCmJRA
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 308
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-09-22
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: technorati-troubles
 aliases:
-- /resources/r1BGZbCmJRA
+  - /resources/r1BGZbCmJRA
 aliasesArchive:
-- /blog/technorati-troubles
-- /technorati-troubles
-- /resources/blog/technorati-troubles
+  - /blog/technorati-troubles
+  - /technorati-troubles
+  - /resources/blog/technorati-troubles
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:02Z
-concepts: []
+ResourceImportId: 308
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Recently I have been having real trouble with Technorati. I have been trying to mop up my loose blog claims and I have been having a problem. Technorati seems unable to get a lock on redirected URL's, I don't see why that would be an issue, but it is. In a effort to try to remedy this problem I have put all of my claim codes here:

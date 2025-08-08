@@ -1,32 +1,35 @@
 ---
 title: Application Owner
 description: Explains the responsibilities of managing production applications, including vendor relations, issue resolution, audits, and system access, typically handled by a project manager.
+date: 2007-08-04
+lastmod: 2007-08-04
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: JqwdfuCbOrt
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 348
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-04
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: application-owner
 aliases:
-- /resources/JqwdfuCbOrt
+  - /resources/JqwdfuCbOrt
 aliasesArchive:
-- /blog/application-owner
-- /application-owner
-- /resources/blog/application-owner
-tags: []
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/application-owner
+  - /application-owner
+  - /resources/blog/application-owner
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:03Z
-concepts: []
+ResourceImportId: 348
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 In my company it is the job of someone in business technology to manage production applications. Personally I think that this is a job for a Project Manager, not a developer, as it is about management and is not particularly technical. You do not actually have to carry out any of the work on the application, just:

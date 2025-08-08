@@ -1,32 +1,35 @@
 ---
 title: Microsoft has acquired TeamPlain
 description: Microsoft has acquired TeamPlain, making its web access software for Visual Studio 2005 and Team Foundation Server available for free to all users.
+date: 2007-03-26
+lastmod: 2007-03-26
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: uXJxvyaVhda
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 425
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-03-26
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: microsoft-has-acquired-teamplain
 aliases:
-- /resources/uXJxvyaVhda
+  - /resources/uXJxvyaVhda
 aliasesArchive:
-- /blog/microsoft-has-acquired-teamplain
-- /microsoft-has-acquired-teamplain
-- /resources/blog/microsoft-has-acquired-teamplain
-tags: []
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/microsoft-has-acquired-teamplain
+  - /microsoft-has-acquired-teamplain
+  - /resources/blog/microsoft-has-acquired-teamplain
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:29:01Z
-concepts: []
+ResourceImportId: 425
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 Have you looked at the features of TeamPlain and wished that you could convince your company to buy it for all those users that look at VS2005 and balk! Now you can, for free...

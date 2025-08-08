@@ -2,34 +2,39 @@
 title: Professional Product Discovery and Validation Skills (PPDV)
 short_title: Product Discovery and Validation
 description: Gain practical skills in product discovery and validation, including experimentation, hypothesis testing, data analysis, and risk control for effective product development.
+tldr: This one-day beginner course teaches product teams how to identify and validate key assumptions in product development using experimentation and data, helping to control risks and improve value delivery. Participants learn practical skills for hypothesis testing, analyzing results, and integrating findings into decisions. Consider enrolling your team to strengthen discovery and validation capabilities and support better product outcomes.
 date: 2024-07-11
-weight: 1000
+weight: 580
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: -IePwtEoXdo
 ResourceImport: false
 ResourceType: course
 ResourceContentOrigin: human
 slug: professional-product-discovery-and-validation-skills-ppdv
 aliases:
-- /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
-- /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
-- /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
-- /resources/-IePwtEoXdo
+  - /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+  - /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
+  - /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+  - /resources/-IePwtEoXdo
 aliasesArchive:
-- /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
-- /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
-- /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+  - /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+  - /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
+  - /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
 concepts: []
 categories:
-- Product Management
+  - Product Management
 tags:
-- Decision Making
-- Experimentation
-- Hypothesis Driven Development
-- Metrics and Learning
-- Pragmatic Thinking
-- Product Discovery
-- Product Validation
-- Value Delivery
+  - Product Discovery
+  - Decision Making
+  - Experimentation
+  - Hypothesis Driven Development
+  - Metrics and Learning
+  - Pragmatic Thinking
+  - Product Validation
+  - Value Delivery
 card:
   button:
     content: ""
@@ -37,26 +42,27 @@ card:
   content: This one-day course on product discovery and validation equips participants with essential hands-on skills to enhance value creation in product development. It covers key techniques for both new product development and improving existing products, focusing on experimentation, evidence collection, and risk control. Through an ongoing case study, students will learn practical methods to apply in their workplace, helping Product Owners, Managers, and teams drive customer outcomes, improve ROI, and adopt an iterative, user-centric approach to product development.
 Watermarks:
   description: 2025-07-29T15:00:51Z
+  tldr: 2025-08-08T11:37:19Z
 creator: Martin Hinshelwood
 type: course
 url: /capabilities/training-courses/product-training-courses/:slug/
 course_topics:
-- Scrum Training Courses
-- Product Training Courses
+  - Scrum Training Courses
+  - Product Training Courses
 course_vendors:
-- Scrumorg
+  - Scrumorg
 course_learning_experiences:
-- Traditional
+  - Traditional
 delivery_audiences:
-- Product Owners
-- Product Managers
-- Teams
+  - Product Owners
+  - Product Managers
+  - Teams
 preview: NKDAgility-Courses-PSVS-16x9-1.png
 previewIcon: PPDV-BETA-logo.png
 brandColour: 
 code: PPDV
 course_proficiencies:
-- beginner
+  - beginner
 introduction: 
 overview: 
 outcomes: |2+

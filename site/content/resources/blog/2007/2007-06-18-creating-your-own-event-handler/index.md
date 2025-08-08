@@ -1,33 +1,36 @@
 ---
 title: Creating your own Event Handler
 description: Learn how to create custom event handlers for Team Foundation Server by inheriting from AEventHandler, implementing IsValid and Run methods, and handling event data securely.
+date: 2007-06-18
+lastmod: 2007-06-18
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 53h9G1A5o8G
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 378
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-06-18
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: creating-your-own-event-handler
 aliases:
-- /resources/53h9G1A5o8G
+  - /resources/53h9G1A5o8G
 aliasesArchive:
-- /blog/creating-your-own-event-handler
-- /creating-your-own-event-handler
-- /resources/blog/creating-your-own-event-handler
-tags:
-- Software Development
+  - /blog/creating-your-own-event-handler
+  - /creating-your-own-event-handler
+  - /resources/blog/creating-your-own-event-handler
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-2-2.png
+  - Uncategorized
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-13T16:27:54Z
-concepts: []
+ResourceImportId: 378
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-2-2.png
 
 ---
 Creating an event handler with the [Team Foundation Server Event Handlers](http://www.codeplex.com/TFSEventHandler/) is very easy. You will need to inherit from the AEventHandler class which is part of [RDdotNet](http://www.rddotnet.com "RDdotNet - Reality Dysfunction .NET").TeamFoundation.dll located in the install directory (I will make an SDK later).

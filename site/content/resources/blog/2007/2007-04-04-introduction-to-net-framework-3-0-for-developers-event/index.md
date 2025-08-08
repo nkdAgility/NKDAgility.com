@@ -1,36 +1,39 @@
 ---
 title: Introduction to .NET Framework 3.0 for Developers Event
 description: Overview of key features in .NET Framework 3.0 for developers, including CardSpace, Windows Workflow Foundation, and practical insights from a Microsoft-led session.
+date: 2007-04-04
+lastmod: 2007-04-04
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: gdc1V-o308o
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 418
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-04-04
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: introduction-to-net-framework-3-0-for-developers-event
 aliases:
-- /resources/blog/introduction-to-.net-framework-3.0-for-developers-event
-- /resources/gdc1V-o308o
+  - /resources/blog/introduction-to-.net-framework-3.0-for-developers-event
+  - /resources/gdc1V-o308o
 aliasesArchive:
-- /blog/introduction-to-net-framework-3-0-for-developers-event
-- /introduction-to-net-framework-3-0-for-developers-event
-- /introduction-to--net-framework-3-0-for-developers-event
-- /blog/introduction-to--net-framework-3-0-for-developers-event
-- /resources/blog/introduction-to-net-framework-3-0-for-developers-event
-- /resources/blog/introduction-to-.net-framework-3.0-for-developers-event
-tags: []
+  - /blog/introduction-to-net-framework-3-0-for-developers-event
+  - /introduction-to-net-framework-3-0-for-developers-event
+  - /introduction-to--net-framework-3-0-for-developers-event
+  - /blog/introduction-to--net-framework-3-0-for-developers-event
+  - /resources/blog/introduction-to-net-framework-3-0-for-developers-event
+  - /resources/blog/introduction-to-.net-framework-3.0-for-developers-event
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-binary-vb-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:28:49Z
-concepts: []
+ResourceImportId: 418
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-binary-vb-128-link-1-1.png
 
 ---
 Yesterday I visited the Strathclyde University campus to see a half day session from Microsoft's [Mike Taulty](http://mtaulty.com/communityserver/blogs/mike_taultys_blog/default.aspx).

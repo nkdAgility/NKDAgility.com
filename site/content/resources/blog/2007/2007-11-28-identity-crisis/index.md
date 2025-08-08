@@ -1,32 +1,35 @@
 ---
 title: Identity crisis
 description: Explores using Microsoft Identity Lifecycle Manager 2007 to unify and automate employee identity data across multiple systems, improving consistency, security, and efficiency.
+date: 2007-11-28
+lastmod: 2007-11-28
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: mY6h9tz2JRJ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 285
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-11-28
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: identity-crisis
 aliases:
-- /resources/mY6h9tz2JRJ
+  - /resources/mY6h9tz2JRJ
 aliasesArchive:
-- /blog/identity-crisis
-- /identity-crisis
-- /resources/blog/identity-crisis
-tags: []
+  - /blog/identity-crisis
+  - /identity-crisis
+  - /resources/blog/identity-crisis
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:30Z
-concepts: []
+ResourceImportId: 285
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I am having a look at Microsoft's [Identity Lifecycle Manager 2007](http://www.microsoft.com/windowsserver/ilm2007/default.mspx) as a solution to our disparate user identity problem. Some of the bigger companies out there have solved this problem, and in many of the smaller companies it just does not exist, but we have many system that hold meta data about our employees. From HR systems to Active Directory and custom web based address books. Because of Aggreko's unprecedented growth these systems have outgrown our capacity to maintain the consistency of the data, with small groups responsible for each repository and everyone not knowing where ALL the repository's are or who controls them.

@@ -1,32 +1,35 @@
 ---
 title: Refocus
 description: Discusses shifting focus to maintaining and migrating SharePoint 2003 sites, deploying MOSS 2007, and integrating business applications within an enterprise environment.
+date: 2007-10-03
+lastmod: 2007-10-03
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ofk0IF885SJ
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 304
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-10-03
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: refocus
 aliases:
-- /resources/ofk0IF885SJ
+  - /resources/ofk0IF885SJ
 aliasesArchive:
-- /blog/refocus
-- /refocus
-- /resources/blog/refocus
-tags: []
-preview: metro-sharepoint-128-link-1-1.png
+  - /blog/refocus
+  - /refocus
+  - /resources/blog/refocus
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:25:57Z
-concepts: []
+ResourceImportId: 304
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 You may have noticed that over the last month or so I have been neglecting my blog (too many personal posts) and my focus on development in general. This has been a temporary setback due mostly to starting a new job and not getting to play with Team Server at the moment (plus I had a knee operation the other week). So for now, I will be trying to focus more on Sharepoint 2007 / MOSS and the feature deficient Sharepoint 2003.

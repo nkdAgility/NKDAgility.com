@@ -1,32 +1,35 @@
 ---
 title: Community-Credit feedback
 description: Suggestions for improving Community Credit, including category management, privacy for user profiles, SEO, faster page loads, moderation rewards, and guest developer roles.
+date: 2008-01-15
+lastmod: 2008-01-15
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: HElvJm048ib
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 264
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-01-15
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: community-credit-feedback
 aliases:
-- /resources/HElvJm048ib
+  - /resources/HElvJm048ib
 aliasesArchive:
-- /blog/community-credit-feedback
-- /community-credit-feedback
-- /resources/blog/community-credit-feedback
-tags: []
+  - /blog/community-credit-feedback
+  - /community-credit-feedback
+  - /resources/blog/community-credit-feedback
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:24:57Z
-concepts: []
+ResourceImportId: 264
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 [Community Credit](http://www.community-credit.com) is getting a face lift and [David Silverlight](http://www.community-credit.com/cs/blogs/default.aspx) (yes a man so great that an entire platform was named after him) is asking for [contributions](http://www.community-credit.com/cs/forums/107/ShowForum.aspx) to this... So head on over to the [community credit forum](http://www.community-credit.com/cs/forums/107/ShowForum.aspx) and get suggesting...

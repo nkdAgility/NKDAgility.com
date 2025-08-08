@@ -1,34 +1,37 @@
 ---
 title: What is dyslexia?
 description: Dyslexia affects reading and spelling, often causing letter confusion, but can enhance oral skills and visual thinking. Many develop unique ways to process written words.
+date: 2007-07-23
+lastmod: 2007-07-23
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 97Evnsuws6e
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 360
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-23
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: what-is-dyslexia
 aliases:
-- /resources/97Evnsuws6e
+  - /resources/97Evnsuws6e
 aliasesArchive:
-- /blog/what-is-dyslexia
-- /what-is-dyslexia
-- /what-is-dyslexia-
-- /blog/what-is-dyslexia-
-- /resources/blog/what-is-dyslexia
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
+  - /blog/what-is-dyslexia
+  - /what-is-dyslexia
+  - /what-is-dyslexia-
+  - /blog/what-is-dyslexia-
+  - /resources/blog/what-is-dyslexia
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:25Z
-concepts: []
+ResourceImportId: 360
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 [Dyslexia](http://www.dyslexia.tv/ "Multi-dimensional FreeThinking") is many thing to many people, but it always involves reading. Some people are heavily dyslexic to the point where the are unable to function at all in normal schooling. Many people think of [Dyslexia](http://www.dyslexia.tv/ "Multi-dimensional FreeThinking") as a disability, but the only time I think of it that way is if I can get something:

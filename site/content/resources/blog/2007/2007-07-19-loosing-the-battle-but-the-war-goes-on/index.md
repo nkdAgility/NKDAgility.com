@@ -1,36 +1,39 @@
 ---
 title: Loosing the battle, but the war goes on
 description: A personal account of challenges promoting TFS over Jira and Subversion, highlighting adoption barriers, team dynamics, and efforts to bridge tools via integration projects.
+date: 2007-07-19
+lastmod: 2007-07-19
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: eDmNn28RPGH
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 367
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-07-19
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: loosing-the-battle-but-the-war-goes-on
 aliases:
-- /resources/eDmNn28RPGH
+  - /resources/eDmNn28RPGH
 aliasesArchive:
-- /blog/loosing-the-battle-but-the-war-goes-on
-- /loosing-the-battle-but-the-war-goes-on
-- /loosing-the-battle,-but-the-war-goes-on
-- /blog/loosing-the-battle,-but-the-war-goes-on
-- /loosing-the-battle--but-the-war-goes-on
-- /blog/loosing-the-battle--but-the-war-goes-on
-- /resources/blog/loosing-the-battle-but-the-war-goes-on
-tags: []
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/loosing-the-battle-but-the-war-goes-on
+  - /loosing-the-battle-but-the-war-goes-on
+  - /loosing-the-battle,-but-the-war-goes-on
+  - /blog/loosing-the-battle,-but-the-war-goes-on
+  - /loosing-the-battle--but-the-war-goes-on
+  - /blog/loosing-the-battle--but-the-war-goes-on
+  - /resources/blog/loosing-the-battle-but-the-war-goes-on
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:27:36Z
-concepts: []
+ResourceImportId: 367
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 Well in my current war to get my company to use [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server"), I am loosing the battle for Visual Studio Team System adoption. I have fought many battles, against Jira, Confluence and Subversion, but they are currently wining. I cant seam to get the Architecture & Strategy guys to get behind the project. They are sitting on the sidelines encouraging me, but with no active participation.

@@ -1,34 +1,37 @@
 ---
 title: The Delivery
 description: A personal account of a daughter's birth, detailing the unexpected and rapid labour, hospital experience, and gratitude for the support received during delivery.
+date: 2007-06-25
+lastmod: 2007-06-25
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Cy6oTqwpH2P
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 374
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-06-25
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-delivery
 aliases:
-- /resources/Cy6oTqwpH2P
+  - /resources/Cy6oTqwpH2P
 aliasesArchive:
-- /blog/the-delivery
-- /the-delivery
-- /resources/blog/the-delivery
+  - /blog/the-delivery
+  - /the-delivery
+  - /resources/blog/the-delivery
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags:
-- Miscellaneous
-- Personal
+  - Miscellaneous
+  - Personal
 Watermarks:
   description: 2025-05-13T16:27:46Z
-concepts: []
+ResourceImportId: 374
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Well, this being my hundredth post I thought I should mention something special... Something that will change my world forever... Something that will keep me up at night...

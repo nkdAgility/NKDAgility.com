@@ -1,33 +1,36 @@
 ---
 title: New Event Handlers
 description: 'Adds two event handlers for TFS: one emails users when assigned a work item, the other notifies users when work is reassigned. Includes setup and deployment steps.'
+date: 2008-01-31
+lastmod: 2008-01-31
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: kofEeioSTH9
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 258
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-01-31
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: new-event-handlers
 aliases:
-- /resources/kofEeioSTH9
+  - /resources/kofEeioSTH9
 aliasesArchive:
-- /blog/new-event-handlers
-- /new-event-handlers
-- /resources/blog/new-event-handlers
-tags:
-- Install and Configuration
+  - /blog/new-event-handlers
+  - /new-event-handlers
+  - /resources/blog/new-event-handlers
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
+tags:
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:24:40Z
-concepts: []
+ResourceImportId: 258
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 I have added an extra event handler to the [TFS Event Handler (Prototype)](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSEventHandler&ReleaseId=5057), and this makes two.

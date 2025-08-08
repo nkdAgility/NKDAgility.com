@@ -1,32 +1,35 @@
 ---
 title: Programmer personality type
 description: Explains a programmer personality type focused on fast results, low-level coding, teamwork, and liberal use of whitespace and comments for code clarity and efficiency.
+date: 2007-06-16
+lastmod: 2007-06-16
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ruFX2_EJk4k
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 382
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-06-16
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: programmer-personality-type
 aliases:
-- /resources/ruFX2_EJk4k
+  - /resources/ruFX2_EJk4k
 aliasesArchive:
-- /blog/programmer-personality-type
-- /programmer-personality-type
-- /resources/blog/programmer-personality-type
+  - /blog/programmer-personality-type
+  - /programmer-personality-type
+  - /resources/blog/programmer-personality-type
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: nakedalm-logo-128-link-1-1.png
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:00Z
-concepts: []
+ResourceImportId: 382
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: nakedalm-logo-128-link-1-1.png
 
 ---
 Get yours [here](http://www.doolwind.com/index.php?page=11 "Programmer Personality Test").

@@ -1,32 +1,35 @@
 ---
 title: Microsoft does indeed listen
 description: Discussion on Microsoft's response to user interest in hosted Team Foundation Server (TFS), licensing challenges, and needed features for broader business adoption.
+date: 2007-08-28
+lastmod: 2007-08-28
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: vZZ_DZ3emxB
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 318
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-28
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: microsoft-does-indeed-listen
 aliases:
-- /resources/vZZ_DZ3emxB
+  - /resources/vZZ_DZ3emxB
 aliasesArchive:
-- /blog/microsoft-does-indeed-listen
-- /microsoft-does-indeed-listen
-- /resources/blog/microsoft-does-indeed-listen
-tags: []
-preview: metro-visual-studio-2005-128-link-1-1.png
+  - /blog/microsoft-does-indeed-listen
+  - /microsoft-does-indeed-listen
+  - /resources/blog/microsoft-does-indeed-listen
+layout: blog
+concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:19Z
-concepts: []
+ResourceImportId: 318
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---
 When I posted my question "[Would anyone be interested in Hosted TFS?](http://www.linkedin.com/answers/technology/software-development/TCH_SFT/46649-1363184 "Would anyone be interested in hosted TFS?")" on linked in I was hopping for a response from potential users. I did not think that [Jim Lamb](http://blogs.msdn.com/jimlamb/archive/2007/05/30/hosted-tfs-pilot-program.aspx "Microsoft does indeed listen") would be reading it and blog about Microsoft's internal ambition to have a hosted model for [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server"). I have been quite excited about this subjects as I have worked for many companies that would find the cost of running an internal TFS server prohibitive, but for whom a hosted option would be perfect.

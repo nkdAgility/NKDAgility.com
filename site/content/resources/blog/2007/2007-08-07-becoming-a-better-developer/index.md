@@ -1,32 +1,35 @@
 ---
 title: Becoming a better developer
 description: Practical steps for improving as a developer, including ongoing learning, project work, community involvement, blogging, and embracing neurodiversity in tech.
+date: 2007-08-07
+lastmod: 2007-08-07
+weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: BonYegnhwPu
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 339
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-07
-weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: becoming-a-better-developer
 aliases:
-- /resources/BonYegnhwPu
+  - /resources/BonYegnhwPu
 aliasesArchive:
-- /blog/becoming-a-better-developer
-- /becoming-a-better-developer
-- /resources/blog/becoming-a-better-developer
-tags: []
+  - /blog/becoming-a-better-developer
+  - /becoming-a-better-developer
+  - /resources/blog/becoming-a-better-developer
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-merilllynch-128-link-1-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:52Z
-concepts: []
+ResourceImportId: 339
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-merilllynch-128-link-1-1.png
 
 ---
 [Steve Clements](http://geekswithblogs.net/steveclements/archive/2007/07/26/114182.aspx "Becoming a better developer...") has tagged me (thanks Steve) about how to become a [better developer](http://graysmatter.codivation.com/HowIAmBecomingABetterDeveloperPart1OfInfinity.aspx), he thinks tagging me 'would make an interesting read'..Hmm, no pressure:

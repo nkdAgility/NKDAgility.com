@@ -1,34 +1,37 @@
 ---
 title: Kerberos and SharePoint 2007
 description: Explains how to configure Kerberos authentication for SharePoint 2007 by setting Service Principal Names (SPNs) in Active Directory for each DNS and port combination.
+date: 2008-01-31
+lastmod: 2008-01-31
+weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: REHiKbbVOD8
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 254
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2008-01-31
-weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: kerberos-and-sharepoint-2007
 aliases:
-- /resources/REHiKbbVOD8
+  - /resources/REHiKbbVOD8
 aliasesArchive:
-- /blog/kerberos-and-sharepoint-2007
-- /kerberos-and-sharepoint-2007
-- /resources/blog/kerberos-and-sharepoint-2007
-tags:
-- System Configuration
-- Install and Configuration
+  - /blog/kerberos-and-sharepoint-2007
+  - /kerberos-and-sharepoint-2007
+  - /resources/blog/kerberos-and-sharepoint-2007
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-sharepoint-128-link-1-1.png
+  - Uncategorized
+tags:
+  - System Configuration
+  - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:24:49Z
-concepts: []
+ResourceImportId: 254
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-sharepoint-128-link-1-1.png
 
 ---
 If you want to use Kerberos authentication and not NTLM with SharePoint then there are some extra tasks that you need to get someone with Domain Admin privileges to perform. For EVERY dns / port combination a SPN needs to be added to Active Directory to tell it that it  is allowed to use Kerberos to authenticate a specific account or server to that URL. In a production environment with a farm of multiple server you will need to use the account option.

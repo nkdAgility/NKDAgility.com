@@ -1,32 +1,35 @@
 ---
 title: Using Visual Studio 2008
 description: Overview of Visual Studio 2008 features, including multi-.NET Framework targeting, project upgrade notes, source control tips, and new debugging and workflow options.
+date: 2007-08-20
+lastmod: 2007-08-20
+weight: 900
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: lO6Rlwe1r6f
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 328
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: GeeksWithBlogs
-date: 2007-08-20
-weight: 900
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: using-visual-studio-2008
 aliases:
-- /resources/lO6Rlwe1r6f
+  - /resources/lO6Rlwe1r6f
 aliasesArchive:
-- /blog/using-visual-studio-2008
-- /using-visual-studio-2008
-- /resources/blog/using-visual-studio-2008
-tags: []
+  - /blog/using-visual-studio-2008
+  - /using-visual-studio-2008
+  - /resources/blog/using-visual-studio-2008
+layout: blog
+concepts: []
 categories:
-- Uncategorized
-preview: metro-visual-studio-2005-128-link-8-1.png
+  - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T16:26:34Z
-concepts: []
+ResourceImportId: 328
+creator: Martin Hinshelwood
+resourceTypes: blog
+preview: metro-visual-studio-2005-128-link-8-1.png
 
 ---
 I have been tinkering with VS2008 for a week now, but I had not had time to really look at it.
