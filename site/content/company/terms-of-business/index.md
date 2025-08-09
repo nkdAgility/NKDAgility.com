@@ -225,6 +225,19 @@ We work securely, independently, and with only the access needed to deliver outc
 
 This keeps delivery fast, secure, and focused—without unnecessary operational drag.
 
+### Access to Customer Systems
+
+We understand that some customers provide logins to their local systems. While we appreciate this access, our consultants do not use customer-provided email accounts or calendars.
+
+Our team works with multiple clients and operates from a central calendar booking system, which serves as our single source of truth for scheduling. We also use our own delegated email accounts, accessible to our administrative staff where necessary. Requiring consultants to check customer-specific email or calendars creates scheduling conflicts and unnecessary friction. Our priority is for consultants to focus on the work at hand, not on managing multiple email and calendar systems.
+
+### Security and Device Compliance
+
+All NKD Agility systems are Microsoft Entra domain-joined with enforced encryption, updates, security policies, and antivirus. If you require us to access your cloud applications with additional security controls, please:
+
+1. Add our domain to your cross-tenant access settings in Microsoft Entra ID.
+2. Trust our Conditional Access policies for guest users across all relevant cloud apps, if you require multifactor authentication or compliant/hybrid-joined devices.
+
 ## Knowledge Sharing & Open Contribution
 
 We encourage our consultants to contribute back to the broader community through blog posts, talks, or open-source projects—especially when tackling real-world technical challenges during engagements. However, no client-specific or identifiable information will ever be shared.
