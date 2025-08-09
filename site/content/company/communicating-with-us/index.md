@@ -19,11 +19,13 @@ headline:
   content: To collaborate effectively with NKD Agility, please follow these steps to configure Microsoft Entra ID and Microsoft Teams for secure communication and device compliance.
 ---
 
-Our consultants work across multiple clients and operate from a **central calendar booking system** and **delegated NKD Agility email accounts**. We do **not** use customer-provided email or calendars, as this can cause scheduling conflicts and distract from the work at hand.
+Our consultants work with multiple clients and operate from NKD Agility–managed systems wherever possible. This approach allows us to maintain high security and compliance standards while delivering value efficiently across all customers. We use Microsoft 365 with a central calendar booking system as our single source of truth for scheduling, along with delegated email accounts accessible to administrative staff when required.
 
-To collaborate effectively and securely, please complete the following steps.
+Using customer-provided email accounts or calendars introduces scheduling conflicts and unnecessary friction. Our priority is for consultants to focus on delivering value, not managing multiple calendars and email systems. Therefore, we do not use customer-provided email accounts or calendars.
 
----
+We prefer to use Microsoft Entra ID Guest accounts for collaboration. However, in some situations, access to your on-premises Active Directory (AD) may be required. In these cases, we recommend creating AD accounts for our consultants without a mailbox and granting only the minimum necessary permissions. Where possible, Guest accounts in Entra ID should be used for all access needs, with AD accounts reserved solely for limited, unavoidable scenarios.
+
+To collaborate effectively and securely, please follow the steps below.
 
 ## 1. Configure Cross-Tenant Access in Microsoft Entra ID
 
