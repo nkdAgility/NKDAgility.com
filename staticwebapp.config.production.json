@@ -15,5 +15,21 @@
     },
     { "route": "/.auth/*", "allowedRoles": ["anonymous"] }
   ],
-  "navigationFallback": { "rewrite": "/index.html", "exclude": ["/.auth/*"] }
+  "navigationFallback": { 
+    "rewrite": "/index.html", 
+    "exclude": [
+      "/.auth/*",
+      "/api/*",
+      "*.json",
+      "*.xml",
+      "*.png",
+      "*.jpg",
+      "*.jpeg",
+      "*.gif",
+      "*.svg",
+      "*.ico",
+      "*.css",
+      "*.js"
+    ] 
+  }
 }
