@@ -225,6 +225,19 @@ We work securely, independently, and with only the access needed to deliver outc
 
 This keeps delivery fast, secure, and focused—without unnecessary operational drag.
 
+### Account Provisioning and Access
+
+NKD Agility consultants operate exclusively from NKD Agility–managed systems and do not use customer-provided email or calendars. We prefer Microsoft Entra ID Guest accounts for all collaboration and recommend avoiding on-premises Active Directory (AD) accounts except in limited, unavoidable cases, such as when access to your on-premises Team Foundation Server (TFS) is required as part of a migration. In such cases, AD accounts should be created without a mailbox and with minimal permissions. Full configuration and security requirements are detailed in our [Communication & Security Setup Guide]({{< ref "/company/communicating-with-us" >}}).
+
+### Security and Device Compliance
+
+All NKD Agility systems are Microsoft Entra domain-joined with enforced encryption, updates, security policies, and antivirus. If you require us to access your cloud applications with additional security controls, please:
+
+1. Add our domain to your cross-tenant access settings in Microsoft Entra ID.
+2. Trust our Conditional Access policies for guest users across all relevant cloud apps, if you require multifactor authentication or compliant/hybrid-joined devices.
+
+See instructions on [Communication & Security Setup Guide]({{< ref "/company/communicating-with-us" >}}).
+
 ## Knowledge Sharing & Open Contribution
 
 We encourage our consultants to contribute back to the broader community through blog posts, talks, or open-source projects—especially when tackling real-world technical challenges during engagements. However, no client-specific or identifiable information will ever be shared.

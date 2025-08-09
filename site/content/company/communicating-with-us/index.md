@@ -1,6 +1,7 @@
 ---
-title: Communicating with Us
-description: naked Agility Partnership Communications
+title: Working With Us – Communication & Security Setup
+short_title: Communication & Security Setup
+description: To collaborate effectively with NKD Agility, please follow these steps to configure Microsoft Entra ID and Microsoft Teams for secure communication and device compliance.
 menus:
   footer:
     - params:
@@ -11,75 +12,89 @@ menus:
 layout: informational
 aliases:
   - /communicate/
+  - /company/communicating-with-us/
 headline:
   cards: []
-  title: Communicating with Us
-  content: Transform your organisation with engineering excellence and technical leadership through DevOps, Agile, Scrum, and Kanban. Empower teams to innovate, adapt, and deliver lasting value with clear goals and continuous feedback. Consistently. Reliably. Effectively.
+  title: Communication & Security Setup
+  content: To collaborate effectively with NKD Agility, please follow these steps to configure Microsoft Entra ID and Microsoft Teams for secure communication and device compliance.
 ---
 
-We use Microsoft Teams for all our communications. If you are a client or partner of naked Agility we want you and your people to be able to communicate with us easily. We have a few simple steps to ensure that you can communicate with us effectively as may IT departments lock down Teams communication to only allow communication with known domains.
+Our consultants work with multiple clients and operate from NKD Agility–managed systems wherever possible. This approach allows us to maintain high security and compliance standards while delivering value efficiently across all customers. We use Microsoft 365 with a central calendar booking system as our single source of truth for scheduling, along with delegated email accounts accessible to administrative staff when required.
 
-To facilitate seamless two-way communication between your organisation and nkdagility.com, please follow the steps outlined below.
+Using customer-provided email accounts or calendars introduces scheduling conflicts and unnecessary friction. Our priority is for consultants to focus on delivering value, not managing multiple calendars and email systems. Therefore, we do not use customer-provided email accounts or calendars.
 
-**1. Configuring Microsoft Teams to Allow External Communication**
+We prefer to use Microsoft Entra ID Guest accounts for collaboration. However, in some situations, access to your on-premises Active Directory (AD) may be required. In these cases, we recommend creating AD accounts for our consultants without a mailbox and granting only the minimum necessary permissions. Where possible, Guest accounts in Entra ID should be used for all access needs, with AD accounts reserved solely for limited, unavoidable scenarios.
 
-To enable your users to communicate with nkdagility.com via Microsoft Teams, adjust the external access settings as follows:
+To collaborate effectively and securely, please follow the steps below.
 
-- **Access the Teams Admin Center**:
+## 1. Configure Cross-Tenant Access in Microsoft Entra ID
 
-  - Navigate to the [Microsoft Teams admin center](https://admin.teams.microsoft.com/).
-  - Ensure you have the necessary administrative privileges.
+Setting up Cross-Tenant Access ensures trusted, secure collaboration between your organisation and NKD Agility, covering both Microsoft Teams communication and device/MFA compliance.
 
-- **Modify External Access Settings**:
-  - In the left-hand navigation pane, select **Users** > **External access**.
-  - Under **Choose which domains your users have access to**, select **Allow only specific external domains**.
-  - Click on **Add a domain** and enter `nkdagility.com`.
-  - Click **Done**, then **Save** to apply the changes.
+1. Sign in to the [Microsoft Entra admin center](https://entra.microsoft.com/) with administrative privileges.
 
-This configuration ensures that your users can communicate with users from nkdagility.com.
+2. Go to **External Identities > Cross-tenant access settings > Organizational settings**.
+
+3. Click **Add organization**, enter `nkdagility.com`, and select the matching result.
+
+4. Once added, configure the following:
+
+   **Inbound Access** (NKD Agility → Your Organisation)
+   - Under **B2B collaboration**, select **Customize settings**.
+   - In **External users and groups**, select **Allow access**.
+     - Recommended: “All naked Agility with Martin Hinshelwood users and groups” (safe default).
+     - Higher security: specify individual object IDs. Martin Hinshelwood’s ID is `ea9573be-3654-4a29-8abd-43d300baa351`.
+
+   - In **Applications**, select **Allow access** and include **Microsoft Teams** (and any other required apps).
+   - Optionally, **trust MFA** and **device compliance** claims to reduce sign-in friction.
+
+   **Outbound Access** (Your Organisation → NKD Agility)
+   - Under **B2B collaboration**, select **Customize settings**.
+   - Allow the relevant users/groups.
+   - Allow required applications (e.g., Microsoft Teams).
+
+5. Click **Save** to apply all settings.
+
+[Microsoft Learn: Cross-tenant access configuration](https://learn.microsoft.com/en-us/entra/external-id/cross-tenant-access-settings-b2b-collaboration)
+
+---
+
+## 1.2 Collaborating Seamlessly via Microsoft Teams
+
+Some IT departments restrict Teams communication to specific domains. If you do, please allow `nkdagility.com` so your users can chat and meet with our team.
+
+1. Sign in to the [Microsoft Teams admin center](https://admin.teams.microsoft.com/) with admin rights.
+2. Go to **Users > External access**.
+3. Under **Choose which domains your users have access to**, select **Allow only specific external domains**.
+4. Add `nkdagility.com`.
+5. Click **Done**, then **Save**.
 
 [Microsoft Learn: Manage external access in Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/trusted-organizations-external-meetings-chat)
 
-**2. Configuring Microsoft Entra ID (Azure Active Directory) for Cross-Tenant Access**
+---
 
-To establish a trusted relationship between your organisation and nkdagility.com, configure cross-tenant access settings in Microsoft Entra ID:
+## 1.3 Security & Device Compliance
 
-- **Access the Microsoft Entra Admin Center**:
+All NKD Agility systems are **Microsoft Entra domain-joined** with:
 
-  - Navigate to the [Microsoft Entra admin center](https://entra.microsoft.com/).
-  - Ensure you have the necessary administrative privileges.
+- Enforced encryption
+- Automatic updates
+- Security policy enforcement
+- Antivirus protection
 
-- **Add nkdagility.com as an External Organisation**:
+If you require device compliance or MFA for guest access to your cloud applications, the Cross-Tenant Access configuration in **Step 1** should:
 
-  - In the left-hand navigation pane, select **External Identities** > **Cross-tenant access settings**.
-  - Go to the **Organizational settings** tab and click on **Add organization**.
-  - Enter `nkdagility.com` and select the organisation from the search results.
-  - Click **Add** to include nkdagility.com in your list of external organisations.
+- Include our domain in your trusted organisations.
+- Trust NKD Agility’s **Conditional Access policies** for guest users across all relevant cloud apps.
 
-- **Configure Inbound Access Settings**:
+This ensures secure access while allowing our consultants to work efficiently.
 
-  - Select nkdagility.com from your list of external organisations.
-  - Under **Inbound access**, select **B2B collaboration** and choose **Customize settings**.
-  - In the **External users and groups** section, select **Allow access** and specify the users or groups from nkdagility.com permitted to access your resources.
-    - **For most organisations**: It's perfectly safe to select "All naked Agility with Martin Hinshelwood users and groups" as the B2B collaboration does not give users in the configured tenant any permissions to access data, only to message those in your organisation via Teams.
-    - **For companies with stringent security requirements**: You can specify individual users by their object ID. Martin Hinshelwood's object ID is: `ea9573be-3654-4a29-8abd-43d300baa351`
-  - In the **Applications** section, select **Allow access** and specify the applications (e.g., Microsoft Teams) that these external users can access.
-  - Click **Save** to apply the inbound settings.
+---
 
-- **Configure Outbound Access Settings**:
-  - Under **Outbound access**, select **B2B collaboration** and choose **Customize settings**.
-  - In the **Users and groups** section, select **Allow access** and specify the internal users or groups permitted to access nkdagility.com's resources.
-  - In the **Applications** section, select **Allow access** and specify the applications that your users can access in nkdagility.com.
-  - Click **Save** to apply the outbound settings.
+## 2. Testing the Setup
 
-These configurations establish a controlled and secure collaboration environment between your organisation and nkdagility.com.
+After completing the steps:
 
-[Microsoft Learn: Configure cross-tenant access settings in Azure Active Directory](https://learn.microsoft.com/en-us/entra/external-id/cross-tenant-access-settings-b2b-collaboration)
-
-**3. Testing the Configuration**
-
-After completing the above configurations, it's advisable to test the setup:
-
-- Initiate a chat or call between users from your organisation and nkdagility.com to confirm that communication is functioning as intended.
-
-By following these steps, you will enable secure and efficient two-way communication between your organisation and nkdagility.com.
+- Initiate a Microsoft Teams chat or call between a user in your organisation and a user in `nkdagility.com`.
+- Confirm that messages and calls work in both directions.
+- Verify that any required MFA or compliance checks function as expected.
