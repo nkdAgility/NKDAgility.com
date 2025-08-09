@@ -83,3 +83,16 @@ After completing the above configurations, it's advisable to test the setup:
 - Initiate a chat or call between users from your organisation and nkdagility.com to confirm that communication is functioning as intended.
 
 By following these steps, you will enable secure and efficient two-way communication between your organisation and nkdagility.com.
+
+## Access to Customer Systems
+
+We understand that some customers provide logins to their local systems. While we appreciate this access, our consultants do not use customer-provided email accounts or calendars.
+
+Our team works with multiple clients and operates from a central calendar booking system, which serves as our single source of truth for scheduling. We also use our own delegated email accounts, accessible to our administrative staff where necessary. Requiring consultants to check customer-specific email or calendars creates scheduling conflicts and unnecessary friction. Our priority is for consultants to focus on the work at hand, not on managing multiple email and calendar systems.
+
+## Security and Device Compliance
+
+All NKD Agility systems are Microsoft Entra domain-joined with enforced encryption, updates, security policies, and antivirus. If you require us to access your cloud applications with additional security controls, please:
+
+1. Add our domain to your cross-tenant access settings in Microsoft Entra ID.
+2. Trust our Conditional Access policies for guest users across all relevant cloud apps, if you require multifactor authentication or compliant/hybrid-joined devices.
