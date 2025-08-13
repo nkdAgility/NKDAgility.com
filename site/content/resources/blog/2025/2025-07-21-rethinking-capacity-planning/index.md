@@ -12,9 +12,9 @@ sitemap:
   changefreq: weekly
 contributors:
   - name: Nigel Thurlow
-    external: https://www.linkedin.com/in/nigelthurlow/
+    external: https://nigelthurlow.com/
   - name: Alex Brown
-    external: https://www.linkedin.com/in/alexbrown/
+    external: https://www.linkedin.com/in/ukalexbrown/
 ResourceId: AhxlPTOD1yy
 ResourceImport: false
 ResourceType: blog
@@ -49,8 +49,8 @@ Watermarks:
   short_title: 2025-07-07T16:43:13Z
   tldr: 2025-07-30T23:22:00Z
 creator: Martin Hinshelwood
-
 ---
+
 Capacity planning is not about filling calendars or counting resource hours. It is about flow, system constraints, and predictability. And importantly, what we are talking about here applies even within environments of strict budgets, immovable deadlines, and rigorous accountabilities. Lean approaches do not discard discipline; they reframe how we achieve predictability, accountability, and sustainable delivery by focusing on the system, not just the parts. These ideas align directly with the Scrum ethos of empirical process control and the Kanban strategy of observing and managing work-in-progress limits to enhance value delivery.
 
 Too many organisations frame capacity as “how many hours does each person have?” or “how many tasks can we assign this sprint?” They fall into the trap of breaking complex, systemic work into artificial personal quotas, focusing on individual loading rates instead of collective flow. This leads to managers obsessing over how ‘utilised’ each person is, mistaking busyness for progress. Teams become overloaded with microtasks, pulled into multitasking, and lose sight of flow efficiency and value creation. This mindset traps them in local optimisations, overload, and multitasking chaos. Everyone looks busy, but value delivery crumbles. Deadlines slip, work piles up, and predictability collapses.
