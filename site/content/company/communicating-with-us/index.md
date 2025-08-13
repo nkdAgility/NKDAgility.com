@@ -19,82 +19,104 @@ headline:
   content: To collaborate effectively with NKD Agility, please follow these steps to configure Microsoft Entra ID and Microsoft Teams for secure communication and device compliance.
 ---
 
-Our consultants work with multiple clients and operate from NKD Agility–managed systems wherever possible. This approach allows us to maintain high security and compliance standards while delivering value efficiently across all customers. We use Microsoft 365 with a central calendar booking system as our single source of truth for scheduling, along with delegated email accounts accessible to administrative staff when required.
+Our consultants work with multiple clients and operate from NKD Agility-managed systems wherever possible. This approach maintains high security and compliance standards while enabling efficient value delivery across customers. We use Microsoft 365 with a central calendar booking system as the single source of truth for scheduling, with delegated email access for administrative staff where required.
 
-Using customer-provided email accounts or calendars introduces scheduling conflicts and unnecessary friction. Our priority is for consultants to focus on delivering value, not managing multiple calendars and email systems. Therefore, we do not use customer-provided email accounts or calendars.
+Using customer-provided email accounts or calendars creates scheduling conflicts and unnecessary friction. Our priority is for consultants to focus on delivering value, not managing multiple accounts. Therefore, we do not use customer-provided email accounts or calendars.
 
-We prefer to use Microsoft Entra ID Guest accounts for collaboration. However, in some situations, access to your on-premises Active Directory (AD) may be required. In these cases, we recommend creating AD accounts for our consultants without a mailbox and granting only the minimum necessary permissions. Where possible, Guest accounts in Entra ID should be used for all access needs, with AD accounts reserved solely for limited, unavoidable scenarios.
-
-To collaborate effectively and securely, please follow the steps below.
+We prefer Microsoft Entra ID Guest accounts for collaboration. Where on-premises Active Directory (AD) access is unavoidable, we recommend creating AD accounts for our consultants without mailboxes and granting only the minimum permissions. Guest accounts in Entra ID should be the default, with AD accounts used only in limited cases.
 
 ## 1. Configure Cross-Tenant Access in Microsoft Entra ID
 
-Setting up Cross-Tenant Access ensures trusted, secure collaboration between your organisation and NKD Agility, covering both Microsoft Teams communication and device/MFA compliance.
+Cross-Tenant Access enables secure collaboration between your organisation and NKD Agility for Teams communication, Shared Channels, and device/MFA compliance.
 
-1. Sign in to the [Microsoft Entra admin center](https://entra.microsoft.com/) with administrative privileges.
+1. Sign in to the [Microsoft Entra admin center](https://entra.microsoft.com/) with admin rights.
+2. Navigate to **External Identities > Cross-tenant access settings > Organizational settings**.
+3. Add `nkdagility.com` as an organisation.
+4. Configure:
+   - **Inbound Access** (NKD Agility → Your Organisation):
+     - Allow access for all NKD Agility users/groups or specify object IDs.
+     - Allow required applications such as Microsoft Teams.
+     - Optionally trust MFA and device compliance.
+     - Enable B2B direct connect for shared channels if needed.
 
-2. Go to **External Identities > Cross-tenant access settings > Organizational settings**.
+   - **Outbound Access** (Your Organisation → NKD Agility):
+     - Allow access for relevant users/groups.
+     - Allow required applications.
+     - Enable B2B direct connect for shared channels.
 
-3. Click **Add organization**, enter `nkdagility.com`, and select the matching result.
-
-4. Once added, configure the following:
-
-   **Inbound Access** (NKD Agility → Your Organisation)
-   - Under **B2B collaboration**, select **Customize settings**.
-   - In **External users and groups**, select **Allow access**.
-     - Recommended: “All naked Agility with Martin Hinshelwood users and groups” (safe default).
-     - Higher security: specify individual object IDs. Martin Hinshelwood’s ID is `ea9573be-3654-4a29-8abd-43d300baa351`.
-
-   - In **Applications**, select **Allow access** and include **Microsoft Teams** (and any other required apps).
-   - Optionally, **trust MFA** and **device compliance** claims to reduce sign-in friction.
-
-   **Outbound Access** (Your Organisation → NKD Agility)
-   - Under **B2B collaboration**, select **Customize settings**.
-   - Allow the relevant users/groups.
-   - Allow required applications (e.g., Microsoft Teams).
-
-5. Click **Save** to apply all settings.
+5. Save settings.
 
 [Microsoft Learn: Cross-tenant access configuration](https://learn.microsoft.com/en-us/entra/external-id/cross-tenant-access-settings-b2b-collaboration)
 
----
+## 1.2 Microsoft Teams Domain Access
 
-## 1.2 Collaborating Seamlessly via Microsoft Teams
+If your Teams access is restricted by domain, allow `nkdagility.com`:
 
-Some IT departments restrict Teams communication to specific domains. If you do, please allow `nkdagility.com` so your users can chat and meet with our team.
-
-1. Sign in to the [Microsoft Teams admin center](https://admin.teams.microsoft.com/) with admin rights.
+1. Sign in to the [Microsoft Teams admin center](https://admin.teams.microsoft.com/).
 2. Go to **Users > External access**.
-3. Under **Choose which domains your users have access to**, select **Allow only specific external domains**.
+3. Choose **Allow only specific external domains**.
 4. Add `nkdagility.com`.
-5. Click **Done**, then **Save**.
+5. Save changes.
 
 [Microsoft Learn: Manage external access in Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/trusted-organizations-external-meetings-chat)
 
----
-
 ## 1.3 Security & Device Compliance
 
-All NKD Agility systems are **Microsoft Entra domain-joined** with:
+All NKD Agility systems are Microsoft Entra domain-joined and have:
 
 - Enforced encryption
 - Automatic updates
 - Security policy enforcement
 - Antivirus protection
 
-If you require device compliance or MFA for guest access to your cloud applications, the Cross-Tenant Access configuration in **Step 1** should:
+If you require device compliance or MFA for guest access, ensure Cross-Tenant Access settings:
 
-- Include our domain in your trusted organisations.
-- Trust NKD Agility’s **Conditional Access policies** for guest users across all relevant cloud apps.
+- Include `nkdagility.com` in trusted organisations.
+- Trust NKD Agility Conditional Access policies.
 
-This ensures secure access while allowing our consultants to work efficiently.
+## 1.4 Using Microsoft Teams Shared Channels (Teams Connect)
 
----
+Shared Channels let you collaborate in a single channel without adding full Guest accounts or making users switch tenants.
+
+**When to choose:**
+
+- Shared Channel: Limited collaboration space (files/chat/meetings) with specific NKD Agility consultants.
+- Guest Access: Broader access across multiple channels in a Team.
+
+**Prerequisites:**
+
+- Cross-tenant access configured for `nkdagility.com` with B2B direct connect allowed.
+- No block on `nkdagility.com` in Teams external access or shared channel policies.
+- Teams policies allowing channel owners to create shared channels and invite external people.
+
+**If you host the Shared Channel:**
+
+1. Verify Teams policy allows shared channel creation and external invitations.
+2. Ensure `nkdagility.com` is allowed in external access.
+3. (Optional) Restrict policy to specific owners.
+4. In Teams:
+   - Go to (or create) the Team.
+   - Add channel > Shared.
+   - Share channel with people/teams/organisations.
+   - Enter consultant email and assign role.
+
+5. NKD Agility user will see the channel under “Shared with me” without tenant switching.
+
+**If NKD Agility hosts:**
+
+- Only B2B direct connect settings are required. Channel will appear automatically when shared.
+
+**Troubleshooting:**
+
+- Invite failure: Check B2B direct connect settings.
+- Channel not visible: Sign out/in or use Teams web client.
+- Policy blocked: Verify Teams policy permissions.
+- Conditional Access loop: Enable trust of NKD Agility MFA/device claims.
 
 ## 2. Testing the Setup
 
-After completing the steps:
+After configuration:
 
-- Initiate a Microsoft Teams chat or call between a user in your organisation and a user in `nkdagility.com`.
-- Confirm that messages and calls work in both directions.
-- Verify that any required MFA or compliance checks function as expected.
+- Test Teams chat/call between your users and `nkdagility.com`.
+- Confirm shared channel access or guest access as configured.
+- Verify MFA or compliance checks as required.
