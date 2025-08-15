@@ -58,6 +58,8 @@ Behavior summary:
 - For course pages include required course front matter (see course docs) or templates may render incomplete blocks.
 - Use `draft: true` while iterating; it’s respected by environment toggles.
 - Don’t edit generated artifacts in `public/`, `.resources/`, or `.data/`.
+- Store images alongside the markdown page (same folder) for locality & easier moves; avoid central dumping grounds.
+- Expect first full build to take 30–60s (taxonomy validation & cached partial generation); incremental changes are faster.
 
 ## 5. Layout Architecture
 

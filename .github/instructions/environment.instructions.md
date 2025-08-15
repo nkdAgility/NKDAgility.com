@@ -6,11 +6,12 @@ applyTo: "README.md"
 
 ## 1. Repository Components (High-Level)
 
-- `site/` Hugo static site.
+- `site/` Hugo static site (Hugo Extended, build ~30–60s on cold start).
 - `functions/` Azure Functions (API).
 - `.powershell/` Automation scripts (front matter, AI enrichment, classification, search, media).
-- `.resources/` Generated reference copies (read-only).
-- `.data/` Generated data artifacts (read-only).
+- `.resources/` Generated reference copies (read-only; never edit, regenerate via scripts).
+- `.data/` Generated data artifacts (read-only; ephemeral, reproducible).
+- `.github/` Workflow & automation configs (GitHub Actions, issue templates, versioning config).
 
 ## 2. Prerequisites (Install Once)
 
@@ -81,7 +82,8 @@ pwsh ./.powershell/build/Build-SearchIndex.ps1
 - Pull Request ⇒ Canary build (preview ring) & environment-specific baseURL.
 - Merge to `main` ⇒ Staging / preview ring.
 - Release tag ⇒ Production deployment.
-  GitVersion determines ring & environment naming; workflow sets `baseURL` & blob URLs.
+  ("Staging" here maps to the preview ring.)
+  GitVersion determines ring & environment naming; workflow sets `baseURL` & blob / image host resolution.
 
 ## 8. Content Editing Basics
 
@@ -107,5 +109,5 @@ See `courses.instructions.md` (applies to `site/content/course_*`). Ensure requi
 
 - Minimal necessary scope each run.
 - Environment parity—avoid code branching unless essential.
-- Generated artifacts are disposable & reproducible.
+- Generated artifacts are disposable & reproducible (never hand-edit `.resources` / `.data`).
 - Reference specialized instructions (site, powershell, courses) first.

@@ -10,7 +10,7 @@ Provides API endpoints & server capabilities (auth helpers, future integrations)
 
 ## 2. Tech Stack Overview
 
-- .NET 8 isolated worker (`Microsoft.Azure.Functions.Worker` preview packages)
+- .NET 8 isolated worker (`Microsoft.Azure.Functions.Worker` preview packages) — roadmap: migrate to .NET 10 once stable & packages exit preview.
 - Application Insights telemetry (`AddApplicationInsightsTelemetryWorkerService`)
 - HTTP triggers (Extensions.Http / AspNetCore)
 
