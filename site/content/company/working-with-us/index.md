@@ -29,7 +29,13 @@ headline:
 
 We operate on a fixed-price model, removing the need for time tracking or seeking additional approvals to ask questions or engage for value. Fees are based on a defined time period. For example, if we agree to a 1-month engagement, the work begins on the agreed start date, and the 1-month period starts then. During this time, we can collaborate as much as needed on any topic within my expertise—whether technical, process-related, or otherwise.
 
-To ensure quality and focus, we limit the number of concurrent customers and never start more than one engagement at a time. This allows us to dedicate the time you need while understanding that we won’t be fully engaged for the entire timebox. Typically, this means we work for you around one-third of the time, but the first few days or weeks often require more focus as we kick off. We don’t track hours, and Iwe don’t overbook engagements.
+> [!TIP]
+> Choose your engagement up front:
+>
+> - _Engagement **Timebox**_: 1 week, 30 days, or 90 days (weekly, monthly, or quarterly).
+> - _Engagement **Level**_: Light, Supportive, Regular, or Deep. See details below in [Engagement Levels](#engagement-levels) and pricing in our [Terms of Business]({{< ref "/company/terms-of-business" >}}).
+
+To ensure quality and focus, we limit the number of concurrent customers and never start more than one engagement at a time. This allows us to dedicate the time you need while understanding that we won’t be fully engaged for the entire timebox. Typically, this means we work for you around one-third of the time, but the first few days or weeks often require more focus as we kick off. We don’t track hours, and we don’t overbook engagements.
 
 For your procurement needs, we provide [Supplier and Bank Account Details]({{< ref "/company/supplier-bank-account-details" >}}), along with the general supplier and insurance information, as well as [Terms of Business]({{< ref "/company/terms-of-business" >}}) for the engagement.
 
