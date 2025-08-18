@@ -32,8 +32,8 @@ We operate on a fixed-price model, removing the need for time tracking or seekin
 > [!TIP]
 > Choose your engagement up front:
 >
-> - Engagement Timebox: 1 week, 30 days, or 90 days (weekly, monthly, or quarterly).
-> - Engagement Level: Light, Supportive, Regular, or Deep. See details below in [Engagement Levels](#engagement-levels) and pricing in our [Terms of Business]({{< ref "/company/terms-of-business" >}}).
+> - _Engagement **Timebox**_: 1 week, 30 days, or 90 days (weekly, monthly, or quarterly).
+> - _Engagement **Level**_: Light, Supportive, Regular, or Deep. See details below in [Engagement Levels](#engagement-levels) and pricing in our [Terms of Business]({{< ref "/company/terms-of-business" >}}).
 
 To ensure quality and focus, we limit the number of concurrent customers and never start more than one engagement at a time. This allows us to dedicate the time you need while understanding that we won’t be fully engaged for the entire timebox. Typically, this means we work for you around one-third of the time, but the first few days or weeks often require more focus as we kick off. We don’t track hours, and we don’t overbook engagements.
 
