@@ -1,0 +1,21 @@
+{{ $resources := .resources }}
+{{ $now := now }}
+<ul>
+  {{ range $resources }}
+    {{ $isFuture := (.Date.After $now) }}
+    {{ $resourceType := .Params.ResourceType | default "article" }}
+    {{ $truncatedDescription := .Description | default .Summary | truncate 200 }}
+    <li>
+      <strong><a href="{{ .Permalink }}">{{ .Params.short_title | default .Title }}</a></strong>
+      {{ if $isFuture }}
+        {{ $duration := .Date.Sub $now }}
+        {{ $days := math.Floor (div $duration.Hours 24) }}
+        <em>(Publishes in {{ $days }} day{{ if ne $days 1 }}s{{ end }})</em>
+      {{ end }}
+      <br />
+      <small>{{ partial "components/resources/functions/get-first-classification.html" . }} • {{ .Date.Format "Jan 2, 2006" }} • {{ $resourceType | title }}</small>
+      <br />
+      {{ $truncatedDescription }}
+    </li>
+  {{ end }}
+</ul>

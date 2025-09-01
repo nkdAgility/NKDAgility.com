@@ -16,7 +16,10 @@
                 <guid>{{ .Permalink }}</guid>
                 {{- end -}}
                 <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</pubDate>
-                <description><![CDATA[ {{ .Content | safeHTML }} ]]></description>
+                <description><![CDATA[ 
+                    {{ .Content | safeHTML }} 
+                    {{- partial "components/resources/related-for-rss.html" (dict "Page" .) | safeHTML }}
+                ]]></description>
                 {{- $keywords := partial "functions/keywords.html" . -}}
                 {{- range $keywords -}}
                 <category>{{ . | htmlEscape }}</category>
