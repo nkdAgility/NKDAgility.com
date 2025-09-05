@@ -5,10 +5,10 @@ description: Explains why dependencies are a sign of poor system design and outl
 tldr: Dependencies are not inevitable but are usually caused by poor system design; instead of managing them, focus on removing them by aligning work, teams, and architecture, making contracts explicit, and clarifying ownership. Only manage the rare dependencies that remain, treating them as design flaws to be fixed, not as normal work. Leadership should prioritise redesigning systems to eliminate dependencies, which leads to faster delivery, fewer defects, and higher team autonomy.
 date: 2025-09-29T09:00:00Z
 lastmod: 2025-09-29T09:00:00Z
-weight: 1000
+weight: 60
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.8
   changefreq: weekly
 ResourceId: eBNUwJszXyE
 ResourceImport: false
@@ -17,17 +17,35 @@ ResourceContentOrigin: hybrid
 slug: don-t-manage-dependencies-remove-them
 aliases:
   - /resources/eBNUwJszXyE
-concepts: []
+concepts:
+  - Tenet
 categories:
-  - Uncategorized
-tags: []
+  - Product Development
+  - Technical Leadership
+  - Engineering Excellence
+tags:
+  - Team Performance
+  - Operational Practices
+  - Organisational Physics
+  - Product Delivery
+  - Organisational Change
+  - Self Organisation
+  - Pragmatic Thinking
+  - Organisational Agility
+  - Value Delivery
+  - Organisational Culture
+  - Large Scale Agility
+  - Team Collaboration
+  - Software Development
+  - Technical Mastery
+  - Scaling
 Watermarks:
   description: 2025-09-04T23:19:42Z
   tldr: 2025-09-04T23:19:46Z
   short_title: 2025-09-04T23:19:48Z
 canvas: https://chatgpt.com/g/g-p-67780943691c819190b48140ff2d4fb9-blogposts/c/68b8ea46-f7b8-8321-97ab-3f498ce690a1
----
 
+---
 _Answering the question: How do you manage dependencies?_
 
 Every large-scale delivery conversation eventually drifts into the same dead-end: _“How do you manage dependencies?”_ The assumption is baked in, that dependencies are inevitable, so the best you can do is build a Gantt chart, track them, and hope for the best.
