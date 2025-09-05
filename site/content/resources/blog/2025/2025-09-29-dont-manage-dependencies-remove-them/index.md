@@ -1,17 +1,33 @@
 ---
-title: "Don’t Manage Dependencies, Remove Them"
+title: Don’t Manage Dependencies, Remove Them
+short_title: Remove Dependencies, Don’t Manage Them
+description: Explains why dependencies are a sign of poor system design and outlines steps to eliminate them by aligning teams, clarifying ownership, and redesigning workflows.
+tldr: Dependencies are not inevitable but are usually caused by poor system design; instead of managing them, focus on removing them by aligning work, teams, and architecture, making contracts explicit, and clarifying ownership. Only manage the rare dependencies that remain, treating them as design flaws to be fixed, not as normal work. Leadership should prioritise redesigning systems to eliminate dependencies, which leads to faster delivery, fewer defects, and higher team autonomy.
 date: 2025-09-29T09:00:00Z
 lastmod: 2025-09-29T09:00:00Z
+weight: 1000
 sitemap:
   filename: sitemap.xml
-  priority: 0.8
+  priority: 0.1
   changefreq: weekly
+ResourceId: eBNUwJszXyE
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
-slug: dont-manage-dependencies-remove-them
-canvas:
----
+slug: don-t-manage-dependencies-remove-them
+aliases:
+  - /resources/eBNUwJszXyE
+concepts: []
+categories:
+  - Uncategorized
+tags: []
+Watermarks:
+  description: 2025-09-04T23:19:42Z
+  tldr: 2025-09-04T23:19:46Z
+  short_title: 2025-09-04T23:19:48Z
+canvas: 
 
+---
 _Answering the question: How do you manage dependencies?_
 
 Every large-scale delivery conversation eventually drifts into the same dead-end: _“How do you manage dependencies?”_ The assumption is baked in, that dependencies are inevitable, so the best you can do is build a Gantt chart, track them, and hope for the best.
