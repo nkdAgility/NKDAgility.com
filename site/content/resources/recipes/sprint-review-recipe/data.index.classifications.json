@@ -1426,13 +1426,23 @@
     "level": "Secondary"
   },
   "Organisational Psychology": {
+    "resourceId": "K4kkSAG3R7m",
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-13T09:52:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:27:49",
+    "ai_confidence": 43.59,
+    "ai_mentions": 0.2,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.8,
+    "ai_intent": 3.9,
+    "ai_audience": 7.1,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "Direct references to organisational psychology or its core theories are almost entirely absent; the content is a practical step-by-step for Sprint Reviews (a Scrum event), focusing on process and tangible outcomes (backlog, forecasting, feedback gathering). There are very brief suggestions of engagement/facilitation (e.g., engaging stakeholders, encouraging feedback), but these are not grounded in psychological principles or discussion of motivation, group dynamics, psychological safety, or culture. The content is audience-aligned with practitioners who might benefit from org-psych insights, but offers only surface-level, incidental relevance, mostly around engagement in reviews. The overall depth and alignment with the definition are weak; intent is practical/process-driven, not focused on exploring psychological drivers or theory. There is little noise, but the core theme is technical practice, not organisational psychology.",
+    "reasoning_summary": "This guide is primarily about the Sprint Review process in Scrum, focused on practical steps and facilitation. While it touches on stakeholder engagement, it lacks psychological theory or discussion of team dynamics, so fit with Organisational Psychology is weak.",
+    "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",

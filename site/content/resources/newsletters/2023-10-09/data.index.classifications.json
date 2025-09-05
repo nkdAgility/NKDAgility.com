@@ -125,12 +125,22 @@
     "reasoning_summary": "This content is a great fit for the category, as it centres on managing the Scrum Product Backlog—a fundamental Scrum practice. It delves into key Scrum concepts, roles, and artefacts, and is tailored for those seeking to deepen their Scrum expertise. The focus on stakeholder involvement and evidence-based decisions further reinforces its relevance to Scrum professionals and training contexts."
   },
   "Automated Testing": {
+    "resourceId": "2G_gVI5phMC",
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T23:36:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum's Product Backlog Management, which is unrelated to automated testing principles and practices.",
+    "calculated_at": "2025-09-05T03:29:00",
+    "ai_confidence": 3.23,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.7,
+    "ai_audience": 7.2,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "There are no direct or indirect references to automated testing, its principles, practices, or tools in the content. The content focuses on product backlog management, stakeholder engagement, and Scrum skills, targeting Agile practitioners, which somewhat overlaps with the likely audience for automated testing topics. Audience and signal-to-noise are moderately high because the structure is focused on professional development and training, but automated testing is neither mentioned nor implied in any dimension. Thus, the confidence score is extremely low as per the provided weighting.",
+    "reasoning_summary": "Content centers on Scrum backlog management and stakeholder skills, not automated testing. No mentions or thematic alignment. Audience overlap is minimal, and there is no relevant discussion. Fit with 'Automated Testing' is almost nonexistent.",
     "level": "Ignored"
   },
   "Evidence Based Management": {

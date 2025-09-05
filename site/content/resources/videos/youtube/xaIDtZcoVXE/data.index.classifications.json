@@ -309,12 +309,22 @@
     "level": "Tertiary"
   },
   "Azure DevOps": {
+    "resourceId": "xaIDtZcoVXE",
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T14:06:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses metrics related to delivery value and organisational capability without specific reference to Azure DevOps services or practices.",
+    "calculated_at": "2025-09-05T03:31:12",
+    "ai_confidence": 18.35,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.9,
+    "ai_intent": 2.6,
+    "ai_audience": 5.0,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on Agile metrics and Evidence-Based Management (EBM), discussing concepts like lead time, cycle time, and other delivery performance indicators. While these topics align conceptually with DevOps and could apply within Azure DevOps, the article makes absolutely no mention of Azure DevOps, its services (Boards, Pipelines, Repos, etc.), or platform-specific usage, best practices, or features. No direct, explicit references, and all examples, recommendations, and advice are platform-agnostic. The audience and practices could overlap with Azure DevOps users, but the content is generic to Agile software delivery and EBM. Thus, the fit is highly partial at best, and the confidence is low.",
+    "reasoning_summary": "Content is a general Agile/Evidence-Based Management discussion with delivery metrics—no Azure DevOps references, tools, or features. Only a loose conceptual overlap with the category, resulting in a very weak fit.",
     "level": "Ignored"
   },
   "Technical Excellence": {

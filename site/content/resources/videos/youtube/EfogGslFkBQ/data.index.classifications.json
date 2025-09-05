@@ -1410,13 +1410,23 @@
     "reasoning_summary": "This content fits the category as it challenges traditional Agile metrics, highlighting the drawbacks of subjective measures like story points and velocity. By advocating for objective metrics such as throughput and cycle time, it supports evidence-based decision-making and continuous improvement—key principles in Agile practices—even though it doesn’t delve deeply into specific methodologies."
   },
   "Application Lifecycle Management": {
+    "resourceId": "EfogGslFkBQ",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T08:06:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and the drawbacks of using story points and velocity as metrics, which are not central to Application Lifecycle Management.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:16",
+    "ai_confidence": 41.84,
+    "ai_mentions": 0.5,
+    "ai_alignment": 4.4,
+    "ai_depth": 4.6,
+    "ai_intent": 4.3,
+    "ai_audience": 8.0,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content thoroughly critiques Agile metrics such as story points and velocity, advocates for throughput and cycle time, and addresses contract misapplications. While metrics and performance are ALM-adjacent, the discussion never explicitly references the management of the full application lifecycle, governance, compliance, or ALM tools. It is focused on team-level Agile practices, not lifecycle management. The audience (Agile practitioners, Scrum Masters, team leads) may overlap with those interested in ALM, but the central theme is improving Agile metric usage, not overall ALM methodology, stages, or tools. Thus, alignment and depth are partial and not direct fits.",
+    "reasoning_summary": "The content critiques Agile metrics and suggests better alternatives for team performance, but does not explicitly discuss application lifecycle stages or governance. Fit to the ALM category is partial and indirect, mainly through performance metrics.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

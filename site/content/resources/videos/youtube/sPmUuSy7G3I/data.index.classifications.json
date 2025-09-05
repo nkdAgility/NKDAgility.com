@@ -331,12 +331,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "sPmUuSy7G3I",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and project management in an Agile environment, but does not focus on engineering practices or methodologies such as clean code, TDD, CI/CD, or automation.",
+    "calculated_at": "2025-09-05T03:31:04",
+    "ai_confidence": 36.475,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.9,
+    "ai_depth": 4.5,
+    "ai_intent": 5.8,
+    "ai_audience": 7.2,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content is focused on planning, prioritisation, and backlog management in Scrum. It references concepts like lean backlogs, continuous iteration, and data-driven decisions, but gives no explicit discussion of clean code, TDD, CI/CD, refactoring, automation, or pair programming. The main alignment with 'Engineering Practices' is tangential—lean thinking and iterative improvement—but these are not engineering practices per se as defined. Audience is practitioners, but the intent is more about workflow/process than core Agile engineering. Mentions of engineering terms are absent; depth and alignment to the category remain superficial. No penalties applied, as the content is current and neither critical nor satirical.",
+    "reasoning_summary": "This content centers on Scrum planning and backlog management, not core engineering practices like TDD or clean code. The fit is partial and tangential—themes of lean and iteration relate weakly, but depth and explicit linkage are lacking.",
     "level": "Ignored"
   },
   "Test Driven Development": {

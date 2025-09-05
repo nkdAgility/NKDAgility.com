@@ -1325,13 +1325,23 @@
     "level": "Ignored"
   },
   "Value Delivery": {
+    "resourceId": "NgoP5W5y7Gs",
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T04:10:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses security practices and methodologies rather than value delivery strategies within Agile, Scrum, or DevOps frameworks.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:28:16",
+    "ai_confidence": 87.541,
+    "ai_mentions": 7.3,
+    "ai_alignment": 9.4,
+    "ai_depth": 8.9,
+    "ai_intent": 8.5,
+    "ai_audience": 8.8,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 88.0,
+    "reasoning": "The content thoroughly discusses shift-left practices (TDD, pair programming, continuous feedback) and how they foster quality, security, and ultimately deliver more value to customers. The Azure DevOps case study links adoption of continuous delivery with greater feature throughput and customer feedback, aligning strongly with iterative value delivery. Principles such as cross-functional teams, empowered delivery, and Lean/Agile improvement cycles are emphasized. While the main lens is quality and security, the repeated focus on faster, incremental delivery, customer happiness, and business agility makes Value Delivery a core theme. There are no evident penalties: content is current, matches audience (Agile/DevOps practitioners and leaders), and remains focused throughout.",
+    "reasoning_summary": "Content deeply aligns with Value Delivery by showing how shift-left, CI/CD, TDD, and feedback improve customer value. Iterative and continuous practices, customer feedback loops, and transformation case studies fit the category’s definition very well.",
+    "level": "Primary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

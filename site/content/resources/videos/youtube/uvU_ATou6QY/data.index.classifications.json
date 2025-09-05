@@ -253,12 +253,22 @@
     "level": "Ignored"
   },
   "Technical Mastery": {
+    "resourceId": "uvU_ATou6QY",
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T18:04:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of a product owner, focusing on project management and organisational dynamics rather than technical practices or software craftsmanship.",
+    "calculated_at": "2025-09-05T03:29:16",
+    "ai_confidence": 22.65,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.4,
+    "ai_intent": 2.7,
+    "ai_audience": 7.3,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on the responsibilities and pitfalls of being a product owner, emphasizing ownership, vision, delivery consistency, and value delivery. While 'product quality' is mentioned, there is negligible discussion of software engineering practices, craftsmanship, clean code, DevOps, testing, or other technical mastery concepts. The primary audience appears to be product owners (not engineers or technical practitioners) and the themes align more with product management excellence. References to 'quality' are not explored via engineering practices; instead, they remain at a high, managerial or product-focused level. No outdated or contradictory viewpoints are evident, so no penalties apply. The confidence score is low, reflecting only minimal indirect conceptual overlap.",
+    "reasoning_summary": "Content is managerial, focusing on product owner behaviors, vision, and delivery. It does not address technical mastery topics except a superficial mention of 'quality.' Fit with the category is poor and indirect.",
     "level": "Ignored"
   },
   "Sprint Review": {

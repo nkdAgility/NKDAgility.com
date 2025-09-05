@@ -226,12 +226,22 @@
     "level": "Ignored"
   },
   "Test Automation": {
+    "resourceId": "HcoTwjPnLC0",
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T23:29:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the roles and responsibilities of a product owner in Agile, with no mention of test automation or related practices.",
+    "calculated_at": "2025-09-05T03:30:00",
+    "ai_confidence": 3.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.7,
+    "ai_intent": 1.9,
+    "ai_audience": 1.7,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content exclusively discusses the distinction between Product Owner and Agile Project Manager roles. There is no mention of automated testing, test automation principles, frameworks, tools, or related CI/CD practices. The main theme, intent, and target audience are unrelated to Test Automation. All mentions, concepts, and depth of discussion focus strictly on Agile roles, thus resulting in very low scores across all dimensions for 'Test Automation'.",
+    "reasoning_summary": "This content centers on differentiating Agile roles, not Test Automation. It contains no relevant topics, intent, or themes matching the category. Fit is extremely low and almost entirely unrelated.",
     "level": "Ignored"
   },
   "Technical Mastery": {

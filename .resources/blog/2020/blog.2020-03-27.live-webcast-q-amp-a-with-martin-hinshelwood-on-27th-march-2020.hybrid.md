@@ -2,30 +2,37 @@
 title: 'Live Webcast: Q&amp;A with Martin Hinshelwood on 27th March 2020'
 short_title: 'Live Q&A: Integrating UX into Scrum Teams'
 description: Martin Hinshelwood answers questions on integrating UX into Scrum teams, sharing practical advice from his experience teaching Professional Scrum with UX.
+tldr: Martin Hinshelwood discusses how to effectively integrate user experience into Scrum teams, drawing on his experience teaching Professional Scrum with UX. He shares practical starting points for combining UX and Scrum practices. Development managers should consider watching the webcast for actionable guidance on improving team collaboration and product outcomes through better UX integration.
 date: 2020-03-27
+lastmod: 2020-03-27
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: s7bwajkP-HP
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: live-webcast-q-amp-a-with-martin-hinshelwood-on-27th-march-2020
 aliases:
-- /resources/s7bwajkP-HP
+  - /resources/s7bwajkP-HP
 aliasesArchive:
-- /blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
-- /live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
-- /live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
-- /blog/live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
-- /resources/blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
-- /resources/blog/live-webcast-q-amp-a-with-martin-hinshelwood-on-27th-march-2020
+  - /blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
+  - /live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
+  - /live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
+  - /blog/live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
+  - /resources/blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
+  - /resources/blog/live-webcast-q-amp-a-with-martin-hinshelwood-on-27th-march-2020
 layout: blog
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:15:58Z
   short_title: 2025-07-07T17:58:18Z
+  tldr: 2025-08-07T13:12:32Z
 ResourceImportId: 44210
 creator: Martin Hinshelwood
 resourceTypes: blog

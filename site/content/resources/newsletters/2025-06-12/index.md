@@ -25,11 +25,11 @@ categories:
   - Technical Leadership
 tags:
   - Operational Practices
+  - Pragmatic Thinking
   - Product Delivery
   - Software Development
   - Technical Excellence
   - Technical Mastery
-  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:49:02Z
   short_title: 2025-07-07T16:43:31Z

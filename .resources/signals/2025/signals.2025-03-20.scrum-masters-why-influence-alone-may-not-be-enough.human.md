@@ -2,44 +2,51 @@
 title: 'Scrum Masters: Why Influence Alone May Not Be Enough'
 short_title: Scrum Masters Need Authority, Not Just Influence
 description: Explores why Scrum Masters need authority, not just influence, to enforce Agile practices, remove blockers, and ensure teams follow Scrum for true organisational agility.
+tldr: Relying only on influence limits a Scrum Master's ability to drive real change, especially when teams or leaders resist Agile practices. Sustainable agility needs Scrum Masters who can enforce the framework, remove obstacles, and hold teams accountable, not just suggest improvements. Development managers should ensure Scrum Masters have enough authority to lead effectively, not just influence.
 date: 2025-03-20T16:30:02+00:00
+lastmod: 2025-03-20T16:30:02+00:00
 weight: 475
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: 7-5f5u_oMbc
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: scrum-masters-why-influence-alone-may-not-be-enough
 aliases:
-- /resources/7-5f5u_oMbc
+  - /resources/7-5f5u_oMbc
 source: LinkedIn
 layout: signal
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Scrum
-- Leadership
+  - Scrum
+  - Leadership
 tags:
-- Software Development
-- Professional Scrum
-- Pragmatic Thinking
-- Organisational Culture
-- Agile Frameworks
-- Agile Transformation
-- Scrum Master
+  - Software Development
+  - Professional Scrum
+  - Pragmatic Thinking
+  - Organisational Culture
+  - Agile Frameworks
+  - Agile Transformation
+  - Scrum Master
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7308525238990917634
-  post_id: "7308525238990917634"
-  post_date: 2025-03-20T16:30:02Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7308525238990917634
+    post_id: "7308525238990917634"
+    post_date: 2025-03-20T16:30:02Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:00Z
   short_title: 2025-07-07T16:45:19Z
+  tldr: 2025-08-07T12:34:37Z
 
 ---
 The idea that Scrum Masters should lead only through influence sounds noble—but in many organisations, it’s also naive.

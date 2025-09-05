@@ -57,16 +57,23 @@
     "level": "Ignored"
   },
   "Tenet": {
+    "resourceId": "Transparency",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:19:55",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 22,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses transparency as a guiding principle within agile processes, which aligns with the tenet of evidence-based decision-making and continuous improvement. However, it does not explicitly mention specific tenets or actionable rules, focusing instead on the concept of transparency itself. While it provides a good depth of discussion on the benefits of transparency, it lacks direct references to established tenets in Agile, Lean, or DevOps methodologies, which limits its classification as a primary focus on 'Tenet'.",
-    "level": "Secondary"
+    "calculated_at": "2025-09-05T03:31:05",
+    "ai_confidence": 83.6,
+    "ai_mentions": 7.8,
+    "ai_alignment": 8.5,
+    "ai_depth": 8.1,
+    "ai_intent": 8.0,
+    "ai_audience": 8.7,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 84.0,
+    "reasoning": "The content frames transparency as a foundational, actionable guiding rule in agile processes, referencing its role in trust, collaboration, continuous improvement, adaptability, and feedback—key aspects of the Tenet category. Transparency is presented not just as a value but as a concrete, prescriptive practice embedded into daily operations, aligning with the definition of a tenet. The discussion is detailed, citing impacts on decision-making, psychological safety, and value delivery, and is highly relevant to agile/DevOps practitioners. There is a minor lack of explicit mention of the term 'tenet' or direct enumeration within a 'tenets' list, which results in a slightly lower direct mention and depth score, but the overall fit is strong and confident.",
+    "reasoning_summary": "This content thoroughly describes transparency as an actionable, guiding rule in agile, closely matching the definition of a tenet. Its focus, depth, and intent strongly align with the category, even if the term 'tenet' itself is not directly stated.",
+    "level": "Primary"
   },
   "Method": {
     "resourceId": "Transparency",

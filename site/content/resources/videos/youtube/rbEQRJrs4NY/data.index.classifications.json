@@ -132,12 +132,22 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "rbEQRJrs4NY",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-20T19:53:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are more related to Agile project management rather than the management of the application lifecycle.",
+    "calculated_at": "2025-09-05T03:27:57",
+    "ai_confidence": 32.3,
+    "ai_mentions": 0.3,
+    "ai_alignment": 3.2,
+    "ai_depth": 2.9,
+    "ai_intent": 4.7,
+    "ai_audience": 6.1,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content is focused on general product development and the importance of user feedback. It discusses practices like validating assumptions and iterating based on feedback, which are broadly relevant to software but do not directly address core ALM concepts, such as managing the entire lifecycle, governance, ALM frameworks, or lifecycle-specific tooling. There is no direct mention of 'Application Lifecycle Management' nor a thorough discussion of ALM best practices, methodologies, or processes. The target audience overlaps somewhat (product practitioners), but the main theme is product value validation, not lifecycle management. Therefore, the fit with the ALM category is partial and indirect.",
+    "reasoning_summary": "While user feedback and iterative improvement are relevant to application lifecycle phases, the content is about product value validation, not lifecycle governance, stages, or ALM best practices. Fit is partial and topic alignment is weak.",
     "level": "Ignored"
   },
   "Agile Product Management": {

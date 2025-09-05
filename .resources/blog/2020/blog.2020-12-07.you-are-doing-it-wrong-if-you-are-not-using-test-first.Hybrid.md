@@ -2,52 +2,59 @@
 title: You are doing it wrong if you are not using test first
 short_title: Test First Practices for Quality Software
 description: Explains how adopting test-first practices in software development improves quality, reduces bugs, and enables confident continuous delivery by validating requirements early.
+tldr: Using test-first approaches like Test Driven Development helps teams deliver software that meets customer needs, reduces maintenance costs, and prevents bugs from reaching production. Writing tests before coding ensures validation at every step, shortens feedback loops, and makes it easier and cheaper to fix issues early. To improve quality and enable confident continuous delivery, development managers should encourage their teams to adopt test-first practices.
 date: 2020-12-07
-weight: 255
+lastmod: 2020-12-07
+weight: 395
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: yqHaiUlMNTP
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: you-are-doing-it-wrong-if-you-are-not-using-test-first
 aliases:
-- /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
-- /you-are-doing-it-wrong-if-you-are-not-using-test-first
-- /resources/yqHaiUlMNTP
-- /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
+  - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
+  - /you-are-doing-it-wrong-if-you-are-not-using-test-first
+  - /resources/yqHaiUlMNTP
+  - /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 aliasesArchive:
-- /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
-- /you-are-doing-it-wrong-if-you-are-not-using-test-first
-- /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
+  - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
+  - /you-are-doing-it-wrong-if-you-are-not-using-test-first
+  - /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 layout: blog
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
-- Engineering Excellence
+  - Product Development
+  - Engineering Excellence
 tags:
-- Technical Excellence
-- Engineering Practices
-- Software Development
-- Test First Development
-- Operational Practices
-- Test Automation
-- Working Software
-- Automated Testing
-- Technical Mastery
-- Test Driven Development
-- Pragmatic Thinking
-- Value Delivery
-- Shift Left Strategy
-- Competence
-- Product Delivery
+  - Technical Mastery
+  - Technical Excellence
+  - Engineering Practices
+  - Software Development
+  - Test First Development
+  - Operational Practices
+  - Test Automation
+  - Working Software
+  - Automated Testing
+  - Test Driven Development
+  - Pragmatic Thinking
+  - Value Delivery
+  - Shift Left Strategy
+  - Competence
+  - Product Delivery
 platform_signals:
-- platform: Scrumorg
-  post_url: https://www.scrum.org/resources/blog/if-you-are-not-doing-test-first-then-you-are-doing-it-wrong
-  post_date: 2021-01-10T09:00:00Z
-  post_type: crosspost
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/if-you-are-not-doing-test-first-then-you-are-doing-it-wrong
+    post_date: 2021-01-10T09:00:00Z
+    post_type: crosspost
 Watermarks:
   description: 2025-05-07T13:15:17Z
   short_title: 2025-07-07T17:57:45Z
+  tldr: 2025-08-07T13:10:51Z
 ResourceImportId: 9469
 AudioNative: true
 creator: Martin Hinshelwood

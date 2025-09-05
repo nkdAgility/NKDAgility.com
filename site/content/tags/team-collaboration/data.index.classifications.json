@@ -209,17 +209,23 @@
     "level": "Ignored"
   },
   "Principle": {
+    "resourceId": "Team Collaboration",
     "category": "Principle",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content discusses team collaboration in detail, linking it to principles such as continuous improvement and value delivery. It explicitly mentions the importance of fostering a collaborative environment, which aligns with the principles of Agile, Lean, and DevOps. The depth of discussion on how collaboration enhances adaptability and decision-making further supports its relevance to the category. However, while it touches on principles, it does not explicitly define or focus solely on them, which slightly lowers the confidence score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores team collaboration and connects it to Agile, Lean, and DevOps principles. By highlighting how collaboration drives adaptability and better decisions, it demonstrates clear relevance. However, since it doesn’t focus exclusively on defining these principles, the fit is solid but not absolute."
+    "calculated_at": "2025-09-05T03:31:53",
+    "ai_confidence": 72.45,
+    "ai_mentions": 5.7,
+    "ai_alignment": 8.1,
+    "ai_depth": 7.9,
+    "ai_intent": 8.0,
+    "ai_audience": 7.5,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 72.0,
+    "reasoning": "The content centers on actionable concepts such as shared ownership, adaptability, value delivery, and continuous improvement—well-aligned with principles in Agile, Lean, or DevOps. While it does not directly use the word 'principle', its discussion frequently addresses foundational rules shaping team behavior (e.g., breaking down silos, empowering teams, collective responsibility). The depth extends to practical outcomes (innovation, engagement), and the audience is practitioners or leaders in collaborative, agile-oriented settings. However, there is some generality and overlap with values (e.g., trust, openness) and fewer explicit references to principles as such, resulting in slightly lower scores for mention and signal. No penalties applied as the tone and examples are up-to-date and fully supportive.",
+    "reasoning_summary": "This content focuses on actionable, guiding rules that shape team behavior (collaboration, adaptability, value delivery), making it a good—though not explicit—fit for the Principle category. Emphasis on outcomes and methods aligns with key Agile/DevOps principles.",
+    "level": "Secondary"
   },
   "Artifact": {
     "resourceId": "Team Collaboration",

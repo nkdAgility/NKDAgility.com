@@ -1315,13 +1315,23 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "_5daB0lJpdc",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T12:59:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the value and impact of certifications in Agile roles, rather than focusing on engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:06",
+    "ai_confidence": 45.524,
+    "ai_mentions": 1.0,
+    "ai_alignment": 4.4,
+    "ai_depth": 5.2,
+    "ai_intent": 6.1,
+    "ai_audience": 6.5,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 46.0,
+    "reasoning": "The content focuses on resisting dogmatism in Agile by advocating for flexibility and pragmatism, emphasizing adaptation and people-centric values over rigid process adherence. While these are essential to Agile, the discussion does not substantially address technical excellence as defined (i.e., TDD, CI/CD, architectural practices). The only tangential connection is the mention of fostering continuous improvement and value delivery, which aligns weakly with technical excellence. The discussion remains largely about team mindset, inclusiveness, and process flexibility rather than engineering practices. No penalties apply since the content isn't critical or outdated. Scores reflect minor reference overlap, with only a peripheral link to technical excellence through the general Agile improvement lens.",
+    "reasoning_summary": "Content stresses Agile pragmatism over rigid dogma, focusing on people, flexibility, and adapting processes. It only tangentially aligns with technical excellence, lacking substantive discussion of engineering or technical practices.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "resourceId": "_5daB0lJpdc",

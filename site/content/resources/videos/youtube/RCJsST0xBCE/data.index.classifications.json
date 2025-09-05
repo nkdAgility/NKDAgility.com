@@ -192,13 +192,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "RCJsST0xBCE",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T11:35:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on Azure DevOps migration tools and practices, not on the broader management of the application lifecycle.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:12",
+    "ai_confidence": 58.475,
+    "ai_mentions": 2.2,
+    "ai_alignment": 6.7,
+    "ai_depth": 6.2,
+    "ai_intent": 7.1,
+    "ai_audience": 8.3,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 58.0,
+    "reasoning": "The content provides a comprehensive guide to migrating work items within Azure DevOps using specialized tools. It details setup, configuration, best practices, and troubleshooting for migrations. The topic is closely related to the management and transition of artifacts (work items) between DevOps environments—a relevant component of application lifecycle management (ALM), especially during modernization or cloud adoption. However, it focuses specifically on migration processes and tooling, without fully exploring broader ALM processes such as governance, compliance, full lifecycle stages (beyond migration), or metrics. Its main audience—technical practitioners managing DevOps migrations—overlaps with ALM stakeholders. The intent is instructional and supportive, which fits the category's orientation, but the deep dive is limited to migration scenarios, not the entire ALM spectrum. No penalties for obsolescence or tone are needed, as it references current Azure practices.",
+    "reasoning_summary": "While the article is detailed and focused on migration tooling within Azure DevOps—a valid ALM concern—it covers only a subset of ALM's broader scope and does not explicitly discuss lifecycle management as a continuous process.",
+    "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",

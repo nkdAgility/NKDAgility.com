@@ -114,16 +114,23 @@
     "level": "Primary"
   },
   "Practice": {
+    "resourceId": "Organisational Agility",
     "category": "Practice",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the concept of Organisational Agility, which touches on themes of adaptability and continuous improvement. However, it lacks direct mentions of specific practices or actionable techniques that teams can implement. The focus is more on the overarching concept rather than on practical methods, resulting in a low confidence score for the 'Practice' category.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:09",
+    "ai_confidence": 44.5,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.4,
+    "ai_depth": 4.2,
+    "ai_intent": 5.9,
+    "ai_audience": 8.0,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "The content discusses 'Organisational Agility' as a broad capability, focusing on culture, mindset, and adaptability at a strategic level. While terms like 'continuous improvement', 'collaboration', and 'value delivery' are mentioned (which are closely linked to many practices), no specific, actionable techniques or repeatable team habits are described. There are no direct examples of practices like retrospectives, pair programming, Kanban, or similar. Depth and alignment scores are moderate since the theme is relevant to the outcomes practices seek to achieve, but the content remains at the conceptual and organisational level rather than discussing concrete, actionable practices. Audience alignment and signal are strong due to the focus on teams and organisational effectiveness, but the overall fit for the 'Practice' category is partial and more indirect.",
+    "reasoning_summary": "The content focuses on organisational mindset and systemic agility, not specific actionable team practices. There is conceptual overlap with continuous improvement, but no direct discussion of repeatable team techniques as defined in the 'Practice' category.",
+    "level": "Tertiary"
   },
   "Philosophy": {
     "resourceId": "Organisational Agility",

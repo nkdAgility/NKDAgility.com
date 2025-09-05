@@ -95,16 +95,23 @@
     "level": "Primary"
   },
   "Strategy": {
+    "resourceId": "Release Management",
     "category": "Strategy",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 42.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 15,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses Release Management in detail, focusing on its role in planning and controlling software releases. While it mentions alignment with organisational goals and customer needs, the primary focus is on operational aspects rather than high-level strategic discussions. The content does not delve deeply into strategic frameworks or decision-making processes, which are essential for a stronger alignment with the Strategy category.",
-    "level": "Tertiary"
+    "calculated_at": "2025-09-05T03:30:43",
+    "ai_confidence": 38.36,
+    "ai_mentions": 2.1,
+    "ai_alignment": 4.0,
+    "ai_depth": 4.3,
+    "ai_intent": 3.5,
+    "ai_audience": 4.8,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content focuses on the operational and tactical domain of release management, with clear distinctions made between operational practices and strategy. It refers to alignment with organisational goals and integrates with Agile, but explicitly states that Release Management is not strategic like Agile Planning or Product Management. Depth and conceptual alignment are moderate, as some strategic terms and goals are mentioned, but the primary discussion concerns execution rather than strategy itself. The content is relevant to both practitioners and managers but targets an audience more interested in operational delivery. Most of the content is operationally focused, thus lowering alignment, depth, and intent scores for strategy.",
+    "reasoning_summary": "While some strategic alignment is briefly referenced, the content is fundamentally operational, not meeting the definition of strategy. Its main themes and purpose are execution-focused, so fit with 'Strategy' is weak and indirect at best.",
+    "level": "Ignored"
   },
   "Practice": {
     "resourceId": "Release Management",

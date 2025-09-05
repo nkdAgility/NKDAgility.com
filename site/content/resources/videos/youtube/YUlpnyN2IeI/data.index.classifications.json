@@ -1427,12 +1427,22 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "YUlpnyN2IeI",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-11T22:01:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum principles and practices, which are not directly related to Application Lifecycle Management.",
+    "calculated_at": "2025-09-05T03:30:36",
+    "ai_confidence": 25.92,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.7,
+    "ai_intent": 2.1,
+    "ai_audience": 8.0,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "Direct mentions of 'Application Lifecycle Management' (ALM), or lifecycle stages, are absent. The text is focused heavily on Scrum flexibility and pragmatism. While Agile and Scrum can be ALM components, the discussion does not extend to managing the full application lifecycle, governance, tooling, or ALM processes. Rather, the post encourages adapting Scrum pragmatically for continuous improvement and learning, targeting Scrum practitioners or Agile learners—not ALM decision-makers or strategists. Nearly all content signal is about working with Scrum processes at a practical team level. There is no evidence of lifecycle-wide management, oversight, change management, or ALM tooling. Audience overlap is moderate, since practitioners might touch ALM, but overall, ALM fit is weak.",
+    "reasoning_summary": "Content focuses on pragmatic Scrum practice, not application lifecycle management. It lacks lifecycle, governance, and tooling themes required by the category; fit is minimal and tangential at best.",
     "level": "Ignored"
   },
   "Value Stream Management": {

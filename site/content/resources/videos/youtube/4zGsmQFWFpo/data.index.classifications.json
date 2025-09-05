@@ -283,12 +283,22 @@
     "level": "Ignored"
   },
   "Azure Repos": {
+    "resourceId": "4zGsmQFWFpo",
     "category": "Azure Repos",
-    "calculated_at": "2025-02-12T11:01:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:27:39",
+    "ai_confidence": 3.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.8,
+    "ai_intent": 2.2,
+    "ai_audience": 5.1,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content thoroughly discusses Agile, Scrum roles, organizational capability, and leadership, but makes zero direct reference or even indirect thematic tie-ins to Azure Repos, source control, or related DevOps tooling. All core themes are misaligned with the specified Azure Repos category. The audience partially overlaps with technical practitioners, but intent, depth, and signal are off-topic.",
+    "reasoning_summary": "Content is unrelated to Azure Repos, focusing exclusively on Agile roles, leadership, and organizational competence. There is no mention or exploration of source control or Azure Repos functionalities. Fit is minimal to none.",
     "level": "Ignored"
   },
   "Transparency": {

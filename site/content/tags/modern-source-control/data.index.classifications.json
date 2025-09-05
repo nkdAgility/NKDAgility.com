@@ -114,17 +114,23 @@
     "level": "Tertiary"
   },
   "Practice": {
+    "resourceId": "Modern Source Control",
     "category": "Practice",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 32.0,
-    "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "The content discusses best practices for version control and branching strategies, which are essential components of effective team collaboration and continuous improvement in software development. It explicitly mentions the importance of source control in delivering value and facilitating CI/CD, aligning well with the core themes of the 'Practice' category. The depth of discussion is substantial, covering various aspects of source control and its impact on team performance, but it does not delve into specific actionable techniques or habits, which slightly lowers the score.",
-    "level": "Primary",
-    "reasoning_summary": "This content is well-suited to the 'Practice' category, as it explores key principles of version control and branching strategies that underpin successful team collaboration and continuous delivery. While it thoroughly addresses the significance of source control in software development, it stops short of offering detailed, step-by-step practices, focusing instead on broader concepts and their impact."
+    "calculated_at": "2025-09-05T03:32:14",
+    "ai_confidence": 94.23,
+    "ai_mentions": 8.7,
+    "ai_alignment": 9.6,
+    "ai_depth": 9.3,
+    "ai_intent": 9.5,
+    "ai_audience": 8.9,
+    "ai_signal": 9.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 94.0,
+    "reasoning": "The content extensively covers actionable, repeatable practices related to version control and branching, with direct mentions of 'best practices' and 'practice.' The discussion is deep and practical, focusing on techniques (branching, CI/CD enablement) that improve team effectiveness and delivery. There is strong conceptual alignment with 'Practice' as defined, including the targeting of practitioner audiences and a focused discussion with little filler or off-topic material. No penalties apply: All practices discussed are modern and relevant; no negative tone is used.",
+    "reasoning_summary": "This content deeply explores actionable version control practices (branching, workflows), aligning closely with the 'Practice' category in purpose, intent, and audience. It provides practical, in-depth guidance with little irrelevant material.",
+    "level": "Primary"
   },
   "Philosophy": {
     "resourceId": "Modern Source Control",

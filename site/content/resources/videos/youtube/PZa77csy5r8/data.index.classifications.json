@@ -118,12 +118,22 @@
     "level": "Ignored"
   },
   "Windows": {
+    "resourceId": "PZa77csy5r8",
     "category": "Windows",
-    "calculated_at": "2025-02-12T16:53:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt management and software development practices, with no focus on the Windows operating system or related topics.",
+    "calculated_at": "2025-09-05T03:28:07",
+    "ai_confidence": 3.549,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.4,
+    "ai_audience": 0.7,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content thoroughly discusses technical debt in software development, referencing Azure DevOps and Agile methodologies, but never addresses Windows OS, its configuration, installation, troubleshooting, or any of its features. The themes, terminology, audience, and purpose focus on general engineering, process change, and software quality, not on managing or utilising the Windows environment specifically. No direct or indirect mention of Windows or its related aspects occurs in the text. It is, therefore, almost entirely outside the Windows category’s definition, with only a vague and incidental chance that some referenced tools may run on Windows, but this is not discussed.",
+    "reasoning_summary": "Content focuses on technical debt and engineering processes, not Windows OS. No direct or conceptual alignment with Windows category. Fit is minimal and likely coincidental.",
     "level": "Ignored"
   },
   "Mentoring": {

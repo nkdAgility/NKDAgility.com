@@ -2,44 +2,51 @@
 title: Understanding Blocked Columns and Stalled Work in Project Boards
 short_title: Blocked Columns vs Stalled Work in Project Boards
 description: Explains why using blocked columns for stalled tasks on project boards harms workflow, and suggests better ways to highlight and address blocked work without losing progress.
+tldr: Using a separate "Blocked" column on project boards makes stalled work seem normal, leading to forgotten tasks, inflated work-in-progress, and lost context. Instead, keep blocked items visible in their current workflow state and highlight or tag them so the team addresses issues quickly. Review your process to ensure blocked work is surfaced and resolved without becoming invisible.
 date: 2025-03-04T16:30:01+00:00
+lastmod: 2025-03-04T16:30:01+00:00
 weight: 305
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: 6K6oGV9pRbC
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: understanding-blocked-columns-and-stalled-work-in-project-boards
 aliases:
-- /resources/6K6oGV9pRbC
+  - /resources/6K6oGV9pRbC
 source: LinkedIn
 layout: signal
 concepts:
-- Practice
+  - Practice
 categories:
-- Kanban
-- Product Development
+  - Kanban
+  - Product Development
 tags:
-- Pragmatic Thinking
-- Software Development
-- Team Performance
-- Lean Thinking
-- Flow Efficiency
-- Operational Practices
-- Miscellaneous
+  - Pragmatic Thinking
+  - Software Development
+  - Team Performance
+  - Lean Thinking
+  - Flow Efficiency
+  - Operational Practices
+  - Miscellaneous
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7302727026837213184
-  post_id: "7302727026837213184"
-  post_date: 2025-03-04T16:30:01Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7302727026837213184
+    post_id: "7302727026837213184"
+    post_date: 2025-03-04T16:30:01Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:34Z
   short_title: 2025-07-07T16:45:37Z
+  tldr: 2025-08-07T12:35:14Z
 
 ---
 Blocked columns seem harmless—just another column to keep track of stalled work. But they aren’t harmless. They’re workflow kryptonite.

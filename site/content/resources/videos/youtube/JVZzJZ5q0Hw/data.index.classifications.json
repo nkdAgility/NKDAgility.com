@@ -1321,12 +1321,22 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "JVZzJZ5q0Hw",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T05:35:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:29:52",
+    "ai_confidence": 37.748,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.9,
+    "ai_intent": 3.3,
+    "ai_audience": 2.7,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content focuses specifically on the Sprint Goal within Scrum, detailing its tactical role and importance for teams. However, there are no explicit mentions of 'business agility,' and its concepts stay within Scrum practices rather than discussing broader organisational adaptability or agility principles. While Sprint Goals can contribute to business agility in a larger context, this connection isn't discussed, and the content mainly targets scrum practitioners interested in concrete team-level tools. It is only loosely aligned at the conceptual level because tactical Scrum artefacts may indirectly support business agility, but this is neither explicit nor explored in depth. Therefore, the fit is partial and low-confidence for this category.",
+    "reasoning_summary": "Primary focus is on Sprint Goals in Scrum, not on business agility as a broad organisational capability. No direct category mention, with only minor conceptual overlap. Fit is partial and indirect.",
     "level": "Ignored"
   },
   "Kanban": {

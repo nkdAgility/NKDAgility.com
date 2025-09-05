@@ -208,13 +208,23 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "gM0_K8u2puo",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not central to Engineering Practices as defined.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:28:35",
+    "ai_confidence": 52.65,
+    "ai_mentions": 1.8,
+    "ai_alignment": 5.2,
+    "ai_depth": 5.6,
+    "ai_intent": 6.7,
+    "ai_audience": 8.2,
+    "ai_signal": 8.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 53.0,
+    "reasoning": "The content focuses on the benefits of frequent product releases, tight release cadence, agility, and user feedback to gain market leadership. While frequent releases and continuous delivery are mentioned, the discussion is centered on business outcomes, adaptation, and user engagement, not on the underpinning engineering practices or methodologies (e.g., TDD, clean code, CI/CD specifics, automation). No explicit or detailed treatment of Agile engineering fundamentals is provided—practice alignment is moderate, depth is partial. The audience is mostly technical/business hybrid, which fits, but the primary theme is product leadership, not core engineering methods.",
+    "reasoning_summary": "Content partially fits the category by mentioning frequent releases and value delivery, but lacks focus or depth on core engineering practices like CI/CD, clean code, or automation. The intent is more business- and market-oriented than engineering-practices-focused.",
+    "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",

@@ -521,12 +521,22 @@
     "level": "Secondary"
   },
   "Engineering Practices": {
+    "resourceId": "o-wVeh3CIVI",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T07:25:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum as a project management framework and social technology, without addressing core engineering practices such as clean code, TDD, CI/CD, or related methodologies.",
+    "calculated_at": "2025-09-05T03:30:54",
+    "ai_confidence": 23.25,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.5,
+    "ai_intent": 3.1,
+    "ai_audience": 5.2,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content is an introductory overview of Scrum as a framework for organizing teams and navigating complex tasks. It does not explicitly mention or focus on engineering practices such as clean code, test-driven development, automation, refactoring, or CI/CD. Instead, it centers on the philosophy, intent, and social aspects of Scrum, with only general references to team productivity and adaptation. The language is broad, audience-targeted for those interested in Agile and Scrum, but lacks technical or engineering-specific detail. There are no outdated concepts or oppositional tone, so no penalties are applied.",
+    "reasoning_summary": "The content discusses Scrum mainly as a team organization and complexity-management tool, not as specific engineering practices. No core engineering methods (TDD, CI/CD, clean code) are covered. Fit is minimal and largely indirect.",
     "level": "Ignored"
   },
   "Lean Principles": {

@@ -277,12 +277,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "TcnVsQbE8xc",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T20:39:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:30:35",
+    "ai_confidence": 1.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.6,
+    "ai_intent": 2.2,
+    "ai_audience": 4.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is exclusively focused on the benefits and topics surrounding the PSM II Scrum Master course. It does not mention Azure Pipelines, CI/CD, or any Azure DevOps services directly or indirectly. There is a very minor reference to automation practices, but this is generic and not related to pipeline automation or Azure technology. The themes, intent, and audience are all targeted at Scrum Masters, agile practitioners, and those interested in scrum team coaching—not at technical practitioners working with Azure Pipelines or related DevOps tooling. Scoring is correspondingly minimal across all dimensions.",
+    "reasoning_summary": "Content is focused on Scrum Mastery and PSM II course benefits with no mention or alignment to Azure Pipelines. No conceptual, topical, or intent-based connection is present; fit is extremely weak and almost totally absent.",
     "level": "Ignored"
   },
   "Team Performance": {

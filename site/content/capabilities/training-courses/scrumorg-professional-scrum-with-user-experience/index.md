@@ -22,6 +22,7 @@ aliasesArchive:
   - /training-courses/professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
   - /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
   - /capabilities/training-courses/scrum.org/professional-scrum-with-user-experience-psu-with-certification/
+type: course
 concepts:
   - Practice
 categories:
@@ -48,7 +49,6 @@ Watermarks:
   short_title: 2025-07-29T15:01:41Z
   tldr: 2025-08-08T11:40:21Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
   - Scrum Training Courses

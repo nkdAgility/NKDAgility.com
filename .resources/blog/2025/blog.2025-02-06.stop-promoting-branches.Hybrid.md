@@ -2,47 +2,54 @@
 title: Stop Promoting Branches
 short_title: Stop Promoting Branches in Deployment
 description: Explains why promoting code through multiple branches slows delivery, increases risk, and suggests GitHub Flow or Release Flow as simpler, safer alternatives for deployment.
+tldr: Promoting code through multiple environment branches slows delivery, increases risk, and adds unnecessary complexity. Instead, use simple branching models like GitHub Flow for continuous delivery or Release Flow if you must support multiple live versions; avoid outdated models like Git Flow and never rely on reverse integration. Focus on merging changes directly into main, use feature flags for releases, and keep branching lightweight to deliver value faster.
 date: 2025-02-06T09:00:00
+lastmod: 2025-02-06T09:00:00
 weight: 160
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 contributors:
-- name: Benjamin Day
-  external: https://www.linkedin.com/in/benjaminpday/
+  - name: Benjamin Day
+    external: https://www.linkedin.com/in/benjaminpday/
 ResourceId: x7ra7pQCDX5
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: stop-promoting-branches
 aliases:
-- /resources/x7ra7pQCDX5
+  - /resources/x7ra7pQCDX5
 aliasesArchive:
-- /stop-promoting-branches
-- /blog/stop-promoting-branches
+  - /stop-promoting-branches
+  - /blog/stop-promoting-branches
 layout: blog
 concepts:
-- Principle
+  - Principle
 categories:
-- Engineering Excellence
-- Product Development
-- DevOps
+  - Engineering Excellence
+  - Product Development
+  - DevOps
 tags:
-- GitHub
-- Software Development
-- Technical Mastery
-- Market Adaptability
-- Continuous Delivery
-- Operational Practices
-- Organisational Agility
-- Pragmatic Thinking
-- Modern Source Control
-- Deployment Frequency
-- Deployment Strategies
-- Value Delivery
-- Release Management
-- Flow Efficiency
-- Engineering Practices
+  - GitHub
+  - Software Development
+  - Technical Mastery
+  - Market Adaptability
+  - Continuous Delivery
+  - Team Performance
+  - Operational Practices
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Modern Source Control
+  - Deployment Frequency
+  - Deployment Strategies
+  - Value Delivery
+  - Release Management
+  - Flow Efficiency
 Watermarks:
   description: 2025-05-07T12:49:50Z
   short_title: 2025-07-07T17:46:49Z
+  tldr: 2025-08-07T12:40:15Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog

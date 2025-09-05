@@ -1391,12 +1391,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "Y7Cd1aocMKM",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-11T22:27:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the effectiveness of digital delivery for Scrum training, focusing on training techniques and participant engagement rather than engineering practices or methodologies that enhance software development processes.",
+    "calculated_at": "2025-09-05T03:31:20",
+    "ai_confidence": 26.02,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.4,
+    "ai_intent": 3.2,
+    "ai_audience": 7.0,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content primarily focuses on the format and efficacy of Scrum training through digital vs. in-person delivery, emphasizing accessibility, collaboration, global perspectives, and the use of online tools. While it discusses how people collaborate and use technology to learn and work remotely, it does not directly address high-level engineering practices, principles, or specific aspects such as TDD, CI/CD, modular architecture, or emergent design. There are no explicit or substantial mentions of technical excellence in the engineering sense. The audience (Scrum/Agile practitioners or learners) partially overlaps with the category, and signal-to-noise is decent. However, the intent, depth, and alignment with 'Technical Excellence' as defined are weak to moderate at best, making this only a partial or tangential fit, not a strong one.",
+    "reasoning_summary": "Content focuses on the benefits of digital Scrum training and remote collaboration, not on engineering practices for technical excellence. Only peripheral alignment—no direct or deep connections to the core category definition.",
     "level": "Ignored"
   },
   "Organisational Agility": {

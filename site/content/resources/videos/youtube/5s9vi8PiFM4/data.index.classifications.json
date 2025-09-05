@@ -246,13 +246,23 @@
     "level": "Ignored"
   },
   "Technical Mastery": {
+    "resourceId": "5s9vi8PiFM4",
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T19:52:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Lean methodologies, which are more focused on project management and team dynamics rather than technical practices or software craftsmanship.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:47",
+    "ai_confidence": 46.64,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.5,
+    "ai_intent": 4.6,
+    "ai_audience": 6.8,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "The content describes the value of blending Lean principles with Scrum from the start of an Agile journey. It emphasizes team efficiency, collaboration, and gaining insights, primarily from a process and mindset perspective. However, there are only vague references to potentially improved operations and efficiency; there is little substantive discussion on specific technical engineering practices, architecture, software craftsmanship, code quality, or tools. The focus is much more on process improvement and ways of working than the core criteria of Technical Mastery (software engineering excellence, code, architecture, technical practices). The discussion is high-level and oriented toward those on Scrum/Agile journeys rather than deeply addressing technical mastery topics. No penalties were applied as the content is current and not contradictory, but only tangentially fits the Technical Mastery category.",
+    "reasoning_summary": "Fit is partial and unclear; content focuses on Lean and Scrum synergy for team efficiency, not on specific technical practices, code quality, or engineering excellence central to Technical Mastery.",
+    "level": "Tertiary"
   },
   "Sprint Review": {
     "resourceId": "5s9vi8PiFM4",

@@ -2,44 +2,50 @@
 title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
 short_title: Evidence-Based Management Guide
 description: A practical guide to Evidence-Based Management, showing how organisations use experiments, feedback, and key value areas to improve value delivery amid uncertainty.
+tldr: Evidence-Based Management (EBM) is a framework that helps organizations deliver more value under uncertainty by setting measurable goals, running experiments, and adapting based on evidence. It emphasizes focusing on customer outcomes rather than just activities or outputs, using four key value areas—Current Value, Unrealized Value, Ability to Innovate, and Time-to-Market—to guide improvement. Development managers should ensure teams form explicit hypotheses, measure results, and iteratively adjust goals and approaches to maximize sustainable value delivery.
 date: 2024-05-01
+lastmod: 2024-05-01
 weight: 390
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 author:
-- Scrum.org
+  - Scrum.org
 ResourceId: ltc7lzhy14U
 ResourceImport: false
 ResourceType: guides
 ResourceContentOrigin: Human
 slug: the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty
 aliases:
-- /resources/guides/the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty/
-- /learn/agile-delivery-kit/guides/evidence-based-management-guide
-- /resources/ltc7lzhy14U
+  - /resources/guides/the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty/
+  - /learn/agile-delivery-kit/guides/evidence-based-management-guide
+  - /resources/ltc7lzhy14U
 aliasesArchive:
-- /learn/agile-delivery-kit/guides/evidence-based-management-guide
-- /resources/guides/the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty/
+  - /learn/agile-delivery-kit/guides/evidence-based-management-guide
+  - /resources/guides/the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty/
 layout: versioned
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Customer Focus
-- Strategic Goals
-- Decision Making
-- Evidence Based Leadership
-- Evidence Based Management
-- Metrics and Learning
-- Value Delivery
-- Agile Product Management
-- Agile Strategy
-- Business Agility
-- Organisational Agility
-- Product Strategy
-- Software Development
-- Enterprise Agility
-- Common Goals
+  - Customer Focus
+  - Strategic Goals
+  - Decision Making
+  - Evidence Based Leadership
+  - Evidence Based Management
+  - Metrics and Learning
+  - Value Delivery
+  - Social Technologies
+  - Agile Product Management
+  - Agile Strategy
+  - Business Agility
+  - Organisational Agility
+  - Product Strategy
+  - Software Development
+  - Enterprise Agility
 card:
   button:
     content: Learn More
@@ -48,6 +54,7 @@ card:
 Watermarks:
   description: 2025-05-07T12:57:55Z
   short_title: 2025-07-07T16:40:37Z
+  tldr: 2025-08-07T12:51:42Z
 resourceTypes: guide
 recommendedContent: 
 videos: 

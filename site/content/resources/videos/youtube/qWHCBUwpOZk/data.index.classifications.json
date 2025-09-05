@@ -1414,12 +1414,22 @@
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
+    "resourceId": "qWHCBUwpOZk",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T03:01:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban practices and workflow improvement, which are not directly related to Application Lifecycle Management.",
+    "calculated_at": "2025-09-05T03:30:55",
+    "ai_confidence": 33.95,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.6,
+    "ai_depth": 3.7,
+    "ai_intent": 4.3,
+    "ai_audience": 5.6,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content is focused on Kanban workflow improvements—primarily on identifying bottlenecks and reducing waiting times within team processes. While Kanban is a tool that can be used in ALM, the discussion is limited to local workflow optimization and does not address the full application lifecycle or practices, governance, or toolchains associated with Application Lifecycle Management. There are no direct mentions of ALM, and the alignment is partial because some practices (continuous improvement, metrics) intersect with ALM principles, but the scope never broadens beyond Kanban workflow specifics. The target audience overlaps somewhat as process improvers and agile practitioners are often ALM stakeholders, but the depth and signal are limited to process, not lifecycle management.",
+    "reasoning_summary": "The content focuses on Kanban workflow improvement, touching only peripherally on concepts relevant to ALM. It lacks coverage of full lifecycle management, governance, or ALM tools, so only a partial fit is present.",
     "level": "Ignored"
   },
   "Value Stream Management": {

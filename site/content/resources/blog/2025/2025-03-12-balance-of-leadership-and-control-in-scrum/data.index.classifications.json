@@ -1231,16 +1231,23 @@
     "level": "Ignored"
   },
   "Coaching": {
+    "resourceId": "UH6M7ujV-kB",
     "category": "Coaching",
-    "calculated_at": "2025-04-10T13:00:38",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses the balance of leadership and authority in Scrum, focusing on accountability rather than the supportive and collaborative nature of coaching. While it touches on aspects of guiding teams, it does not delve deeply into coaching techniques or the role of a coach in fostering growth, which are central to the Coaching category.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:27:52",
+    "ai_confidence": 64.23,
+    "ai_mentions": 2.6,
+    "ai_alignment": 7.2,
+    "ai_depth": 6.8,
+    "ai_intent": 6.4,
+    "ai_audience": 8.0,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 64.0,
+    "reasoning": "The content primarily discusses the balance of leadership and authority in Scrum Masters and Product Owners, focusing on accountability, team autonomy, and situational leadership. While it often references coaching-adjacent themes (guidance, empowerment, influence over command), it never explicitly calls out 'coaching' nor delves into established coaching frameworks, best practices, or skills (like active listening or the GROW model). The depth remains focused on authority vs. influence and situational leadership, only briefly mentioning hands-off coaching as an option. The purpose is to inform about when leadership should involve authority versus influence, with tangential alignment to coaching but a core focus elsewhere. The article targets Scrum Masters, Product Owners, and team leaders (audience alignment strong), and the discussion is relevant but not tightly focused on coaching as defined in Agile contexts. No obvious deductions applied, as there isn't an outdated practice or contradictory tone.",
+    "reasoning_summary": "Touches on coaching-related ideas (guidance, empowerment, influence) but focuses on balancing authority and leadership in Scrum. Coaching is not the main theme, though some alignment exists. Fit is partial and secondary to the article’s main focus.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",

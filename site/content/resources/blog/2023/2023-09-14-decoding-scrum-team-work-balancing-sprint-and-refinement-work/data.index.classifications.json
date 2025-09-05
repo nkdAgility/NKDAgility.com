@@ -1334,12 +1334,22 @@
     "level": "Tertiary"
   },
   "Kanban": {
+    "resourceId": "RCMVmNzZDfV",
     "category": "Kanban",
-    "calculated_at": "2025-02-11T18:15:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:29:46",
+    "ai_confidence": 14.07,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.6,
+    "ai_intent": 1.3,
+    "ai_audience": 4.2,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is exclusively focused on Scrum teams, Sprint and Refinement work, and workflow visualisation inside Azure DevOps. It does mention boards/visualisation, but this is framed within Scrum, not Kanban. There are no direct references to Kanban principles (WIP limits, Kanban board, flow metrics, etc.), and the visual tools are described in a way that aligns with Scrum task management and transparency, not Kanban methodology. The audience is adjacent (Agile practitioners), but the purpose, depth, and conceptual alignment are all focused firmly on Scrum, which is explicitly excluded from the Kanban category.",
+    "reasoning_summary": "This content is about Scrum team workflow and visual management, not Kanban. It lacks reference to Kanban concepts or practices beyond superficial overlap with visual boards. Fit with the Kanban category is minimal and mostly coincidental.",
     "level": "Ignored"
   },
   "Value Delivery": {

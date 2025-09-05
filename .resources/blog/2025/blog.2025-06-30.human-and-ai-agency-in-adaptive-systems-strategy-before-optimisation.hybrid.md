@@ -2,36 +2,43 @@
 title: 'Human and AI Agency in Adaptive Systems: Strategy Before Optimisation'
 short_title: Human vs AI Agency in Adaptive Systems
 description: Explores the distinct roles of human and AI agency in adaptive systems, emphasising human-led strategy and accountability versus AI-driven tactical optimisation.
+tldr: Human decision-making is essential for setting strategy, purpose, and adapting to change, while AI should be used for tactical optimisation within clear human-defined boundaries. Over-relying on AI for adaptation leads to fragile systems, loss of accountability, and strategic obsolescence. Development managers should ensure humans remain responsible for strategic direction and adaptation, using AI only to optimise within those parameters.
 date: 2025-06-30T09:00:00Z
+lastmod: 2025-06-30T09:00:00Z
 weight: 570
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: ffJaR9AaTl7
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 slug: human-and-ai-agency-in-adaptive-systems-strategy-before-optimisation
 aliases:
-- /resources/ffJaR9AaTl7
+  - /resources/ffJaR9AaTl7
 aliasesArchive:
-- /human-and-ai-agency-in-adaptive-systems--strategy-before-optimisation
-- /blog/human-and-ai-agency-in-adaptive-systems--strategy-before-optimisation
+  - /human-and-ai-agency-in-adaptive-systems--strategy-before-optimisation
+  - /blog/human-and-ai-agency-in-adaptive-systems--strategy-before-optimisation
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Leadership
+  - Leadership
 tags:
-- Agentic Agility
-- Sociotechnical Systems
-- Organisational Physics
-- Sensemaking
-- Strategic Goals
-- Complexity Thinking
-- Agentic Engineering
-- Systems Thinking
-- Pragmatic Thinking
-- Decision Making
+  - Agentic Agility
+  - Sociotechnical Systems
+  - Sensemaking
+  - Organisational Physics
+  - Strategic Goals
+  - Complexity Thinking
+  - Agentic Engineering
+  - Systems Thinking
+  - Pragmatic Thinking
+  - Decision Making
 Watermarks:
   description: 2025-05-07T12:48:59Z
   short_title: 2025-07-07T16:43:20Z
+  tldr: 2025-08-07T12:10:43Z
 mermaid: true
 
 ---

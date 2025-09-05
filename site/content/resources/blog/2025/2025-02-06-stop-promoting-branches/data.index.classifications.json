@@ -167,12 +167,22 @@
     "level": "Tertiary"
   },
   "Daily Scrum": {
+    "resourceId": "x7ra7pQCDX5",
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-11T14:29:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses branching strategies and software delivery models, with no clear focus on the Daily Scrum or its related topics.",
+    "calculated_at": "2025-09-05T03:28:27",
+    "ai_confidence": 2.78,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 2.7,
+    "ai_intent": 2.1,
+    "ai_audience": 3.5,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "There are no direct mentions of the Daily Scrum or its core concepts. The content is a detailed critique of branching strategies and continuous delivery workflows, which, although possibly relevant in a broader Agile or DevOps context, does not align with the Daily Scrum event per Scrum. The depth and specificity concern technical delivery practices, not team inspection or adaptation toward Sprint Goals. The main audience (software delivery engineers or DevOps) overlaps slightly with Scrum practitioners, but the content's theme and intent are disconnected from any Scrum event, let alone the Daily Scrum.",
+    "reasoning_summary": "No reference to Daily Scrum or its purpose. Content focuses on branching and deployment models unrelated to Daily Scrum, with only tangential overlap in audience. Fit with the Daily Scrum category is highly partial and unclear.",
     "level": "Ignored"
   },
   "System Configuration": {

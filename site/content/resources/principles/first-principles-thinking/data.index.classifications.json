@@ -1198,13 +1198,23 @@
     "level": "Ignored"
   },
   "Miscellaneous": {
+    "resourceId": "q6gClR4HS5c",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-12T21:17:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any substantial discussion or insights related to the Miscellaneous category; it is merely a placeholder.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:28:25",
+    "ai_confidence": 65.85,
+    "ai_mentions": 0.4,
+    "ai_alignment": 7.5,
+    "ai_depth": 2.7,
+    "ai_intent": 8.1,
+    "ai_audience": 7.2,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 66.0,
+    "reasoning": "The content is an announcement for a forthcoming explanation of first principles thinking, which is a general problem-solving method not specific to Agile, Scrum, DevOps, Lean, or EBM. There are no direct mentions of 'Miscellaneous' or explicit references to the category. However, first principles thinking does not align with a specific Agile framework or theory and can be considered a general or non-specific topic, making it a reasonably good fit for 'Miscellaneous'. Depth is low since the content is only a placeholder. Intent, audience, and signal align well given that the content (when developed) would be suitable for an audience interested in general business agility concepts but lacking direct actionable or framework-specific insights.",
+    "reasoning_summary": "The topic is general and does not relate to established Agile/DevOps/Lean frameworks, fitting 'Miscellaneous'. Fit is partial since the actual content is missing, but the concept suits the catch-all intent of the category.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",

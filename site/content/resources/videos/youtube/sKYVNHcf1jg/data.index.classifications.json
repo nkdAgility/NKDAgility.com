@@ -326,12 +326,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "sKYVNHcf1jg",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses experiences and insights related to agile consulting and Scrum, which do not focus on engineering practices like clean code or TDD.",
+    "calculated_at": "2025-09-05T03:30:34",
+    "ai_confidence": 28.06,
+    "ai_mentions": 1.1,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.9,
+    "ai_intent": 2.1,
+    "ai_audience": 9.1,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content focuses on organisational readiness, engagement, and change management within Agile consulting rather than on technical engineering practices such as clean code, TDD, automation, or CI/CD. The only tangential mention is 'continuous improvement,' which is treated in a general Agile culture context, not in terms of technical practice. No explicit or substantial reference to the core engineering practices defined in the category, nor any detailed discussion of software engineering methods. The audience is potentially technical, as the author positions himself as an Agile consultant, but the themes are organisational and experiential rather than practical or methodological regarding software engineering.",
+    "reasoning_summary": "This content centers on organisational readiness and engagement in Agile transformations—not technical engineering practices. It only lightly touches general Agile concepts and lacks substantive discussion of practices like TDD, CI/CD, or clean code.",
     "level": "Ignored"
   },
   "Test Driven Development": {

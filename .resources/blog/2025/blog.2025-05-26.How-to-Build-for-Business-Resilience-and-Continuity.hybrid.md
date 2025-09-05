@@ -2,37 +2,44 @@
 title: How to Build for Business Resilience and Continuity
 short_title: How to Build for Business Resilience
 description: Learn key strategies for building business resilience and continuity, including observability, system decoupling, routine deployments, team empowerment, and rapid recovery.
+tldr: Building business resilience requires intentional design, strong observability, and aggressive decoupling so failures do not cascade across systems. Empower teams to act quickly, treat deployments as routine, and design for fast recovery using practices like chaos engineering and circuit breakers. Make resilience a core part of your culture and operations, not a one-time project, and use real metrics to guide continuous improvement.
 date: 2025-05-26T09:00:00Z
+lastmod: 2025-05-26T09:00:00Z
 weight: 165
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: VThLnxVapgJ
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 slug: how-to-build-for-business-resilience-and-continuity
 aliases:
-- /resources/VThLnxVapgJ
+  - /resources/VThLnxVapgJ
 aliasesArchive:
-- /how-to-build-for-business-resilience-and-continuity
-- /blog/how-to-build-for-business-resilience-and-continuity
+  - /how-to-build-for-business-resilience-and-continuity
+  - /blog/how-to-build-for-business-resilience-and-continuity
 concepts:
-- Ethos
+  - Ethos
 categories:
-- DevOps
-- Engineering Excellence
-- Product Development
+  - DevOps
+  - Engineering Excellence
+  - Product Development
 tags:
-- Site Reliability Engineering
-- Market Adaptability
-- Operational Practices
-- Pragmatic Thinking
-- Evidence Based Management
-- Technical Excellence
-- Software Development
-- Technical Mastery
-- Continuous Delivery
+  - Site Reliability Engineering
+  - Market Adaptability
+  - Operational Practices
+  - Pragmatic Thinking
+  - Evidence Based Management
+  - Technical Excellence
+  - Software Development
+  - Technical Mastery
+  - Continuous Delivery
 Watermarks:
   description: 2025-05-07T12:49:05Z
   short_title: 2025-07-07T16:43:58Z
+  tldr: 2025-08-07T12:29:27Z
 
 ---
 Business resilience is not an accident. It is the deliberate outcome of intelligent systems design, pragmatic decision-making, and organisational discipline. If you want resilience, you must build for it—**upfront, consistently, and aggressively**.

@@ -242,12 +242,22 @@
     "level": "Ignored"
   },
   "Employee Engagement": {
+    "resourceId": "PfZU13BEwiY",
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-25T12:04:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses technical debt and scaling in software development, with no focus on employee engagement or related themes.",
+    "calculated_at": "2025-09-05T03:29:02",
+    "ai_confidence": 18.78,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.2,
+    "ai_intent": 2.5,
+    "ai_audience": 5.0,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on technical debt and scaling practices, with substantial discussion of architecture, DevOps, and automation. While there are some indirect references to team productivity and frustration, themes like motivation, psychological or social factors, or employee satisfaction are not explicit. No substantial discussion of recognition, feedback, leadership, or direct engagement strategies; focus remains on technical processes and outcomes rather than human/team engagement as defined by the category.",
+    "reasoning_summary": "Mainly addresses technical scaling and technical debt; only peripheral mentions of team productivity. Lacks substantive exploration of motivation, satisfaction, or engagement. Partial but weak fit to 'Employee Engagement.'",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {

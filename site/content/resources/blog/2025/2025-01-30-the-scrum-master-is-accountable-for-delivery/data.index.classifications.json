@@ -301,12 +301,22 @@
     "level": "Ignored"
   },
   "Azure Repos": {
+    "resourceId": "yMnia2DLI6q",
     "category": "Azure Repos",
-    "calculated_at": "2025-02-11T14:40:40",
+    "calculated_at": "2025-09-05T03:29:01",
     "ai_confidence": 0,
-    "non_ai_confidence": 0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.0,
+    "ai_intent": 0.2,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master within the Scrum framework, focusing on delivery and team effectiveness, without any mention of Azure Repos or related functionalities.",
+    "reasoning": "The content focuses entirely on the role, accountability, and impact of the Scrum Master in product delivery and team effectiveness. Nowhere does it explicitly mention or discuss Azure Repos, source control, or any related tooling. The intent, audience, and examples are specific to Agile/Scrum frameworks, not source control or DevOps tools (let alone Azure Repos). There is no alignment or signal toward the Azure Repos category, so the confidence is at the minimum possible per scoring instructions.",
+    "reasoning_summary": "This content is focused solely on Scrum Master accountability and delivery in Scrum; it does not mention or discuss Azure Repos or any source control topics. There is no fit to the Azure Repos category.",
     "level": "Ignored"
   },
   "Transparency": {

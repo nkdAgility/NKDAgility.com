@@ -21,12 +21,22 @@
     "level": "Tertiary"
   },
   "Backlog Refinement": {
+    "resourceId": "Tt8SPr3xJER",
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-13T15:48:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the detection of genuine Agile practices versus misinterpretations, focusing on principles, values, tools, and questions for various stakeholders, rather than specifically addressing backlog refinement.",
+    "calculated_at": "2025-09-05T03:28:11",
+    "ai_confidence": 32.48,
+    "ai_mentions": 0.9,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.4,
+    "ai_intent": 3.5,
+    "ai_audience": 7.1,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "mentions penalized (-1) for no direct mention of backlog refinement; alignment penalized (-1) for tangential connection—core themes address Agile authenticity, not focused backlog topics",
+    "final_score": 32.0,
+    "reasoning": "The content is focused on evaluating true Agile practices and identifying inauthentic implementations, particularly for DoD audiences. It emphasizes feedback loops, iterative development, and the presence or absence of Agile mindsets, but does not mention backlog refinement directly or indirectly (e.g., refining backlog items, prioritization methods, PO role, user story mapping). Any connection to backlog refinement is only via general Agile principles like responding to change and involving users, but there's no discussion or exploration of backlog as an artifact or the refinement process. The audience (DoD execs, practitioners) is somewhat aligned, but intent and detail toward backlog refinement are limited. Signals focus on broader Agile authenticity rather than any aspect of backlog improvement.",
+    "reasoning_summary": "Content covers genuine vs. superficial Agile practices, but lacks any discussion or meaningful mention of backlog refinement. Fit to the category is marginal and indirect; the topic is broader and not specific to backlog practices.",
     "level": "Ignored"
   },
   "Working Software": {

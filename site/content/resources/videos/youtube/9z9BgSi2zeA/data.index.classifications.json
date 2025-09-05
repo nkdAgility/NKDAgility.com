@@ -983,13 +983,23 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "9z9BgSi2zeA",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the attributes and responsibilities of an Agile coach, not on engineering practices or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:12",
+    "ai_confidence": 56.63,
+    "ai_mentions": 1.5,
+    "ai_alignment": 5.7,
+    "ai_depth": 6.4,
+    "ai_intent": 6.0,
+    "ai_audience": 6.1,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 57.0,
+    "reasoning": "The content focuses on hiring Agile coaches with both technical and leadership engagement skills. While it repeatedly references technical credibility, deep technical understanding, and software development familiarity, these are primarily in service of organizational transformation rather than detailed discussion of engineering practices themselves. Key areas like clean code, TDD, CI/CD, refactoring or automation are not directly addressed; instead, technical aspects are framed around credibility and communication needs rather than practice. The intent and audience are partially aligned (aimed at technical practitioners and leaders) but the primary discussion remains on coaching qualities and organizational fit. Some alignment exists through emphasis on understanding software development and technical language, but there is no deep dive into the actual methods, patterns, or practices central to engineering practices. No penalties apply, as the content is current and respectful.",
+    "reasoning_summary": "Content centers on hiring Agile coaches with technical credibility and leadership skills, occasionally referencing software development but not delving into core engineering practices. Partial alignment exists, mostly through surface discussion of technical understanding.",
+    "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",

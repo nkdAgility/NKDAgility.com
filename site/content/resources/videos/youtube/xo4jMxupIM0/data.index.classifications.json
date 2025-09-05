@@ -850,13 +850,23 @@
     "level": "Ignored"
   },
   "Troubleshooting": {
+    "resourceId": "xo4jMxupIM0",
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles, immersive training, and collaborative learning but does not focus on the identification or resolution of technical issues.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:20",
+    "ai_confidence": 46.9,
+    "ai_mentions": 1.4,
+    "ai_alignment": 5.8,
+    "ai_depth": 4.9,
+    "ai_intent": 6.0,
+    "ai_audience": 8.5,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "Direct references to troubleshooting are minimal; the piece does not explicitly mention troubleshooting or technical issue resolution. However, there are moderate conceptual alignments: it discusses surfacing and reflecting on 'gnarly issues,' tackling complex Scrum implementation problems, and fostering collaborative problem-solving among Scrum Masters. The depth is moderate: the content is more about educational methods (double-loop learning, collaboration, immersion) than systematic technical troubleshooting. Its intent is partially aligned, as it aims to help Scrum practitioners learn to address real-world challenges, but the core focus is not diagnostic or solutions procedure. The target audience—Scrum Masters—is appropriate, and much of the discussion is relevant to problems they might face, increasing the audience and signal scores, but the majority of the content is pedagogical and motivational rather than true troubleshooting. No outdated references or contradictory tone, so no penalties applied.",
+    "reasoning_summary": "Content focuses on immersive learning for Scrum Masters, with some overlap on tackling real-world issues but stops short of systematic troubleshooting. Main theme is educational (double-loop learning), not direct problem diagnosis/resolution.",
+    "level": "Tertiary"
   },
   "Lean Startup": {
     "category": "Lean Startup",

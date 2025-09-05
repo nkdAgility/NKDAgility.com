@@ -57,16 +57,23 @@
     "level": "Ignored"
   },
   "Tenet": {
+    "resourceId": "Employee Engagement",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses employee engagement, which is related to organisational culture and performance but does not explicitly mention actionable tenets or guiding rules. While it touches on themes like continuous improvement and adaptability, it lacks a direct focus on specific tenets within Agile, Lean, or DevOps methodologies. The discussion is more about values and general principles rather than prescriptive tenets.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:46",
+    "ai_confidence": 44.58,
+    "ai_mentions": 1.3,
+    "ai_alignment": 4.8,
+    "ai_depth": 5.1,
+    "ai_intent": 4.5,
+    "ai_audience": 6.3,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content discusses employee engagement as a cultural driver and its effect on team performance, adaptability, and alignment with values. However, it never explicitly references, describes, or prescribes actionable tenets, doctrines, or guiding rules as defined. Conceptual overlap exists only loosely—engagement supports outcomes that tenets might drive (e.g., continuous improvement, adaptability), but it doesn't mention or detail tenets themselves, their application, or provide actionable guidance in the sense required by the classification. No penalties apply as the content is neither outdated nor in opposition to tenets.",
+    "reasoning_summary": "The content discusses employee engagement, not specific tenets or actionable guiding rules. While related to tenet-driven outcomes, it doesn't fit the Tenet category directly. Fit is weak and primarily indirect.",
+    "level": "Tertiary"
   },
   "Method": {
     "resourceId": "Employee Engagement",

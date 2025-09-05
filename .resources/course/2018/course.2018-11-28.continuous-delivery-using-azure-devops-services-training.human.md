@@ -20,6 +20,7 @@ aliasesArchive:
   - /training-courses/continuous-delivery-using-azure-devops-services
   - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
   - /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
+type: course
 concepts:
   - Tool
 categories:
@@ -50,7 +51,6 @@ Watermarks:
   short_title: 2025-07-29T15:01:48Z
   tldr: 2025-08-08T11:40:24Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 course_topics:
   - Azure DevOps Training Courses

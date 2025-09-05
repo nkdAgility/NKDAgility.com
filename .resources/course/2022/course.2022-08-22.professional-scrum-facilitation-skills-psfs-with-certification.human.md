@@ -21,6 +21,7 @@ aliases:
 aliasesArchive:
   - /training-courses/scrum-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
   - /capabilities/training-courses/scrum.org/professional-scrum-facilitation-skills-psfs-with-certification/
+type: course
 concepts:
   - Practice
 categories:
@@ -40,7 +41,6 @@ Watermarks:
   description: 2025-07-29T15:01:05Z
   tldr: 2025-08-08T11:37:32Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
   - Scrum Training Courses

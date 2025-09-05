@@ -285,13 +285,23 @@
     "level": "Ignored"
   },
   "Team Performance": {
+    "resourceId": "IFX3SRUlunc",
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T17:51:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses lean product development and decision-making rather than team performance or collaboration within agile teams.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:02",
+    "ai_confidence": 60.25,
+    "ai_mentions": 1.3,
+    "ai_alignment": 6.0,
+    "ai_depth": 6.2,
+    "ai_intent": 6.7,
+    "ai_audience": 7.1,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 60.0,
+    "reasoning": "Direct mentions of team performance are absent; the content centers on lean product development, decision-making, and value creation, mainly at the product and organizational level. There is indirect alignment—lean methods relate to improving delivery and outcomes which can impact team performance—but the main focus is on frameworks and ownership, not directly on evaluating or optimizing team-level delivery capability with system-level metrics or behaviors. Audience is practitioners interested in improving outcomes, possibly team-adjacent, and the content avoids cultural, HR, or individual performance themes. Discussion is moderately deep regarding lean product development but is surface-level on team-specific performance results or metrics.",
+    "reasoning_summary": "Content is tangentially related but does not focus on team performance itself. Lean methods may affect teams, but direct discussion about delivery capability, system-level metrics, or team constraints is largely absent. Partial fit only.",
+    "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",

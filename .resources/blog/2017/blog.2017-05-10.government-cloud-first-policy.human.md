@@ -2,27 +2,34 @@
 title: Government Cloud First policy
 short_title: Government Cloud First Policy Explained
 description: Explains the UK Government Cloud First policy, its mandate for public cloud adoption in central government, and challenges faced by public sector organisations.
+tldr: Despite the UK Government's clear Cloud First policy mandating public cloud for central government services, many public sector agencies remain hesitant about adopting cloud solutions. The policy prioritizes public cloud and encourages SaaS, aiming to dispel fears about security and reliability. Development managers should prioritize cloud-based solutions for government projects to align with policy, support business agility, and simplify infrastructure management.
 date: 2017-05-10
+lastmod: 2017-05-10
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: 6VDaSknKBPu
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: government-cloud-first-policy
 aliases:
-- /resources/6VDaSknKBPu
+  - /resources/6VDaSknKBPu
 aliasesArchive:
-- /blog/government-cloud-first-policy
-- /government-cloud-first-policy
-- /resources/blog/government-cloud-first-policy
+  - /blog/government-cloud-first-policy
+  - /government-cloud-first-policy
+  - /resources/blog/government-cloud-first-policy
 layout: blog
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:16:39Z
   short_title: 2025-07-07T17:58:54Z
+  tldr: 2025-08-07T13:24:06Z
 ResourceImportId: 11882
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -251,13 +251,23 @@
     "level": "Ignored"
   },
   "Technical Mastery": {
+    "resourceId": "xJsuDbsFzlw",
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T21:09:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Sprint planning and Agile methodologies without a focus on software craftsmanship or engineering excellence.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:11",
+    "ai_confidence": 46.86,
+    "ai_mentions": 1.2,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.6,
+    "ai_intent": 4.8,
+    "ai_audience": 4.7,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "The content focuses on Sprint planning workshops, practical facilitation, coaching, and continuous improvement in Agile contexts. While it references Agile, Scrum, and DevOps, its core is about team process and planning, not software craftsmanship or engineering best practices. There is little direct mention of technical mastery or development practices; the approach is about effective team process, collaboration, and continuous adaptation rather than topics such as code quality, testing, architecture, or technical debt. The workshop targets team effectiveness in planning more than promoting engineering excellence. Thus, while relevant to Agile teams (who may be technical), it only indirectly touches on technical mastery.",
+    "reasoning_summary": "The content is mostly focused on Agile team process and effective Sprint planning, not on software craftsmanship or engineering excellence. Any fit with Technical Mastery is partial and indirect.",
+    "level": "Tertiary"
   },
   "Sprint Review": {
     "resourceId": "xJsuDbsFzlw",

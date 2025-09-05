@@ -1368,12 +1368,22 @@
     "level": "Ignored"
   },
   "Value Stream Management": {
+    "resourceId": "mZvRMHFUarM",
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-12T16:23:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses estimation and forecasting in software projects, which does not align with the core principles of Value Stream Management.",
+    "calculated_at": "2025-09-05T03:27:39",
+    "ai_confidence": 35.24,
+    "ai_mentions": 0.1,
+    "ai_alignment": 3.45,
+    "ai_depth": 3.2,
+    "ai_intent": 4.1,
+    "ai_audience": 6.1,
+    "ai_signal": 7.05,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content focuses primarily on software estimation, probabilistic forecasting, and project management in Agile contexts. While some secondary concepts (like reducing batch size, work chunking, and focusing on value delivery) align loosely with Value Stream Management principles, there are no explicit mentions or direct, in-depth exploration of VSM. The audience (leaders, practitioners) and mindset (optimising flow, adaptation) partly overlap, but the main purpose is process improvement in estimation, not overall value stream flow or management. Signal-to-noise is high due to focus, but core VSM elements—such as mapping value flows, eliminating waste, system-level optimisation, or integration with Lean/Agile—are absent or only tangentially implied.",
+    "reasoning_summary": "The content mainly discusses estimation and forecasting, not Value Stream Management. It only partially aligns with VSM through concepts like reducing batch size, but lacks direct focus or depth on value streams, resulting in a weak category fit.",
     "level": "Ignored"
   },
   "Enterprise Agility": {

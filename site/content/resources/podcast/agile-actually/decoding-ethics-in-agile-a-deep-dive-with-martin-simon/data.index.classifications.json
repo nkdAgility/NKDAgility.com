@@ -1229,12 +1229,22 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "SfjZtlimOCu",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T23:36:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile practices and coaching, with a focus on language and communication rather than application lifecycle management.",
+    "calculated_at": "2025-09-05T03:29:23",
+    "ai_confidence": 16.28,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.7,
+    "ai_intent": 2.6,
+    "ai_audience": 4.4,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content is centered on ethics, transparency, and language within agile practices, featuring prominent agile thought leaders. Although there are light connections to aspects of managing software processes (e.g., DevOps, product delivery), there are no direct mentions of ALM, nor are there explicit discussions of lifecycle management, governance, tools, or structured best practices outlined in the ALM definition. The primary intent is an exploration of ethics in agile work, not a discussion of managing the application lifecycle end-to-end. Audience does overlap slightly (practitioners in agile and DevOps), but the topic focus is tangential. Signal:noise is low for ALM relevance.",
+    "reasoning_summary": "Content focuses on ethics and transparency in agile, not management of software application lifecycles. Minimal overlap with ALM category; intent and themes are tangential rather than core to ALM.",
     "level": "Ignored"
   },
   "Asynchronous Development": {

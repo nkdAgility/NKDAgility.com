@@ -1343,13 +1343,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "h6yumCOP-aE",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T06:50:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of team agreements and collaboration in the context of Kanban and Scrum, rather than focusing on broader principles of business agility.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:32",
+    "ai_confidence": 47.9,
+    "ai_mentions": 1.7,
+    "ai_alignment": 5.1,
+    "ai_depth": 5.3,
+    "ai_intent": 4.2,
+    "ai_audience": 6.2,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "Direct mentions of 'business agility' are absent. The content focuses on team-level practices (working agreements with Kanban/Scrum) for clarity and alignment. While these support some aspects of business agility, the discussion does not address agility at an organisational or strategic level, nor does it reference principles, leadership, or metrics relevant to business agility as defined. The main audience appears to be practitioners seeking team improvement, not business leaders or strategists. The connection to business agility is indirect and secondary.",
+    "reasoning_summary": "Content centers on team working agreements in Kanban/Scrum. Relevance to business agility is indirect; it lacks organisational focus or depth on agility principles, leadership, or systemic change. Fit is marginal—mostly team-level, not business-level agility.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",

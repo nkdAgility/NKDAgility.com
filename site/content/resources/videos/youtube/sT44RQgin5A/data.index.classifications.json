@@ -310,13 +310,23 @@
     "level": "Secondary"
   },
   "Customer Retention": {
+    "resourceId": "sT44RQgin5A",
     "category": "Customer Retention",
-    "calculated_at": "2025-02-12T01:39:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles, evidence-based management, and organisational capabilities without a clear focus on customer retention strategies or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:19",
+    "ai_confidence": 65.13,
+    "ai_mentions": 4.3,
+    "ai_alignment": 7.7,
+    "ai_depth": 7.4,
+    "ai_intent": 7.0,
+    "ai_audience": 7.1,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 65.0,
+    "reasoning": "The content provides an in-depth explanation of Scrum’s four key value areas for organizational and product improvement. There are direct mentions of customer satisfaction, engagement, and feedback loops—core elements of customer retention. The 'Current Value' section focuses on customer satisfaction and usage patterns, and actionable metrics (e.g., CSAT, telemetry data) are discussed. However, the overall framing is broader—emphasizing organizational decision-making and value delivery rather than exclusively customer retention. Other areas ('Unrealized Value', 'Ability to Innovate', 'Time to Market') are adjacent but not specifically about strategies to keep customers. The piece targets practitioners interested in evidence-based management, overlapping with but not strictly specializing in customer retention. There is moderate conceptual alignment and some depth, but the main theme is holistic organizational improvement—not exclusive to retention.",
+    "reasoning_summary": "The content discusses measuring customer satisfaction and continuous value but centers on evidence-based management and holistic value, not exclusively customer retention. It partially fits, aligning with retention themes yet remains broader in focus.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",

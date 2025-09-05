@@ -233,12 +233,22 @@
     "level": "Ignored"
   },
   "Test Automation": {
+    "resourceId": "8gAWNn2RQgU",
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T19:08:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Joanna's qualifications and communication skills in the context of Scrum training, with no mention of test automation or related topics.",
+    "calculated_at": "2025-09-05T03:29:09",
+    "ai_confidence": 5.15,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.7,
+    "ai_audience": 7.2,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content is a marketing-style profile of Joanna as an Agile/Scrum instructor, focusing on technical expertise and practical teaching. While it references feedback loops, continuous improvement, and tools/techniques, there are no explicit or implicit mentions of test automation concepts, frameworks, practices, or tools. The intent is not to discuss or train on test automation but rather to highlight general Agile coaching. The audience (Agile practitioners) sometimes overlaps, and the content is focused and relevant for Agile, but not for test automation as defined. Scores reflect only a token overlap through very broad Agile language.",
+    "reasoning_summary": "Content is about Joanna’s Scrum/Agile classes, not test automation. No direct or conceptual fit with test automation principles, practices, tools, or frameworks. Only possible audience overlap. Not a match for the category.",
     "level": "Ignored"
   },
   "Technical Mastery": {

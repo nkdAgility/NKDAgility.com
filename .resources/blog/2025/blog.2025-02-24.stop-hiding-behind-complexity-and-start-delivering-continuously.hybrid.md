@@ -2,56 +2,63 @@
 title: Stop Hiding Behind Complexity and Start Delivering Continuously
 short_title: Continuous Delivery for Complex Software
 description: Continuous delivery is achievable for any software, regardless of complexity. Success depends on investment in automation, quality, and process improvement—not technical barriers.
+tldr: Complexity is not a valid reason to avoid continuous delivery; organisations like Azure DevOps and Starbucks have proven that even large, complex systems can achieve frequent, reliable releases with the right investment in automation, process improvement, and culture change. Key actions include automating everything, adopting trunk-based development, using feature flags, shifting quality left, and iterating on pain points. Development managers should focus on measuring and improving flow metrics and value delivery, prioritising organisational commitment to overcome resistance and realise the benefits of continuous delivery.
 date: 2025-02-24T09:00:00
+lastmod: 2025-02-24T09:00:00
 weight: 155
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 contributors:
-- name: John McFadyen
-  external: https://www.linkedin.com/in/johnmcfadyen/
-- name: Rich Visotcky
-  external: https://www.linkedin.com/in/richvisotcky/
+  - name: John McFadyen
+    external: https://www.linkedin.com/in/johnmcfadyen/
+  - name: Rich Visotcky
+    external: https://www.linkedin.com/in/richvisotcky/
 ResourceId: 7hEAycZIn8w
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: stop-hiding-behind-complexity-and-start-delivering-continuously
 aliases:
-- /resources/7hEAycZIn8w
+  - /resources/7hEAycZIn8w
 aliasesArchive:
-- /stop-hiding-behind-complexity-deliver-continuously
-- /blog/stop-hiding-behind-complexity-deliver-continuously
-- /stop-hiding-behind-complexity-and-start-delivering-continuously
-- /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
+  - /stop-hiding-behind-complexity-deliver-continuously
+  - /blog/stop-hiding-behind-complexity-deliver-continuously
+  - /stop-hiding-behind-complexity-and-start-delivering-continuously
+  - /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
 layout: blog
 concepts:
-- Practice
+  - Practice
 categories:
-- DevOps
-- Engineering Excellence
-- Product Development
+  - DevOps
+  - Engineering Excellence
+  - Product Development
 tags:
-- Continuous Delivery
-- Software Development
-- Technical Mastery
-- Operational Practices
-- Market Adaptability
-- Product Delivery
-- Evidence Based Management
-- Deployment Frequency
-- Metrics and Learning
-- Organisational Agility
-- Technical Excellence
-- Frequent Releases
-- Azure DevOps
-- Business Agility
-- Release Management
+  - Continuous Delivery
+  - Software Development
+  - Technical Mastery
+  - Operational Practices
+  - Market Adaptability
+  - Frequent Releases
+  - Product Delivery
+  - Evidence Based Management
+  - Deployment Frequency
+  - Metrics and Learning
+  - Organisational Agility
+  - Technical Excellence
+  - Azure DevOps
+  - Business Agility
+  - Release Management
 platform_signals:
-- platform: Scrumorg
-  post_url: https://www.scrum.org/resources/blog/stop-hiding-behind-complexity-and-start-delivering-continuously
-  post_date: 2025-07-01T09:00:00Z
-  post_type: crosspost
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/stop-hiding-behind-complexity-and-start-delivering-continuously
+    post_date: 2025-07-01T09:00:00Z
+    post_type: crosspost
 Watermarks:
   description: 2025-05-07T12:49:30Z
   short_title: 2025-07-07T17:46:10Z
+  tldr: 2025-08-07T12:35:54Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog

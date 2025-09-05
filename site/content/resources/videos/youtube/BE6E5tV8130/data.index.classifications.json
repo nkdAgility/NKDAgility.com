@@ -1467,13 +1467,23 @@
     "level": "Ignored"
   },
   "Organisational Psychology": {
+    "resourceId": "BE6E5tV8130",
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-12T09:02:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile and waterfall project management methodologies, focusing on their differences and implications for project execution rather than psychological principles or theories related to motivation, engagement, or team dynamics.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:32:15",
+    "ai_confidence": 48.6825,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.6,
+    "ai_intent": 5.3,
+    "ai_audience": 5.7,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 49.0,
+    "reasoning": "The content compares Agile and Waterfall, referencing Taylorism and command-and-control management, touching some issues relevant to organisational psychology, such as autonomy, decision-making styles, manager-team relationships, and leadership shifts. However, these are mostly framed as management/structural changes, not deeply discussed from psychological or behavioural theory perspectives. Key organisational psychology concepts (motivation theories, group behavior, psychological safety) are implied but not directly explored. Main focus is on delivery models, adaptability, and project outcomes, targeting practitioners interested in project and product management. Psychological factors are secondary, lacking depth beyond mentioning micromanagement vs autonomy and some leadership context changes. Ultimately, the fit is partial, with more structural/process orientation than psychological in nature.",
+    "reasoning_summary": "Touches on leadership style and team autonomy, but lacks in-depth psychological theory or direct focus on organisational psychology. Main intent is to compare delivery models, not explore psychological principles. Fit is partial and tangential.",
+    "level": "Tertiary"
   },
   "Social Technologies": {
     "resourceId": "BE6E5tV8130",

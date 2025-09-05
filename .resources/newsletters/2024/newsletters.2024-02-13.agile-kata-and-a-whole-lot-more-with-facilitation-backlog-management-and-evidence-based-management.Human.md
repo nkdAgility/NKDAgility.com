@@ -2,8 +2,14 @@
 title: Agile Kata and a whole lot more with facilitation, backlog management, and evidence based management!
 short_title: Agile Kata, Facilitation, Backlog & EBM
 description: Explore upcoming Agile and Scrum training covering Agile Kata, facilitation, backlog management, and evidence-based management to boost team performance and leadership skills.
+tldr: A range of immersive Agile and Scrum training classes are now open, covering Agile Kata, facilitation, evidence-based management, and backlog management, each designed to address common challenges and improve team performance. These courses offer practical skills for Scrum Masters, Product Owners, and Agile leaders, with a focus on real-world application and measurable outcomes. Managers should consider enrolling themselves or their teams soon to take advantage of a 20 percent discount and a buy-one-get-one-free offer available until the end of March.
 date: 2024-02-13
+lastmod: 2024-02-13
 weight: 665
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 author: MrHinsh
 ResourceId: hz-iCoxHxxa
 ResourceImport: false
@@ -11,21 +17,22 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management
 aliases:
-- /newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
-- /resources/newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
-- /resources/hz-iCoxHxxa
+  - /newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
+  - /resources/newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
+  - /resources/hz-iCoxHxxa
 aliasesArchive:
-- /newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
-- /resources/newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
+  - /newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
+  - /resources/newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
 layout: newsletter
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:05:48Z
   short_title: 2025-07-07T17:49:49Z
+  tldr: 2025-08-07T12:52:55Z
 preview: naked-agility-technically-agile-1280×720-24Q1-Feb24.jpg
 resourceTypes: newsletter
 

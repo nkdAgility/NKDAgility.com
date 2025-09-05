@@ -1293,12 +1293,22 @@
     "level": "Primary"
   },
   "Business Agility": {
+    "resourceId": "4Tjc5uEtM7M",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T20:10:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges and complexities of migrating to Azure DevOps, focusing on technical expertise and operational issues rather than principles or practices of business agility.",
+    "calculated_at": "2025-09-05T03:29:10",
+    "ai_confidence": 23.64,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.7,
+    "ai_intent": 3.1,
+    "ai_audience": 3.8,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses on operational and technical challenges of Azure DevOps migration, emphasising database complexities, hiring expertise, and technical execution. It does not mention business agility, nor does it discuss principles, leadership, agility metrics, innovation, or organisational transformation. Conceptually, it only tangentially aligns (e.g., empowering teams), but these are presented purely in the IT/migration context, not as part of a broader business agility framework. The main audience is IT practitioners, not business leaders or strategists, and the content is focused on migration logistics, not agile business practices. Signal-to-noise is moderate given the clear, focused, but off-category discussion.",
+    "reasoning_summary": "This content is mainly about technical Azure DevOps migration, not business agility. It lacks discussion of agile business culture, leadership, or strategic adaptation, so it only slightly fits the category and mostly remains outside its scope.",
     "level": "Ignored"
   },
   "Kanban": {

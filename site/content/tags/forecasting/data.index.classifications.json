@@ -152,16 +152,23 @@
     "level": "Tertiary"
   },
   "Observability": {
+    "resourceId": "Forecasting",
     "category": "Observability",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on forecasting within Agile and Scrum, discussing how empirical data can be used to predict delivery timelines and manage risks. While it touches on the importance of data-driven insights, it does not explicitly address observability or its core principles. The mention of metrics like cycle time and lead time aligns somewhat with observability concepts, but the overall discussion lacks depth in exploring observability as a primary focus. Therefore, the confidence score reflects a low alignment with the observability category.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:51",
+    "ai_confidence": 51.55,
+    "ai_mentions": 1.6,
+    "ai_alignment": 5.8,
+    "ai_depth": 5.9,
+    "ai_intent": 6.4,
+    "ai_audience": 8.5,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 52.0,
+    "reasoning": "The content focuses on forecasting in Agile and Scrum, using metrics like cycle time, lead time, and throughput—concepts related but not exclusive to observability. It never mentions observability directly and centers the value on prediction and planning, not on measuring internal system states. While the discussion overlaps with some observability topics (e.g., use of metrics, transparency), the intent and depth remain primarily in empirical process control and prediction, not the holistic visibility or deep system insights core to observability. Audience and signal are fairly well aligned due to Agile/DevOps context, but the fit is partial and indirect.",
+    "reasoning_summary": "The content partly fits Observability through use of Agile metrics for transparency, but focuses mainly on forecasting and prediction—not directly on observability’s full meaning. There is related overlap, but the fit is partial, with no explicit reference.",
+    "level": "Tertiary"
   },
   "Capability": {
     "resourceId": "Forecasting",

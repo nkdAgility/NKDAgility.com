@@ -1468,13 +1468,23 @@
     "level": "Ignored"
   },
   "Organisational Psychology": {
+    "resourceId": "IZ-FlBbGaSY",
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-12T05:57:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses CI/CD processes and technical methodologies without addressing psychological principles or theories related to organisational behaviour.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:28:30",
+    "ai_confidence": 63.58,
+    "ai_mentions": 1.2,
+    "ai_alignment": 7.3,
+    "ai_depth": 7.7,
+    "ai_intent": 6.6,
+    "ai_audience": 8.3,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 64.0,
+    "reasoning": "Direct mentions of Organisational Psychology are absent, but the content emphasizes how leadership, shared values, and group behaviors shape a culture of quality. It explores psychological workplace dynamics (learning, modeling, value alignment, culture shifts) though focus is on practical outcomes in engineering. Analysis of Boeing and Volkswagen exemplifies culture's effect on behavior, but the tone often blurs technical process and psychological lens. Intent is a mix of informative and promotional. Audience includes managers and change agents familiar with psychological/cultural aspects. Some signal loss to Agile/DevOps tooling, but overall, core themes address workplace behavior, leadership influence, and cultural psychology as defined by the category, albeit not deeply theoretical.",
+    "reasoning_summary": "The content discusses leadership, culture, and behavioral modeling in organizational settings, aligning well with Organisational Psychology. While some focus shifts to engineering practices, the primary theme is psychological influences on workplace quality.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",

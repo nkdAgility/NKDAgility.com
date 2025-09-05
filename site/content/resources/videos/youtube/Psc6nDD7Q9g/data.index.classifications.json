@@ -476,13 +476,23 @@
     "level": "Ignored"
   },
   "Professional Scrum": {
+    "resourceId": "Psc6nDD7Q9g",
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T13:55:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban methodology rather than Scrum principles, roles, or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:44",
+    "ai_confidence": 44.86,
+    "ai_mentions": 2.3,
+    "ai_alignment": 5.9,
+    "ai_depth": 6.7,
+    "ai_intent": 5.4,
+    "ai_audience": 7.8,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content focuses on Kanban and its role in promoting transparency, continuous improvement, and data-driven decision-making in software engineering. While these themes align with principles espoused by Professional Scrum (such as empiricism, transparency, and continuous improvement), the article is not explicitly about Professional Scrum nor does it deeply explore Scrum values or roles. A Scrum audience is acknowledged (\"My Advice for Scrum Teams\"), suggesting a partial overlap. However, the core content is centred on Kanban, not Scrum, and does not substantially discuss Professional Scrum's unique ethos, accountabilities, or avoidance of cargo-cult practices. There are a few indirect connections (mentions of Scrum, themes of empiricism and professionalism), so there is a moderate conceptual alignment and some relevance for Scrum professionals interested in Kanban. The intent is supportive but off-center from the Professional Scrum category.",
+    "reasoning_summary": "Content promotes Kanban for transparency and improvement, with some indirect references to practices valued in Professional Scrum. However, Professional Scrum is not a focus; coverage is peripheral, so fit with the assigned category is partial at best.",
+    "level": "Tertiary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",

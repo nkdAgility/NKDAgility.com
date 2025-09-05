@@ -230,12 +230,22 @@
     "level": "Ignored"
   },
   "Technical Excellence": {
+    "resourceId": "xPJL0I4sjDJ",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T18:07:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, which is more about Scrum practices than technical engineering methodologies or practices that enhance agility in software development.",
+    "calculated_at": "2025-09-05T03:30:43",
+    "ai_confidence": 17.95,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.2,
+    "ai_intent": 1.0,
+    "ai_audience": 5.0,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on the role of the Scrum Master in handling impediments and fostering team self-sufficiency. It does not address high-level engineering practices, principles, or key topics central to Technical Excellence, such as TDD, CI/CD, or modular architecture. Only a very light conceptual relation exists in the area of team maturity, which is not explicitly linked to engineering quality. Thus, the content shows minimal alignment and depth for this category, with low direct mentions and limited intent fit. No penalties are applied as there is no contradiction or obsolete advice.",
+    "reasoning_summary": "Content discusses Scrum Master roles and impediments, not technical engineering practices. Does not fit Technical Excellence; only a weak, indirect link to team maturity.",
     "level": "Ignored"
   },
   "Complexity Thinking": {

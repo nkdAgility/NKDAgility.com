@@ -1297,12 +1297,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "XZip9ZcLyDs",
     "category": "Kanban",
-    "calculated_at": "2025-02-11T22:42:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Scrum Master role and Scrum methodology, with no mention of Kanban principles or practices.",
+    "calculated_at": "2025-09-05T03:31:28",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 2.1,
+    "ai_audience": 4.0,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content exclusively discusses the Scrum Master role, leadership, Scrum, and Agile—never mentioning Kanban. There is no discussion of Kanban principles, visual boards, WIP limits, or flow. The only possible overlap is that some Agile audiences may care about Kanban. Minimal alignment or direct mention exists.",
+    "reasoning_summary": "Content is solely focused on Scrum Master and leadership, with zero reference to Kanban principles or practices. Does not fit the Kanban category definition.",
     "level": "Ignored"
   },
   "Value Delivery": {

@@ -241,12 +241,22 @@
     "level": "Ignored"
   },
   "Employee Engagement": {
+    "resourceId": "5IBKxYLA494",
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-13T17:55:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on technical processes and tools rather than employee engagement strategies.",
+    "calculated_at": "2025-09-05T03:30:16",
+    "ai_confidence": 14.18,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.4,
+    "ai_depth": 2.2,
+    "ai_intent": 1.1,
+    "ai_audience": 5.2,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses almost exclusively on technical process optimization within Azure DevOps for Scrum, not on human or psychological factors of motivation or commitment. Concepts such as recognition, trust, motivation, or feedback aimed at employee engagement aren't directly or indirectly discussed. While practices like retrospectives and improvement are mentioned, they're framed in terms of process and workflow, not employee engagement. The intent is highly technical/pragmatic for agile practitioners, with no evident discussion or guidance on fostering motivation, satisfaction, or engagement per se.",
+    "reasoning_summary": "Content is about customizing Azure DevOps for Scrum and managing agile workflows—not about motivation, commitment, or engagement. It lacks both direct and indirect discussion of employee engagement and only tangentially aligns through surface mentions of team collaboration.",
     "level": "Ignored"
   },
   "Product Strategy": {

@@ -286,12 +286,22 @@
     "level": "Primary"
   },
   "Azure Pipelines": {
+    "resourceId": "n6Suj-swl88",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T18:33:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without any reference to Azure Pipelines or related CI/CD practices.",
+    "calculated_at": "2025-09-05T03:29:00",
+    "ai_confidence": 1.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.4,
+    "ai_intent": 0.6,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content exclusively discusses Agile and Scrum practices, especially the Sprint Review and the Product Owner's role. There is no direct or indirect reference to Azure Pipelines, DevOps tooling, CI/CD, Azure, or related automation principles. The closest mention is 'DevOps' in the outro, but it lacks any substantive connection to Azure Pipelines. The content's intent, depth, and alignment are about team roles and collaboration, not automation or pipeline configuration. The audience is Agile practitioners, potentially overlapping Azure Pipelines users, but there’s no technical focus. Thus, the fit is negligible.",
+    "reasoning_summary": "The content does not relate to Azure Pipelines. It focuses on Scrum events and the Product Owner’s role in Sprint Reviews, with no mention of builds, CI/CD, automation, or Azure-specific tooling. Very low confidence for category fit.",
     "level": "Ignored"
   },
   "Team Performance": {

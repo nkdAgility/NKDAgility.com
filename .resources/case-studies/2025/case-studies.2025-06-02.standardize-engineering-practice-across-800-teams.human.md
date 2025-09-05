@@ -2,40 +2,47 @@
 title: 'From Fragmentation to Flow: How NKD Agility Helped SLB Consolidate Systems and Standardize Engineering Practice Across 800+ Teams'
 short_title: Standardize Engineering Practice Across 800 Teams
 description: NKD Agility helped SLB unify 800+ engineering teams by consolidating DevOps systems, standardizing processes, and improving visibility, collaboration, and delivery.
+tldr: SLB, a global energy tech company, faced chaos from fragmented DevOps systems and inconsistent processes across 800+ teams, making reporting and collaboration nearly impossible. NKD Agility led a multi-year transformation to standardize workflows, consolidate 27 DevOps collections into 7, automate migrations, and build internal coaching capacity, resulting in better visibility, reduced costs, and improved delivery confidence. For development managers, the key takeaway is that consolidating and standardizing systems is essential to enable effective leadership, collaboration, and engineering excellence at scale.
 date: 2025-06-02
+lastmod: 2025-06-02
 weight: 70
+sitemap:
+  filename: sitemap.xml
+  priority: 0.9
+  changefreq: monthly
 ResourceId: r77XLSf0xcr
 ResourceImport: false
 ResourceType: case-studies
 ResourceContentOrigin: human
 slug: standardize-engineering-practice-across-800-teams
 aliases:
-- /resources/r77XLSf0xcr
+  - /resources/r77XLSf0xcr
 concepts:
-- Capability
+  - Capability
 categories:
-- Engineering Excellence
-- Technical Leadership
-- Leadership
+  - Engineering Excellence
+  - Technical Leadership
+  - Leadership
 tags:
-- Azure DevOps
-- One Engineering System
-- Software Development
-- System Configuration
-- Operational Practices
-- Pragmatic Thinking
-- Digital Transformation
-- Agile Transformation
-- Agile Strategy
-- Product Delivery
-- Large Scale Agility
-- Enterprise Agility
-- Scaling
-- Project Management
-- Business Agility
+  - Azure DevOps
+  - One Engineering System
+  - Software Development
+  - System Configuration
+  - Operational Practices
+  - Pragmatic Thinking
+  - Digital Transformation
+  - Agile Strategy
+  - Product Delivery
+  - Large Scale Agility
+  - Scaling
+  - Enterprise Agility
+  - Project Management
+  - Business Agility
+  - Transparency
 Watermarks:
   description: 2025-06-16T11:50:55Z
   short_title: 2025-07-07T16:43:50Z
+  tldr: 2025-08-07T12:29:05Z
 draft: false
 
 ---

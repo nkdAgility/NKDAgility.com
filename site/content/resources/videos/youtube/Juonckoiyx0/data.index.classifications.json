@@ -1338,12 +1338,22 @@
     "level": "Ignored"
   },
   "Azure DevOps": {
+    "resourceId": "Juonckoiyx0",
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T05:39:01",
+    "calculated_at": "2025-09-05T03:29:10",
     "ai_confidence": 0,
-    "non_ai_confidence": 0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.1,
+    "ai_audience": 0.3,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "reasoning": "The content focuses exclusively on Scrum, stakeholder engagement, and best practices for Sprint reviews within Agile teams. There is no mention of Azure DevOps, its features, or related CI/CD, Boards, Pipelines, or any specific tools. None of the main topics, intent, or advice are connected to Azure DevOps functionalities, integrations, or comparisons. The only possible overlap is that Azure DevOps can be used for Agile project management, but the article never references or implies this suite. Thus, the fit to the 'Azure DevOps' category is negligible, with all dimensions scoring at or very near 0.",
+    "reasoning_summary": "This content does not mention or relate to Azure DevOps—its focus is purely on Scrum sprint reviews and stakeholder engagement in Agile, so it should not be classified under Azure DevOps.",
     "level": "Ignored"
   },
   "Business Agility": {

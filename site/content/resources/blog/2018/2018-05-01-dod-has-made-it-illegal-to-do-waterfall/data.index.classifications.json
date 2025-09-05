@@ -534,12 +534,22 @@
     "reasoning_summary": "This content clearly fits the Agile Planning category, as it explores the transition from waterfall to agile approaches and illustrates key agile principles like iteration and user collaboration. By referencing real-world DOD and FBI examples, it effectively demonstrates how agile planning concepts are applied in practice, even though it doesn’t focus on particular tools or frameworks."
   },
   "Value Stream Mapping": {
+    "resourceId": "dnmT3QDhGxx",
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-14T18:34:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the shift from waterfall to agile methodologies in the context of the Department of Defence, without a focus on Value Stream Mapping or its principles.",
+    "calculated_at": "2025-09-05T03:31:29",
+    "ai_confidence": 13.125,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.2,
+    "ai_intent": 1.5,
+    "ai_audience": 4.1,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on the US DOD's shift from waterfall to agile, highlighting the benefits of iterative development, government policy shifts, and case studies in government IT. There is heavy discussion of agile, lean, and iterative delivery, but at no point does the content mention or discuss Value Stream Mapping (VSM), its techniques, creation of value stream maps, or analysis of value flow and waste. Workflow optimization is alluded to generally, but not in a manner unique to VSM. The intended audience is broadly aligned (organizational IT/Agile practitioners), but the substance never intersects directly or deeply with VSM topics.",
+    "reasoning_summary": "This content discusses agile adoption and iterative delivery in government IT, but makes no mention of Value Stream Mapping and does not engage with VSM concepts or techniques. Fit is minimal to none for the assigned category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {

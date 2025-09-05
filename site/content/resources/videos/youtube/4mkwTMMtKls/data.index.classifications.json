@@ -1308,12 +1308,22 @@
     "level": "Secondary"
   },
   "Kanban": {
+    "resourceId": "4mkwTMMtKls",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T11:11:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile concepts, particularly envy in relation to adopting practices from other frameworks like Scrum and the Spotify model, without any focus on Kanban principles or practices.",
+    "calculated_at": "2025-09-05T03:30:52",
+    "ai_confidence": 8.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 0.9,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content extensively discusses authentic Agile adoption, the dangers of copying other frameworks (like Spotify), and the value of tailoring practices. However, Kanban is never mentioned, nor are any of its distinctive concepts (visualisation, WIP limits, metrics, flow management, etc.) discussed directly or indirectly. The alignment and depth scores are extremely low since there are no meaningful overlaps with Kanban's core topics—only some high-level generic advocacy for adapting Agile to context. No penalty was applied, as there is no evidence of outdatedness or active contradiction. Because there is no explicit or implicit relevance to Kanban, the confidence score is appropriately near zero.",
+    "reasoning_summary": "This content does not fit the Kanban category. It discusses Agile adoption philosophy, not Kanban principles or practices. There are no direct or implied links to Kanban topics.",
     "level": "Ignored"
   },
   "Value Delivery": {

@@ -247,16 +247,23 @@
     "level": "Ignored"
   },
   "Scaling": {
+    "resourceId": "pQyifHyTkWo",
     "category": "Scaling",
-    "calculated_at": "2025-04-29T13:43:41",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses transitioning from monolithic architectures to microservices, which touches on scaling in terms of system architecture. However, it primarily focuses on technical aspects and challenges of migration rather than the broader methodologies and frameworks for scaling Agile practices. While there are mentions of dependencies and the need for strategic decomposition, the discussion lacks depth in terms of frameworks for scaling Agile, cross-team collaboration, or metrics for measuring flow and value delivery at scale. Therefore, while there is some relevance, it does not meet the primary focus required for a higher confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:27:51",
+    "ai_confidence": 55.83,
+    "ai_mentions": 2.6,
+    "ai_alignment": 6.8,
+    "ai_depth": 6.3,
+    "ai_intent": 6.6,
+    "ai_audience": 7.0,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 56.0,
+    "reasoning": "The content focuses on transitioning from monoliths to microservices, emphasizing planning, decomposition, managing complexity, and team dynamics. These points touch on scaling-related themes like team coordination and dependency management. However, direct mentions of scaling frameworks, cross-team collaboration at enterprise scale, or explicit scaling methodologies (SAFe, LeSS, etc.) are missing. The depth and intent partially align with scaling (i.e., scalable delivery, iterative transition), mainly as they relate to software architecture and agility improvements, but the content is more about microservices transformation than the broader strategies and theories of scaling agile across multiple teams or products. The target audience (CTOs, engineering leads) is relevant. Overall, a partial fit: some scaling concepts are present, but not the full spectrum as defined by the category.",
+    "reasoning_summary": "The content partially fits 'Scaling' by discussing system decomposition, team dynamics, and delivery agility during a microservices transition, but lacks explicit scaling frameworks, enterprise-wide coordination, or cross-team scaling methodologies.",
+    "level": "Tertiary"
   },
   "Lead Time": {
     "category": "Lead Time",

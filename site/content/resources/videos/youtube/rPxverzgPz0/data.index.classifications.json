@@ -1352,12 +1352,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "rPxverzgPz0",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T02:32:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Agile Practitioner Series course and its relevance to Scrum teams, focusing on organisational change rather than technical engineering practices.",
+    "calculated_at": "2025-09-05T03:31:12",
+    "ai_confidence": 18.86,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.2,
+    "ai_intent": 2.0,
+    "ai_audience": 5.2,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content primarily focuses on recommending the APS course for new Scrum teams, emphasising organisational change, team empowerment, and practical Scrum skills. While these are important Agile topics, the discussion does not directly reference or thoroughly explore technical excellence as defined (e.g., TDD, CI/CD, modular architecture, emergent design). There are no explicit mentions of high-level engineering practices, technical quality, or technical agility. Some indirect alignment appears in references to continuous improvement and adapting, but these are discussed at a process/team level, not at the engineering practice or code quality level central to technical excellence. The intended audience (Scrum teams) overlaps with the technical excellence audience, but the core discussion is organizational and team process improvement, not technical practice. Overall, fit is minimal and mostly tangential.",
+    "reasoning_summary": "Content centers on practical Scrum skills, empowerment, and organizational change, not high-level engineering practices. No explicit or in-depth focus on technical excellence. Alignment with the category is minimal and mostly indirect.",
     "level": "Ignored"
   },
   "Organisational Agility": {

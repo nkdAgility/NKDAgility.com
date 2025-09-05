@@ -1427,13 +1427,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "XZVixdVy-PQ",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-11T22:39:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and the challenges of implementing Agile practices, without a clear focus on the application lifecycle stages or management.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:56",
+    "ai_confidence": 44.522,
+    "ai_mentions": 0.5,
+    "ai_alignment": 5.9,
+    "ai_depth": 4.8,
+    "ai_intent": 5.1,
+    "ai_audience": 5.2,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "Direct references to Application Lifecycle Management (ALM) are entirely absent. The content focuses nearly exclusively on Agile principles, team behavior, and the value of human judgment versus ritualistic practice—important themes in software development, but only loosely adjacent to ALM. While it references product delivery, adaptability, ROI, and continuous improvement, these themes are in the service of redefining Agile's mindset and practice, not a structured examination of managing the full application lifecycle, ALM tools, or lifecycle governance. The main audience is agile practitioners and organizations wanting to deepen their understanding of Agile beyond procedural rote. Supporting ideas like automation fit peripherally, but ALM as a framework or process is not engaged. The signal-to-noise ratio is fair: content is coherent but largely off from ALM-centric concerns like lifecycle stages, governance, compliance, or risk management. No penalties are applied, as the content isn't outdated or satirical, but fit is partial at best.",
+    "reasoning_summary": "The content focuses on Agile mindset and practice beyond rituals—not ALM. It doesn't address application lifecycle governance, stages, or tools. Only tangential alignment exists, so the fit with 'Application Lifecycle Management' is low and partial.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

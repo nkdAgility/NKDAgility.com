@@ -1462,13 +1462,23 @@
     "level": "Ignored"
   },
   "Organisational Psychology": {
+    "resourceId": "O6rYL3EDUxM",
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-12T03:48:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and practices, focusing on technical aspects rather than psychological principles related to motivation, engagement, or team dynamics.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:38",
+    "ai_confidence": 49.34,
+    "ai_mentions": 0.4,
+    "ai_alignment": 5.8,
+    "ai_depth": 5.6,
+    "ai_intent": 5.2,
+    "ai_audience": 6.1,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 49.0,
+    "reasoning": "The content discusses Agile maturity, authenticity, and cultural/leadership implications, lightly touching on empowerment, feedback, and continuous improvement. However, it stays rooted in Agile methodology assessment rather than delving into psychological theories of motivation, leadership, or group behaviour. There are only implicit links to Organisational Psychology—terms like feedback culture, empowerment, and mindset are referenced, but always in the context of Agile technical practices, not as primary explorations of psychological factors. There's no direct mention of psychological principles, formal theories, or a deep dive into team or organisational behaviour from a psychological lens. The intent primarily serves Agile practitioners and leaders who seek process improvement, not organizational psychologists or those studying psychological outcomes as such. Signal-to-noise is decent as it stays on topic, but the category fit is partial and mostly tangential.",
+    "reasoning_summary": "This content addresses cultural and leadership elements in an Agile context, touching on empowerment and feedback, but mainly evaluates process maturity, not psychological principles or theories. Fit with Organisational Psychology is partial and indirect.",
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",

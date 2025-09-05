@@ -2,44 +2,52 @@
 title: How Usable Working Products Are Your Ultimate Weapon Against Risks
 short_title: Usable Working Products Reduce Agile Risks
 description: Delivering usable, working products frequently is key to reducing risk in Agile. Focus on feedback, automation, and lean practices over excessive documentation.
+tldr: Continuously delivering a usable working product is the most effective way to reduce risk in Agile development. Focus on releasing functional increments, fixing bugs quickly, automating tests, and keeping documentation lean to stay responsive to market needs. Prioritise regular feedback from users and stakeholders to ensure you are building what truly adds value.
 date: 2023-07-20
+lastmod: 2023-07-20
 weight: 360
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: UnSs37BlBV7
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: how-usable-working-products-are-your-ultimate-weapon-against-risks
 aliases:
-- /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
-- /how-usable-working-products-are-your-ultimate-weapon-against-risks
-- /resources/UnSs37BlBV7
-- /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
+  - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
+  - /how-usable-working-products-are-your-ultimate-weapon-against-risks
+  - /resources/UnSs37BlBV7
+  - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 aliasesArchive:
-- /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
-- /how-usable-working-products-are-your-ultimate-weapon-against-risks
-- /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
+  - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
+  - /how-usable-working-products-are-your-ultimate-weapon-against-risks
+  - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 layout: blog
 concepts:
-- Tenet
+  - Tenet
 categories:
-- Product Development
-- Engineering Excellence
-- Product Management
+  - Product Development
+  - Engineering Excellence
+  - Product Management
 tags:
-- Increment
-- Agile Product Management
-- Operational Practices
-- Working Software
-- Pragmatic Thinking
-- Product Delivery
-- Software Development
-- Value Delivery
-- Frequent Releases
-- Agile Transformation
-- Market Adaptability
+  - Increment
+  - Agile Product Management
+  - Operational Practices
+  - Working Software
+  - Pragmatic Thinking
+  - Product Delivery
+  - Software Development
+  - Value Delivery
+  - Frequent Releases
+  - Agile Transformation
+  - Market Adaptability
+  - Empirical Process Control
 Watermarks:
   description: 2025-05-07T13:10:36Z
   short_title: 2025-07-07T17:53:53Z
+  tldr: 2025-08-07T13:01:50Z
 ResourceImportId: 49501
 AudioNative: true
 creator: Martin Hinshelwood

@@ -122,13 +122,23 @@
     "level": "Ignored"
   },
   "Employee Engagement": {
+    "resourceId": "5RJpAeKMRzs",
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-12T23:44:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and the associated pitfalls, with no clear focus on employee engagement or motivation.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:59",
+    "ai_confidence": 53.27,
+    "ai_mentions": 2.3,
+    "ai_alignment": 6.7,
+    "ai_depth": 6.1,
+    "ai_intent": 5.5,
+    "ai_audience": 7.3,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 53.0,
+    "reasoning": "The content critiques common organizational pitfalls in Agile practice, emphasizing the need for genuine commitment, accountability, and a supportive culture. While some themes—such as moving away from blame, fostering responsibility, and improving team adaptation—touch concepts relevant to employee engagement, there are minimal direct references to motivation, psychological aspects, recognition, or explicit engagement strategies. The main thrust is process-driven transformation, not explicitly the human-centric elements that characterize employee engagement. Audience fit and signal are moderately strong as the post targets leaders and teams, but the content largely stays within the Agile transformation/process improvement frame rather than the deep motivational drivers, engagement measurement, or reward/recognition. No penalties are appropriate as the tone and content are aligned for the time.",
+    "reasoning_summary": "Partially fits: references to accountability, culture, and team responsibility suggest some overlap, but the focus remains on Agile pitfalls and transformation, not employee engagement as defined by motivation and commitment.",
+    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",

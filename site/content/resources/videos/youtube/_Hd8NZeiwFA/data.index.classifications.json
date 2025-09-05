@@ -284,13 +284,23 @@
     "level": "Secondary"
   },
   "Business Agility": {
+    "resourceId": "_Hd8NZeiwFA",
     "category": "Business Agility",
-    "calculated_at": "2025-02-25T12:12:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and importance of Scrum Masters, focusing on Scrum practices rather than broader business agility principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:27",
+    "ai_confidence": 53.83,
+    "ai_mentions": 2.1,
+    "ai_alignment": 5.8,
+    "ai_depth": 5.3,
+    "ai_intent": 5.5,
+    "ai_audience": 5.4,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content specifically addresses the competency required for the Scrum Master role, emphasizing skill, team context, and the impact of role misinterpretation. While it discusses Agile teams and organizational complexity, it does not directly reference core Business Agility topics such as adaptation to market change, organization-wide agility, leadership frameworks, or integrating Agile/Lean/DevOps at the business level. The main focus is on role clarity and professionalism within Scrum, not overall business agility. The intent is aligned with building effective Agile teams, which is tangentially related, but discussion of organizational responsiveness and agility is limited. Minor overlap occurs in referencing broader organizational context and system thinking, but not enough for a high confidence score.",
+    "reasoning_summary": "Primarily about experience requirements for Scrum Masters, not organizational adaptability or business agility. Some alignment via references to team context and organizational complexity, but does not deeply engage with business agility principles or practices. Partial fit.",
+    "level": "Tertiary"
   },
   "Release Management": {
     "category": "Release Management",

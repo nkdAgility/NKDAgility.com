@@ -1286,12 +1286,22 @@
     "level": "Ignored"
   },
   "Azure DevOps": {
+    "resourceId": "Xs-gf093GbI",
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-11T22:45:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the importance of product vision and alignment in a business context, without any mention of Azure DevOps or its functionalities.",
+    "calculated_at": "2025-09-05T03:31:09",
+    "ai_confidence": 7.45,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.2,
+    "ai_audience": 1.4,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content discusses the importance and impact of having a clear product vision in a general sense, applicable to any team or product. There is neither a direct mention nor even an implied reference to Azure DevOps, its tools, or its usage. The content avoids technical details and does not address CI/CD, pipelines, Boards, or any Azure DevOps functionality. The only category-adjacent reference is a concluding note about Scrum and Agile courses, but this relates to Agile/Scrum principles, not Azure DevOps. The audience could include some technical folks, but nothing distinctly aligns it with the Azure DevOps community. There is no signal (mention or focus) related to Azure DevOps, so the confidence must be extremely low.",
+    "reasoning_summary": "The content is entirely unrelated to Azure DevOps, focusing instead on general product vision and team alignment, with minor references to Agile/Scrum. No explicit or implicit link to Azure DevOps exists; fit with the category is negligible.",
     "level": "Ignored"
   },
   "Business Agility": {

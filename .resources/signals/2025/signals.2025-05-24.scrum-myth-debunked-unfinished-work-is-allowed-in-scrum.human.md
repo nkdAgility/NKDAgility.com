@@ -2,42 +2,49 @@
 title: 'Scrum Myth Debunked: Unfinished Work is Allowed in Scrum'
 short_title: 'Unfinished Work in Scrum: Myth vs Reality'
 description: Clarifies Scrum guidelines on unfinished work, explaining that items can span multiple Sprints if the Sprint Goal and Done Increment remain intact, avoiding common misconceptions.
+tldr: Scrum does not require all work to be finished by the end of a Sprint, only that the Increment is Done and meets the Definition of Done. Unfinished items can carry over as long as the Sprint Goal and Increment are not compromised. Managers should focus on delivering value and avoid forcing work to fit arbitrary Sprint boundaries.
 date: 2025-05-24T15:30:17+01:00
+lastmod: 2025-05-24T15:30:17+01:00
 weight: 445
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: uhQlOorRmkA
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: scrum-myth-debunked-unfinished-work-is-allowed-in-scrum
 aliases:
-- /resources/uhQlOorRmkA
+  - /resources/uhQlOorRmkA
 source: LinkedIn
 layout: signal
 concepts: []
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Agile Frameworks
-- Professional Scrum
-- Increment
-- Product Delivery
-- Pragmatic Thinking
+  - Software Development
+  - Agile Frameworks
+  - Professional Scrum
+  - Increment
+  - Product Delivery
+  - Pragmatic Thinking
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7332065411456245762
-  post_id: "7332065411456245762"
-  post_date: 2025-05-24T14:30:17Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7332065411456245762
+    post_id: "7332065411456245762"
+    post_date: 2025-05-24T14:30:17Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-29T18:10:52Z
   short_title: 2025-07-07T16:44:01Z
+  tldr: 2025-08-07T12:29:32Z
 
 ---
 For years I repeated a myth without questioning it: “You can’t have unfinished work in Scrum.” But the truth is, that’s not what the Scrum Guide says at all.

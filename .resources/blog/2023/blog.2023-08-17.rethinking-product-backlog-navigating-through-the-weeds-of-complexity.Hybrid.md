@@ -2,46 +2,53 @@
 title: 'Rethinking Product Backlog: Navigating Through the Weeds of Complexity'
 short_title: Rethinking Product Backlog Complexity
 description: Explores how rigid hierarchies in product backlogs can hinder agility, advocating for flatter, value-focused approaches to manage complexity in product development.
+tldr: Relying on rigid hierarchies in the Product Backlog can hinder transparency and adaptability in complex product development. Instead, focus on a flat backlog that highlights valuable, deliverable items, supports team autonomy, and leverages emergent practices over fixed best practices. Empower your teams to structure the backlog in ways that foster learning, innovation, and resilience in changing environments.
 date: 2023-08-17
+lastmod: 2023-08-17
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: PmLDnMEBzBQ
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 aliases:
-- /blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
-- /rethinking-product-backlog-navigating-through-the-weeds-of-complexity
-- /rethinking-product-backlog--navigating-through-the-weeds-of-complexity
-- /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
-- /resources/PmLDnMEBzBQ
-- /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
+  - /blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
+  - /rethinking-product-backlog-navigating-through-the-weeds-of-complexity
+  - /rethinking-product-backlog--navigating-through-the-weeds-of-complexity
+  - /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
+  - /resources/PmLDnMEBzBQ
+  - /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 aliasesArchive:
-- /blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
-- /rethinking-product-backlog-navigating-through-the-weeds-of-complexity
-- /rethinking-product-backlog--navigating-through-the-weeds-of-complexity
-- /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
-- /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
+  - /blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
+  - /rethinking-product-backlog-navigating-through-the-weeds-of-complexity
+  - /rethinking-product-backlog--navigating-through-the-weeds-of-complexity
+  - /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
+  - /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 layout: blog
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Product Management
-- Product Development
+  - Product Management
+  - Product Development
 tags:
-- Product Backlog
-- Agile Product Management
-- Complexity Thinking
-- Software Development
-- Pragmatic Thinking
-- Organisational Agility
-- Agile Planning
-- Product Owner
-- Agile Philosophy
-- Sensemaking
+  - Product Backlog
+  - Agile Product Management
+  - Complexity Thinking
+  - Software Development
+  - Pragmatic Thinking
+  - Organisational Agility
+  - Agile Planning
+  - Product Owner
+  - Agile Philosophy
+  - Sensemaking
 Watermarks:
   description: 2025-05-07T13:10:10Z
   short_title: 2025-07-07T17:53:31Z
+  tldr: 2025-08-07T13:01:02Z
 ResourceImportId: 49515
 AudioNative: true
 creator: Martin Hinshelwood

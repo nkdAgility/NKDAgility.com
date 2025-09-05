@@ -253,12 +253,22 @@
     "level": "Ignored"
   },
   "Technical Mastery": {
+    "resourceId": "9YRzr3RR2Da",
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T17:31:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, which does not align with the core principles of software craftsmanship.",
+    "calculated_at": "2025-09-05T03:31:24",
+    "ai_confidence": 18.34,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.6,
+    "ai_intent": 1.2,
+    "ai_audience": 2.1,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content exclusively focuses on Agile leadership and organizational transformation, offering strategies, insights, and training primarily for leaders. There is little to no explicit mention of technical practices or software engineering excellence (e.g., code quality, architecture, DevOps), which are central to Technical Mastery. The discussion is superficial with respect to technical topics and is mainly about organizational change, leadership roles, and class promotions. Although the term 'agile' appears frequently, it relates to leadership and transformation rather than technical craftsmanship. The target audience is leaders and managers, not engineers or technical practitioners interested in advancing technical mastery.",
+    "reasoning_summary": "The content emphasizes Agile leadership and transformation, not technical mastery. It lacks any substantive discussion of engineering practices, software design, or code quality, and targets managers/leaders rather than technical practitioners. Fit is minimal.",
     "level": "Ignored"
   },
   "Sprint Review": {

@@ -3,31 +3,38 @@ title: 'Fragile by Design: The Cost of Pretending to Be Resilient'
 short_title: 'Fragile by Design: The Cost of Fake Resilience'
 subtitle: You don't rise to the level of your continuity plan. You fall to the level of your last real test.
 description: Explores how poor engineering, shallow product thinking, and organisational denial lead to fragile systems, stressing that true resilience requires rigorous, real-world testing.
+tldr: Most systems fail under real pressure because resilience is often treated as a checkbox or afterthought rather than a core product capability that is engineered, tested, and verified in real-world conditions. High-profile outages at Spain’s grid, Oracle, and Heathrow show that bad engineering, shallow product thinking, and leadership denial lead to systemic fragility. To avoid costly failures, development managers must make resilience a disciplined, ongoing practice by designing for failure, testing recovery regularly, and confronting weaknesses head-on.
 date: 2025-05-12T09:00:00Z
+lastmod: 2025-05-12T09:00:00Z
 weight: 165
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: LGGuvRq4g7p
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 slug: fragile-by-design-the-cost-of-pretending-to-be-resilient
 aliases:
-- /resources/LGGuvRq4g7p
+  - /resources/LGGuvRq4g7p
 aliasesArchive:
-- /fragile-by-design--the-cost-of-pretending-to-be-resilient
-- /blog/fragile-by-design--the-cost-of-pretending-to-be-resilient
+  - /fragile-by-design--the-cost-of-pretending-to-be-resilient
+  - /blog/fragile-by-design--the-cost-of-pretending-to-be-resilient
 concepts: []
 categories:
-- Engineering Excellence
-- Product Development
-- Technical Leadership
+  - Engineering Excellence
+  - Product Development
+  - Technical Leadership
 tags:
-- Technical Mastery
-- Pragmatic Thinking
-- Engineering Practices
-- Site Reliability Engineering
+  - Technical Mastery
+  - Pragmatic Thinking
+  - Engineering Practices
+  - Site Reliability Engineering
 Watermarks:
   description: 2025-05-07T12:49:09Z
   short_title: 2025-07-07T16:44:17Z
+  tldr: 2025-08-07T12:32:30Z
 
 ---
 Most systems are not resilient. They are fragile by design—propped up by a fantasy of "continuity" that vanishes the moment real pressure hits.

@@ -1408,12 +1408,22 @@
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
+    "resourceId": "hXieCawt-XE",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T06:34:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban practices and workflow management, with no clear focus on the application lifecycle stages or management principles.",
+    "calculated_at": "2025-09-05T03:30:25",
+    "ai_confidence": 32.86,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.9,
+    "ai_depth": 4.1,
+    "ai_intent": 3.4,
+    "ai_audience": 4.3,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content focuses on Kanban as a workflow optimization tool, discussing visualization, WIP limits, bottlenecks, and continuous improvement. While these are process improvement themes that could be components of ALM environments, the content explicitly centers on Kanban as a standalone methodology for workflow, not on managing the full application lifecycle. There are no direct mentions of ALM, nor are topics like application conception, deployment, maintenance, or retirement addressed. The audience may overlap with ALM practitioners, but the topic fit is mostly tangential, as Kanban is discussed in general process terms rather than as an ALM practice.",
+    "reasoning_summary": "Content is about Kanban workflow optimization, not ALM. It lacks direct lifecycle management discussion; conceptual fit is weak and indirect. Some relevance to ALM-adjacent audiences but topic is tangential, not core, to the category.",
     "level": "Ignored"
   },
   "Value Stream Management": {

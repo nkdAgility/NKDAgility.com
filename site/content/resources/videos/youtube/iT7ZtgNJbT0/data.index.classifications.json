@@ -1448,12 +1448,22 @@
     "level": "Ignored"
   },
   "Organisational Psychology": {
+    "resourceId": "iT7ZtgNJbT0",
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-12T06:10:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and personal experiences as a consultant, with no focus on psychological principles or theories related to organisational behaviour.",
+    "calculated_at": "2025-09-05T03:30:55",
+    "ai_confidence": 35.92,
+    "ai_mentions": 0.3,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.5,
+    "ai_intent": 2.9,
+    "ai_audience": 3.1,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.0,
+    "ai_penalty_details": "mentions (-1): No reference to organisational psychology or core psychological theories; alignment (-0.2): primary narrative is about technical delivery and personal impact, not group psychological dynamics; signal (-0.2): content includes marketing/filler elements.",
+    "final_score": 36.0,
+    "reasoning": "The content describes a personal success story as an Agile consultant, focusing on the emotional satisfaction of seeing lasting change in a team after Scrum workshops. However, there is no explicit mention of organisational psychology or its core theories (e.g., motivation, leadership, psychological safety). The themes are more aligned with professional fulfillment, technical practices, and agile transformation, rather than exploring psychological principles, group behaviour, or team dynamics in any substantive way. While there are peripheral references to 'transformation' and long-term impact, these are framed in terms of agile consulting effectiveness rather than the psychological factors driving them. No depth on psychological constructs is provided. Some penalty has been applied for lack of direct connection to organisational psychology and for inclusion of marketing content.",
+    "reasoning_summary": "Content is a feel-good agile consulting story, lacking direct organisational psychology discussion. No mention of relevant theories or psychological constructs; focus is on agile impact rather than workplace psychology. Only a weak, indirect fit.",
     "level": "Ignored"
   },
   "Social Technologies": {

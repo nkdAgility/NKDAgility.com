@@ -2,34 +2,40 @@
 title: Sprint Planning Recipe
 short_title: Sprint Planning Step-by-Step Guide
 description: Step-by-step guide to effective Sprint Planning in Scrum, covering goal setting, backlog selection, team capacity, actionable plans, and clear communication with stakeholders.
+tldr: Sprint Planning is a team event to set a clear Sprint Goal, select backlog items, and create an actionable plan for the first 24 hours, with the session length depending on how well the team understands the backlog and goals. Key steps include the Product Owner presenting the vision, the team agreeing on a Sprint Goal, reviewing capacity and throughput, selecting work items, and planning initial actions. To keep planning efficient, ensure the backlog and goals are clear before the meeting and communicate the plan to stakeholders afterward.
 date: 2024-09-17
-weight: 790
+lastmod: 2024-09-17
+weight: 725
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: D1dSEM9ni3C
 ResourceImport: false
 ResourceType: recipes
 ResourceContentOrigin: Human
 slug: sprint-planning-recipe
 aliases:
-- /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
-- /resources/D1dSEM9ni3C
+  - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
+  - /resources/D1dSEM9ni3C
 aliasesArchive:
-- /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
+  - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
 layout: recipe
 concepts:
-- Method
+  - Method
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Agile Planning
-- Professional Scrum
-- Scrum Team
-- Agile Product Management
-- Product Delivery
-- Agile Frameworks
-- Agile Planning Tools
-- Team Performance
+  - Software Development
+  - Agile Planning
+  - Professional Scrum
+  - Scrum Team
+  - Agile Product Management
+  - Product Delivery
+  - Agile Frameworks
+  - Agile Planning Tools
+  - Team Performance
 card:
   button:
     content: Learn More
@@ -38,25 +44,26 @@ card:
 Watermarks:
   description: 2025-05-07T12:57:48Z
   short_title: 2025-07-07T17:47:58Z
+  tldr: 2025-08-07T12:46:26Z
 resourceTypes: recipe
 image: /images/naked-Agility-Scrum-Framework-Sprint-Planning.jpg
 creator: Martin Hinshelwood
 recommendedContent:
-- collection: practices
-  path: _practices/professional-sprint-planning.md
-- collection: guides
-  path: _guides/manifesto-for-agile-software-development.md
-- collection: guides
-  path: _guides/scrum-guide.md
+  - collection: practices
+    path: _practices/professional-sprint-planning.md
+  - collection: guides
+    path: _guides/manifesto-for-agile-software-development.md
+  - collection: guides
+    path: _guides/scrum-guide.md
 videos:
-- title: What is the most common mistake in sprint planning?
-  embed: https://www.youtube.com/embed/JVZzJZ5q0Hw
-- title: What is sprint planning?
-  embed: https://www.youtube.com/embed/nMkit8zBxG0
-- title: 'What is your #1 tip for effective sprint planning?'
-  embed: https://www.youtube.com/embed/uQ786VBz3Jw
-- title: How does a scrum team plan and prioritize work effectively?
-  embed: https://www.youtube.com/embed/sPmUuSy7G3I
+  - title: What is the most common mistake in sprint planning?
+    embed: https://www.youtube.com/embed/JVZzJZ5q0Hw
+  - title: What is sprint planning?
+    embed: https://www.youtube.com/embed/nMkit8zBxG0
+  - title: 'What is your #1 tip for effective sprint planning?'
+    embed: https://www.youtube.com/embed/uQ786VBz3Jw
+  - title: How does a scrum team plan and prioritize work effectively?
+    embed: https://www.youtube.com/embed/sPmUuSy7G3I
 
 ---
 The purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire [Scrum]({{< ref "/categories/scrum" >}}) Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event, the greater the degree of understanding that the [Scrum Team]({{< ref "/tags/scrum-team" >}}) has going in, the shorter it will be. That is, if the [Product Backlog]({{< ref "/tags/product-backlog" >}}) is well understood and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood or the Product Goal is not clear, then the Sprint Planning will be longer.

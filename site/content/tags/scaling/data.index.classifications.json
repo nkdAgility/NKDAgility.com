@@ -247,16 +247,23 @@
     "level": "Ignored"
   },
   "Discipline": {
+    "resourceId": "Scaling",
     "category": "Discipline",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the concept of scaling in organisations, which indirectly relates to discipline through the themes of alignment, efficiency, and continuous improvement. However, it does not explicitly mention 'discipline' or delve deeply into its principles. The focus is more on operational strategies rather than the concept of discipline itself, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-09-05T03:31:54",
+    "ai_confidence": 82.8,
+    "ai_mentions": 4.8,
+    "ai_alignment": 8.7,
+    "ai_depth": 7.6,
+    "ai_intent": 8.0,
+    "ai_audience": 8.5,
+    "ai_signal": 9.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 83.0,
+    "reasoning": "The content discusses the systemic application of scaling across multiple teams, focusing on lean principles, continuous improvement, and value delivery—core characteristics of a discipline. It explores alignment, governance, culture, and structured methodologies typical of mature disciplines in modern work systems. Direct mentions of 'discipline' are absent, but strong conceptual alignment with the Discipline category is present, especially in describing how scaling fosters long-term organisational adaptation and improvement. The audience (enterprise leaders/practitioners) and intent (informative/exploratory) align well. Some degree of depth and discussion of scaling as a discipline is evident, although the term 'discipline' is not used directly, and there are no explicit references to governance or ethical frameworks. However, the overall focus is systemic rather than tool- or technique-based, justifying a high confidence score but not the maximum.",
+    "reasoning_summary": "The content strongly fits the Discipline category by focusing on systemic, principle-based scaling, alignment, and continuous improvement but lacks explicit reference to 'discipline' and governance. Fit is strong but not maximal due to indirect terminology.",
+    "level": "Primary"
   },
   "Scrum Values": {
     "resourceId": "Scaling",

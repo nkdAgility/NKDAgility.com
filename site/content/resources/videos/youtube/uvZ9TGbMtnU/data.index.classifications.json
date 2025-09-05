@@ -206,12 +206,22 @@
     "level": "Tertiary"
   },
   "Platform Engineering": {
+    "resourceId": "uvZ9TGbMtnU",
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T14:34:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile practices and the concept of Sprints, which are not directly related to platform engineering.",
+    "calculated_at": "2025-09-05T03:28:58",
+    "ai_confidence": 6.05,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.4,
+    "ai_intent": 0.9,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses exclusively on Agile misconceptions, specifically the pitfalls of 'special Sprints' and emphasizes Agile values like continuous improvement and product quality. There is no mention of platform engineering, IDPs, internal tooling, or platform thinking. The themes, examples, and recommendations are targeted at Agile team practices, not the design, operation, or enablement of internal developer platforms. The audience is Agile practitioners, not platform engineers. Minimal alignment on audience and intent is given only because software practitioners could overlap, but none of the substantive category markers for Platform Engineering are present.",
+    "reasoning_summary": "No fit: The content is about Agile practice pitfalls and continuous improvement, with no mention or conceptual alignment to Platform Engineering or its principles.",
     "level": "Ignored"
   },
   "Agile Product Management": {

@@ -2,41 +2,48 @@
 title: Why Slow Processes Impact Developer Productivity and Performance
 short_title: Why Slow Processes Hurt Developer Productivity
 description: Explores how inefficient processes, not individual shortcomings, hinder developer productivity and performance, highlighting the need for systemic improvements.
+tldr: Developer performance issues are often caused by slow or broken processes, not individual shortcomings. Focusing on improving systems like training, reviews, and team handoffs leads to better results than blaming people. To boost productivity, address process bottlenecks rather than targeting individuals.
 date: 2025-03-14T16:30:02+00:00
+lastmod: 2025-03-14T16:30:02+00:00
 weight: 235
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: CkgnD5GYbI8
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: why-slow-processes-impact-developer-productivity-and-performance
 aliases:
-- /resources/CkgnD5GYbI8
+  - /resources/CkgnD5GYbI8
 source: LinkedIn
 layout: signal
 concepts: []
 categories:
-- Technical Leadership
-- Engineering Excellence
+  - Technical Leadership
+  - Engineering Excellence
 tags:
-- Team Performance
-- Operational Practices
-- Sociotechnical Systems
-- Software Development
-- Continuous Improvement
+  - Team Performance
+  - Operational Practices
+  - Sociotechnical Systems
+  - Software Development
+  - Continuous Improvement
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7306350908538277888
-  post_id: "7306350908538277888"
-  post_date: 2025-03-14T16:30:02Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7306350908538277888
+    post_id: "7306350908538277888"
+    post_date: 2025-03-14T16:30:02Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:10Z
   short_title: 2025-07-07T16:45:27Z
+  tldr: 2025-08-07T12:34:52Z
 
 ---
 I once heard a leader say, “This developer is too slow.” No, the process was slow.

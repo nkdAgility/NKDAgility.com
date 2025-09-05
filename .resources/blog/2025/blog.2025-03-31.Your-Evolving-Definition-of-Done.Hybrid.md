@@ -2,44 +2,51 @@
 title: Your Evolving Definition of Done
 short_title: Your Evolving Definition of Done
 description: Explains how the Definition of Done evolves in Scrum, aligning team practices with organisational standards to ensure consistent quality, compliance, and business value delivery.
+tldr: The Definition of Done should evolve as teams mature, starting with basic quality standards and expanding to include automation, security, and business-level requirements that align with organisational goals. A strong, consistently applied DoD reduces risk, rework, and delays, ensuring every increment is truly releasable and delivers real value. Development managers should regularly review and raise the DoD, embedding it into team practices to protect quality and support strategic objectives.
 date: 2025-03-31T09:00:00
+lastmod: 2025-03-31T09:00:00
 weight: 100
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: 5wIEg7lD_Xd
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: your-evolving-definition-of-done
 aliases:
-- /resources/5wIEg7lD_Xd
+  - /resources/5wIEg7lD_Xd
 aliasesArchive:
-- /your-evolving-definition-of-done
-- /blog/your-evolving-definition-of-done
+  - /your-evolving-definition-of-done
+  - /blog/your-evolving-definition-of-done
 layout: blog
 concepts:
-- Strategy
+  - Tenet
 categories:
-- Product Development
-- Engineering Excellence
-- Product Management
+  - Product Development
+  - Engineering Excellence
+  - Product Management
 tags:
-- Definition of Done
-- Operational Practices
-- Agile Frameworks
-- Software Development
-- Continuous Improvement
-- Technical Mastery
-- Market Adaptability
-- Agile Product Management
-- Professional Scrum
-- Shift Left Strategy
-- Value Delivery
-- Common Goals
-- Technical Excellence
-- Engineering Practices
-- Product Delivery
+  - Definition of Done
+  - Operational Practices
+  - Agile Frameworks
+  - Product Delivery
+  - Software Development
+  - Continuous Improvement
+  - Technical Mastery
+  - Market Adaptability
+  - Engineering Practices
+  - Agile Product Management
+  - Professional Scrum
+  - Shift Left Strategy
+  - Value Delivery
+  - Common Goals
+  - Technical Excellence
 Watermarks:
   description: 2025-05-07T12:49:17Z
   short_title: 2025-07-07T16:45:08Z
+  tldr: 2025-08-07T12:34:17Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog

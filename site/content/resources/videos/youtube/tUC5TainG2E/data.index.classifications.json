@@ -1280,13 +1280,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "tUC5TainG2E",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T01:14:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses personal experiences and relationships in becoming a Scrum training provider, with a focus on Scrum and DevOps rather than business agility principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:30",
+    "ai_confidence": 51.7,
+    "ai_mentions": 1.6,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.5,
+    "ai_intent": 5.8,
+    "ai_audience": 5.2,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 52.0,
+    "reasoning": "The content primarily narrates a personal journey to becoming a preferred Scrum training provider for Microsoft, emphasizing relationships, referrals, and dual expertise in Scrum/DevOps. While Agile and Scrum are mentioned, the focus is on networking and reputation-building—not on business agility principles, cultural transformation, leadership roles, metrics, or systematic agility-enabling strategies. There are slight references to Agile methodologies improving organizations, but there's no substantive discussion of business agility frameworks, strategies, or measurement. The content targets practitioners interested in Agile/Scrum but does not directly address executives or strategists seeking business agility insights. Therefore, the fit for 'Business Agility' is partial at best.",
+    "reasoning_summary": "The content references Agile/Scrum and DevOps, but centers on personal networking and reputation, not principles, strategies, or frameworks of business agility. Fit is partial and indirect.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",

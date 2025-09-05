@@ -183,13 +183,23 @@
     "level": "Ignored"
   },
   "Organisational Agility": {
+    "resourceId": "CWxkBJJduCE",
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-13T19:57:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Test-Driven Development (TDD) and pair programming, which are specific software development practices rather than broader organisational agility strategies or frameworks.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:28:53",
+    "ai_confidence": 41.75,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.9,
+    "ai_intent": 3.3,
+    "ai_audience": 5.8,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content centers on test-driven development (TDD) and pair programming, focusing on their impact on code quality, architecture, and team skills. While these practices can support organisational agility, the discussion is grounded in individual/team-level engineering rather than strategies or frameworks for organisation-wide agility. There are implicit nods to broader benefits (e.g., scalable architectures, long-term productivity), but there's little reference to cultural change, leadership, structure alignment, or organisational strategy. Few direct mentions of agility and limited in-depth exploration of organisational-wide adaptability result in a moderate but not strong fit.",
+    "reasoning_summary": "Primarily discusses TDD and pair programming at the team/practice level with scarce reference to organisation-wide agility. Only indirectly supports the category; not a central or in-depth discussion of organisational agility.",
+    "level": "Tertiary"
   },
   "Lean": {
     "category": "Lean",

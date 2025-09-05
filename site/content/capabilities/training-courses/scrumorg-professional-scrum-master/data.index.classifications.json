@@ -947,12 +947,22 @@
     "level": "Secondary"
   },
   "Azure Boards": {
+    "resourceId": "NphdCz-Fh4k",
     "category": "Azure Boards",
-    "calculated_at": "2025-02-18T00:17:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the Professional Scrum Master course and Scrum principles, with no mention of Azure Boards or its functionalities.",
+    "calculated_at": "2025-09-05T03:32:11",
+    "ai_confidence": 9.05,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.25,
+    "ai_depth": 0.5,
+    "ai_intent": 0.3,
+    "ai_audience": 3.5,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content makes no mention of Azure Boards and is focused exclusively on Scrum fundamentals, the Scrum Master role, and general agile practices. There are no explicit or implicit references to Azure Boards functionality, customisation, integration, or tooling. While the audience (Scrum practitioners) partially overlaps with potential Azure Boards users, the content neither targets use of Azure Boards nor discusses related best practices, reporting, or integration. Any fit is extremely tenuous, based only on shared agile context; the content does not deliver category-relevant themes or actionable information.",
+    "reasoning_summary": "The content is about Scrum Master training with no reference to Azure Boards or its features. It does not match the category definition beyond a distant, general agile context. Fit is negligible.",
     "level": "Ignored"
   },
   "Portfolio Management": {

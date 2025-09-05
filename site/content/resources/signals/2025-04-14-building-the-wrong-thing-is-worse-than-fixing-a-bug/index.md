@@ -25,9 +25,9 @@ categories:
   - Product Development
   - Product Management
 tags:
-  - Customer Focus
   - Customer Feedback Loops
   - Market Adaptability
+  - Customer Focus
   - Value Delivery
   - Evidence Based Management
   - Lean Product Development

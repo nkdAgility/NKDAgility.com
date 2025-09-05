@@ -979,13 +979,23 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "xk11NhTA_V8",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses judgments related to team dynamics and metrics, which do not align closely with core engineering practices such as clean code, TDD, or CI/CD.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:55",
+    "ai_confidence": 48.47,
+    "ai_mentions": 1.4,
+    "ai_alignment": 5.8,
+    "ai_depth": 4.7,
+    "ai_intent": 4.8,
+    "ai_audience": 6.2,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Penalties applied: Alignment (-1) and Intent (-1). The content is mildly critical of standard metrics usage in Agile, sometimes undermining their role in engineering practices.",
+    "final_score": 48.0,
+    "reasoning": "The content touches on metrics like velocity, bug counts, and team judgment, topics adjacent to engineering practices, but focuses more on psychological safety, team culture, and the hazards of misusing metrics. Foundational engineering topics such as clean code, TDD, CI/CD, or automation are not discussed in-depth—instead, the emphasis is on team dynamics and safely iterating metrics, with advice against misusing standard practices. This introduces a tension with the Engineering Practices category, particularly as some passages question their value or warn of negative impacts. Thus, alignment, depth, and intent scores are moderate, with deductions applied for content tone partially undermining the principles the category represents.",
+    "reasoning_summary": "The content addresses metrics and psychological safety in Agile teams, with limited direct discussion of engineering practices. Its main emphasis is on team environment, not technical methods, aligning only partially with the Engineering Practices category.",
+    "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",

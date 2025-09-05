@@ -1249,12 +1249,22 @@
     "level": "Tertiary"
   },
   "Miscellaneous": {
+    "resourceId": "x6a_BuQq580",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-12T20:15:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of DevOps migrations and specific tools, which are directly related to established practices in the field.",
+    "calculated_at": "2025-09-05T03:29:17",
+    "ai_confidence": 16.65,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.4,
+    "ai_depth": 2.0,
+    "ai_intent": 2.5,
+    "ai_audience": 4.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content is a practical guide for addressing concerns related to cloud data migration, focusing on technical steps, risk mitigation, and Microsoft tools. It mentions Azure DevOps in passing but does not directly discuss Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks, nor does it reference recognised principles, authors, or actionable guidance rooted in those philosophies. Most of the advice is specific to technical and procedural issues, not general or anecdotal in nature as defined under Miscellaneous. The purpose is clearly instructive for practitioners managing migrations, rather than engaging in general or non-framework-aligned discussions. As such, fit with Miscellaneous is poor, with only minimal alignment due to the mention of Azure DevOps in migration context.",
+    "reasoning_summary": "The content is a technical, instructional discussion about cloud migration—not a general discussion or reflection not tied to frameworks. It does not fit the Miscellaneous category except for incidental mentions.",
     "level": "Ignored"
   },
   "DevOps": {

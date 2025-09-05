@@ -2,44 +2,50 @@
 title: 'Sprint Review #1'
 short_title: Sprint Review Workshop with Liberating Structures
 description: Guides a 160-minute Sprint Review workshop using Liberating Structures to inspect product progress, gather feedback, and plan next steps for Scrum teams and stakeholders.
+tldr: This Sprint Review workshop uses interactive methods to help teams and stakeholders inspect the product increment, gather feedback, and identify next steps based on recent changes and business needs. Key activities include networking to clarify expectations, hands-on product inspection, structured group reflection, and personal action planning. Development managers should ensure active participation, update the Product Backlog with new insights, and encourage team members to define concrete actions for the next Sprint.
 date: 2024-09-17
-weight: 640
+lastmod: 2024-09-17
+weight: 655
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: 8gWwC3tvV_f
 ResourceImport: false
 ResourceType: workshops
 ResourceContentOrigin: Human
 slug: sprint-review-1
 aliases:
-- /workshops/Sprint-Review-1.html
-- /learn/agile-delivery-kit/workshops/Sprint-Review-1
-- /learn/agile-delivery-kit/workshops/sprint-review-1/
-- /resources/8gWwC3tvV_f
+  - /workshops/Sprint-Review-1.html
+  - /learn/agile-delivery-kit/workshops/Sprint-Review-1
+  - /learn/agile-delivery-kit/workshops/sprint-review-1/
+  - /resources/8gWwC3tvV_f
 aliasesArchive:
-- /workshops/Sprint-Review-1.html
-- /learn/agile-delivery-kit/workshops/Sprint-Review-1
-- /learn/agile-delivery-kit/workshops/sprint-review-1/
+  - /workshops/Sprint-Review-1.html
+  - /learn/agile-delivery-kit/workshops/Sprint-Review-1
+  - /learn/agile-delivery-kit/workshops/sprint-review-1/
 layout: workshop
 concepts:
-- Method
+  - Method
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Sprint Review
-- Increment
-- Empirical Process Control
-- Transparency
-- Professional Scrum
-- Agile Frameworks
-- Agile Product Management
-- Agile Planning
-- Product Delivery
-- Software Development
-- Team Performance
-- Scrum Team
-- Team Collaboration
-- Value Delivery
-- Agile Transformation
+  - Sprint Review
+  - Increment
+  - Empirical Process Control
+  - Transparency
+  - Professional Scrum
+  - Agile Frameworks
+  - Agile Product Management
+  - Agile Planning
+  - Product Delivery
+  - Software Development
+  - Team Performance
+  - Scrum Team
+  - Team Collaboration
+  - Value Delivery
+  - Agile Transformation
 card:
   button:
     content: Learn More
@@ -48,25 +54,26 @@ card:
 Watermarks:
   description: 2025-05-07T12:57:58Z
   short_title: 2025-07-07T17:48:11Z
+  tldr: 2025-08-07T12:48:52Z
 resourceTypes: workshop
 creator: Martin Hinshelwood
 references: 
 recommendedContent:
-- collection: guides
-  path: _guides/scrum-guide.md
-- collection: technologies
-  path: _technologies/liberating-structures.md
-- collection: technologies
-  path: _technologies/liberating-structures/impromptu-networking.md
-- collection: technologies
-  path: _technologies/liberating-structures/shift-share.md
-- collection: technologies
-  path: _technologies/liberating-structures/what-so-what-now-what.md
+  - collection: guides
+    path: _guides/scrum-guide.md
+  - collection: technologies
+    path: _technologies/liberating-structures.md
+  - collection: technologies
+    path: _technologies/liberating-structures/impromptu-networking.md
+  - collection: technologies
+    path: _technologies/liberating-structures/shift-share.md
+  - collection: technologies
+    path: _technologies/liberating-structures/what-so-what-now-what.md
 videos:
-- title: Overview of The Scrum Framework with Martin Hinshelwood
-  embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
-- title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
-  embed: https://www.youtube.com/embed/1-W64WdSbF4
+  - title: Overview of The Scrum Framework with Martin Hinshelwood
+    embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+  - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
+    embed: https://www.youtube.com/embed/1-W64WdSbF4
 
 ---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).

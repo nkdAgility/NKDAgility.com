@@ -1350,12 +1350,22 @@
     "level": "Secondary"
   },
   "Kanban": {
+    "resourceId": "EoInrPvjBHo",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T07:54:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a product owner in Agile, focusing on task management and team dynamics, without any mention of Kanban principles or practices.",
+    "calculated_at": "2025-09-05T03:30:46",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.7,
+    "ai_intent": 2.1,
+    "ai_audience": 4.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on issues of Agile micromanagement, the role of Product Owners, team empowerment, and the dangers of excessive task-level planning. There are no references to Kanban practices (visualization, WIP limits, flow management, or Kanban metrics). The discussion is primarily centered on Scrum roles and general Agile philosophy rather than Kanban methodology or its implementation. No obsolete practices or contrary tone is present. Very slight indirect overlap exists regarding the critique of micromanaged task boards, which Kanban also addresses, but this is tangential and not explicit. The content does not mention Kanban nor does it explore its principles, applications, or audience. Thus, confidence is extremely low, with minimal alignment only through generic Agile themes.",
+    "reasoning_summary": "This content does not fit the Kanban category. There are no Kanban references, practices, or principles present, and the main discussion is unrelated to Kanban methodology.",
     "level": "Ignored"
   },
   "Value Delivery": {

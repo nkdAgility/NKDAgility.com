@@ -313,13 +313,23 @@
     "level": "Ignored"
   },
   "Personal": {
+    "resourceId": "nIIA3IUtX_z",
     "category": "Personal",
-    "calculated_at": "2025-02-14T19:24:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the mechanics and benefits of Scrum and continuous delivery, lacking personal anecdotes or reflections.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:19",
+    "ai_confidence": 49.738,
+    "ai_mentions": 3.9,
+    "ai_alignment": 5.4,
+    "ai_depth": 5.3,
+    "ai_intent": 3.7,
+    "ai_audience": 5.3,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 50.0,
+    "reasoning": "The content includes occasional first-person statements (e.g., 'I have looked', 'I work with many teams'), alluding to the author's experience. However, most of the discussion is a general explanation of Scrum's principles versus Continuous Delivery, listing benefits and best practices with only brief personal touches. The main thrust is educational and explanatory, not a detailed personal anecdote or reflection. While the voice occasionally references experience, the focus is mainly on clarifying concepts for the audience rather than sharing personal stories or insights per the category definition. It is aimed at informing practitioners or those questioning the value of sprints rather than providing subjective interpretation or personal journey.",
+    "reasoning_summary": "Content is mostly explanatory about Scrum and Continuous Delivery, with limited personal perspective (some 'I' statements). The main focus is general education, not sharing personal experiences or reflections as required by the Personal category. Only a partial fit.",
+    "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",

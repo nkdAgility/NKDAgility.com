@@ -29,6 +29,7 @@ tags:
   - Agentic Agility
   - Agentic Engineering
   - Collective Intelligence
+  - Pragmatic Thinking
   - Sociotechnical Systems
   - Product Delivery
   - Artificial Intelligence

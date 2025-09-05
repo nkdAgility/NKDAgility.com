@@ -2,51 +2,58 @@
 title: The majority of Scrum Masters are not fit for their position
 short_title: The Majority of Scrum Masters Lack Competency
 description: Most Scrum Masters lack essential Scrum knowledge, with only 39% meeting core standards. Poor competency threatens team success and highlights the need for better training.
+tldr: Most Scrum Masters lack the necessary knowledge and skills to lead teams effectively, with data showing that only 39 percent meet basic expectations and just 3 percent fully meet the role's requirements. Many have held these roles for years without competence, which is contributing to job losses as organizations demand higher standards. Development managers should rigorously assess and upskill their Scrum Masters to ensure team success.
 date: 2024-06-03T14:44:00Z
+lastmod: 2024-06-03T14:44:00Z
 weight: 705
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: nTipEJck6ez
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: Hybrid
 slug: the-majority-of-scrum-masters-are-not-fit-for-their-position
 aliases:
-- /resources/nTipEJck6ez
+  - /resources/nTipEJck6ez
 source: internal
 layout: signal
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
-  post_id: 7203391158197088256
-  post_date: 2024-06-03T13:44:00Z
-  type: social
-  performance:
-    impressions: 35512
-    members_reached: 20147
-    reactions: 207
-    comments: 127
-    reposts: 28
-  reactions_top_job_title: Scrum Master
-  comments_top_job_title: Agile Coach
-  reposts_top_job_title: Product Owner
-- platform: Reddit
-  post_url: https://www.reddit.com/r/scrum/comments/1doza6j/the_majority_of_scrum_masters_are_not_fit_for/
-  post_date: 2024-06-03T13:44:00Z
-  type: social
-  performance:
-    impressions: 30000
-    members_reached: 20147
-    reactions: 86
-    comments: 91
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
+    post_id: 7203391158197088256
+    post_date: 2024-06-03T13:44:00Z
+    type: social
+    performance:
+      impressions: 35512
+      members_reached: 20147
+      reactions: 207
+      comments: 127
+      reposts: 28
+    reactions_top_job_title: Scrum Master
+    comments_top_job_title: Agile Coach
+    reposts_top_job_title: Product Owner
+  - platform: Reddit
+    post_url: https://www.reddit.com/r/scrum/comments/1doza6j/the_majority_of_scrum_masters_are_not_fit_for/
+    post_date: 2024-06-03T13:44:00Z
+    type: social
+    performance:
+      impressions: 30000
+      members_reached: 20147
+      reactions: 86
+      comments: 91
+      reposts: 0
 Watermarks:
   description: 2025-05-07T13:02:52Z
   short_title: 2025-07-07T17:49:13Z
+  tldr: 2025-08-07T12:51:25Z
 resourceTypes:
-- signal
+  - signal
 url: /resources/signals/:slug
 
 ---

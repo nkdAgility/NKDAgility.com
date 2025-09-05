@@ -356,12 +356,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "_bjNHN4PI9s",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T11:46:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on using Microsoft Teams and Mural for virtual training, without any substantial discussion of Agile engineering practices or methodologies. It does not address key topics such as clean code, TDD, CI/CD, refactoring, automation, or pair programming.",
+    "calculated_at": "2025-09-05T03:31:23",
+    "ai_confidence": 17.98,
+    "ai_mentions": 1.1,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.4,
+    "ai_intent": 2.2,
+    "ai_audience": 6.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content is focused on practical tips for using Microsoft Teams and Mural in virtual Scrum training. While it touches on collaboration and classroom technology, it does not discuss engineering practices such as clean code, TDD, automation, CI/CD, or refactoring. There’s minimal conceptual overlap: technology adoption for classroom engagement can relate tangentially to broader Agile collaboration, but not to the technical principles outlined in the category. There are no direct mentions of engineering practices or their techniques, and no in-depth discussion; the audience is Scrum practitioners and learners, but the content is educational technology, not engineering methodology.",
+    "reasoning_summary": "This content focuses on tech tips for running virtual Scrum classes, not Agile engineering practices. It lacks relevant topics like TDD, clean code, automation, or refactoring. The fit is weak and mostly unrelated to 'Engineering Practices.'",
     "level": "Ignored"
   },
   "Test Driven Development": {

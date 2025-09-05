@@ -510,12 +510,22 @@
     "level": "Tertiary"
   },
   "Engineering Practices": {
+    "resourceId": "gUxi6u7gQcc",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban principles for project management and organizational efficiency, rather than Agile engineering practices such as clean code or TDD.",
+    "calculated_at": "2025-09-05T03:32:31",
+    "ai_confidence": 26.4,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 3.0,
+    "ai_intent": 3.5,
+    "ai_audience": 5.0,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content primarily focuses on Portfolio Kanban at an organizational and management level, dealing with aligning work, managing dependencies, and improving transparency for portfolio management. It does mention Kanban principles, but there is no in-depth discussion of fundamental Agile engineering practices like clean code, TDD, CI/CD, refactoring, or technical automation. The audience includes some technical roles but is mainly geared toward leadership and management. The subject matter—portfolio visualization, dependency management, forecasting—is largely process and flow-oriented, not engineering-centric. There is little direct overlap with the core definition topics (engineering principles, code quality, technical practices). No penalties applied because the information is current and not satirical or critical.",
+    "reasoning_summary": "Content is primarily about workflow and portfolio management, not Agile engineering practices. Intent, topics, and audience focus on organizational processes, making alignment with Engineering Practices weak and mainly indirect.",
     "level": "Ignored"
   },
   "Lean Principles": {

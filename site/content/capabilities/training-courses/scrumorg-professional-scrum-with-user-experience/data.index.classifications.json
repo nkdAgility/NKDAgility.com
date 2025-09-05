@@ -1214,13 +1214,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "napm9Qz4WTz",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum practices and integrating UX into Scrum, which does not directly relate to the management of software applications throughout their lifecycle.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:25",
+    "ai_confidence": 42.48,
+    "ai_mentions": 0.3,
+    "ai_alignment": 4.4,
+    "ai_depth": 4.2,
+    "ai_intent": 4.5,
+    "ai_audience": 6.0,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content is focused on integrating UX within Scrum processes—mainly enhancing team collaboration and value delivery for Scrum practitioners. ALM as a discipline is not directly discussed, nor are its lifecycle stages, governance, or tools. There is tangential alignment, since managing UX work within Scrum, product discovery/delivery, and backlog management relate at a team execution level. However, the discussion does not address full application governance, performance metrics, lifecycle management, or change/risk management practices at an application-wide scope. Most topics are limited to tactical UX and Scrum integration rather than overarching lifecycle management. The audience could overlap with those interested in ALM, but the purpose is UX+Scrum, not ALM itself. Confidence is moderate but kept low due to lack of direct relevance and depth.",
+    "reasoning_summary": "Focuses on UX in Scrum, not on Application Lifecycle Management. The overlap is slight—some team-level practices relate to lifecycle phases, but core ALM concerns are not addressed. Not a strong category fit.",
+    "level": "Tertiary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",

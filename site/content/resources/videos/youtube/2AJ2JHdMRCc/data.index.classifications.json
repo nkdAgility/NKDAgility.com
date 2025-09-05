@@ -233,12 +233,22 @@
     "level": "Ignored"
   },
   "Test Automation": {
+    "resourceId": "2AJ2JHdMRCc",
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T22:16:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps principles and practices without a focus on test automation or related topics.",
+    "calculated_at": "2025-09-05T03:31:24",
+    "ai_confidence": 8.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.4,
+    "ai_intent": 0.5,
+    "ai_audience": 2.0,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is centered entirely around DevOps as a practice and philosophy in software engineering, emphasizing themes like continuous delivery, feedback loops, and product deployment. While these intersect tangentially with topics often associated with test automation (e.g., feedback cycles, CI/CD), there are no explicit mentions of test automation, testing tools, frameworks, principles, or practices. The intent and audience are focused on general DevOps and Agile/Scrum practitioners, not specifically test automation, and no relevant technical depth or specific alignment to the 'Test Automation' category definition is present.",
+    "reasoning_summary": "The topic is strictly about DevOps, with no explicit or substantive discussion of test automation. There is at best a remote, implied connection regarding CI/CD and feedback loops, but no direct fit to the Test Automation category.",
     "level": "Ignored"
   },
   "Technical Mastery": {

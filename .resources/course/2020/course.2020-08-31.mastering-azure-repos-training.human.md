@@ -15,14 +15,12 @@ ResourceType: course
 ResourceContentOrigin: human
 slug: mastering-azure-repos-training
 aliases:
-  - /training-courses/mastering-azure-repos
-  - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
-  - /capabilities/training-courses/accentient/mastering-azure-repos-training
   - /resources/d4jyFSYdS2v
 aliasesArchive:
   - /training-courses/mastering-azure-repos
   - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
   - /capabilities/training-courses/accentient/mastering-azure-repos-training
+type: course
 concepts:
   - Tool
 categories:
@@ -45,7 +43,6 @@ Watermarks:
   short_title: 2025-07-29T15:01:23Z
   tldr: 2025-08-08T11:40:18Z
 creator: Martin Hinshelwood
-type: course
 url: 
 course_topics:
   - Azure DevOps Training Courses

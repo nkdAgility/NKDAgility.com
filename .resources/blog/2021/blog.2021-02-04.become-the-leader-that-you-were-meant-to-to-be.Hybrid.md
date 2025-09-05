@@ -2,30 +2,37 @@
 title: Become the leader that you were meant to to be
 short_title: Become the Leader You Were Meant to Be
 description: Explores the shift from traditional management to leadership focused on inspiration, effectiveness, and servant leadership, with insights for Scrum Masters and modern organisations.
+tldr: Leadership in modern software development is about inspiring and enabling teams rather than controlling them; managers should focus on leading people and improving effectiveness. The Scrum Master is a leadership role that supports the team and organization, not a manager or administrator. To drive better results, shift from traditional hierarchy to servant leadership and lead by example.
 date: 2021-02-04
+lastmod: 2021-02-04
 weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: -Oo9b3G-8Zw
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: become-the-leader-that-you-were-meant-to-to-be
 aliases:
-- /blog/become-the-leader-that-you-were-meant-to-to-be
-- /become-the-leader-that-you-were-meant-to-to-be
-- /resources/-Oo9b3G-8Zw
-- /resources/blog/become-the-leader-that-you-were-meant-to-to-be
+  - /blog/become-the-leader-that-you-were-meant-to-to-be
+  - /become-the-leader-that-you-were-meant-to-to-be
+  - /resources/-Oo9b3G-8Zw
+  - /resources/blog/become-the-leader-that-you-were-meant-to-to-be
 aliasesArchive:
-- /blog/become-the-leader-that-you-were-meant-to-to-be
-- /become-the-leader-that-you-were-meant-to-to-be
-- /resources/blog/become-the-leader-that-you-were-meant-to-to-be
+  - /blog/become-the-leader-that-you-were-meant-to-to-be
+  - /become-the-leader-that-you-were-meant-to-to-be
+  - /resources/blog/become-the-leader-that-you-were-meant-to-to-be
 layout: blog
 concepts: []
 categories:
-- Leadership
+  - Leadership
 tags: []
 Watermarks:
   description: 2025-05-07T13:15:00Z
   short_title: 2025-07-07T17:57:34Z
+  tldr: 2025-08-07T13:10:19Z
 ResourceImportId: 45806
 AudioNative: true
 creator: Martin Hinshelwood

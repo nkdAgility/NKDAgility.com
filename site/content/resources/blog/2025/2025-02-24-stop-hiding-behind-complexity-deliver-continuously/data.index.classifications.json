@@ -201,17 +201,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "7hEAycZIn8w",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-04-10T13:00:39",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 32.0,
-    "non_ai_confidence": 30,
-    "final_score": 82.0,
-    "reasoning": "The content discusses continuous delivery and the evolution of software development practices, particularly in the context of Azure DevOps. While it touches on aspects of the application lifecycle, such as deployment and maintenance, it primarily focuses on overcoming complexity and improving delivery speed rather than providing a comprehensive view of Application Lifecycle Management. The mention of metrics and practices aligns with ALM principles, but the depth of discussion is more centred on continuous delivery rather than the entire lifecycle management process.",
-    "level": "Primary",
-    "reasoning_summary": "This content mainly explores continuous delivery and how it streamlines software development, especially with Azure DevOps. While it references some application lifecycle elements, its main emphasis is on simplifying processes and accelerating delivery, rather than covering the full scope of Application Lifecycle Management. Therefore, it aligns more closely with continuous delivery than comprehensive lifecycle management."
+    "calculated_at": "2025-09-05T03:29:11",
+    "ai_confidence": 74.17,
+    "ai_mentions": 1.4,
+    "ai_alignment": 7.6,
+    "ai_depth": 7.3,
+    "ai_intent": 7.0,
+    "ai_audience": 7.4,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 74.0,
+    "reasoning": "Direct mentions of 'Application Lifecycle Management' (ALM) are absent; the focus is on continuous delivery, DevOps, and process improvement. However, the central themes (automation, metrics, feedback loops, quality, change management) strongly align with ALM practices. The discussion covers ALM-related concepts like lifecycle stages (development, deployment, maintenance), the use of supporting tools (Azure DevOps), metrics for lifecycle effectiveness (velocity, time to deploy, EBM KVAs), and the integration of process improvement and automation within software delivery. The depth is robust and aimed at practitioners, but the intent is to motivate process and cultural change for continuous delivery, rather than provide a comprehensive overview of ALM concepts or governance frameworks. The content is highly focused with minimal irrelevant material and would be meaningful for an audience concerned with managing the entire application lifecycle, even if not formally labeled as such.",
+    "reasoning_summary": "Well-aligned with ALM in substance (automation, feedback, measurement, lifecycle practices), but lacks explicit ALM framing or terms. Strong fit for ALM practitioners focused on modern delivery, but not a foundational or governance-centric overview.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",

@@ -38,16 +38,23 @@
     "level": "Ignored"
   },
   "Framework": {
+    "resourceId": "Internal Developer Platform",
     "category": "Framework",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 30,
-    "final_score": 42.0,
-    "reasoning": "The content discusses an Internal Developer Platform (IDP) and its role in streamlining development processes, which indirectly relates to frameworks by promoting best practices and collaboration. However, it does not explicitly mention Agile, DevOps, or Lean frameworks, nor does it provide a detailed exploration of any specific framework. The focus is more on the IDP itself rather than on the framework category as defined.",
-    "level": "Tertiary"
+    "calculated_at": "2025-09-05T03:30:45",
+    "ai_confidence": 35.81,
+    "ai_mentions": 2.95,
+    "ai_alignment": 4.45,
+    "ai_depth": 4.8,
+    "ai_intent": 3.85,
+    "ai_audience": 5.1,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content centers on Internal Developer Platforms (IDP) as solutions for streamlining development and supporting CI/CD. While it refers to a 'controlled framework,' its main focus is on platforms and tooling, not on structured Agile/DevOps frameworks as defined in the category. There are no explicit or repeated mentions of established frameworks like Scrum or Kanban, nor does it compare, adapt, or discuss methodology implementation strategies. The piece touches on best practices and systemic processes, aligning tangentially with framework themes, but it primarily aims at platform-based enablement and culture, not frameworks as guiding structures. Audience and signal scores are moderate, as the material is relevant for technical teams, but framework focus is low.",
+    "reasoning_summary": "The content focuses on Internal Developer Platforms and tooling, not structured Agile/DevOps frameworks. Concepts overlap slightly, but the main topic is not frameworks, so category fit is low and partial.",
+    "level": "Ignored"
   },
   "Tenet": {
     "resourceId": "Internal Developer Platform",

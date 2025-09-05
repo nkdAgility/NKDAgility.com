@@ -465,13 +465,23 @@
     "level": "Tertiary"
   },
   "Lean Thinking": {
+    "resourceId": "-Z5GGUOjc-d",
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-11T14:51:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Definition of Done in Scrum, focusing on quality measures and subjective versus objective goals, which are not central to Lean Thinking principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:28:44",
+    "ai_confidence": 47.933,
+    "ai_mentions": 1.3,
+    "ai_alignment": 4.4,
+    "ai_depth": 4.6,
+    "ai_intent": 3.8,
+    "ai_audience": 5.9,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "The content is focused almost entirely on explaining Scrum's Definition of Done (DoD), its objectivity, and best practices. While DoD relates to quality and process clarity, and has some conceptual overlap with Lean (e.g., minimizing defects/waste, promoting continuous improvement), the article does not explicitly reference Lean Thinking, its principles (Value, Flow, Pull, etc.), or Lean-specific tools or culture. There are no direct mentions of Lean or Lean Thinking. Lean-adjacent concepts like automation, continuous improvement, and minimizing technical debt are discussed, but always in a Scrum or Agile, not Lean, framing. Audience (Agile/Scrum practitioners and coaches) is somewhat aligned with those interested in Lean, but the content purpose and main themes remain Scrum-specific, not Lean-centric.",
+    "reasoning_summary": "The content explains Scrum's Definition of Done and its importance but does not reference Lean Thinking, its principles, or tools. Only minor conceptual overlap exists (quality focus, continuous improvement), so fit with the 'Lean Thinking' category is weak and mostly tangential.",
+    "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",

@@ -2,46 +2,53 @@
 title: Professional Scrum is for everyone in your organisation
 short_title: Professional Scrum for Everyone in Organisations
 description: Explains how involving everyone in Professional Scrum training fosters organisational agility, breaks down silos, and empowers teams to drive meaningful change together.
+tldr: Scrum works best when everyone in the organisation is involved, not just the development teams, as this breaks down old management habits and empowers people at all levels to contribute to value delivery. Training all staff together surfaces misconceptions, encourages open discussion, and creates a shared understanding that drives real change. To maximise the benefits, managers should ensure broad participation in Scrum training and use the resulting organisational change backlog to remove barriers to effective software delivery.
 date: 2018-01-16
-weight: 430
+lastmod: 2018-01-16
+weight: 425
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: Cr7wjIJ8Uvb
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: professional-scrum-is-for-everyone-in-your-organisation
 aliases:
-- /resources/Cr7wjIJ8Uvb
+  - /resources/Cr7wjIJ8Uvb
 aliasesArchive:
-- /blog/professional-scrum-everyone-organisation
-- /professional-scrum-everyone-organisation
-- /professional-scrum-is-for-everyone-in-your-organisation
-- /blog/professional-scrum-is-for-everyone-in-your-organisation
-- /resources/blog/professional-scrum-everyone-organisation
+  - /blog/professional-scrum-everyone-organisation
+  - /professional-scrum-everyone-organisation
+  - /professional-scrum-is-for-everyone-in-your-organisation
+  - /blog/professional-scrum-is-for-everyone-in-your-organisation
+  - /resources/blog/professional-scrum-everyone-organisation
 layout: blog
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Product Management
-- Professional Scrum
-- Social Technologies
-- Pragmatic Thinking
-- Agile Transformation
-- Software Development
-- Organisational Agility
-- Sociotechnical Systems
-- Agile Leadership
-- Team Collaboration
-- Value Delivery
-- Working Software
-- Empirical Process Control
-- Change Management
-- Organisational Change
+  - Change Management
+  - Agile Product Management
+  - Professional Scrum
+  - Social Technologies
+  - Pragmatic Thinking
+  - Agile Transformation
+  - Software Development
+  - Organisational Agility
+  - Sociotechnical Systems
+  - Market Adaptability
+  - Agile Leadership
+  - Team Collaboration
+  - Value Delivery
+  - Working Software
+  - Empirical Process Control
 Watermarks:
   description: 2025-05-07T13:16:21Z
   short_title: 2025-07-07T17:58:37Z
+  tldr: 2025-08-07T13:13:21Z
 ResourceImportId: 38287
 AudioNative: true
 creator: Martin Hinshelwood

@@ -298,12 +298,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "-Mz9cH0uiTQ",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T10:22:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of an Agile consultant, client needs, and engagement strategies rather than specific engineering practices or methodologies.",
+    "calculated_at": "2025-09-05T03:30:10",
+    "ai_confidence": 31.24,
+    "ai_mentions": 1.6,
+    "ai_alignment": 3.1,
+    "ai_depth": 3.4,
+    "ai_intent": 2.9,
+    "ai_audience": 6.6,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content centers on agile consulting strategies—understanding client needs, delivering value, organizational growth, and pitfalls in consulting. Although it references Agile, Scrum, and DevOps, it does not delve into technical engineering practices such as clean code, TDD, CI/CD, or automation. The discussion is high-level and advisory, geared towards consultants/advisors rather than practitioners focused on software engineering fundamentals. There are no direct or explicit references to engineering techniques, tools, or methods detailed in the category definition. Depth and alignment are limited, as the focus is on consulting, business process, and client management, not on actual software engineering practice or methodology.",
+    "reasoning_summary": "Content focuses on agile consulting, value delivery, and client engagement—not on core engineering practices like clean code, TDD, or automation. Partial fit, as it aligns with the mindset but lacks direct discussion of engineering methods.",
     "level": "Ignored"
   },
   "Test Driven Development": {

@@ -222,12 +222,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "sdlfWR5wHx7",
     "category": "Kanban",
-    "calculated_at": "2025-02-14T19:20:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:30:51",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.2,
+    "ai_intent": 0.5,
+    "ai_audience": 2.1,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content exclusively discusses Scrum, professionalism, and engineering excellence within Scrum practice. There are zero direct mentions or meaningful references to Kanban, its principles (visualisation, flow, WIP), or related metrics. The intent, audience, and themes are tightly focused on Scrum, with no conceptual overlap to Kanban methodology. No penalty for outdated/contradictory content, but the fit under Kanban is extremely tenuous and limited to irrelevant general concepts like 'teamwork' that are universal to many frameworks.",
+    "reasoning_summary": "This content is strictly about Scrum and professionalism; it never references Kanban or its principles. There is no alignment with the Kanban topic, intent, or audience. Fit is extremely low and purely coincidental.",
     "level": "Ignored"
   },
   "Technical Excellence": {

@@ -2,31 +2,39 @@
 title: Migrating from Codeplex to Github
 short_title: Migrating Codeplex Repositories to GitHub
 description: Step-by-step guide to migrating a Codeplex repository to GitHub, covering tool limitations, using Git-TF for code and history, and converting wiki pages to Markdown.
+tldr: Migrating a Codeplex repository to GitHub is necessary due to declining support and features on Codeplex, but GitHub's import tool is unreliable and does not handle folder selection or branches well. Using Git-TF with Chocolatey provides a more flexible and effective migration, allowing you to select specific folders and preserve history, though some manual steps are needed for wiki pages and other content. Development managers should use Git-TF for smoother migrations and plan for some manual adjustments, especially for documentation.
 date: 2016-03-02
+lastmod: 2016-03-02
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: kgtNo8tGkjS
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: migrating-from-codeplex-to-github
 aliases:
-- /resources/kgtNo8tGkjS
+  - /resources/kgtNo8tGkjS
 aliasesArchive:
-- /blog/migrating-codeplex-github
-- /migrating-codeplex-github
-- /migrating-from-codeplex-to-github
-- /blog/migrating-from-codeplex-to-github
-- /resources/blog/migrating-codeplex-github
+  - /blog/migrating-codeplex-github
+  - /migrating-codeplex-github
+  - /migrating-from-codeplex-to-github
+  - /blog/migrating-from-codeplex-to-github
+  - /resources/blog/migrating-codeplex-github
 layout: blog
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- GitHub
-- Software Development
+  - Install and Configuration
+  - GitHub
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:16:45Z
   short_title: 2025-07-07T17:58:59Z
+  tldr: 2025-08-07T13:24:16Z
 ResourceImportId: 11465
 creator: Martin Hinshelwood
 resourceTypes: blog

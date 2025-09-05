@@ -15,16 +15,13 @@ ResourceType: course
 ResourceContentOrigin: human
 slug: practicing-kanban-using-azure-boards
 aliases:
-  - /PKAB/
-  - /training-courses/practicing-kanban-using-azure-boards
-  - /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
-  - /capabilities/training-courses/accentient/practicing-kanban-using-azure-boards/
   - /resources/wHhDvrn-8PH
 aliasesArchive:
   - /PKAB/
   - /training-courses/practicing-kanban-using-azure-boards
   - /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
   - /capabilities/training-courses/accentient/practicing-kanban-using-azure-boards/
+type: course
 concepts:
   - Tool
 categories:
@@ -53,7 +50,6 @@ Watermarks:
   short_title: 2025-07-29T15:01:35Z
   tldr: 2025-08-08T11:37:45Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 course_topics:
   - Azure DevOps Training Courses

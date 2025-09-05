@@ -5,7 +5,7 @@ description: Explores how Taylorism shaped modern management, leading to rigid h
 tldr: Traditional management practices like Waterfall are just symptoms of deeper, outdated Tayloristic approaches that treat people as replaceable cogs, stifle innovation, and create disengaged teams. These practices persist through rigid hierarchies, siloed departments, best practices, and incentive systems that work against autonomy, mastery, and purpose. To improve outcomes and employee engagement, development managers should move toward cross-functional teams, empower those closest to the work to define practices, and focus on intrinsic motivators rather than outdated control mechanisms.
 date: 2021-01-18
 lastmod: 2021-01-18
-weight: 1000
+weight: 980
 sitemap:
   filename: sitemap.xml
   priority: 0.1

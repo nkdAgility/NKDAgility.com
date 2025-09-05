@@ -2,8 +2,14 @@
 title: 'February 2023 NKDAgility: How much of an impact can a strong, skilled product owner have?'
 short_title: Impact of a Skilled Product Owner
 description: Explores how a skilled product owner drives value, aligns teams with strategy, and boosts product success during economic uncertainty and organisational change.
+tldr: In a challenging economic climate with reduced resources, having a strong, skilled product owner is crucial for aligning teams around customer value and organizational goals, maximizing returns, and building competitive advantage. Investing in product ownership and ongoing training can help your teams deliver more value with less. Consider upskilling your product owners and engaging with professional communities or training to strengthen your organization’s resilience and performance.
 date: 2023-01-31
-weight: 750
+lastmod: 2023-01-31
+weight: 580
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 author: MrHinsh
 ResourceId: Kofi3sgOhDX
 ResourceImport: false
@@ -11,21 +17,22 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have
 aliases:
-- /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
-- /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
-- /resources/Kofi3sgOhDX
+  - /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
+  - /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
+  - /resources/Kofi3sgOhDX
 aliasesArchive:
-- /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
-- /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
+  - /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
+  - /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
 layout: newsletter
 concepts: []
 categories:
-- Product Management
-- Product Development
+  - Product Management
+  - Product Development
 tags: []
 Watermarks:
   description: 2025-05-07T13:14:20Z
   short_title: 2025-07-07T17:56:58Z
+  tldr: 2025-08-07T13:08:48Z
 preview: naked-agility-technically-agile-1280×720-February2023-1.jpg
 resourceTypes: newsletter
 

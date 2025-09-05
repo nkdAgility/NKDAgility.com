@@ -33,6 +33,7 @@ concepts:
 categories:
   - Product Development
 tags:
+  - Value Delivery
   - Software Development
   - Team Collaboration
   - Scrum Master

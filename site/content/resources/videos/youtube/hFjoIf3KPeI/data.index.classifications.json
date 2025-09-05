@@ -1343,12 +1343,22 @@
     "level": "Ignored"
   },
   "Azure DevOps": {
+    "resourceId": "hFjoIf3KPeI",
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T06:46:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:31:22",
+    "ai_confidence": 6.638,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.8,
+    "ai_intent": 0.9,
+    "ai_audience": 1.2,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses entirely on Scrum Masters/Agile coaches motivating Scrum teams, with no mention of Azure DevOps services, tools, or practices. There are no explicit, implicit, or thematic references to Azure DevOps, CI/CD, or Microsoft’s toolset. The audience (Agile/Scrum practitioners) could overlap with Azure DevOps users, thus assigned a slightly higher audience score, but the remainder of the content is off-topic for Azure DevOps. Signal, intent, and depth are all nearly irrelevant to the category definition.",
+    "reasoning_summary": "Content covers Scrum team motivation without any reference to Azure DevOps tools, methods, or practices. Alignment is very weak; fit for the category is negligible and essentially non-existent.",
     "level": "Ignored"
   },
   "Business Agility": {

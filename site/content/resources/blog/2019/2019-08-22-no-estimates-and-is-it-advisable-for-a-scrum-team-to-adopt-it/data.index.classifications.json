@@ -379,13 +379,23 @@
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
+    "resourceId": "Lv1CLfk5cPM",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T18:25:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices and estimation techniques, which are not central to Application Lifecycle Management.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:11",
+    "ai_confidence": 42.25,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.2,
+    "ai_depth": 3.4,
+    "ai_intent": 5.6,
+    "ai_audience": 7.1,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "Direct mentions of ALM are absent; focus is on estimation practices in Scrum. Concepts like flow metrics (cycle time, throughput, WIP) overlap with operational monitoring but not full-lifecycle management. The discussion is process-centric and targets practitioner-level Scrum topics, not holistic governance, lifecycle stages, or ALM tools/frameworks. The depth of process and metric discussion is moderate, but content doesn't explore or position these within the broader context of managing the entire application lifecycle (including governance, deployment, or retirement). The main intent is to advise on team estimation methodology and process improvement, relevant to development and delivery, but not explicitly to ALM. Signal is fairly focused, but mostly off the core ALM theme.",
+    "reasoning_summary": "The content focuses on estimation and flow metrics in Scrum, with no direct ALM references. While it touches on delivery process improvement, it lacks coverage of full application lifecycle management themes and is only a partial fit for the category.",
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",

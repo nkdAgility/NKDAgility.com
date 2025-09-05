@@ -86,12 +86,22 @@
     "level": "Secondary"
   },
   "Test Driven Development": {
+    "resourceId": "5J8RLcOAE3E",
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-12T14:58:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on Test Driven Development principles or the TDD cycle.",
+    "calculated_at": "2025-09-05T03:28:01",
+    "ai_confidence": 13.17,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.7,
+    "ai_intent": 1.2,
+    "ai_audience": 3.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on continuous delivery, adaptive delivery strategies, and quality through audience-based and in-production testing. TDD is not mentioned, and its principles (writing tests first, red-green-refactor, unit test focus) are not conceptually present. Discussion centers on feedback loops, rapid deployment, and ongoing improvement throughout the delivery pipeline, not on the TDD cycle or explicitly test-driven practices. Intended audience (practitioners interested in delivery optimization) could overlap with TDD's, but context and specificity are lacking for this category.",
+    "reasoning_summary": "The content is about continuous delivery and adaptive practices, with no mention or substantial discussion of TDD or its principles. There is minimal to no fit with the 'Test Driven Development' category.",
     "level": "Ignored"
   },
   "Test Automation": {

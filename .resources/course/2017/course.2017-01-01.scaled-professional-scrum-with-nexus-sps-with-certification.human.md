@@ -24,6 +24,7 @@ aliasesArchive:
   - /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
   - /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
   - /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
+type: course
 concepts:
   - Framework
 categories:
@@ -46,7 +47,6 @@ Watermarks:
   short_title: 2025-07-29T15:01:59Z
   tldr: 2025-08-08T11:40:36Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
   - Scrum Training Courses

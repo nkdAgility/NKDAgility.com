@@ -276,12 +276,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "CdYwLGrArZU",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T21:05:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:30:42",
+    "ai_confidence": 2.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.0,
+    "ai_intent": 1.2,
+    "ai_audience": 5.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content exclusively discusses challenges of Product Owners in Scrum/Agile contexts, focusing on empowerment and accountability. There is no mention, direct or indirect, of Azure Pipelines, CI/CD, automation, or related technical topics. The target audience is product management rather than technical or DevOps practitioners. Therefore, there is virtually no alignment in terms of mentions, conceptual fit, or discussion depth. Signal/noise is low due to complete topic divergence.",
+    "reasoning_summary": "Content is unrelated to Azure Pipelines; it focuses on Product Owner challenges in Scrum with no mention of pipelines, CI/CD, or Azure-specific topics. No fit with the assigned category.",
     "level": "Ignored"
   },
   "Team Performance": {

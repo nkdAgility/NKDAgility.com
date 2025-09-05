@@ -38,17 +38,23 @@
     "level": "Tertiary"
   },
   "Framework": {
+    "resourceId": "Definition of Ready",
     "category": "Framework",
-    "calculated_at": "2025-04-10T13:21:02",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the Definition of Ready (DoR) within the context of Scrum, which is a specific Agile framework. It provides insights into the implications of having a DoR and its relationship with the Definition of Done (DoD), indicating a conceptual understanding of Scrum principles. However, while it touches on important aspects of the framework, the discussion is somewhat limited in scope and lacks a broader exploration of how the DoR fits into the overall framework implementation or comparison with other frameworks. The depth of discussion is moderate, focusing on specific issues rather than a comprehensive analysis of framework methodologies.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is relevant to the category as it explores the Definition of Ready (DoR) in Scrum, highlighting its significance and connection to the Definition of Done (DoD). While it demonstrates a solid grasp of Scrum concepts, the discussion is somewhat narrow, focusing on specific elements rather than offering a wider analysis or comparison with other Agile frameworks."
+    "calculated_at": "2025-09-05T03:31:01",
+    "ai_confidence": 49.3,
+    "ai_mentions": 2.8,
+    "ai_alignment": 5.7,
+    "ai_depth": 4.4,
+    "ai_intent": 5.0,
+    "ai_audience": 7.2,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "mentions: -1 (very few direct mentions of frameworks, focuses on artifact); alignment: -1 (content primarily critiques DoR, not frameworks overall or implementation strategies, and contains subtle undertone undermining category intent);",
+    "final_score": 49.0,
+    "reasoning": "The content centers on Definition of Ready (DoR) as an artifact rather than as part of a broader framework. While it references Scrum and related concepts (like Definition of Done, sprint planning, product backlog items), it primarily analyzes and questions the notion of DoR, outlining its pitfalls and suggesting better naming conventions to disambiguate from core Scrum artifacts. The content stops short of providing structured methodologies, best practices for framework adoption, or comparing frameworks, which are central to the category. Instead, it critiques and cautions against conflating artifacts, focusing on local practices (like candidacy tests) and INVEST as heuristics, not in explicit framework terms or in the context of adapting large-scale Agile frameworks. The audience (Scrum practitioners, team members) does align moderately. Penalties applied for lack of category focus, light undermining of 'Framework' intent, and minimal direct framework discussion.",
+    "reasoning_summary": "The content critiques the Definition of Ready artifact within Scrum but doesn't discuss frameworks or their implementation. Focus is on artifact pitfalls and heuristics, only lightly connecting to framework principles. Fit with 'Framework' category is weak.",
+    "level": "Tertiary"
   },
   "Tenet": {
     "resourceId": "Definition of Ready",

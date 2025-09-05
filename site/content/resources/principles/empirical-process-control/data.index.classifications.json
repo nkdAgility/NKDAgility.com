@@ -1303,12 +1303,22 @@
     "level": "Ignored"
   },
   "Azure DevOps": {
+    "resourceId": "VBf7KL90jRm",
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T21:06:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:28:10",
+    "ai_confidence": 4.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.6,
+    "ai_intent": 0.6,
+    "ai_audience": 1.2,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content solely discusses Empirical Process Control in the context of Scrum, focusing on transparency, inspection, and adaptation without any mention of Azure DevOps, its tools, or related practices. There is no alignment with Azure DevOps key topics or intent, and the audience is general Agile/Scrum practitioners, not Azure DevOps users. Minimal scores reflect this lack of fit. No penalties were needed as content is not outdated nor does it contradict the category.",
+    "reasoning_summary": "No mention of Azure DevOps. The content only discusses empirical process control within Scrum, without any reference to Azure DevOps tools, practices, or audience. Not a fit for this category.",
     "level": "Ignored"
   },
   "Business Agility": {

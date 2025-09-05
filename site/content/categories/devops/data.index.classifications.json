@@ -57,16 +57,23 @@
     "level": "Ignored"
   },
   "Tenet": {
+    "resourceId": "DevOps",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:21:30",
-    "ai_confidence": 68.0,
-    "ai_mentions": 3,
-    "ai_alignment": 75.0,
-    "ai_depth": 65.0,
-    "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses several actionable principles that align closely with the tenets of DevOps, such as 'Flow Efficiency Over Resource Efficiency' and 'Continuous Improvement as Culture'. However, it primarily frames these principles within a philosophical context rather than as prescriptive rules, which slightly diminishes its alignment with the category. The depth of discussion is substantial, but the focus on philosophy rather than concrete tenets affects the overall confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-09-05T03:31:29",
+    "ai_confidence": 92.4,
+    "ai_mentions": 8.7,
+    "ai_alignment": 9.7,
+    "ai_depth": 9.5,
+    "ai_intent": 8.9,
+    "ai_audience": 8.6,
+    "ai_signal": 9.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 92.0,
+    "reasoning": "The content moves beyond general philosophy by enumerating key, actionable rules—such as 'Flow Efficiency Over Resource Efficiency', 'Feedback Loops as a Virtue', 'Automation as a Necessity', 'Shared Accountability', and 'Continuous Improvement as Culture'—all deeply rooted in core DevOps and Agile tenets. It substantiates how these principles shape behavior ('teams continuously experiment, learn, and adapt') and directly influence practices (automation, eliminating silos, observability). The intent is to outline, for practitioners and decision-makers, the non-abstract, guiding rules of DevOps. While the introduction frames DevOps as a philosophy, the substance focuses extensively on tenets. Mentioning several canonical tenets and providing practical context aligns well with the category definition. There are no outdated practices or off-topic tangents; penalties are unnecessary.",
+    "reasoning_summary": "Explicitly details DevOps tenets—including actionable guidance on flow, feedback, automation, accountability, and improvement—with ample depth for practitioners. Categorization as 'Tenet' is well supported; only minimal drift into philosophy.",
+    "level": "Primary"
   },
   "Method": {
     "resourceId": "DevOps",

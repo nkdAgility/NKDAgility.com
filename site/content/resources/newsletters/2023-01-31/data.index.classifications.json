@@ -348,12 +348,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "Kofi3sgOhDX",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T12:22:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a product owner and broader topics related to product management and organizational strategy, without a focus on engineering practices or Agile methodologies.",
+    "calculated_at": "2025-09-05T03:31:31",
+    "ai_confidence": 21.57,
+    "ai_mentions": 0.8,
+    "ai_alignment": 2.6,
+    "ai_depth": 1.9,
+    "ai_intent": 2.2,
+    "ai_audience": 5.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content focuses on the role and impact of a skilled product owner, product ownership, team alignment with strategy, and organizational value delivery. It mentions Scrum, coaching, and training for Agile roles but does not explicitly discuss core engineering practices such as clean code, TDD, CI/CD, or automation. The material is designed for practitioners in Agile contexts (some audience overlap), but it addresses leadership, product, and organizational change rather than engineering methods. Engineering practices are at most tangential via mentions of development team alignment but not given any substantive discussion. Signal-to-noise is low due to significant focus on community, classes, and unrelated resources.",
+    "reasoning_summary": "Content is focused on product ownership and organizational success in Agile, not on technical engineering practices. Only tangential relevance to engineering. The fit is low and mostly indirect.",
     "level": "Ignored"
   },
   "Test Driven Development": {

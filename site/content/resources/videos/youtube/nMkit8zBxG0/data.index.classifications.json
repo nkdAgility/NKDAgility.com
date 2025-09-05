@@ -1347,13 +1347,23 @@
     "level": "Ignored"
   },
   "Organisational Agility": {
+    "resourceId": "nMkit8zBxG0",
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-12T04:03:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Sprint planning and its processes within Scrum and Kanban, without a focus on broader organisational agility strategies or cultural shifts.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:10",
+    "ai_confidence": 56.01,
+    "ai_mentions": 1.1,
+    "ai_alignment": 6.4,
+    "ai_depth": 5.8,
+    "ai_intent": 6.0,
+    "ai_audience": 7.5,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 56.0,
+    "reasoning": "Direct explicit use of 'organisational agility' is absent. The content clearly describes sprint planning's role in alignment, adaptability, and integrating customer feedback—a key, though lower-level, contributor to agility. However, the primary aim is to educate on a Scrum artifact/pattern (sprint planning), not to explore agility at the organisational level. Some references to flexibility, adaptability, responding to unexpected events, and the integration of Kanban and Scrum nudge towards agility, but broader strategic or leadership themes are minimal. The audience seems to be practitioners/team leads. The signal is high (focus on adaptive team practices), but main themes enrich team-level agility rather than at the organisational scale.",
+    "reasoning_summary": "Discusses adaptive team practices and flexibility (key elements of agility), but focuses mainly on sprint planning, not wider organisational agility. The fit is partial: relevant, but not fully within scope.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",

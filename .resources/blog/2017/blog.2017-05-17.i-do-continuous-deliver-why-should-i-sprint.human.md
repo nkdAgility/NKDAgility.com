@@ -2,46 +2,55 @@
 title: I do continuous deliver, why should I Sprint?
 short_title: Why Sprints Matter with Continuous Delivery
 description: Explains why Sprints are valuable even with continuous delivery, highlighting benefits for planning, feedback, communication, and predictability in Scrum teams.
+tldr: Sprints are not about limiting release frequency but about providing a regular cadence for planning, communication, and predictability, even if you use continuous delivery. Scrum requires a working increment at least every 30 days, but you can release more often; Sprints help structure feedback loops and align teams and stakeholders. To stay competitive and responsive, use Sprints as a planning container while delivering to production as frequently as possible.
 date: 2017-05-17
-weight: 390
+lastmod: 2017-05-17
+weight: 225
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: nIIA3IUtX_z
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: i-do-continuous-deliver-why-should-i-sprint
 aliases:
-- /resources/nIIA3IUtX_z
+  - /resources/nIIA3IUtX_z
 aliasesArchive:
-- /blog/continuous-deliver-sprint
-- /continuous-deliver-sprint
-- /i-do-continuous-deliver,-why-should-i-sprint-
-- /blog/i-do-continuous-deliver,-why-should-i-sprint-
-- /i-do-continuous-deliver--why-should-i-sprint-
-- /blog/i-do-continuous-deliver--why-should-i-sprint-
-- /resources/blog/continuous-deliver-sprint
+  - /blog/continuous-deliver-sprint
+  - /continuous-deliver-sprint
+  - /i-do-continuous-deliver,-why-should-i-sprint-
+  - /blog/i-do-continuous-deliver,-why-should-i-sprint-
+  - /i-do-continuous-deliver--why-should-i-sprint-
+  - /blog/i-do-continuous-deliver--why-should-i-sprint-
+  - /resources/blog/continuous-deliver-sprint
 layout: blog
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
+  - Technical Leadership
 tags:
-- Agile Planning
-- Agile Frameworks
-- Professional Scrum
-- Agile Product Management
-- Software Development
-- Product Delivery
-- Working Software
-- Empirical Process Control
-- Increment
-- Scrum Master
-- Agile Transformation
-- Pragmatic Thinking
-- Value Delivery
+  - Agile Planning
+  - Agile Frameworks
+  - Professional Scrum
+  - Agile Product Management
+  - Software Development
+  - Product Delivery
+  - Working Software
+  - Empirical Process Control
+  - Social Technologies
+  - Increment
+  - Scrum Master
+  - Agile Transformation
+  - Pragmatic Thinking
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:16:37Z
   short_title: 2025-07-07T17:58:52Z
+  tldr: 2025-08-07T13:13:50Z
 ResourceImportId: 11885
 creator: Martin Hinshelwood
 resourceTypes: blog

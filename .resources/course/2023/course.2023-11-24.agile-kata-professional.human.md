@@ -21,6 +21,7 @@ aliases:
 aliasesArchive:
   - /training-courses/agile-workshops/agile-kata-professional/
   - /akp/
+type: course
 concepts:
   - Practice
 categories:
@@ -43,7 +44,6 @@ Watermarks:
   short_title: 2025-07-29T15:01:02Z
   tldr: 2025-08-08T11:37:28Z
 creator: Martin Hinshelwood
-type: course
 url: 
 course_topics:
   - Agile Training Courses

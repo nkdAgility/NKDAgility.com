@@ -2,52 +2,59 @@
 title: Maximising Value from Applying Professional Scrum Training
 short_title: Maximising Value from Professional Scrum Training
 description: Learn how Professional Scrum training empowers teams to identify organisational blockers, create actionable change backlogs, and drive real transformation in delivery.
+tldr: The main benefit of Professional Scrum training is not just learning Scrum, but creating a clear list of organisational obstacles that slow delivery. When teams are empowered to identify these issues and leadership commits to addressing them, real transformation can begin. Development managers should ensure their teams have a change backlog and actively work with leadership to remove barriers.
 date: 2025-06-09T15:30:34+01:00
+lastmod: 2025-06-09T15:30:34+01:00
 weight: 470
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: Db-LocFYG0R
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: maximising-value-from-applying-professional-scrum-training
 aliases:
-- /resources/Db-LocFYG0R
+  - /resources/Db-LocFYG0R
 source: LinkedIn
 layout: signal
 concepts:
-- Principle
+  - Principle
 categories:
-- Scrum
-- Leadership
+  - Scrum
+  - Leadership
 tags:
-- Organisational Agility
-- Social Technologies
-- Professional Scrum
-- Agile Leadership
-- Organisational Culture
-- Change Management
-- Agile Transformation
-- Continuous Improvement
-- Team Performance
-- Organisational Change
-- Team Motivation
-- Software Development
-- Personal
-- Pragmatic Thinking
-- Self Organisation
+  - Organisational Agility
+  - Social Technologies
+  - Professional Scrum
+  - Agile Leadership
+  - Organisational Culture
+  - Change Management
+  - Agile Transformation
+  - Continuous Improvement
+  - Team Performance
+  - Organisational Change
+  - Team Motivation
+  - Software Development
+  - Personal
+  - Pragmatic Thinking
+  - Agentic Agility
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7337863687812116481
-  post_id: "7337863687812116481"
-  post_date: 2025-06-09T14:30:34Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7337863687812116481
+    post_id: "7337863687812116481"
+    post_date: 2025-06-09T14:30:34Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:39Z
   short_title: 2025-07-07T16:43:36Z
+  tldr: 2025-08-07T12:11:27Z
 
 ---
 The best outcome of a Applying Professional Scrum class isn’t just better understanding of Scrum. It’s a backlog of change.

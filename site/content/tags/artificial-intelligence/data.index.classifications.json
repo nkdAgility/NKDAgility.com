@@ -247,16 +247,23 @@
     "level": "Ignored"
   },
   "Discipline": {
+    "resourceId": "Artificial Intelligence",
     "category": "Discipline",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on Artificial Intelligence and its applications in Agile and DevOps, with only a secondary mention of discipline-related themes. While it discusses the importance of continuous improvement and learning, which are related to discipline, the core focus remains on AI and its benefits rather than on discipline itself.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:32:18",
+    "ai_confidence": 57.05,
+    "ai_mentions": 1.3,
+    "ai_alignment": 6.6,
+    "ai_depth": 6.2,
+    "ai_intent": 5.8,
+    "ai_audience": 7.2,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 57.0,
+    "reasoning": "The content discusses AI as a transformative tool within Agile and DevOps contexts, referencing principles like continuous improvement and systemic integration. However, it primarily focuses on how AI enhances these methodologies, not on the structured field or principles of 'Discipline' itself. There is limited direct mention of discipline as defined, and the main intent revolves around application and benefit of AI rather than the codified nature, governance, or maturation of professional disciplines. Terminology around discipline, governance, or principles is only implicitly referenced, with the core emphasis placed on operational impact in Agile/DevOps, rather than the evolution or systemic theory of disciplines.",
+    "reasoning_summary": "Content aligns partially, referencing principles and continuous improvement in Agile/DevOps, but focuses on AI's enabling role, not on the nature or evolution of disciplines. Fit is partial, as explicit discussion of 'Discipline' is limited.",
+    "level": "Tertiary"
   },
   "Scrum Values": {
     "resourceId": "Artificial Intelligence",

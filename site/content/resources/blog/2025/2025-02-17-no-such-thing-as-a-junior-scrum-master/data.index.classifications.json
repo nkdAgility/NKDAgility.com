@@ -1172,12 +1172,22 @@
     "level": "Tertiary"
   },
   "Deployment Strategies": {
+    "resourceId": "f2RQh2UCwqB",
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T08:53:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master, focusing on their qualifications and the importance of experience rather than deployment strategies or methodologies related to deploying software.",
+    "calculated_at": "2025-09-05T03:28:18",
+    "ai_confidence": 3.87,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.3,
+    "ai_audience": 7.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the qualifications and expectations of the Scrum Master role. While it references technical mastery and DevOps, and briefly mentions 'continuous delivery', these are only in passing as aspects of a broader argument about accountability—not specific methodologies or actionable practices for deploying software. There is no substantive discussion of any deployment strategy (e.g., blue-green deployments, canary releases, rolling updates, feature toggles, IaC, etc.). The intent and depth are squarely about the leadership, selection, and competency of Scrum Masters—areas unrelated to the classification definition. Audience partially matches since Scrum Masters can influence deployment practices, but the primary focus here is on agile leadership and team dynamics, not directly on deployment strategy.",
+    "reasoning_summary": "Content centers on Scrum Master effectiveness and selection, not deployment methodologies or actionable deployment practices. Only cursory related mentions (DevOps, continuous delivery); overall, it does not fit the deployment strategies category.",
     "level": "Ignored"
   },
   "Scrum Team": {

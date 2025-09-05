@@ -114,16 +114,23 @@
     "level": "Secondary"
   },
   "Practice": {
+    "resourceId": "Customer Satisfaction",
     "category": "Practice",
-    "calculated_at": "2025-04-10T13:21:02",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses customer satisfaction as a measure of product-market fit and emphasises the importance of a customer-centric mindset. However, it does not explicitly mention actionable practices or techniques that teams can implement to improve their effectiveness or collaboration. While it aligns conceptually with the idea of continuous improvement, it lacks depth in discussing specific practices related to team performance.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:14",
+    "ai_confidence": 41.815,
+    "ai_mentions": 2.5,
+    "ai_alignment": 5.4,
+    "ai_depth": 5.2,
+    "ai_intent": 4.2,
+    "ai_audience": 5.0,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content discusses customer satisfaction as a concept and guiding principle but does not describe actionable, repeatable practices or techniques teams use. While relevant to value delivery and continuous improvement, there are no explicit references to practices, actionable techniques, or habits as per the category definition. The depth and alignment are moderate, as the content covers measurement and enhancement but largely remains conceptual with no exploration of specific practices like retrospectives, TDD, or Kanban. The audience (practitioners concerned with value delivery) partially fits, but the content's focus is too broad and conceptual for strong categorisation as 'Practice'.",
+    "reasoning_summary": "The content is conceptually related but lacks explicit, actionable practices. It discusses principles and benefits of customer satisfaction, not concrete techniques, so fit with the 'Practice' category is partial and not strong.",
+    "level": "Tertiary"
   },
   "Philosophy": {
     "resourceId": "Customer Satisfaction",

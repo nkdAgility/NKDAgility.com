@@ -477,12 +477,22 @@
     "level": "Tertiary"
   },
   "Azure Pipelines": {
+    "resourceId": "9PBpgfsojQI",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-12T10:03:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses business strategy, product ownership, and methodologies like Scrum and Kanban, with no mention of Azure Pipelines or related CI/CD practices.",
+    "calculated_at": "2025-09-05T03:31:20",
+    "ai_confidence": 2.3,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.7,
+    "ai_intent": 2.0,
+    "ai_audience": 7.2,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "There are no direct mentions of Azure Pipelines, CI/CD, or any related concepts. The content centers on business strategy, agile, Scrum, people, and product development for 2023; it never discusses automation, pipeline management, or anything within Azure DevOps services. The only minimal fit is for a technical or DevOps-aware audience (audience alignment), but even that is generic. All other dimensions score near zero or low, as the topic never aligns with nor explores Azure Pipelines or related practices.",
+    "reasoning_summary": "This content does not fit the Azure Pipelines category. It discusses strategy and agile/Scrum without mentioning or aligning with Azure Pipelines, pipeline automation, CI/CD, or related concepts.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {

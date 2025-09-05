@@ -171,16 +171,23 @@
     "level": "Ignored"
   },
   "Capability": {
+    "resourceId": "Working Software",
     "category": "Capability",
-    "calculated_at": "2025-04-10T13:19:39",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the importance of delivering working software as a measure of progress and value in Agile, Lean, and DevOps methodologies. It highlights how this focus fosters a culture of continuous feedback and improvement, which aligns with the core themes of capability. However, the primary emphasis is on the output (working software) rather than the enduring competencies that empower teams, which slightly detracts from its alignment with the Capability category. The depth of discussion is substantial, but it primarily revolves around the concept of working software rather than broader capabilities.",
-    "level": "Secondary"
+    "calculated_at": "2025-09-05T03:32:07",
+    "ai_confidence": 51.9,
+    "ai_mentions": 7.0,
+    "ai_alignment": 8.0,
+    "ai_depth": 7.5,
+    "ai_intent": 8.0,
+    "ai_audience": 7.0,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 52.0,
+    "reasoning": "The content consistently emphasizes delivering tangible, functional outputs—core to the idea of capabilities—highlighting how working software embodies the enduring competence of iterative value delivery within Agile frameworks. It discusses progress, feedback, and continuous improvement, aligning well with capability themes. Although it centers on a practice, it reflects the systemic, value-driven mindset associated with capabilities. Slight deduction due to occasional focus on practices rather than systemic competencies, but overall a strong fit.",
+    "reasoning_summary": "The content aligns with Capability by discussing the systemic competence of delivering value through working software; it emphasizes iterative delivery, feedback, and improvement, fitting the core meaning well.",
+    "level": "Tertiary"
   },
   "Model": {
     "resourceId": "Working Software",

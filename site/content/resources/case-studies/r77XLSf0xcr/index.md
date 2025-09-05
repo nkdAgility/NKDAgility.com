@@ -31,7 +31,6 @@ tags:
   - Operational Practices
   - Pragmatic Thinking
   - Digital Transformation
-  - Agile Transformation
   - Agile Strategy
   - Product Delivery
   - Large Scale Agility
@@ -39,6 +38,7 @@ tags:
   - Enterprise Agility
   - Project Management
   - Business Agility
+  - Transparency
 Watermarks:
   description: 2025-06-16T11:50:55Z
   short_title: 2025-07-07T16:43:50Z

@@ -285,13 +285,23 @@
     "level": "Tertiary"
   },
   "Personal": {
+    "resourceId": "XFN4iXYLE3U",
     "category": "Personal",
-    "calculated_at": "2025-02-17T12:35:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban principles and practices without personal anecdotes or reflections.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:59",
+    "ai_confidence": 68.068,
+    "ai_mentions": 3.7,
+    "ai_alignment": 7.8,
+    "ai_depth": 7.3,
+    "ai_intent": 7.2,
+    "ai_audience": 6.5,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 68.0,
+    "reasoning": "The content extensively discusses Kanban's WIP limits but primarily explains concepts, benefits, and implementation steps. However, it contains a dedicated personal anecdote detailing the author's experience with overloaded WIP and the improvement after WIP limits, plus another brief personal insight from a Scrum setting. These inclusions provide individual reflections and fit the 'Personal' category's requirement for sharing personal experiences or subjective insights in Agile contexts. The majority, though, remains broadly advisory and instructional rather than being consistently introspective or centered around unique perspectives. The main audience appears to be practitioners (teams, Scrum Masters), not strictly individuals seeking personal reflection. The signal is moderately strong but diluted by general guidance. No penalties applied, as tone and modernity are appropriate.",
+    "reasoning_summary": "Contains specific personal anecdotes and reflections within broader instructional content about Kanban WIP limits. Fits the 'Personal' category partially, with individual insights present but not predominating the discussion.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",

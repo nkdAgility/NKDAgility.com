@@ -2,40 +2,47 @@
 title: Estimating Better in an Overloaded System Is a Poor Man’s Strategy
 short_title: Why Limiting WIP Beats Better Estimation
 description: High work in progress (WIP) causes delays and unpredictability; improving estimates won’t help. Limiting WIP and focusing on flow is key to reliable delivery.
+tldr: Trying to improve estimates in an overloaded system is ineffective because high work in progress causes delays and unpredictability, regardless of estimation accuracy. Real improvements in predictability and throughput come from limiting work in progress, fostering collaboration, and focusing on finishing work rather than starting more. To achieve reliable delivery, reduce WIP and prioritize flow over planning.
 date: 2025-09-08T09:00:00Z
+lastmod: 2025-09-08T09:00:00Z
 weight: 235
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: 9asj2UApmVM
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 slug: estimating-better-in-an-overloaded-system-is-a-poor-man-s-strategy
 aliases:
-- /resources/9asj2UApmVM
+  - /resources/9asj2UApmVM
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- Kanban
-- Engineering Excellence
+  - Product Development
+  - Engineering Excellence
+  - Kanban
 tags:
-- Flow Efficiency
-- Software Development
-- Team Performance
-- Operational Practices
-- Pragmatic Thinking
-- Cycle Time
-- Organisational Physics
-- Value Delivery
-- Continuous Improvement
-- Metrics and Learning
-- Lean Principles
-- Social Technologies
-- Project Management
-- Lean Thinking
-- Product Delivery
+  - Flow Efficiency
+  - Software Development
+  - Team Performance
+  - Operational Practices
+  - Cycle Time
+  - Organisational Physics
+  - Value Delivery
+  - Continuous Improvement
+  - Metrics and Learning
+  - Lean Principles
+  - Social Technologies
+  - Pragmatic Thinking
+  - Project Management
+  - Lean Thinking
+  - Product Delivery
 Watermarks:
   description: 2025-06-18T18:22:38Z
   short_title: 2025-07-07T16:43:05Z
+  tldr: 2025-07-30T23:12:31Z
 
 ---
 Just a regular reminder that predictability and the accuracy of any estimate deteriorate rapidly as you increase the amount of Work in Progress (WIP) in the system. And yet, most teams still try to compensate for unpredictability by estimating better, rather than addressing the actual problem: the system is overloaded and cannot flow.

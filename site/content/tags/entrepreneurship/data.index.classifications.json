@@ -114,16 +114,23 @@
     "level": "Secondary"
   },
   "Practice": {
+    "resourceId": "Entrepreneurship",
     "category": "Practice",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses entrepreneurship in a business context, focusing on innovation and decision-making. While it touches on themes of agility and continuous improvement, it does not explicitly mention or delve into specific practices like pair programming or retrospectives. The alignment with the core themes of the category is moderate, but the depth of actionable techniques is limited.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:52",
+    "ai_confidence": 49.8,
+    "ai_mentions": 2.1,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.6,
+    "ai_intent": 4.6,
+    "ai_audience": 4.9,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 50.0,
+    "reasoning": "The content discusses the entrepreneurial mindset—emphasising innovation, risk-taking, and adaptability—but offers no direct, actionable practices (e.g., techniques, repeatable team actions). Terms like 'experimentation' and 'continuous learning' touch on adjacent concepts but remain anchored in mindset and philosophy, not concrete practices. There's mention of alignment with Agile and Lean, but again this is at a value or mindset level. The core intent is fostering a cultural shift, not detailing or instructing on specific, actionable practices as defined by the 'Practice' category. The target audience appears to be internal teams and leaders interested in innovation and agility, fitting somewhat, but the practical, technique-based focus required for high confidence in the Practice classification is lacking. No penalties are applied as the content is not critical, outdated, or undermining.",
+    "reasoning_summary": "The content describes an entrepreneurial mindset and culture, but does not address actionable practices or team techniques. Its alignment with the 'Practice' category is partial and lacks the necessary focus on specific, repeatable activities.",
+    "level": "Tertiary"
   },
   "Philosophy": {
     "resourceId": "Entrepreneurship",

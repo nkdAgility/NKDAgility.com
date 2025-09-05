@@ -1336,12 +1336,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "QI3oE9IUc6E",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T03:08:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:29:00",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.0,
+    "ai_intent": 0.1,
+    "ai_audience": 1.5,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is solely focused on Applied Professional Scrum (APS) and how it prepares teams for mastering Scrum. There is no mention or discussion of Kanban, its principles, or practices. No Kanban concepts such as visualisation, limiting WIP, or managing flow are referenced or implied. The audience could have overlap with Kanban practitioners as both cater to agile teams, but this is indirect at best. The tiny nonzero audience score reflects only this coincidence. All mention, alignment, and depth dimensions are at or near zero, accurately resulting in very low confidence.",
+    "reasoning_summary": "The content pertains exclusively to Scrum and APS, with zero reference or alignment to Kanban. As such, it does not fit the Kanban category by topic, intent, or theme.",
     "level": "Ignored"
   },
   "Value Delivery": {

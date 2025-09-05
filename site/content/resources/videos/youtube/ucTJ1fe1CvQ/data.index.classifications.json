@@ -1448,12 +1448,22 @@
     "reasoning_summary": "This content is relevant to the category as it emphasises evidence-based decision-making and the value of learning from data, both of which are central to metrics and learning. However, its main focus is on challenging assumptions within product development, rather than providing an in-depth analysis of metrics themselves. Thus, it aligns with the category, but only partially covers its core aspects."
   },
   "Application Lifecycle Management": {
+    "resourceId": "ucTJ1fe1CvQ",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T00:41:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product development and the importance of addressing assumptions, rather than discussing the stages or practices of Application Lifecycle Management.",
+    "calculated_at": "2025-09-05T03:30:12",
+    "ai_confidence": 33.87,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.8,
+    "ai_intent": 3.4,
+    "ai_audience": 4.3,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "Direct references to 'Application Lifecycle Management' are absent. The main topic focuses on challenging assumptions and improving value delivery in product development—mainly discovery, delivery, and validation cycles—not on ALM's comprehensive lifecycle management, tools, governance, or application retirement. Audience (product teams/leads) somewhat overlaps with ALM but skews toward product discovery and value teams, not application managers. While there's faint tangential overlap in process improvement and learning cycles, the core ALM themes (governance, maintenance, KPIs for lifecycle, change/risk/application retirement) are either missing or only alluded to in passing. Depth in ALM principles is shallow—focus stays on product development mindsets and behaviors.",
+    "reasoning_summary": "This content centers on product development, discovery, and assumptions—not on Application Lifecycle Management. It does not directly address ALM tools, practices, or lifecycle governance. The thematic fit is partial and tangential at best.",
     "level": "Ignored"
   },
   "Value Stream Management": {

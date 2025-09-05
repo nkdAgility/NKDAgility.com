@@ -118,13 +118,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "PNLCxB2zmUA",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not directly related to Application Lifecycle Management.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:28:11",
+    "ai_confidence": 78.75,
+    "ai_mentions": 6.0,
+    "ai_alignment": 8.2,
+    "ai_depth": 6.5,
+    "ai_intent": 8.0,
+    "ai_audience": 7.8,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses architecture evolution, incremental change, team investment, and long-term vision, all related to managing product lifecycle and architectural adaptation, which are core to application lifecycle management. It references practices, tools, and strategic mindset relevant to ALM, although with a focus on architecture change. The discussion aligns well with ALM principles, emphasizing continuous improvement and change management, essential for effective application governance and lifecycle. No penalties applied, and the overall fit is strong.",
+    "reasoning_summary": "Content discusses architectural change, continuous improvement, and long-term vision, aligning with Application Lifecycle Management's focus on managing software from conception to retirement.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",

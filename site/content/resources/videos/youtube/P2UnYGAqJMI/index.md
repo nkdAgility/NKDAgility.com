@@ -35,6 +35,7 @@ categories:
   - Product Development
 tags:
   - Personal
+  - Value Delivery
   - Agile Planning
   - Agile Philosophy
   - Agile Transformation

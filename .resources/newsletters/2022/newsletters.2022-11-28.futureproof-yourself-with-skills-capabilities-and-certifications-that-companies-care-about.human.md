@@ -2,8 +2,14 @@
 title: Futureproof Yourself With Skills, Capabilities And Certifications That Companies Care About
 short_title: Futureproof Skills and Certifications Guide
 description: Learn which skills, capabilities, and certifications make you stand out to employers, boost your agility, and stay competitive in today’s fast-changing job market.
+tldr: To stay competitive and valuable in today’s uncertain market, development managers should focus on building agile skills, capabilities, and certifications that demonstrate clear value and adaptability. Companies are prioritizing employees who can innovate and create value, not just follow orders, so upskilling and earning relevant certifications can set you apart and increase your job security. Consider enrolling your team or yourself in advanced Scrum and UX courses to strengthen your expertise and stand out to hiring managers.
 date: 2022-11-28
-weight: 1000
+lastmod: 2022-11-28
+weight: 600
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 author: MrHinsh
 ResourceId: Kn3i3yGquon
 ResourceImport: false
@@ -11,20 +17,22 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: futureproof-yourself-with-skills-capabilities-and-certifications-that-companies-care-about
 aliases:
-- /newsletters/newsletter-2022/
-- /resources/newsletters/newsletter-2022/
-- /resources/Kn3i3yGquon
+  - /newsletters/newsletter-2022/
+  - /resources/newsletters/newsletter-2022/
+  - /resources/Kn3i3yGquon
 aliasesArchive:
-- /newsletters/newsletter-2022/
-- /resources/newsletters/newsletter-2022/
+  - /newsletters/newsletter-2022/
+  - /resources/newsletters/newsletter-2022/
 layout: newsletter
 concepts: []
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Competence
 Watermarks:
   description: 2025-05-07T13:14:40Z
   short_title: 2025-07-07T17:57:17Z
+  tldr: 2025-08-07T13:09:35Z
 preview: naked-agility-technically-agile-1280×720-December2022.jpg
 resourceTypes: newsletter
 

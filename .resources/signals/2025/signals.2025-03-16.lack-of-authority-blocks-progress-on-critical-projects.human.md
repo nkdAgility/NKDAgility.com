@@ -2,45 +2,52 @@
 title: Lack of Authority Blocks Progress on Critical Projects
 short_title: Lack of Authority Blocks Project Progress
 description: Scrum Masters need authority to remove obstacles and drive project success. Without empowerment, they can't fulfil their role or be held accountable for outcomes.
+tldr: Scrum Masters need real authority to remove obstacles and drive project success, but many are blocked by bureaucracy and lack of support. Without empowerment, they cannot be held accountable for outcomes and become ineffective. Development managers should ensure Scrum Masters have the authority to act if they expect meaningful results.
 date: 2025-03-16T16:30:01+00:00
+lastmod: 2025-03-16T16:30:01+00:00
 weight: 510
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: uLNzs9NgPZI
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: lack-of-authority-blocks-progress-on-critical-projects
 aliases:
-- /resources/uLNzs9NgPZI
+  - /resources/uLNzs9NgPZI
 source: LinkedIn
 layout: signal
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Scrum
-- Leadership
-- Technical Leadership
+  - Scrum
+  - Leadership
+  - Technical Leadership
 tags:
-- Software Development
-- Scrum Master
-- Agile Leadership
-- Agentic Agility
-- Agile Frameworks
-- Pragmatic Thinking
-- Organisational Agility
+  - Software Development
+  - Scrum Master
+  - Agile Leadership
+  - Agile Frameworks
+  - Pragmatic Thinking
+  - Agentic Agility
+  - Organisational Agility
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7307075682646327297
-  post_id: "7307075682646327297"
-  post_date: 2025-03-16T16:30:01Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7307075682646327297
+    post_id: "7307075682646327297"
+    post_date: 2025-03-16T16:30:01Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:08Z
   short_title: 2025-07-07T16:45:25Z
+  tldr: 2025-08-07T12:34:48Z
 
 ---
 Imagine you’re responsible for delivering a critical project, but every time you try to remove an obstacle, you’re told you don’t have the authority to do so.

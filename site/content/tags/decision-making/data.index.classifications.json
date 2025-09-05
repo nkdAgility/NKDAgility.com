@@ -209,17 +209,23 @@
     "level": "Secondary"
   },
   "Principle": {
+    "resourceId": "Decision Making",
     "category": "Principle",
-    "calculated_at": "2025-04-10T13:21:02",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 30,
-    "final_score": 78.0,
-    "reasoning": "The content discusses decision making in a structured, evidence-based manner, which aligns closely with the principles of empiricism and continuous improvement. It explicitly mentions methodologies like Lean and Agile, linking them to decision-making processes. The depth of discussion is significant, covering how decision making influences organisational culture and team dynamics, which are key aspects of the principles category. However, while it touches on principles, it does not delve deeply into specific principles themselves, which slightly lowers the overall confidence score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is well-suited to the principles category, as it explores decision making through the lens of empiricism and continuous improvement. By referencing Lean and Agile, it connects decision processes to established methodologies. While it addresses the broader impact on culture and teams, it doesn’t focus on individual principles in detail, which slightly affects its fit. Overall, it aligns with the category’s intent."
+    "calculated_at": "2025-09-05T03:32:02",
+    "ai_confidence": 84.5,
+    "ai_mentions": 7.2,
+    "ai_alignment": 9.1,
+    "ai_depth": 8.8,
+    "ai_intent": 8.2,
+    "ai_audience": 8.7,
+    "ai_signal": 8.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 84.0,
+    "reasoning": "The content centers on applying evidence-based, structured approaches to decision making, directly referencing empiricism—a core principle listed in the category definition. It mentions Lean and Agile principles, aligning conceptually with actionable guiding rules. The depth is strong: the text explores iterative learning, adaptability, continuous improvement, and the link between decision making and value delivery—all firmly within the principles domain. The intent is to inform and advocate for principle-driven approaches (not mere philosophies or values). The audience appears to be practitioners, leaders, and strategists interested in Agile/Lean/DevOps mindsets. No outdated practices or contradictory tones are present, and nearly all content is relevant with minimal filler. Slightly lower score for direct mentions because 'principle' is referenced only within examples, not as the main term, but the rest of the criteria are robustly met.",
+    "reasoning_summary": "Content strongly fits the 'Principle' category, focusing on actionable, evidence-based approaches grounded in Lean and Agile principles. Themes, intent, and audience are highly aligned; this is a clear but not perfect match.",
+    "level": "Primary"
   },
   "Artifact": {
     "resourceId": "Decision Making",

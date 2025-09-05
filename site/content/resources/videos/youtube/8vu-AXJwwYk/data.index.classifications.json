@@ -329,13 +329,23 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "8vu-AXJwwYk",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T11:14:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on the role of consultants and coaches in organizations, discussing their impact and methodology without addressing specific engineering practices or Agile principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:54",
+    "ai_confidence": 45.7,
+    "ai_mentions": 2.9,
+    "ai_alignment": 5.6,
+    "ai_depth": 5.9,
+    "ai_intent": 4.7,
+    "ai_audience": 6.2,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 46.0,
+    "reasoning": "The content focuses on the transformative role of consultants in organizational change and agile transformation. While it mentions terms like 'continuous delivery' and 'unit testing,' these are brief, secondary, and not explored in depth. The primary focus is on change leadership, consultancy value, and organizational dynamics, rather than specific engineering methods (e.g., TDD, Clean Code, CI/CD, refactoring, automation, pair programming). The audience is likely adjacent to engineering practitioners but more geared toward leaders and decision-makers. No penalties are applied, as the tone is positive, and content is current.",
+    "reasoning_summary": "Primary emphasis is on consultancy and organizational agility, not directly on software engineering practices. Mentions of engineering topics are cursory, so the fit is partial and mostly tangential to 'Engineering Practices.'",
+    "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",

@@ -198,13 +198,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "iCDEX6oHy7A",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses professionalism and conflicting priorities in an Agile context, but does not focus on Application Lifecycle Management.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:32:32",
+    "ai_confidence": 44.26,
+    "ai_mentions": 1.4,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.3,
+    "ai_intent": 5.2,
+    "ai_audience": 5.5,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "The content is primarily about fostering an agile mindset and culture for quality in development teams. While this relates tangentially to ALM principles (such as promoting quality and continuous improvement), it lacks explicit references to the full application lifecycle, ALM tools, governance, metrics, or structured lifecycle stages. There are some overlaps (e.g., continuous feedback, retrospectives), but the main focus is agile culture, not end-to-end lifecycle management. The audience (leaders/teams working on agile) partially aligns with those concerned with ALM, but the scope remains cultural and mindset-centric rather than lifecycle or management process-centric. Overall, the content only partially fits the ALM category due to some conceptual overlap.",
+    "reasoning_summary": "The content focuses on agile mindset, team empowerment, and quality culture—not directly on ALM processes or lifecycle stages. Its fit with Application Lifecycle Management is partial and primarily indirect, so confidence is moderate to low.",
+    "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",

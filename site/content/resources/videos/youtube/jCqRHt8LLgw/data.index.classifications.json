@@ -191,13 +191,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "jCqRHt8LLgw",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T12:23:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a Q&A session regarding DevOps and Agility rather than specifically discussing Application Lifecycle Management.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:58",
+    "ai_confidence": 52.5,
+    "ai_mentions": 3,
+    "ai_alignment": 2,
+    "ai_depth": 2,
+    "ai_intent": 2,
+    "ai_audience": 2,
+    "ai_signal": 2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 52.0,
+    "reasoning": "The content discusses agile practices, team dynamics, and architectural approaches, but it primarily focuses on improving agile methodologies and team effectiveness, not explicitly on managing the entire application lifecycle from conception to retirement. It touches on related topics like emergent architecture and team size, but lacks detailed ALM frameworks or lifecycle management practices.",
+    "reasoning_summary": "Content relates to agile practices and architecture but does not explicitly cover or focus on application lifecycle management processes.",
+    "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",

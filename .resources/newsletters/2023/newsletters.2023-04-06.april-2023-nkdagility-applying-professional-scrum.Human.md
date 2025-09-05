@@ -2,8 +2,14 @@
 title: 'April 2023 NKDAgility: Applying Professional Scrum'
 short_title: Applying Professional Scrum Effectively
 description: Learn how to effectively apply Professional Scrum, overcome common implementation challenges, and improve team performance with practical agile insights and training.
+tldr: Understanding Scrum theory is not enough; teams need to actively apply Scrum’s core principles of transparency, inspection, and adaptation to see real improvements in delivery, customer satisfaction, and cost reduction. If your teams are struggling with the basics or not seeing expected agile benefits, consider targeted training like the Applying Professional Scrum course. Explore available resources and training options to build practical Scrum skills and drive better outcomes.
 date: 2023-04-06
-weight: 665
+lastmod: 2023-04-06
+weight: 485
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 author: MrHinsh
 ResourceId: WAc9JUyPY5M
 ResourceImport: false
@@ -11,26 +17,27 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: april-2023-nkdagility-applying-professional-scrum
 aliases:
-- /newsletters/april-2023-nkdagility-applying-professional-scrum/
-- /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
-- /resources/WAc9JUyPY5M
+  - /newsletters/april-2023-nkdagility-applying-professional-scrum/
+  - /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
+  - /resources/WAc9JUyPY5M
 aliasesArchive:
-- /newsletters/april-2023-nkdagility-applying-professional-scrum/
-- /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
+  - /newsletters/april-2023-nkdagility-applying-professional-scrum/
+  - /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
 layout: newsletter
 concepts: []
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Agile Frameworks
-- Pragmatic Thinking
-- Empirical Process Control
-- Professional Scrum
+  - Software Development
+  - Agile Frameworks
+  - Pragmatic Thinking
+  - Empirical Process Control
+  - Professional Scrum
 Watermarks:
   description: 2025-05-07T13:13:21Z
   short_title: 2025-07-07T17:56:02Z
+  tldr: 2025-08-07T13:06:54Z
 resourceTypes: newsletter
 
 ---

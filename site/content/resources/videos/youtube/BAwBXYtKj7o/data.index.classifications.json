@@ -1414,13 +1414,23 @@
     "level": "Tertiary"
   },
   "Sociotechnical Systems": {
+    "resourceId": "BAwBXYtKj7o",
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-12T09:14:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses automated testing and its technical aspects without a clear focus on the interplay between technology and organisational structures.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:28:39",
+    "ai_confidence": 47.42,
+    "ai_mentions": 1.2,
+    "ai_alignment": 5.4,
+    "ai_depth": 5.8,
+    "ai_intent": 4.7,
+    "ai_audience": 7.1,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "The content focuses on technical debt management and its impact on software quality and delivery, using organizational examples (e.g., Azure DevOps' shift to continuous delivery). While it alludes to sociotechnical interactions—such as how team decisions and process changes affect outcomes—these links remain implicit. The main thrust remains technical: how to manage and repay technical debt for improved delivery. There are limited direct references to the interplay between social and technical systems, and the discussion seldom explores organizational culture, structure, or team dynamics in depth. The intended audience (practitioners, team leads) partially aligns, but overall, the thematic fit to Sociotechnical Systems is partial and somewhat secondary.",
+    "reasoning_summary": "Primarily about technical debt management; mentions organizational/process impacts but only implicitly addresses sociotechnical interplay. Partial alignment—main focus is technical, not on the relationship between social and technical factors per the category.",
+    "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",

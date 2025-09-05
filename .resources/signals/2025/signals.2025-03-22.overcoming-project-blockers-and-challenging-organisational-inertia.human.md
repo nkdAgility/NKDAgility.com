@@ -2,51 +2,59 @@
 title: Overcoming Project Blockers and Challenging Organisational Inertia
 short_title: Overcoming Project Blockers and Inertia
 description: Explores how lack of authority hinders teams from removing project blockers and overcoming organisational inertia, stressing the need for real autonomy to achieve results.
+tldr: Teams are often held responsible for project outcomes without having the authority to remove blockers or challenge ineffective practices, which leads to frustration and failure. True accountability requires giving teams both autonomy and the power to influence their environment. Development managers should ensure teams have the authority needed to address obstacles and drive results, not just the responsibility.
 date: 2025-03-22T16:30:03+00:00
+lastmod: 2025-03-22T16:30:03+00:00
 weight: 420
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: aXo_GayoCuE
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: overcoming-project-blockers-and-challenging-organisational-inertia
 aliases:
-- /resources/aXo_GayoCuE
+  - /resources/aXo_GayoCuE
 source: LinkedIn
 layout: signal
-concepts: []
+concepts:
+  - Tenet
 categories:
-- Scrum
-- Technical Leadership
-- Leadership
+  - Scrum
+  - Technical Leadership
+  - Leadership
 tags:
-- Organisational Culture
-- Pragmatic Thinking
-- Organisational Agility
-- Team Performance
-- Team Motivation
-- Agile Product Management
-- Agentic Agility
-- Self Organisation
-- Project Management
-- Agile Leadership
-- Team Collaboration
-- Social Technologies
-- Sociotechnical Systems
-- Employee Engagement
+  - Organisational Culture
+  - Agentic Agility
+  - Pragmatic Thinking
+  - Organisational Agility
+  - Team Performance
+  - Team Motivation
+  - Agile Product Management
+  - Self Organisation
+  - Project Management
+  - Sociotechnical Systems
+  - Agile Leadership
+  - Team Collaboration
+  - Social Technologies
+  - Employee Engagement
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7309250013287645184
-  post_id: "7309250013287645184"
-  post_date: 2025-03-22T16:30:03Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7309250013287645184
+    post_id: "7309250013287645184"
+    post_date: 2025-03-22T16:30:03Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:57Z
   short_title: 2025-07-07T16:45:16Z
+  tldr: 2025-08-07T12:34:33Z
 
 ---
 Imagine you’re responsible for delivering a critical project, but every time you try to remove a blocker, someone tells you it’s “not your call.” Every time you challenge a dysfunction, you’re met with, “We’ve always done it this way.”

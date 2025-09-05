@@ -19,16 +19,23 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Remote Working",
     "category": "Accountability",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 30,
-    "final_score": 42.0,
-    "reasoning": "The content discusses accountability in the context of remote working, particularly how it fosters a culture of trust and ownership among team members. However, the primary focus is on remote working practices rather than explicitly detailing structural accountabilities or roles like Product Owner or Scrum Master. While there are mentions of accountability, they are not the central theme, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "calculated_at": "2025-09-05T03:30:22",
+    "ai_confidence": 65.719,
+    "ai_mentions": 4.3,
+    "ai_alignment": 7.2,
+    "ai_depth": 6.7,
+    "ai_intent": 6.4,
+    "ai_audience": 7.8,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 66.0,
+    "reasoning": "The content references 'accountability' directly and addresses how remote working fosters a culture of trust and accountability. However, the main theme is enabling effective distributed teams, with accountability as a supporting rather than central topic. There are mentions of outcome ownership ('delivering value', 'sense of ownership'), but the discussion does not explicitly map to structural accountabilities or distinctions between accountability, responsibility, and authority. Role-specific accountabilities and organisational design factors are only implied, not directly discussed. The audience (agile/DevOps teams, practitioners) aligns, and signal-to-noise is moderate—the material leans more toward practical tips for remote work rather than an in-depth exploration of accountability mechanisms. The fit is partial: accountability is one relevant theme, but not the main focus.",
+    "reasoning_summary": "Accountability is referenced as a supporting theme for remote teams, not the core topic. The fit is partial—content aligns with some aspects of accountability (ownership, value delivery) but lacks depth on structural constructs or explicit accountabilities.",
+    "level": "Secondary"
   },
   "Framework": {
     "resourceId": "Remote Working",

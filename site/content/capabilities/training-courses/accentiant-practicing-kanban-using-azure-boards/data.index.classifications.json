@@ -494,13 +494,23 @@
     "level": "Tertiary"
   },
   "Engineering Practices": {
+    "resourceId": "wHhDvrn-8PH",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T00:48:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Kanban practices and using Azure Boards, which are tools and methodologies unrelated to the core principles of Agile engineering practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:10",
+    "ai_confidence": 61.3,
+    "ai_mentions": 2.7,
+    "ai_alignment": 6.8,
+    "ai_depth": 6.5,
+    "ai_intent": 6.7,
+    "ai_audience": 8.3,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 61.0,
+    "reasoning": "The content is focused on Kanban principles, workflow visualization, team throughput, and predictability using Azure Boards. While it discusses software team practices and flow—key elements of effective Agile delivery—explicit coverage of core 'Engineering Practices' topics (clean code, automation, TDD, CI/CD, refactoring) is minimal or absent. The main intent is to teach process optimization, not technical engineering discipline. Audience fit is strong (developers, practitioners), and there is some overlap with engineering concerns (e.g., flow, WIP limits), but not directly on coding or automation. No outdated or critical content found; no penalties are warranted.",
+    "reasoning_summary": "Content aligns partially with Engineering Practices by teaching process and workflow optimization in Agile software teams but does not address technical engineering topics like clean code, TDD, or automation directly. Fit is moderate and somewhat tangential.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

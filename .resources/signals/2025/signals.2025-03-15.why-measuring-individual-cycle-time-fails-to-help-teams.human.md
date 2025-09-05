@@ -2,53 +2,60 @@
 title: Why Measuring Individual Cycle Time Fails to Help Teams
 short_title: Why Measuring Individual Cycle Time Fails
 description: Measuring individual cycle time overlooks team performance and system bottlenecks. Focus on lead time, throughput, and process efficiency to improve workflow.
+tldr: Measuring individual cycle time does not help teams improve because it focuses on people instead of the overall system. Real bottlenecks come from process issues like queues and overloaded work, not individual speed. To improve team performance, focus on system-level metrics such as lead time, throughput, and process efficiency, and address process bottlenecks rather than monitoring individuals.
 date: 2025-03-15T16:30:02+00:00
+lastmod: 2025-03-15T16:30:02+00:00
 weight: 245
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: ZZGeHcnIwyQ
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: why-measuring-individual-cycle-time-fails-to-help-teams
 aliases:
-- /resources/ZZGeHcnIwyQ
+  - /resources/ZZGeHcnIwyQ
 source: LinkedIn
 layout: signal
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Kanban
-- Lean
+  - Product Development
+  - Kanban
+  - Lean
 tags:
-- Team Performance
-- Operational Practices
-- Flow Efficiency
-- Software Development
-- Decision Making
-- Lead Time
-- Team Collaboration
-- Systems Thinking
-- Lean Principles
-- Organisational Physics
-- Throughput
-- Lean Thinking
-- Value Delivery
-- Pragmatic Thinking
-- Metrics and Learning
+  - Team Performance
+  - Operational Practices
+  - Flow Efficiency
+  - Software Development
+  - Decision Making
+  - Lead Time
+  - Team Collaboration
+  - Systems Thinking
+  - Lean Principles
+  - Organisational Physics
+  - Throughput
+  - Lean Thinking
+  - Value Delivery
+  - Pragmatic Thinking
+  - Metrics and Learning
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7306713296575885312
-  post_id: "7306713296575885312"
-  post_date: 2025-03-15T16:30:02Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7306713296575885312
+    post_id: "7306713296575885312"
+    post_date: 2025-03-15T16:30:02Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:09Z
   short_title: 2025-07-07T16:45:26Z
+  tldr: 2025-08-07T12:34:50Z
 
 ---
 I still see teams measuring individual cycle time as if that tells them anything useful. It doesn’t.

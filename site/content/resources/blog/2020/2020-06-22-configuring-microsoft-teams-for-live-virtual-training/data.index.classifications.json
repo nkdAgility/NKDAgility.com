@@ -231,12 +231,22 @@
     "level": "Ignored"
   },
   "Technical Excellence": {
+    "resourceId": "Xc0Lh3NbXfK",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T09:29:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, lacking a clear emphasis on engineering practices or methodologies that enhance software development and delivery processes.",
+    "calculated_at": "2025-09-05T03:31:34",
+    "ai_confidence": 7.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 2.0,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on step-by-step configuration of Microsoft Teams for virtual training, addressing administrative and usability setups (Azure AD, guest access, external identities), with no direct reference to technical excellence concepts such as TDD, CI/CD, modular architecture, or engineering practices. While the target audience (trainers using Microsoft Teams) may overlap with some technical practitioners, the article stays at the tool configuration and user enablement level, not discussing or even implying high-level technical excellence, software quality, or engineering principles. No depth or alignment with technical excellence key topics is present, and there are no direct or conceptual mentions. Minimal value for the assigned category.",
+    "reasoning_summary": "Content is a practical guide on Microsoft Teams setup for virtual classes, with no explicit or conceptual links to technical excellence or engineering practices. Focus is purely on tool admin/configuration, not high-level software quality topics.",
     "level": "Ignored"
   },
   "Product Delivery": {

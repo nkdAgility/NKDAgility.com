@@ -1342,12 +1342,22 @@
     "level": "Secondary"
   },
   "Kanban": {
+    "resourceId": "BDFrmCV_c68",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T09:06:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of pride in Agile, with a focus on assumptions and value delivery, but does not address Kanban principles or practices.",
+    "calculated_at": "2025-09-05T03:29:40",
+    "ai_confidence": 7.65,
+    "ai_mentions": 0.15,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.1,
+    "ai_intent": 0.6,
+    "ai_audience": 2.0,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content provides a general critique of pride within Agile teams but makes no mention of Kanban or its specific practices such as visualisation, WIP limits, or flow management. Core Kanban concepts are not discussed; neither are metrics unique to Kanban. The intended audience (Agile practitioners) could overlap with Kanban practitioners, but the discussion is not tailored to them, nor does it address themes unique to Kanban. There is no signal of practical, conceptual, or procedural discussion of Kanban; thus, confidence is extremely low.",
+    "reasoning_summary": "Content focuses on pride and data in Agile, not Kanban. No mention of Kanban concepts, terminology, or practices. Intent and themes do not fit the category, yielding a very weak confidence in Kanban relevance.",
     "level": "Ignored"
   },
   "Value Delivery": {

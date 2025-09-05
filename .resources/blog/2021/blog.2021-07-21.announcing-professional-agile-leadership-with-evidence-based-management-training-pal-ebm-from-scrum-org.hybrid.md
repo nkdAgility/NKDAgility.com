@@ -2,43 +2,51 @@
 title: Announcing Professional Agile Leadership with Evidence-Based Management Training  (PAL-EBM) from Scrum.org
 short_title: Professional Agile Leadership with EBM Training
 description: Learn about Scrum.org’s new PAL-EBM training, which helps leaders use evidence-based management and custom metrics to align teams with organisational vision and goals.
+tldr: Scrum.org is launching a new one-day Professional Agile Leadership with Evidence-Based Management (PAL-EBM) training and certification, designed to help leaders make decisions based on evidence rather than intuition. The course emphasizes creating custom metrics suited to each business context and highlights the importance of clearly communicating vision and strategic goals to all team members. Development managers should consider this training to improve alignment, measurement, and decision-making in their organizations.
 date: 2021-07-21
+lastmod: 2021-07-21
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: XuePm2RAZa0
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: announcing-professional-agile-leadership-with-evidence-based-management-training-pal-ebm-from-scrum-org
 aliases:
-- /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
-- /announcing-evidence-based-management-training-with-certification-from-scrum-org
-- /announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
-- /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
-- /resources/XuePm2RAZa0
-- /resources/blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
-- /resources/blog/announcing-professional-agile-leadership-with-evidence-based-management-training-pal-ebm-from-scrum.org
+  - /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
+  - /announcing-evidence-based-management-training-with-certification-from-scrum-org
+  - /announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
+  - /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
+  - /resources/XuePm2RAZa0
+  - /resources/blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
+  - /resources/blog/announcing-professional-agile-leadership-with-evidence-based-management-training-pal-ebm-from-scrum.org
 aliasesArchive:
-- /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
-- /announcing-evidence-based-management-training-with-certification-from-scrum-org
-- /announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
-- /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
-- /resources/blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
-- /announcing-professional-agile-leadership-with-evidence-based-management-training--(pal-ebm)-from-scrum-org
-- /blog/announcing-professional-agile-leadership-with-evidence-based-management-training--(pal-ebm)-from-scrum-org
-- /resources/blog/announcing-professional-agile-leadership-with-evidence-based-management-training-pal-ebm-from-scrum.org
+  - /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
+  - /announcing-evidence-based-management-training-with-certification-from-scrum-org
+  - /announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
+  - /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
+  - /resources/blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
+  - /announcing-professional-agile-leadership-with-evidence-based-management-training--(pal-ebm)-from-scrum-org
+  - /blog/announcing-professional-agile-leadership-with-evidence-based-management-training--(pal-ebm)-from-scrum-org
+  - /resources/blog/announcing-professional-agile-leadership-with-evidence-based-management-training-pal-ebm-from-scrum.org
 layout: blog
 concepts: []
 categories:
-- Leadership
-- Product Management
-- Scrum
+  - Leadership
+  - Product Management
+  - Scrum
 tags:
-- Evidence Based Leadership
-- Evidence Based Management
-- Decision Making
+  - Evidence Based Management
+  - Agile Strategy
+  - Evidence Based Leadership
+  - Decision Making
 Watermarks:
   description: 2025-05-07T13:14:55Z
   short_title: 2025-07-07T17:57:29Z
+  tldr: 2025-08-07T13:10:08Z
 ResourceImportId: 46257
 creator: Martin Hinshelwood
 resourceTypes: blog

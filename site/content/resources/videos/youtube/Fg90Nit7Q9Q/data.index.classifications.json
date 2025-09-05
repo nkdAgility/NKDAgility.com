@@ -277,12 +277,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "Fg90Nit7Q9Q",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T22:04:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without specific reference to Azure Pipelines or CI/CD practices.",
+    "calculated_at": "2025-09-05T03:30:50",
+    "ai_confidence": 1.46,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 3.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content focuses on aligning DevOps and software engineering teams using Scrum, emphasizing Agile values, transparency, and engineering excellence. Nowhere does it mention Azure Pipelines, CI/CD, or any Azure DevOps service. There are no references to build, release, deployment, pipeline configuration, or related tooling. The intent, audience, and message center around culture and process, not automation or technical implementation in Azure Pipelines. Therefore, fit is extremely low: it does not relate to the automation, technical, or specific scope of Azure Pipelines.",
+    "reasoning_summary": "No mention or discussion of Azure Pipelines, build/release automation, or CI/CD with Azure DevOps. Content is focused on agile team alignment and Scrum, not on automation or Azure tooling. Does not fit the Azure Pipelines category.",
     "level": "Ignored"
   },
   "Team Performance": {

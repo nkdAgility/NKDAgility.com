@@ -2,8 +2,14 @@
 title: Mindset Versus Philosophy
 short_title: Mindset vs Philosophy in Agile Language
 description: Explores how precise language and context shape transparency and understanding in Agile, highlighting why word choice matters for effective communication and collaboration.
+tldr: Simon Reindl and Martin Hinshelwood discuss how using precise and accurate language is crucial for transparency and effective communication in Agile environments. They emphasize that the words teams choose directly impact understanding and outcomes. Development managers should ensure their teams are clear and intentional with language to improve collaboration and results.
 date: 2024-02-22
+lastmod: 2024-02-22
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 author: MrHinsh
 ResourceId: G2XUaCtiq8w
 ResourceImport: false
@@ -11,15 +17,17 @@ ResourceType: podcast
 ResourceContentOrigin: Human
 slug: mindset-versus-philosophy
 aliases:
-- /resources/G2XUaCtiq8w
+  - /resources/G2XUaCtiq8w
 layout: podcast
 concepts: []
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:05:39Z
   short_title: 2025-07-07T17:49:39Z
+  tldr: 2025-08-07T12:52:32Z
 resourceTypes: podcast
 
 ---

@@ -4,8 +4,15 @@
       "title": "Detecting Agile BS",
       "short_title": "Detecting Agile BS",
       "description": "Guidance for identifying genuine agile software development in DoD projects, including key principles, warning signs, essential tools, and critical evaluation questions.",
+      "tldr": "Many projects claim to be agile but are not, so leaders should look for real user involvement, continuous feedback, automation, and cross-functional collaboration to spot genuine agile practices. Key signs of “agile BS” include lack of user interaction, manual processes where automation is possible, and siloed teams. Ask targeted questions about testing, automation, user feedback, and release cycles to verify true agile delivery and ensure teams can adapt based on user needs.",
       "date": "2024-09-17",
+      "lastmod": "2024-09-17",
       "weight": 360.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.5,
+        "changefreq": "weekly"
+      },
       "author": [
         "US DOD Defence Innovation Board"
       ],
@@ -34,6 +41,7 @@
       "tags": [
         "Customer Focus",
         "Software Development",
+        "Agile Values and Principles",
         "Operational Practices",
         "Product Delivery"
       ],
@@ -46,7 +54,8 @@
       },
       "Watermarks": {
         "description": "2025-05-07T12:58:02Z",
-        "short_title": "2025-07-07T16:40:40Z"
+        "short_title": "2025-07-07T16:40:40Z",
+        "tldr": "2025-08-07T12:45:53Z"
       },
       "resourceTypes": "guide",
       "image": "https://nkdagility.com/wp-content/uploads/2020/12/image-2.png",
@@ -59,11 +68,115 @@
   },
   {
     "FrontMatter": {
+      "title": "Kanban Guide for Scrum Teams",
+      "short_title": "Kanban Guide for Scrum Teams",
+      "description": "Explains how Scrum Teams can use Kanban practices to optimise workflow, track flow metrics, and enhance transparency, efficiency, and continuous improvement in product delivery.",
+      "tldr": "Combining Kanban with Scrum helps teams improve the flow of work, increase transparency, and make better use of feedback loops by tracking key metrics like work in progress, cycle time, work item age, and throughput. By visualizing workflow, limiting work in progress, actively managing tasks, and regularly inspecting and adapting processes, teams can deliver value more predictably and efficiently. Development managers should consider integrating Kanban practices into their Scrum teams to optimize delivery and continuously improve team performance.",
+      "date": "2024-09-17",
+      "lastmod": "2024-09-17",
+      "weight": 840.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.1,
+        "changefreq": "weekly"
+      },
+      "author": [
+        "Steve Porter",
+        "Yuval Yeret",
+        "Daniel Vacanti"
+      ],
+      "ResourceId": "Z3HzXH_nmmz",
+      "ResourceImport": false,
+      "ResourceType": "guides",
+      "ResourceContentOrigin": "Human",
+      "slug": "kanban-guide-for-scrum-teams",
+      "aliases": [
+        "/guides/Kanban-Guide-for-Scrum-Teams.html",
+        "/learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams",
+        "/resources/Z3HzXH_nmmz"
+      ],
+      "aliasesArchive": [
+        "/guides/Kanban-Guide-for-Scrum-Teams.html",
+        "/learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams"
+      ],
+      "layout": "guide",
+      "concepts": [
+        "Framework"
+      ],
+      "categories": [
+        "Product Development"
+      ],
+      "tags": [
+        "Definition of Workflow",
+        "Social Technologies",
+        "Service Level Expectation",
+        "Software Development",
+        "Flow Efficiency",
+        "Operational Practices",
+        "Metrics and Learning",
+        "Transparency",
+        "Value Delivery",
+        "Agile Frameworks",
+        "Empirical Process Control",
+        "Throughput",
+        "Cycle Time",
+        "Lean Principles",
+        "Scrum Team"
+      ],
+      "card": {
+        "button": {
+          "content": "Learn More"
+        },
+        "content": "Discover more about Kanban Guide for Scrum Teams and how it can help you in your Agile journey!",
+        "title": "Kanban Guide for Scrum Teams"
+      },
+      "Watermarks": {
+        "description": "2025-05-07T12:58:08Z",
+        "short_title": "2025-07-07T16:40:34Z",
+        "tldr": "2025-08-07T12:46:33Z"
+      },
+      "resourceTypes": "guide",
+      "references": [
+        {
+          "title": "The Kanban Guide for Scrum Teams on Scrum.org",
+          "url": "https://scrum.org/resources/kanban-guide-scrum-teams"
+        },
+        {
+          "title": "Work can flow across the Sprint boundary",
+          "url": "https://nkdagility.com/blog/work-can-flow-across-sprint-boundary/"
+        },
+        {
+          "title": "No Estimates and is it advisable for a Scrum Team to adopt it?",
+          "url": "https://nkdagility.com/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it/"
+        }
+      ],
+      "recommendedContent": [
+        {
+          "collection": "practices",
+          "path": "_practices/service-level-expectation-sle.md"
+        }
+      ],
+      "creator": "Martin Hinshelwood"
+    },
+    "BodyContent": "The flow-based perspective of [Kanban]({{< ref \"/categories/kanban\" >}}) can enhance and complement the [Scrum]({{< ref \"/categories/scrum\" >}}) framework and its implementation. Teams can add complementary Kanban practices whether they are just starting to use Scrum or have been using it all along. The Kanban Guide for Scrum Teams is the result of a collaboration between members of the Scrum.org community and leaders of the Kanban community. Together, they stand behind The Kanban Guide for Scrum Teams. It is their shared belief that professional [product development]({{< ref \"/categories/product-development\" >}}) practitioners can benefit from the application of Kanban together with Scrum.\n{: .lead}\n\n### Relation to the Scrum Guide\n\nThis guide does not replace or discount any part of The Scrum Guide. It is designed to enhance and expand the practices of Scrum. This guide assumes the reader is operating a process using the Scrum framework. Therefore, The Scrum Guide applies in its entirety.\n\n## Definition of Kanban\n\nKanban (n): a strategy for optimizing the flow of value through a process that uses a visual, work-in-progress limited pull system.\n\n## Kanban with Scrum Theory\n\n### Flow and Empiricism\n\nCentral to the definition of Kanban is the concept of flow. Flow is the movement of value throughout the product development system. Kanban optimizes flow by improving the overall efficiency, effectiveness, and predictability of a process. Optimizing flow in a Scrum context requires defining what flow means in Scrum. Scrum is founded on [empirical process control]({{< ref \"/tags/empirical-process-control\" >}}) theory, or empiricism. Key to empirical process control is the frequency of the [transparency]({{< ref \"/tags/transparency\" >}}), inspection, and adaptation cycle – which we can also describe as the [cycle time]({{< ref \"/tags/cycle-time\" >}}) through the feedback loop. When Kanban practices are applied to Scrum, they provide a focus on improving the flow through the feedback loop; optimizing transparency and the frequency of inspection and adaptation for both the product and the process.\n\n### The Basic Metrics of Flow\n\nThe four basic metrics of flow that Scrum Teams using Kanban need to track are as follows:\n\n- **Work in Progress (WIP)**: The number of work items started but not finished. Note the difference between the WIP metric and the policies a [Scrum Team]({{< ref \"/tags/scrum-team\" >}}) uses to limit WIP. The team can use the WIP metric to provide transparency about their progress towards reducing their WIP and improving their flow.\n- **Cycle Time**: The amount of elapsed time between when a work item starts and when a work item finishes.\n- **Work Item Age**: The amount of time between when a work item started and the current time. This applies only to items that are still in progress.\n- **[Throughput]({{< ref \"/tags/throughput\" >}})**: The number of work items finished per unit of time.\n\n### Little’s Law – The Key to Governing Flow\n\nA key tenet governing flow theory is Little’s Law, which is a guideline that establishes the following relationship:\n\n![Littles Law](https://nkdagility.com/wp-content/uploads/2020/11/naked-agility-littles-law.jpg)\n\nLittle’s Law reveals that in general, for a given process with a given throughput, the more things that you work on at any given time (on average), the longer it is going to take to finish those things (on average). If cycle times are too long, the first action Scrum Teams should consider is lowering WIP. Most of the other elements of Kanban are built upon the relationship between WIP and cycle time. Little’s Law also shows us how flow theory relies on empiricism by using flow metrics and data to gain transparency into the historical flow and then using that data to inform flow inspection and adaptation experiments.\n\n## Kanban Practices\n\nScrum Teams can achieve flow optimization by using the following four practices:\n\n- Visualization of the workflow\n- Limiting Work in Progress (WIP)\n- Active management of work items in progress\n- Inspecting and adapting the team’s definition of “Workflow”\n\n### Definition of “Workflow”\n\nThe four Kanban practices are enabled by the Scrum Team’s Definition of Workflow. This definition represents the Scrum Team members’ explicit understanding of what their policies are for following the Kanban practices. This shared understanding improves transparency and enables self-management. Note that the scope of the Definition of Workflow may span beyond the Sprint and the Sprint Backlog. For instance, a Scrum Team‘s Definition of Workflow may encompass flow inside and/or outside of the Sprint. Creating and adapting the Definition of Workflow is the accountability of the relevant roles on the Scrum Team as described in the Scrum Guide. No one outside of the Scrum Team should tell the Scrum Team how to define their Workflow.\n\n### Visualization of the Workflow – the Kanban Board\n\nVisualization using the Kanban board is the way the Scrum Team makes its Workflow transparent. The board’s configuration should prompt the right conversations at the right time and proactively suggest opportunities for improvement. Visualization should include the following:\n\n- Defined points at which the Scrum Team considers work to have started and to have finished.\n- A definition of the work items – the individual units of value (stakeholder value, knowledge value, process improvement value) that are flowing through the Scrum Team’s system (most likely [Product Backlog]({{< ref \"/tags/product-backlog\" >}}) items (PBIs)).\n- A definition of the workflow states that the work items flow through from start to finish (of which there must be at least one active state).\n- Explicit policies about how work flows through each state (which may include items from a Scrum Team’s [Definition of Done]({{< ref \"/tags/definition-of-done\" >}}) and pull policies between stages).\n- Policies for limiting Work in Progress (WIP).\n\n### Limiting Work in Progress (WIP)\n\nWork in Progress (WIP) refers to the work items the Scrum Team has started but has not yet finished. Scrum Teams using Kanban must explicitly limit the number of these work items in progress. A Scrum Team can explicitly limit WIP however they see fit but should stick to that limit once established. The primary effect of limiting WIP is that it creates a pull system. It is called a pull system because the team starts work (i.e. pulls) on an item only when it is clear that it has the capacity to do so. When the WIP drops below the defined limit, that is the signal to start new work. Note this is different from a push system, which demands that work starts on an item whenever it is requested. Limiting WIP helps flow and improves the Scrum Team’s self-management, focus, commitment, and collaboration.\n\n### Active Management of Work Items in Progress\n\nLimiting WIP is necessary to achieve flow, but it alone is not sufficient. The third practice to establish flow is the active management of work items in progress. Within the Sprint, this management by the Scrum Team can take several forms, including but not limited to the following:\n\n- Making sure that work items are only pulled into the Workflow at about the same rate that they leave the Workflow.\n- Ensuring work items aren’t left to age unnecessarily.\n- Responding quickly to blocked or queued work items as well those that are exceeding the team’s expected Cycle Time levels (See Service Level Expectation – SLE).\n\n### Service Level Expectation (SLE)\n\nA service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team’s Workflow. The Scrum Team uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations. The SLE itself has two parts: a range of elapsed days and a probability associated with that period (e.g., 85% of work items should be finished in eight days or less). The SLE should be based on the Scrum Team’s historical Cycle Time, and once calculated, the Scrum Team should make it transparent. If no historical Cycle Time data exists, the Scrum Team should make its best guess and then inspect and adapt once there is enough historical data to do a proper SLE calculation.\n\n### Inspect and Adapt the Definition of “Workflow”\n\nThe Scrum Team uses the existing Scrum events to inspect and adapt its Definition of Workflow, thereby helping to improve empiricism and optimizing the value the Scrum Team delivers. The following are aspects of the Definition of Workflow the Scrum Team might adopt:\n\n- **Visualization policies** – for example, Workflow states – either changing the actual Workflow or bringing more transparency to an area in which the team wants to inspect and adapt.\n- **How-we-work policies** – these can directly address an impediment. For example, adjusting WIP limits and SLEs or changing the batch size (how often items are pulled between states) can have a dramatic impact.\n\n## Flow-Based Events\n\nKanban in a Scrum context does not require any additional events to those outlined in The Scrum Guide. However, using a flow-based perspective and metrics in Scrum’s events strengthens Scrum’s empirical approach.\n\n### The Sprint\n\nThe Kanban complementary practices don’t invalidate the need for Scrum’s Sprint. The Sprint and its events provide opportunities for inspection and adaptation of both product and process. It’s a common misconception that teams can only deliver value once per Sprint. In fact, they must deliver value at least once per Sprint. Teams using Scrum with Kanban use the Sprint and its events as a feedback improvement loop by collaboratively inspecting and adapting their Definition of Workflow and flow metrics. Kanban practices can help Scrum Teams improve flow and create an environment where decisions are made just-in-time throughout the Sprint based on inspection and adaptation. In this environment, Scrum Teams rely on the Sprint Goal and close collaboration within the Scrum Team to optimize the value delivered in the Sprint\n\n### Sprint Planning\n\nA flow-based Sprint Planning meeting uses flow metrics as an aid for developing the Sprint Backlog. Reviewing historical throughput can help a Scrum Team understand their capacity for the next Sprint.\n\n### [Daily Scrum]({{< ref \"/tags/daily-scrum\" >}})\n\nA flow-based Daily Scrum focuses the Developers on doing everything they can to maintain consistent flow. While the goal of the Daily Scrum remains the same as outlined in The Scrum Guide, the meeting itself takes place around the Kanban board and focuses on where flow is lacking and on what actions the Developers can take to get it back. Additional things to consider during a flow-based Daily Scrum include the following:\nWhat work items are blocked and what can be done to get them unblocked?\nWhat work is flowing slower than expected? What is the Work Item Age of each item in progress? What work items have violated or are about to violate their SLE and what can the Scrum Team do to get that work completed?\nAre there any factors not represented on the board that may impact our ability to complete work today?\nHave we learned anything new that might change what the Scrum Team has planned to work on next?\nHave we broken our WIP limit? And what can we do to ensure we can complete the work in progress?\n\n### [Sprint Review]({{< ref \"/tags/sprint-review\" >}})\n\nThe Scrum Guide provides an outline of the Sprint Review. Inspecting Kanban flow metrics as part of the review can create opportunities for new conversations about monitoring progress towards the Product Goal. Reviewing Throughput can provide additional information when the [Product Owner]({{< ref \"/tags/product-owner\" >}}) discusses likely delivery dates.\n\n### Sprint Retrospective\n\nA flow-based Sprint Retrospective adds the inspection of flow metrics and analytics to help determine what improvements the Scrum Team can make to its processes. The Scrum Team using Kanban also inspects and adapts the Definition of Workflow to optimize the flow in the next Sprint. Using a cumulative flow diagram to visualize a Scrum Team’s WIP, approximate average Cycle Time and average Throughput can be valuable. In addition to the Sprint Retrospective, the Scrum Team should consider taking advantage of process inspection and adaptation opportunities as they emerge throughout the Sprint. Similarly, changes to a Scrum Team’s Definition of Workflow may happen at any time. Because these changes will have a material impact on how the Scrum Team performs, changes made during the regular cadence provided by the Sprint Retrospective event will reduce complexity and improve focus, commitment and transparency.\n\n### [Increment]({{< ref \"/tags/increment\" >}})\n\nScrum requires the team to create (at minimum) a valuable, useful Increment every Sprint. Scrum’s empiricism encourages the creation of multiple valuable increments during the Sprint to enable fast inspect and adapt feedback loops. Kanban helps manage the flow of these feedback loops more explicitly and allows the Scrum Team to identify bottlenecks, constraints, and impediments to enable this faster, more [continuous delivery]({{< ref \"/tags/continuous-delivery\" >}}) of value\nCheck our blog for more details\n",
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\guides\\kanban-guide-for-scrum-teams\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\guides\\kanban-guide-for-scrum-teams",
+    "ReferencePath": "resources/guides/kanban-guide-for-scrum-teams"
+  },
+  {
+    "FrontMatter": {
       "title": "Manifesto for Agile Software Development",
       "short_title": "Manifesto for Agile Software Development",
       "description": "Outlines core Agile values and principles for software development, emphasising collaboration, adaptability, working software, customer focus, and continuous improvement.",
+      "tldr": "Focus on delivering working software quickly by prioritizing people, collaboration, and adaptability over rigid processes and documentation. Encourage frequent releases, open communication, and continuous improvement to meet customer needs and respond to change. Empower teams and foster a culture of trust and reflection to drive better results.",
       "date": "2024-09-17",
+      "lastmod": "2024-09-17",
       "weight": 505.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.4,
+        "changefreq": "weekly"
+      },
       "author": [
         "Kent Beck",
         "Mike Beedle",
@@ -111,6 +224,7 @@
         "Software Development",
         "Value Delivery",
         "Working Software",
+        "Team Motivation",
         "Agile Frameworks",
         "Agile Planning",
         "Organisational Agility",
@@ -125,7 +239,8 @@
       },
       "Watermarks": {
         "description": "2025-05-07T12:58:11Z",
-        "short_title": "2025-07-07T16:40:34Z"
+        "short_title": "2025-07-07T16:40:34Z",
+        "tldr": "2025-08-07T12:46:01Z"
       },
       "resourceTypes": "guide",
       "references": [
@@ -147,8 +262,15 @@
       "title": "Nexus Guide",
       "short_title": "Nexus Guide: Scaling Scrum with Multiple Teams",
       "description": "Explains the Nexus framework for scaling Scrum with multiple teams, detailing roles, events, and artefacts to coordinate product delivery and manage cross-team dependencies.",
+      "tldr": "Nexus is a framework for scaling Scrum to coordinate three to nine teams working on a single product, focusing on minimizing dependencies and ensuring integrated delivery each Sprint. It adds a Nexus Integration Team, shared events, and artifacts like a single Product Backlog and Integrated Increment to maintain transparency and alignment across teams. Development managers should use Nexus to address cross-team challenges, improve integration, and maximize value without simply adding more people.",
       "date": "2024-09-17",
+      "lastmod": "2024-09-17",
       "weight": 750.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.2,
+        "changefreq": "weekly"
+      },
       "author": [
         "Ken Schwaber"
       ],
@@ -177,19 +299,19 @@
         "Product Development"
       ],
       "tags": [
+        "Product Delivery",
         "Increment",
         "Professional Scrum",
         "Agile Frameworks",
         "Scaling",
         "Software Development",
-        "Product Delivery",
         "Product Backlog",
+        "Working Software",
         "Empirical Process Control",
         "Social Technologies",
         "Transparency",
         "Value Delivery",
         "Large Scale Agility",
-        "Working Software",
         "Scrum Team",
         "Agile Transformation"
       ],
@@ -202,7 +324,8 @@
       },
       "Watermarks": {
         "description": "2025-05-07T12:58:25Z",
-        "short_title": "2025-07-07T16:40:33Z"
+        "short_title": "2025-07-07T16:40:33Z",
+        "tldr": "2025-08-07T12:46:29Z"
       },
       "resourceTypes": "guide",
       "references": [
@@ -240,100 +363,18 @@
   },
   {
     "FrontMatter": {
-      "title": "Kanban Guide for Scrum Teams",
-      "short_title": "Kanban Guide for Scrum Teams",
-      "description": "Explains how Scrum Teams can use Kanban practices to optimise workflow, track flow metrics, and enhance transparency, efficiency, and continuous improvement in product delivery.",
-      "date": "2024-09-17",
-      "weight": 840.0,
-      "author": [
-        "Steve Porter",
-        "Yuval Yeret",
-        "Daniel Vacanti"
-      ],
-      "ResourceId": "Z3HzXH_nmmz",
-      "ResourceImport": false,
-      "ResourceType": "guides",
-      "ResourceContentOrigin": "Human",
-      "slug": "kanban-guide-for-scrum-teams",
-      "aliases": [
-        "/guides/Kanban-Guide-for-Scrum-Teams.html",
-        "/learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams",
-        "/resources/Z3HzXH_nmmz"
-      ],
-      "aliasesArchive": [
-        "/guides/Kanban-Guide-for-Scrum-Teams.html",
-        "/learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams"
-      ],
-      "layout": "guide",
-      "concepts": [
-        "Framework"
-      ],
-      "categories": [
-        "Product Development"
-      ],
-      "tags": [
-        "Definition of Workflow",
-        "Service Level Expectation",
-        "Software Development",
-        "Flow Efficiency",
-        "Operational Practices",
-        "Metrics and Learning",
-        "Transparency",
-        "Value Delivery",
-        "Agile Frameworks",
-        "Empirical Process Control",
-        "Throughput",
-        "Cycle Time",
-        "Scrum Team",
-        "Pragmatic Thinking",
-        "Team Performance"
-      ],
-      "card": {
-        "button": {
-          "content": "Learn More"
-        },
-        "content": "Discover more about Kanban Guide for Scrum Teams and how it can help you in your Agile journey!",
-        "title": "Kanban Guide for Scrum Teams"
-      },
-      "Watermarks": {
-        "description": "2025-05-07T12:58:08Z",
-        "short_title": "2025-07-07T16:40:34Z"
-      },
-      "resourceTypes": "guide",
-      "references": [
-        {
-          "title": "The Kanban Guide for Scrum Teams on Scrum.org",
-          "url": "https://scrum.org/resources/kanban-guide-scrum-teams"
-        },
-        {
-          "title": "Work can flow across the Sprint boundary",
-          "url": "https://nkdagility.com/blog/work-can-flow-across-sprint-boundary/"
-        },
-        {
-          "title": "No Estimates and is it advisable for a Scrum Team to adopt it?",
-          "url": "https://nkdagility.com/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it/"
-        }
-      ],
-      "recommendedContent": [
-        {
-          "collection": "practices",
-          "path": "_practices/service-level-expectation-sle.md"
-        }
-      ],
-      "creator": "Martin Hinshelwood"
-    },
-    "BodyContent": "The flow-based perspective of [Kanban]({{< ref \"/categories/kanban\" >}}) can enhance and complement the [Scrum]({{< ref \"/categories/scrum\" >}}) framework and its implementation. Teams can add complementary Kanban practices whether they are just starting to use Scrum or have been using it all along. The Kanban Guide for Scrum Teams is the result of a collaboration between members of the Scrum.org community and leaders of the Kanban community. Together, they stand behind The Kanban Guide for Scrum Teams. It is their shared belief that professional [product development]({{< ref \"/categories/product-development\" >}}) practitioners can benefit from the application of Kanban together with Scrum.\n{: .lead}\n\n### Relation to the Scrum Guide\n\nThis guide does not replace or discount any part of The Scrum Guide. It is designed to enhance and expand the practices of Scrum. This guide assumes the reader is operating a process using the Scrum framework. Therefore, The Scrum Guide applies in its entirety.\n\n## Definition of Kanban\n\nKanban (n): a strategy for optimizing the flow of value through a process that uses a visual, work-in-progress limited pull system.\n\n## Kanban with Scrum Theory\n\n### Flow and Empiricism\n\nCentral to the definition of Kanban is the concept of flow. Flow is the movement of value throughout the product development system. Kanban optimizes flow by improving the overall efficiency, effectiveness, and predictability of a process. Optimizing flow in a Scrum context requires defining what flow means in Scrum. Scrum is founded on [empirical process control]({{< ref \"/tags/empirical-process-control\" >}}) theory, or empiricism. Key to empirical process control is the frequency of the [transparency]({{< ref \"/tags/transparency\" >}}), inspection, and adaptation cycle – which we can also describe as the [cycle time]({{< ref \"/tags/cycle-time\" >}}) through the feedback loop. When Kanban practices are applied to Scrum, they provide a focus on improving the flow through the feedback loop; optimizing transparency and the frequency of inspection and adaptation for both the product and the process.\n\n### The Basic Metrics of Flow\n\nThe four basic metrics of flow that Scrum Teams using Kanban need to track are as follows:\n\n- **Work in Progress (WIP)**: The number of work items started but not finished. Note the difference between the WIP metric and the policies a [Scrum Team]({{< ref \"/tags/scrum-team\" >}}) uses to limit WIP. The team can use the WIP metric to provide transparency about their progress towards reducing their WIP and improving their flow.\n- **Cycle Time**: The amount of elapsed time between when a work item starts and when a work item finishes.\n- **Work Item Age**: The amount of time between when a work item started and the current time. This applies only to items that are still in progress.\n- **[Throughput]({{< ref \"/tags/throughput\" >}})**: The number of work items finished per unit of time.\n\n### Little’s Law – The Key to Governing Flow\n\nA key tenet governing flow theory is Little’s Law, which is a guideline that establishes the following relationship:\n\n![Littles Law](https://nkdagility.com/wp-content/uploads/2020/11/naked-agility-littles-law.jpg)\n\nLittle’s Law reveals that in general, for a given process with a given throughput, the more things that you work on at any given time (on average), the longer it is going to take to finish those things (on average). If cycle times are too long, the first action Scrum Teams should consider is lowering WIP. Most of the other elements of Kanban are built upon the relationship between WIP and cycle time. Little’s Law also shows us how flow theory relies on empiricism by using flow metrics and data to gain transparency into the historical flow and then using that data to inform flow inspection and adaptation experiments.\n\n## Kanban Practices\n\nScrum Teams can achieve flow optimization by using the following four practices:\n\n- Visualization of the workflow\n- Limiting Work in Progress (WIP)\n- Active management of work items in progress\n- Inspecting and adapting the team’s definition of “Workflow”\n\n### Definition of “Workflow”\n\nThe four Kanban practices are enabled by the Scrum Team’s Definition of Workflow. This definition represents the Scrum Team members’ explicit understanding of what their policies are for following the Kanban practices. This shared understanding improves transparency and enables self-management. Note that the scope of the Definition of Workflow may span beyond the Sprint and the Sprint Backlog. For instance, a Scrum Team‘s Definition of Workflow may encompass flow inside and/or outside of the Sprint. Creating and adapting the Definition of Workflow is the accountability of the relevant roles on the Scrum Team as described in the Scrum Guide. No one outside of the Scrum Team should tell the Scrum Team how to define their Workflow.\n\n### Visualization of the Workflow – the Kanban Board\n\nVisualization using the Kanban board is the way the Scrum Team makes its Workflow transparent. The board’s configuration should prompt the right conversations at the right time and proactively suggest opportunities for improvement. Visualization should include the following:\n\n- Defined points at which the Scrum Team considers work to have started and to have finished.\n- A definition of the work items – the individual units of value (stakeholder value, knowledge value, process improvement value) that are flowing through the Scrum Team’s system (most likely [Product Backlog]({{< ref \"/tags/product-backlog\" >}}) items (PBIs)).\n- A definition of the workflow states that the work items flow through from start to finish (of which there must be at least one active state).\n- Explicit policies about how work flows through each state (which may include items from a Scrum Team’s [Definition of Done]({{< ref \"/tags/definition-of-done\" >}}) and pull policies between stages).\n- Policies for limiting Work in Progress (WIP).\n\n### Limiting Work in Progress (WIP)\n\nWork in Progress (WIP) refers to the work items the Scrum Team has started but has not yet finished. Scrum Teams using Kanban must explicitly limit the number of these work items in progress. A Scrum Team can explicitly limit WIP however they see fit but should stick to that limit once established. The primary effect of limiting WIP is that it creates a pull system. It is called a pull system because the team starts work (i.e. pulls) on an item only when it is clear that it has the capacity to do so. When the WIP drops below the defined limit, that is the signal to start new work. Note this is different from a push system, which demands that work starts on an item whenever it is requested. Limiting WIP helps flow and improves the Scrum Team’s self-management, focus, commitment, and collaboration.\n\n### Active Management of Work Items in Progress\n\nLimiting WIP is necessary to achieve flow, but it alone is not sufficient. The third practice to establish flow is the active management of work items in progress. Within the Sprint, this management by the Scrum Team can take several forms, including but not limited to the following:\n\n- Making sure that work items are only pulled into the Workflow at about the same rate that they leave the Workflow.\n- Ensuring work items aren’t left to age unnecessarily.\n- Responding quickly to blocked or queued work items as well those that are exceeding the team’s expected Cycle Time levels (See Service Level Expectation – SLE).\n\n### Service Level Expectation (SLE)\n\nA service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team’s Workflow. The Scrum Team uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations. The SLE itself has two parts: a range of elapsed days and a probability associated with that period (e.g., 85% of work items should be finished in eight days or less). The SLE should be based on the Scrum Team’s historical Cycle Time, and once calculated, the Scrum Team should make it transparent. If no historical Cycle Time data exists, the Scrum Team should make its best guess and then inspect and adapt once there is enough historical data to do a proper SLE calculation.\n\n### Inspect and Adapt the Definition of “Workflow”\n\nThe Scrum Team uses the existing Scrum events to inspect and adapt its Definition of Workflow, thereby helping to improve empiricism and optimizing the value the Scrum Team delivers. The following are aspects of the Definition of Workflow the Scrum Team might adopt:\n\n- **Visualization policies** – for example, Workflow states – either changing the actual Workflow or bringing more transparency to an area in which the team wants to inspect and adapt.\n- **How-we-work policies** – these can directly address an impediment. For example, adjusting WIP limits and SLEs or changing the batch size (how often items are pulled between states) can have a dramatic impact.\n\n## Flow-Based Events\n\nKanban in a Scrum context does not require any additional events to those outlined in The Scrum Guide. However, using a flow-based perspective and metrics in Scrum’s events strengthens Scrum’s empirical approach.\n\n### The Sprint\n\nThe Kanban complementary practices don’t invalidate the need for Scrum’s Sprint. The Sprint and its events provide opportunities for inspection and adaptation of both product and process. It’s a common misconception that teams can only deliver value once per Sprint. In fact, they must deliver value at least once per Sprint. Teams using Scrum with Kanban use the Sprint and its events as a feedback improvement loop by collaboratively inspecting and adapting their Definition of Workflow and flow metrics. Kanban practices can help Scrum Teams improve flow and create an environment where decisions are made just-in-time throughout the Sprint based on inspection and adaptation. In this environment, Scrum Teams rely on the Sprint Goal and close collaboration within the Scrum Team to optimize the value delivered in the Sprint\n\n### Sprint Planning\n\nA flow-based Sprint Planning meeting uses flow metrics as an aid for developing the Sprint Backlog. Reviewing historical throughput can help a Scrum Team understand their capacity for the next Sprint.\n\n### [Daily Scrum]({{< ref \"/tags/daily-scrum\" >}})\n\nA flow-based Daily Scrum focuses the Developers on doing everything they can to maintain consistent flow. While the goal of the Daily Scrum remains the same as outlined in The Scrum Guide, the meeting itself takes place around the Kanban board and focuses on where flow is lacking and on what actions the Developers can take to get it back. Additional things to consider during a flow-based Daily Scrum include the following:\nWhat work items are blocked and what can be done to get them unblocked?\nWhat work is flowing slower than expected? What is the Work Item Age of each item in progress? What work items have violated or are about to violate their SLE and what can the Scrum Team do to get that work completed?\nAre there any factors not represented on the board that may impact our ability to complete work today?\nHave we learned anything new that might change what the Scrum Team has planned to work on next?\nHave we broken our WIP limit? And what can we do to ensure we can complete the work in progress?\n\n### [Sprint Review]({{< ref \"/tags/sprint-review\" >}})\n\nThe Scrum Guide provides an outline of the Sprint Review. Inspecting Kanban flow metrics as part of the review can create opportunities for new conversations about monitoring progress towards the Product Goal. Reviewing Throughput can provide additional information when the [Product Owner]({{< ref \"/tags/product-owner\" >}}) discusses likely delivery dates.\n\n### Sprint Retrospective\n\nA flow-based Sprint Retrospective adds the inspection of flow metrics and analytics to help determine what improvements the Scrum Team can make to its processes. The Scrum Team using Kanban also inspects and adapts the Definition of Workflow to optimize the flow in the next Sprint. Using a cumulative flow diagram to visualize a Scrum Team’s WIP, approximate average Cycle Time and average Throughput can be valuable. In addition to the Sprint Retrospective, the Scrum Team should consider taking advantage of process inspection and adaptation opportunities as they emerge throughout the Sprint. Similarly, changes to a Scrum Team’s Definition of Workflow may happen at any time. Because these changes will have a material impact on how the Scrum Team performs, changes made during the regular cadence provided by the Sprint Retrospective event will reduce complexity and improve focus, commitment and transparency.\n\n### [Increment]({{< ref \"/tags/increment\" >}})\n\nScrum requires the team to create (at minimum) a valuable, useful Increment every Sprint. Scrum’s empiricism encourages the creation of multiple valuable increments during the Sprint to enable fast inspect and adapt feedback loops. Kanban helps manage the flow of these feedback loops more explicitly and allows the Scrum Team to identify bottlenecks, constraints, and impediments to enable this faster, more [continuous delivery]({{< ref \"/tags/continuous-delivery\" >}}) of value\nCheck our blog for more details\n",
-    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\guides\\kanban-guide-for-scrum-teams\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\guides\\kanban-guide-for-scrum-teams",
-    "ReferencePath": "resources/guides/kanban-guide-for-scrum-teams"
-  },
-  {
-    "FrontMatter": {
       "title": "The Scrum Guide",
       "short_title": "The Scrum Guide",
       "description": "A clear summary of Scrum’s framework, roles, events, artefacts, and values, explaining how teams use Scrum to deliver value and adapt to complex problems.",
+      "tldr": "The Scrum Guide defines Scrum as a lightweight, adaptable framework for teams to deliver value in complex environments by following clear roles, events, and artefacts. Key points include the importance of empiricism, transparency, and continuous inspection and adaptation, as well as the need for cross-functional, self-managing teams that embody values like commitment and respect. To get the full benefits, implement Scrum in its entirety, empower teams, and use its events and artefacts to drive regular improvement and value delivery.",
       "date": "2024-09-17",
+      "lastmod": "2024-09-17",
       "weight": 690.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.2,
+        "changefreq": "weekly"
+      },
       "author": [
         "Ken Schwaber",
         "Jeff Sutherland"
@@ -392,7 +433,8 @@
       },
       "Watermarks": {
         "description": "2025-05-07T12:58:15Z",
-        "short_title": "2025-07-07T16:40:32Z"
+        "short_title": "2025-07-07T16:40:32Z",
+        "tldr": "2025-08-07T12:48:34Z"
       },
       "resourceTypes": "guide",
       "downloads": [
@@ -476,8 +518,15 @@
       "title": "The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty",
       "short_title": "Evidence-Based Management Guide",
       "description": "A practical guide to Evidence-Based Management, showing how organisations use experiments, feedback, and key value areas to improve value delivery amid uncertainty.",
+      "tldr": "Evidence-Based Management (EBM) is a framework that helps organizations deliver more value under uncertainty by setting measurable goals, running experiments, and adapting based on evidence. It emphasizes focusing on customer outcomes rather than just activities or outputs, using four key value areas—Current Value, Unrealized Value, Ability to Innovate, and Time-to-Market—to guide improvement. Development managers should ensure teams form explicit hypotheses, measure results, and iteratively adjust goals and approaches to maximize sustainable value delivery.",
       "date": "2024-05-01",
+      "lastmod": "2024-05-01",
       "weight": 390.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.5,
+        "changefreq": "weekly"
+      },
       "author": [
         "Scrum.org"
       ],
@@ -511,14 +560,14 @@
         "Evidence Based Management",
         "Metrics and Learning",
         "Value Delivery",
+        "Social Technologies",
         "Agile Product Management",
         "Agile Strategy",
         "Business Agility",
         "Organisational Agility",
         "Product Strategy",
         "Software Development",
-        "Enterprise Agility",
-        "Common Goals"
+        "Enterprise Agility"
       ],
       "card": {
         "button": {
@@ -529,7 +578,8 @@
       },
       "Watermarks": {
         "description": "2025-05-07T12:57:55Z",
-        "short_title": "2025-07-07T16:40:37Z"
+        "short_title": "2025-07-07T16:40:37Z",
+        "tldr": "2025-08-07T12:51:42Z"
       },
       "resourceTypes": "guide",
       "recommendedContent": null,

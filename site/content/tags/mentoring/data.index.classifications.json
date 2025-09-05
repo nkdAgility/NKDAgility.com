@@ -114,17 +114,23 @@
     "level": "Secondary"
   },
   "Practice": {
+    "resourceId": "Mentoring",
     "category": "Practice",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 25,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses mentoring as a practice that enhances team performance and fosters a culture of continuous improvement, aligning well with the core themes of the 'Practice' category. It explicitly mentions the importance of guidance and support in agile environments, which directly relates to actionable techniques for improving team effectiveness. The depth of discussion is substantial, covering the long-term benefits of mentoring and its role in knowledge transfer and skill enhancement. However, while it is closely related to practices that improve team dynamics, it does not focus on specific actionable techniques like those listed in the key topics, which slightly lowers the overall confidence score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is a good fit for the 'Practice' category because it explores mentoring as a method to boost team performance and nurture ongoing improvement. It highlights the value of guidance in agile settings and discusses mentoring’s impact on knowledge sharing and skill growth, aligning with the category’s focus. However, it doesn’t delve into specific actionable techniques, which slightly limits its alignment."
+    "calculated_at": "2025-09-05T03:32:28",
+    "ai_confidence": 69.35,
+    "ai_mentions": 4.4,
+    "ai_alignment": 7.3,
+    "ai_depth": 8.1,
+    "ai_intent": 7.0,
+    "ai_audience": 7.8,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 69.0,
+    "reasoning": "The content deeply explores mentoring as a supportive, skill-building relationship, aligning with actionable improvement and team effectiveness. While not among the primary examples like pair programming or TDD, mentoring is a repeatable team development technique that fosters continuous improvement. The discussion centers on practical benefits such as knowledge transfer, psychological safety, and cultural embedding, which are in strong conceptual alignment with Practice. However, mentoring is framed more as an enabling environment or meta-practice than as a tangible, prescriptive action (e.g., daily stand-up), so 'Direct Mentions' is moderate. The content targets practitioners (agile professionals, leaders) and stays on-topic, exploring depth and outcomes, but lacks step-by-step technique breakdown. No penalties applied, as practices are current and positive in tone.",
+    "reasoning_summary": "Content gives an in-depth, actionable overview of mentoring as a development practice that encourages learning and team improvement. While less explicit than classic 'Practices,' it aligns well and is relevant, with solid, not perfect, conceptual fit.",
+    "level": "Secondary"
   },
   "Philosophy": {
     "resourceId": "Mentoring",

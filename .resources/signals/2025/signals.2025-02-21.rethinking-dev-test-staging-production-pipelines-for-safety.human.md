@@ -2,53 +2,60 @@
 title: Rethinking Dev-Test-Staging-Production Pipelines for Safety
 short_title: Rethinking Dev-Test-Staging Pipelines
 description: Explores why traditional Dev-Test-Staging-Production pipelines fall short and highlights audience-based deployment for safer, faster feedback in real production environments.
+tldr: Traditional Dev-Test-Staging-Production pipelines give a false sense of security because staging environments do not truly reflect production, leading to missed issues and wasted resources. Modern teams should focus on releasing to small user groups in production and using real feedback to guide rollouts. Consider shifting from heavy pre-release testing to faster, data-driven feedback in production to improve safety and efficiency.
 date: 2025-02-21T16:30:30+00:00
+lastmod: 2025-02-21T16:30:30+00:00
 weight: 210
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: 3oUXWDsN6Qa
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: rethinking-dev-test-staging-production-pipelines-for-safety
 aliases:
-- /resources/3oUXWDsN6Qa
+  - /resources/3oUXWDsN6Qa
 source: LinkedIn
 layout: signal
 concepts:
-- Practice
+  - Practice
 categories:
-- Engineering Excellence
-- Product Development
-- DevOps
+  - Engineering Excellence
+  - Product Development
+  - DevOps
 tags:
-- Pragmatic Thinking
-- Product Delivery
-- Software Development
-- Value Delivery
-- Frequent Releases
-- Deployment Strategies
-- Technical Mastery
-- Market Adaptability
-- Release Management
-- Continuous Delivery
-- Operational Practices
-- Product Validation
-- Metrics and Learning
-- Engineering Practices
-- Agentic Engineering
+  - Pragmatic Thinking
+  - Product Delivery
+  - Software Development
+  - Value Delivery
+  - Frequent Releases
+  - Deployment Strategies
+  - Technical Mastery
+  - Market Adaptability
+  - Continuous Delivery
+  - Release Management
+  - Operational Practices
+  - Product Validation
+  - Metrics and Learning
+  - Engineering Practices
+  - Agentic Engineering
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7298740880612446209
-  post_id: "7298740880612446209"
-  post_date: 2025-02-21T16:30:30Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7298740880612446209
+    post_id: "7298740880612446209"
+    post_date: 2025-02-21T16:30:30Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:49Z
   short_title: 2025-07-07T17:46:16Z
+  tldr: 2025-08-07T12:36:04Z
 
 ---
 For years, we convinced ourselves that Dev-Test-Staging-Production pipelines kept us safe. If we just had one more layer of validation and one more environment to test in, we'd catch the problems before they hit production.

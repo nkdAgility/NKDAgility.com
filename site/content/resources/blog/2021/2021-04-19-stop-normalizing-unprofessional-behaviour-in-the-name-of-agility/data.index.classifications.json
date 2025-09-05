@@ -1375,13 +1375,23 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "mqbD3iIhRg4",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-11T20:25:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses unprofessional behaviour in Agile practices rather than specific engineering methodologies or technical excellence principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:20",
+    "ai_confidence": 42.35,
+    "ai_mentions": 2.7,
+    "ai_alignment": 5.6,
+    "ai_depth": 5.2,
+    "ai_intent": 4.8,
+    "ai_audience": 8.2,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content focuses on the need for professionalism, competence, diligence, and ethical responsibility within agile/Scrum teams. It critiques unprofessional and anti-agile behaviors. While it tangentially touches on aspects required for technical excellence—such as the need for professional, competent work and the ability to have a usable increment every iteration—it does not explicitly discuss or deeply explore engineering practices (e.g., TDD, CI/CD, modular architecture, emergent design) or technical principles per se. The audience alignment and signal-to-noise ratio are relatively strong, as the post targets practitioners and highlights core issues for agile teams. However, the direct alignment and depth with respect to technical excellence as defined is moderate to low, as the main thrust is about behavior, professionalism, and ethics rather than specific technical practices. No penalties are applied as the content is not outdated and does not contradict the technical excellence framing.",
+    "reasoning_summary": "The content stresses professionalism and ethical conduct in agile teams, which partially overlaps with technical excellence, but lacks direct discussion of engineering practices or technical principles, making the category fit partial and indirect.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

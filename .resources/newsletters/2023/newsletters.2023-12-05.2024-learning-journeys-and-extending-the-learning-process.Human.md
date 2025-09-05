@@ -2,8 +2,14 @@
 title: 2024 Learning journeys and extending the learning process
 short_title: 2024 Learning Journeys and Extending Learning
 description: Discover immersive, outcome-focused Scrum and Agile training with flexible learning journeys, real-world assignments, and reflective sessions for continuous improvement.
+tldr: Immersive learning classes, especially the 8-week Professional Scrum Product Owner course, have received strong positive feedback from both participants and their managers. The new format breaks training into shorter, interactive sessions over several weeks, includes outcome-based assignments, and uses facilitated reflections to reinforce learning and real-world application. Managers can take advantage of bundled learning journeys and a 20 percent discount on all classes until March 2024 to upskill their teams effectively.
 date: 2023-12-05
+lastmod: 2023-12-05
 weight: 580
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 author: MrHinsh
 ResourceId: -wdSJlbQQbK
 ResourceImport: false
@@ -11,21 +17,22 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: 2024-learning-journeys-and-extending-the-learning-process
 aliases:
-- /newsletters/2024-learning-journeys-and-extending-the-learning-process/
-- /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
-- /resources/-wdSJlbQQbK
+  - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
+  - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
+  - /resources/-wdSJlbQQbK
 aliasesArchive:
-- /newsletters/2024-learning-journeys-and-extending-the-learning-process/
-- /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
+  - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
+  - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Continuous Learning
-- Pragmatic Thinking
+  - Continuous Learning
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:07:17Z
   short_title: 2025-07-07T17:51:19Z
+  tldr: 2025-08-07T12:55:47Z
 preview: naked-agility-technically-agile-1280×720-December2023.jpg
 resourceTypes: newsletter
 

@@ -247,12 +247,22 @@
     "level": "Ignored"
   },
   "Test Automation": {
+    "resourceId": "2Cy9MxXiiOo",
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T23:09:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:31:27",
+    "ai_confidence": 2.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.9,
+    "ai_intent": 0.6,
+    "ai_audience": 1.2,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content exclusively discusses the concept of Sprint Goals in Scrum, emphasizing its tactical and guiding role within a Sprint. There is no mention or substantive discussion of test automation, its principles, tools, practices, or its relevance in Agile or DevOps. No relevant keywords (automated testing, CI/CD, frameworks, etc.) appear, nor is there any implicit or conceptual link to automating testing activities. The intent, depth, and audience are focused purely on Scrum practitioners seeking process clarity, rather than automation practitioners. The small nonzero scores reflect only marginal relevance due to Agile context and workflow commonalities, not because of any substantive coverage of the Test Automation topic.",
+    "reasoning_summary": "Content is entirely about Scrum sprint goals, with no mention or conceptual alignment to Test Automation. Does not fit the category except by remote Agile context link. Fit is negligible.",
     "level": "Ignored"
   },
   "Technical Mastery": {

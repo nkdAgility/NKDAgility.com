@@ -28,6 +28,7 @@ aliasesArchive:
   - /training-courses/applying-professional-scrum-for-software-development-aps-sd-training-experience-with-certification-practices-for-scrum-teams-to-deliver-quality-software-frequently
   - /training-courses/scrum-training-courses/applying-professional-scrum-for-software-development-aps-sd-with-certification/
   - /capabilities/training-courses/Scrum.org/applying-professional-scrum-for-software-development-aps-sd-with-certification/
+type: course
 concepts:
   - Practice
 categories:
@@ -59,7 +60,6 @@ Watermarks:
   description: 2025-07-29T15:01:56Z
   tldr: 2025-08-08T11:40:35Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
   - Scrum Training Courses

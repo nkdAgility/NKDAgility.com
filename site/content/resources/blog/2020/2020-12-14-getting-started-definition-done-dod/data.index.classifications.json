@@ -1440,13 +1440,23 @@
     "level": "Ignored"
   },
   "Market Adaptability": {
+    "resourceId": "z18IcQhlD7I",
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-13T21:56:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Definition of Done in Scrum, focusing on quality and delivery processes rather than strategies for market adaptability.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:19",
+    "ai_confidence": 43.73,
+    "ai_mentions": 0.6,
+    "ai_alignment": 5.9,
+    "ai_depth": 3.7,
+    "ai_intent": 4.5,
+    "ai_audience": 7.3,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "The content focuses primarily on defining and implementing the Definition of Done (DoD) in Scrum for quality and transparency. It covers continuous improvement and iterative refinement, aligning somewhat with adaptability. However, there's little direct reference to market shifts, competitive pressures, or explicit Agile/DevOps-driven market responsiveness. The discussion is largely internal (team/process) and about quality management rather than broader organizational market adaptability. Some themes (continuous improvement, reflection, automation) are tangentially related, but the primary scope does not deeply target market adaptability per the provided definition.",
+    "reasoning_summary": "Content mainly addresses DoD within Scrum for quality; only indirectly touches on adaptability. Lacks focus on business-level market responsiveness. Partial, not strong, fit for Market Adaptability category.",
+    "level": "Tertiary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",

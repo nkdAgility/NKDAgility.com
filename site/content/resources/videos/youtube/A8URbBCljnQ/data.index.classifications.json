@@ -1064,12 +1064,22 @@
     "level": "Ignored"
   },
   "Miscellaneous": {
+    "resourceId": "A8URbBCljnQ",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-18T12:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile, Scrum, and DevOps concepts, referencing specific principles, practices, and methodologies, which do not align with the Miscellaneous category.",
+    "calculated_at": "2025-09-05T03:32:23",
+    "ai_confidence": 14.98,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.3,
+    "ai_intent": 2.5,
+    "ai_audience": 5.0,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 4.0,
+    "ai_penalty_details": "Mentions: -0.3 for direct Agile/Scrum references; Alignment: -0.6 for significant alignment with recognized Agile/Scrum practices; Depth: -0.6 for discussions entrenched in established frameworks; Intent: -0.5 for clearly applied Agile/Scrum methodology focus.",
+    "final_score": 15.0,
+    "reasoning": "The content is deeply tied to Agile and Scrum practices. It references Scrum explicitly, discusses integrating UX into Scrum teams, value delivery, team dynamics, dual track Agile, and engineering excellence—all of which map directly to established Agile frameworks. While the remote work discussion might seem general, it is always returned to an Agile/Scrum context. There is almost no part of the content that could be classified as truly 'Miscellaneous' per the definition: it neither strays from Agile/Scrum nor delivers tangential or anecdotal material lacking actionable connection. The rare parts not specifically focused on Agile, like tool selection anecdotes, still serve Agile practice. Therefore, all dimensions are scored very low except minor non-framework anecdotes. Several penalties are applied for extensive, explicit, and actionable use of Agile/Scrum principles.",
+    "reasoning_summary": "Content explicitly references Agile, Scrum, dual track, and UX integration in Scrum teams—fitting established frameworks. There is little to no 'Miscellaneous' material; the purpose and audience are directly aligned with Agile/Scrum.",
     "level": "Ignored"
   },
   "Scrum Team": {

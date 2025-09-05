@@ -320,13 +320,23 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "vI2LBfMkPuk",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T11:35:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on agile training and consultancy, without delving into core engineering practices such as clean code, TDD, or CI/CD.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:42",
+    "ai_confidence": 63.5,
+    "ai_mentions": 2.6,
+    "ai_alignment": 6.8,
+    "ai_depth": 7.1,
+    "ai_intent": 7.0,
+    "ai_audience": 7.6,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 64.0,
+    "reasoning": "The content centers on an experiential approach to teaching Scrum using Minecraft, focusing on teamwork, chaos, and agile mindsets. While it deeply discusses Scrum and agile learning, it does not directly cover engineering techniques like TDD, CI/CD, or clean code. The main purpose is to provide insights into Scrum's structure and the learner experience rather than discussing core Agile engineering practices. The audience is relevant—practitioners seeking Agile improvement—but the technical depth remains light, with minimal explicit references to software engineering principles or practices.",
+    "reasoning_summary": "The content focuses on Scrum experience, teamwork, and agile learning, with minimal coverage of engineering-specific practices like TDD, CI/CD, or clean code. It only partially fits the Engineering Practices category.",
+    "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",

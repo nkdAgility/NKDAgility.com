@@ -303,12 +303,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "2k1726k9zvg",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T10:22:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of Scrum Masters, which pertains to Agile methodologies rather than specific engineering practices like clean code, TDD, or CI/CD.",
+    "calculated_at": "2025-09-05T03:31:24",
+    "ai_confidence": 32.07,
+    "ai_mentions": 1.5,
+    "ai_alignment": 3.0,
+    "ai_depth": 3.2,
+    "ai_intent": 3.7,
+    "ai_audience": 7.0,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content centers on the distinction between newbie and professional Scrum Masters, focusing on accountability, value creation, mindset, and the essence of the Scrum Master role. However, it does not discuss specific engineering practices such as clean code, TDD, CI/CD, refactoring, automation, or pair programming. It lightly touches on continuous improvement in a team facilitation sense, but is otherwise focused on roles, professionalism, and team effectiveness rather than core software engineering practices. The primary audience is Agile/Scrum practitioners, which partially aligns, but the main topic and depth do not fit the category's strict definition.",
+    "reasoning_summary": "The content focuses on the Scrum Master role, accountability, and mindset, but does not address core Agile engineering practices like code quality or automation. Fit with Engineering Practices is partial and indirect, leading to a low confidence alignment.",
     "level": "Ignored"
   },
   "Test Driven Development": {

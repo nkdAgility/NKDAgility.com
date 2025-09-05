@@ -2,38 +2,45 @@
 title: Everyone has a disaster recovery plan—on paper
 short_title: Disaster Recovery Plans vs Real Resilience
 description: Most disaster recovery plans fail in practice due to overlooked dependencies and lack of real-world testing, leaving organisations vulnerable when outages occur.
+tldr: Many organizations have disaster recovery plans, but these often fail in real situations because critical dependencies are overlooked and not tested end to end. Successful drills can give a false sense of security if they do not include all essential systems, like authentication services. To ensure true resilience, regularly test your recovery process under real conditions and verify that all dependencies are restored and functional.
 date: 2025-05-14T15:30:37+01:00
+lastmod: 2025-05-14T15:30:37+01:00
 weight: 390
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: jgAmhaBbUlm
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: everyone-has-a-disaster-recovery-plan-on-paper
 aliases:
-- /resources/jgAmhaBbUlm
+  - /resources/jgAmhaBbUlm
 source: LinkedIn
 layout: signal
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Personal
-- Pragmatic Thinking
+  - Personal
+  - Pragmatic Thinking
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7328441618900918273
-  post_id: "7328441618900918273"
-  post_date: 2025-05-14T14:30:37Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7328441618900918273
+    post_id: "7328441618900918273"
+    post_date: 2025-05-14T14:30:37Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:46Z
   short_title: 2025-07-07T16:44:13Z
+  tldr: 2025-08-07T12:32:20Z
 
 ---
 Everyone has a disaster recovery plan—on paper.

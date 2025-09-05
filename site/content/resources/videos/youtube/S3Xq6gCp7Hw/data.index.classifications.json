@@ -261,12 +261,22 @@
     "level": "Tertiary"
   },
   "Azure Repos": {
+    "resourceId": "S3Xq6gCp7Hw",
     "category": "Azure Repos",
-    "calculated_at": "2025-02-12T02:16:36",
+    "calculated_at": "2025-09-05T03:31:39",
     "ai_confidence": 0,
-    "non_ai_confidence": 0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.0,
+    "ai_audience": 0.1,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a product owner in Agile and Scrum methodologies, with no mention of Azure Repos or related functionalities.",
+    "reasoning": "The content is exclusively focused on the impact and role of a skilled product owner within Agile/Scrum contexts. There is zero mention, either explicit or implicit, of Azure Repos, source control, versioning, branching strategies, pull requests, or any related DevOps practices. The themes, audience, and intent are all centered on product ownership and Agile best practices, not on repository management or Azure tooling. There are no elements relating even tangentially to Azure Repos, so the confidence of fit is appropriately zero.",
+    "reasoning_summary": "No mention or discussion of Azure Repos, source control, or any related tooling or practices. Content strictly focuses on Agile/Scrum product ownership. Fit with the 'Azure Repos' category is zero.",
     "level": "Ignored"
   },
   "Transparency": {

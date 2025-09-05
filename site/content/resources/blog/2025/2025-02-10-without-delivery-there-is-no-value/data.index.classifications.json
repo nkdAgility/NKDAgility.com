@@ -607,12 +607,22 @@
     "level": "Primary"
   },
   "Automated Testing": {
+    "resourceId": "UfdnQrxv5iF",
     "category": "Automated Testing",
-    "calculated_at": "2025-02-11T14:11:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of delivery and frequent releases in Agile and Scrum methodologies, focusing on the validation of assumptions and the costs of delayed delivery. Automated testing is not a central theme.",
+    "calculated_at": "2025-09-05T03:29:30",
+    "ai_confidence": 13.05,
+    "ai_mentions": 0.7,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.6,
+    "ai_intent": 1.8,
+    "ai_audience": 2.2,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content centers around the importance of delivery, frequent releases, feedback loops, and metrics such as Lead Time and MTTR in Agile and DevOps. However, it does not mention or discuss automated testing, its role, tools, types, or practices. While concepts like feedback, risk mitigation, and continuous improvement are referenced, they are in service of delivery frequency, not automated testing. The audience and purpose overlap slightly with those interested in automated testing, but the alignment is tangential at best. No penalties apply, as the content is current and not satirical.",
+    "reasoning_summary": "The content focuses on delivery frequency, feedback, and Agile/DevOps value realization, with no mention or discussion of automated testing. Fit for the automated testing category is minimal and very indirect.",
     "level": "Ignored"
   },
   "Site Reliability Engineering": {

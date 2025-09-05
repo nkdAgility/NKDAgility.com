@@ -23,6 +23,7 @@ aliasesArchive:
   - /training-courses/professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it
   - /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
   - /capabilities/training-courses/scrum.org/professional-scrum-master-psm-with-certification/
+type: course
 concepts:
   - Framework
 categories:
@@ -52,7 +53,6 @@ Watermarks:
   description: 2025-07-29T15:01:53Z
   tldr: 2025-08-08T11:40:33Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
   - Scrum Training Courses

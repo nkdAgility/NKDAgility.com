@@ -210,12 +210,22 @@
     "reasoning_summary": "This content is a strong fit for the category, as it directly addresses Azure DevOps migration services and references specific tools like the Azure DevOps data migration tool. While the focus is mainly on migration rather than broader platform features, the discussion is relevant and clearly tied to Azure DevOps, supporting a high confidence in its classification."
   },
   "Technical Excellence": {
+    "resourceId": "2Sal3OneFfo",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:15:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration services and tools related to Azure DevOps, lacking a focus on engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-05T03:28:56",
+    "ai_confidence": 36.31,
+    "ai_mentions": 1.1,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.7,
+    "ai_intent": 3.5,
+    "ai_audience": 7.0,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content is focused on migration strategy, tool choice, and ensuring data integrity when transitioning to Azure DevOps. It emphasizes collaboration, scalability, and planning. However, it lacks explicit discussion on technical excellence as high-level engineering practices (TDD, CI/CD, modular architecture, etc.). There is no direct mention or deep conceptual alignment with technical excellence; rather, the focus is on process logistics, productivity, and tool guidance. The audience matches (development teams/technical practitioners), and the content is mostly on-topic, but fits only tangentially with the target category.",
+    "reasoning_summary": "Content centers on project migration, collaboration, and process—not on core technical excellence practices or principles. Only a loose, partial fit; technical excellence is neither a main focus nor discussed in depth.",
     "level": "Ignored"
   },
   "Flow Efficiency": {

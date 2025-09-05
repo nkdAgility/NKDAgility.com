@@ -128,12 +128,22 @@
     "level": "Ignored"
   },
   "Employee Engagement": {
+    "resourceId": "sXmXT_MDXTo",
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-12T01:30:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses DevOps practices, tools, and processes without addressing employee motivation, commitment, or engagement.",
+    "calculated_at": "2025-09-05T03:28:56",
+    "ai_confidence": 21.925,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 1.7,
+    "ai_audience": 2.2,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content is focused on DevOps process optimization, technical practices, compliance, and tooling—not on strategies to motivate or engage employees. While there are brief mentions of 'ownership' and team empowerment, these references are framed in the context of improving delivery quality and process efficiency, not in the psychological or social terms expected for employee engagement. There are no explicit mentions of engagement, motivation, trust, recognition, feedback, or employee satisfaction. The intended audience appears to be technical managers and DevOps practitioners, with only tangential overlap with the engagement topic, yielding a low confidence score for classification under Employee Engagement.",
+    "reasoning_summary": "This content targets DevOps process improvements, not employee engagement. It briefly references 'ownership' but does not address motivation, team commitment, or other core engagement topics. Not a strong fit for this category.",
     "level": "Ignored"
   },
   "Product Management": {

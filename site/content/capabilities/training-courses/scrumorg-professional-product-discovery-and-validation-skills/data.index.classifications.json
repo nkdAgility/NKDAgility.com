@@ -523,12 +523,22 @@
     "level": "Tertiary"
   },
   "Engineering Practices": {
+    "resourceId": "-IePwtEoXdo",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T07:20:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product discovery and validation skills, which is outside the core principles of Agile engineering practices.",
+    "calculated_at": "2025-09-05T03:32:12",
+    "ai_confidence": 22.97,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.8,
+    "ai_intent": 3.4,
+    "ai_audience": 7.2,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content centers fully on product discovery and validation—focusing on experimentation, hypothesis testing, and decision-making—not on core Agile engineering practices like clean code, TDD, CI/CD, or automation. No direct mention or deep exploration of the 'Engineering Practices' category is present. The target audience overlaps somewhat with technical roles, and elements like hypothesis-driven development and metrics are tangentially technical, but the themes and intent are about product validation rather than software engineering practices. Signal is relatively high as the content is focused, but meaningful category alignment and topical depth are both low.",
+    "reasoning_summary": "Content mainly addresses discovery, validation, and experimentation—not Agile engineering practices. Overlap is minimal and indirect, so fit to 'Engineering Practices' is partial at best.",
     "level": "Ignored"
   },
   "Lean Principles": {

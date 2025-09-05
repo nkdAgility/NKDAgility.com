@@ -209,13 +209,23 @@
     "level": "Ignored"
   },
   "Employee Engagement": {
+    "resourceId": "ZVZEO1Ggihs",
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-25T12:08:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses leadership challenges in scaling organisations, focusing on processes and structures rather than employee engagement or motivation.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:20",
+    "ai_confidence": 60.0,
+    "ai_mentions": 1.0,
+    "ai_alignment": 7.0,
+    "ai_depth": 5.0,
+    "ai_intent": 6.0,
+    "ai_audience": 6.0,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 60.0,
+    "reasoning": "The content discusses leadership's role in scaling organizations, emphasizing empowering teams, decentralizing decision-making, and fostering leadership behaviors—key elements related to employee motivation and engagement. However, it does not explicitly mention or deeply explore engagement strategies or psychological aspects, resulting in moderate scores on depth and alignment.",
+    "reasoning_summary": "Focuses on leadership and organizational growth rather than specifically on motivating or engaging employees, making it a partial fit for Employee Engagement.",
+    "level": "Tertiary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",

@@ -2,8 +2,14 @@
 title: 'March 2023 NKDAgility: The magic of immersive classes'
 short_title: The Magic of Immersive Agile Learning
 description: Immersion programmes extend learning beyond the classroom, combining real-world practice, retrospectives, and expert guidance for deeper, more effective skill development.
+tldr: Traditional short-format Scrum training limits retention and real-world application, so NKDAgility is introducing Immersion Programs that spread learning over eight weeks with hands-on assignments, retrospectives, and ongoing trainer support. This approach helps participants immediately apply concepts at work, increases engagement, and leads to deeper, more practical learning outcomes. Development managers should consider Immersion Programs for teams needing sustained, actionable learning rather than condensed classroom sessions.
 date: 2023-03-01
-weight: 840
+lastmod: 2023-03-01
+weight: 685
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 author: MrHinsh
 ResourceId: Y8ySIcajwoP
 ResourceImport: false
@@ -11,22 +17,23 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: march-2023-nkdagility-the-magic-of-immersive-classes
 aliases:
-- /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
-- /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
-- /resources/Y8ySIcajwoP
+  - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+  - /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+  - /resources/Y8ySIcajwoP
 aliasesArchive:
-- /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
-- /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+  - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+  - /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
 layout: newsletter
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Continuous Learning
-- Pragmatic Thinking
+  - Continuous Learning
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:13:53Z
   short_title: 2025-07-07T17:56:36Z
+  tldr: 2025-08-07T13:07:58Z
 preview: naked-agility-technically-agile-1280×720-March2023.jpg
 resourceTypes: newsletter
 

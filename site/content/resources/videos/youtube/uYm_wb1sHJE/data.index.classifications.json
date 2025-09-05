@@ -1353,13 +1353,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "uYm_wb1sHJE",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T00:13:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:04",
+    "ai_confidence": 73.42,
+    "ai_mentions": 2.8,
+    "ai_alignment": 7.2,
+    "ai_depth": 7.5,
+    "ai_intent": 7.7,
+    "ai_audience": 7.1,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 73.0,
+    "reasoning": "The content focuses on the Sprint Review workshop in Agile, emphasizing stakeholder engagement, market alignment, and continuous improvement. It links Sprint Reviews to value delivery and adaptability, aligning moderately with business agility principles. However, the discussion is centered on a single Agile event (Sprint Review), not a broad organizational strategy or transformation. There is partial but not full coverage of core business agility themes—leadership, organization-wide agility, metrics, or tech's role are absent. The audience appears to be Agile practitioners and team leads, which moderately overlaps with the typical business agility audience but skews more practical than strategic/executive. The content is focused and relevant to adaptable value delivery, so signal-to-noise is moderate-high. Mentions of business agility are implied but not explicit.",
+    "reasoning_summary": "The content aligns partially with business agility by linking Sprint Reviews to adaptability and stakeholder value but focuses mostly on agile team practices rather than organization-wide agility. Fit is moderate, with some overlap to the category intent.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",

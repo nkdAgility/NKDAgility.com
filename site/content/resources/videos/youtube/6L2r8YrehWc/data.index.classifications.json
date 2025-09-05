@@ -352,13 +352,23 @@
     "level": "Secondary"
   },
   "Digital Transformation": {
+    "resourceId": "6L2r8YrehWc",
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T18:21:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and the influence of the Scrum Master, without a focus on digital technologies or business transformation.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:37",
+    "ai_confidence": 41.7,
+    "ai_mentions": 0.5,
+    "ai_alignment": 4.6,
+    "ai_depth": 5.3,
+    "ai_intent": 4.2,
+    "ai_audience": 5.1,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content deeply explores the role of the Scrum Master within agile teams, focusing on influence, trust, and non-hierarchical leadership. However, it does not mention digital transformation directly or frame its insights around the strategic adoption of digital technologies to drive business agility or innovation. The core discussion centers on leadership styles and agile practices rather than digital transformation initiatives, metrics, culture shifts driven by technology, or specific technologies enabling transformation. While the subject of agility aligns loosely with digital transformation's goals, there is little conceptual crossover regarding technology or strategic transformation at an organizational level—the fit is only partial and indirect.",
+    "reasoning_summary": "Focuses on Scrum Master leadership within agile teams, not digital transformation. Lacks mention of technology-driven change or business strategy, so fit to 'Digital Transformation' is minimal and indirect.",
+    "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",

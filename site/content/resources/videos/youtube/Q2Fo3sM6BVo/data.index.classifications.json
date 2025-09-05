@@ -205,12 +205,22 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "Q2Fo3sM6BVo",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Scrum framework, which is focused on Agile methodology rather than on the management of the software application's entire lifecycle.",
+    "calculated_at": "2025-09-05T03:31:05",
+    "ai_confidence": 31.47,
+    "ai_mentions": 1.7,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.5,
+    "ai_intent": 4.2,
+    "ai_audience": 5.1,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content comprehensively educates about Scrum's framework, values, roles, artifacts, and events, which are essential for Agile teams and project management. However, it does not directly address full Application Lifecycle Management (ALM): it lacks discussion of the application lifecycle stages (development, deployment, maintenance, retirement), ALM tools/frameworks, governance, compliance, or lifecycle metrics. The audience (Agile practitioners) partially overlaps with ALM's but the text's intent is Scrum education, not holistic ALM management. Mentions of change, adaptation, and flexibility touch tangentially on the ALM spirit but stay within Scrum’s operational sphere.",
+    "reasoning_summary": "The content is an in-depth Scrum overview, not about Application Lifecycle Management. While some Scrum elements relate to managing work, it lacks ALM’s focus on full application lifecycle, governance, tooling, or lifecycle metrics. Fit is partial at best.",
     "level": "Ignored"
   },
   "Remote Working": {

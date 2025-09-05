@@ -16,22 +16,11 @@ ResourceContentOrigin: human
 aliases:
   - /resources/KdeR9TbfRD_
 layout: list-single
+type: capabilities
 concepts: []
 categories:
   - Uncategorized
 tags: []
-card:
-  button:
-    content: Mentor Programs
-  title: Mentor Programs
-  content: Elevate your team's performance with our Private Corporate Training! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI.
-Watermarks:
-  description: 2025-07-29T15:02:00Z
-  short_title: 2025-07-29T15:02:01Z
-  tldr: 2025-08-08T11:40:47Z
-type: capabilities
-url: /capabilities/mentor-programs/
-icon: fa-people-arrows
 sections:
   - type: headline
     headline:
@@ -193,6 +182,17 @@ sections:
       - resources/videos/youtube/TCs2IxB118c
       - resources/videos/youtube/ZcMcVL7mNGU
       - resources/videos/youtube/EyqLSLHk_Ik
+card:
+  button:
+    content: Mentor Programs
+  title: Mentor Programs
+  content: Elevate your team's performance with our Private Corporate Training! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI.
+Watermarks:
+  description: 2025-07-29T15:02:00Z
+  short_title: 2025-07-29T15:02:01Z
+  tldr: 2025-08-08T11:40:47Z
+url: /capabilities/mentor-programs/
+icon: fa-people-arrows
 
 ---
 Our training courses are designed to equip your team with the skills and knowledge they need to excel in an Agile environment. We offer a variety of courses tailored to different roles, including Scrum Masters, Product Owners, and team members, with both immersive and traditional learning experiences.

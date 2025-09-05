@@ -213,12 +213,22 @@
     "level": "Secondary"
   },
   "Platform Engineering": {
+    "resourceId": "eK8YscAACnE",
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T14:29:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile concepts, specifically story points and velocity metrics, without a direct connection to platform engineering.",
+    "calculated_at": "2025-09-05T03:31:09",
+    "ai_confidence": 8.95,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.1,
+    "ai_audience": 2.1,
+    "ai_signal": 1.35,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is a critique of Agile metrics (story points, velocity) and advocates for more objective team measurement approaches (cycle time, throughput). There is no mention of platform engineering, internal platforms, IDPs, automation, or related practices. The entire discussion is situated within Agile process and team metrics with no explicit or implicit alignment to the discipline, tools, principles, or audiences described in the Platform Engineering category. None of the signals in the content points substantively to platformisation, platform self-service, or developer enablement via internal infrastructure.",
+    "reasoning_summary": "The content is focused entirely on Agile team metrics, with no mention of platform engineering principles, practices, or audiences. There is no conceptual or incidental fit to Platform Engineering; alignment is negligible.",
     "level": "Ignored"
   },
   "Agile Product Management": {

@@ -17,6 +17,7 @@ ResourceContentOrigin: human
 slug: okr-practitioner
 aliases:
   - /resources/JB8YQfj4tUY
+type: course
 concepts:
   - Framework
 categories:
@@ -24,26 +25,6 @@ categories:
 tags:
   - Objective Key Results
   - Common Goals
-Watermarks:
-  description: 2025-07-29T15:00:49Z
-  short_title: 2025-07-29T15:00:50Z
-  tldr: 2025-08-08T11:37:16Z
-creator: Martin Hinshelwood
-type: course
-url: /training-courses/okr-training-courses/:slug/
-course_topics:
-  - OKR Training Courses
-course_vendors:
-  - OKRMentors
-course_learning_experiences:
-  - Traditional
-delivery_audiences:
-  - Employees
-  - OKR Champions
-  - Team Leaders
-code: OMP
-course_proficiencies:
-  - beginner
 sections:
   - type: none
     title: OKR Practitioner
@@ -92,6 +73,25 @@ sections:
     title: Outcome
     content: |
       By the end of this course, you'll be confident in applying OKRs to improve alignment, increase focus, and support measurable progress in any team or organisation.
+Watermarks:
+  description: 2025-07-29T15:00:49Z
+  short_title: 2025-07-29T15:00:50Z
+  tldr: 2025-08-08T11:37:16Z
+creator: Martin Hinshelwood
+url: /training-courses/okr-training-courses/:slug/
+course_topics:
+  - OKR Training Courses
+course_vendors:
+  - OKRMentors
+course_learning_experiences:
+  - Traditional
+delivery_audiences:
+  - Employees
+  - OKR Champions
+  - Team Leaders
+code: OMP
+course_proficiencies:
+  - beginner
 
 ---
 # OKR Practitioner

@@ -1226,13 +1226,23 @@
     "level": "Ignored"
   },
   "Market Adaptability": {
+    "resourceId": "ZxDktQae10M",
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-11T21:21:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the capabilities and usage of VSTS Sync Migration Tools, with no discussion on market adaptability strategies or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:32:08",
+    "ai_confidence": 40.875,
+    "ai_mentions": 2.3,
+    "ai_alignment": 4.1,
+    "ai_depth": 3.0,
+    "ai_intent": 3.8,
+    "ai_audience": 5.2,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The article discusses VSTS sync migration tools for moving from TFS to VSTS, focusing on technical migration processes, tool setup, and community support. While Agile and DevOps are mentioned in context, the core discussion centers on migration logistics—not strategies or principles for market adaptability. There's no in-depth coverage on how these practices enable organizational responsiveness to market dynamics, customer centricity, or adaptation to competitive pressures. The content is mostly targeted toward technical practitioners managing migrations, not towards strategy, responding to market change, or enhancing resilience, leaving only weak conceptual alignment with Market Adaptability.",
+    "reasoning_summary": "Focuses on technical migration steps from TFS to VSTS with only minor references to Agile/DevOps. Lacks discussion of strategies that enable market adaptability. Only partial, tangential relevance to the category.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

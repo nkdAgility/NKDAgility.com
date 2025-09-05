@@ -209,16 +209,23 @@
     "level": "Secondary"
   },
   "Principle": {
+    "resourceId": "K0i7PIZARDw",
     "category": "Principle",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 30,
-    "final_score": 67.0,
-    "reasoning": "The content discusses principles related to Site Reliability Engineering (SRE), such as accountability, continuous improvement, and collaboration, which align with the principles of Agile and DevOps. However, it does not explicitly mention these principles or provide a detailed exploration of how they guide decision-making. The focus is more on the application of engineering principles rather than a thorough discussion of actionable principles.",
-    "level": "Secondary"
+    "calculated_at": "2025-09-05T03:32:30",
+    "ai_confidence": 89.53,
+    "ai_mentions": 7.9,
+    "ai_alignment": 9.5,
+    "ai_depth": 9.0,
+    "ai_intent": 8.6,
+    "ai_audience": 9.2,
+    "ai_signal": 8.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 90.0,
+    "reasoning": "The content deeply explores actionable principles foundational to SRE and DevOps, such as transparency, empiricism, self-management, continuous improvement, resilience, and value delivery. These are clearly linked to how teams operate and make decisions. It thoroughly distinguishes principles from abstract values and repeatedly describes how principles shape behavior (e.g., empowerment, learning from failure, automation). The main purpose is to educate practitioners and decision-makers about guiding rules for engineering reliability, with high relevance and minimal off-topic material. Audience alignment is strong, and the discussion is current. No penalties were applied; the signal remains high throughout.",
+    "reasoning_summary": "The content extensively discusses actionable SRE/DevOps principles—transparency, empiricism, resilience, empowerment—showing how these guide decision-making and team behavior. It clearly fits the Principle category with deep, purposeful alignment.",
+    "level": "Primary"
   },
   "Artifact": {
     "resourceId": "K0i7PIZARDw",

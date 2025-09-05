@@ -2,32 +2,40 @@
 title: Moving OneDrive for Business files to a different drive
 short_title: Move OneDrive for Business Files to New Drive
 description: Step-by-step guide to moving OneDrive for Business files to a different drive in Windows without re-downloading, freeing up space and preserving file sync and settings.
+tldr: If your OneDrive files are taking up too much space on your main drive, you can move them to another drive by unlinking your account, copying the files to the new location, and then relinking OneDrive to that folder. This avoids re-downloading large amounts of data and frees up significant space without risking your system recovery setup. Development managers should consider this approach to optimize storage and maintain system reliability for their teams.
 date: 2016-02-03
+lastmod: 2016-02-03
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: qgSgXAu_d6a
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: moving-onedrive-for-business-files-to-a-different-drive
 aliases:
-- /resources/qgSgXAu_d6a
+  - /resources/qgSgXAu_d6a
 aliasesArchive:
-- /blog/moving-onedrive-business-files-different-drive
-- /moving-onedrive-business-files-different-drive
-- /moving-onedrive-for-business-files-to-a-different-drive
-- /blog/moving-onedrive-for-business-files-to-a-different-drive
-- /resources/blog/moving-onedrive-business-files-different-drive
+  - /blog/moving-onedrive-business-files-different-drive
+  - /moving-onedrive-business-files-different-drive
+  - /moving-onedrive-for-business-files-to-a-different-drive
+  - /blog/moving-onedrive-for-business-files-to-a-different-drive
+  - /resources/blog/moving-onedrive-business-files-different-drive
 layout: blog
 concepts:
-- Method
+  - Method
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Windows
-- Install and Configuration
+  - Miscellaneous
+  - Windows
+  - Install and Configuration
 Watermarks:
   description: 2025-05-07T13:16:49Z
   short_title: 2025-07-07T17:59:01Z
+  tldr: 2025-08-07T13:24:22Z
 ResourceImportId: 11440
 creator: Martin Hinshelwood
 resourceTypes: blog

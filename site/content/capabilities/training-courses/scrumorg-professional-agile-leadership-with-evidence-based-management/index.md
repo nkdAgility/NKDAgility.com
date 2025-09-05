@@ -33,6 +33,7 @@ aliasesArchive:
   - /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
   - /capabilities/evidence-based-leadership/
   - /capabilities/training-courses/scrumorg-professional-agile-leadership-with-evidence-based-management
+type: course
 concepts:
   - Principle
 categories:
@@ -64,7 +65,6 @@ Watermarks:
   description: 2025-07-29T15:01:09Z
   tldr: 2025-08-08T11:37:34Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
   - Scrum Training Courses

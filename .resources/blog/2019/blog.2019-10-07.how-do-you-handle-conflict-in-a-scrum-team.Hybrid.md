@@ -2,39 +2,48 @@
 title: How do you handle conflict in a Scrum Team?
 short_title: Handling Conflict in Scrum Teams
 description: Guidance on resolving conflict in Scrum Teams, including facilitation techniques, escalation steps, and the Scrum Master's role in fostering healthy team dynamics.
+tldr: When conflict arises in a Scrum Team, first encourage the team to resolve it themselves and use facilitation techniques that ensure everyone is heard, such as structured group discussions. The Scrum Master should coach team members and escalate only if necessary, involving HR or considering team changes as a last resort. Focus on building conflict resolution skills within the team and iteratively adapt your approach to find the best solution.
 date: 2019-10-07
+lastmod: 2019-10-07
 weight: 610
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: xIWBb8Cy_Rv
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: how-do-you-handle-conflict-in-a-scrum-team
 aliases:
-- /resources/xIWBb8Cy_Rv
+  - /resources/xIWBb8Cy_Rv
 aliasesArchive:
-- /blog/how-do-you-handle-conflict-in-a-scrum-team
-- /how-do-you-handle-conflict-in-a-scrum-team
-- /how-do-you-handle-conflict-in-a-scrum-team-
-- /blog/how-do-you-handle-conflict-in-a-scrum-team-
-- /resources/blog/how-do-you-handle-conflict-in-a-scrum-team
+  - /blog/how-do-you-handle-conflict-in-a-scrum-team
+  - /how-do-you-handle-conflict-in-a-scrum-team
+  - /how-do-you-handle-conflict-in-a-scrum-team-
+  - /blog/how-do-you-handle-conflict-in-a-scrum-team-
+  - /resources/blog/how-do-you-handle-conflict-in-a-scrum-team
 layout: blog
 concepts:
-- Method
+  - Method
 categories:
-- Scrum
-- Technical Leadership
+  - Scrum
+  - Leadership
+  - Technical Leadership
 tags:
-- Team Performance
-- Scrum Team
-- Software Development
-- Liberating Structures
-- Professional Scrum
-- Team Collaboration
-- Scrum Master
-- Pragmatic Thinking
+  - Team Performance
+  - Scrum Team
+  - Software Development
+  - Liberating Structures
+  - Professional Scrum
+  - Team Collaboration
+  - Scrum Master
+  - Pragmatic Thinking
+  - Team Motivation
 Watermarks:
   description: 2025-05-07T13:16:07Z
   short_title: 2025-07-07T17:58:24Z
+  tldr: 2025-08-07T13:12:56Z
 ResourceImportId: 39851
 creator: Martin Hinshelwood
 resourceTypes: blog

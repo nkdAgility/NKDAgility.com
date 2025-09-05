@@ -21,6 +21,7 @@ aliases:
 aliasesArchive:
   - /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
   - /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
+type: course
 concepts:
   - Method
 categories:
@@ -41,7 +42,6 @@ Watermarks:
   short_title: 2025-07-29T15:01:00Z
   tldr: 2025-08-08T11:37:26Z
 creator: Martin Hinshelwood
-type: course
 url: 
 course_topics:
   - Kanban Training Courses

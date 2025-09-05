@@ -1307,12 +1307,22 @@
     "level": "Ignored"
   },
   "Azure DevOps": {
+    "resourceId": "221BbTUqw7Q",
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T11:54:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum principles and practices without any mention of Azure DevOps.",
+    "calculated_at": "2025-09-05T03:29:27",
+    "ai_confidence": 1.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 1.0,
+    "ai_intent": 1.2,
+    "ai_audience": 2.3,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content exclusively discusses Scrum frameworks, personal learning from an APS immersive course, and best practices for Scrum teams. There is no mention—direct or implied—of Azure DevOps, its features, workflows, integrations, or comparative context. The main audience is Scrum practitioners interested in deepening their process understanding, not specifically Azure DevOps users. No relevant concepts or practices are explored that relate to Azure DevOps, CI/CD, Microsoft’s platforms, or related tooling. All sections, intent, and examples are confined to Scrum methodology and the APS course experience, making category fit minimal to nonexistent.",
+    "reasoning_summary": "Content is entirely focused on Scrum and APS, with zero reference to Azure DevOps. It does not match the intent, topic, or core dimensions of the Azure DevOps category.",
     "level": "Ignored"
   },
   "Business Agility": {

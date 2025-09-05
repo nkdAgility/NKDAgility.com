@@ -1339,12 +1339,22 @@
     "level": "Secondary"
   },
   "Kanban": {
+    "resourceId": "v1sMbKpQndU",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T00:09:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:31:01",
+    "ai_confidence": 8.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.3,
+    "ai_audience": 0.4,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses exclusively on the roles of Scrum Masters and Agile coaching, with no explicit or implied discussion of Kanban principles, boards, WIP limits, or Kanban-specific metrics. Kanban is neither mentioned nor alluded to, and the topics (Scrum, Agile leadership, coaching) are outside the Kanban category's scope. The audience is Agile practitioners, but not in a Kanban context. All dimensions score extremely low due to complete lack of Kanban relevance.",
+    "reasoning_summary": "Content is about Agile coaching and Scrum Master roles, not about Kanban. No mentions or conceptual overlap with Kanban methodology, practices, or principles; fit is essentially nonexistent.",
     "level": "Ignored"
   },
   "Value Delivery": {

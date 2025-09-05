@@ -247,16 +247,23 @@
     "level": "Ignored"
   },
   "Discipline": {
+    "resourceId": "Throughput",
     "category": "Discipline",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses throughput as a metric for measuring work efficiency, which indirectly relates to discipline in terms of maintaining structured workflows and continuous improvement. However, it does not explicitly focus on discipline itself, leading to a lower confidence score. The depth of discussion is substantial, providing insights into how throughput can be used for empirical inspection and decision-making, but the core theme of discipline is not the primary focus.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:47",
+    "ai_confidence": 46.862,
+    "ai_mentions": 1.4,
+    "ai_alignment": 5.3,
+    "ai_depth": 5.8,
+    "ai_intent": 5.0,
+    "ai_audience": 8.3,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "The content explains throughput as a delivery metric and discusses its use in Agile and Lean contexts for continuous improvement and flow analysis. However, it focuses primarily on the metric as a technique/tool, with only brief references to its application within broader disciplines. It does not delve into the established principles, governance, or evolution of Agile/Lean as disciplines. The audience is well-aligned (practitioners/teams), and the tone is appropriate. However, conceptual alignment and depth are partial: the material is relevant but tool-centric, lacking a systemic or disciplinary focus, thus resulting in a mid-level confidence score.",
+    "reasoning_summary": "The content is tool-focused, describing throughput’s role in process improvement, with only limited connection to discipline as defined. Fit with the category is partial due to a lack of discussion of systemic principles or the maturation of disciplines.",
+    "level": "Tertiary"
   },
   "Lean Principles": {
     "resourceId": "Throughput",

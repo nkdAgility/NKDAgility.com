@@ -4,8 +4,15 @@
       "title": "Access denied for orchestration plan on Build",
       "short_title": "Access Denied for Orchestration Plan on Build",
       "description": "Explains how to resolve TFS build errors caused by missing write permissions for the Project Collection Build Service on orchestration plans, including permission setup steps.",
+      "tldr": "When setting up a TFS build agent for a high-volume customer, a permissions error blocked builds because the \"Project Collection Build Service\" lacked write access to the orchestration plan. The issue is tied to permission inheritance and a known bug in TFS 2015 RTM, and can be fixed by ensuring both \"Project Build Service\" and \"Project Collection Build Service\" have inherited permissions on build definitions via Visual Studio. Development managers should verify these permissions to avoid similar build failures and streamline onboarding to new build systems.",
       "date": "2015-12-16",
+      "lastmod": "2015-12-16",
       "weight": 660.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.2,
+        "changefreq": "weekly"
+      },
       "ResourceId": "l331AonWBuN",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -30,7 +37,6 @@
       ],
       "tags": [
         "Software Development",
-        "Azure DevOps",
         "Azure Pipelines",
         "Troubleshooting",
         "Install and Configuration",
@@ -41,7 +47,8 @@
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:54Z",
-        "short_title": "2025-07-07T17:59:05Z"
+        "short_title": "2025-07-07T17:59:05Z",
+        "tldr": "2025-08-07T13:24:31Z"
       },
       "ResourceImportId": 11411,
       "creator": "Martin Hinshelwood",
@@ -58,8 +65,15 @@
       "title": "The High of Release",
       "short_title": "Microsoft Web-Based Release Management",
       "description": "Overview of Microsoft’s new web-based Release Management tools for building flexible, integrated DevOps pipelines in VSTS and TFS, supporting diverse deployment options.",
+      "tldr": "Microsoft’s new web-based Release Management tools let teams build flexible, integrated release pipelines in VSTS or TFS without being locked into specific deployment tools. The focus is on orchestration and integration, allowing you to use your preferred technologies like Chef, Puppet, Docker, or PowerShell. These tools are now in public preview, so consider evaluating them to streamline your release process and support cloud or on-premises deployments.",
       "date": "2015-12-05",
-      "weight": 480.0,
+      "lastmod": "2015-12-05",
+      "weight": 430.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.5,
+        "changefreq": "weekly"
+      },
       "ResourceId": "akntzjbRQe2",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -78,15 +92,19 @@
         "Tool"
       ],
       "categories": [
+        "Engineering Excellence",
         "DevOps"
       ],
       "tags": [
+        "Product Delivery",
         "Release Management",
+        "Azure Pipelines",
         "Software Development"
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:55Z",
-        "short_title": "2025-07-07T17:59:06Z"
+        "short_title": "2025-07-07T17:59:06Z",
+        "tldr": "2025-08-07T13:24:33Z"
       },
       "ResourceImportId": 11398,
       "creator": "Martin Hinshelwood",

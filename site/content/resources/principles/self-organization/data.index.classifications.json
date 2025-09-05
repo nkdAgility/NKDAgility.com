@@ -1331,13 +1331,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "eyXbQF80i4R",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T21:10:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:57",
+    "ai_confidence": 41.1,
+    "ai_mentions": 0.7,
+    "ai_alignment": 4.5,
+    "ai_depth": 3.8,
+    "ai_intent": 4.1,
+    "ai_audience": 4.7,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content focuses on self-organization within Scrum teams, explaining team autonomy and the role of the Scrum Master. While these are factors that can contribute to business agility, the discussion is narrowly centered on a Scrum practice and does not explicitly connect to larger business agility themes such as organizational adaptability, leadership, broader agile transformations, or business-level outcomes. There is minimal direct reference to business agility principles or terminology. The audience appears to be Scrum practitioners, which only partially overlaps with business agility stakeholders.",
+    "reasoning_summary": "The content narrowly discusses team self-organization in Scrum, a relevant but not sufficient factor for business agility. It lacks broader exploration of business agility, and gives only partial conceptual and audience alignment.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",

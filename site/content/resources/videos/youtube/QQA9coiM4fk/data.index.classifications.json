@@ -1384,13 +1384,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "QQA9coiM4fk",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T03:05:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on DevOps consulting and related practices, without a clear emphasis on the stages or methodologies specific to Application Lifecycle Management.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:01",
+    "ai_confidence": 46.6,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.1,
+    "ai_depth": 4.3,
+    "ai_intent": 4.9,
+    "ai_audience": 6.1,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "Direct reference to Application Lifecycle Management (ALM) is absent. The content focuses on DevOps consulting: cultural change, process improvement, and tooling (Azure DevOps, Jira, Jenkins), which are partially relevant to ALM but not foregrounded as lifecycle management. The strongest overlap is in mentioning continuous delivery and change processes but there is no substantial discussion of ALM's lifecycle stages, ALM-specific governance, risk, or metrics. The intent and audience could map to ALM practitioners, but the narrative remains on DevOps transformation itself, not overall application management. Scoring reflects low direct mention, moderate conceptual and audience overlap, and limited depth on ALM per se.",
+    "reasoning_summary": "Content focuses on DevOps consulting, touching process, culture, and tools. While partially relevant to ALM, it lacks explicit, deep discussion of full application lifecycle management. Only a moderate fit given tangent alignment.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

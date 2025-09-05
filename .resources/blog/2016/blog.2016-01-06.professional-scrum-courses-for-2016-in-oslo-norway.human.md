@@ -2,32 +2,39 @@
 title: Professional Scrum Courses for 2016 in Oslo, Norway
 short_title: Professional Scrum Courses 2016 Oslo Norway
 description: Details 2016 Professional Scrum Master and Developer courses in Oslo and Kongsberg, covering advanced Scrum, coaching, DevOps, and Agile practices for teams and organisations.
+tldr: Recent Professional Scrum Master and Developer courses in Norway have been highly successful, attracting participants from top companies and leading to additional sessions being scheduled in Oslo and Kongsberg. The Scrum Master course focuses on advanced skills for experienced practitioners, while the Developer course emphasizes practical DevOps and Agile practices using Microsoft tools. Development managers should consider enrolling their teams to enhance Scrum mastery and technical delivery capabilities.
 date: 2016-01-06
-weight: 480
+lastmod: 2016-01-06
+weight: 360
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: gS7et381AGm
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: professional-scrum-courses-for-2016-in-oslo-norway
 aliases:
-- /resources/gS7et381AGm
+  - /resources/gS7et381AGm
 aliasesArchive:
-- /blog/professional-scrum-courses-2016-oslo-norway
-- /professional-scrum-courses-2016-oslo-norway
-- /professional-scrum-courses-for-2016-in-oslo,-norway
-- /blog/professional-scrum-courses-for-2016-in-oslo,-norway
-- /professional-scrum-courses-for-2016-in-oslo--norway
-- /blog/professional-scrum-courses-for-2016-in-oslo--norway
-- /resources/blog/professional-scrum-courses-2016-oslo-norway
+  - /blog/professional-scrum-courses-2016-oslo-norway
+  - /professional-scrum-courses-2016-oslo-norway
+  - /professional-scrum-courses-for-2016-in-oslo,-norway
+  - /blog/professional-scrum-courses-for-2016-in-oslo,-norway
+  - /professional-scrum-courses-for-2016-in-oslo--norway
+  - /blog/professional-scrum-courses-for-2016-in-oslo--norway
+  - /resources/blog/professional-scrum-courses-2016-oslo-norway
 layout: blog
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:16:52Z
   short_title: 2025-07-07T17:59:04Z
+  tldr: 2025-08-07T13:24:28Z
 ResourceImportId: 11426
 creator: Martin Hinshelwood
 resourceTypes: blog

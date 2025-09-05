@@ -982,12 +982,22 @@
     "level": "Ignored"
   },
   "Psychological Safety": {
+    "resourceId": "5bgcpPqcGlw",
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-18T12:23:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on site reliability and operational practices within Azure DevOps, with little to no discussion on psychological safety as a central theme.",
+    "calculated_at": "2025-09-05T03:31:15",
+    "ai_confidence": 21.55,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 3.0,
+    "ai_audience": 6.5,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "This content primarily discusses site reliability, transparency, automation, telemetry, and DevOps culture, but does not explicitly mention psychological safety or its core concepts (e.g., risk-taking without fear, safe expression of ideas, or team emotional safety). While 'transparency' and 'culture' are briefly discussed, these references are general and relate far more to customer trust and operational reliability than to psychological safety within teams. The content targets technical practitioners and leaders, but the main focus is not on the dynamics, strategies, or importance of psychological safety. There are no discussions of the leader’s role in fostering safety, employee engagement impact, or techniques for psychological safety specifically. Any partial alignment is incidental to broader cultural themes, not the unique aspects of psychological safety.",
+    "reasoning_summary": "Content briefly touches on culture and transparency, but lacks direct discussion or depth on psychological safety. It is focused on site reliability and DevOps practices, making fit with the psychological safety category tangential at best.",
     "level": "Ignored"
   },
   "Troubleshooting": {

@@ -647,12 +647,22 @@
     "level": "Ignored"
   },
   "Customer Retention": {
+    "resourceId": "jUM-1XnARoT",
     "category": "Customer Retention",
-    "calculated_at": "2025-02-18T00:48:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on training and certification for Scrum Product Owners, which does not directly address customer retention strategies.",
+    "calculated_at": "2025-09-05T03:31:18",
+    "ai_confidence": 36.61,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.8,
+    "ai_depth": 3.7,
+    "ai_intent": 4.0,
+    "ai_audience": 5.8,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content centers on Agile product ownership, value delivery, and stakeholder engagement, but does not directly or deeply address customer retention strategies. There are brief mentions of customer engagement and value, yet the material is focused on skill-building for product owners via Scrum methodology. No explicit discussion of measuring customer satisfaction, gathering feedback, retention metrics, or long-term engagement practices; these elements are only implied or tangential. The audience (product leaders/practitioners) aligns moderately with customer retention topics, but direct applicability is limited.",
+    "reasoning_summary": "While the course mentions value, engagement, and empirical approaches, it does not specifically cover customer retention strategies. Customer Retention fit is weak and mostly tangential, with some indirect connections through product value and engagement.",
     "level": "Ignored"
   },
   "Continuous Delivery": {

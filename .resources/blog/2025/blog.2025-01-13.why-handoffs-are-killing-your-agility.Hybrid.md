@@ -2,51 +2,58 @@
 title: Why Handoffs Are Killing Your Agility
 short_title: Why Handoffs Are Killing Your Agility
 description: Excessive handoffs in software development create delays, reduce quality, and harm team morale. Learn how eliminating handoffs boosts agility, flow, and value delivery.
+tldr: Excessive handoffs between siloed teams slow delivery, reduce quality, and undermine team morale, making true agility impossible. Key issues include loss of context, increased cycle time, and lower accountability, all of which compound to hurt value delivery. To improve, reorganise into cross-functional teams, automate workflows, limit work in progress, and regularly remove outdated processes to streamline flow and boost team effectiveness.
 date: 2025-01-13
+lastmod: 2025-01-13
 weight: 230
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: pDvDdIEi9sj
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: why-handoffs-are-killing-your-agility
 aliases:
-- /resources/pDvDdIEi9sj
-- /why-handoffs-are-killing-your-agility
-- /blog/why-handoffs-are-killing-your-agility
+  - /resources/pDvDdIEi9sj
+  - /why-handoffs-are-killing-your-agility
+  - /blog/why-handoffs-are-killing-your-agility
 aliasesArchive:
-- /why-handoffs-are-killing-your-agility
-- /blog/why-handoffs-are-killing-your-agility
+  - /why-handoffs-are-killing-your-agility
+  - /blog/why-handoffs-are-killing-your-agility
 layout: blog
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Product Development
-- Lean
-- Engineering Excellence
+  - Product Development
+  - Lean
+  - Engineering Excellence
 tags:
-- Operational Practices
-- Pragmatic Thinking
-- Software Development
-- Business Agility
-- Market Adaptability
-- Cross Functional Teams
-- Flow Efficiency
-- Organisational Agility
-- Product Delivery
-- Team Collaboration
-- Team Performance
-- Technical Mastery
-- Lean Principles
-- Value Delivery
-- Agile Frameworks
+  - Operational Practices
+  - Pragmatic Thinking
+  - Software Development
+  - Product Delivery
+  - Business Agility
+  - Market Adaptability
+  - Cross Functional Teams
+  - Flow Efficiency
+  - Organisational Agility
+  - Team Collaboration
+  - Team Performance
+  - Technical Mastery
+  - Lean Principles
+  - Social Technologies
+  - Value Delivery
 platform_signals:
-- platform: Scrumorg
-  post_url: https://www.scrum.org/resources/blog/why-handoffs-are-killing-your-agility
-  post_date: 2025-05-19T09:00:00Z
-  post_type: crosspost
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/why-handoffs-are-killing-your-agility
+    post_date: 2025-05-19T09:00:00Z
+    post_type: crosspost
 Watermarks:
   description: 2025-05-07T12:50:01Z
   short_title: 2025-07-07T17:47:02Z
+  tldr: 2025-08-07T12:40:38Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog

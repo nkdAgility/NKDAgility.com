@@ -2,28 +2,35 @@
 title: VSTS Sync Migration Tools
 short_title: VSTS Sync Migration Tools
 description: Open-source tools for migrating work items, test plans, teams, and project structures between TFS and VSTS, supporting consolidation and flexible data transfer.
+tldr: VSTS Sync Migration Tools help teams move work items, test plans, and team structures between TFS and VSTS or consolidate projects without migrating code. The tool focuses on essential data like work items and test configurations, with ongoing improvements based on user needs. Development managers can use or contribute to these free tools to streamline migrations and reduce manual setup when moving to VSTS.
 date: 2016-10-26
+lastmod: 2016-10-26
 weight: 840
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: UjyqYjINUfp
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: vsts-sync-migration-tools
 aliases:
-- /resources/UjyqYjINUfp
+  - /resources/UjyqYjINUfp
 aliasesArchive:
-- /blog/vsts-sync-migration-tools
-- /vsts-sync-migration-tools
-- /resources/blog/vsts-sync-migration-tools
+  - /blog/vsts-sync-migration-tools
+  - /vsts-sync-migration-tools
+  - /resources/blog/vsts-sync-migration-tools
 layout: blog
 concepts:
-- Tool
+  - Tool
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:16:41Z
   short_title: 2025-07-07T17:58:57Z
+  tldr: 2025-08-07T13:24:10Z
 ResourceImportId: 11634
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -2,8 +2,14 @@
 title: 'Change is easier with a friend: Buy 1, Get 1 FREE!'
 short_title: 'Scrum Training: Buy 1, Get 1 Free Offer'
 description: Buy one Scrum training course and get a second free for a friend or colleague. Offer includes Agile, Scrum Master, and Product Owner classes. Limited time only.
+tldr: For January, you can enrol in any Scrum training course and bring a colleague for free, with six course options available and a price-by-country model to ensure global accessibility. There is also a 20 percent discount on all classes until March 31, 2024. Take advantage of this offer to upskill your team and boost Agile capabilities.
 date: 2024-01-11
-weight: 875
+lastmod: 2024-01-11
+weight: 850
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 author: MrHinsh
 ResourceId: ZHJtz2t0uTU
 ResourceImport: false
@@ -11,20 +17,21 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: change-is-easier-with-a-friend-buy-1-get-1-free
 aliases:
-- /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
-- /resources/newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
-- /resources/ZHJtz2t0uTU
+  - /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
+  - /resources/newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
+  - /resources/ZHJtz2t0uTU
 aliasesArchive:
-- /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
-- /resources/newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
+  - /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
+  - /resources/newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
 layout: newsletter
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:06:28Z
   short_title: 2025-07-07T17:50:18Z
+  tldr: 2025-08-07T12:54:06Z
 preview: naked-agility-technically-agile-1280×720-24Q1-Change-1.jpg
 resourceTypes: newsletter
 

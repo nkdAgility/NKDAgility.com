@@ -209,17 +209,23 @@
     "level": "Ignored"
   },
   "Principle": {
+    "resourceId": "Coaching",
     "category": "Principle",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content discusses coaching in the context of Agile, Lean, and DevOps, highlighting principles such as continuous improvement, self-management, and adaptability. It explicitly mentions how coaching fosters a culture of learning and experimentation, which aligns closely with the principles of these frameworks. The depth of discussion is substantial, as it elaborates on the importance of self-discovery, resilience, and psychological safety, all of which are actionable principles that guide team behaviour and decision-making. However, while it touches on principles, it does not delve deeply into specific principles themselves, which slightly lowers the overall confidence score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is a good fit for the category, as it explores how coaching supports Agile, Lean, and DevOps by encouraging continuous improvement, learning, and adaptability. It effectively connects coaching to key principles like self-management and psychological safety, though it doesn’t examine individual principles in detail. Overall, it demonstrates a strong alignment with the frameworks’ core values and practices."
+    "calculated_at": "2025-09-05T03:30:21",
+    "ai_confidence": 75.36,
+    "ai_mentions": 2.7,
+    "ai_alignment": 8.6,
+    "ai_depth": 8.2,
+    "ai_intent": 7.8,
+    "ai_audience": 7.9,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 75.0,
+    "reasoning": "The content discusses coaching as a facilitative practice aligned with principles like self-management, continuous improvement, adaptability, and psychological safety—core to Agile, Lean, and DevOps. It describes how coaching enables teams to organise, learn, and deliver value, making strong conceptual links to actionable principles. Direct mentions of 'principle' are absent, but the main themes support core principles through concrete examples (e.g., fostering continuous improvement, self-organisation, value delivery). The depth is notable, highlighting distinctions from mentoring, systemic impact, and links to organisational outcomes. Intent is to explain coaching’s role within principle-driven frameworks rather than solely describe the process. The audience is practitioners/leaders in Agile/DevOps, matching category intent. A small deduction in focus for minor tangents (comparisons to mentoring), but these reinforce main points. No penalties needed.",
+    "reasoning_summary": "The content aligns strongly with the 'Principle' category by exploring how coaching fosters actionable principles (self-management, continuous improvement) in Agile/DevOps. Fit is robust, though direct labeling is absent; overall, the theme and intent closely match.",
+    "level": "Secondary"
   },
   "Artifact": {
     "resourceId": "Coaching",

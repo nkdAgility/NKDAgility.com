@@ -4,8 +4,15 @@
       "title": "Evidence-Based Portfolio Management",
       "short_title": "Evidence-Based Portfolio Management",
       "description": "Explains how evidence-based portfolio management helps organisations extend agile practices beyond teams, enabling greater responsiveness and improved business outcomes.",
+      "tldr": "Evidence-Based Portfolio Management helps organizations achieve true business agility by linking investments directly to measurable goals, running small experiments to validate ideas, and frequently adapting based on real feedback. Key benefits include reducing waste from traditional planning, improving alignment between work and business objectives, and empowering teams to focus on high-value outcomes. To get started, select a complex area of your business and apply these iterative, evidence-driven investment practices.",
       "date": "2020-03-01",
+      "lastmod": "2020-03-01",
       "weight": 1000.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.1,
+        "changefreq": "weekly"
+      },
       "author": [
         "Scrum.org"
       ],
@@ -24,9 +31,11 @@
       "layout": "guide",
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Lean"
       ],
       "tags": [
+        "Enterprise Agility",
+        "Empirical Process Control",
         "Business Agility"
       ],
       "card": {
@@ -38,7 +47,8 @@
       },
       "Watermarks": {
         "description": "2025-05-07T12:58:06Z",
-        "short_title": "2025-07-07T16:40:35Z"
+        "short_title": "2025-07-07T16:40:35Z",
+        "tldr": "2025-08-07T13:12:41Z"
       },
       "resourceTypes": "guide",
       "creator": "Martin Hinshelwood"
@@ -53,8 +63,15 @@
       "title": "The Evidence-Based Management Guide 2020: Improving Value Delivery under Conditions of Uncertainty",
       "short_title": "Evidence-Based Management Guide 2020",
       "description": "Evidence-Based Management (EBM) guides organisations to improve value delivery under uncertainty by using empirical goals, measurement, and continuous experimentation.",
+      "tldr": "Evidence-Based Management (EBM) is a framework that helps organizations improve value delivery by using measurement, experimentation, and adaptation to navigate uncertainty and achieve strategic goals. It focuses on four key areas—current value, unrealized value, time-to-market, and ability to innovate—encouraging teams to set measurable goals, run small experiments, and use evidence to guide decisions. Development managers should ensure their teams make hypotheses explicit, measure outcomes rather than just activities or outputs, and regularly inspect and adapt based on results to maximize customer and business value.",
       "date": "2020-01-01",
+      "lastmod": "2020-01-01",
       "weight": 360.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.5,
+        "changefreq": "weekly"
+      },
       "author": [
         "Scrum.org"
       ],
@@ -76,21 +93,21 @@
         "Engineering Excellence"
       ],
       "tags": [
+        "Metrics and Learning",
         "Customer Focus",
         "Evidence Based Management",
+        "Social Technologies",
         "Continuous Improvement",
         "Current Value",
         "Decision Making",
         "Evidence Based Leadership",
         "Experimentation",
-        "Metrics and Learning",
         "Value Delivery",
         "Empirical Process Control",
         "Hypothesis Driven Development",
         "Software Development",
         "Operational Practices",
-        "Business Agility",
-        "Organisational Agility"
+        "Business Agility"
       ],
       "card": {
         "button": {
@@ -101,7 +118,8 @@
       },
       "Watermarks": {
         "description": "2025-05-07T12:58:05Z",
-        "short_title": "2025-07-07T16:40:39Z"
+        "short_title": "2025-07-07T16:40:39Z",
+        "tldr": "2025-08-07T13:12:45Z"
       },
       "resourceTypes": "guide"
     },

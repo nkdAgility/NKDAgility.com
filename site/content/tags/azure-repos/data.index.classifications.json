@@ -57,16 +57,23 @@
     "level": "Ignored"
   },
   "Tenet": {
+    "resourceId": "Azure Repos",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Azure Repos and its role in source control and collaboration within the Azure DevOps ecosystem. While it touches on themes like collaboration and adaptability, which are relevant to Agile principles, it does not explicitly mention any specific tenets or actionable guiding rules. The discussion is more focused on the features and benefits of Azure Repos rather than on prescriptive tenets that guide decision-making and behaviours within an organisation.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:45",
+    "ai_confidence": 46.45,
+    "ai_mentions": 2.7,
+    "ai_alignment": 5.6,
+    "ai_depth": 4.9,
+    "ai_intent": 5.1,
+    "ai_audience": 5.7,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 46.0,
+    "reasoning": "The content describes Azure Repos' features and benefits, touching on collaboration, accountability, and alignment with agile principles. However, it does not directly mention specific tenets or provide actionable guiding rules. Themes are consistent with some tenet-related ideas (e.g., collaboration, transparency, adaptability), but the discussion is mainly about tooling and process facilitation, not prescriptive tenets. Depth and intent only partially fit, and there are no direct explicit references to tenets as actionable guiding doctrines.",
+    "reasoning_summary": "Content discusses Agile-aligned themes such as collaboration and adaptability, but does not directly address specific tenets or their application. Fit is partial, with only some relevance to the Tenet category.",
+    "level": "Tertiary"
   },
   "Method": {
     "resourceId": "Azure Repos",

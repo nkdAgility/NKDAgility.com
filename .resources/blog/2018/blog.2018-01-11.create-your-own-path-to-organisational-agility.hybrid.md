@@ -2,47 +2,54 @@
 title: Create your own path to Organisational Agility
 short_title: Create Your Own Path to Organisational Agility
 description: Learn how to achieve organisational agility by tailoring change to your unique context, building a guiding coalition, and engaging all stakeholders in continuous improvement.
+tldr: A one-size-fits-all agile framework rarely works because every organisation’s path to agility is unique; instead, you should define a clear vision, form a cross-functional change team, and use an incremental, evidence-based approach to improvement. Broad, consistent training across all levels ensures everyone understands and supports the change, while involving stakeholders in identifying and prioritising impediments helps create a relevant organisational change backlog. To succeed, secure executive buy-in, empower teams to drive change, and focus on continuous, measurable improvements tailored to your context.
 date: 2018-01-11
+lastmod: 2018-01-11
 weight: 290
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: RdwxVidD26i
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: create-your-own-path-to-organisational-agility
 aliases:
-- /resources/RdwxVidD26i
+  - /resources/RdwxVidD26i
 aliasesArchive:
-- /blog/organisational-change-create-path
-- /organisational-change-create-path
-- /create-your-own-path-to-organisational-agility
-- /blog/create-your-own-path-to-organisational-agility
-- /resources/blog/organisational-change-create-path
+  - /blog/organisational-change-create-path
+  - /organisational-change-create-path
+  - /create-your-own-path-to-organisational-agility
+  - /blog/create-your-own-path-to-organisational-agility
+  - /resources/blog/organisational-change-create-path
 layout: blog
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Scrum
-- Leadership
-- Technical Leadership
+  - Scrum
+  - Leadership
+  - Technical Leadership
 tags:
-- Scaling
-- Business Agility
-- Enterprise Agility
-- Digital Transformation
-- Operational Practices
-- Organisational Change
-- Value Delivery
-- Agile Transformation
-- Organisational Agility
-- Continuous Improvement
-- Software Development
-- Agile Leadership
-- Change Management
-- Pragmatic Thinking
-- Organisational Culture
+  - Social Technologies
+  - Scaling
+  - Business Agility
+  - Enterprise Agility
+  - Digital Transformation
+  - Operational Practices
+  - Organisational Change
+  - Value Delivery
+  - Agile Transformation
+  - Organisational Agility
+  - Continuous Improvement
+  - Software Development
+  - Agile Leadership
+  - Change Management
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:16:22Z
   short_title: 2025-07-07T17:58:38Z
+  tldr: 2025-08-07T13:13:23Z
 ResourceImportId: 11214
 creator: Martin Hinshelwood
 resourceTypes: blog

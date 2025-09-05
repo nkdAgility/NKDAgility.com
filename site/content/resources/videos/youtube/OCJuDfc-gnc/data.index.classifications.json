@@ -198,12 +198,22 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "OCJuDfc-gnc",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on general questions about DevOps and Agile rather than on Application Lifecycle Management specifically.",
+    "calculated_at": "2025-09-05T03:32:07",
+    "ai_confidence": 33.95,
+    "ai_mentions": 0.7,
+    "ai_alignment": 3.4,
+    "ai_depth": 2.9,
+    "ai_intent": 2.8,
+    "ai_audience": 3.5,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "There are no direct mentions or explicit focus on Application Lifecycle Management (ALM) or its life stages. While the content discusses scaling agile, metrics, Scrum fundamentals, training adaptations, and global experiences, these relate primarily to agile coaching and team-level practices rather than the end-to-end governance, management, or tooling of the application lifecycle. Even references to metrics lack clarity about their usage in ALM contexts. The audience is somewhat aligned, being agile practitioners, but the signal-to-noise ratio is low due to extensive tangents on virtual training and event promotion. Therefore, fit with the ALM category is minimal and confidence is low.",
+    "reasoning_summary": "The content is mostly about scaling agile and virtual training, not the full application lifecycle or its management. While there is some audience alignment, discussion lacks ALM focus, so the fit with Application Lifecycle Management is weak.",
     "level": "Ignored"
   },
   "Remote Working": {

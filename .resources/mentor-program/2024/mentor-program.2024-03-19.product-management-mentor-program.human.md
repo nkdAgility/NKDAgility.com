@@ -7,7 +7,7 @@ date: 2024-03-19
 weight: 540
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.8
   changefreq: weekly
 ResourceId: 3xZaUxPTiUZ
 ResourceImport: false
@@ -21,6 +21,7 @@ aliases:
 aliasesArchive:
   - /capabilities/product-management-mentor-program/
   - /NKD-PMMP/
+type: mentor-program
 concepts:
   - Capability
 categories:
@@ -43,35 +44,6 @@ tags:
   - Pragmatic Thinking
   - Value Delivery
   - Evidence Based Leadership
-card:
-  button:
-    content: Become a Visionary Leader!
-  title: Product Management Mentor Program
-  content: In the rapidly evolving landscape of product development, mastering Agile practices and leadership is not just an advantage; it's a necessity. NKD Agility's comprehensive Product Owner and Product Manager Mentoring Program is your gateway to transforming aspiring individuals into visionary product leaders who drive exceptional outcomes in a dynamic market.
-Watermarks:
-  description: 2025-07-29T15:02:04Z
-  short_title: 2025-07-29T15:02:05Z
-  tldr: 2025-08-08T11:40:53Z
-creator: Martin Hinshelwood
-type: mentor-program
-course_vendors:
-  - NKDAgility
-course_learning_experiences:
-  - Immersive
-delivery_audiences:
-  - Product Managers
-  - Lean Agile Practitioners
-code: NKD-PMMP
-headline:
-  title: Product Management Mentor Program.
-  subtitle: Accelerate Your Path to Agile Excellence with NKDAgility’s Product Management Mentor Program
-  content: |
-    In the rapidly evolving landscape of product development, mastering Agile practices and leadership is not just an advantage; it’s a necessity. NKD Agility’s comprehensive Product Owner and Product Manager Mentoring Program is your gateway to transforming aspiring individuals into visionary product leaders who drive exceptional outcomes in a dynamic market.
-
-    > "Experience teaches nothing. In fact there is no experience to record without theory… Without theory there is no learning… And that is their downfall. People copy examples and then they wonder what is the trouble. They look at examples and without theory they learn nothing."
-    >
-    > *-Edward Deming*
-  cards: []
 sections:
   - title: Tackle Product Management Challenges Head-On
     content: 'Our mentoring program directly addresses and delivers transformative solutions for the 9 most significant challenges in product development:'
@@ -191,6 +163,34 @@ sections:
       - resources/videos/youtube/ZcMcVL7mNGU
       - resources/videos/youtube/EyqLSLHk_Ik
     source: data
+card:
+  button:
+    content: Become a Visionary Leader!
+  title: Product Management Mentor Program
+  content: In the rapidly evolving landscape of product development, mastering Agile practices and leadership is not just an advantage; it's a necessity. NKD Agility's comprehensive Product Owner and Product Manager Mentoring Program is your gateway to transforming aspiring individuals into visionary product leaders who drive exceptional outcomes in a dynamic market.
+Watermarks:
+  description: 2025-07-29T15:02:04Z
+  short_title: 2025-07-29T15:02:05Z
+  tldr: 2025-08-08T11:40:53Z
+creator: Martin Hinshelwood
+course_vendors:
+  - NKDAgility
+course_learning_experiences:
+  - Immersive
+delivery_audiences:
+  - Product Managers
+  - Lean Agile Practitioners
+code: NKD-PMMP
+headline:
+  title: Product Management Mentor Program.
+  subtitle: Accelerate Your Path to Agile Excellence with NKDAgility’s Product Management Mentor Program
+  content: |
+    In the rapidly evolving landscape of product development, mastering Agile practices and leadership is not just an advantage; it’s a necessity. NKD Agility’s comprehensive Product Owner and Product Manager Mentoring Program is your gateway to transforming aspiring individuals into visionary product leaders who drive exceptional outcomes in a dynamic market.
+
+    > "Experience teaches nothing. In fact there is no experience to record without theory… Without theory there is no learning… And that is their downfall. People copy examples and then they wonder what is the trouble. They look at examples and without theory they learn nothing."
+    >
+    > *-Edward Deming*
+  cards: []
 
 ---
 # Product Management Mentor Program

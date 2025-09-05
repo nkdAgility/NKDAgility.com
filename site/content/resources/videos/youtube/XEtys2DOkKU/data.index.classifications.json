@@ -197,12 +197,22 @@
     "level": "Ignored"
   },
   "Azure DevOps": {
+    "resourceId": "XEtys2DOkKU",
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T12:08:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses cloud migration and customizations, with no clear focus on Azure DevOps services or functionalities.",
+    "calculated_at": "2025-09-05T03:29:39",
+    "ai_confidence": 16.58,
+    "ai_mentions": 1.1,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.8,
+    "ai_intent": 2.3,
+    "ai_audience": 3.2,
+    "ai_signal": 3.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content discusses using a Microsoft migration tool for cloud transition, but never specifies Azure DevOps or its core services (Boards, Repos, Pipelines, etc.). The advice is general to migration and customisation review, with no direct connection to Azure DevOps functionalities or best practices. While the audience may overlap with those interested in Azure DevOps (technical practitioners), and there are references to tools and task-tracking, the main thrust is generic cloud migration strategy, not Azure DevOps-specific guidance. No penalties applied as the content is not outdated or critical in tone.",
+    "reasoning_summary": "The content discusses Microsoft cloud migration tools but makes no explicit or substantive reference to Azure DevOps. There's minimal to no direct alignment with the category definition; any relevance to Azure DevOps is incidental or implied at best.",
     "level": "Ignored"
   },
   "Technical Excellence": {

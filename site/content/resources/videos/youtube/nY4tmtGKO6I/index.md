@@ -39,6 +39,7 @@ categories:
 tags:
   - Team Collaboration
   - Scrum Master
+  - Personal
   - Scrum Values
   - Professional Scrum
   - Agile Frameworks

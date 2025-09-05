@@ -2,38 +2,45 @@
 title: Delivering Live Virtual Classes in Microsoft Teams and Mural
 short_title: Delivering Live Virtual Classes in Teams & Mural
 description: Guidance on running live virtual Scrum classes using Microsoft Teams and Mural, focusing on tech setup, safe collaboration, self-organising teams, and effective facilitation.
+tldr: Delivering live virtual classes using Microsoft Teams and Mural offers strong security, flexibility, and features that support self-organising teams and foster a safe, collaborative learning environment. Running a tech check before classes saves time and sets expectations, while Teams enables students to manage their own breakout sessions and resources, promoting autonomy and engagement. For best results, set up Teams in advance and use Mural to create structured, interactive exercises that mirror in-person collaboration.
 date: 2020-06-21
+lastmod: 2020-06-21
 weight: 750
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: fyJ8PxhOEZz
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: delivering-live-virtual-classes-in-microsoft-teams-and-mural
 aliases:
-- /resources/fyJ8PxhOEZz
+  - /resources/fyJ8PxhOEZz
 aliasesArchive:
-- /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
-- /delivering-live-virtual-classes-in-microsoft-teams-and-mural
-- /resources/blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
+  - /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
+  - /delivering-live-virtual-classes-in-microsoft-teams-and-mural
+  - /resources/blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
 layout: blog
 concepts:
-- Tool
+  - Tool
 categories:
-- Scrum
+  - Scrum
 tags:
-- Pragmatic Thinking
-- Remote Working
-- Scrum Values
-- Team Collaboration
-- Self Organisation
-- Collaboration Tools
-- Professional Scrum
-- Scrum Team
-- Social Technologies
-- Team Performance
+  - Pragmatic Thinking
+  - Remote Working
+  - Scrum Values
+  - Team Collaboration
+  - Self Organisation
+  - Collaboration Tools
+  - Professional Scrum
+  - Scrum Team
+  - Social Technologies
+  - Team Performance
 Watermarks:
   description: 2025-05-07T13:15:36Z
   short_title: 2025-07-07T17:57:59Z
+  tldr: 2025-08-07T13:11:27Z
 ResourceImportId: 44432
 creator: Martin Hinshelwood
 resourceTypes: blog
