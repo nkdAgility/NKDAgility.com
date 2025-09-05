@@ -2,55 +2,62 @@
 title: Definition of Done - Objective vs Subjective
 short_title: 'Definition of Done: Objective vs Subjective'
 description: Explains the difference between subjective goals and the objective Definition of Done in Scrum, highlighting how clear, measurable criteria ensure consistent product quality.
+tldr: The Definition of Done (DoD) in Scrum is an objective, measurable checklist that sets the minimum quality standard for every product increment, distinct from the more subjective Product and Sprint Goals. Teams should ensure their DoD is clear, comprehensive, regularly reviewed, and as automated as possible, avoiding subjective approval steps. Development managers should treat the DoD as a non-negotiable baseline for quality, not a ceiling, and keep it updated to reflect evolving standards and business needs.
 date: 2025-01-03
+lastmod: 2025-01-03
 weight: 180
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: -Z5GGUOjc-d
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: definition-of-done-objective-vs-subjective
 aliases:
-- /resources/-Z5GGUOjc-d
-- /definition-of-done-objective-vs-subjective
-- /blog/definition-of-done-objective-vs-subjective
-- /definition-of-done---objective-vs-subjective
-- /blog/definition-of-done---objective-vs-subjective
+  - /resources/-Z5GGUOjc-d
+  - /definition-of-done-objective-vs-subjective
+  - /blog/definition-of-done-objective-vs-subjective
+  - /definition-of-done---objective-vs-subjective
+  - /blog/definition-of-done---objective-vs-subjective
 aliasesArchive:
-- /definition-of-done-objective-vs-subjective
-- /blog/definition-of-done-objective-vs-subjective
-- /definition-of-done---objective-vs-subjective
-- /blog/definition-of-done---objective-vs-subjective
+  - /definition-of-done-objective-vs-subjective
+  - /blog/definition-of-done-objective-vs-subjective
+  - /definition-of-done---objective-vs-subjective
+  - /blog/definition-of-done---objective-vs-subjective
 layout: blog
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Product Development
-- Scrum
-- Product Management
+  - Product Development
+  - Scrum
+  - Product Management
 tags:
-- Definition of Done
-- Operational Practices
-- Software Development
-- Agile Planning
-- Pragmatic Thinking
-- Product Delivery
-- Professional Scrum
-- Competence
-- Engineering Practices
-- Value Delivery
-- Technical Mastery
-- Agile Frameworks
-- Technical Excellence
-- Team Performance
-- Working Software
+  - Definition of Done
+  - Operational Practices
+  - Software Development
+  - Agile Planning
+  - Pragmatic Thinking
+  - Professional Scrum
+  - Product Delivery
+  - Competence
+  - Engineering Practices
+  - Value Delivery
+  - Technical Mastery
+  - Agile Frameworks
+  - Technical Excellence
+  - Team Performance
+  - Working Software
 platform_signals:
-- platform: Scrumorg
-  post_url: https://www.scrum.org/resources/blog/definition-done-objective-vs-subjective
-  post_date: 2025-05-27T09:00:00Z
-  post_type: crosspost
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/definition-done-objective-vs-subjective
+    post_date: 2025-05-27T09:00:00Z
+    post_type: crosspost
 Watermarks:
   description: 2025-05-07T12:50:03Z
   short_title: 2025-07-07T17:47:03Z
+  tldr: 2025-08-07T12:40:41Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog

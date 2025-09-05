@@ -2,48 +2,55 @@
 title: Scrum Masters and Product Owners are held accountable for results
 short_title: Scrum Master and Product Owner Accountability
 description: Explores the gap between accountability and authority for Scrum Masters and Product Owners, highlighting the need to empower roles responsible for team outcomes.
+tldr: Scrum Masters and Product Owners are often held accountable for results without having the authority needed to influence outcomes. This mismatch leads to empty expectations and limits team effectiveness. To achieve better results, organisations should empower Scrum Masters with real authority, not just expect them to coach from the sidelines.
 date: 2025-03-17T16:30:03+00:00
+lastmod: 2025-03-17T16:30:03+00:00
 weight: 335
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: Rx4LP6ywHVh
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: scrum-masters-and-product-owners-are-held-accountable-for-results
 aliases:
-- /resources/Rx4LP6ywHVh
+  - /resources/Rx4LP6ywHVh
 source: LinkedIn
 layout: signal
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Scrum
-- Leadership
-- Technical Leadership
+  - Scrum
+  - Leadership
+  - Technical Leadership
 tags:
-- Scrum Master
-- Software Development
-- Market Adaptability
-- Agile Frameworks
-- Professional Scrum
-- Pragmatic Thinking
-- Agile Leadership
-- Agentic Agility
-- Social Technologies
-- Product Delivery
+  - Scrum Master
+  - Software Development
+  - Market Adaptability
+  - Agile Frameworks
+  - Professional Scrum
+  - Pragmatic Thinking
+  - Agile Leadership
+  - Agentic Agility
+  - Social Technologies
+  - Product Delivery
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7307438077285654528
-  post_id: "7307438077285654528"
-  post_date: 2025-03-17T16:30:03Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7307438077285654528
+    post_id: "7307438077285654528"
+    post_date: 2025-03-17T16:30:03Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:07Z
   short_title: 2025-07-07T16:45:23Z
+  tldr: 2025-08-07T12:34:44Z
 
 ---
 Scrum Masters and Product Owners are held accountable for results. But here’s the contradiction—how can you be accountable for something you have no control over?

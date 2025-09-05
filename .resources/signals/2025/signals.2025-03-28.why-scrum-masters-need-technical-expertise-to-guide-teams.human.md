@@ -2,40 +2,47 @@
 title: Why Scrum Masters Need Technical Expertise to Guide Teams
 short_title: Why Scrum Masters Need Technical Expertise
 description: Scrum Masters need technical expertise to effectively support teams, understand best practices, and bridge gaps between process and real-world technical challenges.
+tldr: Scrum Masters are most effective when they have hands-on experience and technical understanding relevant to their team's work, such as development practices or domain-specific knowledge. This expertise helps them guide teams toward improvement without doing the work themselves. Development managers should ensure Scrum Masters have sufficient technical background to enable, not just facilitate, their teams.
 date: 2025-03-28T16:30:04+00:00
+lastmod: 2025-03-28T16:30:04+00:00
 weight: 235
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: _0eaUkX1o1q
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: why-scrum-masters-need-technical-expertise-to-guide-teams
 aliases:
-- /resources/_0eaUkX1o1q
+  - /resources/_0eaUkX1o1q
 source: LinkedIn
 layout: signal
 concepts: []
 categories:
-- Scrum
-- Technical Leadership
+  - Scrum
+  - Technical Leadership
 tags:
-- Product Delivery
-- Pragmatic Thinking
-- Software Development
-- Operational Practices
+  - Product Delivery
+  - Pragmatic Thinking
+  - Software Development
+  - Operational Practices
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7311424349494784000
-  post_id: "7311424349494784000"
-  post_date: 2025-03-28T16:30:04Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7311424349494784000
+    post_id: "7311424349494784000"
+    post_date: 2025-03-28T16:30:04Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:50Z
   short_title: 2025-07-07T16:45:10Z
+  tldr: 2025-08-07T12:34:20Z
 
 ---
 Would you trust a coach who doesn’t understand your sport?

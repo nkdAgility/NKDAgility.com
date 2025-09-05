@@ -2,29 +2,37 @@
 title: The Tyranny of Taylorism and how to detect Agile BS
 short_title: Detecting Taylorism and Agile Misuse
 description: Explores the origins of Taylorism in modern management, its impact on workplace practices, and how to identify ineffective or superficial Agile adoption in organisations.
+tldr: Many organizations still use outdated management practices from the industrial era that focus on control and repetition, which do not fit modern software development. Although most teams claim to be agile, very few actually use key agile practices like short iterations, ordered backlogs, or regular retrospectives, mainly because they lack effective feedback loops. Development managers should critically assess whether their teams are truly agile and prioritize building real feedback mechanisms to improve outcomes.
 date: 2020-04-01
-weight: 1000
+lastmod: 2020-04-01
+weight: 640
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: IDMjGi5C8lS
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 aliases:
-- /resources/IDMjGi5C8lS
+  - /resources/IDMjGi5C8lS
 aliasesArchive:
-- /blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-- /live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-- /the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-- /blog/the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-- /resources/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
+  - /blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
+  - /live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
+  - /the-tyranny-of-taylorism-and-how-to-detect-agile-bs
+  - /blog/the-tyranny-of-taylorism-and-how-to-detect-agile-bs
+  - /resources/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 layout: blog
 concepts: []
 categories:
-- Uncategorized
-tags: []
+  - Uncategorized
+tags:
+  - Agile Philosophy
 Watermarks:
   description: 2025-05-07T13:15:56Z
   short_title: 2025-07-07T17:58:15Z
+  tldr: 2025-08-07T13:12:28Z
 ResourceImportId: 44208
 creator: Martin Hinshelwood
 resourceTypes: blog

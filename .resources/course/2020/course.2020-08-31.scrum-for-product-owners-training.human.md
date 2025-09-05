@@ -15,14 +15,12 @@ ResourceType: course
 ResourceContentOrigin: human
 slug: scrum-for-product-owners-training
 aliases:
-  - /training-courses/scrum-for-product-owners
-  - /training-courses/scrum-for-product-owners-training/
-  - /capabilities/training-courses/accentient/scrum-for-product-owners-training
   - /resources/qVBmvY9STVE
 aliasesArchive:
   - /training-courses/scrum-for-product-owners
   - /training-courses/scrum-for-product-owners-training/
   - /capabilities/training-courses/accentient/scrum-for-product-owners-training
+type: course
 concepts:
   - Practice
 categories:
@@ -52,7 +50,6 @@ Watermarks:
   short_title: 2025-07-29T15:01:28Z
   tldr: 2025-08-08T11:40:13Z
 creator: Martin Hinshelwood
-type: course
 url: 
 course_topics:
   - Scrum Training Courses

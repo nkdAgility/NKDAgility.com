@@ -2,31 +2,38 @@
 title: Professional Kanban Trainer for Applying Professional Kanban
 short_title: Professional Kanban Trainer & Certification
 description: Learn about becoming a Professional Kanban Trainer, the Applying Professional Kanban course, certification process, and key Kanban principles for effective workflow management.
+tldr: The new Kanban Guide provides a clear, open framework for optimizing value flow in software teams, complementing Scrum and fostering collaboration between the two communities. Professional Kanban training now offers focused, in-depth learning on Kanban principles and practices, with certification and resources available independently of the course. Development managers can leverage these guides and training to improve workflow efficiency and team performance.
 date: 2021-01-19
+lastmod: 2021-01-19
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: ZQi3U9gnXj3
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: professional-kanban-trainer-for-applying-professional-kanban
 aliases:
-- /blog/professional-kanban-trainer-for-applying-professional-kanban
-- /professional-kanban-trainer-for-applying-professional-kanban
-- /resources/ZQi3U9gnXj3
-- /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
+  - /blog/professional-kanban-trainer-for-applying-professional-kanban
+  - /professional-kanban-trainer-for-applying-professional-kanban
+  - /resources/ZQi3U9gnXj3
+  - /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
 aliasesArchive:
-- /blog/professional-kanban-trainer-for-applying-professional-kanban
-- /professional-kanban-trainer-for-applying-professional-kanban
-- /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
+  - /blog/professional-kanban-trainer-for-applying-professional-kanban
+  - /professional-kanban-trainer-for-applying-professional-kanban
+  - /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
 layout: blog
 concepts: []
 categories:
-- Kanban
+  - Kanban
 tags:
-- Software Development
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:15:02Z
   short_title: 2025-07-07T17:57:36Z
+  tldr: 2025-08-07T13:10:24Z
 ResourceImportId: 45694
 AudioNative: true
 creator: Martin Hinshelwood

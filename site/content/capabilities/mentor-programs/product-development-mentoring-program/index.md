@@ -7,7 +7,7 @@ date: 2024-03-20
 weight: 70
 sitemap:
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.8
   changefreq: weekly
 ResourceId: JVKfZqwgHRO
 ResourceImport: false
@@ -23,6 +23,7 @@ aliasesArchive:
   - /capabilities/product-development-mentoing-program/
   - /capabilities/product-development-mentoring-program/
   - /NKD-PDMP/
+type: mentor-program
 concepts:
   - Capability
 categories:
@@ -45,38 +46,6 @@ tags:
   - Technical Mastery
   - Team Performance
   - Engineering Practices
-card:
-  button:
-    content: Enhance Your Teams Skills
-  title: Product Development Mentoring
-  content: Our NKDAgility’s Product Development Mentor Program now integrates DevOps, platform engineering, and agile methodologies to foster engineering excellence in a modern, holistic approach.
-Watermarks:
-  description: 2025-07-29T15:02:02Z
-  short_title: 2025-07-29T15:02:03Z
-  tldr: 2025-08-08T11:40:50Z
-creator: Martin Hinshelwood
-type: mentor-program
-course_vendors:
-  - NKDAgility
-course_learning_experiences:
-  - Immersive
-delivery_audiences:
-  - Developers
-  - Lean Agile Practitioners
-  - Teams
-code: NKD-PDMP
-course_proficiencies:
-  - Intermediate
-headline:
-  title: Product Development Mentor Program
-  subtitle: Enhance Engineering Excelance in Product Development
-  content: |
-    In the dynamic landscape of product development, where engineering excellence meets the relentless pace of innovation, integrating Agile methodologies, DevOps practices, and platform engineering principles is critical. NKD Agility’s advanced Product Development Mentor Program is designed to empower engineers and product managers alike. It aims to transform them into adept leaders who can navigate the complexities of modern product engineering, ensuring their teams deliver cutting-edge, robust solutions that thrive in a competitive market.
-
-    > "We are continuously learning and adapting; the key to success in software development is the ability to evolve."
-    >
-    > *- Brian Harry, Product Unit Manager, Azure DevOps*
-  cards: []
 sections:
   - title: Overcome Product Development Hurdles with Precision
     content: 'Our mentorship program directly tackles and provides transformative strategies for the 9 most significant challenges in product engineering:'
@@ -194,6 +163,37 @@ sections:
       - resources/videos/youtube/ZcMcVL7mNGU
       - resources/videos/youtube/EyqLSLHk_Ik
     source: data
+card:
+  button:
+    content: Enhance Your Teams Skills
+  title: Product Development Mentoring
+  content: Our NKDAgility’s Product Development Mentor Program now integrates DevOps, platform engineering, and agile methodologies to foster engineering excellence in a modern, holistic approach.
+Watermarks:
+  description: 2025-07-29T15:02:02Z
+  short_title: 2025-07-29T15:02:03Z
+  tldr: 2025-08-08T11:40:50Z
+creator: Martin Hinshelwood
+course_vendors:
+  - NKDAgility
+course_learning_experiences:
+  - Immersive
+delivery_audiences:
+  - Developers
+  - Lean Agile Practitioners
+  - Teams
+code: NKD-PDMP
+course_proficiencies:
+  - Intermediate
+headline:
+  title: Product Development Mentor Program
+  subtitle: Enhance Engineering Excelance in Product Development
+  content: |
+    In the dynamic landscape of product development, where engineering excellence meets the relentless pace of innovation, integrating Agile methodologies, DevOps practices, and platform engineering principles is critical. NKD Agility’s advanced Product Development Mentor Program is designed to empower engineers and product managers alike. It aims to transform them into adept leaders who can navigate the complexities of modern product engineering, ensuring their teams deliver cutting-edge, robust solutions that thrive in a competitive market.
+
+    > "We are continuously learning and adapting; the key to success in software development is the ability to evolve."
+    >
+    > *- Brian Harry, Product Unit Manager, Azure DevOps*
+  cards: []
 
 ---
 # Product Development Mentoring Program

@@ -2,34 +2,41 @@
 title: Resilience is Part of the Product, Not an Afterthought
 short_title: Resilience as a Core Product Feature
 description: Resilience must be designed into products from the start, not added later. Build systems to detect, contain, and recover from failures, making resilience a core feature.
+tldr: Resilience must be designed into your product from the start, not added later or left to individual heroics. Building resilience means engineering for failure containment, rapid recovery, and continuous improvement, using tools like telemetry, feature flags, and safe deployment practices. Make resilience a core part of your development process and culture, treating it as a critical feature to avoid costly outages and business risks.
 date: 2025-06-09T09:00:00Z
+lastmod: 2025-06-09T09:00:00Z
 weight: 150
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: EtzHUfsWjsD
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 slug: resilience-is-part-of-the-product-not-an-afterthought
 aliases:
-- /resources/EtzHUfsWjsD
+  - /resources/EtzHUfsWjsD
 aliasesArchive:
-- /resilience-is-part-of-the-product--not-an-afterthought
-- /blog/resilience-is-part-of-the-product--not-an-afterthought
+  - /resilience-is-part-of-the-product--not-an-afterthought
+  - /blog/resilience-is-part-of-the-product--not-an-afterthought
 concepts: []
 categories:
-- Engineering Excellence
-- Product Development
-- DevOps
+  - Engineering Excellence
+  - Product Development
+  - DevOps
 tags:
-- Technical Mastery
-- Pragmatic Thinking
-- Site Reliability Engineering
-- Technical Excellence
-- Operational Practices
-- Software Development
-- Engineering Practices
+  - Technical Mastery
+  - Pragmatic Thinking
+  - Site Reliability Engineering
+  - Technical Excellence
+  - Operational Practices
+  - Software Development
+  - Engineering Practices
 Watermarks:
   description: 2025-05-07T12:49:03Z
   short_title: 2025-07-07T16:43:37Z
+  tldr: 2025-08-07T12:11:29Z
 
 ---
 Resilience is not a nice-to-have. It is not a department. It is not something you bolt on later if you get around to it. Resilience is part of the product. If you are serious about delivering value, you design resilience deliberately from day one. Any other approach is just gambling with your business, and is adding to your [technical debt]({{< ref "/tags/technical-debt" >}}).

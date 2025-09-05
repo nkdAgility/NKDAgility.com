@@ -2,59 +2,67 @@
 title: The Scrum Master is accountable for Delivery
 short_title: The Scrum Master’s Accountability for Delivery
 description: Explains how the Scrum Master is accountable for enabling effective product delivery, fostering team success, and ensuring each sprint produces a usable, valuable increment.
+tldr: The Scrum Master is ultimately accountable for ensuring the Scrum Team delivers a usable product increment every sprint, as delivery is the minimum requirement for team effectiveness. While delivery is a shared team responsibility, the Scrum Master must create the right environment, remove impediments, and enable continuous improvement so delivery becomes inevitable. Development managers should hold Scrum Masters accountable for delivery outcomes and empower them with the authority and resources needed to support team success.
 date: 2025-01-30
+lastmod: 2025-01-30
 weight: 220
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 contributors:
-- name: Ryan Ripley
-  external: https://www.linkedin.com/in/ryanripley
-- name: Elle Anderson
-  external: http://www.linkedin.com/in/anderelle
-- name: Sathpal Singh
-  external: https://www.linkedin.com/in/sathpal/
-- name: Ralph Jocham
-  external: https://www.linkedin.com/in/ralphjocham/
+  - name: Ryan Ripley
+    external: https://www.linkedin.com/in/ryanripley
+  - name: Elle Anderson
+    external: http://www.linkedin.com/in/anderelle
+  - name: Sathpal Singh
+    external: https://www.linkedin.com/in/sathpal/
+  - name: Ralph Jocham
+    external: https://www.linkedin.com/in/ralphjocham/
 ResourceId: yMnia2DLI6q
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: the-scrum-master-is-accountable-for-delivery
 aliases:
-- /resources/yMnia2DLI6q
-- /the-scrum-master-is-accountable-for-delivery
-- /blog/the-scrum-master-is-accountable-for-delivery
+  - /resources/yMnia2DLI6q
+  - /the-scrum-master-is-accountable-for-delivery
+  - /blog/the-scrum-master-is-accountable-for-delivery
 aliasesArchive:
-- /the-scrum-master-is-accountable-for-delivery
-- /blog/the-scrum-master-is-accountable-for-delivery
+  - /the-scrum-master-is-accountable-for-delivery
+  - /blog/the-scrum-master-is-accountable-for-delivery
 layout: blog
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Scrum
-- Product Development
-- Leadership
+  - Scrum
+  - Product Development
+  - Leadership
 tags:
-- Software Development
-- Agile Frameworks
-- Professional Scrum
-- Scrum Master
-- Product Delivery
-- Value Delivery
-- Team Performance
-- Operational Practices
-- Empirical Process Control
-- Agile Planning
-- Pragmatic Thinking
-- Working Software
-- Increment
-- Agile Leadership
+  - Software Development
+  - Agile Frameworks
+  - Professional Scrum
+  - Scrum Master
+  - Product Delivery
+  - Value Delivery
+  - Team Performance
+  - Operational Practices
+  - Empirical Process Control
+  - Agile Planning
+  - Pragmatic Thinking
+  - Social Technologies
+  - Working Software
+  - Increment
+  - Agile Leadership
 platform_signals:
-- platform: Scrumorg
-  post_url: https://www.scrum.org/resources/blog/if-you-are-not-doing-test-first-then-you-are-doing-it-wrong
-  post_date: 2025-06-03T09:00:00Z
-  post_type: crosspost
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/if-you-are-not-doing-test-first-then-you-are-doing-it-wrong
+    post_date: 2025-06-03T09:00:00Z
+    post_type: crosspost
 Watermarks:
   description: 2025-05-07T12:49:52Z
   short_title: 2025-07-07T17:46:52Z
+  tldr: 2025-08-07T12:40:21Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog

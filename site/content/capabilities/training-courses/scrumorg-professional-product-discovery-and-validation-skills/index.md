@@ -23,6 +23,7 @@ aliasesArchive:
   - /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
   - /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
   - /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+type: course
 concepts: []
 categories:
   - Product Management
@@ -44,7 +45,6 @@ Watermarks:
   description: 2025-07-29T15:00:51Z
   tldr: 2025-08-08T11:37:19Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/product-training-courses/:slug/
 course_topics:
   - Scrum Training Courses

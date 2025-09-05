@@ -4,8 +4,15 @@
       "title": "The Importance of Batch to Optimise Flow",
       "short_title": "Batch Size and Flow Optimisation",
       "description": "Explains how breaking large tasks into smaller batches improves workflow, predictability, and delivery speed, using hands-on exercises based on queuing theory principles.",
+      "tldr": "Breaking large backlog items into smaller pieces helps teams deliver faster and more predictably. The workshop uses a hands-on coin game to show that smaller batch sizes improve flow and reduce delivery time. Development managers should encourage teams to split work into smaller, manageable batches to boost efficiency and predictability.",
       "date": "2024-09-17",
+      "lastmod": "2024-09-17",
       "weight": 580.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.3,
+        "changefreq": "weekly"
+      },
       "ResourceId": "kwS9oPiz-Ny",
       "ResourceImport": false,
       "ResourceType": "workshops",
@@ -31,6 +38,7 @@
       ],
       "tags": [
         "Flow Efficiency",
+        "Value Delivery",
         "Operational Practices",
         "Lean Principles",
         "Lean Thinking"
@@ -44,7 +52,8 @@
       },
       "Watermarks": {
         "description": "2025-05-07T12:58:27Z",
-        "short_title": "2025-07-07T17:48:10Z"
+        "short_title": "2025-07-07T17:48:10Z",
+        "tldr": "2025-08-07T12:42:55Z"
       },
       "resourceTypes": "workshop",
       "creator": "Martin Hinshelwood"
@@ -56,36 +65,43 @@
   },
   {
     "FrontMatter": {
-      "title": "Customer Working Agreement",
-      "short_title": "Customer Working Agreement Workshop",
-      "description": "Defines a collaborative workshop to create a Statement of Work and clarify customer and provider responsibilities, agility level, and key commitments for project success.",
+      "title": "Definition of Done",
+      "short_title": "Definition of Done in Agile Projects",
+      "description": "Explains the Definition of Done, its purpose, key steps, and how to assess when work is complete in agile projects, including practical exercises and takeaways.",
+      "tldr": "The Definition of Done (DoD) clarifies when work is truly complete, ensuring shared understanding and consistent quality across the team. Key steps include aligning on what \"done\" means, using exercises to explore the concept, and applying it to increments of work. Development managers should ensure their teams have a clear, agreed-upon DoD to improve delivery consistency and product quality.",
       "date": "2024-09-17",
-      "weight": 840.0,
-      "ResourceId": "hjlKdneL4t8",
+      "weight": 1000.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.1,
+        "changefreq": "weekly"
+      },
+      "ResourceId": "IgRDk1wrh65",
       "ResourceImport": false,
       "ResourceType": "workshops",
       "ResourceContentOrigin": "Human",
-      "slug": "customer-working-agreement",
+      "slug": "definition-of-done",
       "aliases": [
-        "workshops/Customer-Working-Agreement.html",
-        "/learn/agile-delivery-kit/workshops/Customer-Working-Agreement",
-        "/learn/agile-delivery-kit/workshops/customer-working-agreement/",
-        "/resources/hjlKdneL4t8"
+        "/workshops/Definition-Of-Done.html",
+        "/learn/agile-delivery-kit/workshops/Definition-Of-Done",
+        "/learn/agile-delivery-kit/workshops/definition-of-done/",
+        "/resources/IgRDk1wrh65"
       ],
       "aliasesArchive": [
-        "workshops/Customer-Working-Agreement.html",
-        "/learn/agile-delivery-kit/workshops/Customer-Working-Agreement",
-        "/learn/agile-delivery-kit/workshops/customer-working-agreement/"
+        "/workshops/Definition-Of-Done.html",
+        "/learn/agile-delivery-kit/workshops/Definition-Of-Done",
+        "/learn/agile-delivery-kit/workshops/definition-of-done/"
       ],
       "layout": "workshop",
       "concepts": [
         "Method"
       ],
       "categories": [
-        "Product Development",
-        "Scrum"
+        "Uncategorized"
       ],
-      "tags": [],
+      "tags": [
+        "Definition of Done"
+      ],
       "card": {
         "button": {
           "content": "Learn More"
@@ -94,25 +110,32 @@
         "title": null
       },
       "Watermarks": {
-        "description": "2025-05-07T12:58:01Z",
-        "short_title": "2025-07-07T17:48:11Z"
+        "description": "2025-05-07T12:58:00Z",
+        "short_title": "2025-07-07T17:48:12Z",
+        "tldr": "2025-08-07T12:48:54Z"
       },
       "resourceTypes": "workshop",
-      "creator": "Martin Hinshelwood",
-      "draft": true
+      "creator": "Martin Hinshelwood"
     },
-    "BodyContent": "## Customer Working Agreement\n\n### Duration\n\n~60 Minutes\n\n### Purpose\n\nThe Working Agreement would result in both a Statement of Work and agreement on how much agility will be applied to the work. Explicit and transparent options should be presented so that the customer clearly understands what they need to do for us to be successful.\n\n### Prepared Materials\n\n- Item 1\n\n### Facilitation Steps\n\n#### Part 1: [name]\n\n- Step 1\n\n### Takeaways\n\n- Take away 1\n\n### Facilitation Tips\n\n- Tip 1\n\n### Useful Files\n\n# NOTES\n\nDuration\n\nThe Working Agreement would result in both a Statement of Work and agreement on how much agility will be applied to the work. Explicit and transparent options should be presented so that the customer clearly understands what they need to do for us to be successful.\n\nWhile the working agreement should be run as a workshop\n\n- New Signature Promises\n  - Usable [Increment]({{< ref \"/tags/increment\" >}}) - Unable Increment of every Sprint, including the first\n  - Dedicated Team - Dedicated Team of Developers that can turn the requested value into a usable increment\n- Customer promises to:\n  - Provide a [Product Owner]({{< ref \"/tags/product-owner\" >}}): The customer will provide an individual with appropriate expertise and accountability to; develop and explicitly communicating the Product Goal; create and clearly communicate [Product Backlog]({{< ref \"/tags/product-backlog\" >}}) items; order Product Backlog items; and, Ensuring that the Product Backlog is transparent, visible and understood.\n  - Provide Goals – The customer commits to provide; a Product Vision as the Strategic goal, a Product Goal as an Intermediate Strategic Goal, and each sprint a Sprint Goal as an Intermediate Tactical Goal.\n  - Attend a [Sprint Review]({{< ref \"/tags/sprint-review\" >}}) – The Customer agrees that they will provide the necessary attendees for the Sprint Review to allow a Review regarding What has been created and not, Progress towards the Product Goal, Likely release dates, Budget and Progress.\n\nPerhaps we need to look at an early conversation with customers around a working agreement to understand the trade-offs and ramifications…\n\n### Working Agreement Workshop\n\n1. **Agree Type of Work** - Present the Cynefin model and ask customers to specify what sort of work they do.\n2.\n",
-    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\customer-working-agreement\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\customer-working-agreement",
-    "ReferencePath": "resources/workshops/customer-working-agreement"
+    "BodyContent": "# What is the [Definition of Done]({{< ref \"/tags/definition-of-done\" >}}) (DoD)\n\n## Duration\n\n4h\n\n## Purpose\n\n## Steps\n\n1. Definition of Done Icebreaker - Exercise 10 minutes\n2. What is a Definition of Done? - Teaching Block 10 minutes\n3. How \"Done\" is an [increment]({{< ref \"/tags/increment\" >}})? - Exercise 45 minutes\n4.\n\n## Takeaways\n",
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\definition-of-done\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\definition-of-done",
+    "ReferencePath": "resources/workshops/definition-of-done"
   },
   {
     "FrontMatter": {
       "title": "Sprint Review #1",
       "short_title": "Sprint Review Workshop with Liberating Structures",
       "description": "Guides a 160-minute Sprint Review workshop using Liberating Structures to inspect product progress, gather feedback, and plan next steps for Scrum teams and stakeholders.",
+      "tldr": "This Sprint Review workshop uses interactive methods to help teams and stakeholders inspect the product increment, gather feedback, and identify next steps based on recent changes and business needs. Key activities include networking to clarify expectations, hands-on product inspection, structured group reflection, and personal action planning. Development managers should ensure active participation, update the Product Backlog with new insights, and encourage team members to define concrete actions for the next Sprint.",
       "date": "2024-09-17",
-      "weight": 640.0,
+      "lastmod": "2024-09-17",
+      "weight": 655.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.2,
+        "changefreq": "weekly"
+      },
       "ResourceId": "8gWwC3tvV_f",
       "ResourceImport": false,
       "ResourceType": "workshops",
@@ -163,7 +186,8 @@
       },
       "Watermarks": {
         "description": "2025-05-07T12:57:58Z",
-        "short_title": "2025-07-07T17:48:11Z"
+        "short_title": "2025-07-07T17:48:11Z",
+        "tldr": "2025-08-07T12:48:52Z"
       },
       "resourceTypes": "workshop",
       "creator": "Martin Hinshelwood",
@@ -208,37 +232,43 @@
   },
   {
     "FrontMatter": {
-      "title": "Definition of Done",
-      "short_title": "Definition of Done in Agile Projects",
-      "description": "Explains the Definition of Done, its purpose, key steps, and how to assess when work is complete in agile projects, including practical exercises and takeaways.",
+      "title": "Customer Working Agreement",
+      "short_title": "Customer Working Agreement Workshop",
+      "description": "Defines a collaborative workshop to create a Statement of Work and clarify customer and provider responsibilities, agility level, and key commitments for project success.",
+      "tldr": "A Customer Working Agreement workshop, lasting about 60 minutes, helps both parties define a clear Statement of Work and agree on the level of agility to apply. It ensures customers understand their responsibilities, such as providing a Product Owner, clear goals, and attending Sprint Reviews, while the development team commits to delivering usable increments and a dedicated team. Development managers should use this workshop early to clarify expectations, roles, and trade-offs for successful collaboration.",
       "date": "2024-09-17",
-      "weight": 1000.0,
-      "ResourceId": "IgRDk1wrh65",
+      "lastmod": "2024-09-17",
+      "weight": 705.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.2,
+        "changefreq": "weekly"
+      },
+      "ResourceId": "hjlKdneL4t8",
       "ResourceImport": false,
       "ResourceType": "workshops",
       "ResourceContentOrigin": "Human",
-      "slug": "definition-of-done",
+      "slug": "customer-working-agreement",
       "aliases": [
-        "/workshops/Definition-Of-Done.html",
-        "/learn/agile-delivery-kit/workshops/Definition-Of-Done",
-        "/learn/agile-delivery-kit/workshops/definition-of-done/",
-        "/resources/IgRDk1wrh65"
+        "workshops/Customer-Working-Agreement.html",
+        "/learn/agile-delivery-kit/workshops/Customer-Working-Agreement",
+        "/learn/agile-delivery-kit/workshops/customer-working-agreement/",
+        "/resources/hjlKdneL4t8"
       ],
       "aliasesArchive": [
-        "/workshops/Definition-Of-Done.html",
-        "/learn/agile-delivery-kit/workshops/Definition-Of-Done",
-        "/learn/agile-delivery-kit/workshops/definition-of-done/"
+        "workshops/Customer-Working-Agreement.html",
+        "/learn/agile-delivery-kit/workshops/Customer-Working-Agreement",
+        "/learn/agile-delivery-kit/workshops/customer-working-agreement/"
       ],
       "layout": "workshop",
       "concepts": [
         "Method"
       ],
       "categories": [
-        "Uncategorized"
+        "Product Development",
+        "Scrum"
       ],
-      "tags": [
-        "Definition of Done"
-      ],
+      "tags": [],
       "card": {
         "button": {
           "content": "Learn More"
@@ -247,15 +277,17 @@
         "title": null
       },
       "Watermarks": {
-        "description": "2025-05-07T12:58:00Z",
-        "short_title": "2025-07-07T17:48:12Z"
+        "description": "2025-05-07T12:58:01Z",
+        "short_title": "2025-07-07T17:48:11Z",
+        "tldr": "2025-08-07T12:46:36Z"
       },
       "resourceTypes": "workshop",
-      "creator": "Martin Hinshelwood"
+      "creator": "Martin Hinshelwood",
+      "draft": true
     },
-    "BodyContent": "# What is the [Definition of Done]({{< ref \"/tags/definition-of-done\" >}}) (DoD)\n\n## Duration\n\n4h\n\n## Purpose\n\n## Steps\n\n1. Definition of Done Icebreaker - Exercise 10 minutes\n2. What is a Definition of Done? - Teaching Block 10 minutes\n3. How \"Done\" is an [increment]({{< ref \"/tags/increment\" >}})? - Exercise 45 minutes\n4.\n\n## Takeaways\n",
-    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\definition-of-done\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\definition-of-done",
-    "ReferencePath": "resources/workshops/definition-of-done"
+    "BodyContent": "## Customer Working Agreement\n\n### Duration\n\n~60 Minutes\n\n### Purpose\n\nThe Working Agreement would result in both a Statement of Work and agreement on how much agility will be applied to the work. Explicit and transparent options should be presented so that the customer clearly understands what they need to do for us to be successful.\n\n### Prepared Materials\n\n- Item 1\n\n### Facilitation Steps\n\n#### Part 1: [name]\n\n- Step 1\n\n### Takeaways\n\n- Take away 1\n\n### Facilitation Tips\n\n- Tip 1\n\n### Useful Files\n\n# NOTES\n\nDuration\n\nThe Working Agreement would result in both a Statement of Work and agreement on how much agility will be applied to the work. Explicit and transparent options should be presented so that the customer clearly understands what they need to do for us to be successful.\n\nWhile the working agreement should be run as a workshop\n\n- New Signature Promises\n  - Usable [Increment]({{< ref \"/tags/increment\" >}}) - Unable Increment of every Sprint, including the first\n  - Dedicated Team - Dedicated Team of Developers that can turn the requested value into a usable increment\n- Customer promises to:\n  - Provide a [Product Owner]({{< ref \"/tags/product-owner\" >}}): The customer will provide an individual with appropriate expertise and accountability to; develop and explicitly communicating the Product Goal; create and clearly communicate [Product Backlog]({{< ref \"/tags/product-backlog\" >}}) items; order Product Backlog items; and, Ensuring that the Product Backlog is transparent, visible and understood.\n  - Provide Goals – The customer commits to provide; a Product Vision as the Strategic goal, a Product Goal as an Intermediate Strategic Goal, and each sprint a Sprint Goal as an Intermediate Tactical Goal.\n  - Attend a [Sprint Review]({{< ref \"/tags/sprint-review\" >}}) – The Customer agrees that they will provide the necessary attendees for the Sprint Review to allow a Review regarding What has been created and not, Progress towards the Product Goal, Likely release dates, Budget and Progress.\n\nPerhaps we need to look at an early conversation with customers around a working agreement to understand the trade-offs and ramifications…\n\n### Working Agreement Workshop\n\n1. **Agree Type of Work** - Present the Cynefin model and ask customers to specify what sort of work they do.\n2.\n",
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\customer-working-agreement\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\customer-working-agreement",
+    "ReferencePath": "resources/workshops/customer-working-agreement"
   }
 ]

@@ -2,30 +2,37 @@
 title: VSTS Sync Migration Tool Update and Bugfix
 short_title: VSTS Sync Migration Tool Update & Fixes
 description: VSTS Sync Migration Tool adds new features and bug fixes for bulk work item updates, project migration, query transfer, and improved notifications for TFS and VSTS users.
+tldr: The VSTS Sync Migration Tool has been updated with new features like work item history and query migration, plus important bug fixes such as resolving closed date issues. Community contributions have improved bulk updates and project migrations, and users now receive update notifications automatically. Development managers should install the latest version to benefit from these enhancements and stay informed about future updates.
 date: 2017-06-21
+lastmod: 2017-06-21
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: QO9MQIxxcoy
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: vsts-sync-migration-tool-update-and-bugfix
 aliases:
-- /resources/QO9MQIxxcoy
+  - /resources/QO9MQIxxcoy
 aliasesArchive:
-- /blog/vsts-sync-migration-tool-update-bugfix
-- /vsts-sync-migration-tool-update-bugfix
-- /vsts-sync-migration-tool-update-and-bugfix
-- /blog/vsts-sync-migration-tool-update-and-bugfix
-- /resources/blog/vsts-sync-migration-tool-update-bugfix
+  - /blog/vsts-sync-migration-tool-update-bugfix
+  - /vsts-sync-migration-tool-update-bugfix
+  - /vsts-sync-migration-tool-update-and-bugfix
+  - /blog/vsts-sync-migration-tool-update-and-bugfix
+  - /resources/blog/vsts-sync-migration-tool-update-bugfix
 layout: blog
 concepts:
-- Tool
+  - Tool
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:16:35Z
   short_title: 2025-07-07T17:58:50Z
+  tldr: 2025-08-07T13:13:46Z
 ResourceImportId: 11944
 creator: Martin Hinshelwood
 resourceTypes: blog

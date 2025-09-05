@@ -22,6 +22,7 @@ aliasesArchive:
   - /training-courses/professional-scrum-with-kanban-training-with-certification
   - /training-courses/scrum-training-courses/professional-scrum-with-kanban-psk-with-certification/
   - /capabilities/training-courses/scrum.org/professional-scrum-with-kanban-psk-with-certification/
+type: course
 concepts:
   - Practice
 categories:
@@ -46,7 +47,6 @@ Watermarks:
   short_title: 2025-07-29T15:01:50Z
   tldr: 2025-08-08T11:40:28Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
   - Scrum Training Courses

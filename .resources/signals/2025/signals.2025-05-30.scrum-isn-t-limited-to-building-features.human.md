@@ -2,51 +2,58 @@
 title: Scrum isn’t limited to building features
 short_title: Scrum for Organisational Change
 description: Scrum can drive organisational change, not just product features, by using backlogs, teams, and feedback to enable real, evidence-based agility across systems.
+tldr: Scrum can be used to drive organizational change, not just build software features. By forming a change team, creating a backlog, and using regular feedback, you can make improvements measurable and adaptable. To achieve real agility, apply Scrum practices to your internal processes as well as your products.
 date: 2025-05-30T15:30:41+01:00
+lastmod: 2025-05-30T15:30:41+01:00
 weight: 435
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: -FDdQXKH7zt
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: scrum-isn-t-limited-to-building-features
 aliases:
-- /resources/-FDdQXKH7zt
+  - /resources/-FDdQXKH7zt
 source: LinkedIn
 layout: signal
 concepts:
-- Principle
+  - Principle
 categories:
-- Scrum
+  - Scrum
 tags:
-- Social Technologies
-- Empirical Process Control
-- Continuous Improvement
-- Professional Scrum
-- Organisational Change
-- Organisational Agility
-- Pragmatic Thinking
-- Agile Planning
-- Agile Transformation
-- Change Management
-- Agile Strategy
-- Agile Frameworks
-- Decision Making
-- Business Agility
-- Metrics and Learning
+  - Social Technologies
+  - Empirical Process Control
+  - Continuous Improvement
+  - Professional Scrum
+  - Organisational Change
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Agile Planning
+  - Agile Transformation
+  - Change Management
+  - Agile Strategy
+  - Agile Frameworks
+  - Decision Making
+  - Business Agility
+  - Metrics and Learning
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7334239840894423040
-  post_id: "7334239840894423040"
-  post_date: 2025-05-30T14:30:41Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7334239840894423040
+    post_id: "7334239840894423040"
+    post_date: 2025-05-30T14:30:41Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:47Z
   short_title: 2025-07-07T16:43:52Z
+  tldr: 2025-08-07T12:29:11Z
 
 ---
 Scrum isn’t limited to building features. It’s a social technology for solving complex problems. That includes your internal systems of work.

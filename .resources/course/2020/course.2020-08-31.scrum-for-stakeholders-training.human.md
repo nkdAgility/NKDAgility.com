@@ -15,14 +15,12 @@ ResourceType: course
 ResourceContentOrigin: human
 slug: scrum-for-stakeholders-training
 aliases:
-  - /training-courses/scrum-for-stakeholders
-  - /training-courses/scrum-for-stakeholders-training/
-  - /capabilities/training-courses/accentient/scrum-for-stakeholders-training
   - /resources/33qyqKjBf3T
 aliasesArchive:
   - /training-courses/scrum-for-stakeholders
   - /training-courses/scrum-for-stakeholders-training/
   - /capabilities/training-courses/accentient/scrum-for-stakeholders-training
+type: course
 concepts:
   - Practice
 categories:
@@ -46,7 +44,6 @@ Watermarks:
   short_title: 2025-07-29T15:01:31Z
   tldr: 2025-08-08T11:40:11Z
 creator: Martin Hinshelwood
-type: course
 url: 
 course_topics:
   - Scrum Training Courses

@@ -2,38 +2,46 @@
 title: Hiring a Professional Scrum Master
 short_title: Hiring a Professional Scrum Master
 description: Covers key responsibilities, skills, and requirements for hiring a Scrum Master, including leadership, coaching, facilitation, and fostering effective Scrum teams.
+tldr: Hiring a Scrum Master is challenging and requires someone who can lead, coach, and support both the team and organization to improve effectiveness and adopt Scrum practices. Key requirements include strong leadership, facilitation, and communication skills, a servant leadership mindset, and relevant certifications, with technical or business domain knowledge as a plus. Focus on candidates who can foster a safe, collaborative environment and drive continuous improvement for reliable product delivery.
 date: 2021-03-15
+lastmod: 2021-03-15
 weight: 590
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: 1EEAZ-ldcTz
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: hiring-a-professional-scrum-master
 aliases:
-- /blog/hiring-a-professional-scrum-master
-- /hiring-a-professional-scrum-master
-- /resources/1EEAZ-ldcTz
-- /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+  - /blog/hiring-a-professional-scrum-master
+  - /hiring-a-professional-scrum-master
+  - /resources/1EEAZ-ldcTz
+  - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 aliasesArchive:
-- /blog/hiring-a-professional-scrum-master
-- /hiring-a-professional-scrum-master
-- /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+  - /blog/hiring-a-professional-scrum-master
+  - /hiring-a-professional-scrum-master
+  - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 layout: blog
 concepts: []
 categories:
-- Scrum
-- Technical Leadership
-- Leadership
+  - Scrum
+  - Technical Leadership
+  - Leadership
 tags:
-- Scrum Master
-- Professional Scrum
-- Scrum Team
-- Software Development
-- Agile Frameworks
-- Team Performance
+  - Scrum Master
+  - Professional Scrum
+  - Scrum Team
+  - Software Development
+  - Agile Frameworks
+  - Team Performance
+  - Team Motivation
 Watermarks:
   description: 2025-05-07T13:14:58Z
   short_title: 2025-07-07T17:57:32Z
+  tldr: 2025-08-07T13:10:16Z
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -2,40 +2,48 @@
 title: Story Points & Velocity are a sign of an unsuccessful team
 short_title: Story Points and Velocity Signal Team Immaturity
 description: Explains why relying on story points and velocity signals team immaturity in Scrum, and highlights better ways to build confidence and predictability through transparency.
+tldr: Story points and velocity are not required by Scrum and relying on them long-term signals a team's lack of maturity and adaptability. While they can help new teams start conversations and build shared understanding, they do not provide real predictability or confidence in delivery. Development managers should focus on transparency, concrete data, and metrics like cycle time to build true confidence and improve predictability for stakeholders.
 date: 2021-01-04
+lastmod: 2021-01-04
 weight: 380
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: ICuFIMyhnwj
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: story-points-velocity-are-a-sign-of-an-unsuccessful-team
 aliases:
-- /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
-- /story-points-velocity-are-a-sign-of-an-unsuccessful-team
-- /story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
-- /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
-- /resources/ICuFIMyhnwj
-- /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
+  - /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
+  - /story-points-velocity-are-a-sign-of-an-unsuccessful-team
+  - /story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
+  - /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
+  - /resources/ICuFIMyhnwj
+  - /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
 aliasesArchive:
-- /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
-- /story-points-velocity-are-a-sign-of-an-unsuccessful-team
-- /story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
-- /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
-- /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
+  - /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
+  - /story-points-velocity-are-a-sign-of-an-unsuccessful-team
+  - /story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
+  - /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
+  - /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
 layout: blog
 concepts: []
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Transparency
-- Software Development
-- Empirical Process Control
-- Professional Scrum
-- Pragmatic Thinking
+  - Transparency
+  - Software Development
+  - Empirical Process Control
+  - Value Delivery
+  - Professional Scrum
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:15:06Z
   short_title: 2025-07-07T17:57:38Z
+  tldr: 2025-08-07T13:10:31Z
 ResourceImportId: 44532
 AudioNative: true
 creator: Martin Hinshelwood

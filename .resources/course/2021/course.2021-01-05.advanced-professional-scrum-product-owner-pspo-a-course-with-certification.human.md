@@ -25,6 +25,7 @@ aliasesArchive:
   - /training-courses/professional-scrum-product-owner-advanced-training-with-certification
   - /training-courses/scrum-training-courses/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
   - /capabilities/training-courses/scrum.org/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
+type: course
 concepts:
   - Discipline
 categories:
@@ -47,7 +48,6 @@ Watermarks:
   description: 2025-07-29T15:01:12Z
   tldr: 2025-08-08T11:37:38Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
   - Scrum Training Courses

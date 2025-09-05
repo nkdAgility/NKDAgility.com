@@ -20,6 +20,7 @@ aliasesArchive:
   - /training-courses/managing-projects-using-visual-studio-and-scrum
   - /training-courses/azure-devops-training-courses/managing-projects-using-visual-studio-and-scrum-training/
   - /capabilities/training-courses/accentient/managing-projects-using-visual-studio-and-scrum
+type: course
 concepts:
   - Tool
 categories:
@@ -43,7 +44,6 @@ Watermarks:
   short_title: 2025-07-29T15:01:46Z
   tldr: 2025-08-08T11:40:26Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 course_topics:
   - Azure DevOps Training Courses

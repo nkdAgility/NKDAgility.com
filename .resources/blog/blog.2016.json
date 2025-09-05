@@ -4,8 +4,15 @@
       "title": "Kalabule or a Professional at Agile in Africa",
       "short_title": "Professionalism vs Kalabule in Agile Africa",
       "description": "Explores the contrast between unprofessional \"kalabule\" practices and true professionalism in Agile software development, emphasising core values and industry standards.",
+      "tldr": "Many software teams in Africa still operate unprofessionally, delivering poor results and blaming management, but customers should demand regular delivery of working software that meets their needs. Adopting true professionalism requires more than just following Scrum rituals or engineering practices; it means embracing values like courage, focus, commitment, respect, and openness. Development managers should lead by example and foster these values to raise industry standards and deliver better outcomes.",
       "date": "2016-10-27",
+      "lastmod": "2016-10-27",
       "weight": 330.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.6,
+        "changefreq": "weekly"
+      },
       "ResourceId": "yUp0v2lyPX6",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -25,11 +32,13 @@
         "Uncategorized"
       ],
       "tags": [
-        "Scrum Values"
+        "Scrum Values",
+        "Agile Values and Principles"
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:40Z",
-        "short_title": "2025-07-07T17:58:55Z"
+        "short_title": "2025-07-07T17:58:55Z",
+        "tldr": "2025-08-07T13:24:08Z"
       },
       "ResourceImportId": 11642,
       "creator": "Martin Hinshelwood",
@@ -46,8 +55,15 @@
       "title": "VSTS Sync Migration Tools",
       "short_title": "VSTS Sync Migration Tools",
       "description": "Open-source tools for migrating work items, test plans, teams, and project structures between TFS and VSTS, supporting consolidation and flexible data transfer.",
+      "tldr": "VSTS Sync Migration Tools help teams move work items, test plans, and team structures between TFS and VSTS or consolidate projects without migrating code. The tool focuses on essential data like work items and test configurations, with ongoing improvements based on user needs. Development managers can use or contribute to these free tools to streamline migrations and reduce manual setup when moving to VSTS.",
       "date": "2016-10-26",
+      "lastmod": "2016-10-26",
       "weight": 840.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.1,
+        "changefreq": "weekly"
+      },
       "ResourceId": "UjyqYjINUfp",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -71,7 +87,8 @@
       "tags": [],
       "Watermarks": {
         "description": "2025-05-07T13:16:41Z",
-        "short_title": "2025-07-07T17:58:57Z"
+        "short_title": "2025-07-07T17:58:57Z",
+        "tldr": "2025-08-07T13:24:10Z"
       },
       "ResourceImportId": 11634,
       "creator": "Martin Hinshelwood",
@@ -88,8 +105,15 @@
       "title": "Scaling Professional Scrum with Visual Studio Team Services",
       "short_title": "Scaling Professional Scrum with VSTS",
       "description": "Explains how to scale Professional Scrum across multiple teams using Visual Studio Team Services, covering automation, Nexus integration, and practical setup guidance.",
+      "tldr": "Visual Studio Team Services helps reduce friction and risks when scaling Scrum across multiple teams by providing robust automation and support for organizing work within a Nexus framework. Workshops and webcasts demonstrated how VSTS can be set up to manage many teams effectively, making it a strong choice for enterprise-scale Scrum. Development managers should consider VSTS when coordinating large, distributed Scrum teams to streamline processes and improve visibility.",
       "date": "2016-07-06",
-      "weight": 380.0,
+      "lastmod": "2016-07-06",
+      "weight": 345.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.6,
+        "changefreq": "weekly"
+      },
       "ResourceId": "pErrcS8DxcQ",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -119,7 +143,8 @@
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:43Z",
-        "short_title": "2025-07-07T17:58:57Z"
+        "short_title": "2025-07-07T17:58:57Z",
+        "tldr": "2025-08-07T13:24:12Z"
       },
       "ResourceImportId": 11563,
       "creator": "Martin Hinshelwood",
@@ -136,8 +161,15 @@
       "title": "Open-source with VSTS or TFS and Github for better DevOps",
       "short_title": "Open Source DevOps: Sync VSTS/TFS with GitHub",
       "description": "Learn how to automate code synchronisation between VSTS/TFS and GitHub, enabling seamless DevOps workflows for open-source projects with flexible configuration options.",
+      "tldr": "You can use VSTS or TFS for full DevOps and agile capabilities while keeping your open-source code on Github by setting up automated two-way synchronization between the platforms. This approach lets you manage private work and processes in VSTS, then publish selected branches to Github for public access and contributions. Set up automated builds in VSTS to sync code in both directions, using personal tokens for authentication, so you get the best of both tools without extra manual effort.",
       "date": "2016-05-10",
+      "lastmod": "2016-05-10",
       "weight": 690.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.2,
+        "changefreq": "weekly"
+      },
       "ResourceId": "LWHiaHn3CWF",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -162,16 +194,17 @@
       ],
       "tags": [
         "Azure DevOps",
-        "Continuous Integration",
         "Install and Configuration",
         "Software Development",
         "Modern Source Control",
+        "Continuous Integration",
         "Pragmatic Thinking",
         "GitHub"
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:44Z",
-        "short_title": "2025-07-07T17:58:58Z"
+        "short_title": "2025-07-07T17:58:58Z",
+        "tldr": "2025-08-07T13:24:13Z"
       },
       "ResourceImportId": 11491,
       "creator": "Martin Hinshelwood",
@@ -188,8 +221,15 @@
       "title": "Migrating from Codeplex to Github",
       "short_title": "Migrating Codeplex Repositories to GitHub",
       "description": "Step-by-step guide to migrating a Codeplex repository to GitHub, covering tool limitations, using Git-TF for code and history, and converting wiki pages to Markdown.",
+      "tldr": "Migrating a Codeplex repository to GitHub is necessary due to declining support and features on Codeplex, but GitHub's import tool is unreliable and does not handle folder selection or branches well. Using Git-TF with Chocolatey provides a more flexible and effective migration, allowing you to select specific folders and preserve history, though some manual steps are needed for wiki pages and other content. Development managers should use Git-TF for smoother migrations and plan for some manual adjustments, especially for documentation.",
       "date": "2016-03-02",
+      "lastmod": "2016-03-02",
       "weight": 1000.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.1,
+        "changefreq": "weekly"
+      },
       "ResourceId": "kgtNo8tGkjS",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -211,12 +251,14 @@
         "Uncategorized"
       ],
       "tags": [
+        "Install and Configuration",
         "GitHub",
         "Software Development"
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:45Z",
-        "short_title": "2025-07-07T17:58:59Z"
+        "short_title": "2025-07-07T17:58:59Z",
+        "tldr": "2025-08-07T13:24:16Z"
       },
       "ResourceImportId": 11465,
       "creator": "Martin Hinshelwood",
@@ -233,8 +275,15 @@
       "title": "Mapping your Windows Special Folders to OneDrive for Business - Ultimate Backup",
       "short_title": "Map Windows Folders to OneDrive for Backup",
       "description": "Learn how to sync Windows special folders like Documents and Desktop to OneDrive for Business, ensuring automatic cloud backup and easy access across all your devices.",
+      "tldr": "Mapping your Windows special folders like Documents and Desktop to OneDrive or OneDrive for Business ensures your files are automatically backed up to the cloud and accessible from any device. This setup protects against data loss from hardware failure or theft and simplifies working across multiple computers. Development managers should consider configuring this for their teams to improve data security and seamless access.",
       "date": "2016-02-10",
+      "lastmod": "2016-02-10",
       "weight": 1000.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.1,
+        "changefreq": "weekly"
+      },
       "ResourceId": "mKq16PgA7Ks",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -257,11 +306,14 @@
         "Uncategorized"
       ],
       "tags": [
-        "Windows"
+        "Windows",
+        "Miscellaneous",
+        "System Configuration"
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:48Z",
-        "short_title": "2025-07-07T17:59:00Z"
+        "short_title": "2025-07-07T17:59:00Z",
+        "tldr": "2025-08-07T13:24:19Z"
       },
       "ResourceImportId": 11430,
       "creator": "Martin Hinshelwood",
@@ -278,8 +330,15 @@
       "title": "Moving OneDrive for Business files to a different drive",
       "short_title": "Move OneDrive for Business Files to New Drive",
       "description": "Step-by-step guide to moving OneDrive for Business files to a different drive in Windows without re-downloading, freeing up space and preserving file sync and settings.",
+      "tldr": "If your OneDrive files are taking up too much space on your main drive, you can move them to another drive by unlinking your account, copying the files to the new location, and then relinking OneDrive to that folder. This avoids re-downloading large amounts of data and frees up significant space without risking your system recovery setup. Development managers should consider this approach to optimize storage and maintain system reliability for their teams.",
       "date": "2016-02-03",
+      "lastmod": "2016-02-03",
       "weight": 1000.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.1,
+        "changefreq": "weekly"
+      },
       "ResourceId": "qgSgXAu_d6a",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -303,12 +362,14 @@
         "Uncategorized"
       ],
       "tags": [
+        "Miscellaneous",
         "Windows",
         "Install and Configuration"
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:49Z",
-        "short_title": "2025-07-07T17:59:01Z"
+        "short_title": "2025-07-07T17:59:01Z",
+        "tldr": "2025-08-07T13:24:22Z"
       },
       "ResourceImportId": 11440,
       "creator": "Martin Hinshelwood",
@@ -325,8 +386,15 @@
       "title": "Agile in Africa 2016",
       "short_title": "Agile in Africa 2016",
       "description": "Agile in Africa 2016 brought together experts in Accra, Ghana to promote genuine Agile practices, share knowledge, and support local development initiatives.",
+      "tldr": "Agile in Africa 2016 brought together genuine Agile experts to West Africa, moving beyond past efforts that focused on profit rather than real improvement. Speakers invested their own time and resources, and the event featured multiple days of sessions, strong community engagement, and positive social impact. Development managers interested in authentic Agile transformation and networking in Africa should consider attending or viewing the recorded sessions.",
       "date": "2016-01-27",
+      "lastmod": "2016-01-27",
       "weight": 1000.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.1,
+        "changefreq": "weekly"
+      },
       "ResourceId": "YQ8HMmx0-kz",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -350,7 +418,8 @@
       "tags": [],
       "Watermarks": {
         "description": "2025-05-07T13:16:50Z",
-        "short_title": "2025-07-07T17:59:02Z"
+        "short_title": "2025-07-07T17:59:02Z",
+        "tldr": "2025-08-07T13:24:24Z"
       },
       "ResourceImportId": 11450,
       "creator": "Martin Hinshelwood",
@@ -367,8 +436,15 @@
       "title": "Branch Policies for TFVC",
       "short_title": "Branch Policies for TFVC",
       "description": "Explains how to apply and manage branch policies in TFVC using regular expressions, enabling code reviews, branch locks, and work item requirements across multiple branches.",
+      "tldr": "A new branch policy tool for TFVC allows you to apply policies like branch locks, code reviews, and work item requirements across multiple branches using simple patterns, making policy management much easier for large, complex codebases. This approach avoids cumbersome path-based setups and helps ensure key quality steps are not missed without overburdening developers. You can try the tool, provide feedback, or contribute to its development on GitHub.",
       "date": "2016-01-13",
-      "weight": 660.0,
+      "lastmod": "2016-01-13",
+      "weight": 495.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.4,
+        "changefreq": "weekly"
+      },
       "ResourceId": "_26VFOA-vCe",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -398,7 +474,8 @@
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:51Z",
-        "short_title": "2025-07-07T17:59:03Z"
+        "short_title": "2025-07-07T17:59:03Z",
+        "tldr": "2025-08-07T13:24:26Z"
       },
       "ResourceImportId": 11424,
       "creator": "Martin Hinshelwood",
@@ -415,8 +492,15 @@
       "title": "Professional Scrum Courses for 2016 in Oslo, Norway",
       "short_title": "Professional Scrum Courses 2016 Oslo Norway",
       "description": "Details 2016 Professional Scrum Master and Developer courses in Oslo and Kongsberg, covering advanced Scrum, coaching, DevOps, and Agile practices for teams and organisations.",
+      "tldr": "Recent Professional Scrum Master and Developer courses in Norway have been highly successful, attracting participants from top companies and leading to additional sessions being scheduled in Oslo and Kongsberg. The Scrum Master course focuses on advanced skills for experienced practitioners, while the Developer course emphasizes practical DevOps and Agile practices using Microsoft tools. Development managers should consider enrolling their teams to enhance Scrum mastery and technical delivery capabilities.",
       "date": "2016-01-06",
-      "weight": 480.0,
+      "lastmod": "2016-01-06",
+      "weight": 360.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.5,
+        "changefreq": "weekly"
+      },
       "ResourceId": "gS7et381AGm",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -444,7 +528,8 @@
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:52Z",
-        "short_title": "2025-07-07T17:59:04Z"
+        "short_title": "2025-07-07T17:59:04Z",
+        "tldr": "2025-08-07T13:24:28Z"
       },
       "ResourceImportId": 11426,
       "creator": "Martin Hinshelwood",

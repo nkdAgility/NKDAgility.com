@@ -4,8 +4,15 @@
       "title": "DOD has made it illegal to do waterfall",
       "short_title": "DOD Bans Waterfall, Mandates Agile Development",
       "description": "The US Department of Defence now requires agile, iterative software development, ending mandatory waterfall methods and influencing global government IT practices.",
+      "tldr": "The US Department of Defense has updated its procurement rules to require agile, iterative development instead of traditional waterfall methods, following high-profile failures like the FBI’s Sentinel project. Agile approaches have proven to deliver higher success rates, lower costs, and reduced risk, and these changes are now influencing government and vendor practices across the US and UK. Development managers working with government clients should adopt agile methods to align with new regulations and improve project outcomes.",
       "date": "2018-05-01",
-      "weight": 360.0,
+      "lastmod": "2018-05-01",
+      "weight": 320.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.6,
+        "changefreq": "weekly"
+      },
       "ResourceId": "dnmT3QDhGxx",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -28,11 +35,11 @@
         "Engineering Excellence"
       ],
       "tags": [
+        "Value Delivery",
         "Business Agility",
         "Organisational Agility",
         "Pragmatic Thinking",
         "Software Development",
-        "Value Delivery",
         "Working Software",
         "Operational Practices",
         "Agile Transformation",
@@ -53,7 +60,8 @@
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:17Z",
-        "short_title": "2025-07-07T17:58:34Z"
+        "short_title": "2025-07-07T17:58:34Z",
+        "tldr": "2025-08-07T13:13:13Z"
       },
       "ResourceImportId": 10204,
       "creator": "Martin Hinshelwood",
@@ -70,8 +78,15 @@
       "title": "Introducing Kanban for Professional Scrum Teams",
       "short_title": "Introducing Kanban for Scrum Teams",
       "description": "Learn how Kanban practices can be integrated into Professional Scrum teams to improve workflow, transparency, and delivery using the new Scrum.org PSK training and guide.",
+      "tldr": "A new Professional Scrum with Kanban class and guide now enable Scrum teams to integrate Kanban practices like workflow visualization, limiting work in progress, and flow-based metrics without changing Scrum itself. This approach helps teams focus on value delivery and can replace traditional metrics like velocity with more actionable measures such as throughput and cycle time. Development managers should consider reviewing the Kanban Guide for Scrum Teams and exploring the training to enhance their teams' effectiveness.",
       "date": "2018-02-26",
+      "lastmod": "2018-02-26",
       "weight": 580.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.3,
+        "changefreq": "weekly"
+      },
       "ResourceId": "CucU7DN-fJ7",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -95,13 +110,17 @@
         "Product Development"
       ],
       "tags": [
+        "Social Technologies",
         "Software Development",
+        "Empirical Process Control",
         "Agile Frameworks",
-        "Operational Practices"
+        "Operational Practices",
+        "Technical Mastery"
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:18Z",
-        "short_title": "2025-07-07T17:58:35Z"
+        "short_title": "2025-07-07T17:58:35Z",
+        "tldr": "2025-08-07T13:13:15Z"
       },
       "ResourceImportId": 38334,
       "creator": "Martin Hinshelwood",
@@ -118,8 +137,15 @@
       "title": "Work can flow across the Sprint boundary",
       "short_title": "Work Can Flow Across the Sprint Boundary",
       "description": "Explains how Scrum teams can strategically allow unfinished work to flow across Sprint boundaries, enhancing throughput, responsiveness, and continuous delivery without compromising goals.",
+      "tldr": "Allowing work to flow across Sprint boundaries is permitted in Scrum and can improve delivery speed, responsiveness, and value, as long as teams maintain clear, outcome-focused Sprint Goals and consistently deliver Done increments. Adopting practices like Continuous Delivery, feature toggles, and frequent feedback helps teams validate work early and adapt quickly. Development managers should encourage flow principles and robust engineering practices to maximize throughput and support better business decisions.",
       "date": "2018-01-30",
+      "lastmod": "2018-01-30",
       "weight": 270.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.6,
+        "changefreq": "weekly"
+      },
       "ResourceId": "a7UMLdZeVYq",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -137,7 +163,7 @@
       ],
       "layout": "blog",
       "concepts": [
-        "Practice"
+        "Method"
       ],
       "categories": [
         "Product Development",
@@ -163,7 +189,8 @@
       ],
       "Watermarks": {
         "description": "2025-05-24T23:43:41Z",
-        "short_title": "2025-07-07T17:58:36Z"
+        "short_title": "2025-07-07T17:58:36Z",
+        "tldr": "2025-08-07T13:13:18Z"
       },
       "ResourceImportId": 38300,
       "AudioNative": true,
@@ -181,8 +208,15 @@
       "title": "Professional Scrum is for everyone in your organisation",
       "short_title": "Professional Scrum for Everyone in Organisations",
       "description": "Explains how involving everyone in Professional Scrum training fosters organisational agility, breaks down silos, and empowers teams to drive meaningful change together.",
+      "tldr": "Scrum works best when everyone in the organisation is involved, not just the development teams, as this breaks down old management habits and empowers people at all levels to contribute to value delivery. Training all staff together surfaces misconceptions, encourages open discussion, and creates a shared understanding that drives real change. To maximise the benefits, managers should ensure broad participation in Scrum training and use the resulting organisational change backlog to remove barriers to effective software delivery.",
       "date": "2018-01-16",
-      "weight": 430.0,
+      "lastmod": "2018-01-16",
+      "weight": 425.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.5,
+        "changefreq": "weekly"
+      },
       "ResourceId": "Cr7wjIJ8Uvb",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -207,6 +241,7 @@
         "Product Development"
       ],
       "tags": [
+        "Change Management",
         "Agile Product Management",
         "Professional Scrum",
         "Social Technologies",
@@ -215,17 +250,17 @@
         "Software Development",
         "Organisational Agility",
         "Sociotechnical Systems",
+        "Market Adaptability",
         "Agile Leadership",
         "Team Collaboration",
         "Value Delivery",
         "Working Software",
-        "Empirical Process Control",
-        "Change Management",
-        "Organisational Change"
+        "Empirical Process Control"
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:21Z",
-        "short_title": "2025-07-07T17:58:37Z"
+        "short_title": "2025-07-07T17:58:37Z",
+        "tldr": "2025-08-07T13:13:21Z"
       },
       "ResourceImportId": 38287,
       "AudioNative": true,
@@ -243,8 +278,15 @@
       "title": "Create your own path to Organisational Agility",
       "short_title": "Create Your Own Path to Organisational Agility",
       "description": "Learn how to achieve organisational agility by tailoring change to your unique context, building a guiding coalition, and engaging all stakeholders in continuous improvement.",
+      "tldr": "A one-size-fits-all agile framework rarely works because every organisation’s path to agility is unique; instead, you should define a clear vision, form a cross-functional change team, and use an incremental, evidence-based approach to improvement. Broad, consistent training across all levels ensures everyone understands and supports the change, while involving stakeholders in identifying and prioritising impediments helps create a relevant organisational change backlog. To succeed, secure executive buy-in, empower teams to drive change, and focus on continuous, measurable improvements tailored to your context.",
       "date": "2018-01-11",
+      "lastmod": "2018-01-11",
       "weight": 290.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.6,
+        "changefreq": "weekly"
+      },
       "ResourceId": "RdwxVidD26i",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -270,6 +312,7 @@
         "Technical Leadership"
       ],
       "tags": [
+        "Social Technologies",
         "Scaling",
         "Business Agility",
         "Enterprise Agility",
@@ -283,12 +326,12 @@
         "Software Development",
         "Agile Leadership",
         "Change Management",
-        "Pragmatic Thinking",
-        "Organisational Culture"
+        "Pragmatic Thinking"
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:22Z",
-        "short_title": "2025-07-07T17:58:38Z"
+        "short_title": "2025-07-07T17:58:38Z",
+        "tldr": "2025-08-07T13:13:23Z"
       },
       "ResourceImportId": 11214,
       "creator": "Martin Hinshelwood",

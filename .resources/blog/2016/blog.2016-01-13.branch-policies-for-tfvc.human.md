@@ -2,33 +2,40 @@
 title: Branch Policies for TFVC
 short_title: Branch Policies for TFVC
 description: Explains how to apply and manage branch policies in TFVC using regular expressions, enabling code reviews, branch locks, and work item requirements across multiple branches.
+tldr: A new branch policy tool for TFVC allows you to apply policies like branch locks, code reviews, and work item requirements across multiple branches using simple patterns, making policy management much easier for large, complex codebases. This approach avoids cumbersome path-based setups and helps ensure key quality steps are not missed without overburdening developers. You can try the tool, provide feedback, or contribute to its development on GitHub.
 date: 2016-01-13
-weight: 660
+lastmod: 2016-01-13
+weight: 495
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: _26VFOA-vCe
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: branch-policies-for-tfvc
 aliases:
-- /resources/_26VFOA-vCe
+  - /resources/_26VFOA-vCe
 aliasesArchive:
-- /blog/branch-policies-tfvc
-- /branch-policies-tfvc
-- /branch-policies-for-tfvc
-- /blog/branch-policies-for-tfvc
-- /resources/blog/branch-policies-tfvc
+  - /blog/branch-policies-tfvc
+  - /branch-policies-tfvc
+  - /branch-policies-for-tfvc
+  - /blog/branch-policies-for-tfvc
+  - /resources/blog/branch-policies-tfvc
 layout: blog
 concepts:
-- Tool
+  - Tool
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Software Development
-- Azure Repos
-- Modern Source Control
+  - Software Development
+  - Azure Repos
+  - Modern Source Control
 Watermarks:
   description: 2025-05-07T13:16:51Z
   short_title: 2025-07-07T17:59:03Z
+  tldr: 2025-08-07T13:24:26Z
 ResourceImportId: 11424
 creator: Martin Hinshelwood
 resourceTypes: blog

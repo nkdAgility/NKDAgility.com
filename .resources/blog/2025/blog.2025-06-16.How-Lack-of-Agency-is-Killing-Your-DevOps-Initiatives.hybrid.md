@@ -2,39 +2,47 @@
 title: How Lack of Agency is Killing Your DevOps Initiatives
 short_title: Lack of Developer Agency in DevOps
 description: Explores how lacking developer control over production, telemetry, and deployments undermines DevOps, leading to fragile automation and failed continuous delivery.
+tldr: DevOps only works when developers have real control over production environments, deployments, and telemetry; without this operational agency, automation just creates fragile systems and blocks learning from real user feedback. Most DevOps efforts fail because they focus on tools instead of empowering developers to deploy, monitor, and adapt in production. To succeed, give your teams full operational ownership so they can deliver value continuously and respond quickly to real-world issues.
 date: 2025-06-16T09:00:00Z
+lastmod: 2025-06-16T09:00:00Z
 weight: 285
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: AgIU1SK-3pE
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 slug: how-lack-of-agency-is-killing-your-devops-initiatives
 aliases:
-- /resources/AgIU1SK-3pE
+  - /resources/AgIU1SK-3pE
 aliasesArchive:
-- /how-lack-of-agency-is-killing-your-devops-initiatives
-- /blog/how-lack-of-agency-is-killing-your-devops-initiatives
+  - /how-lack-of-agency-is-killing-your-devops-initiatives
+  - /blog/how-lack-of-agency-is-killing-your-devops-initiatives
 concepts:
-- Ethos
+  - Ethos
 categories:
-- DevOps
-- Engineering Excellence
-- Product Development
+  - DevOps
+  - Engineering Excellence
+  - Product Development
 tags:
-- Agentic Agility
-- Technical Mastery
-- Social Technologies
-- Agentic Engineering
-- Pragmatic Thinking
-- Software Development
-- Operational Practices
-- Value Delivery
-- Self Organisation
-- Team Motivation
-- Technical Excellence
+  - Agentic Agility
+  - Technical Mastery
+  - Social Technologies
+  - Agentic Engineering
+  - Product Delivery
+  - Pragmatic Thinking
+  - Software Development
+  - Operational Practices
+  - Value Delivery
+  - Self Organisation
+  - Team Motivation
+  - Technical Excellence
 Watermarks:
   description: 2025-05-07T12:49:01Z
   short_title: 2025-07-07T16:43:27Z
+  tldr: 2025-08-07T12:11:05Z
 
 ---
 [DevOps]({{< ref "/categories/devops" >}}) is not automation. It is not pipelines. It is not "shifting left" while locking decision-making into ancient [release management]({{< ref "/tags/release-management" >}}) bureaucracies.  

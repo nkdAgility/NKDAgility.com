@@ -15,16 +15,13 @@ ResourceType: course
 ResourceContentOrigin: human
 slug: assuring-quality-using-azure-test-plans-training
 aliases:
-  - /training-courses/assuring-quality-using-azure-test-plans
-  - /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
-  - /AD-QA/
-  - /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
   - /resources/m932F_fIGB5
 aliasesArchive:
   - /training-courses/assuring-quality-using-azure-test-plans
   - /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
   - /AD-QA/
   - /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
+type: course
 concepts:
   - Tool
 categories:
@@ -43,7 +40,6 @@ Watermarks:
   short_title: 2025-07-29T15:01:21Z
   tldr: 2025-08-08T11:37:41Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 course_topics:
   - Azure DevOps Training Courses

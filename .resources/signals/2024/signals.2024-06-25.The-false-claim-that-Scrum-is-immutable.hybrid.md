@@ -2,53 +2,61 @@
 title: The false claim that Scrum is immutable
 short_title: Scrum Flexibility vs. Immutability Explained
 description: Clarifies that Scrum is flexible and adaptable, not strictly immutable, and highlights the importance of transparency when modifying its core framework or practices.
+tldr: Scrum is meant to be flexible and adaptable, not rigid, despite some claims that it is "immutable." The Scrum Guide's reference to immutability applies to its definition, not to how teams must implement it, so teams can adapt Scrum as needed as long as they are transparent about changes. Development managers should focus on delivering value, getting feedback, adapting plans, and reflecting regularly rather than debating strict adherence to the Scrum Guide.
 date: 2024-06-25T11:37:00Z
-weight: 700
+lastmod: 2024-06-25T11:37:00Z
+weight: 605
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: 0iq-XTDNbfx
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: Hybrid
 slug: the-false-claim-that-scrum-is-immutable
 aliases:
-- /resources/nTipEJck6ez
-- /resources/0iq-XTDNbfx
+  - /resources/nTipEJck6ez
+  - /resources/0iq-XTDNbfx
 aliasesArchive:
-- /resources/nTipEJck6ez
+  - /resources/nTipEJck6ez
 source: internal
 layout: signal
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
+  - Scrum
+  - Product Development
 tags: []
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
-  post_id: 7203391158197088256
-  post_date: 2024-06-25T11:37:00Z
-  performance:
-    impressions: 29747
-    members_reached: 20284
-    reactions: 104
-    comments: 88
-    reposts: 8
-  reactions_top_job_title: Scrum Master
-  comments_top_job_title: Founder
-  reposts_top_job_title: Delivery Lead
-- platform: Reddit
-  post_url: https://www.reddit.com/r/scrum/comments/1doz1u8/the_false_claim_that_scrum_is_immutable/
-  post_date: 2024-06-25T11:37:00Z
-  performance:
-    impressions: 7800
-    members_reached: 7800
-    reactions: 14
-    comments: 21
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
+    post_id: 7203391158197088256
+    post_date: 2024-06-25T11:37:00Z
+    performance:
+      impressions: 29747
+      members_reached: 20284
+      reactions: 104
+      comments: 88
+      reposts: 8
+    reactions_top_job_title: Scrum Master
+    comments_top_job_title: Founder
+    reposts_top_job_title: Delivery Lead
+  - platform: Reddit
+    post_url: https://www.reddit.com/r/scrum/comments/1doz1u8/the_false_claim_that_scrum_is_immutable/
+    post_date: 2024-06-25T11:37:00Z
+    performance:
+      impressions: 7800
+      members_reached: 7800
+      reactions: 14
+      comments: 21
+      reposts: 0
 Watermarks:
   description: 2025-05-07T13:02:48Z
   short_title: 2025-07-07T17:49:10Z
+  tldr: 2025-08-07T12:51:19Z
 resourceTypes:
-- signal
+  - signal
 url: /resources/signals/:slug
 
 ---

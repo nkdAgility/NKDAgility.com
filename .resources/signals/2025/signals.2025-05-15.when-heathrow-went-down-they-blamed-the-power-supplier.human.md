@@ -2,35 +2,42 @@
 title: When Heathrow went down, they blamed the power supplier.
 short_title: 'Heathrow Outage: Disaster Recovery Failure'
 description: Heathrow’s outage was caused by an over-sensitive disaster recovery system, not a power loss, highlighting the risks of untested resilience and flawed infrastructure assumptions.
+tldr: Heathrow’s outage was not caused by a power loss but by an overly sensitive internal system that shut everything down in response to a minor fluctuation, revealing that their disaster recovery measures were untested for real-world chaos. Investing in infrastructure does not guarantee true resilience; resilience is proven only when systems are tested against unexpected failures. Development managers should regularly test and challenge their recovery processes to ensure they work under real conditions, not just ideal scenarios.
 date: 2025-05-15T15:30:30+01:00
+lastmod: 2025-05-15T15:30:30+01:00
 weight: 405
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: NpLk02WHeMe
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: when-heathrow-went-down-they-blamed-the-power-supplier
 aliases:
-- /resources/NpLk02WHeMe
+  - /resources/NpLk02WHeMe
 source: LinkedIn
 layout: signal
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7328803975921569792
-  post_id: "7328803975921569792"
-  post_date: 2025-05-15T14:30:30Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7328803975921569792
+    post_id: "7328803975921569792"
+    post_date: 2025-05-15T14:30:30Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-19T13:39:42Z
   short_title: 2025-07-07T16:44:10Z
+  tldr: 2025-08-07T12:32:12Z
 
 ---
 When Heathrow went down, they blamed the power supplier.

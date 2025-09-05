@@ -2,31 +2,39 @@
 title: No Estimates and is it advisable for a Scrum Team to adopt it?
 short_title: 'No Estimates for Scrum Teams: Should You Adopt?'
 description: Explores whether Scrum Teams should adopt No Estimates, comparing estimation methods, team maturity, and metrics like cycle time, throughput, WIP, and work item ageing.
+tldr: Estimation is valuable mainly for the team discussions it generates, not the numbers themselves. New Scrum Teams benefit from using Story Points and Velocity, but as they mature, they should shift to flow-based metrics like Cycle Time and Throughput and consider dropping traditional estimation. Teams should regularly review and adapt their process, moving toward simpler sizing and continuous improvement as they gain experience.
 date: 2019-08-22
+lastmod: 2019-08-22
 weight: 440
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: Lv1CLfk5cPM
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 aliases:
-- /resources/Lv1CLfk5cPM
+  - /resources/Lv1CLfk5cPM
 aliasesArchive:
-- /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
-- /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
-- /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
-- /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
-- /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
+  - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
+  - /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
+  - /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
+  - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
+  - /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 layout: blog
 concepts: []
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Software Development
+  - Software Development
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:16:14Z
   short_title: 2025-07-07T17:58:31Z
+  tldr: 2025-08-07T13:13:08Z
 ResourceImportId: 39684
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -2,44 +2,52 @@
 title: A two-day Scrum Master certification doesn’t make you a Scrum Master
 short_title: Certification Alone Doesn’t Make a Scrum Master
 description: Practical experience is essential for effective Scrum Masters; certification alone is insufficient. True expertise comes from guiding teams, solving challenges, and delivering value.
+tldr: A two-day Scrum Master certification alone is not enough to prepare someone for the real challenges of leading Scrum Teams and delivering value. Effective Scrum Masters have hands-on experience, understand code quality and DevOps, and have navigated real-world obstacles. Companies should prioritize hiring or developing Scrum Masters with proven experience rather than relying solely on certifications.
 date: 2025-02-27T16:30:31+00:00
+lastmod: 2025-02-27T16:30:31+00:00
 weight: 320
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: aYJLiPejAHG
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: a-two-day-scrum-master-certification-doesn-t-make-you-a-scrum-master
 aliases:
-- /resources/aYJLiPejAHG
+  - /resources/aYJLiPejAHG
 source: LinkedIn
 layout: signal
 concepts: []
 categories:
-- Product Development
-- Technical Leadership
-- Scrum
+  - Product Development
+  - Technical Leadership
+  - Scrum
 tags:
-- Pragmatic Thinking
-- Competence
-- Software Development
-- Product Delivery
-- Professional Scrum
-- Operational Practices
-- Agile Philosophy
+  - Pragmatic Thinking
+  - Competence
+  - Software Development
+  - Product Delivery
+  - Professional Scrum
+  - Operational Practices
+  - Personal
+  - Agile Philosophy
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7300915211945857024
-  post_id: "7300915211945857024"
-  post_date: 2025-02-27T16:30:31Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7300915211945857024
+    post_id: "7300915211945857024"
+    post_date: 2025-02-27T16:30:31Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:41Z
   short_title: 2025-07-07T16:45:45Z
+  tldr: 2025-08-07T12:35:33Z
 
 ---
 A two-day Scrum Master certification doesn’t make you a Scrum Master.

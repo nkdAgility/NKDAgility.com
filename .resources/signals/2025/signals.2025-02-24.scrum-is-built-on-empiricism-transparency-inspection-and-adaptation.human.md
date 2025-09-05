@@ -2,47 +2,54 @@
 title: Scrum is built on empiricism—transparency, inspection, and adaptation
 short_title: 'Scrum Empiricism: Transparency, Inspection, Adaptation'
 description: Explains why consistent delivery of usable increments is essential in Scrum, highlighting the Scrum Master's accountability for ensuring transparency, inspection, and adaptation.
+tldr: Scrum relies on delivering a usable product increment every sprint, and if this does not happen, the team is not truly practicing Scrum. The Scrum Master is accountable for ensuring an environment where delivery is consistent and inevitable, with no excuses for missed increments. Development managers should ensure their Scrum Masters take ownership of delivery and address any barriers to producing usable increments each sprint.
 date: 2025-02-24T16:30:29+00:00
+lastmod: 2025-02-24T16:30:29+00:00
 weight: 535
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: P1tjFbyeVyU
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: scrum-is-built-on-empiricism-transparency-inspection-and-adaptation
 aliases:
-- /resources/P1tjFbyeVyU
+  - /resources/P1tjFbyeVyU
 source: LinkedIn
 layout: signal
 concepts:
-- Principle
+  - Principle
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Scrum Master
-- Increment
-- Working Software
-- Professional Scrum
-- Product Delivery
-- Team Performance
-- Agile Frameworks
-- Pragmatic Thinking
-- Value Delivery
+  - Software Development
+  - Scrum Master
+  - Increment
+  - Working Software
+  - Professional Scrum
+  - Product Delivery
+  - Team Performance
+  - Agile Frameworks
+  - Pragmatic Thinking
+  - Value Delivery
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7299828040820289536
-  post_id: "7299828040820289536"
-  post_date: 2025-02-24T16:30:29Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7299828040820289536
+    post_id: "7299828040820289536"
+    post_date: 2025-02-24T16:30:29Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:44Z
   short_title: 2025-07-07T17:46:07Z
+  tldr: 2025-08-07T12:35:48Z
 
 ---
 Scrum is built on empiricism—transparency, inspection, and adaptation. But what happens when there’s nothing to inspect?

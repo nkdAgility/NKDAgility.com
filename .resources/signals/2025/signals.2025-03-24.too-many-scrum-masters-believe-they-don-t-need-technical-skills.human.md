@@ -2,40 +2,47 @@
 title: Too many Scrum Masters believe they don’t need technical skills
 short_title: Technical Skills Essential for Scrum Masters
 description: Highlights the importance of technical knowledge for Scrum Masters, arguing that understanding team-specific skills is essential to effectively support and enable their teams.
+tldr: Scrum Masters need relevant technical and domain knowledge to effectively support their teams, not just certifications. Without understanding the specific challenges and practices of their team's work, they cannot truly enable success. Development managers should ensure Scrum Masters have or develop the necessary expertise to make a meaningful impact.
 date: 2025-03-24T16:30:03+00:00
+lastmod: 2025-03-24T16:30:03+00:00
 weight: 335
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: q_OupO_abR_
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: too-many-scrum-masters-believe-they-don-t-need-technical-skills
 aliases:
-- /resources/q_OupO_abR_
+  - /resources/q_OupO_abR_
 source: LinkedIn
 layout: signal
 concepts: []
 categories:
-- Scrum
-- Product Development
-- Technical Leadership
+  - Scrum
+  - Product Development
+  - Technical Leadership
 tags:
-- Competence
-- Professional Scrum
-- Software Development
+  - Competence
+  - Professional Scrum
+  - Software Development
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7309974791539642369
-  post_id: "7309974791539642369"
-  post_date: 2025-03-24T16:30:03Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7309974791539642369
+    post_id: "7309974791539642369"
+    post_date: 2025-03-24T16:30:03Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:55Z
   short_title: 2025-07-07T16:45:14Z
+  tldr: 2025-08-07T12:34:27Z
 
 ---
 Too many Scrum Masters believe they don’t need technical skills. The Scrum Guide doesn’t explicitly say they do—but let’s be real.

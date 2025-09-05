@@ -2,36 +2,43 @@
 title: Understand the true risk of technical debt in your business
 short_title: The True Risk of Technical Debt in Business
 description: Technical debt poses significant business risks, reducing agility, slowing innovation, and causing lost opportunities. Addressing it is crucial for long-term organisational success.
+tldr: Technical debt is pure risk with no upside, leading to lost time, reduced agility, and missed opportunities. Microsoft’s experience shows that unchecked technical debt can severely slow delivery, but addressing it directly restores speed and flexibility. Development managers should treat technical debt as a critical business issue and take proactive steps to reduce it.
 date: 2025-04-24T15:30:48+01:00
+lastmod: 2025-04-24T15:30:48+01:00
 weight: 240
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: SLaqpu5BHH8
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: understand-the-true-risk-of-technical-debt-in-your-business
 aliases:
-- /resources/SLaqpu5BHH8
+  - /resources/SLaqpu5BHH8
 source: LinkedIn
 layout: signal
 concepts: []
 categories:
-- Engineering Excellence
+  - Engineering Excellence
 tags:
-- Technical Debt
+  - Technical Debt
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7321193906157637635
-  post_id: "7321193906157637635"
-  post_date: 2025-04-24T14:30:48Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7321193906157637635
+    post_id: "7321193906157637635"
+    post_date: 2025-04-24T14:30:48Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:15Z
   short_title: 2025-07-07T16:44:41Z
+  tldr: 2025-08-07T12:33:15Z
 
 ---
 If your business truly understood the risk of technical debt, you wouldn’t accept any of it.

@@ -23,6 +23,7 @@ aliasesArchive:
   - /training-courses/applying-flow-metrics-for-scrum/
   - /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
   - /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
+type: course
 concepts:
   - Practice
 categories:
@@ -54,7 +55,6 @@ Watermarks:
   short_title: 2025-07-29T15:00:56Z
   tldr: 2025-08-08T11:37:22Z
 creator: Martin Hinshelwood
-type: course
 url: /training-courses/kanban-training-courses/:slug/
 course_topics:
   - Kanban Training Courses

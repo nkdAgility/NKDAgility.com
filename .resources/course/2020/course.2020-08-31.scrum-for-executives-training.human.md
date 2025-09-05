@@ -15,14 +15,12 @@ ResourceType: course
 ResourceContentOrigin: human
 slug: scrum-for-executives-training
 aliases:
-  - /training-courses/scrum-for-executives
-  - /training-courses/scrum-for-executives-training/
-  - /capabilities/training-courses/accentient/scrum-for-executives
   - /resources/AHschsDjL2E
 aliasesArchive:
   - /training-courses/scrum-for-executives
   - /training-courses/scrum-for-executives-training/
   - /capabilities/training-courses/accentient/scrum-for-executives
+type: course
 concepts:
   - Framework
 categories:
@@ -47,7 +45,6 @@ Watermarks:
   short_title: 2025-07-29T15:01:26Z
   tldr: 2025-08-08T11:40:16Z
 creator: Martin Hinshelwood
-type: course
 url: 
 course_topics:
   - Scrum Training Courses

@@ -2,40 +2,48 @@
 title: No successful company thrives by copying others’ ways of working
 short_title: Successful Companies Create Unique Ways of Working
 description: Successful companies thrive by creating unique ways of working, not by copying frameworks. Tailor your approach to fit your organisation’s culture, needs, and goals.
+tldr: Successful companies do not achieve success by copying others’ processes; instead, they create ways of working tailored to their unique challenges, culture, and customers. Relying on packaged frameworks like SAFe or the Spotify Model can hinder genuine growth and adaptation. Development managers should focus on designing and evolving their own approaches to scaling rather than outsourcing this critical work to external models.
 date: 2025-04-26T15:30:29+01:00
+lastmod: 2025-04-26T15:30:29+01:00
 weight: 540
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: GcanwqIp5ok
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: no-successful-company-thrives-by-copying-others-ways-of-working
 aliases:
-- /resources/GcanwqIp5ok
+  - /resources/GcanwqIp5ok
 source: LinkedIn
 layout: signal
-concepts: []
+concepts:
+  - Strategy
 categories:
-- Leadership
+  - Leadership
 tags:
-- Agile Philosophy
-- Agile Strategy
-- Organisational Agility
-- Agnostic Agile
-- Organisational Change
+  - Agile Philosophy
+  - Agile Strategy
+  - Organisational Agility
+  - Agnostic Agile
+  - Organisational Change
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7321918600317976577
-  post_id: "7321918600317976577"
-  post_date: 2025-04-26T14:30:29Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7321918600317976577
+    post_id: "7321918600317976577"
+    post_date: 2025-04-26T14:30:29Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:13Z
   short_title: 2025-07-07T16:44:39Z
+  tldr: 2025-08-07T12:33:12Z
 
 ---
 No successful company got where they are by copy-pasting someone else’s way of working.

@@ -6,7 +6,7 @@
       "description": "Comprehensive Agile training courses for Scrum Masters, Product Owners, and teams, offering practical skills and knowledge through immersive and traditional formats.",
       "tldr": "Our training courses help your team build the skills needed to succeed in Agile environments, with options tailored for different roles like Scrum Masters, Product Owners, and team members. Both immersive and traditional formats are available. Consider enrolling your team to boost their effectiveness and adaptability.",
       "date": "2024-06-12",
-      "weight": 645.0,
+      "weight": 645,
       "sitemap": {
         "filename": "sitemap.xml",
         "priority": 0.9,
@@ -30,6 +30,7 @@
         "/training-courses/"
       ],
       "layout": "list-single",
+      "type": "capabilities",
       "concepts": [],
       "categories": [
         "Uncategorized"
@@ -38,25 +39,6 @@
         "Software Development",
         "Agile Transformation"
       ],
-      "card": {
-        "button": {
-          "content": "Training Courses"
-        },
-        "title": "Training Programs",
-        "content": "Elevate your team's performance with our Private Corporate Training! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI."
-      },
-      "Watermarks": {
-        "description": "2025-07-29T15:00:53Z",
-        "short_title": "2025-07-29T15:00:53Z",
-        "tldr": "2025-08-08T11:37:20Z"
-      },
-      "type": "capabilities",
-      "url": "/capabilities/training-courses/",
-      "outputs": [
-        "html",
-        "json"
-      ],
-      "icon": "fa-person-chalkboard",
       "sections": [
         {
           "type": "headline",
@@ -320,7 +302,25 @@
           },
           "boxes": []
         }
-      ]
+      ],
+      "card": {
+        "button": {
+          "content": "Training Courses"
+        },
+        "title": "Training Programs",
+        "content": "Elevate your team's performance with our Private Corporate Training! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI."
+      },
+      "Watermarks": {
+        "description": "2025-07-29T15:00:53Z",
+        "short_title": "2025-07-29T15:00:53Z",
+        "tldr": "2025-08-08T11:37:20Z"
+      },
+      "url": "/capabilities/training-courses/",
+      "outputs": [
+        "html",
+        "json"
+      ],
+      "icon": "fa-person-chalkboard"
     },
     "BodyContent": "Our training courses are designed to equip your team with the skills and knowledge they need to excel in an Agile environment. We offer a variety of courses tailored to different roles, including Scrum Masters, Product Owners, and team members, with both immersive and traditional learning experiences.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\training-courses\\_index.md",
@@ -334,7 +334,7 @@
       "description": "Training courses provide Agile skills for Scrum Masters, Product Owners, and teams, offering immersive and traditional learning tailored to each role’s needs.",
       "tldr": "Our training courses help your team build the skills needed to succeed in Agile by offering role-specific options for Scrum Masters, Product Owners, and team members. Both hands-on and traditional learning formats are available. Consider enrolling your team to strengthen Agile capabilities across roles.",
       "date": "2024-06-12",
-      "weight": 635.0,
+      "weight": 635,
       "sitemap": {
         "filename": "sitemap.xml",
         "priority": 0.9,
@@ -348,26 +348,12 @@
         "/resources/KdeR9TbfRD_"
       ],
       "layout": "list-single",
+      "type": "capabilities",
       "concepts": [],
       "categories": [
         "Uncategorized"
       ],
       "tags": [],
-      "card": {
-        "button": {
-          "content": "Mentor Programs"
-        },
-        "title": "Mentor Programs",
-        "content": "Elevate your team's performance with our Private Corporate Training! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI."
-      },
-      "Watermarks": {
-        "description": "2025-07-29T15:02:00Z",
-        "short_title": "2025-07-29T15:02:01Z",
-        "tldr": "2025-08-08T11:40:47Z"
-      },
-      "type": "capabilities",
-      "url": "/capabilities/mentor-programs/",
-      "icon": "fa-people-arrows",
       "sections": [
         {
           "type": "headline",
@@ -557,7 +543,21 @@
             "resources/videos/youtube/EyqLSLHk_Ik"
           ]
         }
-      ]
+      ],
+      "card": {
+        "button": {
+          "content": "Mentor Programs"
+        },
+        "title": "Mentor Programs",
+        "content": "Elevate your team's performance with our Private Corporate Training! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI."
+      },
+      "Watermarks": {
+        "description": "2025-07-29T15:02:00Z",
+        "short_title": "2025-07-29T15:02:01Z",
+        "tldr": "2025-08-08T11:40:47Z"
+      },
+      "url": "/capabilities/mentor-programs/",
+      "icon": "fa-people-arrows"
     },
     "BodyContent": "Our training courses are designed to equip your team with the skills and knowledge they need to excel in an Agile environment. We offer a variety of courses tailored to different roles, including Scrum Masters, Product Owners, and team members, with both immersive and traditional learning experiences.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\capabilities\\mentor-programs\\_index.md",

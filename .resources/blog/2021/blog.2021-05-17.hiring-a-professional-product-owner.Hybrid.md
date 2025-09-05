@@ -2,56 +2,63 @@
 title: Hiring a Professional Product Owner
 short_title: Hiring a Professional Product Owner
 description: Explains the key accountabilities, skills, and behaviours required for a Scrum Product Owner, including hiring trends, role requirements, and practical job specifications.
+tldr: Hiring a professional Product Owner is increasingly valued, with companies seeking external candidates who bring fresh perspectives and strong business understanding. The Product Owner is accountable for maximizing product value by setting vision, managing stakeholders, collaborating with teams, making key decisions, and using evidence-based approaches to drive outcomes. Ensure candidates have both certification and practical experience, but remember that while responsibilities can be delegated, ultimate accountability always remains with the Product Owner.
 date: 2021-05-17
-weight: 750
+lastmod: 2021-05-17
+weight: 780
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 contributors:
-- name: Fredrik Wendt
-  external: https://www.scrum.org/fredrik-wendt
-- name: Ralph Jocham
-  external: https://www.scrum.org/ralph-jocham
-- name: Andy Hiles
-  external: https://www.scrum.org/andy-hiles
-- name: Maarten Dalmijn
-  external: https://www.linkedin.com/in/maarten-dalmijn/
-- name: Jim Sammons
-  external: https://www.scrum.org/jim-sammons
-- name: Victoria Pent
-  external: https://www.linkedin.com/in/victoria-pent-627a6b61/
-- name: James Powis
-  external: https://www.linkedin.com/in/james-powis-agile-product-owner/
+  - name: Fredrik Wendt
+    external: https://www.scrum.org/fredrik-wendt
+  - name: Ralph Jocham
+    external: https://www.scrum.org/ralph-jocham
+  - name: Andy Hiles
+    external: https://www.scrum.org/andy-hiles
+  - name: Maarten Dalmijn
+    external: https://www.linkedin.com/in/maarten-dalmijn/
+  - name: Jim Sammons
+    external: https://www.scrum.org/jim-sammons
+  - name: Victoria Pent
+    external: https://www.linkedin.com/in/victoria-pent-627a6b61/
+  - name: James Powis
+    external: https://www.linkedin.com/in/james-powis-agile-product-owner/
 ResourceId: Stln5As7Fof
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: hiring-a-professional-product-owner
 aliases:
-- /blog/hiring-a-professional-product-owner
-- /hiring-a-professional-product-owner
-- /resources/Stln5As7Fof
-- /resources/blog/hiring-a-professional-product-owner
+  - /blog/hiring-a-professional-product-owner
+  - /hiring-a-professional-product-owner
+  - /resources/Stln5As7Fof
+  - /resources/blog/hiring-a-professional-product-owner
 aliasesArchive:
-- /blog/hiring-a-professional-product-owner
-- /hiring-a-professional-product-owner
-- /resources/blog/hiring-a-professional-product-owner
+  - /blog/hiring-a-professional-product-owner
+  - /hiring-a-professional-product-owner
+  - /resources/blog/hiring-a-professional-product-owner
 layout: blog
 concepts:
-- Tenet
+  - Tenet
 categories:
-- Product Development
-- Product Management
-- Scrum
+  - Product Development
+  - Product Management
+  - Scrum
 tags:
-- Product Owner
-- Professional Scrum
-- Scrum Team
-- Agile Product Management
-- Software Development
-- Product Delivery
-- Value Delivery
-- Pragmatic Thinking
+  - Product Owner
+  - Value Delivery
+  - Professional Scrum
+  - Scrum Team
+  - Agile Product Management
+  - Software Development
+  - Product Delivery
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:14:56Z
   short_title: 2025-07-07T17:57:30Z
+  tldr: 2025-08-07T13:10:10Z
 ResourceImportId: 46138
 AudioNative: true
 creator: Martin Hinshelwood

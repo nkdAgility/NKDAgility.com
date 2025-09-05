@@ -2,44 +2,53 @@
 title: Can the Definition of Done change per Sprint?
 short_title: Can the Definition of Done Change per Sprint?
 description: The Definition of Done can evolve to improve quality but should not be weakened or vary per backlog item. Consistency ensures transparency and reliable product increments.
+tldr: The Definition of Done can be improved each Sprint to raise quality but should never be changed to lower standards or to vary by backlog item, as this undermines transparency and product value. Consistency in the Definition of Done ensures everyone understands what a usable increment means and supports reliable delivery. Development managers should encourage teams to strengthen the Definition of Done over time, aiming for a shippable product each Sprint.
 date: 2019-10-14
-weight: 360
+lastmod: 2019-10-14
+weight: 200
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: LdmZbBlwgM-
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: can-the-definition-of-done-change-per-sprint
 aliases:
-- /resources/LdmZbBlwgM-
+  - /resources/LdmZbBlwgM-
 aliasesArchive:
-- /blog/can-the-definition-of-done-change-per-sprint
-- /can-the-definition-of-done-change-per-sprint
-- /can-the-definition-of-done-change-per-sprint-
-- /blog/can-the-definition-of-done-change-per-sprint-
-- /resources/blog/can-the-definition-of-done-change-per-sprint
+  - /blog/can-the-definition-of-done-change-per-sprint
+  - /can-the-definition-of-done-change-per-sprint
+  - /can-the-definition-of-done-change-per-sprint-
+  - /blog/can-the-definition-of-done-change-per-sprint-
+  - /resources/blog/can-the-definition-of-done-change-per-sprint
 layout: blog
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Scrum
-- Product Development
-- Engineering Excellence
+  - Scrum
+  - Engineering Excellence
+  - Product Development
 tags:
-- Definition of Done
-- Professional Scrum
-- Working Software
-- Software Development
-- Agile Frameworks
-- Scrum Team
-- Pragmatic Thinking
-- Scrum Master
-- Agile Planning
-- Empirical Process Control
-- Team Performance
-- Product Delivery
+  - Definition of Done
+  - Professional Scrum
+  - Working Software
+  - Software Development
+  - Transparency
+  - Technical Mastery
+  - Agile Frameworks
+  - Scrum Team
+  - Pragmatic Thinking
+  - Scrum Master
+  - Agile Planning
+  - Empirical Process Control
+  - Team Performance
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T13:16:06Z
   short_title: 2025-07-07T17:58:24Z
+  tldr: 2025-08-07T13:12:53Z
 ResourceImportId: 40168
 creator: Martin Hinshelwood
 resourceTypes: blog

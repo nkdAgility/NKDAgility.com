@@ -2,8 +2,14 @@
 title: 'Decoding Ethics in Agile: A Deep Dive with Martin & Simon'
 short_title: Decoding Ethics in Agile
 description: Explore how language, transparency, and precision shape ethical practices in Agile, with insights from experienced Agile coaches and consultants Martin and Simon.
+tldr: Simon Reindl and Martin Hinshelwood discuss how using precise and accurate language is essential for transparency and ethical behavior in Agile teams. They emphasize that clear communication helps avoid misunderstandings and supports better collaboration. Development managers should ensure their teams use language carefully to improve trust and effectiveness.
 date: 2023-10-26
-weight: 1000
+lastmod: 2023-10-26
+weight: 715
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: monthly
 author: MrHinsh
 ResourceId: SfjZtlimOCu
 ResourceImport: false
@@ -11,15 +17,16 @@ ResourceType: podcast
 ResourceContentOrigin: Human
 slug: decoding-ethics-in-agile-a-deep-dive-with-martin-simon
 aliases:
-- /resources/SfjZtlimOCu
+  - /resources/SfjZtlimOCu
 layout: podcast
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:08:22Z
   short_title: 2025-07-07T17:52:07Z
+  tldr: 2025-08-07T12:57:48Z
 resourceTypes: podcast
 
 ---

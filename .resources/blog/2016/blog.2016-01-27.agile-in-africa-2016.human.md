@@ -2,29 +2,36 @@
 title: Agile in Africa 2016
 short_title: Agile in Africa 2016
 description: Agile in Africa 2016 brought together experts in Accra, Ghana to promote genuine Agile practices, share knowledge, and support local development initiatives.
+tldr: Agile in Africa 2016 brought together genuine Agile experts to West Africa, moving beyond past efforts that focused on profit rather than real improvement. Speakers invested their own time and resources, and the event featured multiple days of sessions, strong community engagement, and positive social impact. Development managers interested in authentic Agile transformation and networking in Africa should consider attending or viewing the recorded sessions.
 date: 2016-01-27
+lastmod: 2016-01-27
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: YQ8HMmx0-kz
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: agile-in-africa-2016
 aliases:
-- /resources/YQ8HMmx0-kz
+  - /resources/YQ8HMmx0-kz
 aliasesArchive:
-- /blog/agile-africa-2016
-- /agile-africa-2016
-- /agile-in-africa-2016
-- /blog/agile-in-africa-2016
-- /resources/blog/agile-africa-2016
+  - /blog/agile-africa-2016
+  - /agile-africa-2016
+  - /agile-in-africa-2016
+  - /blog/agile-in-africa-2016
+  - /resources/blog/agile-africa-2016
 layout: blog
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:16:50Z
   short_title: 2025-07-07T17:59:02Z
+  tldr: 2025-08-07T13:24:24Z
 ResourceImportId: 11450
 creator: Martin Hinshelwood
 resourceTypes: blog

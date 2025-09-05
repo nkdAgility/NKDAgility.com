@@ -23,6 +23,7 @@ aliasesArchive:
   - /training-courses/applying-metrics-for-predictability/
   - /training-courses/kanban-training-courses/applying-metrics-for-predictability/
   - /capabilities/training-courses/prokanban.org/prokanban-applying-metrics-for-predictability/
+type: course
 concepts: []
 categories:
   - Product Development
@@ -46,7 +47,6 @@ Watermarks:
   short_title: 2025-07-29T15:00:59Z
   tldr: 2025-08-08T11:37:24Z
 creator: Martin Hinshelwood
-type: course
 url: /training-courses/kanban-training-courses/:slug/
 course_topics:
   - Kanban Training Courses

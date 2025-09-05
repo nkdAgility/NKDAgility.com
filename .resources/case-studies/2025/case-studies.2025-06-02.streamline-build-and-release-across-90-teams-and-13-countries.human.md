@@ -2,43 +2,50 @@
 title: 'Engineering Excellence in Action: How NKD Agility Helped SLB Streamline Build and Release Across 90 Teams and 13 Countries'
 short_title: Streamlining Build & Release Across 90 Teams
 description: NKD Agility helped SLB unify build and release processes across 90 teams in 13 countries, boosting team ownership, efficiency, and engineering accountability.
+tldr: NKD Agility helped SLB streamline build and release by guiding 90 teams across 13 countries to adopt a single source control system and consistent branching, shifting ownership of builds to the engineering teams. This reduced central build team size, improved developer autonomy, and made release management more predictable. Development managers should consider empowering teams with clear structure and shared responsibility to achieve faster, more reliable delivery at scale.
 date: 2025-06-02
+lastmod: 2025-06-02
 weight: 65
+sitemap:
+  filename: sitemap.xml
+  priority: 0.9
+  changefreq: monthly
 ResourceId: PMnxyczoB1K
 ResourceImport: false
 ResourceType: case-studies
 ResourceContentOrigin: human
 slug: streamline-build-and-release-across-90-teams-and-13-countries
 aliases:
-- /resources/PMnxyczoB1K
-- /resources/case-studies/case-study-engineering-excellence-at-scale-slb-and-nkd-agility
+  - /resources/PMnxyczoB1K
+  - /resources/case-studies/case-study-engineering-excellence-at-scale-slb-and-nkd-agility
 aliasesArchive:
-- /resources/case-studies/case-study-engineering-excellence-at-scale-slb-and-nkd-agility
+  - /resources/case-studies/case-study-engineering-excellence-at-scale-slb-and-nkd-agility
 concepts:
-- Principle
+  - Principle
 categories:
-- Engineering Excellence
-- Technical Leadership
-- DevOps
+  - Engineering Excellence
+  - Technical Leadership
+  - DevOps
 tags:
-- Software Development
-- Operational Practices
-- Pragmatic Thinking
-- Technical Mastery
-- Team Collaboration
-- Team Performance
-- Modern Source Control
-- Self Organisation
-- Large Scale Agility
-- Release Management
-- Product Delivery
-- Sociotechnical Systems
-- Technical Excellence
-- One Engineering System
-- Agentic Agility
+  - Software Development
+  - Operational Practices
+  - Pragmatic Thinking
+  - Technical Mastery
+  - Team Collaboration
+  - Team Performance
+  - Modern Source Control
+  - Self Organisation
+  - Large Scale Agility
+  - Release Management
+  - Technical Excellence
+  - Product Delivery
+  - Sociotechnical Systems
+  - One Engineering System
+  - Agentic Agility
 Watermarks:
   description: 2025-06-16T11:50:57Z
   short_title: 2025-07-07T16:43:48Z
+  tldr: 2025-08-07T12:29:07Z
 
 ---
 ## Client Context

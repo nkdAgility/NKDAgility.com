@@ -2,43 +2,50 @@
 title: Agile and Scrum are often misunderstood
 short_title: Agile and Scrum Reveal Team Issues
 description: Agile and Scrum expose underlying team and workflow issues, helping organisations address real problems rather than masking dysfunction with process or tools.
+tldr: Agile and Scrum do not solve problems by themselves; they expose underlying issues in your team's processes. The real value comes from addressing these revealed problems directly rather than just following rituals or tools. Managers should focus on actively resolving dysfunctions highlighted by Agile and Scrum to improve team performance.
 date: 2025-05-04T15:30:30+01:00
+lastmod: 2025-05-04T15:30:30+01:00
 weight: 510
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+  changefreq: weekly
 ResourceId: Oi_yiyEHZbM
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: agile-and-scrum-are-often-misunderstood
 aliases:
-- /resources/Oi_yiyEHZbM
+  - /resources/Oi_yiyEHZbM
 source: LinkedIn
 layout: signal
 concepts:
-- Philosophy
+  - Philosophy
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Pragmatic Thinking
-- Software Development
-- Organisational Agility
-- Social Technologies
-- Agile Philosophy
-- Professional Scrum
+  - Pragmatic Thinking
+  - Software Development
+  - Organisational Agility
+  - Social Technologies
+  - Agile Philosophy
+  - Professional Scrum
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7324817708770877440
-  post_id: "7324817708770877440"
-  post_date: 2025-05-04T14:30:30Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7324817708770877440
+    post_id: "7324817708770877440"
+    post_date: 2025-05-04T14:30:30Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:01Z
   short_title: 2025-07-07T16:44:30Z
+  tldr: 2025-08-07T12:32:53Z
 
 ---
 Agile and Scrum are often misunderstood.

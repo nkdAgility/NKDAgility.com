@@ -21,6 +21,7 @@ aliases:
 aliasesArchive:
   - /training-courses/scrum-training-courses/professional-scrum-master-and-product-owner-psmp-with-certification/
   - /capabilities/training-courses/scrum.org/professional-scrum-master-and-product-owner-psmp-with-certification/
+type: course
 concepts:
   - Method
 categories:
@@ -49,7 +50,6 @@ Watermarks:
   description: 2025-07-29T15:01:10Z
   tldr: 2025-08-08T11:37:36Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
   - Scrum Training Courses

@@ -2,32 +2,39 @@
 title: The Importance of Batch to Optimise Flow
 short_title: Batch Size and Flow Optimisation
 description: Explains how breaking large tasks into smaller batches improves workflow, predictability, and delivery speed, using hands-on exercises based on queuing theory principles.
+tldr: Breaking large backlog items into smaller pieces helps teams deliver faster and more predictably. The workshop uses a hands-on coin game to show that smaller batch sizes improve flow and reduce delivery time. Development managers should encourage teams to split work into smaller, manageable batches to boost efficiency and predictability.
 date: 2024-09-17
+lastmod: 2024-09-17
 weight: 580
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: kwS9oPiz-Ny
 ResourceImport: false
 ResourceType: workshops
 ResourceContentOrigin: Human
 slug: the-importance-of-batch-to-optimise-flow
 aliases:
-- workshops/The-Importance-of-Batch-to-Optimise-Flow.html
-- /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
-- /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
-- /resources/kwS9oPiz-Ny
+  - workshops/The-Importance-of-Batch-to-Optimise-Flow.html
+  - /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
+  - /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
+  - /resources/kwS9oPiz-Ny
 aliasesArchive:
-- workshops/The-Importance-of-Batch-to-Optimise-Flow.html
-- /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
-- /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
+  - workshops/The-Importance-of-Batch-to-Optimise-Flow.html
+  - /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
+  - /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
 layout: workshop
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
+  - Product Development
 tags:
-- Flow Efficiency
-- Operational Practices
-- Lean Principles
-- Lean Thinking
+  - Flow Efficiency
+  - Value Delivery
+  - Operational Practices
+  - Lean Principles
+  - Lean Thinking
 card:
   button:
     content: Learn More
@@ -36,6 +43,7 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:27Z
   short_title: 2025-07-07T17:48:10Z
+  tldr: 2025-08-07T12:42:55Z
 resourceTypes: workshop
 creator: Martin Hinshelwood
 

@@ -2,32 +2,40 @@
 title: What is your perspective on collocation?
 short_title: 'Collocation in Scrum Teams: Benefits & Challenges'
 description: Explores the benefits and challenges of collocation in Scrum teams, comparing face-to-face collaboration with remote work, and offering practical advice for team setup.
+tldr: Collocation, where all team members work together in the same space, is not required for Scrum but is strongly recommended, especially for new teams, as it improves communication, focus, and team ownership. While remote work is possible with the right technology, it often requires extra effort to replicate the benefits of in-person interaction. If collocation is not feasible, managers should support teams with tools and practices to minimize communication challenges and continuously improve team effectiveness.
 date: 2019-10-21
-weight: 500
+lastmod: 2019-10-21
+weight: 450
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
+  changefreq: weekly
 ResourceId: AcwMGmMo7iU
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: what-is-your-perspective-on-collocation
 aliases:
-- /resources/AcwMGmMo7iU
+  - /resources/AcwMGmMo7iU
 aliasesArchive:
-- /blog/what-is-your-perspective-on-collocation
-- /what-is-your-perspective-on-collocation
-- /what-is-your-perspective-on-collocation-
-- /blog/what-is-your-perspective-on-collocation-
-- /resources/blog/what-is-your-perspective-on-collocation
+  - /blog/what-is-your-perspective-on-collocation
+  - /what-is-your-perspective-on-collocation
+  - /what-is-your-perspective-on-collocation-
+  - /blog/what-is-your-perspective-on-collocation-
+  - /resources/blog/what-is-your-perspective-on-collocation
 layout: blog
 concepts: []
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Team Collaboration
-- Team Performance
+  - Social Technologies
+  - Team Collaboration
+  - Team Performance
 Watermarks:
   description: 2025-05-07T13:16:03Z
   short_title: 2025-07-07T17:58:22Z
+  tldr: 2025-08-07T13:12:48Z
 ResourceImportId: 39960
 creator: Martin Hinshelwood
 resourceTypes: blog

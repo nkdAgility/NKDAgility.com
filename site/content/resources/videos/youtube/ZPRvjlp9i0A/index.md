@@ -34,6 +34,7 @@ tags:
   - Market Adaptability
   - Agile Product Management
   - Software Development
+  - Value Delivery
   - Social Technologies
 Watermarks:
   description: 2025-05-07T13:15:48Z

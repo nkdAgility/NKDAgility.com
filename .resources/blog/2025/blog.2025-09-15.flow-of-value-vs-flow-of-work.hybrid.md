@@ -2,26 +2,49 @@
 title: Flow of Value vs Flow of Work – Misnomer or Useful Shorthand?
 short_title: Flow of Value vs Flow of Work
 description: Compares “flow of value” and “flow of work” in Kanban, explaining why only validated outcomes count as value and stressing the need for evidence, feedback, and learning.
+tldr: The phrase “flow of value” is often misused in software development, as value is only confirmed when customers validate it, not just when work is completed. Teams should focus on validating outcomes quickly, breaking work into small, testable increments, and using data to cut features that do not deliver real value. To truly optimise value, ensure every item has a clear hypothesis, measure time to feedback, and prioritise learning over simply moving work through the system.
 date: 2025-09-15T09:00:00Z
-weight: 1000
+lastmod: 2025-09-15T09:00:00Z
+weight: 60
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
 ResourceId: p2XfFa_1tko
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 slug: flow-of-value-vs-flow-of-work
 aliases:
-- /resources/blog/flow-of-value-vs-flow-of-work-misnomer-or-useful-shorthand
-- /resources/p2XfFa_1tko
+  - /resources/blog/flow-of-value-vs-flow-of-work-misnomer-or-useful-shorthand
+  - /resources/p2XfFa_1tko
 aliasesArchive:
-- /resources/blog/flow-of-value-vs-flow-of-work-misnomer-or-useful-shorthand
-concepts: []
+  - /resources/blog/flow-of-value-vs-flow-of-work-misnomer-or-useful-shorthand
+concepts:
+  - Principle
 categories:
-- Uncategorized
-tags: []
+  - Product Development
+  - Engineering Excellence
+  - Technical Leadership
+tags:
+  - Lean Principles
+  - Customer Focus
+  - Empirical Process Control
+  - Software Development
+  - Metrics and Learning
+  - Lean Product Development
+  - Continuous Improvement
+  - Value Delivery
+  - Product Validation
+  - Continuous Learning
+  - Agile Frameworks
+  - Pragmatic Thinking
+  - Flow Efficiency
+  - Agile Philosophy
+  - Agile Product Management
 Watermarks:
   description: 2025-07-30T22:58:59Z
-tldr: |
-  The phrase “flow of value” is easy to abuse. Used carelessly it breeds complacency and hides waste. Used thoughtfully – with explicit definitions of work, disciplined WIP limits, and a relentless focus on measuring outcomes – it can remind us why we’re here: to deliver what stakeholders need, when they need it, as predictably as possible. That’s not just semantics; it’s the difference between a busy team and a valuable one.
+  tldr: 2025-08-07T12:38:44Z
 
 ---
 # Flow of value vs. flow of work: misnomer or useful shorthand?

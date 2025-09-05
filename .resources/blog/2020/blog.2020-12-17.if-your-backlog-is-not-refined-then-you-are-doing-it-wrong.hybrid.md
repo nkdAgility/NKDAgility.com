@@ -2,52 +2,59 @@
 title: If your backlog is not refined then you are doing it wrong
 short_title: 'Backlog Refinement: Essential for Scrum Success'
 description: Explains why regular backlog refinement is essential in Scrum, how to make backlog items ready for Sprint Planning, and ways to measure effective refinement.
+tldr: If your team starts Sprint Planning with backlog items that are not well understood or sized to fit within a sprint, you are setting up for failure. Regular backlog refinement is essential so developers can confidently select and deliver work, and lack of refinement often leads to missed goals and confusion. Make sure your team spends enough time refining upcoming backlog items so they are clear, appropriately sized, and ready for selection in the next two sprints.
 date: 2020-12-17
+lastmod: 2020-12-17
 weight: 330
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+  changefreq: weekly
 ResourceId: 4ukwclfJlXy
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 aliases:
-- /blog/backlog-not-refined-wrong
-- /backlog-not-refined-wrong
-- /if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
-- /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
-- /resources/4ukwclfJlXy
-- /resources/blog/backlog-not-refined-wrong
+  - /blog/backlog-not-refined-wrong
+  - /backlog-not-refined-wrong
+  - /if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
+  - /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
+  - /resources/4ukwclfJlXy
+  - /resources/blog/backlog-not-refined-wrong
 aliasesArchive:
-- /blog/backlog-not-refined-wrong
-- /backlog-not-refined-wrong
-- /if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
-- /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
-- /resources/blog/backlog-not-refined-wrong
+  - /blog/backlog-not-refined-wrong
+  - /backlog-not-refined-wrong
+  - /if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
+  - /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
+  - /resources/blog/backlog-not-refined-wrong
 layout: blog
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Product Development
-- Product Management
+  - Scrum
+  - Product Development
+  - Product Management
 tags:
-- Product Backlog
-- Backlog Refinement
-- Software Development
-- Definition of Ready
-- Agile Frameworks
-- Agile Planning
-- Agile Product Management
-- Professional Scrum
-- Scrum Team
-- Pragmatic Thinking
-- Product Delivery
-- Team Performance
-- Product Developer
-- Agile Planning Tools
-- Product Owner
+  - Software Development
+  - Product Backlog
+  - Backlog Refinement
+  - Product Delivery
+  - Definition of Ready
+  - Agile Frameworks
+  - Agile Planning
+  - Agile Product Management
+  - Professional Scrum
+  - Scrum Team
+  - Pragmatic Thinking
+  - Team Performance
+  - Product Developer
+  - Agile Planning Tools
+  - Product Owner
 Watermarks:
   description: 2025-05-07T13:15:11Z
   short_title: 2025-07-07T17:57:42Z
+  tldr: 2025-08-07T13:10:44Z
 ResourceImportId: 38243
 AudioNative: true
 creator: Martin Hinshelwood

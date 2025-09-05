@@ -25,6 +25,7 @@ aliasesArchive:
   - /training-courses/applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
   - /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
   - /capabilities/training-courses/Scrum.org/applying-professional-scrum-aps-with-certification/
+type: course
 concepts:
   - Method
 categories:
@@ -53,7 +54,6 @@ Watermarks:
   description: 2025-07-29T15:01:55Z
   tldr: 2025-08-08T11:40:31Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 cascade:
   - url: /capabilities/training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/:slug/

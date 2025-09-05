@@ -2,52 +2,59 @@
 title: Professional Scrum teams build software that works
 short_title: Professional Scrum Teams Build Quality Software
 description: Professional Scrum Teams prioritise software quality, accountability, and continuous improvement, ensuring each release is reliable, defect-free, and delivers real value.
+tldr: Professional Scrum teams must deliver high-quality, working software every sprint, prioritizing quality over speed or feature quantity to build trust and protect the organization's reputation. Developers are accountable for quality and should use automation, DevOps practices, and continuous improvement to avoid technical debt and defects. Managers should empower teams to focus on quality, address technical debt in retrospectives, and consider upskilling developers through professional training.
 date: 2020-12-03
-weight: 175
+lastmod: 2020-12-03
+weight: 195
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: vCeqzJIgF1F
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: professional-scrum-teams-build-software-that-works
 aliases:
-- /blog/professional-scrum-teams-build-software-works
-- /professional-scrum-teams-build-software-works
-- /professional-scrum-teams-build-software-that-works
-- /blog/professional-scrum-teams-build-software-that-works
-- /resources/vCeqzJIgF1F
-- /resources/blog/professional-scrum-teams-build-software-works
+  - /blog/professional-scrum-teams-build-software-works
+  - /professional-scrum-teams-build-software-works
+  - /professional-scrum-teams-build-software-that-works
+  - /blog/professional-scrum-teams-build-software-that-works
+  - /resources/vCeqzJIgF1F
+  - /resources/blog/professional-scrum-teams-build-software-works
 aliasesArchive:
-- /blog/professional-scrum-teams-build-software-works
-- /professional-scrum-teams-build-software-works
-- /professional-scrum-teams-build-software-that-works
-- /blog/professional-scrum-teams-build-software-that-works
-- /resources/blog/professional-scrum-teams-build-software-works
+  - /blog/professional-scrum-teams-build-software-works
+  - /professional-scrum-teams-build-software-works
+  - /professional-scrum-teams-build-software-that-works
+  - /blog/professional-scrum-teams-build-software-that-works
+  - /resources/blog/professional-scrum-teams-build-software-works
 layout: blog
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Scrum
-- Engineering Excellence
-- Product Development
+  - Engineering Excellence
+  - Scrum
+  - Product Development
 tags:
-- Product Developer
-- Working Software
-- Increment
-- Pragmatic Thinking
-- Software Development
-- Technical Mastery
-- Agile Frameworks
-- Professional Scrum
-- Scrum Team
-- Empirical Process Control
-- Product Delivery
-- Team Performance
-- Agile Product Management
-- Technical Debt
-- Competence
+  - Product Developer
+  - Working Software
+  - Increment
+  - Pragmatic Thinking
+  - Software Development
+  - Technical Mastery
+  - Agile Frameworks
+  - Professional Scrum
+  - Scrum Team
+  - Empirical Process Control
+  - Product Delivery
+  - Team Performance
+  - Agile Product Management
+  - Technical Debt
+  - Competence
 Watermarks:
   description: 2025-05-07T13:15:18Z
   short_title: 2025-07-07T17:57:45Z
+  tldr: 2025-08-07T13:10:53Z
 ResourceImportId: 22774
 creator: Martin Hinshelwood
 resourceTypes: blog

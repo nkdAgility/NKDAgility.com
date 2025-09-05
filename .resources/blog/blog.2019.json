@@ -4,8 +4,15 @@
       "title": "What is your perspective on collocation?",
       "short_title": "Collocation in Scrum Teams: Benefits & Challenges",
       "description": "Explores the benefits and challenges of collocation in Scrum teams, comparing face-to-face collaboration with remote work, and offering practical advice for team setup.",
+      "tldr": "Collocation, where all team members work together in the same space, is not required for Scrum but is strongly recommended, especially for new teams, as it improves communication, focus, and team ownership. While remote work is possible with the right technology, it often requires extra effort to replicate the benefits of in-person interaction. If collocation is not feasible, managers should support teams with tools and practices to minimize communication challenges and continuously improve team effectiveness.",
       "date": "2019-10-21",
-      "weight": 500.0,
+      "lastmod": "2019-10-21",
+      "weight": 450.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.5,
+        "changefreq": "weekly"
+      },
       "ResourceId": "AcwMGmMo7iU",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -28,12 +35,14 @@
         "Product Development"
       ],
       "tags": [
+        "Social Technologies",
         "Team Collaboration",
         "Team Performance"
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:03Z",
-        "short_title": "2025-07-07T17:58:22Z"
+        "short_title": "2025-07-07T17:58:22Z",
+        "tldr": "2025-08-07T13:12:48Z"
       },
       "ResourceImportId": 39960,
       "creator": "Martin Hinshelwood",
@@ -50,8 +59,15 @@
       "title": "Can the Definition of Done change per Sprint?",
       "short_title": "Can the Definition of Done Change per Sprint?",
       "description": "The Definition of Done can evolve to improve quality but should not be weakened or vary per backlog item. Consistency ensures transparency and reliable product increments.",
+      "tldr": "The Definition of Done can be improved each Sprint to raise quality but should never be changed to lower standards or to vary by backlog item, as this undermines transparency and product value. Consistency in the Definition of Done ensures everyone understands what a usable increment means and supports reliable delivery. Development managers should encourage teams to strengthen the Definition of Done over time, aiming for a shippable product each Sprint.",
       "date": "2019-10-14",
-      "weight": 360.0,
+      "lastmod": "2019-10-14",
+      "weight": 200.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.7,
+        "changefreq": "weekly"
+      },
       "ResourceId": "LdmZbBlwgM-",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -73,14 +89,16 @@
       ],
       "categories": [
         "Scrum",
-        "Product Development",
-        "Engineering Excellence"
+        "Engineering Excellence",
+        "Product Development"
       ],
       "tags": [
         "Definition of Done",
         "Professional Scrum",
         "Working Software",
         "Software Development",
+        "Transparency",
+        "Technical Mastery",
         "Agile Frameworks",
         "Scrum Team",
         "Pragmatic Thinking",
@@ -92,7 +110,8 @@
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:06Z",
-        "short_title": "2025-07-07T17:58:24Z"
+        "short_title": "2025-07-07T17:58:24Z",
+        "tldr": "2025-08-07T13:12:53Z"
       },
       "ResourceImportId": 40168,
       "creator": "Martin Hinshelwood",
@@ -109,8 +128,15 @@
       "title": "How do you handle conflict in a Scrum Team?",
       "short_title": "Handling Conflict in Scrum Teams",
       "description": "Guidance on resolving conflict in Scrum Teams, including facilitation techniques, escalation steps, and the Scrum Master's role in fostering healthy team dynamics.",
+      "tldr": "When conflict arises in a Scrum Team, first encourage the team to resolve it themselves and use facilitation techniques that ensure everyone is heard, such as structured group discussions. The Scrum Master should coach team members and escalate only if necessary, involving HR or considering team changes as a last resort. Focus on building conflict resolution skills within the team and iteratively adapt your approach to find the best solution.",
       "date": "2019-10-07",
+      "lastmod": "2019-10-07",
       "weight": 610.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.3,
+        "changefreq": "weekly"
+      },
       "ResourceId": "xIWBb8Cy_Rv",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -132,6 +158,7 @@
       ],
       "categories": [
         "Scrum",
+        "Leadership",
         "Technical Leadership"
       ],
       "tags": [
@@ -142,11 +169,13 @@
         "Professional Scrum",
         "Team Collaboration",
         "Scrum Master",
-        "Pragmatic Thinking"
+        "Pragmatic Thinking",
+        "Team Motivation"
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:07Z",
-        "short_title": "2025-07-07T17:58:24Z"
+        "short_title": "2025-07-07T17:58:24Z",
+        "tldr": "2025-08-07T13:12:56Z"
       },
       "ResourceImportId": 39851,
       "creator": "Martin Hinshelwood",
@@ -163,8 +192,15 @@
       "title": "In Nexus with 5 Scrum teams, how can the Product Owner attend all Sprint Planning events?",
       "short_title": "Product Owner Role in Nexus Sprint Planning",
       "description": "Explains how a Product Owner can manage Sprint Planning across multiple Scrum teams in Nexus by delegating, using area or team owners, and maintaining clear communication.",
+      "tldr": "When managing multiple Scrum teams in a Nexus, the Product Owner should focus on high-level vision and attend only the Nexus Sprint Planning, delegating detailed planning to designated Team Owners or Area Owners for each team. This approach reduces overload, maintains alignment with the product vision, and relies on strong communication and autonomy within teams. To implement this, assign a representative for each team to handle their Sprint Planning and ensure ongoing coordination with the Product Owner.",
       "date": "2019-09-30",
-      "weight": 640.0,
+      "lastmod": "2019-09-30",
+      "weight": 665.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.2,
+        "changefreq": "weekly"
+      },
       "ResourceId": "As4R5dKsJtU",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -191,16 +227,17 @@
         "Product Development"
       ],
       "tags": [
+        "Product Owner",
         "Agile Frameworks",
         "Agile Product Management",
         "Professional Scrum",
         "Software Development",
-        "Scrum Team",
-        "Product Owner"
+        "Scrum Team"
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:08Z",
-        "short_title": "2025-07-07T17:58:25Z"
+        "short_title": "2025-07-07T17:58:25Z",
+        "tldr": "2025-08-07T13:12:58Z"
       },
       "ResourceImportId": 39855,
       "creator": "Martin Hinshelwood",
@@ -217,8 +254,15 @@
       "title": "Should the Scrum Master always remove impediments?",
       "short_title": "Should the Scrum Master Always Remove Impediments?",
       "description": "Explains when a Scrum Master should remove impediments, focusing on team self-sufficiency, true impediments, and supporting team growth within Scrum practices.",
+      "tldr": "The Scrum Master is responsible for removing impediments, but should only step in when the team cannot resolve the issue themselves. Their focus should be on enabling the team to handle similar problems independently in the future, building self-sufficiency. Development managers should encourage Scrum Masters to coach teams rather than always solving problems for them.",
       "date": "2019-09-23",
-      "weight": 640.0,
+      "lastmod": "2019-09-23",
+      "weight": 605.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.3,
+        "changefreq": "weekly"
+      },
       "ResourceId": "xPJL0I4sjDJ",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -237,7 +281,8 @@
       "layout": "blog",
       "concepts": [],
       "categories": [
-        "Scrum"
+        "Scrum",
+        "Technical Leadership"
       ],
       "tags": [
         "Scrum Team",
@@ -247,7 +292,8 @@
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:09Z",
-        "short_title": "2025-07-07T17:58:27Z"
+        "short_title": "2025-07-07T17:58:27Z",
+        "tldr": "2025-08-07T13:12:59Z"
       },
       "ResourceImportId": 39856,
       "creator": "Martin Hinshelwood",
@@ -264,8 +310,15 @@
       "title": "What's the best way to work around multiple PO?",
       "short_title": "Working With Multiple Product Owners in Scrum",
       "description": "Guidance on addressing issues with multiple Product Owners in Scrum, highlighting the need for clear backlog ownership and accountability to ensure value delivery.",
+      "tldr": "If multiple people are acting as Product Owners but are not providing clear direction or attending key meetings, your team lacks true ownership of the product backlog and value delivery. This leads to wasted effort on features that may not matter, with industry data showing up to 65 percent of time spent on the wrong work. Raise this issue with management and ensure someone is clearly accountable for prioritizing and validating work, even if it means temporarily assigning the role until a suitable Product Owner is found.",
       "date": "2019-09-16",
+      "lastmod": "2019-09-16",
       "weight": 640.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.3,
+        "changefreq": "weekly"
+      },
       "ResourceId": "KIG3LzjF3zK",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -291,12 +344,14 @@
         "Product Development"
       ],
       "tags": [
+        "Social Technologies",
         "Agile Product Management",
         "Product Owner"
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:11Z",
-        "short_title": "2025-07-07T17:58:28Z"
+        "short_title": "2025-07-07T17:58:28Z",
+        "tldr": "2025-08-07T13:13:02Z"
       },
       "ResourceImportId": 39853,
       "creator": "Martin Hinshelwood",
@@ -313,8 +368,15 @@
       "title": "How do you make a good Forecast?",
       "short_title": "How to Make Reliable Agile Forecasts",
       "description": "Explains how to create reliable forecasts in agile projects by using flow metrics like cycle time and throughput, and shifting from project-based to team-based budgeting.",
+      "tldr": "To make better forecasts in agile projects, shift from using metrics like story points and velocity to flow-based metrics such as cycle time, throughput, and work in process, which improve predictability by encouraging smaller, more manageable work items. For budgeting and staffing, calculate team costs per sprint and extrapolate for annual needs, moving from project-based to team-based budgeting. Involve stakeholders early in this transition to address concerns and ensure smoother adoption.",
       "date": "2019-09-09",
+      "lastmod": "2019-09-09",
       "weight": 540.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.4,
+        "changefreq": "weekly"
+      },
       "ResourceId": "fm9Rt6R7JZz",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -346,7 +408,8 @@
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:12Z",
-        "short_title": "2025-07-07T17:58:29Z"
+        "short_title": "2025-07-07T17:58:29Z",
+        "tldr": "2025-08-07T13:13:04Z"
       },
       "ResourceImportId": 39852,
       "creator": "Martin Hinshelwood",
@@ -363,8 +426,15 @@
       "title": "Are technical skills required to be a Scrum Master?",
       "short_title": "Are Technical Skills Needed for Scrum Masters?",
       "description": "Technical skills are not required to be a Scrum Master, but understanding technical, business, and organisational contexts helps Scrum Masters better support their teams.",
+      "tldr": "Technical skills are not strictly required to be a Scrum Master, but having a solid understanding of technical, business, and organizational contexts makes a Scrum Master much more effective. Mastery in these areas helps Scrum Masters better support their teams, guide Product Owners, and drive meaningful organizational change. Development managers should ensure their Scrum Masters are equipped with broad contextual knowledge to maximize team and business value.",
       "date": "2019-09-01",
+      "lastmod": "2019-09-01",
       "weight": 275.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.6,
+        "changefreq": "weekly"
+      },
       "ResourceId": "foi9MYyc1vq",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -397,7 +467,8 @@
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:13Z",
-        "short_title": "2025-07-07T17:58:30Z"
+        "short_title": "2025-07-07T17:58:30Z",
+        "tldr": "2025-08-07T13:13:06Z"
       },
       "ResourceImportId": 39894,
       "creator": "Martin Hinshelwood",
@@ -414,8 +485,15 @@
       "title": "No Estimates and is it advisable for a Scrum Team to adopt it?",
       "short_title": "No Estimates for Scrum Teams: Should You Adopt?",
       "description": "Explores whether Scrum Teams should adopt No Estimates, comparing estimation methods, team maturity, and metrics like cycle time, throughput, WIP, and work item ageing.",
+      "tldr": "Estimation is valuable mainly for the team discussions it generates, not the numbers themselves. New Scrum Teams benefit from using Story Points and Velocity, but as they mature, they should shift to flow-based metrics like Cycle Time and Throughput and consider dropping traditional estimation. Teams should regularly review and adapt their process, moving toward simpler sizing and continuous improvement as they gain experience.",
       "date": "2019-08-22",
+      "lastmod": "2019-08-22",
       "weight": 440.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.5,
+        "changefreq": "weekly"
+      },
       "ResourceId": "Lv1CLfk5cPM",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -438,11 +516,13 @@
         "Scrum"
       ],
       "tags": [
-        "Software Development"
+        "Software Development",
+        "Social Technologies"
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:14Z",
-        "short_title": "2025-07-07T17:58:31Z"
+        "short_title": "2025-07-07T17:58:31Z",
+        "tldr": "2025-08-07T13:13:08Z"
       },
       "ResourceImportId": 39684,
       "creator": "Martin Hinshelwood",
@@ -459,8 +539,15 @@
       "title": "How do you incorporate a Design Sprint in Scrum?",
       "short_title": "Incorporating Design Sprints into Scrum",
       "description": "Explains how to integrate Design Sprint activities within Scrum by embedding design and UX work into regular sprints and backlog refinement, avoiding separate design sprints.",
+      "tldr": "Design Sprints should not be treated as separate or special sprints in Scrum; instead, design and UX work should be integrated into regular sprints as part of the team's ongoing activities or handled during backlog refinement for future work. All team members should collaborate on these tasks, leveraging individual skills without creating silos or specialist-only phases. Development managers should ensure design activities are visible, collaborative, and aligned with sprint goals, using communities of practice to share knowledge across teams.",
       "date": "2019-08-16",
+      "lastmod": "2019-08-16",
       "weight": 540.0,
+      "sitemap": {
+        "filename": "sitemap.xml",
+        "priority": 0.4,
+        "changefreq": "weekly"
+      },
       "ResourceId": "MHeGFYrasBx",
       "ResourceImport": false,
       "ResourceType": "blog",
@@ -484,12 +571,14 @@
       ],
       "tags": [
         "Software Development",
+        "Social Technologies",
         "Agile Frameworks",
         "Product Developer"
       ],
       "Watermarks": {
         "description": "2025-05-07T13:16:15Z",
-        "short_title": "2025-07-07T17:58:32Z"
+        "short_title": "2025-07-07T17:58:32Z",
+        "tldr": "2025-08-07T13:13:11Z"
       },
       "ResourceImportId": 39682,
       "creator": "Martin Hinshelwood",

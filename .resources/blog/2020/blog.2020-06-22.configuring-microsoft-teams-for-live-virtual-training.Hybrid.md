@@ -2,30 +2,38 @@
 title: Configuring Microsoft Teams for Live Virtual Training
 short_title: Configuring Microsoft Teams for Virtual Training
 description: Step-by-step guide to setting up Microsoft Teams for live virtual training, covering Azure AD, Microsoft 365, guest access, external identities, and class experience tips.
+tldr: To deliver effective live virtual training in Microsoft Teams, you need to set up Azure Active Directory, a Microsoft 365 subscription, and enable guest and external access for full collaboration features. Proper configuration allows both internal and external participants to access files, chat, and breakout rooms, and recent updates make guest authentication easier. Investing time in setup ensures a smoother, more professional experience for your training sessions, so plan and configure these elements before your first class.
 date: 2020-06-22
+lastmod: 2020-06-22
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Xc0Lh3NbXfK
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: configuring-microsoft-teams-for-live-virtual-training
 aliases:
-- /resources/Xc0Lh3NbXfK
+  - /resources/Xc0Lh3NbXfK
 aliasesArchive:
-- /blog/configuring-microsoft-teams-for-live-virtual-training
-- /configuring-microsoft-teams-for-live-virtual-training
-- /resources/blog/configuring-microsoft-teams-for-live-virtual-training
+  - /blog/configuring-microsoft-teams-for-live-virtual-training
+  - /configuring-microsoft-teams-for-live-virtual-training
+  - /resources/blog/configuring-microsoft-teams-for-live-virtual-training
 layout: blog
 concepts:
-- Tool
+  - Tool
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- System Configuration
-- Install and Configuration
+  - Collaboration Tools
+  - System Configuration
+  - Install and Configuration
 Watermarks:
   description: 2025-05-07T13:15:35Z
   short_title: 2025-07-07T17:57:58Z
+  tldr: 2025-08-07T13:11:24Z
 ResourceImportId: 44452
 creator: Martin Hinshelwood
 resourceTypes: blog

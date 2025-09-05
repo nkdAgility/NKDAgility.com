@@ -2,29 +2,36 @@
 title: 'Scrum Tapas: Scrum and Continuous Delivery'
 short_title: Scrum and Continuous Delivery Explained
 description: Explains how Scrum and Continuous Delivery work together, highlighting their complementary roles in agile software development and practical integration tips.
+tldr: Scrum and Continuous Delivery work well together and can enhance each other’s benefits. Using both allows teams to deliver value more frequently and respond to change faster. Consider combining these approaches to improve your team's delivery speed and adaptability.
 date: 2017-06-28
+lastmod: 2017-06-28
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: LoRDIqNuwD-
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Human
 slug: scrum-tapas-scrum-and-continuous-delivery
 aliases:
-- /resources/LoRDIqNuwD-
+  - /resources/LoRDIqNuwD-
 aliasesArchive:
-- /blog/scrum-tapas-scrum-continuous-delivery
-- /scrum-tapas-scrum-continuous-delivery
-- /scrum-tapas--scrum-and-continuous-delivery
-- /blog/scrum-tapas--scrum-and-continuous-delivery
-- /resources/blog/scrum-tapas-scrum-continuous-delivery
+  - /blog/scrum-tapas-scrum-continuous-delivery
+  - /scrum-tapas-scrum-continuous-delivery
+  - /scrum-tapas--scrum-and-continuous-delivery
+  - /blog/scrum-tapas--scrum-and-continuous-delivery
+  - /resources/blog/scrum-tapas-scrum-continuous-delivery
 layout: blog
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:16:33Z
   short_title: 2025-07-07T17:58:49Z
+  tldr: 2025-08-07T13:13:45Z
 ResourceImportId: 11946
 creator: Martin Hinshelwood
 resourceTypes: blog

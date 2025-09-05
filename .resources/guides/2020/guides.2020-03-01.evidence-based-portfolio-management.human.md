@@ -2,26 +2,34 @@
 title: Evidence-Based Portfolio Management
 short_title: Evidence-Based Portfolio Management
 description: Explains how evidence-based portfolio management helps organisations extend agile practices beyond teams, enabling greater responsiveness and improved business outcomes.
+tldr: Evidence-Based Portfolio Management helps organizations achieve true business agility by linking investments directly to measurable goals, running small experiments to validate ideas, and frequently adapting based on real feedback. Key benefits include reducing waste from traditional planning, improving alignment between work and business objectives, and empowering teams to focus on high-value outcomes. To get started, select a complex area of your business and apply these iterative, evidence-driven investment practices.
 date: 2020-03-01
+lastmod: 2020-03-01
 weight: 1000
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 author:
-- Scrum.org
+  - Scrum.org
 ResourceId: KD08D48Weks
 ResourceImport: false
 ResourceType: guides
 ResourceContentOrigin: Human
 slug: evidence-based-portfolio-management
 aliases:
-- /resources/KD08D48Weks
+  - /resources/KD08D48Weks
 aliasesArchive:
-- /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
-- /resources/guides/investing-for-business-agility-using-evidence-based-portfolio-management-to-achieve-better-business-outcomes
+  - /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
+  - /resources/guides/investing-for-business-agility-using-evidence-based-portfolio-management-to-achieve-better-business-outcomes
 layout: guide
 concepts: []
 categories:
-- Uncategorized
+  - Lean
 tags:
-- Business Agility
+  - Enterprise Agility
+  - Empirical Process Control
+  - Business Agility
 card:
   button:
     content: Learn More
@@ -30,6 +38,7 @@ card:
 Watermarks:
   description: 2025-05-07T12:58:06Z
   short_title: 2025-07-07T16:40:35Z
+  tldr: 2025-08-07T13:12:41Z
 resourceTypes: guide
 creator: Martin Hinshelwood
 

@@ -15,16 +15,13 @@ ResourceType: course
 ResourceContentOrigin: human
 slug: managing-projects-using-azure-boards-training
 aliases:
-  - /training-courses/managing-projects-using-azure-boards
-  - /training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/
-  - /A-MPAB/
-  - /capabilities/training-courses/accentient/managing-projects-using-azure-boards-training/
   - /resources/81zAbGYQP0o
 aliasesArchive:
   - /training-courses/managing-projects-using-azure-boards
   - /training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/
   - /A-MPAB/
   - /capabilities/training-courses/accentient/managing-projects-using-azure-boards-training/
+type: course
 concepts:
   - Tool
 categories:
@@ -51,7 +48,6 @@ Watermarks:
   short_title: 2025-07-29T15:01:33Z
   tldr: 2025-08-08T11:40:10Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 course_topics:
   - Azure DevOps Training Courses

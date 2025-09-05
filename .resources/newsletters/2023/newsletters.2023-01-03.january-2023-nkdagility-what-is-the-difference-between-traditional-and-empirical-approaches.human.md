@@ -2,8 +2,14 @@
 title: 'January 2023 NKDAgility: What is the difference between traditional and empirical approaches'
 short_title: Traditional vs Empirical Approaches in Agility
 description: Explains the key differences between traditional and empirical approaches in project management, highlighting when to use each for effective agility in complex environments.
+tldr: Traditional project management works well for predictable, simple projects, but in complex and fast-changing environments, empirical approaches like Scrum are more effective because they support adaptability and continuous improvement. The newsletter highlights resources explaining these differences, offers an overview of Scrum, and invites managers to join a growing Lean-Agile community and explore targeted training options. Consider reviewing the recommended materials and training to help your teams stay competitive and responsive to change.
 date: 2023-01-03
-weight: 1000
+lastmod: 2023-01-03
+weight: 710
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 author: MrHinsh
 ResourceId: -D7_0lz9GU6
 ResourceImport: false
@@ -11,20 +17,21 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: january-2023-nkdagility-what-is-the-difference-between-traditional-and-empirical-approaches
 aliases:
-- /newsletters/january-2023/
-- /resources/newsletters/january-2023/
-- /resources/-D7_0lz9GU6
+  - /newsletters/january-2023/
+  - /resources/newsletters/january-2023/
+  - /resources/-D7_0lz9GU6
 aliasesArchive:
-- /newsletters/january-2023/
-- /resources/newsletters/january-2023/
+  - /newsletters/january-2023/
+  - /resources/newsletters/january-2023/
 layout: newsletter
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 Watermarks:
   description: 2025-05-07T13:14:38Z
   short_title: 2025-07-07T17:57:15Z
+  tldr: 2025-08-07T13:09:27Z
 preview: naked-agility-technically-agile-1280×720-Jan2023.jpg
 resourceTypes: newsletter
 

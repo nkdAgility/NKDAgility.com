@@ -22,6 +22,7 @@ aliasesArchive:
   - /training-courses/professional-scrum-product-owner-pspo-training-experience-with-certification-learn-professional-product-ownership
   - /training-courses/scrum-training-courses/professional-scrum-product-owner-pspo-with-certification/
   - /capabilities/training-courses/scrum.org/professional-scrum-product-owner-pspo-with-certification/
+type: course
 concepts:
   - Accountability
 categories:
@@ -51,7 +52,6 @@ Watermarks:
   description: 2025-07-29T15:01:37Z
   tldr: 2025-08-08T11:40:19Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 course_topics:
   - Scrum Training Courses

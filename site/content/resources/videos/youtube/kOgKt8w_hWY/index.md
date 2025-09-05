@@ -31,6 +31,7 @@ categories:
   - DevOps
   - Engineering Excellence
 tags:
+  - Pragmatic Thinking
   - Social Technologies
 Watermarks:
   description: 2025-05-07T13:15:39Z

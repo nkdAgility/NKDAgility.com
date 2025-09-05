@@ -2,8 +2,14 @@
 title: Seasons Greetings & Upcoming Professional Scrum training classes
 short_title: Seasons Greetings & Scrum Training Updates
 description: Get updates on new trainers, expanded Scrum training classes, community growth, and upcoming professional development opportunities for Scrum Masters, teams, and managers.
+tldr: Naked Agility is expanding its team of expert trainers and has added new training options and community features to support Scrum and Agile development. The Lean-Agile Practitioners Community now has over 1300 members, and updated courses focus on facilitation skills and collaborative case studies. Development managers can explore upcoming classes or request private training to upskill their teams.
 date: 2022-12-21
-weight: 1000
+lastmod: 2022-12-21
+weight: 680
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 author: MrHinsh
 ResourceId: Tx-0zZJ1biI
 ResourceImport: false
@@ -11,20 +17,21 @@ ResourceType: newsletters
 ResourceContentOrigin: Human
 slug: seasons-greetings-upcoming-professional-scrum-training-classes
 aliases:
-- /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
-- /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
-- /resources/Tx-0zZJ1biI
+  - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+  - /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+  - /resources/Tx-0zZJ1biI
 aliasesArchive:
-- /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
-- /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+  - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+  - /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
 layout: newsletter
 concepts: []
 categories:
-- Scrum
+  - Scrum
 tags: []
 Watermarks:
   description: 2025-05-07T13:14:39Z
   short_title: 2025-07-07T17:57:17Z
+  tldr: 2025-08-07T13:09:30Z
 preview: naked-agility-technically-agile-1280×720-Holiday2022.jpg
 resourceTypes: newsletter
 

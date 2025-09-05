@@ -2,42 +2,50 @@
 title: 'The Definition of Done: Ensuring Quality without Compromising Value'
 short_title: 'Definition of Done: Quality Without Compromise'
 description: Explains how to maintain clear, measurable quality standards with the Definition of Done, while avoiding confusion with acceptance criteria and preserving product value.
+tldr: The Definition of Done (DoD) ensures every release meets clear quality standards, while acceptance criteria define specific content requirements. Mixing acceptance criteria into the DoD can undermine transparency and adaptability, but consistently required quality measures should be added to the DoD itself. Review your acceptance criteria regularly and only update the DoD if it preserves both clarity and flexibility in your team's delivery.
 date: 2023-09-27
+lastmod: 2023-09-27
 weight: 610
+sitemap:
+  filename: sitemap.xml
+  priority: 0.3
+  changefreq: weekly
 ResourceId: DcwDyX1ZGUP
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: the-definition-of-done-ensuring-quality-without-compromising-value
 aliases:
-- /blog/the-definition-of-done-ensuring-quality-without-compromising-value
-- /the-definition-of-done-ensuring-quality-without-compromising-value
-- /the-definition-of-done--ensuring-quality-without-compromising-value
-- /blog/the-definition-of-done--ensuring-quality-without-compromising-value
-- /resources/DcwDyX1ZGUP
-- /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
+  - /blog/the-definition-of-done-ensuring-quality-without-compromising-value
+  - /the-definition-of-done-ensuring-quality-without-compromising-value
+  - /the-definition-of-done--ensuring-quality-without-compromising-value
+  - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
+  - /resources/DcwDyX1ZGUP
+  - /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
 aliasesArchive:
-- /blog/the-definition-of-done-ensuring-quality-without-compromising-value
-- /the-definition-of-done-ensuring-quality-without-compromising-value
-- /the-definition-of-done--ensuring-quality-without-compromising-value
-- /blog/the-definition-of-done--ensuring-quality-without-compromising-value
-- /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
+  - /blog/the-definition-of-done-ensuring-quality-without-compromising-value
+  - /the-definition-of-done-ensuring-quality-without-compromising-value
+  - /the-definition-of-done--ensuring-quality-without-compromising-value
+  - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
+  - /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
 layout: blog
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Product Development
-- Scrum
-- Engineering Excellence
+  - Product Development
+  - Scrum
+  - Engineering Excellence
 tags:
-- Definition of Done
-- Software Development
-- Working Software
-- Professional Scrum
-- Transparency
+  - Definition of Done
+  - Software Development
+  - Value Delivery
+  - Working Software
+  - Professional Scrum
+  - Transparency
 Watermarks:
   description: 2025-05-07T13:09:18Z
   short_title: 2025-07-07T17:52:53Z
+  tldr: 2025-08-07T12:59:40Z
 ResourceImportId: 50083
 AudioNative: true
 creator: Martin Hinshelwood

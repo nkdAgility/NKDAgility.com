@@ -29,6 +29,7 @@ aliasesArchive:
   - /training-courses/applying-professional-kanban-training-with-certification/
   - /training-courses/prokanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
   - /capabilities/training-courses/prokanban.org/applying-professional-kanban-apk-training-experience-with-certification/
+type: course
 concepts:
   - Practice
 categories:
@@ -50,7 +51,6 @@ Watermarks:
   short_title: 2025-07-29T15:01:15Z
   tldr: 2025-08-08T11:37:40Z
 creator: Martin Hinshelwood
-type: course
 url: /capabilities/training-courses/kanban-training-courses/:slug/
 course_topics:
   - Kanban Training Courses

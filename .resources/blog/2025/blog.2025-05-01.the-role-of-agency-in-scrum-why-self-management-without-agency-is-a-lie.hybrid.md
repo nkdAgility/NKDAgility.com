@@ -2,44 +2,51 @@
 title: 'The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie'
 short_title: The Role of Agency in Scrum
 description: Explains why true Scrum requires real team agency, not just self-management in name, and how lacking agency leads to ineffective, ritualistic Agile practices.
+tldr: Scrum only works when teams have real decision-making power, not just the appearance of self-management. Without agency, accountability is hollow and Scrum devolves into empty rituals that fail to deliver true agility or value. To achieve the benefits of Scrum, leaders must ensure teams and roles have genuine authority to own outcomes and drive change.
 date: 2025-05-01T09:00:00Z
+lastmod: 2025-05-01T09:00:00Z
 weight: 200
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: uwJYNXG7yIu
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 slug: the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie
 aliases:
-- /resources/uwJYNXG7yIu
+  - /resources/uwJYNXG7yIu
 aliasesArchive:
-- /the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie
-- /blog/the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
-- /the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
+  - /the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie
+  - /blog/the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
+  - /the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Scrum
-- Product Development
-- Technical Leadership
+  - Scrum
+  - Product Development
+  - Technical Leadership
 tags:
-- Social Technologies
-- Professional Scrum
-- Agentic Agility
-- Agile Frameworks
-- Agile Transformation
-- Self Organisation
-- Team Motivation
-- Agile Product Management
-- Team Performance
-- Scrum Master
-- Agile Philosophy
-- Scrum Team
-- Software Development
-- Pragmatic Thinking
-- Agile Values and Principles
+  - Social Technologies
+  - Professional Scrum
+  - Agentic Agility
+  - Agile Frameworks
+  - Agile Transformation
+  - Self Organisation
+  - Scrum Master
+  - Team Motivation
+  - Agile Product Management
+  - Team Performance
+  - Agile Philosophy
+  - Scrum Team
+  - Software Development
+  - Pragmatic Thinking
+  - Agile Values and Principles
 Watermarks:
   description: 2025-05-07T12:49:11Z
   short_title: 2025-07-07T16:44:33Z
+  tldr: 2025-08-07T12:33:00Z
 
 ---
 [Scrum]({{< ref "/categories/scrum" >}}) is often misunderstood as a set of ceremonies or a lightweight [project management]({{< ref "/tags/project-management" >}}) method. It is neither. Scrum is a social technology built around the ethos of Agile, enabling teams to deliver adaptive solutions in complex environments. At its core lies a fundamental, non-negotiable requirement: self-management.

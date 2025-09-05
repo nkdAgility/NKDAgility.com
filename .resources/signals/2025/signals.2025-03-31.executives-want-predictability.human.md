@@ -2,50 +2,57 @@
 title: Executives want predictability
 short_title: Executives Want Predictability
 description: Lack of a clear, enforced Definition of Done leads to hidden risks, unreliable forecasts, and eroded trust in delivery, undermining predictability and organisational confidence.
+tldr: If your teams do not have a clear, enforced Definition of Done, you are creating hidden risks and unreliable forecasts, which leads to missed deadlines and frustrated customers. Treating "Done" as negotiable means you are not delivering real value or predictability. Make sure your teams only mark work as done when it meets objective, enforceable standards to ensure true progress and trustworthy commitments.
 date: 2025-03-31T15:30:08+01:00
+lastmod: 2025-03-31T15:30:08+01:00
 weight: 235
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+  changefreq: weekly
 ResourceId: sJJYz51QG0O
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: executives-want-predictability
 aliases:
-- /resources/sJJYz51QG0O
+  - /resources/sJJYz51QG0O
 source: LinkedIn
 layout: signal
 concepts:
-- Principle
+  - Principle
 categories:
-- Scrum
-- Product Development
-- Engineering Excellence
+  - Scrum
+  - Product Development
+  - Engineering Excellence
 tags:
-- Definition of Done
-- Operational Practices
-- Increment
-- Competence
-- Product Delivery
-- Engineering Practices
-- Software Development
-- Technical Mastery
-- Team Performance
-- Professional Scrum
-- Pragmatic Thinking
-- Value Delivery
+  - Definition of Done
+  - Operational Practices
+  - Increment
+  - Competence
+  - Product Delivery
+  - Engineering Practices
+  - Software Development
+  - Technical Mastery
+  - Team Performance
+  - Professional Scrum
+  - Pragmatic Thinking
+  - Value Delivery
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7312496427987841049
-  post_id: "7312496427987841049"
-  post_date: 2025-03-31T14:30:08Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7312496427987841049
+    post_id: "7312496427987841049"
+    post_date: 2025-03-31T14:30:08Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:47Z
   short_title: 2025-07-07T16:45:07Z
+  tldr: 2025-08-07T12:34:15Z
 
 ---
 Executives want predictability. Stakeholders want transparency. Investors want confidence. But if your organisation treats “Done” as a moving target, all you’re really delivering is a well-packaged lie.

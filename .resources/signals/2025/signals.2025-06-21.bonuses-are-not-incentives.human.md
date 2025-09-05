@@ -2,41 +2,48 @@
 title: Bonuses are not incentives
 short_title: Bonuses Are Not Incentives
 description: Bonuses reflect mistrust, not motivation. True engagement in knowledge work comes from purpose, autonomy, and meaningful challenges—not financial rewards.
+tldr: Bonuses do not truly motivate skilled software engineers; instead, purpose, autonomy, and meaningful challenges drive performance. Relying on traditional incentives signals a lack of trust and leads to outdated, compliance-focused cultures. Development managers should focus on empowering teams and aligning work with meaningful outcomes rather than using bonuses as motivation.
 date: 2025-06-21T08:30:44+01:00
+lastmod: 2025-06-21T08:30:44+01:00
 weight: 720
+sitemap:
+  filename: sitemap.xml
+  priority: 0.2
+  changefreq: weekly
 ResourceId: zy7JlL2SIY-
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: bonuses-are-not-incentives
 aliases:
-- /resources/zy7JlL2SIY-
+  - /resources/zy7JlL2SIY-
 source: LinkedIn
 layout: signal
 concepts:
-- Philosophy
+  - Philosophy
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Agile Philosophy
-- Employee Engagement
-- Team Motivation
-- Self Organisation
-- Agentic Agility
+  - Agile Philosophy
+  - Employee Engagement
+  - Team Motivation
+  - Self Organisation
+  - Agentic Agility
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7342106687249522688
-  post_id: "7342106687249522688"
-  post_date: 2025-06-21T07:30:44Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7342106687249522688
+    post_id: "7342106687249522688"
+    post_date: 2025-06-21T07:30:44Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-06-23T12:13:02Z
   short_title: 2025-07-07T16:43:24Z
+  tldr: 2025-08-07T12:10:56Z
 
 ---
 Bonuses are not incentives. They’re symptoms of a system that doesn’t trust people to care about their work.

@@ -2,36 +2,43 @@
 title: The Hidden Impact of Routine Jobs on Worker Dignity
 short_title: The Hidden Impact of Routine Jobs on Dignity
 description: Explores how routine, repetitive jobs affect worker dignity, questioning their value as automation rises and urging a shift toward meaningful, problem-solving work.
+tldr: Routine jobs were designed for efficiency, not human dignity, and their replacement by automation challenges outdated assumptions about people's capabilities. Instead of preserving repetitive roles, focus on creating work that values problem-solving and critical thinking. Review your team's job design to ensure it enables meaningful contributions rather than just compliance.
 date: 2025-06-13T15:30:38+01:00
+lastmod: 2025-06-13T15:30:38+01:00
 weight: 835
+sitemap:
+  filename: sitemap.xml
+  priority: 0.1
+  changefreq: weekly
 ResourceId: Gp4e7gPmb-Q
 ResourceImport: false
 ResourceType: signals
 ResourceContentOrigin: human
 slug: the-hidden-impact-of-routine-jobs-on-worker-dignity
 aliases:
-- /resources/Gp4e7gPmb-Q
+  - /resources/Gp4e7gPmb-Q
 source: LinkedIn
 layout: signal
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- Miscellaneous
+  - Miscellaneous
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7339313256668311555
-  post_id: "7339313256668311555"
-  post_date: 2025-06-13T14:30:38Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7339313256668311555
+    post_id: "7339313256668311555"
+    post_date: 2025-06-13T14:30:38Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:34Z
   short_title: 2025-07-07T16:43:29Z
+  tldr: 2025-08-07T12:11:09Z
 
 ---
 When we invented jobs like scanning groceries, packing boxes, or cleaning toilets, we weren’t aiming for dignity. We were optimising output. We engineered these roles to be mindless, repeatable, and replaceable.
