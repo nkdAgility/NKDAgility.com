@@ -25,9 +25,9 @@ Watermarks:
   description: 2025-09-04T23:19:42Z
   tldr: 2025-09-04T23:19:46Z
   short_title: 2025-09-04T23:19:48Z
-canvas: 
-
+canvas: https://chatgpt.com/g/g-p-67780943691c819190b48140ff2d4fb9-blogposts/c/68b8ea46-f7b8-8321-97ab-3f498ce690a1
 ---
+
 _Answering the question: How do you manage dependencies?_
 
 Every large-scale delivery conversation eventually drifts into the same dead-end: _“How do you manage dependencies?”_ The assumption is baked in, that dependencies are inevitable, so the best you can do is build a Gantt chart, track them, and hope for the best.
