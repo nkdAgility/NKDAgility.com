@@ -256,13 +256,23 @@
     "level": "Ignored"
   },
   "Technical Mastery": {
+    "resourceId": "Gtp9wjkPFPA",
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T22:20:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile methodologies, focusing on leadership and process rather than technical practices or software craftsmanship.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:14",
+    "ai_confidence": 42.25,
+    "ai_mentions": 2.5,
+    "ai_alignment": 5.6,
+    "ai_depth": 4.9,
+    "ai_intent": 5.1,
+    "ai_audience": 6.6,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content discusses DevOps and Agile integration in general terms. While it references engineering (continuous delivery, lean), it mostly frames DevOps as engineering-focused and Agile as people/process/leadership. There is minimal direct discussion of software craftsmanship or specific technical practices. The thematic overlap with Technical Mastery is present (via DevOps, continuous delivery) but largely high-level; there are no explicit best practices, code quality, architecture, or technical principles explored in detail. Audience is partly technical but also process/leadership oriented. There is broad relevance but only moderate fit for Technical Mastery due to lack of depth and specificity.",
+    "reasoning_summary": "Discusses Agile and DevOps integration, mentioning engineering/process, but lacks deep focus on technical mastery. No detailed treatment of software craftsmanship or engineering best practices, so fit is present but not strong or comprehensive.",
+    "level": "Tertiary"
   },
   "Sprint Review": {
     "resourceId": "Gtp9wjkPFPA",

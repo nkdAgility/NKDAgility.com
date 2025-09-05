@@ -323,12 +323,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "p3D5RjM5grA",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T12:23:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on teaching Agile leadership and the experience of running virtual classrooms, which does not align with the core principles of Engineering Practices.",
+    "calculated_at": "2025-09-05T03:32:39",
+    "ai_confidence": 27.75,
+    "ai_mentions": 1.0,
+    "ai_alignment": 3.5,
+    "ai_depth": 2.0,
+    "ai_intent": 3.0,
+    "ai_audience": 2.5,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content mainly discusses agile leadership, virtual training, and cultural diversity, with no explicit focus on core engineering practices like TDD, CI/CD, or automation. It targets a broader management and leadership audience rather than technical practitioners. The theme is tangential to engineering practices.",
+    "reasoning_summary": "The content is about agile leadership and training, not technical engineering practices, so the fit is partial and mostly tangential.",
     "level": "Ignored"
   },
   "Test Driven Development": {

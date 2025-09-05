@@ -135,12 +135,22 @@
     "level": "Tertiary"
   },
   "Product Validation": {
+    "resourceId": "7oAVt27r_UY",
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T13:07:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses training delivery techniques and workshop scheduling, lacking a clear focus on validating product ideas through user engagement.",
+    "calculated_at": "2025-09-05T03:32:16",
+    "ai_confidence": 26.98,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.5,
+    "ai_depth": 2.8,
+    "ai_intent": 2.9,
+    "ai_audience": 9.0,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Dimension 1 (mentions): Deduction of 0.8 points for not directly mentioning product validation or related terminology. Dimension 3 (depth): Deduction of 1 point for lacking substantive discussion of validation practices; content focuses on training logistics not methodology.",
+    "final_score": 27.0,
+    "reasoning": "The content centers on describing a training schedule and methods for virtual workshops, with some reflections on format improvements and participant feedback. However, it does not explicitly discuss methodologies for validating product ideas with real users beyond surface-level mentions of adapting to feedback and adjusting workshops. The main focus is on teaching, coaching, and operational delivery, not the systematic validation of product assumptions or structured feedback loops as defined for this category. The content is well-targeted to practitioners (audience alignment), and there is some tangential alignment in experimenting with new ideas and incorporating feedback, but it is not the primary intent or depth. Penalties are applied for lack of direct mentions and insufficient depth into core validation practices.",
+    "reasoning_summary": "Main topic is training delivery and scheduling, not systematic product validation. While some experimentation and feedback use is mentioned, the content does not align deeply or intentionally with the Product Validation category.",
     "level": "Ignored"
   },
   "Accountability": {

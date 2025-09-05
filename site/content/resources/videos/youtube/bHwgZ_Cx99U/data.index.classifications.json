@@ -227,13 +227,23 @@
     "level": "Ignored"
   },
   "Employee Engagement": {
+    "resourceId": "bHwgZ_Cx99U",
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-25T12:16:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses scaling teams and technical processes rather than employee engagement or motivation.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:52",
+    "ai_confidence": 42.7,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.8,
+    "ai_depth": 5.2,
+    "ai_intent": 4.0,
+    "ai_audience": 5.5,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "Direct mention of employee engagement is absent. The content discusses team coordination, reducing dependencies, and creating environments where teams thrive, which partially align with social/workplace satisfaction elements but lack direct focus on motivation, recognition, or the psychological aspects specified in the category definition. Depth is moderate regarding team effectiveness, but not specifically on engagement. The intent is more about delivery efficiency than about directly improving team member motivation or commitment. Audience somewhat overlaps (organizational leaders and agile coaches), and the content stays on theme with little filler.",
+    "reasoning_summary": "Content focuses on scaling teams and efficiency, not directly on employee engagement. Some overlap (team thriving, environment), but connection to motivation, commitment, or psychological engagement is limited and mostly implicit.",
+    "level": "Tertiary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",

@@ -1276,12 +1276,22 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "L6opxb0FYcU",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile and Scrum practices without addressing Application Lifecycle Management principles.",
+    "calculated_at": "2025-09-05T03:29:18",
+    "ai_confidence": 21.605,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.3,
+    "ai_intent": 2.1,
+    "ai_audience": 7.3,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content is a critique of rigid Agile/Scrum practices, advocating flexibility and inclusivity in team processes, and advertising consultancy services. Nowhere does it discuss managing the lifecycle of software applications, ALM methodologies, stages, tools, governance, or risk management—core aspects of Application Lifecycle Management. It is almost exclusively focused on Agile team rituals, cultural attitudes, and coaching, not on the governance or holistic management of application lifecycles. Its only partial overlap is audience: practitioners in software development. Thus, confidence is very low.",
+    "reasoning_summary": "Content discusses Agile/Scrum team flexibility, not software application lifecycle governance. Minimal to no overlap with ALM; intent is coaching/consultancy, not lifecycle management. Only partial audience overlap.",
     "level": "Ignored"
   },
   "Asynchronous Development": {

@@ -525,13 +525,23 @@
     "reasoning_summary": "This content is a strong fit for the category, as it explores the Scrum Master’s responsibilities and addresses common misunderstandings, highlighting key aspects of Agile leadership and cultural change. However, it doesn’t extensively cover wider Agile transformation strategies, so its focus remains somewhat specialised within the broader Agile context."
   },
   "Engineering Practices": {
+    "resourceId": "3YBrq-cle_w",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T07:25:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and misconceptions of the Scrum Master, which is primarily focused on Scrum and Agile methodologies rather than specific engineering practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:11",
+    "ai_confidence": 43.87,
+    "ai_mentions": 1.5,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.9,
+    "ai_intent": 4.7,
+    "ai_audience": 6.4,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "While the content thoughtfully explores the evolution and responsibilities of the Scrum Master role, its primary focus is on leadership, facilitation, and team dynamics—core aspects of Agile but not engineering practices per se. There's only a fleeting reference to practices that align with 'Engineering Practices' (e.g., fostering team autonomy and self-organisation), but there's a lack of direct discussion of clean code, TDD, CI/CD, refactoring, automation, or pair programming. The depth mainly covers role perception, personal journey, and coaching philosophy, which are more rooted in Agile process and team culture rather than methodological technical engineering topics. The intended audience overlaps with technical practitioners but skews towards Scrum Masters and Agile facilitators; content is relevant for those optimizing team performance, not explicitly technical practice. Signal is fairly high as the content is focused, but it's mostly off the specific engineering management axis. No penalties applied as the tone is positive, relevant, and current.",
+    "reasoning_summary": "Content focuses on the Scrum Master role’s evolution and leadership—not the core principles or methodologies of engineering practices. Fit with 'Engineering Practices' is weak, with little direct or in-depth discussion of Agile technical practices.",
+    "level": "Tertiary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

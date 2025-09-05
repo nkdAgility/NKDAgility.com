@@ -249,13 +249,23 @@
     "level": "Primary"
   },
   "Sociotechnical Systems": {
+    "resourceId": "3-LDBJppxvo",
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T13:09:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile practices and delivering software, without a clear discussion on the interplay between technology and organisational structures.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:28:57",
+    "ai_confidence": 45.34,
+    "ai_mentions": 0.7,
+    "ai_alignment": 5.6,
+    "ai_depth": 6.1,
+    "ai_intent": 6.7,
+    "ai_audience": 5.2,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content focuses on Agile principles related to delivering working software, emphasizing feedback loops, stakeholder involvement, and collaboration. There is modest conceptual alignment because social factors (stakeholder demos, team improvement) and technical practices (automation, MVP) are both touched on, suggesting interplay. However, there is no explicit discussion of 'sociotechnical systems' or frameworks, and the central topic remains Agile delivery best-practices, not the social–technical integration itself. Audience is practitioners interested in practical Agile; not specifically students of sociotechnical theory. No penalties were needed as the content is recent and respectful.",
+    "reasoning_summary": "The content somewhat aligns with sociotechnical concepts via mentions of collaboration and stakeholder feedback but lacks explicit exploration of sociotechnical system principles. Fit is partial: strong on Agile delivery, light on systemic interplay.",
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",

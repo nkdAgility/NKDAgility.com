@@ -1341,12 +1341,22 @@
     "level": "Secondary"
   },
   "Kanban": {
+    "resourceId": "A0Y-zySHXyc",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T09:53:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the Product Owner within the Scrum framework, focusing on respect and accountability, which are not related to Kanban principles.",
+    "calculated_at": "2025-09-05T03:31:09",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.7,
+    "ai_intent": 2.0,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on the challenges between developers and Product Owners—concepts foundational to frameworks like Scrum—but makes no mention of Kanban or its principles (visualisation, WIP limits, flow, or Kanban roles). There is no discussion or reference to Kanban boards, practices, or metrics. The audience (software teams, product owners, and stakeholders) could overlap with Kanban practitioners, but the topic, themes, and intent are unrelated to Kanban. No signal or conceptual evidence aligns with the Kanban category.",
+    "reasoning_summary": "Content is unrelated to Kanban. No references to Kanban concepts, tools, or practices. Focus is on Product Owner authority and accountability issues, fitting Scrum but not Kanban. Category fit is minimal to none.",
     "level": "Ignored"
   },
   "Value Delivery": {

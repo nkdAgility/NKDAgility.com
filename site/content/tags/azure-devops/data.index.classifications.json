@@ -209,16 +209,23 @@
     "level": "Ignored"
   },
   "Principle": {
+    "resourceId": "Azure DevOps",
     "category": "Principle",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 30,
-    "final_score": 72.0,
-    "reasoning": "The content discusses Azure DevOps and its tools, which support principles like continuous improvement and value delivery. However, it does not explicitly mention the principles themselves or provide a detailed exploration of how these principles guide decision-making. The focus is more on the tools and functionalities rather than the actionable principles that shape team behaviour.",
-    "level": "Secondary"
+    "calculated_at": "2025-09-05T03:31:34",
+    "ai_confidence": 94.0,
+    "ai_mentions": 6,
+    "ai_alignment": 9,
+    "ai_depth": 8,
+    "ai_intent": 9,
+    "ai_audience": 8,
+    "ai_signal": 8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 94.0,
+    "reasoning": "The content discusses Azure DevOps in terms of fostering collaboration, continuous improvement, and a culture of transparency—core principles guiding DevOps and agile practices. It emphasizes systemic approaches and cultural shifts, aligning well with foundational principles.",
+    "reasoning_summary": "Focuses on principles like collaboration, continuous improvement, and systemic culture, fitting the 'Principle' category well.",
+    "level": "Primary"
   },
   "Artifact": {
     "resourceId": "Azure DevOps",

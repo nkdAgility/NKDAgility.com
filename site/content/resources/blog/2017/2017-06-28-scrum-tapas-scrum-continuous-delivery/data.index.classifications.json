@@ -197,12 +197,22 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "LoRDIqNuwD-",
     "category": "Business Agility",
-    "calculated_at": "2025-02-14T19:12:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not central to the principles of business agility.",
+    "calculated_at": "2025-09-05T03:30:43",
+    "ai_confidence": 37.32,
+    "ai_mentions": 1.0,
+    "ai_alignment": 3.6,
+    "ai_depth": 2.9,
+    "ai_intent": 3.7,
+    "ai_audience": 3.2,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.6,
+    "ai_penalty_details": "mentions (-0.7, no direct mention of 'business agility'); alignment (-0.6, focus is technical integration, not business agility); depth (-0.6, discussion is superficial and topic is not explored from a business agility lens); intent (-0.3, purpose is integration tips, not agility transformation); audience (-0.2, audience is practitioners not strategists); signal (-0.2, content is promotional and event-focused, diluting relevance)",
+    "final_score": 37.0,
+    "reasoning": "The content focuses on how Scrum and Continuous Delivery work together, providing integration tips for agile software development teams. There is no direct discussion of business agility concepts, principles, or organizational transformation. The description, video, and references are all centered on team-level practices and not the application of these practices to foster or measure business agility at the organization level. The audience is primarily practitioners seeking technical guidance, not leaders or strategists focused on business agility outcomes. Penalties are applied for lack of direct mention, misalignment of focus, shallow discussion, tangential intent, and diluted signal due to event promotion.",
+    "reasoning_summary": "This content offers practical advice for integrating Scrum and Continuous Delivery, targeting agile practitioners. It does not meaningfully address business agility topics or transformation, so the category fit is low and mostly incidental.",
     "level": "Ignored"
   },
   "Metrics and Learning": {

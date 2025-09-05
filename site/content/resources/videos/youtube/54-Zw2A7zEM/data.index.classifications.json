@@ -274,12 +274,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "54-Zw2A7zEM",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T21:24:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:29:10",
+    "ai_confidence": 2.12,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.8,
+    "ai_intent": 0.5,
+    "ai_audience": 0.7,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content exclusively compares Scrum Master and Agile Coach roles, focusing on Agile practices, responsibilities, and organisational impact. There are no mentions of Azure Pipelines, DevOps automation, CI/CD, or pipeline implementation. The main themes, intent, and target audience relate to Agile team facilitation, not technical pipeline management. No outdated or contradictory material is present. Minimal signals (less than 1) are awarded for tangential technical themes, but there is no direct or substantial connection to Azure Pipelines.",
+    "reasoning_summary": "Content discusses only Scrum Master and Agile Coach roles within Agile, with no mention or relevance to Azure Pipelines, CI/CD, or DevOps automation.",
     "level": "Ignored"
   },
   "Team Performance": {

@@ -95,16 +95,23 @@
     "level": "Tertiary"
   },
   "Strategy": {
+    "resourceId": "Team Performance",
     "category": "Strategy",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 42.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 20,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses team performance in a systemic context, which indirectly relates to strategic alignment and organisational goals. However, it primarily focuses on operational aspects and metrics rather than explicitly addressing strategic planning or decision-making. The mention of system design and improvement suggests a connection to strategy, but it lacks a direct focus on high-level strategic frameworks or alignment with overarching objectives.",
-    "level": "Tertiary"
+    "calculated_at": "2025-09-05T03:30:23",
+    "ai_confidence": 39.596,
+    "ai_mentions": 0.4,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.2,
+    "ai_intent": 3.7,
+    "ai_audience": 4.4,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 40.0,
+    "reasoning": "The content centers on team performance as a system-level capability, referencing concepts like system design, flow metrics, and organisational improvement. However, it lacks any explicit mention of 'strategy' or strategic planning, and while it touches on system improvement and adaptability, it doesn't tie these to overarching goals or strategic alignment as required by the Strategy category. The discussion remains largely operational and performance-focused without connecting to strategic decision-making or long-term organisational vision.",
+    "reasoning_summary": "This content discusses operational performance and systemic factors, but does not directly address strategic alignment or planning. Its fit with the Strategy category is partial at best, lacking clear connection to high-level organisational strategy.",
+    "level": "Ignored"
   },
   "Practice": {
     "resourceId": "Team Performance",

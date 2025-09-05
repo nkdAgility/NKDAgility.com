@@ -743,12 +743,22 @@
     "level": "Ignored"
   },
   "Sensemaking": {
+    "resourceId": "_26VFOA-vCe",
     "category": "Sensemaking",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses technical implementations related to version control and branch policies without addressing sensemaking, decision-making processes, or interpretations of complexity.",
+    "calculated_at": "2025-09-05T03:31:00",
+    "ai_confidence": 17.606,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.6,
+    "ai_intent": 2.1,
+    "ai_audience": 5.3,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content is a practical guide on setting up and managing branch policies in TFVC using regular expressions. It discusses technical implementation, project constraints, and branching patterns but does not address sensemaking concepts such as interpreting complexity, organizational decision making, or applying frameworks/models for sensemaking. There are no direct or indirect references to sensemaking methods, principles, or culture, nor are decision-making processes in complex situations discussed. The audience is technical practitioners (DevOps/source control admins). The topic is almost completely focused on process automation and technical controls, not on organizational understanding or decision-making under uncertainty.",
+    "reasoning_summary": "Content is a technical tutorial on TFVC branch policy setup, with no explicit or implied exploration of sensemaking, complexity, or decision-making frameworks. It lacks topical, intent, and thematic alignment with the Sensemaking category.",
     "level": "Ignored"
   },
   "Site Reliability Engineering": {

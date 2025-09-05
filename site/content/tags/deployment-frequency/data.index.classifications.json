@@ -133,16 +133,23 @@
     "level": "Secondary"
   },
   "Philosophy": {
+    "resourceId": "Deployment Frequency",
     "category": "Philosophy",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses deployment frequency as a metric in software development, focusing on its practical implications rather than the philosophical underpinnings of Agile or DevOps. While it touches on themes of continuous improvement and organisational culture, it lacks direct references to the foundational beliefs that shape these methodologies. The discussion is primarily about the 'how' of deployment rather than the 'why' or 'what' behind the practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:16",
+    "ai_confidence": 43.9,
+    "ai_mentions": 2.1,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.3,
+    "ai_intent": 4.5,
+    "ai_audience": 5.2,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "The content discusses Deployment Frequency as a metric and its cultural impacts (innovation, accountability, resilience), slightly touching on DevOps philosophy, but focuses on optimising frequency—a practice-oriented approach. There are no explicit philosophical frameworks or deeper exploration of the 'why' and 'what' fundamental to Philosophy per the definition, leading to partial and indirect category fit.",
+    "reasoning_summary": "Content is mainly about the practical benefits and cultural impacts of frequent deployment, with only limited philosophical framing. Fit to 'Philosophy' is partial and indirect; central themes are more procedural than foundational.",
+    "level": "Tertiary"
   },
   "Observability": {
     "resourceId": "Deployment Frequency",

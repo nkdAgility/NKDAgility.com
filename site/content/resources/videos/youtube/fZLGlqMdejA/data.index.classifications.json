@@ -253,12 +253,22 @@
     "level": "Ignored"
   },
   "Azure Repos": {
+    "resourceId": "fZLGlqMdejA",
     "category": "Azure Repos",
-    "calculated_at": "2025-02-12T07:33:22",
+    "calculated_at": "2025-09-05T03:30:19",
     "ai_confidence": 0,
-    "non_ai_confidence": 0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "ai_intent": 0.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and resource utilisation, with no direct relevance to Azure Repos or its functionalities.",
+    "reasoning": "Nowhere in the content is Azure Repos or any source control platform mentioned, implied, or discussed. The piece is wholly focused on Agile cultural principles, team dynamics, work balance, and leadership without any reference to source control, Git/TFVC, repository management, CI/CD, or Azure Repos features. The only remotely technical audience is for Agile roles like Scrum Masters and coaches, which slightly raises the audience and signal scores, but all core criteria for this category are unmet.",
+    "reasoning_summary": "Content is exclusively about Agile values, leadership, and culture with no reference to Azure Repos or source control. It does not fit the assigned category.",
     "level": "Ignored"
   },
   "Transparency": {

@@ -247,16 +247,23 @@
     "level": "Ignored"
   },
   "Discipline": {
+    "resourceId": "Value Delivery",
     "category": "Discipline",
-    "calculated_at": "2025-04-10T13:19:39",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses value delivery in the context of Agile and Lean methodologies, which indirectly relates to discipline through the emphasis on systematic approaches and continuous improvement. However, the term 'discipline' is not explicitly mentioned, and the focus is more on value delivery strategies rather than the concept of discipline itself. The alignment with core themes of discipline is present but not strong enough to warrant a higher score.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:52",
+    "ai_confidence": 71.75,
+    "ai_mentions": 2.8,
+    "ai_alignment": 7.7,
+    "ai_depth": 7.4,
+    "ai_intent": 7.2,
+    "ai_audience": 8.0,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 72.0,
+    "reasoning": "The content does not directly mention the word 'discipline' or make explicit reference to a field or system of professional standards; thus, the low Direct Mentions score. However, it describes systemic, principle-driven approaches (notably the alignment with Lean and Agile), discusses continuous improvement, and touches on organisation-wide frameworks and value-centric culture, all of which conceptually align closely with the 'Discipline' category. Depth is moderate as it elaborates on value delivery as a recurring, systemic pursuit but does so without explicit articulation of discipline characteristics like governance or ethical considerations. Intent and signal are high due to the informative, strategically-aligned nature. Audience is strongly matched, as the focus would appeal to professionals interested in structured practices for value delivery. No penalties were required, as there is no outdated or contradictory information.",
+    "reasoning_summary": "Content discusses systemic, principle-based value delivery and its integration into organisational culture, strongly aligning with discipline evolution and application but lacks explicit direct references to 'discipline' itself. Fit is solid but not complete.",
+    "level": "Secondary"
   },
   "Scrum Values": {
     "resourceId": "Value Delivery",

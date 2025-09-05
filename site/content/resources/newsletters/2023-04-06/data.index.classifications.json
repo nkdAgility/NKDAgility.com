@@ -329,13 +329,23 @@
     "level": "Secondary"
   },
   "Engineering Practices": {
+    "resourceId": "WAc9JUyPY5M",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about implementing Scrum and does not discuss core engineering practices related to Agile software development.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:17",
+    "ai_confidence": 43.85,
+    "ai_mentions": 2.5,
+    "ai_alignment": 4.5,
+    "ai_depth": 3.9,
+    "ai_intent": 4.2,
+    "ai_audience": 6.1,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "The content discusses Professional Scrum, implementation challenges, team performance, empiricism, and transparency—key Agile concepts. However, explicit engineering practices (like TDD, CI/CD, Clean Code, refactoring, automation, or pair programming) are not directly mentioned or detailed. Most of the advice focuses on Scrum process, team dynamics, and training promotion, rather than the specific technical and methodological practices targeted by this category. The intended audience does include developers and Scrum teams, but the core discussion lacks substantive exploration of engineering methods.",
+    "reasoning_summary": "The content relates tangentially to engineering practices through Scrum implementation and team focus but lacks direct mention or deep discussion of technical engineering methods, resulting in a partial fit with the category.",
+    "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",

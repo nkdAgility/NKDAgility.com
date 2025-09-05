@@ -972,12 +972,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "xLUsgKWzkUM",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T23:35:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of a product owner, focusing on backlog management and accountability, which are not related to engineering practices.",
+    "calculated_at": "2025-09-05T03:29:55",
+    "ai_confidence": 21.94,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.1,
+    "ai_intent": 1.8,
+    "ai_audience": 7.0,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content solely discusses backlog prioritisation, accountability, stakeholder communication, and Product Owner decision-making. It does not reference clean code, automation, TDD, CI/CD, refactoring, or agile engineering technical practices. While aimed at practitioners, it focuses on prioritisation (a product management activity), not on software engineering principles or methods. None of the core practices from the Engineering Practices category are mentioned or explored, and technical depth is lacking. The only partial overlaps are general alignment to Agile teams and some indirect relevance to development teams as stakeholders.",
+    "reasoning_summary": "Content focuses on product backlog prioritisation, value delivery, and accountability—product management topics—not engineering practices or technical Agile methods. Only marginal audience overlap; minimal fit with the assigned category.",
     "level": "Ignored"
   },
   "Product Delivery": {

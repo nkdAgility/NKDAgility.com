@@ -332,12 +332,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "kEywzkMhWl0",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a Scrum Master as a teacher, focusing on Agile principles rather than engineering practices such as clean code, TDD, or CI/CD.",
+    "calculated_at": "2025-09-05T03:30:34",
+    "ai_confidence": 25.51,
+    "ai_mentions": 0.8,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.9,
+    "ai_intent": 2.3,
+    "ai_audience": 7.2,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content focuses almost entirely on teaching as a leadership and facilitation skill for Scrum Masters—emphasizing transformation, engagement, and adoption of Agile principles. It does not address software engineering practices like clean code, TDD, CI/CD, automation, or pair programming. There are vague mentions of Agile understanding and transformation, but no technical or methodological discussion relating to the engineering side. The audience (Scrum Masters and Agile practitioners) overlaps with Engineering Practices, but the thematic alignment is weak and does not cross into the technical depth or intent required. Signal is moderate because while the message is on-topic for agile change, little is relevant for engineering practices. No outdated or satirical/dismissive aspects detected.",
+    "reasoning_summary": "The content discusses teaching as a key Scrum Master skill for Agile transformation, not engineering practices. No substantial overlap with clean code, TDD, CI/CD, or automation. Intent, topics, and depth do not match the Engineering Practices category.",
     "level": "Ignored"
   },
   "Test Driven Development": {

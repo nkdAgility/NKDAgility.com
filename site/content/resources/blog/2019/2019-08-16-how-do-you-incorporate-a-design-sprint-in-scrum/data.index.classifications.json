@@ -226,12 +226,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "MHeGFYrasBx",
     "category": "Kanban",
-    "calculated_at": "2025-02-14T18:28:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:31:20",
+    "ai_confidence": 2.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.8,
+    "ai_intent": 2.2,
+    "ai_audience": 4.7,
+    "ai_signal": 4.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is focused exclusively on integrating Design Sprints into Scrum and critiques the separation of specialized sprints for UX or design. Kanban is never mentioned, nor are its principles such as visualisation, WIP limits, or flow management. There is no conceptual or practical alignment with Kanban's methodologies, key topics, or intended practices. The discussion is entirely rooted in Scrum practices, refinement, and team collaboration, which does not intersect with Kanban as defined in the category. Audience is somewhat aligned as Agile practitioners in general may overlap, but relevance to Kanban is minimal. No penalties are needed because the content does not contradict Kanban, but it is simply not related to it at all.",
+    "reasoning_summary": "Content discusses integrating design sprints into Scrum, with no mention or alignment to Kanban practices or principles. Fit with the Kanban category is minimal to none, as the content is entirely Scrum-focused.",
     "level": "Ignored"
   },
   "Technical Excellence": {

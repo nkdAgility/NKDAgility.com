@@ -221,12 +221,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "ZeqWpEsyhbv",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a Kanban training course and principles without any reference to Azure Pipelines or related CI/CD practices.",
+    "calculated_at": "2025-09-05T03:30:29",
+    "ai_confidence": 1.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 4.1,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The course content is entirely focused on Kanban principles, workflow design, and continuous improvement at a methodology and practices level. There is no mention of Azure Pipelines, DevOps tooling, CI/CD, or any Azure-related platform. Alignment, depth, and intent scores are very low due to the complete lack of reference to automation, pipelines, or technical implementation. The small signal and audience marks reflect that some IT or process improvement professionals might have indirect interest, but the subject matter is wholly unrelated.",
+    "reasoning_summary": "The content is about Kanban principles and practices, with no mention of Azure Pipelines, automation, or CI/CD. It does not fit the Azure Pipelines category in topic, intent, or theme.",
     "level": "Ignored"
   },
   "Team Performance": {

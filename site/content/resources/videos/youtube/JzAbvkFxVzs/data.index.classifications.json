@@ -1353,12 +1353,22 @@
     "level": "Secondary"
   },
   "Kanban": {
+    "resourceId": "JzAbvkFxVzs",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T05:28:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:29:23",
+    "ai_confidence": 30.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.9,
+    "ai_intent": 2.7,
+    "ai_audience": 5.1,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content does not directly mention Kanban and is primarily focused on Scrum ceremonies and routines, especially the daily Scrum. While there are some tangential references that Kanban practitioners might relate to (such as managing bottlenecks and monitoring work item aging), these topics are presented through a Scrum lens (e.g., sprint goals, daily Scrum, retrospectives). The visualization metaphor (banana peel on the 'Scrum board') and discussions on handling stuck tasks could overlap in concept with Kanban board practices, but this overlap is coincidental rather than intentional or aligned with Kanban principles. The core Kanban themes—such as explicit WIP limits, flow optimization, Kanban-specific metrics, and evolutionary change practices—are absent. The intent is mainly to improve Scrum meetings, not to educate or support Kanban adoption or thinking. Audience alignment overlaps to some extent (Agile practitioners), but the overall signal is weak for Kanban.",
+    "reasoning_summary": "Content addresses Scrum routines and value delivery; Kanban-related concepts (like bottleneck management) appear indirectly but are not discussed within a Kanban context. Fit to Kanban is minimal and mostly incidental, not intentional.",
     "level": "Ignored"
   },
   "Value Delivery": {

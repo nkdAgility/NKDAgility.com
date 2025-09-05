@@ -1453,12 +1453,22 @@
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
+    "resourceId": "bpBhREVX85o",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T08:49:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Agile frameworks, focusing on decision-making and leadership roles rather than the management of the application lifecycle.",
+    "calculated_at": "2025-09-05T03:30:16",
+    "ai_confidence": 32.8,
+    "ai_mentions": 0.6,
+    "ai_alignment": 3.3,
+    "ai_depth": 3.6,
+    "ai_intent": 3.2,
+    "ai_audience": 4.1,
+    "ai_signal": 4.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "There are virtually no direct mentions of Application Lifecycle Management or its explicit stages, practices, or tools. The content focuses mainly on the use of Scrum for leadership prioritization—not holistic lifecycle management. It discusses agile feedback mechanisms and leadership’s role in picking valuable work with the help of Scrum, but only tangentially touches lifecycle-wide concerns (e.g., improving time-to-market, reducing costs) and does not address governance, compliance, metrics, risk, or integration across lifecycle stages. The audience partially overlaps (organizational leadership, agile practitioners), but the signal is diluted with promotional and general agile coaching content. Thus, alignment and depth are partial at best, and the topic overall does not fit the defined scope of ALM.",
+    "reasoning_summary": "Content is centered on Scrum’s feedback mechanisms for leadership, not holistic application lifecycle management. Briefly touches on lifecycle-adjacent concepts, but fit is tangential and does not address ALM’s comprehensive management concerns.",
     "level": "Ignored"
   },
   "Value Stream Management": {

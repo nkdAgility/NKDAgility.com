@@ -320,12 +320,22 @@
     "level": "Primary"
   },
   "Miscellaneous": {
+    "resourceId": "OZt-5iszx-I",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T12:39:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of user feedback in agile practices, specifically relating to actionable work items and product value, which aligns with Agile principles.",
+    "calculated_at": "2025-09-05T03:31:24",
+    "ai_confidence": 6.617,
+    "ai_mentions": 2.1,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.7,
+    "ai_intent": 2.3,
+    "ai_audience": 3.4,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.1,
+    "ai_penalty_details": "Mentions (-0.7): Multiple direct and indirect references to Agile, Scrum, Sprints, Product Owner, which are explicitly excluded by the category; Alignment (-0.8): Main concepts are central to Agile/Scrum practices, not 'miscellaneous'; Depth (-0.6): Exploration is deep but focused on Agile-adjacent practices.",
+    "final_score": 7.0,
+    "reasoning": "The content provides detailed, actionable advice on integrating user feedback within Agile teams, explicitly referencing Agile, Scrum, Sprints, Product Owner, continuous improvement, and prioritized work. These are core Agile and Scrum topics, which the Miscellaneous category specifically excludes. Although there are a few personal anecdotes and some general statements, the substance and audience are clearly directed at practitioners of established Agile frameworks. Penalties were applied for direct mentions, strong alignment with, and deep discussion of excluded categories. Any fit is minimal and limited to peripheral narrative elements rather than core content.",
+    "reasoning_summary": "The content squarely fits Agile/Scrum, not Miscellaneous. Strong references and actionable advice based on established frameworks violate category inclusion rules. Fit is minimal, with only minor aspects aligning to Miscellaneous via personal anecdote.",
     "level": "Ignored"
   },
   "Organisational Agility": {

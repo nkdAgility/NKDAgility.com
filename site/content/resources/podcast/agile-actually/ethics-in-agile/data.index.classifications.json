@@ -519,12 +519,22 @@
     "level": "Secondary"
   },
   "Engineering Practices": {
+    "resourceId": "hWrztsvRPAi",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T23:36:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of language and transparency in Agile, focusing on Agile roles and coaching rather than Engineering Practices.",
+    "calculated_at": "2025-09-05T03:29:32",
+    "ai_confidence": 28.31,
+    "ai_mentions": 0.9,
+    "ai_alignment": 3.6,
+    "ai_depth": 2.3,
+    "ai_intent": 3.8,
+    "ai_audience": 5.2,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content discusses ethics and communication—such as transparency, precision, and word choice—in Agile teams. While themes of clarity and collaboration align with Agile values, there are no direct references to engineering practices like clean code, TDD, automation, or refactoring. The content is about team interaction and ethical communication, not technical implementation or core engineering principles. Thus, alignment is partial, depth is shallow for this category, and direct mentions are absent.",
+    "reasoning_summary": "Content relates to ethical communication in Agile but does not address core engineering practices. Its fit is tangential; themes overlap with Agile values but not engineering implementation.",
     "level": "Ignored"
   },
   "Lean Principles": {

@@ -1326,12 +1326,22 @@
     "level": "Secondary"
   },
   "Kanban": {
+    "resourceId": "UeisJt8U2_0",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T00:29:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:30:38",
+    "ai_confidence": 4.293,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.5,
+    "ai_audience": 8.3,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 0.9,
+    "ai_penalty_details": "Mentions, Alignment, and Depth penalized 0.2–0.3 each for lack of any Kanban-specific content and occasional reinforcement of Scrum-only framing.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on Scrum, Agile coaching, and related dysfunctions—never mentioning Kanban directly or indirectly. No Kanban principle, artifact, or metric is explored; the entire discussion is Scrum-centric, with no conceptual or practical overlap with Kanban as outlined in the classification. Audience is often the same (Agile practitioners), and content is focused within Agile, but has no Kanban relevance. Penalties apply due to completely missing Kanban references and context.",
+    "reasoning_summary": "Content exclusively addresses Agile coaching and Scrum dysfunctions. No reference or alignment with Kanban methodology, practices, or philosophy. Category fit is unclear and essentially absent.",
     "level": "Ignored"
   },
   "Value Delivery": {

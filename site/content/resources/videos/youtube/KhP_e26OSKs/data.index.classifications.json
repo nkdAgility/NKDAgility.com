@@ -312,12 +312,22 @@
     "level": "Ignored"
   },
   "Azure DevOps": {
+    "resourceId": "KhP_e26OSKs",
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T14:44:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses stakeholder engagement in Sprint reviews, which is more related to Scrum and Agile practices rather than Azure DevOps specifically.",
+    "calculated_at": "2025-09-05T03:29:35",
+    "ai_confidence": 7.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.5,
+    "ai_intent": 2.0,
+    "ai_audience": 1.1,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on strategies for improving stakeholder engagement in Sprint reviews, a practice central to Agile and Scrum, but never mentions Azure DevOps explicitly or implicitly. There are no references to any Azure DevOps tools (Boards, Pipelines, etc.), nor does the advice pertain to Azure DevOps-specific features, interfaces, or best practices. The conceptual alignment is minimal since Sprint reviews can be carried out in any Agile context, not necessarily Azure DevOps. The depth is also low for this category: while the article offers detailed advice, none of it pertains to, or leverages, Azure DevOps. The target audience are Agile practitioners or Scrum Masters in general, not users of Azure DevOps. The content's focus is highly relevant for Agile but unrelated to Azure DevOps itself.",
+    "reasoning_summary": "Content is wholly about general Agile/Scrum practice (Sprint reviews) with no mention of Azure DevOps, its features, or related tooling. No fit for the Azure DevOps category; low confidence.",
     "level": "Ignored"
   },
   "Technical Excellence": {

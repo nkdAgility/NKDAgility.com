@@ -1358,13 +1358,23 @@
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
+    "resourceId": "1M2_AVqoRbs",
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-13T19:49:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical debt and its implications for product quality and value delivery, without addressing the interplay between social and technical systems.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:28:38",
+    "ai_confidence": 67.6,
+    "ai_mentions": 2.3,
+    "ai_alignment": 7.8,
+    "ai_depth": 6.9,
+    "ai_intent": 7.1,
+    "ai_audience": 8.0,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 68.0,
+    "reasoning": "The content discusses technical debt's organizational implications, touching on culture, team morale, empowerment, and communication. While most focus is on technical debt, it addresses sociotechnical aspects by highlighting team engagement, morale, stakeholder education, and the impact on value delivery. However, it does not explicitly refer to sociotechnical systems or frameworks, and the focus is more on mindset and process—thus limiting the depth. The content is directly relevant to practitioners and managers, with clear intent to inform and improve sociotechnical dynamics via technical debt practices. No penalties are warranted for outdatedness or tone.",
+    "reasoning_summary": "The content partially fits: it addresses organizational and team culture around technical debt and links it to team morale and value, intersecting social and technical factors. Lacks explicit sociotechnical terminology and frameworks, making the fit incomplete.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",

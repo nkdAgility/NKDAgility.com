@@ -1266,13 +1266,23 @@
     "level": "Tertiary"
   },
   "Value Delivery": {
+    "resourceId": "ZPRvjlp9i0A",
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T14:35:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily an invitation for questions on various topics without a clear focus on value delivery strategies or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:30",
+    "ai_confidence": 85.767,
+    "ai_mentions": 8.4,
+    "ai_alignment": 9.5,
+    "ai_depth": 8.7,
+    "ai_intent": 8.9,
+    "ai_audience": 8.2,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 86.0,
+    "reasoning": "The content directly discusses Value Delivery, especially contrasting the Product Owner’s responsibility for value with a Project Manager’s delivery focus. It explores iterative delivery, value streams, flow metrics over story points, and the importance of leadership versus management in enabling value. Lean, DevOps, and continuous improvement principles are well-connected to value delivery. The audience is practitioners/organizations adopting Agile, a strong match. Discussion has some tangential elements (personal anecdotes, promo for classes), slightly lowering the signal-to-noise ratio. Content is timely and not outdated, with no contradictions or satire. The fit is strong across all evaluative criteria, with excellent conceptual alignment, good depth, and clear intent in highlighting practices that enhance value in Agile and Scrum settings.",
+    "reasoning_summary": "Content strongly fits Value Delivery, directly detailing how Product Owners, Scrum, flow metrics, and Lean/DevOps practices enable iterative, value-focused delivery in Agile contexts. It broadly and deeply explores key themes aligned with the category.",
+    "level": "Primary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

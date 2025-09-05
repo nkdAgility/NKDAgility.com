@@ -1309,12 +1309,22 @@
     "level": "Tertiary"
   },
   "Kanban": {
+    "resourceId": "DcwDyX1ZGUP",
     "category": "Kanban",
-    "calculated_at": "2025-02-11T18:07:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Definition of Done and Acceptance Criteria within the context of Scrum, with no clear focus on Kanban principles or practices.",
+    "calculated_at": "2025-09-05T03:30:32",
+    "ai_confidence": 7.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.7,
+    "ai_intent": 0.7,
+    "ai_audience": 1.9,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is focused entirely on the Definition of Done, a Scrum-specific concept, with no explicit or implicit discussion of Kanban principles such as visualization, WIP limits, flow management, or Kanban metrics. The term Kanban is never mentioned. Any minor alignment comes solely from a passing 'lean-agile' reference in the closing section, but this quickly pivots to Scrum training and services. The intended audience (Agile/Scrum practitioners) is adjacent but not specifically Kanban-focused. There is no meaningful exploration or alignment with Kanban practices, philosophy, or guidance. Signal-to-noise is very low from a Kanban perspective.",
+    "reasoning_summary": "The content does not address Kanban principles, practices, or terminology. It focuses on Scrum's Definition of Done, with only a trivial mention of 'lean'. There is no substantive fit with the Kanban category beyond a minimal Agile context.",
     "level": "Ignored"
   },
   "Value Delivery": {

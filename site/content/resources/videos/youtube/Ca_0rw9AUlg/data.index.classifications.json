@@ -1316,13 +1316,23 @@
     "level": "Ignored"
   },
   "Value Delivery": {
+    "resourceId": "Ca_0rw9AUlg",
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T08:41:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than strategies or methodologies for delivering value to customers within Agile frameworks.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:06",
+    "ai_confidence": 62.383,
+    "ai_mentions": 2.8,
+    "ai_alignment": 7.3,
+    "ai_depth": 5.7,
+    "ai_intent": 7.2,
+    "ai_audience": 7.0,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "The content focuses on organizational change via systems rather than culture, which partially aligns with Value Delivery in Agile. It references Agile frameworks (Scrum, Kanban, Lean), metrics, team autonomy, and iterative improvement—supporting links to value delivery processes. However, while system/process change is a key value enabler, the article centers on cultural change vs. system levers, rather than directly on practices for delivering value to customers. There is some overlap with measurements, metrics, and iterative approaches, but explicit connections to customer value, value management frameworks, or evidence-based delivery are weak or missing. The depth is moderate; the target audience is practitioners and leaders in Agile (aligned). Mentions of value delivery per se are infrequent and indirect, serving more as context than direct subject matter.",
+    "reasoning_summary": "Fits the category tangentially—focus is on system change in Agile, which relates to value delivery, but does not directly discuss maximizing or measuring customer value. Alignment is partial, with moderate conceptual overlap and indirect intent.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

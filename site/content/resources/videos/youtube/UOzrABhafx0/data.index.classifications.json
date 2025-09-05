@@ -1310,13 +1310,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "UOzrABhafx0",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T00:17:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses product backlog management and Scrum practices, which are not central to the principles of business agility.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:28:58",
+    "ai_confidence": 65.926,
+    "ai_mentions": 1.7,
+    "ai_alignment": 6.9,
+    "ai_depth": 6.8,
+    "ai_intent": 5.1,
+    "ai_audience": 8.6,
+    "ai_signal": 8.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 66.0,
+    "reasoning": "The content is about mastering product backlog management in Agile settings, focusing on practical skills for Scrum team practitioners. While backlog management can contribute to business agility (especially when aligning backlog with business objectives and responsiveness), the content is primarily about optimizing Scrum practices and team delivery, not about organization-wide business agility principles, leadership strategies, or transformative frameworks. There are some relevant aspects covered (e.g., aligning backlog with business goals, improving team responsiveness), but the discussion is mostly tactical, not strategic. There is minimal direct mention of business agility; the core concepts align partially but not deeply with the category definition. The audience fit is relatively high (Agile practitioners often need to improve business responsiveness), and the signal is strong for the provided subject. No penalties apply as the content is current, neutral in tone, and methodologically aligned.",
+    "reasoning_summary": "The content is mainly tactical Agile coaching about backlog management. It supports team-level agility but only partially addresses broader business agility, with some mention of aligning with business goals. Fit to category is modest, not primary.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",

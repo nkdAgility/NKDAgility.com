@@ -1355,12 +1355,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "XdzGxK1Yzyc",
     "category": "Kanban",
-    "calculated_at": "2025-02-11T23:09:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of a product owner within the Scrum framework, with no mention of Kanban principles or practices.",
+    "calculated_at": "2025-09-05T03:30:23",
+    "ai_confidence": 4.927,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.6,
+    "ai_intent": 1.0,
+    "ai_audience": 0.7,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content exclusively addresses the Product Owner role in Scrum, with explicit statements referencing Scrum teams, product backlogs, and Scrum-specific accountabilities. No mention of Kanban, nor any Kanban concepts, principles, or practices like limiting WIP, visualization, or flow management. Discussion aligns entirely with Scrum framework. The only indirect overlap is general themes of value and product guidance, but these are universal Agile topics, not Kanban-specific. Very low mention, alignment, depth, and only slight relevance for a Kanban audience who may compare frameworks.",
+    "reasoning_summary": "Content is focused on the Scrum Product Owner role, not Kanban. No mention or discussion of Kanban concepts, boards, or principles. Alignment with Kanban is negligible; does not fit the Kanban category.",
     "level": "Ignored"
   },
   "Value Delivery": {

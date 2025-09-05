@@ -262,12 +262,22 @@
     "level": "Ignored"
   },
   "Azure Repos": {
+    "resourceId": "5H9rOGhTB88",
     "category": "Azure Repos",
-    "calculated_at": "2025-02-12T10:48:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses team empowerment and agile processes without any mention of Azure Repos or related functionalities.",
+    "calculated_at": "2025-09-05T03:31:00",
+    "ai_confidence": 4.956,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.7,
+    "ai_intent": 1.4,
+    "ai_audience": 0.9,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on empowering teams, tailoring processes, and general agility without any direct or indirect mention of Azure Repos or its functionalities. Core Azure Repos themes—version control, branching, security, CI/CD integration—are absent. The few references to 'continuous delivery' and 'modern engineering practices' are generic and not scoped to source control or Azure Repos, so conceptual and intent fit scores are minimal. The audience is generally technical but not specifically targeting Azure Repos practitioners. Overall, virtually none of the content aligns with the category definition.",
+    "reasoning_summary": "Content does not reference Azure Repos or its functionalities. All discussion is generic agility, making the fit with the category extremely low. No penalty for tone or outdatedness, but near-zero confidence.",
     "level": "Ignored"
   },
   "Transparency": {

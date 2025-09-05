@@ -1383,13 +1383,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "L2u9Qojrvb8",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T04:54:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, without a clear focus on the application lifecycle stages or management practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:31",
+    "ai_confidence": 42.054,
+    "ai_mentions": 2.2,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.8,
+    "ai_intent": 4.0,
+    "ai_audience": 3.9,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content focuses on customizing DevOps practices per organization, discussing external expertise, adaptability, and continuous improvement. While DevOps can be relevant to ALM, this piece does not substantially address ALM's full scope or explicitly discuss application lifecycle stages, governance, lifecycle-focused tools, or ALM-specific metrics/KPIs. Instead, it emphasizes tailored DevOps strategies, coaching, and external consultation – concepts adjacent to, but not intrinsically representative of, Application Lifecycle Management itself. Explicit mentions of ALM are absent, and discussions around the broader application and lifecycle management are implicit at best. The audience is DevOps practitioners/strategists, overlapping with ALM but not specifically targeting it. Signal-to-noise is moderate as substantial portions focus on philosophy and personalization rather than lifecycle management content.",
+    "reasoning_summary": "Content is centered on DevOps customization, not ALM. It aligns only partially with the ALM category, lacking explicit mention of lifecycle stages, governance, or lifecycle-specific practices. Fit is unclear and mostly incidental.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

@@ -247,16 +247,23 @@
     "level": "Tertiary"
   },
   "Tool": {
+    "resourceId": "U-6FN9nj1fM",
     "category": "Tool",
-    "calculated_at": "2025-04-10T13:46:13",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses Open Space Agile as a method for organisational agility, focusing on collaboration and self-organisation. However, it does not explicitly mention specific tools or software applications that facilitate these practices. While it aligns with Agile principles and highlights the importance of team engagement and adaptability, the primary focus is on the methodology rather than on tools themselves. Therefore, the confidence score reflects a moderate alignment with the 'Tool' category, but it lacks direct mentions and depth regarding specific tools.",
-    "level": "Tertiary"
+    "calculated_at": "2025-09-05T03:30:33",
+    "ai_confidence": 33.232,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.9,
+    "ai_intent": 3.3,
+    "ai_audience": 6.2,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content describes 'Open Space Agile' as an approach or method for organisational agility, based on Open Space Technology principles. It highlights values like psychological safety, shared ownership, and emergent change. However, it does not discuss or reference specific tools, mechanisms, or software applications as defined by the 'Tool' category. No particular tool's functionality, integration, or practical implementation is presented; instead, the narrative centers on collaborative practices. There is only a very light conceptual overlap since open space formats can inspire some tooling (e.g., for group decision), but none are explicitly connected to tools. The content's audience (Agile practitioners, transformation leaders) partially overlaps, but its purpose is to introduce and champion a methodology rather than elaborate on tools. No penalties were necessary since the content is recent and its tone matches the category expectations.",
+    "reasoning_summary": "Content focuses on Open Space Agile as a methodology for transformation, not on tools. Minimal alignment with 'Tool'—no discussion of specific software, mechanisms, or tool-based workflows; primary fit is conceptual, not explicit.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "resourceId": "U-6FN9nj1fM",

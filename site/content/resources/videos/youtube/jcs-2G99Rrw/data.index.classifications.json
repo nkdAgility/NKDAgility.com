@@ -1414,12 +1414,22 @@
     "level": "Secondary"
   },
   "Value Stream Management": {
+    "resourceId": "jcs-2G99Rrw",
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-12T23:52:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues and practices related to Azure DevOps and Scrum, without a clear focus on Value Stream Management principles or practices.",
+    "calculated_at": "2025-09-05T03:30:08",
+    "ai_confidence": 12.5,
+    "ai_mentions": 1,
+    "ai_alignment": 2,
+    "ai_depth": 2,
+    "ai_intent": 1,
+    "ai_audience": 2,
+    "ai_signal": 2,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 6,
+    "ai_penalty_details": "Few explicit mentions of VSM, main focus on Azure DevOps coaching, practices, and agile tips outside the core VSM topics.",
+    "final_score": 12.0,
+    "reasoning": "The content discusses Azure DevOps, agile practices, and process improvements, but does not explicitly or substantially reference value stream management principles, mapping, waste, or metrics. The alignment with VSM is very superficial; most content is off-topic for the category.",
+    "reasoning_summary": "Content is largely about Azure DevOps and agile workflows, with minimal focus on core VSM concepts; low confidence in fit.",
     "level": "Ignored"
   },
   "Organisational Psychology": {

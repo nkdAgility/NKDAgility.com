@@ -531,13 +531,23 @@
     "level": "Secondary"
   },
   "Engineering Practices": {
+    "resourceId": "wjYFdWaWfOA",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T07:25:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master in Agile project management, which is not primarily focused on engineering practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:37",
+    "ai_confidence": 50.896,
+    "ai_mentions": 2.3,
+    "ai_alignment": 5.8,
+    "ai_depth": 5.4,
+    "ai_intent": 5.7,
+    "ai_audience": 8.0,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 51.0,
+    "reasoning": "The content focuses on the role and value of the Scrum Master, emphasizing the need for deep technical and Agile understanding, including references to DevOps and process improvement. However, explicit mention of engineering practices (clean code, TDD, CI/CD, automation, etc.) is minimal and largely implicit—more contextual than direct. The primary intent is to explain the Scrum Master's multidimensional value, with only moderate relevance to Engineering Practices. Audience targeting is appropriate (Agile practitioners/teams), and the signal remains moderate, with much of the discussion surrounding organizational and business contexts rather than direct engineering methods.",
+    "reasoning_summary": "The content touches on engineering concepts via the Scrum Master's technical guidance but centers on team facilitation and organizational context. Fit with Engineering Practices is partial and secondary, not primary.",
+    "level": "Tertiary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

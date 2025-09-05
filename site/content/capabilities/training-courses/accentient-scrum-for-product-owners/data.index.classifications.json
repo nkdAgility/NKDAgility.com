@@ -1088,12 +1088,22 @@
     "level": "Ignored"
   },
   "Organisational Psychology": {
+    "resourceId": "qVBmvY9STVE",
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not primarily related to organisational psychology.",
+    "calculated_at": "2025-09-05T03:30:46",
+    "ai_confidence": 40,
+    "ai_mentions": 2.5,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.0,
+    "ai_intent": 3.0,
+    "ai_audience": 2.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.5,
+    "ai_penalty_details": "low depth and explicit mention scores, minimal focus on psychological principles",
+    "final_score": 40.0,
+    "reasoning": "The content is primarily about Scrum training for product owners, focusing on roles, practices, and techniques. There are no explicit references to organisational psychology concepts such as motivation, team cohesion, leadership psychology, or workplace behaviour. The mention of team collaboration is procedural, not psychological, and the purpose is educational rather than analytical. It aligns tangentially with organisational behavior at best, leading to low scores on the depth and explicit mention dimensions. Therefore, confidence in its fit under 'Organisational Psychology' is quite low.",
+    "reasoning_summary": "The content centers on Scrum training without explicitly addressing psychological aspects of organisations, resulting in a weak fit for the category.",
     "level": "Ignored"
   },
   "Product Strategy": {

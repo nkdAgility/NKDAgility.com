@@ -999,12 +999,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "GGtb7Yg8gHY",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on team conflict and dynamics within Agile teams, not on engineering practices or methodologies.",
+    "calculated_at": "2025-09-05T03:30:41",
+    "ai_confidence": 39.27,
+    "ai_mentions": 0.7,
+    "ai_alignment": 4.6,
+    "ai_depth": 5.5,
+    "ai_intent": 4.8,
+    "ai_audience": 8.2,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content centers on agile team conflict, de-escalation, and interpersonal dynamics. It targets agile practitioners and references Scrum, but does not directly address or explore core Engineering Practices such as clean code, TDD, automation, CI/CD, or refactoring. There is no technical focus. Instead, the discussion is about soft skills and team harmony, with no substantive or explicit tie-in to software engineering methodologies. Scores for mentions, alignment, depth, and intent are low to moderate because the topic is adjacent to Agile but outside 'Engineering Practices' scope. Audience and signal are higher as it's relevant for Agile teams generally.",
+    "reasoning_summary": "The content focuses on conflict management and team dynamics in Agile teams, not on engineering practices like TDD, CI/CD, or clean code. Fit with 'Engineering Practices' is weak and indirect; relevance is primarily to agile interpersonal work.",
     "level": "Ignored"
   },
   "Product Delivery": {

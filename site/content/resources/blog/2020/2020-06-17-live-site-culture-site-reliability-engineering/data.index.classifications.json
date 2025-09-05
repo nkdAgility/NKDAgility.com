@@ -1329,12 +1329,22 @@
     "level": "Ignored"
   },
   "Coaching": {
+    "resourceId": "c_gS0nlQD9E",
     "category": "Coaching",
-    "calculated_at": "2025-02-14T20:52:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile, DevOps practices, and organizational change without a clear focus on coaching principles or practices.",
+    "calculated_at": "2025-09-05T03:31:43",
+    "ai_confidence": 12.23,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.8,
+    "ai_intent": 1.3,
+    "ai_audience": 2.4,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.0,
+    "ai_penalty_details": "All dimensions penalized by 0.2 points each due to reference to outdated practices (content date: 2018) and partial misalignment—there is no discussion specific to coaching or its practices.",
+    "final_score": 12.0,
+    "reasoning": "The content focuses primarily on Agile, DevOps, and Site Reliability Engineering cultural and operational shifts, specifically practice changes at Microsoft Azure DevOps. There are general allusions to team responsibility and collaboration, but there is no direct or indirect reference to coaching, its practices, techniques, or roles. No mention is made of facilitation, mentoring, active listening, or frameworks associated with coaching. Audience is teams and practitioners in DevOps/engineering, which is a partial overlap, but there is no coaching discussion. The content's date (2018) and the explicit note that practices have 'continued to evolve since this content was created' warrant a small penalty for potential obsolescence. Overall, the fit to the 'Coaching' category is very low.",
+    "reasoning_summary": "Content centers on Agile and DevOps cultural and operational practices, not coaching. No mention or exploration of coaching roles, techniques, or frameworks. Audience marginally overlaps but theme does not fit the coaching category.",
     "level": "Ignored"
   },
   "Engineering Practices": {

@@ -190,16 +190,23 @@
     "level": "Secondary"
   },
   "Model": {
+    "resourceId": "Customer Feedback Loops",
     "category": "Model",
-    "calculated_at": "2025-04-10T13:21:02",
-    "ai_confidence": 67.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 24,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses customer feedback loops, which are a conceptual model for integrating user insights into product development. It aligns with the category by emphasising the iterative process of learning and adapting based on customer feedback, which is crucial in Agile and Lean contexts. However, while it touches on the importance of decision-making and value delivery, it does not explicitly mention specific models or frameworks like the Cynefin Framework or Lean Startup principles, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-09-05T03:31:08",
+    "ai_confidence": 56.89,
+    "ai_mentions": 1.6,
+    "ai_alignment": 6.8,
+    "ai_depth": 6.5,
+    "ai_intent": 6.7,
+    "ai_audience": 8.2,
+    "ai_signal": 9.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 57.0,
+    "reasoning": "The content describes feedback loops as a mechanism for continuous improvement and responsiveness, with some references to systemic understanding and informed decision-making. However, the discussion is generic and doesn't explicitly reference or deeply explore conceptual models (e.g., Lean Startup, Cynefin) or frameworks. The content is method-focused but lacks direct mention or thorough discussion of 'models' as defined in the category. It aligns partially with the category via its systemic intent and by touching on iterative improvement (a trait of some models), but doesn't sufficiently emphasize models, frameworks, or their analytical role.",
+    "reasoning_summary": "The content discusses feedback loops in an iterative, system-aware way, relating tangentially to modeling in Agile/Lean contexts. Fit is partial; lacks explicit model references or deep framework discussion.",
+    "level": "Tertiary"
   },
   "Principle": {
     "resourceId": "Customer Feedback Loops",

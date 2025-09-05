@@ -1345,13 +1345,23 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "TYpgtgaOXv4",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T01:01:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product backlog management within the context of Agile, which does not directly relate to engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:40",
+    "ai_confidence": 41.9,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.3,
+    "ai_depth": 4.1,
+    "ai_intent": 4.8,
+    "ai_audience": 7.3,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content focuses on effective product backlog management within Agile but does not discuss engineering practices like TDD, CI/CD, modularity, or emergent design that define Technical Excellence. Main themes concern team focus, transparency, value delivery, and stakeholder alignment—important in Agile, but not directly related to high-level engineering practices. There is no explicit or implicit exploration of technical quality standards, code health, or architecture. Audience targeting and noise are strong, as the piece is structured, practical, and relevant for Agile practitioners. However, conceptual and discussion depth around actual Technical Excellence is lacking.",
+    "reasoning_summary": "Content emphasizes Agile backlog management for transparency and value, but has little to no focus on core Technical Excellence practices (TDD, CI/CD, architecture). Fit for the category is low and mostly incidental.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

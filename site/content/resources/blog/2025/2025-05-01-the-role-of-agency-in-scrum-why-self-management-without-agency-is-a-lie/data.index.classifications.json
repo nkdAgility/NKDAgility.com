@@ -1108,17 +1108,23 @@
     "level": "Ignored"
   },
   "Product Delivery": {
+    "resourceId": "uwJYNXG7yIu",
     "category": "Product Delivery",
-    "calculated_at": "2025-04-28T13:38:53",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content extensively discusses Scrum, a framework within Agile methodologies, which is directly related to product delivery. It highlights the importance of self-management and agency in Scrum teams, aligning well with the core themes of product delivery such as team accountability, iterative development, and the role of cross-functional teams. The depth of discussion is significant, providing insights into the roles of Scrum Masters, Product Owners, and Developers, as well as the consequences of weak implementations. However, while it focuses on Scrum, it does not cover broader product delivery practices like testing, deployment, or metrics, which slightly limits its overall alignment with the category.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is a strong fit for the product delivery category, as it delves into Scrum’s impact on team dynamics, accountability, and iterative development—all central to effective product delivery. While it doesn’t address every aspect, such as testing or deployment, its focus on Scrum roles and practices makes it highly relevant to the category."
+    "calculated_at": "2025-09-05T03:29:30",
+    "ai_confidence": 84.679,
+    "ai_mentions": 7.3,
+    "ai_alignment": 9.5,
+    "ai_depth": 9.1,
+    "ai_intent": 8.2,
+    "ai_audience": 7.7,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 85.0,
+    "reasoning": "The content centers on Scrum's core requirement for self-management with genuine agency, repeatedly referencing Scrum fundamentals such as cross-functional teams, delivery of increments every Sprint, real accountabilities, and the dysfunction that results when true agency is absent. The text provides detailed discussion on roles (Product Owner, Scrum Master, Developers), connects agency to effective Scrum delivery, calls out issues with weak implementation practices (e.g., status reporting, lack of real retrospectives), and explicitly links these failures to poor product delivery outcomes. It persistently targets practitioners and leadership in Agile/Scrum environments, making recommendations directly relevant to improving delivery effectiveness. While it strongly focuses on principles and dysfunctions around agency, rather than concrete deployment/testing practices or metrics, it thoroughly examines organizational factors critical to successful product delivery. Direct mentions of 'delivery' are present but not excessive; much of the language is implicit but tightly conceptually aligned. No outdated info or negative satire/critique against the category's core ideas is present.",
+    "reasoning_summary": "The content deeply explores how agency and self-management underpin effective Scrum and, by extension, product delivery. While it is principle- and people-focused, its themes, intent, and advice strongly match the core of 'Product Delivery.' Partial fit: strong on alignment, few concrete practices.",
+    "level": "Primary"
   },
   "Scrum Team": {
     "category": "Scrum Team",

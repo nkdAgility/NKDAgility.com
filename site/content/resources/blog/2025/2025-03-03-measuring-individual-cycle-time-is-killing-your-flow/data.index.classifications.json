@@ -202,16 +202,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "KHEPBWiFDKJ",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-04-10T13:00:38",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Kanban and the importance of optimising workflow rather than focusing on individual productivity. While it touches on concepts relevant to process improvement, it does not explicitly address the stages of the application lifecycle or the governance and management practices associated with Application Lifecycle Management. The discussion is more aligned with Agile methodologies and workflow optimisation than with the comprehensive management of software applications throughout their lifecycle.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:28:18",
+    "ai_confidence": 58.65,
+    "ai_mentions": 1.8,
+    "ai_alignment": 6.6,
+    "ai_depth": 6.4,
+    "ai_intent": 6.2,
+    "ai_audience": 6.7,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 59.0,
+    "reasoning": "The content is highly focused on Kanban flow metrics, discourages individual-centric measurement, and advocates for system-wide process improvement. It thoroughly discusses work in progress (WIP), process cycle efficiency, lead time, blockers, and throughput—all metrics and concepts relevant in later ALM stages (particularly delivery and maintenance). However, it never explicitly addresses Application Lifecycle Management or frames the discussion in terms of governing the full lifecycle of an application. The audience is generally practitioners seeking process improvement in delivery teams via Kanban, not necessarily those tasked with governing the entire application lifecycle. There's partial thematic overlap—optimising process flow and metrics is ALM-relevant—but the focus stays on operational process improvement at the workflow level rather than holistic lifecycle governance.",
+    "reasoning_summary": "The content strongly covers workflow metrics and process optimisation in Kanban—a topic relevant to ALM practices—but does not explicitly address or frame its insights within the broader application lifecycle management domain, making the category fit partial.",
+    "level": "Tertiary"
   },
   "Accountability": {
     "resourceId": "KHEPBWiFDKJ",

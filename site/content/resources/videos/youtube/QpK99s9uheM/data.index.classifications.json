@@ -281,12 +281,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "QpK99s9uheM",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T23:33:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses project management and agility, with no reference to Azure Pipelines or related CI/CD practices.",
+    "calculated_at": "2025-09-05T03:30:17",
+    "ai_confidence": 3.88,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.7,
+    "ai_intent": 1.5,
+    "ai_audience": 6.0,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content centers on project management mindset shifts toward agility, highlighting themes like collaboration, empowerment, and continuous learning. There are no direct or indirect references to Azure Pipelines, nor to CI/CD or pipeline automation. Although the audience (project managers in agile/DevOps contexts) could overlap with Azure Pipelines users, the intent, alignment, and depth scores are very low due to the lack of any mention or discussion of Azure Pipelines or related practices. The content fits better within general agile transformation or project management topics rather than the specific technical scope of Azure Pipelines.",
+    "reasoning_summary": "No direct or indirect mention of Azure Pipelines or CI/CD practices. Content focuses on agile mindset for project managers, not technical automation. Does not fit the Azure Pipelines category.",
     "level": "Ignored"
   },
   "Team Performance": {

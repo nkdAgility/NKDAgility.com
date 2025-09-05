@@ -379,12 +379,22 @@
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
+    "resourceId": "fm9Rt6R7JZz",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T18:15:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum methodologies and forecasting within Agile projects, which are not central to Application Lifecycle Management.",
+    "calculated_at": "2025-09-05T03:30:57",
+    "ai_confidence": 39.55,
+    "ai_mentions": 1.4,
+    "ai_alignment": 3.1,
+    "ai_depth": 4.3,
+    "ai_intent": 3.7,
+    "ai_audience": 3.0,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 40.0,
+    "reasoning": "The content focuses on forecasting techniques in agile environments, emphasizing flow metrics and budgeting changes. While it mentions budgeting (relevant to ALM governance/operational management), the main thrust is predictable delivery and Scrum/agile practice; it does not discuss the full lifecycle stages or governance frameworks, nor does it reference ALM explicitly. Alignment and depth are moderate due to some discussion of budgeting and team allocation, but direct match with ALM core topics (comprehensive lifecycle management, governance, tools, risk/change management) is incomplete. Audience and signal scores are limited, since the topic targets agile practitioners rather than lifecycle management professionals and remains mostly about forecasting, with only glancing relevance to ALM.",
+    "reasoning_summary": "Content is primarily about agile forecasting and budgeting, not directly about ALM. Partial fit, as some budgeting and team allocation touches on ALM governance, but full lifecycle/management themes are missing.",
     "level": "Ignored"
   },
   "Daily Scrum": {

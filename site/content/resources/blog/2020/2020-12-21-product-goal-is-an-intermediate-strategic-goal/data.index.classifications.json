@@ -235,12 +235,22 @@
     "level": "Tertiary"
   },
   "Remote Working": {
+    "resourceId": "PjYSLMnBHhI",
     "category": "Remote Working",
-    "calculated_at": "2025-02-11T21:16:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses strategic goals and practices in Agile without a focus on remote working or its challenges.",
+    "calculated_at": "2025-09-05T03:31:08",
+    "ai_confidence": 6.18,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 0.4,
+    "ai_audience": 0.9,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on strategic product goals, experimentation, outcomes, and modern agile management, but does not mention or address remote working, distributed teams, remote collaboration, or tools/practices specific to remote Agile environments. No part of the lengthy discussion addresses remote work challenges, solutions, or team dynamics in a distributed setting. The intended audience is agile practitioners and leaders, which matches the category only partially, as the subject matter is unrelated. Consequently, mentions, alignment, and depth scores are very low; all discussion is tangential to Remote Working.",
+    "reasoning_summary": "Content does not mention or address remote working or distributed Agile teams. It focuses on strategic Agile goals, not on remote collaboration, tools, or practices. Fit to the 'Remote Working' category is very weak and mostly incidental.",
     "level": "Ignored"
   },
   "Lean Product Development": {

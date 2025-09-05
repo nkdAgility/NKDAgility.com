@@ -273,12 +273,22 @@
     "level": "Primary"
   },
   "Azure Pipelines": {
+    "resourceId": "ekUL1oIMeAc",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T22:47:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:30:14",
+    "ai_confidence": 4.66,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.6,
+    "ai_intent": 0.4,
+    "ai_audience": 1.2,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content exclusively discusses Scrum ceremonies and a product owner's actions during a Sprint Review, focusing on team support, collaboration, and Agile values. There is no mention of Azure Pipelines, CI/CD, build/deployment processes, or any Azure DevOps-specific practices. The themes and intended audience are aligned with Agile and Scrum practitioners, not those focused on Azure Pipelines automation. This is a clear mismatch in both topic and purpose, resulting in extremely low alignment and confidence.",
+    "reasoning_summary": "This content is solely about a product owner's behavior in Scrum, with no references to automation, Azure Pipelines, or CI/CD. Topic, intent, and audience do not match the Azure Pipelines category. Fit is very poor.",
     "level": "Ignored"
   },
   "Team Performance": {

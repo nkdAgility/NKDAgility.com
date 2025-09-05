@@ -1398,12 +1398,22 @@
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
+    "resourceId": "ymKlRonlUX0",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-11T22:12:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and the use of burndown charts, which are not directly related to the management of the entire application lifecycle.",
+    "calculated_at": "2025-09-05T03:28:58",
+    "ai_confidence": 30.55,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.6,
+    "ai_intent": 2.3,
+    "ai_audience": 1.5,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content focuses on criticizing burndown charts and advocating adaptability and value flow in Agile contexts. It does not explicitly mention or discuss Application Lifecycle Management (ALM) stages, governance, or tools. While some ideas like empiricism, flow, and adaptability are tangentially relevant to modern practices in ALM (particularly integrating Agile thinking), the main discussion targets day-to-day Agile team practices, not the structured management of applications across their lifecycle. Thus, conceptual alignment and depth for ALM are both limited, and any fit is coincidental rather than direct.",
+    "reasoning_summary": "Content centers on Agile metrics and adaptability, not comprehensive application lifecycle governance. ALM fit is weak and incidental; not the main focus nor deeply explored.",
     "level": "Ignored"
   },
   "Value Stream Management": {

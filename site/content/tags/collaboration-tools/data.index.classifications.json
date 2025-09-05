@@ -114,16 +114,23 @@
     "level": "Tertiary"
   },
   "Practice": {
+    "resourceId": "Collaboration Tools",
     "category": "Practice",
-    "calculated_at": "2025-04-10T13:21:14",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 22,
-    "non_ai_confidence": 30,
-    "final_score": 62.0,
-    "reasoning": "The content discusses collaboration tools in the context of Agile teams, highlighting their role in improving communication and coordination, which aligns with the core themes of the Practice category. However, the focus is primarily on the tools themselves rather than specific actionable practices or techniques, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-09-05T03:32:12",
+    "ai_confidence": 38.7,
+    "ai_mentions": 2.1,
+    "ai_alignment": 4.4,
+    "ai_depth": 3.8,
+    "ai_intent": 3.9,
+    "ai_audience": 4.0,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of collaboration tools in Agile teams, highlighting benefits such as improved communication, coordination, and support for continuous improvement. However, it focuses on tools and their systemic benefits more than specific, actionable practices or repeatable team techniques. While the text references practices supported by tools (e.g., communication, feedback sharing), it does not describe specific practices, methods, or habits. The intent is to inform about tool utility, not detail actions constituting the 'Practice' category, leading to only moderate conceptual and depth alignment.",
+    "reasoning_summary": "The content mostly discusses tools rather than specific repeatable practices. While tools can support Agile practices, the text does not detail actionable techniques or habits; thus, the fit with 'Practice' is partial and indirect.",
+    "level": "Ignored"
   },
   "Philosophy": {
     "resourceId": "Collaboration Tools",

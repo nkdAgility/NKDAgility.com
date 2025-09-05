@@ -211,12 +211,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "enw9s_l3PeE",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-18T00:42:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Agile leadership and evidence-based management, which are unrelated to Azure Pipelines and do not focus on CI/CD practices.",
+    "calculated_at": "2025-09-05T03:30:20",
+    "ai_confidence": 3.38,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.9,
+    "ai_intent": 1.1,
+    "ai_audience": 6.3,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses entirely on Evidence-Based Management (EBM), agile leadership, and associated metrics, with no explicit or implicit references to Azure Pipelines or CI/CD automation. While its target audience overlaps with Azure Pipelines users (e.g., Scrum Masters, Product Owners), the course is centered strictly on leadership principles, empiricism, goal setting, and measurement frameworks in agile organizations, not pipeline automation or Azure DevOps. Depth and alignment are minimal as there is no discussion of Azure services, pipelines, builds, deployments, or related configuration. Signal is moderately higher because the content is structured for technical and leadership roles but offers no direct pipeline relevance.",
+    "reasoning_summary": "Content does not mention or relate to Azure Pipelines; it is about Evidence-Based Management and agile leadership. Not a fit for the category, despite some audience relevance. Fit is negligible.",
     "level": "Ignored"
   },
   "Team Performance": {

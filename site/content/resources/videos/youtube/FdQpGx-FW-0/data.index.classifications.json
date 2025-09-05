@@ -266,12 +266,22 @@
     "level": "Ignored"
   },
   "Azure Repos": {
+    "resourceId": "FdQpGx-FW-0",
     "category": "Azure Repos",
-    "calculated_at": "2025-02-12T07:48:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and Scrum, with no mention of Azure Repos or related functionalities.",
+    "calculated_at": "2025-09-05T03:30:30",
+    "ai_confidence": 7.25,
+    "ai_mentions": 1.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.0,
+    "ai_intent": 2.0,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content discusses Agile principles, judgments, and guiding cultures rather than specific source control or repository practices associated with Azure Repos. It contains a brief indirect mention of Scrum and organizational agility, but it does not meet core topics for Azure Repos. The reference to Scrum and other frameworks is contextual but not directly related to source control functionalities, policies, or integrations.",
+    "reasoning_summary": "Content is about Agile principles and organizational culture, with only minor, indirect references to Scrum. It does not focus on Azure Repos functionalities or version control topics.",
     "level": "Ignored"
   },
   "Transparency": {

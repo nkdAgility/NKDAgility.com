@@ -155,12 +155,22 @@
     "level": "Ignored"
   },
   "Enterprise Agility": {
+    "resourceId": "akntzjbRQe2",
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Microsoft Release Management tools and their capabilities, with no focus on enterprise agility or broader organisational implications.",
+    "calculated_at": "2025-09-05T03:31:57",
+    "ai_confidence": 26.985,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.8,
+    "ai_intent": 3.2,
+    "ai_audience": 4.6,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.0,
+    "ai_penalty_details": "mentions (-1: no explicit reference to 'Enterprise Agility'); alignment (-1: content focused on tooling, not on enterprise-level agility concepts); other dimensions unpenalized",
+    "final_score": 27.0,
+    "reasoning": "The content is a technical overview of Microsoft’s Release Management tools for DevOps pipelines in VSTS/TFS. It emphasizes tooling flexibility and integration options, which can support agility on a team or technical level, but lacks direct discussion of enterprise-level agility, scaling frameworks, culture, or leadership. No frameworks like SAFe/LeSS are mentioned, nor are metrics, leadership, or organizational impacts. While some customers are mentioned (implying larger orgs), this is not substantively tied to enterprise-wide agility topics. The tone is positive, but the scope remains tech/tool-centric rather than enterprise-focused. Penalty points were assigned for missing direct references and lack of explicit conceptual alignment with Enterprise Agility.",
+    "reasoning_summary": "Content is about DevOps release tooling, not enterprise agility. No direct mention or substantial discussion of org-level agility, leadership, or scaling frameworks. Focus and intent are technical, with only distant relevance to the category.",
     "level": "Ignored"
   },
   "Business Agility": {

@@ -247,16 +247,23 @@
     "level": "Ignored"
   },
   "Discipline": {
+    "resourceId": "Personal",
     "category": "Discipline",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses personal experiences and insights rather than discipline as a core theme. While it touches on aspects of collaboration and team dynamics, which can relate to discipline in a broader sense, it does not explicitly focus on discipline itself. The depth of discussion is moderate, providing some insights into how personal contributions can enhance team performance, but it lacks a direct exploration of discipline as a concept.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:38",
+    "ai_confidence": 41.087,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.2,
+    "ai_intent": 5.5,
+    "ai_audience": 5.0,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content discusses the value of personal reflections and experiences within teams, linking them with Agile and Lean principles. However, it focuses on interpersonal and cultural aspects rather than the systemic, structured field-of-study definition of 'Discipline.' There are references to continuous learning and alignment with principles, but the core of the discussion centers on psychological safety and the value of individuality, not on disciplines as structured methodologies or standardised fields. There is no mention of governance, codified standards, or the evolution of professional fields, so alignment and depth scores are limited. No direct reference to 'discipline' as a category is present. Audience and signal are moderate because the themes could appeal to those in Agile/Lean spaces, but are not squarely about the discipline itself.",
+    "reasoning_summary": "The content focuses on personal reflections in team contexts, not on Discipline as a structured field. There is only light alignment via mention of Agile/Lean principles; overall, the fit for the 'Discipline' category is weak and partial.",
+    "level": "Tertiary"
   },
   "Market Adaptability": {
     "resourceId": "Personal",

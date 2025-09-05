@@ -283,12 +283,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "faoWuCkKC0U",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T20:43:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on product management and Agile principles, with no mention of Azure Pipelines or related CI/CD practices.",
+    "calculated_at": "2025-09-05T03:30:09",
+    "ai_confidence": 2.82,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.7,
+    "ai_intent": 0.5,
+    "ai_audience": 2.5,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content exclusively discusses the PSPO-A course for Agile, Scrum, and product management professionals, with no mention of Azure Pipelines or any CI/CD, DevOps, or automation concepts. There are no explicit or implicit references to Azure DevOps services, pipelines, or related practices. The audience (product managers and owners) is different from typical Azure Pipelines practitioners, and the signal-to-noise ratio is low for the category. Minimal token audience overlap and distant conceptual connection result in a very low category fit.",
+    "reasoning_summary": "The content does not discuss Azure Pipelines or related CI/CD topics. It focuses solely on Agile, Scrum, and product management training, making it irrelevant for the Azure Pipelines category. Fit is extremely weak and only very tangential.",
     "level": "Ignored"
   },
   "Team Performance": {

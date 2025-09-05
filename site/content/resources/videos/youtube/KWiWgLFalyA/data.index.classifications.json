@@ -191,13 +191,23 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "KWiWgLFalyA",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scaling product development and team alignment, without specific focus on Agile engineering practices or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:28:04",
+    "ai_confidence": 62.24,
+    "ai_mentions": 2.6,
+    "ai_alignment": 6.9,
+    "ai_depth": 6.2,
+    "ai_intent": 6.5,
+    "ai_audience": 7.8,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "The content discusses scaling product development with references to alignment, technical debt, and feedback loops—concepts relevant to engineering practices. However, there is little explicit mention or deep exploration of the core category topics like clean code, TDD, or CI/CD. The focus is mostly on systemic, process-level improvements and organizational alignment, only briefly referencing technical elements (technical debt). The intent is to guide organizations towards better scaling, which overlaps partially with the audience and intent of engineering practices, but is not a direct or exhaustive fit. Signal is moderately strong but some advice and promotion lowers strict topicality.",
+    "reasoning_summary": "Primarily addresses scaling product development via alignment and managing technical debt, which relate tangentially to engineering practices. Limited explicit mention or depth; fit is partial but relevant—mainly from a systemic/process perspective rather than core technical practices.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",

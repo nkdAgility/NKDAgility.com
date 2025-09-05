@@ -932,12 +932,22 @@
     "level": "Ignored"
   },
   "Troubleshooting": {
+    "resourceId": "TSbCL5T_4G9",
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-18T16:01:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses training programs for Agile roles rather than troubleshooting technical issues.",
+    "calculated_at": "2025-09-05T03:31:15",
+    "ai_confidence": 7.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.7,
+    "ai_audience": 2.0,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content describes Agile training programs aimed at improving skills for Scrum Masters, Product Owners, and teams. There is no explicit mention of troubleshooting or any focus on problem identification or resolution in software, hardware, or systems. The main audience—Agile practitioners—is adjacent to but not specialized for troubleshooting content, and the discussion centers only on general training, not on troubleshooting techniques or methodologies. As such, relevance to the troubleshooting category is minimal, reflected across all dimensions with low but nonzero scores since some Agile training may tangentially address troubleshooting skills. No penalties were applied as there was no outdated or undermining language.",
+    "reasoning_summary": "The content is about general Agile training and does not address troubleshooting concepts, techniques, or audiences directly. Fit with the 'Troubleshooting' category is almost nonexistent.",
     "level": "Ignored"
   },
   "Team Motivation": {

@@ -1334,12 +1334,22 @@
     "level": "Secondary"
   },
   "Kanban": {
+    "resourceId": "3S0zghhDPwc",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T11:23:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of diligence within Agile, focusing on the definition of done and quality, without any mention of Kanban principles or practices.",
+    "calculated_at": "2025-09-05T03:29:18",
+    "ai_confidence": 7.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.3,
+    "ai_intent": 0.9,
+    "ai_audience": 0.9,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content makes no direct mention of Kanban, nor does it reference any Kanban-specific concepts, principles, or terminology such as visualization, WIP limits, or flow management. The discussion is centered on diligence, definition of done, and quality in general Agile teams, which are not exclusive or even prominent within Kanban practices (and \"Definition of Done\" is chiefly a Scrum artifact). Audience and intent are generally aligned with Agile practitioners, but the topic and depth do not meaningfully intersect with Kanban principles or practices. There is no off-topic penalty as the tone is neutral and the content is not outdated.",
+    "reasoning_summary": "No connection to Kanban: no direct mention, aligned practices, or discussion of Kanban principles. Content centers on Agile diligence and Definition of Done, which do not represent Kanban topics. Fit is essentially nonexistent.",
     "level": "Ignored"
   },
   "Value Delivery": {

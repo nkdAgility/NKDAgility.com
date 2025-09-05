@@ -1312,12 +1312,22 @@
     "level": "Secondary"
   },
   "Miscellaneous": {
+    "resourceId": "whKX9Mn1eb8",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-12T17:24:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of shift left in quality engineering, which is directly related to Agile and DevOps principles.",
+    "calculated_at": "2025-09-05T03:28:23",
+    "ai_confidence": 34.865,
+    "ai_mentions": 2.0,
+    "ai_alignment": 4.5,
+    "ai_depth": 3.8,
+    "ai_intent": 4.2,
+    "ai_audience": 4.5,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content centers on 'shift left'—a recognized software quality and DevOps practice—and meaningfully addresses QA integration, collaboration, and automation in engineering. It provides detailed guidance and links to actionable practices relevant to the Agile/DevOps domain, such as continuous feedback and improvement. It never explicitly references Agile, Scrum, Lean, or EBM, but its concepts are closely linked to these frameworks (e.g., collaboration, iterative improvement, cross-functional teams). The intent is educational and practical, and it aligns with modern development practices rooted in Agile/DevOps philosophy, thus only partially fitting 'Miscellaneous'. There's little direct category mention, and the overall focus is not generic or outside established frameworks.",
+    "reasoning_summary": "This content discusses practices tied to Agile/DevOps thinking (e.g., shift left, continuous improvement), with actionable recommendations. It does not fit the 'Miscellaneous' category well, as its focus aligns with recognized software delivery philosophies.",
     "level": "Ignored"
   },
   "Kanban": {

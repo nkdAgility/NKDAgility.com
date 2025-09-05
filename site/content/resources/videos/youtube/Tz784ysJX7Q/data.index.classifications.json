@@ -107,13 +107,23 @@
     "level": "Ignored"
   },
   "Coaching": {
+    "resourceId": "Tz784ysJX7Q",
     "category": "Coaching",
-    "calculated_at": "2025-02-12T14:48:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the balance between speed and stability in delivery management, focusing on business practices and ethical considerations rather than coaching techniques or team development.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:27:53",
+    "ai_confidence": 41.15,
+    "ai_mentions": 1.6,
+    "ai_alignment": 4.6,
+    "ai_depth": 3.4,
+    "ai_intent": 4.5,
+    "ai_audience": 5.8,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "Direct mentions of coaching or its specialized language are nearly absent, with no explicit use of 'coach,' 'coaching,' or direct facilitation themes. Content conceptual alignment is limited; it discusses delivery management practices with ethical advice and advocacy for quality and stakeholder education but frames these in directive terms. There are brief advisory comments about communicating with stakeholders, which can relate tangentially to coaching, yet the perspective centers on management decisions, trade-offs, and ethical responsibilities. There are no references to key coaching frameworks, no deep exploration of skills development, growth mindset, trust-building, or coach/team relationships. Audience is broad (managers, practitioners), but not focused on coaching practitioners. Most content is on delivery tradeoffs and quality over speed, not facilitating team growth or self-discovery per the category definition.",
+    "reasoning_summary": "Content primarily discusses delivery management, quality, and decision-making without focusing on coaching. Some overlap with stakeholder communication, but little evidence of guidance, team development, or facilitation linked to coaching. Fit is tangential at best.",
+    "level": "Tertiary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",

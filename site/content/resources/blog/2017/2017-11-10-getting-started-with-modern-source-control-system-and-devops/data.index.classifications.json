@@ -793,12 +793,22 @@
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
+    "resourceId": "bkiQSbbO78R",
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-14T19:01:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses modern source control systems and DevOps practices without a clear focus on evidence-based leadership principles or empirical decision-making.",
+    "calculated_at": "2025-09-05T03:32:25",
+    "ai_confidence": 24.08,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.5,
+    "ai_intent": 1.1,
+    "ai_audience": 8.1,
+    "ai_signal": 8.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses on DevOps, source control, automation, and best practices for software development teams, with some references to management and organisational process improvement. There are passing mentions to management using metadata to understand process health and asset value, and some commentary on decision making regarding software practices. However, it does not directly discuss evidence-based leadership or decision making, use empirical data, metrics, or frameworks for data-driven leadership, nor does it reference Evidence-Based Management or leadership strategies based on empirical findings. The primary audience is software practitioners and technical leads; there is minimal content that would fit the leadership category as defined, so the confidence is low.",
+    "reasoning_summary": "The content is about DevOps and modern source control, not evidence-based leadership. There are only minor, indirect allusions to management and organisational insight, so the fit to the category is weak and mostly incidental.",
     "level": "Ignored"
   },
   "Psychological Safety": {

@@ -1416,13 +1416,23 @@
     "level": "Tertiary"
   },
   "Organisational Psychology": {
+    "resourceId": "tdOSrPOlyAI",
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-12T16:42:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses technical methodologies and engineering practices, with no clear focus on psychological principles or theories related to organisational behaviour.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:27:52",
+    "ai_confidence": 44.485,
+    "ai_mentions": 0.7,
+    "ai_alignment": 5.2,
+    "ai_depth": 5.7,
+    "ai_intent": 5.1,
+    "ai_audience": 8.4,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "The content focuses primarily on technical and cultural aspects of engineering excellence, quality, and leadership within organisations. While it mentions leadership, team empowerment, collaboration, transparency, and creating a culture of quality, it does so mostly through the lens of technical practices (e.g., shifting left, technical debt, CI/CD) and practical work habits. There is little to no explicit mention of specific organisational psychology theories or terminology; key constructs like motivation, group dynamics, psychological safety, or change management are not directly discussed. However, some secondary alignment arises from the encouragement of collaboration, empowerment, and fostering a culture of continuous improvement—all of which conceptually relate to organisational psychology, albeit superficially. The audience is practitioners and leaders, which aligns somewhat with the category's target. Depth is moderate, as some behaviours and cultural principles are explored, but not in psychological terms. Overall, the match is partial—psychological factors are implied but not centrally or deeply addressed.",
+    "reasoning_summary": "Content is mainly about technical and cultural engineering practices, with limited indirect overlap (leadership, collaboration) to organisational psychology. Fit is partial; psychological principles are not a main focus or explicit theme.",
+    "level": "Tertiary"
   },
   "Product Delivery": {
     "resourceId": "tdOSrPOlyAI",

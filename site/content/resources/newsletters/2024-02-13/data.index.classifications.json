@@ -1432,12 +1432,22 @@
     "level": "Ignored"
   },
   "Miscellaneous": {
+    "resourceId": "hz-iCoxHxxa",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-13T18:20:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies, training courses, and certifications, which are directly related to established Agile practices.",
+    "calculated_at": "2025-09-05T03:29:06",
+    "ai_confidence": 4.39,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.5,
+    "ai_intent": 0.7,
+    "ai_audience": 1.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content mainly promotes a range of Agile, Scrum, DevOps, and EBM training courses. It explicitly references frameworks (Scrum, Kanban, EBM), certifications (PSPO, PSM, PAL, PSFS), and recognised practices. No general, anecdotal, or off-framework discussions occur. The text is highly targeted to practitioners seeking official training in specific frameworks, with intent aligned to recruitment for such classes. As all references are concretely within established Agile and related approaches, the Miscellaneous category fit is extremely weak—nearly all content fits strictly into other categories per the definition.",
+    "reasoning_summary": "The content is a targeted promotion of Agile and Scrum certification courses, with explicit reference to frameworks and practices. It does not fit the Miscellaneous category, as it is not general, anecdotal, or non-framework-aligned.",
     "level": "Ignored"
   },
   "Kanban": {

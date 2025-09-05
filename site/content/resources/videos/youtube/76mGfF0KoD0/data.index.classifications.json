@@ -324,12 +324,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "76mGfF0KoD0",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mostly discusses the role of Scrum Master and agile process workshops, not focused on engineering practices.",
+    "calculated_at": "2025-09-05T03:31:13",
+    "ai_confidence": 28.34,
+    "ai_mentions": 1.8,
+    "ai_alignment": 3.6,
+    "ai_depth": 3.3,
+    "ai_intent": 3.7,
+    "ai_audience": 6.1,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content centers on coaching, facilitation, and team dynamics related to Scrum Masters and Agile Process Simulation workshops, focusing primarily on role effectiveness, conflict management, and team empowerment. It makes only peripheral references to engineering practices (e.g., general mention of 'practices' and 'tools'), with no explicit or substantive discussion of clean code, TDD, CI/CD, refactoring, automation, or pair programming. The main themes address agile adoption, organizational change, and facilitation, not technical engineering practices as defined in the category. Audience alignment is partial since Scrum Masters and agile teams may also be interested in engineering practices, but the focus of the piece is not technical. There was no penalty applied due to lack of outdated or actively contradictory tone.",
+    "reasoning_summary": "This content loosely relates to engineering practices through broad mentions of 'practices' and 'tools,' but primarily focuses on agile facilitation, Scrum Master coaching, and team dynamics—not core engineering practices. Only a partial fit.",
     "level": "Ignored"
   },
   "Test Driven Development": {

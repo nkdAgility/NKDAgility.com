@@ -526,13 +526,23 @@
     "level": "Secondary"
   },
   "Organisational Culture": {
+    "resourceId": "RSPw8pZ9NT8",
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T19:04:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban as a process and its application in workflow optimisation, without a clear focus on organisational culture or its impact on Agile methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:57",
+    "ai_confidence": 41.28,
+    "ai_mentions": 2.2,
+    "ai_alignment": 4.5,
+    "ai_depth": 4.7,
+    "ai_intent": 3.8,
+    "ai_audience": 3.5,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content primarily focuses on Kanban's data-driven, technical, and process optimization aspects. It highlights improved transparency and stakeholder communication, which indirectly touches on cultural themes, but does not directly discuss organizational culture itself, leadership’s role, or cultural transformation methods. The intent is largely instructional for workflow/process enhancement with minor references to transparency or trust. There are no prominent, explicit discussions about culture as defined, nor any direct strategies, case studies, or introspection into how culture affects agility or DevOps. The content lightly overlaps with cultural factors (such as fostering transparency or trust), but the main emphasis is on tools and techniques, not on underlying cultural shifts. There is no content that is actively outdated, irrelevant, or negative in tone to warrant a penalty.",
+    "reasoning_summary": "This content is process- and tool-focused with minor, indirect references to cultural aspects like trust and transparency. It does not meet the category’s core focus on organizational culture, but there is a weak, partial fit.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",

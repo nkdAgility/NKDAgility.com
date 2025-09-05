@@ -1345,13 +1345,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "4ukwclfJlXy",
     "category": "Business Agility",
-    "calculated_at": "2025-02-11T21:19:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:46",
+    "ai_confidence": 47.62,
+    "ai_mentions": 0.8,
+    "ai_alignment": 5.7,
+    "ai_depth": 5.2,
+    "ai_intent": 6.1,
+    "ai_audience": 6.3,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "The content focuses on Scrum backlog refinement, which is an Agile practice. It discusses refinement's importance for team effectiveness and value delivery, which are relevant to agility in a technical process sense. However, there are no explicit mentions of 'business agility,' nor is there a discussion of higher-level organisational adaptability, leadership, cultural change, or integration of business-oriented frameworks. The content serves a team/practitioner audience, is high signal, and contextually related to Agile principles, but lacks direct, thorough exploration of how backlog refinement links to broader business agility or organisational transformation. Therefore, this fit is partial; the content is tangentially relevant as a component of agile execution, not holistic business agility.",
+    "reasoning_summary": "Covers Agile backlog refinement in Scrum, a practice contributing to operational agility but lacks explicit discussion of business agility principles, organisational adaptability, or leadership themes. Fit is partial and primarily process-level, not strategic.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",

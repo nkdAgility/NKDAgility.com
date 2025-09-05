@@ -1442,13 +1442,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "yCyjGBNaRqI",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T23:24:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team dynamics and employee engagement rather than the management of software application lifecycles.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:27",
+    "ai_confidence": 45.08,
+    "ai_mentions": 0.2,
+    "ai_alignment": 5.7,
+    "ai_depth": 4.5,
+    "ai_intent": 5.2,
+    "ai_audience": 6.1,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "There are no direct references to Application Lifecycle Management (ALM), nor explicit discussion of ALM processes, tools, or stages. The content focuses on team happiness, autonomy, mastery, and purpose to drive better products in agile settings. Although agile concepts are relevant and may play a role within ALM, the discussion is about team dynamics and culture rather than the governance, stages, or practices of managing app lifecycles. The audience (agile practitioners and leaders) has some overlap with ALM, but there's little content tightly relevant to ALM. Minimal mention of tools, metrics, or lifecycle management practices. No penalties applied, as the tone is appropriate and content is current.",
+    "reasoning_summary": "This content centers on team engagement and agile culture, not the specific stages, tools, or governance central to Application Lifecycle Management. Only a weak, indirect alignment exists. Fit is partial and mostly tangential to the ALM category.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

@@ -1315,13 +1315,23 @@
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
+    "resourceId": "7CqdvOa9t4c",
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-13T22:26:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without addressing the interplay between technology and organisational structures.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:37",
+    "ai_confidence": 49.35,
+    "ai_mentions": 0.7,
+    "ai_alignment": 5.8,
+    "ai_depth": 5.0,
+    "ai_intent": 6.2,
+    "ai_audience": 7.3,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 49.0,
+    "reasoning": "The content summarizes updates to the 2020 Scrum Guide, focusing on concepts like self-managing, cross-functional teams, and collaborative objectives. These touch on sociotechnical themes—the interplay between team dynamics (social) and frameworks/processes (technical). However, the article does not explicitly mention sociotechnical systems or provide a deep, explicit exploration of their interaction. Instead, it mostly outlines process changes and accountability roles. The depth on sociotechnical interaction is moderate, with trajectory toward the topic via team self-management and accountability, but without robust theoretical framing or detailed case study. The primary intent is informative for Scrum practitioners rather than explicit exploration of sociotechnical frameworks.",
+    "reasoning_summary": "The content connects to sociotechnical themes (team self-management, collaboration) but doesn't directly address the category or deeply analyze social-technical interactions. Fit is partial; focus is more on Scrum process updates than sociotechnical systems.",
+    "level": "Tertiary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

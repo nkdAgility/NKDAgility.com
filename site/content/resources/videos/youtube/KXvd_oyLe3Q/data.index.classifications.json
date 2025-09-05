@@ -150,13 +150,23 @@
     "level": "Ignored"
   },
   "Agile Leadership": {
+    "resourceId": "KXvd_oyLe3Q",
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-12T04:58:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps practices and technical challenges faced by a large organisation, with minimal focus on leadership roles or Agile principles. It does not address the key topics of Agile Leadership such as empowering teams, building a culture of trust, or servant leadership.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:39",
+    "ai_confidence": 42.65,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.9,
+    "ai_intent": 3.7,
+    "ai_audience": 4.5,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "The content narrates a DevOps transformation focused on technical practices (integration, refactoring, ownership, technical debt reduction). There are implicit leadership themes—change facilitation and team empowerment—but few explicit Agile Leadership references, and the main framing is around technical and process improvements, not leadership strategies or culture change. Mentions of leadership behaviors (influencing across reporting lines, ownership, learning from experience) offer partial alignment, but do not deeply explore Agile leadership roles or servant leadership practices; leadership is more implied than discussed as a theme. Audience is partially aligned (organizational change agents, technical managers), and there is moderate relevance but the discussion centers on DevOps/technical challenges rather than Agile Leadership frameworks.",
+    "reasoning_summary": "Content moderately aligns with Agile Leadership through implied leadership and influence themes, but its primary focus is on DevOps, technical debt, and process improvements. Leadership is present but not discussed in depth or as a central theme.",
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",

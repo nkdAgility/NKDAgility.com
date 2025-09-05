@@ -242,13 +242,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "nfTAYRLAaYI",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:44:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban principles, which are not directly related to Application Lifecycle Management.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:29",
+    "ai_confidence": 43.208,
+    "ai_mentions": 0.8,
+    "ai_alignment": 4.4,
+    "ai_depth": 4.5,
+    "ai_intent": 4.1,
+    "ai_audience": 5.2,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "The content is an in-depth tutorial on Kanban principles: workflow visualization, active management, and continuous improvement. It thoroughly discusses Kanban as a method for individual/team efficiency, transparency, and productivity. While Kanban is sometimes part of an Application Lifecycle Management (ALM) environment, this article does not mention the full software application lifecycle, governing frameworks, ALM tools, metrics, or change/risk management. The main ideas are focused on mastering Kanban for team productivity rather than managing the entire lifecycle of software applications, their governance, or compliance. There are no direct mentions of ALM, related terms, or the broader frameworks and tooling required for lifecycle governance. The target audience—Agile teams and practitioners—partially overlaps with ALM stakeholders, but the content remains too focused on core Kanban workflow improvement to substantially match the ALM category beyond tangential aspects such as workflow improvement and continuous improvement.",
+    "reasoning_summary": "This content focuses on Kanban workflow principles for team efficiency and improvement, not on managing the entire application lifecycle. ALM relevance is limited and indirect; Kanban is discussed as a workflow technique rather than ALM practice.",
+    "level": "Tertiary"
   },
   "Lean": {
     "category": "Lean",

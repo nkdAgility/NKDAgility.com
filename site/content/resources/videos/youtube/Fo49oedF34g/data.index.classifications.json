@@ -218,13 +218,23 @@
     "level": "Ignored"
   },
   "Trend Analysis": {
+    "resourceId": "Fo49oedF34g",
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T19:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile leadership and the services offered by an agile consultancy, without a focus on trend analysis or the implications of trends in Agile, DevOps, or business agility.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:19",
+    "ai_confidence": 60.0,
+    "ai_mentions": 2.0,
+    "ai_alignment": 4.0,
+    "ai_depth": 2.0,
+    "ai_intent": 3.5,
+    "ai_audience": 5.0,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 60.0,
+    "reasoning": "The content references agile leadership and contrasts it with traditional management, hinting at evolving practices. It mentions agile and Scrum environments, but lacks explicit trend analysis, in-depth pattern exploration, or tools for monitoring shifts. Slight conceptual alignment.",
+    "reasoning_summary": "The content touches on agile and traditional management differences but doesn't explicitly analyze or discuss emerging patterns or shifts, thus only partial fit for Trend Analysis.",
+    "level": "Tertiary"
   },
   "Test Automation": {
     "category": "Test Automation",

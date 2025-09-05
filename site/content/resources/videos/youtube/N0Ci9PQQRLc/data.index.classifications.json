@@ -1163,13 +1163,23 @@
     "level": "Ignored"
   },
   "Sensemaking": {
+    "resourceId": "N0Ci9PQQRLc",
     "category": "Sensemaking",
-    "calculated_at": "2025-02-18T11:14:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and training without a focus on sensemaking or decision-making processes in complex environments.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:32:01",
+    "ai_confidence": 41.3,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.3,
+    "ai_depth": 3.8,
+    "ai_intent": 4.4,
+    "ai_audience": 6.3,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content is a reflection on the author's journey from engineering to Scrum training, emphasizing practical experience, storytelling, and lessons from success/failure in training others. There are some partial overlaps with sensemaking—such as learning from challenges and fostering openness—but the content does not explicitly mention complexity, sensemaking frameworks, or structured techniques for navigating uncertainty. No direct references to sensemaking, decision-making processes under complexity, or models like Cynefin are present. The thematic intent is focused more on inspiration, continuous improvement, and credibility in training rather than interpretting complex situations or adapting strategy through sensemaking. Audience alignment is moderate (practitioners/trainers), but technical/DevOps/sharing stories dominates the focus rather than organizational sensemaking. No penalties applied as the content is not outdated or antagonistic.",
+    "reasoning_summary": "Content shares lessons learned and practical stories but does not focus on interpreting complexity or formal sensemaking. There is only partial, implicit alignment—no direct frameworks or processes. Fit is tangential, not explicit.",
+    "level": "Tertiary"
   },
   "System Configuration": {
     "resourceId": "N0Ci9PQQRLc",

@@ -225,12 +225,22 @@
     "level": "Ignored"
   },
   "Trend Analysis": {
+    "resourceId": "f1cWND9Wsh0",
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T17:22:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of Lego in Scrum training, which does not align with the primary focus of trend analysis in Agile, DevOps, or business agility.",
+    "calculated_at": "2025-09-05T03:29:26",
+    "ai_confidence": 14.25,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.1,
+    "ai_intent": 1.0,
+    "ai_audience": 6.2,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "alignment (-1): content is critical/satirical rather than conforming to category framing; depth (-1): content undermines category purpose and provides no substantive trend analysis",
+    "final_score": 14.0,
+    "reasoning": "The content analyzes pedagogical choices in Scrum training, specifically critiquing the 'Lego' workshop approach. However, it does not discuss trends, emerging patterns, shifts in methodology, or use data/evidence to inform strategic decision-making. The tone is critical and satirical, which contradicts the constructive, analytical framing expected for trend analysis. The audience is marginally aligned—Scrum trainers and practitioners—but the main topic is not about identifying, observing, or measuring trends in Agile/DevOps practices. Instead, it is a critique of a training tool, not an examination of larger industry shifts. Penalties were applied for conceptual and depth misalignments with the category, as well as tone. No mention is made of analyzing industry-wide changes, adoption curves, or the role of data/metrics.",
+    "reasoning_summary": "Does not fit 'Trend Analysis.' Content critiques training tools in Scrum, without discussing industry trends, pattern identification, or strategic implications. Focus is critique, not trend evaluation. Fit is minimal and tangential.",
     "level": "Ignored"
   },
   "Test Automation": {

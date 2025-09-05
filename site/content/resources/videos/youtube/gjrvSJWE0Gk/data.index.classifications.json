@@ -1425,13 +1425,23 @@
     "reasoning_summary": "This content is a strong fit for the 'Metrics and Learning' category, as it thoroughly explores how metrics can enhance predictability within Kanban teams. By focusing on data collection, analysis, and the influence of metrics on performance, it clearly supports evidence-based improvement and informed decision-making—key elements of this category."
   },
   "Application Lifecycle Management": {
+    "resourceId": "gjrvSJWE0Gk",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T07:03:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on metrics for predictability in Kanban, which is not directly related to the management of the entire application lifecycle.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:24",
+    "ai_confidence": 47.24,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.3,
+    "ai_depth": 4.7,
+    "ai_intent": 4.2,
+    "ai_audience": 5.2,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "The content focuses on Kanban metrics for improving predictability and team forecasting, targeting project and delivery teams. While these subjects are adjacent to ALM (which includes lifecycle governance, metrics, and flow), the content centers on specific Kanban concepts (cycle time, throughput) and practical forecasting rather than comprehensively managing the broader application lifecycle, governance, or ALM tooling. No direct mentions of ALM and minimal alignment with ALM’s intent or audience (more practitioner/project-focused than lifecycle governance). Depth in Kanban metrics and forecasting is good, but lacks substantial discussion of ALM-specific practices, tools, or lifecycle stages. No penalties applied as content is current and non-contradictory.",
+    "reasoning_summary": "Content centers on Kanban metrics and team predictability, with strong relevance to delivery and forecasting but only limited overlap with ALM’s comprehensive application lifecycle scope. ALM fit is partial and indirect.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

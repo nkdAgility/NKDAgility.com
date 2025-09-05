@@ -994,12 +994,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "Wk0no7MB0AM",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T23:36:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses conflict management in Agile projects, specifically within Scrum, without addressing any core engineering practices.",
+    "calculated_at": "2025-09-05T03:31:17",
+    "ai_confidence": 39.45,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.4,
+    "ai_intent": 4.9,
+    "ai_audience": 6.2,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content focuses on the role of Scrum Masters in managing team conflict and promoting healthy collaboration, key aspects of Agile teamwork, but it does not directly address core engineering practices like TDD, CI/CD, refactoring, or automation. References to technical decision-making (e.g., debate over technical approaches) are superficial, and tools or methodologies directly tied to engineering practices are absent. The primary audience is Agile practitioners, but the content is more about interpersonal dynamics and team facilitation rather than engineering quality. No penalties apply, as the tone is supportive and material is current.",
+    "reasoning_summary": "This content is mainly about Scrum Master facilitation and team conflict resolution, not core Agile engineering practices. While partially related through mention of technical debate, it lacks depth on engineering methods, so fit is moderate at best.",
     "level": "Ignored"
   },
   "Product Delivery": {

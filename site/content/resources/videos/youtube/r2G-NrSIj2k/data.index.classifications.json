@@ -1385,13 +1385,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "r2G-NrSIj2k",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T02:54:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code reviews and automation in the context of quality assurance, which is not central to Application Lifecycle Management.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:28:01",
+    "ai_confidence": 53.29,
+    "ai_mentions": 1.7,
+    "ai_alignment": 5.2,
+    "ai_depth": 5.0,
+    "ai_intent": 6.1,
+    "ai_audience": 7.2,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 53.0,
+    "reasoning": "The content focuses on code reviews and their evolution with automation and shift-left practices. While related to application quality and some ALM-adjacent tools (e.g., CI/CD, code analysis), it does not directly discuss the stages, governance, or full processes of ALM. There is no explicit or frequent mention of Application Lifecycle Management as a whole, nor thorough exploration into its overarching practices. The theme is squarely around code quality, pipeline automation, and team workflow improvement, which are facets used in ALM but not ALM in itself. The audience (developers, engineering leaders) is broadly aligned but the intent is tactical (code/process improvement) versus holistic lifecycle management.",
+    "reasoning_summary": "Discusses code quality via automated reviews and shift-left strategies, which are relevant to but not directly about Application Lifecycle Management. Only a partial, indirect fit; ALM is neither a primary theme nor explicitly explored.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

@@ -1391,13 +1391,23 @@
     "level": "Secondary"
   },
   "Personal": {
+    "resourceId": "wLJAMvwR6qI",
     "category": "Personal",
-    "calculated_at": "2025-02-12T23:13:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product development concepts and methodologies without personal anecdotes or reflections.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2.0,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.0,
+    "ai_intent": 2.5,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content discusses assumptions, hypotheses, and experimentation in product development from a personal perspective, sharing insights and lessons learned. It aligns with personal experiences related to Agile and product management themes, fitting the 'Personal' category. The mention of passion and lessons learned emphasizes individual insights rather than technical analysis.",
+    "reasoning_summary": "Content shares personal insights on hypothesis-driven strategies in product development, fitting the 'Personal' category due to its subjective reflections.",
+    "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",

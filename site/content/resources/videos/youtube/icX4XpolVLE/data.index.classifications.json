@@ -347,12 +347,22 @@
     "level": "Ignored"
   },
   "Windows": {
+    "resourceId": "icX4XpolVLE",
     "category": "Windows",
-    "calculated_at": "2025-02-13T17:48:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps practices, experiences, and challenges, with no clear focus on the Windows operating system or its related topics.",
+    "calculated_at": "2025-09-05T03:29:52",
+    "ai_confidence": 1.75,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.7,
+    "ai_audience": 0.2,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses on DevOps adoption, challenges, and cultural shifts in software development. There are no explicit mentions of Windows, nor are Windows-specific practices, features, or troubleshooting discussed. One indirect reference to 'Azure DevOps' does not establish any technical or conceptual linkage to Windows OS itself, as Azure DevOps is a cross-platform tool. No installation, configuration, or use-case examples specific to Windows appear in the narrative. The content's audience and purpose align with DevOps practitioners broadly, not users or admins of Windows operating systems.",
+    "reasoning_summary": "Content is focused on DevOps principles and challenges with no explicit or substantive reference to Windows OS. Does not fit the Windows category.",
     "level": "Ignored"
   },
   "Azure Repos": {

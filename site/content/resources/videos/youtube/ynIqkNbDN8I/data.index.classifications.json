@@ -215,13 +215,23 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "ynIqkNbDN8I",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-20T18:40:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of unrealized value and its implications for product development, focusing on market forces and feedback loops, rather than on engineering practices like clean code, TDD, or CI/CD.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:20",
+    "ai_confidence": 58.7,
+    "ai_mentions": 2.3,
+    "ai_alignment": 6.9,
+    "ai_depth": 6.4,
+    "ai_intent": 6.1,
+    "ai_audience": 6.7,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 59.0,
+    "reasoning": "The content introduces concepts like deployment frequency and feedback loops, indirectly referencing elements such as CI/CD and automation. However, the main focus is on unrealised value, market understanding, and hypothesis-driven development—leaning toward product strategy rather than explicit engineering practices. Mentions of deployment cadence and learning cycles have overlap with engineering practices but lack depth on clean code, TDD, refactoring, or other core Agile engineering themes. The audience (product managers, development leaders) overlaps partially but isn't exclusively engineering-focused. No penalties were applied as there's no outdated or contradictory material. While there are some connections, most concepts are tangential or adjacent rather than a deep-dive into engineering fundamentals.",
+    "reasoning_summary": "The content is mainly about product strategy, unrealised value, and feedback, only briefly touching on deployment frequency and continuous learning. Fit with 'Engineering Practices' is partial and indirect, lacking significant technical or methodological depth.",
+    "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",

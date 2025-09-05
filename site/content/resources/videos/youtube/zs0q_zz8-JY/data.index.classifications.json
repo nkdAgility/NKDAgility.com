@@ -1325,12 +1325,22 @@
     "level": "Secondary"
   },
   "Miscellaneous": {
+    "resourceId": "zs0q_zz8-JY",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-12T14:22:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:29:33",
+    "ai_confidence": 3.4,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.2,
+    "ai_audience": 1.1,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content directly discusses Scrum and the Scrum Master role, repeatedly referencing the Scrum framework, servant leadership, and related Agile concepts. It provides actionable insights and dispels misconceptions about Scrum practices. There are no surface-level references or off-topic tangents: all themes, intent, and primary audience clearly target individuals interested in established Scrum practices, not broad or unrelated topics. Thus, the content does not fit the Miscellaneous category, which excludes materials rooted in or directly referencing Agile, Scrum, and related frameworks.",
+    "reasoning_summary": "Content is deeply rooted in Scrum concepts, focusing on misconceptions and best practices for Scrum Masters. Not Miscellaneous; aligns directly with established Agile frameworks rather than unaligned or general discussions.",
     "level": "Ignored"
   },
   "Kanban": {

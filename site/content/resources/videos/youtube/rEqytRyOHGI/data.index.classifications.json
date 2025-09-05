@@ -38,12 +38,22 @@
     "level": "Ignored"
   },
   "Entrepreneurship": {
+    "resourceId": "rEqytRyOHGI",
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-12T02:47:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile practices and risk management within software development, rather than focusing on entrepreneurship principles or practices.",
+    "calculated_at": "2025-09-05T03:29:06",
+    "ai_confidence": 24.1,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 2.0,
+    "ai_audience": 3.2,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content heavily focuses on Agile practices, specifically criticizing the use of special sprints (Sprint Zero, hardening sprints, etc.) and advocating for continuous delivery and risk management in software development. While risk management is mentioned and themes like delivering value, risk mitigation, and continuous improvement appear—topics adjacent to entrepreneurship—there is no explicit discussion of entrepreneurship itself, entrepreneurial mindset, starting/scaling ventures, value alignment with customer needs in the entrepreneurial sense, or entrepreneurial ecosystems. The target audience is Agile teams, not entrepreneurs or founders. References to risk management and value delivery relate specifically to Agile/DevOps team operation rather than the broader entrepreneurial process. Therefore, the overall fit for 'Entrepreneurship' is weak, with only indirect thematic overlap via risk and value concepts.",
+    "reasoning_summary": "Content focuses on Agile process critique, not entrepreneurship. Some thematic overlap exists (risk, value), but the intent and audience are Agile practitioners—not entrepreneurs. Fit is indirect and minimal; major entrepreneurial topics are absent.",
     "level": "Ignored"
   },
   "Product Backlog": {

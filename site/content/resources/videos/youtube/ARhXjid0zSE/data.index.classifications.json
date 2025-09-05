@@ -1029,13 +1029,23 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "ARhXjid0zSE",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Scrum and stakeholder engagement rather than core engineering practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:15",
+    "ai_confidence": 44.26,
+    "ai_mentions": 1.7,
+    "ai_alignment": 5.3,
+    "ai_depth": 4.8,
+    "ai_intent": 5.2,
+    "ai_audience": 6.5,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "Direct mentions of engineering practices are minimal; the content focuses on feedback, engagement, and stakeholder involvement in Agile, not core engineering methodologies (like TDD, clean code, CI/CD, refactoring, or automation). Conceptual overlap exists (collaborative practices and Agile values), but depth is soft and lacks technical detail or direct process discussion. The audience is Agile teams (some overlap), intent is motivational and process-improving but not technical. Most material is tangential to core engineering practices; signal-to-noise is moderate. No obsolete practices nor adversarial tone, so no penalties applied.",
+    "reasoning_summary": "Content centers on Agile feedback and engagement, not on core engineering practices. Only partial fit via general Agile process values—lacks focus on technical methods like TDD, CI/CD, or automation. Fit is tangential and emphasis is weak.",
+    "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",

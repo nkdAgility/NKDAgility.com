@@ -1355,12 +1355,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "Srwxg7Etnr0",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T01:42:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:30:52",
+    "ai_confidence": 26.68,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.9,
+    "ai_intent": 2.2,
+    "ai_audience": 6.0,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content primarily describes collaborative methods for defining a Sprint goal in Scrum. It emphasizes teamwork, communication, and alignment with business/strategy, but does not explore or directly link to technical excellence or engineering practices (such as TDD, CI/CD, modular architecture, or emergent design). There is no significant discourse on high-level engineering principles, nor is there mention of technical practices supporting quality or maintainability. The main audience (Scrum teams/practitioners) partially overlaps with technical excellence, but the message remains process- and collaboration-centric. Therefore, the fit is weak, with alignment and depth scores reflecting a lack of focus on technical excellence itself.",
+    "reasoning_summary": "This content focuses on Scrum Sprint goal setting and collaboration, with minimal reference to engineering practices or technical excellence. Its themes and intent are process-driven, not technically oriented—fit with the category is weak and partial at best.",
     "level": "Ignored"
   },
   "Organisational Agility": {

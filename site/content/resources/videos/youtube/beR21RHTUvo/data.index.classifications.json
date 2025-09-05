@@ -1311,13 +1311,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "beR21RHTUvo",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T08:56:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the issues surrounding story points in Agile methodologies, rather than focusing on the principles and practices of business agility.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:43",
+    "ai_confidence": 56.35,
+    "ai_mentions": 1.8,
+    "ai_alignment": 5.3,
+    "ai_depth": 6.2,
+    "ai_intent": 5.7,
+    "ai_audience": 7.0,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 56.0,
+    "reasoning": "The content focuses primarily on problems with story points in Agile and argues for flow metrics as a better alternative to measure progress and value delivery. While this is adjacent to business agility—insofar as measurement aligns with agility-focused outcomes—it does not explicitly discuss business agility principles, organise around enabling swift adaptation/innovation, or thoroughly cover leadership, structural change, digital transformation, or case studies on agile transformation across an organisation. Instead, the focus is on team-level metrics and behaviors, with recommendations that could contribute to a more agile business if adopted widely, but without discussion of higher-level organisational agility themes. There is very limited direct mention of 'business agility.' The target audience appears suitable (Agile practitioners, leaders, coaches), and the content is mostly relevant without much off-topic material. However, the piece is more critical about story points and promotional of flow metrics, not a deep dive on business agility itself.",
+    "reasoning_summary": "This article critiques story points and recommends flow metrics, aligning somewhat with business agility by promoting value-focused metrics, but lacks direct or in-depth discussion of business agility principles, leadership, or transformation.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",

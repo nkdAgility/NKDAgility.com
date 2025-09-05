@@ -1364,12 +1364,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "E2aOGiRDnuG",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-11T18:22:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the terminology and conceptual framework of product backlog management rather than engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-05T03:30:26",
+    "ai_confidence": 33.53,
+    "ai_mentions": 0.7,
+    "ai_alignment": 3.4,
+    "ai_depth": 3.2,
+    "ai_intent": 2.8,
+    "ai_audience": 7.2,
+    "ai_signal": 9.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content focuses on terminology in product backlog management and communication, critiquing 'User Stories' and advocating for 'Product Backlog Items' to improve clarity. While this has indirect implications for clarity and possibly workflow efficiency, it does not explicitly connect to technical excellence as defined (i.e., engineering practices, principles like TDD, CI/CD, modular architecture, or emergent design). The core discussion remains at the process and language level, not at the level of engineering practices that directly impact technical quality. There are no explicit or in-depth explorations of technical excellence practices or principles. The target audience is aligned (product and development teams), and content is focused and relevant to agile practice, but it does not deeply address or expand upon technical excellence as a domain.",
+    "reasoning_summary": "Content discusses language and process clarity in Agile work item naming but does not engage with engineering practices, principles, or technical excellence topics. Fit to the 'Technical Excellence' category is minimal and mostly indirect.",
     "level": "Ignored"
   },
   "Organisational Agility": {

@@ -1294,13 +1294,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "u56sOCe6G0A",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T00:45:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban practices and workflow management, which are not directly related to the principles of business agility.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:02",
+    "ai_confidence": 41.2,
+    "ai_mentions": 0.3,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.4,
+    "ai_intent": 4.5,
+    "ai_audience": 5.1,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content is exclusively focused on Kanban workflow management—optimizing WIP, removing bottlenecks, and using metrics to improve flow. These practices are essential for team-level operational efficiency, but there is no direct mention or explicit discussion of business agility concepts such as organisational adaptability, leadership roles, innovation culture, or strategies for navigating dynamic market environments. The alignment is partial because effective Kanban management can contribute to business agility, but the text neither explores this connection nor addresses agility at an organisational level. The audience is most likely operations, delivery teams, or Kanban practitioners, rather than executives or strategists concerned with holistic business agility. The discussion is moderately deep regarding workflow techniques but does not touch broader dimensions of business agility such as change management, cross-functional strategies, or enterprise transformation.",
+    "reasoning_summary": "Content details Kanban workflow management practices. While related to operational agility, it does not explicitly address business agility principles or organisation-wide adaptability, resulting in partial alignment with the category.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",

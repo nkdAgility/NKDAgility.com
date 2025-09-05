@@ -1190,13 +1190,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "p62cJsAjQNw",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T07:20:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile training and methodologies, with no direct focus on the management of software application lifecycles.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:30",
+    "ai_confidence": 42.46,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.9,
+    "ai_depth": 4.8,
+    "ai_intent": 4.1,
+    "ai_audience": 7.5,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content focuses on the Agile Kata pattern for process improvement, agile transformation, and business agility. While related to organizational change and process improvement—which can intersect with ALM—it does not directly discuss any stages of the application lifecycle, ALM tools, governance, or maintenance of software applications. The course is aimed at agile practitioners and leaders, aligning with some ALM audiences, but the primary themes are agility, transformation, and cultural change, not comprehensive lifecycle management. There is only a superficial relation to ALM's scope: process improvement could be a component of ALM, but is not exclusively an ALM activity, nor is it described in this specific context. Direct mentions and thematic coverage of ALM principles are minimal. Therefore, the confidence in classifying this strictly under Application Lifecycle Management is moderate to low.",
+    "reasoning_summary": "Content relates to agile process improvement and transformation, not explicit management of the software application lifecycle. Any ALM overlap is indirect; primary focus is on organizational agility, not ALM's comprehensive scope.",
+    "level": "Tertiary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",

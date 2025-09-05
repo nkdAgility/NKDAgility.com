@@ -306,13 +306,23 @@
     "level": "Ignored"
   },
   "Product Delivery": {
+    "resourceId": "220tyMrhSFE",
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:21:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses workflow management principles rather than specific methodologies or practices related to product delivery.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:13",
+    "ai_confidence": 72.6,
+    "ai_mentions": 4.2,
+    "ai_alignment": 7.4,
+    "ai_depth": 7.2,
+    "ai_intent": 7.5,
+    "ai_audience": 7.1,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 73.0,
+    "reasoning": "The content discusses practical, workflow-oriented methods closely tied to product delivery (visualising, managing, and improving workflows), employing agile-adjacent terminology and emphasizing continuous improvement and team efficiency. However, it never directly mentions 'product delivery,' deployment, testing, CI/CD, metrics, or customer delivery outcomes, which are central to the category definition. The main thrust is workflow management to enable efficient teams—a key enabler of good product delivery but not the explicit focus. The depth is significant, but occasionally drifts into general team productivity versus concrete product delivery practices. Audience fit is strong for teams/mid-level practitioners. No penalties are warranted.",
+    "reasoning_summary": "This content strongly overlaps with Product Delivery via practical workflow management, clarity, and improvement principles, but stops short of directly referencing actual product deployment or customer delivery. Its focus fits, but the match is partial.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

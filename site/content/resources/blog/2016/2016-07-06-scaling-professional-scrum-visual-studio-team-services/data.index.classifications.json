@@ -430,12 +430,22 @@
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
+    "resourceId": "pErrcS8DxcQ",
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-14T22:59:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices and tools for scaling, without a focus on customer satisfaction or customer experience.",
+    "calculated_at": "2025-09-05T03:30:36",
+    "ai_confidence": 20.6,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.9,
+    "ai_intent": 2.1,
+    "ai_audience": 6.2,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content focuses on scaling Scrum using Visual Studio Team Services and provides practical setup guidance for teams. While it discusses efficient process setup and automation that could indirectly impact customer experience, there are no explicit or meaningful mentions of customer satisfaction, measurement techniques, or feedback loops. The focus is firmly on technical and process implementation, not on enhancing or even discussing customer happiness, loyalty, or engagement as outlined in the classification definition. There is little to no alignment with established customer satisfaction theories, practices, or methodologies from Agile, Lean, or DevOps perspectives.",
+    "reasoning_summary": "The content is about scaling Scrum technically with VSTS, not customer satisfaction. It lacks discussion of measuring or improving customer experience, customer feedback, or related Agile/Lean practices, so fit is very weak and mostly incidental.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {

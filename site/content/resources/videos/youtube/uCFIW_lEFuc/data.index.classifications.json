@@ -661,12 +661,22 @@
     "level": "Tertiary"
   },
   "Miscellaneous": {
+    "resourceId": "uCFIW_lEFuc",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles, including the importance of delivering working software and empowering teams, which aligns directly with Agile methodologies.",
+    "calculated_at": "2025-09-05T03:30:23",
+    "ai_confidence": 16.832,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.4,
+    "ai_depth": 0.9,
+    "ai_intent": 0.5,
+    "ai_audience": 6.3,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content explicitly references Agile throughout, focusing on failures and corrective actions within Agile teams. It applies and promotes Agile principles (iteration, delivery, feedback), directly referencing frameworks like Scrum and DevOps. The core purpose is to diagnose and remediate anti-patterns specifically in Agile contexts, not providing a general, non-framework-aligned or anecdotal discussion. The content targets practitioners and leaders in Agile, provides actionable advice based on recognised theory and industry literature (even references governmental resources on Agile), and remains on-topic with little filler. Per the classification, 'Miscellaneous' must strictly exclude such content.",
+    "reasoning_summary": "Content focuses on Agile, advocating core practices and referencing frameworks, which are excluded from 'Miscellaneous'. Main topic is direct Agile application, not general or unrelated discussion. Fit for 'Miscellaneous' is minimal.",
     "level": "Ignored"
   },
   "Customer Retention": {

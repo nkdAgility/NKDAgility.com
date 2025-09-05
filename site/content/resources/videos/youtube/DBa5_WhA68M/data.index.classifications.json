@@ -1333,12 +1333,22 @@
     "reasoning_summary": "This content is a strong fit for the value delivery category, as it highlights how negotiation skills help Product Owners align development with stakeholder needs and maximise value. While it offers practical insights and examples, it doesn’t cover wider Agile practices, so its relevance is focused but not comprehensive within the broader Agile context."
   },
   "Technical Excellence": {
+    "resourceId": "DBa5_WhA68M",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T08:25:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses negotiation skills for product owners, which does not align with engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-05T03:30:02",
+    "ai_confidence": 13.42,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.5,
+    "ai_audience": 7.8,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses exclusively on negotiation skills for Product Owners, including techniques, practical examples, and resources for improvement. It does not explicitly or implicitly connect negotiation to technical excellence or to engineering practices like TDD, CI/CD, modular architecture, or emergent design. While maximizing value and communication with developers are discussed, these are not linked to high-level engineering quality or technical excellence per the category definition. The intent and audience may overlap with those interested in technical excellence, but the topical alignment, mention, and depth are minimal.",
+    "reasoning_summary": "Content centers on negotiation for Product Owners, not technical excellence or engineering practices. While value and collaborating with developers are mentioned, there are no relevant links to technical excellence. The fit with the category is insufficient.",
     "level": "Ignored"
   },
   "Organisational Agility": {

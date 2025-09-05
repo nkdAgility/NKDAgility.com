@@ -1362,13 +1362,23 @@
     "reasoning_summary": "This content is relevant to the category as it addresses how teams prioritise valuable items for the sprint backlog, emphasising collaboration and alignment with customer needs. While it covers essential aspects of iterative development and teamwork, it could be strengthened by including more detailed approaches or frameworks for delivering maximum customer value."
   },
   "Technical Excellence": {
+    "resourceId": "uCyHR_eU22A",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T00:37:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:10",
+    "ai_confidence": 41.5,
+    "ai_mentions": 0.5,
+    "ai_alignment": 4.3,
+    "ai_depth": 3.5,
+    "ai_intent": 5.8,
+    "ai_audience": 6.5,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content focuses on prioritization and collaborative selection in sprint planning, emphasizing balancing business, technical, and stakeholder factors. While it briefly mentions \"engineering context\" and \"architectural components,\" there is no explicit discussion of key Technical Excellence practices (like TDD, CI/CD, modular design). The main themes are process and collaboration for backlog refinement rather than engineering quality. There is a light touch on technical priorities, but not deeply or explicitly tied to technical excellence as defined. The audience (Scrum/Agile practitioners) overlaps somewhat with the category, but signal is diluted by focus on Agile process rather than high-level engineering principles.",
+    "reasoning_summary": "Content centers on sprint backlog selection, prioritization, and Agile team collaboration. Technical priorities are lightly mentioned, but discussion of technical excellence principles is limited, making category fit partial and indirect.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

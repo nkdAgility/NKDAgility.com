@@ -118,13 +118,23 @@
     "level": "Secondary"
   },
   "Employee Engagement": {
+    "resourceId": "2IuL2Qvvbfk",
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-12T11:43:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the contributions of product owners and the evolution of product management practices at Microsoft, focusing on technical processes and leadership changes rather than employee engagement strategies or motivation.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:21",
+    "ai_confidence": 58.84,
+    "ai_mentions": 2.3,
+    "ai_alignment": 6.2,
+    "ai_depth": 6.5,
+    "ai_intent": 6.1,
+    "ai_audience": 7.8,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 59.0,
+    "reasoning": "Although the content extensively discusses leadership, cultural transformation, and fostering Agile practices, it does not directly or deeply address core employee engagement topics—such as motivation, commitment, or satisfaction. The closest links are indirect, via cultural advocacy and leadership creating supportive environments, but there are no explicit explorations of recognizing contributions, maintaining motivation, or measuring engagement. The primary focus is strategic agility and process transformation at Microsoft, rather than human motivational factors at the heart of employee engagement. The narrative is targeted to Agile leaders and practitioners (audience fit), and there is some overlap in themes such as leadership impact and culture, but the lack of focus on direct engagement strategies and absence of related terminology (motivational theories, commitment, satisfaction, or engagement measurement) lower the confidence score.",
+    "reasoning_summary": "Content discusses leadership and culture change in Agile but rarely addresses employee motivation or engagement. Focus is on process and strategy, not direct engagement. Partial fit due to some indirect overlaps. Main topic is not employee engagement.",
+    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",

@@ -114,17 +114,23 @@
     "level": "Tertiary"
   },
   "Practice": {
+    "resourceId": "Technical Debt",
     "category": "Practice",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 25,
-    "non_ai_confidence": 30,
-    "final_score": 72.0,
-    "reasoning": "The content discusses managing technical debt, which aligns with practices aimed at improving team effectiveness and value delivery. It highlights actionable techniques such as prioritising refactoring and improving code quality, which are consistent with the core themes of the 'Practice' category. The depth of discussion is substantial, providing insights into the implications of technical debt on team performance and organisational agility. However, while it touches on practices, it does not explicitly mention specific practices like TDD or pair programming, which slightly lowers the confidence score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content fits the 'Practice' category as it explores strategies for handling technical debt, focusing on enhancing team performance and delivering value. It offers practical advice on refactoring and code quality, which are central to effective practices, even though it doesn’t reference specific methods like TDD or pair programming. The discussion is detailed and relevant to improving how teams work."
+    "calculated_at": "2025-09-05T03:30:31",
+    "ai_confidence": 80.91,
+    "ai_mentions": 7.5,
+    "ai_alignment": 8.6,
+    "ai_depth": 8.3,
+    "ai_intent": 8.0,
+    "ai_audience": 8.2,
+    "ai_signal": 8.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 81.0,
+    "reasoning": "The content directly discusses managing and reducing technical debt as a repeatable action to maintain development velocity—addressing refactoring, code quality, and continuous improvement as key practices. It aligns with the category by emphasizing actionable, ongoing habits that drive value delivery and sustainability. There are clear descriptions of why and how to address technical debt, fostering a culture of improvement. Several practices (like refactoring) are named, but the text could benefit from specifics (e.g., explicit techniques) or structured guidance; it's substantial but a touch general. Audience and purpose are strongly aligned with teams and practitioners, minimal off-topic content, and no evidence of outdated or contradictory tone.",
+    "reasoning_summary": "The content fits 'Practice' well: it discusses managing technical debt as a continual, actionable habit for teams, stresses process improvement, and is aimed at practitioners. While slightly general, its focus matches the category definition.",
+    "level": "Primary"
   },
   "Philosophy": {
     "resourceId": "Technical Debt",

@@ -1398,12 +1398,22 @@
     "level": "Ignored"
   },
   "Personal": {
+    "resourceId": "59gcHh1fYtC",
     "category": "Personal",
-    "calculated_at": "2025-02-12T13:37:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Scrum framework, its rules, roles, and events without any personal reflections or experiences.",
+    "calculated_at": "2025-09-05T03:28:49",
+    "ai_confidence": 6.016,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.5,
+    "ai_intent": 0.2,
+    "ai_audience": 5.7,
+    "ai_signal": 9.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The Scrum Guide is an official, technical definition of the Scrum framework, with almost no personal reflections, anecdotes, or subjective insights. The only remotely personal content is a brief mention by the authors that they developed Scrum and some historical context in the Acknowledgements and History sections; these, however, do not qualify as individual experiences or subjective interpretations related to Agile, Scrum, DevOps, or business agility. The vast majority of the content describes Scrum in an objective, technical, and prescriptive manner, aimed at a broad professional audience. There is negligible alignment with the intent or thematic focus of the 'Personal' category as defined—the content is theory-focused, not experience- or reflection-focused. There is zero fit with key 'Personal' topics such as lived experiences, team anecdotes, or unique perspectives; instead, the content aims for universal guidance. Therefore, all core category dimensions score at or near minimums except for audience (relevant to practitioners) and signal (very focused content, though on the wrong subject). No penalties are warranted, as the tone is neutral and current.",
+    "reasoning_summary": "This is a technical reference (The Scrum Guide), not a personal reflection or anecdotal account. There is virtually no fit with the 'Personal' category, as the content is objective, theory-based, and lacks individual insights or experiences.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {

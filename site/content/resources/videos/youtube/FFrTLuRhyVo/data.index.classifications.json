@@ -1327,13 +1327,23 @@
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
+    "resourceId": "FFrTLuRhyVo",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-13T19:44:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical debt and product delivery rather than the stages or practices of Application Lifecycle Management.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:28:30",
+    "ai_confidence": 59.093,
+    "ai_mentions": 2.8,
+    "ai_alignment": 6.2,
+    "ai_depth": 6.3,
+    "ai_intent": 6.1,
+    "ai_audience": 6.8,
+    "ai_signal": 5.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 59.0,
+    "reasoning": "The content focuses on managing technical debt, quality product delivery, and strategies for continuous improvement. While these themes relate to aspects of ALM, especially around maintenance and improvement, the piece does not directly reference the application lifecycle, ALM tools, governance, or the full lifecycle picture (conception to retirement). Mentions of technical debt management fit conceptually within maintenance and improvement stages, but the explicit, holistic view of Application Lifecycle Management is largely implied rather than stated. The audience (teams, stakeholders) and actionable advice are relevant for ALM practitioners, but large segments focus just on technical debt, not the broader scope of ALM.",
+    "reasoning_summary": "While the content is relevant to ALM (especially its maintenance/improvement aspects), it mainly discusses technical debt in isolation. The fit is partial, lacking explicit, direct alignment with the broader ALM category definition.",
+    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",

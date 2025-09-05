@@ -233,12 +233,22 @@
     "level": "Ignored"
   },
   "Test Automation": {
+    "resourceId": "yKSkRhv_2Bs",
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T20:47:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:30:42",
+    "ai_confidence": 5.63,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.6,
+    "ai_intent": 0.9,
+    "ai_audience": 0.6,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is entirely focused on Scrum training, benefits of an APS course, and how it helps teams align with Scrum methodology. There is no mention of test automation, testing practices, tools, or related frameworks. No references to automated testing in Agile/DevOps, types of tests, or CI/CD integration. The closest overlap is a general encouragement of good Scrum practices, which sometimes (in other contexts) may include automated testing—however, no such direct or indirect linkage is made. All scores reflect that the topic, intent, and audience are far from the test automation category.",
+    "reasoning_summary": "Content does not discuss test automation, automated testing practices, or related tools/frameworks. Focus is solely on scrum training and organizational alignment, offering little to no alignment with the test automation category.",
     "level": "Ignored"
   },
   "Technical Mastery": {

@@ -990,13 +990,23 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "uRqsRNq-XRY",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T23:35:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses judgment and metrics in an Agile environment rather than engineering practices such as clean code, TDD, or CI/CD.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:09",
+    "ai_confidence": 41.63,
+    "ai_mentions": 1.4,
+    "ai_alignment": 4.9,
+    "ai_depth": 5.7,
+    "ai_intent": 4.6,
+    "ai_audience": 6.5,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "Direct mentions of core engineering practices (like clean code, TDD, CI/CD, refactoring, automation, or pair programming) are absent; the text instead focuses on psychological and cultural factors in Agile teams. While there are discussions of metrics and continuous improvement, these references are tied to team health/morale and not to technical engineering methodologies. Some alignment exists, as healthy team environments enable effective engineering practices, and the audience is Agile practitioners. However, the main theme is creating psychologically safe teams rather than the detailed exploration of engineering practices. The content is more process- and culture-focused, with minimal direct overlap—partial fit at best.",
+    "reasoning_summary": "Content addresses Agile team culture and psychological safety, not core engineering practices. Partial fit: only tangentially references metrics and improvement, but lacks direct discussion of engineering methodologies outlined in the category.",
+    "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",

@@ -207,12 +207,22 @@
     "level": "Ignored"
   },
   "Technical Excellence": {
+    "resourceId": "r1wvCUxeWcE",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:22:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Kanban boards and workflow visualisation, which are not directly related to engineering practices or methodologies that enhance agility in software development.",
+    "calculated_at": "2025-09-05T03:29:05",
+    "ai_confidence": 29.05,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.6,
+    "ai_depth": 3.8,
+    "ai_intent": 4.0,
+    "ai_audience": 6.0,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content focuses extensively on practical Kanban board design and workflow visualization for process improvement but lacks any explicit reference to core technical excellence themes (TDD, CI/CD, modular architecture, engineering culture). Its mention of continuous improvement and process adaptation tangentially aligns with aspects of technical excellence but stops short of discussing high-level engineering practices, principles, or code quality. The audience is generally team-centric, with relevance for those interested in process optimization, but not specifically technical excellence as defined. The topic, intent, and themes fit better with process management or workflow optimization than technical excellence.",
+    "reasoning_summary": "This content is about Kanban board workflows and process visualisation, not about technical excellence or high-level engineering practices. There is minimal alignment with the Technical Excellence category as defined. Fit is partial and tangential.",
     "level": "Ignored"
   },
   "Flow Efficiency": {

@@ -985,13 +985,23 @@
     "level": "Tertiary"
   },
   "Engineering Practices": {
+    "resourceId": "S1hBTkbZVFM",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T23:35:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on hiring an agile coach and their interactions with teams and leadership, rather than discussing specific engineering practices or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:47",
+    "ai_confidence": 44.151,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.1,
+    "ai_depth": 3.9,
+    "ai_intent": 4.2,
+    "ai_audience": 6.3,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "The content focuses on hiring and evaluating Agile coaches, emphasizing qualities like technical expertise, communication, empathy, and credibility with both teams and leadership. While 'technical knowledge' is mentioned as valuable for coaches, the article does not meaningfully discuss engineering practices themselves—such as clean code, TDD, CI/CD, refactoring, or automation—nor does it explore their principles or implementation. The main themes are about organizational change, effectiveness, and leadership engagement, not the foundational or methodological aspects of Agile engineering. There is some mild conceptual overlap, but the depth and relevance to Engineering Practices is limited and mostly indirect (e.g., credibility through technical experience with tools). The intent, audience, and focus are more on transformation and hiring strategy than on explicit software engineering methodologies.",
+    "reasoning_summary": "Content is about selecting Agile coaches with technical credibility, not about software engineering practices themselves. Only tangential relevance to Engineering Practices category; minimal direct alignment with its core meanings or key topics.",
+    "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",

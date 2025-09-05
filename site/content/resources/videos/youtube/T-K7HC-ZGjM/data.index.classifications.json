@@ -1349,12 +1349,22 @@
     "level": "Secondary"
   },
   "Kanban": {
+    "resourceId": "T-K7HC-ZGjM",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T01:22:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:29:29",
+    "ai_confidence": 6.22,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.9,
+    "ai_depth": 1.0,
+    "ai_intent": 1.2,
+    "ai_audience": 1.1,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is a detailed explanation of the Sprint Backlog, a core concept of Scrum. Kanban is never directly mentioned; there are no references to Kanban boards, WIP limits, flow management, or Kanban metrics. The focus remains exclusively on Scrum-specific practices and artifacts rather than Kanban principles. While there is overlap in some Agile terminology (e.g., flow, transparency), these are contextualized within Scrum, not Kanban. The audience is Agile practitioners but not specifically Kanban-focused. The signal-to-noise ratio is low for Kanban relevance.",
+    "reasoning_summary": "Content covers Scrum Sprint Backlog, with no Kanban topics or direct references. Strong Scrum focus means alignment with Kanban is extremely weak to nonexistent.",
     "level": "Ignored"
   },
   "Value Delivery": {

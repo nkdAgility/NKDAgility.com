@@ -326,12 +326,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "JNJerYuU30E",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses influential figures in Agile and Scrum, rather than engineering practices, methodologies, or technical topics related to software development.",
+    "calculated_at": "2025-09-05T03:29:58",
+    "ai_confidence": 35.03,
+    "ai_mentions": 1.4,
+    "ai_alignment": 3.9,
+    "ai_depth": 4.2,
+    "ai_intent": 3.7,
+    "ai_audience": 7.4,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content focuses on celebrating a mentor in the agile community and highlights themes of mentorship, collaboration, and continuous improvement. While these are important agile values, the post lacks explicit or in-depth discussion of specific engineering practices (like clean code, TDD, CI/CD, refactoring, automation, or pair programming) as defined in the category. Technical practices are not discussed; instead, the focus is on community, support, and knowledge sharing. Audience alignment is high, but the actual engineering practice signal is weak, limiting the confidence score.",
+    "reasoning_summary": "This content focuses on mentorship and agile community values. It does not address core engineering practices like clean code, TDD, or automation, so fit with the category is partial and mostly indirect.",
     "level": "Ignored"
   },
   "Test Driven Development": {

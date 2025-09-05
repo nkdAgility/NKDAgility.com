@@ -132,12 +132,22 @@
     "level": "Tertiary"
   },
   "Employee Engagement": {
+    "resourceId": "jBIyK6NW3ZB",
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-11T14:34:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum practices and the importance of delivery in software development, with no clear focus on employee engagement, motivation, or team dynamics.",
+    "calculated_at": "2025-09-05T03:27:45",
+    "ai_confidence": 10.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.7,
+    "ai_intent": 0.5,
+    "ai_audience": 1.0,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is centered on delivery as the metric for Scrum progress, emphasizing concepts like continuous deployment, DevOps, definition of done/delivered, and value realization. While it targets Scrum teams and mentions impact for users, it does not discuss motivation, satisfaction, or engagement from a human/employee perspective. No strategies, theories, or practices aimed at fostering employee engagement, motivation, psychological or social aspects of work are addressed. The focus is entirely on process, technical flow, and delivery metrics.",
+    "reasoning_summary": "Content is focused on delivery, production, and technical ways of measuring progress in Scrum. It contains no substantive discussion of employee engagement, motivation, or workplace satisfaction. Fit with Employee Engagement category is negligible.",
     "level": "Ignored"
   },
   "Product Management": {

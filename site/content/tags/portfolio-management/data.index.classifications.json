@@ -114,16 +114,23 @@
     "level": "Primary"
   },
   "Practice": {
+    "resourceId": "Portfolio Management",
     "category": "Practice",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Portfolio Management, which is more focused on strategic alignment and decision-making rather than specific actionable practices that enhance team performance. While it touches on concepts like continuous improvement and value delivery, it lacks direct mentions of specific practices such as pair programming or TDD, which are central to the 'Practice' category. The depth of discussion is moderate, but it does not provide actionable techniques or habits that teams can implement.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:29",
+    "ai_confidence": 43.35,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.9,
+    "ai_depth": 4.8,
+    "ai_intent": 3.7,
+    "ai_audience": 5.1,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "The content focuses on high-level strategy, value stream optimization, and systemic approaches (Portfolio Management). It only implicitly references practices such as continuous assessment and improvement but does not discuss repeatable, actionable techniques. The discussion is conceptual rather than focused on team-level or individual techniques/habits as required by 'Practice.' Its purpose, themes, and examples aim at strategy/structure, not at actionable team practices. No penalties apply; the fit is weak due to lack of actionable technique discussion.",
+    "reasoning_summary": "The content is strategic and organizational, not centered on actionable team practices or repeatable techniques. References to value streams are high-level, making the fit with 'Practice' partial and mostly indirect.",
+    "level": "Tertiary"
   },
   "Philosophy": {
     "resourceId": "Portfolio Management",

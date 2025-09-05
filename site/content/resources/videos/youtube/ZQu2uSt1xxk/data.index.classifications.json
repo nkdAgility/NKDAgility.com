@@ -1284,13 +1284,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "ZQu2uSt1xxk",
     "category": "Business Agility",
-    "calculated_at": "2025-02-11T21:46:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a Kanban course and its application, without a clear emphasis on business agility principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:04",
+    "ai_confidence": 54.53,
+    "ai_mentions": 1.4,
+    "ai_alignment": 6.3,
+    "ai_depth": 6.6,
+    "ai_intent": 7.3,
+    "ai_audience": 6.4,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 55.0,
+    "reasoning": "The content focuses on applying Kanban to improve workflows, efficiency, and value delivery. It aligns somewhat with business agility themes (continuous improvement, responding to workflow needs) but is mostly Kanban training-specific. Business agility is mentioned conceptually via benefits like adaptability and value delivery, rather than as a central theme. There are light references to agile methodologies and adaptability, but not to the broader organisational, leadership, or case study aspects core to the business agility category. The audience is a mix of practitioners and teams, less focused on executive or strategic roles targeted by business agility. The main intent is educational on Kanban, not a deep exploration of business agility principles, though there is some overlap on continuous improvement and value. The signal is moderate—mostly about Kanban, with limited direct or in-depth discussion specifically about business agility.",
+    "reasoning_summary": "Primarily a Kanban course overview focused on workflow improvement and efficiency. Some indirect alignment with business agility, but lacks depth and direct focus on business agility principles or transformation. Only partial category fit.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",

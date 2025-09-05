@@ -1374,12 +1374,22 @@
     "level": "Tertiary"
   },
   "Kanban": {
+    "resourceId": "2I3S32Sk8-c",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T11:47:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:29:43",
+    "ai_confidence": 1.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.7,
+    "ai_intent": 1.4,
+    "ai_audience": 2.3,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "There are no direct mentions of Kanban. The content is exclusively about Scrum team practices, including sprints, retrospectives, and Scrum events. Key Kanban principles (visualization, WIP limits, flow management) are absent. The audience (Agile teams) could incidentally overlap with Kanban, but the intent, concepts, and examples are strictly Scrum, with no conceptual or thematic alignment to Kanban methodology.",
+    "reasoning_summary": "Content exclusively addresses Scrum team guidance; Kanban topics and principles are not mentioned or discussed. Does not match the Kanban category.",
     "level": "Ignored"
   },
   "Value Delivery": {

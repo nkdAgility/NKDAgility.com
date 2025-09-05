@@ -640,12 +640,22 @@
     "level": "Ignored"
   },
   "Frequent Releases": {
+    "resourceId": "HTv3NkNJovk",
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-12T06:40:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile leadership and the differences between Steve Jobs and Satya Nadella, without a focus on frequent software releases or related practices.",
+    "calculated_at": "2025-09-05T03:31:09",
+    "ai_confidence": 18.058,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.3,
+    "ai_intent": 1.9,
+    "ai_audience": 5.7,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on comparing Nadella and Jobs in terms of agile leadership, decentralization, innovation, and culture shift, with several mentions of agility, empiricism, product development, and customer feedback loops. However, it does not explicitly discuss frequent releases, continuous delivery, automation of release processes, or related tools, metrics, or risks. The closest alignment is to agile ways of working, but the category of frequent releases is never directly addressed. Audience overlap exists (agile/tech professionals), and signal is moderately strong on agile topics, but little of it is relevant to the practice, principles, or techniques of frequent releases themselves.",
+    "reasoning_summary": "This content is mainly about agile leadership and organizational culture—not frequent releases. There is no discussion of software delivery cadence, CI/CD, or release processes, so fit with the 'Frequent Releases' category is weak and mostly tangential.",
     "level": "Ignored"
   },
   "Estimation": {

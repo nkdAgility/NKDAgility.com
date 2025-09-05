@@ -1402,12 +1402,22 @@
     "level": "Primary"
   },
   "Lean": {
+    "resourceId": "DOMFzBBMzfq",
     "category": "Lean",
-    "calculated_at": "2025-02-13T22:01:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and Scrum practices without a clear focus on Lean principles or waste reduction strategies.",
+    "calculated_at": "2025-09-05T03:31:18",
+    "ai_confidence": 27.65,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.7,
+    "ai_depth": 2.9,
+    "ai_intent": 2.3,
+    "ai_audience": 8.1,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content primarily critiques staggered iterations in Agile/Scrum contexts, emphasizing technical debt, cross-functional teams, testing, and delivering working software in each sprint. While several of these ideas are tangentially associated with Lean principles such as reducing waste and continuous improvement, the article does not mention Lean directly, nor does it explicitly reference Lean terminology, frameworks, or tools (e.g., 5S, value stream mapping, Seven Wastes, Kaizen). The conceptual overlap is moderate to low—the focus remains on Agile/Scrum best practices rather than Lean methods or philosophy. The discussion depth on Lean is limited to indirect value alignment (process improvement, waste reduction, feedback loops), but lacks Lean-specific context. No penalties were applied as the content is current and not critical of Lean itself.",
+    "reasoning_summary": "Content discusses Agile/Scrum process improvement, not Lean. Some conceptual overlap exists (waste, process efficiency), but Lean is not mentioned or explored; focus and depth are insufficient for strong Lean relevance.",
     "level": "Ignored"
   },
   "Flow Efficiency": {

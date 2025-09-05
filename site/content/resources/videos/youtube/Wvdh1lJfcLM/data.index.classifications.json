@@ -1256,12 +1256,22 @@
     "level": "Tertiary"
   },
   "Miscellaneous": {
+    "resourceId": "Wvdh1lJfcLM",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-11T23:16:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration services and tools related to Azure DevOps and TFS, with a focus on technical aspects rather than Agile methodologies or frameworks.",
+    "calculated_at": "2025-09-05T03:30:36",
+    "ai_confidence": 14.84,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.3,
+    "ai_intent": 2.0,
+    "ai_audience": 3.3,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content is a step-by-step technical guide for migrating from TFS to Azure DevOps, focused on tools, procedures, and practical troubleshooting for teams using Microsoft platforms. It does not display characteristics of the Miscellaneous category: there are direct references to DevOps (and even Scrum and Agile) both in naming and process templates, and its advice is based on actionable, technical guidance tightly aligned with Agile/DevOps recognized practices. No conceptual or thematic fit is present—topics, intent, and solutions are all rooted in established DevOps methodologies, not general or unaffiliated business agility or miscellaneous discussion.",
+    "reasoning_summary": "This is a detailed technical migration guide directly aligned with DevOps practices, not Miscellaneous. The content does not fit the category, as its themes, purpose, and audience are specific to established Agile/DevOps frameworks.",
     "level": "Ignored"
   },
   "DevOps": {

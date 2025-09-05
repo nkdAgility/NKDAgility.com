@@ -1320,12 +1320,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "RBZFAxEUQC4",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T02:50:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the misconceptions and challenges of adopting Agile methodologies rather than focusing on specific engineering practices or technical excellence.",
+    "calculated_at": "2025-09-05T03:30:04",
+    "ai_confidence": 28.95,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 3.7,
+    "ai_audience": 7.1,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the pitfalls of superficial Agile transformation and stresses the need for genuine organisational commitment and context-specific adaptation. However, it does not discuss technical excellence, TDD, CI/CD, modular architecture, or engineering practices in any explicit or meaningful depth. While it implicitly advocates for thoughtful change (which can relate to technical excellence in a broad sense), it lacks any direct focus, examples, or principles central to technical excellence. The audience may include those interested in process excellence or transformation, which may intersect with technical leadership, but the primary themes remain organisational and cultural, not engineering practice. No penalties for outdated or contrarian tone.",
+    "reasoning_summary": "The piece focuses on organisational and mindset shifts for Agile transformation, not technical excellence or engineering practices. There is little to no mention or discussion of technical practices defining the category, so confidence in fit is very low.",
     "level": "Ignored"
   },
   "Organisational Agility": {

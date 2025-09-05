@@ -1368,12 +1368,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "klBiNFvxuy0",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T05:20:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles, events, and the philosophy of empiricism in Scrum, rather than focusing on engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-05T03:29:57",
+    "ai_confidence": 35.19,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.4,
+    "ai_intent": 3.2,
+    "ai_audience": 5.1,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content focuses on epiphanies related to empiricism, purpose, and high-performance teamwork in Scrum education. While it highlights understanding the 'why' behind Scrum practices and high-performing teams, it does not specifically address engineering practices or technical principles foundational to Technical Excellence (e.g., TDD, CI/CD, modular architectures). Tangential mentions of hypothesis-driven engineering appear, but there is no focused or substantial exploration of technical practices. The intended audience is Scrum practitioners, some of whom may be interested in technical topics, but the discussion centers more on mindset, process understanding, and team motivation. Thus, the fit for Technical Excellence is low to partial.",
+    "reasoning_summary": "Content discusses Scrum epiphanies and empiricism, not concrete technical practices. While high-performance teamwork aligns partially, there's insufficient focus or depth on engineering or technical excellence topics. Fit with 'Technical Excellence' is weak.",
     "level": "Ignored"
   },
   "Organisational Agility": {

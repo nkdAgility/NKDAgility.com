@@ -1373,12 +1373,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "nTxn_izPBFQ",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T04:00:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the APSPOA course and the roles of product owners in Agile, without a focus on engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-05T03:31:21",
+    "ai_confidence": 13.65,
+    "ai_mentions": 1.1,
+    "ai_alignment": 2.8,
+    "ai_depth": 1.9,
+    "ai_intent": 2.2,
+    "ai_audience": 3.9,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content centers on the APSPOA course's role in shaping product leaders and the six stances of product ownership, focusing on leadership, product direction, and agile roles. It does not reference or explore engineering practices, TDD, CI/CD, emergent design, or modular architecture—key aspects of technical excellence. It is tailored to agile professionals but clearly about leadership, skills, and roles, not technical practices or engineering quality. Any overlap is indirect and incidental, with no substantive discussion of technical excellence principles, limiting conceptual alignment and depth.",
+    "reasoning_summary": "Content focuses on agile leadership, product direction, and product owner roles, not on engineering practices or principles that define technical excellence. Fit is weak and largely indirect, with minimal alignment to the category definition.",
     "level": "Ignored"
   },
   "Organisational Agility": {

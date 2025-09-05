@@ -202,12 +202,22 @@
     "level": "Ignored"
   },
   "Enterprise Agility": {
+    "resourceId": "kgtNo8tGkjS",
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-14T21:05:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on organisational agility or broader implications for enterprise performance.",
+    "calculated_at": "2025-09-05T03:30:43",
+    "ai_confidence": 11.55,
+    "ai_mentions": 0.15,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.3,
+    "ai_intent": 1.8,
+    "ai_audience": 4.1,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "This content provides a detailed, technical walkthrough of migrating a code repository from Codeplex to GitHub. There is no reference to organisation-wide agility, scaling frameworks, culture, leadership, or agility at any level beyond one individual repository. The audience is likely technical practitioners, not enterprise leaders or strategists. No discussion of organisational adaptability or continuous improvement is present. The only slight alignment is that version control migration might in some cases be part of broader enterprise transformation, but this is not implied or stated here.",
+    "reasoning_summary": "This is a technical how-to for migrating code between platforms. It lacks any discussion of enterprise agility, organisational practices, or broader transformation. No substantial fit with the Enterprise Agility category.",
     "level": "Ignored"
   },
   "Business Agility": {

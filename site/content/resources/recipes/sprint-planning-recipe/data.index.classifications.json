@@ -1350,12 +1350,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "D1dSEM9ni3C",
     "category": "Kanban",
-    "calculated_at": "2025-02-13T09:48:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-05T03:28:03",
+    "ai_confidence": 7.78,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.5,
+    "ai_audience": 3.2,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses exclusively on Scrum Sprint Planning and never mentions Kanban directly or conceptually. Core Kanban principles are not discussed, even tangentially. Pull systems and throughput are briefly cited, but in a Scrum context, not as explicitly Kanban practices. No Kanban philosophies, metrics (lead/cycle time in Kanban sense), or boards are referenced, and the content’s intent is clearly about effective Sprint Planning for Scrum teams, not Kanban. Its audience is Scrum practitioners, not those interested in Kanban.",
+    "reasoning_summary": "Content is about Scrum Sprint Planning, not Kanban, makes no mention of Kanban, and does not address Kanban concepts. No fit with Kanban category.",
     "level": "Ignored"
   },
   "Value Stream Management": {

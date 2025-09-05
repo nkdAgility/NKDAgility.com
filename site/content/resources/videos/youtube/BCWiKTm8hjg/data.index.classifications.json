@@ -1343,12 +1343,22 @@
     "level": "Secondary"
   },
   "Kanban": {
+    "resourceId": "BCWiKTm8hjg",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T09:10:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the virtue of charity in Agile, with no clear focus on Kanban principles or practices.",
+    "calculated_at": "2025-09-05T03:30:58",
+    "ai_confidence": 5.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.6,
+    "ai_intent": 2.2,
+    "ai_audience": 0.4,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content discusses charity, motivation, and team culture in Agile contexts but does not mention Kanban, Kanban practices, or its underpinning theories. No concepts like WIP, flow, Kanban boards, or metrics are present. Audience and intent are generic Agile rather than Kanban-specific, and signal-to-noise is very low with respect to Kanban. No penalties as the content is not outdated or contradictory, but the fit for Kanban is extremely weak.",
+    "reasoning_summary": "Content is focused on charity and motivation in Agile. It does not mention or align with Kanban principles, practices, audience, or terminology. Fit for 'Kanban' is extremely minimal.",
     "level": "Ignored"
   },
   "Value Delivery": {

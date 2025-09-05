@@ -1332,13 +1332,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "pyk0CfSobzM",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T03:22:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and estimation techniques, which are specific to Scrum methodology rather than the broader principles of business agility.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:12",
+    "ai_confidence": 47.0,
+    "ai_mentions": 0.5,
+    "ai_alignment": 4.6,
+    "ai_depth": 5.2,
+    "ai_intent": 4.3,
+    "ai_audience": 5.9,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "The content provides an in-depth discussion of estimation practices within Scrum, emphasizing Agile mindset elements like comfort with uncertainty and adaptability. However, it is narrowly focused on team-level Sprint estimation—core to Agile practice, but not explicitly or broadly connected to Business Agility. There are no direct mentions of business agility or its principles, and while the content embodies aspects of adaptability and learning, it does so at the operational (Scrum team) level, not at the strategic or enterprise level required by the category. The intent is primarily educational for practitioners in Scrum, and while this audience can overlap with business agility concerns, the focus remains on process practices rather than broader organizational agility. No off-topic or obsolete references found.",
+    "reasoning_summary": "The content discusses Agile estimation within Scrum teams, focusing on team-level adaptability and uncertainty, but does not directly address business agility principles or organizational-level agility. Its fit with the category is partial and limited.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "resourceId": "pyk0CfSobzM",

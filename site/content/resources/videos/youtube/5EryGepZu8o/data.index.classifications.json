@@ -1362,12 +1362,22 @@
     "reasoning_summary": "The content aligns with the category by exploring Scrum’s core principles—transparency, inspection, and adaptation—which underpin value delivery in complex settings. However, it stops short of offering detailed strategies or direct links to customer value, satisfaction, or business agility, making its fit more conceptual than practical or explicit."
   },
   "Technical Excellence": {
+    "resourceId": "5EryGepZu8o",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T10:51:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum principles and philosophy rather than specific engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-05T03:30:27",
+    "ai_confidence": 27.85,
+    "ai_mentions": 1.5,
+    "ai_alignment": 3.3,
+    "ai_depth": 3.7,
+    "ai_intent": 2.8,
+    "ai_audience": 4.1,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content thoroughly explores Scrum's foundation in empiricism, focusing on transparency, inspection, and adaptation as drivers for complex product development. However, while these support high performance, the post does not go into specific engineering practices directly tied to technical excellence (such as TDD, CI/CD, modular architecture, or emergent design). Most discussion is about mindset, process, and principles, not on technical practices or high-level software engineering. Thus, alignment and depth for 'Technical Excellence' are limited. Audience is partially aligned since Scrum practitioners may care about technical excellence, but signals are diluted by generic Agile promotion and consultancy messaging.",
+    "reasoning_summary": "The content emphasizes empiricism, transparency, and adaptation in Scrum for navigating complexity, but does not focus on software engineering practices central to technical excellence, thus only partially fits the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {

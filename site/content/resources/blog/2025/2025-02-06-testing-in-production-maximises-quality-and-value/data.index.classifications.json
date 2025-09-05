@@ -528,12 +528,22 @@
     "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores modern software engineering practices like audience-based deployment, real-time feedback, and automation—key aspects of CI/CD and Agile. While it doesn’t cover every engineering concept in depth, its detailed strategies and real-world examples make it highly relevant for those interested in contemporary software delivery methods."
   },
   "Portfolio Management": {
+    "resourceId": "_ncZFfeCrnS",
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-11T14:24:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses software deployment strategies and practices, focusing on audience-based deployment and continuous delivery, which do not align with the core themes of portfolio management.",
+    "calculated_at": "2025-09-05T03:29:11",
+    "ai_confidence": 19.726,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 1.9,
+    "ai_intent": 1.7,
+    "ai_audience": 7.3,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content is predominantly focused on deployment strategies (audience-based/ring-based, progressive delivery, feature flags, DevOps practices) designed to improve software quality and speed feedback loops. While it briefly touches on enterprise alignment, continuous improvement, and value maximization, these are mostly in a technical, delivery context rather than organisational portfolio-level management. There is no substantive discussion of portfolio management frameworks, strategic alignment of initiatives, investment prioritisation, value stream optimisation, or metrics at the portfolio level. The audience is somewhat aligned since engineering leaders might be interested, but the content remains operational and technical, mostly targeting practitioners and team leads, not strategic portfolio managers or executives. Direct mentions and depth for the portfolio management category are minimal and largely coincidental, with very little thematic overlap or intent match.",
+    "reasoning_summary": "Content is deeply focused on technical deployment and DevOps practices, not portfolio management. Minimal overlap; almost no strategy/execution, prioritisation, or value stream discussion. Fit is marginal and incidental, not substantive.",
     "level": "Ignored"
   },
   "Software Development": {

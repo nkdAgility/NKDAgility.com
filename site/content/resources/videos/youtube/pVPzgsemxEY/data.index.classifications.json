@@ -288,13 +288,23 @@
     "level": "Secondary"
   },
   "Personal": {
+    "resourceId": "pVPzgsemxEY",
     "category": "Personal",
-    "calculated_at": "2025-02-17T12:17:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen in relation to continuous improvement in Kanban, without personal anecdotes or reflections.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:07",
+    "ai_confidence": 77.67,
+    "ai_mentions": 2.4,
+    "ai_alignment": 8.6,
+    "ai_depth": 7.9,
+    "ai_intent": 7.7,
+    "ai_audience": 8.2,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 78.0,
+    "reasoning": "The content primarily explores Kaizen's applicability in Agile and Scrum, providing actionable advice and contextual depth. There is a dedicated 'My Personal Experience' section with substantive, specific anecdotes illustrating practical application and lessons learned, which is a hallmark of the Personal category. However, roughly 70% of the post is informative explanation, practical guidance, and examples, rather than exclusively personal reflection or subjective insight. The intent and audience closely align with practitioners seeking to learn from first-hand experience, but the explicit 'Personal' perspective is present only in the latter third of the text. 'Personal' is not directly named, and some segments are generic, reducing direct mention and signal scores. No significant penalties apply as the content is current, respectful, and not critical or off-purpose.",
+    "reasoning_summary": "This content partially fits the Personal category: it contains individual experiences and reflections on Kaizen in Scrum, but also substantial generalized information and best practices. The personal perspective is clear but not predominant.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",

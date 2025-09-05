@@ -306,12 +306,22 @@
     "level": "Tertiary"
   },
   "Azure DevOps": {
+    "resourceId": "Puz2wSg7UmE",
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T14:08:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general organisational capability and innovation metrics without specific reference to Azure DevOps services or practices.",
+    "calculated_at": "2025-09-05T03:31:34",
+    "ai_confidence": 12.32,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.2,
+    "ai_intent": 2.1,
+    "ai_audience": 3.2,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content discusses evidence-based management and organizational innovation using metrics such as technical debt, innovation rate, active branches, and complexity. While these are relevant in modern software development and DevOps contexts, there is no mention—direct or indirect—of Microsoft Azure DevOps services, practices, features, or ecosystem. The article remains focused on general best practices and organizational improvement, not Azure DevOps. Technical examples (active branches, technical debt) are not tied to any Azure tool or platform. The intended audience could include Azure DevOps practitioners, but equally any audience focused on software improvement or agile, without specificity to Azure DevOps.",
+    "reasoning_summary": "Content focuses on innovation measurement and evidence-based management, never mentioning Azure DevOps or its features. Fit is weak and incidental; topic is broader DevOps/agile, not Azure DevOps-specific.",
     "level": "Ignored"
   },
   "Technical Excellence": {

@@ -310,12 +310,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "gRnYXuxo9_w",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum values, particularly openness, which is more focused on project management and team collaboration rather than specific engineering practices related to software development.",
+    "calculated_at": "2025-09-05T03:30:12",
+    "ai_confidence": 33.247,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.9,
+    "ai_depth": 3.2,
+    "ai_intent": 2.1,
+    "ai_audience": 2.7,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content centers on Scrum values—openness and transparency—as mechanisms to develop trust and team culture. While these support effective Agile collaboration, there are no explicit references to engineering practices such as clean code, TDD, CI/CD, or automation. The focus is on interpersonal behaviors, emotional openness, and communication, not technical discipline. The depth addresses psychological safety and communication but does not discuss methodologies or software quality principles. The intended audience is Agile practitioners but not specifically engineers working on code quality and technical excellence. The overall fit is tangential: these team values may indirectly support engineering practices but are not about them.",
+    "reasoning_summary": "The content focuses on Scrum values like openness and transparency, emphasizing trust and communication, but lacks direct connection to Agile engineering practices. Its fit with 'Engineering Practices' is only tangential and not a core or explicit match.",
     "level": "Ignored"
   },
   "Test Driven Development": {

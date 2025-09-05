@@ -276,12 +276,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "cb6JpfomYRU",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T20:30:33",
+    "calculated_at": "2025-09-05T03:30:28",
     "ai_confidence": 0,
-    "non_ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 1,
+    "ai_signal": 1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "reasoning": "The content is exclusively focused on Scrum Master training, practical Agile learning, and building peer communities. It makes no mention of Azure Pipelines or any related CI/CD tooling. Concepts such as builds, deployments, or Azure DevOps are entirely absent. The content targets aspiring Scrum Masters and Agile practitioners, not technical DevOps engineers or those interested in pipeline automation. There is no direct, conceptual, or thematic overlap with Azure Pipelines, so all major dimensions score zero except marginal audience and signal for targeting software professionals in general.",
+    "reasoning_summary": "No mention, overlap, or intent aligns with Azure Pipelines. Content is strictly about Scrum Master training, not pipeline automation, CI/CD, or Azure DevOps.",
     "level": "Ignored"
   },
   "Team Performance": {

@@ -1260,12 +1260,22 @@
     "level": "Tertiary"
   },
   "Lean": {
+    "resourceId": "FquWl26Uc8Y",
     "category": "Lean",
-    "calculated_at": "2025-02-12T17:21:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and coding practices, with no clear focus on Lean principles or methodologies.",
+    "calculated_at": "2025-09-05T03:28:14",
+    "ai_confidence": 27.38,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.5,
+    "ai_intent": 3.0,
+    "ai_audience": 8.1,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "There are no direct mentions of Lean, its principles, or its tools. The focus is entirely on addressing technical debt, code quality, and team competency through practices like code review and testing. While these can be tangentially related to Lean by promoting quality and continuous improvement, there is no discussion of Lean thinking, waste reduction, value stream mapping, or specific Lean concepts beyond the generic idea of improving process quality. The audience (software practitioners) is similar but the content's depth, focus, and conceptual links to Lean are minimal, yielding a low confidence score for placement in this category.",
+    "reasoning_summary": "Content focuses on technical debt and code quality; it does not address Lean, its principles, or concepts directly or in depth. Weak fit for the Lean category; only faint overlap via shared process-improvement themes.",
     "level": "Ignored"
   },
   "Value Delivery": {

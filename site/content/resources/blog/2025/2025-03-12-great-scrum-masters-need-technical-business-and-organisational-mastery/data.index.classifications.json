@@ -1423,16 +1423,23 @@
     "level": "Ignored"
   },
   "Continuous Delivery": {
+    "resourceId": "dQjKsWR5qfn",
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-10T13:00:38",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content briefly mentions Continuous Delivery as part of a broader discussion on the skills required for effective Scrum Masters. While it touches on relevant practices like CI/CD, the primary focus is on the roles and responsibilities of Scrum Masters rather than an in-depth exploration of Continuous Delivery principles or practices. Therefore, it does not fully align with the category's core themes.",
-    "level": "Secondary"
+    "calculated_at": "2025-09-05T03:29:17",
+    "ai_confidence": 32.6,
+    "ai_mentions": 2.7,
+    "ai_alignment": 3.3,
+    "ai_depth": 2.6,
+    "ai_intent": 4.2,
+    "ai_audience": 4.9,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "Direct mentions of 'Continuous Delivery' exist but are brief and not explored; it's listed as a knowledge area a Scrum Master should understand when working with software teams. The main focus is on the broad mastery requirements for Scrum Masters (technical, business, organisational), not a detailed or centered treatment of Continuous Delivery as a discipline. Most of the content relates to Scrum roles, leadership, and cross-disciplinary coaching, not CD practices, principles, or tooling. Several related software practices (TDD, CI/CD, DevOps) are discussed, but only as context for technical mastery — not as the main subject or in depth. The intent is partially aligned in that effective Scrum Masters might enable Continuous Delivery, but CD is not a core or sustained topic here. The audience does overlap (Scrum Masters may benefit), but the content is mostly relevant to those concerned with professional development in Scrum roles instead of in-depth CD implementation.",
+    "reasoning_summary": "Continuous Delivery is mentioned as one technical area for Scrum Masters but is not discussed in depth. The content's focus is on Scrum Mastery, not on Continuous Delivery principles or practices, so fit is weak and partial.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",

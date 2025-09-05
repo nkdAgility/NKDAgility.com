@@ -210,12 +210,22 @@
     "level": "Secondary"
   },
   "Platform Engineering": {
+    "resourceId": "2-AyrLPg-8Y",
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T15:04:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile leadership and evidence-based management, with no clear focus on platform engineering or related topics.",
+    "calculated_at": "2025-09-05T03:31:21",
+    "ai_confidence": 6.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.2,
+    "ai_intent": 0.1,
+    "ai_audience": 5.7,
+    "ai_signal": 8.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content discusses evidence-based management within Agile leadership, focusing on data-driven decision-making, continuous improvement, and collaboration. There are no explicit or even implicit references to Platform Engineering concepts such as IDPs, standardised developer self-service, platform automation, or internal developer enablement. The core principles, terminology, and intent are strictly within agile/management process improvement, not platform engineering. The only nearby connection is the possible technical audience, but this is a weak and indirect fit.",
+    "reasoning_summary": "This content is about evidence-based management in Agile and leadership, not platform engineering. No relevant concepts, principles, or practices of platform engineering are present. The fit is extremely weak and almost completely unrelated.",
     "level": "Ignored"
   },
   "Agile Product Management": {

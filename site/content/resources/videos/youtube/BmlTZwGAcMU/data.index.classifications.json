@@ -206,13 +206,23 @@
     "level": "Ignored"
   },
   "Agile Product Management": {
+    "resourceId": "BmlTZwGAcMU",
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T13:20:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on immersive learning and theory rather than Agile Product Management practices or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:38",
+    "ai_confidence": 61.54,
+    "ai_mentions": 1.8,
+    "ai_alignment": 6.4,
+    "ai_depth": 6.1,
+    "ai_intent": 6.0,
+    "ai_audience": 6.6,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "The content focuses on immersive learning methods within Scrum, emphasizing theory and experience for Scrum roles such as Scrum Masters and Product Owners. While it discusses aspects relevant to Agile product management (continuous improvement, reflection, Scrum values), it centers on learning/training in Agile frameworks, not on product management practices like value maximization, backlog prioritization, or product vision alignment. Product Owner and value delivery are mentioned, but not explored in depth from an Agile Product Management perspective. Thus, while there's partial conceptual and audience alignment, coverage of product management-specific topics is superficial.",
+    "reasoning_summary": "Primarily addresses Scrum training and learning practices; touches Agile values and some product roles, but largely omits dedicated product management practices (e.g., backlog/value focus). Fit is partial, not central.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",

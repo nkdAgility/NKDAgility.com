@@ -334,12 +334,22 @@
     "level": "Ignored"
   },
   "Azure Repos": {
+    "resourceId": "Rv0ZjvwYVy5",
     "category": "Azure Repos",
-    "calculated_at": "2025-02-13T15:40:51",
+    "calculated_at": "2025-09-05T03:32:33",
     "ai_confidence": 0,
-    "non_ai_confidence": 0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "ai_intent": 0.0,
+    "ai_audience": 0.2,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Evidence-Based Management and goal-setting frameworks, with no direct relation to Azure Repos or its functionalities.",
+    "reasoning": "The content is a comprehensive guide about Evidence-Based Management (EBM) with no mention of Azure Repos, source control, Git, TFVC, branching, pull requests, code reviews, or any Azure DevOps functionalities. It focuses on organizational value delivery, goal setting, and continuous improvement, which, while relevant to software delivery, do not reference or align with Azure Repos. The content is targeted at organizational and agile audiences but not at practitioners seeking Azure Repos-specific information.",
+    "reasoning_summary": "This content does not mention Azure Repos or any source control topics and focuses purely on Evidence-Based Management, so there is no fit with the category.",
     "level": "Ignored"
   },
   "Definition of Done": {

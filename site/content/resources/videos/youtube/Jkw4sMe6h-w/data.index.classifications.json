@@ -280,12 +280,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "Jkw4sMe6h-w",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T19:39:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile leadership and management, with no mention of Azure Pipelines or related CI/CD practices.",
+    "calculated_at": "2025-09-05T03:29:40",
+    "ai_confidence": 1.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 1.2,
+    "ai_audience": 2.1,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content does not mention Azure Pipelines at all, nor does it discuss CI/CD, automation, or any Azure DevOps services. The discussion is exclusively about leadership styles, specifically agile leadership versus traditional management. No technical practices, pipeline configurations, or Azure-specific topics are included. There are no references to pipelines, builds, deployments, or even general DevOps processes tied to Azure. The only minor (and indirect) overlap could be that some Azure Pipelines users might be interested in agile leadership, but this is a stretch. Audience alignment is marginally higher only because some DevOps practitioners might care about leadership, but the entire content is outside the defined category scope.",
+    "reasoning_summary": "The content does not address Azure Pipelines in any fashion. It strictly discusses agile leadership and organizational culture, which are unrelated to the category’s definition and technical focus.",
     "level": "Ignored"
   },
   "Team Performance": {

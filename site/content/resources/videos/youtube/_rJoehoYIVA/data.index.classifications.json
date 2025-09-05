@@ -1286,13 +1286,23 @@
     "reasoning_summary": "This content is a strong fit for the Azure DevOps category, as it centres on migration to Azure DevOps, discusses related challenges, and highlights its benefits over legacy systems. The frequent, explicit references and in-depth exploration of migration scenarios clearly align with the core themes of Azure DevOps, making the classification highly appropriate."
   },
   "Business Agility": {
+    "resourceId": "_rJoehoYIVA",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T12:50:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no clear focus on business agility principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:35",
+    "ai_confidence": 42.83,
+    "ai_mentions": 0.4,
+    "ai_alignment": 4.1,
+    "ai_depth": 4.3,
+    "ai_intent": 3.8,
+    "ai_audience": 5.7,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "The content focuses on Azure DevOps migration—discussing planning, best practices, and technical challenges. While some topics (e.g., adaptability, resistance to change, supporting teams) slightly touch on concepts like adaptability and operational efficiency, the primary aim is technical migration rather than the broader principles or strategies of business agility. The piece does not directly mention business agility, nor does it delve into organisational culture, leadership, market responsiveness, or cross-enterprise frameworks central to business agility. Its intent is to inform on migration implementation rather than transformation at the business agility level. The main audience is technical practitioners rather than business strategists or leaders concerned with overall business adaptability.",
+    "reasoning_summary": "Primarily focused on technical migration to Azure DevOps, not on the broader organisational principles or practices of business agility. Only slight conceptual overlap; fit is partial and indirect.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",

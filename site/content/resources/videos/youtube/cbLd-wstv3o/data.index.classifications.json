@@ -213,12 +213,22 @@
     "level": "Tertiary"
   },
   "Platform Engineering": {
+    "resourceId": "cbLd-wstv3o",
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T14:12:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product value and metrics, with no clear focus on platform engineering or related concepts.",
+    "calculated_at": "2025-09-05T03:29:15",
+    "ai_confidence": 15.35,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.4,
+    "ai_intent": 2.1,
+    "ai_audience": 4.1,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses entirely on Evidence-Based Management, product value metrics, and product backlog refinement. While it mentions Agile and continuous improvement, it does not reference Platform Engineering concepts, principles, IDPs, platform automation, or self-service tooling for developers. There is no discussion of internal developer platforms or any specialized platform engineering audience. Any overlap is only indirect—by discussing developer or team productivity as a byproduct of better backlog prioritization, not via internal platforms. Overall, the content aligns closely with product management/EBM and only minimally—if at all—with Platform Engineering.",
+    "reasoning_summary": "The content centers on product value and Evidence-Based Management, not Platform Engineering. It lacks references to platforms, automation, or developer productivity supported by internal tooling. Any alignment is indirect and minimal.",
     "level": "Ignored"
   },
   "Agile Product Management": {

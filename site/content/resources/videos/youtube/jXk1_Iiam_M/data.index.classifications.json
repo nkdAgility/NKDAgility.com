@@ -1421,12 +1421,22 @@
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
+    "resourceId": "jXk1_Iiam_M",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T05:32:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and immersive learning, which are not directly related to the management of software applications or the application lifecycle.",
+    "calculated_at": "2025-09-05T03:29:33",
+    "ai_confidence": 33.34,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.0,
+    "ai_depth": 3.8,
+    "ai_intent": 4.2,
+    "ai_audience": 5.5,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content focuses on immersive learning for Scrum Masters, emphasizing practice and continuous improvement of Scrum principles like 'Definition of Done.' However, there is almost no direct mention of Application Lifecycle Management (ALM), nor discussion of managing the entire application lifecycle or overarching governance, compliance, or ALM-specific tools. While parts relate tangentially (e.g., continuous improvement, quality), the core discussion is team-level skills and professional growth, not application lifecycle governance. The audience (Scrum Masters, trainers) might be part of ALM environments, but the piece remains anchored in learning and adoption of Scrum, not ALM as defined.",
+    "reasoning_summary": "This content centers on immersive Scrum Master training, with minimal alignment to Application Lifecycle Management. Its core topic is learning and practice, not governance or lifecycle management of software applications. Category fit is partial and mostly tangential.",
     "level": "Ignored"
   },
   "Value Stream Management": {

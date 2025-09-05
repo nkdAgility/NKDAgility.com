@@ -1265,12 +1265,22 @@
     "level": "Tertiary"
   },
   "Miscellaneous": {
+    "resourceId": "tzmbqdEULUY",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-12T20:23:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of data migration and downtime management in a DevOps context, with specific references to Azure DevOps and Git, rather than focusing on miscellaneous topics.",
+    "calculated_at": "2025-09-05T03:29:32",
+    "ai_confidence": 24.45,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.7,
+    "ai_intent": 2.0,
+    "ai_audience": 1.5,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses on data migration strategies, practical planning, and the use of tools like Git within engineering teams. While it contains some personal anecdotes and pragmatic tips, much of the discussion is technical and recommends actionable practices. Azure DevOps is mentioned, linking to established DevOps principles. The main intent and audience align more with practitioners seeking technical guidance rather than general or anecdotal discussions unanchored from frameworks. There are no explicit discussions on miscellaneous Agile themes; references to DevOps disqualify deeper categorization as 'Miscellaneous.' Hence, the fit is weak, and confidence is low.",
+    "reasoning_summary": "The content provides practical, technical advice for data migration with references to DevOps and actionable practices. This precludes a strong fit with 'Miscellaneous,' as it does not meet the category definition of unrelated or purely anecdotal discussion.",
     "level": "Ignored"
   },
   "DevOps": {

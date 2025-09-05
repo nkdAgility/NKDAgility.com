@@ -1379,12 +1379,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "irSqFAJNJ9c",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T06:17:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the dynamics and dysfunctions of scrum teams rather than specific engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-05T03:31:46",
+    "ai_confidence": 19.9,
+    "ai_mentions": 1.1,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.3,
+    "ai_intent": 2.0,
+    "ai_audience": 5.2,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on team dynamics, leadership styles, and organizational dysfunction in scrum teams. While technical excellence is tangentially touched (e.g., mentions of delivering valuable increments), the article doesn't explicitly discuss engineering practices such as TDD, CI/CD, modularity, or technical quality principles. There are no direct references to technical excellence, and the depth of discussion doesn't substantially cover technical engineering practices or their role in achieving high-quality software. Audience alignment partially fits as some scrum masters/Agile practitioners may overlap with technical audiences, but the main theme is more about team/organizational health than technical excellence itself.",
+    "reasoning_summary": "This content focuses on team dysfunction and organizational barriers, not on engineering practices or high-level technical quality. It only weakly aligns with the Technical Excellence category and does not cover its core topics.",
     "level": "Ignored"
   },
   "Organisational Agility": {

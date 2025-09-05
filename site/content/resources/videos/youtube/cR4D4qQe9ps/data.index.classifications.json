@@ -524,13 +524,23 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "cR4D4qQe9ps",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T07:25:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on Scrum roles and the importance of understanding the Scrum Guide, which is more related to project management than engineering practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:16",
+    "ai_confidence": 42.25,
+    "ai_mentions": 1.4,
+    "ai_alignment": 4.1,
+    "ai_depth": 3.7,
+    "ai_intent": 5.2,
+    "ai_audience": 8.8,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content directly addresses foundational Scrum knowledge for new Scrum Masters, stressing familiarity with the Scrum Guide, roles, and project context. However, it does not discuss any specific engineering practices (such as TDD, CI/CD, refactoring, automation, or clean code), nor does it target technical engineering principles as described in the classification. Its primary intent is to encourage mastery of Scrum framework basics and principles, which is tangential to but not synonymous with Agile engineering practices. The audience is technical/practitioner-focused, but the depth and conceptual alignment with engineering practices are limited. No penalties were applied, as the tone is positive and up-to-date, and the content does not reference outdated or obsolete practices.",
+    "reasoning_summary": "The content focuses on mastering Scrum basics and framework intent, not on software engineering practices. While relevant for Agile contexts, its fit with 'Engineering Practices' is partial and indirect at best.",
+    "level": "Tertiary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

@@ -608,12 +608,22 @@
     "level": "Tertiary"
   },
   "Estimation": {
+    "resourceId": "S0h_7ayLpsE",
     "category": "Estimation",
-    "calculated_at": "2025-02-12T02:22:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management and data collection for decision-making, with no clear focus on estimation techniques or practices within Agile or Scrum frameworks.",
+    "calculated_at": "2025-09-05T03:27:55",
+    "ai_confidence": 24.15,
+    "ai_mentions": 1.0,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.2,
+    "ai_intent": 3.3,
+    "ai_audience": 8.0,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses overwhelmingly on Evidence-Based Management (EBM), specifically on using data for Agile decision-making and value tracking. While there are references to metrics (e.g., cycle time, lead time) that could overlap with estimation, the article does not mention or discuss estimation, forecasting, or planning techniques (such as Planning Poker, T-shirt sizing, or velocity) relevant to the Estimation category. The discussion is about measurement, tracking, and empirical decision processes rather than collaborative or empirical approaches to Agile estimation. The audience (Scrum Masters, Product Owners) aligns, but the core topic and depth are not aligned with Estimation.",
+    "reasoning_summary": "This content focuses on value delivery, measurement, and data-driven decision-making in Agile (EBM), but does not discuss estimation techniques or practices, making its fit with the Estimation category minimal and mostly tangential.",
     "level": "Ignored"
   },
   "Troubleshooting": {

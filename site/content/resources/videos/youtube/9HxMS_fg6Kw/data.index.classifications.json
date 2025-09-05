@@ -97,13 +97,23 @@
     "level": "Ignored"
   },
   "Coaching": {
+    "resourceId": "9HxMS_fg6Kw",
     "category": "Coaching",
-    "calculated_at": "2025-02-12T10:06:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses hiring practices and red flags for agile consultants, rather than focusing on coaching techniques or the role of a coach.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:30:19",
+    "ai_confidence": 68.16,
+    "ai_mentions": 6.8,
+    "ai_alignment": 7.4,
+    "ai_depth": 6.7,
+    "ai_intent": 6.5,
+    "ai_audience": 8.2,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 68.0,
+    "reasoning": "The content discusses qualities to seek in agile consultants, with some focus on agile coaching as a role and its necessary skills but does not deeply explore coaching practices, techniques, or intent. Coaching is directly referenced multiple times, and related concepts like mentoring, community engagement, and capability development are present. However, the primary focus remains on what makes a consultant credible, not on the specifics or facilitation elements of coaching itself. The intent is partly aligned, as hiring good coaches/consultants has overlap but does not make up the bulk of the content. The audience is appropriate, and the signal-to-noise ratio is strong, as the content is on-topic for team leads or hiring managers. No penalty was applied, as there is no contradiction, outdatedness, or undermining of the coaching theme. Overall, the fit is partial and secondary, justifying a moderate confidence score.",
+    "reasoning_summary": "Content focuses on hiring agile consultants and references agile coaching, but coaching is not the main theme. While some coaching aspects are covered, the core discussion is broader, thus the fit is partial.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",

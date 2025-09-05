@@ -1365,12 +1365,22 @@
     "level": "Tertiary"
   },
   "Technical Excellence": {
+    "resourceId": "y0yIAIqOv-Q",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-11T22:31:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of Agile consultants and the importance of Agile methodologies, without a clear focus on technical practices or engineering excellence.",
+    "calculated_at": "2025-09-05T03:31:34",
+    "ai_confidence": 31.5,
+    "ai_mentions": 0.8,
+    "ai_alignment": 3.1,
+    "ai_depth": 2.6,
+    "ai_intent": 2.8,
+    "ai_audience": 7.2,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content discusses when to hire an Agile consultant, focusing on organizational improvement, change after failure, and the value of outside perspective. However, it does not reference technical excellence practices, principles, or topics such as TDD, CI/CD, modular architecture, or emergent design. The main intent is to promote consultancy and suggest the role of external agile experts for change and improvement, which is only tangentially related to the concept of technical excellence. The depth of discussion on actual engineering practices is absent, and direct mentions are nearly zero. The audience overlaps somewhat, but the technical substance is lacking.",
+    "reasoning_summary": "Content centers on when and why to hire an Agile consultant, not on engineering practices or technical excellence principles. The fit is weak; no substantive discussion of technical excellence topics.",
     "level": "Ignored"
   },
   "Organisational Agility": {

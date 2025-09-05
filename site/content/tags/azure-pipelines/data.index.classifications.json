@@ -114,16 +114,23 @@
     "level": "Tertiary"
   },
   "Practice": {
+    "resourceId": "Azure Pipelines",
     "category": "Practice",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 22,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content discusses Azure Pipelines, which is a tool for automating builds, tests, and deployments, aligning with the practice of Continuous Deployment. It highlights the benefits of automation in improving delivery speed and reliability, which is a core theme of the Practice category. However, the focus is more on the tool itself rather than actionable techniques or habits that teams can adopt, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-09-05T03:31:37",
+    "ai_confidence": 47.95,
+    "ai_mentions": 2.4,
+    "ai_alignment": 5.6,
+    "ai_depth": 5.1,
+    "ai_intent": 6.3,
+    "ai_audience": 6.8,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "The content centers on Azure Pipelines as a tool for automating builds, tests, and deployments via CI/CD workflows. While it references repeatable actions and continuous improvement, the focus remains on the features and benefits of the Azure Pipelines tool itself, not the practical, tool-independent techniques of continuous deployment or integration. There are surface-level mentions of concepts like automation, workflow streamlining, and collaboration, but the discussion lacks actionable, tool-agnostic 'Practice' depth. Direct mentions of applicable practices (such as CI/CD) are limited and only briefly contextualized. The target audience is practitioners, but the content prioritizes Azure Pipelines as a solution over the core practices. Therefore, the confidence is moderate but not strong.",
+    "reasoning_summary": "Content describes Azure Pipelines' features and benefits for CI/CD but focuses more on the tool than actionable, repeatable practices. There's moderate alignment with 'Practice', but main emphasis is on Azure Pipelines as a product.",
+    "level": "Tertiary"
   },
   "Philosophy": {
     "resourceId": "Azure Pipelines",

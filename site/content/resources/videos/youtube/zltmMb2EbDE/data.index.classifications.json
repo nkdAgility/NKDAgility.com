@@ -1398,13 +1398,23 @@
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
+    "resourceId": "zltmMb2EbDE",
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-11T21:54:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of Cban with Scrum, focusing on metrics and strategies rather than the interplay between social and technical systems within organisations.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:31:30",
+    "ai_confidence": 46.25,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.4,
+    "ai_depth": 4.8,
+    "ai_intent": 4.2,
+    "ai_audience": 6.6,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 46.0,
+    "reasoning": "The content focuses on practical integration of Kanban into Scrum, centering on workflow, metrics, and continuous improvement. However, while these operational adjustments relate to team effectiveness, the discussion almost entirely concentrates on technical practices and delivery processes. There is minimal explicit coverage of the interplay between organisational structures, social context, or the broader sociotechnical dimension. Instances referencing team workshops and shared understanding hint weakly at the social element, but do not expand on organisational culture, structure, or the integration of social and technical systems. The target audience (agile practitioners, team leads) partially aligns, and the discussion is focused and relevant, but the fit to sociotechnical systems is partial.",
+    "reasoning_summary": "The content mainly covers technical integration of Kanban with Scrum. Social or organisational context is barely addressed, making the fit with 'Sociotechnical Systems' partial and mostly indirect. Relevant to tech practitioners, but lacks systems-level discussion.",
+    "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",

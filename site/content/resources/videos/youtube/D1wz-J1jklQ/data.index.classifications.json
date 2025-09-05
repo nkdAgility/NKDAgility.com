@@ -106,12 +106,22 @@
     "level": "Ignored"
   },
   "Test Automation": {
+    "resourceId": "D1wz-J1jklQ",
     "category": "Test Automation",
-    "calculated_at": "2025-02-12T15:22:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of frequent deployments and managing technical debt, without a clear focus on test automation principles, practices, or tools.",
+    "calculated_at": "2025-09-05T03:28:34",
+    "ai_confidence": 16.275,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.0,
+    "ai_intent": 2.4,
+    "ai_audience": 5.2,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on the benefits of frequent code deployments, iterative delivery, technical debt management, and responsiveness to user feedback. There is no explicit mention of test automation, nor discussion of automated testing principles, frameworks, or tools. The main themes—deployment frequency, batch size, observability—are all related to DevOps and continuous delivery, but the link to automated testing is not made. While practitioners interested in test automation might find overarching process improvement relevant, the discussion lacks concrete alignment to test automation practices, tools, or metrics. The audience and purpose are tangentially related but not specific to test automation.",
+    "reasoning_summary": "Content centers on deployment frequency, technical debt, and feedback loops, with no direct or substantial discussion of test automation. Fit with the category is weak and mostly indirect, offering minimal relevance to principles or practices of test automation.",
     "level": "Ignored"
   },
   "Windows": {

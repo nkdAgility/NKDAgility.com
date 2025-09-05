@@ -323,12 +323,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "rHFhR3o849k",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T10:22:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a scrum master and differentiates Agile from traditional project management, focusing on coaching and collaboration, rather than engineering practices.",
+    "calculated_at": "2025-09-05T03:29:36",
+    "ai_confidence": 22.73,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.5,
+    "ai_intent": 2.6,
+    "ai_audience": 6.4,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content centers on the qualities and impact of an effective Scrum Master, including team fit, navigating organizational impediments, and building relationships. While these topics intersect with Agile facilitation and team dynamics, they do not address the core Engineering Practices category: clean code, TDD, CI/CD, refactoring, automation, or pair programming. There is no mention, either direct or conceptual, of fundamental software engineering principles or technical practices. The purpose and audience mostly target Scrum roles and leadership, not engineering practitioners. Thus, there is only minimal overlap (e.g., vague mentions of productivity and effectiveness), resulting in very low confidence of fit.",
+    "reasoning_summary": "Content is about Scrum Master roles, team dynamics, and organizational change—not core Agile Engineering Practices. There is minimal overlap and almost no reference to technical software methods or foundational engineering principles. Partial and unclear fit.",
     "level": "Ignored"
   },
   "Test Driven Development": {

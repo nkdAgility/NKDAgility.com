@@ -317,12 +317,22 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "p9OhFJ5Ojy4",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the philosophical aspects of Agile transformation and leadership, rather than specific engineering practices or methodologies related to software development.",
+    "calculated_at": "2025-09-05T03:31:15",
+    "ai_confidence": 23.48,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.4,
+    "ai_intent": 2.7,
+    "ai_audience": 5.3,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content is focused broadly on organisational change, agility, and the need for continuous evolution in fast-changing environments. It extensively discusses transformation myths, adaptation, experimentation, and a shift in management and leadership mindsets. However, it almost entirely omits direct mentions or substantive discussions of core engineering practices such as clean code, TDD, CI/CD, automation, refactoring, or pair programming. The alignment is weak: while the audience may overlap with engineering leaders and agile practitioners, the themes are organisational and cultural rather than technical. Most of the content discusses change management, leadership, historical context, and the inadequacy of industrial-era management style—very little relates to technical or engineering methodologies. Audience fit is somewhat higher because agile engineering teams and leaders might be interested, but the overall fit with 'Engineering Practices' as per the strict definition is low.",
+    "reasoning_summary": "Content focuses on organisational evolution and agility, not core engineering practices. It lacks direct discussion of clean code, testing, automation, or related engineering methods. Only a weak, tangential fit with the category.",
     "level": "Ignored"
   },
   "Test Driven Development": {

@@ -278,12 +278,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "tPX-wc6pG7M",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T17:43:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses engagement in Agile teams and organisational structure, with no direct reference to Azure Pipelines or related CI/CD practices.",
+    "calculated_at": "2025-09-05T03:29:46",
+    "ai_confidence": 2.856,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.8,
+    "ai_intent": 1.1,
+    "ai_audience": 3.1,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on Agile team engagement, decentralization, autonomy, and shared vision without any mention of Azure Pipelines or its specific practices. There is no discussion of CI/CD, pipeline configuration, deployment, or anything related to Azure or DevOps tooling. The audience is technical leaders, which might partially overlap with Azure Pipelines users, but the fit is tangential and not category-specific. All scores are very low except audience and signal-to-noise, which receive slight bumps for being technically oriented and focused, but no aspect of the content is remotely tied to Azure Pipelines.",
+    "reasoning_summary": "Content discusses team engagement and agile leadership concepts without referencing Azure Pipelines or CI/CD topics; its intent and subject do not fit the category definition at all.",
     "level": "Ignored"
   },
   "Team Performance": {

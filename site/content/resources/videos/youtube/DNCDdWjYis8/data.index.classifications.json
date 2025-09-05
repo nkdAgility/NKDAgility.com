@@ -323,13 +323,23 @@
     "level": "Ignored"
   },
   "Engineering Practices": {
+    "resourceId": "DNCDdWjYis8",
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T10:21:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not core engineering practices such as clean code or TDD.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-05T03:29:38",
+    "ai_confidence": 51.05,
+    "ai_mentions": 1.2,
+    "ai_alignment": 5.9,
+    "ai_depth": 5.6,
+    "ai_intent": 5.7,
+    "ai_audience": 7.2,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 51.0,
+    "reasoning": "The article focuses on the Scrum Master role, describing effective facilitation, empowerment, and servant leadership. While it briefly references practices like pair programming and continuous learning, the main thrust is team and role dynamics, not core technical engineering practices like TDD, CI/CD, or clean code. Conceptually, it aligns with agile team principles and touches tangentially on engineering practices (e.g., mentioning pair programming), but does not deeply explore technical methodologies. Audience fit is decent, given the practitioner focus, and the content is mostly relevant, with few tangential remarks.",
+    "reasoning_summary": "Content mainly explores the Scrum Master’s team facilitation and empowerment, not core Agile engineering practices. It touches lightly on collaboration (e.g., pair programming), but is primarily about role clarity and team dynamics—so fit is partial and somewhat tangential.",
+    "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",

@@ -57,16 +57,23 @@
     "level": "Tertiary"
   },
   "Tenet": {
+    "resourceId": "Behaviour Driven Development",
     "category": "Tenet",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 42.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses Behaviour Driven Development (BDD) and its alignment with business goals, which touches on collaboration and communication. However, it lacks explicit references to specific tenets or actionable guiding rules that shape decision-making within an organisation. While it aligns with some core themes of Agile, such as collaboration and continuous improvement, it does not delve deeply into the prescriptive nature of tenets as defined in the category.",
-    "level": "Tertiary"
+    "calculated_at": "2025-09-05T03:31:51",
+    "ai_confidence": 65.35,
+    "ai_mentions": 2.3,
+    "ai_alignment": 7.2,
+    "ai_depth": 6.8,
+    "ai_intent": 6.2,
+    "ai_audience": 7.4,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 65.0,
+    "reasoning": "The content presents BDD as a way to align development with business goals and improve collaboration, highlighting actionable practices such as clear requirements and shared understanding. While these relate to tenet-driven outcomes (e.g., collaboration, value focus, accountability), the piece does not explicitly label or structure these as tenets, nor does it dwell deeply on specific guiding doctrines or principles as such. The alignment and audience are good, but the lack of direct tenet terminology or discussion of prescriptive organizational doctrines reduces the confidence score. There is moderate depth and high signal-to-noise, but only modest mention of actionable rules or named tenets.",
+    "reasoning_summary": "Content discusses actionable practices and organizational behaviors that align with tenet themes (collaboration, value, accountability) but does not explicitly discuss or frame them as tenets, resulting in only moderate fit for the 'Tenet' category.",
+    "level": "Secondary"
   },
   "Method": {
     "resourceId": "Behaviour Driven Development",
