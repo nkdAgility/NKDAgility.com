@@ -37,9 +37,9 @@ categories:
   - DevOps
 tags:
   - Operational Practices
+  - Continuous Delivery
   - Software Development
   - Pragmatic Thinking
-  - Continuous Delivery
   - Continuous Improvement
   - Frequent Releases
   - Product Delivery

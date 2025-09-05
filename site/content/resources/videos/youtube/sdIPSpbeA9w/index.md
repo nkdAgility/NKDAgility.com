@@ -39,6 +39,7 @@ tags:
   - Test Automation
   - Engineering Practices
   - Pragmatic Thinking
+  - Personal
 Watermarks:
   description: 2025-05-07T12:56:39Z
   short_title: 2025-07-07T17:47:07Z

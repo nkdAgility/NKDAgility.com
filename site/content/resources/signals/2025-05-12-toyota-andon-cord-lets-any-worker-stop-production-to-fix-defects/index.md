@@ -31,7 +31,6 @@ tags:
   - Continuous Improvement
   - Agile Philosophy
   - Transparency
-  - Agentic Agility
   - Change Management
   - Lean Thinking
   - Software Development
@@ -41,6 +40,7 @@ tags:
   - Psychological Safety
   - Lean Principles
   - Professional Scrum
+  - Self Organisation
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7327716895598460928

@@ -30,8 +30,8 @@ tags:
   - Operational Practices
   - Software Development
   - Frequent Releases
-  - Product Delivery
   - Technical Mastery
+  - Product Delivery
   - Deployment Strategies
   - Release Management
   - Engineering Practices

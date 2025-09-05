@@ -34,6 +34,7 @@ categories:
 tags:
   - Software Development
   - Shift Left Strategy
+  - Value Delivery
   - Technical Mastery
   - Pragmatic Thinking
   - Product Delivery

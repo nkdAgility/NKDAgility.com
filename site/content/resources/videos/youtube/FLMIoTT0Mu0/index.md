@@ -42,6 +42,7 @@ tags:
   - Continuous Delivery
   - Test Automation
   - Pragmatic Thinking
+  - Continuous Integration
   - Automated Testing
   - Value Delivery
   - Technical Excellence

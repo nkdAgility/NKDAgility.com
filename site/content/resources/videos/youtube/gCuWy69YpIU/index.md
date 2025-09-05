@@ -30,8 +30,8 @@ categories:
   - Engineering Excellence
   - DevOps
 tags:
-  - Azure DevOps
   - Software Development
+  - Azure DevOps
   - Pragmatic Thinking
   - Operational Practices
   - Application Lifecycle Management

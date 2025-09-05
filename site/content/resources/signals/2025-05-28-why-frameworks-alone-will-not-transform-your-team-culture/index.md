@@ -32,10 +32,10 @@ tags:
   - Agile Strategy
   - Sociotechnical Systems
   - Agile Leadership
-  - Organisational Agility
   - Beta Codex
   - Social Technologies
   - Agile Transformation
+  - Organisational Agility
   - Business Agility
   - Pragmatic Thinking
   - Team Motivation

@@ -33,7 +33,6 @@ tags:
   - Software Development
   - Organisational Agility
   - Large Scale Agility
-  - Self Organisation
   - Professional Scrum
   - Agile Product Management
 platform_signals:

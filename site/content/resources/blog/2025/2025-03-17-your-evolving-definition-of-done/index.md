@@ -36,13 +36,13 @@ tags:
   - Continuous Improvement
   - Technical Mastery
   - Market Adaptability
+  - Engineering Practices
   - Agile Product Management
   - Professional Scrum
   - Shift Left Strategy
   - Value Delivery
   - Common Goals
   - Technical Excellence
-  - Engineering Practices
 Watermarks:
   description: 2025-05-07T12:49:17Z
   short_title: 2025-07-07T16:45:08Z

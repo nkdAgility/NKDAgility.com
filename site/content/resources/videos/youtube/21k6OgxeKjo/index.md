@@ -43,6 +43,7 @@ tags:
   - Pragmatic Thinking
   - Software Development
   - Team Performance
+  - Sociotechnical Systems
   - Customer Focus
 Watermarks:
   description: 2025-05-07T13:06:29Z
