@@ -76,7 +76,7 @@
               <div class="card-header d-flex justify-content-between align-items-center">
                 <div>
                   {{ range $i, $course := $group }}
-                    {{ if gt $i 0 }}<br />{{ end }}
+                    {{ if gt $i 0 }},{{ end }}
                     {{ $page := $.Site.GetPage $course.path }}
                     {{ if $page }}
                       <a href="{{ $page.Permalink }}" class="text-decoration-none" title="{{ $course.title }}">
