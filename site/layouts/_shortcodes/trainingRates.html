@@ -36,11 +36,11 @@
                 <td>
                   <span class="badge bg-secondary">{{ title .level }}</span>
                 </td>
-                <td>£{{ (index .rates "12") | lang.FormatNumber 0 }}</td>
-                <td>£{{ (index .rates "16") | lang.FormatNumber 0 }}</td>
-                <td>£{{ (index .rates "20") | lang.FormatNumber 0 }}</td>
-                <td>£{{ (index .rates "24") | lang.FormatNumber 0 }}</td>
-                <td>£{{ .rates.public | lang.FormatNumber 0 }}</td>
+                <td title="£{{ div (index .rates "12") 12 | lang.FormatNumber 0 }} per person">£{{ (index .rates "12") | lang.FormatNumber 0 }}</td>
+                <td title="£{{ div (index .rates "16") 16 | lang.FormatNumber 0 }} per person">£{{ (index .rates "16") | lang.FormatNumber 0 }}</td>
+                <td title="£{{ div (index .rates "20") 20 | lang.FormatNumber 0 }} per person">£{{ (index .rates "20") | lang.FormatNumber 0 }}</td>
+                <td title="£{{ div (index .rates "24") 24 | lang.FormatNumber 0 }} per person">£{{ (index .rates "24") | lang.FormatNumber 0 }}</td>
+                <td title="Public training rate">£{{ .rates.public | lang.FormatNumber 0 }}</td>
               </tr>
             {{ end }}
           </tbody>
