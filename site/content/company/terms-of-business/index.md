@@ -180,15 +180,11 @@ These fees do **not include training**, however, the **quarterly retainer** incl
 
 ### Training Rates
 
-We publish our training class pricing for transparency. All prices below are in GBP and exclusive of VAT:
+We publish our training class pricing for transparency. All prices below are in GBP and exclusive of VAT.
 
-{{< table "table table-striped table-bordered" >}}
-| Level | 12 Students | 16 Students | 20 Students | 24 Students | Public Rate |
-| ------------ | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Beginner | £10,800 | £12,060 | £13,410 | £14,850 | £705 |
-| Intermediate | £13,165 | £14,425 | £15,775 | £17,215 | £845 |
-| Advanced | £15,525 | £16,785 | £18,135 | £19,575 | £985 |
-{{< /table >}}
+Each training course has multiple sessions, each lasting ~4h, and each session costs £2,496 GBP for up to 12 students. This covers accreditation fees, content creation, delivery, follow-up support, and assessment fees. Additional students can be added at the rates below. Public classes are held online and scheduled quarterly. Private classes can be delivered onsite or virtually.
+
+{{< trainingRates >}}
 
 These rates apply to private onsite or virtual training where all participants are from the same company.
 

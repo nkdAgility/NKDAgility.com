@@ -1,0 +1,113 @@
+{{ $trainingRates := .Site.Data.trainingRates }}
+
+
+<div class="training-rates">
+  {{ if $trainingRates }}
+    <!-- Desktop Table View -->
+    <div class="d-none d-lg-block">
+      <div class="table-responsive">
+        <table class="table table-striped table-hover">
+          <thead class="table-dark">
+            <tr>
+              <th>Code</th>
+              <th>Sessions</th>
+              <th>Level</th>
+              <th>12</th>
+              <th>16</th>
+              <th>20</th>
+              <th>24</th>
+              <th>Public</th>
+            </tr>
+          </thead>
+          <tbody>
+            {{ range sort $trainingRates "title" }}
+              <tr>
+                <td title="{{ .title }}">
+                  {{ $page := $.Site.GetPage .path }}
+                  {{ if $page }}
+                    <a href="{{ $page.Permalink }}" class="text-decoration-none">
+                      <strong>{{ .code }}</strong>
+                    </a>
+                  {{ else }}
+                    <strong>{{ .code }}</strong>
+                  {{ end }}
+                </td>
+                <td class="text-center">{{ .sessions }}</td>
+                <td>
+                  <span class="badge bg-secondary">{{ title .level }}</span>
+                </td>
+                <td>£{{ (index .rates "12") | lang.FormatNumber 0 }}</td>
+                <td>£{{ (index .rates "16") | lang.FormatNumber 0 }}</td>
+                <td>£{{ (index .rates "20") | lang.FormatNumber 0 }}</td>
+                <td>£{{ (index .rates "24") | lang.FormatNumber 0 }}</td>
+                <td>£{{ .rates.public | lang.FormatNumber 0 }}</td>
+              </tr>
+            {{ end }}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Mobile Card View -->
+    <div class="d-lg-none">
+      <div class="row g-3">
+        {{ range sort $trainingRates "title" }}
+          <div class="col-12 col-md-6">
+            <div class="card h-100">
+              <div class="card-header d-flex justify-content-between align-items-center">
+                <div>
+                  {{ $page := $.Site.GetPage .path }}
+                  {{ if $page }}
+                    <a href="{{ $page.Permalink }}" class="text-decoration-none">
+                      <strong class="fs-5">{{ .code }}</strong>
+                    </a>
+                  {{ else }}
+                    <strong class="fs-5">{{ .code }}</strong>
+                  {{ end }}
+                </div>
+                <span class="badge bg-secondary">{{ title .level }}</span>
+              </div>
+              <div class="card-body">
+                <h6 class="card-title text-muted mb-3" title="{{ .title }}">{{ .sessions }} Sessions</h6>
+                <div class="row g-2">
+                  <div class="col-6">
+                    <div class="text-center p-2 bg-light rounded">
+                      <small class="text-muted d-block">12 People</small>
+                      <strong>£{{ (index .rates "12") | lang.FormatNumber 0 }}</strong>
+                    </div>
+                  </div>
+                  <div class="col-6">
+                    <div class="text-center p-2 bg-light rounded">
+                      <small class="text-muted d-block">16 People</small>
+                      <strong>£{{ (index .rates "16") | lang.FormatNumber 0 }}</strong>
+                    </div>
+                  </div>
+                  <div class="col-6">
+                    <div class="text-center p-2 bg-light rounded">
+                      <small class="text-muted d-block">20 People</small>
+                      <strong>£{{ (index .rates "20") | lang.FormatNumber 0 }}</strong>
+                    </div>
+                  </div>
+                  <div class="col-6">
+                    <div class="text-center p-2 bg-light rounded">
+                      <small class="text-muted d-block">24 People</small>
+                      <strong>£{{ (index .rates "24") | lang.FormatNumber 0 }}</strong>
+                    </div>
+                  </div>
+                  <div class="col-12">
+                    <div class="text-center p-2 bg-primary text-white rounded">
+                      <small class="d-block">Public Rate</small>
+                      <strong class="fs-6">£{{ .rates.public | lang.FormatNumber 0 }}</strong>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  {{ else }}
+    <p>No training rates data available.</p>
+  {{ end }}
+</div>
