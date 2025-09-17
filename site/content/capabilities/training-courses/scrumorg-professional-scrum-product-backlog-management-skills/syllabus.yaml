@@ -1,166 +1,160 @@
 syllabus:
-- id: 1
-  title: Theory and First Principles
-  duration: 120
-  content: |
-    In this module, participants will explore the fundamental concepts and principles that underpin successful Product Backlog management. This includes understanding complexity in product development, empirical process control, and the importance of transparency in decision-making.
-  learningResources:
-    - title: The New New Product Development Game
-      link: https://hbr.org/1986/01/the-new-new-product-development-game
-      duration: 20
-      type: newspaper
-      weight: 1
-    - title: An Introduction to the Cynefin Model
-      link: https://youtu.be/yjXRY0IbJw8
-      duration: 5
-      type: video
-      weight: 1
-    - title: A Leader's Framework for Decision Making
-      link: https://hbr.org/2007/11/a-leaders-framework-for-decision-making
-      duration: 20
-      type: newspaper
-      weight: 1 
-    - title: The Three Pillars of Empiricism
-      link: 
-      duration: 2
-      type: blog
-      weight: 1
-    - title: Empiricism is an Essential Element of Scrum
-      link: https://youtu.be/q603WTOSYDk
-      duration: 4
-      type: video
-      weight: 1 
-    - title: The Cynefin Framework with David Snowden
-      link: https://youtu.be/N7oz366X0-8
-      duration: 8
-      type: video
-      weight: 1
-    - title: Transparency in the Trenches
-      link: https://youtu.be/02eU5CEbJRE
-      duration: 58
-      type: video
-      weight: 1
-    - title: Agile is constant change
-      link: https://www.scrum.org/resources/blog/agile-constant-change
-      duration: 3 
-      type: blog
-      weight: 1
-    - title: So What is Agile Really About?
-      link: 
-      duration: 5
-      type: blog
-      weight: 1
-- id: 2
-  title: Exploring the Scrum Framework & Done
-  duration: 120
-  content: |
-    This module focuses on understanding the Scrum Framework and the concept of "Done" in the context of product development. Participants will learn how these elements contribute to effective Product Backlog management and value delivery.
-  learningResources:
-    - title: The Scrum Guide
-      link: https://scrumguides.org/
-      duration: 60 
-      type: document
-      weight: 1
-    - title: A Typical Sprint, Play-By-Play
-      link: https://www.scrum.org/resources/blog/typical-sprint-play-play
-      duration: 5
-      type: video
-      weight: 1
-    - title: Getting started with a Definition of Done (DoD)
-      link: 
-      duration: 5
-      type: blog
-      weight: 1
-    - title: Ethics in Scrum
-      link: https://youtu.be/Tw1gwc7rAVg
-      duration: 13
-      type: video
-      weight: 1
-    - title: Planning in Scrum
-      link: https://youtu.be/08wArN-Tkhk
-      duration: 5
-      type: video
-      weight: 1
-    - title: The Daily Scrum is NOT a Status Meeting
-      link: https://youtu.be/i7_RPceEIYE
-      duration: 7
-      type: video
-      weight: 1
-    - title: Effective Sprint Planning
-      link: https://youtu.be/syXnhduPxqM
-      duration: 5
-      type: video
-      weight: 1
-    - title: Slaying Technical Debt
-      link: https://youtu.be/vLRH0HCXZek
-      duration: 5
-      type: video 
-      weight: 1
-- id: 3
-  title: Product Delivery with Scrum
-  duration: 120
-  content: |
-    This module examines how Scrum facilitates effective product delivery, with an emphasis on planning, forecasting, and managing workflow. Participants will learn how to leverage these concepts to optimize their Product Backlog management approach.
-  learningResources:
-    - title: "Scrum Myths: There is No Planning in Scrum"
-      link: https://www.scrum.org/resources/blog/scrum-myths-there-no-planning-scrum
-      duration: 4
-      type: blog
-      weight: 1
-    - title: Kanban Guide for Scrum Teams
-      link: 
-      duration: 15
-      type: document
-      weight: 1
-    - title: The Evidence-based Management Guide
-      link: https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/
-      duration: 20
-      type: document
-      weight: 1
-    - title: Small batch delivery & big batch finance how to speak the language of forecasting
-      link: https://www.scrum.org/resources/blog/small-batch-delivery-big-batch-finance-how-speak-language-forecasting
-      duration: 7
-      type: blog
-      weight: 1
-    - title: When will it be Done - an introduction to probabilistic forecasting
-      link: https://youtu.be/aG5Eet6BJTc
-      duration: 15
-      type: video 
-      weight: 1
-    - title: "Limiting Work in Progress (WIP) in Scrum with Kanban - What / When / Who / How"
-      link: https://www.scrum.org/resources/blog/limiting-work-progress-wip-scrum-kanban-what-when-who-how
-      duration: 10
-      type: blog
-      weight: 1
-- id: 4
-  title: People, Teams, & The Scrum Master
-  duration: 120
-  content: |
-    This module explores the human aspects of Product Backlog management, including team dynamics, motivation, and the role of the Scrum Master. Participants will learn how to build trust and empathy within their teams to enable more effective collaboration.
-  learningResources:
-    - title: The Surprising Truth about what motivates us
-      link: https://youtu.be/aJWH84Nwucc
-      duration: 2
-      type: video
-      weight: 1
-    - title: How to Build Trust to Enable Agility
-      link: https://www.scrum.org/resources/blog/how-build-trust-enable-agility
-      duration: 8
-      type: blog
-      weight: 1
-    - title: Empathy
-      link: https://youtu.be/oUWMgHyf1bg
-      duration: 36
-      type: video
-      weight: 1
-    - title: "From Now to New Right Here: Change-as-Flipping"
-      link: https://www.slideshare.net/slideshow/from-now-to-new-right-here-changeasflipping-betacodex16/133691203
-      duration: 15
-      type: presentation
-      weight: 1
-- id: 5
-  title: CLOSING
-  duration: 60
-  content: |
-    This concluding module synthesizes the key learnings from the course, focusing on how participants can apply their new Product Backlog management skills in their specific contexts. It includes reflections on the course journey and guidance for continued growth.
-  learningResources: []
+  - id: 1
+    title: Theory and First Principles
+    duration: 120
+    content: |
+      In this module, participants will explore the fundamental concepts and principles that underpin successful Product Backlog management. This includes understanding complexity in product development, empirical process control, and the importance of transparency in decision-making.
+    learningResources:
+      - title: The New New Product Development Game
+        link: https://hbr.org/1986/01/the-new-new-product-development-game
+        duration: 20
+        type: newspaper
+        weight: 1
+      - title: An Introduction to the Cynefin Model
+        link: https://youtu.be/yjXRY0IbJw8
+        duration: 5
+        type: video
+        weight: 1
+      - title: A Leader's Framework for Decision Making
+        link: https://hbr.org/2007/11/a-leaders-framework-for-decision-making
+        duration: 20
+        type: newspaper
+        weight: 1
+      - title: The Three Pillars of Empiricism
+        link:
+        duration: 2
+        type: blog
+        weight: 1
+      - title: Empiricism is an Essential Element of Scrum
+        link: https://youtu.be/q603WTOSYDk
+        duration: 4
+        type: video
+        weight: 1
+      - title: The Cynefin Framework with David Snowden
+        link: https://youtu.be/N7oz366X0-8
+        duration: 8
+        type: video
+        weight: 1
+      - title: Transparency in the Trenches
+        link: https://youtu.be/02eU5CEbJRE
+        duration: 58
+        type: video
+        weight: 1
+      - title: Agile is constant change
+        link: https://www.scrum.org/resources/blog/agile-constant-change
+        duration: 3
+        type: blog
+        weight: 1
+      - title: So What is Agile Really About?
+        link:
+        duration: 5
+        type: blog
+        weight: 1
+  - id: 2
+    title: Exploring the Scrum Framework & Done
+    duration: 120
+    content: |
+      This module focuses on understanding the Scrum Framework and the concept of "Done" in the context of product development. Participants will learn how these elements contribute to effective Product Backlog management and value delivery.
+    learningResources:
+      - title: The Scrum Guide
+        link: https://scrumguides.org/
+        duration: 60
+        type: document
+        weight: 1
+      - title: A Typical Sprint, Play-By-Play
+        link: https://www.scrum.org/resources/blog/typical-sprint-play-play
+        duration: 5
+        type: video
+        weight: 1
+      - title: Getting started with a Definition of Done (DoD)
+        link:
+        duration: 5
+        type: blog
+        weight: 1
+      - title: Ethics in Scrum
+        link: https://youtu.be/Tw1gwc7rAVg
+        duration: 13
+        type: video
+        weight: 1
+      - title: Planning in Scrum
+        link: https://youtu.be/08wArN-Tkhk
+        duration: 5
+        type: video
+        weight: 1
+      - title: The Daily Scrum is NOT a Status Meeting
+        link: https://youtu.be/i7_RPceEIYE
+        duration: 7
+        type: video
+        weight: 1
+      - title: Effective Sprint Planning
+        link: https://youtu.be/syXnhduPxqM
+        duration: 5
+        type: video
+        weight: 1
+      - title: Slaying Technical Debt
+        link: https://youtu.be/vLRH0HCXZek
+        duration: 5
+        type: video
+        weight: 1
+  - id: 3
+    title: Product Delivery with Scrum
+    duration: 120
+    content: |
+      This module examines how Scrum facilitates effective product delivery, with an emphasis on planning, forecasting, and managing workflow. Participants will learn how to leverage these concepts to optimize their Product Backlog management approach.
+    learningResources:
+      - title: "Scrum Myths: There is No Planning in Scrum"
+        link: https://www.scrum.org/resources/blog/scrum-myths-there-no-planning-scrum
+        duration: 4
+        type: blog
+        weight: 1
+      - title: Kanban Guide for Scrum Teams
+        link:
+        duration: 15
+        type: document
+        weight: 1
+      - title: The Evidence-based Management Guide
+        link: https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/
+        duration: 20
+        type: document
+        weight: 1
+      - title: Small batch delivery & big batch finance how to speak the language of forecasting
+        link: https://www.scrum.org/resources/blog/small-batch-delivery-big-batch-finance-how-speak-language-forecasting
+        duration: 7
+        type: blog
+        weight: 1
+      - title: When will it be Done - an introduction to probabilistic forecasting
+        link: https://youtu.be/aG5Eet6BJTc
+        duration: 15
+        type: video
+        weight: 1
+      - title: "Limiting Work in Progress (WIP) in Scrum with Kanban - What / When / Who / How"
+        link: https://www.scrum.org/resources/blog/limiting-work-progress-wip-scrum-kanban-what-when-who-how
+        duration: 10
+        type: blog
+        weight: 1
+  - id: 4
+    title: People, Teams, & The Scrum Master & Closing
+    duration: 120
+    content: |
+      This module explores the human aspects of Product Backlog management, including team dynamics, motivation, and the role of the Scrum Master. Participants will learn how to build trust and empathy within their teams to enable more effective collaboration.
+    learningResources:
+      - title: The Surprising Truth about what motivates us
+        link: https://youtu.be/aJWH84Nwucc
+        duration: 2
+        type: video
+        weight: 1
+      - title: How to Build Trust to Enable Agility
+        link: https://www.scrum.org/resources/blog/how-build-trust-enable-agility
+        duration: 8
+        type: blog
+        weight: 1
+      - title: Empathy
+        link: https://youtu.be/oUWMgHyf1bg
+        duration: 36
+        type: video
+        weight: 1
+      - title: "From Now to New Right Here: Change-as-Flipping"
+        link: https://www.slideshare.net/slideshow/from-now-to-new-right-here-changeasflipping-betacodex16/133691203
+        duration: 15
+        type: presentation
+        weight: 1
