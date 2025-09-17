@@ -55,7 +55,7 @@
                 </td>
                 <td title="£{{ div (index $first.rates "12") 12 | lang.FormatNumber 0 }} per person">£{{ (index $first.rates "12") | lang.FormatNumber 0 }}</td>
                 <td title="£{{ div (index $first.rates "16") 16 | lang.FormatNumber 0 }} per person">£{{ (index $first.rates "16") | lang.FormatNumber 0 }}</td>
-                <td title="Per Additional Private">£{{ (index $first.rates.additional) | lang.FormatNumber 0 }}</td>
+                <td title="Per Additional Private">£{{ $first.rates.additional | lang.FormatNumber 0 }}</td>
                 <td title="Public training rate">£{{ $first.rates.public | lang.FormatNumber 0 }}</td>
               </tr>
             {{ end }}
@@ -104,17 +104,11 @@
                   </div>
                   <div class="col-6">
                     <div class="text-center p-2 bg-light rounded">
-                      <small class="text-muted d-block">20 People</small>
-                      <strong>£{{ (index $first.rates "20") | lang.FormatNumber 0 }}</strong>
+                      <small class="text-muted d-block">Per Additional Private</small>
+                      <strong>£{{ $first.rates.additional | lang.FormatNumber 0 }}</strong>
                     </div>
                   </div>
                   <div class="col-6">
-                    <div class="text-center p-2 bg-light rounded">
-                      <small class="text-muted d-block">24 People</small>
-                      <strong>£{{ (index $first.rates "24") | lang.FormatNumber 0 }}</strong>
-                    </div>
-                  </div>
-                  <div class="col-12">
                     <div class="text-center p-2 bg-primary text-white rounded">
                       <small class="d-block">Public Rate</small>
                       <strong class="fs-6">£{{ $first.rates.public | lang.FormatNumber 0 }}</strong>
