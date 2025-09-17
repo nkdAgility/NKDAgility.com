@@ -1825,3 +1825,16 @@ html {
 [data-theme="dark"] .sidebar-border {
   border-right: 1px solid rgba(255, 255, 255, 0.125) !important;
 }
+
+/* Training Rates styling */
+.training-rate-box {
+  background-color: #f8f9fa;
+  color: #333333;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+[data-theme="dark"] .training-rate-box {
+  background-color: #2d2d2d;
+  color: var(--text-color);
+  border: 1px solid #444;
+}

@@ -91,19 +91,19 @@
                 <h6 class="card-title text-muted mb-3">{{ $first.sessions }} Sessions</h6>
                 <div class="row g-2">
                   <div class="col-6">
-                    <div class="text-center p-2 bg-light rounded">
+                    <div class="text-center p-2 training-rate-box rounded">
                       <small class="text-muted d-block">12 People</small>
                       <strong>£{{ (index $first.rates "12") | lang.FormatNumber 0 }}</strong>
                     </div>
                   </div>
                   <div class="col-6">
-                    <div class="text-center p-2 bg-light rounded">
+                    <div class="text-center p-2 training-rate-box rounded">
                       <small class="text-muted d-block">16 People</small>
                       <strong>£{{ (index $first.rates "16") | lang.FormatNumber 0 }}</strong>
                     </div>
                   </div>
                   <div class="col-6">
-                    <div class="text-center p-2 bg-light rounded">
+                    <div class="text-center p-2 training-rate-box rounded">
                       <small class="text-muted d-block">Per Additional Private</small>
                       <strong>£{{ $first.rates.additional | lang.FormatNumber 0 }}</strong>
                     </div>
