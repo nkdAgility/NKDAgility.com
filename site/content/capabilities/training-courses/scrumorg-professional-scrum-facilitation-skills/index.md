@@ -56,19 +56,19 @@ delivery_audiences:
   - Lean Agile Practitioners
 preview: naked-agility-Professional-Scrum-PSFS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSFS-400x.png
-brandColour: 
+brandColour:
 code: PSFS
 course_proficiencies:
-  - intermediate
-introduction: 
+  - beginner
+introduction:
 overview: |+
   This course is most suitable for professionals with Scrum knowledge and experience that are interested in learning how to use facilitation to enhance team collaboration and reduce conflict. It is ideal for: 
   - All Scrum Team members (Scrum Masters, Developers and Product Owners)
   - Scrum Coaches, Agile Coaches and Consultants
   - Students who have previously taken Applying Professional Scrum, Professional Scrum Master, Professional Scrum Product Owner training or equivalent.
 
-outcomes: 
-assessment: 
+outcomes:
+assessment:
 objectives: |2+
 
   - Explain the roles that facilitation principles and the Scrum Values play in enhancing healthy collaboration within Scrum Teams
@@ -81,22 +81,24 @@ prerequisites: |2+
   - Be familiar with Scrum and the Scrum Guide
   - Have worked with or on a Scrum Team
 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 ```markdown
 # Professional Scrum Facilitation Skills (PSFS) with Certification
 
 **Course Code:** PSFS
 
 ## Overview
+
 Enhance your facilitation skills to empower Scrum Teams in solving problems, building consensus, and fostering transparency. This interactive course equips participants with practical facilitation techniques to improve team collaboration and Scrum events.
 
 ## Target Audience
+
 - Scrum Team members (Scrum Masters, Developers, Product Owners)
 - Scrum Coaches, Agile Coaches, and Consultants
 - Product Owners and Product Managers
@@ -104,12 +106,14 @@ Enhance your facilitation skills to empower Scrum Teams in solving problems, bui
 - Individuals with prior Scrum training or experience
 
 ## Learning Outcomes
+
 - Explain the roles that facilitation principles and Scrum Values play in enhancing healthy collaboration within Scrum Teams
 - Gain facilitation skills to leverage and focus on the benefits of diverse perspectives on a team with varying dynamics
 - Apply facilitation principles and techniques to improve Scrum events and other interactions
 - Improve team collaboration and participatory decision making using a facilitator stance and toolbox of techniques
 
 ## Course Topics
+
 - Facilitation principles and Scrum Values
 - Team collaboration and conflict resolution
 - Participatory decision making
@@ -117,22 +121,28 @@ Enhance your facilitation skills to empower Scrum Teams in solving problems, bui
 - Developing a personal facilitation plan
 
 ## Delivery Format
+
 - Traditional and immersive learning
 - Delivered over two half-days via Microsoft Teams & Mural
 - Additional support through the League of Xtraordinary Lean-Agile Practitioners community
 
 ## Proficiency Level
+
 - Intermediate
 
 ## Course Length
+
 - 1 day (delivered as two half-day sessions)
 
 ## Trainer/Designer
+
 - Martin Hinshelwood
 
 ## Vendor
+
 - Scrum.org
 
 ## Certification
+
 - Professional Scrum Facilitation Skills (PSFS) Certification
 ```

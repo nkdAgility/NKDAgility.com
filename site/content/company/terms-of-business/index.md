@@ -180,15 +180,9 @@ These fees do **not include training**, however, the **quarterly retainer** incl
 
 ### Training Rates
 
-We publish our training class pricing for transparency. All prices below are in GBP and exclusive of VAT:
+We publish our training class pricing for transparency. All prices below are in GBP and exclusive of VAT.
 
-{{< table "table table-striped table-bordered" >}}
-| Level | 12 Students | 16 Students | 20 Students | 24 Students | Public Rate |
-| ------------ | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Beginner | £10,800 | £12,060 | £13,410 | £14,850 | £705 |
-| Intermediate | £13,165 | £14,425 | £15,775 | £17,215 | £845 |
-| Advanced | £15,525 | £16,785 | £18,135 | £19,575 | £985 |
-{{< /table >}}
+{{< training-rates >}}
 
 These rates apply to private onsite or virtual training where all participants are from the same company.
 
@@ -199,6 +193,16 @@ Prices are variable based on the length of commitment and agreements around trav
 For onsite, travel time is charged at the relevant day rate and is exclusive of Travel & Expenses.
 
 Public class pricing reflects the per-person rate.
+
+#### Training Course Cost Calculation
+
+NKDAgility calculates training course costs using a session-based pricing model with scaling factors for different group sizes and proficiency levels. This covers accreditation fees, content creation, delivery, follow-up support, and assessment fees.
+
+The calculation starts with a base session rate of £{{< training-rate >}} GBP for up to 12 students per 4-hour session. This base rate is adjusted according to the course proficiency level: beginner courses receive a 20% discount, intermediate courses use the standard rate, and advanced courses include a 20% premium.
+
+The total course cost is determined by multiplying the adjusted session rate by the number of sessions in the syllabus.
+
+For larger groups, additional pricing tiers apply: 16 students incur a 10% surcharge and additional students above that incur a 20% surcharge.
 
 ### Rates & Discounts
 
