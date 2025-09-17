@@ -73,9 +73,9 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         level       = $trainingLevel
         rates       = @{
             "12"         = [Math]::Ceiling($baseRate12 / 1000) * 1000
-            "16"         = [Math]::Ceiling((($baseRatePerson * 16) * 1.1) / 1000) * 1000
-            "20"         = [Math]::Ceiling((($baseRatePerson * 20) * 1.15) / 1000) * 1000
-            "24"         = [Math]::Ceiling((($baseRatePerson * 24) * 1.2) / 1000) * 1000
+            "16"         = [Math]::Ceiling(($baseRate12 + (($baseRatePerson * 4)) * 1.1) / 1000) * 1000
+            "20"         = [Math]::Ceiling(($baseRate12 + (($baseRatePerson * 8) ) * 1.15) / 1000) * 1000
+            "24"         = [Math]::Ceiling(($baseRate12 + (($baseRatePerson * 12)) * 1.2) / 1000) * 1000
             "additional" = [Math]::Ceiling((($baseRatePerson) * 1.2) / 100) * 100
             "public"     = [Math]::Ceiling($baseRatePerson / 100) * 100
         }
