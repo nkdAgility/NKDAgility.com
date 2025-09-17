@@ -182,9 +182,7 @@ These fees do **not include training**, however, the **quarterly retainer** incl
 
 We publish our training class pricing for transparency. All prices below are in GBP and exclusive of VAT.
 
-Each training course has multiple sessions, each lasting ~4h, and each session costs £2,496 GBP for up to 12 students. This covers accreditation fees, content creation, delivery, follow-up support, and assessment fees. Additional students can be added at the rates below. Public classes are held online and scheduled quarterly. Private classes can be delivered onsite or virtually.
-
-{{< trainingRates >}}
+{{< training-rates >}}
 
 These rates apply to private onsite or virtual training where all participants are from the same company.
 
@@ -195,6 +193,16 @@ Prices are variable based on the length of commitment and agreements around trav
 For onsite, travel time is charged at the relevant day rate and is exclusive of Travel & Expenses.
 
 Public class pricing reflects the per-person rate.
+
+#### Training Course Cost Calculation
+
+NKDAgility calculates training course costs using a session-based pricing model with scaling factors for different group sizes and proficiency levels. This covers accreditation fees, content creation, delivery, follow-up support, and assessment fees.
+
+The calculation starts with a base session rate of £{{< training-rate >}} GBP for up to 12 students per 4-hour session. This base rate is adjusted according to the course proficiency level: beginner courses receive a 20% discount, intermediate courses use the standard rate, and advanced courses include a 20% premium.
+
+The total course cost is determined by multiplying the adjusted session rate by the number of sessions in the syllabus.
+
+For larger groups, additional pricing tiers apply: 16 students incur a 10% surcharge and additional students above that incur a 20% surcharge.
 
 ### Rates & Discounts
 

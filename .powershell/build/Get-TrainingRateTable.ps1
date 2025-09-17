@@ -1,4 +1,3 @@
-
 # Helpers
 . ./.powershell/_includes/IncludesForAll.ps1
 
@@ -19,7 +18,7 @@ $Counter = 0
 $TotalItems = $hugoMarkdownQueue.Count
 $missingFromOrder = @()
 
-$baseSessionRate = 2496  # GBP for up to 12 students, per ~4h session
+$baseSessionRate = 2000  # GBP for up to 12 students, per ~4h session
 $trainingRateTable = @()
 
 while ($hugoMarkdownQueue.Count -gt 0) {
@@ -60,18 +59,25 @@ while ($hugoMarkdownQueue.Count -gt 0) {
  
     $relativePath = $hugoMarkdown.FolderPath -replace [regex]::Escape("$((Get-Location).Path)\site\content\"), ""
     
+    $baseRate = $sessionRate * $sessionCount
+    $baseRatePerson = $baseRate / 12
+    $baseRate12 = $baseRatePerson * 12
+
+
     $trainingRateTable += @{
-        title    = $hugoMarkdown.FrontMatter.title
-        code     = $hugoMarkdown.FrontMatter.code
-        path     = $relativePath
-        sessions = $sessionCount
-        level    = $trainingLevel
-        rates    = @{
-            "12"     = $(($sessionRate * $sessionCount))
-            "16"     = $(($sessionRate * $sessionCount) * 1.2)
-            "20"     = $(($sessionRate * $sessionCount) * 1.4)
-            "24"     = $(($sessionRate * $sessionCount) * 1.6)
-            "public" = $(($sessionRate * $sessionCount) / 12)
+        title       = $hugoMarkdown.FrontMatter.title
+        code        = $hugoMarkdown.FrontMatter.code
+        path        = $relativePath
+        sessions    = $sessionCount
+        sessionRate = $sessionRate
+        level       = $trainingLevel
+        rates       = @{
+            "12"         = [Math]::Ceiling($baseRate12 / 1000) * 1000
+            "16"         = [Math]::Ceiling((($baseRatePerson * 16) * 1.1) / 1000) * 1000
+            "20"         = [Math]::Ceiling((($baseRatePerson * 20) * 1.15) / 1000) * 1000
+            "24"         = [Math]::Ceiling((($baseRatePerson * 24) * 1.2) / 1000) * 1000
+            "additional" = [Math]::Ceiling((($baseRatePerson) * 1.2) / 100) * 100
+            "public"     = [Math]::Ceiling($baseRatePerson / 100) * 100
         }
     }
 
@@ -79,7 +85,11 @@ while ($hugoMarkdownQueue.Count -gt 0) {
 
 # Output the training rate table to trainingRates.json
 $trainingRatesOutputFile = ".\site\data\trainingRates.json"
-$trainingRateTable | ConvertTo-Json | Set-Content -Path $trainingRatesOutputFile -Encoding UTF8
+$outputData = @{
+    baseSessionRate = $baseSessionRate
+    rates           = $trainingRateTable
+}
+$outputData | ConvertTo-Json -Depth 3 | Set-Content -Path $trainingRatesOutputFile -Encoding UTF8
 Write-InformationLog "Training rates written to {OutputFile}" -PropertyValues $trainingRatesOutputFile
 
 

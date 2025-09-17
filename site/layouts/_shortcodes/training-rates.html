@@ -1,4 +1,4 @@
-{{ $trainingRates := .Site.Data.trainingRates }}
+{{ $trainingRates := .Site.Data.trainingRates.rates }}
 
 
 <div class="training-rates">
@@ -28,8 +28,7 @@
               <th>Level</th>
               <th>12</th>
               <th>16</th>
-              <th>20</th>
-              <th>24</th>
+              <th>+Private</th>
               <th>Public</th>
             </tr>
           </thead>
@@ -56,8 +55,7 @@
                 </td>
                 <td title="£{{ div (index $first.rates "12") 12 | lang.FormatNumber 0 }} per person">£{{ (index $first.rates "12") | lang.FormatNumber 0 }}</td>
                 <td title="£{{ div (index $first.rates "16") 16 | lang.FormatNumber 0 }} per person">£{{ (index $first.rates "16") | lang.FormatNumber 0 }}</td>
-                <td title="£{{ div (index $first.rates "20") 20 | lang.FormatNumber 0 }} per person">£{{ (index $first.rates "20") | lang.FormatNumber 0 }}</td>
-                <td title="£{{ div (index $first.rates "24") 24 | lang.FormatNumber 0 }} per person">£{{ (index $first.rates "24") | lang.FormatNumber 0 }}</td>
+                <td title="Per Additional Private">£{{ (index $first.rates.additional) | lang.FormatNumber 0 }}</td>
                 <td title="Public training rate">£{{ $first.rates.public | lang.FormatNumber 0 }}</td>
               </tr>
             {{ end }}
