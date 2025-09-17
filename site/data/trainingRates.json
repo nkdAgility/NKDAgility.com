@@ -1,8 +1,8 @@
 {
   "rates": [
     {
-      "sessionRate": 1600.0,
-      "title": "Professional Scrum Product Backlog Management Skills (PSPBMS) Course with Certification",
+      "code": "PSPBMS",
+      "sessions": 5,
       "rates": {
         "12": 8000.0,
         "20": 15000.0,
@@ -12,13 +12,14 @@
         "16": 11000.0
       },
       "path": "capabilities/training-courses/scrumorg-professional-scrum-product-backlog-management-skills",
-      "sessions": 5,
+      "sessionRate": 1600.0,
+      "short_title": "Product Backlog Management Skills",
       "level": "beginner",
-      "code": "PSPBMS"
+      "title": "Professional Scrum Product Backlog Management Skills (PSPBMS) Course with Certification"
     },
     {
-      "sessionRate": 1600.0,
-      "title": "Professional Scrum Facilitation Skills (PSFS) with Certification",
+      "code": "PSFS",
+      "sessions": 4,
       "rates": {
         "12": 7000.0,
         "20": 12000.0,
@@ -28,13 +29,14 @@
         "16": 9000.0
       },
       "path": "capabilities/training-courses/scrumorg-professional-scrum-facilitation-skills",
-      "sessions": 4,
+      "sessionRate": 1600.0,
+      "short_title": "Scrum Facilitation Skills",
       "level": "beginner",
-      "code": "PSFS"
+      "title": "Professional Scrum Facilitation Skills (PSFS) with Certification"
     },
     {
-      "sessionRate": 2400.0,
-      "title": "Professional Agile Leadership - Evidence-Based Management (PAL-EBM)",
+      "code": "PAL-EBM",
+      "sessions": 4,
       "rates": {
         "12": 10000.0,
         "20": 17000.0,
@@ -44,13 +46,14 @@
         "16": 14000.0
       },
       "path": "capabilities/training-courses/scrumorg-professional-agile-leadership-with-evidence-based-management",
-      "sessions": 4,
+      "sessionRate": 2400.0,
+      "short_title": "Evidence-Based Management",
       "level": "advanced",
-      "code": "PAL-EBM"
+      "title": "Professional Agile Leadership - Evidence-Based Management (PAL-EBM)"
     },
     {
-      "sessionRate": 2000.0,
-      "title": "Professional Scrum Product Owner (PSPO) Course with Certification",
+      "code": "PSPO",
+      "sessions": 8,
       "rates": {
         "12": 16000.0,
         "20": 29000.0,
@@ -60,13 +63,14 @@
         "16": 22000.0
       },
       "path": "capabilities/training-courses/scrumorg-professional-scrum-product-owner",
-      "sessions": 8,
+      "sessionRate": 2000.0,
+      "short_title": "Professional Scrum Product Owner",
       "level": "intermediate",
-      "code": "PSPO"
+      "title": "Professional Scrum Product Owner (PSPO) Course with Certification"
     },
     {
-      "sessionRate": 2400.0,
-      "title": "Professional Scrum with User Experience (PSU) with Certification",
+      "code": "PSU",
+      "sessions": 8,
       "rates": {
         "12": 20000.0,
         "20": 34000.0,
@@ -76,13 +80,14 @@
         "16": 27000.0
       },
       "path": "capabilities/training-courses/scrumorg-professional-scrum-with-user-experience",
-      "sessions": 8,
+      "sessionRate": 2400.0,
+      "short_title": "Professional Scrum with UX Certification",
       "level": "advanced",
-      "code": "PSU"
+      "title": "Professional Scrum with User Experience (PSU) with Certification"
     },
     {
-      "sessionRate": 2400.0,
-      "title": "Professional Scrum Master Advanced (PSM-A) with Certification",
+      "code": "PSM-A",
+      "sessions": 8,
       "rates": {
         "12": 20000.0,
         "20": 34000.0,
@@ -92,13 +97,14 @@
         "16": 27000.0
       },
       "path": "capabilities/training-courses/scrumorg-professional-scrum-master-advanced",
-      "sessions": 8,
+      "sessionRate": 2400.0,
+      "short_title": "Professional Scrum Master Advanced (PSM-A)",
       "level": "advanced",
-      "code": "PSM-A"
+      "title": "Professional Scrum Master Advanced (PSM-A) with Certification"
     },
     {
-      "sessionRate": 2400.0,
-      "title": "Professional Scrum with Kanban (PSK) with Certification",
+      "code": "PSK",
+      "sessions": 8,
       "rates": {
         "12": 20000.0,
         "20": 34000.0,
@@ -108,13 +114,14 @@
         "16": 27000.0
       },
       "path": "capabilities/training-courses/scrumorg-professional-scrum-with-kanban",
-      "sessions": 8,
+      "sessionRate": 2400.0,
+      "short_title": "Professional Scrum with Kanban (PSK)",
       "level": "advanced",
-      "code": "PSK"
+      "title": "Professional Scrum with Kanban (PSK) with Certification"
     },
     {
-      "sessionRate": 2000.0,
-      "title": "Professional Scrum Master (PSM) Course with Certification",
+      "code": "PSM",
+      "sessions": 7,
       "rates": {
         "12": 14000.0,
         "20": 25000.0,
@@ -124,13 +131,14 @@
         "16": 20000.0
       },
       "path": "capabilities/training-courses/scrumorg-professional-scrum-master",
-      "sessions": 7,
+      "sessionRate": 2000.0,
+      "short_title": "Professional Scrum Master",
       "level": "intermediate",
-      "code": "PSM"
+      "title": "Professional Scrum Master (PSM) Course with Certification"
     },
     {
-      "sessionRate": 1600.0,
-      "title": "Applying Professional Scrum (APS) Course with Certification",
+      "code": "APS",
+      "sessions": 10,
       "rates": {
         "12": 16000.0,
         "20": 29000.0,
@@ -140,13 +148,14 @@
         "16": 22000.0
       },
       "path": "capabilities/training-courses/scrumorg-applying-professional-scrum",
-      "sessions": 10,
+      "sessionRate": 1600.0,
+      "short_title": "Applying Professional Scrum",
       "level": "beginner",
-      "code": "APS"
+      "title": "Applying Professional Scrum (APS) Course with Certification"
     },
     {
-      "sessionRate": 2000.0,
-      "title": "Applying Professional Scrum for Software Development (APS-SD) with Certification",
+      "code": "APS-SD",
+      "sessions": 12,
       "rates": {
         "12": 24000.0,
         "20": 43000.0,
@@ -156,13 +165,14 @@
         "16": 33000.0
       },
       "path": "capabilities/training-courses/scrumorg-applying-professional-scrum-for-software-development",
-      "sessions": 12,
+      "sessionRate": 2000.0,
+      "short_title": "Scrum for Software Development",
       "level": "intermediate",
-      "code": "APS-SD"
+      "title": "Applying Professional Scrum for Software Development (APS-SD) with Certification"
     },
     {
-      "sessionRate": 2400.0,
-      "title": "Scaled Professional Scrum with Nexus (SPS) with Certification",
+      "code": "SPS",
+      "sessions": 8,
       "rates": {
         "12": 20000.0,
         "20": 34000.0,
@@ -172,9 +182,10 @@
         "16": 27000.0
       },
       "path": "capabilities/training-courses/scrumorg-scaled-professional-scrum-with-nexus",
-      "sessions": 8,
+      "sessionRate": 2400.0,
+      "short_title": "Scaled Professional Scrum with Nexus (SPS)",
       "level": "advanced",
-      "code": "SPS"
+      "title": "Scaled Professional Scrum with Nexus (SPS) with Certification"
     }
   ],
   "baseSessionRate": 2000

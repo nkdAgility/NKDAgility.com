@@ -67,6 +67,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $trainingRateTable += @{
         title       = $hugoMarkdown.FrontMatter.title
         code        = $hugoMarkdown.FrontMatter.code
+        short_title = $hugoMarkdown.FrontMatter.short_title
         path        = $relativePath
         sessions    = $sessionCount
         sessionRate = $sessionRate
