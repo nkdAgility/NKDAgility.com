@@ -291,12 +291,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "9YRzr3RR2Da",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T17:31:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
+    "calculated_at": "2025-09-17T23:12:49",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.0,
+    "ai_intent": 0.1,
+    "ai_audience": 0.5,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile leadership and transformation, with no mention of Azure Pipelines or related CI/CD practices.",
+    "reasoning": "There are zero direct mentions of Azure Pipelines or any specific CI/CD, DevOps automation, or Azure tooling. The content is focused solely on Agile leadership and transformation principles, audience, and training irrespective of Azure or pipeline configuration, management, or technical practices. No mention of build, test, deployment flows, or any Azure DevOps context. Audience is leadership-oriented, only faintly overlapping with those who might use Azure Pipelines, and otherwise not in scope.",
+    "reasoning_summary": "Content discusses Agile leadership and transformation with no mention or relevance to Azure Pipelines, CI/CD, or DevOps automation, so it does not fit the 'Azure Pipelines' category in any dimension.",
     "level": "Ignored"
   },
   "Team Performance": {

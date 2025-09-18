@@ -1314,13 +1314,23 @@
     "level": "Ignored"
   },
   "Value Delivery": {
+    "resourceId": "rNqYGyB6PtY",
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T02:40:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team competence and management rather than strategies for delivering value to customers within Agile, Scrum, or DevOps frameworks.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:48",
+    "ai_confidence": 72.98,
+    "ai_mentions": 4.7,
+    "ai_alignment": 7.9,
+    "ai_depth": 7.7,
+    "ai_intent": 8.2,
+    "ai_audience": 8.0,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 73.0,
+    "reasoning": "The content directly serves Agile/Scrum/DevOps practitioners by addressing team competence, which is crucial for value delivery in these frameworks. It recommends improving value through team training, support, and, if needed, decisive action. It aligns with Value Delivery principles (e.g., continuous improvement, maximizing team potential), and references the impact of team performance on delivering value, though direct mentions are sparse. Depth emerges in the discussion of supporting versus letting go, but technical practices (CI/CD, value stream mapping) are not explicitly covered. The audience (product owners/leaders) and purpose (guidance on maximizing team value contribution) closely match the category. The signal is high—little filler, and little off-topic material—though the focus is on human/organizational aspects of value delivery, not specific delivery mechanisms or metrics.",
+    "reasoning_summary": "Content centers on team competence and its impact on value delivery in Agile/Scrum/DevOps. While not deeply technical, it thoroughly aligns with supporting value delivery via team management. Fit is strong, though coverage of delivery mechanics is limited.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

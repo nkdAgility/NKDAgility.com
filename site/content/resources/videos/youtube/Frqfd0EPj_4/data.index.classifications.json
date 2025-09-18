@@ -1345,12 +1345,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "Frqfd0EPj_4",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T07:36:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning in the context of Scrum training, which does not directly relate to engineering practices or methodologies that enhance agility within software development.",
+    "calculated_at": "2025-09-17T23:12:46",
+    "ai_confidence": 37.85,
+    "ai_mentions": 1.1,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.7,
+    "ai_intent": 4.1,
+    "ai_audience": 4.5,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content focuses on immersive Scrum training methods, emphasizing collaboration, ongoing support, and real-world learning. While it references continuous improvement and the application of Scrum practices, it does not explicitly discuss or deeply explore high-level engineering practices, TDD, CI/CD, modularity, or the foundational principles of technical excellence. The main audience is Scrum practitioners, not specifically engineers or technical leads. Most discussion centers on training delivery and learning effectiveness, which only tangentially support technical excellence in a broad sense—mainly via general continuous improvement or better adoption of Scrum. Thus, direct mention, conceptual alignment, and depth related to technical excellence are low-to-moderate. No penalties applied as the content is current and not oppositional.",
+    "reasoning_summary": "The content promotes immersive Scrum training and continuous improvement but only weakly relates to technical excellence, lacking deep discussion of engineering practices or core principles. Overall alignment to the category is low and tangential.",
     "level": "Ignored"
   },
   "Organisational Agility": {

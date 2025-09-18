@@ -165,12 +165,22 @@
     "level": "Ignored"
   },
   "Daily Scrum": {
+    "resourceId": "sXmXT_MDXTo",
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-12T01:30:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps practices and challenges, with no clear focus on Daily Scrum or its related topics.",
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 1.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 1.0,
+    "ai_audience": 2.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content is focused entirely on DevOps strategy, tooling, compliance, and organizational adaptation. There is no explicit mention or discussion of the Daily Scrum event, its structure, roles, or best practices. None of the core Daily Scrum topics (meeting format, team alignment on sprint goals, inspection, adaptation, remote stand-ups, etc.) are referenced or implied. The closest related concepts, such as 'team alignment' and 'ownership,' are addressed generically in the context of DevOps rather than Scrum ceremonies. The audience could potentially include Scrum practitioners, but the focus is practical DevOps at an organizational/process level. There is no relevant or meaningful connection to the intended category.",
+    "reasoning_summary": "Content is strictly about DevOps and organizational performance. There are no mentions or discussions of Daily Scrum or its key concepts. Minimal alignment; not a fit for the Daily Scrum category.",
     "level": "Ignored"
   },
   "System Configuration": {

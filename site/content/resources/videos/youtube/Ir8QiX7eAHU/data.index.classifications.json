@@ -1412,12 +1412,22 @@
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
+    "resourceId": "Ir8QiX7eAHU",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T06:22:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban strategy and WIP limits, which are not directly related to the management of the application lifecycle.",
+    "calculated_at": "2025-09-17T23:12:43",
+    "ai_confidence": 27.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.3,
+    "ai_depth": 2.7,
+    "ai_intent": 4.2,
+    "ai_audience": 6.4,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses almost entirely on Kanban WIP limits, workflow optimization, and team-level process improvement—mostly within the domain of Agile methods. While Kanban can be part of ALM practices, this article neither mentions Application Lifecycle Management nor addresses its core themes (governance, full lifecycle stages, ALM-specific tools, or lifecycle metrics). The subject matter is process-focused (team workflow and Kanban strategy), not application-centric management or governance. The intended audience (Agile practitioners/process coaches) may overlap with ALM stakeholders, but the discussion is not directed at the management of software applications across their entire lifecycle. There are no outdated or negatively framed elements. The article includes small nods to deployment, development, and other activities (e.g., mentioning stages like testing), but these are illustrative of workflow states, not lifecycle management phases. Thus, the fit with the ALM category is minimal and largely incidental.",
+    "reasoning_summary": "Content is about Kanban WIP limits and workflow management—not full lifecycle, governance, or application management. Only marginal thematic overlap with ALM. Not a fit for the category beyond minor incidental alignment.",
     "level": "Ignored"
   },
   "Value Stream Management": {

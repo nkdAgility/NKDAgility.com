@@ -425,12 +425,22 @@
     "level": "Tertiary"
   },
   "Product Discovery": {
+    "resourceId": "J0HjcdNvqGW",
     "category": "Product Discovery",
-    "calculated_at": "2025-02-14T18:55:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses conferences, training, and personal experiences in Agile and Scrum, without focusing on methodologies for identifying customer needs or defining product features.",
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 12.18,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.4,
+    "ai_intent": 1.0,
+    "ai_audience": 3.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.5,
+    "ai_penalty_details": "mentions, alignment, depth: content is outdated (2017 focus), and does not cover or reference Product Discovery's methodologies, practices, or terminology.",
+    "final_score": 12.0,
+    "reasoning": "The content is primarily a personal roundup of conferences and trainings in 2017 about Agile, DevOps, Scrum, and leadership, containing speaker anecdotes, course promotions, and event listings. There are no direct mentions of Product Discovery, and no meaningful discussion of user research, validation, feature prioritization, MVP approaches, or related frameworks. The intent is to summarize activity and promote training, not to explore customer needs, idea validation, or discovery methodologies. The audience overlaps superficially (people interested in Agile), but the material lacks both conceptual alignment and thematic depth with the Product Discovery category.",
+    "reasoning_summary": "This content does not fit the Product Discovery category; there are no direct or indirect discussions of discovery methods, validating customer needs, or relevant frameworks. Focus remains on training, events, and leadership in Agile contexts.",
     "level": "Ignored"
   },
   "Continuous Delivery": {

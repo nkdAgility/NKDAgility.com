@@ -297,12 +297,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "qrEqX_5FWM8",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T22:35:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and training methodologies, with no direct reference to Azure Pipelines or related CI/CD practices.",
+    "calculated_at": "2025-09-17T23:12:45",
+    "ai_confidence": 1.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 2.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content centers wholly on immersive learning in Agile/Scrum contexts, discussing training formats and practical application for Agile practitioners. No reference, explicit or implicit, to Azure Pipelines, CI/CD, or related automation, configuration, or deployment topics occurs. The only tangential connection is a passing mention of 'DevOps', but not in any Azure or pipeline-specific context. The audience alignment is faint because practitioners of Agile/DevOps may overlap with Azure Pipelines users, but the content itself does not serve their pipeline interests. No dimension scores above 2.2 as the category is not addressed.",
+    "reasoning_summary": "This content is unrelated to Azure Pipelines, focusing entirely on Agile/Scrum immersive learning. It does not mention or address pipeline automation, CI/CD, or Azure DevOps services in any way, so fit is extremely low.",
     "level": "Ignored"
   },
   "Team Performance": {

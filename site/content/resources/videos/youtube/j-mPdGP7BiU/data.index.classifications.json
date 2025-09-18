@@ -1378,12 +1378,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "j-mPdGP7BiU",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T05:54:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses assumptions and hypotheses in product development, lacking a clear focus on engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-17T23:12:53",
+    "ai_confidence": 37.37,
+    "ai_mentions": 0.9,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.5,
+    "ai_intent": 4.0,
+    "ai_audience": 4.8,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content centers on improving product development by transforming assumptions into hypotheses, running experiments, and making data-driven decisions. It advocates for evidence-based, critical thinking and continuous learning. However, it does not address the core practices of technical excellence—such as TDD, CI/CD, modular architecture, or emergent design—and never directly references 'technical excellence' or its high-level engineering principles. The approach is methodologically rigorous but focused on product discovery and experimentation rather than the engineering discipline or practices outlined in the classification definition. Audience alignment is partial: likely product managers, strategists, and teams interested in better decision-making, but not specifically engineering practitioners seeking technical excellence in building software. The lack of explicit technical engineering topics results in only modest conceptual and depth alignment.",
+    "reasoning_summary": "The content promotes better product decision-making via hypothesis-driven experimentation, but lacks discussion of engineering discipline or practices central to technical excellence. Fit is partial and indirect, mostly method/process, not engineering.",
     "level": "Ignored"
   },
   "Organisational Agility": {

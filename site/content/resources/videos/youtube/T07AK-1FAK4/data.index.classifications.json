@@ -425,12 +425,22 @@
     "level": "Ignored"
   },
   "Product Validation": {
+    "resourceId": "T07AK-1FAK4",
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the issue of fake agilists and not the validation of product ideas.",
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 21.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.7,
+    "ai_intent": 2.9,
+    "ai_audience": 5.2,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content focuses on identifying and dealing with unqualified Agile leadership and safeguarding team health—not on practices or methodologies for Product Validation. There is negligible direct mention or exploration of validating product ideas, user testing, market fit, prototyping, or customer feedback mechanisms. While the general Agile audience overlaps somewhat, the main purpose and depth do not match the Product Validation category, resulting in a low confidence score.",
+    "reasoning_summary": "Content centers on detecting 'fake agilists' and improving team leadership, not on validating product ideas or using user feedback. No clear Product Validation practices are discussed; thus, the fit with this category is weak.",
     "level": "Ignored"
   },
   "Daily Scrum": {

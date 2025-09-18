@@ -162,12 +162,22 @@
     "level": "Secondary"
   },
   "Daily Scrum": {
+    "resourceId": "QBX7dnUBzo8",
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-12T03:19:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses systemic issues in Agile organisations and does not focus on the Daily Scrum or its specific practices.",
+    "calculated_at": "2025-09-17T23:13:02",
+    "ai_confidence": 19.23,
+    "ai_mentions": 2.0,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.8,
+    "ai_intent": 2.4,
+    "ai_audience": 4.2,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Mentions penalized (-1): Daily Scrum referenced only as a generic 'daily stand-up'/ritual with no detail or correct context. Intent penalized (-1): Tone critical of focusing on Daily Scrum/rituals; framing as a misguided or inadequate practice.",
+    "final_score": 19.0,
+    "reasoning": "The content references 'daily stand-ups' and 'rituals' as common but misguided organizational practices, using them as examples of surface-level adoption that fails to address systemic issues. It actively critiques relying on Daily Scrum and associated ceremonies, warning against believing that these rituals drive genuine improvement. The primary focus is organizational transformation and meaningful metrics, not Daily Scrum as an event, its conduct, or its intent within Scrum. The content is aimed at organizational leaders and Agile coaches, not Scrum practitioners seeking to improve their Daily Scrum practices. Substance about the Daily Scrum itself is minimal, with depth and alignment scores low. Penalties are applied for both insufficient, generic referencing and a critical, dismissive framing of the event.",
+    "reasoning_summary": "Daily Scrum is mentioned only as a misapplied ritual, not discussed as a valuable Scrum event. Content's main topic is broader organizational change, not Daily Scrum's practices or intent—fit is minimal and largely tangential.",
     "level": "Ignored"
   },
   "System Configuration": {

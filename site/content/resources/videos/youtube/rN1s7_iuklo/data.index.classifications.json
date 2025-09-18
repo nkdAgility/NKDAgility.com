@@ -590,12 +590,22 @@
     "level": "Secondary"
   },
   "Release Management": {
+    "resourceId": "rN1s7_iuklo",
     "category": "Release Management",
-    "calculated_at": "2025-02-17T13:55:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on empowering Agile teams and adapting processes, but does not address release management strategies or practices directly.",
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 19.54,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.1,
+    "ai_intent": 2.5,
+    "ai_audience": 7.7,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content primarily discusses team empowerment, adaptability, and maximizing value in Agile teams. While continuous improvement and some practices cited (e.g. retrospectives, tools) are generically adjacent to release management, there is no explicit or implicit discussion of strategies, practices, or coordination around software release cycles or the mechanics of release management processes. The focus is on team autonomy, flexibility in workflow/process, and leadership support, not on release scheduling, risk management, CI/CD, or deployment. The audience (Agile leaders/practitioners) overlaps only partially with release management, and any potential relevance is tangential.",
+    "reasoning_summary": "Topic focuses on team empowerment and Agile process flexibility, not on software release planning or coordination. There’s only tangential overlap with Release Management; fit is minimal and mostly indirect.",
     "level": "Ignored"
   },
   "Organisational Change": {

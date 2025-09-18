@@ -125,12 +125,22 @@
     "level": "Tertiary"
   },
   "Employee Engagement": {
+    "resourceId": "kwS9oPiz-Ny",
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-12T14:14:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on process optimisation rather than employee engagement.",
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 18.666,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.5,
+    "ai_intent": 1.9,
+    "ai_audience": 5.3,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses strictly on process optimization through batch size and queuing theory. It addresses delivery speed, workflow, and predictability, but makes no mention of motivation, engagement, leadership, recognition, or psychological/social facets of work. The target audience is practitioners interested in Agile/Scrum workflow improvement, not specifically those seeking to enhance employee engagement. As such, there is only an extremely tangential relevance if the facilitator happens to connect batch size to team satisfaction. There is no direct discussion or exploration of employee engagement concepts, nor any intent to impact motivation or commitment beyond process efficiency.",
+    "reasoning_summary": "Content is wholly focused on workflow and process improvement via batch size, with no substantive or intentional connection to employee engagement topics as defined. Any overlap is incidental, yielding a very low confidence fit.",
     "level": "Ignored"
   },
   "Product Management": {

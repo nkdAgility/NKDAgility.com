@@ -400,12 +400,22 @@
     "level": "Ignored"
   },
   "Product Validation": {
+    "resourceId": "uRqsRNq-XRY",
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T23:35:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and team dynamics rather than product validation methodologies.",
+    "calculated_at": "2025-09-17T23:12:58",
+    "ai_confidence": 31.33,
+    "ai_mentions": 0.1,
+    "ai_alignment": 3.5,
+    "ai_depth": 2.8,
+    "ai_intent": 2.0,
+    "ai_audience": 8.1,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content focuses on team culture, psychological safety, and improving agile environments by combating judgment, emphasizing morale, collaboration, and constructive metrics. It only tangentially mentions goal-setting and metrics, with no discussion of user testing, customer feedback, or iterative validation of product ideas. There is little to no direct reference, conceptual focus, or depth regarding Product Validation. The primary intent is internal team dynamics rather than testing product-market fit or learning from customer engagement. The audience (Agile practitioners) aligns somewhat, and the signal is moderate since the content is focused but not directly on validation.",
+    "reasoning_summary": "This content is about fostering healthy Agile team environments by reducing judgment and improving morale—not on product validation, user testing, or validating market fit. Any overlap is indirect and incidental. Fit to Product Validation is weak.",
     "level": "Ignored"
   },
   "Daily Scrum": {

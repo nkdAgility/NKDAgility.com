@@ -1306,12 +1306,22 @@
     "level": "Tertiary"
   },
   "Deployment Frequency": {
+    "resourceId": "qRHzl4PieKA",
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses team empowerment and changing requirements based on user feedback, not deployment frequency.",
+    "calculated_at": "2025-09-17T23:12:55",
+    "ai_confidence": 27.05,
+    "ai_mentions": 0.6,
+    "ai_alignment": 3.1,
+    "ai_depth": 2.7,
+    "ai_intent": 2.0,
+    "ai_audience": 5.8,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content thoroughly discusses team empowerment, backlog updates, and the value of changing requirements in response to user feedback for Agile teams. However, it does not directly mention or focus on deployment frequency, release intervals, CI/CD, or related metrics or practices. The discussion is on agility, value, and responsiveness, but not on optimizing deployment intervals or the frequency of releases. Audience alignment is moderately high since it's aimed at Agile practitioners, but the signal to the core category (deployment frequency) is low and mostly tangential.",
+    "reasoning_summary": "Content covers agile adaptability, team empowerment, and backlog management, but lacks any discussion of deployment frequency, release intervals, or CI/CD. Only tangential alignment with the category; this is a partial fit at best.",
     "level": "Ignored"
   },
   "Strategy": {

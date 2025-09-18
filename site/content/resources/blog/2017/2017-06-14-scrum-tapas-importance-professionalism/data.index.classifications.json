@@ -241,13 +241,23 @@
     "level": "Ignored"
   },
   "Technical Excellence": {
+    "resourceId": "sdlfWR5wHx7",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T19:20:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on team professionalism rather than specific engineering practices or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:13:02",
+    "ai_confidence": 51.55,
+    "ai_mentions": 4.3,
+    "ai_alignment": 6.6,
+    "ai_depth": 4.9,
+    "ai_intent": 6.2,
+    "ai_audience": 6.0,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.7,
+    "ai_penalty_details": "penalties applied to depth (-0.5) for limited specifics on technical excellence practices, intent (-0.5) for broader focus on professionalism versus deep engineering, audience (-0.2) due to some non-technical/executive references, mentions (-0.5) for mostly indirect references.",
+    "final_score": 52.0,
+    "reasoning": "The content explicitly mentions 'engineering excellence' but stops short of deep discussion, focusing more generally on professionalism vs. amateurism in teams. Core practices like TDD, CI/CD, or modular architecture are not detailed, making alignment moderate. The intent is supportive of high standards but not precisely focused on the mechanics of technical excellence. Signal-to-noise suffers due to event/generic professionalism mentions and 2017 event references. Some penalties were applied for lack of depth, partial alignment of audience (mix of technical and non-technical content), and outdated references.",
+    "reasoning_summary": "Mentions technical excellence but with little depth—focus is on professionalism rather than specific engineering practices. Alignment is partial due to general framing and limited detail. Overall, fit to category is moderate.",
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

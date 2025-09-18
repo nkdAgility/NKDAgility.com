@@ -240,12 +240,22 @@
     "level": "Ignored"
   },
   "Test Automation": {
+    "resourceId": "WTd-8mOlFfQ",
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T20:51:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-17T23:13:02",
+    "ai_confidence": 6.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.4,
+    "ai_intent": 0.7,
+    "ai_audience": 6.9,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is solely about Scrum Masters avoiding administrative tasks and focusing on team effectiveness. There are no mentions, discussion, or intent regarding test automation, its principles, tools, or best practices. Even JIRA references pertain to administrative duties, not automated testing. The audience (Scrum Masters interested in team effectiveness) modestly overlaps—Scrum Masters could care about test automation in principle—but this article does not discuss it, nor do its main ideas align. There is thus near-zero coverage on all but audience and signal (as the content is focused on its topic): overall, the fit is negligible.",
+    "reasoning_summary": "Content exclusively discusses Scrum Master administrative pitfalls, not test automation. No relevant themes, tools, or practices are covered. Only minimal relevance due to overlapping potential audience, making category fit extremely weak.",
     "level": "Ignored"
   },
   "Technical Mastery": {

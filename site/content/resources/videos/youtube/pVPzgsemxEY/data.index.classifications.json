@@ -307,12 +307,22 @@
     "level": "Secondary"
   },
   "Platform Engineering": {
+    "resourceId": "pVPzgsemxEY",
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T12:17:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kaizen and continuous improvement in the context of Scrum and Kanban, with no direct relevance to platform engineering or Internal Developer Platforms.",
+    "calculated_at": "2025-09-17T23:12:47",
+    "ai_confidence": 8.838,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.5,
+    "ai_intent": 0.7,
+    "ai_audience": 0.7,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content extensively explores Kaizen and continuous improvement within Agile and Scrum contexts, focusing on retrospectives, workflow optimization, and team culture. There are no direct mentions or explicit discussions of Platform Engineering, Internal Developer Platforms, self-service, automation, or standardization of tooling specifically for developer enablement. Conceptual alignment is minimal, as the article’s themes stay within general process improvement for teams, not the core of Platform Engineering. Audience overlap exists (Scrum practitioners, developers), but no targeted platform engineering or enablement angle emerges. Depth of discussion is rich for process improvements but wholly lacks infrastructure/platform context.",
+    "reasoning_summary": "Content centers on Kaizen in Agile/Scrum, with no mention or exploration of Platform Engineering or IDPs. Intent, themes, and topics do not fit the category definition, so the fit is minimal and purely incidental.",
     "level": "Ignored"
   },
   "Product Delivery": {

@@ -318,12 +318,22 @@
     "level": "Ignored"
   },
   "Technical Excellence": {
+    "resourceId": "9kZicmokyZ4",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T14:17:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management in Agile environments, which does not directly relate to engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-17T23:12:43",
+    "ai_confidence": 29.67,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.1,
+    "ai_intent": 3.3,
+    "ai_audience": 4.0,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content thoroughly explains evidence-based management (EBM) in Agile, emphasizing data-driven continuous improvement, but does not directly discuss technical excellence, engineering practices, or quality-focused software delivery. While there is some indirect relationship—since technical excellence can be measured and improved through EBM—the primary focus is on organizational metrics, business value, and process optimization, not core topics of Technical Excellence such as TDD, CI/CD, or modular architecture. The audience and intent overlap slightly with technical excellence practitioners, but the thematic and conceptual fit is partial at best.",
+    "reasoning_summary": "The content focuses on evidence-based decision making in Agile—not on engineering practices or software quality. It only marginally relates to Technical Excellence, resulting in a low confidence of fit for this category.",
     "level": "Ignored"
   },
   "Business Agility": {

@@ -1398,12 +1398,22 @@
     "level": "Tertiary"
   },
   "Azure DevOps": {
+    "resourceId": "FFrTLuRhyVo",
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-13T19:44:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical debt and product delivery without specific reference to Azure DevOps or its functionalities.",
+    "calculated_at": "2025-09-17T23:12:34",
+    "ai_confidence": 11.92,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.6,
+    "ai_intent": 1.7,
+    "ai_audience": 3.1,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content thoroughly discusses technical debt management, continuous improvement, and product quality from an Agile/DevOps perspective but never references Azure DevOps or its services. Concepts align only generically with DevOps practice, not specifically Azure DevOps. The target audience is those concerned with team delivery and product quality, which somewhat overlaps with Azure DevOps practitioners, but all examples and advice are general. Signal-to-noise is moderate, with relevant discussion, but the lack of specificity means it cannot strongly fit this category.",
+    "reasoning_summary": "Content is about technical debt, quality, and Agile/DevOps generally. No mention or focus on Azure DevOps services, tools, or practices. Fit is vague and tangential, not aligned with the category’s strict definition.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {

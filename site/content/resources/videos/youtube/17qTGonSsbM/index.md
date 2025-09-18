@@ -35,6 +35,7 @@ categories:
   - Product Management
   - Product Development
 tags:
+  - Professional Scrum
   - Social Technologies
   - Continuous Improvement
 Watermarks:

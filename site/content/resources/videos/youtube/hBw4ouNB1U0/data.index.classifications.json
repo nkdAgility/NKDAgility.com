@@ -1326,12 +1326,22 @@
     "level": "Secondary"
   },
   "Deployment Frequency": {
+    "resourceId": "hBw4ouNB1U0",
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T13:53:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses continuous improvement and workflow metrics without directly addressing deployment frequency or its related practices.",
+    "calculated_at": "2025-09-17T23:12:48",
+    "ai_confidence": 21.34,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.6,
+    "ai_intent": 2.3,
+    "ai_audience": 6.5,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content discusses metrics, visualisation, and continuous improvement in workflows but never directly mentions deployment frequency or related practices like CI/CD. Its primary focus is on workflow optimisation, transparency, and cultural mindset, which are tangential. There is broad applicability to Agile, but almost no alignment with the specific definition of deployment intervals, release processes, or optimisation of shipping frequency. No penalty was needed, as the tone is supportive and non-obsolete—the missing fit comes from topical misalignment rather than contradiction.",
+    "reasoning_summary": "This content is about workflow metrics, transparency, and continuous improvement, not deployment frequency. It does not address deployment intervals, release frequency, or related Agile/DevOps practices, so category fit is minimal.",
     "level": "Ignored"
   },
   "Strategy": {

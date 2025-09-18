@@ -1124,16 +1124,23 @@
     "level": "Ignored"
   },
   "Decision Making": {
+    "resourceId": "EtzHUfsWjsD",
     "category": "Decision Making",
-    "calculated_at": "2025-04-29T17:39:55",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the importance of designing resilience into products, which indirectly relates to decision-making in terms of prioritising resilience as a core feature. However, it lacks explicit discussions on structured decision-making methodologies, evidence-based practices, or collaborative decision-making techniques. The focus is more on resilience as a concept rather than on the decision-making processes that underpin it.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:27",
+    "ai_confidence": 58.62,
+    "ai_mentions": 2.8,
+    "ai_alignment": 6.7,
+    "ai_depth": 6.5,
+    "ai_intent": 6.2,
+    "ai_audience": 7.6,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 59.0,
+    "reasoning": "The content is primarily focused on advocating for building resilience as a product feature, emphasizing deliberate, systematic engineering practices, and learning from incidents. There is peripheral overlap with structured decision-making—such as integrating resilience criteria into product/release decisions, referencing empirical measurements (telemetry, failed user minutes), and advocating for intent-based process improvement. However, the explicit discussion of decision-making methodologies, frameworks, cognitive biases, or evidence-based management (EBM) principles is limited. There is some conceptual alignment via themes of continuous improvement, using incidents as feedback, and data-driven investing in resilience processes. The audience (engineers, product teams, technical managers) partially aligns with EBM/decision-making stakeholders, and the content is highly focused. However, the absence of explicit discussion about decision-making processes, trade-off evaluation, or collaborative frameworks reduces scores for mentions, alignment, depth, and intent.",
+    "reasoning_summary": "The content fits the category only partially: it encourages deliberate, evidence-informed action in building resilience, but offers limited explicit treatment of structured or collaborative decision-making methods as defined in the category.",
+    "level": "Tertiary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",

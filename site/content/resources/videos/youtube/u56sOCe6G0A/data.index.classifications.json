@@ -1338,12 +1338,22 @@
     "reasoning_summary": "This content fits the category as it covers managing work items in a Kanban system, which supports iterative development and efficient workflow. However, its focus is mainly on technical workflow management rather than broader strategies for delivering customer value or improving business agility. While it mentions flow and reducing bottlenecks, it doesn’t fully explore their impact on customer outcomes."
   },
   "Technical Excellence": {
+    "resourceId": "u56sOCe6G0A",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T00:46:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban practices rather than engineering methodologies that enhance agility in software development.",
+    "calculated_at": "2025-09-17T23:12:47",
+    "ai_confidence": 34.077,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.4,
+    "ai_intent": 3.2,
+    "ai_audience": 9.1,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content focuses on workflow management and optimization within Kanban (monitoring WIP, resolving bottlenecks, optimizing flow), discussing specific practices for actively managing work. However, it does not directly address technical excellence in terms of engineering practices such as TDD, CI/CD, modular architecture, or emergent design. While it relates to process and operational effectiveness, it is not clearly aligned with the higher-level engineering principles central to Technical Excellence. Audience targeting is strong, with actionable advice for practitioners, but the conceptual alignment and depth on technical excellence as defined are lacking.",
+    "reasoning_summary": "Content covers Kanban workflow management but lacks clear discussion of engineering or technical excellence principles. Only a partial fit to the Technical Excellence category; focus is on process rather than technical practices.",
     "level": "Ignored"
   },
   "Organisational Agility": {

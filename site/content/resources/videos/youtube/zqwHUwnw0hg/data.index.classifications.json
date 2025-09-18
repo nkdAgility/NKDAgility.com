@@ -1457,12 +1457,22 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "zqwHUwnw0hg",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-11T21:43:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Scrum Master course rather than the management of software applications throughout their lifecycle.",
+    "calculated_at": "2025-09-17T23:12:56",
+    "ai_confidence": 37.35,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.8,
+    "ai_intent": 4.7,
+    "ai_audience": 4.4,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content is a detailed overview of the Professional Scrum Master course, focusing on Scrum theory, the role and service areas of a Scrum Master, empiricism, team effectiveness, and agile values. While these are relevant to modern software development and touch on practices that can exist within Application Lifecycle Management (ALM), the content does not discuss ALM as a discipline, its life stages, governance, compliance, ALM tools, or direct integration of Agile/Scrum into an ALM context. Terms such as 'application lifecycle', 'lifecycle management', or ALM-specific topics are not explicitly mentioned. The main audience is Scrum practitioners, not specifically ALM managers. There is partial overlap in that effective Scrum contributes to aspects of application delivery and maintenance, but the focus is on the Scrum Master role—not holistic management of the application lifecycle.",
+    "reasoning_summary": "Content mainly covers Scrum theory and the Scrum Master role, not Application Lifecycle Management. Limited alignment: relevant practices may support ALM, but the content does not directly address or discuss ALM as a discipline or process.",
     "level": "Ignored"
   },
   "Value Stream Management": {

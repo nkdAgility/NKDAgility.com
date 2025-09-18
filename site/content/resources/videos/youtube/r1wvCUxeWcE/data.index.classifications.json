@@ -257,12 +257,22 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "r1wvCUxeWcE",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Kanban boards and workflow visualisation, which are not central to Application Lifecycle Management.",
+    "calculated_at": "2025-09-17T23:12:49",
+    "ai_confidence": 37.85,
+    "ai_mentions": 0.8,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.0,
+    "ai_intent": 3.9,
+    "ai_audience": 3.7,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content focuses on Kanban board design, workflow visualization, and continuous team process improvement, but this is rooted in general workflow and team management—not the broader governance, lifecycle stages, or tooling that define Application Lifecycle Management (ALM). There are no direct mentions of ALM, nor does it discuss application conception, deployment, maintenance, retirement, or governance frameworks. Its primary intent is enabling teams to optimize board usage and process visualization, which could support parts of an ALM practice, but that connection is implicit and superficial. The audience (team practitioners) is related but not clearly ALM-specific. The signal is focused but never expands into ALM's scope, tools, or methodologies.",
+    "reasoning_summary": "This content centers on Kanban workflow visualization for general team process improvement, not on governing software application lifecycles. It lacks direct ALM focus, mentioning, or discussion, so fit with Application Lifecycle Management is weak.",
     "level": "Ignored"
   },
   "Lean": {

@@ -266,12 +266,22 @@
     "level": "Ignored"
   },
   "Technical Mastery": {
+    "resourceId": "WIVDWzps4aY",
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T18:37:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses product management in Agile teams, which is not primarily focused on software craftsmanship or engineering practices.",
+    "calculated_at": "2025-09-17T23:13:03",
+    "ai_confidence": 36.97,
+    "ai_mentions": 0.5,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.5,
+    "ai_intent": 5.4,
+    "ai_audience": 6.1,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content focuses on product ownership and effective product management within Agile teams. While these are essential Agile topics, the discussion is primarily oriented around team roles, stakeholder engagement, prioritization, and collaboration rather than the technical practices of software engineering or mastery of engineering techniques. There is no direct reference to technical excellence, code quality, architecture, or other key Technical Mastery markers. While the notion of improving team effectiveness indirectly contributes to product quality, the article does not delve into technical methods or craftsmanship. Slight audience overlap exists, as product owners may work closely with technically focused individuals. Signal-to-noise is moderate; the majority of content is on-topic for product management, but not for Technical Mastery.",
+    "reasoning_summary": "This content is mainly about product ownership and management roles in Agile, not software engineering mastery. It touches collaboration and effective teams, but lacks focus on technical practices, architecture, or engineering excellence. Only a weak fit.",
     "level": "Ignored"
   },
   "Sprint Review": {

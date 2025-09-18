@@ -1385,13 +1385,23 @@
     "reasoning_summary": "This content is a great fit for the Value Delivery category, as it centres on how Agile teams can maximise value through effective daily Scrums and retrospectives. It offers practical tips to avoid unproductive routines and ensures meetings are purposeful, helping teams stay focused on delivering meaningful outcomes. The advice is actionable and directly supports value-driven practices."
   },
   "Technical Excellence": {
+    "resourceId": "JzAbvkFxVzs",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T05:28:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses dogma in Agile practices and the importance of pragmatism in Scrum, rather than focusing on technical excellence or engineering methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:13:00",
+    "ai_confidence": 45.37,
+    "ai_mentions": 1.1,
+    "ai_alignment": 5.9,
+    "ai_depth": 5.4,
+    "ai_intent": 5.9,
+    "ai_audience": 6.3,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content focuses on avoiding rote Agile routines and instead emphasizes value delivery, team alignment, and tackling bottlenecks. However, it lacks explicit reference to high-level engineering practices, technical quality drivers (like TDD, CI/CD, architecture, or design), or substantial exploration of technical excellence. While it briefly mentions continuous improvement, the main thrust is about process adaptation and efficient meetings rather than technical engineering excellence. There's minimal direct mention, and the fit is somewhat partial based on conceptual overlap with continuous improvement and value delivery in Agile teams.",
+    "reasoning_summary": "Content centers on Agile process and value delivery, not core technical excellence practices. Some alignment via continuous improvement, but lacks direct discussion of engineering quality, making fit partial.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

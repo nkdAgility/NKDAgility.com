@@ -142,12 +142,22 @@
     "level": "Primary"
   },
   "Product Validation": {
+    "resourceId": "2KovKxNpZpg",
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T10:21:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-17T23:13:00",
+    "ai_confidence": 36.04,
+    "ai_mentions": 0.2,
+    "ai_alignment": 4.3,
+    "ai_depth": 4.0,
+    "ai_intent": 4.2,
+    "ai_audience": 6.5,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content is an exploration of Scrum principles and the dangers of empty ritualism. It advocates empiricism, transparency, and value delivery as guiding tenets but does not directly mention core product validation practices—such as user testing or feedback loops. References to learning, experimentation, and value are somewhat adjacent to validation, but lack examples, discussion, or direct exploration of validating product ideas with users, A/B testing, or evidence-based product management. The audience fit is moderate, as Scrum practitioners overlap with those doing product validation, but the signal-to-noise is only fair because the focus is on process mindset, not specific validation methods. No content is outdated or critical of product validation itself.",
+    "reasoning_summary": "Content focuses on Scrum’s core principles and warns against ritualism. While adjacent themes like empiricism and value delivery are present, direct discussion of product validation practices or user feedback is minimal, making fit partial and indirect.",
     "level": "Ignored"
   },
   "Accountability": {

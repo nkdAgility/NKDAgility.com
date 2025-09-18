@@ -1358,13 +1358,23 @@
     "level": "Ignored"
   },
   "Value Delivery": {
+    "resourceId": "v1sMbKpQndU",
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T00:10:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a Scrum Master and coaching techniques, without a clear focus on value delivery strategies or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:13:01",
+    "ai_confidence": 58.23,
+    "ai_mentions": 2.5,
+    "ai_alignment": 6.6,
+    "ai_depth": 6.8,
+    "ai_intent": 6.0,
+    "ai_audience": 7.1,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 58.0,
+    "reasoning": "The content centers on the coaching stance for Scrum Masters within Agile frameworks, emphasizing leadership, trust, and team empowerment. It touches on adding value, continuous improvement, and aligning to Agile principles, which overlaps with value delivery. However, it doesn't directly discuss iterative/incremental value delivery, CI/CD, or measurement/optimisation techniques. The value delivery connection is present but implicit—framed through team outcomes, satisfaction, and fostering a value-centric mindset. Direct terminology and practices unique to 'Value Delivery' (such as value stream mapping, evidence-based measurement, or customer value maximisation) are minimal or absent, and much of the content focuses on soft skills and coaching philosophies rather than delivery mechanics. Audience alignment is good—aimed at Agile practitioners and leaders. No penalties are applied as the content is recent, consistent in tone, and not outdated.",
+    "reasoning_summary": "Content partially fits 'Value Delivery', focusing more on coaching/team empowerment in Agile than explicit value delivery mechanics. Value themes are implicit (empowerment, satisfaction), not central. Alignment is moderate; direct discussion is limited.",
+    "level": "Tertiary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

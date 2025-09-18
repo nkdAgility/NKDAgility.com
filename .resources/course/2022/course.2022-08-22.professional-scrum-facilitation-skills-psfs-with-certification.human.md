@@ -59,7 +59,7 @@ previewIcon: Scrumorg-Course-PSFS-400x.png
 brandColour: 
 code: PSFS
 course_proficiencies:
-  - intermediate
+  - beginner
 introduction: 
 overview: |+
   This course is most suitable for professionals with Scrum knowledge and experience that are interested in learning how to use facilitation to enhance team collaboration and reduce conflict. It is ideal for: 
@@ -94,9 +94,11 @@ events:
 **Course Code:** PSFS
 
 ## Overview
+
 Enhance your facilitation skills to empower Scrum Teams in solving problems, building consensus, and fostering transparency. This interactive course equips participants with practical facilitation techniques to improve team collaboration and Scrum events.
 
 ## Target Audience
+
 - Scrum Team members (Scrum Masters, Developers, Product Owners)
 - Scrum Coaches, Agile Coaches, and Consultants
 - Product Owners and Product Managers
@@ -104,12 +106,14 @@ Enhance your facilitation skills to empower Scrum Teams in solving problems, bui
 - Individuals with prior Scrum training or experience
 
 ## Learning Outcomes
+
 - Explain the roles that facilitation principles and Scrum Values play in enhancing healthy collaboration within Scrum Teams
 - Gain facilitation skills to leverage and focus on the benefits of diverse perspectives on a team with varying dynamics
 - Apply facilitation principles and techniques to improve Scrum events and other interactions
 - Improve team collaboration and participatory decision making using a facilitator stance and toolbox of techniques
 
 ## Course Topics
+
 - Facilitation principles and Scrum Values
 - Team collaboration and conflict resolution
 - Participatory decision making
@@ -117,22 +121,28 @@ Enhance your facilitation skills to empower Scrum Teams in solving problems, bui
 - Developing a personal facilitation plan
 
 ## Delivery Format
+
 - Traditional and immersive learning
 - Delivered over two half-days via Microsoft Teams & Mural
 - Additional support through the League of Xtraordinary Lean-Agile Practitioners community
 
 ## Proficiency Level
+
 - Intermediate
 
 ## Course Length
+
 - 1 day (delivered as two half-day sessions)
 
 ## Trainer/Designer
+
 - Martin Hinshelwood
 
 ## Vendor
+
 - Scrum.org
 
 ## Certification
+
 - Professional Scrum Facilitation Skills (PSFS) Certification
 ```

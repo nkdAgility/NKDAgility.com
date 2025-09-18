@@ -138,12 +138,22 @@
     "level": "Secondary"
   },
   "Product Validation": {
+    "resourceId": "r_Af7X25IDk",
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T12:23:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses leading agile change without a direct focus on product validation methodologies or user engagement.",
+    "calculated_at": "2025-09-17T23:13:00",
+    "ai_confidence": 33.38,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.2,
+    "ai_intent": 3.4,
+    "ai_audience": 8.0,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content centers on Agile transformation, organizational change, value delivery, and continuous improvement, with some brief reference to reducing unused product features and focusing on delivering real value. However, it does not explicitly discuss or detail practices, methodologies, or feedback mechanisms that constitute product validation as defined: no user testing, prototyping, A/B testing, or other practical validation methods are explored. Concepts like 'measuring outcomes' are noted but framed generically. The audience and context are relevant, but the intent and depth are only tangential to product validation, lacking direct actionable insight into validating product ideas with real users.",
+    "reasoning_summary": "Fit is partial and low. The content touches on delivering customer value and minimizing unused features, but lacks direct focus, methods, or depth on product validation topics such as user testing, customer feedback loops, or validation techniques.",
     "level": "Ignored"
   },
   "Accountability": {

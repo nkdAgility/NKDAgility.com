@@ -1222,12 +1222,22 @@
     "level": "Tertiary"
   },
   "Miscellaneous": {
+    "resourceId": "ZXDBoq7JUSw",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-11T21:25:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personal development and continuous learning without any reference to Agile, Scrum, DevOps, or related frameworks.",
+    "calculated_at": "2025-09-17T23:12:46",
+    "ai_confidence": 22.475,
+    "ai_mentions": 2.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.4,
+    "ai_intent": 2.7,
+    "ai_audience": 6.0,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content broadly discusses professional growth through continuous learning, trial-and-error, and caring about one's craft, but does so in general terms with no direct reference to any specific Agile, Scrum, DevOps, Lean, or EBM frameworks. Most of the discussion is philosophical and motivational, making it faintly relevant to the Miscellaneous category. However, the final paragraph offers a sales pitch for Agile and Scrum courses, mentioning both Agile and Scrum directly, shifting some of the intent away from pure general discussion toward explicit connection with these methodologies. As per strict exclusion, direct mentions of Agile and Scrum lower conceptual alignment and depth for Miscellaneous. Audience and signal scores are moderate since the main target is broadly professionals interested in upskilling, which aligns partially but is diluted by the approach. No penalties were applied as the content is current and neutral in tone.",
+    "reasoning_summary": "Content is primarily a general professional motivation narrative, but final call-to-action directly references Agile and Scrum, making the fit for Miscellaneous partial, not strong.",
     "level": "Ignored"
   },
   "DevOps": {

@@ -428,12 +428,22 @@
     "level": "Ignored"
   },
   "Product Validation": {
+    "resourceId": "vXCIf3eBJfs",
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T23:35:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the selection criteria for an agile coach, focusing on methodologies rather than product validation directly.",
+    "calculated_at": "2025-09-17T23:12:53",
+    "ai_confidence": 19.55,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.7,
+    "ai_intent": 2.4,
+    "ai_audience": 7.9,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses entirely on how to select an Agile coach who adapts methods to organizational needs, emphasizing versatility, learning, and fit. There is no direct or indirect discussion of testing product ideas with users, user feedback, or product assumption validation. While some practices named (e.g., continuous improvement, drawing from multiple frameworks) could be indirectly related to iterative delivery and adaptation, none are framed in context of validating product assumptions in-market or with real users. The audience (business/Agile leaders) slightly overlaps with that of Product Validation, but all themes focus on coaching selection and Agile methodology fit—not product testing, prototypes, or feedback loops.",
+    "reasoning_summary": "Content is about choosing a suitable Agile coach, not about validating product ideas, assumptions, or gathering user feedback. There is minimal direct or conceptual fit with Product Validation.",
     "level": "Ignored"
   },
   "Daily Scrum": {

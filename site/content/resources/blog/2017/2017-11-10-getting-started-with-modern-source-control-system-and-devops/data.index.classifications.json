@@ -812,12 +812,22 @@
     "level": "Ignored"
   },
   "Psychological Safety": {
+    "resourceId": "bkiQSbbO78R",
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-14T19:01:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses modern source control systems and DevOps practices, with no clear focus on psychological safety or its related themes.",
+    "calculated_at": "2025-09-17T23:12:59",
+    "ai_confidence": 7.463,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 0.5,
+    "ai_audience": 2.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on modern source control and DevOps practices, including automation, release pipelines, and collaboration. It briefly mentions collaboration and professionalism but makes no direct or indirect references to psychological safety, its strategies, or environments that foster risk-taking or mistake-sharing. There is little conceptual overlap or depth related to psychological safety. The audience is software practitioners, which is somewhat aligned, but the intent and signal do not match the category. No penalties were applied as there was no contradiction or evidence of outdated/critical/satirical tone.",
+    "reasoning_summary": "Content does not fit the Psychological Safety category. There are no direct mentions or substantial thematic connections to psychological safety, its impact, or relevant strategies. The focus remains technical/practices only.",
     "level": "Ignored"
   },
   "Engineering Excellence": {

@@ -1456,12 +1456,22 @@
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
+    "resourceId": "o0VJuVhm0pQ",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T03:52:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum as a product development framework, focusing on its role in customer acquisition and retention rather than the management of the application lifecycle.",
+    "calculated_at": "2025-09-17T23:12:59",
+    "ai_confidence": 34.257,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.6,
+    "ai_depth": 2.8,
+    "ai_intent": 3.0,
+    "ai_audience": 2.7,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content focuses almost entirely on Scrum as a product development framework and its impact on customer acquisition and retention. While it references development, delivery, and customer feedback, it does not explicitly or substantially address ALM's full lifecycle stages, governance, tools, or management practices. Application lifecycle concepts such as deployment, maintenance, retirement, risk management, and ALM governance are not discussed. Audience is aligned with practitioners, but intent is product/agile, not lifecycle management. References to 'execution,' 'backlog,' and rapid feedback overlap partially, but overall, thematic and conceptual alignment is weak for the ALM category.",
+    "reasoning_summary": "Content covers product development aspects of Scrum and value delivery but does not match ALM's scope—missing key lifecycle, governance, and management practices. Only a superficial fit for ALM; the topic is fundamentally about agile product development.",
     "level": "Ignored"
   },
   "Value Stream Management": {

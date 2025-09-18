@@ -1329,12 +1329,22 @@
     "level": "Secondary"
   },
   "Kanban": {
+    "resourceId": "UOzrABhafx0",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T00:17:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 18.467,
+    "ai_mentions": 0.9,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.2,
+    "ai_intent": 2.8,
+    "ai_audience": 5.2,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content is centered on Scrum.org’s Product Backlog Management course, emphasizing Scrum, Scrum Master, Product Owner, and team skills for managing the product backlog. Kanban is mentioned only once, briefly, as an alternative approach; there is no substantive discussion of Kanban principles, boards, WIP limits, flow management, metrics, or continuous improvement as defined by the Kanban methodology. No examples, in-depth concepts, or practical applications of Kanban appear; the singular Kanban mention is in a sentence listing process options, not an exploration. The audience (Agile practitioners) slightly overlaps, but the topic, intent, and substance are squarely Scrum-focused with no meaningful Kanban coverage.",
+    "reasoning_summary": "Kanban is mentioned in passing but the content is deeply focused on Scrum product backlog management. There is minimal conceptual or practical alignment with Kanban principles, so confidence in Kanban category fit is very low.",
     "level": "Ignored"
   },
   "Value Delivery": {

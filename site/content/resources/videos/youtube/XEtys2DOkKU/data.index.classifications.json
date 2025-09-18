@@ -216,12 +216,22 @@
     "level": "Ignored"
   },
   "Technical Excellence": {
+    "resourceId": "XEtys2DOkKU",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:08:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses cloud migration and specific tools, lacking a focus on engineering practices or methodologies that enhance agility in software development.",
+    "calculated_at": "2025-09-17T23:12:41",
+    "ai_confidence": 30.62,
+    "ai_mentions": 0.8,
+    "ai_alignment": 3.2,
+    "ai_depth": 2.5,
+    "ai_intent": 3.0,
+    "ai_audience": 6.7,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content focuses on using a Microsoft tool for cloud migration, with some discussion about identifying and rewriting customizations. However, it does not directly address principles or practices associated with technical excellence (e.g., TDD, CI/CD, modular architecture, emergent design), nor does it link migration steps to improving engineering practices or product quality at a systemic level. While the process encourages proactive planning and some aspects of risk reduction, it primarily details tool usage and migration tasks rather than exploring broader or deeper engineering excellence topics.",
+    "reasoning_summary": "The content mainly covers step-by-step migration using a tool, not core principles of technical excellence. It lacks deep discussion of high-level engineering practices, only tangentially touching on some relevant themes.",
     "level": "Ignored"
   },
   "Flow Efficiency": {

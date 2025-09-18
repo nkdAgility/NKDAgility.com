@@ -1357,13 +1357,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "Juonckoiyx0",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T05:39:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 55.43,
+    "ai_mentions": 1.6,
+    "ai_alignment": 5.5,
+    "ai_depth": 5.8,
+    "ai_intent": 5.5,
+    "ai_audience": 7.2,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 55.0,
+    "reasoning": "The content centers on effective stakeholder engagement during Sprint reviews in Scrum teams, emphasizing value, communication, and participation. These are relevant to team-level agility and may support organizational agility in practice, but the discussion remains narrowly focused on Scrum event improvement rather than the broader principles, strategies, or leadership themes that define Business Agility. There is little to no direct mention or exploration of organizational-level agility, adaptability, or cross-team/enterprise transformation, and the primary audience is practitioners within Agile teams. The content is largely relevant and focused as per signal, but depth with respect to Business Agility is limited, as is conceptual alignment. No penalties were applied, as nothing is outdated or undermines the category framing.",
+    "reasoning_summary": "The content fits only partially. It focuses on stakeholder engagement in Scrum Sprint reviews—a relevant team practice, but not a broad or deep discussion of Business Agility principles, strategies, or organizational transformation.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",

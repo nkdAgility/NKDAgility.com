@@ -1371,12 +1371,22 @@
     "level": "Secondary"
   },
   "Kanban": {
+    "resourceId": "8uPjXXt5lo4",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T10:14:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training in Agile and Scrum, with no focus on Kanban principles or practices.",
+    "calculated_at": "2025-09-17T23:13:03",
+    "ai_confidence": 2.188,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 0.4,
+    "ai_audience": 2.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content exclusively discusses agile and Scrum frameworks, with repeated and explicit focus on Scrum practices, training, and global practitioner experiences. Kanban is never mentioned, nor are any key Kanban principles, terminology, or unique concepts (e.g., flow visualization, WIP limits, Kanban boards). No conceptual alignment exists outside generic agile themes. The intended audience overlaps (change agents, trainers, practitioners) and there is mild relevance on universal agile challenges, but the absence of Kanban references, practices, or case studies results in minimal fit.",
+    "reasoning_summary": "Content is focused on Scrum and agile coaching, never referencing Kanban or its practices. Audience and context are broadly agile-related, but there is no substantive Kanban alignment. Fit with the Kanban category is minimal and indirect.",
     "level": "Ignored"
   },
   "Value Delivery": {

@@ -299,12 +299,22 @@
     "level": "Secondary"
   },
   "Azure Repos": {
+    "resourceId": "jBIyK6NW3ZB",
     "category": "Azure Repos",
-    "calculated_at": "2025-02-11T14:34:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum methodologies and the importance of delivery in software development, with no direct reference to Azure Repos or its functionalities.",
+    "calculated_at": "2025-09-17T23:12:37",
+    "ai_confidence": 2.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.7,
+    "ai_intent": 3.2,
+    "ai_audience": 6.0,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content solely discusses the importance of delivery as a measure of progress in Scrum, emphasizing principles like continuous delivery, automation, and feedback cycles. While it generally aligns with DevOps and modern engineering practices, there is no mention of Azure Repos, nor does it discuss any source control features, branching, pull requests, or integration with Azure DevOps. The audience is technical and overlaps with those using Azure Repos, but the topics and depth do not intersect with the specific functionality, features, or best practices uniquely associated with Azure Repos. Signal-to-noise is moderate since all content is on-topic for Scrum/DevOps, but it is off-topic for the Azure Repos category.",
+    "reasoning_summary": "This content is focused on Scrum delivery and DevOps principles but contains no discussion of Azure Repos or related features. It does not fit the Azure Repos category.",
     "level": "Ignored"
   },
   "Transparency": {

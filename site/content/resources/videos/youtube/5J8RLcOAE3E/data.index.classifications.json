@@ -105,13 +105,23 @@
     "level": "Ignored"
   },
   "Test Automation": {
+    "resourceId": "5J8RLcOAE3E",
     "category": "Test Automation",
-    "calculated_at": "2025-02-12T14:58:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a clear focus on test automation principles, frameworks, or tools.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:40",
+    "ai_confidence": 40.95,
+    "ai_mentions": 1.3,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.5,
+    "ai_intent": 5.0,
+    "ai_audience": 6.7,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "Direct mentions of test automation are scarce, with only a brief reference to 'automated checks.' The primary themes relate to continuous delivery, adaptive practices, testing in production, and continuous improvement, not the tools, frameworks, or methods of test automation. There are some secondary alignments (philosophy of automated checks, feedback loops, quality), but these are not the central topic. The content's intent is to challenge best practices in delivery pipelines rather than discuss test automation explicitly. The audience is moderately aligned (practitioners improving delivery). Most discussion is focused, but seldom directly about test automation itself.",
+    "reasoning_summary": "Content explores adaptive delivery, testing in production, and continuous improvement, not test automation tools or frameworks. Only minor references to automated checks; primary focus lies outside core test automation topic. Partial, indirect fit.",
+    "level": "Tertiary"
   },
   "Windows": {
     "category": "Windows",

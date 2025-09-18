@@ -321,13 +321,23 @@
     "level": "Ignored"
   },
   "Customer Retention": {
+    "resourceId": "5H9rOGhTB88",
     "category": "Customer Retention",
-    "calculated_at": "2025-02-12T10:48:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team empowerment and process adaptation within Agile frameworks, without a clear focus on customer retention strategies or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:55",
+    "ai_confidence": 52.37,
+    "ai_mentions": 1.7,
+    "ai_alignment": 6.1,
+    "ai_depth": 6.6,
+    "ai_intent": 7.5,
+    "ai_audience": 7.0,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 52.0,
+    "reasoning": "The content primarily addresses empowering teams for agility, reducing waste, and fostering innovation by tailoring processes, with a focus on delivering value to customers. While there are repeated mentions of maximizing value to customers and minimizing waste—concepts related to retention—the main discussion pivots around internal team effectiveness, process improvement, and organizational agility rather than explicit strategies for maintaining user engagement or minimizing churn. Customer Retention is referenced indirectly through intent to deliver value and user-centric process tailoring, but direct mention of retention techniques, metrics, feedback loop implementation, or retention-focused case studies is largely absent. Audience and tone align with practitioners and leaders interested in agile practices, which partially overlaps with the retention category, but signal is diluted by the greater focus on organizational agility overall.",
+    "reasoning_summary": "Content is about agile empowerment and process tailoring to deliver value, touching on customer-centricity, but retention strategies, metrics, or churn reduction are not explored in depth. Fit is partial and mostly indirect.",
+    "level": "Tertiary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",

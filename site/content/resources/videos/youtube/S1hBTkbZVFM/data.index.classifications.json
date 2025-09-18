@@ -1076,13 +1076,23 @@
     "level": "Secondary"
   },
   "Value Delivery": {
+    "resourceId": "S1hBTkbZVFM",
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:35:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and importance of an agile coach in engaging with teams and leadership, rather than focusing on value delivery principles, methodologies, or customer value maximization.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:55",
+    "ai_confidence": 60.13,
+    "ai_mentions": 2.6,
+    "ai_alignment": 6.4,
+    "ai_depth": 6.9,
+    "ai_intent": 6.1,
+    "ai_audience": 7.2,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 60.0,
+    "reasoning": "The content thoroughly discusses how to select an Agile coach who can build credibility with teams and leadership. It touches on transformation, continuous improvement, and the dual focus on leadership and teams. However, it does not directly discuss value delivery strategies, frameworks like CI/CD, value stream mapping, or specific methods for assessing/measuring value delivered to the customer. Instead, the focus is on interpersonal, technical, and organizational aspects that are indirectly supportive of value delivery, rather than its direct principles or practices. Alignment and depth are moderate since the context is Agile transformation and coaching, which support value delivery but are not explicitly about it. Mentions of 'value' are indirect and thematic.",
+    "reasoning_summary": "The content aligns moderately with 'Value Delivery' by emphasizing transformation and coaching for business agility, but lacks direct focus on value delivery concepts, practices, or measurement as defined in the category.",
+    "level": "Tertiary"
   },
   "Definition of Done": {
     "resourceId": "S1hBTkbZVFM",

@@ -246,13 +246,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "KzNbrrBCmdE",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:07:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses flexibility and inflexibility in project management without a clear focus on the application lifecycle stages or ALM practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:42",
+    "ai_confidence": 45.496,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.4,
+    "ai_intent": 4.0,
+    "ai_audience": 5.0,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content focuses on balancing flexibility and structure in agile teams, with some discussion of data integrity and iterative practices. However, it does not directly address core ALM themes, such as lifecycle management, governance, or ALM-specific tools and processes. Direct mention of ALM is missing, and while concepts like team adaptation and project adjustment relate tangentially to lifecycle ideas, the exploration remains within the agile project management realm. The audience appears to be practitioners interested in agile best practices, but the content lacks explicit ties to ALM methodology or tools, and fails to deeply cover any full application lifecycle stages.",
+    "reasoning_summary": "Content is primarily about agile team management and flexibility, not full application lifecycle management. Only partial conceptual overlap with ALM, no direct references, and lacks depth on lifecycle-specific topics.",
+    "level": "Tertiary"
   },
   "Lean": {
     "category": "Lean",

@@ -210,12 +210,22 @@
     "level": "Primary"
   },
   "Platform Engineering": {
+    "resourceId": "21k6OgxeKjo",
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T14:21:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses project management mindsets and Agile practices, with no clear focus on platform engineering or internal developer platforms.",
+    "calculated_at": "2025-09-17T23:12:48",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.9,
+    "ai_depth": 1.2,
+    "ai_intent": 1.4,
+    "ai_audience": 2.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses exclusively on Agile team dynamics, particularly the pitfalls of project management mindsets in Product Owners. There are no mentions of platform engineering, Internal Developer Platforms (IDPs), internal tooling, or related concepts. The main themes—team empowerment, value delivery, and collaboration—do not overlap with platform engineering's principles of designing/deploying platforms to support developer workflows or productivity. None of the key topics of platform engineering are addressed, nor is the intended audience (platform engineers, DevOps practitioners) directly targeted.",
+    "reasoning_summary": "Content addresses Agile team anti-patterns, not platform engineering. Lacks relevant topics, intent, or audience alignment; no mention of IDPs or internal platforms. Content does not fit the Platform Engineering category.",
     "level": "Ignored"
   },
   "Agile Product Management": {

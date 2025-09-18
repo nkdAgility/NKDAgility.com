@@ -1466,12 +1466,22 @@
     "level": "Ignored"
   },
   "Organisational Psychology": {
+    "resourceId": "BAwBXYtKj7o",
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-12T09:14:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses automated testing and software engineering practices, with no focus on psychological principles or theories related to organisational behaviour.",
+    "calculated_at": "2025-09-17T23:12:29",
+    "ai_confidence": 10.85,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 0.9,
+    "ai_audience": 2.5,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses entirely on technical debt, software engineering practices, and delivery metrics. There is no direct mention or substantive discussion of psychological principles, motivation, leadership, team dynamics, or any other core topic of Organisational Psychology. The audience is technical (engineers, product managers, software teams), and neither the intent nor the substance aligns with exploring psychological aspects of organisational performance. There is a minuscule possible tangential connection in terms of team decisions and outcomes, but it is not developed or related to psychological frameworks. Therefore, confidence in this fitting Organisational Psychology is extremely low.",
+    "reasoning_summary": "Content is technical, centered on managing technical debt in software engineering; it makes no mention of psychological theories, motivation, or organisational behaviour. Fit with Organisational Psychology is extremely minimal and only very distantly tangential.",
     "level": "Ignored"
   },
   "Platform Engineering": {

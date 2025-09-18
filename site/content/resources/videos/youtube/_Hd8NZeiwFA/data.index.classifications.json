@@ -303,12 +303,22 @@
     "level": "Tertiary"
   },
   "Release Management": {
+    "resourceId": "_Hd8NZeiwFA",
     "category": "Release Management",
-    "calculated_at": "2025-02-25T12:13:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-17T23:12:40",
+    "ai_confidence": 9.57,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 2.6,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses exclusively on the qualifications and misconceptions related to the Scrum Master role, particularly refuting the existence of a 'junior' Scrum Master. There is no discussion of software release planning, versioning, deployment, or any aspect directly or indirectly linked to Release Management. While the audience (Agile/Scrum practitioners) has some overlap with those interested in release management, the content's intent, depth, and conceptual alignment are unambiguously outside the category definition. Therefore, all dimensions, except for a minimal audience alignment and signal, receive very low scores.",
+    "reasoning_summary": "This content does not fit Release Management. Its sole focus is on Scrum Master experience and role clarity; it makes no reference to release planning or software delivery topics.",
     "level": "Ignored"
   },
   "Large Scale Agility": {

@@ -32,6 +32,7 @@ tags:
   - GitHub
   - Team Performance
   - Frequent Releases
+  - Continuous Delivery
   - Value Delivery
   - Technical Mastery
   - Product Delivery

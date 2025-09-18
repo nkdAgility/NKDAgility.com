@@ -92,12 +92,22 @@
     "level": "Ignored"
   },
   "Test Automation": {
+    "resourceId": "h3J11t10A0g",
     "category": "Test Automation",
-    "calculated_at": "2025-02-12T16:38:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges in software project management, unpredictability, and the importance of technical leadership, without a clear focus on test automation principles or practices.",
+    "calculated_at": "2025-09-17T23:12:33",
+    "ai_confidence": 32.15,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.8,
+    "ai_depth": 2.5,
+    "ai_intent": 2.4,
+    "ai_audience": 6.1,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "Direct mention of 'continuous testing' exists, but there are no explicit or substantive discussions about test automation principles, tools, or frameworks. The main focus is Agile, technical leadership, and general quality, not automated testing. The audience and some terminology do overlap (practitioners in Agile/engineering), and 'continuous testing' as a principle is relevant, but the content does not explore its automation-specific aspects, nor does it discuss CI/CD pipelines, test types, or tools. Signal-to-noise is relatively strong for Agile topics, but very limited for test automation alignment.",
+    "reasoning_summary": "Content briefly mentions 'continuous testing' but doesn't discuss test automation concepts, tools, or depth. Focus is on Agile and engineering excellence, so fit to 'Test Automation' is weak and mostly tangential.",
     "level": "Ignored"
   },
   "Windows": {

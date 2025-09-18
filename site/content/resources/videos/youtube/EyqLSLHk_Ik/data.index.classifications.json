@@ -497,12 +497,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "EyqLSLHk_Ik",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-12T23:32:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses product development, team dynamics, and decision-making processes without specific reference to Azure Pipelines or CI/CD practices.",
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 5.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.8,
+    "ai_audience": 1.0,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on broad aspects of team empowerment, motivation, collaboration, and leadership in product development. There is a general mention of 'DevOps' and 'Continuous Delivery', which are loosely related to CI/CD and tooling topics. However, Azure Pipelines is not mentioned directly or indirectly, nor are any pipeline-specific practices, configuration, or management discussed. The conceptual fit is minimal—CI/CD is only referenced as an abstract practice, not as a specific Azure service or tooling. The intended audience—technical practitioners and leaders—does overlap with Azure Pipelines users, but the signal-to-noise ratio for Azure Pipelines itself is extremely low. No penalties are applied for outdatedness or negative framing; the alignment is simply lacking.",
+    "reasoning_summary": "The content does not directly or substantially relate to Azure Pipelines. It centers on team empowerment and leadership, only briefly mentioning DevOps and continuous delivery in generic terms. Fit is minimal and coincidental.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {

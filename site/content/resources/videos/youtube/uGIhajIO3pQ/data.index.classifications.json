@@ -1257,13 +1257,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "uGIhajIO3pQ",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T00:25:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an upcoming Agile event and personal experiences, with no clear focus on business agility principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:46",
+    "ai_confidence": 64.25,
+    "ai_mentions": 2.9,
+    "ai_alignment": 6.4,
+    "ai_depth": 5.8,
+    "ai_intent": 6.5,
+    "ai_audience": 7.1,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 64.0,
+    "reasoning": "The content discusses an Agile event in Scotland, emphasizing community, learning, innovation, and Agile's role in tech. While there are references to fostering a learning culture and Agile's evolving impact, explicit discussion of business agility principles, organizational strategies, or leadership roles is limited. The fit is partial: there's strong relevance for practitioners interested in Agile, but little in-depth discussion on broader business agility beyond general statements about community and innovation. No penalties were applied as the content is current and the tone is positive.",
+    "reasoning_summary": "Partially fits 'Business Agility'—focuses on Agile's community impact, innovation, and learning, but lacks deep exploration of organizational business agility. Suitable for practitioners, but only touches on the category core themes.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",

@@ -1440,13 +1440,23 @@
     "reasoning_summary": "This content clearly belongs in the Metrics and Learning category, as it explores how flow metrics are used within Scrum to boost value delivery and team effectiveness. By focusing on evidence-based decisions and ongoing improvement, it aligns well with the category’s themes. While more real-world examples could enhance it, the discussion’s emphasis on applying metrics in Agile practices makes the classification appropriate."
   },
   "Application Lifecycle Management": {
+    "resourceId": "NeGch-lQkPA",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T04:14:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:49",
+    "ai_confidence": 46.71,
+    "ai_mentions": 1.1,
+    "ai_alignment": 5.0,
+    "ai_depth": 4.7,
+    "ai_intent": 4.9,
+    "ai_audience": 7.2,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "The content focuses on integrating Kanban metrics into Scrum for improved value delivery and continuous improvement. While it thoroughly discusses measurement and optimization at the team/process level, it does not directly address the full scope of Application Lifecycle Management (ALM), such as governance, compliance, full-lifecycle stages, or application retirement. The main audience are agile practitioners, not ALM strategists. Mentions of ALM are absent, and while there's conceptual overlap with process optimization and flow, the discussion is primarily about enhancing team performance within agile methodologies, not managing applications across their entire lifecycle.",
+    "reasoning_summary": "Content addresses optimizing Scrum via Kanban metrics, not application lifecycle management. It has some overlap with process improvement but stops short of discussing ALM's full scope (governance, lifecycle stages, retirement). Only a partial fit.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

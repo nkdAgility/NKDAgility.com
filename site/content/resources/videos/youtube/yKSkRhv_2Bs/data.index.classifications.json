@@ -252,13 +252,23 @@
     "level": "Ignored"
   },
   "Technical Mastery": {
+    "resourceId": "yKSkRhv_2Bs",
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T20:47:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:13:01",
+    "ai_confidence": 53.34,
+    "ai_mentions": 2.0,
+    "ai_alignment": 5.6,
+    "ai_depth": 5.7,
+    "ai_intent": 6.6,
+    "ai_audience": 8.5,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 53.0,
+    "reasoning": "The content explicitly focuses on the value of the APS (Agile Professional Scrum) course, emphasizing the importance of learning, aligning, and refreshing Scrum practices. While it uses language like 'Scrum mastery' and 'proficiency,' it does not directly discuss software craftsmanship, engineering practices, or technical concepts like code quality, architecture, refactoring, or DevOps integration. The depth centers on team adoption and process understanding rather than engineering excellence. The intended audience is Scrum practitioners and team members, which partially aligns with Technical Mastery, but the technical aspects are not explored in significant detail, and no explicit best practices or technical methodologies are addressed.",
+    "reasoning_summary": "Content centers on fostering Scrum understanding and team alignment but lacks deep coverage of software craftsmanship or engineering excellence, offering only indirect alignment with Technical Mastery. Fit is partial and mostly process-focused.",
+    "level": "Tertiary"
   },
   "Sprint Review": {
     "resourceId": "yKSkRhv_2Bs",

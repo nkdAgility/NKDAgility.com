@@ -1454,12 +1454,22 @@
     "level": "Ignored"
   },
   "Deployment Frequency": {
+    "resourceId": "WAc9JUyPY5M",
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum and its implementation rather than discussing deployment frequency or related optimization practices.",
+    "calculated_at": "2025-09-17T23:13:03",
+    "ai_confidence": 26.95,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.3,
+    "ai_intent": 2.0,
+    "ai_audience": 5.9,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses primarily on Professional Scrum, team performance, and general Agile concepts. While it touches on continuous improvement, team impediments, and improving time to market, it does not directly discuss deployment frequency, continuous delivery, or CI/CD. There are no explicit mentions or substantial exploration of optimizing software deployment intervals or related metrics. The material is more relevant for those interested in Scrum implementation and team agility than in deployment frequency optimization, though the audience is broadly aligned (Agile practitioners).",
+    "reasoning_summary": "Content centers on scrum application and agile coaching. While relevance to delivery and improvement is present, explicit or in-depth coverage of deployment frequency is absent. Only tangentially aligned, with low confidence in categorical fit.",
     "level": "Ignored"
   },
   "Evidence Based Management": {

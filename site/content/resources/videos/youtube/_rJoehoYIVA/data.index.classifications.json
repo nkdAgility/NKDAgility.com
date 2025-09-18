@@ -1305,12 +1305,22 @@
     "level": "Tertiary"
   },
   "Kanban": {
+    "resourceId": "_rJoehoYIVA",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T12:50:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no focus on Kanban principles or practices.",
+    "calculated_at": "2025-09-17T23:12:55",
+    "ai_confidence": 2.623,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.7,
+    "ai_audience": 5.1,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is focused entirely on Azure DevOps migration, including planning, testing, and best practices for transitions between different development environments (e.g., TFS, Git, GitHub). Kanban is not mentioned or implied, nor are its practices (visualisation, WIP limits, flow management, or metrics) discussed. The intent, depth, and conceptual alignment do not relate to Kanban methodology. The only minimal overlap is that DevOps teams might use Kanban elsewhere, but this is not addressed in the content. The audience (IT, DevOps practitioners) marginally overlaps with those interested in Kanban but not in a Kanban context.",
+    "reasoning_summary": "This content is about Azure DevOps migration with no explicit or implicit relation to Kanban practices, principles, or methodology. It does not fit the Kanban category definition in topic, intent, or main themes. Fit is absent.",
     "level": "Ignored"
   },
   "Value Delivery": {

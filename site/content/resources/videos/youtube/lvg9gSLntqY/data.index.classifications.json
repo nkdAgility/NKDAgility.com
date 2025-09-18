@@ -495,12 +495,22 @@
     "level": "Ignored"
   },
   "Estimation": {
+    "resourceId": "lvg9gSLntqY",
     "category": "Estimation",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the shortcomings of traditional project management in complex environments without addressing estimation practices or techniques relevant to Agile and Scrum.",
+    "calculated_at": "2025-09-17T23:12:54",
+    "ai_confidence": 16.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.8,
+    "ai_intent": 2.2,
+    "ai_audience": 6.9,
+    "ai_signal": 3.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content discusses project management in complex environments and suggests Agile as an adaptive approach. However, it contains no direct or explicit references to estimation, forecasting, empirical data, or any of the key estimation techniques or topics listed in the classification. There is a vague reference to 'variance between expected and actual outcome,' but this is presented in a generic way related to predictability, not collaborative or empirical estimation practices in Agile. The main focus is comparing traditional project management to Agile in terms of handling complexity, not on the mechanics or importance of estimation itself. Thus, the alignment and depth are very low, with minimal signal related to the category.",
+    "reasoning_summary": "The content does not discuss estimation in Agile or Scrum. Its focus is on the shortcomings of traditional project management in complex environments, not on estimation practices, purposes, or techniques.",
     "level": "Ignored"
   },
   "Backlog Refinement": {

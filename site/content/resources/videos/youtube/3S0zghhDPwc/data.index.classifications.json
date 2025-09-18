@@ -1365,13 +1365,23 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "3S0zghhDPwc",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T11:23:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of diligence within Agile philosophy rather than specific engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:59",
+    "ai_confidence": 66.54,
+    "ai_mentions": 3.9,
+    "ai_alignment": 7.5,
+    "ai_depth": 6.6,
+    "ai_intent": 7.8,
+    "ai_audience": 8.0,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 67.0,
+    "reasoning": "The content discusses diligence in Agile teams as the commitment to quality, focusing on adherence to standards like the Definition of Done and maintaining quality over speed. It aligns with Technical Excellence in spirit, as diligence supports high-quality delivery, accountability, and improvement. However, there's minor direct reference to engineering practices such as TDD, CI/CD, or modular architecture. The discussion is thorough regarding the importance of diligence, but it rarely connects specifically to the technical practices and principles at the heart of the category. Instead, it emphasizes process rigor, grit, and team accountability, which are enablers of Technical Excellence but not the practices themselves. Audience fit is strong, targeting Agile teams and practitioners. Signal-to-noise is good; examples and lessons reinforce the core message.",
+    "reasoning_summary": "Content is conceptually aligned with Technical Excellence by championing diligence and quality in delivery. However, it lacks explicit discussion of specific technical practices. Fit is indirect/partial, with strong emphasis on process and mindset over engineering methods.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

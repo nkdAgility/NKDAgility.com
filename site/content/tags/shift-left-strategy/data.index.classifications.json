@@ -190,16 +190,23 @@
     "level": "Secondary"
   },
   "Model": {
+    "resourceId": "Shift Left Strategy",
     "category": "Model",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 10,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the Shift-Left Strategy, which is a practice that aligns with Agile and DevOps principles by integrating testing and security early in the development process. However, it does not explicitly mention any conceptual models or frameworks that would fit the 'Model' category. The discussion is primarily focused on the strategy itself rather than a broader conceptual representation or framework, leading to a lower confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 41.75,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.4,
+    "ai_depth": 3.6,
+    "ai_intent": 4.7,
+    "ai_audience": 6.2,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the Shift-Left Strategy as an approach, but does not frame it as a conceptual model, nor does it deeply analyze or compare models as described in the definition. It references principles relevant to DevOps and Agile, with language targeting practitioners. There is some alignment with the category, as the strategy serves as a guiding framework conceptually, but the discussion focuses on practical benefits and implementation tips, not on models' mechanics, comparisons, or theoretical exploration. There are no explicit or repeated references to the word 'model.' The content is relevant to transformation-minded technical audiences, but is oriented around advocacy and general benefit rather than critical exploration of models.",
+    "reasoning_summary": "The content outlines an important DevOps strategy but does not analyze or discuss it as a conceptual model. Its fit with the 'Model' category is partial and pragmatic, not theoretical or model-centric.",
+    "level": "Tertiary"
   },
   "Principle": {
     "resourceId": "Shift Left Strategy",

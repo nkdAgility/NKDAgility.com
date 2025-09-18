@@ -287,12 +287,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "mqgffRQi6bY",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T17:18:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-17T23:12:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.2,
+    "ai_audience": 0.2,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content exclusively critiques the use of Lego in Scrum training, focusing on complexity in software development education contexts. There is no mention of Azure Pipelines, CI/CD, deployment automation, or related Azure DevOps practices. No language, themes, audience targeting, or intent align with the Azure Pipelines category definition. All six scoring dimensions are therefore at or near the minimum, as the content is entirely unrelated.",
+    "reasoning_summary": "Content discusses Scrum training metaphors, not Azure Pipelines. No direct or indirect connection to CI/CD, Azure DevOps, or pipeline practices. Does not fit under the Azure Pipelines category in any way.",
     "level": "Ignored"
   },
   "Team Performance": {

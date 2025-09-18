@@ -125,12 +125,22 @@
     "level": "Secondary"
   },
   "Product Validation": {
+    "resourceId": "-pW6YDYEO20",
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T10:21:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not related to product validation methodologies or practices.",
+    "calculated_at": "2025-09-17T23:12:45",
+    "ai_confidence": 10.67,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 3.5,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content discusses the traits of unskilled versus effective Scrum Masters, focusing on leadership style and facilitation instead of user testing, market fit, or other product validation activities. There are no explicit or implicit references to methodologies, practices, or user engagement related to validating product ideas. The connection to Product Validation is negligible—leadership discussion is tangential at best, and there is no mention of validation with real users or iteratively testing product concepts.",
+    "reasoning_summary": "Content is about Scrum Master behavior and leadership, not product validation. There are no themes of user testing, feedback, or validating product ideas, so the fit with the Product Validation category is extremely minimal.",
     "level": "Ignored"
   },
   "Accountability": {

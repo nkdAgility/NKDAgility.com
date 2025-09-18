@@ -1350,12 +1350,22 @@
     "level": "Tertiary"
   },
   "Kanban": {
+    "resourceId": "eyXbQF80i4R",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T21:10:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-17T23:12:45",
+    "ai_confidence": 3.19,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.3,
+    "ai_audience": 0.7,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content explicitly discusses Scrum teams and the role of the Scrum Master in self-organization, which are not part of Kanban's methodological focus. No Kanban principles, terminology, or practices are directly referenced or implied. Audience may have general overlap, but intent, alignment, and depth are not in scope. No penalties since the content does not undermine Kanban, it's simply unrelated.",
+    "reasoning_summary": "Content only covers Scrum self-organization with no mention or alignment to Kanban methods, terminology, or themes. Intent and depth are unrelated to Kanban; fit is extremely limited.",
     "level": "Ignored"
   },
   "Value Delivery": {

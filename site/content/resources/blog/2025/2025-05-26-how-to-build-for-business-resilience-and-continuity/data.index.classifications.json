@@ -1103,17 +1103,23 @@
     "level": "Ignored"
   },
   "Frequent Releases": {
+    "resourceId": "VThLnxVapgJ",
     "category": "Frequent Releases",
-    "calculated_at": "2025-04-29T14:18:51",
-    "ai_confidence": 75.0,
-    "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 35,
-    "non_ai_confidence": 0,
-    "final_score": 75.0,
-    "reasoning": "The content discusses the importance of treating deployments as routine and implementing Continuous Delivery (CD), which aligns well with the principles of Frequent Releases. It mentions strategies for automating the release process and highlights the need for frequent and predictable deployments. However, while it touches on these topics, the primary focus is on business resilience and system design rather than a dedicated exploration of frequent releases. Therefore, while there is significant relevant content, it is not the main focus, leading to a moderately high confidence score.",
-    "level": "Secondary",
-    "reasoning_summary": "This content is relevant to the Frequent Releases category because it covers the value of routine deployments and Continuous Delivery, both of which support frequent, predictable releases. However, its main emphasis is on business resilience and system design, not frequent releases specifically. So, while it’s a good fit, it’s not a perfect match for the category."
+    "calculated_at": "2025-09-17T23:12:42",
+    "ai_confidence": 76.82,
+    "ai_mentions": 5.2,
+    "ai_alignment": 8.6,
+    "ai_depth": 7.7,
+    "ai_intent": 7.3,
+    "ai_audience": 7.8,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 77.0,
+    "reasoning": "The content directly references principles relevant to frequent releases, such as Continuous Delivery, treating deployments as routine, rollout automation, feature toggles, and deployment frequency as a core metric. The central focus is business resilience, with frequent releases discussed as part of resilience practice, not as the main topic. The depth of discussion around frequent releases is moderate (they are supporting pillars but not the exclusive focus). The intended audience includes DevOps and technical leads, aligning with the category. No outdated or negative signals detected. Confidence is high, but not maximal, as frequent releases are embedded within broader resilience rather than the dominant subject.",
+    "reasoning_summary": "Content addresses frequent releases as a vital part of business resilience, covering CD, deployment frequency, and related metrics, but resilience—not frequent releases themselves—is the main topic. Fit is strong but partial, as the focus is broader.",
+    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",

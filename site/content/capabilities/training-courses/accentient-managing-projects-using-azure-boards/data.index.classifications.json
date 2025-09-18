@@ -1160,12 +1160,22 @@
     "level": "Secondary"
   },
   "Decision Theory": {
+    "resourceId": "81zAbGYQP0o",
     "category": "Decision Theory",
-    "calculated_at": "2025-02-18T07:21:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on managing projects and using Azure Boards, with no clear discussion of decision-making processes in uncertain environments.",
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 7.83,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 1.2,
+    "ai_audience": 2.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses exclusively on teaching the practical use of Azure Boards for agile project management, with topics such as backlog refinement, sprint planning, and collaboration. It does not reference Decision Theory directly or indirectly; there are no mentions of heuristics, probability, decision frameworks, behavioural economics, cognitive psychology, or strategies for improving decision quality under uncertainty. The material centers on tool usage, team process, and Agile practices. While the audience partially overlaps (e.g., Agile/Scrum practitioners), the course lacks explicit or implicit treatment of decision-making concepts related to Decision Theory.",
+    "reasoning_summary": "Content is tool- and process-centric, detailing Azure Boards features for Agile teams. It does not touch on Decision Theory concepts, frameworks, or processes. Alignment and intent do not fit the category beyond minimal audience overlap.",
     "level": "Ignored"
   },
   "Entrepreneurship": {

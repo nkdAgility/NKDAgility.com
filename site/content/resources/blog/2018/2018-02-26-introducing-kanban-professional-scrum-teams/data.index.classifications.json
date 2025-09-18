@@ -327,12 +327,22 @@
     "reasoning_summary": "This content relates to value delivery by highlighting how Kanban practices can enhance workflow within Scrum, ultimately benefiting customers. However, its main focus is on promoting a new training course rather than providing an in-depth analysis of value delivery methods, making the connection relevant but not central."
   },
   "Azure DevOps": {
+    "resourceId": "CucU7DN-fJ7",
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T18:38:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Kanban methodologies without any mention of Azure DevOps.",
+    "calculated_at": "2025-09-17T23:12:50",
+    "ai_confidence": 1.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.4,
+    "ai_audience": 0.6,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content is entirely focused on integrating Kanban practices into Scrum, specifically within the context of Scrum.org's PSK course and guide. There are no explicit or implicit mentions of Azure DevOps, its tools, features, or its application for CI/CD or Agile management. The audience, intent, and discussed practices are only relevant to Scrum and Kanban practitioners—not Azure DevOps users. Thus, there is no substantive fit to the Azure DevOps category.",
+    "reasoning_summary": "This content does not fit the Azure DevOps category. It lacks any mention or discussion of Azure DevOps and focuses entirely on Scrum and Kanban integration, making the match minimal to non-existent.",
     "level": "Ignored"
   },
   "Personal": {

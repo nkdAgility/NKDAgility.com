@@ -1339,12 +1339,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "3CgKmunwiSQ",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T11:35:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses management practices and the differences between traditional and evidence-based management, without a clear focus on engineering practices or methodologies that enhance software development and delivery processes.",
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 19.22,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 2.4,
+    "ai_audience": 5.6,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on distinguishing traditional and evidence-based management, centering on decision-making, metrics, and data-driven approaches. While it references Agile concepts like story points and continuous improvement, it does not connect these to core principles of technical excellence—such as engineering practices, code quality, or architectural strategies. There's no discussion of TDD, CI/CD, modular design, or emergent architecture. The audience overlaps slightly (technical leaders or managers), and a portion of the content touches on metrics misuse in Agile, but the main thrust is management practice reform, not engineering excellence. Any alignment to technical excellence is thus indirect and minimal.",
+    "reasoning_summary": "Content centers on management and evidence-based decision making, with only peripheral references to Agile metrics; it lacks substantive discussion of technical excellence topics, making the fit weak and mostly tangential.",
     "level": "Ignored"
   },
   "Organisational Agility": {

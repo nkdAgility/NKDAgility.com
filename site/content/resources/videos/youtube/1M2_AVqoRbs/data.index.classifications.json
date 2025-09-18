@@ -1377,13 +1377,23 @@
     "level": "Secondary"
   },
   "Flow Efficiency": {
+    "resourceId": "1M2_AVqoRbs",
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-13T19:49:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and its impact on value delivery, without a clear focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:42",
+    "ai_confidence": 56.15,
+    "ai_mentions": 1.4,
+    "ai_alignment": 7.3,
+    "ai_depth": 6.2,
+    "ai_intent": 6.4,
+    "ai_audience": 7.0,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 56.0,
+    "reasoning": "The content is centered on technical debt and its impact on agility, innovation, and value delivery. It mentions slower delivery and team struggles due to technical debt, with strategies for improvement, aligning partially with bottleneck reduction and throughput. However, it never mentions flow efficiency directly and only implicitly touches on related themes such as delivery speed and workflow improvement. It lacks in-depth discussion of flow metrics (cycle time, WIP, Kanban) and avoids specific Lean/Agile flow tools, so alignment and depth are moderate. The intended audience matches practitioners interested in Agile delivery, but the overall focus is broader than 'flow efficiency' alone.",
+    "reasoning_summary": "Content overlaps with Flow Efficiency by linking technical debt to delivery pace and workflow pain points, but flow optimization isn’t the explicit or primary subject. Fit is partial and mostly implicit, lacking direct flow-centric frameworks or terminology.",
+    "level": "Tertiary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",

@@ -656,12 +656,22 @@
     "level": "Ignored"
   },
   "Technical Excellence": {
+    "resourceId": "1TaIjFL-0o8",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T10:21:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and event dynamics rather than engineering practices or technical excellence.",
+    "calculated_at": "2025-09-17T23:12:45",
+    "ai_confidence": 22.63,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.1,
+    "ai_intent": 2.5,
+    "ai_audience": 7.2,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "Technical Excellence is not directly discussed. The content focuses on the expanded responsibilities and mindset of Scrum Masters, with a strong emphasis on coaching, facilitation, questioning legacy processes, and organisational change. There are no explicit references to engineering practices (e.g., TDD, CI/CD, modular architecture, emergent design), nor is there deep exploration of technical quality in software delivery. Although the audience (Scrum and Agile professionals) loosely overlaps with those interested in technical excellence, the material is managerial and facilitative—aligned with people and process rather than the practices and principles listed in the Technical Excellence category. A low confidence score is warranted due to minimal conceptual overlap and lack of relevant technical content.",
+    "reasoning_summary": "The content mainly addresses Scrum Master roles, leadership, and organisational change, not engineering practices or software quality. It only tangentially relates to Technical Excellence; thus, fit is weak and mostly incidental.",
     "level": "Ignored"
   },
   "Organisational Change": {

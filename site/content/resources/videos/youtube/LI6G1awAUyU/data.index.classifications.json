@@ -129,13 +129,23 @@
     "level": "Secondary"
   },
   "Product Validation": {
+    "resourceId": "LI6G1awAUyU",
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges in DevOps consulting, Agile coaching, and Scrum training rather than methodologies or practices related to product validation.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 54.06,
+    "ai_mentions": 2.2,
+    "ai_alignment": 7.9,
+    "ai_depth": 7.6,
+    "ai_intent": 5.7,
+    "ai_audience": 8.1,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content focuses mainly on overcoming DevOps challenges for rapid delivery, with significant emphasis on improving feedback loops and accelerating validation periods. These aspects align conceptually with Product Validation, especially references to real user feedback and validating work. However, there is little direct mention of 'product validation,' and the discussion is more about process efficiency and compliance than explicit product testing or market fit strategies. The audience (practitioners, consultants) fits the Product Validation space. The primary intent is process improvement rather than deep exploration of validation methodologies, limiting the fit. Many concepts overlap, but main themes are DevOps and delivery, with validation as a benefiting outcome rather than the core topic.",
+    "reasoning_summary": "Content relates to Product Validation via feedback loops and validation speed but emphasizes DevOps delivery and process change more than direct product testing or user validation methodologies. Fit is partially aligned but not the core topic.",
+    "level": "Tertiary"
   },
   "Accountability": {
     "resourceId": "LI6G1awAUyU",

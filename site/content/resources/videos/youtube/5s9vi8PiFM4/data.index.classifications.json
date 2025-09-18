@@ -284,12 +284,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "5s9vi8PiFM4",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T19:52:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Lean methodologies, which are not directly related to Azure Pipelines.",
+    "calculated_at": "2025-09-17T23:12:50",
+    "ai_confidence": 1.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.1,
+    "ai_intent": 0.2,
+    "ai_audience": 1.0,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "There are no mentions of Azure Pipelines, CI/CD, or any build/deployment automation topics. The content is purely about lean principles and Scrum. No technical or tooling discussion relevant to Azure Pipelines appears—even tangentially. Scores reflect a near-total lack of direct or thematic relevance.",
+    "reasoning_summary": "This content does not fit the Azure Pipelines category—it discusses Scrum and Lean with no mention of automation, pipelines, or Azure tooling. There is no overlap with Azure Pipelines topics.",
     "level": "Ignored"
   },
   "Team Performance": {

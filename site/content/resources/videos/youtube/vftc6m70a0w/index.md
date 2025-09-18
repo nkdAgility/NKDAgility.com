@@ -5,7 +5,7 @@ description: Explores the importance of patience in agile adoption, highlighting
 tldr: Rushing into agile practices without fully understanding their impact can lead to shallow adoption and missed opportunities. True transformation requires involving your team in decision-making, aligning organisational and individual goals, and using inclusive tools to support cultural change. Take a deliberate, thoughtful approach to implementing agile and seek expert guidance if needed to ensure lasting results.
 date: 2023-12-04T08:39:06Z
 lastmod: 2023-12-04T08:39:06Z
-weight: 800
+weight: 680
 sitemap:
   filename: sitemap.xml
   priority: 0.1

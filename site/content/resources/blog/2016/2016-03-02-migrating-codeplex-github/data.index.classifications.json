@@ -221,12 +221,22 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "kgtNo8tGkjS",
     "category": "Business Agility",
-    "calculated_at": "2025-02-14T21:05:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on business agility principles or practices.",
+    "calculated_at": "2025-09-17T23:13:00",
+    "ai_confidence": 8.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 2.2,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is a technical step-by-step guide for migrating code repositories from Codeplex to Github, focusing on tooling and procedures. It does not discuss business agility concepts, principles, leadership, organisational culture, or adaptation to change. Alignment with 'Business Agility' is minimal and only tangential, as repository migration could potentially support agility at a technical level, but the content makes no such connections, and the audience is developers, not business or strategic leaders.",
+    "reasoning_summary": "This is a technical migration tutorial with no substantive discussion of business agility principles, strategies, or outcomes. Its fit with the category is negligible and entirely incidental.",
     "level": "Ignored"
   },
   "Metrics and Learning": {

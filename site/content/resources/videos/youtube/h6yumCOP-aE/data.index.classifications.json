@@ -1386,12 +1386,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "h6yumCOP-aE",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T06:50:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team dynamics and the importance of working agreements rather than specific engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-17T23:12:43",
+    "ai_confidence": 39.82,
+    "ai_mentions": 1.6,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.2,
+    "ai_intent": 4.8,
+    "ai_audience": 8.6,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 40.0,
+    "reasoning": "The content focuses on working agreements in Kanban as a tool for team alignment, efficiency, and reducing conflict. However, it does not directly discuss engineering practices or principles core to technical excellence (e.g., TDD, CI/CD, architectural quality). There is a tangential link to maintainability via process clarity, but technical excellence themes are largely absent. The audience is similar (teams, practitioners), but the main ideas center on team agreements and workflow clarity, not high-level engineering standards or improvement. Signal is somewhat moderate due to relevant but non-core alignment.",
+    "reasoning_summary": "The content addresses team alignment and working agreements, not technical excellence. It lacks substantive discussion of engineering practices, making it only loosely connected to the category’s definition.",
     "level": "Ignored"
   },
   "Organisational Agility": {

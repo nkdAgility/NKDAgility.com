@@ -52,6 +52,8 @@ Watermarks:
 A Social Discipline for Shared Focus, Measurable Contribution, and Strategic Learning
 **June 2025 Edition**
 
+© 2025 NKD Agility. This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt this material for any purpose, even commercially, provided that attribution is given and adaptations are shared under the same license.
+
 ## Purpose of the OKR Guide
 
 **The purpose of this guide is to enable organisations to use OKRs as a discipline for managing by contribution.** It offers a practical, outcome-oriented approach to focusing effort, aligning intent, and learning from results. This guide supports teams and leaders in shaping shared direction, measuring progress meaningfully, and using OKRs not as a formality, but as a living system for navigating complexity and improving performance.

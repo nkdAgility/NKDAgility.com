@@ -1470,13 +1470,23 @@
     "level": "Ignored"
   },
   "Organisational Psychology": {
+    "resourceId": "2ASLFX2i9_g",
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-12T11:51:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile practices and methodologies, specifically focusing on backlog management and team dynamics in a technical context, rather than psychological principles or theories related to organisational behaviour.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:54",
+    "ai_confidence": 49.955,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.5,
+    "ai_intent": 5.2,
+    "ai_audience": 7.3,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 50.0,
+    "reasoning": "The content centers on Agile backlog and product management, focusing on concepts such as prioritisation, team morale, and motivation, which have partial alignment to organisational psychology. However, it lacks direct discussion of psychological theories, group dynamics, or leadership styles, and does not engage deeply with psychological principles or models. The primary intent is practical Agile practice improvement, not organisational psychology. The audience (Agile practitioners/team leads) overlaps somewhat, but the focus remains on process, not psychology. Some brief mentions touch on morale and motivation, but overall, the match is partial, with more alignment to practices and workflow than core psychological factors. No penalties were needed as the content tone and recency are appropriate.",
+    "reasoning_summary": "The content touches on motivation and morale but mainly focuses on Agile backlog and product management practices, not psychological theory or in-depth organisational behaviour. Partial fit; psychological alignment is incidental, not central.",
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",

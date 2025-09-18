@@ -85,13 +85,23 @@
     "level": "Tertiary"
   },
   "Organisational Physics": {
+    "resourceId": "rEqytRyOHGI",
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-12T02:47:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile practices and the implications of special Sprints, rather than focusing on systems thinking or organisational dynamics.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:58",
+    "ai_confidence": 42.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 4.8,
+    "ai_depth": 6.4,
+    "ai_intent": 4.5,
+    "ai_audience": 5.1,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "There are virtually no direct mentions of Organisational Physics or explicit discussion of systems thinking. However, the content lightly touches on organisational behaviours and feedback loops through its critique of 'special sprints' and its focus on workflows, risk, and team habits. It uses a case study (Azure DevOps) to illustrate emergent team behaviours when incentives shift. Nevertheless, the focus is much more on Agile practices, risk management, and continuous delivery than on holistically understanding or mapping organisational dynamics, leadership, or organisational structure. There's a minor alignment in that it identifies how team practices create predictable patterns—echoing elements of systems thinking—but this is underdeveloped and does not go deep on broader organisational system interactions.",
+    "reasoning_summary": "Mainly about Agile risk management and anti-patterns, with slight touches of organisational dynamics but little systems thinking. Only a partial, indirect fit for Organisational Physics; no direct or in-depth treatment of the category.",
+    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",

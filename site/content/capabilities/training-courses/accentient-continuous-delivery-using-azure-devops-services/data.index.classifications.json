@@ -1133,12 +1133,22 @@
     "level": "Secondary"
   },
   "Decision Theory": {
+    "resourceId": "Et_C1UNbGdO",
     "category": "Decision Theory",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Azure DevOps and software development training, with no clear discussion on decision-making processes in uncertain environments.",
+    "calculated_at": "2025-09-17T23:13:07",
+    "ai_confidence": 7.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.3,
+    "ai_intent": 1.2,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The course emphasizes hands-on DevOps practices, CI/CD, and improving delivery using Azure DevOps, but does not refer to decision-making frameworks, uncertainty, heuristics, probability, or behavioral economics. The topics are operational, with no explicit or substantial alignment to Decision Theory. The only minor link is an implied improvement in team collaboration and decision empowerment (e.g., 'Empower the Product Owner'), but this is not explored within Decision Theory’s domain. The audience is technical/practitioner-focused, which partially overlaps with the Decision Theory audience if the content were relevant, but in this case, decision-making theories or frameworks are not explored.",
+    "reasoning_summary": "Content covers DevOps and CI/CD process training, not decision theory. No substantial mention or exploration of decision-making topics, models, uncertainty, or behavioral economics. Fit to category is very weak, only incidental at best.",
     "level": "Ignored"
   },
   "Entrepreneurship": {

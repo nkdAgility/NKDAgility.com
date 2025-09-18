@@ -132,13 +132,23 @@
     "level": "Ignored"
   },
   "Employee Engagement": {
+    "resourceId": "Ys0dWfKVSeA",
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-11T22:09:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on organisational processes rather than employee engagement or motivation.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:59",
+    "ai_confidence": 53.437,
+    "ai_mentions": 0.9,
+    "ai_alignment": 5.2,
+    "ai_depth": 5.4,
+    "ai_intent": 5.9,
+    "ai_audience": 7.6,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 53.0,
+    "reasoning": "The content centers on how Scrum exposes organizational and workflow issues through transparency, feedback, and iterative learning—topics tangentially related to employee engagement, such as collaboration, communication gaps, and fostering a problem-solving culture. However, the discussion primarily focuses on process improvement and organizational change, with only indirect implications for motivation, satisfaction, or commitment. There are no explicit or direct references to employee engagement, its measurement, or strategies explicitly aimed at enhancing motivation or commitment. The audience (practitioners and leaders) is somewhat aligned, and while aspects like collaboration and communication overlap, the core themes center more on process revelation and less on the psychological/social elements of engagement. No penalties were required as the content is topical and current.",
+    "reasoning_summary": "The content mainly discusses Scrum revealing process issues, with secondary references to teamwork and collaboration. While it overlaps with engagement themes, it does not directly address employee motivation or commitment, so fit is partial and indirect.",
+    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",

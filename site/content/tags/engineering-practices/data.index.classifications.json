@@ -183,16 +183,23 @@
     "level": "Primary"
   },
   "Model": {
+    "resourceId": "Engineering Practices",
     "category": "Model",
-    "calculated_at": "2025-04-10T13:21:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Engineering Practices in Agile but does not explicitly focus on conceptual models or frameworks. While it mentions principles that contribute to organisational agility, it lacks a direct connection to the specific models outlined in the category definition, such as the Cynefin Framework or Lean Startup principles. The discussion is more about practices than models, leading to a lower confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 41.25,
+    "ai_mentions": 0.6,
+    "ai_alignment": 4.8,
+    "ai_depth": 3.4,
+    "ai_intent": 4.1,
+    "ai_audience": 8.6,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content describes foundational Agile engineering practices such as clean code, automation, and test-first development. While these are essential to Agile delivery, the text neither defines nor discusses models or conceptual frameworks as per the strict category definition. No model (like Cynefin, Three Ways of DevOps, or other frameworks) is mentioned. The content focuses on technical methods rather than exploring their value as conceptual or decision-making models. Thus, alignment and depth scores are low. The audience overlaps with those interested in models, but the central topic is not models, frameworks, or conceptual representations—it is practice guidelines.",
+    "reasoning_summary": "This content discusses technical practices rather than conceptual models or frameworks. Its core focus does not fit the category 'Model' except tangentially through systemic thinking references. Fit is weak and largely audience-driven.",
+    "level": "Tertiary"
   },
   "Principle": {
     "resourceId": "Engineering Practices",

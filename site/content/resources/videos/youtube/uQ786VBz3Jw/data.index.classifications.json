@@ -254,13 +254,23 @@
     "level": "Ignored"
   },
   "Technical Mastery": {
+    "resourceId": "uQ786VBz3Jw",
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T23:21:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not directly related to software craftsmanship or engineering excellence.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:56",
+    "ai_confidence": 45.45,
+    "ai_mentions": 0.5,
+    "ai_alignment": 5.8,
+    "ai_depth": 5.1,
+    "ai_intent": 5.6,
+    "ai_audience": 5.2,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content centers on effective Sprint planning, focusing on clarity of backlog, product goals, and teamwork, all within Agile. However, it doesn't delve into technical mastery topics such as code quality, software design, engineering practices, or DevOps implementation specifics. There are minor conceptual overlaps (e.g., alignment and process quality), but the primary thrust is process facilitation, not technical excellence. No direct or explicit references to software craftsmanship, testing, refactoring, or architectural principles. The intended audience is Agile practitioners, somewhat overlapping with technical teams but more process or facilitation-focused. No outdated practices or contradictory tone. Partial fit only, as the intersection with technical mastery is tangential (process-enabling technical work, but not the core technical practice itself).",
+    "reasoning_summary": "The content focuses on Agile Sprint planning, emphasizing backlog understanding and teamwork, but lacks substantive discussion of technical mastery, like software engineering or craftsmanship. Fit is partial and tangential to the core category definition.",
+    "level": "Tertiary"
   },
   "Sprint Review": {
     "resourceId": "uQ786VBz3Jw",

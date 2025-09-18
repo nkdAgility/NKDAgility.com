@@ -65,7 +65,7 @@ delivery_audiences:
   - Lean Agile Practitioners
 preview: naked-agility-Professional-Scrum-PSPBMS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSPBMS-400x.png
-brandColour:
+brandColour: 
 code: PSPBMS
 course_proficiencies:
   - beginner
@@ -87,7 +87,7 @@ outcomes: |-
   7. **Balancing Strategy and Autonomy**: Recognising the subtle relationship between overarching strategy and the Product Backlog, ensuring a balance between strategic alignment and team autonomy.
 
    These topics provide a comprehensive overview of Product Backlog management within the Scrum framework, equipping participants with the skills and knowledge to navigate the Scrum landscape effectively.
-assessment:
+assessment: 
 objectives: |2+
 
   1. **Product Essence Comprehension:** By the culmination of our sessions, you'll possess a lucid understanding of your product, the associated goals, and the strategic steps required to realise them.
@@ -97,12 +97,12 @@ objectives: |2+
   5. **Empirical Decision Making:** Harness empirical data to inform your decisions, positioning you to capitalise on opportunities and gain a competitive advantage.
 
 prerequisites: There are no pre-requests for this class, but some experience of managing a backlog would be beneficial.
-audience:
-trainers:
-roadmap:
-events:
----
+audience: 
+trainers: 
+roadmap: 
+events: 
 
+---
 # Professional Scrum Product Backlog Management Skills (PSPBMS) Course with Certification
 
 **Course Code:** PSPBMS

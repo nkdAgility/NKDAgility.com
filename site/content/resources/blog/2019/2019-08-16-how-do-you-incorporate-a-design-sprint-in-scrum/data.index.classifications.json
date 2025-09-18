@@ -245,13 +245,23 @@
     "level": "Ignored"
   },
   "Technical Excellence": {
+    "resourceId": "MHeGFYrasBx",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T18:29:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles and events, with a focus on team dynamics rather than engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:50",
+    "ai_confidence": 45.65,
+    "ai_mentions": 1.7,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.7,
+    "ai_intent": 4.1,
+    "ai_audience": 6.1,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 46.0,
+    "reasoning": "The content discusses integrating UX and design work within Scrum sprints, emphasizing team collaboration, avoidance of specialization, Communities of Practice, and consistent practices. However, it never directly references or deeply explores Technical Excellence topics such as CI/CD, TDD, modular architecture, or technical quality improvements, nor does it explicitly connect approaches to high-level engineering practices. The primary focus is on process/organizational design, not the core engineering aspects that Technical Excellence entails. It briefly mentions 'high-quality working software', but does not substantiate how technical practices contribute. The audience is agile teams, some overlap with the target, but lacks technical deep dive.",
+    "reasoning_summary": "Content focuses on integrating design/UX into Scrum via collaboration and practice sharing, with minor mention of product quality. Lacks direct technical practice discussion, so fit to Technical Excellence is partial and mostly tangential.",
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

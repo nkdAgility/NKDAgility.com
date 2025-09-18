@@ -171,16 +171,23 @@
     "level": "Ignored"
   },
   "Capability": {
+    "resourceId": "Test First Development",
     "category": "Capability",
-    "calculated_at": "2025-04-10T13:21:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses the Test First practice, focusing on its implementation and benefits rather than on enduring capabilities that empower teams. While it touches on collaboration and feedback, which are relevant to capabilities, it does not explicitly define or explore the concept of capability as outlined in the category description. The discussion is more about a specific practice rather than a broader capability framework.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:13:01",
+    "ai_confidence": 65.9,
+    "ai_mentions": 1.8,
+    "ai_alignment": 6.6,
+    "ai_depth": 6.7,
+    "ai_intent": 7.1,
+    "ai_audience": 7.0,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 66.0,
+    "reasoning": "The content describes Test First as a practice enhancing flow, feedback, quality, and collaboration—a potential contributor to capability. However, it frames Test First as a technique or practice, not as an enduring organizational or team capability per se. The discussion connects to capabilities (e.g., maturity in automation, improvement of team outcomes), but stops short of explicitly framing Test First as a systemic, enduring competency. Direct mentions of 'capability' are absent; alignment and depth are moderate as Test First is a foundational practice that enables capability development, but is not itself presented as a cross-cutting organizational capability. The main audience is practitioners (developers, testers, product owners), reasonably aligned with the topic of nurturing capability but primarily within the engineering discipline. No penalties are needed; the content is not outdated or contradictory. Overall, the fit with the 'Capability' category is partial but relevant within the context of enabling capabilities through practices.",
+    "reasoning_summary": "The content describes Test First as a foundational practice that enables capability but does not frame it as an enduring, systemic capability itself. Fit is partial—relevant, but not an explicit or deep discussion of 'Capability' as defined.",
+    "level": "Secondary"
   },
   "Model": {
     "resourceId": "Test First Development",

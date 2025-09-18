@@ -1126,12 +1126,22 @@
     "level": "Tertiary"
   },
   "Windows": {
+    "resourceId": "_gyzx59-AJk",
     "category": "Windows",
-    "calculated_at": "2025-02-17T14:40:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile leadership and deployment strategies in software development, with no focus on Windows operating system topics.",
+    "calculated_at": "2025-09-17T23:12:34",
+    "ai_confidence": 2.976,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 2.0,
+    "ai_intent": 1.1,
+    "ai_audience": 3.3,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on Azure DevOps' transition to frequent releases and continuous delivery. Nowhere does it discuss Windows OS installation, configuration, troubleshooting, or other core Windows topics. While Azure DevOps products may run on Windows servers, the discussion does not mention Windows or its environment, instead centering on DevOps practices—thus showing very weak conceptual or direct fit with the Windows category. Only a slight audience overlap (IT/technical practitioners) prevents zeros on all fronts, but overall category alignment is extremely low.",
+    "reasoning_summary": "Content lacks direct or meaningful discussion of Windows; focus is on DevOps practices. Intent, topics, and themes do not match the Windows category definition, making fit negligible.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {

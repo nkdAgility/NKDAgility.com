@@ -406,13 +406,23 @@
     "level": "Ignored"
   },
   "Flow Efficiency": {
+    "resourceId": "Puz2wSg7UmE",
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T14:08:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational capability and innovation metrics, rather than optimising work throughput or flow efficiency.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:57",
+    "ai_confidence": 40.9,
+    "ai_mentions": 1.4,
+    "ai_alignment": 4.0,
+    "ai_depth": 4.3,
+    "ai_intent": 3.9,
+    "ai_audience": 5.7,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content focuses on measuring innovation capability using metrics like technical debt, innovation rate, and complexity overhead. While it briefly touches on optimizing inefficiencies (e.g., too many active branches, reducing complexity), it does not explicitly discuss flow efficiency concepts such as value stream mapping, cycle time, WIP limits, Kanban, or throughput. There are implicit overlaps, especially in reducing complexity and technical debt to free up resources for innovation, but the emphasis is not on the flow of work or bottleneck analysis per se. The intended audience, targeting organizational leaders and Agile practitioners, partially aligns, but the content's main themes are innovation and evidence-based management, not flow efficiency optimization.",
+    "reasoning_summary": "This content centers on innovation and related metrics. While reducing complexity and technical debt can affect work flow, direct flow efficiency principles (bottlenecks, WIP, throughput) are not a main focus. Fit is partial and tangential.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",

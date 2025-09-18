@@ -405,12 +405,22 @@
     "level": "Ignored"
   },
   "Product Validation": {
+    "resourceId": "KHcSWD2tV6M",
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses communication issues in Agile teams and does not focus on methodologies or practices related to validating product ideas through user engagement.",
+    "calculated_at": "2025-09-17T23:12:48",
+    "ai_confidence": 21.3,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.6,
+    "ai_intent": 2.7,
+    "ai_audience": 6.9,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content focuses exclusively on addressing communication gaps within Agile teams, discussing consequences for team performance and customer value delivery, and suggesting ways to foster dialogue. While customer value and feedback are referenced, product validation as defined—systematic testing of product ideas with users, prototyping, customer feedback loops for validation, A/B testing, etc.—is not directly or substantially discussed. The overlap is slight, limited to mentions of customer satisfaction and value, but the main thrust is team health, not validation of product hypotheses. Audience and signal scores are relatively higher due to relevance for Agile practitioners, yet the fit for Product Validation is partial and indirect at best.",
+    "reasoning_summary": "This content centers on team communication and its impact on value delivery, not on methods for validating product ideas with users. Alignment with Product Validation is marginal and incidental, so confidence in this classification is low.",
     "level": "Ignored"
   },
   "Daily Scrum": {

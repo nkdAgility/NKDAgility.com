@@ -426,12 +426,22 @@
     "level": "Ignored"
   },
   "Technical Mastery": {
+    "resourceId": "fm9Rt6R7JZz",
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T18:16:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles, forecasting, and budget management rather than focusing on software craftsmanship or engineering practices.",
+    "calculated_at": "2025-09-17T23:13:09",
+    "ai_confidence": 36.28,
+    "ai_mentions": 1.0,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.3,
+    "ai_intent": 3.8,
+    "ai_audience": 6.4,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content discusses forecasting in agile projects with an emphasis on flow metrics (e.g., Cycle Time, Throughput) over traditional velocity/burnup, referencing 'Actionable Agile Metrics.' However, the discussion is primarily focused on metrics and forecasting for budgeting and team planning—not on core software engineering, architecture, or craftsmanship practices that define Technical Mastery. There is a light touch on DevOps and agile transitions, but not on technical implementation, testing, code quality, or developer practices. The audience is mixed—while practitioners may benefit, much is geared toward PMs, accountants, and those making budgeting decisions. Thus, there's only a minimal and indirect connection to Technical Mastery: some mention of metrics and DevOps, but not the heart of engineering excellence.",
+    "reasoning_summary": "Content is focused on forecasting, team budgeting, and agile processes, with only minimal indirect emphasis on technical practices or engineering excellence. It is not a strong fit for Technical Mastery.",
     "level": "Ignored"
   },
   "Product Discovery": {

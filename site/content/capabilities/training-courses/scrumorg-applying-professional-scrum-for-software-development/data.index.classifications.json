@@ -475,12 +475,22 @@
     "level": "Tertiary"
   },
   "Forecasting": {
+    "resourceId": "IoUQqtS1U1Y",
     "category": "Forecasting",
-    "calculated_at": "2025-02-18T00:23:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum training and certification, with no clear emphasis on forecasting methodologies or practices.",
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 15.22,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.5,
+    "ai_intent": 1.9,
+    "ai_audience": 4.8,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "There are no explicit mentions of forecasting or related Agile forecasting practices. The course focuses on Scrum, DevOps, Agile principles, and engineering practices, but does not reference forecasting techniques, empirical prediction, delivery timeline metrics, or risk management using data. Alignment and depth scores are very low as forecasting is not incorporated in learning outcomes or topics. Audience overlap exists (Scrum practitioners, teams), earning some points, and signal is average since Scrum courses might tangentially discuss forecasting. No outdated material or contradictory tone detected, so no penalties applied.",
+    "reasoning_summary": "Content does not address forecasting; it focuses on core Scrum, Agile, and DevOps practices. Topics, outcomes, and intent align with general Agile education, not forecasting methods or metrics. No direct or indirect fit for the category.",
     "level": "Ignored"
   },
   "Cycle Time": {

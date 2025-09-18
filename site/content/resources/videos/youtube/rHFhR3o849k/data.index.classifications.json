@@ -133,12 +133,22 @@
     "level": "Secondary"
   },
   "Product Validation": {
+    "resourceId": "rHFhR3o849k",
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T10:22:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a scrum master and agile practices rather than focusing on product validation methodologies or user testing.",
+    "calculated_at": "2025-09-17T23:13:05",
+    "ai_confidence": 22.95,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.6,
+    "ai_intent": 2.0,
+    "ai_audience": 7.3,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on the qualities and organisational impact of a Scrum Master rather than practices or methodologies specific to product validation such as user testing, feedback loops, or A/B testing. While the discussion includes some themes about delivering value and improving team effectiveness, it does not explicitly discuss validation of product ideas, testing hypotheses, or direct user engagement, which are central to the definition of Product Validation. Most examples and discussion points relate to interpersonal skills, organisational politics, and team empowerment, not on testing product assumptions. Audience relevance is moderate as Scrum Masters may influence product processes, but the primary focus is on team/organisation, not validation.",
+    "reasoning_summary": "Content centers on Scrum Master effectiveness in team and organisational contexts, not on product validation techniques or methodologies. Few, if any, links to validating product ideas through user engagement. Fit is low and largely tangential.",
     "level": "Ignored"
   },
   "Accountability": {

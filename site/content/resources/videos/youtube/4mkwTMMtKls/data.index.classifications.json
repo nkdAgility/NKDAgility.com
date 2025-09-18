@@ -1336,13 +1336,23 @@
     "level": "Ignored"
   },
   "Technical Excellence": {
+    "resourceId": "4mkwTMMtKls",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T11:11:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of blindly adopting models like the Spotify model, rather than focusing on technical excellence or engineering practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:58",
+    "ai_confidence": 40.85,
+    "ai_mentions": 1.3,
+    "ai_alignment": 4.5,
+    "ai_depth": 4.2,
+    "ai_intent": 4.1,
+    "ai_audience": 7.4,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content focuses on the pitfalls of copying Agile frameworks due to envy and advocates for tailoring Agile practices to individual team needs, originality, and culture. There are no direct references to the key engineering practices (TDD, CI/CD, modular architecture, emergent design) that define Technical Excellence as per the category. While there is conceptual overlap in advocating for thoughtful adoption and improvement of practices, the primary message is about culture, values, and authenticity in Agile—not specifically about elevating technical practices or software quality. Therefore, there is some partial indirect conceptual relation, especially in themes of adaptation and continuous improvement, but the depth, intent, and alignment with core Technical Excellence topics remain limited.",
+    "reasoning_summary": "Primarily about authenticity, culture, and prudent Agile adoption—not the explicit engineering principles of Technical Excellence. Only partial overlap via adaptation themes; core technical topics are not addressed.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "resourceId": "4mkwTMMtKls",

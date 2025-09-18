@@ -183,13 +183,23 @@
     "level": "Tertiary"
   },
   "Miscellaneous": {
+    "resourceId": "BR9vIRsQfGI",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T14:47:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses teaching a product owner apprentice, which is directly related to Scrum and Agile principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:48",
+    "ai_confidence": 54.1,
+    "ai_mentions": 1.0,
+    "ai_alignment": 6.3,
+    "ai_depth": 6.7,
+    "ai_intent": 5.9,
+    "ai_audience": 7.1,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content centers on negotiation skills for product owners, focusing on principles from Chris Voss's 'Never Split the Difference.' It neither discusses nor applies Agile, Scrum, DevOps, Lean, or EBM practices directly. It frames negotiation as broadly applicable and non-framework-specific, referencing personal and anecdotal experiences. The techniques described are positioned as general business or interpersonal skills, not grounded in recognized Agile methodologies. Thus, this fits moderately under 'Miscellaneous' as defined, with partial but not explicit alignment: the topic is relevant to product owners (who often work in Agile contexts) yet avoids specific frameworks or actionable best practices from Agile/Scrum/DevOps/Lean.",
+    "reasoning_summary": "Negotiation skills for product owners are discussed outside of Agile/Scrum/DevOps frameworks, with general concepts and external references. Content is a moderate fit for Miscellaneous since it doesn’t reference or base itself on recognized methodologies.",
+    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",

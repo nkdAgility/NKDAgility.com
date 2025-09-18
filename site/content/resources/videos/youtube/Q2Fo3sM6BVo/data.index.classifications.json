@@ -140,12 +140,22 @@
     "level": "Primary"
   },
   "Product Validation": {
+    "resourceId": "Q2Fo3sM6BVo",
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Scrum framework and its components, which do not focus on product validation methodologies or practices.",
+    "calculated_at": "2025-09-17T23:13:04",
+    "ai_confidence": 30.072,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.7,
+    "ai_depth": 3.9,
+    "ai_intent": 2.8,
+    "ai_audience": 5.5,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content is a foundational overview of Scrum—covering values, roles, artifacts, and events. It describes key concepts like empiricism, transparency, product backlogs, and sprint reviews, but only briefly references inspection/adaptation and stakeholder feedback. Product validation is not discussed directly, nor are specific user testing methods, feedback loops, A/B testing, or market fit strategies covered in detail. The closest connection is the mention of the Sprint Review as an opportunity for feedback and inspection, but this is not deeply explored in the context of validating assumptions with real users. The content is targeted to Scrum practitioners, matching the category’s audience moderately. Only a small proportion relates even loosely to product validation; most content focuses on Scrum mechanics.",
+    "reasoning_summary": "This content broadly introduces Scrum’s framework but only slightly touches on aspects relevant to product validation (e.g., Sprint Review for feedback). It does not directly address core product validation practices or user testing. Fit is minimal and general.",
     "level": "Ignored"
   },
   "Accountability": {

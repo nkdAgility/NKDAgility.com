@@ -307,12 +307,22 @@
     "reasoning_summary": "This content is a good fit for the Agile Planning Tools category, as it explores how Azure DevOps supports Scrum practices like backlog management and sprint planning. While it centres on Azure DevOps and Scrum rather than a wide range of tools, it still demonstrates how Agile planning concepts are applied in practice, making it relevant to the category."
   },
   "Estimation": {
+    "resourceId": "5IBKxYLA494",
     "category": "Estimation",
-    "calculated_at": "2025-02-13T17:55:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Azure DevOps to support Scrum processes, focusing on project setup, team dynamics, and workflow management rather than estimation techniques or practices.",
+    "calculated_at": "2025-09-17T23:12:47",
+    "ai_confidence": 27.35,
+    "ai_mentions": 3.0,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.6,
+    "ai_intent": 3.2,
+    "ai_audience": 7.4,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses on customising Azure DevOps for Scrum processes, backlog management, and Agile workflows. It mentions estimation-related practices (like story points, planning poker, burndown charts) to clarify their non-mandatory status in Scrum, but it does not discuss estimation techniques, empirical forecasting, or collaboration in estimation in any substantive way. Key estimation topics (estimating effort, managing uncertainty, or alignment with empirical data) are largely absent. The primary intention is tool/process customisation, not estimation mastery, leading to low alignment and depth scores.",
+    "reasoning_summary": "Estimation is only briefly referenced—mainly to note its optionality in Scrum—not discussed in depth. The focus is on Azure DevOps and Scrum process setup, not estimation practices, so confidence in this fit is low.",
     "level": "Ignored"
   },
   "Windows": {

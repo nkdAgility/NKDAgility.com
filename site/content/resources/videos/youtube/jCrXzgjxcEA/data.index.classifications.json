@@ -346,12 +346,22 @@
     "level": "Ignored"
   },
   "Windows": {
+    "resourceId": "jCrXzgjxcEA",
     "category": "Windows",
-    "calculated_at": "2025-02-13T18:01:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban strategies and Azure DevOps, with no focus on the Windows operating system or its functionalities.",
+    "calculated_at": "2025-09-17T23:12:48",
+    "ai_confidence": 5.433,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.4,
+    "ai_intent": 0.4,
+    "ai_audience": 2.1,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content exclusively discusses Caman strategy using Azure DevOps for workflow visualisation in hybrid teams. It focuses on digital boards, customisation, and work management—but never references, discusses, or provides insights about the Windows operating system, its installation, configuration, or troubleshooting. All tools and functionality mentioned (Azure DevOps, Azure Boards) are cross-platform and not Windows-specific. The intent, themes, and examples are targeted at DevOps/process improvement professionals and do not align with the Windows category. The audience is also not Windows administrators or users. The very low scoring reflects the total lack of direct, aligned, or in-depth relevance to 'Windows' per the definition.",
+    "reasoning_summary": "The content has no relevance to the Windows OS. It focuses on Azure DevOps and workflow strategies for hybrid teams. There are no direct or indirect references to Windows installation, configuration, or usage.",
     "level": "Ignored"
   },
   "Azure Repos": {

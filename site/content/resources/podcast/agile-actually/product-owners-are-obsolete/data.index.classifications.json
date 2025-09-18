@@ -1411,12 +1411,22 @@
     "level": "Ignored"
   },
   "Deployment Frequency": {
+    "resourceId": "dKyRYit_4xO",
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles of product owners and product managers in Agile, without a focus on deployment frequency.",
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 2.91,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.1,
+    "ai_audience": 4.0,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses exclusively on the comparison between product owners and product managers in Agile and Scrum. There is no mention or discussion of deployment frequency, release intervals, CI/CD, feedback loops, or related metrics. The audience overlaps somewhat with practitioners interested in Agile, but zero topical alignment exists with deployment frequency, leading to very low confidence.",
+    "reasoning_summary": "This content discusses Agile roles (product owner vs. product manager) and does not address deployment frequency or related topics. There is negligible connection to the deployment frequency category definition.",
     "level": "Ignored"
   },
   "Evidence Based Management": {

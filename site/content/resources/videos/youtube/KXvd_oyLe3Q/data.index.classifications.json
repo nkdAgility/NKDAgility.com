@@ -264,12 +264,22 @@
     "level": "Tertiary"
   },
   "Customer Feedback Loops": {
+    "resourceId": "KXvd_oyLe3Q",
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-12T04:58:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps practices and challenges in product development without a clear focus on customer feedback integration or feedback loops.",
+    "calculated_at": "2025-09-17T23:12:45",
+    "ai_confidence": 14.15,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.45,
+    "ai_intent": 0.8,
+    "ai_audience": 5.1,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content deeply explores DevOps transformation, technical debt, process optimization, and team ownership. However, it makes no direct or indirect mention of mechanisms for collecting or using customer feedback, nor does it discuss feedback loop integration, customer insight techniques, or how user feedback shapes product evolution. The focus centers on internal development efficiencies, refactoring, and ownership, not on aligning with user needs through feedback. The only mild alignment is the abstract notion of responding to 'problems' as drivers for change, but these are organizational pain points—not customer-sourced input or feedback loops.",
+    "reasoning_summary": "The content does not fit the 'Customer Feedback Loops' category. It discusses DevOps, technical debt, and process changes, but does not mention customer feedback or feedback loop mechanisms. Fit is minimal and indirect at best.",
     "level": "Ignored"
   },
   "Azure Repos": {

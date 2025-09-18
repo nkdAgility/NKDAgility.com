@@ -1334,12 +1334,22 @@
     "level": "Tertiary"
   },
   "Technical Excellence": {
+    "resourceId": "7CqdvOa9t4c",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-13T22:26:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not directly related to engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-17T23:13:06",
+    "ai_confidence": 32.36,
+    "ai_mentions": 0.9,
+    "ai_alignment": 3.1,
+    "ai_depth": 2.7,
+    "ai_intent": 3.5,
+    "ai_audience": 5.6,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content reviews changes in the 2020 Scrum Guide, focusing on language simplification, self-managing teams, and goals/commitments. It does not explicitly discuss technical excellence, high-level engineering practices, or principles such as TDD, CI/CD, or emergent design. Some overlap exists (e.g., 'Definition of Done', notions of quality), but these are not discussed deeply with regard to technical excellence or technical practices. The audience is Scrum practitioners, somewhat related to technical excellence but not its direct target. Most content is administrative/process focused, not technical practice-oriented.",
+    "reasoning_summary": "This content focuses on Scrum Guide updates, organizational commitments, and team roles—not on engineering or technical practices. Alignment to Technical Excellence is weak, with only superficial ties to quality via 'Definition of Done.'",
     "level": "Ignored"
   },
   "Product Delivery": {

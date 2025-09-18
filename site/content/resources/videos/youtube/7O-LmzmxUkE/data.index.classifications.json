@@ -1377,13 +1377,23 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "7O-LmzmxUkE",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T10:33:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not directly related to engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:13:02",
+    "ai_confidence": 44.08,
+    "ai_mentions": 0.9,
+    "ai_alignment": 4.8,
+    "ai_depth": 5.1,
+    "ai_intent": 6.2,
+    "ai_audience": 7.4,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "The content primarily debunks myths about Scrum events, positioning them as structured opportunities for inspection, adaptation, and progress. While those are principles adjacent to Technical Excellence, the discussion never directly ties these events to high-level engineering practices, quality, or practices like TDD, CI/CD, or modular architecture. The piece slightly touches on continuous improvement and team engagement, but focuses on empiricism and the purpose of Scrum events, not their engineering execution. The main audience is technical/practitioner, and the signal to noise is decent, but most content fits better under 'Agile Mindset' or 'Scrum Fundamentals' than true Technical Excellence.",
+    "reasoning_summary": "This content explores the purpose of Scrum events, focusing on empiricism and adaptation, not engineering practices. It only partially aligns with Technical Excellence, lacking depth or direct discussion of high-level engineering quality practices.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

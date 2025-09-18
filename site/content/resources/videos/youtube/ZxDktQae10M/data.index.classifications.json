@@ -1245,12 +1245,22 @@
     "level": "Tertiary"
   },
   "Miscellaneous": {
+    "resourceId": "ZxDktQae10M",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-11T21:21:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the capabilities and usage of VSTS Sync Migration Tools, which is technical and does not align with the Miscellaneous category.",
+    "calculated_at": "2025-09-17T23:12:50",
+    "ai_confidence": 21.12,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.8,
+    "ai_intent": 2.3,
+    "ai_audience": 6.1,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content is a technical guide focused on VSTS/TFS migration tooling. While there are surface mentions of agile and DevOps, these are context for the author's background, not for content substance. The main discussion centers on tools, configuration, and technical migration processes unrelated to philosophy or methodology. It is neither reflective, anecdotal, nor misaligned deliberately—its audience overlaps partially (technical practitioners, some overlap with agile/DevOps pros), but the intent and substance are technical and not 'miscellaneous' by definition. The fit is partial and mostly by technical audience overlap and mention of community support, but not by intent or main topic. There are no direct mentions or thorough explorations of 'Miscellaneous' topics.",
+    "reasoning_summary": "Content centers on technical migration tools with only brief, peripheral agile/DevOps context. Intent and discussion do not match the 'Miscellaneous' category's definition, so confidence is low; fit is mainly incidental via audience overlap.",
     "level": "Ignored"
   },
   "DevOps": {

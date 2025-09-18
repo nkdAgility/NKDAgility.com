@@ -641,12 +641,22 @@
     "level": "Ignored"
   },
   "Technical Excellence": {
+    "resourceId": "6SSgETsq8IQ",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T11:35:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the product owner in Scrum, without a focus on engineering practices or technical methodologies.",
+    "calculated_at": "2025-09-17T23:13:01",
+    "ai_confidence": 36.32,
+    "ai_mentions": 1.1,
+    "ai_alignment": 3.6,
+    "ai_depth": 3.4,
+    "ai_intent": 2.1,
+    "ai_audience": 5.9,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content focuses on the Professional Scrum Product Owner role and course, emphasizing agile skills, value maximization, stakeholder accountability, and continuous improvement. However, there is minimal discussion of technical practices—such as TDD, CI/CD, modular architecture, or emergent design—which are central to Technical Excellence. No direct or explicit mentions of the category’s definitional topics are found. Alignment and depth regarding Technical Excellence are superficial—the main focus is product ownership, agile mindset, and product management, not advanced engineering practices. The only modest overlap relates to fostering continuous improvement and a learning culture, faintly relevant but not strongly tied to technical engineering disciplines. The audience may overlap with technical practitioners, but the intent remains product and business oriented rather than engineering excellence.",
+    "reasoning_summary": "Content is primarily about agile product ownership, with little relevance to technical engineering practices or excellence; only minor, indirect overlap exists through references to continuous improvement.",
     "level": "Ignored"
   },
   "Organisational Change": {

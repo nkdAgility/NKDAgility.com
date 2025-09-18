@@ -1130,12 +1130,22 @@
     "level": "Secondary"
   },
   "Organisational Change": {
+    "resourceId": "xLUsgKWzkUM",
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T23:35:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of product owners and backlog management, which is related to product management rather than organisational change.",
+    "calculated_at": "2025-09-17T23:12:43",
+    "ai_confidence": 34.585,
+    "ai_mentions": 0.9,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.5,
+    "ai_intent": 5.9,
+    "ai_audience": 7.1,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "Direct mentions of organisational change or related frameworks are absent. The content focuses on individual Product Owner practices—prioritisation, value delivery, accountability—not on broader transformation, change leadership, or organisational frameworks. Its main audience is agile practitioners, somewhat overlapping with organisational change audiences, but depth and alignment with the category’s definition (frameworks/strategies for transformation, change management) are limited. Most of the signal is about product/project-level efficiency, not organisation-level agility or change. Intent is relevant to agile value but not to change management processes.",
+    "reasoning_summary": "The article targets Product Owner practices—prioritisation and accountability—without addressing organisational change frameworks, leadership, or transformation. It only partially fits the organisational change category, with most content focused at the product (not org) level.",
     "level": "Ignored"
   },
   "Evidence Based Management": {

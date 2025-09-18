@@ -279,12 +279,22 @@
     "level": "Secondary"
   },
   "Beta Codex": {
+    "resourceId": "xPJL0I4sjDJ",
     "category": "Beta Codex",
-    "calculated_at": "2025-02-14T18:07:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and responsibilities, focusing on the Scrum Master's role in removing impediments, which is not aligned with the principles of Beta Codex.",
+    "calculated_at": "2025-09-17T23:12:54",
+    "ai_confidence": 28.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.4,
+    "ai_intent": 2.2,
+    "ai_audience": 3.7,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content exclusively discusses nuances of Scrum Master responsibilities regarding impediments, focusing on Scrum-oriented team self-sufficiency. There is no mention or exploration of BetaCodex, its principles, or decentralised organisational design. The conceptual alignment is low: while encouragement of team autonomy and growth slightly echoes the human-centric and empowerment aspects central to BetaCodex, the framing remains strictly within the traditional Scrum roles and team practices, not challenging hierarchical structures nor discussing decentralisation or organisational agility in the BetaCodex sense. Audience and signal rates are somewhat higher due to partial relevance for change agents, but overall the discussion is not purpose-fit for Beta Codex.",
+    "reasoning_summary": "Content is Scrum-focused, lacks mention of BetaCodex, and only weakly touches on relevant themes. Its intent, depth, and conceptual fit with BetaCodex are minimal, so classification confidence is low.",
     "level": "Ignored"
   },
   "Value Stream Management": {

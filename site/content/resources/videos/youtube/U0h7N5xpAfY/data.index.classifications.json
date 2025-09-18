@@ -1377,12 +1377,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "U0h7N5xpAfY",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T00:54:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of a Scrum Master, focusing on team dynamics and organisational impediments rather than engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-17T23:12:50",
+    "ai_confidence": 35.87,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.7,
+    "ai_intent": 4.1,
+    "ai_audience": 8.6,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content primarily explores the role, responsibilities, and organizational context of Scrum Masters. It mentions the need for continuous improvement, teaching empiricism, and helping teams work efficiently, which are tangentially aligned with technical excellence. However, the depth and focus do not concentrate on high-level engineering practices or typical technical excellence topics like TDD, CI/CD, or architecture. Discussions center more around coaching, change management, and improving team/organizational effectiveness via Scrum rather than concrete engineering excellence. The target audience aligns with practitioners, and content is focused and relevant, but connections to technical excellence are indirect and not substantive.",
+    "reasoning_summary": "Content focuses on Scrum Master roles and team effectiveness rather than high-level engineering practices. Mentions of continuous improvement are present but not tied to technical excellence concepts. Fit is partial and indirect.",
     "level": "Ignored"
   },
   "Organisational Agility": {

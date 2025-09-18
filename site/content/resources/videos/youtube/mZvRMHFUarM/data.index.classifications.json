@@ -1411,13 +1411,23 @@
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
+    "resourceId": "mZvRMHFUarM",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T16:23:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses estimation and forecasting in software projects, which does not directly relate to the management of the application lifecycle.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:29",
+    "ai_confidence": 47.85,
+    "ai_mentions": 1.0,
+    "ai_alignment": 5.7,
+    "ai_depth": 5.4,
+    "ai_intent": 5.0,
+    "ai_audience": 6.2,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "The content focuses on probabilistic forecasting for agile software project estimation, discussing techniques to improve planning accuracy and team confidence. While this relates to software project management, it largely centers on estimation and forecasting practices within agile contexts rather than explicitly discussing the broader end-to-end management of software applications across their full lifecycle. There are no direct references to ALM tools, governance processes, or lifecycle stages such as deployment, maintenance, or retirement. The main audience aligns somewhat, as ALM practitioners care about estimation and forecasting, but the topic here fits more into agile project management than holistic ALM. No penalties were necessary as the content is not outdated or negative toward ALM.",
+    "reasoning_summary": "Primarily focuses on agile estimation and forecasting, which is tangential to ALM but not central. Lacks direct discussion of full application lifecycle stages, governance, or ALM-specific tools and processes. Fit is partial and peripheral.",
+    "level": "Tertiary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",

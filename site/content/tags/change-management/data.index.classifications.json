@@ -247,16 +247,23 @@
     "level": "Ignored"
   },
   "Discipline": {
+    "resourceId": "Change Management",
     "category": "Discipline",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses change management extensively, which is related to discipline in terms of structured approaches and continuous improvement. However, it does not explicitly mention 'discipline' as a concept, leading to a moderate confidence score. The alignment with core themes of discipline is present, particularly in the context of fostering a culture of continuous improvement and learning, but the depth of discussion on discipline itself is somewhat limited.",
-    "level": "Secondary"
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 81.06,
+    "ai_mentions": 7.9,
+    "ai_alignment": 8.7,
+    "ai_depth": 8.2,
+    "ai_intent": 8.4,
+    "ai_audience": 7.6,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 81.0,
+    "reasoning": "The content frames change management as a structured, systemic approach focused on continuous improvement, human dynamics, and aligning with Lean and Agile principles. It discusses core characteristics of a discipline, such as adopting consistent methodologies, fostering learning, and embedding principles for sustainable performance change. The alignment and depth are strong, although direct use of the term 'discipline' is absent, and the material focuses somewhat broadly on mindset and process adaptation. The audience is managers and practitioners concerned with organisational transformation, overlapping with those interested in disciplines like Agile or DevOps.",
+    "reasoning_summary": "Content closely matches the 'Discipline' category by emphasising structured, principled, and evolving organisational change management, with explicit links to Lean and Agile. Fit is strong but not absolute—'discipline' is implied, not named.",
+    "level": "Primary"
   },
   "Scrum Values": {
     "resourceId": "Change Management",

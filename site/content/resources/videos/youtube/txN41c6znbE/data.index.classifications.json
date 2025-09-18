@@ -274,12 +274,22 @@
     "level": "Ignored"
   },
   "Azure Repos": {
+    "resourceId": "txN41c6znbE",
     "category": "Azure Repos",
-    "calculated_at": "2025-02-12T01:10:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and Scrum roles, with no mention of Azure Repos or related functionalities.",
+    "calculated_at": "2025-09-17T23:12:45",
+    "ai_confidence": 1.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 1.0,
+    "ai_intent": 0.8,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses exclusively on Agile, competence gaps, and Scrum Master roles, without any mention of Azure Repos or related source control concepts. Themes, terminology, and examples are unconnected to Azure Repos functionalities, integrations, or best practices. The target audience appears to be Agile practitioners rather than users or administrators of Azure Repos. There is no discussion of code repositories, branching, CI/CD, or collaboration features related to Azure Repos. Thus, the content fits the category definition extremely poorly.",
+    "reasoning_summary": "No mention or discussion of Azure Repos; the content is exclusively about Agile competence and Scrum roles, offering no relevance for the Azure Repos category. It is a poor fit.",
     "level": "Ignored"
   },
   "Transparency": {

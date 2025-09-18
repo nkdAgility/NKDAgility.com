@@ -1418,12 +1418,22 @@
     "level": "Tertiary"
   },
   "Lean": {
+    "resourceId": "yqHaiUlMNTP",
     "category": "Lean",
-    "calculated_at": "2025-02-13T22:05:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Test First principles and methodologies related to software development, with a focus on Test Driven Development (TDD) and related practices, rather than Lean principles or waste reduction.",
+    "calculated_at": "2025-09-17T23:13:03",
+    "ai_confidence": 16.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.4,
+    "ai_intent": 3.0,
+    "ai_audience": 3.9,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses entirely on test-first development practices (TDD, BDD, ATDD), code quality, and reducing bugs, tying these practices primarily to Agile/Scrum and DevOps contexts. There is no direct mention of Lean, Lean thinking, or its key concepts (waste, value stream mapping, 5S, etc.), nor is any Lean methodology, terminology, or historical context referenced. Concepts like 'value' and 'removing rework' have some conceptual proximity to Lean, but they remain squarely in the service of test-first/software quality— not minimising waste or organisational Lean process improvement. The audience is software developers and Agile practitioners, which somewhat overlaps with Lean's target audience, but the intent is not geared toward Lean principles, value stream mapping, or waste elimination. Signal remains low: content is highly focused on test-first/testing culture, not Lean.",
+    "reasoning_summary": "The content is tightly focused on test-first software practices (TDD, ATDD, BDD) with no direct Lean references or substantial conceptual overlap. Any connection is incidental. It does not fit the Lean category.",
     "level": "Ignored"
   },
   "Flow Efficiency": {

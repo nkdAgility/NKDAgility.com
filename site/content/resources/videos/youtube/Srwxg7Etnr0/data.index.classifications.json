@@ -1419,13 +1419,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "Srwxg7Etnr0",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T01:43:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:45",
+    "ai_confidence": 44.25,
+    "ai_mentions": 1.4,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.2,
+    "ai_intent": 4.7,
+    "ai_audience": 5.1,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "The content provides a thorough explanation of how Scrum teams define Sprint goals, emphasizing collaboration, stakeholder input, and agility in planning. While it directly addresses processes integral to Scrum—a methodology often used within application development—it never mentions Application Lifecycle Management (ALM) or its broader concepts. There is some conceptual overlap, especially in practices like planning, alignment, and iterative delivery, but the focus is tightly on Sprint goal-setting rather than governing or managing software across its entire lifecycle. No obsolete practices or critical tone are present; thus, no penalties applied. The fit is partial: content may support ALM as a component practice within Agile, but it is not explicitly aligned with or focused on managing the full application lifecycle.",
+    "reasoning_summary": "Content centers on Scrum Sprint goal-setting, a key agile team process. It relates tangentially to ALM by discussing planning and collaboration, but does not explicitly address ALM concepts or the full application lifecycle. Fit is partial and indirect.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

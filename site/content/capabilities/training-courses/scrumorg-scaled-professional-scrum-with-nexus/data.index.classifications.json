@@ -340,13 +340,23 @@
     "level": "Tertiary"
   },
   "Digital Transformation": {
+    "resourceId": "-U-z8x8yTw9",
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-18T00:27:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum training and certification, which does not directly address the strategic use of digital technologies for business transformation.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:56",
+    "ai_confidence": 56.35,
+    "ai_mentions": 0.9,
+    "ai_alignment": 5.75,
+    "ai_depth": 6.1,
+    "ai_intent": 6.75,
+    "ai_audience": 7.05,
+    "ai_signal": 6.45,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 56.0,
+    "reasoning": "The content centers on scaling Scrum using the Nexus Framework, focusing on cross-team collaboration, scaling challenges, team organization, and agile practices for large software development. While these are foundational to Agile at scale, explicit discussion of digital transformation as a strategic, organization-wide initiative (e.g., changing business/customer engagement, culture, measuring transformation, leveraging emerging tech beyond agile frameworks) is not present. There are some indirect overlaps (productivity, agility, practices for scaling, managing dependencies), and the audience is aligned with those often involved in digital transformation efforts. However, the course intent is not overarching digital transformation but rather a specific scaling methodology and certification. No penalties applied: the content is neither outdated nor undermining transformation principles.",
+    "reasoning_summary": "Content focuses on scaling Scrum with Nexus, relevant to enabling digital transformation but not directly addressing its strategic aspects. Audience and some themes align, but primary purpose is certification on scaling agile, not transformation itself. Partial fit.",
+    "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",

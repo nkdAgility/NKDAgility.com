@@ -1342,12 +1342,22 @@
     "level": "Tertiary"
   },
   "Technical Excellence": {
+    "resourceId": "sVDzuTFDLSJ",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-13T22:22:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Product Goal within the Scrum framework, focusing on objectives and planning rather than engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-17T23:13:12",
+    "ai_confidence": 19.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 1.6,
+    "ai_intent": 3.1,
+    "ai_audience": 5.2,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content exclusively discusses Product Goal in Scrum, focusing on objective setting, transparency, focus, and value alignment. While it indirectly relates to effective team practice, it does not explicitly discuss or align with technical excellence principles (TDD, CI/CD, modular architecture, etc.). There are no mentions or connections to advanced engineering practices or quality-centric topics. The audience is primarily Scrum practitioners, which partially overlaps, but the content is about backlog management and strategic alignment, not engineering or high-level technical practices.",
+    "reasoning_summary": "This content focuses on Product Goal as a concept in Scrum and product management, not technical excellence. There are no substantive connections to technical practices or high-level engineering quality themes. Fit is minimal and mostly tangential.",
     "level": "Ignored"
   },
   "Product Delivery": {

@@ -1081,12 +1081,22 @@
     "level": "Secondary"
   },
   "Platform Engineering": {
+    "resourceId": "V88FjP9f7_0",
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile concepts and does not relate directly to platform engineering or Internal Developer Platforms.",
+    "calculated_at": "2025-09-17T23:12:50",
+    "ai_confidence": 4.95,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.3,
+    "ai_audience": 0.9,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on Agile productivity philosophy—specifically, the 'less is more' approach as applied to task selection, backlog refinement, and sprint planning. It does not mention, discuss, or even imply platform engineering concepts, such as internal platforms, developer self-service, standardisation, automation, or IDPs. No relevant topics, terminology, or audience targeting for Platform Engineering are present, and the content is squarely aimed at Agile practitioners, not platform engineers or infra specialists.",
+    "reasoning_summary": "This content is strictly about Agile productivity tactics, without any connection to Platform Engineering themes, terminology, or intended audience. No fit for the Platform Engineering category.",
     "level": "Ignored"
   },
   "Lean": {

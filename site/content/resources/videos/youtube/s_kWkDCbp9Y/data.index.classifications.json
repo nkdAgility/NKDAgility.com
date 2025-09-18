@@ -1300,13 +1300,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "s_kWkDCbp9Y",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T02:24:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of an Agile coach and the importance of understanding team context, but does not primarily focus on business agility principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:58",
+    "ai_confidence": 62.366,
+    "ai_mentions": 2.2,
+    "ai_alignment": 7.4,
+    "ai_depth": 7.7,
+    "ai_intent": 7.0,
+    "ai_audience": 8.1,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 62.0,
+    "reasoning": "Direct mentions of 'business agility' are absent—the focus is on Agile coaching, context sensitivity, and tailoring practices to teams. The conceptual alignment is moderate, as the principles (adaptation, context, continuous learning) support business agility but are not discussed as organizational-level agility. Depth is good for the Agile coaching domain, illustrating applied coaching and context-specific guidance, but only modestly for business agility, which encompasses broader organizational transformation. The intent is aligned with helping teams become more adaptable and effective (relevant for business agility but mostly team-level). The audience (Agile coaches, facilitators) overlaps with an audience interested in business agility, and the content is focused with little filler. No outdated info or contradictory tone, so no penalties applied.",
+    "reasoning_summary": "The content is primarily about Agile coaching and team context, which moderately overlaps with business agility (adaptation, learning). It does not directly discuss business agility at organizational scale, so fit is partial, not core.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",

@@ -294,12 +294,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "Gtp9wjkPFPA",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T22:20:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, without specific reference to Azure Pipelines or related practices.",
+    "calculated_at": "2025-09-17T23:12:45",
+    "ai_confidence": 7.95,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.5,
+    "ai_audience": 1.4,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content provides a broad conceptual overview of how DevOps and Agile integrate, focusing on their philosophies and role in software development. There are no explicit or implicit mentions of Azure Pipelines, CI/CD on Azure, or related technical practices. None of the key topics—such as pipeline configuration, YAML, deployment strategies, or Azure DevOps specifics—are referenced. The piece targets a general audience interested in process improvement and methodology, not practitioners of Azure Pipelines. Therefore, very minimal alignment on all dimensions, with no justification for penalty deductions.",
+    "reasoning_summary": "This content is a general discussion of DevOps and Agile integration with no mention of Azure Pipelines or related concepts. It does not fit the 'Azure Pipelines' category; there is only thematic overlap with DevOps principles.",
     "level": "Ignored"
   },
   "Team Performance": {

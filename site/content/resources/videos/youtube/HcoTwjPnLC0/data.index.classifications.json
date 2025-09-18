@@ -245,12 +245,22 @@
     "level": "Ignored"
   },
   "Technical Mastery": {
+    "resourceId": "HcoTwjPnLC0",
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T23:29:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles and responsibilities of a product owner in relation to project management, which deviates from the core principles of software craftsmanship.",
+    "calculated_at": "2025-09-17T23:12:52",
+    "ai_confidence": 23.72,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.4,
+    "ai_intent": 2.0,
+    "ai_audience": 8.1,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content centers on clarifying the distinctions between Product Owner and Agile Project Manager roles, focusing on objectives and responsibilities in Agile. It does not address technical mastery, engineering practices, code quality, DevOps, or software craftsmanship, nor does it discuss tools, architecture, or technical debt. The intent is educational, but about Agile role demarcation, not engineering. The only possible technical audience intersection is tangential. Thus, direct mentions and conceptual alignment with 'Technical Mastery' are minimal; depth, intent, and SNR are higher due to clarity and relevance for people interested in Agile, though not technical topics.",
+    "reasoning_summary": "This content focuses on Agile role distinctions, not technical mastery or engineering excellence; it lacks coverage of software craftsmanship, design, or DevOps, making it a poor fit for the 'Technical Mastery' category.",
     "level": "Ignored"
   },
   "Sprint Review": {

@@ -273,13 +273,23 @@
     "level": "Secondary"
   },
   "Business Agility": {
+    "resourceId": "nfTAYRLAaYI",
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:44:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban principles, which are not directly related to business agility as defined in the category.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:13:06",
+    "ai_confidence": 47.65,
+    "ai_mentions": 1.1,
+    "ai_alignment": 5.6,
+    "ai_depth": 4.9,
+    "ai_intent": 5.1,
+    "ai_audience": 5.6,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "The content focuses on Kanban principles—visualization, active task management, and continuous improvement. While these practices are relevant to agile and can support business agility, the article does not explicitly discuss business agility as an organizational concept. The main intent is practical guidance for team-level Kanban adoption, not a broader exploration of business agility's principles, leadership role, or transformation strategies. There are indirect connections (e.g., continuous improvement, adaptability), but the link to business agility is mainly implicit. The core audience appears to be agile practitioners or team leads rather than strategists or executives addressing enterprise agility.",
+    "reasoning_summary": "Content covers Kanban principles at the team level, tangentially supporting business agility concepts like adaptability, but lacks direct discussion of organizational agility. Fit to 'Business Agility' is partial and mostly implicit, not primary.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",

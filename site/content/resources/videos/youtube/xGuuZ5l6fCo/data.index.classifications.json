@@ -388,13 +388,23 @@
     "level": "Secondary"
   },
   "Lean Thinking": {
+    "resourceId": "xGuuZ5l6fCo",
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-11T23:02:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and the importance of user feedback in adapting requirements, with no clear focus on Lean principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:52",
+    "ai_confidence": 48.217,
+    "ai_mentions": 1.2,
+    "ai_alignment": 5.4,
+    "ai_depth": 5.8,
+    "ai_intent": 5.9,
+    "ai_audience": 7.0,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "The content centers on Agile team empowerment to act on user feedback and adapt requirements, which conceptually overlaps with Lean values like responsiveness, flow, and continuous improvement. However, there are no direct references to Lean Thinking, its principles (Value, Value Stream, Flow, Pull, Perfection), or its core tools (5S, Kanban, Value Stream Mapping). Continuous improvement is touched upon (as a 'mindset at the heart of Agile'), yet all terminology and framing remain focused on Agile, empowerment, and process adaptation. Waste identification, value stream mapping, and concrete Lean practices are absent. The target audience—Agile teams, Scrum practitioners, and organizational leaders—does overlap with those interested in Lean Thinking within tech, but the fit is partial. The depth is moderate: the content digs into root causes for lack of adaptability but through an Agile lens, not Lean. There is a strong signal but not for Lean Thinking specifically.",
+    "reasoning_summary": "The content aligns partly with Lean (adaptability, continuous improvement) but is framed in Agile terms without direct mention or use of Lean concepts/tools. The fit is partial and indirect, not central or explicit, justifying a moderate confidence rating.",
+    "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",

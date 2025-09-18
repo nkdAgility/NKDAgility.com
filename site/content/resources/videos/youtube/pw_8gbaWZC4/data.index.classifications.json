@@ -275,12 +275,22 @@
     "level": "Secondary"
   },
   "Employee Engagement": {
+    "resourceId": "pw_8gbaWZC4",
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-13T18:08:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Caman and Cban strategies, focusing on workflow improvement and monitoring systems, which are not related to employee engagement.",
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 34.65,
+    "ai_mentions": 0.3,
+    "ai_alignment": 4.8,
+    "ai_depth": 3.7,
+    "ai_intent": 4.1,
+    "ai_audience": 6.0,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content is tightly focused on workflow visibility, process improvement, transparency, and flow metrics as technical and systemic tools. There are implicit touches on team empowerment and the idea that increased transparency could motivate change, but the discussion is centered on system/process—not directly on individual or group motivation, commitment, culture, recognition, feedback loops, or psychological/social drivers. Employee engagement is not mentioned by name, nor is it deeply discussed in terms of theory or strategy. The audience (teams and practitioners) does partly overlap, but the intent is to improve workflow efficiency rather than address the human factors underpinning engagement as defined by the category. Thus, there is only a partial thematic connection with little depth.",
+    "reasoning_summary": "Content focuses on workflow transparency and continuous improvement, not on motivation or commitment. Employee engagement is not directly mentioned or meaningfully explored; thematic overlap is light and indirect, so fit with the category is weak.",
     "level": "Ignored"
   },
   "Product Strategy": {

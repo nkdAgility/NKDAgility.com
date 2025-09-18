@@ -37,6 +37,7 @@ tags:
   - Software Development
   - Agile Frameworks
   - Agile Product Management
+  - Personal
 Watermarks:
   description: 2025-05-07T13:12:04Z
   short_title: 2025-07-07T17:54:58Z

@@ -1128,16 +1128,23 @@
     "level": "Ignored"
   },
   "Organisational Psychology": {
+    "resourceId": "zLhc3UKUWOj",
     "category": "Organisational Psychology",
-    "calculated_at": "2025-04-30T10:42:45",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses technical aspects of automation, DevOps, and engineering practices without directly addressing psychological principles or theories related to organisational behaviour. While it touches on concepts like team autonomy and self-management, these are framed within a technical context rather than a psychological one. The focus is on systems and processes rather than the psychological factors influencing motivation, engagement, or team dynamics.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 40.98,
+    "ai_mentions": 0.7,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.2,
+    "ai_intent": 3.7,
+    "ai_audience": 5.1,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content centers on technical practices—unified engineering systems, DevOps tooling, and platform engineering. While it touches on developer experience, cognitive load, and team autonomy/boundaries within system constraints, explicit themes of motivation, engagement, or psychological safety are minor or implied. There is no direct mention of Organisational Psychology or core psychological theories; any fit is indirect. The substantial focus is on engineering strategy and toolchain consolidation, not psychological principles influencing motivation or team dynamics.",
+    "reasoning_summary": "Content's primary focus is technical (DevOps, platform engineering). Only slight, implied overlap with organisational psychology (developer experience, cognitive load, autonomy). Low confidence for this category; fit is partial and incidental.",
+    "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",

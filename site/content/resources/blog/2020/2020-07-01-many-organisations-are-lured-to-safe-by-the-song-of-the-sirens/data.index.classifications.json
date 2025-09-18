@@ -1476,12 +1476,22 @@
     "level": "Ignored"
   },
   "Personal": {
+    "resourceId": "kmQceaX7e-O",
     "category": "Personal",
-    "calculated_at": "2025-02-14T09:25:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily critiques the SAFe framework and discusses its implications for organisations, lacking personal anecdotes or reflections.",
+    "calculated_at": "2025-09-17T23:13:10",
+    "ai_confidence": 27.695,
+    "ai_mentions": 2.1,
+    "ai_alignment": 3.4,
+    "ai_depth": 3.9,
+    "ai_intent": 3.2,
+    "ai_audience": 3.8,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 3,
+    "ai_penalty_details": "Mentions: -1 for minimal explicit use of personal references. Alignment: -1 for predominantly critical/analytical tone rather than personal reflection. Signal: -1 for substantial off-topic critique and lack of focused personal anecdote.",
+    "final_score": 28.0,
+    "reasoning": "The content is written in a critical, analytical tone that largely critiques the adoption of SAFe and the resulting bureaucracy in organizations. While it uses metaphors and offers an occasional first-person remark ('I talk often of...'), it lacks personal stories, anecdotes, or reflections rooted in unique individual experience. The majority of the discussion revolves around the negative effects of SAFe, comparisons to Taylorism, and general organizational trends—these are not explicitly personal and are not presented as unique individual insight or anecdote. The main intent is critique/analysis rather than sharing a personal journey, experience, or interpretation. The primary audience seems to be organizational leaders or practitioners at large, not specifically individuals interested in personal journeys or reflections. Penalties were applied for minimal personal referencing, focus on general analysis rather than subjective narrative, and signal-to-noise reduction from a predominance of generalized critique over direct personal insight.",
+    "reasoning_summary": "This content is more of a critical analysis than a personal reflection. It lacks individual anecdotes, personal insights, or subjective stories, so only partially fits the Personal category by definition. Overall fit is limited and mostly tangential.",
     "level": "Ignored"
   },
   "Leadership": {

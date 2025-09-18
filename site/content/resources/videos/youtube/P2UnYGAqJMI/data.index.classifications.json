@@ -204,13 +204,23 @@
     "level": "Primary"
   },
   "Sociotechnical Systems": {
+    "resourceId": "P2UnYGAqJMI",
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T14:25:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile practices and burndowns without addressing the interplay between technology and organisational structures.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:49",
+    "ai_confidence": 46.11,
+    "ai_mentions": 1.2,
+    "ai_alignment": 5.5,
+    "ai_depth": 4.8,
+    "ai_intent": 5.0,
+    "ai_audience": 6.0,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 46.0,
+    "reasoning": "The content critiques Agile burndown charts and advocates for minimal, adaptive planning and continuous flow. While it touches on team frustration, adaptability, and developer satisfaction, the discussion is mostly at the process/tool usage level, not synthesizing broader organisational, cultural, or technical interactions. There is some acknowledgment of team dynamics and outcomes (happier developers, improved productivity), which slightly aligns with sociotechnical concepts, but the central theme is on process improvement within teams, not systemic interactions between social and technical layers at the organisational or structural level. Audience is Agile practitioners or coaches, consistent with the category, and the signal is moderate, but conceptual and depth alignment remain limited.",
+    "reasoning_summary": "This content primarily addresses Agile planning processes, with only modest reference to team dynamics and productivity. Core sociotechnical topics (systemic interplay between technical and social factors) are not directly or deeply discussed; fit with the category is partial and indirect.",
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",

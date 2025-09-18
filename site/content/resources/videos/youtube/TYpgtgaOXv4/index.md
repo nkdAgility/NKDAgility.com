@@ -40,6 +40,7 @@ tags:
   - Pragmatic Thinking
   - Agile Planning
   - Agile Planning Tools
+  - Personal
   - Operational Practices
   - Transparency
   - Customer Focus
