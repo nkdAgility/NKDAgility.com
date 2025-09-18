@@ -1431,12 +1431,22 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "DdQ1nKvk-hv",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-11T20:33:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on team dynamics rather than the application lifecycle management processes.",
+    "calculated_at": "2025-09-17T23:12:57",
+    "ai_confidence": 37.85,
+    "ai_mentions": 0.1,
+    "ai_alignment": 3.2,
+    "ai_depth": 4.1,
+    "ai_intent": 4.8,
+    "ai_audience": 6.4,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "Direct mentions of Application Lifecycle Management (ALM) are entirely absent. The piece frames Scrum through team roles but focuses on accountability, leadership, and value creation across leadership, value, and technical tracks. While these roles touch important areas within product and application development, there is minimal direct conceptual alignment to ALM’s holistic management of the full application lifecycle, as defined (methodologies, governance, ALM tools, lifecycle stages, metrics, risk/changes management, etc.). The depth reflects some structure regarding who contributes value in Scrum, but not how that structure supports or governs the application lifecycle. The audience (technical/organizational leaders and practitioners) partially matches, and most content is relevant to its own narrative, just not to ALM. Confidence reflects a weak, indirect alignment — at most, the article helps readers understand team composition for successful product delivery, but it does not address the broader, systematic, or governance aspects of ALM.",
+    "reasoning_summary": "Content discusses team roles in Scrum for product delivery but lacks explicit/implicit focus on Application Lifecycle Management. Alignment is weak and indirect—no mention of ALM stages, governance, or tools. Overall, fit to ALM category is poor.",
     "level": "Ignored"
   },
   "Value Stream Management": {

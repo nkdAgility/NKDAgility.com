@@ -174,12 +174,22 @@
     "level": "Ignored"
   },
   "Revenue per Employee": {
+    "resourceId": "d4jyFSYdS2v",
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-18T00:46:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a training course for Azure Repos and software development practices, with no mention of revenue, financial metrics, or productivity analysis related to employee performance.",
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 1.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.8,
+    "ai_audience": 1.5,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content is solely focused on teaching Azure Repos usage for software development. There are no direct mentions of Revenue per Employee, nor any financial observability concepts. The audience, purpose, and discussion depth are entirely technical and tooling-oriented, with zero connection to workforce efficiency, financial metrics, or usage of Revenue per Employee as an empirical signal. The subject matter is unrelated to the definition or key topics of the category, and none of the exclusions (e.g., unstructured commentary or HR reviews) apply, as the content is structured training material about DevOps tools.",
+    "reasoning_summary": "Content is a technical training on Azure Repos with no reference to Revenue per Employee. There is no conceptual, thematic, or audience alignment with the category; fit is minimal to nonexistent.",
     "level": "Ignored"
   },
   "Definition of Ready": {

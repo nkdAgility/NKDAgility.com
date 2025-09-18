@@ -1331,12 +1331,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "whKX9Mn1eb8",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T17:25:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses quality engineering and the shift left concept, with no clear focus on Kanban principles or practices.",
+    "calculated_at": "2025-09-17T23:12:30",
+    "ai_confidence": 6.3,
+    "ai_mentions": 0.25,
+    "ai_alignment": 2.35,
+    "ai_depth": 2.1,
+    "ai_intent": 2.15,
+    "ai_audience": 5.0,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content never directly references Kanban. Its primary theme is 'shift left' within software QA and development; while it discusses collaboration, continuous improvement, and early testing—concepts sometimes present in Kanban implementations—they are not positioned within Kanban's principles or practices. No discussion exists of Kanban's visual workflows, WIP limits, metrics, or roles. The audience (software practitioners) could overlap with Kanban users, but topical fit is weak; no penalties applied, as the tone and examples remain relevant and contemporary.",
+    "reasoning_summary": "This content is about shift-left QA in software development. It does not discuss or mention Kanban, nor does it reference Kanban principles or practices. The fit with Kanban is minimal and only partially overlaps in process improvement concepts.",
     "level": "Ignored"
   },
   "Value Stream Management": {

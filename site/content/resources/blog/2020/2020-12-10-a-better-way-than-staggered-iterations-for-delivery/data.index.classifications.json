@@ -1502,13 +1502,23 @@
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
+    "resourceId": "DOMFzBBMzfq",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-13T22:01:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and Scrum practices, focusing on delivery processes rather than the comprehensive management of the application lifecycle.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:13:01",
+    "ai_confidence": 57.55,
+    "ai_mentions": 1.1,
+    "ai_alignment": 6.6,
+    "ai_depth": 6.3,
+    "ai_intent": 6.0,
+    "ai_audience": 5.7,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 58.0,
+    "reasoning": "Direct mentions are very limited -- ALM is not named or referenced directly. The content strongly aligns thematically with Agile delivery within teams, cross-functionality, test-first, and working software, which are relevant to managing aspects of the application lifecycle, especially at the development and deployment stages. However, the discussion is centered mostly on Scrum/Agile process improvement and minimizing technical debt by changing iteration strategies, not on holistic lifecycle management (conception, governance, compliance, maintenance, retirement, etc.). Depth of discussion is good around iteration approaches and working software, but is shallow on formal lifecycle governance, tools, or metrics outside iterative delivery. The audience (Scrum/Agile teams, technical leaders) partially overlaps but is less focused on ALM specialists/strategists. Most of the signal is on Scrum team practices and iteration setup, not broader lifecycle management, so signal-to-noise is moderate. No outdated or critical tone, so no penalties. Overall, while some content overlaps with ALM (notably in practices fostering agility/DevOps and continuous delivery), the primary intent and scope is Scrum iteration strategy rather than full-spectrum application lifecycle oversight, so confidence is moderate and fit is partial.",
+    "reasoning_summary": "Content aligns partly with ALM via Agile/DevOps delivery practices, but focus is on Scrum iteration tactics, not end-to-end application lifecycle management. Fit is partial; ALM is relevant but not the main frame, and direct mentions are scarce.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",

@@ -820,12 +820,22 @@
     "level": "Ignored"
   },
   "Psychological Safety": {
+    "resourceId": "dGSGEOYRJAo",
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-15T08:56:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses process templates and frameworks for Agile development, specifically focusing on the merits of Scrum over Agile and CMMI, without addressing psychological safety or its impact on team dynamics.",
+    "calculated_at": "2025-09-17T23:12:58",
+    "ai_confidence": 7.85,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.0,
+    "ai_intent": 1.95,
+    "ai_audience": 0.7,
+    "ai_signal": 1.25,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content provides a detailed discussion about process templates in TFS/VSTS, emphasizing how Scrum templates reduce organizational friction and encourage agility. However, it never mentions psychological safety directly, nor does it focus on team environments where members feel safe to take risks or make mistakes. The primary thematic weight is on technical configuration, template modeling, and optimizing process fit, not on fostering open communication, risk-taking, or leadership techniques that impact psychological safety. There are only glancing implications for team comfort (minimizing friction, enabling adaptation), but these are not explored with psychological safety concepts, terms, or intent.",
+    "reasoning_summary": "Content is about template selection in TFS/VSTS and how this affects agility and work practices. It does not address or discuss psychological safety, nor does it focus on its concepts or impacts. Fit is minimal and essentially indirect.",
     "level": "Ignored"
   },
   "Engineering Excellence": {

@@ -256,12 +256,22 @@
     "level": "Ignored"
   },
   "Technical Mastery": {
+    "resourceId": "KjSRjkK6OL0",
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T21:48:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-17T23:12:56",
+    "ai_confidence": 27.55,
+    "ai_mentions": 1.0,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.6,
+    "ai_intent": 3.7,
+    "ai_audience": 7.0,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content primarily critiques ineffective Scrum Master behaviors, focusing on poor facilitation, excessive reporting, and blocking communication. While these can affect engineering outcomes, the discussion centers around team dynamics and Scrum role pitfalls rather than technical craftsmanship, engineering practices, or tools. There is minimal explicit mention of software quality, design, architecture, or Agile engineering excellence per the category definition. The audience overlaps with technical practitioners, but most themes address soft skills and workflow issues, not technical mastery.",
+    "reasoning_summary": "The topic focuses mostly on Scrum Master behaviors and team dynamics, not on technical practices or mastery. Fit with Technical Mastery is weak and mostly tangential, with little discussion of software engineering excellence.",
     "level": "Ignored"
   },
   "Sprint Review": {

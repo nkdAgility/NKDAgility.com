@@ -1360,12 +1360,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "Fgla_Oox_sE",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T07:43:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of product ownership and marketing strategies rather than engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 23.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.9,
+    "ai_intent": 2.4,
+    "ai_audience": 8.1,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses almost exclusively on the marketing and communication skills of Product Owners—using marketing to communicate vision, build engagement, and align stakeholders. No explicit references are made to Technical Excellence, and core engineering practices (TDD, CI/CD, modular architecture) are not discussed. Some indirect relevance exists via the concepts of engagement and alignment potentially supporting higher-quality output, but technical practices and their improvement are not explored. The content targets practitioners but is principally about soft skills linked to ownership, not technical engineering principles.",
+    "reasoning_summary": "Content is focused on product vision, marketing, and engagement—not technical excellence or engineering practices. Only a partial, very indirect fit occurs via discussion of alignment and value delivery, but not technical themes.",
     "level": "Ignored"
   },
   "Organisational Agility": {

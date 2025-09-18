@@ -1382,12 +1382,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "pyk0CfSobzM",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T03:22:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum estimation techniques and Agile philosophy without a clear focus on engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-17T23:12:50",
+    "ai_confidence": 34.31,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.6,
+    "ai_intent": 3.2,
+    "ai_audience": 6.7,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content discusses estimation practices in Scrum teams, focusing on shared understanding, uncertainty, and the difference between estimation and sizing. However, it does not explicitly mention or thoroughly explore concepts central to Technical Excellence, such as TDD, CI/CD, modular architecture, or engineering principles that improve software quality. The main theme is about handling uncertainty and process guidance within Scrum rather than about advanced technical practices or excellence. Audience targeting is somewhat aligned to practitioners, but signal is moderate due to digressions into analogy and Agile philosophy. There are no outdated practices or critical tone to justify penalties.",
+    "reasoning_summary": "The content addresses Scrum estimation uncertainty and shared understanding but does not directly discuss technical excellence topics like engineering practices; fit is marginal and conceptual alignment is weak.",
     "level": "Ignored"
   },
   "Organisational Agility": {

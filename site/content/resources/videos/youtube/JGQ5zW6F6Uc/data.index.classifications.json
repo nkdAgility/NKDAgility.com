@@ -248,12 +248,22 @@
     "level": "Ignored"
   },
   "Deployment Frequency": {
+    "resourceId": "JGQ5zW6F6Uc",
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T23:36:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of the product owner and the Scrum Master in Agile teams, focusing on their responsibilities and interpersonal dynamics, with no mention of deployment frequency or related practices.",
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 9.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.5,
+    "ai_audience": 2.2,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content does not mention deployment frequency explicitly or implicitly. Its focus is entirely on team dynamics, especially concerning ineffective Product Owners in Agile teams. None of its recommendations, analysis, or anecdotes reference software release cadence, deployment intervals, or related metrics. While the audience is Agile practitioners (a possible overlap), there is no substantive discussion or even tangential link to deployment frequency concepts—neither as a consequence of ineffective Product Owners nor as a point of optimisation. All dimensions score extremely low, resulting in a minimal confidence score for this category.",
+    "reasoning_summary": "The content does not address deployment frequency at all. Its topic and intent are team roles and effectiveness in Agile, not the cadence or optimisation of software deployments. No fit with the category definition.",
     "level": "Ignored"
   },
   "Customer Retention": {

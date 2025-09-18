@@ -1364,12 +1364,22 @@
     "level": "Tertiary"
   },
   "Kanban": {
+    "resourceId": "4ukwclfJlXy",
     "category": "Kanban",
-    "calculated_at": "2025-02-11T21:19:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-17T23:13:01",
+    "ai_confidence": 1.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.4,
+    "ai_audience": 0.5,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content is exclusively focused on Scrum backlog refinement, Sprint Planning, and practices/roles from Scrum, with no direct or indirect mention of Kanban, its principles, or tools. It does not discuss Kanban's visualisation of workflow, WIP limits, or flow management, nor does it reference any practices from the Kanban methodology. The audience, concepts, and practical concerns are fully aligned with Scrum, not Kanban.",
+    "reasoning_summary": "This content only discusses Scrum backlog refinement and related events, with no mention or use of Kanban concepts or practices. There is no alignment or fit with the Kanban category.",
     "level": "Ignored"
   },
   "Value Delivery": {

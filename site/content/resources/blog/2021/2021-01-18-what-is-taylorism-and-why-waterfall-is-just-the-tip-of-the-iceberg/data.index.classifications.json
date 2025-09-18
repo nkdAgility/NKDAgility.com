@@ -520,12 +520,22 @@
     "level": "Tertiary"
   },
   "Automated Testing": {
+    "resourceId": "wYwQygBrmgx",
     "category": "Automated Testing",
-    "calculated_at": "2025-02-11T20:57:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses traditional project management methodologies and their historical context, focusing on Taylorism and its impact on work practices, rather than automated testing principles or practices.",
+    "calculated_at": "2025-09-17T23:12:50",
+    "ai_confidence": 2.29,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.0,
+    "ai_intent": 2.2,
+    "ai_audience": 4.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content delves deeply into the history and legacy of Taylorism and critiques bureaucratic, hierarchical management practices typified by Waterfall. It contrasts these with modern Agile and Lean approaches and very briefly nods to the increased complexity of cognitive work environments like software development. However, at no point does the article mention or focus on automated testing, testing principles, frameworks, tools, or CI/CD practices. Testing is only referenced in a generic listing of business domains. Thus, the content doesn't directly or substantially address the principles, practices, or technical details of automated testing, nor is this its primary intent or purpose. The target audience overlaps somewhat (management and Agile practitioners), but the overwhelming signal is focused on management philosophies, organizational structure, and team autonomy, not on automated testing.",
+    "reasoning_summary": "This content does not fit the 'Automated Testing' category. It focuses on Taylorism, organizational practices, and Agile mindsets, with virtually no mention or substantive discussion of automated testing or related practices.",
     "level": "Ignored"
   },
   "Site Reliability Engineering": {

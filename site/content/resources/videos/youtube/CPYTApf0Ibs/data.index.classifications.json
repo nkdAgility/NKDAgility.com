@@ -251,12 +251,22 @@
     "level": "Ignored"
   },
   "Azure Repos": {
+    "resourceId": "CPYTApf0Ibs",
     "category": "Azure Repos",
-    "calculated_at": "2025-02-12T08:30:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile transformation and team alignment with product vision, with no mention of Azure Repos or related functionalities.",
+    "calculated_at": "2025-09-17T23:12:57",
+    "ai_confidence": 6.75,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 1.3,
+    "ai_signal": 2.15,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is entirely focused on Agile alignment, product vision, team understanding, and organizational leadership. It doesn't mention Azure Repos, source control, Git/TFVC, or any related tooling or integrations. There are no implicit or explicit connections to Azure Repos functionalities, best practices, or usage. The audience is Agile practitioners and leaders, but not those seeking Azure Repos guidance. Depth and alignment are very low, as all discussion centers on vision/strategy and team dynamics, with no overlap or example tied to source control or Azure Repos scenarios.",
+    "reasoning_summary": "Content is fully focused on Agile vision, team alignment, and leadership—not Azure Repos, source control, or related tooling. It does not fit this category in topic, theme, or intention. Fit is entirely absent.",
     "level": "Ignored"
   },
   "Transparency": {

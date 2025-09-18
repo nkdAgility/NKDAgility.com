@@ -237,12 +237,22 @@
     "level": "Tertiary"
   },
   "Test Automation": {
+    "resourceId": "Fo49oedF34g",
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T19:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile leadership and Scrum practices, with no mention of test automation.",
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 3.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 0.7,
+    "ai_audience": 0.5,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content exclusively discusses agile leadership versus traditional management, focusing on collaboration, adaptability, and improvement. There are no direct mentions or discussions related to test automation, frameworks, tools, or practices. The audience and intent do not align with test automation but with general agile coaching and leadership. There is no noise about test automation, but also no signals for it. Hence, the confidence that this fits under 'Test Automation' is extremely low, only slight consideration given for themes of improvement which only minimally overlap.",
+    "reasoning_summary": "This content focuses on agile leadership and team management, with no mention or discussion of test automation. Themes, intent, and audience do not align with the 'Test Automation' category.",
     "level": "Ignored"
   },
   "Technical Mastery": {

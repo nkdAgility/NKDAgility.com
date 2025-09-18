@@ -278,16 +278,23 @@
     "level": "Ignored"
   },
   "Project Management": {
+    "resourceId": "pTZaZcASniA",
     "category": "Project Management",
-    "calculated_at": "2025-04-10T21:46:07",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on the challenges of modernising legacy systems and the role of CTOs in addressing these issues. While it touches on aspects of project management, such as the need for gradual transitions and managing tech debt, it lacks direct discussions of core project management principles, methodologies, or lifecycle phases. The mention of DevOps and NKD Agility suggests some alignment with project management practices, but the overall focus is more on technical challenges rather than comprehensive project management strategies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 67.3,
+    "ai_mentions": 1.4,
+    "ai_alignment": 7.8,
+    "ai_depth": 7.6,
+    "ai_intent": 7.1,
+    "ai_audience": 7.3,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 67.0,
+    "reasoning": "The content discusses modernisation of legacy systems focusing on strategic decision-making, process alignment, compliance, risk, and incremental improvements—clear themes in project management. Though terms like 'project management' and methodologies aren't directly used, it targets project leaders, discusses managing systems of work, organisational change, trade-offs, and the broader impact on organisational objectives. The discussion is substantive, going beyond surface issues to practical strategy, stakeholder concerns, and change management, with clear audience alignment (CTOs, tech strategists) likely involved in project management decisions. Some depth and relevance lost due to absence of explicit project management terminology, tools, or frameworks, and not all readers may see it as classic project management guidance.",
+    "reasoning_summary": "Content fits project management via its focus on strategy, incremental improvements, compliance, and organisational change in legacy system modernisation—relevant themes, but lacks explicit project management terminology. Fit is substantive but somewhat indirect.",
+    "level": "Secondary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",

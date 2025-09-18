@@ -246,12 +246,22 @@
     "level": "Tertiary"
   },
   "Azure Repos": {
+    "resourceId": "XuePm2RAZa0",
     "category": "Azure Repos",
-    "calculated_at": "2025-02-11T20:17:46",
+    "calculated_at": "2025-09-17T23:12:50",
     "ai_confidence": 0,
-    "non_ai_confidence": 0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.0,
+    "ai_intent": 0.1,
+    "ai_audience": 1.0,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile leadership and evidence-based management, with no mention of Azure Repos or related functionalities.",
+    "reasoning": "The content focuses entirely on Evidence-Based Management, agile leadership, and Scrum.org training. There is not a single mention or implied discussion of Azure Repos, source control, branching, code review, or any related DevOps tooling. The target audience (agile leaders, management, EBM practitioners) isn't a mismatch, but the content is off-topic for Azure Repos. All scoring dimensions reflect the total absence of relevant subject matter. No penalty deductions necessary since nothing is outdated or contradictory to the Azure Repos framing; it's simply unrelated.",
+    "reasoning_summary": "This content discusses Evidence-Based Management training and agile leadership, with no reference to Azure Repos or related source control topics. There is zero fit with the Azure Repos category.",
     "level": "Ignored"
   },
   "Transparency": {

@@ -1340,12 +1340,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "JVZzJZ5q0Hw",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T05:35:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-17T23:12:46",
+    "ai_confidence": 2.61,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.4,
+    "ai_intent": 2.0,
+    "ai_audience": 3.1,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content exclusively discusses the Sprint Goal in Scrum, explaining its tactical role, importance, and how it guides Scrum teams. There are no mentions of Kanban, nor any references to its principles, practices, metrics, or audience. The main concepts, intent, and details are tightly scoped to Scrum and are misaligned with Kanban methodology. Thus, all scores are set very low with zero for direct mentions and minimal credits for incidental audience overlap or general Agile context.",
+    "reasoning_summary": "The content focuses entirely on Scrum sprint goals, with no reference to Kanban principles, practices, or intent. There is no conceptual or practical fit with the Kanban category.",
     "level": "Ignored"
   },
   "Value Delivery": {

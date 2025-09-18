@@ -1435,13 +1435,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "nhkUm6k4Q0A",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T04:07:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile coaching and Scrum principles, which are not directly related to Application Lifecycle Management.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:13:04",
+    "ai_confidence": 43.03,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.6,
+    "ai_intent": 4.2,
+    "ai_audience": 5.1,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "The content thoroughly discusses Agile coaching, agnosticism, and team empowerment in practice/method choice. While it references practices foundational to managing software teams, it does not explicitly discuss tools, methodologies, or governance over the entire application lifecycle, nor ALM's distinct stages or frameworks. The main focus is effective coaching and practice flexibility—not ALM oversight, measurement, or governance. Although Agile practices are part of ALM, the text is not directly addressing ALM as defined, and references to ALM topics are at best implicit, partial, or tangential.",
+    "reasoning_summary": "Primary focus is Agile coaching and practice agnosticism, not end-to-end application lifecycle management. Content addresses some relevant principles but lacks depth on ALM tools, governance, or lifecycle-stage management. Only a partial fit.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

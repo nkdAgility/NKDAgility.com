@@ -1338,12 +1338,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "l3NhlbM2gKM",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T04:50:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-17T23:13:03",
+    "ai_confidence": 3.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.6,
+    "ai_intent": 0.4,
+    "ai_audience": 0.8,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is entirely focused on Scrum, specifically the use and misconceptions around story points, and does not discuss Kanban principles, practices, boards, flow, or metrics. There is no mention or implicit reference to Kanban, its methods, or use cases. While the intended audience (Agile practitioners) somewhat overlaps, the main ideas, purpose, and advice are unrelated to Kanban. Small scores are assigned in alignment, depth, and intent due to broad Agile context, but no substantial connection exists. No penalties were needed because the piece is not outdated nor critical of Kanban—just unrelated.",
+    "reasoning_summary": "Content focuses exclusively on Scrum and story points, with no mention or discussion of Kanban principles, practices, or terminology. There is no apparent fit with the Kanban category. Audience overlap is minimal and incidental.",
     "level": "Ignored"
   },
   "Value Delivery": {

@@ -316,12 +316,22 @@
     "level": "Secondary"
   },
   "Miscellaneous": {
+    "resourceId": "2tlzlsgovy0",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T12:42:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the importance of product vision in Agile teams, directly linking to Agile principles and practices.",
+    "calculated_at": "2025-09-17T23:12:58",
+    "ai_confidence": 22.65,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.0,
+    "ai_intent": 2.3,
+    "ai_audience": 7.3,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on agile teams, product vision, and empowerment, but repeatedly mentions 'Agile', 'agile mindset', and 'agile philosophy'—directly referencing established principles. Although fairly general, its themes, intent, language, and practical advice are embedded within recognized Agile frameworks. The purpose aligns with promoting Agile best practices, not miscellaneous discussion. The only possible alignment comes from its anecdotal tone and lack of explicit framework names (like Scrum or Kanban), but overall, it actively applies Agile principles and vocabulary.",
+    "reasoning_summary": "The content applies Agile principles and targets an Agile audience, offering practical advice; it is not miscellaneous. Direct references to 'agile philosophy' and structured guidance prevent strong alignment with the Miscellaneous category.",
     "level": "Ignored"
   },
   "Organisational Agility": {

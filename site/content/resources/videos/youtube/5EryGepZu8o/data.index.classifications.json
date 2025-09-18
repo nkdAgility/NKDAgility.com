@@ -1427,12 +1427,22 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "5EryGepZu8o",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T10:51:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum principles and practices, which are not directly related to Application Lifecycle Management.",
+    "calculated_at": "2025-09-17T23:13:01",
+    "ai_confidence": 26.31,
+    "ai_mentions": 0.8,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.7,
+    "ai_intent": 2.3,
+    "ai_audience": 9.2,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content is focused on Scrum’s empiricism, transparency, inspection, adaptation, and complexity—core agile principles. It makes only indirect and minor references to themes (like visibility of work, inspection/adaptation cycles) that are peripherally relevant to ALM, but does not discuss managing the full application lifecycle, governance, lifecycle tools, change management, or ALM frameworks. Audience overlap is high, as both topics address agile practitioners. Signal-to-noise ratio is relatively strong, but direct conceptual alignment and in-depth discussion specific to ALM are highly limited.",
+    "reasoning_summary": "This content centers on Scrum’s empirical principles, not Application Lifecycle Management. Only tangential connections exist, and the main focus is on agile mindset and team practices, not lifecycle management.",
     "level": "Ignored"
   },
   "Value Stream Management": {

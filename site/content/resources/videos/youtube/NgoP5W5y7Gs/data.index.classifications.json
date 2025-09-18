@@ -1357,13 +1357,23 @@
     "reasoning_summary": "This content is relevant to the Technical Excellence category because it highlights the integration of security within software development, referencing practices like 'shifting left' and refactoring. While it addresses key engineering methods, its primary focus is on security rather than a full exploration of technical excellence topics, making the fit appropriate but not exhaustive."
   },
   "Organisational Agility": {
+    "resourceId": "NgoP5W5y7Gs",
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-12T04:10:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses security practices and the importance of integrating security into the software development process, rather than focusing on organisational agility or adaptability.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:42",
+    "ai_confidence": 79.47,
+    "ai_mentions": 4.7,
+    "ai_alignment": 8.9,
+    "ai_depth": 8.4,
+    "ai_intent": 8.0,
+    "ai_audience": 8.7,
+    "ai_signal": 8.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 79.0,
+    "reasoning": "The content deeply explores shift-left practices (TDD, pair programming, continuous feedback) to enhance product quality and security, drawing links to organizational transformation (e.g., the Azure DevOps case) and cultural/structural change. While 'Organisational Agility' isn't frequently named directly, the conceptual focus strongly aligns—empowered cross-functional teams, continuous learning, faster customer feedback, and adaptability are emphasized throughout. The audience and purpose target practitioners and leaders seeking to foster agility. The discussion is thorough and largely on-topic, though slightly more focused on team-level and engineering aspects than on high-level structural agility or organizational leadership transformation per se.",
+    "reasoning_summary": "Strong conceptual alignment: shift-left practices are presented as enablers of broader agility, with case evidence and cultural implications. Not many direct mentions, but substantial coverage. Fit is robust but slightly more technical than organizational.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",

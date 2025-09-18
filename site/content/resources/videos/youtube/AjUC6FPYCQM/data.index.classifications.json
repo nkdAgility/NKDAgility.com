@@ -1420,12 +1420,22 @@
     "level": "Ignored"
   },
   "Deployment Frequency": {
+    "resourceId": "AjUC6FPYCQM",
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-18T10:22:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices and their application, without a clear focus on deployment frequency.",
+    "calculated_at": "2025-09-17T23:12:56",
+    "ai_confidence": 13.12,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.2,
+    "ai_intent": 1.4,
+    "ai_audience": 3.0,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on professionalism and standards within Scrum and Agile teams, emphasizing concepts like production-ready increments, requirements quality, and team maturity. While deployment readiness is mentioned, there is no explicit or in-depth discussion of deployment frequency, CI/CD, or strategically optimizing release intervals. The text centers on work ethic and the cultural/procedural gaps in achieving professionalism, not on frequent software deployments or the technical practices associated with deployment frequency in Agile/DevOps. Audience and some themes partially overlap with deployment frequency practitioners, but signal and content focus are not aligned to this category.",
+    "reasoning_summary": "Content centers on Agile/Scrum professionalism, transparency, and production readiness—not on deployment frequency or optimizing release intervals. Overlap with deployment audiences is minor; direct fit to 'Deployment Frequency' is weak and tangential.",
     "level": "Ignored"
   },
   "Evidence Based Management": {

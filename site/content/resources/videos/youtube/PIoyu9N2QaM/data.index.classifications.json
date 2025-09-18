@@ -1328,13 +1328,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "PIoyu9N2QaM",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T03:33:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of a Scrum Master, which is more focused on Scrum methodology rather than the broader principles and practices of business agility.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:13:02",
+    "ai_confidence": 53.82,
+    "ai_mentions": 1.2,
+    "ai_alignment": 5.7,
+    "ai_depth": 5.2,
+    "ai_intent": 6.1,
+    "ai_audience": 7.2,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content focuses narrowly on the distinction and professionalism of the Scrum Master role—central to Agile teams but not directly about business agility as an organisation-wide principle. There is tangential relevance, as a professional Scrum Master contributes to agility, but it does not discuss organisational adaptability, leadership, or the impact of agility at a business level. There are closing motivational statements about building Agile organisations, but there is no deep exploration of business agility strategies, frameworks, or impacts. The audience is practitioners within Scrum and Agile teams, somewhat overlapping with business agility audiences. The content maintains good focus but is ultimately about role professionalism, lacking substantial discussion of business agility per the definition.",
+    "reasoning_summary": "Primarily about Scrum Master professionalism, with only tangential mention of broader Agile organisations. Partial alignment with business agility principles, but lacks depth on organisational-level agility, frameworks, or business adaptation.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",

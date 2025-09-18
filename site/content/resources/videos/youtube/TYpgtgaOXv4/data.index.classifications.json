@@ -1376,13 +1376,23 @@
     "level": "Secondary"
   },
   "Personal": {
+    "resourceId": "TYpgtgaOXv4",
     "category": "Personal",
-    "calculated_at": "2025-02-12T01:01:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product backlog management and its importance in Agile, lacking personal anecdotes or reflections.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:43",
+    "ai_confidence": 82.84,
+    "ai_mentions": 5.9,
+    "ai_alignment": 8.6,
+    "ai_depth": 8.4,
+    "ai_intent": 8.2,
+    "ai_audience": 8.8,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 83.0,
+    "reasoning": "The content includes explicit first-person reflections ('from my experience', 'I’ve seen'), multiple anecdotes about coaching teams, and personal recommendations for backlog management. These are clear personal insights as defined by the category. While a significant portion of content shares practical tips and generalized advice, they are consistently rooted in the author's direct experience and perspective, avoiding technical or purely analytical discussions. The main audience appears to be Agile practitioners and teams, lining up well with the 'Personal' category. Mentions are moderate (personal experience is referenced but not overwhelmingly so), but the depth and intent scores are high because the core of the article is shaped by individual insight and lessons learned. No penalty was required as there is no evidence of outdatedness or contradiction.",
+    "reasoning_summary": "The content fits the Personal category well due to explicit personal anecdotes, reflections, and insights related to Agile backlog management, though it interweaves some practical advice. The overall theme and intent match the definition and audiences of the category.",
+    "level": "Primary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",

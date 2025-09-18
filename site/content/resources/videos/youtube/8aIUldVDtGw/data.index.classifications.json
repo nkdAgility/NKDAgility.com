@@ -286,12 +286,22 @@
     "level": "Ignored"
   },
   "Azure Repos": {
+    "resourceId": "8aIUldVDtGw",
     "category": "Azure Repos",
-    "calculated_at": "2025-02-12T10:23:10",
+    "calculated_at": "2025-09-17T23:12:57",
     "ai_confidence": 0,
-    "non_ai_confidence": 0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "ai_intent": 0.0,
+    "ai_audience": 2.3,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum methodologies and Lean principles without any mention of Azure Repos or related functionalities.",
+    "reasoning": "The content is entirely focused on Lean, Scrum, productivity, and work-in-progress limits. There are no mentions of Azure Repos or its functionalities (e.g., branching, source control, CI/CD, policies). No discussion relates to source control or DevOps tools. The only possible audience overlap is technical teams, but the topic is not relevant to Azure Repos.",
+    "reasoning_summary": "This content does not relate to Azure Repos: it discusses Lean/Scrum principles and productivity, with no reference to source control or Azure Repos features. No topical, conceptual, or intent alignment with the category.",
     "level": "Ignored"
   },
   "Transparency": {

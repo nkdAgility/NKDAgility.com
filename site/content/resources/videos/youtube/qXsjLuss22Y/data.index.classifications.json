@@ -290,12 +290,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "qXsjLuss22Y",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T23:13:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
+    "calculated_at": "2025-09-17T23:12:52",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "ai_intent": 0.0,
+    "ai_audience": 1.0,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "reasoning": "The content discusses sprint goals within the Scrum framework, focusing entirely on Agile practices and team objectives. There are no mentions, indications, or conceptual links to Azure Pipelines, DevOps automation, CI/CD, or any Azure-specific pipeline practices. The target audience is Agile practitioners, not DevOps engineers or Azure Pipeline users. No penalty for outdated information or contradictory tone is necessary; the content is simply irrelevant to the Azure Pipelines category.",
+    "reasoning_summary": "Content is strictly about Scrum and sprint goals, with zero reference to Azure Pipelines or CI/CD. No fit with the assigned category.",
     "level": "Ignored"
   },
   "Team Performance": {

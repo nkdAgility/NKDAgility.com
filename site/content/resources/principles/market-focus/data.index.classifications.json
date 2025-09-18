@@ -1277,13 +1277,23 @@
     "level": "Tertiary"
   },
   "Miscellaneous": {
+    "resourceId": "T6DrE9pN0ds",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-12T21:13:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses user feedback and timelines, which are not central to the Miscellaneous category.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:42",
+    "ai_confidence": 48.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 6.0,
+    "ai_depth": 3.9,
+    "ai_intent": 5.8,
+    "ai_audience": 5.3,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 49.0,
+    "reasoning": "The content mentions adjusting work based on user feedback within a month, but avoids any explicit reference to Agile, Scrum, DevOps, Lean, or EBM philosophies, frameworks, or terminology. The advice is generic and process-agnostic, possibly relevant to various iterative approaches but lacking substantial exploration, actionable detail, or framework-specific cues. Its intention—to urge quick responsiveness—is somewhat aligned to Miscellaneous by not anchoring in any recognised method. However, the discussion is shallow (one sentence) and barely targets a specific audience beyond generic practitioners. The relatively high signal is due to its focus, but overall depth, intent, and conceptual alignment are modest as the content skirts next to, but doesn't enter, any established method category.",
+    "reasoning_summary": "Content is a generic statement on rapidly updating projects from feedback, with no reference to specific Agile or related frameworks. Only a partial fit for Miscellaneous, as its theme is broad and lacks category-specific depth or intent.",
+    "level": "Tertiary"
   },
   "DevOps": {
     "category": "DevOps",

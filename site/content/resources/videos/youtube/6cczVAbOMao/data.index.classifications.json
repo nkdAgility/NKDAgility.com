@@ -1379,12 +1379,22 @@
     "reasoning_summary": "This content fits the category as it explores how the Product Owner manages the backlog to ensure customer value and strategic alignment. While it mainly centres on the Product Owner’s duties, it still addresses essential aspects of value delivery. However, its focus is narrower, emphasising role-specific responsibilities over wider value delivery approaches."
   },
   "Technical Excellence": {
+    "resourceId": "6cczVAbOMao",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T10:40:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a Product Owner in Scrum, focusing on backlog management rather than engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-17T23:12:46",
+    "ai_confidence": 17.25,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.4,
+    "ai_depth": 1.7,
+    "ai_intent": 3.9,
+    "ai_audience": 4.2,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses exclusively on the role of the Product Owner in shaping and maintaining the product backlog, emphasizing leadership, strategy, and vision. It does not mention or thoroughly explore any engineering practices, technical quality, TDD, CI/CD, modular architecture, or any core aspects of Technical Excellence as defined. While it discusses practices that support product delivery, there is only the faintest indirect connection to technical excellence via lean principles and focus, but this is incidental (not the main theme). The audience overlaps somewhat with technical practitioners, but the topic, intent, and themes are not about engineering or code quality.",
+    "reasoning_summary": "This content is about Product Owner leadership and backlog management, not engineering practices or technical excellence. It doesn’t discuss TDD, CI/CD, or code quality, so the fit with 'Technical Excellence' is marginal at best.",
     "level": "Ignored"
   },
   "Organisational Agility": {

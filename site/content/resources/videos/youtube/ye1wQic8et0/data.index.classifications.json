@@ -285,12 +285,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "ye1wQic8et0",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T17:26:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without any specific reference to Azure Pipelines or related CI/CD practices.",
+    "calculated_at": "2025-09-17T23:13:01",
+    "ai_confidence": 7.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.7,
+    "ai_intent": 1.8,
+    "ai_audience": 1.7,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content makes no direct mention of Azure Pipelines or any of its associated practices, tools, or configurations. It broadly discusses organizational agility, committee impact on decision speed, and the benefits of empowering teams, with references to agile, scrum, and DevOps in a general sense. There is no discussion of automation, CI/CD, build or release management, YAML, or any Azure-specific pipeline practice. While the audience might nominally overlap (possibly Agile/DevOps practitioners), neither the themes, technical depth, nor focus align to Azure Pipelines. Nearly all content is off-topic according to the category definition.",
+    "reasoning_summary": "Content does not fit the Azure Pipelines category. It discusses organizational agility and committees, without reference to pipelines, CI/CD, or Azure-specific tooling. Fit is extremely low; topic is unrelated beyond general DevOps/agile themes.",
     "level": "Ignored"
   },
   "Team Performance": {

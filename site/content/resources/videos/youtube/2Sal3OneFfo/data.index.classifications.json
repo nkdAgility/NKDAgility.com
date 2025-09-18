@@ -229,12 +229,22 @@
     "level": "Ignored"
   },
   "Flow Efficiency": {
+    "resourceId": "2Sal3OneFfo",
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T12:15:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration services and tools related to Azure DevOps, without a clear focus on flow efficiency principles or optimisation of work throughput.",
+    "calculated_at": "2025-09-17T23:12:46",
+    "ai_confidence": 23.28,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.7,
+    "ai_intent": 2.0,
+    "ai_audience": 5.6,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content discusses migrating to Azure DevOps, focusing on tools, services, and general workflow improvements such as collaboration, data integrity, and productivity. However, it does not mention flow efficiency, value streams, WIP, bottleneck elimination, or related metrics. There are no explicit or implicit discussions of optimising throughput, nor references to Lean/Agile flow principles. The audience could overlap with those interested in flow efficiency, but the alignment is low, as the main theme is migration rather than process flow optimisation.",
+    "reasoning_summary": "The content is about project migration to Azure DevOps, not flow efficiency. It briefly references process improvements, but lacks focus on throughput, value stream, or related Lean/Agile flow concepts.",
     "level": "Ignored"
   },
   "Systems Thinking": {

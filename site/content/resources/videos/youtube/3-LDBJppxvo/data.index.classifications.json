@@ -268,12 +268,22 @@
     "level": "Tertiary"
   },
   "Platform Engineering": {
+    "resourceId": "3-LDBJppxvo",
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T13:09:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and the importance of delivering working software, without a direct connection to platform engineering or Internal Developer Platforms.",
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 10.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 1.0,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "This content is focused explicitly on core Agile practices, particularly delivering working software iteratively for feedback and improvement. There is no mention or substantial exploration of platform engineering concepts such as Internal Developer Platforms, self-service for developers, or tooling standardization. The automation discussion is limited to test and deployment automation for agility, not the development or operation of internal platforms. The audience and intent are aligned with Agile practitioners, not platform engineers. Thus, the content does not fit the Platform Engineering category beyond very indirect overlap through mentions of deployment automation, which is common to many software practices.",
+    "reasoning_summary": "The content is purely about Agile iteration and delivering working software, lacking platform engineering topics like IDPs or internal platforms. There is no direct mention or intent aligned with Platform Engineering. Fit is negligible.",
     "level": "Ignored"
   },
   "Organisational Agility": {

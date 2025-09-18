@@ -125,12 +125,22 @@
     "level": "Ignored"
   },
   "Windows": {
+    "resourceId": "D1wz-J1jklQ",
     "category": "Windows",
-    "calculated_at": "2025-02-12T15:22:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses deployment strategies and technical debt in software development, with no specific focus on the Windows operating system or its related topics.",
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 7.345,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.3,
+    "ai_intent": 0.1,
+    "ai_audience": 3.195,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses entirely on the benefits of frequent code deployments regarding code quality, technical debt, and iterative development. It does not contain any direct mentions or discussions of the Windows operating system, nor does it cover topics related to Windows installation, configuration, or management. The audience appears to be software development practitioners, which could tangentially overlap with Windows administrators, but the content remains general and environment-agnostic. Thus, very low scores are assigned across the first four dimensions, with slightly higher scores in audience and signal due to a professional engineering focus. No penalties are applied since the content is not outdated or satirical, just off-topic.",
+    "reasoning_summary": "This content does not fit the Windows category. It addresses general software engineering and deployment practices, with no reference to the Windows operating system or its management.",
     "level": "Ignored"
   },
   "Mentoring": {

@@ -636,12 +636,22 @@
     "level": "Ignored"
   },
   "Product Validation": {
+    "resourceId": "PNLCxB2zmUA",
     "category": "Product Validation",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no clear focus on product validation methodologies or practices.",
+    "calculated_at": "2025-09-17T23:12:28",
+    "ai_confidence": 17.09,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.8,
+    "ai_intent": 2.3,
+    "ai_audience": 5.5,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses almost entirely on architectural adaptation and team enablement for handling software change. It does not explicitly discuss user testing, feedback, or practices that validate product ideas with real users. There are no direct mentions or practical application examples of the methodologies (prototyping, A/B testing, feedback loops, etc.) described in the Product Validation category. While concepts like incremental change indirectly relate to risk reduction, the intent is architectural health, not validating assumptions with users. The audience is technical/practitioner, partially overlapping, but the depth and alignment to Product Validation is limited and tangential.",
+    "reasoning_summary": "The content’s focus is architectural adaptation for software change, not validation of product ideas with real users. It lacks direct or substantial alignment to Product Validation methodologies or practices. Fit is low and tangential.",
     "level": "Ignored"
   },
   "Entrepreneurship": {

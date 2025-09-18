@@ -1381,13 +1381,23 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "EoInrPvjBHo",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T07:54:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a product owner in Agile, focusing on team dynamics and engagement rather than technical practices or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:13:05",
+    "ai_confidence": 41.66,
+    "ai_mentions": 0.5,
+    "ai_alignment": 4.7,
+    "ai_depth": 3.3,
+    "ai_intent": 4.1,
+    "ai_audience": 6.2,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content focuses on the behaviors and mindset of Product Owners, contrasting micromanagement with empowering, value-driven leadership. While it emphasizes team autonomy, engagement, and customer value—factors important for quality and outcomes—it does not explore or reference concrete technical practices (such as TDD, CI/CD, architecture, or explicit engineering principles) that define technical excellence. Its main theme is Agile leadership and team empowerment, not engineering or technical practices. Audience is partially aligned (Agile practitioners), but the substance is not deeply technical nor tied to the technical excellence category.",
+    "reasoning_summary": "While touching on product quality and team engagement, the content lacks direct or substantive discussion of engineering practices or principles, making only a partial and indirect fit for Technical Excellence.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

@@ -229,12 +229,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "l331AonWBuN",
     "category": "Kanban",
-    "calculated_at": "2025-02-14T21:51:57",
+    "calculated_at": "2025-09-17T23:13:04",
     "ai_confidence": 0,
-    "non_ai_confidence": 0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.0,
+    "ai_intent": 0.2,
+    "ai_audience": 0.1,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to build permissions and error handling in TFS, with no mention of Kanban principles or practices.",
+    "reasoning": "The content exclusively covers technical troubleshooting for TFS build permissions and orchestration plans. There are no references to Kanban, its principles, or practices. No visualisation of work, flow management, or Kanban-specific concepts are discussed. Audience and intent are entirely unrelated.",
+    "reasoning_summary": "No part of the content relates to Kanban. The topic is TFS build troubleshooting, which does not align with the Kanban category definition, themes, or audience.",
     "level": "Ignored"
   },
   "Technical Excellence": {

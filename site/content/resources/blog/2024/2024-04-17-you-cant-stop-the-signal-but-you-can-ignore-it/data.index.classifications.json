@@ -491,12 +491,22 @@
     "level": "Tertiary"
   },
   "Azure Pipelines": {
+    "resourceId": "KHNSdDjr5K_",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-11T13:19:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on team dynamics and organizational culture, without any mention of Azure Pipelines or related CI/CD practices.",
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 2.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 1.0,
+    "ai_audience": 3.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on Agile and Scrum signals, team culture, and continuous improvement in organizational contexts. Azure Pipelines is never mentioned nor implied. None of its domain topics (build automation, CI/CD, YAML, etc.) are covered. Themes and intent concern general Agile transformation, not Azure DevOps services or pipeline configuration and management. The only overlap is the high-level subject of continuous improvement, which is not specific to nor discussed in the context of Azure Pipelines. Audience alignment is lowest here; practitioners interested in Azure Pipelines would find nothing practical or conceptual about the service. Signal-to-noise ratio is very low as the discussion is entirely off-topic.",
+    "reasoning_summary": "The content is unrelated to Azure Pipelines. It focuses only on Agile/Scrum culture and improvement, with no mention or exploration of Azure DevOps, CI/CD, or pipeline-specific concepts. Fit is extremely poor and unclear.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {

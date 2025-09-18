@@ -1345,13 +1345,23 @@
     "level": "Ignored"
   },
   "Value Delivery": {
+    "resourceId": "UeisJt8U2_0",
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T00:29:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the incompetence of agile coaches and scrum masters, focusing on personal experiences and opinions rather than strategies or methodologies for delivering value to customers.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 67.642,
+    "ai_mentions": 3.7,
+    "ai_alignment": 8.3,
+    "ai_depth": 7.8,
+    "ai_intent": 7.2,
+    "ai_audience": 8.1,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.5,
+    "ai_penalty_details": "mentions penalized 0.4 for not expressly referencing 'value delivery' or measuring value; intent penalized 0.8 for focus being on anti-patterns/competence more than direct value delivery best practices; depth penalized 0.3 due to main discussion being about factors inhibiting value delivery rather than practical strategies for achieving it.",
+    "final_score": 68.0,
+    "reasoning": "The post addresses threats to Agile, focusing on incompetence among coaches/Scrum Masters, adverse impacts, and remedies that implicitly support true value delivery (e.g., fostering an Agile mindset, continuous improvement). However, it does not directly explore value delivery techniques, measurement, or frameworks. 'Value' and 'delivering value' are discussed conceptually, but the main thrust is about correcting dysfunction, not step-by-step discussing how to maximize or measure business/customer value. Good audience and signal fit (targeting practitioners/leaders in Agile/Scrum/DevOps). Some penalty for the discussion being framed against anti-patterns and incompetence rather than a direct Value Delivery how-to or strategy guide.",
+    "reasoning_summary": "Content fits the category moderately, emphasizing barriers to value delivery and steps to restore Agile principles, but lacks direct discussion of value delivery methods, measurement, or optimization. Relevant but not central to the category definition.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

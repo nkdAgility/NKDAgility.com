@@ -1285,12 +1285,22 @@
     "level": "Primary"
   },
   "Miscellaneous": {
+    "resourceId": "ZPRvjlp9i0A",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-12T14:35:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a Q&A session related to DevOps and Agility, with a specific mention of Scrum and Azure DevOps, which are directly linked to established frameworks.",
+    "calculated_at": "2025-09-17T23:12:55",
+    "ai_confidence": 9.05,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.8,
+    "ai_intent": 0.9,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content deeply engages with Agile/Scrum concepts, referencing Product Owners, Project Managers, Scrum, Kanban, Lean, and DevOps—directly applying recognised frameworks. Topics are highly aligned to existing methodologies, not general or tangential, thus missing 'Miscellaneous' fit. No subversive tone, jargon, or obsolete info exists, so no penalties are needed. The minimal scores are mostly due to a light touch in the introduction/conclusion where there's a general tone, but all substantive sections focus on canonical frameworks or roles, strictly excluded from 'Miscellaneous.'",
+    "reasoning_summary": "The content directly explains and applies Scrum, Agile, Lean, and DevOps roles and concepts, clearly aligning with established frameworks. It is not general or tangential, so it has an extremely poor fit with 'Miscellaneous.'",
     "level": "Ignored"
   },
   "Kanban": {

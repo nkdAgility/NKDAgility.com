@@ -201,12 +201,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "-IePwtEoXdo",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-18T07:20:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product discovery and validation skills, without any reference to Azure Pipelines or related concepts.",
+    "calculated_at": "2025-09-17T23:13:02",
+    "ai_confidence": 6.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.2,
+    "ai_intent": 0.4,
+    "ai_audience": 2.0,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The course content focuses exclusively on general product discovery and validation skills, with no mention—direct, implied, or tangential—of Azure Pipelines, CI/CD, DevOps automation, build/release pipelines, YAML, nor any technical tooling. Intended audience is product owners/managers, not technical DevOps or pipeline specialists. All topics align with product development, experimentation, and hypothesis validation, rather than any process automation, code delivery, or Azure ecosystem tooling. The minuscule scores reflect only the faintest overlap: most product teams are part of larger Agile/DevOps organizations, but nothing in the course relates to pipeline-specific concepts.",
+    "reasoning_summary": "This content does not fit the Azure Pipelines category. It covers product discovery, validation, and experimentation, with no reference to automation, pipelines, Azure services, or CI/CD. The fit is not even partial—there is no relevant overlap.",
     "level": "Ignored"
   },
   "Team Performance": {

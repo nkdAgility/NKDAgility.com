@@ -98,12 +98,22 @@
     "level": "Ignored"
   },
   "Windows": {
+    "resourceId": "YVrGU0oZmc0",
     "category": "Windows",
-    "calculated_at": "2025-02-12T15:08:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses feature flags and continuous delivery practices, with no clear focus on the Windows operating system or its functionalities.",
+    "calculated_at": "2025-09-17T23:12:42",
+    "ai_confidence": 1.4,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.1,
+    "ai_intent": 1.4,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content is focused on feature flags, continuous delivery, and development practices, particularly with Azure DevOps as an example. There is no direct mention of Windows, its installation, configuration, or any OS-specific aspects. The themes and intent do not align with the Windows category, and the audience is that of software development/DevOps professionals rather than Windows system administrators or users. No deductions are necessary as there are no obsolete practices or contradictory tones, but the fit with 'Windows' is extremely weak and only marginally present due to Azure, which only tangentially relates to Microsoft (but not specifically Windows OS).",
+    "reasoning_summary": "Content is about feature flags and DevOps with an Azure focus; it does not address Windows OS topics. There is no meaningful thematic or direct relevance to Windows, so categorical fit is extremely low.",
     "level": "Ignored"
   },
   "Mentoring": {

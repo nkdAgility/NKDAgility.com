@@ -243,12 +243,22 @@
     "level": "Ignored"
   },
   "Test Automation": {
+    "resourceId": "AY35ys1uQOY",
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T22:55:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Sprint goals and stakeholder engagement, which are not related to test automation.",
+    "calculated_at": "2025-09-17T23:12:50",
+    "ai_confidence": 8.4,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 0.9,
+    "ai_audience": 2.4,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content does not mention test automation nor discuss any related tools, principles, or practices. It solely covers motivational and cultural aspects of forming impactful sprint goals in Agile teams, with no alignment to test automation. The content is entirely focused on team enthusiasm and defining good Sprint Goals in Scrum, with no references to testing, automation, frameworks, practices, metrics, or CI/CD. As such, all dimensions score extremely low due to the lack of relevance.",
+    "reasoning_summary": "The content does not address test automation at all; it discusses creating inspiring Sprint Goals. No relevant themes, tools, or intent match the 'Test Automation' category. Fit is extremely weak to nonexistent.",
     "level": "Ignored"
   },
   "Technical Mastery": {

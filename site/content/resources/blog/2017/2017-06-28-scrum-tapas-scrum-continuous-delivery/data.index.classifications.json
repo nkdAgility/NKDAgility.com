@@ -225,12 +225,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "LoRDIqNuwD-",
     "category": "Kanban",
-    "calculated_at": "2025-02-14T19:12:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and its relationship with Continuous Delivery, with no mention of Kanban principles or practices.",
+    "calculated_at": "2025-09-17T23:12:56",
+    "ai_confidence": 1.4,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.6,
+    "ai_intent": 0.4,
+    "ai_audience": 2.7,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content solely discusses Scrum and Continuous Delivery, providing no mention or discussion of Kanban or its principles. No Kanban concepts, practices, or metrics are touched upon, and the target audience is Scrum practitioners. Minimal scores are set for all but audience, since Agile overlaps exist, but there's virtually no Kanban fit.",
+    "reasoning_summary": "Content does not address Kanban—focuses exclusively on Scrum and Continuous Delivery, with zero mention or exploration of Kanban practices, making it an extremely poor fit for the Kanban category.",
     "level": "Ignored"
   },
   "Technical Excellence": {

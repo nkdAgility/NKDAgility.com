@@ -98,12 +98,22 @@
     "level": "Tertiary"
   },
   "Coaching": {
+    "resourceId": "4YixczaREUw",
     "category": "Coaching",
-    "calculated_at": "2025-02-12T23:36:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on myths and misconceptions rather than coaching practices or techniques.",
+    "calculated_at": "2025-09-17T23:12:42",
+    "ai_confidence": 39.93,
+    "ai_mentions": 1.1,
+    "ai_alignment": 4.7,
+    "ai_depth": 5.2,
+    "ai_intent": 3.8,
+    "ai_audience": 4.1,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 40.0,
+    "reasoning": "Although the content is focused on myth-busting and clarifying Scrum misconceptions, it does not directly discuss coaching or explicitly address coaching roles, techniques, or practices. The tone and advice somewhat support self-discovery and empowerment—tenets of coaching—but these are embedded within general Scrum guidance rather than an intent to teach coaching or facilitate growth as a coach would. There are hints of encouraging teams to reassess their practices and trust developers, yet these align more closely with fostering Scrum understanding than structured, deliberate coaching. There is little to no explicit mention of coaching frameworks, roles, methodologies, or tools. Thus, while some secondary alignment exists in themes of empowerment and team development, coaching is not a significant or primary focus in this piece.",
+    "reasoning_summary": "The content focuses on debunking Scrum myths and clarifying framework principles, with only indirect references to coaching themes. Direct discussion of coaching practices, roles, or intent is largely absent, so fit to the 'Coaching' category is low.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {

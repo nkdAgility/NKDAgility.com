@@ -495,12 +495,22 @@
     "level": "Ignored"
   },
   "Portfolio Management": {
+    "resourceId": "c_gS0nlQD9E",
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-14T20:52:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps practices and site reliability engineering, with no clear alignment to portfolio management concepts.",
+    "calculated_at": "2025-09-17T23:13:08",
+    "ai_confidence": 18.305,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.35,
+    "ai_intent": 1.8,
+    "ai_audience": 6.4,
+    "ai_signal": 5.55,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1,
+    "ai_penalty_details": "1 point deducted from alignment due to content being somewhat outdated (2018 focus, with note of continued evolution but no new practices referenced).",
+    "final_score": 18.0,
+    "reasoning": "The content tightly focuses on DevOps, agile, and site reliability engineering within team and operational contexts. There are no direct references to portfolio management, strategy-to-execution alignment, or investment prioritisation frameworks. The themes revolve around technical practices and team evolution (e.g., the Combined Engineering Model from Microsoft's Azure DevOps team). While there is passing mention of business needs (velocity, feedback), there is no discussion of managing a portfolio of initiatives or applying typical portfolio management approaches. The content is slightly dated (with a 2018 structure), but the penalty applied is minor as the core topic remains relevant. The intended audience consists of technical practitioners, not executives or portfolio managers. Signal-to-noise is reasonable, staying relevant to the described practices, but not to portfolio management.",
+    "reasoning_summary": "Content is focused on DevOps/SRE and team-level agility, not portfolio management. Lacks strategy/execution alignment or investment prioritization. Not a category fit except minor tangential relevance.",
     "level": "Ignored"
   },
   "Product Backlog": {

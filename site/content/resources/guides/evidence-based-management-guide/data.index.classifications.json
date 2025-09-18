@@ -594,12 +594,22 @@
     "reasoning_summary": "This content is a strong fit for the product validation category, as it delves into using Evidence-Based Management to test and refine product ideas through experimentation and feedback. While it thoroughly covers goal-setting and outcome measurement, it doesn’t focus solely on user testing or market fit, but its emphasis on adapting based on evidence makes it highly relevant."
   },
   "Azure Boards": {
+    "resourceId": "ltc7lzhy14U",
     "category": "Azure Boards",
-    "calculated_at": "2025-02-12T14:08:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Evidence-Based Management and its concepts, with no direct reference to Azure Boards or its functionalities.",
+    "calculated_at": "2025-09-17T23:12:43",
+    "ai_confidence": 2.75,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.0,
+    "ai_intent": 3.0,
+    "ai_audience": 3.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The entire content is focused on the Evidence-Based Management (EBM) framework, its concepts, and implementation in Agile, with no direct mention of Azure Boards, its features, or practical application. While some EBM key practices (like goal setting, measurement, feedback loops) could theoretically be supported by tools such as Azure Boards, the content does not allude to this connection or discuss any project management tooling at all. Therefore, its conceptual alignment and audience overlap with Azure Boards content is only peripheral and abstract. The discussion is deep, but not in the context of Azure Boards; SNR is medium as all content is relevant to EBM, but none to Azure Boards specifically. No dimension is penalized since the content is current and not contradictory.",
+    "reasoning_summary": "Content is about the Evidence-Based Management framework with no mention of Azure Boards or its features. Only indirect thematic overlap exists—no concrete or practical linkage. Not a good fit for the Azure Boards category.",
     "level": "Ignored"
   },
   "Revenue per Employee": {

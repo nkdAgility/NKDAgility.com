@@ -1444,12 +1444,22 @@
     "level": "Ignored"
   },
   "Value Stream Management": {
+    "resourceId": "1EEAZ-ldcTz",
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-11T20:29:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of a Scrum Master, which is not directly related to Value Stream Management.",
+    "calculated_at": "2025-09-17T23:12:55",
+    "ai_confidence": 11.288,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 1.7,
+    "ai_audience": 3.2,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is focused entirely on Scrum Master hiring: their roles, responsibilities, qualifications, and how they support Scrum teams and the organization. While some concepts such as continuous improvement and impediment removal are lightly related to value flow, there is no direct or explicit mention of Value Stream Management, its principles, mapping, or optimising the delivery of value across an organisation. Techniques and practices specific to Value Stream Management such as value stream mapping, aligning flow with customer outcomes, or measuring value stream performance are entirely absent. The intended audience (those hiring Scrum Masters or aspiring to fill the role) overlaps only minimally with typical Value Stream Management practitioners (who are concerned with end-to-end value delivery at scale), making the fit tangential at best. Signal-to-noise is low, as the small relevance to value flow is diluted by heavy focus on standard Scrum and Agile roles and competencies. No penalties apply, as there is no critical or outdated discussion noted.",
+    "reasoning_summary": "This content primarily details Scrum Master hiring and role expectations, with almost no mention or exploration of Value Stream Management topics. The overlap is minimal, making fit to this category weak and mostly tangential.",
     "level": "Ignored"
   },
   "Organisational Psychology": {

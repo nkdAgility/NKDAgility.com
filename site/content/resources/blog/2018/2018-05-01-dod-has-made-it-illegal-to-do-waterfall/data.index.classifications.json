@@ -553,12 +553,22 @@
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
+    "resourceId": "dnmT3QDhGxx",
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-14T18:34:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the shift from waterfall to agile methodologies in government IT projects, focusing on the impact of these changes rather than on mechanisms for collecting and utilising customer feedback.",
+    "calculated_at": "2025-09-17T23:12:57",
+    "ai_confidence": 31.53,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.9,
+    "ai_depth": 3.1,
+    "ai_intent": 2.8,
+    "ai_audience": 6.3,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content describes the US DOD's shift from waterfall to agile, emphasizing incremental delivery, user involvement, and iterations. Although it references user involvement and the benefits of iterative approaches (which are foundational for customer feedback loops), it does not explicitly discuss mechanisms, methods, or tools for collecting, analyzing, or integrating customer feedback into the development process—the core meaning of the category. The main focus is on process change, government influence, and project outcomes. There is marginal alignment with the category due to brief mentions of 'user involvement' and iterative delivery, but little depth or purpose centered on feedback mechanisms or loops themselves. No penalties were applied, as the content is neither outdated nor critical of feedback loops.",
+    "reasoning_summary": "Content briefly mentions user involvement and iterative processes but lacks substantive discussion of customer feedback mechanisms, so fit to 'Customer Feedback Loops' is weak and mostly incidental.",
     "level": "Ignored"
   },
   "Operational Practices": {

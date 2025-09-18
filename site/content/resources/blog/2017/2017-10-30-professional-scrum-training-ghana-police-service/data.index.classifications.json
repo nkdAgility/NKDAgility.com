@@ -749,12 +749,22 @@
     "level": "Tertiary"
   },
   "Azure Boards": {
+    "resourceId": "ozXMaDX0lvp",
     "category": "Azure Boards",
-    "calculated_at": "2025-02-14T19:05:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum training and its application within the Ghana Police Service, with no mention of Azure Boards or its functionalities.",
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 3.4,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 0.8,
+    "ai_audience": 0.3,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content discusses Scrum, Agile, and organisational change for the Ghana Police Service but makes no reference to Azure Boards or any Azure DevOps features. Its intent and audience are Scrum/Agile practitioners, but not specifically those using Azure Boards. None of the functionalities, best practices, or integrations concerning Azure Boards are covered. The main focus is on general Agile and Scrum training rather than tooling. The confidence score is very low due to the complete absence of Azure Boards mentions or concepts.",
+    "reasoning_summary": "The content focuses exclusively on Scrum/Agile training for police, not Azure Boards. No direct or conceptual link to the category. Fit is absent.",
     "level": "Ignored"
   },
   "Collaboration Tools": {

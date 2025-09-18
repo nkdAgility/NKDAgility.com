@@ -545,13 +545,23 @@
     "level": "Tertiary"
   },
   "Large Scale Agility": {
+    "resourceId": "RSPw8pZ9NT8",
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T19:04:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban and its application at various levels, without a focus on scaling Agile methodologies across an organisation.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:49",
+    "ai_confidence": 43.19,
+    "ai_mentions": 1.3,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.8,
+    "ai_intent": 5.9,
+    "ai_audience": 6.2,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "The content explores Kanban as a process-improvement and forecasting tool, applicable at various organisational levels, but stays primarily within the context of workflow optimisation and data-driven insights. There are references to applying Kanban across teams and mention of leadership and organisations, which marginally link to large-scale agility. However, the content does not meaningfully engage with scaling frameworks (like SAFe, LeSS), enterprise transformation strategy, business/vision alignment, or substantial cross-team/enterprise cultural factors. The depth around data, forecasting, and stakeholder communication is high, but these topics are treated as generally applicable and not specifically in the context of enterprise-wide scaling. The intended audience, which includes leadership and operational teams, partially overlaps with Large Scale Agility audiences, but the focus is not on transformation at enterprise scale.",
+    "reasoning_summary": "Content focuses largely on Kanban as a process or workflow strategy, with minor allusions to broader applicability. Discussion of large-scale Agile frameworks or transformation is absent; partial fit only with tangential relevance to Large Scale Agility.",
+    "level": "Tertiary"
   },
   "Estimation": {
     "category": "Estimation",

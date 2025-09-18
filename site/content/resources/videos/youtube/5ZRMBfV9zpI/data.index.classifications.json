@@ -146,12 +146,22 @@
     "level": "Secondary"
   },
   "Product Validation": {
+    "resourceId": "5ZRMBfV9zpI",
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on training for Scrum Masters rather than product validation methodologies.",
+    "calculated_at": "2025-09-17T23:13:06",
+    "ai_confidence": 18.509,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.1,
+    "ai_intent": 2.2,
+    "ai_audience": 4.3,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content centers on Scrum Master training, workshop structure, learning activities, and community support. There are no direct or indirect discussions of product validation, such as user testing, market fit, prototyping, or evidence-based product decisions. While some facilitation and learning assessment are mentioned, these relate to participant knowledge acquisition—distinct from validating product ideas with real users. The audience (aspiring Scrum Masters) only partially overlaps with a product validation focus, and any tangential mentions (such as continuous improvement) serve general agile learning goals rather than validating market needs or customer value.",
+    "reasoning_summary": "This training content focuses on learning Scrum and community-building, not on validating product ideas with users. There is minimal alignment or mention of product validation themes or practices. Fit with the 'Product Validation' category is poor.",
     "level": "Ignored"
   },
   "Accountability": {

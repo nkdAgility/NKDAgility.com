@@ -111,13 +111,23 @@
     "level": "Secondary"
   },
   "Employee Engagement": {
+    "resourceId": "zSQSQPFsy-o",
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-11T21:32:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the challenges of understanding and mastering the Scrum framework rather than employee engagement strategies or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:50",
+    "ai_confidence": 58.201,
+    "ai_mentions": 2.6,
+    "ai_alignment": 6.3,
+    "ai_depth": 6.4,
+    "ai_intent": 5.7,
+    "ai_audience": 6.9,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 58.0,
+    "reasoning": "The content primarily analyses the difficulty of mastering Scrum, emphasizing cultural, organizational barriers, and the importance of transparency. There are partial overlaps with Employee Engagement (e.g., references to team autonomy, collaboration, psychological safety, and the impact of culture/leadership on Scrum adoption). However, discussion of motivation, commitment, recognition/reward, or measurement of engagement is limited, and the main focus remains on mastering Scrum practices and organizational change management. Points are awarded for conceptual alignment and some depth regarding psychological safety and fostering collaborative teams, but depth and intent toward Employee Engagement as a core topic are moderate rather than dominant. The discussion addresses relevant audiences (leaders, practitioners), but signal-to-noise is diluted by broader themes (Scrum mastery, product processes, consultancy promotion). No penalties applied.",
+    "reasoning_summary": "Main focus is on mastering Scrum and organizational barriers, with moderate overlap on engagement (psychological safety, collaborative teams). Lacks deep, explicit engagement strategies—partial but not strong fit for Employee Engagement.",
+    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",

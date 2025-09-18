@@ -108,12 +108,22 @@
     "level": "Tertiary"
   },
   "Employee Engagement": {
+    "resourceId": "b3HFBlCcomk",
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-12T09:19:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and project management, with no focus on employee engagement or related themes.",
+    "calculated_at": "2025-09-17T23:13:00",
+    "ai_confidence": 26.225,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.6,
+    "ai_intent": 2.1,
+    "ai_audience": 8.8,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content is a clear and thorough discussion of Agile's true nature, focusing primarily on value delivery, market fit, and efficient processes. There are no direct or indirect references to employee motivation, commitment, psychological factors, recognition, feedback, leadership styles, or fostering a supportive work environment—the hallmarks of employee engagement. While the target audience (leaders, Agile practitioners) may overlap with the audience for employee engagement discussions, the content's main thrust is outside the definition of employee engagement and does not connect Agile principles to employee motivation or satisfaction. As such, it only marginally fits the category due to audience overlap and signal relevance.",
+    "reasoning_summary": "The content does not address employee engagement themes like motivation, recognition, or feedback. It focuses on Agile value delivery and process, so there is only minimal overlap with the category via shared audience, resulting in low confidence.",
     "level": "Ignored"
   },
   "Product Management": {

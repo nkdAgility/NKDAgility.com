@@ -633,13 +633,23 @@
     "level": "Ignored"
   },
   "Value Delivery": {
+    "resourceId": "JNJerYuU30E",
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the influence of an individual within the Agile community and mentions coaching and training but does not primarily discuss value delivery principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:45",
+    "ai_confidence": 59.21,
+    "ai_mentions": 2.5,
+    "ai_alignment": 6.3,
+    "ai_depth": 6.7,
+    "ai_intent": 5.9,
+    "ai_audience": 7.4,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 59.0,
+    "reasoning": "The content is a tribute to Jernimo Palacios, highlighting his mentorship, community-building, and advocacy for knowledge sharing in agile practices. While concepts like continuous improvement, collaboration, and learning are present—aligning tangentially with some goals of value delivery—the text does not explicitly detail iterative value delivery strategies, metrics for customer value, or business agility methods. References to Scrum, agility, and continuous improvement suggest partial thematic overlap, but the article's main intent is celebratory and personal, with only indirect discussion of core value delivery methods. Audience may overlap with practitioners interested in value, and the text stays broadly relevant, but lacks depth, explicitness, and technical detail on frameworks for value delivery.",
+    "reasoning_summary": "This content focuses on mentorship and community in agile, with limited direct discussion of value delivery strategies or methods. The fit with 'Value Delivery' is partial and mostly indirect, centering more on support than on delivery practices.",
+    "level": "Tertiary"
   },
   "Technical Leadership": {
     "resourceId": "JNJerYuU30E",

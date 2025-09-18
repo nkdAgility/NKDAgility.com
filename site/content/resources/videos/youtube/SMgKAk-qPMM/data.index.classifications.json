@@ -1413,13 +1413,23 @@
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
+    "resourceId": "SMgKAk-qPMM",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T01:46:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and practices, specifically focusing on the concept of temperance within Agile methodologies, rather than the management of the application lifecycle.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:50",
+    "ai_confidence": 48.84,
+    "ai_mentions": 1.0,
+    "ai_alignment": 4.5,
+    "ai_depth": 4.2,
+    "ai_intent": 5.1,
+    "ai_audience": 5.6,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 49.0,
+    "reasoning": "The content deeply explores moderation and focus in Agile (backlog management, WIP limits, value prioritization, lean thinking), but it is almost entirely framed around Agile team effectiveness and process flow. It does not explicitly reference Application Lifecycle Management (ALM) or target ALM's full lifecycle (from conception through retirement), nor does it discuss ALM governance, tooling, compliance, or metrics. Audience is Agile practitioners/teams rather than ALM managers/strategists. Little direct or implicit coverage of ALM integration, risk/change management, or lifecycle governance. Quality Agile optimization advice, but the topic fit for ALM is partial/indirect at best.",
+    "reasoning_summary": "Content focuses on Agile moderation (e.g., lean backlogs, WIP limits) to boost efficiency, but offers little direct link to Application Lifecycle Management topics like lifecycle governance or tooling. Fit is partial and primarily Agile-centric, not ALM-centric.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

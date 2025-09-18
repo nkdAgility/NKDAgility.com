@@ -1306,12 +1306,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "qpo4Ru1VVZE",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T20:19:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses compatibility issues related to TFS and Azure DevOps, with no mention of Kanban principles or practices.",
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 1.3,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 1.5,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content focuses exclusively on migration from TFS to Azure DevOps, tackling compatibility, customisations, and security concerns. There are no direct references, explicit discussion, or even implicit alignment with Kanban principles, practices, or terminology. Concepts such as work visualisation, WIP limits, flow management, or Kanban metrics are completely absent. The audience (technical teams involved in DevOps migrations) may overlap with potential Kanban audiences, but the topic and purpose do not align. Mentions, alignment, depth, intent, and topical signal all score at the far low end due to irrelevance to the Kanban category. No penalties were necessary as there is no outdated guidance or contrary tone.",
+    "reasoning_summary": "This content is unrelated to Kanban—it addresses TFS to Azure DevOps migrations without any mention of Kanban principles, practices, or audience intent. No conceptual or thematic fit.",
     "level": "Ignored"
   },
   "Value Delivery": {

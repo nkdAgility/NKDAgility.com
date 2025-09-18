@@ -1316,12 +1316,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "syzFdEP1Eso",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T01:25:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-17T23:12:57",
+    "ai_confidence": 2.41,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.5,
+    "ai_intent": 0.6,
+    "ai_audience": 0.6,
+    "ai_signal": 0.85,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on 'Definition of Done' in Scrum, with direct, repeated mention and explanation of Scrum concepts. Kanban is not mentioned, and none of the core Kanban topics (visualisation, WIP limits, Kanban boards, flow management) are present or implied. The main intent is to educate Scrum teams/practitioners about DoD. Audience overlaps only slightly as both may include Agile practitioners, but the topic is not relevant for Kanban. Thus, minimal confidence is assigned, reflecting nearly no conceptual or thematic fit.",
+    "reasoning_summary": "Content is purely about Definition of Done in Scrum; Kanban is not mentioned or engaged in any form. Does not match Kanban themes or principles. Fit is extremely low.",
     "level": "Ignored"
   },
   "Value Delivery": {

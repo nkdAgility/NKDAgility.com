@@ -996,12 +996,22 @@
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
+    "resourceId": "-D7_0lz9GU6",
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-18T12:34:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on agility and Scrum methodologies, with no clear discussion of Behaviour Driven Development principles or practices.",
+    "calculated_at": "2025-09-17T23:13:01",
+    "ai_confidence": 8.87,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.6,
+    "ai_intent": 1.2,
+    "ai_audience": 3.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is focused on the distinction between traditional and empirical approaches to agility and includes overviews of Scrum. It references adaptiveness, empiricism, and agility, but it never once explicitly mentions or discusses Behaviour Driven Development (BDD) or any of its core topics (e.g., BDD principles, tools, collaboration for requirements, user stories, or acceptance tests). There is no reference, direct or indirect, to BDD processes or practices. While the audience (Scrum Masters, developers, product owners) could overlap with BDD's audience, the actual themes only relate slightly due to their broad applicability to Agile and empirical work. All other dimensions are at or near minimal scores since none of the required BDD topics appear.",
+    "reasoning_summary": "No references to BDD or its principles are present. The topic sticks to empirical project management and agility, with no conceptual or practical tie-in to Behaviour Driven Development. This content does not fit the assigned category.",
     "level": "Ignored"
   },
   "Test First Development": {

@@ -252,12 +252,22 @@
     "level": "Ignored"
   },
   "Technical Mastery": {
+    "resourceId": "Ye016yOxvcs",
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T19:47:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of an agile consultant and the challenges of understanding customer context, which deviates from the core principles of software craftsmanship.",
+    "calculated_at": "2025-09-17T23:12:49",
+    "ai_confidence": 21.28,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.2,
+    "ai_intent": 3.4,
+    "ai_audience": 5.5,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content discusses essential skills for Agile consultants, emphasizing client understanding, adaptability, learning from setbacks, and universal strategies. However, it focuses on consulting mindset and personal growth rather than technical practices. There are no direct or frequent references to software craftsmanship, architecture, clean code, engineering techniques, or tools. While continuous learning and adaptation are encouraged, these are framed generically—not in the context of technical mastery. The audience includes practitioners, but the core technical topics required for this category are absent. Signal-to-noise is moderate as some advice relates broadly to consulting within Agile, but most is not technical. No penalties were applied, as there is no outdated or contradictory material.",
+    "reasoning_summary": "This content focuses on Agile consulting skills such as understanding context and adaptability, not on technical mastery topics like software craftsmanship or engineering practices. Fit with the Technical Mastery category is weak and mostly non-technical.",
     "level": "Ignored"
   },
   "Sprint Review": {

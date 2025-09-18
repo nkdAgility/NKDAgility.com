@@ -1372,12 +1372,22 @@
     "level": "Tertiary"
   },
   "Technical Excellence": {
+    "resourceId": "A0Y-zySHXyc",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T09:53:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the dynamics between developers and product owners, focusing on respect and accountability rather than engineering practices or methodologies.",
+    "calculated_at": "2025-09-17T23:13:05",
+    "ai_confidence": 18.69,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 2.1,
+    "ai_audience": 6.2,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on interpersonal and organizational barriers between developers and Product Owners, discussing trust, authority, accountability, and stakeholder dynamics. It does not mention or explore technical practices, engineering quality, or technical excellence topics such as TDD, CI/CD, modular design, or technical continuous improvement. The audience is still largely technical (developers, Product Owners), but the themes align with leadership, governance, and team dynamics—distinct from high-level engineering practices. Scoring is low across mentions, alignment, and depth, with only moderate signal and audience scores as some readers may overlap with the target demographic for technical excellence topics.",
+    "reasoning_summary": "The content discusses team dynamics and authority, not engineering practices or technical quality. There is no substantial alignment with technical excellence; fit is vague and mostly incidental to audience.",
     "level": "Ignored"
   },
   "Organisational Agility": {

@@ -342,13 +342,23 @@
     "level": "Tertiary"
   },
   "Digital Transformation": {
+    "resourceId": "BhGThHrOc8Y",
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T22:43:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps as a concept and its relationship with tools, without a clear focus on digital transformation strategies or impacts.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:45",
+    "ai_confidence": 54.11,
+    "ai_mentions": 1.7,
+    "ai_alignment": 6.6,
+    "ai_depth": 5.8,
+    "ai_intent": 5.4,
+    "ai_audience": 6.3,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content centers on clarifying the conceptual and cultural aspects of DevOps, stressing mindset and principles over tooling. While DevOps is relevant to digital transformation—improving agility and collaboration—the article never explicitly positions DevOps within a broader, strategic, or organization-wide digital transformation initiative. Most discussion is about DevOps as a philosophy/mindset in software engineering, with occasional references to agile, continuous improvement, and change, but little in the way of strategic adoption, enterprise-wide change, or business transformation with digital technologies. The audience is mainly practitioners, not business strategists. There are no explicit mentions of 'digital transformation' or its frameworks, nor does the content address metrics, case studies, or specific strategic impacts on overall business. Fit is partial—DevOps often plays a key role in digital transformation, but this discussion treats it more in isolation as a technical/cultural solver than as a driver or facet of holistic digital change.",
+    "reasoning_summary": "DevOps is discussed as a mindset to improve software practices, aligning partially with digital transformation themes, but the content does not directly address strategic, organization-wide digital change or the broader goals of the category.",
+    "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",

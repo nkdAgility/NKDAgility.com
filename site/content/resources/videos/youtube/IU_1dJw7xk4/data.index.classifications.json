@@ -312,13 +312,23 @@
     "level": "Ignored"
   },
   "Customer Retention": {
+    "resourceId": "IU_1dJw7xk4",
     "category": "Customer Retention",
-    "calculated_at": "2025-02-12T06:02:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the transition from traditional project management to Kanban, focusing on process optimisation rather than customer retention strategies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:59",
+    "ai_confidence": 41.05,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.0,
+    "ai_depth": 4.2,
+    "ai_intent": 3.8,
+    "ai_audience": 6.0,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content focuses on transitioning from traditional project management to Kanban, stressing gradual process improvement, workflow visualization, and metrics collection. While these support better delivery and might indirectly affect customer experience, the article does not mention, emphasize, or deeply address customer retention, engagement, feedback loops, or strategies designed to minimize churn and deliver ongoing customer value. There are no direct references to customer-centric practices, retention metrics, or discussions on evolving products in alignment with user expectations. The intent centers on internal process improvement for teams rather than on strategies directed at retaining customers. Audience is mostly practitioners interested in Kanban/Agile process, partially overlapping with those concerned about customer retention as a result of operational improvements. The high signal-to-noise score reflects focus and practical steps, but these are not mapped to customer retention topics.",
+    "reasoning_summary": "Focuses on Kanban transition and internal team improvement, not on customer retention. Only tangential alignment, with no explicit strategies, metrics, or intent to enhance or measure customer engagement or retention. Partial and indirect fit.",
+    "level": "Tertiary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",

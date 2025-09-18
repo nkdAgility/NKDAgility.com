@@ -136,12 +136,22 @@
     "level": "Ignored"
   },
   "Product Validation": {
+    "resourceId": "GwrubbUKBSE",
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T11:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and general DevOps topics without focusing on product validation methodologies or practices.",
+    "calculated_at": "2025-09-17T23:12:54",
+    "ai_confidence": 8.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.5,
+    "ai_intent": 1.0,
+    "ai_audience": 1.0,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is an open Q&A focused on DevOps, Agile, Scrum, and Azure DevOps, with no explicit or implicit mention of product validation concepts or practices. No topics directly aligned with validating product ideas through user testing, feedback, or evidence-based methodologies are indicated. The session's intent is general-purpose, and the audience is broad (anyone interested in those tech topics). No relevant topics like user testing, market fit, customer feedback loops, or prototypes are referenced. Therefore, the fit for Product Validation is extremely weak.",
+    "reasoning_summary": "The content is a general Q&A about DevOps, Agile, and Scrum, with no focus on product validation concepts or practices. It does not directly or indirectly address product validation methods, audience, or intent as defined in the category.",
     "level": "Ignored"
   },
   "Accountability": {

@@ -289,12 +289,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "xJsuDbsFzlw",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T21:09:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Sprint planning and Agile methodologies without any reference to Azure Pipelines.",
+    "calculated_at": "2025-09-17T23:13:00",
+    "ai_confidence": 7.375,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.5,
+    "ai_intent": 0.5,
+    "ai_audience": 1.0,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is solely focused on Sprint planning in Agile/Scrum contexts, with no mention or discussion of Azure Pipelines. There are no references to CI/CD automation, pipeline configuration, or Azure DevOps services. The themes, intent, depth, and audience all align with Agile coaching and workshops, not the tooling or technical integration of Azure Pipelines. As a result, the confidence that this content fits the Azure Pipelines category is extremely low. No penalties were necessary as the content is not outdated or overtly critical.",
+    "reasoning_summary": "The content is unrelated to Azure Pipelines; it discusses Sprint planning in Agile but never references pipelines, CI/CD, or Azure DevOps tooling. There is no conceptual or thematic fit for the target category.",
     "level": "Ignored"
   },
   "Team Performance": {

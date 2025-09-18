@@ -1280,12 +1280,22 @@
     "level": "Primary"
   },
   "Miscellaneous": {
+    "resourceId": "Zegnsk2Nl0Y",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-12T14:42:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and tools related to Scrum and DevOps, which are not aligned with the Miscellaneous category.",
+    "calculated_at": "2025-09-17T23:12:57",
+    "ai_confidence": 8.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.5,
+    "ai_intent": 0.5,
+    "ai_audience": 1.0,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content directly and repeatedly references Scrum, Agile, and DevOps frameworks, centering on recognized roles (Scrum Masters), established tools (Azure DevOps), and practice-aligned workflows. It advocates for tools purposely supporting Agile and Scrum theory. As per exclusion criteria, content that directly applies or discusses recognized frameworks/practices must not be classified as Miscellaneous. Although experienced in nature, the narration is deeply intertwined with actionable advice, core Agile values, and explicit Scrum/DevOps terminology, leaving minimal ambiguity. Thus, all dimension scores are extremely low.",
+    "reasoning_summary": "Content is fully focused on Agile, Scrum, and DevOps practices—directly excluded from Miscellaneous. Its purpose, themes, and audiences are aligned with established frameworks, not the Miscellaneous catch-all.",
     "level": "Ignored"
   },
   "Kanban": {

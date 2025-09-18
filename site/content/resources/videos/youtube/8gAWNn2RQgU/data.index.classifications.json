@@ -280,12 +280,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "8gAWNn2RQgU",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T19:08:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
+    "calculated_at": "2025-09-17T23:12:54",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.4,
+    "ai_audience": 1.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "reasoning": "There are no explicit or implicit mentions of Azure Pipelines, CI/CD, pipeline configuration, or any Azure DevOps specifics. The entire content is focused solely on Scrum and Agile training, with references to leadership, coaching, and empirical process control. The only overlap with DevOps practices is a vague reference to continuous improvement and feedback loops, but there is absolutely no connection to Azure Pipelines itself. The content's audience may generally overlap with technical practitioners, but the focus is on Scrum classes, not automation or tooling.",
+    "reasoning_summary": "The content is exclusively about Scrum and Agile training, with no reference to Azure Pipelines or related DevOps workflows. No evidence supports a fit for the Azure Pipelines category.",
     "level": "Ignored"
   },
   "Team Performance": {

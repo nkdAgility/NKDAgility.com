@@ -452,12 +452,22 @@
     "level": "Tertiary"
   },
   "Engineering Excellence": {
+    "resourceId": "vftc6m70a0w",
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T15:27:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile principles and organisational change rather than software craftsmanship or engineering practices.",
+    "calculated_at": "2025-09-17T23:12:50",
+    "ai_confidence": 24.15,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.6,
+    "ai_depth": 1.9,
+    "ai_intent": 2.3,
+    "ai_audience": 7.2,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses on virtues like patience and inclusivity in Agile adoption, discussing organisational change, stakeholder engagement, and culture. While terms like 'tools' and 'agility' appear, there is minimal reference to engineering practices, code quality, technical excellence, or software craftsmanship. The primary audience is technical leaders, coaches, or Agile practitioners, but the discussion is centered around change management and team dynamics rather than engineering best practices. There are no substantial discussions or recommendations about coding standards, testing methodologies, CI/CD, automation, or technical metrics. Therefore, conceptual alignment, direct mentions, depth, and intent scores are low, with slightly higher audience and signal-to-noise scores due to some relevance for technical change leaders.",
+    "reasoning_summary": "The content discusses Agile adoption virtues and organisational change, focusing on inclusivity and patience. It lacks specific coverage of engineering practices, so fit with Engineering Excellence is minimal and mostly indirect.",
     "level": "Ignored"
   },
   "System Configuration": {

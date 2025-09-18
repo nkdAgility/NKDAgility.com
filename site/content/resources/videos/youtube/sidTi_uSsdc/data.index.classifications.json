@@ -256,12 +256,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "sidTi_uSsdc",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-18T07:25:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concepts of discipline and motivation in Agile and Scrum environments, without any mention of Azure Pipelines.",
+    "calculated_at": "2025-09-17T23:12:49",
+    "ai_confidence": 1.4,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 1.1,
+    "ai_intent": 1.5,
+    "ai_audience": 2.1,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "There is no mention—explicit or implicit—of Azure Pipelines or related CI/CD automation concepts. The text is focused solely on Agile, Scrum, discipline, and motivation. It does not address DevOps, automation, builds, deployment, or Azure DevOps at any level. Any possible overlap in target audiences (technical practitioners) is incidental rather than meaningful. The content is high in signal for Agile and Scrum, but all strictly outside the Azure Pipelines category definition.",
+    "reasoning_summary": "This content does not fit the Azure Pipelines category. It does not reference Azure, pipelines, CI/CD, or related automation topics. Focus is exclusively on Agile and Scrum team culture, not tools or technical practices.",
     "level": "Ignored"
   },
   "Team Performance": {

@@ -93,12 +93,22 @@
     "level": "Secondary"
   },
   "Test Driven Development": {
+    "resourceId": "qNJ2suVslzE",
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-12T16:27:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and scope creep, with no focus on Test Driven Development principles or practices.",
+    "calculated_at": "2025-09-17T23:12:29",
+    "ai_confidence": 8.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.5,
+    "ai_audience": 2.4,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on scope creep and the adoption of Agile practices for flexible planning and value delivery. Nowhere does it mention Test Driven Development (TDD), its cycle, practices, or any related topics. While product development and Agile are discussed, the principles and intent are centered on responding to changing requirements—not on TDD or related automated testing approaches. No deductions applied, as there is no outdatedness or contradiction, but the confidence is extremely low due to lack of relevance.",
+    "reasoning_summary": "The content does not discuss Test Driven Development. It centers on Agile methods for handling scope creep, with no reference to TDD practices, cycles, or automation. There is no substantive category fit.",
     "level": "Ignored"
   },
   "Test Automation": {

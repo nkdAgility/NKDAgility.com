@@ -1367,13 +1367,23 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "QI3oE9IUc6E",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T03:08:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the implementation and challenges of Scrum rather than technical engineering practices or methodologies that enhance agility in software development.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:46",
+    "ai_confidence": 41.16,
+    "ai_mentions": 1.7,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.4,
+    "ai_intent": 4.9,
+    "ai_audience": 8.2,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 41.0,
+    "reasoning": "The content centers on how Applied Professional Scrum (APS) sharpens Scrum fundamentals and helps teams remove ineffective practices ('barnacles'). While it emphasizes agile transformation and professional Scrum mastery, it falls short of deeply exploring technical excellence topics such as TDD, CI/CD, or modular architecture. There is only implicit reference to high-quality working products, not explicit technical practices. The audience is Scrum practitioners, which somewhat aligns, but the connection to 'technical excellence' is at best tangential. The bulk of discussion is cultural/procedural, not technical-practice-focused.",
+    "reasoning_summary": "Focuses on Scrum fundamentals and agile transformation, not specific technical excellence practices. Connection to the category is indirect and partial; main focus is on methodology and team behaviors, not engineering excellence.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

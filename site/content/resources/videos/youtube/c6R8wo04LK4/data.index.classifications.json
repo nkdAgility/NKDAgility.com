@@ -247,12 +247,22 @@
     "level": "Ignored"
   },
   "Test Automation": {
+    "resourceId": "c6R8wo04LK4",
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T21:56:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-17T23:12:59",
+    "ai_confidence": 4.4,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.9,
+    "ai_intent": 0.6,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "There are zero direct references to test automation or related topics (frameworks, practices, tools, CI/CD, test types). The entirety of the content focuses on organizational mindset and the human factors involved in adopting Scrum. There is no technical, procedural, or conceptual discussion of software testing, nor any explicit or implicit tie to automated testing as described by the category definition. The audience is aligned with Agile/Scrum practitioners, not test automation professionals. There is no outdated or satirical tone, thus no penalties apply. Overall, there is an extremely weak fit to the Test Automation category.",
+    "reasoning_summary": "The content is about organizational change and mindset in Scrum adoption, not about test automation. No relevant topics, tools, or practices related to test automation are present, so the content does not fit the category.",
     "level": "Ignored"
   },
   "Technical Mastery": {

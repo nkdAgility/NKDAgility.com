@@ -320,12 +320,22 @@
     "level": "Secondary"
   },
   "Azure DevOps": {
+    "resourceId": "wS3GaFbyzDv",
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T20:52:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses virtual training and Scrum, without any mention of Azure DevOps or its specific functionalities.",
+    "calculated_at": "2025-09-17T23:13:06",
+    "ai_confidence": 1.4,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.5,
+    "ai_audience": 0.7,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content exclusively discusses the shift to live virtual classrooms, remote learning benefits, and virtual meeting tools like Microsoft Teams, Google Meet, and Webex. It focuses on online training effectiveness and adaptations, especially within Scrum and Agile contexts. There is no explicit or implicit reference to Azure DevOps, its tools, CI/CD, or agile project management practices specifically facilitated by Azure DevOps. The target audience is overlapping with the professional/technical community but does not focus on Azure DevOps practitioners, features, or functionalities. Minimal alignment and relevance—nearly all dimensions are non-applicable.",
+    "reasoning_summary": "The content does not discuss Azure DevOps or its features. It centers on live virtual training and collaboration tools generally, not on Microsoft's DevOps suite. Fit is extremely weak and almost entirely off-category.",
     "level": "Ignored"
   },
   "Personal": {

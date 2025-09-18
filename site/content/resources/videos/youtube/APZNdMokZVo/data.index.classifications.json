@@ -251,12 +251,22 @@
     "level": "Ignored"
   },
   "Deployment Frequency": {
+    "resourceId": "APZNdMokZVo",
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T23:35:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the definition of done in Scrum, which is more related to quality and transparency rather than deployment frequency.",
+    "calculated_at": "2025-09-17T23:12:49",
+    "ai_confidence": 16.28,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 3.0,
+    "ai_audience": 3.6,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content centers on the Definition of Done (DoD) within Agile/Scrum, emphasizing quality delivery, transparency, and risk mitigation. While the discussion is relevant to Agile practitioners and touches on delivery and value, it never addresses deployment intervals, frequency, CI/CD, or feedback loops from deployments—core elements of the Deployment Frequency category. There are no direct or indirect mentions of deployment frequency, release cadence, or related optimisation; all connections are indirect or speculative. The audience is practitioners in Agile/Scrum, overlapping with some interests in Deployment Frequency but not targeting that aspect. The signal-to-noise is moderate: all content is Agile-relevant but not category-relevant.",
+    "reasoning_summary": "The content focuses on the Definition of Done in Agile and Scrum, not on deployment intervals or release frequency. Its themes are tangential to Deployment Frequency. Partial alignment but lacking any direct category focus.",
     "level": "Ignored"
   },
   "Customer Retention": {

@@ -1117,13 +1117,23 @@
     "level": "Secondary"
   },
   "Mentoring": {
+    "resourceId": "FZeT8O5Ucwg",
     "category": "Mentoring",
-    "calculated_at": "2025-02-18T11:22:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses historical management practices and the adoption of Agile methodologies without focusing on mentoring, coaching, or any of the key topics related to the mentoring process.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 43.367,
+    "ai_mentions": 2.7,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.5,
+    "ai_intent": 6.2,
+    "ai_audience": 7.9,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "The content focuses on identifying genuine agile practices and cultural barriers, with advice for teams and organizations. While it informs and encourages reflection—actions aligned with mentoring—it never directly discusses mentoring roles, coaching strategies, or related best practices. The main purpose is diagnostic and cultural, not explicitly guidance for skill or professional development via mentoring or coaching. The audience (Scrum practitioners, agile leaders) overlaps with the category, but the lack of explicit or deep mentoring content limits the fit.",
+    "reasoning_summary": "Content encourages reflection and organizational improvement, which can relate to mentoring, but lacks direct discussion on mentoring roles, strategies, or skill development. Mentoring is neither a main theme nor explored in depth, resulting in a partial fit.",
+    "level": "Tertiary"
   },
   "Agile Philosophy": {
     "resourceId": "FZeT8O5Ucwg",

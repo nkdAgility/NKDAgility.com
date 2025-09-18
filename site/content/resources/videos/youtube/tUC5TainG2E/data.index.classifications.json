@@ -1299,12 +1299,22 @@
     "level": "Tertiary"
   },
   "Kanban": {
+    "resourceId": "tUC5TainG2E",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T01:14:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Agile methodologies without any mention of Kanban principles or practices.",
+    "calculated_at": "2025-09-17T23:12:56",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.3,
+    "ai_audience": 0.5,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content exclusively discusses relationships, dual expertise in DevOps and Scrum, and career development as a preferred Scrum trainer at Microsoft, with no direct or indirect references to Kanban. Core Kanban topics—visualization, WIP limits, flow management, or any mention of Kanban philosophy—are completely absent. The audience does overlap partially (Agile practitioners), but the subject neither addresses nor explores Kanban principles, practices, nor terminology. All six dimensions are necessarily scored at negligible or near-zero values due to this total lack of category relevance.",
+    "reasoning_summary": "The content does not mention or discuss Kanban at all. All focus is on Scrum, DevOps, and professional relationships, so there is no alignment with the Kanban category either in intent, depth, or themes.",
     "level": "Ignored"
   },
   "Value Delivery": {

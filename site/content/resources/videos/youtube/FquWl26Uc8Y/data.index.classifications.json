@@ -1279,13 +1279,23 @@
     "level": "Ignored"
   },
   "Value Delivery": {
+    "resourceId": "FquWl26Uc8Y",
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T17:21:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the distinction between bad code and technical debt, focusing on personal experiences and opinions rather than strategies or methodologies related to value delivery.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:34",
+    "ai_confidence": 60.48,
+    "ai_mentions": 3.2,
+    "ai_alignment": 6.0,
+    "ai_depth": 5.7,
+    "ai_intent": 5.5,
+    "ai_audience": 7.2,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 60.0,
+    "reasoning": "The content centers on improving code quality and handling technical debt with strategies like code reviews, testing, and prioritisation, which relate indirectly to value delivery. However, the main emphasis is workflow quality and team competence, not iterative or customer-focused value delivery. There is no explicit focus on value stream mapping, customer feedback, or alignment with business value goals. The target audience overlaps (software teams), but the connection to 'Value Delivery' is partial, with a stronger focus on internal codebase health rather than delivery of value to customers. Discussion of CI/CD, incremental delivery, or agile frameworks is notably absent.",
+    "reasoning_summary": "Content partly fits 'Value Delivery' by promoting team practices that support value, but mostly focuses on code quality and technical debt management, not direct customer value or Agile value management. Fit is partial and primarily indirect.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

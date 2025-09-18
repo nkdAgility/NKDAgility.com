@@ -1450,12 +1450,22 @@
     "level": "Ignored"
   },
   "Deployment Frequency": {
+    "resourceId": "gRnYXuxo9_w",
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum values, particularly openness, and focuses on team dynamics and collaboration, which are not directly related to deployment frequency.",
+    "calculated_at": "2025-09-17T23:12:45",
+    "ai_confidence": 8.67,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 0.9,
+    "ai_intent": 1.6,
+    "ai_audience": 2.5,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses exclusively on openness, transparency, and trust within Scrum, discussing communication, emotional openness, and team culture. There are no direct mentions or conceptual discussion of deployment frequency, CI/CD, automation, release intervals, or technical practices related to deployments. Even though Agile and DevOps are vaguely referenced at the end, the themes, examples, and main intent do not intersect with the chosen category. The audience is Agile/Scrum practitioners, which is a partial overlap, but all other dimensions remain highly tangential.",
+    "reasoning_summary": "Content discusses openness and trust in Scrum—not deployment frequency or related practices. No conceptual or direct overlap; fit is extremely weak and confidence is very low.",
     "level": "Ignored"
   },
   "Evidence Based Management": {

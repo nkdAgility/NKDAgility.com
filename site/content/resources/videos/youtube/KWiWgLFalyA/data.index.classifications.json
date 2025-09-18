@@ -1275,12 +1275,22 @@
     "level": "Ignored"
   },
   "Deployment Frequency": {
+    "resourceId": "KWiWgLFalyA",
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges related to scaling product development teams and system optimization, without a clear focus on deployment frequency or related practices.",
+    "calculated_at": "2025-09-17T23:12:28",
+    "ai_confidence": 36.353,
+    "ai_mentions": 1.3,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.8,
+    "ai_intent": 3.2,
+    "ai_audience": 5.1,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "Direct mentions of deployment frequency are absent; the content discusses scaling challenges, alignment, technical debt, and slow feedback loops. While feedback loops are mentioned, the discussion is generic and not specifically about deployment intervals or release cadence. Some adjacent concepts, such as enabling quick movement and reducing friction, partially align with factors that affect deployment frequency, but the intent is to talk about systemic scaling rather than optimizing deployment frequency per se. The main purpose is advising on scaling product organizations, so the relevance to the assigned category is tangential rather than direct.",
+    "reasoning_summary": "Content focuses on scaling through alignment and feedback loops, without explicit or in-depth coverage of deployment frequency. Only tangentially related to the category; intent is broader and not primarily about optimizing deployment intervals.",
     "level": "Ignored"
   },
   "Agile Leadership": {

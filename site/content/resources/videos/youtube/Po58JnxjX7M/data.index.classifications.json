@@ -1313,13 +1313,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "Po58JnxjX7M",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T03:29:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of Agile coaching and Scrum practices, which are not central to the principles of business agility.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:13:04",
+    "ai_confidence": 61.36,
+    "ai_mentions": 2.9,
+    "ai_alignment": 6.7,
+    "ai_depth": 6.4,
+    "ai_intent": 7.2,
+    "ai_audience": 8.3,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 61.0,
+    "reasoning": "Direct mentions of 'business agility' are absent; terminology is centered on Agile and coaching. The conceptual alignment is moderate, as the content promotes practical team experience and the value of hands-on learning for Agile coaches—relating peripherally to principles supporting business agility (credibility, team empowerment, adaptation). However, it does not explore business agility at an organizational level (strategy, leadership, market adaptation, or measurable outcomes). The depth is fair within the coaching domain, but little is discussed regarding broader agility frameworks, structures, or systemic practices. The intent fits practitioners aiming to be coaches, which partially overlaps with the business agility audience (change agents and internal leaders), justifying higher audience and intent alignment. Signal is moderate, with focused advice for aspiring coaches but little on business agility holistically. No penalties apply for tone or obsolescence. Overall, content is partly relevant to 'business agility' but does not fulfill the definition's full breadth.",
+    "reasoning_summary": "Primarily about Agile coaching experience, not business agility at large. Touches on adaptability, credibility, and team practice (periphery of business agility) but lacks depth in organizational agility, leadership, or systemic change. Partial fit.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",

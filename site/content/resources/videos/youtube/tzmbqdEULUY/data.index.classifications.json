@@ -1308,12 +1308,22 @@
     "level": "Secondary"
   },
   "Business Agility": {
+    "resourceId": "tzmbqdEULUY",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T20:23:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of data migration and downtime management, without a clear focus on business agility principles or practices.",
+    "calculated_at": "2025-09-17T23:12:34",
+    "ai_confidence": 39.03,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.5,
+    "ai_intent": 5.1,
+    "ai_audience": 4.9,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content is focused on practical data migration, specifically minimising downtime and maintaining productivity for engineers during IT infrastructure changes. It does not directly mention business agility or its principles, nor does it discuss organisational adaptability or broader strategic topics. While aspects like planning, preparation, and team communication are peripherally relevant to enabling agile capabilities, the discussion remains technical and operational, targeted mainly at technical leads or IT managers concerned with migrations, not those driving business agility strategies. There is no substantial exploration of topics such as organisational transformation, leadership's role in agility, metrics for agility, or integration of agile and business outcomes. Therefore, the fit with the 'Business Agility' category is weak and mostly indirect via related best practices.",
+    "reasoning_summary": "Content is focused on technical data migration and productivity, with minimal direct relation to business agility principles or strategy. Fit is tangential at best, mostly through mentions of planning and collaboration but without substantial business agility context.",
     "level": "Ignored"
   },
   "Kanban": {

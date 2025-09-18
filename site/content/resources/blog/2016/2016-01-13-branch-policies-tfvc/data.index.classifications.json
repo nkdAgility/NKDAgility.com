@@ -864,12 +864,22 @@
     "level": "Ignored"
   },
   "Deployment Frequency": {
+    "resourceId": "_26VFOA-vCe",
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses branch policies for TFVC and does not focus on deployment frequency or its optimization.",
+    "calculated_at": "2025-09-17T23:13:01",
+    "ai_confidence": 15.314,
+    "ai_mentions": 0.7,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 2.3,
+    "ai_audience": 4.8,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on applying and managing branch policies in TFVC, discussing technical branch management, code review, work item linking, and branch locks. There is no meaningful discussion of deployment frequency, its optimization, or the feedback loop from frequent releases. Topics such as CI/CD, rapid iteration, or deployment cadence are absent. While technical and relevant to software configuration and code quality, the substance does not align with the core objectives of deployment frequency. Any slight tangentiality is incidental, not intentional, and the thread does not target practitioners specifically interested in increasing deployment rates.",
+    "reasoning_summary": "This content discusses TFVC branch policy management but does not directly address deployment frequency, its optimization, or feedback cycles from frequent releases. Fit to the category is minimal and primarily incidental.",
     "level": "Ignored"
   },
   "Change Management": {

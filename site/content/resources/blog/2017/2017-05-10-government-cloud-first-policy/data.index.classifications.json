@@ -247,13 +247,23 @@
     "level": "Ignored"
   },
   "Product Delivery": {
+    "resourceId": "6VDaSknKBPu",
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T21:46:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses government cloud policies and the adoption of cloud solutions rather than methodologies and practices of delivering software products.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:56",
+    "ai_confidence": 44.5,
+    "ai_mentions": 2.2,
+    "ai_alignment": 4.0,
+    "ai_depth": 4.5,
+    "ai_intent": 4.0,
+    "ai_audience": 6.0,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 44.0,
+    "reasoning": "The content focuses primarily on government policy about public cloud adoption and the challenges of shifting perceptions in the public sector. While there are surface-level references to SaaS, testing, deployment, and digital transformation, it doesn't explicitly engage with end-to-end software product delivery practices, methodologies, or the key topics outlined in the 'Product Delivery' definition. The main theme is not product delivery itself but cloud-first adoption policy. Points were assigned for audience fit and tangential relevance (testing, deployment), but direct category mentions, conceptual alignment, and depth are all limited.",
+    "reasoning_summary": "Content centers on cloud policy and adoption challenges, with only peripheral relevance to product delivery practices. It lacks substantial discussion of delivery methodologies, processes, or principles central to the category.",
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "resourceId": "6VDaSknKBPu",

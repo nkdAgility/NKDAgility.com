@@ -456,12 +456,22 @@
     "level": "Tertiary"
   },
   "Modern Source Control": {
+    "resourceId": "Rv0ZjvwYVy5",
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-13T15:41:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Evidence-Based Management and its principles, which are not directly related to version control practices.",
+    "calculated_at": "2025-09-17T23:12:50",
+    "ai_confidence": 14.9,
+    "ai_mentions": 0.7,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.8,
+    "ai_intent": 2.3,
+    "ai_audience": 3.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The EBM Guide is focused almost entirely on measurement, empirical improvement, value delivery, and agile practices in general. While some metrics (like 'Active Product (Code) Branches' and 'Time Spent Merging Code Between Branches') briefly touch on concepts relevant to source control, these are minor elements within large tables of performance indicators and not discussed in detail. There are no direct mentions of Modern Source Control systems, methodologies, branching strategies, code review practices, or integration with DevOps pipelines. The main audience is agile practitioners and organizational leaders interested in business agility and empirical improvement—not specifically practitioners of version control best practices. The overall fit is largely incidental and marginal.",
+    "reasoning_summary": "This content does not fit the 'Modern Source Control' category. Mention of code branches/merging is superficial and not substantively explored. The guide focuses on agile evidence-based management, not modern version control practices.",
     "level": "Ignored"
   },
   "Revenue per Employee": {

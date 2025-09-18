@@ -1362,13 +1362,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "hFjoIf3KPeI",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T06:46:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:59",
+    "ai_confidence": 65.625,
+    "ai_mentions": 2.2,
+    "ai_alignment": 7.3,
+    "ai_depth": 6.9,
+    "ai_intent": 7.0,
+    "ai_audience": 8.1,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 66.0,
+    "reasoning": "Direct mentions of 'business agility' are absent, focusing instead on Scrum Masters/Agile coaches and team motivation. Conceptual overlap exists—topics such as adaptability, innovation, and continuous improvement are explored as means to foster effective Agile teams. However, the primary lens is at the team/practitioner level (motivation, engagement, retrospectives) rather than the strategic or organizational transformation level business agility usually targets. Structures, market responsiveness, leadership at org scale, cross-functional transformation, or explicit business agility frameworks are not covered. The audience is Scrum Masters, coaches, and Agile practitioners—close to but narrower than the business agility audience. Discussion is relevant, in-depth for team motivation, but only tangentially about business agility as an organization-wide capability.",
+    "reasoning_summary": "The content aligns partially with 'Business Agility' by emphasizing adaptability and innovation at the team level but lacks explicit discussion of business agility principles or organizational transformation. Core fit is tangential but relevant.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",

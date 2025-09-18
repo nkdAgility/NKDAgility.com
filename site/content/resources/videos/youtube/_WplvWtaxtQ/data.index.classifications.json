@@ -1286,13 +1286,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "_WplvWtaxtQ",
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T12:47:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and training of Scrum Masters, which is not central to the principles of business agility.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:44",
+    "ai_confidence": 56.363,
+    "ai_mentions": 1.9,
+    "ai_alignment": 6.7,
+    "ai_depth": 6.9,
+    "ai_intent": 4.8,
+    "ai_audience": 6.6,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 56.0,
+    "reasoning": "The content deeply explores professional growth for Scrum Masters, emphasizing experiential learning, leadership, team effectiveness, and continuous improvement within Scrum. However, the focus is tailored to individual and team-level Scrum practice, not broader principles or organizational transformation central to business agility. Direct references to 'business agility' are absent—the content is aligned indirectly through emphasis on adaptability and value delivery, but organizational or strategy-level agility themes are not discussed. Audience is practitioners rather than org leaders or strategists seeking business agility initiatives. No outdated practices or critical tone observed. The fit is partial: there are underlying themes of adaptability, but not explored in the organizational or systemic sense required for strict business agility classification.",
+    "reasoning_summary": "Primarily targets Scrum Master skill development and team-level leadership, not organization-wide business agility. Lacks explicit category mentions and systemic focus; fit is incidental rather than direct.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",

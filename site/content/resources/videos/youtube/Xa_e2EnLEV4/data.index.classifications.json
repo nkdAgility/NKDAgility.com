@@ -1309,13 +1309,23 @@
     "level": "Ignored"
   },
   "Business Agility": {
+    "resourceId": "Xa_e2EnLEV4",
     "category": "Business Agility",
-    "calculated_at": "2025-02-11T23:12:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the negative impacts of ignoring problems within processes, using a personal anecdote as an illustration. It does not focus on business agility principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:53",
+    "ai_confidence": 53.15,
+    "ai_mentions": 1.8,
+    "ai_alignment": 5.7,
+    "ai_depth": 5.9,
+    "ai_intent": 5.6,
+    "ai_audience": 7.3,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 53.0,
+    "reasoning": "The content focuses on Kanban, emphasizing the risks of ignoring problems within that framework—tech debt, workflow blockages, and value delivery crises. Concepts like transparency, team discipline, and process improvement align somewhat with business agility, especially as they foster adaptability and responsiveness. However, the discussion is narrowly confined to Kanban practices, with no direct mentions of 'business agility,' its principles, or broader organizational change aspects. The practical advice supports agile mindsets but is not deeply linked to business agility's strategic/organizational lens. The audience (team leaders, Kanban practitioners) partially overlaps but does not span executive or systemic transformation roles. Depth and alignment are moderate and above surface-level, but not substantial on business agility as a holistic topic.",
+    "reasoning_summary": "The content partially fits business agility via Kanban-related transparency and adaptability themes. However, it stays tactical, not addressing wider business agility principles or organizational-level change, so alignment and confidence are moderate.",
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",

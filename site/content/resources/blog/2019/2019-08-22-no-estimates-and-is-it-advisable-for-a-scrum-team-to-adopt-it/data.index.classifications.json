@@ -438,12 +438,22 @@
     "level": "Tertiary"
   },
   "Product Discovery": {
+    "resourceId": "Lv1CLfk5cPM",
     "category": "Product Discovery",
-    "calculated_at": "2025-02-14T18:25:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and estimation practices, which are not central to understanding customer needs or defining product features.",
+    "calculated_at": "2025-09-17T23:12:50",
+    "ai_confidence": 18.67,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.0,
+    "ai_intent": 2.4,
+    "ai_audience": 6.1,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on Scrum estimation practices, team maturity, and process optimization, discussing metrics like cycle time, throughput, and WIP. It centers on delivery flow, team learning, and process evolution, but does not address discovering customer needs, validating product ideas, or defining valuable product features. There are no explicit or implicit explorations of user research, customer interviews, or methods to define or prioritize features. Audience partially overlaps, as teams involved may touch on discovery, but the discussion is mainly about internal process metrics and estimation, not Product Discovery per se.",
+    "reasoning_summary": "The article centers on estimation in Scrum and team process optimization, not on discovering customer needs, validating ideas, or defining product features; fit to Product Discovery is minimal and mostly indirect.",
     "level": "Ignored"
   },
   "Continuous Delivery": {

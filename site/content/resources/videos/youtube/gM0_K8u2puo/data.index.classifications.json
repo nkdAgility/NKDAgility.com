@@ -639,13 +639,23 @@
     "level": "Secondary"
   },
   "Product Validation": {
+    "resourceId": "gM0_K8u2puo",
     "category": "Product Validation",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:30",
+    "ai_confidence": 58.83,
+    "ai_mentions": 2.1,
+    "ai_alignment": 7.6,
+    "ai_depth": 6.7,
+    "ai_intent": 7.1,
+    "ai_audience": 8.0,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 59.0,
+    "reasoning": "The content emphasizes frequent product releases, user feedback, and adaptation to market changes. It discusses getting real user feedback with every release but focuses more on the benefits of quick value delivery and market leadership than on detailed methodologies of product validation. Techniques like user testing or explicit evidence-based validation are not deeply explored, though feedback loops and responsiveness indicate clear conceptual overlap. Target audience (product teams/tech leaders) fits the category, and relevance is high. However, depth on specific validation practices is only moderate.",
+    "reasoning_summary": "Content partly fits Product Validation, highlighting user feedback and adaptation from frequent releases, but focuses more on market leadership and continuous delivery than on thorough validation practices or methods.",
+    "level": "Tertiary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",

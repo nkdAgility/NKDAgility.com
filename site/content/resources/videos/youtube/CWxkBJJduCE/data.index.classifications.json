@@ -202,12 +202,22 @@
     "level": "Tertiary"
   },
   "Lean": {
+    "resourceId": "CWxkBJJduCE",
     "category": "Lean",
-    "calculated_at": "2025-02-13T19:57:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Test-Driven Development (TDD) and Pair Programming, with no clear focus on Lean principles or methodologies.",
+    "calculated_at": "2025-09-17T23:12:34",
+    "ai_confidence": 38.55,
+    "ai_mentions": 2.5,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.9,
+    "ai_intent": 4.1,
+    "ai_audience": 6.2,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content mainly focuses on TDD and pair programming as practices for improving software architecture, code quality, and productivity. Although the term 'lean' is mentioned once, and there's an allusion to building 'lean' and purposeful structures, there is no substantial exploration of Lean methodologies, Lean principles (such as the Seven Wastes, value stream mapping, or specific Lean tools), or their application at a process or organizational level. The focus remains on development practices rather than systematic elimination of waste or value stream management. Audience alignment is moderate, as Lean practitioners may find tangential value, but the main target is developers. The signal-to-noise ratio is fair, as the discussion sticks to the topic but skips Lean methodology. No penalties applied as there’s no evidence of outdatedness or explicit contradiction.",
+    "reasoning_summary": "This content discusses TDD and pair programming for better code and architecture, only briefly referencing 'lean' as a general concept. It does not engage with Lean methodologies or principles, so the fit with the Lean category is limited and indirect.",
     "level": "Ignored"
   },
   "DevOps": {

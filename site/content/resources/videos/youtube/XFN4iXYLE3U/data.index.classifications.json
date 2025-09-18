@@ -304,12 +304,22 @@
     "level": "Secondary"
   },
   "Platform Engineering": {
+    "resourceId": "XFN4iXYLE3U",
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T12:35:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban principles and practices without any direct connection to platform engineering or internal developer platforms.",
+    "calculated_at": "2025-09-17T23:12:58",
+    "ai_confidence": 9.68,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 3.7,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is a deep dive into Kanban's 'work in progress' (WIP) limits, workflow improvement, and productivity for development teams. It gives no direct mention of platform engineering or internal platforms, nor does it connect Kanban practices to platform engineering principles such as building IDPs, standardizing toolchains, or enabling self-service. Its target audience is development and Agile teams, focusing on process management within Kanban and—notably—does not frame these practices as part of platform engineering. Although workflow optimization and developer productivity are discussed, the context remains strictly around Kanban, never touching on internal developer platforms, platform teams, or engineering the tools that enable such processes.",
+    "reasoning_summary": "Focused entirely on Kanban and WIP limits; no discussion of platform engineering, internal platforms, or developer enablement infrastructure. Does not fit the category definition.",
     "level": "Ignored"
   },
   "Product Delivery": {

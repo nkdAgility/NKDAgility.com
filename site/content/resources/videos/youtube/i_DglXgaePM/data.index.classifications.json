@@ -140,12 +140,22 @@
     "level": "Ignored"
   },
   "Product Validation": {
+    "resourceId": "i_DglXgaePM",
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T11:22:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on organizational change and scaling agile practices rather than validating product ideas through user engagement.",
+    "calculated_at": "2025-09-17T23:12:50",
+    "ai_confidence": 33.23,
+    "ai_mentions": 0.6,
+    "ai_alignment": 3.4,
+    "ai_depth": 3.2,
+    "ai_intent": 3.1,
+    "ai_audience": 4.3,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content focuses on agility, engineering excellence, evidence-based management, and the evolution of Agile/DevOps. While it lightly mentions testing, metrics, and learning/iteration, it does not directly discuss or structure its themes around the explicit validation of product ideas with real users, nor does it cover user testing, prototyping, A/B testing, or market fit methodologies. EBM metrics are referenced as a way to measure outcomes, which is slightly adjacent to evidence-based product validation but discussed mainly in the context of organizational improvement, not explicit product hypothesis testing. The audience (Agile practitioners, product owners, organizational leaders) slightly overlaps with Product Validation, but the discussion remains at a broader Agile process/culture level. Signal-to-noise is moderate: much is relevant to product success in Agile, but direct, substantial discussion of Product Validation practices or methods is missing.",
+    "reasoning_summary": "Content discusses Agile, engineering practices, and outcome metrics, but lacks direct focus on validating product ideas with real users. Slightly touches EBM, but not core Product Validation topics. Only a partial and indirect fit.",
     "level": "Ignored"
   },
   "Accountability": {

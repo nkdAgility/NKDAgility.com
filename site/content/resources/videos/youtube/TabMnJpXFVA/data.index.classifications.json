@@ -1441,12 +1441,22 @@
     "level": "Ignored"
   },
   "Deployment Frequency": {
+    "resourceId": "TabMnJpXFVA",
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses immersive Scrum training and general Agile practices, without a focus on deployment frequency.",
+    "calculated_at": "2025-09-17T23:13:02",
+    "ai_confidence": 11.18,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.7,
+    "ai_intent": 1.1,
+    "ai_audience": 3.2,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on immersive learning, training effectiveness, and value delivery within a DevOps/agile context, but does not mention deployment, release intervals, or deployment frequency directly or indirectly. While DevOps is discussed, the themes are primarily about training methods rather than software delivery cadence, techniques for increasing deployment frequency, or measurement thereof. The connection to deployment frequency is at best tangential, as improved training may contribute abstractly to DevOps capability, but this is not discussed. The audience overlap is present (Agile, DevOps practitioners), but the topic fit is weak across all other dimensions; there are extremely limited direct or conceptual ties to the category.",
+    "reasoning_summary": "The content is about immersive training in a DevOps setting, not deployment frequency. There are no explicit or substantial indirect links to deployment intervals or practices. This is a poor fit for the category, with only minimal audience and context overlap.",
     "level": "Ignored"
   },
   "Evidence Based Management": {

@@ -1344,12 +1344,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "zs0q_zz8-JY",
     "category": "Kanban",
-    "calculated_at": "2025-02-12T14:23:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 2.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 1.0,
+    "ai_audience": 6.5,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content does not mention Kanban nor its principles, practices, or metrics. The entire focus is on the Scrum Master role, misconceptions and servant leadership within Scrum. There is no overlap with Kanban-specific topics such as flow management, WIP limits, or Kanban's role in Agile/Lean. Audience could overlap (Agile practitioners), but intent and depth are irrelevant to Kanban.",
+    "reasoning_summary": "Content is purely about the Scrum Master role within Scrum. It contains no mention or discussion of Kanban practices, principles, or intent, making it almost entirely irrelevant to the Kanban category.",
     "level": "Ignored"
   },
   "Value Stream Management": {

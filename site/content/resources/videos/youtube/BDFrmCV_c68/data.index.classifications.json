@@ -1373,13 +1373,23 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "BDFrmCV_c68",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T09:06:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of pride in Agile practices, focusing on assumptions and the sunk cost fallacy, rather than specific engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:55",
+    "ai_confidence": 51.8,
+    "ai_mentions": 0.5,
+    "ai_alignment": 5.6,
+    "ai_depth": 5.1,
+    "ai_intent": 5.8,
+    "ai_audience": 7.2,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 52.0,
+    "reasoning": "The content centers on the impact of pride within Agile teams, advocating for data-driven, value-oriented decision-making and humility. While it references themes like hypothesis-driven development, telemetry, and continuous learning, it does not engage directly or deeply with the defining practices of technical excellence such as TDD, CI/CD, modular architecture, or emergent design. The audience (Agile practitioners) partially overlaps, and there is some implied relevance in focusing on learning from failure and metrics. However, the focus is on culture and mindset rather than advanced engineering practices. No penalties apply as the content is current and not contradictory.",
+    "reasoning_summary": "Partial fit: The content emphasizes mindset, learning, and value-driven work in Agile teams, but only lightly touches on technical excellence topics. Core engineering practices and principles are mostly absent, leading to moderate alignment.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

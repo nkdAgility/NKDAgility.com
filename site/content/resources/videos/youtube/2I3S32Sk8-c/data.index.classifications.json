@@ -1405,13 +1405,23 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "2I3S32Sk8-c",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T11:47:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not directly related to engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:13:02",
+    "ai_confidence": 43.1,
+    "ai_mentions": 0.3,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.6,
+    "ai_intent": 2.7,
+    "ai_audience": 7.3,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "The content focuses on guiding new Scrum teams during their first 4 weeks, emphasizing learning Scrum events, practices, and continuous improvement. While these support effectiveness and growth, the article rarely connects these practices to the specific principles of technical excellence—there are no explicit references to high-level engineering practices like TDD, CI/CD, modular architecture, or emergent design. The guidance is centered on Scrum implementation and organizational learning rather than advancing technical quality, so only partial conceptual alignment exists. The target audience (new Scrum teams/practitioners) somewhat overlaps with the technical excellence category. However, most discussion is about learning and adapting Scrum rather than embedding or elevating technical excellence as defined (with engineering practices).",
+    "reasoning_summary": "Content is mainly about establishing Scrum practices and team learning, not technical excellence. Little direct mention or deep exploration of engineering practices that define the category. Partial conceptual overlap, but fit is limited and mostly indirect.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

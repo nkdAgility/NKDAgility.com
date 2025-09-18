@@ -1362,13 +1362,23 @@
     "level": "Ignored"
   },
   "Technical Excellence": {
+    "resourceId": "Cia3d_y9akQ",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T20:32:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses misconceptions about the Scrum Master role and Scrum practices, lacking a focus on engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:36",
+    "ai_confidence": 52.28,
+    "ai_mentions": 1.8,
+    "ai_alignment": 5.6,
+    "ai_depth": 5.9,
+    "ai_intent": 6.5,
+    "ai_audience": 7.8,
+    "ai_signal": 6.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 52.0,
+    "reasoning": "The content primarily discusses misconceptions and accountabilities of the Scrum Master role, focusing on principles, competence, and organisational impact. While it references continuous improvement and the importance of understanding principles over practices, it does not deeply explore specific engineering practices or technical excellence topics like TDD, CI/CD, or modular architecture. The discussion is conceptually adjacent by advocating deeper understanding and continuous improvement, but it is mostly people/process-oriented. The audience is relevant (Scrum practitioners), signal-to-noise is moderate, and mentions of technical excellence are indirect or implied through broader themes of competence and improvement.",
+    "reasoning_summary": "The content focuses on Scrum Master accountability and principles, not directly on specific engineering practices or technical excellence. While tangentially related through themes like competence and improvement, fit to 'Technical Excellence' is only partial.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

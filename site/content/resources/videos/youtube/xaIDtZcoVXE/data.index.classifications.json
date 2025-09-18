@@ -328,12 +328,22 @@
     "level": "Ignored"
   },
   "Technical Excellence": {
+    "resourceId": "xaIDtZcoVXE",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T14:06:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses metrics related to time to market and organisational capability, which are not directly focused on engineering practices or methodologies that enhance technical excellence.",
+    "calculated_at": "2025-09-17T23:12:56",
+    "ai_confidence": 39.044,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.4,
+    "ai_depth": 3.7,
+    "ai_intent": 4.0,
+    "ai_audience": 7.6,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "Direct mentions of technical excellence or engineering practices (TDD, CI/CD, architecture, emergent design) are absent. The focus is on metrics like lead time and cycle time to improve delivery speed via Evidence-Based Management, not specifically on how technical practices raise software quality or maintainability. Automation is briefly mentioned, but not in connection to broader technical excellence principles. Audience is aligned (Agile practitioners), and signal is decent, but overall, the connection to the core technical excellence definition is indirect and limited.",
+    "reasoning_summary": "The content focuses on delivery metrics (lead time, cycle time) and Evidence-Based Management, not on technical excellence or engineering practices; the thematic fit with 'Technical Excellence' is partial and indirect.",
     "level": "Ignored"
   },
   "Business Agility": {

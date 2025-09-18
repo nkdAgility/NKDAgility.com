@@ -1427,13 +1427,23 @@
     "level": "Primary"
   },
   "Application Lifecycle Management": {
+    "resourceId": "S4zWfPiLAmc",
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T02:08:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban implementation and the use of metrics, which are not directly related to the management of the application lifecycle.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:54",
+    "ai_confidence": 53.71,
+    "ai_mentions": 2.4,
+    "ai_alignment": 5.9,
+    "ai_depth": 5.7,
+    "ai_intent": 6.1,
+    "ai_audience": 6.7,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "Direct mentions of ALM are absent; the focus is on Kanban-specific workflows and metrics rather than holistic application lifecycle governance. The content discusses digital tools (e.g., JIRA, Azure DevOps) and workflow optimization, which overlap with ALM-supportive tooling, but remains scoped to team-level metrics and Kanban process improvement. There is partial conceptual overlap where improving team workflow feeds into better lifecycle management, but the primary theme is Kanban metrics, not end-to-end application lifecycle or its stages. The audience (practitioners) may intersect with ALM, but the discussion is not targeted at ALM strategists or covering ALM best practices, governance, or lifecycle stages. Signal-to-noise is fair, but the relevance to ALM is indirect and secondary.",
+    "reasoning_summary": "The content centers on Kanban workflow and metrics, not directly on managing the entire application lifecycle or ALM principles. It may enable ALM-related improvements, but explicit fit is partial and peripheral.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

@@ -1492,12 +1492,22 @@
     "level": "Ignored"
   },
   "Kanban": {
+    "resourceId": "WEYf9jWG9wk",
     "category": "Kanban",
-    "calculated_at": "2025-02-13T19:53:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of conducting small experiments in feature delivery, without a clear focus on Kanban principles or practices.",
+    "calculated_at": "2025-09-17T23:12:36",
+    "ai_confidence": 22.85,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.9,
+    "ai_intent": 2.2,
+    "ai_audience": 4.5,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content describes the benefits of breaking features into small experiments, frequent delivery, and learning cycles. While these have conceptual overlap with Kanban principles (like continuous improvement and customer focus), nowhere is Kanban named or explicitly referenced. There is no mention of Kanban boards, WIP limits, flow management, or specific Kanban metrics. The themes are generic Agile/Lean and might loosely connect to Kanban, but the lack of direct mention and category-specific practices means the fit is tenuous at best. Higher signal and audience scores reflect some relevance for process-improving teams, but conceptual and intent fit are low for Kanban specifically.",
+    "reasoning_summary": "The piece discusses experimentation, iterative delivery, and customer value—concepts adjacent to Kanban but without explicit reference or focus on Kanban principles or practices. Only a weak conceptual fit; not Kanban-specific content.",
     "level": "Ignored"
   },
   "Platform Engineering": {

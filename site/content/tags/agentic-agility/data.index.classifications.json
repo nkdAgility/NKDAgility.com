@@ -114,16 +114,23 @@
     "level": "Secondary"
   },
   "Practice": {
+    "resourceId": "Agentic Agility",
     "category": "Practice",
-    "calculated_at": "2025-04-10T13:21:15",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the concept of Agentic Agility, which touches on themes of adaptability and intentional action. However, it does not explicitly mention actionable practices or techniques that enhance team performance or collaboration, which are central to the 'Practice' category. The focus is more on the theoretical aspects of agility rather than specific practices like pair programming or retrospectives.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:56",
+    "ai_confidence": 63.43,
+    "ai_mentions": 4.7,
+    "ai_alignment": 7.6,
+    "ai_depth": 6.9,
+    "ai_intent": 6.8,
+    "ai_audience": 7.2,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1,
+    "ai_penalty_details": "Depth penalized (-1): The content is philosophical, rarely offering actionable, repeatable techniques; aligns more with principles and mindsets than explicit practices.",
+    "final_score": 63.0,
+    "reasoning": "The content explores 'agency' as a critical element in Agile, Scrum, and DevOps, arguing that without true agency, these frameworks become hollow rituals. It stresses the need for intentional action, reflection, and adaptation in socio-technical settings (aligns with the spirit of continuous improvement and self-management key to Practice). However, it remains largely conceptual, focusing on what agency is and why it matters rather than providing explicit, repeatable techniques or actionable practices. Exceptions include gestures toward reflection and double-loop learning, but these are not explored concretely as practical routines. The depth dimension is penalised for its lack of actionable guidance. The audience is practitioners, but the focus is more on mindset/philosophy than teachable techniques.",
+    "reasoning_summary": "Content conceptually aligns with Practice by highlighting agency's role in adaptive improvement but lacks concrete, repeatable techniques. Focuses on philosophy and intent over step-by-step practices, resulting in partial category fit.",
+    "level": "Secondary"
   },
   "Philosophy": {
     "resourceId": "Agentic Agility",

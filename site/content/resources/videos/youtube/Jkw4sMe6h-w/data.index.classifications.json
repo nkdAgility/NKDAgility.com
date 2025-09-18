@@ -299,13 +299,23 @@
     "level": "Ignored"
   },
   "Team Performance": {
+    "resourceId": "Jkw4sMe6h-w",
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T19:39:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between agile leadership and traditional management, without a clear focus on team performance or collaboration strategies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:59",
+    "ai_confidence": 55.57,
+    "ai_mentions": 2.8,
+    "ai_alignment": 6.1,
+    "ai_depth": 5.8,
+    "ai_intent": 5.6,
+    "ai_audience": 7.2,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 56.0,
+    "reasoning": "The content focuses on the shift from traditional management to agile leadership and emphasizes empowerment, adaptability, and collaboration. While it highlights agile environments and team empowerment, it lacks direct discussion of system-level team delivery metrics, throughput, or systemic constraints central to the 'Team Performance' category. It is conceptually adjacent—leadership approaches can influence team performance and delivery, but the main focus is leadership style transformation rather than team performance evaluation or improvement. There are few direct mentions of team performance concepts and little substantive discussion of delivery capability, metrics, or throughput. The target audience appears to be agile leaders and managers, which partially overlaps with the intended audience. Overall, the fit is partial—team performance is affected by leadership, but it's not the article's explicit or primary theme.",
+    "reasoning_summary": "The content addresses agile leadership, empowerment, and collaboration. While aligned with themes influencing team performance, it does not directly focus on system-level delivery capability or performance metrics, making category fit partial and indirect.",
+    "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",

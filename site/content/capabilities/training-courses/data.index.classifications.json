@@ -1398,12 +1398,22 @@
     "level": "Ignored"
   },
   "Deployment Frequency": {
+    "resourceId": "TSbCL5T_4G9",
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-18T16:01:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses training courses for Agile roles rather than deployment frequency.",
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 7.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.6,
+    "ai_audience": 3.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on general Agile training for roles such as Scrum Masters and Product Owners. There are no direct or indirect references to deployment frequency, release intervals, or related practices. The main theme is skills acquisition in Agile rather than any discussion of deployment cadence or optimisation. Audience is partially relevant as Agile practitioners may care about deployment frequency, but the content does not signal this purpose or topic.",
+    "reasoning_summary": "The content does not reference deployment frequency in topic or intent. Its focus is general Agile training, not optimisation of deployment intervals, so category fit is extremely weak and largely coincidental.",
     "level": "Ignored"
   },
   "Evidence Based Management": {

@@ -295,13 +295,23 @@
     "level": "Ignored"
   },
   "Personal": {
+    "resourceId": "Qko_93YAV70",
     "category": "Personal",
-    "calculated_at": "2025-02-17T12:26:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Caman as a strategy and its relationship with Scrum, lacking personal reflections or experiences.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:49",
+    "ai_confidence": 72.32,
+    "ai_mentions": 6.5,
+    "ai_alignment": 7.8,
+    "ai_depth": 7.7,
+    "ai_intent": 7.5,
+    "ai_audience": 7.0,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 72.0,
+    "reasoning": "The content is told from a personal perspective, frequently using 'I' and providing individual insights (e.g., 'here’s how I see it', 'in my experience'). The recommendations are personal but not anecdotal; they reflect advice based on experience, which aligns with subjective interpretations. However, the narrative lacks in-depth personal anecdotes or stories about challenges faced, which limits depth per the category definition. The alignment is robust as the text provides reflective opinions, framed as lessons from the author’s usage. Audience is practitioners or those interested in workflow/process optimization in Agile contexts, matching the category. The intent is strongly supportive and informative. Signal is high but diluted by general/contextual explanation of Caman methods, slightly reducing the signal-to-noise ratio.",
+    "reasoning_summary": "Content consistently reflects personal experience and individual opinion, with direct subjective insights on using Caman alongside Scrum. It fits the Personal category well but is less about detailed personal anecdotes, so the fit is strong but not perfect.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",

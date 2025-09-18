@@ -1412,12 +1412,22 @@
     "level": "Ignored"
   },
   "Miscellaneous": {
+    "resourceId": "sbr8NkJSLPU",
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-13T18:12:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban practices and principles.",
+    "calculated_at": "2025-09-17T23:12:54",
+    "ai_confidence": 5.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 0.7,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses almost entirely on Kanban, which is a well-established Agile framework. It offers actionable advice explicitly aligned to Kanban principles and mentions the framework by name repeatedly. There is no general, non-framework discussion or ambiguity that would warrant classification as 'Miscellaneous'. Thus, direct mentions and alignment with 'Miscellaneous' are extremely weak. All actionable insights, narrative, and intended audience aim toward Kanban practitioners. Minor fractional scores in some dimensions reflect that general workflow concepts, in the broadest sense, might be relevant to wider audiences, but these are exclusively contextualized within Kanban.",
+    "reasoning_summary": "Content is highly specific to Kanban, a recognized Agile framework, with direct application and actionable guidance, so it does not fit the 'Miscellaneous' category except possibly in the most marginal, conceptual sense.",
     "level": "Ignored"
   },
   "Kanban": {

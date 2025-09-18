@@ -1382,12 +1382,22 @@
     "level": "Secondary"
   },
   "Technical Excellence": {
+    "resourceId": "U18nA0YFgu0",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T00:50:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of 'wrath' in Agile teams and organisational culture, focusing on accountability and blame rather than technical practices or methodologies that enhance software development.",
+    "calculated_at": "2025-09-17T23:12:45",
+    "ai_confidence": 39.35,
+    "ai_mentions": 1.7,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.6,
+    "ai_intent": 4.2,
+    "ai_audience": 5.5,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content focuses on Agile team culture, psychological safety, and shifting from blame to accountability, which are important for team effectiveness but do not directly address technical practices such as TDD, CI/CD, modular architecture, or emergent design. There is only an oblique mention of iterating on procedures for deployment, but this is not connected deeply to technical excellence as defined. The main purpose is to improve team dynamics and learning, not to advance engineering excellence. Signal-to-noise is moderate, as the piece remains focused but on culture rather than technical practice. No penalties apply, as the content is not outdated nor critical of the technical excellence concept.",
+    "reasoning_summary": "Topic centers on Agile team culture and learning from mistakes, not technical excellence as defined. Content is tangential with minimal direct relevance to engineering practices or code quality. Overall, only a weak fit to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {

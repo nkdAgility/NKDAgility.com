@@ -999,12 +999,22 @@
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
+    "resourceId": "rnyJzSwU74Q",
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile and Waterfall methodologies, focusing on project management rather than Behaviour Driven Development principles.",
+    "calculated_at": "2025-09-17T23:13:00",
+    "ai_confidence": 9.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.8,
+    "ai_intent": 0.8,
+    "ai_audience": 2.0,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is an in-depth discussion of empirical Agile methods, such as Scrum, Kanban, DevOps, and their distinctions from traditional processes, emphasizing visibility, change, risk, and incremental value. However, it never mentions BDD, its principles, tools, or practices. There is no discussion of writing user stories, acceptance criteria, collaboration between business and technical teams in the BDD sense, nor any BDD-specific concepts. The audience is Agile practitioners, but not specifically those interested in BDD. All dimensions are scored extremely low because there is neither direct nor indirect relevance to Behaviour Driven Development per category guidelines.",
+    "reasoning_summary": "Content focuses solely on empirical Agile models, lacking BDD topics, principles, or tools. There are no direct or relevant indirect references to BDD or its audience. Category fit is negligible.",
     "level": "Ignored"
   },
   "Test First Development": {

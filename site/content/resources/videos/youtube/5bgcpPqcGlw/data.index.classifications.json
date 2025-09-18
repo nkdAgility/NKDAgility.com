@@ -1129,12 +1129,22 @@
     "level": "Ignored"
   },
   "Estimation": {
+    "resourceId": "5bgcpPqcGlw",
     "category": "Estimation",
-    "calculated_at": "2025-02-18T12:23:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses site reliability engineering and organizational practices within Azure DevOps, with little focus on estimation techniques or practices within Agile or Scrum frameworks.",
+    "calculated_at": "2025-09-17T23:13:08",
+    "ai_confidence": 7.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.8,
+    "ai_intent": 0.5,
+    "ai_audience": 2.2,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on site reliability, DevOps, and reliability engineering practices in Azure, emphasizing transparency, automation, telemetry, cross-functional teams, and incident response. It does not explicitly discuss Agile or Scrum estimation techniques, empirical data for forecasting, or collaborative estimation approaches. There are no references to Planning Poker, T-shirt sizing, estimation pitfalls, or alignment of stakeholder expectations through estimation. While continuous improvement is mentioned, it relates to reliability and operational practices—not estimation. The intent and thematic alignment to the Estimation category are minimal and mostly tangential.",
+    "reasoning_summary": "This content centers on site reliability and DevOps, with no substantive discussion of Agile/Scrum estimation. Estimation is not mentioned or explored; topics like automation and incident response dominate. The fit for the 'Estimation' category is near zero.",
     "level": "Ignored"
   },
   "Strategy": {

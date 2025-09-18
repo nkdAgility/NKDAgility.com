@@ -770,12 +770,22 @@
     "level": "Ignored"
   },
   "Deployment Frequency": {
+    "resourceId": "pErrcS8DxcQ",
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-14T22:59:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scaling Professional Scrum with Visual Studio Team Services and does not focus on the optimization of deployment intervals or strategies related to Deployment Frequency.",
+    "calculated_at": "2025-09-17T23:13:01",
+    "ai_confidence": 27.734,
+    "ai_mentions": 1.6,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 2.0,
+    "ai_audience": 9.1,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content focuses on scaling Scrum using Visual Studio Team Services and organizing teams using Nexus, with emphasis on automation and orchestration to reduce manual friction. However, it never directly discusses deployment frequency as a topic or metric. While it briefly mentions automation and minimizing risks/time through orchestration—concepts indirectly beneficial to deployment frequency—there is no explicit or substantive exploration of increasing deployment frequency, relevant metrics, or its importance. The main themes are about scaling practices, tooling setup, and team organization at scale, not on frequent deployment or optimizing delivery intervals. The intended audience (Scrum practitioners, technical leads) matches, and the content stays focused without tangents, but the alignment, depth, and intent towards deployment frequency are weak.",
+    "reasoning_summary": "The content centers on scaling Scrum and tooling but lacks discussion of deployment frequency, its metrics, or direct optimization. Fit for this category is weak and mostly incidental; the topic is not directly addressed.",
     "level": "Ignored"
   },
   "Change Management": {

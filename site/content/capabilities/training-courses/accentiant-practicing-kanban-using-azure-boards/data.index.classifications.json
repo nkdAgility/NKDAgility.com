@@ -1120,12 +1120,22 @@
     "level": "Secondary"
   },
   "Decision Theory": {
+    "resourceId": "wHhDvrn-8PH",
     "category": "Decision Theory",
-    "calculated_at": "2025-02-18T00:48:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Kanban practices and Azure Boards, which are related to Agile project management rather than decision-making processes.",
+    "calculated_at": "2025-09-17T23:13:10",
+    "ai_confidence": 25.914,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.9,
+    "ai_intent": 2.1,
+    "ai_audience": 9.5,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 26.0,
+    "reasoning": "The content is focused on Kanban practices and the use of Azure Boards for workflow visualization, WIP limits, and team flow optimization. While it mentions flow metrics (e.g., cycle time, Monte Carlo simulation), these are presented as technical practices rather than as part of a discussion on decision-making under uncertainty, heuristics, or behavioral economics. The intent is practical skills development, not a conceptual or purpose-driven exploration of Decision Theory. The audience aligns (practitioners, managers), and there is minor relevance where flow-based metrics may inform decisions, but this is incidental, not central. There are no direct mentions of Decision Theory or deep alignment with its models or frameworks.",
+    "reasoning_summary": "Content centers on Kanban and Azure Boards for workflow and flow metrics, not on decision-making theory. Any links to Decision Theory are incidental, not explicit or in-depth. Does not substantively fit the Decision Theory category.",
     "level": "Ignored"
   },
   "Entrepreneurship": {

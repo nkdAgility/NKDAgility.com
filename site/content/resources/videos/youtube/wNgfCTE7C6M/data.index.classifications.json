@@ -649,13 +649,23 @@
     "level": "Ignored"
   },
   "Technical Excellence": {
+    "resourceId": "wNgfCTE7C6M",
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the PSU course and its benefits in integrating design and engineering within Agile teams, with a focus on Scrum roles, rather than on specific engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:13:00",
+    "ai_confidence": 54.445,
+    "ai_mentions": 2.2,
+    "ai_alignment": 6.7,
+    "ai_depth": 6.0,
+    "ai_intent": 6.3,
+    "ai_audience": 7.4,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content focuses on hypothesis-driven product development, small experiments, collaboration between design and engineering, and continuous delivery. While it mentions continuous delivery (a relevant technical excellence practice), the main emphasis is on product strategy, user experience, and agile product discovery methods—not deep engineering practices like TDD, CI/CD pipelines, modular architecture, or emergent design. The conceptual alignment and intent are moderately relevant but not centered around technical excellence as defined. Audience is partly technical (Scrum, DevOps), but much is product/UX focused. Discussions of technical practices like CI/CD are shallow and embedded within product discovery themes rather than explored as means of ensuring high software quality.",
+    "reasoning_summary": "The content partially fits: it touches on continuous delivery and collaboration, important to technical excellence, but its main emphasis is on product development strategy, hypothesis testing, and UX rather than deep engineering practices.",
+    "level": "Tertiary"
   },
   "Organisational Change": {
     "category": "Organisational Change",

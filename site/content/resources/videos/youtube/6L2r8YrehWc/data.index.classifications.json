@@ -371,12 +371,22 @@
     "level": "Tertiary"
   },
   "Test Driven Development": {
+    "resourceId": "6L2r8YrehWc",
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T18:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-09-17T23:13:02",
+    "ai_confidence": 6.05,
+    "ai_mentions": 0.15,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.1,
+    "ai_intent": 1.2,
+    "ai_audience": 1.5,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content exclusively discusses the role of Scrum Masters, leadership by influence, and agile team culture. There is no mention, direct or indirect, of Test Driven Development (TDD), the TDD cycle, automated unit tests, or related practices or tools. The focus is on team dynamics and organisational leadership rather than software development methodology. The audience is agile practitioners, but not specifically those interested in TDD. Consequently, scores are extremely low across all dimensions, reflecting an almost complete absence of category relevance.",
+    "reasoning_summary": "This content does not discuss Test Driven Development (TDD) at all. It focuses solely on the Scrum Master role and team dynamics in Scrum, with no overlap in topic, intent, or theme with TDD.",
     "level": "Ignored"
   },
   "Lean Thinking": {

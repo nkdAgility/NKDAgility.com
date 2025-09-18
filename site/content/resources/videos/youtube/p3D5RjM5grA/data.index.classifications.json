@@ -615,13 +615,23 @@
     "level": "Ignored"
   },
   "Value Delivery": {
+    "resourceId": "p3D5RjM5grA",
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T12:23:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a live virtual class and the technology used, without a clear focus on value delivery strategies or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:58",
+    "ai_confidence": 53.61,
+    "ai_mentions": 3.1,
+    "ai_alignment": 6.6,
+    "ai_depth": 6.9,
+    "ai_intent": 5.8,
+    "ai_audience": 6.3,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 54.0,
+    "reasoning": "The content focuses primarily on agile leadership development and the benefits of virtual training. It tangentially mentions value delivery (such as creating value and continuous learning) and references agile and Scrum, but does not deeply explore specific practices, measurement, or strategies linked to value delivery in an iterative, continuous, or customer-centered context. Key value delivery concepts (iterative development, CI/CD, value stream mapping, measurement of customer value) are not covered in detail. The target audience overlaps with those interested in value delivery, but the focus is more on leadership and professional growth than on the mechanics or strategies of delivering customer value. Signal-to-noise is lowered by substantial content on training logistics and cultural diversity, which, while relevant to leadership, are not directly about value delivery methods. No indications of outdated content or critical tone.",
+    "reasoning_summary": "Content mainly promotes agile leadership via virtual training, only briefly referring to delivering value. Does not discuss value delivery principles or techniques in depth. Fit with the Value Delivery category is partial and indirect.",
+    "level": "Tertiary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",

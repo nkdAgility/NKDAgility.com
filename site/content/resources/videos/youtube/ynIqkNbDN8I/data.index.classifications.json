@@ -978,12 +978,22 @@
     "level": "Ignored"
   },
   "Estimation": {
+    "resourceId": "ynIqkNbDN8I",
     "category": "Estimation",
-    "calculated_at": "2025-02-20T18:40:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses unrealized value and validation processes rather than estimation techniques specific to Agile or Scrum.",
+    "calculated_at": "2025-09-17T23:12:43",
+    "ai_confidence": 13.48,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.6,
+    "ai_intent": 1.8,
+    "ai_audience": 4.7,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses exclusively on unrealised value, validation, user needs, and feedback loops in product strategy. While it mentions hypothesis-driven development and the validation of assumptions, it never directly references Agile or Scrum estimation practices, collaborative estimation techniques, or empirical estimation data. Techniques like Planning Poker or T-shirt sizing are not discussed; any numerical forecasting is limited to hypothesis quantification, not team effort or task estimation. Audience overlap exists (product and Agile practitioners), but all core topics and examples focus on value discovery, not estimation. Thus, only faint conceptual alignment (as validation and feedback loops inform but do not constitute estimation).",
+    "reasoning_summary": "Content centers on value discovery, validation, and feedback, not Agile/Scrum estimation. No direct or deep link to estimation categories. Only minor overlap via hypothesis testing and some audience relevance. This is a poor fit for 'Estimation'.",
     "level": "Ignored"
   },
   "Azure DevOps": {

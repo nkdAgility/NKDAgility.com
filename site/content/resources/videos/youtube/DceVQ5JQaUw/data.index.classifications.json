@@ -603,13 +603,23 @@
     "level": "Ignored"
   },
   "Value Delivery": {
+    "resourceId": "DceVQ5JQaUw",
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses agile consulting and the challenges in a traditional project management environment, but does not focus on strategies or methodologies for ensuring iterative and continuous delivery of value to customers.",
-    "level": "Ignored"
+    "calculated_at": "2025-09-17T23:12:49",
+    "ai_confidence": 63.7,
+    "ai_mentions": 4.3,
+    "ai_alignment": 7.7,
+    "ai_depth": 6.5,
+    "ai_intent": 7.1,
+    "ai_audience": 6.9,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 64.0,
+    "reasoning": "The content focuses on the importance of open, challenging conversations with agile consultants to drive transformation, learning, and continuous improvement. While it references continuous improvement and accountability, it does not directly mention 'value delivery' or extensively explore iterative delivery or value measurement practices. The alignment is partial: difficult conversations and cultural openness are enabling factors for value delivery but not discussed explicitly as value-centric processes. The audience is mostly practitioners and leaders in Agile, matching reasonably with the Value Delivery audience. The discussion is relevant but doesn't go deep into methodologies like CI/CD, value stream mapping, or direct customer value maximization.",
+    "reasoning_summary": "Fit is partial: The content relates indirectly to value delivery by discussing consultant-led transformation and continuous improvement, but lacks explicit focus on value delivery practices, measurement, or Agile delivery frameworks.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "resourceId": "DceVQ5JQaUw",

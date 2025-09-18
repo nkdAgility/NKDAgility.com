@@ -283,12 +283,22 @@
     "level": "Ignored"
   },
   "Azure Pipelines": {
+    "resourceId": "I5YoOAai-m4",
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T21:32:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the roles of agile and professional coaches without any reference to Azure Pipelines or related CI/CD practices.",
+    "calculated_at": "2025-09-17T23:12:51",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.2,
+    "ai_intent": 0.3,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content provides a comparative discussion between Agile Coaches and Professional Coaches. It focuses on coaching philosophies, technical know-how relevant to Agile methodologies, and value-add in organisational contexts. There is no mention, either directly or contextually, of Azure Pipelines or any CI/CD, DevOps automation, or tooling. The audience may include readers interested in Agile and Scrum, which can somewhat overlap with DevOps practitioners, but the absence of any mention or discussion about Azure Pipelines, its practices, technologies, or ecosystem, disqualifies fit for this category. All score dimensions are very low as the content is entirely misaligned: no category reference, conceptual themes, or depth match the definition; intent is unrelated; signal is almost all noise for this category.",
+    "reasoning_summary": "Content compares Agile and professional coaching, focusing on methodologies and team development—no discussion of Azure Pipelines, CI/CD, or related DevOps automation. Does not fit the category; topic and intent are misaligned.",
     "level": "Ignored"
   },
   "Team Performance": {
