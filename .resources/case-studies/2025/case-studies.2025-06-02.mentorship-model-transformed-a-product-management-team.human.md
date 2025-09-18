@@ -28,7 +28,6 @@ tags:
   - Mentoring
   - Organisational Agility
   - Business Agility
-  - Agile Transformation
   - Competence
   - Pragmatic Thinking
   - Agile Strategy
@@ -36,6 +35,7 @@ tags:
   - Continuous Learning
   - Self Organisation
   - Social Technologies
+  - Agile Transformation
   - Team Motivation
   - Organisational Culture
   - Team Performance

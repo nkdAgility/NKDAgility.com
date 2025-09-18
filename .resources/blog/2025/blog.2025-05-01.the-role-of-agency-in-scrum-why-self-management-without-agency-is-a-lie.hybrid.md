@@ -34,12 +34,12 @@ tags:
   - Agile Frameworks
   - Agile Transformation
   - Self Organisation
+  - Scrum Team
   - Scrum Master
   - Team Motivation
   - Agile Product Management
   - Team Performance
   - Agile Philosophy
-  - Scrum Team
   - Software Development
   - Pragmatic Thinking
   - Agile Values and Principles

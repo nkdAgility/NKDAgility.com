@@ -25,7 +25,6 @@ categories:
   - Product Development
   - Product Management
 tags:
-  - Product Backlog
   - Product Strategy
   - Agile Product Management
 platform_signals:

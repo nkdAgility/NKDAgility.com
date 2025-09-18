@@ -68,7 +68,7 @@ previewIcon: Scrumorg-Course-PSPBMS-400x.png
 brandColour: 
 code: PSPBMS
 course_proficiencies:
-  - intermediate
+  - beginner
 introduction: |2-
 
   ### **Why is the Product Backlog so important?**
