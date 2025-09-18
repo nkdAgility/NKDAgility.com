@@ -34,6 +34,8 @@ cascade:
       environment: production
 ---
 
+© 2025 Kendall Project. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. You are free to share and adapt this material for any purpose, even commercially, provided that attribution is given and adaptations are shared under the same license.
+
 ## Kendall Framework Purpose & Definition
 
 The Kendall Framework is a system of work for thinking about AI. Its single purpose is to answer: **“Where do we start with AI?”** It provides clarity and discipline in approaching AI adoption, ensuring organisations focus on problems and outcomes rather than technology trends. It does not prescribe specific tools or architectures. Instead, it directs organisations to identify, articulate, and prioritise AI opportunities through problem‑first, context‑driven, and collaborative practices. It emphasises flow of information, decisions, and value, guided by empirical inspection and adaptation.
