@@ -166,17 +166,19 @@ This approach avoids complexity while ensuring you’re never surprised.
 Fees are all-inclusive for remote work.
 
 {{< table "table table-striped table-bordered" >}}
-| **Level** | **%** | **Weekly** | **Monthly** | **Quarterly** |
-| ------------------- | ----- | ------------- | ------------- | ------------- |
-| **Light** | 2.5% | £284 | £597 | £1,235 |
-| **Supportive** | 5% | £567 | £1,192 | £2,470 |
-| **Regular** | 25% | £6,800 | £14,300 | £29,500 |
-| **Deep** | 50% | £13,600 | £28,600 | £59,000 |
-| **Strategic** | 75% | _On request_ | _On request_ | _On request_ |
-| **Full-time** | 100% | _Not offered_ | _Not offered_ | _Not offered_ |
+
+| **Level**      | **%** | **Weekly**    | **Monthly**   | **Quarterly** | **Training Discount** |
+| -------------- | ----- | ------------- | ------------- | ------------- | --------------------- |
+| **Light**      | 2.5%  | £284          | £597          | £1,235        | 5%                    |
+| **Supportive** | 5%    | £567          | £1,192        | £2,470        | 5%                    |
+| **Regular**    | 25%   | £6,800        | £14,300       | £29,500       | 20%                   |
+| **Deep**       | 50%   | £13,600       | £28,600       | £59,000       | 40%                   |
+| **Strategic**  | 75%   | _On request_  | _On request_  | _On request_  | _On request_          |
+| **Full-time**  | 100%  | _Not offered_ | _Not offered_ | _Not offered_ | _Not offered_         |
+
 {{< /table >}}
 
-These fees do **not include training**, however, the **quarterly retainer** includes a 40% discount on training.
+These fees do **not include training**, however, the **quarterly retainer** includes a discount on training, noted above.
 
 ### Training Rates
 
