@@ -42,6 +42,7 @@ tags:
   - Operational Practices
   - Pragmatic Thinking
   - Social Technologies
+  - Professional Scrum
   - Customer Focus
   - Value Delivery
 Watermarks:

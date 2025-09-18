@@ -1,14 +1,14 @@
 ---
 title: Kendall Guide - A System of Work for AI Adoption
-short_title: "Kendall Guide: Framework for AI Adoption"
+short_title: 'Kendall Guide: Framework for AI Adoption'
 description: A practical framework guiding organisations to adopt AI by prioritising real problems, clarifying context, and enabling adaptive, evidence-based decision-making and collaboration.
 tldr: The Kendall Framework helps organisations adopt AI by focusing on real problems, clear context, and measurable outcomes rather than chasing technology trends. It uses defined roles, regular review events, and structured artifacts to align teams, prioritise opportunities, and ensure continuous improvement. Development managers should use this framework to guide disciplined, evidence-based AI adoption that stays aligned with business goals and delivers sustained value.
 date: 2025-09-17
 lastmod: 2025-09-17
-weight: 1000
+weight: 430
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: weekly
 author:
   - Martin Hinshelwood
@@ -18,10 +18,26 @@ ResourceType: guides
 ResourceContentOrigin: human
 aliases:
   - /resources/ktBQKAhD6RZ
-concepts: []
+concepts:
+  - Principle
 categories:
-  - Uncategorized
-tags: []
+  - Product Development
+tags:
+  - Decision Making
+  - Artificial Intelligence
+  - Pragmatic Thinking
+  - Social Technologies
+  - Sociotechnical Systems
+  - Organisational Physics
+  - Organisational Agility
+  - Empirical Process Control
+  - Strategic Goals
+  - Evidence Based Leadership
+  - Product Strategy
+  - Continuous Learning
+  - Sensemaking
+  - Coaching
+  - Continuous Improvement
 Watermarks:
   description: 2025-09-17T19:05:58Z
   tldr: 2025-09-17T19:06:01Z
@@ -32,8 +48,8 @@ cascade:
       render: never
     target:
       environment: production
----
 
+---
 © 2025 Kendall Project. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. You are free to share and adapt this material for any purpose, even commercially, provided that attribution is given and adaptations are shared under the same license.
 
 ## Kendall Framework Purpose & Definition

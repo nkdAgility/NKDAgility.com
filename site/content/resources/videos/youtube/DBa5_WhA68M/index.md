@@ -34,6 +34,7 @@ categories:
   - Product Management
 tags:
   - Product Owner
+  - Personal
   - Value Delivery
 Watermarks:
   description: 2025-05-07T13:07:01Z

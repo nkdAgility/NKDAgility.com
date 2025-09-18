@@ -31,7 +31,6 @@ tags:
   - Agile Philosophy
   - Team Motivation
   - Agile Values and Principles
-  - Sociotechnical Systems
   - Agile Leadership
   - Team Collaboration
   - Organisational Change
@@ -41,6 +40,7 @@ tags:
   - Transparency
   - Organisational Agility
   - Change Management
+  - Organisational Psychology
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7328079267450298371

@@ -29,6 +29,7 @@ categories:
   - Product Management
 tags:
   - Definition of Done
+  - Value Delivery
   - Operational Practices
   - Agile Frameworks
   - Product Delivery
@@ -40,7 +41,6 @@ tags:
   - Agile Product Management
   - Professional Scrum
   - Shift Left Strategy
-  - Value Delivery
   - Common Goals
   - Technical Excellence
 Watermarks:

@@ -28,7 +28,7 @@ aliases:
 aliasesArchive:
   - /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
 concepts:
-  - Principle
+  - Tenet
 categories:
   - Product Development
   - Engineering Excellence

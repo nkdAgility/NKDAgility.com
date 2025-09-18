@@ -31,6 +31,7 @@ categories:
   - Engineering Excellence
   - Kanban
 tags:
+  - Decision Making
   - Azure DevOps
   - Software Development
   - Flow Efficiency
@@ -45,7 +46,6 @@ tags:
   - Lead Time
   - Cycle Time
   - Technical Mastery
-  - Continuous Improvement
 Watermarks:
   description: 2025-07-24T14:49:14Z
   short_title: 2025-07-24T14:49:15Z

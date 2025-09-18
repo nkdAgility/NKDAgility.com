@@ -20,7 +20,7 @@ aliases:
 source: LinkedIn
 layout: signal
 concepts:
-  - Strategy
+  - Ethos
 categories:
   - Product Development
 tags:
