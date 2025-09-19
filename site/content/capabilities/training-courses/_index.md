@@ -221,4 +221,4 @@ outputs:
 icon: fa-person-chalkboard
 ---
 
-Our training courses are designed to equip your team with the skills and knowledge they need to excel in an Agile environment. We offer a variety of courses tailored to different roles, including Scrum Masters, Product Owners, and team members, with both immersive and traditional learning experiences.
+Our training courses are designed to empower software development leaders and teams with the skills and knowledge needed to drive technical excellence, effective collaboration, and impactful delivery. We offer a range of programs tailored to your organization's needs, focusing on modern engineering practices, leadership development, and hands-on tools training.
