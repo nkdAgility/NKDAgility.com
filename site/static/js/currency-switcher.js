@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   const currencyDropdown = document.querySelector("[data-nkda-currency-dropdown]");
   const currencyButtons = document.querySelectorAll(".currency-option");
-  let selectedCurrency = localStorage.getItem("selectedCurrency") || "GBP"; // Get from localStorage or default to GBP
+  let selectedCurrency = localStorage.getItem("selectedCurrency") || "USD"; // Get from localStorage or default to USD
   let exchangeRates = null;
 
   // Hide dropdown by default
