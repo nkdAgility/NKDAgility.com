@@ -9,6 +9,38 @@ document.addEventListener("DOMContentLoaded", function () {
     currencyDropdown.parentElement.style.display = "none";
   }
 
+  // Wait for dropdown elements to be available before updating UI
+  waitForCurrencyDropdownElements();
+
+  // Helper: wait for currency dropdown elements
+  function waitForCurrencyDropdownElements() {
+    const maxAttempts = 20; // Try for up to 2 seconds
+    let attempts = 0;
+
+    function checkForElements() {
+      attempts++;
+      const currencyChecks = document.querySelectorAll(".currency-check");
+
+      console.log(`[CurrencySwitcher] Attempt ${attempts}: Found ${currencyChecks.length} currency checks`);
+
+      if (currencyChecks.length > 0) {
+        // Elements are available, update UI
+        console.log(`[CurrencySwitcher] Elements found, updating UI - currency: ${selectedCurrency}`);
+        updateCurrencyChecks(selectedCurrency);
+        return; // Success, stop trying
+      }
+
+      if (attempts < maxAttempts) {
+        setTimeout(checkForElements, 100);
+      } else {
+        console.warn(`[CurrencySwitcher] Failed to find dropdown elements after ${maxAttempts} attempts`);
+      }
+    }
+
+    // Start checking immediately and then repeatedly
+    checkForElements();
+  }
+
   // Helper: update currency check marks
   function updateCurrencyChecks(currency) {
     console.log(`[CurrencySwitcher] Updating check marks for currency: ${currency}`);
@@ -22,38 +54,18 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Show check mark for selected currency
     const selectedCheck = document.querySelector(`.currency-${currency}-check`);
-    console.log(`[CurrencySwitcher] Looking for .currency-${currency}-check`);
+    console.log(`[CurrencySwitcher] Looking for .currency-${currency}-check, found:`, !!selectedCheck);
     if (selectedCheck) {
       selectedCheck.classList.remove("d-none");
       console.log(`[CurrencySwitcher] Check mark shown for ${currency}`);
     } else {
       console.warn(`[CurrencySwitcher] Check mark element not found for currency: ${currency}`);
-      // List all available check mark classes
+      // List all available check mark classes for debugging
       allChecks.forEach((check) => {
         console.log(`[CurrencySwitcher] Available check mark class: ${check.className}`);
       });
     }
   }
-
-  // Helper: set initial check mark when dropdown is available
-  function setInitialCheckMark() {
-    console.log(`[CurrencySwitcher] Setting initial check mark for: ${selectedCurrency}`);
-    console.log(`[CurrencySwitcher] Currency dropdown exists: ${!!currencyDropdown}`);
-
-    if (currencyDropdown) {
-      // Check if dropdown is hidden
-      const dropdownContainer = currencyDropdown.parentElement;
-      const isHidden = dropdownContainer && dropdownContainer.style.display === "none";
-      console.log(`[CurrencySwitcher] Dropdown container hidden: ${isHidden}`);
-
-      updateCurrencyChecks(selectedCurrency);
-    } else {
-      console.warn("[CurrencySwitcher] Currency dropdown not available for initial check mark");
-    }
-  }
-
-  // Set initial check mark immediately if dropdown exists
-  setInitialCheckMark();
 
   // Helper: get currency symbol
   function getSymbol(currency) {
@@ -193,7 +205,6 @@ document.addEventListener("DOMContentLoaded", function () {
       const currencySpans = document.querySelectorAll('[data-nkda-toggle="currency"]');
       if (currencySpans.length > 0 && currencyDropdown) {
         currencyDropdown.parentElement.style.display = "";
-        updateCurrencyChecks(selectedCurrency);
         updateCurrencies(selectedCurrency);
       } else {
         if (currencyDropdown) currencyDropdown.parentElement.style.display = "none";
