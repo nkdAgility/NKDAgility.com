@@ -122,7 +122,7 @@ objectives: |
   - Effectively start using Scrum
   - Increase the effectiveness of Scrum underway
 previewIcon: Scrumorg-Course-PSM 400x.png
-brandColour: '#3a7c9a'
+brandColour: "#3a7c9a"
 prerequisites: |
   Attendees make the most of the class if they: 
   - Have studied the [Scrum Guide](http://www.scrumguides.org/) (**required**)
@@ -134,6 +134,7 @@ audience:
   overview: The Professional Scrum Master course is for anyone involved in software development using the Scrum framework. It is particularly beneficial for those people within an organization accountable for getting the most out of Scrum, including Scrum Masters, managers, and Scrum Team members.  We also suggest that you read through the [PSM Subject Areas](https://www.scrum.org/resources/suggested-reading-professional-scrum-master). If you are new to Scrum and are interested in getting started then the [Certified Professional Scrum Foundations Training](/training/courses/professional-scrum-foundations/) is more relevant. This class is perfect if you are studying for the [Professional Scrum Master II assessment.](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments)
 trainers:
   - /company/people/martin-hinshelwood/
+SessionCount: 8
 roadmap:
   next:
     - /capabilities/training-courses/scrum-training-courses/professional-scrum-master-ii-psm-ii-with-certification/
@@ -159,8 +160,8 @@ events:
           - 5
           - 6
           - 7
-
 ---
+
 # Professional Scrum Master (PSM) Course with Certification
 
 **Course Code:** PSM

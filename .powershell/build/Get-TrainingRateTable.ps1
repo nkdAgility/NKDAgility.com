@@ -4,7 +4,7 @@
 $levelSwitch.MinimumLevel = 'Information'
 
 $hugoMarkdownObjects = @()
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\training-courses" -YearsBack 10
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\training-courses\" -YearsBack 10
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
@@ -33,18 +33,32 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         Write-WarningLog "Skipping Training Programs overview page."
         continue
     }
+    # Reset Values
+    $trainingLevel = "";
+    $sessionCount = 0
+    $sessionRate = 0
+    $baseRate = 0
+    $baseRatePerson = 0
+    $baseRate12 = 0
 
+    # Calculate Session Count
+    $sessionsFromFrontMatter = $hugoMarkdown.FrontMatter.sessionCount;
+    $sessionsFromSyllabus = 0
     $syllabusFile = Join-Path -Path $hugoMarkdown.FolderPath -ChildPath "syllabus.yaml"
-    if (-Not (Test-Path -Path $syllabusFile)) {
-        Write-WarningLog "Syllabus file not found: {SyllabusFile}" -PropertyValues $syllabusFile
-        continue
+    if (Test-Path -Path $syllabusFile) {
+        $syllabusData = Get-Content -Path $syllabusFile | ConvertFrom-Yaml
+        if (!$null -eq $syllabusData) {
+            $sessionsFromSyllabus = $syllabusData.syllabus.Count
+        }
     }
-    $syllabusData = Get-Content -Path $syllabusFile | ConvertFrom-Yaml
-    if ($null -eq $syllabusData) {
-        Write-WarningLog "Syllabus file is empty or invalid: {SyllabusFile}" -PropertyValues $syllabusFile
-        continue
+
+    if ($sessionsFromFrontMatter -le 0 -and $sessionsFromSyllabus -le 0) {
+        Write-WarningLog "SessionCount missing or invalid in syllabus.yaml or front matter."
+        continue;
     }
-    $sessionCount = $syllabusData.syllabus.Count
+
+    $sessionCount = [Math]::Max($sessionsFromFrontMatter, $sessionsFromSyllabus)
+   
     $trainingLevel = $hugoMarkdown.FrontMatter.course_proficiencies[0]
     $sessionRate = $baseSessionRate
     switch ($trainingLevel) {
@@ -64,7 +78,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $baseRate12 = $baseRatePerson * 12
 
 
-    $trainingRateTable += @{
+    $trainingRateTable += [ordered]@{
         title       = $hugoMarkdown.FrontMatter.title
         code        = $hugoMarkdown.FrontMatter.code
         short_title = $hugoMarkdown.FrontMatter.short_title
@@ -72,7 +86,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         sessions    = $sessionCount
         sessionRate = $sessionRate
         level       = $trainingLevel
-        rates       = @{
+        rates       = [ordered]@{
             "12"         = [Math]::Ceiling($baseRate12 / 1000) * 1000
             "16"         = [Math]::Ceiling(($baseRate12 + (($baseRatePerson * 4)) * 1.1) / 1000) * 1000
             "20"         = [Math]::Ceiling(($baseRate12 + (($baseRatePerson * 8) ) * 1.15) / 1000) * 1000
