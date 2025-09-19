@@ -1,0 +1,31 @@
+.currency-option {
+  text-align: left !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+
+.currency-option span {
+  text-align: left !important;
+}
+
+.currency-option:hover,
+.currency-option:focus {
+  background-color: var(--bs-dropdown-link-hover-bg, #f8f9fa);
+  color: var(--bs-dropdown-link-hover-color, #16181b);
+}
+
+/* Dark mode support */
+[data-theme="dark"] .currency-option {
+  color: var(--dark-text-color) !important;
+}
+
+[data-theme="dark"] .currency-option:hover,
+[data-theme="dark"] .currency-option:focus {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  color: var(--dark-text-color) !important;
+}
+
+[data-theme="dark"] .currency-option span {
+  color: var(--dark-text-color) !important;
+}
