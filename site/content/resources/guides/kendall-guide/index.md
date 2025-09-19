@@ -54,7 +54,7 @@ cascade:
 
 The Kendall Framework is a system of work for thinking about AI. Its single purpose is to answer: **“Where do we start with AI?”** It provides clarity and discipline in approaching AI adoption, ensuring organisations focus on problems and outcomes rather than technology trends. It does not prescribe specific tools or architectures. Instead, it directs organisations to identify, articulate, and prioritise AI opportunities through problem‑first, context‑driven, and collaborative practices. It emphasises flow of information, decisions, and value, guided by empirical inspection and adaptation.
 
-The Kendall Framework is not intended to represent a complete system. It defines boundaries and focus, and it expects to be complemented by other practices that ensure delivery discipline, modern engineering, effective team collaboration, and observability. From Drucker’s perspective, this reinforces clarity of purpose and avoids false completeness. From Nigel’s lens, it highlights that the framework must operate as part of a larger system of work where flow of information, decisions, and value is visible, empirical, and continuously improved.
+The Kendall Framework is not intended to represent a complete system. It defines boundaries and focus, and it expects to be complemented by other practices that ensure delivery discipline, modern engineering, effective team collaboration, and observability.
 
 ## Kendall Application
 
