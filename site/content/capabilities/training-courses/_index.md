@@ -1,8 +1,8 @@
 ---
 title: Training Programs
-short_title: Agile Training for Scrum Masters & Teams
-description: Comprehensive Agile training courses for Scrum Masters, Product Owners, and teams, offering practical skills and knowledge through immersive and traditional formats.
-tldr: Our training courses help your team build the skills needed to succeed in Agile environments, with options tailored for different roles like Scrum Masters, Product Owners, and team members. Both immersive and traditional formats are available. Consider enrolling your team to boost their effectiveness and adaptability.
+short_title: Leadership & Team Training
+description: Training for leaders and teams to strengthen technical skills, leadership capability, and delivery excellence.
+tldr: Our training equips software development leaders and teams with the tools, practices, and technical strategies to deliver lasting results. From engineering leadership to modern delivery systems, we help organisations improve flow, quality, and impact.
 date: 2024-06-12
 weight: 645
 sitemap:
@@ -36,15 +36,15 @@ sections:
   - type: headline
     headline:
       title: Training Programs
-      subtitle: Real-World Agile. Engineering-Driven. Outcome-Focused.
+      subtitle: Engineering-Driven. Leadership-Focused. Outcome-Oriented.
       images:
         - /images/PK-PKT@2x.png
         - /images/Scrumorg-PST_licensed-1000.png
         - /images/MVP_BlueOnly.png
       content: |
-        Agile training shouldn't feel like theory camp.
+        Training shouldn’t feel like theory camp.
 
-        You want training that **builds confidence, deepens capability, and results in meaningful improvement**, not just certifications.
+        You want learning that **builds engineering capability, strengthens leadership, and improves delivery outcomes**, not just certifications.
   - type: outcomehero
     cta:
       content: NKD Agility delivers hands-on, engineering-aware, transformation-ready training. **Led by mentors, not lecturers.**
@@ -53,19 +53,18 @@ sections:
         url: /company/book-online
     boxes: []
   - type: none
-    title: Why Most Agile Training Fails to Stick
+    title: Why Most Training Fails to Deliver
     content: |
-      Most Agile training programs:
+      Too often, training programs:
 
-      - Are overloaded with theory, light on application
-      - Ignore engineering realities and DevOps workflows
-      - Focus on certification, not capability
-      - Leave learners inspired—but unsupported
+      - Are overloaded with theory, light on application  
+      - Ignore engineering realities and delivery workflows  
+      - Focus on badges, not capability  
+      - Leave participants inspired—but unsupported  
 
       **Our training is different.**
 
-      We teach for **real environments**, with a blend of **training, coaching, and mentoring** that turns knowledge into action.
-  - title: Learning Experiences
+      We blend **training, coaching, and mentoring** to ensure knowledge becomes action.
     type: taxonomies-list
     source: course_learning_experiences
     types:
@@ -73,7 +72,7 @@ sections:
   - type: boxesrow
     title: What NKD Agility Training Delivers
     boxes:
-      - box: 
+      - box:
         title: Typical Training Pitfall
         items:
           - title: Passive slide-deck lectures
@@ -81,7 +80,7 @@ sections:
           - title: Certification without impact
           - title: Disconnect between Agile & DevOps
           - title: Forgotten within a week
-      - box: 
+      - box:
         title: NKD Agility Approach
         items:
           - title: Interactive sessions grounded in real-world challenges
@@ -121,7 +120,7 @@ sections:
   - type: symmetry
     title: From Overwhelm to Control
     boxes:
-      - box: 
+      - box:
         title: From Uncertainty to Confidence
         items:
           - title: Overwhelmed by complexity
@@ -132,7 +131,7 @@ sections:
             icon: fa-face-tired
           - title: Not taken seriously as a Scrum Master or Product Owner
             icon: fa-face-anxious
-      - box: 
+      - box:
         title: What you feel after training
         items:
           - title: Equipped with models, tools, and a clear path forward
@@ -220,6 +219,6 @@ outputs:
   - html
   - json
 icon: fa-person-chalkboard
-
 ---
+
 Our training courses are designed to equip your team with the skills and knowledge they need to excel in an Agile environment. We offer a variety of courses tailored to different roles, including Scrum Masters, Product Owners, and team members, with both immersive and traditional learning experiences.
