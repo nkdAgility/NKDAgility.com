@@ -84,8 +84,19 @@ document.addEventListener("DOMContentLoaded", function () {
     return parseFloat(cleaned);
   }
 
+  // Helper: round amount up to nearest value
+  function roundToNearest(amount, roundTo) {
+    if (!roundTo || roundTo <= 0) return amount;
+    return Math.ceil(amount / roundTo) * roundTo;
+  }
+
   // Helper: format amount
-  function formatAmount(amount, currency) {
+  function formatAmount(amount, currency, roundTo = null) {
+    // Apply rounding if specified
+    if (roundTo) {
+      amount = roundToNearest(amount, roundTo);
+    }
+
     return amount.toLocaleString(undefined, {
       style: "decimal",
       minimumFractionDigits: 2,
@@ -131,11 +142,15 @@ document.addEventListener("DOMContentLoaded", function () {
     currencySpans.forEach((span) => {
       const base = span.getAttribute("data-nkda-base");
       const amountString = span.getAttribute("data-nkda-amount");
+      const roundToString = span.getAttribute("data-nkda-round");
       const amount = parseAmount(amountString);
+      const roundTo = roundToString ? parseFloat(roundToString) : null;
+
       if (!base || isNaN(amount)) {
         console.error("[CurrencySwitcher] Invalid span:", span, "base:", base, "amount:", amountString);
         return;
       }
+
       let converted = amount;
       if (base !== selectedCurrency) {
         const rate = getExchangeRate(base, selectedCurrency);
@@ -147,6 +162,17 @@ document.addEventListener("DOMContentLoaded", function () {
           converted = amount;
         }
       }
+
+      // Apply rounding if specified
+      if (roundTo && roundTo > 0) {
+        converted = roundToNearest(converted, roundTo);
+        console.log(`[CurrencySwitcher] Rounded ${amount * (base !== selectedCurrency ? getExchangeRate(base, selectedCurrency) : 1)} to ${converted} (nearest ${roundTo})`);
+      }
+
+      // Set the title attribute to show original value with currency
+      const originalValueTitle = `Original: ${getSymbol(base)}${formatAmount(amount, base)}`;
+      span.setAttribute("title", originalValueTitle);
+
       span.textContent = getSymbol(selectedCurrency) + formatAmount(converted, selectedCurrency);
     });
   }
