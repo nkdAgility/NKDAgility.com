@@ -270,7 +270,7 @@ Each engagement begins upon written acceptance and initial payment. Unless other
 
 ## Limitation of Liability
 
-We carry {{< currency 100000 >}} professional indemnity insurance and operate under reasonable limits of liability. We are not liable for indirect or consequential loss. If there's a concern, we’ll address it directly and transparently.
+We carry {{< currency 1000000 >}} professional indemnity insurance and operate under reasonable limits of liability. We are not liable for indirect or consequential loss. If there's a concern, we’ll address it directly and transparently.
 
 ## Issue Resolution
 
