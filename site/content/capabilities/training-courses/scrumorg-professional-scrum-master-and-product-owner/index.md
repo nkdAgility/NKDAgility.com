@@ -62,13 +62,13 @@ delivery_audiences:
   - Product Managers
   - Scrum Masters
   - Lean Agile Practitioners
-preview: 
+preview:
 previewIcon: Scrumorg-Course-PSMPO-400x.png
-brandColour: 
+brandColour:
 code: PSMPO
 course_proficiencies:
   - intermediate
-introduction: 
+introduction:
 overview: The Professional Scrum Master and Product Owner course is designed for Scrum Masters and Product Owners to learn together. This is especially important as they collectively provide leadership that Scrum Teams need to satisfy stakeholders,  including customers and users through the early and continuous delivery of value. When bringing this course into your organization, take care to include participants that will be working on teams together. We suggest participants read through the [PSM Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") as well as the [PSPO Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") before the class.
 outcomes: |2+
 
@@ -83,7 +83,7 @@ outcomes: |2+
   - People and Teams
   - The Scrum Master
 
-assessment: 
+assessment:
 objectives: |2+
 
   - Grow an Agile mindset and build awareness of why values and principles are key to success
@@ -98,11 +98,12 @@ objectives: |2+
   - Gain appreciation for the art of working with self-managing teams and building a sustaining capability for solving complex problems
 
 prerequisites: We suggest participants read through the [PSM Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") as well as the [PSPO Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") before the class.
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
+audience:
+trainers:
+roadmap:
+sessionCount: 12
+syllabus:
+events:
 offering:
   offeringType: training-course
   prerequisites: We suggest participants read through the [PSM Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") as well as the [PSPO Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") before the class.
@@ -158,8 +159,8 @@ offering:
     colour: ""
   code: PSMPO
   courseIcon: Scrumorg-Course-PSMPO-400x.png
-
 ---
+
 # Professional Scrum Master and Product Owner (PSMPO) with Certification
 
 **Course Code:** PSMPO
