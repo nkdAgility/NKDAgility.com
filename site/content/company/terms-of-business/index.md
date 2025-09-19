@@ -121,7 +121,7 @@ This clause applies **only to UK engagements**. It does not affect services deli
 - A 5% discount is available for full payment upon acceptance.
 - This project is non-cancellable but may be rescheduled without penalty.
 - Satisfaction guaranteed—if standards aren't met, we will refund your fee.
-- Payment is accepted in GBP, USD, EUR, or AUD. [Bank details are provided here](/accounts).
+- Payment is accepted in GBP, USD, or EUR. [Bank details are provided here](/accounts).
 
 ## Intellectual Property & Confidentiality
 
@@ -148,7 +148,7 @@ We keep billing simple, clear, and consistent with our ethos: outcome-focused wo
 We keep travel lean, fair, and agreed in advance.
 
 - **Actuals, not guesswork** – You’ll only be charged for real, necessary travel costs (flights, transport, lodging). We don’t markup expenses.
-- **Reasonable per diem** – If actual receipts aren’t practical, we charge a standard per diem of £70/day (around $150) depending on location to cover incidentals.
+- **Reasonable per diem** – If actual receipts aren’t practical, we charge a standard per diem of {{< currency 70 >}}/day depending on location to cover incidentals.
 - **Return-home principle** – Our consultants aim to return home on weekends unless the logistics or value of the work make that impractical. We’ll always discuss this openly.
 - **Billed with transparency** – Travel and expenses are invoiced monthly or at the end of the engagement, whichever comes first.
 
@@ -165,18 +165,7 @@ This approach avoids complexity while ensuring you’re never surprised.
 
 Fees are all-inclusive for remote work.
 
-{{< table "table table-striped table-bordered" >}}
-
-| **Level**      | **%** | **Weekly**    | **Monthly**   | **Quarterly** | **Training Discount** |
-| -------------- | ----- | ------------- | ------------- | ------------- | --------------------- |
-| **Light**      | 2.5%  | £284          | £597          | £1,235        | 5%                    |
-| **Supportive** | 5%    | £567          | £1,192        | £2,470        | 5%                    |
-| **Regular**    | 25%   | £6,800        | £14,300       | £29,500       | 20%                   |
-| **Deep**       | 50%   | £13,600       | £28,600       | £59,000       | 40%                   |
-| **Strategic**  | 75%   | _On request_  | _On request_  | _On request_  | _On request_          |
-| **Full-time**  | 100%  | _Not offered_ | _Not offered_ | _Not offered_ | _Not offered_         |
-
-{{< /table >}}
+{{< consulting-rates >}}
 
 These fees do **not include training**, however, the **quarterly retainer** includes a discount on training, noted above.
 
@@ -200,7 +189,7 @@ Public class pricing reflects the per-person rate.
 
 NKDAgility calculates training course costs using a session-based pricing model with scaling factors for different group sizes and proficiency levels. This covers accreditation fees, content creation, delivery, follow-up support, and assessment fees.
 
-The calculation starts with a base session rate of £{{< training-rate >}} GBP for up to 12 students per 4-hour session. This base rate is adjusted according to the course proficiency level: beginner courses receive a 20% discount, intermediate courses use the standard rate, and advanced courses include a 20% premium.
+The calculation starts with a base session rate of {{< training-rate >}} for up to 12 students per 4-hour session. This base rate is adjusted according to the course proficiency level: beginner courses receive a 20% discount, intermediate courses use the standard rate, and advanced courses include a 20% premium.
 
 The total course cost is determined by multiplying the adjusted session rate by the number of sessions in the syllabus.
 
@@ -281,7 +270,7 @@ Each engagement begins upon written acceptance and initial payment. Unless other
 
 ## Limitation of Liability
 
-We carry £1,000,000 GBP professional indemnity insurance and operate under reasonable limits of liability. We are not liable for indirect or consequential loss. If there's a concern, we’ll address it directly and transparently.
+We carry {{< currency 1000000 >}} professional indemnity insurance and operate under reasonable limits of liability. We are not liable for indirect or consequential loss. If there's a concern, we’ll address it directly and transparently.
 
 ## Issue Resolution
 

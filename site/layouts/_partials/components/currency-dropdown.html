@@ -1,0 +1,23 @@
+<div class="dropdown">
+  <button type="button" id="currency-dropdown-button" class="btn btn-sm btn-outline-secondary text-nowrap" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Currency options">
+    <i class="fa-solid fa-coins"></i>
+    <span class="ms-1 d-none d-xl-inline">Currency</span>
+  </button>
+  <div class="dropdown-menu dropdown-menu-end p-2" style="min-width: 200px;" data-nkda-currency-dropdown>
+    <div class="dropdown-divider"></div>
+    <h6 class="dropdown-header px-2">Currency</h6>
+    <button class="btn btn-sm w-100 mb-1 currency-option text-start" data-currency="USD">
+      <span><i class="fa-solid fa-dollar-sign me-2"></i> US Dollar ($)</span>
+      <i class="fa-regular fa-check ms-2 currency-check currency-USD-check d-none"></i>
+    </button>
+    <button class="btn btn-sm w-100 mb-1 currency-option text-start" data-currency="EUR">
+      <span><i class="fa-solid fa-euro-sign me-2"></i> Euro (€)</span>
+      <i class="fa-regular fa-check ms-2 currency-check currency-EUR-check d-none"></i>
+    </button>
+    <button class="btn btn-sm w-100 mb-1 currency-option text-start" data-currency="GBP">
+      <span><i class="fa-solid fa-sterling-sign me-2"></i> British Pound (£)</span>
+      <i class="fa-regular fa-check ms-2 currency-check currency-GBP-check d-none"></i>
+    </button>
+    <!-- Add more currencies as needed -->
+  </div>
+</div>

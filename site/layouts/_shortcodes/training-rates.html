@@ -53,10 +53,10 @@
                 <td>
                   <span class="badge bg-secondary">{{ title $first.level }}</span>
                 </td>
-                <td title="£{{ div (index $first.rates "12") 12 | lang.FormatNumber 0 }} per person">£{{ (index $first.rates "12") | lang.FormatNumber 0 }}</td>
-                <td title="£{{ div (index $first.rates "16") 16 | lang.FormatNumber 0 }} per person">£{{ (index $first.rates "16") | lang.FormatNumber 0 }}</td>
-                <td title="Per Additional Private">£{{ $first.rates.additional | lang.FormatNumber 0 }}</td>
-                <td title="Public training rate">£{{ $first.rates.public | lang.FormatNumber 0 }}</td>
+                <td title="£{{ div (index $first.rates "12") 12 | lang.FormatNumber 0 }} per person"><span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="1000" data-nkda-amount="{{ (index $first.rates "12") | lang.FormatNumber 0 }}">{{ (index $first.rates "12") | lang.FormatNumber 0 }}</span></td>
+                <td title="£{{ div (index $first.rates "16") 16 | lang.FormatNumber 0 }} per person"><span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="1000" data-nkda-amount="{{ (index $first.rates "16") | lang.FormatNumber 0 }}">{{ (index $first.rates "16") | lang.FormatNumber 0 }}</span></td>
+                <td title="Per Additional Private"><span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="100" data-nkda-amount="{{ $first.rates.additional | lang.FormatNumber 0 }}">{{ $first.rates.additional | lang.FormatNumber 0 }}</span></td>
+                <td title="Public training rate"><span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="100" data-nkda-amount="{{ $first.rates.public | lang.FormatNumber 0 }}">{{ $first.rates.public | lang.FormatNumber 0 }}</span></td>
               </tr>
             {{ end }}
           </tbody>
@@ -93,25 +93,25 @@
                   <div class="col-6">
                     <div class="text-center p-2 training-rate-box rounded">
                       <small class="text-muted d-block">12 People</small>
-                      <strong>£{{ (index $first.rates "12") | lang.FormatNumber 0 }}</strong>
+                      <strong><span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="1000" data-nkda-amount="{{ (index $first.rates "12") }}">{{ (index $first.rates "12") | lang.FormatNumber 0 }}</span></strong>
                     </div>
                   </div>
                   <div class="col-6">
                     <div class="text-center p-2 training-rate-box rounded">
                       <small class="text-muted d-block">16 People</small>
-                      <strong>£{{ (index $first.rates "16") | lang.FormatNumber 0 }}</strong>
+                      <strong><span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="1000" data-nkda-amount="{{ (index $first.rates "16") }}">{{ (index $first.rates "16") | lang.FormatNumber 0 }}</span></strong>
                     </div>
                   </div>
                   <div class="col-6">
                     <div class="text-center p-2 training-rate-box rounded">
                       <small class="text-muted d-block">Per Additional Private</small>
-                      <strong>£{{ $first.rates.additional | lang.FormatNumber 0 }}</strong>
+                      <strong><span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="100" data-nkda-amount="{{ $first.rates.additional }}">{{ $first.rates.additional | lang.FormatNumber 0 }}</span></strong>
                     </div>
                   </div>
                   <div class="col-6">
                     <div class="text-center p-2 bg-primary text-white rounded">
                       <small class="d-block">Public Rate</small>
-                      <strong class="fs-6">£{{ $first.rates.public | lang.FormatNumber 0 }}</strong>
+                      <strong class="fs-6"><span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="100" data-nkda-amount="{{ $first.rates.public }}">{{ $first.rates.public | lang.FormatNumber 0 }}</span></strong>
                     </div>
                   </div>
                 </div>

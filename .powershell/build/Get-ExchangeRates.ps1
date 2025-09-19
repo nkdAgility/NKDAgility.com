@@ -39,7 +39,7 @@ foreach ($target in $targetCurrencies) {
 $jsonOutput = $exchangeRates | ConvertTo-Json -Depth 1 -Compress
 
 # Define the output file path
-$outputFilePath = "site\data\exchangeRates.json"
+$outputFilePath = "site\static\data\exchangeRates.json"
 
 # Ensure the site\data directory exists
 $outputDirectory = Split-Path -Path $outputFilePath -Parent

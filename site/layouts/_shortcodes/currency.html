@@ -1,0 +1,1 @@
+{{- $amount := .Get 0 -}} <span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="100" data-nkda-amount="{{ $amount }}">{{ $amount | lang.FormatNumber 0 }}</span>
