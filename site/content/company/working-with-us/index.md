@@ -118,14 +118,15 @@ Our engagements are designed to deliver measurable outcomes while empowering you
 Engagement levels are available across all models, allowing you to select the level of involvement that best suits your needs. Each level represents a percentage of our capacity, with indicative hours per week and typical involvement.
 
 {{< table "table table-striped table-bordered" >}}
-| **Engagement Level** | **%** | **\~Hours/Week** | **Typical Involvement** |
+
+| **Engagement Level** | **%** | **\~Hours/Week** | **Typical Involvement**                                           |
 | -------------------- | ----- | ---------------- | ----------------------------------------------------------------- |
-| **Light** | 2.5% | \~0.5 hr | Very light touch, async-only, ad hoc input |
-| **Supportive** | 5% | \~1–2 hrs | Light input, async feedback, occasional check-ins |
-| **Regular** | 25% | \~6–8 hrs | Regular reviews, pairing, shaping delivery and direction |
-| **Deep** | 50% | \~14–16 hrs | Deep collaboration, hands-on support, stakeholder engagement |
-| **Strategic** | 75% | \~20–24 hrs | Transformation ownership, cross-team leadership, org-level impact |
-| **Full-time** | 100% | \~32 hrs | Not offered; equivalent to full-time role |
+| **Supportive**       | 5%    | \~1–2 hrs        | Light input, async feedback, occasional check-ins                 |
+| **Regular**          | 25%   | \~6–8 hrs        | Regular reviews, pairing, shaping delivery and direction          |
+| **Deep**             | 50%   | \~14–16 hrs      | Deep collaboration, hands-on support, stakeholder engagement      |
+| **Strategic**        | 75%   | \~20–24 hrs      | Transformation ownership, cross-team leadership, org-level impact |
+| **Full-time**        | 100%  | \~32 hrs         | Not offered; equivalent to full-time role                         |
+
 {{< /table >}}
 
 > [!NOTE]
