@@ -4,7 +4,7 @@ short_title: Engineering Excellence
 description: A practical guide to improving engineering skills and team performance with focused, one-hour weekly sessions for continuous learning and growth.
 tldr: Dedicating just one hour each week to focused engineering improvement can lead to significant gains in code quality, team collaboration, and technical skills. Regular, small investments in learning and process refinement help teams deliver better software and adapt more quickly to change. Managers should schedule and protect this time to build a culture of continuous improvement.
 date: 2025-09-23
-weight: 302
+weight: 102
 sitemap:
   filename: sitemap.xml
   priority: 0.9

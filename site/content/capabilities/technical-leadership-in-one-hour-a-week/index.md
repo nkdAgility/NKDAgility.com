@@ -4,7 +4,7 @@ short_title: Technical Leadership
 description: A practical guide to effective technical leadership, offering strategies and tips for making a meaningful impact with just one hour of focused effort each week.
 tldr: Technical leadership can be effective even with just one hour a week by focusing on high-impact activities like mentoring, setting direction, and removing obstacles. Prioritizing these actions helps teams stay aligned and productive without requiring constant oversight. Development managers should schedule regular, focused check-ins to guide and support their teams efficiently.
 date: 2025-09-23
-weight: 301
+weight: 101
 sitemap:
   filename: sitemap.xml
   priority: 0.9
