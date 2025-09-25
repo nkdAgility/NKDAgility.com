@@ -12,36 +12,9 @@ sections:
       title: Capabilities That Drive Real Change
       subtitle: Strategic Expertise. Engineering Precision. Organisational Impact.
       content: |
-        From executive agility to DevOps migrations, NKD Agility delivers outcomes—not buzzwords.  
+        From executive agility to DevOps migrations, NKD Agility delivers outcomes, not buzzwords.  
         Our capabilities are built to solve the real problems slowing your teams down,  
         with services that evolve how your organisation works, delivers, and leads.
-  - type: boxesrow
-    title: Engineering Excellence & Technical Leadership
-    content: |
-      From architecture to automation, these services help engineering teams modernise delivery pipelines, reduce risk, and embed scalable technical practices.
-    boxes:
-      - ref: /capabilities/devops-technology-consultancy/
-      - ref: /capabilities/github-migration-services/
-      - ref: /capabilities/azure-devops-migration-services/
-  - type: boxesrow
-    title: Business Focus
-    content: |
-      Align strategy, product, and delivery with evidence-based consulting that turns agility from a buzzword into real business outcomes.
-    boxes:
-      - ref: /capabilities/business-agility-consulting/
-  - type: boxesrow
-    title: Programs & Training
-    content: |
-      Go beyond certification. Our mentor programs and private training drive lasting behavioural change and measurable capability uplift.
-    boxes:
-      - ref: /capabilities/mentor-programs/
-      - ref: /capabilities/training-courses/
-  - type: boxesrow
-    title: Tools
-    content: |
-      Support your teams with tools designed to diagnose, measure, and improve team effectiveness across your organisation.
-    boxes:
-      - ref: /capabilities/nkd-insights/
   - type: list
     title: Who We Help
     listType: boxed
@@ -90,4 +63,38 @@ sections:
       button:
         text: "Book a Discovery Call"
         url: "/company/book-online"
+  - type: boxesrow
+    title: Engineering Excellence & Technical Leadership
+    content: |
+      From architecture to automation, these services help engineering teams modernise delivery pipelines, reduce risk, and embed scalable technical practices.
+    boxes:
+      - ref: /capabilities/technical-leadership-in-one-hour-a-week/
+      - ref: /capabilities/engineering-excellence-in-one-hour-a-week/
+      - ref: /capabilities/devops-technology-consultancy/
+  - type: boxesrow
+    title: Migration Services
+    content: |
+      Seamlessly transition to modern DevOps platforms with minimal disruption. Our migration services ensure your teams stay productive while adopting new tools and practices.
+    boxes:
+      - ref: /capabilities/github-migration-services/
+      - ref: /capabilities/azure-devops-migration-services/
+  - type: boxesrow
+    title: Business Focus
+    content: |
+      Align strategy, product, and delivery with evidence-based consulting that turns agility from a buzzword into real business outcomes.
+    boxes:
+      - ref: /capabilities/business-agility-consulting/
+  - type: boxesrow
+    title: Programs & Training
+    content: |
+      Go beyond certification. Our mentor programs and private training drive lasting behavioural change and measurable capability uplift.
+    boxes:
+      - ref: /capabilities/mentor-programs/
+      - ref: /capabilities/training-courses/
+  - type: boxesrow
+    title: Tools
+    content: |
+      Support your teams with tools designed to diagnose, measure, and improve team effectiveness across your organisation.
+    boxes:
+      - ref: /capabilities/nkd-insights/
 ---
