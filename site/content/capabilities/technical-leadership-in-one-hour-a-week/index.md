@@ -32,7 +32,9 @@ sections:
     sideContent: |
       With decades as a world‑class software engineer, Microsoft MVP in Azure DevOps & GitHub, and Professional Scrum Trainer, Martin knows what engineering excellence and technical leadership really look like.
 
-      In just one hour a week, he works directly with your managers, project managers, or team leaders to spark lasting change. This is minimal disruption to a manager’s schedule, but the impact ripples through their teams, their projects, and the entire organization.
+      In just one hour a week, he works directly with your managers, project managers, or team leaders to spark lasting change. 
+
+      This is minimal disruption to a manager’s schedule, but the impact ripples through their teams, their projects, and the entire organization.
     list:
       - icon: fa-handshake
         content: |
@@ -48,7 +50,7 @@ sections:
           **Embed leadership, not dependency** – Coaching and mentoring that builds internal capability to thrive independently.
   - type: list
     title: Imagine Your Leaders With…
-    listType: default
+    listType: boxed
     content: |
       With Martin as their guide, managers shift from accidental leaders to competent, confident technical leaders who create thriving, high‑performing teams. They stop reacting. They start leading.
     list:

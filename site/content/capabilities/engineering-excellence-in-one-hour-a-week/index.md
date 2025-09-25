@@ -47,7 +47,7 @@ sections:
           **Coaching & mentoring that sticks** – Not theory, but practical solutions tailored to your environment, your team, your tools.
   - type: list
     title: What CTOs and Engineering Leaders Want
-    listType: default
+    listType: boxed
     list:
       - title: Predictable Delivery
         icon: fa-calendar-check
