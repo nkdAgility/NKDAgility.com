@@ -85,7 +85,7 @@ The Kendall Framework defines accountabilities. Each may be fulfilled by one per
 
 ### Kendall Coach
 
-The **Kendall Coach** is accountable for helping the organisation understand and apply the framework. They mentor Context Champions and Opportunity Leads, ensure consistency, and promote discipline in defining and refining opportunities and context. They do not manage day‑to‑day AI work but steward coherence and learning across teams.
+The **Kendall Coach** is accountable for helping the organisation understand and apply the framework. They mentor Context Owners and AI Leads, ensure consistency, and promote discipline in defining and refining opportunities and context. They do not manage day‑to‑day AI work but steward coherence and learning across teams.
 
 They enable:
 
@@ -96,15 +96,15 @@ They enable:
 - Surfacing systemic constraints and impediments to flow
 - Cultivating feedback loops for organisational learning
 
-### AI Leader
+### AI Lead
 
-The **AI Leader** drives disciplined use of the Opportunity Backlog as a tool for strategic clarity and adaptive alignment. They support expressing intent through opportunities, uncover systemic barriers, and enable outcome‑oriented decisions. They maintain rhythm around review cycles, help interpret learning, and connect strategic direction to measurable initiatives.
+The **AI Lead** drives disciplined use of the Opportunity Backlog as a tool for strategic clarity and adaptive alignment. They support expressing intent through opportunities, uncover systemic barriers, and enable outcome‑oriented decisions. They maintain rhythm around review cycles, help interpret learning, and connect strategic direction to measurable initiatives.
 
 They make happen:
 
 - Cross‑team and executive alignment of strategic themes
 - Predictable rhythm for clarity, accountability, and feedback
-- Enabling Context Champions through guidance and coaching
+- Enabling Context Owners through guidance and coaching
 - Visibility into whether opportunities align with strategy
 - Identification of systemic misalignments using opportunities as signals
 - Turning opportunity results into strategy‑shaping insight through deliberate feedback
@@ -149,21 +149,21 @@ Outcomes include:
 - Learning orientation, treating surprises as signals for adaptation
 - Feedback loops into the Opportunity Backlog, Context Repository, and Roadmap
 
-The Kendall Coach and Opportunity Lead co‑facilitate to ensure balance and discipline. Held on a regular cadence (quarterly or half‑yearly), it inspects and adapts objectives based on evidence and rebalances flow of priorities.
+The Kendall Coach and AI Lead co‑facilitate to ensure balance and discipline. Held on a regular cadence (quarterly or half‑yearly), it inspects and adapts objectives based on evidence and rebalances flow of priorities.
 
 ## Artifacts
 
 ### Opportunity Backlog
 
-The **Opportunity Backlog** is an ordered list of potential AI opportunities. It is refined through discovery events and maintained by the Opportunity Lead to ensure relevance and clarity. It provides visibility, supports prioritisation, and informs where to apply AI.
+The **Opportunity Backlog** is an ordered list of potential AI opportunities. It is refined through discovery events and maintained by the AI Lead to ensure relevance and clarity. It provides visibility, supports prioritisation, and informs where to apply AI.
 
 ### Context Repository
 
-The **Context Repository** is a structured collection of validated contexts used by AI systems. It ensures consistency, relevance, and availability. The Context Champions maintain the repository to prevent duplication, reduce noise, and preserve clarity.
+The **Context Repository** is a structured collection of validated contexts used by AI systems. It ensures consistency, relevance, and availability. The Context Owner(s) maintain the repository to prevent duplication, reduce noise, and preserve clarity.
 
 ### Roadmap
 
-The **Roadmap** is a high‑level view of prioritised AI initiatives derived from the Opportunity Backlog. It communicates intent, sequence, and focus areas without prescribing detailed implementation. The Opportunity Lead owns the Roadmap, ensuring it reflects priorities and remains evidence‑based and adaptive.
+The **Roadmap** is a high‑level view of prioritised AI initiatives derived from the Opportunity Backlog. It communicates intent, sequence, and focus areas without prescribing detailed implementation. The AI Lead owns the Roadmap, ensuring it reflects priorities and remains evidence‑based and adaptive.
 
 ## Summary
 
@@ -171,8 +171,8 @@ The Kendall Framework is a system of work for AI adoption. It is principled, con
 
 - Align on purpose, context, and objectives
 - Prioritise opportunities through the Opportunity Backlog
-- Maintain context integrity with Context Champions
-- Create and adapt a Roadmap led by the Opportunity Lead
+- Maintain context integrity with Context Owners and Context Controllers
+- Create and adapt a Roadmap led by the AI Lead
 - Inspect and adapt through Opportunity & Context Sourcing Events
 - Rely on the Kendall Coach to uphold principles, expose constraints, and enable organisational learning
 
