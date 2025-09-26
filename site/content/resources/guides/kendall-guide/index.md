@@ -96,9 +96,9 @@ They enable:
 - Surfacing systemic constraints and impediments to flow
 - Cultivating feedback loops for organisational learning
 
-### Opportunity Lead
+### AI Leader
 
-The **Opportunity Lead** drives disciplined use of the Opportunity Backlog as a tool for strategic clarity and adaptive alignment. They support expressing intent through opportunities, uncover systemic barriers, and enable outcome‑oriented decisions. They maintain rhythm around review cycles, help interpret learning, and connect strategic direction to measurable initiatives.
+The **AI Leader** drives disciplined use of the Opportunity Backlog as a tool for strategic clarity and adaptive alignment. They support expressing intent through opportunities, uncover systemic barriers, and enable outcome‑oriented decisions. They maintain rhythm around review cycles, help interpret learning, and connect strategic direction to measurable initiatives.
 
 They make happen:
 
@@ -109,9 +109,22 @@ They make happen:
 - Identification of systemic misalignments using opportunities as signals
 - Turning opportunity results into strategy‑shaping insight through deliberate feedback
 
-### Context Champions
+### Context Controller
 
-The **Context Champions** are accountable for lean management of context for AI. A Context Champion is needed for each instance of AI usage. They facilitate capture, refinement, and maintenance of context, ensuring it remains relevant and valuable. Champions promote transparency, enable engagement, escalate blockers, and coach teams to apply context principles without excess ceremony.
+The **Context Controller** is accountable for the disciplined assembly, traceability, and publishing of context for AI. A dedicated Context Controller is required for each instance of AI usage. They ensure that context is collected, structured, and versioned so it remains accurate, auditable, and valuable throughout its lifecycle.
+
+They create impact by:
+
+- Assembling and curating context into coherent and usable blocks
+- Maintaining traceability of context sources, changes, and dependencies
+- Publishing updated context on a clear cadence for inspection and alignment
+- Supporting teams in refining and validating context contributions
+- Escalating unresolved inconsistencies or context gaps
+- Coaching teams to use context as a shared reference point for decisions and focus
+
+### Context Owner(s)
+
+The **Context Owner(s)** are accountable for lean management of context for AI. A Context Owner is needed for each instance of AI usage. They facilitate capture, refinement, and maintenance of context, ensuring it remains relevant and valuable. Owners promote transparency, enable engagement, escalate blockers, and coach teams to apply context principles without excess ceremony.
 
 They create impact by:
 
