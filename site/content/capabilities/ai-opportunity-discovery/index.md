@@ -27,6 +27,9 @@ sections:
       Our mission is clear: **empower teams to identify high-impact AI opportunities and build the skills to manage AI operations**.  
 
       The Kendall Framework combines collaboration, prioritisation, and structured context building methods (like Problem Curation and Context 360°). This creates a clear, repeatable path to AI value.
+
+      The Kendall Framework matters because it gives organisations a disciplined, problem-first way to adopt AI that avoids chasing trends and wasted investment. By focusing on real problems, clear context, and measurable outcomes, it ensures AI efforts stay aligned with business goals. Defined roles provide accountability, structured artefacts and events create transparency, and regular inspection fosters continuous learning. The result is AI adoption that is purposeful, trustworthy, and delivers sustained value.
+
     list:
       - icon: fa-bullseye
         content: |
@@ -75,7 +78,7 @@ sections:
 
   - type: list
     title: How It Works
-    listType: steps
+    listType: boxed
     list:
       - title: Collaborative Workshops
         icon: fa-users-cog
