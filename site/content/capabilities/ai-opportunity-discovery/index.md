@@ -26,9 +26,9 @@ sections:
     sideContent: |
       Our mission is clear: **empower teams to identify high-impact AI opportunities and build the skills to manage AI operations**.  
 
-      The Kendall Framework combines collaboration, prioritisation, and structured context building methods (like Problem Curation and Context 360°). This creates a clear, repeatable path to AI value.
+      [The Kendall Framework]({{< ref "/resources/guides/kendall-guide" >}}) combines collaboration, prioritisation, and structured context building methods (like Problem Curation and Context 360°). This creates a clear, repeatable path to AI value.
 
-      The Kendall Framework matters because it gives organisations a disciplined, problem-first way to adopt AI that avoids chasing trends and wasted investment. By focusing on real problems, clear context, and measurable outcomes, it ensures AI efforts stay aligned with business goals. Defined roles provide accountability, structured artefacts and events create transparency, and regular inspection fosters continuous learning. The result is AI adoption that is purposeful, trustworthy, and delivers sustained value.
+      [The Kendall Framework]({{< ref "/resources/guides/kendall-guide" >}}) matters because it gives organisations a disciplined, problem-first way to adopt AI that avoids chasing trends and wasted investment. By focusing on real problems, clear context, and measurable outcomes, it ensures AI efforts stay aligned with business goals. Defined roles provide accountability, structured artefacts and events create transparency, and regular inspection fosters continuous learning. The result is AI adoption that is purposeful, trustworthy, and delivers sustained value.
 
     list:
       - icon: fa-bullseye
@@ -46,7 +46,12 @@ sections:
       - icon: fa-shield-alt
         content: |
           **Reduced Risk and Quick Wins** – By focusing on the right opportunities first, you save time, avoid missteps, and see results sooner.
-
+  - type: sectioncta
+    backgroundColor: primary
+    cta:
+      button:
+        text: The Kendall Framework Guide
+        url: /resources/guides/kendall-guide
   - type: list
     title: Team Alignment. AI Acceleration.
     listType: default
