@@ -65,7 +65,7 @@ sections:
       **Our training is different.**
 
       We blend **training, coaching, and mentoring** to ensure knowledge becomes action.
-    type: taxonomies-list
+  - type: taxonomies-list
     source: course_learning_experiences
     types:
       - course

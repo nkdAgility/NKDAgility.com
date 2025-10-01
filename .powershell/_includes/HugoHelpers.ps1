@@ -51,6 +51,12 @@ function Get-HugoMarkdown {
         }
         catch {
             Write-WarningLog "Error: Failed to convert YAML. $Path Stopping execution."
+            Write-WarningLog $_.Exception.Message
+            if ($path -match '([^\\]+\\[^\\]+\\[^\\]+\\[^\\]+)$') {
+                $result = $Matches[1]
+                Write-WarningLog $result
+            }
+
             throw
         }
     }
