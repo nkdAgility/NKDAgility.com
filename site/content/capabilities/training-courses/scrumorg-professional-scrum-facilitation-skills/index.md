@@ -56,19 +56,20 @@ delivery_audiences:
   - Lean Agile Practitioners
 preview: naked-agility-Professional-Scrum-PSFS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSFS-400x.png
-brandColour: 
+brandColour:
 code: PSFS
+programCode: PSFS
 course_proficiencies:
   - beginner
-introduction: 
+introduction:
 overview: |+
   This course is most suitable for professionals with Scrum knowledge and experience that are interested in learning how to use facilitation to enhance team collaboration and reduce conflict. It is ideal for: 
   - All Scrum Team members (Scrum Masters, Developers and Product Owners)
   - Scrum Coaches, Agile Coaches and Consultants
   - Students who have previously taken Applying Professional Scrum, Professional Scrum Master, Professional Scrum Product Owner training or equivalent.
 
-outcomes: 
-assessment: 
+outcomes:
+assessment:
 objectives: |2+
 
   - Explain the roles that facilitation principles and the Scrum Values play in enhancing healthy collaboration within Scrum Teams
@@ -81,13 +82,13 @@ prerequisites: |2+
   - Be familiar with Scrum and the Scrum Guide
   - Have worked with or on a Scrum Team
 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 ```markdown
 # Professional Scrum Facilitation Skills (PSFS) with Certification
 

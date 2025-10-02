@@ -1,27 +1,19 @@
-{{/* 
-    Loads syllabus data from a file or falls back to front matter
-    @param page - The current page object
-    @returns - The syllabus data (either from file or front matter)
+{{/* Loads syllabus data from Site.Data.programs first, then falls back to file or front matter
+  @param page - The current page object
+  @returns - The syllabus data (either from Site.Data.programs, file, or front matter)
 */}}
 {{ $page := . }}
 {{ $syllabusData := dict }}
 {{ $syllabusBefore := slice }}
 {{ $syllabus := slice }}
 
-{{/* Try to load from syllabus.yaml file in the course directory */}}
-{{ $syllabusPath := path.Join $page.File.Dir "syllabus.yaml" }}
-{{ $syllabusExists := fileExists $syllabusPath }}
-{{ $syllabusExists := fileExists $syllabusPath }}
-
-{{ if $syllabusExists }}
-  {{ $syllabusContent := readFile $syllabusPath }}
-  {{ $yamlContent := $syllabusContent | transform.Unmarshal }}
-  {{ $syllabusBefore = index $yamlContent "syllabusBefore" | default slice }}
-  {{ $syllabus = index $yamlContent "syllabus" | default slice }}
-{{ else }}
-  {{/* Fall back to front matter */}}
-  {{ $syllabusBefore = $page.Params.syllabusBefore | default slice }}
-  {{ $syllabus = $page.Params.syllabus | default slice }}
+{{/* First try to load from Site.Data.programs using programCode */}}
+{{ $programCode := $page.Params.programCode }}
+{{ if $programCode }}
+  {{ $programData := index site.Data.programs (lower $programCode) }}
+  {{ if $programData }}
+    {{ $syllabusData = $programData }}
+  {{ end }}
 {{ end }}
 
-{{ return dict "syllabusBefore" $syllabusBefore "syllabus" $syllabus }}
+{{ return $syllabusData }}

@@ -68,6 +68,7 @@ delivery_audiences:
   - Entrepreneurs
 preview: naked-agility-Professional-Scrum-PSPO-I-1600x900-1.jpg
 code: PSPO
+programCode: PSPO
 course_proficiencies:
   - intermediate
 assessment:
@@ -106,7 +107,7 @@ objectives: |
   - Track value creation with meaningful metrics.
   - Engage stakeholders, customers, and team members effectively.
 previewIcon: PSPO-400x.png
-brandColour: '#749335'
+brandColour: "#749335"
 prerequisites: |
   Participants will benefit most from the course if they:
   - Have studied the [Scrum Guide](https://www.scrumguides.org/).
@@ -119,28 +120,9 @@ audience:
     - capabilities/training-courses/audiences/product-owners.md
 trainers:
   - /company/people/martin-hinshelwood/
-roadmap: 
-events:
-  - start_date: 2025-11-07
-    location: Virtual
-    registration_link: '#'
-    sessions:
-      - start_datetime: 2025-11-07T09:00:00
-        end_datetime: 2025-11-07T17:00:00
-        timezone: Europe/London
-        syllabus_ids:
-          - 1
-          - 2
-          - 3
-      - start_datetime: 2025-11-08T09:00:00
-        end_datetime: 2025-11-08T17:00:00
-        timezone: Europe/London
-        syllabus_ids:
-          - 4
-          - 5
-          - 6
-
+roadmap:
 ---
+
 # Professional Scrum Product Owner (PSPO) Course Datasheet
 
 **Course Code:** PSPO
@@ -155,11 +137,11 @@ The Professional Scrum Product Owner (PSPO) course equips participants to master
 
 ## Target Audience
 
-- Product Owners  
-- Product Managers  
-- Scrum Masters  
-- Lean Agile Practitioners  
-- Entrepreneurs  
+- Product Owners
+- Product Managers
+- Scrum Masters
+- Lean Agile Practitioners
+- Entrepreneurs
 - Managers seeking deeper Agile Product Management understanding
 
 ---
@@ -188,7 +170,7 @@ The Professional Scrum Product Owner (PSPO) course equips participants to master
 
 ## Delivery Format
 
-- Immersive and traditional classroom or live virtual sessions  
+- Immersive and traditional classroom or live virtual sessions
 - Team-based exercises and practical case studies
 
 ---
@@ -201,7 +183,7 @@ The Professional Scrum Product Owner (PSPO) course equips participants to master
 
 ## Course Length
 
-- 2 days (in-person)  
+- 2 days (in-person)
 - Live Virtual Class: split into shorter sessions over multiple days
 
 ---

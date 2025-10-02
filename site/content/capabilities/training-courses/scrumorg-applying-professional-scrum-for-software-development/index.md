@@ -55,7 +55,7 @@ card:
   button:
     content: ""
   title: Applying Professional Scrum for Software Development (APS-SD) with Certification
-  content: 'Experience APS-SD: Hands-on Scrum training for delivering quality software. Gain practical skills in Agile, DevOps, and Scrum principles. Free PSD I certification exam included. Enhance your software development expertise.'
+  content: "Experience APS-SD: Hands-on Scrum training for delivering quality software. Gain practical skills in Agile, DevOps, and Scrum principles. Free PSD I certification exam included. Enhance your software development expertise."
 Watermarks:
   description: 2025-07-29T15:01:56Z
   tldr: 2025-08-08T11:40:35Z
@@ -72,8 +72,9 @@ delivery_audiences:
   - Developers
 preview: naked-agility-Professional-Scrum-APSSD-1600x900-1.jpg
 previewIcon: Scrumorg-Course-APSSD-400x.png
-brandColour: 
+brandColour:
 code: APS-SD
+programCode: APS-SD
 course_length: 24
 course_sessions: 12
 course_proficiencies:
@@ -99,7 +100,7 @@ outcomes: |2+
   - Synergizing Development and Operations: Integrating DevOps with Scrum
   - 
 
-assessment: 
+assessment:
 objectives: |2+
 
   - Foster Real Collaboration: Experience the power of collaboration between Developers, Product Owner, and Scrum Master to create and deliver a high-quality and valuable product.
@@ -116,12 +117,12 @@ prerequisites: |-
   - Basic Coding Skills: Have a foundational understanding of programming concepts and coding practices.
 
    By having a grasp of these topics, students will be better prepared to engage in the APS-SD class and actively participate in the hands-on exercises and Scrum team activities.
-audience: 
-trainers: 
-roadmap: 
-events: 
-
+audience:
+trainers:
+roadmap:
+events:
 ---
+
 # Applying Professional Scrum for Software Development (APS-SD) with Certification
 
 **Course Code:** APS-SD

@@ -69,8 +69,9 @@ delivery_audiences:
   - Teams
 preview: naked-agility-Professional-Scrum-APS-Minecraft-1600x900-1.jpg
 previewIcon: Scrumorg-Course-APS 400x.png
-brandColour: '#c75129'
+brandColour: "#c75129"
 code: APS
+programCode: APS
 course_proficiencies:
   - beginner
 introduction: |-
@@ -139,9 +140,9 @@ roadmap:
     - /capabilities/training-courses/scrum-training-courses/professional-scrum-master/
     - /capabilities/training-courses/scrum-training-courses/professional-scrum-product-owner/
     - /capabilities/training-courses/scrum-training-courses/scrumorg-applying-professional-scrum-for-software-development/
-events: 
-
+events:
 ---
+
 # Applying Professional Scrum (APS) Course with Certification
 
 **Course Code:** APS
