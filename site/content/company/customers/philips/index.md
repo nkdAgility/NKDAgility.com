@@ -8,4 +8,10 @@ slug: philips
 preview: Philips.png
 ItemType: customers
 ItemKind: marketing
+ItemId: Ffr_pcr-zwN
+ResourceId: Ffr_pcr-zwN
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

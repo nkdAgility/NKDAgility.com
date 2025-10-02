@@ -9,4 +9,10 @@ preview: Washington-Department-of-Enterprise-Services.jpg
 customer-industries: Government
 ItemType: customers
 ItemKind: marketing
+ItemId: zoXYvkWUgpF
+ResourceId: zoXYvkWUgpF
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

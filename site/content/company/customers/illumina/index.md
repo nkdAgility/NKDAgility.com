@@ -8,4 +8,10 @@ slug: illumina
 preview: Illumina.jpg
 ItemType: customers
 ItemKind: marketing
+ItemId: njqV2GbV91d
+ResourceId: njqV2GbV91d
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

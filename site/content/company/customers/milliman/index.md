@@ -9,4 +9,10 @@ preview: Milliman.jpg
 customer-industries: Medical
 ItemType: customers
 ItemKind: marketing
+ItemId: sgjmWlysgfE
+ResourceId: sgjmWlysgfE
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

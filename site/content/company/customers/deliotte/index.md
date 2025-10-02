@@ -8,4 +8,10 @@ slug: deliotte
 preview: deloit.jpg
 ItemType: customers
 ItemKind: marketing
+ItemId: c9zH8qnFgQO
+ResourceId: c9zH8qnFgQO
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

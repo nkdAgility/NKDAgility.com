@@ -8,4 +8,10 @@ slug: boeing
 preview: Boeing.jpg
 ItemType: customers
 ItemKind: marketing
+ItemId: lnVX9iO0yrh
+ResourceId: lnVX9iO0yrh
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+
