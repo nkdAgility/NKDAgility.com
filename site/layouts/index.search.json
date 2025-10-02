@@ -10,11 +10,8 @@
       {{- $categories := slice }}
       {{- $concepts := slice }}
       {{- $tags := slice }}
-      {{- $data := dict }}
 
-      {{- with $page.Resources.GetMatch "data.index.classifications.json" }}
-        {{- $data = . | transform.Unmarshal }}
-      {{- end }}
+      {{- $classificationData := partial "functions/get-classifications.html" .Page }}
 
       {{- $categoryNames := $page.Params.categories | default slice }}
       {{- $conceptNames := $page.Params.concepts | default slice }}
@@ -22,7 +19,7 @@
 
       {{- range $categoryNames }}
         {{- $name := . }}
-        {{- $item := index $data $name }}
+        {{- $item := index $classificationData $name }}
         {{- if $item }}
           {{- $categories = $categories | append (dict
             "name" $name
@@ -34,7 +31,7 @@
 
       {{- range $conceptNames }}
         {{- $name := . }}
-        {{- $item := index $data $name }}
+        {{- $item := index $classificationData  $name }}
         {{- if $item }}
           {{- $concepts = $concepts | append (dict
             "name" $name
@@ -46,7 +43,7 @@
 
       {{- range $tagNames }}
         {{- $name := . }}
-        {{- $item := index $data $name }}
+        {{- $item := index $classificationData $name }}
         {{- if $item }}
           {{- $tags = $tags | append (dict
             "name" $name
