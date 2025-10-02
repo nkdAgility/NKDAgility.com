@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: z7Ypxiu5Trd
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: z7Ypxiu5Trd
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-event-handler-in-net-3-5
 aliases:
   - /resources/blog/tfs-event-handler-in-.net-3.5
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:24Z
+ResourceId: z7Ypxiu5Trd
+ResourceType: blog
 ResourceImportId: 325
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -11,10 +11,10 @@ sitemap:
   priority: 0.1
   changefreq: monthly
 author: MrHinsh
-ResourceId: lcekkOc8X02
-ResourceImport: false
-ResourceType: podcast
-ResourceContentOrigin: Human
+ItemId: lcekkOc8X02
+ItemType: podcast
+ItemKind: resource
+ItemContentOrigin: Human
 slug: life-coaches-masquerading-as-agile-coaches
 aliases:
   - /resources/lcekkOc8X02
@@ -27,6 +27,8 @@ Watermarks:
   description: 2025-05-07T13:13:26Z
   short_title: 2025-07-07T17:56:07Z
   tldr: 2025-08-07T13:07:02Z
+ResourceId: lcekkOc8X02
+ResourceType: podcast
 resourceTypes: podcast
 
 ---

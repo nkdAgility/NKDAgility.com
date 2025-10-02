@@ -5,16 +5,15 @@ description: Discover how using a Minecraft-based case study enhances Agile trai
 tldr: The Minecraft case study developed by Simon offers an engaging and practical way for teams to experience Agile concepts, closely mirroring real project challenges and improving team collaboration. Participants report higher engagement, better understanding of complexity, and stronger teamwork compared to traditional training. Development managers should consider innovative, interactive training methods like this to boost Agile adoption and team effectiveness.
 date: 2023-08-29T07:00:14Z
 lastmod: 2023-08-29T07:00:14Z
-weight: 840
+weight: 570
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
-ResourceId: dTE8-Z1ZgA4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: dTE8-Z1ZgA4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics
 aliases:
   - /resources/dTE8-Z1ZgA4
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:09:48Z
   short_title: 2025-07-07T17:53:19Z
   tldr: 2025-08-07T13:00:37Z
+ResourceId: dTE8-Z1ZgA4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: dTE8-Z1ZgA4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/dTE8-Z1ZgA4/maxresdefault.jpg

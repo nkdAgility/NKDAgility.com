@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Frqfd0EPj_4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Frqfd0EPj_4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-future-of-scrum-training-immersive-learning-for-lasting-change
 aliases:
   - /resources/Frqfd0EPj_4
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:07:36Z
   short_title: 2025-07-07T17:51:33Z
   tldr: 2025-08-07T12:56:28Z
+ResourceId: Frqfd0EPj_4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Frqfd0EPj_4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Frqfd0EPj_4/maxresdefault.jpg

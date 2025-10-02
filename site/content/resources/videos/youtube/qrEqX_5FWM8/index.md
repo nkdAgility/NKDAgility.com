@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: qrEqX_5FWM8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: qrEqX_5FWM8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
 aliases:
   - /resources/qrEqX_5FWM8
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:11:47Z
   short_title: 2025-07-07T17:54:46Z
   tldr: 2025-08-07T13:04:03Z
+ResourceId: qrEqX_5FWM8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: qrEqX_5FWM8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/qrEqX_5FWM8/maxresdefault.jpg

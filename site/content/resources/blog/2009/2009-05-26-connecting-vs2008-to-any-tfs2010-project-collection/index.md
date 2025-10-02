@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: f6DE_mA4Fk1
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: f6DE_mA4Fk1
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: connecting-vs2008-to-any-tfs2010-project-collection
 aliases:
   - /resources/f6DE_mA4Fk1
@@ -27,6 +27,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:23:42Z
+ResourceId: f6DE_mA4Fk1
+ResourceType: blog
 ResourceImportId: 108
 creator: Martin Hinshelwood
 resourceTypes: blog

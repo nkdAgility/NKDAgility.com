@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 5GEKVUBfbi2
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 5GEKVUBfbi2
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: windows-azure-training-kit
 aliases:
   - /resources/5GEKVUBfbi2
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:24:25Z
+ResourceId: 5GEKVUBfbi2
+ResourceType: blog
 ResourceImportId: 136
 creator: Martin Hinshelwood
 resourceTypes: blog

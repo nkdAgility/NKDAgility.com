@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: hnvOLuqmQk7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: hnvOLuqmQk7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: is-alm-a-useful-term
 aliases:
   - /resources/hnvOLuqmQk7
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:09:19Z
+ResourceId: hnvOLuqmQk7
+ResourceType: blog
 ResourceImportId: 4576
 creator: Martin Hinshelwood
 resourceTypes: blog

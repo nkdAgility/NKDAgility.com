@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 4HQ5Qef6qsH
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 4HQ5Qef6qsH
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: memories-of-a-multi-dimensional-free-thinking-software-developer
 aliases:
   - /resources/4HQ5Qef6qsH
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:32Z
+ResourceId: 4HQ5Qef6qsH
+ResourceType: blog
 ResourceImportId: 365
 creator: Martin Hinshelwood
 resourceTypes: blog

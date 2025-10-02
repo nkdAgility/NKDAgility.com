@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: qwciWeifRRf
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: qwciWeifRRf
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: too-many-teams-overcomplicate-their-branching-strategies
 aliases:
   - /resources/qwciWeifRRf
@@ -25,16 +25,16 @@ categories:
   - Engineering Excellence
   - Product Development
 tags:
-  - Pragmatic Thinking
   - Modern Source Control
+  - Pragmatic Thinking
   - Software Development
   - Operational Practices
   - GitHub
+  - Technical Mastery
   - Team Performance
   - Frequent Releases
   - Continuous Delivery
   - Value Delivery
-  - Technical Mastery
   - Product Delivery
 platform_signals:
   - platform: LinkedIn
@@ -51,6 +51,8 @@ Watermarks:
   description: 2025-05-16T15:57:07Z
   short_title: 2025-07-07T17:46:48Z
   tldr: 2025-08-07T12:40:12Z
+ResourceId: qwciWeifRRf
+ResourceType: signals
 
 ---
 Too many teams overcomplicate their branching strategies. The best engineering teams focus on flow, not friction.

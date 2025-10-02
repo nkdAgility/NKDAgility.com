@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: bvCU_N6iY_4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: bvCU_N6iY_4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
 aliases:
   - /resources/bvCU_N6iY_4
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:14:49Z
   short_title: 2025-07-07T17:57:25Z
   tldr: 2025-08-07T13:09:53Z
+ResourceId: bvCU_N6iY_4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: bvCU_N6iY_4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg

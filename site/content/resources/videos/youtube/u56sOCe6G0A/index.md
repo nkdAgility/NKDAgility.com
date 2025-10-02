@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: u56sOCe6G0A
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: u56sOCe6G0A
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
 aliases:
   - /resources/u56sOCe6G0A
@@ -49,6 +48,9 @@ Watermarks:
   description: 2025-05-07T13:05:35Z
   short_title: 2025-07-07T17:49:37Z
   tldr: 2025-08-07T12:52:26Z
+ResourceId: u56sOCe6G0A
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: u56sOCe6G0A
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/u56sOCe6G0A/maxresdefault.jpg

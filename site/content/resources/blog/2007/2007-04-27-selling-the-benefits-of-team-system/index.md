@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: _jpQbjqxlCl
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: _jpQbjqxlCl
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: selling-the-benefits-of-team-system
 aliases:
   - /resources/_jpQbjqxlCl
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:45Z
+ResourceId: _jpQbjqxlCl
+ResourceType: blog
 ResourceImportId: 410
 creator: Martin Hinshelwood
 resourceTypes: blog

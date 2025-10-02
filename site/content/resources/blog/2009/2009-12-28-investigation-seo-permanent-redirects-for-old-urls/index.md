@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: roXmyU8SYFJ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: roXmyU8SYFJ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: investigation-seo-permanent-redirects-for-old-url-s
 aliases:
   - /resources/roXmyU8SYFJ
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:22:50Z
+ResourceId: roXmyU8SYFJ
+ResourceType: blog
 ResourceImportId: 74
 creator: Martin Hinshelwood
 resourceTypes: blog

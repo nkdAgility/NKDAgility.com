@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: Cia3d_y9akQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Cia3d_y9akQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
 aliases:
   - /resources/Cia3d_y9akQ
@@ -46,6 +45,7 @@ Watermarks:
   description: 2025-05-07T12:57:26Z
   short_title: 2025-07-07T17:47:44Z
   tldr: 2025-08-07T12:42:23Z
+ResourceImportSource: Youtube
 videoId: Cia3d_y9akQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Cia3d_y9akQ/maxresdefault.jpg
@@ -53,6 +53,8 @@ duration: 639
 resourceTypes:
   - video
 isShort: false
+ResourceId: Cia3d_y9akQ
+ResourceType: videos
 
 ---
 When it comes to the role of a [Scrum]({{< ref "/categories/scrum" >}}) Master, there are a plethora of misconceptions that can cloud our understanding of what this position truly entails. Having navigated the complexities of Scrum and Agile for many years, I’ve seen firsthand how these misunderstandings can lead to dysfunction within teams and organisations. Today, I want to share my insights on the true accountabilities of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) and how we can move beyond the common pitfalls.

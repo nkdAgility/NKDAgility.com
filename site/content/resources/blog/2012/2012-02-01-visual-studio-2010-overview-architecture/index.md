@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: zV3uLqE0b0K
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: zV3uLqE0b0K
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2010-overview-architecture
 aliases:
   - /resources/zV3uLqE0b0K
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:36Z
+ResourceId: zV3uLqE0b0K
+ResourceType: blog
 ResourceImportId: 4191
 creator: Martin Hinshelwood
 resourceTypes: blog

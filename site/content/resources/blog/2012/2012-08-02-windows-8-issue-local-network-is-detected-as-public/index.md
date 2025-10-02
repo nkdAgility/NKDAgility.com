@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Ws3mtPZiqjo
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Ws3mtPZiqjo
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: windows-8-issue-local-network-is-detected-as-public
 aliases:
   - /resources/Ws3mtPZiqjo
@@ -32,6 +32,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:08:29Z
+ResourceId: Ws3mtPZiqjo
+ResourceType: blog
 ResourceImportId: 6924
 creator: Martin Hinshelwood
 resourceTypes: blog

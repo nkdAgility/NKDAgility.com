@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 220tyMrhSFE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 220tyMrhSFE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transform-your-team's-efficiency-the-three-core-principles-of-caman-workflow-management
 aliases:
   - /resources/220tyMrhSFE
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:02:05Z
   short_title: 2025-07-07T17:48:31Z
   tldr: 2025-08-07T12:49:40Z
+ResourceId: 220tyMrhSFE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 220tyMrhSFE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/220tyMrhSFE/maxresdefault.jpg

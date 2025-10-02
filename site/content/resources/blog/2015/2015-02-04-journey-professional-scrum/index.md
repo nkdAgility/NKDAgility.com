@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: PqEhZ1JIcDe
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: PqEhZ1JIcDe
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: my-journey-into-professional-scrum
 aliases:
   - /resources/PqEhZ1JIcDe
@@ -40,6 +40,8 @@ Watermarks:
   description: 2025-05-12T14:20:04Z
   tldr: 2025-08-07T13:25:38Z
   short_title: 2025-08-07T13:25:39Z
+ResourceId: PqEhZ1JIcDe
+ResourceType: blog
 ResourceImportId: 11115
 creator: Martin Hinshelwood
 resourceTypes: blog

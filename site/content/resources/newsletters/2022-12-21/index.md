@@ -11,10 +11,10 @@ sitemap:
   priority: 0.2
   changefreq: weekly
 author: MrHinsh
-ResourceId: Tx-0zZJ1biI
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: Tx-0zZJ1biI
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: seasons-greetings-upcoming-professional-scrum-training-classes
 aliases:
   - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-07T13:14:39Z
   short_title: 2025-07-07T17:57:17Z
   tldr: 2025-08-07T13:09:30Z
+ResourceId: Tx-0zZJ1biI
+ResourceType: newsletters
 preview: naked-agility-technically-agile-1280×720-Holiday2022.jpg
 resourceTypes: newsletter
 

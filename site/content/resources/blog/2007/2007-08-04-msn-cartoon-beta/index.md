@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: fFkCnlj8PXW
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: fFkCnlj8PXW
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: msn-cartoon-beta
 aliases:
   - /resources/fFkCnlj8PXW
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:01Z
+ResourceId: fFkCnlj8PXW
+ResourceType: blog
 ResourceImportId: 347
 creator: Martin Hinshelwood
 resourceTypes: blog

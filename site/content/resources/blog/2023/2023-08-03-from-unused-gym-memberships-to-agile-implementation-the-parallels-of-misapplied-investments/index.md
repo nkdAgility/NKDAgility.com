@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: mzVDd2JFtHO
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: mzVDd2JFtHO
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 aliases:
   - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
@@ -36,6 +36,8 @@ Watermarks:
   description: 2025-05-07T13:10:27Z
   short_title: 2025-07-07T17:53:45Z
   tldr: 2025-08-07T13:01:34Z
+ResourceId: mzVDd2JFtHO
+ResourceType: blog
 ResourceImportId: 49507
 AudioNative: true
 creator: Martin Hinshelwood

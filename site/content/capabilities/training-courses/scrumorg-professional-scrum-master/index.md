@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: NphdCz-Fh4k
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: NphdCz-Fh4k
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: professional-scrum-master-psm-course-with-certification
-aliases:
-  - /resources/NphdCz-Fh4k
+aliases: []
 aliasesArchive:
   - /training-courses/professional-scrum-master
   - /training-courses/professional-scrum-master-psm-training
@@ -123,7 +122,7 @@ objectives: |
   - Effectively start using Scrum
   - Increase the effectiveness of Scrum underway
 previewIcon: Scrumorg-Course-PSM 400x.png
-brandColour: "#3a7c9a"
+brandColour: '#3a7c9a'
 prerequisites: |
   Attendees make the most of the class if they: 
   - Have studied the [Scrum Guide](http://www.scrumguides.org/) (**required**)
@@ -161,8 +160,10 @@ events:
           - 5
           - 6
           - 7
----
+ResourceId: NphdCz-Fh4k
+ResourceType: course
 
+---
 # Professional Scrum Master (PSM) Course with Certification
 
 **Course Code:** PSM

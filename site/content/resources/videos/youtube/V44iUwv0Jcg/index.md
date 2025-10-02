@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: V44iUwv0Jcg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: V44iUwv0Jcg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
 aliases:
   - /resources/V44iUwv0Jcg
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:02:10Z
   short_title: 2025-07-07T17:48:35Z
   tldr: 2025-08-07T12:49:50Z
+ResourceId: V44iUwv0Jcg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: V44iUwv0Jcg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg

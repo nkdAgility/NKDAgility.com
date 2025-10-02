@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Truj03gqwvW
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Truj03gqwvW
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: review-the-professional-scrum-masters-handbook
 aliases:
   - /resources/Truj03gqwvW
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-12T14:23:18Z
+ResourceId: Truj03gqwvW
+ResourceType: blog
 ResourceImportId: 9967
 creator: Martin Hinshelwood
 resourceTypes: blog

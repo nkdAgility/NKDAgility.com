@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: LiKE3zHuOuY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: LiKE3zHuOuY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-much-of-an-impact-can-scrum-have-in-a-devops-environment
 aliases:
   - /resources/LiKE3zHuOuY
@@ -34,6 +33,9 @@ Watermarks:
   description: 2025-05-07T13:11:36Z
   short_title: 2025-07-07T17:54:37Z
   tldr: 2025-08-07T13:03:42Z
+ResourceId: LiKE3zHuOuY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: LiKE3zHuOuY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/LiKE3zHuOuY/maxresdefault.jpg

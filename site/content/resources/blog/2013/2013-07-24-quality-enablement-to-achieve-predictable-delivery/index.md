@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: Qvzmat4E5NB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Qvzmat4E5NB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: quality-enablement-to-achieve-predictable-delivery
 aliases:
   - /resources/Qvzmat4E5NB
@@ -35,6 +35,8 @@ tags:
   - Technical Excellence
 Watermarks:
   description: 2025-05-12T14:23:36Z
+ResourceId: Qvzmat4E5NB
+ResourceType: blog
 ResourceImportId: 9737
 creator: Martin Hinshelwood
 resourceTypes: blog

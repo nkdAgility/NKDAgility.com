@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: qNeovUSRj-o
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: qNeovUSRj-o
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: major-deadline
 aliases:
   - /resources/qNeovUSRj-o
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:15Z
+ResourceId: qNeovUSRj-o
+ResourceType: blog
 ResourceImportId: 233
 creator: Martin Hinshelwood
 resourceTypes: blog

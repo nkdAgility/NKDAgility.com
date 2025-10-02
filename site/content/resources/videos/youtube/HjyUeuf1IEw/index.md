@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: HjyUeuf1IEw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: HjyUeuf1IEw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
 aliases:
   - /resources/HjyUeuf1IEw
@@ -31,10 +30,14 @@ categories:
   - Uncategorized
 tags:
   - Software Development
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:15:43Z
   short_title: 2025-07-07T17:58:06Z
   tldr: 2025-08-07T13:11:42Z
+ResourceId: HjyUeuf1IEw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: HjyUeuf1IEw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg

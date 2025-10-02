@@ -8,11 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: KRC89A7RtrM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: KRC89A7RtrM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
 aliases:
   - /resources/KRC89A7RtrM
@@ -30,6 +29,9 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:22:31Z
+ResourceId: KRC89A7RtrM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: KRC89A7RtrM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KRC89A7RtrM/maxresdefault.jpg

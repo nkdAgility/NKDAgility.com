@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: cR4D4qQe9ps
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: cR4D4qQe9ps
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 1-tip-for-a-new-scrum-master
 aliases:
   - /resources/cR4D4qQe9ps
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:12:24Z
   short_title: 2025-07-07T17:55:13Z
   tldr: 2025-08-07T13:05:03Z
+ResourceId: cR4D4qQe9ps
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: cR4D4qQe9ps
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cR4D4qQe9ps/maxresdefault.jpg

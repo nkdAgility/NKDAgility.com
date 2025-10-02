@@ -5,15 +5,15 @@ description: Explores how rigid hierarchies in product backlogs can hinder agili
 tldr: Relying on rigid hierarchies in the Product Backlog can hinder transparency and adaptability in complex product development. Instead, focus on a flat backlog that highlights valuable, deliverable items, supports team autonomy, and leverages emergent practices over fixed best practices. Empower your teams to structure the backlog in ways that foster learning, innovation, and resilience in changing environments.
 date: 2023-08-17
 lastmod: 2023-08-17
-weight: 750
+weight: 525
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: weekly
-ResourceId: PmLDnMEBzBQ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: PmLDnMEBzBQ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 aliases:
   - /blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
@@ -49,6 +49,8 @@ Watermarks:
   description: 2025-05-07T13:10:10Z
   short_title: 2025-07-07T17:53:31Z
   tldr: 2025-08-07T13:01:02Z
+ResourceId: PmLDnMEBzBQ
+ResourceType: blog
 ResourceImportId: 49515
 AudioNative: true
 creator: Martin Hinshelwood

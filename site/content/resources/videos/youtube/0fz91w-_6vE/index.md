@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: 0fz91w-_6vE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 0fz91w-_6vE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
 aliases:
   - /resources/0fz91w-_6vE
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:12:49Z
   short_title: 2025-07-07T17:55:34Z
   tldr: 2025-08-07T13:05:45Z
+ResourceId: 0fz91w-_6vE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 0fz91w-_6vE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/0fz91w-_6vE/maxresdefault.jpg

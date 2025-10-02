@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: m2Z4UV4OQlI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: m2Z4UV4OQlI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
 aliases:
   - /resources/m2Z4UV4OQlI
@@ -52,6 +51,9 @@ Watermarks:
   description: 2025-05-07T13:06:09Z
   short_title: 2025-07-07T17:50:03Z
   tldr: 2025-08-07T12:53:32Z
+ResourceId: m2Z4UV4OQlI
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: m2Z4UV4OQlI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/m2Z4UV4OQlI/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: DSIXtHZTirA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: DSIXtHZTirA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: nkd-agility-your-partner-in-developing-engineering-excellence
 aliases:
   - /resources/DSIXtHZTirA
@@ -41,6 +40,7 @@ Watermarks:
   description: 2025-05-07T12:57:06Z
   short_title: 2025-07-07T17:47:28Z
   tldr: 2025-08-07T12:41:42Z
+ResourceImportSource: Youtube
 videoId: DSIXtHZTirA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
@@ -48,6 +48,8 @@ duration: 704
 resourceTypes:
   - video
 isShort: false
+ResourceId: DSIXtHZTirA
+ResourceType: videos
 
 ---
 # Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  

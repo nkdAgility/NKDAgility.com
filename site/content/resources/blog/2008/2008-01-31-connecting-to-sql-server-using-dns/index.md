@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: tV0-x7E8IQc
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: tV0-x7E8IQc
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: connecting-to-sql-server-using-dns
 aliases:
   - /resources/tV0-x7E8IQc
@@ -29,6 +29,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T16:24:43Z
+ResourceId: tV0-x7E8IQc
+ResourceType: blog
 ResourceImportId: 256
 creator: Martin Hinshelwood
 resourceTypes: blog

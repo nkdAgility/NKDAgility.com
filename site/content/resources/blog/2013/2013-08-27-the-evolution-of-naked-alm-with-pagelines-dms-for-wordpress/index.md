@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: csMYp4a7yBd
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: csMYp4a7yBd
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 aliases:
   - /resources/csMYp4a7yBd
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:23:21Z
+ResourceId: csMYp4a7yBd
+ResourceType: blog
 ResourceImportId: 9964
 creator: Martin Hinshelwood
 resourceTypes: blog

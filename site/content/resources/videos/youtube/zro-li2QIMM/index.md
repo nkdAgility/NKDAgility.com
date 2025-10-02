@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: zro-li2QIMM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: zro-li2QIMM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges
 aliases:
   - /resources/zro-li2QIMM
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:07:13Z
   short_title: 2025-07-07T17:51:15Z
   tldr: 2025-08-07T12:55:38Z
+ResourceId: zro-li2QIMM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: zro-li2QIMM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Na9jm-enlD0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Na9jm-enlD0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: where-is-consensus-valuable-and-where-does-it-kill-great-product-development
 aliases:
   - /resources/Na9jm-enlD0
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:09:20Z
   short_title: 2025-07-07T17:52:55Z
   tldr: 2025-08-07T12:59:45Z
+ResourceId: Na9jm-enlD0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Na9jm-enlD0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Na9jm-enlD0/maxresdefault.jpg

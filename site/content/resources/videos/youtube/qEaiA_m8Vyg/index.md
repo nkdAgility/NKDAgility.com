@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: qEaiA_m8Vyg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: qEaiA_m8Vyg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 aliases:
   - /resources/qEaiA_m8Vyg
@@ -34,6 +33,9 @@ Watermarks:
   description: 2025-05-07T13:10:56Z
   short_title: 2025-07-07T17:54:05Z
   tldr: 2025-08-07T13:02:18Z
+ResourceId: qEaiA_m8Vyg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: qEaiA_m8Vyg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/qEaiA_m8Vyg/maxresdefault.jpg

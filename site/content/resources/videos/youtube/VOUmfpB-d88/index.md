@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: VOUmfpB-d88
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: VOUmfpB-d88
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transforming-training-the-power-of-immersive-learning-in-scrum
 aliases:
   - /resources/VOUmfpB-d88
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:02:55Z
   short_title: 2025-07-07T17:49:15Z
   tldr: 2025-08-07T12:51:31Z
+ResourceId: VOUmfpB-d88
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: VOUmfpB-d88
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/VOUmfpB-d88/maxresdefault.jpg

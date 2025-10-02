@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: QGXlCm_B5zA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: QGXlCm_B5zA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
 aliases:
   - /resources/QGXlCm_B5zA
@@ -36,6 +35,7 @@ categories:
   - Scrum
   - Leadership
 tags:
+  - Pragmatic Thinking
   - Professional Scrum
   - Scrum Master
   - Software Development
@@ -43,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:13:49Z
   short_title: 2025-07-07T17:56:32Z
   tldr: 2025-08-07T13:07:49Z
+ResourceId: QGXlCm_B5zA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: QGXlCm_B5zA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg

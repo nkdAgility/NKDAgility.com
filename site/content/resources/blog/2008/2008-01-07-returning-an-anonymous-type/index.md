@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ZD6hMyXVz9s
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ZD6hMyXVz9s
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: returning-an-anonymous-type
 aliases:
   - /resources/blog/returning-an-anonymous-type...
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:08Z
+ResourceId: ZD6hMyXVz9s
+ResourceType: blog
 ResourceImportId: 268
 creator: Martin Hinshelwood
 resourceTypes: blog

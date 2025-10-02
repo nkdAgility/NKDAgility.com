@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: eDmNn28RPGH
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: eDmNn28RPGH
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: loosing-the-battle-but-the-war-goes-on
 aliases:
   - /resources/eDmNn28RPGH
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:36Z
+ResourceId: eDmNn28RPGH
+ResourceType: blog
 ResourceImportId: 367
 creator: Martin Hinshelwood
 resourceTypes: blog

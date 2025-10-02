@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: qnWVeumTKcE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: qnWVeumTKcE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: a-view-into-the-psm-training-from-scrum-org
 aliases:
   - /resources/qnWVeumTKcE
@@ -35,6 +34,9 @@ Watermarks:
   description: 2025-05-07T13:14:53Z
   short_title: 2025-07-07T17:57:29Z
   tldr: 2025-08-07T13:10:06Z
+ResourceId: qnWVeumTKcE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: qnWVeumTKcE
 url: /resources/videos/:slug
 canonicalUrl: https://www.youtube.com/watch?v=qnWVeumTKcE

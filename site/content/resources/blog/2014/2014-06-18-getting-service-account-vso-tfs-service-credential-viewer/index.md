@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: i10guK3jvON
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: i10guK3jvON
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: getting-a-service-account-for-vso-with-tfs-service-credential-viewer
 aliases:
   - /resources/i10guK3jvON
@@ -29,6 +29,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:21:38Z
+ResourceId: i10guK3jvON
+ResourceType: blog
 ResourceImportId: 10596
 creator: Martin Hinshelwood
 resourceTypes: blog

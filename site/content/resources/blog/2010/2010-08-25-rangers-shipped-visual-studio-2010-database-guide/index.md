@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: cPIxk6Q_Dan
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: cPIxk6Q_Dan
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: rangers-shipped-visual-studio-2010-database-guide
 aliases:
   - /resources/cPIxk6Q_Dan
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:21:36Z
+ResourceId: cPIxk6Q_Dan
+ResourceType: blog
 ResourceImportId: 30
 creator: Martin Hinshelwood
 resourceTypes: blog

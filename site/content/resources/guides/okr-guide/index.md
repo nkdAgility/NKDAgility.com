@@ -5,22 +5,22 @@ description: Comprehensive guide to using OKRs for shared focus, measurable outc
 tldr: OKRs are a practical system for aligning teams around shared goals, measuring real progress, and learning from results, provided they are supported by clear vision, leadership, and a culture of feedback and adaptability. Effective OKR practice requires well-defined roles, regular events for definition, check-in, review, and reflection, and a focus on measurable outcomes rather than tasks or top-down mandates. To get value, involve teams in crafting OKRs, keep them focused and measurable, and use frequent feedback to adapt both goals and ways of working.
 date: 2025-06-26
 lastmod: 2025-06-26
-weight: 610
+weight: 555
 sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
 author:
   - Martin Hinshelwood
-ResourceId: KcistbuSUsg
-ResourceImport: false
-ResourceType: guides
-ResourceContentOrigin: human
+ItemId: KcistbuSUsg
+ItemType: guides
+ItemKind: resource
+ItemContentOrigin: human
 slug: okr-guide
 aliases:
   - /resources/KcistbuSUsg
 concepts:
-  - Strategy
+  - Method
 categories:
   - Product Development
   - Product Management
@@ -39,12 +39,14 @@ tags:
   - Pragmatic Thinking
   - Organisational Change
   - Value Delivery
-  - Continuous Improvement
   - Organisational Culture
+  - Continuous Improvement
 Watermarks:
   description: 2025-06-30T00:28:38Z
   short_title: 2025-07-07T16:40:29Z
   tldr: 2025-08-07T12:10:49Z
+ResourceId: KcistbuSUsg
+ResourceType: guides
 
 ---
 # OKR Guide

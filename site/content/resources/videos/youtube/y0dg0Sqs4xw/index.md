@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: y0dg0Sqs4xw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: y0dg0Sqs4xw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-a-common-mistake-made-by-rookie-agile-consultants
 aliases:
   - /resources/y0dg0Sqs4xw
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:14:03Z
   short_title: 2025-07-07T17:56:44Z
   tldr: 2025-08-07T13:08:15Z
+ResourceId: y0dg0Sqs4xw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: y0dg0Sqs4xw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/y0dg0Sqs4xw/maxresdefault.jpg

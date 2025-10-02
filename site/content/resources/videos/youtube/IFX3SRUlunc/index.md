@@ -5,16 +5,15 @@ description: Explores how lean product development improves decision-making, red
 tldr: Lean product development is gaining traction because it helps teams make better decisions, reduce risk, and create more value with fewer resources. Adopting this mindset enables organisations to focus on building products that truly meet customer needs and avoid wasted effort. Development managers should consider exploring lean practices to improve product outcomes and maximise return on investment.
 date: 2023-09-28T08:29:48Z
 lastmod: 2023-09-28T08:29:48Z
-weight: 1000
+weight: 780
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: IFX3SRUlunc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: IFX3SRUlunc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
 aliases:
   - /resources/IFX3SRUlunc
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:09:14Z
   short_title: 2025-07-07T17:52:49Z
   tldr: 2025-08-07T12:59:31Z
+ResourceId: IFX3SRUlunc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: IFX3SRUlunc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/IFX3SRUlunc/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: OlzXHZihQzI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: OlzXHZihQzI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-the-power-of-immersive-learning-in-agile
 aliases:
   - /resources/OlzXHZihQzI
@@ -45,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:06:01Z
   short_title: 2025-07-07T17:49:58Z
   tldr: 2025-08-07T12:53:18Z
+ResourceId: OlzXHZihQzI
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: OlzXHZihQzI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/OlzXHZihQzI/maxresdefault.jpg

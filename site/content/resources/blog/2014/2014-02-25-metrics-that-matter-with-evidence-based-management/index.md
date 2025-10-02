@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: ezNZJBiEwYA
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ezNZJBiEwYA
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: metrics-that-matter-with-evidence-based-management
 aliases:
   - /resources/ezNZJBiEwYA
@@ -43,6 +43,8 @@ tags:
   - Organisational Agility
 Watermarks:
   description: 2025-05-12T14:22:13Z
+ResourceId: ezNZJBiEwYA
+ResourceType: blog
 ResourceImportId: 10367
 creator: Martin Hinshelwood
 resourceTypes: blog

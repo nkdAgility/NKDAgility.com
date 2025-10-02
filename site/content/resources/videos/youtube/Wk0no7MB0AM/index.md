@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: Wk0no7MB0AM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Wk0no7MB0AM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-team-conflict-how-scrum-masters-can-prevent-'war'-in-agile-projects
 aliases:
   - /resources/Wk0no7MB0AM
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:08:14Z
   short_title: 2025-07-07T17:52:00Z
   tldr: 2025-08-07T12:57:35Z
+ResourceId: Wk0no7MB0AM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Wk0no7MB0AM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg

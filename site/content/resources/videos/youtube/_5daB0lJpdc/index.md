@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: _5daB0lJpdc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: _5daB0lJpdc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: introduction-to-agility-s-ghosts-shedding-dogma-and-embracing-pragmatism
 aliases:
   - /resources/_5daB0lJpdc
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:06:46Z
   short_title: 2025-07-07T17:50:35Z
   tldr: 2025-08-07T12:54:53Z
+ResourceId: _5daB0lJpdc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: _5daB0lJpdc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_5daB0lJpdc/maxresdefault.jpg

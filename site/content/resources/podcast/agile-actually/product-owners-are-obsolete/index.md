@@ -11,10 +11,10 @@ sitemap:
   priority: 0.1
   changefreq: monthly
 author: MrHinsh
-ResourceId: dKyRYit_4xO
-ResourceImport: false
-ResourceType: podcast
-ResourceContentOrigin: Human
+ItemId: dKyRYit_4xO
+ItemType: podcast
+ItemKind: resource
+ItemContentOrigin: Human
 slug: product-owners-are-obsolete
 aliases:
   - /resources/dKyRYit_4xO
@@ -27,6 +27,8 @@ Watermarks:
   description: 2025-05-07T13:13:00Z
   short_title: 2025-07-07T17:55:43Z
   tldr: 2025-08-07T13:06:06Z
+ResourceId: dKyRYit_4xO
+ResourceType: podcast
 resourceTypes: podcast
 
 ---

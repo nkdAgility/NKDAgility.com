@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: xeEpDhzecta
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: xeEpDhzecta
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: professional-application-lifecycle-management-with-visual-studio-2013
 aliases:
   - /resources/xeEpDhzecta
@@ -29,6 +29,8 @@ tags:
   - Application Lifecycle Management
 Watermarks:
   description: 2025-05-12T14:22:01Z
+ResourceId: xeEpDhzecta
+ResourceType: blog
 ResourceImportId: 10482
 creator: Martin Hinshelwood
 resourceTypes: blog

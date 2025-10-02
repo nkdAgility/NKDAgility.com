@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: gS7et381AGm
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: gS7et381AGm
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: professional-scrum-courses-for-2016-in-oslo-norway
 aliases:
   - /resources/gS7et381AGm
@@ -35,6 +35,8 @@ Watermarks:
   description: 2025-05-07T13:16:52Z
   short_title: 2025-07-07T17:59:04Z
   tldr: 2025-08-07T13:24:28Z
+ResourceId: gS7et381AGm
+ResourceType: blog
 ResourceImportId: 11426
 creator: Martin Hinshelwood
 resourceTypes: blog

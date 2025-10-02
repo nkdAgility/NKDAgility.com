@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: foVNVdAmeyw
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: foVNVdAmeyw
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: hold-on-lads-i-have-an-idea
 aliases:
   - /resources/foVNVdAmeyw
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:38Z
+ResourceId: foVNVdAmeyw
+ResourceType: blog
 ResourceImportId: 289
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: -xrtaW5NlP0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: -xrtaW5NlP0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 aliases:
   - /resources/-xrtaW5NlP0
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:09:51Z
   short_title: 2025-07-07T17:53:22Z
   tldr: 2025-08-07T13:00:45Z
+ResourceId: -xrtaW5NlP0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: -xrtaW5NlP0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/-xrtaW5NlP0/maxresdefault.jpg

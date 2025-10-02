@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: btixjSyu9NI
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: btixjSyu9NI
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: why-should-i-use-visual-studio-alm
 aliases:
   - /resources/btixjSyu9NI
@@ -37,6 +37,8 @@ Watermarks:
   description: 2025-05-12T14:20:20Z
   tldr: 2025-08-07T13:26:02Z
   short_title: 2025-08-07T13:26:03Z
+ResourceId: btixjSyu9NI
+ResourceType: blog
 ResourceImportId: 10990
 creator: Martin Hinshelwood
 resourceTypes: blog

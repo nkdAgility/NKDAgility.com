@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: n3zK02HdExl
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: n3zK02HdExl
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: deploying-visual-studio-2010-team-foundation-server-beta-2-done
 aliases:
   - /resources/n3zK02HdExl
@@ -29,6 +29,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:23:01Z
+ResourceId: n3zK02HdExl
+ResourceType: blog
 ResourceImportId: 81
 creator: Martin Hinshelwood
 resourceTypes: blog

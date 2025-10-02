@@ -5,16 +5,15 @@ description: Explores and corrects common misconceptions about Scrum, clarifying
 tldr: Many common beliefs about Scrum, such as it being just meetings, requiring story points, encouraging micromanagement, lacking planning, or having no governance, are misconceptions that hinder its effectiveness. Scrum events are purposeful, story points are optional, teams should self-organise, planning is integral, and governance is flexible to business needs. Development managers should challenge these myths to help teams fully benefit from Agile and deliver greater value.
 date: 2024-05-06T14:12:53Z
 lastmod: 2024-05-06T14:12:53Z
-weight: 665
+weight: 420
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
-ResourceId: 4YixczaREUw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 4YixczaREUw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
 aliases:
   - /resources/4YixczaREUw
@@ -55,6 +54,9 @@ Watermarks:
   description: 2025-05-07T13:05:10Z
   short_title: 2025-07-07T17:49:17Z
   tldr: 2025-08-07T12:51:37Z
+ResourceId: 4YixczaREUw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 4YixczaREUw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4YixczaREUw/maxresdefault.jpg

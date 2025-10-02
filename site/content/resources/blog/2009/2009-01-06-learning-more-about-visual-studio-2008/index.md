@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: DI9tjIOOa_M
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: DI9tjIOOa_M
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: learning-more-about-visual-studio-2008
 aliases:
   - /resources/DI9tjIOOa_M
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:01Z
+ResourceId: DI9tjIOOa_M
+ResourceType: blog
 ResourceImportId: 150
 creator: Martin Hinshelwood
 resourceTypes: blog

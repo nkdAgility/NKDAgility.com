@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: BcNPa5LLzLX
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: BcNPa5LLzLX
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: deploying-team-server
 aliases:
   - /resources/BcNPa5LLzLX
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:21Z
+ResourceId: BcNPa5LLzLX
+ResourceType: blog
 ResourceImportId: 440
 creator: Martin Hinshelwood
 resourceTypes: blog

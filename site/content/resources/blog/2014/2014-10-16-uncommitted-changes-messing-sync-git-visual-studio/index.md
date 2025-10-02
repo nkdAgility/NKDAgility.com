@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: CuWpL0GPBwN
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: CuWpL0GPBwN
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
 aliases:
   - /resources/CuWpL0GPBwN
@@ -33,6 +33,8 @@ Watermarks:
   description: 2025-05-12T14:20:59Z
   tldr: 2025-08-07T13:26:57Z
   short_title: 2025-08-07T13:26:58Z
+ResourceId: CuWpL0GPBwN
+ResourceType: blog
 ResourceImportId: 10732
 creator: Martin Hinshelwood
 resourceTypes: blog

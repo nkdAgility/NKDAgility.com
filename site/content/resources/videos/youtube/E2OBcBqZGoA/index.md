@@ -5,16 +5,15 @@ description: Explores how decentralising decision-making boosts team agility, en
 tldr: Decentralising decision-making empowers teams to respond faster, innovate more, and feel greater ownership, which leads to higher value delivery. Involving team members in shaping the organisation’s goals and connecting their skills to outcomes boosts engagement and collaboration. Development managers should focus on pushing responsibility to teams and fostering a shared sense of purpose to maximise results.
 date: 2023-09-28T11:09:12Z
 lastmod: 2023-09-28T11:09:12Z
-weight: 820
+weight: 485
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
-ResourceId: E2OBcBqZGoA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: E2OBcBqZGoA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation
 aliases:
   - /resources/E2OBcBqZGoA
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:09:11Z
   short_title: 2025-07-07T17:52:46Z
   tldr: 2025-08-07T12:59:23Z
+ResourceId: E2OBcBqZGoA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: E2OBcBqZGoA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/E2OBcBqZGoA/maxresdefault.jpg

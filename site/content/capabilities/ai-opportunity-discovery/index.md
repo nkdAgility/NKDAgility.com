@@ -9,10 +9,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.9
   changefreq: weekly
-ResourceId: p7M4Bv_h_Pa
-ResourceImport: false
-ResourceType: capabilities
-ResourceContentOrigin: human
+ItemId: p7M4Bv_h_Pa
+ItemType: capabilities
+ItemKind: capability
+ItemContentOrigin: human
 slug: ai-opportunity-discovery
 aliases:
   - /resources/p7M4Bv_h_Pa
@@ -112,6 +112,8 @@ Watermarks:
 menus:
   footer:
     parent: Consulting Services
+ResourceId: p7M4Bv_h_Pa
+ResourceType: capabilities
 
 ---
 

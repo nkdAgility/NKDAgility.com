@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: YcLApPV4Zgj
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: YcLApPV4Zgj
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: quality-enablement-with-visual-studio-2012
 aliases:
   - /resources/YcLApPV4Zgj
@@ -42,6 +42,8 @@ tags:
   - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:06:25Z
+ResourceId: YcLApPV4Zgj
+ResourceType: blog
 ResourceImportId: 9487
 creator: Martin Hinshelwood
 resourceTypes: blog

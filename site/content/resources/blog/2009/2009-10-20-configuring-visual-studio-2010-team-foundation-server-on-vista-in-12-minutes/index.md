@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 4Rw-WfXaIBU
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 4Rw-WfXaIBU
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
 aliases:
   - /resources/4Rw-WfXaIBU
@@ -28,6 +28,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:23:07Z
+ResourceId: 4Rw-WfXaIBU
+ResourceType: blog
 ResourceImportId: 83
 creator: Martin Hinshelwood
 resourceTypes: blog

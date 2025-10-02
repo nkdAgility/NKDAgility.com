@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 1ePkQeCVAlY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 1ePkQeCVAlY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-the-difference-between-resource-efficiency-and-flow-efficiency
 aliases:
   - /resources/1ePkQeCVAlY
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:13:45Z
   short_title: 2025-07-07T17:56:28Z
   tldr: 2025-08-07T13:07:42Z
+ResourceId: 1ePkQeCVAlY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 1ePkQeCVAlY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/1ePkQeCVAlY/maxresdefault.jpg

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: 8wFtoutYII0
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 8wFtoutYII0
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: big-scrum-are-you-doing-mechanical-scrum
 aliases:
   - /resources/8wFtoutYII0
@@ -37,6 +37,8 @@ Watermarks:
   description: 2025-05-07T13:16:57Z
   tldr: 2025-08-07T13:24:55Z
   short_title: 2025-08-07T13:24:55Z
+ResourceId: 8wFtoutYII0
+ResourceType: blog
 ResourceImportId: 11355
 creator: Martin Hinshelwood
 resourceTypes: blog

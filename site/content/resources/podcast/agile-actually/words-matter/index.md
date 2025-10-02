@@ -5,16 +5,16 @@ description: Explore how precise language and transparency impact communication 
 tldr: Simon Reindl and Martin Hinshelwood discuss how using precise and accurate language is essential for transparency and effective communication in agile teams. The words you choose directly impact understanding and outcomes, so clarity is critical. Development managers should ensure their teams use clear language to avoid misunderstandings and improve collaboration.
 date: 2023-06-29
 lastmod: 2023-06-29
-weight: 835
+weight: 635
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 author: MrHinsh
-ResourceId: Z1FuzHOIZD5
-ResourceImport: false
-ResourceType: podcast
-ResourceContentOrigin: Human
+ItemId: Z1FuzHOIZD5
+ItemType: podcast
+ItemKind: resource
+ItemContentOrigin: Human
 slug: words-matter
 aliases:
   - /resources/Z1FuzHOIZD5
@@ -27,6 +27,8 @@ Watermarks:
   description: 2025-05-07T13:11:10Z
   short_title: 2025-07-07T17:54:15Z
   tldr: 2025-08-07T13:02:44Z
+ResourceId: Z1FuzHOIZD5
+ResourceType: podcast
 resourceTypes: podcast
 
 ---

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: _WmwS96RyDS
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: _WmwS96RyDS
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-event-handler-for-team-foundation-server-2010
 aliases:
   - /resources/_WmwS96RyDS
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:21:44Z
+ResourceId: _WmwS96RyDS
+ResourceType: blog
 ResourceImportId: 33
 creator: Martin Hinshelwood
 resourceTypes: blog

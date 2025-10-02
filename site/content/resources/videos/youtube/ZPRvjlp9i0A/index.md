@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: ZPRvjlp9i0A
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ZPRvjlp9i0A
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-the-agile-landscape-understanding-the-key-differences-between-product-owners-and-project-managers
 aliases:
   - /resources/ZPRvjlp9i0A
@@ -35,11 +34,16 @@ tags:
   - Agile Product Management
   - Software Development
   - Value Delivery
+  - Product Delivery
   - Social Technologies
+  - Personal
 Watermarks:
   description: 2025-05-07T13:15:48Z
   short_title: 2025-07-07T17:58:10Z
   tldr: 2025-08-07T13:12:08Z
+ResourceId: ZPRvjlp9i0A
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ZPRvjlp9i0A
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZPRvjlp9i0A/hqdefault.jpg

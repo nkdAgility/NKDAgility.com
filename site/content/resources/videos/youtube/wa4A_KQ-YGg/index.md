@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: wa4A_KQ-YGg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: wa4A_KQ-YGg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-are-immersive-training-courses
 aliases:
   - /resources/wa4A_KQ-YGg
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:13:41Z
   short_title: 2025-07-07T17:56:24Z
   tldr: 2025-08-07T13:07:33Z
+ResourceId: wa4A_KQ-YGg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: wa4A_KQ-YGg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/wa4A_KQ-YGg/maxresdefault.jpg

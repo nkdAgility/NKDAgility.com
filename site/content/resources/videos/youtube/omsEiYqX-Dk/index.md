@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: omsEiYqX-Dk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: omsEiYqX-Dk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-organisational-agility-how-to-empower-your-team-for-rapid-market-response
 aliases:
   - /resources/omsEiYqX-Dk
@@ -51,6 +50,9 @@ Watermarks:
   description: 2025-05-07T13:09:44Z
   short_title: 2025-07-07T17:53:15Z
   tldr: 2025-08-07T13:00:25Z
+ResourceId: omsEiYqX-Dk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: omsEiYqX-Dk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/omsEiYqX-Dk/maxresdefault.jpg

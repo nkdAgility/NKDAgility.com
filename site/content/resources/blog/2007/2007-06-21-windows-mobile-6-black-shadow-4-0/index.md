@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: zVL1JtizXQg
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: zVL1JtizXQg
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: windows-mobile-6-black-shadow-4-0
 aliases:
   - /resources/blog/windows-mobile-6-black-shadow-4.0
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:48Z
+ResourceId: zVL1JtizXQg
+ResourceType: blog
 ResourceImportId: 375
 creator: Martin Hinshelwood
 resourceTypes: blog

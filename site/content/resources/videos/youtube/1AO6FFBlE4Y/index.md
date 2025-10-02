@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: 1AO6FFBlE4Y
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 1AO6FFBlE4Y
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-hidden-costs-of-poor-quality-code-and-how-to-turn-it-into-a-superpower
 aliases:
   - /resources/1AO6FFBlE4Y
@@ -47,6 +46,7 @@ Watermarks:
   description: 2025-05-07T12:57:19Z
   short_title: 2025-07-07T17:47:38Z
   tldr: 2025-08-07T12:42:08Z
+ResourceImportSource: Youtube
 videoId: 1AO6FFBlE4Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
@@ -54,6 +54,8 @@ duration: 600
 resourceTypes:
   - video
 isShort: false
+ResourceId: 1AO6FFBlE4Y
+ResourceType: videos
 
 ---
 # The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower

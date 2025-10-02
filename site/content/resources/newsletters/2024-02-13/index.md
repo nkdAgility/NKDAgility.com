@@ -11,10 +11,10 @@ sitemap:
   priority: 0.2
   changefreq: weekly
 author: MrHinsh
-ResourceId: hz-iCoxHxxa
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: hz-iCoxHxxa
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management
 aliases:
   - /newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
@@ -33,6 +33,8 @@ Watermarks:
   description: 2025-05-07T13:05:48Z
   short_title: 2025-07-07T17:49:49Z
   tldr: 2025-08-07T12:52:55Z
+ResourceId: hz-iCoxHxxa
+ResourceType: newsletters
 preview: naked-agility-technically-agile-1280×720-24Q1-Feb24.jpg
 resourceTypes: newsletter
 

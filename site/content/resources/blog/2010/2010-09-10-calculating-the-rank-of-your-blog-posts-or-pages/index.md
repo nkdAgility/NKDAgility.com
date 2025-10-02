@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: DrHRcRNSIRX
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: DrHRcRNSIRX
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: calculating-the-rank-of-your-blog-posts-or-pages
 aliases:
   - /resources/DrHRcRNSIRX
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:11:32Z
+ResourceId: DrHRcRNSIRX
+ResourceType: blog
 ResourceImportId: 26
 creator: Martin Hinshelwood
 resourceTypes: blog

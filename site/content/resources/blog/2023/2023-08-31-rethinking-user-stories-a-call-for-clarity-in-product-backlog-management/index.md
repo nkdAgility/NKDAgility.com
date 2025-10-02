@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: E2aOGiRDnuG
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: E2aOGiRDnuG
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: rethinking-'user-stories'-a-call-for-clarity-in-product-backlog-management
 aliases:
   - /blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
@@ -44,6 +44,8 @@ Watermarks:
   description: 2025-05-07T13:09:46Z
   short_title: 2025-07-07T17:53:17Z
   tldr: 2025-08-07T13:00:29Z
+ResourceId: E2aOGiRDnuG
+ResourceType: blog
 ResourceImportId: 49726
 AudioNative: true
 creator: Martin Hinshelwood

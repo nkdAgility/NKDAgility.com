@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: KIG3LzjF3zK
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: KIG3LzjF3zK
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: what's-the-best-way-to-work-around-multiple-po
 aliases:
   - /resources/blog/what-s-the-best-way-to-work-around-multiple-po
@@ -39,6 +39,8 @@ Watermarks:
   description: 2025-05-07T13:16:11Z
   short_title: 2025-07-07T17:58:28Z
   tldr: 2025-08-07T13:13:02Z
+ResourceId: KIG3LzjF3zK
+ResourceType: blog
 ResourceImportId: 39853
 creator: Martin Hinshelwood
 resourceTypes: blog

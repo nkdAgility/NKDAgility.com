@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: xOcL_hqf1SM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: xOcL_hqf1SM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-agile-success-the-essential-knowledge-every-coach-needs
 aliases:
   - /resources/xOcL_hqf1SM
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:07:50Z
   short_title: 2025-07-07T17:51:44Z
   tldr: 2025-08-07T12:56:58Z
+ResourceId: xOcL_hqf1SM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: xOcL_hqf1SM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg

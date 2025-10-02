@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: wHhDvrn-8PH
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: wHhDvrn-8PH
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: practicing-kanban-using-azure-boards
-aliases:
-  - /resources/wHhDvrn-8PH
+aliases: []
 aliasesArchive:
   - /PKAB/
   - /training-courses/practicing-kanban-using-azure-boards
@@ -147,6 +146,8 @@ events:
           - 2
           - 3
           - 4
+ResourceId: wHhDvrn-8PH
+ResourceType: course
 
 ---
 # Practicing Kanban Using Azure Boards

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: M4ap4uNzptg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: M4ap4uNzptg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-agile-s-core-questioning-to-create-value
 aliases:
   - /resources/M4ap4uNzptg
@@ -55,6 +54,9 @@ Watermarks:
   description: 2025-05-07T13:06:21Z
   short_title: 2025-07-07T17:50:12Z
   tldr: 2025-08-07T12:53:52Z
+ResourceId: M4ap4uNzptg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: M4ap4uNzptg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/M4ap4uNzptg/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: fUj1k47pDg8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: fUj1k47pDg8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
 aliases:
   - /resources/fUj1k47pDg8
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:02:11Z
   short_title: 2025-07-07T17:48:36Z
   tldr: 2025-08-07T12:49:51Z
+ResourceId: fUj1k47pDg8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: fUj1k47pDg8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg

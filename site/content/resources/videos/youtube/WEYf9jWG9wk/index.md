@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: WEYf9jWG9wk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: WEYf9jWG9wk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development
 aliases:
   - /resources/WEYf9jWG9wk
@@ -52,6 +51,7 @@ Watermarks:
   description: 2025-05-07T12:57:14Z
   short_title: 2025-07-07T17:47:34Z
   tldr: 2025-08-07T12:42:02Z
+ResourceImportSource: Youtube
 videoId: WEYf9jWG9wk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg
@@ -59,6 +59,8 @@ duration: 53
 resourceTypes:
   - video
 isShort: true
+ResourceId: WEYf9jWG9wk
+ResourceType: videos
 
 ---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've witnessed a remarkable transformation in how teams approach feature delivery. A recent case study I came across highlighted a team that evolved from delivering a mere 25 features to production each year to an astonishing 150 features, all while maintaining the same headcount. This leap didn’t happen overnight; it took them four years to refine their processes and embrace a new mindset. But the results speak for themselves—who wouldn’t prefer 800 features over 25?

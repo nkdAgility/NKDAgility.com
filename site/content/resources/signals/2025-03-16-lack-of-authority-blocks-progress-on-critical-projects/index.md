@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: uLNzs9NgPZI
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: uLNzs9NgPZI
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: lack-of-authority-blocks-progress-on-critical-projects
 aliases:
   - /resources/uLNzs9NgPZI
@@ -48,6 +48,8 @@ Watermarks:
   description: 2025-05-16T15:56:08Z
   short_title: 2025-07-07T16:45:25Z
   tldr: 2025-08-07T12:34:48Z
+ResourceId: uLNzs9NgPZI
+ResourceType: signals
 
 ---
 Imagine you’re responsible for delivering a critical project, but every time you try to remove an obstacle, you’re told you don’t have the authority to do so.

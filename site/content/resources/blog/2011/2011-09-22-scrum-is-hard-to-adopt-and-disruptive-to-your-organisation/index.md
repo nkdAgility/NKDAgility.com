@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: TRgmAScsBJs
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: TRgmAScsBJs
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 aliases:
   - /resources/TRgmAScsBJs
@@ -32,6 +32,8 @@ tags:
   - Product Delivery
 Watermarks:
   description: 2025-05-13T15:10:10Z
+ResourceId: TRgmAScsBJs
+ResourceType: blog
 ResourceImportId: 3789
 creator: Martin Hinshelwood
 resourceTypes: blog

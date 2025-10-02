@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: DLfCYd5JcOQ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: DLfCYd5JcOQ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-visual-studio-2008-team-foundation-server-sp1
 aliases:
   - /resources/DLfCYd5JcOQ
@@ -28,6 +28,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:22:58Z
+ResourceId: DLfCYd5JcOQ
+ResourceType: blog
 ResourceImportId: 79
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -9,10 +9,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: 3xZaUxPTiUZ
-ResourceImport: false
-ResourceType: mentor-program
-ResourceContentOrigin: human
+ItemId: 3xZaUxPTiUZ
+ItemType: mentor-program
+ItemKind: program
+ItemContentOrigin: human
 slug: product-management-mentor-program
 aliases:
   - /capabilities/product-management-mentor-program/
@@ -191,6 +191,8 @@ headline:
     >
     > *-Edward Deming*
   cards: []
+ResourceId: 3xZaUxPTiUZ
+ResourceType: mentor-program
 
 ---
 # Product Management Mentor Program

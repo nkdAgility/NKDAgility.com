@@ -5,16 +5,15 @@ description: Explores the vital role of product ownership in agile teams, highli
 tldr: Effective product management, especially through a strong product owner, is essential for agile teams to stay focused, align with goals, and deliver value. Key practices include providing clear vision, engaging stakeholders, prioritising work, fostering collaboration, and continuous learning. Development managers should prioritise investing in skilled product owners to drive team success and product quality.
 date: 2023-09-05T07:00:12Z
 lastmod: 2023-09-05T07:00:12Z
-weight: 830
+weight: 550
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
-ResourceId: WIVDWzps4aY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: WIVDWzps4aY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams
 aliases:
   - /resources/WIVDWzps4aY
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:09:41Z
   short_title: 2025-07-07T17:53:12Z
   tldr: 2025-08-07T13:00:20Z
+ResourceId: WIVDWzps4aY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: WIVDWzps4aY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg

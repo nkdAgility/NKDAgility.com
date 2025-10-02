@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: hFjoIf3KPeI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: hFjoIf3KPeI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
 aliases:
   - /resources/hFjoIf3KPeI
@@ -51,6 +50,9 @@ Watermarks:
   description: 2025-05-07T13:09:35Z
   short_title: 2025-07-07T17:53:07Z
   tldr: 2025-08-07T13:00:07Z
+ResourceId: hFjoIf3KPeI
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: hFjoIf3KPeI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hFjoIf3KPeI/maxresdefault.jpg

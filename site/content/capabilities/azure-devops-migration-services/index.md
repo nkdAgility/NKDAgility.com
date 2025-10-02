@@ -1,28 +1,26 @@
 ---
 title: Azure DevOps Migration Services
-description: Migrate to Azure DevOps, seamlessly, securely, and strategically. Modernise legacy tooling and pipelines with zero disruption and full team enablement.
 short_title: DevOps Migration
+description: Expert guidance and tools for migrating projects, pipelines, and data to Azure DevOps, ensuring a smooth, secure, and efficient transition process.
+tldr: Azure DevOps Migration Services help teams move their projects and data to Azure DevOps quickly and securely. The service reduces downtime, ensures data integrity, and supports a smooth transition with expert guidance. Development managers should consider this service to streamline migration and minimize risks during the move to Azure DevOps.
 date: 2025-07-19
-creator: Martin Hinshelwood
 weight: 400
 sitemap:
   filename: sitemap.xml
-  priority: 1.0
-menus:
-  footer:
-    parent: Consulting Services
-type: capabilities
+  priority: 0.9
+  changefreq: weekly
+ItemId: 9VervIsddUa
+ItemType: capabilities
+ItemKind: capability
+ItemContentOrigin: human
 slug: azure-devops-migration-services
 aliases:
   - /capabilities/azure-devops-migration-tools-consulting/
   - /technical-consulting-and-coaching/azure-devops-migration-tools-consulting/
-card:
-  button:
-    content: Start Your DevOps Migration Journey
-  title: Azure DevOps Migration Services
-  content: |
-    You’ve got legacy systems, scattered pipelines, and a mandate to modernize.
-icon: fa-cloud-arrow-up
+aliasesArchive:
+  - /capabilities/azure-devops-migration-tools-consulting/
+  - /technical-consulting-and-coaching/azure-devops-migration-tools-consulting/
+type: capabilities
 sections:
   - type: headline
     headline:
@@ -34,10 +32,10 @@ sections:
         We help you migrate to Azure DevOps—seamlessly, securely, and strategically—so you can lead with confidence, scale with speed, and finally deliver the outcomes your business expects.
   - type: outcomehero
     cta:
-      content: "Modernise your delivery system. Enable your engineers. Lead with confidence. **Let's Talk.**"
+      content: Modernise your delivery system. Enable your engineers. Lead with confidence. **Let's Talk.**
       button:
-        text: "Book a Strategy Call"
-        url: "/company/book-online"
+        text: Book a Strategy Call
+        url: /company/book-online
   - type: none
     title: Why Most DevOps Migrations Fail
     content: |
@@ -56,7 +54,7 @@ sections:
   - type: boxesrow
     title: What DevOps Migration Solves
     boxes:
-      - box:
+      - box: 
         title: Core Problems
         items:
           - title: Legacy Systems Holding You Back
@@ -64,7 +62,7 @@ sections:
           - title: Skill Gaps in Your Teams
           - title: Security & Compliance Concerns
           - title: Resistance to Change
-      - box:
+      - box: 
         title: Our Solutions
         items:
           - title: We specialize in migrating from TFVC, Classic Pipelines, and outdated ADO Server instances. No headaches. Minimal downtime.
@@ -78,35 +76,35 @@ sections:
     type: counters
     counters:
       - counter: "2"
-        counterAfter: "B+"
-        content: "**Work Item Revisions Migrated**"
+        counterAfter: B+
+        content: '**Work Item Revisions Migrated**'
       - counter: "2.5"
-        counterAfter: "TB"
-        content: "**Largest Collection Migrated**"
+        counterAfter: TB
+        content: '**Largest Collection Migrated**'
       - counter: "500"
-        counterAfter: "+"
-        content: "**Successful Migrations Completed**"
+        counterAfter: +
+        content: '**Successful Migrations Completed**'
       - counter: "17"
-        counterAfter: "yrs"
-        content: "**Microsoft MVP Experience**"
+        counterAfter: yrs
+        content: '**Microsoft MVP Experience**'
   - type: list
     listType: list
     title: Built for CTOs Who Want Strategic Advantage
-    content: "This service isn’t just about migration—it’s about enabling you to:"
+    content: 'This service isn’t just about migration—it’s about enabling you to:'
     list:
-      - title: "Do your real job:"
+      - title: 'Do your real job:'
         icon: fa-brain
         content: |
           Craft a compelling roadmap. Build strategic partnerships. Lead innovation.
 
           We’ll handle the infrastructure shift so you can focus on impact.
-      - title: "Deliver business outcomes:"
+      - title: 'Deliver business outcomes:'
         icon: fa-chart-line
         content: |
           Our migrations don’t disrupt delivery. They increase it.
 
           We build CI/CD pipelines that shorten cycle times and improve reliability.
-      - title: "Build technical leadership from within:"
+      - title: 'Build technical leadership from within:'
         icon: fa-rocket
         content: |
           Stop outsourcing transformation.
@@ -115,7 +113,7 @@ sections:
   - type: symmetry
     title: From Overwhelm to Control
     boxes:
-      - box:
+      - box: 
         title: Before
         items:
           - title: Overwhelmed by legacy tech, resistance, and delivery delays
@@ -126,7 +124,7 @@ sections:
             icon: fa-face-tired
           - title: Anxious about security and compliance
             icon: fa-face-anxious
-      - box:
+      - box: 
         title: After
         items:
           - title: Confident in a modern, streamlined, scalable DevOps environment
@@ -201,9 +199,27 @@ sections:
   - type: outcomehero
     backgroundColor: primary
     cta:
-      content: "Legacy systems don’t need to hold you back. **Let’s talk.**"
+      content: Legacy systems don’t need to hold you back. **Let’s talk.**
       button:
-        text: "Book a Migration Call"
-        url: "/company/book-online"
+        text: Book a Migration Call
+        url: /company/book-online
     boxes: []
+card:
+  button:
+    content: Start Your DevOps Migration Journey
+  title: Azure DevOps Migration Services
+  content: |
+    You’ve got legacy systems, scattered pipelines, and a mandate to modernize.
+Watermarks:
+  description: 2025-10-02T13:52:52Z
+  tldr: 2025-10-02T13:52:55Z
+creator: Martin Hinshelwood
+menus:
+  footer:
+    parent: Consulting Services
+icon: fa-cloud-arrow-up
+ResourceId: 9VervIsddUa
+ResourceType: capabilities
+
 ---
+

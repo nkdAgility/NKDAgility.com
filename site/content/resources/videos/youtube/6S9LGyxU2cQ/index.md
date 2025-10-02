@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: 6S9LGyxU2cQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 6S9LGyxU2cQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-agility-how-eps-immersive-learning-transforms-your-team's-performance
 aliases:
   - /resources/6S9LGyxU2cQ
@@ -45,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:10:11Z
   short_title: 2025-07-07T17:53:32Z
   tldr: 2025-08-07T13:01:04Z
+ResourceId: 6S9LGyxU2cQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 6S9LGyxU2cQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/6S9LGyxU2cQ/maxresdefault.jpg

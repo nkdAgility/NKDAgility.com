@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: sBBKKlfwlrA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: sBBKKlfwlrA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-the-art-of-scaling-scrum-insights-from-the-scaled-professional-scrum-course
 aliases:
   - /resources/sBBKKlfwlrA
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:14:47Z
   short_title: 2025-07-07T17:57:23Z
   tldr: 2025-08-07T13:09:49Z
+ResourceId: sBBKKlfwlrA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: sBBKKlfwlrA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg

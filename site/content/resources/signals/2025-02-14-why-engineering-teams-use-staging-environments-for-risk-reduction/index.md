@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: r8qUPpdsgnM
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: r8qUPpdsgnM
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: why-engineering-teams-use-staging-environments-for-risk-reduction
 aliases:
   - /resources/r8qUPpdsgnM
@@ -50,6 +50,8 @@ Watermarks:
   description: 2025-05-16T15:56:58Z
   short_title: 2025-07-07T17:46:31Z
   tldr: 2025-08-07T12:39:31Z
+ResourceId: r8qUPpdsgnM
+ResourceType: signals
 
 ---
 Ask most engineering teams why they use staging environments, and they’ll tell you it’s about risk reduction. But few stop to measure the real cost.

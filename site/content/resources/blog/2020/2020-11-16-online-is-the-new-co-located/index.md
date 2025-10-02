@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: QnZVgaG90q_
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: QnZVgaG90q_
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: online-is-the-new-co-located
 aliases:
   - /blog/online-is-the-new-co-located
@@ -37,6 +37,8 @@ Watermarks:
   description: 2025-05-07T13:15:24Z
   short_title: 2025-07-07T17:57:50Z
   tldr: 2025-08-07T13:11:05Z
+ResourceId: QnZVgaG90q_
+ResourceType: blog
 ResourceImportId: 44487
 creator: Martin Hinshelwood
 resourceTypes: blog

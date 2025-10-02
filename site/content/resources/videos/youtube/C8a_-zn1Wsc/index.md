@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: C8a_-zn1Wsc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: C8a_-zn1Wsc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
 aliases:
   - /resources/C8a_-zn1Wsc
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:05:59Z
   short_title: 2025-07-07T17:49:56Z
   tldr: 2025-08-07T12:53:14Z
+ResourceId: C8a_-zn1Wsc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: C8a_-zn1Wsc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/C8a_-zn1Wsc/maxresdefault.jpg

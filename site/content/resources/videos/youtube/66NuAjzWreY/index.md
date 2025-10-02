@@ -5,16 +5,15 @@ description: Explains how to use data in Agile management to guide decisions and
 tldr: Evidence-Based Management helps you use data to guide decisions and understand team behaviors, but it should inform rather than control actions. Define clear outcomes, choose metrics that align with those goals, and use data as a conversation starter to uncover challenges and drive improvement. Regularly review metrics with your teams to stay aligned and focus on delivering real value, not just hitting targets.
 date: 2024-09-11T13:36:29Z
 lastmod: 2024-09-11T13:36:29Z
-weight: 690
+weight: 405
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
-ResourceId: 66NuAjzWreY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 66NuAjzWreY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-evidence-based-management-in-agile-inform-don-t-control
 aliases:
   - /resources/66NuAjzWreY
@@ -49,6 +48,9 @@ Watermarks:
   description: 2025-05-07T12:58:34Z
   short_title: 2025-07-07T17:48:16Z
   tldr: 2025-08-07T12:49:05Z
+ResourceId: 66NuAjzWreY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 66NuAjzWreY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/66NuAjzWreY/maxresdefault.jpg

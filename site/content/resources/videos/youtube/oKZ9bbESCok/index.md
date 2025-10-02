@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: oKZ9bbESCok
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: oKZ9bbESCok
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: say-do-metrics-avoiding-agile-banditry-in-your-organization
 aliases:
   - /resources/oKZ9bbESCok
@@ -39,6 +38,8 @@ tags:
   - Agile Philosophy
   - Value Delivery
   - Transparency
+  - Professional Scrum
+  - Employee Engagement
   - Metrics and Learning
   - Software Development
   - Agile Strategy
@@ -47,11 +48,13 @@ tags:
   - Psychological Safety
   - Evidence Based Management
   - Team Performance
-  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:06:37Z
   short_title: 2025-07-07T17:50:26Z
   tldr: 2025-08-07T12:54:27Z
+ResourceId: oKZ9bbESCok
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: oKZ9bbESCok
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/oKZ9bbESCok/maxresdefault.jpg

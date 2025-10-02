@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: w2k6P2xrp7B
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: w2k6P2xrp7B
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: small-new-business-websites
 aliases:
   - /resources/w2k6P2xrp7B
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:26Z
+ResourceId: w2k6P2xrp7B
+ResourceType: blog
 ResourceImportId: 441
 creator: Martin Hinshelwood
 resourceTypes: blog

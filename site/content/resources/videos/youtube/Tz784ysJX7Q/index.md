@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: Tz784ysJX7Q
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Tz784ysJX7Q
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
 aliases:
   - /resources/Tz784ysJX7Q
@@ -39,6 +38,7 @@ Watermarks:
   description: 2025-05-07T12:49:54Z
   short_title: 2025-07-07T17:46:55Z
   tldr: 2025-08-07T12:40:24Z
+ResourceImportSource: Youtube
 videoId: Tz784ysJX7Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Tz784ysJX7Q/maxresdefault.jpg
@@ -46,6 +46,8 @@ duration: 469
 resourceTypes:
   - video
 isShort: false
+ResourceId: Tz784ysJX7Q
+ResourceType: videos
 
 ---
 One of the questions I often encounter as a delivery manager is how to balance speed and stability, especially when we're under pressure from tight deadlines. However, I would argue that there's a fundamental issue with the premise of this question: why are we under such tight deadlines in the first place? More often than not, these deadlines exist because stakeholders lack confidence in our ability to meet them. This is the absurdity of deadlines.

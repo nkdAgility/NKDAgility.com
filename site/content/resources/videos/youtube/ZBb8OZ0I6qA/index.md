@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: ZBb8OZ0I6qA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ZBb8OZ0I6qA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
 aliases:
   - /resources/ZBb8OZ0I6qA
@@ -51,6 +50,9 @@ Watermarks:
   description: 2025-05-07T13:05:23Z
   short_title: 2025-07-07T17:49:26Z
   tldr: 2025-08-07T12:52:02Z
+ResourceId: ZBb8OZ0I6qA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ZBb8OZ0I6qA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZBb8OZ0I6qA/maxresdefault.jpg

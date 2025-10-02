@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: nNzrXud9z_l
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: nNzrXud9z_l
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: install-sharepoint-2013-on-windows-server-2012-without-a-domain
 aliases:
   - /resources/nNzrXud9z_l
@@ -29,6 +29,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:08:21Z
+ResourceId: nNzrXud9z_l
+ResourceType: blog
 ResourceImportId: 7067
 creator: Martin Hinshelwood
 resourceTypes: blog

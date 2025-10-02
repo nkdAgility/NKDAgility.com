@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: CBIAsEX7a86
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: CBIAsEX7a86
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: agile-without-a-usable-working-product-is-just-expensive-theatre
 aliases:
   - /resources/CBIAsEX7a86
@@ -47,6 +47,8 @@ Watermarks:
   description: 2025-05-16T15:55:20Z
   short_title: 2025-07-07T16:44:46Z
   tldr: 2025-08-07T12:33:24Z
+ResourceId: CBIAsEX7a86
+ResourceType: signals
 
 ---
 Agile without a usable working product is just expensive theatre.

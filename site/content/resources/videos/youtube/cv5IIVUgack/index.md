@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: cv5IIVUgack
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: cv5IIVUgack
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer
 aliases:
   - /resources/cv5IIVUgack
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:11:21Z
   short_title: 2025-07-07T17:54:25Z
   tldr: 2025-08-07T13:03:17Z
+ResourceId: cv5IIVUgack
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: cv5IIVUgack
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cv5IIVUgack/maxresdefault.jpg

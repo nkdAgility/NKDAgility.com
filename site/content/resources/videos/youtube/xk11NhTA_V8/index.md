@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: xk11NhTA_V8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: xk11NhTA_V8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-the-agile-apocalypse-how-to-combat-judgment-and-foster-team-growth
 aliases:
   - /resources/xk11NhTA_V8
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:08:10Z
   short_title: 2025-07-07T17:51:58Z
   tldr: 2025-08-07T12:57:29Z
+ResourceId: xk11NhTA_V8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: xk11NhTA_V8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xk11NhTA_V8/maxresdefault.jpg

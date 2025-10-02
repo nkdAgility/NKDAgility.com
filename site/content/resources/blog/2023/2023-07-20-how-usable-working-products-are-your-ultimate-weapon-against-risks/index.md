@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: UnSs37BlBV7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: UnSs37BlBV7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: how-usable-working-products-are-your-ultimate-weapon-against-risks
 aliases:
   - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
@@ -48,6 +48,8 @@ Watermarks:
   description: 2025-05-07T13:10:36Z
   short_title: 2025-07-07T17:53:53Z
   tldr: 2025-08-07T13:01:50Z
+ResourceId: UnSs37BlBV7
+ResourceType: blog
 ResourceImportId: 49501
 AudioNative: true
 creator: Martin Hinshelwood

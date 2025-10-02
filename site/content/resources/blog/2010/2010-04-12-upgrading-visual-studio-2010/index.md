@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: PqP_zdmb8WX
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: PqP_zdmb8WX
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-visual-studio-2010
 aliases:
   - /resources/PqP_zdmb8WX
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:22:17Z
+ResourceId: PqP_zdmb8WX
+ResourceType: blog
 ResourceImportId: 54
 creator: Martin Hinshelwood
 resourceTypes: blog

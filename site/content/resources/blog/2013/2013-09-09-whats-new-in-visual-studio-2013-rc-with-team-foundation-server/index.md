@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: _YCdFNYKYcM
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: _YCdFNYKYcM
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: what's-new-in-visual-studio-2013-and-tfs-2013-rc
 aliases:
   - /resources/blog/what-s-new-in-visual-studio-2013-and-tfs-2013-rc
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-12T14:23:09Z
+ResourceId: _YCdFNYKYcM
+ResourceType: blog
 ResourceImportId: 10019
 creator: Martin Hinshelwood
 resourceTypes: blog

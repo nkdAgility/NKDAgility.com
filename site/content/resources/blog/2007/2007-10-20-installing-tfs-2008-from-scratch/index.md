@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 90J7b6pXQm3
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 90J7b6pXQm3
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-tfs-2008-from-scratch
 aliases:
   - /resources/90J7b6pXQm3
@@ -28,6 +28,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T16:25:47Z
+ResourceId: 90J7b6pXQm3
+ResourceType: blog
 ResourceImportId: 297
 creator: Martin Hinshelwood
 resourceTypes: blog

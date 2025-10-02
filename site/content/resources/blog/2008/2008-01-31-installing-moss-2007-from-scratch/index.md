@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: JkKTE2p0wpo
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: JkKTE2p0wpo
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-moss-2007-from-scratch
 aliases:
   - /resources/JkKTE2p0wpo
@@ -29,6 +29,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T16:24:45Z
+ResourceId: JkKTE2p0wpo
+ResourceType: blog
 ResourceImportId: 253
 creator: Martin Hinshelwood
 resourceTypes: blog

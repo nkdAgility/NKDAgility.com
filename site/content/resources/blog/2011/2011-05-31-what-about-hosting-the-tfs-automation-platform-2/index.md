@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: je145Y3qB7P
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: je145Y3qB7P
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: what-about-hosting-the-tfs-automation-platform
 aliases:
   - /resources/je145Y3qB7P
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:10:53Z
+ResourceId: je145Y3qB7P
+ResourceType: blog
 ResourceImportId: 3365
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: lcqmvIZfw-_
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: lcqmvIZfw-_
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: scrum-with-visual-studio-11-creating-a-scrum-team-identity
 aliases:
   - /resources/lcqmvIZfw-_
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:59Z
+ResourceId: lcqmvIZfw-_
+ResourceType: blog
 ResourceImportId: 3831
 creator: Martin Hinshelwood
 resourceTypes: blog

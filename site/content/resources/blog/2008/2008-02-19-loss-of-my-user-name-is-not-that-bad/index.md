@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 2iThCwSc5Qx
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 2iThCwSc5Qx
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: loss-of-my-user-name-is-not-that-bad
 aliases:
   - /resources/blog/loss-of-my.user.name-is-not-that-bad...
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:31Z
+ResourceId: 2iThCwSc5Qx
+ResourceType: blog
 ResourceImportId: 245
 creator: Martin Hinshelwood
 resourceTypes: blog

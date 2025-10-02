@@ -11,10 +11,10 @@ sitemap:
   priority: 0.4
   changefreq: weekly
 author: MrHinsh
-ResourceId: 6h1D_YPjPuU
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: 6h1D_YPjPuU
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum
 aliases:
   - /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-07T13:13:08Z
   short_title: 2025-07-07T17:55:49Z
   tldr: 2025-08-07T13:06:20Z
+ResourceId: 6h1D_YPjPuU
+ResourceType: newsletters
 resourceTypes: newsletter
 
 ---

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Qzw3FSl6hy4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Qzw3FSl6hy4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: understanding-product-discovery-why-it-matters-more-than-ever
 aliases:
   - /resources/Qzw3FSl6hy4
@@ -45,6 +44,9 @@ Watermarks:
   description: 2025-05-07T12:58:45Z
   short_title: 2025-07-07T17:48:24Z
   tldr: 2025-08-07T12:49:22Z
+ResourceId: Qzw3FSl6hy4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Qzw3FSl6hy4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Qzw3FSl6hy4/maxresdefault.jpg

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: 4ukwclfJlXy
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: 4ukwclfJlXy
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 aliases:
   - /blog/backlog-not-refined-wrong
@@ -55,6 +55,8 @@ Watermarks:
   description: 2025-05-07T13:15:11Z
   short_title: 2025-07-07T17:57:42Z
   tldr: 2025-08-07T13:10:44Z
+ResourceId: 4ukwclfJlXy
+ResourceType: blog
 ResourceImportId: 38243
 AudioNative: true
 creator: Martin Hinshelwood

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: hj31XHbmWbA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: hj31XHbmWbA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: quotes-you-can't-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
 aliases:
   - /resources/hj31XHbmWbA
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:08:47Z
   short_title: 2025-07-07T17:52:25Z
   tldr: 2025-08-07T12:58:34Z
+ResourceId: hj31XHbmWbA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: hj31XHbmWbA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hj31XHbmWbA/maxresdefault.jpg

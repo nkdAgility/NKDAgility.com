@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 7J9zEPmBq-C
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 7J9zEPmBq-C
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: even-scrum-should-have-detailed-task-descriptions
 aliases:
   - /resources/7J9zEPmBq-C
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:22:03Z
+ResourceId: 7J9zEPmBq-C
+ResourceType: blog
 ResourceImportId: 46
 creator: Martin Hinshelwood
 resourceTypes: blog

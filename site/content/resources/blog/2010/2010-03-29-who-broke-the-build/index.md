@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: SVgPQgwftag
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: SVgPQgwftag
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: who-broke-the-build
 aliases:
   - /resources/SVgPQgwftag
@@ -31,6 +31,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:22:23Z
+ResourceId: SVgPQgwftag
+ResourceType: blog
 ResourceImportId: 59
 creator: Martin Hinshelwood
 resourceTypes: blog

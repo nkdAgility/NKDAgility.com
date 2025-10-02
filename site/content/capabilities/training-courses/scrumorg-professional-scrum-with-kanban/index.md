@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: 9TCIWaWs_mz
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: 9TCIWaWs_mz
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: professional-scrum-with-kanban-psk-with-certification
-aliases:
-  - /resources/9TCIWaWs_mz
+aliases: []
 aliasesArchive:
   - /training-courses/professional-scrum-with-kanban-psk
   - /training-courses/professional-scrum-with-kanban-psk-training
@@ -62,7 +61,7 @@ delivery_audiences:
   - Teams
 preview: naked-agility-Professional-Scrum-PSK-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSK-400x.png
-brandColour:
+brandColour: 
 code: PSK
 programCode: PSK
 course_proficiencies:
@@ -82,7 +81,7 @@ outcomes: |2+
   - **Kanban in Practice** - Understand Kanban through practical participation;
   - **Scrum with Kanban** - How does Professional Kanban affect and enhance Professional Scrum; What are the additional practices and how might they be applied
 
-assessment:
+assessment: 
 objectives: |+
   Students will learn how their Scrum Teams can introduce complementary practices from Kanban while continuing the way they are already working with Scrum, all without changing Scrum. In this class, students will: 
   - Gain a clear understanding of how flow works within the context of Scrum.
@@ -91,13 +90,15 @@ objectives: |+
   - Learn a practical approach to improving transparency and visibility for their work.
 
 prerequisites: Before you take this course you should have a solid understanding of Professional Scrum.
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
----
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
+ResourceId: 9TCIWaWs_mz
+ResourceType: course
 
+---
 ```markdown
 # Professional Scrum with Kanban (PSK) with Certification
 

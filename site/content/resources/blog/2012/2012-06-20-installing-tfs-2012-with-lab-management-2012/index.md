@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: BKHVPKrqv3h
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: BKHVPKrqv3h
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-tfs-2012-with-lab-management-2012
 aliases:
   - /resources/BKHVPKrqv3h
@@ -33,6 +33,8 @@ tags:
   - Internal Developer Platform
 Watermarks:
   description: 2025-05-13T15:08:54Z
+ResourceId: BKHVPKrqv3h
+ResourceType: blog
 ResourceImportId: 5496
 creator: Martin Hinshelwood
 resourceTypes: blog

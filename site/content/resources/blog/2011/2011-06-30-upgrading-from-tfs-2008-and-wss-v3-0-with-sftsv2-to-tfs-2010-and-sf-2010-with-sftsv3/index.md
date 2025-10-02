@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: KlJGJX3qXCS
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: KlJGJX3qXCS
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
 aliases:
   - /resources/blog/upgrading-from-tfs-2008-and-wss-v3.0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
@@ -37,6 +37,8 @@ tags:
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:10:29Z
+ResourceId: KlJGJX3qXCS
+ResourceType: blog
 ResourceImportId: 3279
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -15,10 +15,10 @@ contributors:
     external: https://nigelthurlow.com/
   - name: Alex Brown
     external: https://www.linkedin.com/in/ukalexbrown/
-ResourceId: AhxlPTOD1yy
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: AhxlPTOD1yy
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: rethinking-capacity-planning
 aliases:
   - /resources/AhxlPTOD1yy
@@ -29,16 +29,16 @@ categories:
   - Product Development
   - Lean
 tags:
+  - Lean Thinking
   - Empirical Process Control
   - Flow Efficiency
   - Lean Principles
-  - Lean Thinking
   - Operational Practices
+  - Throughput
   - Continuous Improvement
   - Lean Product Development
   - Organisational Physics
   - Pragmatic Thinking
-  - Throughput
   - Value Delivery
   - Agile Strategy
   - Portfolio Management
@@ -49,6 +49,8 @@ Watermarks:
   short_title: 2025-07-07T16:43:13Z
   tldr: 2025-07-30T23:22:00Z
 creator: Martin Hinshelwood
+ResourceId: AhxlPTOD1yy
+ResourceType: blog
 
 ---
 Capacity planning is not about filling calendars or counting resource hours. It is about flow, system constraints, and predictability. And importantly, what we are talking about here applies even within environments of strict budgets, immovable deadlines, and rigorous accountabilities. Lean approaches do not discard discipline; they reframe how we achieve predictability, accountability, and sustainable delivery by focusing on the system, not just the parts. These ideas align directly with the Scrum ethos of empirical process control and the Kanban strategy of observing and managing work-in-progress limits to enhance value delivery.

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 2kvi44Dp0xl
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 2kvi44Dp0xl
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 aliases:
   - /resources/2kvi44Dp0xl
@@ -28,6 +28,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:05:56Z
+ResourceId: 2kvi44Dp0xl
+ResourceType: blog
 ResourceImportId: 9682
 creator: Martin Hinshelwood
 resourceTypes: blog

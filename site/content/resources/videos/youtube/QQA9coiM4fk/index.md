@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: QQA9coiM4fk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: QQA9coiM4fk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: devops-consulting-overview
 aliases:
   - /resources/QQA9coiM4fk
@@ -30,11 +29,15 @@ layout: video
 concepts: []
 categories:
   - DevOps
-tags: []
+tags:
+  - Organisational Culture
 Watermarks:
   description: 2025-05-07T13:11:34Z
   short_title: 2025-07-07T17:54:36Z
   tldr: 2025-08-07T13:03:40Z
+ResourceId: QQA9coiM4fk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: QQA9coiM4fk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QQA9coiM4fk/maxresdefault.jpg

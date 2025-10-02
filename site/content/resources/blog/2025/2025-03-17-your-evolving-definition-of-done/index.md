@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: 5wIEg7lD_Xd
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: 5wIEg7lD_Xd
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: your-evolving-definition-of-done
 aliases:
   - /resources/5wIEg7lD_Xd
@@ -50,6 +50,8 @@ Watermarks:
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
+ResourceId: 5wIEg7lD_Xd
+ResourceType: blog
 
 ---
 The [Definition of Done (DoD)]({{< ref "/tags/definition-of-done" >}}) is not a static artefact; it evolves over time as a [Scrum Team]({{< ref "/tags/scrum-team" >}}) gains experience and capability. While the [Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}}) acknowledges that teams may refine their DoD to improve product quality, there’s an often overlooked piece: Organisations should also provide an organisational Definition of Done that reflects their needs. This organisational perspective ensures that [Scrum]({{< ref "/categories/scrum" >}}) Teams build on a solid foundation, aligning technical execution with [strategic goals]({{< ref "/tags/strategic-goals" >}}).

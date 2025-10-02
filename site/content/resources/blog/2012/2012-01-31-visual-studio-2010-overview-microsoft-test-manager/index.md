@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 6a-Qtjtf94G
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 6a-Qtjtf94G
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2010-overview-microsoft-test-manager
 aliases:
   - /resources/6a-Qtjtf94G
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:37Z
+ResourceId: 6a-Qtjtf94G
+ResourceType: blog
 ResourceImportId: 4189
 creator: Martin Hinshelwood
 resourceTypes: blog

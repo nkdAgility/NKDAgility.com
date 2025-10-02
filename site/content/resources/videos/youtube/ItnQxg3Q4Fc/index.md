@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: ItnQxg3Q4Fc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ItnQxg3Q4Fc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
 aliases:
   - /resources/ItnQxg3Q4Fc
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:11:20Z
   short_title: 2025-07-07T17:54:23Z
   tldr: 2025-08-07T13:03:15Z
+ResourceId: ItnQxg3Q4Fc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ItnQxg3Q4Fc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ItnQxg3Q4Fc/maxresdefault.jpg

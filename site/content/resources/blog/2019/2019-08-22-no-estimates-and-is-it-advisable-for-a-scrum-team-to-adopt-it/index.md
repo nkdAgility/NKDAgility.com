@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: Lv1CLfk5cPM
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: Lv1CLfk5cPM
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 aliases:
   - /resources/Lv1CLfk5cPM
@@ -35,6 +35,8 @@ Watermarks:
   description: 2025-05-07T13:16:14Z
   short_title: 2025-07-07T17:58:31Z
   tldr: 2025-08-07T13:13:08Z
+ResourceId: Lv1CLfk5cPM
+ResourceType: blog
 ResourceImportId: 39684
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Ahz5CpOOGZl
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Ahz5CpOOGZl
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-long-wait-is-over
 aliases:
   - /resources/Ahz5CpOOGZl
@@ -27,6 +27,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:23:22Z
+ResourceId: Ahz5CpOOGZl
+ResourceType: blog
 ResourceImportId: 93
 creator: Martin Hinshelwood
 resourceTypes: blog

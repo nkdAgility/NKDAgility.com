@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: D1wz-J1jklQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: D1wz-J1jklQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-code-quality-the-transformative-power-of-frequent-deployments
 aliases:
   - /resources/D1wz-J1jklQ
@@ -53,6 +52,7 @@ Watermarks:
   description: 2025-05-07T12:50:00Z
   short_title: 2025-07-07T17:47:00Z
   tldr: 2025-08-07T12:40:36Z
+ResourceImportSource: Youtube
 videoId: D1wz-J1jklQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/D1wz-J1jklQ/maxresdefault.jpg
@@ -60,6 +60,8 @@ duration: 362
 resourceTypes:
   - video
 isShort: false
+ResourceId: D1wz-J1jklQ
+ResourceType: videos
 
 ---
 When it comes to deploying code, I've often found that the frequency of our deployments can significantly impact the quality of our work and the overall health of our codebase. In my experience, when we don't deploy very frequently, we inadvertently invite a host of dysfunctional behaviours that can be easily avoided. 

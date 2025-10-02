@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: w548lro11wJ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: w548lro11wJ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
 aliases:
   - /resources/w548lro11wJ
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:48Z
+ResourceId: w548lro11wJ
+ResourceType: blog
 ResourceImportId: 447
 creator: Martin Hinshelwood
 resourceTypes: blog

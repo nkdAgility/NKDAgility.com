@@ -11,10 +11,10 @@ sitemap:
   priority: 0.1
   changefreq: weekly
 author: MrHinsh
-ResourceId: x0sJSqJhVRG
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: x0sJSqJhVRG
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: agile-2023-the-scotland-experiance-with-lyssa-adkins-nkdagility
 aliases:
   - /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-07T13:10:37Z
   short_title: 2025-07-07T17:53:54Z
   tldr: 2025-08-07T13:01:52Z
+ResourceId: x0sJSqJhVRG
+ResourceType: newsletters
 preview: nkdagility-agile-2023-Scotland-Experiance.png
 resourceTypes: newsletter
 

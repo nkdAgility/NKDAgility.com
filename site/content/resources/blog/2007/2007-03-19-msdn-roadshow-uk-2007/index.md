@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: gm2PHIhIPbi
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: gm2PHIhIPbi
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: msdn-roadshow-uk-2007
 aliases:
   - /resources/gm2PHIhIPbi
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:04Z
+ResourceId: gm2PHIhIPbi
+ResourceType: blog
 ResourceImportId: 430
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: uQ786VBz3Jw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: uQ786VBz3Jw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-sprint-planning-key-principles-for-agile-success
 aliases:
   - /resources/uQ786VBz3Jw
@@ -51,6 +50,9 @@ Watermarks:
   description: 2025-05-07T13:12:09Z
   short_title: 2025-07-07T17:55:01Z
   tldr: 2025-08-07T13:04:39Z
+ResourceId: uQ786VBz3Jw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: uQ786VBz3Jw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg

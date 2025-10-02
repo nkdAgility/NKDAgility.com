@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: J0HjcdNvqGW
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: J0HjcdNvqGW
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 aliases:
   - /resources/J0HjcdNvqGW
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-07T13:16:24Z
   short_title: 2025-07-07T17:58:40Z
   tldr: 2025-08-07T13:13:29Z
+ResourceId: J0HjcdNvqGW
+ResourceType: blog
 ResourceImportId: 12146
 creator: Martin Hinshelwood
 resourceTypes: blog

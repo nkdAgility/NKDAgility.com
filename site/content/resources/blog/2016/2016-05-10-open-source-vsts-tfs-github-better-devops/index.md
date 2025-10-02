@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: LWHiaHn3CWF
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: LWHiaHn3CWF
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: open-source-with-vsts-or-tfs-and-github-for-better-devops
 aliases:
   - /resources/LWHiaHn3CWF
@@ -40,6 +40,8 @@ Watermarks:
   description: 2025-05-07T13:16:44Z
   short_title: 2025-07-07T17:58:58Z
   tldr: 2025-08-07T13:24:13Z
+ResourceId: LWHiaHn3CWF
+ResourceType: blog
 ResourceImportId: 11491
 creator: Martin Hinshelwood
 resourceTypes: blog

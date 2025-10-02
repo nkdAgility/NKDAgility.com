@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: -hq1U7x2uea
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: -hq1U7x2uea
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: every-delay-increases-the-risk-of-failure
 aliases:
   - /resources/-hq1U7x2uea
@@ -40,7 +40,7 @@ tags:
   - Release Management
   - Operational Practices
   - Decision Making
-  - Continuous Improvement
+  - Empirical Process Control
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7294671658643017729
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-16T15:57:01Z
   short_title: 2025-07-07T17:46:36Z
   tldr: 2025-08-07T12:39:45Z
+ResourceId: -hq1U7x2uea
+ResourceType: signals
 
 ---
 Every delay increases the risk of failure.

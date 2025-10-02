@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: zltmMb2EbDE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: zltmMb2EbDE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: does-kanban-integrate-into-a-scrum-environment
 aliases:
   - /resources/zltmMb2EbDE
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:05:45Z
   short_title: 2025-07-07T17:49:45Z
   tldr: 2025-08-07T12:52:43Z
+ResourceId: zltmMb2EbDE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: zltmMb2EbDE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/zltmMb2EbDE/maxresdefault.jpg

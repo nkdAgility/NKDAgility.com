@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: bSv-E4Y5zk0
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: bSv-E4Y5zk0
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 aliases:
   - /resources/bSv-E4Y5zk0
@@ -31,6 +31,8 @@ tags:
   - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:10:46Z
+ResourceId: bSv-E4Y5zk0
+ResourceType: blog
 ResourceImportId: 3408
 creator: Martin Hinshelwood
 resourceTypes: blog

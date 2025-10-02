@@ -5,16 +5,15 @@ description: Learn how to build a compelling business case for agile adoption by
 tldr: To successfully pitch agile internally, tailor your message to leadership by focusing on business outcomes they care about, such as reduced costs, faster time to market, and improved customer satisfaction, using clear metrics and financial examples. When engaging teams, use a consultative approach that involves them in problem-solving and framework selection to build buy-in and reduce resistance. The key action is to align agile benefits with stakeholder priorities and measure progress with relevant data to make a compelling, evidence-based case.
 date: 2023-02-08T07:15:00Z
 lastmod: 2023-02-08T07:15:00Z
-weight: 665
+weight: 455
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
-ResourceId: 3AVlBmOATHA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 3AVlBmOATHA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 aliases:
   - /resources/3AVlBmOATHA
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:14:11Z
   short_title: 2025-07-07T17:56:51Z
   tldr: 2025-08-07T13:08:30Z
+ResourceId: 3AVlBmOATHA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 3AVlBmOATHA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/3AVlBmOATHA/maxresdefault.jpg

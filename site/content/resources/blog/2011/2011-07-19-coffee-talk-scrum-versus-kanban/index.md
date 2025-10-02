@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 1VmIrtnFKy7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 1VmIrtnFKy7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: coffee-talk-scrum-versus-kanban
 aliases:
   - /resources/1VmIrtnFKy7
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:10:24Z
+ResourceId: 1VmIrtnFKy7
+ResourceType: blog
 ResourceImportId: 3688
 creator: Martin Hinshelwood
 resourceTypes: blog

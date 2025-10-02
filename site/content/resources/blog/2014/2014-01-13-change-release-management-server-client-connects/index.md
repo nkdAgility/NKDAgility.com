@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: zTjRpmZ5cJQ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: zTjRpmZ5cJQ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: change-the-release-management-server-that-your-client-connects-to
 aliases:
   - /resources/zTjRpmZ5cJQ
@@ -30,6 +30,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:22:39Z
+ResourceId: zTjRpmZ5cJQ
+ResourceType: blog
 ResourceImportId: 10329
 creator: Martin Hinshelwood
 resourceTypes: blog

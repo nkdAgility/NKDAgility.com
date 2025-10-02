@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: XIuPwzheKMA
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: XIuPwzheKMA
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 aliases:
   - /resources/XIuPwzheKMA
@@ -32,6 +32,8 @@ tags:
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:08:49Z
+ResourceId: XIuPwzheKMA
+ResourceType: blog
 ResourceImportId: 5702
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: r9aCEFpUHWU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: r9aCEFpUHWU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
 aliases:
   - /resources/r9aCEFpUHWU
@@ -45,6 +44,7 @@ Watermarks:
   description: 2025-05-07T12:57:28Z
   short_title: 2025-07-07T17:47:46Z
   tldr: 2025-08-07T12:42:29Z
+ResourceImportSource: Youtube
 videoId: r9aCEFpUHWU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
@@ -52,6 +52,8 @@ duration: 466
 resourceTypes:
   - video
 isShort: false
+ResourceId: r9aCEFpUHWU
+ResourceType: videos
 
 ---
 When I reflect on my experiences as a [Scrum]({{< ref "/categories/scrum" >}}) Master, one thing becomes abundantly clear: the effectiveness of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) hinges on their understanding of the philosophies, theories, and practices relevant to the team they support. Without this foundational knowledge, the impact on both the team and the organisation can be profound. 

@@ -5,16 +5,15 @@ description: Explores how poly immersive learning enhances professional growth t
 tldr: Poly immersive learning experiences help teams adapt to complexity by encouraging learning from real-world feedback, fostering collaboration, and providing time for reflection. They reinforce knowledge through structured assignments and practical experiments, which build habits of continuous improvement. Development managers should integrate these approaches to drive ongoing learning and accountability within their teams.
 date: 2023-07-13T12:20:07Z
 lastmod: 2023-07-13T12:20:07Z
-weight: 815
+weight: 655
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: wawnGp8b2q8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: wawnGp8b2q8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
 aliases:
   - /resources/wawnGp8b2q8
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:10:38Z
   short_title: 2025-07-07T17:53:55Z
   tldr: 2025-08-07T13:01:54Z
+ResourceId: wawnGp8b2q8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: wawnGp8b2q8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/wawnGp8b2q8/maxresdefault.jpg

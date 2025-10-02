@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: OqcEk7HmSwT
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: OqcEk7HmSwT
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: dealing-with-invalid-subversion-ssl-certificates-and-migrations
 aliases:
   - /resources/OqcEk7HmSwT
@@ -29,6 +29,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:10:18Z
+ResourceId: OqcEk7HmSwT
+ResourceType: blog
 ResourceImportId: 3736
 creator: Martin Hinshelwood
 resourceTypes: blog

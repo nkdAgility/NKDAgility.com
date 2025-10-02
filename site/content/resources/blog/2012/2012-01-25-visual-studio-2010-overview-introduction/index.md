@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 2d6IQ5TVE-_
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 2d6IQ5TVE-_
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2010-overview-introduction
 aliases:
   - /resources/2d6IQ5TVE-_
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:43Z
+ResourceId: 2d6IQ5TVE-_
+ResourceType: blog
 ResourceImportId: 4131
 creator: Martin Hinshelwood
 resourceTypes: blog

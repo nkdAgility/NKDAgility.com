@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 994E1GchH-N
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 994E1GchH-N
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: experts-exchange-hell-the-slowest-site-in-the-world
 aliases:
   - /resources/994E1GchH-N
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:54Z
+ResourceId: 994E1GchH-N
+ResourceType: blog
 ResourceImportId: 302
 creator: Martin Hinshelwood
 resourceTypes: blog

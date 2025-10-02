@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: H1avNshoB3O
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: H1avNshoB3O
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: in-scrum-we-don-t-do-ux-separately
 aliases:
   - /resources/H1avNshoB3O
@@ -45,6 +45,8 @@ Watermarks:
   description: 2025-06-17T17:50:35Z
   short_title: 2025-07-07T16:43:30Z
   tldr: 2025-08-07T12:11:14Z
+ResourceId: H1avNshoB3O
+ResourceType: signals
 
 ---
 In Scrum, we don’t do UX separately. We don’t have a “UX Sprint.” UX is part of the product. That means UX work is either:

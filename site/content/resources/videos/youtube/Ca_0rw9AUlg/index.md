@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Ca_0rw9AUlg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Ca_0rw9AUlg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: there-s-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 aliases:
   - /resources/Ca_0rw9AUlg
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:06:24Z
   short_title: 2025-07-07T17:50:15Z
   tldr: 2025-08-07T12:53:59Z
+ResourceId: Ca_0rw9AUlg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Ca_0rw9AUlg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Ca_0rw9AUlg/maxresdefault.jpg

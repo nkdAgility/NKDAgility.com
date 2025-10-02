@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: tZ9fOZUusrh
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: tZ9fOZUusrh
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-visual-studio-2010-service-pack-1
 aliases:
   - /resources/tZ9fOZUusrh
@@ -28,6 +28,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:11:02Z
+ResourceId: tZ9fOZUusrh
+ResourceType: blog
 ResourceImportId: 9893
 creator: Martin Hinshelwood
 resourceTypes: blog

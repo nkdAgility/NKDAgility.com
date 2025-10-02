@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: AHschsDjL2E
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: AHschsDjL2E
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: scrum-for-executives-training
-aliases:
-  - /resources/AHschsDjL2E
+aliases: []
 aliasesArchive:
   - /training-courses/scrum-for-executives
   - /training-courses/scrum-for-executives-training/
@@ -94,6 +93,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+ResourceId: AHschsDjL2E
+ResourceType: course
 
 ---
 # Scrum for Executives Training

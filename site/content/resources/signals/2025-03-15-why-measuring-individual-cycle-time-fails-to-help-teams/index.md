@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: ZZGeHcnIwyQ
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: ZZGeHcnIwyQ
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: why-measuring-individual-cycle-time-fails-to-help-teams
 aliases:
   - /resources/ZZGeHcnIwyQ
@@ -32,6 +32,7 @@ tags:
   - Software Development
   - Decision Making
   - Lead Time
+  - Continuous Improvement
   - Team Collaboration
   - Systems Thinking
   - Lean Principles
@@ -40,7 +41,6 @@ tags:
   - Lean Thinking
   - Value Delivery
   - Pragmatic Thinking
-  - Metrics and Learning
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7306713296575885312
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-16T15:56:09Z
   short_title: 2025-07-07T16:45:26Z
   tldr: 2025-08-07T12:34:50Z
+ResourceId: ZZGeHcnIwyQ
+ResourceType: signals
 
 ---
 I still see teams measuring individual cycle time as if that tells them anything useful. It doesn’t.

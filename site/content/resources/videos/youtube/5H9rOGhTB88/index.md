@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: 5H9rOGhTB88
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 5H9rOGhTB88
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: empowering-teams-to-tailor-their-processes-a-path-to-true-agility
 aliases:
   - /resources/5H9rOGhTB88
@@ -55,6 +54,9 @@ Watermarks:
   description: 2025-05-07T13:02:28Z
   short_title: 2025-07-07T17:48:53Z
   tldr: 2025-08-07T12:50:39Z
+ResourceId: 5H9rOGhTB88
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 5H9rOGhTB88
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5H9rOGhTB88/maxresdefault.jpg

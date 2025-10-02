@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: 9EP_gF2nD19
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 9EP_gF2nD19
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: best-branching-strategies-for-development-teams-explained
 aliases:
   - /resources/9EP_gF2nD19
@@ -49,6 +49,8 @@ Watermarks:
   description: 2025-05-16T15:56:43Z
   short_title: 2025-07-07T16:45:50Z
   tldr: 2025-08-07T12:35:44Z
+ResourceId: 9EP_gF2nD19
+ResourceType: signals
 
 ---
 I see it all the time: teams structuring their branching strategy to mirror their environments. A dev branch for Dev, a staging branch for Staging, a release branch for Production.

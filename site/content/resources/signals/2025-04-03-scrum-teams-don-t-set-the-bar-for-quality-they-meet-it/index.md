@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: ZMOQD_EBE6A
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: ZMOQD_EBE6A
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: scrum-teams-don-t-set-the-bar-for-quality-they-meet-it
 aliases:
   - /resources/ZMOQD_EBE6A
@@ -48,6 +48,8 @@ Watermarks:
   description: 2025-06-17T17:50:55Z
   short_title: 2025-07-07T16:45:04Z
   tldr: 2025-08-07T12:34:07Z
+ResourceId: ZMOQD_EBE6A
+ResourceType: signals
 
 ---
 Scrum Teams don’t set the bar for quality—they meet it. The Definition of Done (DoD) isn’t a wishlist or a stretch goal. It’s a hard line that determines what is releasable. And if your DoD isn’t improving Sprint over Sprint, you’re accumulating risk and technical debt.

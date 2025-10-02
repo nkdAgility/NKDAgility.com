@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: P0XjI6SRWz-
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: P0XjI6SRWz-
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: connecting-to-sql-server-using-dns-update
 aliases:
   - /resources/P0XjI6SRWz-
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:41Z
+ResourceId: P0XjI6SRWz-
+ResourceType: blog
 ResourceImportId: 255
 creator: Martin Hinshelwood
 resourceTypes: blog

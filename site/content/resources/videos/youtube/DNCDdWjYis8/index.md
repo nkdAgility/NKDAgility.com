@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: DNCDdWjYis8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: DNCDdWjYis8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: redefining-the-scrum-master-from-boss-to-empowering-facilitator
 aliases:
   - /resources/DNCDdWjYis8
@@ -52,6 +51,9 @@ Watermarks:
   description: 2025-05-07T13:12:54Z
   short_title: 2025-07-07T17:55:40Z
   tldr: 2025-08-07T13:05:58Z
+ResourceId: DNCDdWjYis8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: DNCDdWjYis8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DNCDdWjYis8/maxresdefault.jpg

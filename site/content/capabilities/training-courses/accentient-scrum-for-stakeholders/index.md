@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: 33qyqKjBf3T
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: 33qyqKjBf3T
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: scrum-for-stakeholders-training
-aliases:
-  - /resources/33qyqKjBf3T
+aliases: []
 aliasesArchive:
   - /training-courses/scrum-for-stakeholders
   - /training-courses/scrum-for-stakeholders-training/
@@ -90,6 +89,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+ResourceId: 33qyqKjBf3T
+ResourceType: course
 
 ---
 # Scrum for Stakeholders Training

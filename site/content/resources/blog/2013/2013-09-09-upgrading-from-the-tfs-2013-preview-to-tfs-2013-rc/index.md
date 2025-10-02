@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: WlTNhsC5jek
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: WlTNhsC5jek
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 aliases:
   - /resources/WlTNhsC5jek
@@ -30,6 +30,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-12T14:23:10Z
+ResourceId: WlTNhsC5jek
+ResourceType: blog
 ResourceImportId: 10041
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: wHGw1vmudNA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: wHGw1vmudNA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 7-harbingers-of-the-agile-apocalypse-war
 aliases:
   - /resources/wHGw1vmudNA
@@ -35,6 +34,7 @@ categories:
   - Technical Leadership
   - Product Development
 tags:
+  - Employee Engagement
   - Agile Philosophy
   - Agile Leadership
   - Organisational Agility
@@ -43,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:08:37Z
   short_title: 2025-07-07T17:52:17Z
   tldr: 2025-08-07T12:58:15Z
+ResourceId: wHGw1vmudNA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: wHGw1vmudNA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/wHGw1vmudNA/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: XhPHa1RXrWo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: XhPHa1RXrWo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: agile-is-not-new-a-journey-back-to-the-basics
 aliases:
   - /resources/XhPHa1RXrWo
@@ -44,6 +43,7 @@ Watermarks:
   description: 2025-05-07T12:57:35Z
   short_title: 2025-07-07T17:47:51Z
   tldr: 2025-08-07T12:42:40Z
+ResourceImportSource: Youtube
 videoId: XhPHa1RXrWo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XhPHa1RXrWo/maxresdefault.jpg
@@ -51,6 +51,8 @@ duration: 659
 resourceTypes:
   - video
 isShort: false
+ResourceId: XhPHa1RXrWo
+ResourceType: videos
 
 ---
 **Agile** isn't some trendy buzzword that just came out of nowhere. In fact, it's far from new. It's a concept that has roots stretching back centuries. Before the Industrial Revolution, small, local businesses—like your neighborhood cobbler—knew their customers on a personal level. They crafted products based on the unique needs and preferences of each individual. This personal connection, built on understanding and empathy, was central to how work got done.

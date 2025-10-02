@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.9
   changefreq: monthly
-ResourceId: PMnxyczoB1K
-ResourceImport: false
-ResourceType: case-studies
-ResourceContentOrigin: human
+ItemId: PMnxyczoB1K
+ItemType: case-studies
+ItemKind: resource
+ItemContentOrigin: human
 slug: streamline-build-and-release-across-90-teams-and-13-countries
 aliases:
   - /resources/PMnxyczoB1K
@@ -21,7 +21,7 @@ aliases:
 aliasesArchive:
   - /resources/case-studies/case-study-engineering-excellence-at-scale-slb-and-nkd-agility
 concepts:
-  - Principle
+  - Capability
 categories:
   - Engineering Excellence
   - Technical Leadership
@@ -30,6 +30,7 @@ tags:
   - Software Development
   - Operational Practices
   - Pragmatic Thinking
+  - Sociotechnical Systems
   - Technical Mastery
   - Team Collaboration
   - Team Performance
@@ -39,13 +40,14 @@ tags:
   - Release Management
   - Technical Excellence
   - Product Delivery
-  - Sociotechnical Systems
-  - One Engineering System
   - Agentic Agility
+  - One Engineering System
 Watermarks:
   description: 2025-06-16T11:50:57Z
   short_title: 2025-07-07T16:43:48Z
   tldr: 2025-08-07T12:29:07Z
+ResourceId: PMnxyczoB1K
+ResourceType: case-studies
 
 ---
 ## Client Context

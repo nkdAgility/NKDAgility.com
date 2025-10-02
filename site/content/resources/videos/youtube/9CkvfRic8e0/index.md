@@ -8,11 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 9CkvfRic8e0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 9CkvfRic8e0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-tfs-release-management-a-step-by-step-guide-to-smooth-configuration
 aliases:
   - /resources/9CkvfRic8e0
@@ -32,6 +31,9 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-12T14:22:48Z
+ResourceId: 9CkvfRic8e0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 9CkvfRic8e0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/9CkvfRic8e0/maxresdefault.jpg

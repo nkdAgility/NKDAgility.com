@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: KHcSWD2tV6M
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: KHcSWD2tV6M
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
 aliases:
   - /resources/KHcSWD2tV6M
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:08:09Z
   short_title: 2025-07-07T17:51:57Z
   tldr: 2025-08-07T12:57:27Z
+ResourceId: KHcSWD2tV6M
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: KHcSWD2tV6M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KHcSWD2tV6M/maxresdefault.jpg

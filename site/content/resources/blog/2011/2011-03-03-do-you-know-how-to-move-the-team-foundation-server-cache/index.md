@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: aF0H8q5h-Yg
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: aF0H8q5h-Yg
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: do-you-know-how-to-move-the-team-foundation-server-cache
 aliases:
   - /resources/aF0H8q5h-Yg
@@ -29,6 +29,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:11:05Z
+ResourceId: aF0H8q5h-Yg
+ResourceType: blog
 ResourceImportId: 9894
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -5,16 +5,15 @@ description: Explores how financial awareness boosts employee motivation, decisi
 tldr: Employees often lack awareness of the financial impact of their work, which can lead to missed opportunities and poor decisions. Promoting financial literacy and open discussions about costs helps teams make better choices, increases motivation, and drives accountability. Development managers should actively foster financial awareness to empower teams and improve business outcomes.
 date: 2024-09-03T03:33:58Z
 lastmod: 2024-09-03T03:33:58Z
-weight: 1000
+weight: 835
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: f8q2fBkUez0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: f8q2fBkUez0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: empowering-employees-the-crucial-link-between-financial-awareness-and-motivation
 aliases:
   - /resources/f8q2fBkUez0
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T12:58:38Z
   short_title: 2025-07-07T17:48:19Z
   tldr: 2025-08-07T12:49:11Z
+ResourceId: f8q2fBkUez0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: f8q2fBkUez0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/f8q2fBkUez0/maxresdefault.jpg

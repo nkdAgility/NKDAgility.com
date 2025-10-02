@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: X_Bw0WdCwEc
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: X_Bw0WdCwEc
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: do-you-know-about-the-visual-studio-alm-rangers-guidance
 aliases:
   - /resources/X_Bw0WdCwEc
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:11:14Z
+ResourceId: X_Bw0WdCwEc
+ResourceType: blog
 ResourceImportId: 15
 creator: Martin Hinshelwood
 resourceTypes: blog

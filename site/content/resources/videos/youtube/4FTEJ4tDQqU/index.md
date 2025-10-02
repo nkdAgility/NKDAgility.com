@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: 4FTEJ4tDQqU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 4FTEJ4tDQqU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
 aliases:
   - /resources/4FTEJ4tDQqU
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:13:51Z
   short_title: 2025-07-07T17:56:33Z
   tldr: 2025-08-07T13:07:54Z
+ResourceId: 4FTEJ4tDQqU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 4FTEJ4tDQqU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4FTEJ4tDQqU/maxresdefault.jpg

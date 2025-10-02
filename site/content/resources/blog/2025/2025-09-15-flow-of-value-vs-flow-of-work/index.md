@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: p2XfFa_1tko
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: p2XfFa_1tko
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: flow-of-value-vs-flow-of-work
 aliases:
   - /resources/blog/flow-of-value-vs-flow-of-work-misnomer-or-useful-shorthand
@@ -41,10 +41,12 @@ tags:
   - Pragmatic Thinking
   - Flow Efficiency
   - Agile Philosophy
-  - Agile Product Management
+  - Hypothesis Driven Development
 Watermarks:
   description: 2025-07-30T22:58:59Z
   tldr: 2025-08-07T12:38:44Z
+ResourceId: p2XfFa_1tko
+ResourceType: blog
 
 ---
 # Flow of value vs. flow of work: misnomer or useful shorthand?

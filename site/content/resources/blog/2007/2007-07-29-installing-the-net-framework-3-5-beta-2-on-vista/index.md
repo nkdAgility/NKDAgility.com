@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: kroCooKCsgh
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: kroCooKCsgh
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-the-net-framework-3-5-beta-2-on-vista
 aliases:
   - /resources/blog/installing-the-.net-framework-3.5-beta-2-on-vista
@@ -33,6 +33,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:27:16Z
+ResourceId: kroCooKCsgh
+ResourceType: blog
 ResourceImportId: 357
 creator: Martin Hinshelwood
 resourceTypes: blog

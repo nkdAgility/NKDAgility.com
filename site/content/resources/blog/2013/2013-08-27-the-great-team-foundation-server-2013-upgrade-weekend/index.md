@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: vBfV--PVVr7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: vBfV--PVVr7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-great-team-foundation-server-2013-upgrade-weekend
 aliases:
   - /resources/vBfV--PVVr7
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:23:19Z
+ResourceId: vBfV--PVVr7
+ResourceType: blog
 ResourceImportId: 9989
 creator: Martin Hinshelwood
 resourceTypes: blog

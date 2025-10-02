@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: B12n_52H48U
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: B12n_52H48U
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
 aliases:
   - /resources/B12n_52H48U
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:09:34Z
   short_title: 2025-07-07T17:53:06Z
   tldr: 2025-08-07T13:00:05Z
+ResourceId: B12n_52H48U
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: B12n_52H48U
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/B12n_52H48U/maxresdefault.jpg

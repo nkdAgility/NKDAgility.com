@@ -5,16 +5,15 @@ description: Explores why focusing solely on contracts can miss client needs, an
 tldr: Focusing strictly on the statement of work often fails to address clients' real problems, leading to temporary fixes and dissatisfaction. Building trust, adapting to actual needs, and prioritising value over rigid contract terms result in better outcomes and lasting change. Development managers should emphasise relationships and flexibility to deliver solutions that truly matter to clients.
 date: 2023-06-22T07:00:15Z
 lastmod: 2023-06-22T07:00:15Z
-weight: 860
+weight: 630
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
-ResourceId: MutnPwNzyXM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: MutnPwNzyXM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 aliases:
   - /resources/MutnPwNzyXM
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:11:22Z
   short_title: 2025-07-07T17:54:26Z
   tldr: 2025-08-07T13:03:20Z
+ResourceId: MutnPwNzyXM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: MutnPwNzyXM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg

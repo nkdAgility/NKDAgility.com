@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: L9KsDJ2Rebo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: L9KsDJ2Rebo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
 aliases:
   - /resources/L9KsDJ2Rebo
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:10:42Z
   short_title: 2025-07-07T17:53:58Z
   tldr: 2025-08-07T13:02:01Z
+ResourceId: L9KsDJ2Rebo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: L9KsDJ2Rebo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg

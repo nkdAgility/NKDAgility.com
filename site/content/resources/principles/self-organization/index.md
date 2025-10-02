@@ -9,10 +9,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: eyXbQF80i4R
-ResourceImport: false
-ResourceType: principles
-ResourceContentOrigin: Human
+ItemId: eyXbQF80i4R
+ItemType: principles
+ItemKind: resource
+ItemContentOrigin: Human
 slug: self-organization
 aliases:
   - /learn/agile-delivery-kit/first-principals/self-organization/
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-07T12:57:51Z
   short_title: 2025-07-07T17:48:07Z
   tldr: 2025-08-07T12:48:46Z
+ResourceId: eyXbQF80i4R
+ResourceType: principles
 recommendedContent: 
 creator: Martin Hinshelwood
 resourceTypes: principles

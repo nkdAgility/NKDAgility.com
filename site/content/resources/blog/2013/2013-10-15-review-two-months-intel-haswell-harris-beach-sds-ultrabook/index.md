@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: LSTyPpa3cnS
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: LSTyPpa3cnS
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: review-part-3-two-months-with-intel-haswell-harris-beach-sds-ultrabook
 aliases:
   - /resources/LSTyPpa3cnS
@@ -29,6 +29,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-12T14:23:00Z
+ResourceId: LSTyPpa3cnS
+ResourceType: blog
 ResourceImportId: 10209
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: lov38doo6uB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: lov38doo6uB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: understanding-tfs-migrations-from-on-premise-to-visual-studio-online
 aliases:
   - /resources/lov38doo6uB
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-12T14:20:24Z
   tldr: 2025-08-07T13:26:08Z
   short_title: 2025-08-07T13:26:08Z
+ResourceId: lov38doo6uB
+ResourceType: blog
 ResourceImportId: 10987
 creator: Martin Hinshelwood
 resourceTypes: blog

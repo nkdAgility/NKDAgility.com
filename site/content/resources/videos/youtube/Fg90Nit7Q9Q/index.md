@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: Fg90Nit7Q9Q
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Fg90Nit7Q9Q
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: can-you-align-devops-and-software-engineering-teams-through-scrum
 aliases:
   - /resources/Fg90Nit7Q9Q
@@ -35,6 +34,9 @@ Watermarks:
   description: 2025-05-07T13:11:33Z
   short_title: 2025-07-07T17:54:35Z
   tldr: 2025-08-07T13:03:38Z
+ResourceId: Fg90Nit7Q9Q
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Fg90Nit7Q9Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Fg90Nit7Q9Q/maxresdefault.jpg

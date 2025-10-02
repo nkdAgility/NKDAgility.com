@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: LahLCH4hO9O
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: LahLCH4hO9O
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: naming-your-servers-in-an-enterprise-environment
 aliases:
   - /resources/LahLCH4hO9O
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:50Z
+ResourceId: LahLCH4hO9O
+ResourceType: blog
 ResourceImportId: 299
 creator: Martin Hinshelwood
 resourceTypes: blog

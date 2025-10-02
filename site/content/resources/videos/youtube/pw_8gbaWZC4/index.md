@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: pw_8gbaWZC4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: pw_8gbaWZC4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
 aliases:
   - /resources/pw_8gbaWZC4
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:05:25Z
   short_title: 2025-07-07T17:49:28Z
   tldr: 2025-08-07T12:52:06Z
+ResourceId: pw_8gbaWZC4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: pw_8gbaWZC4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg

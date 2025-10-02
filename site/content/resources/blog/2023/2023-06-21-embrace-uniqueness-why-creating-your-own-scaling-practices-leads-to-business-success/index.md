@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: rMAdB_yEwWb
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: rMAdB_yEwWb
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 aliases:
   - /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
@@ -41,6 +41,8 @@ Watermarks:
   description: 2025-05-07T13:11:25Z
   short_title: 2025-07-07T17:54:29Z
   tldr: 2025-08-07T13:03:26Z
+ResourceId: rMAdB_yEwWb
+ResourceType: blog
 ResourceImportId: 49480
 AudioNative: true
 creator: Martin Hinshelwood

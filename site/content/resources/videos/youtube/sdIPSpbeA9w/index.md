@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: sdIPSpbeA9w
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: sdIPSpbeA9w
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
 aliases:
   - /resources/sdIPSpbeA9w
@@ -44,6 +43,7 @@ Watermarks:
   description: 2025-05-07T12:56:39Z
   short_title: 2025-07-07T17:47:07Z
   tldr: 2025-08-07T12:40:50Z
+ResourceImportSource: Youtube
 videoId: sdIPSpbeA9w
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/sdIPSpbeA9w/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLBkj3eLxuykEKxltLkuDDf4Y7aXHw
@@ -51,6 +51,8 @@ duration: 613
 resourceTypes:
   - video
 isShort: false
+ResourceId: sdIPSpbeA9w
+ResourceType: videos
 
 ---
 Automation is a game changer in the world of [software development]({{< ref "/tags/software-development" >}}). It’s not just about making things faster; it’s about creating a more standardised and efficient process. However, I must admit, I have a bit of a love-hate relationship with the term "efficiency." While it certainly fits the context, it can sometimes overshadow the human element that is so crucial in our field. 

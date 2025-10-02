@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: b5bHXT2rLoN
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: b5bHXT2rLoN
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: move-an-azure-storage-blob-to-another-store
 aliases:
   - /resources/b5bHXT2rLoN
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-12T14:21:04Z
   tldr: 2025-08-07T13:27:04Z
   short_title: 2025-08-07T13:27:05Z
+ResourceId: b5bHXT2rLoN
+ResourceType: blog
 ResourceImportId: 10778
 creator: Martin Hinshelwood
 resourceTypes: blog

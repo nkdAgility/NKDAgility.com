@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: gYcZPh6B2eg
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: gYcZPh6B2eg
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: what-my-father-taught-me-about-evidence-based-management-34-years-before-it-was-invented
 aliases:
   - /resources/gYcZPh6B2eg
@@ -45,6 +45,8 @@ platform_signals:
     post_url: https://www.scrum.org/resources/blog/what-my-father-taught-me-about-evidence-based-management-34-years-it-was-invented
 Watermarks:
   description: 2025-05-12T14:22:06Z
+ResourceId: gYcZPh6B2eg
+ResourceType: blog
 ResourceImportId: 10446
 creator: Martin Hinshelwood
 resourceTypes: blog

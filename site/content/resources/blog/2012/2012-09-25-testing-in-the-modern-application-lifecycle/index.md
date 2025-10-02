@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: o-EY2NAQQSe
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: o-EY2NAQQSe
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: testing-in-the-modern-application-lifecycle
 aliases:
   - /resources/o-EY2NAQQSe
@@ -31,6 +31,8 @@ tags:
   - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:07:30Z
+ResourceId: o-EY2NAQQSe
+ResourceType: blog
 ResourceImportId: 8829
 creator: Martin Hinshelwood
 resourceTypes: blog

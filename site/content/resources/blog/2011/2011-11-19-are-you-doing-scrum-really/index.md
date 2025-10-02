@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: X1Hm4PJt0CV
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: X1Hm4PJt0CV
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: are-you-doing-scrum-really
 aliases:
   - /resources/X1Hm4PJt0CV
@@ -31,6 +31,8 @@ tags:
   - Professional Scrum
 Watermarks:
   description: 2025-05-13T15:09:55Z
+ResourceId: X1Hm4PJt0CV
+ResourceType: blog
 ResourceImportId: 4049
 creator: Martin Hinshelwood
 resourceTypes: blog

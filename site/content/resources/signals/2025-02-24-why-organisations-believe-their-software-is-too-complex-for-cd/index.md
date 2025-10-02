@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: T-sHn-OUIvR
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: T-sHn-OUIvR
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: why-organisations-believe-their-software-is-too-complex-for-cd
 aliases:
   - /resources/T-sHn-OUIvR
@@ -50,6 +50,8 @@ Watermarks:
   description: 2025-05-16T15:56:45Z
   short_title: 2025-07-07T17:46:08Z
   tldr: 2025-08-07T12:35:50Z
+ResourceId: T-sHn-OUIvR
+ResourceType: signals
 
 ---
 Every organisation claims their software is too complex for continuous delivery. It’s not. Complexity is an excuse, not a blocker.

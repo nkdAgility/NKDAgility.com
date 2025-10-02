@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: mj1JwJ9LpG8
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: mj1JwJ9LpG8
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: dyslexia-awareness-week
 aliases:
   - /resources/mj1JwJ9LpG8
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:00Z
+ResourceId: mj1JwJ9LpG8
+ResourceType: blog
 ResourceImportId: 80
 creator: Martin Hinshelwood
 resourceTypes: blog

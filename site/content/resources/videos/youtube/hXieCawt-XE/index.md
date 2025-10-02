@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: hXieCawt-XE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: hXieCawt-XE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
 aliases:
   - /resources/hXieCawt-XE
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:05:29Z
   short_title: 2025-07-07T17:49:31Z
   tldr: 2025-08-07T12:52:12Z
+ResourceId: hXieCawt-XE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: hXieCawt-XE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hXieCawt-XE/maxresdefault.jpg

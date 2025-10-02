@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: nckpcFbyvfv
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: nckpcFbyvfv
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
 aliases:
   - /resources/blog/issue-sharepoint-2013-the-username-is-invalid.-the-account-must-be-a-valid-domain-account
@@ -33,6 +33,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:25Z
+ResourceId: nckpcFbyvfv
+ResourceType: blog
 ResourceImportId: 7015
 creator: Martin Hinshelwood
 resourceTypes: blog

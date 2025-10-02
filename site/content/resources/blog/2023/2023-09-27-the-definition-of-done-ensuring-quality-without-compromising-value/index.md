@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: DcwDyX1ZGUP
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: DcwDyX1ZGUP
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: the-definition-of-done-ensuring-quality-without-compromising-value
 aliases:
   - /blog/the-definition-of-done-ensuring-quality-without-compromising-value
@@ -46,6 +46,8 @@ Watermarks:
   description: 2025-05-07T13:09:18Z
   short_title: 2025-07-07T17:52:53Z
   tldr: 2025-08-07T12:59:40Z
+ResourceId: DcwDyX1ZGUP
+ResourceType: blog
 ResourceImportId: 50083
 AudioNative: true
 creator: Martin Hinshelwood

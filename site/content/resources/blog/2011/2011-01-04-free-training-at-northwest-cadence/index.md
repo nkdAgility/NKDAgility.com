@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: uZaKwlACVT_
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: uZaKwlACVT_
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: free-training-at-northwest-cadence
 aliases:
   - /resources/uZaKwlACVT_
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:11:21Z
+ResourceId: uZaKwlACVT_
+ResourceType: blog
 ResourceImportId: 19
 creator: Martin Hinshelwood
 resourceTypes: blog

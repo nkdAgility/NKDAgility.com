@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: EoInrPvjBHo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: EoInrPvjBHo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-to-overcome-agile-banditry-a-product-owner-s-journey
 aliases:
   - /resources/EoInrPvjBHo
@@ -51,6 +50,9 @@ Watermarks:
   description: 2025-05-07T13:06:30Z
   short_title: 2025-07-07T17:50:20Z
   tldr: 2025-08-07T12:54:11Z
+ResourceId: EoInrPvjBHo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: EoInrPvjBHo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/EoInrPvjBHo/maxresdefault.jpg

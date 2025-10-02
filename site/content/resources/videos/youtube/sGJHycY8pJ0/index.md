@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: sGJHycY8pJ0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: sGJHycY8pJ0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: the-open-guide-to-kanban-unlocking-collaborative-flow-and-real-world-value-for-every-team
 aliases:
   - /resources/sGJHycY8pJ0
@@ -33,6 +32,7 @@ tags:
   - Software Development
   - Agile Frameworks
   - Operational Practices
+  - Team Performance
   - Value Delivery
   - Lean Product Development
   - Lean Principles
@@ -41,6 +41,7 @@ Watermarks:
   description: 2025-07-24T15:13:25Z
   short_title: 2025-07-24T15:13:27Z
   tldr: 2025-07-31T06:50:52Z
+ResourceImportSource: Youtube
 videoId: sGJHycY8pJ0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sGJHycY8pJ0/maxresdefault.jpg
@@ -48,6 +49,8 @@ duration: 4538
 resourceTypes:
   - video
 isShort: false
+ResourceId: sGJHycY8pJ0
+ResourceType: videos
 
 ---
 The Open Guide to Kanban: A New Chapter in Collaborative Flow

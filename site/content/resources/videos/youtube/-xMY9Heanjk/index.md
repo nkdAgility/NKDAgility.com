@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: -xMY9Heanjk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: -xMY9Heanjk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
 aliases:
   - /resources/-xMY9Heanjk
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:14:15Z
   short_title: 2025-07-07T17:56:54Z
   tldr: 2025-08-07T13:08:36Z
+ResourceId: -xMY9Heanjk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: -xMY9Heanjk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/-xMY9Heanjk/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Ks6r6mfVUxy
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Ks6r6mfVUxy
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 aliases:
   - /resources/Ks6r6mfVUxy
@@ -27,6 +27,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:07:53Z
+ResourceId: Ks6r6mfVUxy
+ResourceType: blog
 ResourceImportId: 7712
 creator: Martin Hinshelwood
 resourceTypes: blog

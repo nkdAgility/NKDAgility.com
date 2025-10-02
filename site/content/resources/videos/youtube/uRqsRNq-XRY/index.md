@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: uRqsRNq-XRY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: uRqsRNq-XRY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
 aliases:
   - /resources/uRqsRNq-XRY
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:07:59Z
   short_title: 2025-07-07T17:51:52Z
   tldr: 2025-08-07T12:57:16Z
+ResourceId: uRqsRNq-XRY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: uRqsRNq-XRY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg

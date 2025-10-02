@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: pQyifHyTkWo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: pQyifHyTkWo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
 aliases:
   - /resources/pQyifHyTkWo
@@ -41,6 +40,7 @@ Watermarks:
   description: 2025-05-07T12:49:13Z
   short_title: 2025-07-07T16:44:45Z
   tldr: 2025-08-07T12:33:23Z
+ResourceImportSource: Youtube
 videoId: pQyifHyTkWo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pQyifHyTkWo/maxresdefault.jpg
@@ -48,6 +48,8 @@ duration: 120
 resourceTypes:
   - video
 isShort: false
+ResourceId: pQyifHyTkWo
+ResourceType: videos
 
 ---
 As I sit down to reflect on the evolution of software architecture, I can’t help but think about the many conversations I’ve had with CTOs and engineering leads grappling with the challenges of monolithic systems. If you’re in this position, you might be feeling the weight of a system that’s slowing you down, becoming increasingly difficult to maintain, or simply failing to provide the flexibility your business needs. The thought of transitioning to microservices may have crossed your mind, and I can assure you, that’s a step in the right direction.

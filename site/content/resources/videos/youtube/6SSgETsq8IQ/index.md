@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 6SSgETsq8IQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 6SSgETsq8IQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
 aliases:
   - /resources/6SSgETsq8IQ
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:14:46Z
   short_title: 2025-07-07T17:57:22Z
   tldr: 2025-08-07T13:09:46Z
+ResourceId: 6SSgETsq8IQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 6SSgETsq8IQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/6SSgETsq8IQ/maxresdefault.jpg

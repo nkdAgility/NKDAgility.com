@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: PXeY0Nggg1B
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: PXeY0Nggg1B
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: wpf-scale-transform-behaviour
 aliases:
   - /resources/PXeY0Nggg1B
@@ -29,6 +29,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:23:10Z
+ResourceId: PXeY0Nggg1B
+ResourceType: blog
 ResourceImportId: 87
 creator: Martin Hinshelwood
 resourceTypes: blog

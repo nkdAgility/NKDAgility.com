@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: w6AaB_5-1gr
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: w6AaB_5-1gr
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: constructing-a-framework-for-the-tfs-automation-platform
 aliases:
   - /resources/w6AaB_5-1gr
@@ -29,6 +29,8 @@ tags:
   - Internal Developer Platform
 Watermarks:
   description: 2025-05-13T15:10:31Z
+ResourceId: w6AaB_5-1gr
+ResourceType: blog
 ResourceImportId: 3641
 creator: Martin Hinshelwood
 resourceTypes: blog

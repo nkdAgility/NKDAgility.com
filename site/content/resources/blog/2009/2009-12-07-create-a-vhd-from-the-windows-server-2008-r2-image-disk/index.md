@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: drLuFfVqIJ7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: drLuFfVqIJ7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: create-a-vhd-from-the-windows-server-2008-r2-image-disk
 aliases:
   - /resources/drLuFfVqIJ7
@@ -29,6 +29,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:22:55Z
+ResourceId: drLuFfVqIJ7
+ResourceType: blog
 ResourceImportId: 75
 creator: Martin Hinshelwood
 resourceTypes: blog

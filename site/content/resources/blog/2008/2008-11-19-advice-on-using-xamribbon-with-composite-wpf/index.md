@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: gEnb0c6i-3I
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: gEnb0c6i-3I
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: advice-on-using-xamribbon-with-composite-wpf
 aliases:
   - /resources/gEnb0c6i-3I
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T16:22:23Z
+ResourceId: gEnb0c6i-3I
+ResourceType: blog
 ResourceImportId: 164
 creator: Martin Hinshelwood
 resourceTypes: blog

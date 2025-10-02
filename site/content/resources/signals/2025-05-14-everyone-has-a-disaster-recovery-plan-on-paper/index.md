@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: jgAmhaBbUlm
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: jgAmhaBbUlm
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: everyone-has-a-disaster-recovery-plan-on-paper
 aliases:
   - /resources/jgAmhaBbUlm
@@ -41,6 +41,8 @@ Watermarks:
   description: 2025-05-16T15:54:46Z
   short_title: 2025-07-07T16:44:13Z
   tldr: 2025-08-07T12:32:20Z
+ResourceId: jgAmhaBbUlm
+ResourceType: signals
 
 ---
 Everyone has a disaster recovery plan—on paper.

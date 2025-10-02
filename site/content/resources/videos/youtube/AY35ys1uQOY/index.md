@@ -5,16 +5,15 @@ description: Learn how to identify a great sprint goal by recognising signs of t
 tldr: A great sprint goal excites and energizes both the team and stakeholders, sparking curiosity and engagement. If your team feels genuinely enthusiastic and eager to start, your sprint goal is likely effective. Aim to craft sprint goals that inspire interest and conversation, not just list tasks.
 date: 2023-06-02T11:00:12Z
 lastmod: 2023-06-02T11:00:12Z
-weight: 790
+weight: 505
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
-ResourceId: AY35ys1uQOY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: AY35ys1uQOY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-do-you-know-if-you've-got-a-great-sprint-goal
 aliases:
   - /resources/AY35ys1uQOY
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:11:54Z
   short_title: 2025-07-07T17:54:52Z
   tldr: 2025-08-07T13:04:17Z
+ResourceId: AY35ys1uQOY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: AY35ys1uQOY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/AY35ys1uQOY/maxresdefault.jpg

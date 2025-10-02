@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 7WxWYWI5PI2
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 7WxWYWI5PI2
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: enable-feedback-support-for-users-in-team-foundation-server-2012
 aliases:
   - /resources/7WxWYWI5PI2
@@ -27,6 +27,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:23Z
+ResourceId: 7WxWYWI5PI2
+ResourceType: blog
 ResourceImportId: 9494
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -11,10 +11,10 @@ sitemap:
   priority: 0.6
   changefreq: weekly
 author: MrHinsh
-ResourceId: OQOqFl5-FAi
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: human
+ItemId: OQOqFl5-FAi
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: human
 slug: agentic-agility-why-you-need-both-human-and-ai-agency
 aliases:
   - /resources/OQOqFl5-FAi
@@ -33,6 +33,7 @@ tags:
   - Sociotechnical Systems
   - Product Delivery
   - Artificial Intelligence
+  - Market Adaptability
   - Value Delivery
   - Digital Transformation
 Watermarks:
@@ -40,6 +41,8 @@ Watermarks:
   short_title: 2025-07-07T16:44:12Z
   tldr: 2025-08-07T12:32:18Z
 resourceTypes: newsletter
+ResourceId: OQOqFl5-FAi
+ResourceType: newsletters
 
 ---
 Agility today is not about ceremonies or frameworks. It is about **agentic agility** — the deliberate interaction between human agency (people making meaningful, accountable decisions) and AI agency (systems that can act and adapt on their own).

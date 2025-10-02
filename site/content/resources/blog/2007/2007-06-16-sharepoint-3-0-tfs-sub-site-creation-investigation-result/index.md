@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: eel2kPfabid
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: eel2kPfabid
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: sharepoint-3-0-tfs-sub-site-creation-investigation-result
 aliases:
   - /resources/blog/sharepoint-3.0-tfs-sub-site-creation-investigation-result
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:59Z
+ResourceId: eel2kPfabid
+ResourceType: blog
 ResourceImportId: 383
 creator: Martin Hinshelwood
 resourceTypes: blog

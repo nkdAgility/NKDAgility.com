@@ -1,25 +1,21 @@
 ---
 title: Azure DevOps/TFS to Github Migration Services
-description: Seamlessly migrate from Azure DevOps, TFS, or other systems to GitHub. Modernise your software delivery.
 short_title: Github Migration Services
+description: Migrate projects from Azure DevOps or TFS to GitHub, ensuring secure transfer of code, history, and workflows for seamless team collaboration and integration.
+tldr: Migrating from Azure DevOps or TFS to GitHub can streamline your development workflows and improve collaboration. Key benefits include easier integration with modern tools, enhanced security features, and simplified project management. Consider planning your migration to take advantage of these improvements and minimize disruption to your teams.
 date: 2025-07-20
-creator: Martin Hinshelwood
 weight: 300
 sitemap:
   filename: sitemap.xml
-  priority: 1.0
-menus:
-  footer:
-    parent: Consulting Services
-type: capabilities
+  priority: 0.9
+  changefreq: weekly
+ItemId: 6NS_E7j1pRu
+ItemType: capabilities
+ItemKind: capability
+ItemContentOrigin: human
 slug: github-migration-services
-card:
-  button:
-    content: Start Your Github Migration Journey
-  title: Github Migration Services
-  content: |
-    You’ve got legacy systems, scattered pipelines, and a mandate to modernize.
-icon: fa-cloud-arrow-up
+aliases: []
+type: capabilities
 sections:
   - type: headline
     headline:
@@ -31,10 +27,10 @@ sections:
         **That’s where NKD Agility comes in.** We help engineering organizations migrate from TFS (or Azure DevOps Server) to GitHub with **clarity, control, and zero guesswork**, so you can future-proof your development pipeline without disrupting delivery.
   - type: outcomehero
     cta:
-      content: "Unlock Modern Software Delivery. Ditch Legacy Source Control. Move with Confidence. **Let's Talk.**"
+      content: Unlock Modern Software Delivery. Ditch Legacy Source Control. Move with Confidence. **Let's Talk.**
       button:
-        text: "Book a migration Call"
-        url: "/company/book-online"
+        text: Book a migration Call
+        url: /company/book-online
     boxes: []
   - type: none
     title: Why Migrate from TFS to GitHub?
@@ -91,13 +87,30 @@ sections:
       - GitHub-native CI/CD pipelines up and running
       - Developers empowered to move fast, commit safely, and collaborate effectively
       - A confident, modern DevOps culture aligned with your engineering strategy
-
   - type: outcomehero
     backgroundColor: primary
     cta:
-      content: "Book a Free Migration Strategy Session with Martin Hinshelwood **Let’s talk.**"
+      content: Book a Free Migration Strategy Session with Martin Hinshelwood **Let’s talk.**
       button:
-        text: "Book a Migration Call"
-        url: "/company/book-online"
+        text: Book a Migration Call
+        url: /company/book-online
     boxes: []
+card:
+  button:
+    content: Start Your Github Migration Journey
+  title: Github Migration Services
+  content: |
+    You’ve got legacy systems, scattered pipelines, and a mandate to modernize.
+Watermarks:
+  description: 2025-10-02T13:52:48Z
+  tldr: 2025-10-02T13:52:50Z
+creator: Martin Hinshelwood
+menus:
+  footer:
+    parent: Consulting Services
+icon: fa-cloud-arrow-up
+ResourceId: 6NS_E7j1pRu
+ResourceType: capabilities
+
 ---
+

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: vQBYdfLwJ3g
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: vQBYdfLwJ3g
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
 aliases:
   - /resources/vQBYdfLwJ3g
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:11:45Z
   short_title: 2025-07-07T17:54:44Z
   tldr: 2025-08-07T13:03:59Z
+ResourceId: vQBYdfLwJ3g
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: vQBYdfLwJ3g
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg

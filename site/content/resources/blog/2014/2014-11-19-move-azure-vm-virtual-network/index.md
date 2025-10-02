@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: nTSBTp1_gBy
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: nTSBTp1_gBy
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: move-your-azure-vm-to-a-virtual-network
 aliases:
   - /resources/nTSBTp1_gBy
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-12T14:20:42Z
   tldr: 2025-08-07T13:26:29Z
   short_title: 2025-08-07T13:26:30Z
+ResourceId: nTSBTp1_gBy
+ResourceType: blog
 ResourceImportId: 10874
 creator: Martin Hinshelwood
 resourceTypes: blog

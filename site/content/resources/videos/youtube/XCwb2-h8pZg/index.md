@@ -8,11 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: XCwb2-h8pZg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: XCwb2-h8pZg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-project-management-potential-a-deep-dive-into-tfs-preview-for-agile-teams
 aliases:
   - /resources/XCwb2-h8pZg
@@ -29,6 +28,9 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:23:24Z
+ResourceId: XCwb2-h8pZg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: XCwb2-h8pZg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XCwb2-h8pZg/maxresdefault.jpg

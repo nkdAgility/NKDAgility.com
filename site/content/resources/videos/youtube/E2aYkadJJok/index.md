@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: E2aYkadJJok
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: E2aYkadJJok
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency
 aliases:
   - /resources/E2aYkadJJok
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:02:40Z
   short_title: 2025-07-07T17:49:03Z
   tldr: 2025-08-07T12:51:02Z
+ResourceId: E2aYkadJJok
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: E2aYkadJJok
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/E2aYkadJJok/maxresdefault.jpg

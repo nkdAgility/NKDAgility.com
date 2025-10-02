@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: L_rhObh8cmE
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: L_rhObh8cmE
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: some-thoughts-on-net-3-0-from-linkedin
 aliases:
   - /resources/blog/some-thoughts-on-.net-3.0-from-linkedin
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:17Z
+ResourceId: L_rhObh8cmE
+ResourceType: blog
 ResourceImportId: 436
 creator: Martin Hinshelwood
 resourceTypes: blog

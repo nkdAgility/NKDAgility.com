@@ -9,10 +9,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 31Zki4xCtFO
-ResourceImport: false
-ResourceType: principles
-ResourceContentOrigin: Human
+ItemId: 31Zki4xCtFO
+ItemType: principles
+ItemKind: resource
+ItemContentOrigin: Human
 slug: innovation
 aliases:
   - /principles/innovation/
@@ -33,6 +33,8 @@ Watermarks:
   description: 2025-05-07T12:57:46Z
   short_title: 2025-07-07T17:48:05Z
   tldr: 2025-08-07T12:45:42Z
+ResourceId: 31Zki4xCtFO
+ResourceType: principles
 creator: Martin Hinshelwood
 draft: true
 resourceTypes: principle

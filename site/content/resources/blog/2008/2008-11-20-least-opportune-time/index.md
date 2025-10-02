@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: wBoC9CmdiGq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: wBoC9CmdiGq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: least-opportune-time
 aliases:
   - /resources/blog/least-opportune-time.
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:22Z
+ResourceId: wBoC9CmdiGq
+ResourceType: blog
 ResourceImportId: 163
 creator: Martin Hinshelwood
 resourceTypes: blog

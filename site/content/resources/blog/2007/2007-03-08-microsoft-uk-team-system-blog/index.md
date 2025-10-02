@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 7sufhYTYvt-
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 7sufhYTYvt-
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: microsoft-uk-team-system-blog
 aliases:
   - /resources/7sufhYTYvt-
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:11Z
+ResourceId: 7sufhYTYvt-
+ResourceType: blog
 ResourceImportId: 429
 creator: Martin Hinshelwood
 resourceTypes: blog

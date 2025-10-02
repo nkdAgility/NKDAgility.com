@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: wjYFdWaWfOA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: wjYFdWaWfOA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-success
 aliases:
   - /resources/wjYFdWaWfOA
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:12:18Z
   short_title: 2025-07-07T17:55:08Z
   tldr: 2025-08-07T13:04:54Z
+ResourceId: wjYFdWaWfOA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: wjYFdWaWfOA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg

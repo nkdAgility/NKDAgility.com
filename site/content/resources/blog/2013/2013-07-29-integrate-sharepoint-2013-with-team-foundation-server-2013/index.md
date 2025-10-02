@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: LDZObDXc6xV
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: LDZObDXc6xV
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: integrate-sharepoint-2013-with-team-foundation-server-2013
 aliases:
   - /resources/LDZObDXc6xV
@@ -28,6 +28,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-12T14:23:31Z
+ResourceId: LDZObDXc6xV
+ResourceType: blog
 ResourceImportId: 9916
 creator: Martin Hinshelwood
 resourceTypes: blog

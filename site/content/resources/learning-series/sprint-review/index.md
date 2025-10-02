@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 9omxdDJCVDL
-ResourceImport: false
-ResourceType: learning-series
-ResourceContentOrigin: Human
+ItemId: 9omxdDJCVDL
+ItemType: learning-series
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-sprint-review
 aliases:
   - /resources/9omxdDJCVDL
@@ -31,6 +31,8 @@ Watermarks:
   description: 2025-05-07T12:58:17Z
   short_title: 2025-07-07T17:48:01Z
   tldr: 2025-08-07T12:46:02Z
+ResourceId: 9omxdDJCVDL
+ResourceType: learning-series
 resourceTypes: learning-series
 draft: true
 preview: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png

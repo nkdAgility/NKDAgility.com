@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 2_CowcUpzAA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 2_CowcUpzAA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-real-scope-of-a-product-owner-beyond-the-backlog
 aliases:
   - /resources/2_CowcUpzAA
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:07:30Z
   short_title: 2025-07-07T17:51:29Z
   tldr: 2025-08-07T12:56:19Z
+ResourceId: 2_CowcUpzAA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 2_CowcUpzAA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2_CowcUpzAA/maxresdefault.jpg

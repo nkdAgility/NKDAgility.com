@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: 4xvg8avKMPA
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 4xvg8avKMPA
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-new-normal-of-the-modern-application-lifecycle
 aliases:
   - /resources/4xvg8avKMPA
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:07:29Z
+ResourceId: 4xvg8avKMPA
+ResourceType: blog
 ResourceImportId: 8885
 creator: Martin Hinshelwood
 resourceTypes: blog

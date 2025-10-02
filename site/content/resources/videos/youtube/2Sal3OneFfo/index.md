@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 2Sal3OneFfo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 2Sal3OneFfo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity
 aliases:
   - /resources/2Sal3OneFfo
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T12:58:37Z
   short_title: 2025-07-07T17:48:18Z
   tldr: 2025-08-07T12:49:09Z
+ResourceId: 2Sal3OneFfo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 2Sal3OneFfo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2Sal3OneFfo/maxresdefault.jpg

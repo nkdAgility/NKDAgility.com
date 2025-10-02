@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: NARdkNvqUei
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: NARdkNvqUei
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
 aliases:
   - /resources/NARdkNvqUei
@@ -33,6 +33,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:07:46Z
+ResourceId: NARdkNvqUei
+ResourceType: blog
 ResourceImportId: 7760
 creator: Martin Hinshelwood
 resourceTypes: blog

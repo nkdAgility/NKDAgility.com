@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: S4zWfPiLAmc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: S4zWfPiLAmc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 3-best-ways-to-wreck-kanban-use-vanity-metrics
 aliases:
   - /resources/S4zWfPiLAmc
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:05:32Z
   short_title: 2025-07-07T17:49:34Z
   tldr: 2025-08-07T12:52:18Z
+ResourceId: S4zWfPiLAmc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: S4zWfPiLAmc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/S4zWfPiLAmc/maxresdefault.jpg

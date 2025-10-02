@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: NWq41MdV9s6
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: NWq41MdV9s6
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: sharepoint-planning
 aliases:
   - /resources/NWq41MdV9s6
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:20Z
+ResourceId: NWq41MdV9s6
+ResourceType: blog
 ResourceImportId: 320
 creator: Martin Hinshelwood
 resourceTypes: blog

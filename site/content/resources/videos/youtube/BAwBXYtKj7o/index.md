@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: BAwBXYtKj7o
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: BAwBXYtKj7o
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: technical-debt-management-for-long-term-quality
 aliases:
   - /resources/BAwBXYtKj7o
@@ -45,6 +44,7 @@ Watermarks:
   description: 2025-05-07T12:57:11Z
   short_title: 2025-07-07T17:47:32Z
   tldr: 2025-08-07T12:41:57Z
+ResourceImportSource: Youtube
 videoId: BAwBXYtKj7o
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg
@@ -52,6 +52,8 @@ duration: 451
 resourceTypes:
   - video
 isShort: false
+ResourceId: BAwBXYtKj7o
+ResourceType: videos
 
 ---
 # [Technical Debt]({{< ref "/tags/technical-debt" >}}) Management for Long-Term Quality | Martin Hinshelwood  

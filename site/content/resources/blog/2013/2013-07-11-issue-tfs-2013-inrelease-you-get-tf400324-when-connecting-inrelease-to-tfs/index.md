@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: mpyXOBzFWc3
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: mpyXOBzFWc3
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: issue-tfs-2013-you-get-tf400324-when-connecting-inrelease-to-tfs
 aliases:
   - /resources/mpyXOBzFWc3
@@ -33,6 +33,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T10:48:27Z
+ResourceId: mpyXOBzFWc3
+ResourceType: blog
 ResourceImportId: 9749
 creator: Martin Hinshelwood
 resourceTypes: blog

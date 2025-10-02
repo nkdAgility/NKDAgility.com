@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: aGh8Dn3evEi
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: aGh8Dn3evEi
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 aliases:
   - /resources/aGh8Dn3evEi
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:24Z
+ResourceId: aGh8Dn3evEi
+ResourceType: blog
 ResourceImportId: 400
 creator: Martin Hinshelwood
 resourceTypes: blog

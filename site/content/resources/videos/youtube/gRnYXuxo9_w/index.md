@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: gRnYXuxo9_w
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: gRnYXuxo9_w
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-trust-in-scrum-the-power-of-openness-and-transparency
 aliases:
   - /resources/gRnYXuxo9_w
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:12:53Z
   short_title: 2025-07-07T17:55:38Z
   tldr: 2025-08-07T13:05:56Z
+ResourceId: gRnYXuxo9_w
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: gRnYXuxo9_w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg

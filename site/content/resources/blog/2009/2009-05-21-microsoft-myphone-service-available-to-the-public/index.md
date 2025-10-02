@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: NJdlXIZJJyN
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: NJdlXIZJJyN
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: microsoft-myphone-service-available-to-the-public
 aliases:
   - /resources/NJdlXIZJJyN
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:44Z
+ResourceId: NJdlXIZJJyN
+ResourceType: blog
 ResourceImportId: 111
 creator: Martin Hinshelwood
 resourceTypes: blog

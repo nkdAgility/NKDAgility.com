@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ldGtzdVxYwE
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ldGtzdVxYwE
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: interviewing-for-microsoft
 aliases:
   - /resources/ldGtzdVxYwE
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:11Z
+ResourceId: ldGtzdVxYwE
+ResourceType: blog
 ResourceImportId: 315
 creator: Martin Hinshelwood
 resourceTypes: blog

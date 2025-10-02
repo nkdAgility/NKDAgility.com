@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: il1GdfG7rWk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: il1GdfG7rWk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-product-backlog-management-essential-skills-for-product-owners
 aliases:
   - /resources/il1GdfG7rWk
@@ -49,6 +48,9 @@ Watermarks:
   description: 2025-05-07T13:06:52Z
   short_title: 2025-07-07T17:50:40Z
   tldr: 2025-08-07T12:55:03Z
+ResourceId: il1GdfG7rWk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: il1GdfG7rWk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/il1GdfG7rWk/maxresdefault.jpg

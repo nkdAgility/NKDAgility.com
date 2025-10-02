@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: qRHzl4PieKA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: qRHzl4PieKA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-you-re-probably-not-very-agile
 aliases:
   - /resources/qRHzl4PieKA
@@ -55,6 +54,9 @@ Watermarks:
   description: 2025-05-07T13:02:34Z
   short_title: 2025-07-07T17:48:59Z
   tldr: 2025-08-07T12:50:52Z
+ResourceId: qRHzl4PieKA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: qRHzl4PieKA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/qRHzl4PieKA/maxresdefault.jpg

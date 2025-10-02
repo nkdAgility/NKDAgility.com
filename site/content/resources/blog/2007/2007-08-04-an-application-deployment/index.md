@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: UnvdJlF863n
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: UnvdJlF863n
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: an-application-deployment
 aliases:
   - /resources/UnvdJlF863n
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:06Z
+ResourceId: UnvdJlF863n
+ResourceType: blog
 ResourceImportId: 349
 creator: Martin Hinshelwood
 resourceTypes: blog

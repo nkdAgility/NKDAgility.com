@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: vrUQdaxyOTf
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: vrUQdaxyOTf
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 aliases:
   - /resources/vrUQdaxyOTf
@@ -30,6 +30,8 @@ tags:
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:22:33Z
+ResourceId: vrUQdaxyOTf
+ResourceType: blog
 ResourceImportId: 64
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: a2ptmGZFk8P
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: a2ptmGZFk8P
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: vss-converter-–-issue-tf60014-tf60087-failed-to-initialise-user-mapper
 aliases:
   - /resources/blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
@@ -30,6 +30,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:51Z
+ResourceId: a2ptmGZFk8P
+ResourceType: blog
 ResourceImportId: 6124
 creator: Martin Hinshelwood
 resourceTypes: blog

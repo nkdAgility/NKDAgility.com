@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: SlsFZ5kO1Jc
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: SlsFZ5kO1Jc
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: teamplain-install-and-initial-views
 aliases:
   - /resources/SlsFZ5kO1Jc
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:56Z
+ResourceId: SlsFZ5kO1Jc
+ResourceType: blog
 ResourceImportId: 421
 creator: Martin Hinshelwood
 resourceTypes: blog

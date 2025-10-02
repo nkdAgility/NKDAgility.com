@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: 7R9_bYOswhk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 7R9_bYOswhk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
 aliases:
   - /resources/7R9_bYOswhk
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:10:33Z
   short_title: 2025-07-07T17:53:50Z
   tldr: 2025-08-07T13:01:44Z
+ResourceId: 7R9_bYOswhk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 7R9_bYOswhk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/7R9_bYOswhk/maxresdefault.jpg

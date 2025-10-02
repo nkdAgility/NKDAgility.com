@@ -5,16 +5,15 @@ description: Explores why rigid dogma hinders consulting, emphasising the value 
 tldr: Rigid adherence to fixed methods limits innovation and effectiveness in consulting; instead, teams should move from strict training routines to flexible, evidence-based approaches that adapt to changing needs. Building relationships through empathy and mutual respect is key, and embracing continuous learning and empirical adaptation leads to better outcomes. Development managers should encourage adaptability and ongoing learning to stay responsive and successful.
 date: 2023-08-11T07:00:08Z
 lastmod: 2023-08-11T07:00:08Z
-weight: 790
+weight: 520
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
-ResourceId: Iy33x8E9JMQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Iy33x8E9JMQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: dogma-versus-empiricism-in-a-consulting-engagement
 aliases:
   - /resources/Iy33x8E9JMQ
@@ -34,6 +33,9 @@ Watermarks:
   description: 2025-05-07T13:10:14Z
   short_title: 2025-07-07T17:53:34Z
   tldr: 2025-08-07T13:01:11Z
+ResourceId: Iy33x8E9JMQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Iy33x8E9JMQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Iy33x8E9JMQ/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: JuqjGCN5X6g
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: JuqjGCN5X6g
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: lab-management-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
 aliases:
   - /resources/JuqjGCN5X6g
@@ -32,6 +32,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:50Z
+ResourceId: JuqjGCN5X6g
+ResourceType: blog
 ResourceImportId: 9288
 creator: Martin Hinshelwood
 resourceTypes: blog

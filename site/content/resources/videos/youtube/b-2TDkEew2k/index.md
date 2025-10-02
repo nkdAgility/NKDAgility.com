@@ -5,16 +5,15 @@ description: Explores how applying the "just enough and no more" principle in ag
 tldr: Applying the principle of "just enough and no more" across backlog management, team size, refinement, and planning helps teams stay focused, efficient, and adaptable. Prioritising value, embracing simplicity, and iterating regularly reduces wasted effort and maximises productivity. Development managers should encourage teams to do only what is necessary to deliver value and continuously improve.
 date: 2023-12-05T11:00:27Z
 lastmod: 2023-12-05T11:00:27Z
-weight: 690
+weight: 365
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
-ResourceId: b-2TDkEew2k
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: b-2TDkEew2k
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
 aliases:
   - /resources/b-2TDkEew2k
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:07:15Z
   short_title: 2025-07-07T17:51:17Z
   tldr: 2025-08-07T12:55:42Z
+ResourceId: b-2TDkEew2k
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: b-2TDkEew2k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg

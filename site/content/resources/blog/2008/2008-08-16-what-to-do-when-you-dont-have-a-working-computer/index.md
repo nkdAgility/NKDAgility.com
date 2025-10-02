@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: nD4pBeQgpZK
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: nD4pBeQgpZK
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: what-to-do-when-you-dont-have-a-working-computer
 aliases:
   - /resources/nD4pBeQgpZK
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:23:36Z
+ResourceId: nD4pBeQgpZK
+ResourceType: blog
 ResourceImportId: 208
 creator: Martin Hinshelwood
 resourceTypes: blog

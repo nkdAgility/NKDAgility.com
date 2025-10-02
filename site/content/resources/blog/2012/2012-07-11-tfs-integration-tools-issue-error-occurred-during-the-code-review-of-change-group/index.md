@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: De3YYSzEfJk
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: De3YYSzEfJk
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-integration-tools-–-issue-error-occurred-during-the-code-review-of-change-group
 aliases:
   - /resources/blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
@@ -30,6 +30,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:47Z
+ResourceId: De3YYSzEfJk
+ResourceType: blog
 ResourceImportId: 6117
 creator: Martin Hinshelwood
 resourceTypes: blog

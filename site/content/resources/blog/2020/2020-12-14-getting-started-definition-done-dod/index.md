@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: z18IcQhlD7I
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: z18IcQhlD7I
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: getting-started-with-a-definition-of-done-dod
 aliases:
   - /blog/getting-started-definition-done-dod
@@ -57,6 +57,8 @@ Watermarks:
   description: 2025-05-07T13:15:15Z
   short_title: 2025-07-07T17:57:43Z
   tldr: 2025-08-07T13:10:47Z
+ResourceId: z18IcQhlD7I
+ResourceType: blog
 ResourceImportId: 38238
 AudioNative: true
 creator: Martin Hinshelwood

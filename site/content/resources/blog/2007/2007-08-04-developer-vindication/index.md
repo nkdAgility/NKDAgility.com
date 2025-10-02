@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: YexFt6yC4wk
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: YexFt6yC4wk
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: developer-vindication
 aliases:
   - /resources/YexFt6yC4wk
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:02Z
+ResourceId: YexFt6yC4wk
+ResourceType: blog
 ResourceImportId: 350
 creator: Martin Hinshelwood
 resourceTypes: blog

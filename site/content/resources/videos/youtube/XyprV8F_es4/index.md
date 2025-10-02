@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: XyprV8F_es4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: XyprV8F_es4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: empowering-leadership-driving-cultural-change-for-agile-success
 aliases:
   - /resources/XyprV8F_es4
@@ -51,6 +50,7 @@ Watermarks:
   description: 2025-05-07T12:49:46Z
   short_title: 2025-07-07T17:46:44Z
   tldr: 2025-08-07T12:40:01Z
+ResourceImportSource: Youtube
 videoId: XyprV8F_es4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XyprV8F_es4/maxresdefault.jpg
@@ -58,6 +58,8 @@ duration: 398
 resourceTypes:
   - video
 isShort: false
+ResourceId: XyprV8F_es4
+ResourceType: videos
 
 ---
 In my journey through various organisations, I've come to realise that [leadership]({{< ref "/categories/leadership" >}}) plays a pivotal role in driving cultural and [organisational change]({{< ref "/tags/organisational-change" >}}). This change is essential for supporting frequent and reliable deployments across multiple teams. Today, I want to share some insights on how leaders can effectively facilitate this transformation, drawing from my experiences and observations.

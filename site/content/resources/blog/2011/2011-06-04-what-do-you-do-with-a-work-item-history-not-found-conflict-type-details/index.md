@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: XOt3b4gzyH8
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: XOt3b4gzyH8
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 aliases:
   - /resources/XOt3b4gzyH8
@@ -28,6 +28,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:10:39Z
+ResourceId: XOt3b4gzyH8
+ResourceType: blog
 ResourceImportId: 3460
 creator: Martin Hinshelwood
 resourceTypes: blog

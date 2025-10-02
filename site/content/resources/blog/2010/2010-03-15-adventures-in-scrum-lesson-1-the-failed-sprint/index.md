@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: OG5mmVtH9nU
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: OG5mmVtH9nU
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: adventures-in-scrum-lesson-1-–-the-failed-sprint
 aliases:
   - /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
@@ -38,6 +38,8 @@ tags:
   - Scrum Master
 Watermarks:
   description: 2025-05-13T15:22:32Z
+ResourceId: OG5mmVtH9nU
+ResourceType: blog
 ResourceImportId: 63
 creator: Martin Hinshelwood
 resourceTypes: blog

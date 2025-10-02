@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: nGYbw5F1t5Y
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: nGYbw5F1t5Y
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: office-2010-gotcha-2-visual-studio-2008-locks
 aliases:
   - /resources/nGYbw5F1t5Y
@@ -29,6 +29,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:23:30Z
+ResourceId: nGYbw5F1t5Y
+ResourceType: blog
 ResourceImportId: 100
 creator: Martin Hinshelwood
 resourceTypes: blog

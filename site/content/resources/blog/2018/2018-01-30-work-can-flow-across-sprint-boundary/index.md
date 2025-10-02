@@ -5,15 +5,15 @@ description: Explains how Scrum teams can strategically allow unfinished work to
 tldr: Allowing work to flow across Sprint boundaries is permitted in Scrum and can improve delivery speed, responsiveness, and value, as long as teams maintain clear, outcome-focused Sprint Goals and consistently deliver Done increments. Adopting practices like Continuous Delivery, feature toggles, and frequent feedback helps teams validate work early and adapt quickly. Development managers should encourage flow principles and robust engineering practices to maximize throughput and support better business decisions.
 date: 2018-01-30
 lastmod: 2018-01-30
-weight: 270
+weight: 145
 sitemap:
   filename: sitemap.xml
-  priority: 0.6
+  priority: 0.8
   changefreq: weekly
-ResourceId: a7UMLdZeVYq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: a7UMLdZeVYq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: work-can-flow-across-the-sprint-boundary
 aliases:
   - /resources/a7UMLdZeVYq
@@ -29,7 +29,7 @@ concepts:
 categories:
   - Product Development
   - Scrum
-  - Product Management
+  - Engineering Excellence
 tags:
   - Engineering Practices
   - Software Development
@@ -50,6 +50,8 @@ Watermarks:
   description: 2025-05-24T23:43:41Z
   short_title: 2025-07-07T17:58:36Z
   tldr: 2025-08-07T13:13:18Z
+ResourceId: a7UMLdZeVYq
+ResourceType: blog
 ResourceImportId: 38300
 AudioNative: true
 creator: Martin Hinshelwood

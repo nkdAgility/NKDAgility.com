@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: uvZ9TGbMtnU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: uvZ9TGbMtnU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
 aliases:
   - /resources/uvZ9TGbMtnU
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:06:38Z
   short_title: 2025-07-07T17:50:27Z
   tldr: 2025-08-07T12:54:34Z
+ResourceId: uvZ9TGbMtnU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: uvZ9TGbMtnU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uvZ9TGbMtnU/maxresdefault.jpg

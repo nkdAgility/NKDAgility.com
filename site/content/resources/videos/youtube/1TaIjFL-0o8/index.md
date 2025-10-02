@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: 1TaIjFL-0o8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 1TaIjFL-0o8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-the-scrum-master's-potential-embracing-broader-responsibilities-for-agile-success
 aliases:
   - /resources/1TaIjFL-0o8
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:12:59Z
   short_title: 2025-07-07T17:55:43Z
   tldr: 2025-08-07T13:06:03Z
+ResourceId: 1TaIjFL-0o8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 1TaIjFL-0o8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: LAt1NHw5pbR
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: LAt1NHw5pbR
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-visual-studio-2013-on-server-2012
 aliases:
   - /resources/LAt1NHw5pbR
@@ -27,6 +27,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:02Z
+ResourceId: LAt1NHw5pbR
+ResourceType: blog
 ResourceImportId: 9908
 creator: Martin Hinshelwood
 resourceTypes: blog

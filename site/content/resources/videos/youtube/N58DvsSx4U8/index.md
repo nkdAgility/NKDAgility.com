@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: N58DvsSx4U8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: N58DvsSx4U8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-your-favourite-devops-consulting-outcome
 aliases:
   - /resources/N58DvsSx4U8
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:13:12Z
   short_title: 2025-07-07T17:55:53Z
   tldr: 2025-08-07T13:06:31Z
+ResourceId: N58DvsSx4U8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: N58DvsSx4U8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/N58DvsSx4U8/maxresdefault.jpg

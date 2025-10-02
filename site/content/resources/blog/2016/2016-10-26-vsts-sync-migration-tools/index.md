@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: UjyqYjINUfp
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: UjyqYjINUfp
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: vsts-sync-migration-tools
 aliases:
   - /resources/UjyqYjINUfp
@@ -26,11 +26,14 @@ concepts:
   - Tool
 categories:
   - Uncategorized
-tags: []
+tags:
+  - Personal
 Watermarks:
   description: 2025-05-07T13:16:41Z
   short_title: 2025-07-07T17:58:57Z
   tldr: 2025-08-07T13:24:10Z
+ResourceId: UjyqYjINUfp
+ResourceType: blog
 ResourceImportId: 11634
 creator: Martin Hinshelwood
 resourceTypes: blog

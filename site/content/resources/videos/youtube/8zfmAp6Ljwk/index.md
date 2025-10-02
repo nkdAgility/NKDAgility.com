@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: 8zfmAp6Ljwk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: 8zfmAp6Ljwk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: from-firefighting-to-focus-how-ctos-can-lead-with-clarity-instead-of-chasing-the-next-big-thing
 aliases:
   - /resources/8zfmAp6Ljwk
@@ -37,6 +36,7 @@ Watermarks:
   description: 2025-07-24T15:15:56Z
   short_title: 2025-07-24T15:15:57Z
   tldr: 2025-08-07T12:29:36Z
+ResourceImportSource: Youtube
 videoId: 8zfmAp6Ljwk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8zfmAp6Ljwk/maxresdefault.jpg
@@ -44,6 +44,8 @@ duration: 81
 resourceTypes:
   - video
 isShort: false
+ResourceId: 8zfmAp6Ljwk
+ResourceType: videos
 
 ---
 Chasing every new tool isn’t strategy—it’s survival mode. And yet, I see this pattern time and again with CTOs and technology leaders: one eye glued to the roadmap, the other darting between LinkedIn, vendor pitches, and the latest conference decks, all in a desperate attempt not to miss the next big thing. It’s exhausting, and frankly, it’s not leadership. It’s firefighting.

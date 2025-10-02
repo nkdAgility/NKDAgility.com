@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: WqcZtyTF5t3
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: WqcZtyTF5t3
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: why-integrated-authentication-does-not-work-with-host-headers
 aliases:
   - /resources/WqcZtyTF5t3
@@ -30,6 +30,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:25:46Z
+ResourceId: WqcZtyTF5t3
+ResourceType: blog
 ResourceImportId: 296
 creator: Martin Hinshelwood
 resourceTypes: blog

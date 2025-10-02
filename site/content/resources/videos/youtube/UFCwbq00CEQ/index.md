@@ -5,16 +5,15 @@ description: Explores why focusing on value delivery and psychological safety le
 tldr: Focusing on estimates instead of value delivery can harm team morale and undermine Agile principles. Shifting attention to outcomes, fostering psychological safety, and using metrics that reflect real customer impact lead to better products and a more engaged team. Development managers should prioritise value and team well-being over tracking estimates to achieve lasting success.
 date: 2024-01-05T11:00:32Z
 lastmod: 2024-01-05T11:00:32Z
-weight: 665
+weight: 395
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
-ResourceId: UFCwbq00CEQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: UFCwbq00CEQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success
 aliases:
   - /resources/UFCwbq00CEQ
@@ -52,6 +51,9 @@ Watermarks:
   description: 2025-05-07T13:06:36Z
   short_title: 2025-07-07T17:50:25Z
   tldr: 2025-08-07T12:54:25Z
+ResourceId: UFCwbq00CEQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: UFCwbq00CEQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: Ryiemqc7hnZ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Ryiemqc7hnZ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2010-overview-reporting-process
 aliases:
   - /resources/Ryiemqc7hnZ
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:34Z
+ResourceId: Ryiemqc7hnZ
+ResourceType: blog
 ResourceImportId: 4138
 creator: Martin Hinshelwood
 resourceTypes: blog

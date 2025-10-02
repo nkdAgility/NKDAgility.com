@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: BD9f00po0V6
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: BD9f00po0V6
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: scrum-doesn-t-stop-you-from-optimising-flow
 aliases:
   - /resources/BD9f00po0V6
@@ -38,8 +38,8 @@ tags:
   - Operational Practices
   - Frequent Releases
   - Pragmatic Thinking
-  - Technical Excellence
   - Team Performance
+  - Technical Excellence
   - Continuous Delivery
 platform_signals:
   - platform: LinkedIn
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-29T18:10:50Z
   short_title: 2025-07-07T16:44:00Z
   tldr: 2025-08-07T12:29:31Z
+ResourceId: BD9f00po0V6
+ResourceType: signals
 
 ---
 Scrum doesn’t stop you from optimising flow. It just demands accountability: a Sprint Goal and a Done Increment.

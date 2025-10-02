@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: hLCFRDIvAXj
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: hLCFRDIvAXj
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: team-build-error
 aliases:
   - /resources/hLCFRDIvAXj
@@ -27,6 +27,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:23:19Z
+ResourceId: hLCFRDIvAXj
+ResourceType: blog
 ResourceImportId: 197
 creator: Martin Hinshelwood
 resourceTypes: blog

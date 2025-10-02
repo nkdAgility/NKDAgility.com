@@ -13,10 +13,10 @@ sitemap:
 contributors:
   - name: Nigel Thurlow
     external: https://www.linkedin.com/in/nigelthurlow/
-ResourceId: KHEPBWiFDKJ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: KHEPBWiFDKJ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
 aliases:
   - /resources/KHEPBWiFDKJ
@@ -41,15 +41,15 @@ tags:
   - Operational Practices
   - Software Development
   - Lean Principles
+  - Value Delivery
   - Pragmatic Thinking
+  - Systems Thinking
   - Product Delivery
   - Project Management
-  - Systems Thinking
   - Metrics and Learning
   - Cycle Time
   - Lean Thinking
   - Organisational Physics
-  - Value Delivery
   - Value Stream Management
   - Continuous Improvement
 platform_signals:
@@ -68,6 +68,8 @@ Watermarks:
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
+ResourceId: KHEPBWiFDKJ
+ResourceType: blog
 
 ---
 Looking at [cycle time]({{< ref "/tags/cycle-time" >}}) for an individual is a fundamental misunderstanding of how flow works in a system—unless the individual is the system. And here is why!

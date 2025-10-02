@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: Sa7uw3CX_yE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Sa7uw3CX_yE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
 aliases:
   - /resources/Sa7uw3CX_yE
@@ -30,11 +29,15 @@ concepts:
 categories:
   - Product Development
 tags:
+  - Organisational Change
   - Personal
 Watermarks:
   description: 2025-05-07T13:15:27Z
   short_title: 2025-07-07T17:57:52Z
   tldr: 2025-08-07T13:11:09Z
+ResourceId: Sa7uw3CX_yE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Sa7uw3CX_yE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Sa7uw3CX_yE/maxresdefault.jpg

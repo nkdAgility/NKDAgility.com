@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: HmAIUiR8QSo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: HmAIUiR8QSo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
 aliases:
   - /resources/HmAIUiR8QSo
@@ -37,6 +36,7 @@ Watermarks:
   description: 2025-05-07T12:57:00Z
   short_title: 2025-07-07T17:47:21Z
   tldr: 2025-08-07T12:41:25Z
+ResourceImportSource: Youtube
 videoId: HmAIUiR8QSo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/HmAIUiR8QSo/maxresdefault.jpg
@@ -44,6 +44,8 @@ duration: 387
 resourceTypes:
   - video
 isShort: false
+ResourceId: HmAIUiR8QSo
+ResourceType: videos
 
 ---
 Building a culture of quality within your organisation is not a solo endeavour; it requires a collective commitment from every individual involved. Each person must demonstrate their own [technical excellence]({{< ref "/tags/technical-excellence" >}}), [leadership]({{< ref "/categories/leadership" >}}), and engineering capability. When individuals embody these qualities, they set a standard that others are likely to emulate. The more people in your organisation adopt this mindset, the quicker it becomes the norm.

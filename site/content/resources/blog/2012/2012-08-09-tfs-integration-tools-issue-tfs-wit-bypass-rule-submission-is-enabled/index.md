@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: sb9e7R72Ioq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: sb9e7R72Ioq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
 aliases:
   - /resources/sb9e7R72Ioq
@@ -33,6 +33,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:08:17Z
+ResourceId: sb9e7R72Ioq
+ResourceType: blog
 ResourceImportId: 7104
 creator: Martin Hinshelwood
 resourceTypes: blog

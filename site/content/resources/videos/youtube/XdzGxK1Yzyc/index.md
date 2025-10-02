@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: XdzGxK1Yzyc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: XdzGxK1Yzyc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-a-product-owner-why-are-they-essential
 aliases:
   - /resources/XdzGxK1Yzyc
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:12:16Z
   short_title: 2025-07-07T17:55:06Z
   tldr: 2025-08-07T13:04:50Z
+ResourceId: XdzGxK1Yzyc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: XdzGxK1Yzyc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XdzGxK1Yzyc/maxresdefault.jpg

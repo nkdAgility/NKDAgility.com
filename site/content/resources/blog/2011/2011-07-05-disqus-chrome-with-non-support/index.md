@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 1XIDHtEDmeQ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 1XIDHtEDmeQ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: disqus-chrome-with-non-support
 aliases:
   - /resources/1XIDHtEDmeQ
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:10:25Z
+ResourceId: 1XIDHtEDmeQ
+ResourceType: blog
 ResourceImportId: 3686
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -5,16 +5,15 @@ description: Explains why using Lego in Scrum training oversimplifies real-world
 tldr: Using Lego in Scrum training oversimplifies the real complexity of software development, as Lego pieces fit together too easily and do not reflect the integration challenges teams actually face. This can create unrealistic expectations and trivialize the difficulties of real projects. Development managers should choose training tools that better represent the unpredictable and varied nature of software work.
 date: 2023-10-04T11:24:58Z
 lastmod: 2023-10-04T11:24:58Z
-weight: 750
+weight: 555
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
-ResourceId: mqgffRQi6bY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: mqgffRQi6bY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
 aliases:
   - /resources/mqgffRQi6bY
@@ -34,6 +33,9 @@ Watermarks:
   description: 2025-05-07T13:09:02Z
   short_title: 2025-07-07T17:52:37Z
   tldr: 2025-08-07T12:59:01Z
+ResourceId: mqgffRQi6bY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: mqgffRQi6bY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/mqgffRQi6bY/maxresdefault.jpg

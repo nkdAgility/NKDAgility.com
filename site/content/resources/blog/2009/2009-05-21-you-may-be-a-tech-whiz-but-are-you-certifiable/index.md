@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: kxyjGP3saZX
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: kxyjGP3saZX
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: you-may-be-a-tech-whiz-but-are-you-certifiable
 aliases:
   - /resources/kxyjGP3saZX
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:43Z
+ResourceId: kxyjGP3saZX
+ResourceType: blog
 ResourceImportId: 110
 creator: Martin Hinshelwood
 resourceTypes: blog

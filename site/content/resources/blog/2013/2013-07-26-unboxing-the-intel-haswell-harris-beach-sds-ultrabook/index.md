@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: D-CZSgtpLGe
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: D-CZSgtpLGe
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 aliases:
   - /resources/D-CZSgtpLGe
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:23:33Z
+ResourceId: D-CZSgtpLGe
+ResourceType: blog
 ResourceImportId: 9918
 creator: Martin Hinshelwood
 resourceTypes: blog

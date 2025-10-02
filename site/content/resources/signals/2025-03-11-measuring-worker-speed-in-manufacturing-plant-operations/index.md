@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: QnAOVFfFPpx
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: QnAOVFfFPpx
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: measuring-worker-speed-in-manufacturing-plant-operations
 aliases:
   - /resources/QnAOVFfFPpx
@@ -42,6 +42,8 @@ Watermarks:
   description: 2025-05-16T15:56:17Z
   short_title: 2025-07-07T16:45:29Z
   tldr: 2025-08-07T12:34:58Z
+ResourceId: QnAOVFfFPpx
+ResourceType: signals
 
 ---
 Imagine a manufacturing plant where someone decides to measure how fast one worker moves a part from their station to the next.

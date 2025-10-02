@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: uetzybp7bf4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: uetzybp7bf4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
 aliases:
   - /resources/uetzybp7bf4
@@ -38,6 +37,7 @@ Watermarks:
   description: 2025-05-07T12:56:45Z
   short_title: 2025-07-07T17:47:11Z
   tldr: 2025-08-07T12:40:58Z
+ResourceImportSource: Youtube
 videoId: uetzybp7bf4
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDpi1R2yDhrVuUC5OohAvFE7cnHTA
@@ -45,6 +45,8 @@ duration: 379
 resourceTypes:
   - video
 isShort: false
+ResourceId: uetzybp7bf4
+ResourceType: videos
 
 ---
 If you want to maximise your return on investment for the time and effort that people put into the products you're creating, fostering a culture where your team genuinely cares about the products and your customers is essential. When individuals feel ownership over what they create, they naturally invest more of themselves into their work. This sense of ownership is crucial; people care about things they have a stake in.

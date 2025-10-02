@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: _XqGOC9TbpP
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: _XqGOC9TbpP
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 aliases:
   - /resources/blog/tfs-2012.3-issue-scheduled-backups-gives-a-tf400998-when-reconfigured
@@ -36,6 +36,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:17Z
+ResourceId: _XqGOC9TbpP
+ResourceType: blog
 ResourceImportId: 9904
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 9nMNRf64yp5
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 9nMNRf64yp5
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: ai-isn-t-coming-for-your-job
 aliases:
   - /resources/9nMNRf64yp5
@@ -39,6 +39,8 @@ Watermarks:
   description: 2025-06-17T17:50:32Z
   short_title: 2025-07-07T16:43:28Z
   tldr: 2025-08-07T12:11:07Z
+ResourceId: 9nMNRf64yp5
+ResourceType: signals
 
 ---
 AI isn’t coming for your job. It’s coming for the work that never deserved a human to begin with.

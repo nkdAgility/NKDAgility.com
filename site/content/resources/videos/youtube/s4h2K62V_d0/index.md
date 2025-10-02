@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: s4h2K62V_d0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: s4h2K62V_d0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: shifting-left-quality-from-the-start
 aliases:
   - /resources/s4h2K62V_d0
@@ -40,6 +39,7 @@ Watermarks:
   description: 2025-05-07T12:57:15Z
   short_title: 2025-07-07T17:47:35Z
   tldr: 2025-08-07T12:42:04Z
+ResourceImportSource: Youtube
 videoId: s4h2K62V_d0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
@@ -47,6 +47,8 @@ duration: 600
 resourceTypes:
   - video
 isShort: false
+ResourceId: s4h2K62V_d0
+ResourceType: videos
 
 ---
 # Code reviews for quality assurance | Martin Hinshelwood

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: nIIA3IUtX_z
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: nIIA3IUtX_z
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: i-do-continuous-deliver-why-should-i-sprint
 aliases:
   - /resources/nIIA3IUtX_z
@@ -51,6 +51,8 @@ Watermarks:
   description: 2025-05-07T13:16:37Z
   short_title: 2025-07-07T17:58:52Z
   tldr: 2025-08-07T13:13:50Z
+ResourceId: nIIA3IUtX_z
+ResourceType: blog
 ResourceImportId: 11885
 creator: Martin Hinshelwood
 resourceTypes: blog

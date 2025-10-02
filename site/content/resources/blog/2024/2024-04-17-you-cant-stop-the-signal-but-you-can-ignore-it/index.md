@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: KHNSdDjr5K_
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: KHNSdDjr5K_
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: you-can't-stop-the-signal-but-you-can-ignore-it
 aliases:
   - /blog/you-cant-stop-the-signal-but-you-can-ignore-it
@@ -53,6 +53,8 @@ Watermarks:
   description: 2025-05-07T13:05:16Z
   short_title: 2025-07-07T17:49:20Z
   tldr: 2025-08-07T12:51:45Z
+ResourceId: KHNSdDjr5K_
+ResourceType: blog
 ResourceImportId: 51389
 AudioNative: true
 creator: Martin Hinshelwood

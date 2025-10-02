@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: p3D5RjM5grA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: p3D5RjM5grA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transforming-management-into-agile-leadership-the-power-of-virtual-training
 aliases:
   - /resources/p3D5RjM5grA
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:15:46Z
   short_title: 2025-07-07T17:58:08Z
   tldr: 2025-08-07T13:12:01Z
+ResourceId: p3D5RjM5grA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: p3D5RjM5grA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/p3D5RjM5grA/maxresdefault.jpg

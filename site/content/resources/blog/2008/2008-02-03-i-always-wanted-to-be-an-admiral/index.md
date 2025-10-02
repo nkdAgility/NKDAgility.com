@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: GsQob9JDjYK
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: GsQob9JDjYK
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: i-always-wanted-to-be-an-admiral
 aliases:
   - /resources/GsQob9JDjYK
@@ -29,6 +29,8 @@ tags:
   - Miscellaneous
 Watermarks:
   description: 2025-05-13T16:24:38Z
+ResourceId: GsQob9JDjYK
+ResourceType: blog
 ResourceImportId: 251
 creator: Martin Hinshelwood
 resourceTypes: blog

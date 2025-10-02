@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: nIpxDPFtjBE
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: nIpxDPFtjBE
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: i-spell-it-as-favourite-and-you-as-favorite
 aliases:
   - /resources/nIpxDPFtjBE
@@ -29,6 +29,8 @@ tags:
   - Miscellaneous
 Watermarks:
   description: 2025-05-13T15:07:51Z
+ResourceId: nIpxDPFtjBE
+ResourceType: blog
 ResourceImportId: 7735
 creator: Martin Hinshelwood
 resourceTypes: blog

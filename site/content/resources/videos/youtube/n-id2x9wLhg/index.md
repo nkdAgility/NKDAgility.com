@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: monthly
-ResourceId: n-id2x9wLhg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: n-id2x9wLhg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: why-a-shared-definition-of-done-is-the-secret-to-consistent-predictable-quality-in-agile-teams
 aliases:
   - /resources/n-id2x9wLhg
@@ -35,21 +34,22 @@ categories:
   - Product Development
   - Technical Leadership
 tags:
-  - Software Development
   - Definition of Done
+  - Software Development
   - Product Delivery
   - Team Collaboration
+  - Pragmatic Thinking
   - Operational Practices
   - Value Delivery
   - Team Performance
   - Technical Mastery
   - Social Technologies
-  - Pragmatic Thinking
   - Engineering Practices
 Watermarks:
   description: 2025-05-07T20:51:36Z
   short_title: 2025-07-07T16:44:14Z
   tldr: 2025-08-07T12:32:22Z
+ResourceImportSource: Youtube
 videoId: n-id2x9wLhg
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/n-id2x9wLhg/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLCTOi3CWzlfYYWF1R5o931XWnSN9A
@@ -57,6 +57,8 @@ duration: 51
 resourceTypes:
   - video
 isShort: true
+ResourceId: n-id2x9wLhg
+ResourceType: videos
 
 ---
 Without shared standards, quality is a coin toss. I’ve seen it time and again: when every team defines “done” in their own way, you don’t get value—you get uncertainty and risk. Different interpretations of what “done” means don’t just create confusion; they breed chaos, introduce production risks, and leave you with invisible liabilities lurking in your product. In short, you can’t trust the increment.

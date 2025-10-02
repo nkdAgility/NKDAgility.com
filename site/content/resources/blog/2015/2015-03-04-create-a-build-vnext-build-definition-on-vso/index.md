@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: ey-p-MBUzgQ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ey-p-MBUzgQ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: create-a-build-vnext-build-definition
 aliases:
   - /resources/ey-p-MBUzgQ
@@ -41,6 +41,8 @@ Watermarks:
   description: 2025-05-12T14:20:02Z
   tldr: 2025-08-07T13:25:35Z
   short_title: 2025-08-07T13:25:36Z
+ResourceId: ey-p-MBUzgQ
+ResourceType: blog
 ResourceImportId: 11047
 creator: Martin Hinshelwood
 resourceTypes: blog

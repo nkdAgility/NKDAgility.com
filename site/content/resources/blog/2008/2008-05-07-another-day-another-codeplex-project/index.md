@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Jk2Pp119tUF
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Jk2Pp119tUF
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: another-day-another-codeplex-project
 aliases:
   - /resources/Jk2Pp119tUF
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:12Z
+ResourceId: Jk2Pp119tUF
+ResourceType: blog
 ResourceImportId: 232
 creator: Martin Hinshelwood
 resourceTypes: blog

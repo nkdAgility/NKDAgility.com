@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: sd5d5KYoXsO
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: sd5d5KYoXsO
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: are-you-doing-scrum-find-out-with-a-scrum-health-check
 aliases:
   - /resources/sd5d5KYoXsO
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:25Z
+ResourceId: sd5d5KYoXsO
+ResourceType: blog
 ResourceImportId: 4406
 creator: Martin Hinshelwood
 resourceTypes: blog

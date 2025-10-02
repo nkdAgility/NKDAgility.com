@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: WYBOx1X0R-3
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: WYBOx1X0R-3
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: create-a-release-management-pipeline-for-professional-developers
 aliases:
   - /resources/WYBOx1X0R-3
@@ -48,6 +48,8 @@ Watermarks:
   description: 2025-05-12T14:20:36Z
   tldr: 2025-08-07T13:26:17Z
   short_title: 2025-08-07T13:26:19Z
+ResourceId: WYBOx1X0R-3
+ResourceType: blog
 ResourceImportId: 10970
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: KXvd_oyLe3Q
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: KXvd_oyLe3Q
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
 aliases:
   - /resources/KXvd_oyLe3Q
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:01:45Z
   short_title: 2025-07-07T17:48:27Z
   tldr: 2025-08-07T12:49:31Z
+ResourceId: KXvd_oyLe3Q
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: KXvd_oyLe3Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KXvd_oyLe3Q/maxresdefault.jpg

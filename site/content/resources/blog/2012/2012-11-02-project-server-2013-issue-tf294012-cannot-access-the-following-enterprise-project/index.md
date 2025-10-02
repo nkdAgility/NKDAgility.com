@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: B7vlHTIj_jT
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: B7vlHTIj_jT
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
 aliases:
   - /resources/B7vlHTIj_jT
@@ -30,6 +30,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:07:15Z
+ResourceId: B7vlHTIj_jT
+ResourceType: blog
 ResourceImportId: 9138
 creator: Martin Hinshelwood
 resourceTypes: blog

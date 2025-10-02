@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: FLMIoTT0Mu0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: FLMIoTT0Mu0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: stop-hoping-for-quality-why-automated-pipelines-are-the-only-way-to-deliver-with-confidence
 aliases:
   - /resources/FLMIoTT0Mu0
@@ -50,6 +49,7 @@ Watermarks:
   description: 2025-05-07T20:21:40Z
   short_title: 2025-07-07T16:43:55Z
   tldr: 2025-08-07T12:29:21Z
+ResourceImportSource: Youtube
 videoId: FLMIoTT0Mu0
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/FLMIoTT0Mu0/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLDiE2Fb_1U29gBfOLtNypyc5RNoLQ
@@ -57,6 +57,8 @@ duration: 53
 resourceTypes:
   - video
 isShort: true
+ResourceId: FLMIoTT0Mu0
+ResourceType: videos
 
 ---
 If it’s not in the pipeline, it’s not in your process. I’ve seen this time and again—organisations with the best intentions, armed with standards, checklists, and policies, but still falling short when it comes to real, consistent quality. Why? Because if you rely on people to remember, to manually tick the boxes, you’re building your process on hope rather than certainty.

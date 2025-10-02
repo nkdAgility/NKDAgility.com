@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: AJ8-c0l7oRQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: AJ8-c0l7oRQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
 aliases:
   - /resources/AJ8-c0l7oRQ
@@ -34,6 +33,9 @@ Watermarks:
   description: 2025-05-07T13:09:01Z
   short_title: 2025-07-07T17:52:36Z
   tldr: 2025-08-07T12:58:59Z
+ResourceId: AJ8-c0l7oRQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: AJ8-c0l7oRQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/AJ8-c0l7oRQ/maxresdefault.jpg

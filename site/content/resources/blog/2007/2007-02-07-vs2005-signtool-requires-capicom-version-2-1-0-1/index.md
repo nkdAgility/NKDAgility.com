@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: XiAV2LaArje
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: XiAV2LaArje
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: vs2005-signtool-requires-capicom-version-2-1-0-1
 aliases:
   - /resources/blog/vs2005-signtool-requires-capicom-version-2.1.0.1
@@ -33,6 +33,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:29:16Z
+ResourceId: XiAV2LaArje
+ResourceType: blog
 ResourceImportId: 435
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -5,16 +5,15 @@ description: Explores how Agile success relies on team collaboration, embracing 
 tldr: Agile works best when teams focus on collaboration, embrace change, and prioritize delivering real value to customers rather than rigidly following processes. Regular reflection, empowering team members, and experimenting with new approaches help teams adapt and improve. Development managers should foster a growth mindset and lead by example to create an environment where teams can thrive and continuously deliver better results.
 date: 2023-07-13T07:38:00Z
 lastmod: 2023-07-13T07:38:00Z
-weight: 785
+weight: 420
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
-ResourceId: 3nSV-v2cK-w
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 3nSV-v2cK-w
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
 aliases:
   - /resources/3nSV-v2cK-w
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:10:50Z
   short_title: 2025-07-07T17:54:00Z
   tldr: 2025-08-07T13:02:07Z
+ResourceId: 3nSV-v2cK-w
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 3nSV-v2cK-w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/3nSV-v2cK-w/maxresdefault.jpg

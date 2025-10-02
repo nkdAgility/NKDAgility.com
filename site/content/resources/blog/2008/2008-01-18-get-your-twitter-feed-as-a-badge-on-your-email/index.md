@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: RIgnx9Matxd
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: RIgnx9Matxd
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: get-your-twitter-feed-as-a-badge-on-your-email
 aliases:
   - /resources/RIgnx9Matxd
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:56Z
+ResourceId: RIgnx9Matxd
+ResourceType: blog
 ResourceImportId: 263
 creator: Martin Hinshelwood
 resourceTypes: blog

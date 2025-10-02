@@ -5,16 +5,16 @@ description: Explores how remote work is changing office life, training, coachin
 tldr: Martin and Simon discuss whether traditional office work is obsolete, highlighting how remote work has changed the effectiveness of agile training, coaching, and consulting. They share that remote approaches can be surprisingly effective, challenging assumptions about in-person work. Development managers should consider how remote options might enhance team learning and consulting outcomes.
 date: 2023-06-01
 lastmod: 2023-06-01
-weight: 915
+weight: 715
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
 author: MrHinsh
-ResourceId: HRq1a_8gAJF
-ResourceImport: false
-ResourceType: podcast
-ResourceContentOrigin: Human
+ItemId: HRq1a_8gAJF
+ItemType: podcast
+ItemKind: resource
+ItemContentOrigin: Human
 slug: are-office-spaces-dead
 aliases:
   - /resources/HRq1a_8gAJF
@@ -27,6 +27,8 @@ Watermarks:
   description: 2025-05-07T13:11:59Z
   short_title: 2025-07-07T17:54:55Z
   tldr: 2025-08-07T13:04:26Z
+ResourceId: HRq1a_8gAJF
+ResourceType: podcast
 resourceTypes: podcast
 
 ---

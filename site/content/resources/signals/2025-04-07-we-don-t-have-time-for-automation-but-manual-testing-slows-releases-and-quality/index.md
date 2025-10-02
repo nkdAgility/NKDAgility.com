@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: f6S9lWfTQaQ
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: f6S9lWfTQaQ
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: we-don-t-have-time-for-automation-but-manual-testing-slows-releases-and-quality
 aliases:
   - /resources/f6S9lWfTQaQ
@@ -47,6 +47,8 @@ Watermarks:
   description: 2025-05-16T15:55:39Z
   short_title: 2025-07-07T16:45:00Z
   tldr: 2025-08-07T12:33:57Z
+ResourceId: f6S9lWfTQaQ
+ResourceType: signals
 
 ---
 Every time I hear, “We don’t have time for automation,” I know exactly what’s coming next.

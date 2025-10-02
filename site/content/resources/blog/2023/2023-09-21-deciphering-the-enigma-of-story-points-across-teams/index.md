@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: LKp5S7_4Kbw
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: LKp5S7_4Kbw
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: deciphering-the-enigma-of-story-points-across-teams
 aliases:
   - /blog/deciphering-the-enigma-of-story-points-across-teams
@@ -42,6 +42,8 @@ Watermarks:
   description: 2025-05-07T13:09:25Z
   short_title: 2025-07-07T17:52:59Z
   tldr: 2025-08-07T12:59:52Z
+ResourceId: LKp5S7_4Kbw
+ResourceType: blog
 ResourceImportId: 49888
 AudioNative: true
 creator: Martin Hinshelwood

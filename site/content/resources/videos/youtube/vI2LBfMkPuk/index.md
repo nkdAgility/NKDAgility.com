@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: vI2LBfMkPuk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: vI2LBfMkPuk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
 aliases:
   - /resources/vI2LBfMkPuk
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:14:35Z
   short_title: 2025-07-07T17:57:12Z
   tldr: 2025-08-07T13:09:18Z
+ResourceId: vI2LBfMkPuk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: vI2LBfMkPuk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg

@@ -11,10 +11,10 @@ sitemap:
   priority: 0.1
   changefreq: weekly
 author: MrHinsh
-ResourceId: 7oAVt27r_UY
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: 7oAVt27r_UY
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: training-schedule-2021-q4-2022-q1
 aliases:
   - /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-07T13:14:52Z
   short_title: 2025-07-07T17:57:28Z
   tldr: 2025-08-07T13:10:04Z
+ResourceId: 7oAVt27r_UY
+ResourceType: newsletters
 preview: class-marketing-Q32021.jpg
 resourceTypes: newsletter
 

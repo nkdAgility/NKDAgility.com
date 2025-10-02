@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: Oi_yiyEHZbM
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: Oi_yiyEHZbM
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: agile-and-scrum-are-often-misunderstood
 aliases:
   - /resources/Oi_yiyEHZbM
@@ -46,6 +46,8 @@ Watermarks:
   description: 2025-05-16T15:55:01Z
   short_title: 2025-07-07T16:44:30Z
   tldr: 2025-08-07T12:32:53Z
+ResourceId: Oi_yiyEHZbM
+ResourceType: signals
 
 ---
 Agile and Scrum are often misunderstood.

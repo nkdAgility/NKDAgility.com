@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: HklqA9qkC3L
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: HklqA9qkC3L
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-hinshelwood-family-portrait
 aliases:
   - /resources/HklqA9qkC3L
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:24:09Z
+ResourceId: HklqA9qkC3L
+ResourceType: blog
 ResourceImportId: 124
 creator: Martin Hinshelwood
 resourceTypes: blog

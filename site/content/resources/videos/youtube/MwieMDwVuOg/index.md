@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: MwieMDwVuOg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: MwieMDwVuOg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: scaling-smart-how-to-build-sustainable-growth-without-the-chaos
 aliases:
   - /resources/MwieMDwVuOg
@@ -47,6 +46,7 @@ Watermarks:
   description: 2025-05-07T12:49:35Z
   short_title: 2025-07-07T17:46:22Z
   tldr: 2025-08-07T12:36:27Z
+ResourceImportSource: Youtube
 videoId: MwieMDwVuOg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/MwieMDwVuOg/maxresdefault.jpg
@@ -54,6 +54,8 @@ duration: 114
 resourceTypes:
   - video
 isShort: false
+ResourceId: MwieMDwVuOg
+ResourceType: videos
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) isn't just about moving fast; it's about moving smart and sustainably. I've seen it time and again: organisations rush to scale without laying the right foundations, and what do they end up with? A bigger mess. It’s crucial to understand that while agile methodologies provide a pathway to scale, simply picking a framework and running with it isn’t the answer.

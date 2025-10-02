@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: mkgE6prwlj4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: mkgE6prwlj4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-the-best-application-of-scrum-in-the-world
 aliases:
   - /resources/mkgE6prwlj4
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:12:10Z
   short_title: 2025-07-07T17:55:02Z
   tldr: 2025-08-07T13:04:41Z
+ResourceId: mkgE6prwlj4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: mkgE6prwlj4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/mkgE6prwlj4/maxresdefault.jpg

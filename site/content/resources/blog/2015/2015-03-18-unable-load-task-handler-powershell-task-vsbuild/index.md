@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Rqhhvr6lAQK
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Rqhhvr6lAQK
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: unable-to-load-task-handler-powershell-for-task-vsbuild
 aliases:
   - /resources/Rqhhvr6lAQK
@@ -36,6 +36,8 @@ Watermarks:
   description: 2025-05-12T14:19:53Z
   tldr: 2025-08-07T13:25:21Z
   short_title: 2025-08-07T13:25:22Z
+ResourceId: Rqhhvr6lAQK
+ResourceType: blog
 ResourceImportId: 11097
 creator: Martin Hinshelwood
 resourceTypes: blog

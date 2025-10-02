@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: es3rfygczrI
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: es3rfygczrI
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: you-can-not-implement-agile-or-scrum-successfully-by-decree
 aliases:
   - /resources/es3rfygczrI
@@ -37,10 +37,10 @@ tags:
   - Software Development
   - Agile Frameworks
   - Agile Product Management
-  - Transparency
   - Organisational Agility
   - Change Management
   - Organisational Psychology
+  - Sociotechnical Systems
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7328079267450298371
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-16T15:54:47Z
   short_title: 2025-07-07T16:44:15Z
   tldr: 2025-08-07T12:32:26Z
+ResourceId: es3rfygczrI
+ResourceType: signals
 
 ---
 You can't implement Agile or Scrum successfully by decree.

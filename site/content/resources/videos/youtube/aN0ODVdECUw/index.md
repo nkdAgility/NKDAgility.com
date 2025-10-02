@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: aN0ODVdECUw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: aN0ODVdECUw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: legacy-systems-aren-t-the-enemy-friction-is-how-to-unblock-innovation-and-accelerate-agile-delivery
 aliases:
   - /resources/aN0ODVdECUw
@@ -31,10 +30,12 @@ categories:
   - Engineering Excellence
 tags:
   - Software Development
+  - Time to Market
 Watermarks:
   description: 2025-07-24T15:12:25Z
   short_title: 2025-07-24T15:12:26Z
   tldr: 2025-07-30T23:22:12Z
+ResourceImportSource: Youtube
 videoId: aN0ODVdECUw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/aN0ODVdECUw/maxresdefault.jpg
@@ -42,6 +43,8 @@ duration: 264
 resourceTypes:
   - video
 isShort: false
+ResourceId: aN0ODVdECUw
+ResourceType: videos
 
 ---
 If there’s one thing I see time and again in organisations striving for agility, it’s the silent anchor of legacy systems. These are the old, creaking platforms and applications that, while once the backbone of the business, now act as a brake on innovation. I’ve worked with countless teams who are desperate to move forward, to deliver new features, to delight their customers—only to find themselves tripping over the same old obstacles, time and again.

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: DOMFzBBMzfq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: DOMFzBBMzfq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: a-better-way-than-staggered-iterations-for-delivery
 aliases:
   - /blog/a-better-way-than-staggered-iterations-for-delivery
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-07T13:15:16Z
   short_title: 2025-07-07T17:57:44Z
   tldr: 2025-08-07T13:10:49Z
+ResourceId: DOMFzBBMzfq
+ResourceType: blog
 ResourceImportId: 9915
 AudioNative: true
 creator: Martin Hinshelwood

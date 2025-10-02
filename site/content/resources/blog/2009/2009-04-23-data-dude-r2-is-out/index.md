@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: -ifFvVOpYdz
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: -ifFvVOpYdz
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: data-dude-r2-is-out
 aliases:
   - /resources/-ifFvVOpYdz
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:24:17Z
+ResourceId: -ifFvVOpYdz
+ResourceType: blog
 ResourceImportId: 130
 creator: Martin Hinshelwood
 resourceTypes: blog

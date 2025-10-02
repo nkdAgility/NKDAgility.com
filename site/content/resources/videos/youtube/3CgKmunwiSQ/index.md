@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 3CgKmunwiSQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 3CgKmunwiSQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: understanding-the-difference-traditional-management-vs-evidence-based-management
 aliases:
   - /resources/3CgKmunwiSQ
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T12:58:31Z
   short_title: 2025-07-07T17:48:14Z
   tldr: 2025-08-07T12:49:01Z
+ResourceId: 3CgKmunwiSQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 3CgKmunwiSQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/3CgKmunwiSQ/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: 1VbvpOX1Hg0
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 1VbvpOX1Hg0
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: does-your-company-culture-resemble-survivor
 aliases:
   - /resources/1VbvpOX1Hg0
@@ -39,6 +39,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:05:48Z
+ResourceId: 1VbvpOX1Hg0
+ResourceType: blog
 ResourceImportId: 9716
 creator: Martin Hinshelwood
 resourceTypes: blog

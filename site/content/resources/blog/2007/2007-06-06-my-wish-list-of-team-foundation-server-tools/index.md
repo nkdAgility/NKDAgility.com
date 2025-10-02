@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ew4cQCgRYB0
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ew4cQCgRYB0
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: my-wish-list-of-team-foundation-server-tools
 aliases:
   - /resources/ew4cQCgRYB0
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:09Z
+ResourceId: ew4cQCgRYB0
+ResourceType: blog
 ResourceImportId: 389
 creator: Martin Hinshelwood
 resourceTypes: blog

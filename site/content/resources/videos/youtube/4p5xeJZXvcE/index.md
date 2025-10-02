@@ -5,16 +5,15 @@ description: Explores how patience fosters trust, growth, and collaboration in a
 tldr: Patience is essential for agile teams to build trust, avoid blame, and support growth, leading to better collaboration and outcomes. Leaders should set realistic expectations, encourage open communication, and model patient behavior to foster a healthy team environment. Take time to invest in team development and celebrate progress to enable long-term success.
 date: 2023-12-08T11:00:09Z
 lastmod: 2023-12-08T11:00:09Z
-weight: 1000
+weight: 815
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 4p5xeJZXvcE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 4p5xeJZXvcE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: cultivating-patience-the-secret-ingredient-for-thriving-agile-teams
 aliases:
   - /resources/4p5xeJZXvcE
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:07:07Z
   short_title: 2025-07-07T17:51:11Z
   tldr: 2025-08-07T12:55:30Z
+ResourceId: 4p5xeJZXvcE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 4p5xeJZXvcE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg

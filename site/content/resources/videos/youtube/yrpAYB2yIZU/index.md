@@ -8,11 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: yrpAYB2yIZU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: yrpAYB2yIZU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
 aliases:
   - /resources/yrpAYB2yIZU
@@ -35,6 +34,9 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-12T14:22:30Z
+ResourceId: yrpAYB2yIZU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: yrpAYB2yIZU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yrpAYB2yIZU/maxresdefault.jpg

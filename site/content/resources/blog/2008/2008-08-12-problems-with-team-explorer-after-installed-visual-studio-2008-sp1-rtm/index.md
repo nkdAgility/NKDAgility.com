@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: DLSNF8iLvfk
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: DLSNF8iLvfk
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 aliases:
   - /resources/DLSNF8iLvfk
@@ -27,6 +27,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:23:40Z
+ResourceId: DLSNF8iLvfk
+ResourceType: blog
 ResourceImportId: 210
 creator: Martin Hinshelwood
 resourceTypes: blog

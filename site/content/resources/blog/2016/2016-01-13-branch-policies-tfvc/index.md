@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: _26VFOA-vCe
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: _26VFOA-vCe
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: branch-policies-for-tfvc
 aliases:
   - /resources/_26VFOA-vCe
@@ -36,6 +36,8 @@ Watermarks:
   description: 2025-05-07T13:16:51Z
   short_title: 2025-07-07T17:59:03Z
   tldr: 2025-08-07T13:24:26Z
+ResourceId: _26VFOA-vCe
+ResourceType: blog
 ResourceImportId: 11424
 creator: Martin Hinshelwood
 resourceTypes: blog

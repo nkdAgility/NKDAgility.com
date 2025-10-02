@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: n0GHiv0sTfp
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: n0GHiv0sTfp
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: its-that-time-again
 aliases:
   - /resources/n0GHiv0sTfp
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:41Z
+ResourceId: n0GHiv0sTfp
+ResourceType: blog
 ResourceImportId: 370
 creator: Martin Hinshelwood
 resourceTypes: blog

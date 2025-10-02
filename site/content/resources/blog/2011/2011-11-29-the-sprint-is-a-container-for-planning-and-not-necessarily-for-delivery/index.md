@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: 6USQKO75YgH
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 6USQKO75YgH
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 aliases:
   - /resources/6USQKO75YgH
@@ -37,6 +37,8 @@ tags:
   - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:09:49Z
+ResourceId: 6USQKO75YgH
+ResourceType: blog
 ResourceImportId: 4092
 creator: Martin Hinshelwood
 resourceTypes: blog

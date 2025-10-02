@@ -14,10 +14,10 @@ author:
   - Steve Porter
   - Yuval Yeret
   - Daniel Vacanti
-ResourceId: Z3HzXH_nmmz
-ResourceImport: false
-ResourceType: guides
-ResourceContentOrigin: Human
+ItemId: Z3HzXH_nmmz
+ItemType: guides
+ItemKind: resource
+ItemContentOrigin: Human
 slug: kanban-guide-for-scrum-teams
 aliases:
   - /guides/Kanban-Guide-for-Scrum-Teams.html
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-07T12:58:08Z
   short_title: 2025-07-07T16:40:34Z
   tldr: 2025-08-07T12:46:33Z
+ResourceId: Z3HzXH_nmmz
+ResourceType: guides
 resourceTypes: guide
 references:
   - title: The Kanban Guide for Scrum Teams on Scrum.org

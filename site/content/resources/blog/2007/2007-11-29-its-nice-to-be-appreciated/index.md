@@ -8,11 +8,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Kmtwkw7RD0K
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
-slug: it-s-nice-to-be-appreciated
+ItemId: Kmtwkw7RD0K
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
+slug: it's-nice-to-be-appreciated
 aliases:
   - /resources/blog/it-s-nice-to-be-appreciated
   - /resources/Kmtwkw7RD0K
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:27Z
+ResourceId: Kmtwkw7RD0K
+ResourceType: blog
 ResourceImportId: 283
 creator: Martin Hinshelwood
 resourceTypes: blog

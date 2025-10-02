@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: ZSqNF7v9vSR
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: ZSqNF7v9vSR
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 aliases:
   - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
@@ -43,6 +43,8 @@ Watermarks:
   description: 2025-05-07T13:15:01Z
   short_title: 2025-07-07T17:57:35Z
   tldr: 2025-08-07T13:10:22Z
+ResourceId: ZSqNF7v9vSR
+ResourceType: blog
 ResourceImportId: 45521
 AudioNative: true
 creator: Martin Hinshelwood

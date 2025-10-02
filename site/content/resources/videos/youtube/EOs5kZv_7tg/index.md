@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: EOs5kZv_7tg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: EOs5kZv_7tg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
 aliases:
   - /resources/EOs5kZv_7tg
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:10:35Z
   short_title: 2025-07-07T17:53:52Z
   tldr: 2025-08-07T13:01:48Z
+ResourceId: EOs5kZv_7tg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: EOs5kZv_7tg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/EOs5kZv_7tg/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: A8N6LXr-4Ql
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: A8N6LXr-4Ql
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-11-upgrade-health-check
 aliases:
   - /resources/A8N6LXr-4Ql
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:15Z
+ResourceId: A8N6LXr-4Ql
+ResourceType: blog
 ResourceImportId: 4747
 creator: Martin Hinshelwood
 resourceTypes: blog

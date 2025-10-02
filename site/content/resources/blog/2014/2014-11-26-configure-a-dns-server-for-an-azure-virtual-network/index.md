@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: sQQqpuZV5xQ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: sQQqpuZV5xQ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: configure-a-dns-server-for-an-azure-virtual-network
 aliases:
   - /resources/sQQqpuZV5xQ
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-12T14:20:37Z
   tldr: 2025-08-07T13:26:23Z
   short_title: 2025-08-07T13:26:24Z
+ResourceId: sQQqpuZV5xQ
+ResourceType: blog
 ResourceImportId: 10878
 creator: Martin Hinshelwood
 resourceTypes: blog

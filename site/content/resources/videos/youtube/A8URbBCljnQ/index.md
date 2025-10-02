@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: A8URbBCljnQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: A8URbBCljnQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
 aliases:
   - /resources/A8URbBCljnQ
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:15:53Z
   short_title: 2025-07-07T17:58:13Z
   tldr: 2025-08-07T13:12:16Z
+ResourceId: A8URbBCljnQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: A8URbBCljnQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/A8URbBCljnQ/hqdefault.jpg

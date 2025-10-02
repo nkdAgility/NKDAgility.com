@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: o0VJuVhm0pQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: o0VJuVhm0pQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
 aliases:
   - /resources/o0VJuVhm0pQ
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:14:08Z
   short_title: 2025-07-07T17:56:48Z
   tldr: 2025-08-07T13:08:24Z
+ResourceId: o0VJuVhm0pQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: o0VJuVhm0pQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/o0VJuVhm0pQ/maxresdefault.jpg

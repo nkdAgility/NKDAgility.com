@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: ks38bwDTVfM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ks38bwDTVfM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-agile-3-essential-strategies-to-boost-your-team's-sprint-success
 aliases:
   - /resources/ks38bwDTVfM
@@ -51,6 +50,9 @@ Watermarks:
   description: 2025-05-07T13:07:49Z
   short_title: 2025-07-07T17:51:44Z
   tldr: 2025-08-07T12:56:56Z
+ResourceId: ks38bwDTVfM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ks38bwDTVfM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg

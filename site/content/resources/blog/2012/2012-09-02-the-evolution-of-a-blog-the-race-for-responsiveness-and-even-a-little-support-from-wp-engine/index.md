@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 6-_05CBAsbh
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 6-_05CBAsbh
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 aliases:
   - /resources/6-_05CBAsbh
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:07:43Z
+ResourceId: 6-_05CBAsbh
+ResourceType: blog
 ResourceImportId: 8617
 creator: Martin Hinshelwood
 resourceTypes: blog

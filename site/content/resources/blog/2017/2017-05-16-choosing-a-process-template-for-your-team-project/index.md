@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: dGSGEOYRJAo
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: dGSGEOYRJAo
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: choosing-a-process-template-for-your-team-project
 aliases:
   - /resources/dGSGEOYRJAo
@@ -35,6 +35,8 @@ Watermarks:
   description: 2025-05-07T13:16:38Z
   short_title: 2025-07-07T17:58:53Z
   tldr: 2025-08-07T13:24:04Z
+ResourceId: dGSGEOYRJAo
+ResourceType: blog
 ResourceImportId: 10356
 creator: Martin Hinshelwood
 resourceTypes: blog

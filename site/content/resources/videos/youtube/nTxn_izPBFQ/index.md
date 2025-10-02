@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: nTxn_izPBFQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: nTxn_izPBFQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
 aliases:
   - /resources/nTxn_izPBFQ
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:13:35Z
   short_title: 2025-07-07T17:56:19Z
   tldr: 2025-08-07T13:07:19Z
+ResourceId: nTxn_izPBFQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: nTxn_izPBFQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/nTxn_izPBFQ/maxresdefault.jpg

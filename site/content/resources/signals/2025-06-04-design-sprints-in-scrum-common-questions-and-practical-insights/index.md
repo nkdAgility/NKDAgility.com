@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: 8mcd8y-jiFX
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 8mcd8y-jiFX
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: design-sprints-in-scrum-common-questions-and-practical-insights
 aliases:
   - /resources/8mcd8y-jiFX
@@ -46,6 +46,8 @@ Watermarks:
   description: 2025-06-17T17:50:44Z
   short_title: 2025-07-07T16:43:43Z
   tldr: 2025-08-07T12:11:52Z
+ResourceId: 8mcd8y-jiFX
+ResourceType: signals
 
 ---
 I’m still surprised how often I get asked about “Design Sprints” in Scrum. Let’s be clear—there are no special Sprints. No Sprint 0. No release Sprint. No hardening Sprint. And definitely no Design Sprint.

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ttgv7j3g-kW
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ttgv7j3g-kW
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: access-to-team-foundation-server
 aliases:
   - /resources/ttgv7j3g-kW
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:35Z
+ResourceId: ttgv7j3g-kW
+ResourceType: blog
 ResourceImportId: 366
 creator: Martin Hinshelwood
 resourceTypes: blog

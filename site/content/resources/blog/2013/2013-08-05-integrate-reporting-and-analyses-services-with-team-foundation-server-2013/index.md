@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: nNxCVaaSYOS
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: nNxCVaaSYOS
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 aliases:
   - /resources/nNxCVaaSYOS
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-12T14:23:28Z
+ResourceId: nNxCVaaSYOS
+ResourceType: blog
 ResourceImportId: 9875
 creator: Martin Hinshelwood
 resourceTypes: blog

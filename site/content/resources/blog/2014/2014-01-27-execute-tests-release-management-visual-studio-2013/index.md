@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: Jpm_MxV4e3G
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Jpm_MxV4e3G
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: execute-tests-with-release-management-for-visual-studio-2013
 aliases:
   - /resources/Jpm_MxV4e3G
@@ -35,6 +35,8 @@ tags:
   - Test Automation
 Watermarks:
   description: 2025-05-12T14:22:23Z
+ResourceId: Jpm_MxV4e3G
+ResourceType: blog
 ResourceImportId: 10342
 creator: Martin Hinshelwood
 resourceTypes: blog

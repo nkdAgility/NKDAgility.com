@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: Fm24oKNN--w
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Fm24oKNN--w
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
 aliases:
   - /resources/Fm24oKNN--w
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:16:32Z
   short_title: 2025-07-07T17:58:47Z
   tldr: 2025-08-07T13:13:43Z
+ResourceId: Fm24oKNN--w
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Fm24oKNN--w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Fm24oKNN--w/maxresdefault.jpg

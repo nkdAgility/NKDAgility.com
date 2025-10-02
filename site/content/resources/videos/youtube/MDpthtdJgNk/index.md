@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: MDpthtdJgNk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: MDpthtdJgNk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-is-kanban-becoming-increasingly-popular-in-creative-industries
 aliases:
   - /resources/MDpthtdJgNk
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:05:47Z
   short_title: 2025-07-07T17:49:47Z
   tldr: 2025-08-07T12:52:48Z
+ResourceId: MDpthtdJgNk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: MDpthtdJgNk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/MDpthtdJgNk/maxresdefault.jpg

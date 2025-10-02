@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: qWHCBUwpOZk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: qWHCBUwpOZk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 3-core-practices-of-kanban-improving-a-workflow
 aliases:
   - /resources/qWHCBUwpOZk
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:05:33Z
   short_title: 2025-07-07T17:49:34Z
   tldr: 2025-08-07T12:52:22Z
+ResourceId: qWHCBUwpOZk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: qWHCBUwpOZk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/qWHCBUwpOZk/maxresdefault.jpg

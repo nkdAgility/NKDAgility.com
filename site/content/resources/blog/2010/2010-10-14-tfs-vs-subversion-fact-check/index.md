@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Tpk1xLI-Ygd
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Tpk1xLI-Ygd
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-vs-subversion-fact-check
 aliases:
   - /resources/blog/tfs-vs.-subversion-fact-check
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:11:25Z
+ResourceId: Tpk1xLI-Ygd
+ResourceType: blog
 ResourceImportId: 22
 creator: Martin Hinshelwood
 resourceTypes: blog

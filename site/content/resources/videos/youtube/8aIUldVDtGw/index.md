@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: 8aIUldVDtGw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 8aIUldVDtGw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: stop-starting-and-start-finishing-the-key-to-team-success
 aliases:
   - /resources/8aIUldVDtGw
@@ -54,6 +53,9 @@ Watermarks:
   description: 2025-05-07T13:06:05Z
   short_title: 2025-07-07T17:50:02Z
   tldr: 2025-08-07T12:53:27Z
+ResourceId: 8aIUldVDtGw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 8aIUldVDtGw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8aIUldVDtGw/maxresdefault.jpg

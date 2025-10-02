@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: otmDMgDEp-i
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: otmDMgDEp-i
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: companies-often-say-we-are-going-agile-as-if-declaring-it-makes-it-so
 aliases:
   - /resources/otmDMgDEp-i
@@ -38,7 +38,7 @@ tags:
   - Social Technologies
   - Agile Product Management
   - Agnostic Agile
-  - Large Scale Agility
+  - Organisational Change
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7321556257234980864
@@ -54,6 +54,8 @@ Watermarks:
   description: 2025-05-16T15:55:14Z
   short_title: 2025-07-07T16:44:40Z
   tldr: 2025-08-07T12:33:13Z
+ResourceId: otmDMgDEp-i
+ResourceType: signals
 
 ---
 I've lost count of the number of times I've heard companies say, "We're going Agile!"—as if declaring it makes it so.

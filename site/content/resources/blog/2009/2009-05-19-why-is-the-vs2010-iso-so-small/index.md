@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: mWIIbovMbyN
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: mWIIbovMbyN
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: why-is-the-vs2010-iso-so-small
 aliases:
   - /resources/mWIIbovMbyN
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:48Z
+ResourceId: mWIIbovMbyN
+ResourceType: blog
 ResourceImportId: 114
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: y8KN3uMGjey
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: y8KN3uMGjey
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: a-great-backlog-isn-t-just-a-list-of-tasks
 aliases:
   - /resources/y8KN3uMGjey
@@ -42,6 +42,8 @@ Watermarks:
   description: 2025-05-16T15:55:31Z
   short_title: 2025-07-07T16:44:54Z
   tldr: 2025-08-07T12:33:45Z
+ResourceId: y8KN3uMGjey
+ResourceType: signals
 
 ---
 A great backlog isn’t just a list of tasks. It’s a strategic tool for delivering value.

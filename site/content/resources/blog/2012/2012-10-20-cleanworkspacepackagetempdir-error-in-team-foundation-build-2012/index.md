@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: 39VKBQJHQTj
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 39VKBQJHQTj
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: team-foundation-build-2012-issue-the-target-cleanworkspacepackagetempdir-does-not-exist
 aliases:
   - /resources/39VKBQJHQTj
@@ -34,6 +34,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:07:26Z
+ResourceId: 39VKBQJHQTj
+ResourceType: blog
 ResourceImportId: 8949
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: h4j0yIumt7h
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: h4j0yIumt7h
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: test-track-pro-and-the-case-of-the-missing-data
 aliases:
   - /resources/h4j0yIumt7h
@@ -28,6 +28,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:10:36Z
+ResourceId: h4j0yIumt7h
+ResourceType: blog
 ResourceImportId: 3596
 creator: Martin Hinshelwood
 resourceTypes: blog

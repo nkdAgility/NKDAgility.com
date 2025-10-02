@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: KUJ7jHOGqP7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: KUJ7jHOGqP7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: there-is-no-place-like-production
 aliases:
   - /blog/there-is-no-place-like-production
@@ -46,6 +46,8 @@ Watermarks:
   description: 2025-05-07T13:15:08Z
   short_title: 2025-07-07T17:57:40Z
   tldr: 2025-08-07T13:10:40Z
+ResourceId: KUJ7jHOGqP7
+ResourceType: blog
 ResourceImportId: 45324
 AudioNative: true
 creator: Martin Hinshelwood

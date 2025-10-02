@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: ArVDYRCKpOE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ArVDYRCKpOE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: quotes-fake-it-until-you-make-it
 aliases:
   - /resources/ArVDYRCKpOE
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:08:52Z
   short_title: 2025-07-07T17:52:30Z
   tldr: 2025-08-07T12:58:46Z
+ResourceId: ArVDYRCKpOE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ArVDYRCKpOE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ArVDYRCKpOE/maxresdefault.jpg

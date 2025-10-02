@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: kiOEzMLUa0k
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: kiOEzMLUa0k
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-sticky-buddy-layout-fun
 aliases:
   - /resources/blog/tfs-sticky-buddy-layout-fun...
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:35Z
+ResourceId: kiOEzMLUa0k
+ResourceType: blog
 ResourceImportId: 249
 creator: Martin Hinshelwood
 resourceTypes: blog

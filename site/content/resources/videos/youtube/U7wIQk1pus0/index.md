@@ -8,11 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: U7wIQk1pus0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: U7wIQk1pus0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: a-step-by-step-guide-to-installing-tfs-2013-on-windows-server-2012-r2
 aliases:
   - /resources/U7wIQk1pus0
@@ -33,6 +32,9 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-12T14:22:37Z
+ResourceId: U7wIQk1pus0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: U7wIQk1pus0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/U7wIQk1pus0/maxresdefault.jpg

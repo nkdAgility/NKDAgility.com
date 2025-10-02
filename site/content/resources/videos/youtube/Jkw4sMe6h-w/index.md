@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: Jkw4sMe6h-w
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Jkw4sMe6h-w
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
 aliases:
   - /resources/Jkw4sMe6h-w
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:10:20Z
   short_title: 2025-07-07T17:53:39Z
   tldr: 2025-08-07T13:01:22Z
+ResourceId: Jkw4sMe6h-w
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Jkw4sMe6h-w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Jkw4sMe6h-w/maxresdefault.jpg

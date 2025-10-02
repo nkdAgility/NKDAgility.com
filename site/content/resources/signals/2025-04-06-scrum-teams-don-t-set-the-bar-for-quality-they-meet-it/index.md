@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: 5lIasyqT9Rm
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 5lIasyqT9Rm
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: scrum-teams-don-t-set-the-bar-for-quality-they-meet-it
 aliases:
   - /resources/5lIasyqT9Rm
@@ -30,10 +30,10 @@ tags:
   - Professional Scrum
   - Software Development
   - Product Delivery
-  - Continuous Improvement
   - Agile Frameworks
   - Pragmatic Thinking
   - Technical Mastery
+  - Continuous Improvement
   - Operational Practices
 platform_signals:
   - platform: LinkedIn
@@ -50,6 +50,8 @@ Watermarks:
   description: 2025-05-16T15:55:40Z
   short_title: 2025-07-07T16:45:02Z
   tldr: 2025-08-07T12:34:01Z
+ResourceId: 5lIasyqT9Rm
+ResourceType: signals
 
 ---
 Scrum Teams don’t set the bar for quality—they meet it. The Definition of Done (DoD) isn’t a wishlist or a stretch goal. It’s a hard line that determines what is releasable. And if your DoD isn’t improving Sprint over Sprint, you’re accumulating risk and technical debt.

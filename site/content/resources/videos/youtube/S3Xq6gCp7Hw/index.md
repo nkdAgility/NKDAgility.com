@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: S3Xq6gCp7Hw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: S3Xq6gCp7Hw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-much-of-an-impact-can-a-strong-skilled-product-owner-have
 aliases:
   - /resources/S3Xq6gCp7Hw
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:14:23Z
   short_title: 2025-07-07T17:56:59Z
   tldr: 2025-08-07T13:08:50Z
+ResourceId: S3Xq6gCp7Hw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: S3Xq6gCp7Hw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/S3Xq6gCp7Hw/maxresdefault.jpg

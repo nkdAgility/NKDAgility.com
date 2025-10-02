@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: fk1Jv6RyesT
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: fk1Jv6RyesT
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: integrating-project-server-2013-with-team-foundation-server-2012
 aliases:
   - /resources/fk1Jv6RyesT
@@ -28,6 +28,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:07:18Z
+ResourceId: fk1Jv6RyesT
+ResourceType: blog
 ResourceImportId: 9075
 creator: Martin Hinshelwood
 resourceTypes: blog

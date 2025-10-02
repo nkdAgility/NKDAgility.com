@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: TzhiftXOJdw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: TzhiftXOJdw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-more-needs-to-happen-before-traditional-organisations-consider-agile
 aliases:
   - /resources/TzhiftXOJdw
@@ -50,6 +49,9 @@ Watermarks:
   description: 2025-05-07T13:11:01Z
   short_title: 2025-07-07T17:54:09Z
   tldr: 2025-08-07T13:02:27Z
+ResourceId: TzhiftXOJdw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: TzhiftXOJdw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TzhiftXOJdw/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: JTYCRehkN5U
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: JTYCRehkN5U
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-power-of-technical-excellence-in-agile-development
 aliases:
   - /resources/JTYCRehkN5U
@@ -51,6 +50,9 @@ Watermarks:
   description: 2025-05-07T13:02:46Z
   short_title: 2025-07-07T17:49:08Z
   tldr: 2025-08-07T12:51:13Z
+ResourceId: JTYCRehkN5U
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: JTYCRehkN5U
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JTYCRehkN5U/maxresdefault.jpg

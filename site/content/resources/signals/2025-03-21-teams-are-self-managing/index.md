@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: 8EauPhROdZq
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 8EauPhROdZq
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: teams-are-self-managing
 aliases:
   - /resources/8EauPhROdZq
@@ -53,6 +53,8 @@ Watermarks:
   description: 2025-05-16T15:55:59Z
   short_title: 2025-07-07T16:45:17Z
   tldr: 2025-08-07T12:34:35Z
+ResourceId: 8EauPhROdZq
+ResourceType: signals
 
 ---
 “Teams are self-managing. We don’t need a Scrum Master telling us what to do.”

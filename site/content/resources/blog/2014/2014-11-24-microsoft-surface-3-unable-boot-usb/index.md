@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: a3t-_ypf_UJ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: a3t-_ypf_UJ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: microsoft-surface-3-unable-to-boot-from-usb
 aliases:
   - /resources/a3t-_ypf_UJ
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-12T14:20:40Z
   tldr: 2025-08-07T13:26:26Z
   short_title: 2025-08-07T13:26:27Z
+ResourceId: a3t-_ypf_UJ
+ResourceType: blog
 ResourceImportId: 10907
 creator: Martin Hinshelwood
 resourceTypes: blog

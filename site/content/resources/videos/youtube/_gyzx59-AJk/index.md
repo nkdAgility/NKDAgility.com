@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: _gyzx59-AJk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: _gyzx59-AJk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transforming-agility-how-azure-devops-went-from-two-year-releases-to-880-000-deployments
 aliases:
   - /resources/_gyzx59-AJk
@@ -57,6 +56,7 @@ Watermarks:
   description: 2025-05-07T12:49:49Z
   short_title: 2025-07-07T17:46:47Z
   tldr: 2025-08-07T12:40:10Z
+ResourceImportSource: Youtube
 videoId: _gyzx59-AJk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_gyzx59-AJk/maxresdefault.jpg
@@ -64,6 +64,8 @@ duration: 358
 resourceTypes:
   - video
 isShort: false
+ResourceId: _gyzx59-AJk
+ResourceType: videos
 
 ---
 In today’s fast-paced market, the ability to respond swiftly to changes is not just an advantage; it’s a necessity. As organisations, we often find ourselves navigating a landscape filled with surprises—some of which can be detrimental, while others present golden opportunities. The key to capitalising on these opportunities lies in our [lead time]({{< ref "/tags/lead-time" >}}). If there’s a significant delay between the moment we decide to act and when our changes hit production, we risk losing out to competitors who are quicker on the draw.

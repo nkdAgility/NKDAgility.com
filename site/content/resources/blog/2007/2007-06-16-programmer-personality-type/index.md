@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ruFX2_EJk4k
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ruFX2_EJk4k
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: programmer-personality-type
 aliases:
   - /resources/ruFX2_EJk4k
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:00Z
+ResourceId: ruFX2_EJk4k
+ResourceType: blog
 ResourceImportId: 382
 creator: Martin Hinshelwood
 resourceTypes: blog

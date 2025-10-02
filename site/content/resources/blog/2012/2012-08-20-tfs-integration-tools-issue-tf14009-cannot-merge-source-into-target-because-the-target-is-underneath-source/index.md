@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: pwygxmIIHOc
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: pwygxmIIHOc
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
 aliases:
   - /resources/pwygxmIIHOc
@@ -32,6 +32,8 @@ tags:
   - Modern Source Control
 Watermarks:
   description: 2025-05-13T15:08:10Z
+ResourceId: pwygxmIIHOc
+ResourceType: blog
 ResourceImportId: 7240
 creator: Martin Hinshelwood
 resourceTypes: blog

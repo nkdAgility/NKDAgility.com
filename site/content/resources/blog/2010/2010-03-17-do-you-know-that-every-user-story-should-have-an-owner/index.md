@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: OOCAnXLzP9r
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: OOCAnXLzP9r
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: do-you-know-that-every-user-story-should-have-an-owner
 aliases:
   - /resources/OOCAnXLzP9r
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:22:29Z
+ResourceId: OOCAnXLzP9r
+ResourceType: blog
 ResourceImportId: 61
 creator: Martin Hinshelwood
 resourceTypes: blog

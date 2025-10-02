@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: InqupQ5d983
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: InqupQ5d983
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: an-adoption-strategy-for-testing-with-visual-studio-2010
 aliases:
   - /resources/InqupQ5d983
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:41Z
+ResourceId: InqupQ5d983
+ResourceType: blog
 ResourceImportId: 4223
 creator: Martin Hinshelwood
 resourceTypes: blog

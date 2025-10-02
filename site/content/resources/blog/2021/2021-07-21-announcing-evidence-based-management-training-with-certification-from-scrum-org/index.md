@@ -5,15 +5,15 @@ description: Learn about Scrum.org’s new PAL-EBM training, which helps leaders
 tldr: Scrum.org is launching a new one-day Professional Agile Leadership with Evidence-Based Management (PAL-EBM) training and certification, designed to help leaders make decisions based on evidence rather than intuition. The course emphasizes creating custom metrics suited to each business context and highlights the importance of clearly communicating vision and strategic goals to all team members. Development managers should consider this training to improve alignment, measurement, and decision-making in their organizations.
 date: 2021-07-21
 lastmod: 2021-07-21
-weight: 750
+weight: 530
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: weekly
-ResourceId: XuePm2RAZa0
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: XuePm2RAZa0
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: announcing-professional-agile-leadership-with-evidence-based-management-training-pal-ebm-from-scrum-org
 aliases:
   - /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
@@ -47,6 +47,8 @@ Watermarks:
   description: 2025-05-07T13:14:55Z
   short_title: 2025-07-07T17:57:29Z
   tldr: 2025-08-07T13:10:08Z
+ResourceId: XuePm2RAZa0
+ResourceType: blog
 ResourceImportId: 46257
 creator: Martin Hinshelwood
 resourceTypes: blog

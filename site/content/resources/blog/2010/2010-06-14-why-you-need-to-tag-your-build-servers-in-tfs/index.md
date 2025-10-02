@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: TCVlqzWwtNc
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: TCVlqzWwtNc
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: why-you-need-to-tag-your-build-servers-in-tfs
 aliases:
   - /resources/TCVlqzWwtNc
@@ -29,6 +29,8 @@ tags:
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:21:53Z
+ResourceId: TCVlqzWwtNc
+ResourceType: blog
 ResourceImportId: 40
 creator: Martin Hinshelwood
 resourceTypes: blog

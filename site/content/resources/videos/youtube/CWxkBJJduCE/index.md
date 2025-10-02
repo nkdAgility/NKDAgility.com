@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: CWxkBJJduCE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: CWxkBJJduCE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
 aliases:
   - /resources/CWxkBJJduCE
@@ -43,6 +42,7 @@ Watermarks:
   description: 2025-05-07T12:57:18Z
   short_title: 2025-07-07T17:47:35Z
   tldr: 2025-08-07T12:42:06Z
+ResourceImportSource: Youtube
 videoId: CWxkBJJduCE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/CWxkBJJduCE/maxresdefault.jpg
@@ -50,6 +50,8 @@ duration: 53
 resourceTypes:
   - video
 isShort: true
+ResourceId: CWxkBJJduCE
+ResourceType: videos
 
 ---
 When I reflect on my journey through [software development]({{< ref "/tags/software-development" >}}), one principle stands out: test-driven development (TDD) is not merely about writing better code; it’s fundamentally about crafting superior architectures. This distinction is crucial, and I want to share my insights on how TDD and pair programming can transform our approach to software design.

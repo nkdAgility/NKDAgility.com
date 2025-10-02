@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: Ig-HpUfQr3M
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Ig-HpUfQr3M
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: maximising-product-value-the-power-of-hypothesis-driven-engineering
 aliases:
   - /resources/Ig-HpUfQr3M
@@ -49,6 +48,7 @@ Watermarks:
   description: 2025-05-07T12:56:46Z
   short_title: 2025-07-07T17:47:12Z
   tldr: 2025-08-07T12:41:01Z
+ResourceImportSource: Youtube
 videoId: Ig-HpUfQr3M
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/Ig-HpUfQr3M/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLACFsGXtu1B4-DDKlhw6S8Y18Zr0w
@@ -56,6 +56,8 @@ duration: 501
 resourceTypes:
   - video
 isShort: false
+ResourceId: Ig-HpUfQr3M
+ResourceType: videos
 
 ---
 When it comes to managing product investments, I’ve shifted my perspective significantly over the years. The phrase "stay within budget" doesn’t resonate with me anymore. Instead, I view it as having a pool of money that I can allocate strategically to maximise value. This approach requires a solid understanding of the data at hand and a clear vision of what we aim to achieve.

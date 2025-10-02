@@ -46,12 +46,12 @@
           </div>
           <header title="{{ .Title }}">
             <h3 class="card-title h5 mb-2 fw-semibold" itemprop="name">
-              <a href="{{ .Permalink }}" class="text-decoration-none text-reset" aria-describedby="desc-{{ .Params.ResourceId }}" itemprop="url">
+              <a href="{{ .Permalink }}" class="text-decoration-none text-reset" aria-describedby="desc-{{ .Params.ItemId }}" itemprop="url">
                 {{ .Params.short_title | default .Title }}
               </a>
             </h3>
           </header>
-          <p class="card-text flex-grow-1" id="desc-{{ .Params.ResourceId }}" itemprop="description" {{ if $includeMeta }}title="{{ .Description | default .Summary }}"{{ end }}>
+          <p class="card-text flex-grow-1" id="desc-{{ .Params.ItemId }}" itemprop="description" {{ if $includeMeta }}title="{{ .Description | default .Summary }}"{{ end }}>
             {{ $truncatedDescription }}
           </p>
           <footer class="d-flex justify-content-between align-items-end mt-auto">

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: j_oduUBphYc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: j_oduUBphYc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
 aliases:
   - /resources/j_oduUBphYc
@@ -32,11 +31,13 @@ concepts:
 categories:
   - Engineering Excellence
 tags:
+  - Pragmatic Thinking
   - Software Development
 Watermarks:
   description: 2025-05-07T20:59:00Z
   short_title: 2025-07-07T16:44:18Z
   tldr: 2025-08-07T12:32:32Z
+ResourceImportSource: Youtube
 videoId: j_oduUBphYc
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/j_oduUBphYc/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLC9GdU6Uu93vQ2nm8zM-COxVCvE6Q
@@ -44,6 +45,8 @@ duration: 94
 resourceTypes:
   - video
 isShort: false
+ResourceId: j_oduUBphYc
+ResourceType: videos
 
 ---
 Legacy systems are a security nightmare. Let’s not sugar-coat it. I’ve seen it time and again: outdated protocols, compliance failures lurking in the shadows, and systems so fragile that nobody dares to touch them for fear of what might break next. If you’re reading this, you probably know exactly what I mean.

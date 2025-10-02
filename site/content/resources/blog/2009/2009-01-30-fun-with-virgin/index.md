@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: PHUHjUVq45E
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: PHUHjUVq45E
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: fun-with-virgin
 aliases:
   - /resources/PHUHjUVq45E
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:21:47Z
+ResourceId: PHUHjUVq45E
+ResourceType: blog
 ResourceImportId: 141
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -5,16 +5,15 @@ description: Guidance for product owners on improving team clarity by reading no
 tldr: Product owners should focus on actively gauging team understanding by observing non-verbal cues, asking open-ended questions, and creating a safe environment for honest communication. Tailoring language to the audience and encouraging curiosity helps bridge knowledge gaps. Regular check-ins and fostering openness are key actions to ensure everyone is aligned, which is essential for project success.
 date: 2023-12-18T11:00:15Z
 lastmod: 2023-12-18T11:00:15Z
-weight: 1000
+weight: 840
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: M5U-Pdn_ZrE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: M5U-Pdn_ZrE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity
 aliases:
   - /resources/M5U-Pdn_ZrE
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:06:51Z
   short_title: 2025-07-07T17:50:40Z
   tldr: 2025-08-07T12:55:01Z
+ResourceId: M5U-Pdn_ZrE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: M5U-Pdn_ZrE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/M5U-Pdn_ZrE/maxresdefault.jpg

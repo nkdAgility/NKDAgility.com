@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: smxSz0q9Dlk
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: smxSz0q9Dlk
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: woops-i-installed-windows-8-instead-of-windows-8-pro
 aliases:
   - /resources/smxSz0q9Dlk
@@ -29,6 +29,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:08:28Z
+ResourceId: smxSz0q9Dlk
+ResourceType: blog
 ResourceImportId: 6938
 creator: Martin Hinshelwood
 resourceTypes: blog

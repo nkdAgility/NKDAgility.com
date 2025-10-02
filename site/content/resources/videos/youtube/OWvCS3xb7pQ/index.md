@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: OWvCS3xb7pQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: OWvCS3xb7pQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
 aliases:
   - /resources/OWvCS3xb7pQ
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:10:41Z
   short_title: 2025-07-07T17:53:57Z
   tldr: 2025-08-07T13:01:58Z
+ResourceId: OWvCS3xb7pQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: OWvCS3xb7pQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/OWvCS3xb7pQ/maxresdefault.jpg

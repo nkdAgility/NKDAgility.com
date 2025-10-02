@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: swHtVLD9690
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: swHtVLD9690
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-common-challenges-of-adopting-devops-practices
 aliases:
   - /resources/swHtVLD9690
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:01:59Z
   short_title: 2025-07-07T17:48:28Z
   tldr: 2025-08-07T12:49:33Z
+ResourceId: swHtVLD9690
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: swHtVLD9690
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/swHtVLD9690/maxresdefault.jpg

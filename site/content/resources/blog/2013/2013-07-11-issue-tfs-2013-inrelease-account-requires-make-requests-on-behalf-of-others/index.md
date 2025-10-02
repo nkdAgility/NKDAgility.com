@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: SYCGxfoMPjw
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: SYCGxfoMPjw
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 aliases:
   - /resources/SYCGxfoMPjw
@@ -32,6 +32,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:05:47Z
+ResourceId: SYCGxfoMPjw
+ResourceType: blog
 ResourceImportId: 9759
 creator: Martin Hinshelwood
 resourceTypes: blog

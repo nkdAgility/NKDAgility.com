@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: PaUciBmqCsU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: PaUciBmqCsU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: understanding-the-power-of-kanban-in-scrum
 aliases:
   - /resources/PaUciBmqCsU
@@ -36,6 +35,7 @@ categories:
   - Product Development
 tags:
   - Value Delivery
+  - Product Delivery
   - Transparency
   - Agile Frameworks
   - Operational Practices
@@ -44,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:02:18Z
   short_title: 2025-07-07T17:48:44Z
   tldr: 2025-08-07T12:50:10Z
+ResourceId: PaUciBmqCsU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: PaUciBmqCsU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/PaUciBmqCsU/maxresdefault.jpg

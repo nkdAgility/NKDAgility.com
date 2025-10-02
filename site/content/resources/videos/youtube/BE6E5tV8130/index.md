@@ -5,16 +5,15 @@ description: Compares agile product development and waterfall project management
 tldr: Agile product development differs from traditional waterfall project management by empowering teams to make decisions, delivering value in small, frequent increments, and adapting quickly to customer feedback and market changes. Waterfall relies on upfront planning and command-and-control management, which can lead to wasted effort if requirements shift, while agile focuses on collaboration, continuous improvement, and prioritizing the most valuable work. For complex or innovative projects, consider shifting toward agile practices to reduce risk and better meet evolving customer needs.
 date: 2023-01-11T07:00:02Z
 lastmod: 2023-01-11T07:00:02Z
-weight: 840
+weight: 545
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
-ResourceId: BE6E5tV8130
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: BE6E5tV8130
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-is-agile-product-development-different-to-waterfall-project-management
 aliases:
   - /resources/BE6E5tV8130
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:14:33Z
   short_title: 2025-07-07T17:57:09Z
   tldr: 2025-08-07T13:09:12Z
+ResourceId: BE6E5tV8130
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: BE6E5tV8130
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BE6E5tV8130/maxresdefault.jpg

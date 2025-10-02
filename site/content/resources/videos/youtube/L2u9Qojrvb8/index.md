@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: L2u9Qojrvb8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: L2u9Qojrvb8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-devops-crafting-unique-solutions-for-unique-organizations
 aliases:
   - /resources/L2u9Qojrvb8
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:01:14Z
   short_title: 2025-07-07T17:48:26Z
   tldr: 2025-08-07T12:49:27Z
+ResourceId: L2u9Qojrvb8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: L2u9Qojrvb8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/L2u9Qojrvb8/maxresdefault.jpg

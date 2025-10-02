@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: dfhN35mUMDl
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: dfhN35mUMDl
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: creating-a-managed-service-factory
 aliases:
   - /resources/dfhN35mUMDl
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T16:27:50Z
+ResourceId: dfhN35mUMDl
+ResourceType: blog
 ResourceImportId: 377
 creator: Martin Hinshelwood
 resourceTypes: blog

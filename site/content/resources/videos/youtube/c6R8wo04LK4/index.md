@@ -5,16 +5,15 @@ description: Overcoming the belief in quick fixes is the hardest part of Scrum a
 tldr: The hardest part of adopting Scrum is overcoming the false belief that success will happen automatically without real effort or change. The real challenge is shifting mindsets and building a culture of continuous learning and adaptability. Development managers should focus on addressing these ingrained expectations to achieve genuine Scrum transformation.
 date: 2023-06-17T11:00:32Z
 lastmod: 2023-06-17T11:00:32Z
-weight: 835
+weight: 575
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
-ResourceId: c6R8wo04LK4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: c6R8wo04LK4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: hardest-part-of-adopting-scrum
 aliases:
   - /resources/c6R8wo04LK4
@@ -33,6 +32,9 @@ Watermarks:
   description: 2025-05-07T13:11:31Z
   short_title: 2025-07-07T17:54:34Z
   tldr: 2025-08-07T13:03:34Z
+ResourceId: c6R8wo04LK4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: c6R8wo04LK4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/c6R8wo04LK4/maxresdefault.jpg

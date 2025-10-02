@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: A0Y-zySHXyc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: A0Y-zySHXyc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
 aliases:
   - /resources/A0Y-zySHXyc
@@ -35,10 +34,14 @@ categories:
   - Product Management
 tags:
   - Social Technologies
+  - Employee Engagement
 Watermarks:
   description: 2025-05-07T13:09:03Z
   short_title: 2025-07-07T17:52:37Z
   tldr: 2025-08-07T12:59:03Z
+ResourceId: A0Y-zySHXyc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: A0Y-zySHXyc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/A0Y-zySHXyc/maxresdefault.jpg

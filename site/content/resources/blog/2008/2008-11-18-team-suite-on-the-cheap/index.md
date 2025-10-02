@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: iiMEOgepJ_x
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: iiMEOgepJ_x
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: team-suite-on-the-cheap
 aliases:
   - /resources/iiMEOgepJ_x
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:27Z
+ResourceId: iiMEOgepJ_x
+ResourceType: blog
 ResourceImportId: 168
 creator: Martin Hinshelwood
 resourceTypes: blog

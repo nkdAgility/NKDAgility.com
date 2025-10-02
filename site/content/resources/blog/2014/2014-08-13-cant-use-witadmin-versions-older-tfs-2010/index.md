@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: UF4o8raFE4r
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: UF4o8raFE4r
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: you-can't-use-witadmin-on-versions-older-than-tfs-2010
 aliases:
   - /resources/blog/you-can-t-use-witadmin-on-versions-older-than-tfs-2010
@@ -31,6 +31,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-12T14:21:21Z
+ResourceId: UF4o8raFE4r
+ResourceType: blog
 ResourceImportId: 10667
 creator: Martin Hinshelwood
 resourceTypes: blog

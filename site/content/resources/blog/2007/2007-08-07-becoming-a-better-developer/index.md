@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: BonYegnhwPu
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: BonYegnhwPu
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: becoming-a-better-developer
 aliases:
   - /resources/BonYegnhwPu
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:52Z
+ResourceId: BonYegnhwPu
+ResourceType: blog
 ResourceImportId: 339
 creator: Martin Hinshelwood
 resourceTypes: blog

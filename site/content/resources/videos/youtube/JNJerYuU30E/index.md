@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: JNJerYuU30E
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: JNJerYuU30E
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices
 aliases:
   - /resources/JNJerYuU30E
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:12:44Z
   short_title: 2025-07-07T17:55:28Z
   tldr: 2025-08-07T13:05:35Z
+ResourceId: JNJerYuU30E
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: JNJerYuU30E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg

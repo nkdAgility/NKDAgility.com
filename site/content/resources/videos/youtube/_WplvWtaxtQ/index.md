@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: _WplvWtaxtQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: _WplvWtaxtQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-every-scrum-master-needs-an-immersive-training-experience
 aliases:
   - /resources/_WplvWtaxtQ
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:07:41Z
   short_title: 2025-07-07T17:51:38Z
   tldr: 2025-08-07T12:56:40Z
+ResourceId: _WplvWtaxtQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: _WplvWtaxtQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_WplvWtaxtQ/maxresdefault.jpg

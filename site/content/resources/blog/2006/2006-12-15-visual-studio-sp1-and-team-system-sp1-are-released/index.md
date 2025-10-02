@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: t2k1Rx5nmd9
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: t2k1Rx5nmd9
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-sp1-and-team-system-sp1-are-released
 aliases:
   - /resources/t2k1Rx5nmd9
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:47Z
+ResourceId: t2k1Rx5nmd9
+ResourceType: blog
 ResourceImportId: 453
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: qhb8uB5HUSo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: qhb8uB5HUSo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: futureproof-leadership-how-ctos-can-cut-through-the-noise-and-lead-with-clarity-confidence-and-culture
 aliases:
   - /resources/qhb8uB5HUSo
@@ -37,6 +36,7 @@ Watermarks:
   description: 2025-07-24T15:12:10Z
   short_title: 2025-07-24T15:12:10Z
   tldr: 2025-07-30T23:22:04Z
+ResourceImportSource: Youtube
 videoId: qhb8uB5HUSo
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/qhb8uB5HUSo/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLAPQaUb5Z0N0mb6KpKB_KbJsAytHQ
@@ -44,6 +44,8 @@ duration: 75
 resourceTypes:
   - video
 isShort: false
+ResourceId: qhb8uB5HUSo
+ResourceType: videos
 
 ---
 You don’t have to chase change. You just need the right guide.

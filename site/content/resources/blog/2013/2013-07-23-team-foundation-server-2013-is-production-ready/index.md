@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: HxDL5HRMiX4
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: HxDL5HRMiX4
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: team-foundation-server-2013-is-production-ready
 aliases:
   - /resources/HxDL5HRMiX4
@@ -27,6 +27,8 @@ tags:
   - Technical Debt
 Watermarks:
   description: 2025-05-12T14:23:37Z
+ResourceId: HxDL5HRMiX4
+ResourceType: blog
 ResourceImportId: 9917
 creator: Martin Hinshelwood
 resourceTypes: blog

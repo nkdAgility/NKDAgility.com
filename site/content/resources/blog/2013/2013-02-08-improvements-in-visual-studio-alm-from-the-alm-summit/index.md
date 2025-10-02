@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: E9mwcXKPJ0C
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: E9mwcXKPJ0C
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: improvements-in-visual-studio-alm-from-the-alm-summit
 aliases:
   - /resources/E9mwcXKPJ0C
@@ -28,6 +28,8 @@ tags:
   - Application Lifecycle Management
 Watermarks:
   description: 2025-05-13T15:06:59Z
+ResourceId: E9mwcXKPJ0C
+ResourceType: blog
 ResourceImportId: 9239
 creator: Martin Hinshelwood
 resourceTypes: blog

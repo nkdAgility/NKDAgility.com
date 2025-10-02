@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: 81zAbGYQP0o
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: 81zAbGYQP0o
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: managing-projects-using-azure-boards-training
-aliases:
-  - /resources/81zAbGYQP0o
+aliases: []
 aliasesArchive:
   - /training-courses/managing-projects-using-azure-boards
   - /training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/
@@ -117,6 +116,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+ResourceId: 81zAbGYQP0o
+ResourceType: course
 
 ---
 # Managing Projects Using Azure Boards Training

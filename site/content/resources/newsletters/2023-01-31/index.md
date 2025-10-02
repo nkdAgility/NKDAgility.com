@@ -11,10 +11,10 @@ sitemap:
   priority: 0.3
   changefreq: weekly
 author: MrHinsh
-ResourceId: Kofi3sgOhDX
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: Kofi3sgOhDX
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have
 aliases:
   - /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
@@ -33,6 +33,8 @@ Watermarks:
   description: 2025-05-07T13:14:20Z
   short_title: 2025-07-07T17:56:58Z
   tldr: 2025-08-07T13:08:48Z
+ResourceId: Kofi3sgOhDX
+ResourceType: newsletters
 preview: naked-agility-technically-agile-1280×720-February2023-1.jpg
 resourceTypes: newsletter
 

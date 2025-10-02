@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ScEwWPyBqLw
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ScEwWPyBqLw
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: office-2013-issue-installing-office-2013-breaks-visual-studio-2012
 aliases:
   - /resources/ScEwWPyBqLw
@@ -31,6 +31,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:08:35Z
+ResourceId: ScEwWPyBqLw
+ResourceType: blog
 ResourceImportId: 6288
 creator: Martin Hinshelwood
 resourceTypes: blog

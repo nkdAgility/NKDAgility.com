@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 5EryGepZu8o
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 5EryGepZu8o
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 aliases:
   - /resources/5EryGepZu8o
@@ -41,10 +40,14 @@ tags:
   - Agile Planning
   - Agile Product Management
   - Software Development
+  - Experimentation
 Watermarks:
   description: 2025-05-07T13:13:56Z
   short_title: 2025-07-07T17:56:38Z
   tldr: 2025-08-07T13:08:02Z
+ResourceId: 5EryGepZu8o
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 5EryGepZu8o
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5EryGepZu8o/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 2ZvRKJUmrD9
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 2ZvRKJUmrD9
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: uninstalling-visual-studio-2010-beta-1
 aliases:
   - /resources/2ZvRKJUmrD9
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:49Z
+ResourceId: 2ZvRKJUmrD9
+ResourceType: blog
 ResourceImportId: 115
 creator: Martin Hinshelwood
 resourceTypes: blog

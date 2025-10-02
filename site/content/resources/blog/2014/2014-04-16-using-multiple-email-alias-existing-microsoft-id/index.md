@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 3drabM1j0WE
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 3drabM1j0WE
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: using-multiple-email-alias-with-your-existing-microsoft-id
 aliases:
   - /resources/3drabM1j0WE
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:21:58Z
+ResourceId: 3drabM1j0WE
+ResourceType: blog
 ResourceImportId: 10496
 creator: Martin Hinshelwood
 resourceTypes: blog

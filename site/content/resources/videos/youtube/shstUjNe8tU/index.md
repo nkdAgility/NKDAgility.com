@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: shstUjNe8tU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: shstUjNe8tU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: cloud-migration-without-the-mayhem-how-to-move-legacy-systems-safely-and-set-your-teams-up-for-success
 aliases:
   - /resources/shstUjNe8tU
@@ -46,6 +45,7 @@ Watermarks:
   description: 2025-05-10T14:14:22Z
   short_title: 2025-07-07T16:44:29Z
   tldr: 2025-08-07T12:32:51Z
+ResourceImportSource: Youtube
 videoId: shstUjNe8tU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/shstUjNe8tU/maxresdefault.jpg
@@ -53,6 +53,8 @@ duration: 88
 resourceTypes:
   - video
 isShort: false
+ResourceId: shstUjNe8tU
+ResourceType: videos
 
 ---
 Migrating legacy systems to the cloud is often painted as a Herculean task—fraught with risk, disruption, and the ever-present spectre of downtime. I’ve seen organisations paralysed by the fear of systems grinding to a halt, or worse, the unknown unknowns that lurk beneath the surface of their ageing infrastructure. But let’s be clear: cloud migration doesn’t have to be a nightmare. It’s not about yanking everything out by the roots and hoping for the best. It’s about making deliberate, well-informed decisions that keep your teams productive and your business running.

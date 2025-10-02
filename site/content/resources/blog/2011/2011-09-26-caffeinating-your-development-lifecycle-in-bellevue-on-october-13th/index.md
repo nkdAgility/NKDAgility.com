@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: uPqvuZorGO-
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: uPqvuZorGO-
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 aliases:
   - /resources/uPqvuZorGO-
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:10:08Z
+ResourceId: uPqvuZorGO-
+ResourceType: blog
 ResourceImportId: 3796
 creator: Martin Hinshelwood
 resourceTypes: blog

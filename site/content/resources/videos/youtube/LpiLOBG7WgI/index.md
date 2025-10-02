@@ -5,16 +5,15 @@ description: Learn how Agile teams can handle harsh Sprint Review feedback by an
 tldr: Harsh feedback in Sprint reviews signals a need for immediate attention and should be seen as an opportunity to realign with stakeholder needs. Investigate the root causes, engage stakeholders more effectively, and be ready to halt, pivot, or persevere based on what you learn. Use open communication and flexibility to turn negative feedback into actionable improvements for your product and process.
 date: 2023-09-08T07:00:07Z
 lastmod: 2023-09-08T07:00:07Z
-weight: 750
+weight: 435
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
-ResourceId: LpiLOBG7WgI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: LpiLOBG7WgI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
 aliases:
   - /resources/LpiLOBG7WgI
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:09:36Z
   short_title: 2025-07-07T17:53:08Z
   tldr: 2025-08-07T13:00:09Z
+ResourceId: LpiLOBG7WgI
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: LpiLOBG7WgI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/LpiLOBG7WgI/maxresdefault.jpg

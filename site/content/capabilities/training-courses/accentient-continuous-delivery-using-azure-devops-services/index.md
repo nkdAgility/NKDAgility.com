@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: Et_C1UNbGdO
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: Et_C1UNbGdO
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: continuous-delivery-using-azure-devops-services-training
-aliases:
-  - /resources/Et_C1UNbGdO
+aliases: []
 aliasesArchive:
   - /training-courses/continuous-delivery-using-azure-devops-services
   - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
@@ -86,6 +85,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+ResourceId: Et_C1UNbGdO
+ResourceType: course
 
 ---
 # Continuous Delivery Using Azure DevOps Services Training

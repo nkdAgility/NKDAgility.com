@@ -5,16 +5,15 @@ description: Ditch the Big Bang rewrite. Discover why sustainable, in-place chan
 tldr: Big Bang rewrites of legacy systems usually fail due to high costs, delays, and unchanged team mindsets, while incremental in-place improvements deliver ongoing value and reduce risk. Sustainable change comes from building a culture of continuous improvement and engineering excellence, where teams refactor and modernise systems piece by piece. Development managers should focus on fostering this culture and invest in gradual, disciplined transformation rather than risky all-at-once rewrites.
 date: 2025-09-08T06:00:00Z
 lastmod: 2025-09-08T06:00:00Z
-weight: 155
+weight: 175
 sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: vc1_x8KxSa0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: vc1_x8KxSa0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: why-big-bang-rewrites-fail-how-sustainable-change-and-engineering-excellence-transform-legacy-systems
 aliases:
   - /resources/vc1_x8KxSa0
@@ -28,8 +27,8 @@ concepts:
   - Capability
 categories:
   - Engineering Excellence
-  - Technical Leadership
   - DevOps
+  - Technical Leadership
 tags:
   - Organisational Culture
   - Software Development
@@ -43,12 +42,14 @@ tags:
   - Change Management
   - Digital Transformation
   - Business Agility
+  - Operational Practices
   - Sociotechnical Systems
   - Engineering Practices
 Watermarks:
   description: 2025-07-24T14:48:31Z
   short_title: 2025-07-24T14:48:31Z
   tldr: 2025-07-30T23:12:33Z
+ResourceImportSource: Youtube
 videoId: vc1_x8KxSa0
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/vc1_x8KxSa0/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLAZ5bxP5lppMgpy3CqWGZTcmuZwYw
@@ -56,6 +57,8 @@ duration: 380
 resourceTypes:
   - video
 isShort: false
+ResourceId: vc1_x8KxSa0
+ResourceType: videos
 
 ---
 Moving from Legacy Mindset to Engineering Excellence: Why Big Bang Rewrites Fail and Sustainable Change Wins

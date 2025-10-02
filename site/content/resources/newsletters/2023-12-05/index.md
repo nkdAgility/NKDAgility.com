@@ -11,10 +11,10 @@ sitemap:
   priority: 0.3
   changefreq: weekly
 author: MrHinsh
-ResourceId: -wdSJlbQQbK
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: -wdSJlbQQbK
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: 2024-learning-journeys-and-extending-the-learning-process
 aliases:
   - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
@@ -33,6 +33,8 @@ Watermarks:
   description: 2025-05-07T13:07:17Z
   short_title: 2025-07-07T17:51:19Z
   tldr: 2025-08-07T12:55:47Z
+ResourceId: -wdSJlbQQbK
+ResourceType: newsletters
 preview: naked-agility-technically-agile-1280×720-December2023.jpg
 resourceTypes: newsletter
 

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: JVZzJZ5q0Hw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: JVZzJZ5q0Hw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-the-most-common-mistake-in-sprint-planning
 aliases:
   - /resources/JVZzJZ5q0Hw
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:12:11Z
   short_title: 2025-07-07T17:55:03Z
   tldr: 2025-08-07T13:04:43Z
+ResourceId: JVZzJZ5q0Hw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: JVZzJZ5q0Hw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JVZzJZ5q0Hw/maxresdefault.jpg

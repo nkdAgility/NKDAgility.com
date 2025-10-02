@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: nEmEarH66B7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: nEmEarH66B7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: what-is-the-roll-of-the-project-manager-in-scrum
 aliases:
   - /resources/nEmEarH66B7
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:09:46Z
+ResourceId: nEmEarH66B7
+ResourceType: blog
 ResourceImportId: 4116
 creator: Martin Hinshelwood
 resourceTypes: blog

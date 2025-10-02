@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: v_DNTz1r6-H
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: v_DNTz1r6-H
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: allow-user-to-change-the-region-for-windows-live-id-billing
 aliases:
   - /resources/v_DNTz1r6-H
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:10:05Z
+ResourceId: v_DNTz1r6-H
+ResourceType: blog
 ResourceImportId: 3830
 creator: Martin Hinshelwood
 resourceTypes: blog

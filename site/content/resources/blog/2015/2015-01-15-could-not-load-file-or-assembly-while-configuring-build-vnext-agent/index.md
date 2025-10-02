@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: zd3C3XiE0H4
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: zd3C3XiE0H4
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 aliases:
   - /resources/zd3C3XiE0H4
@@ -35,6 +35,8 @@ Watermarks:
   description: 2025-05-12T14:20:14Z
   tldr: 2025-08-07T13:25:52Z
   short_title: 2025-08-07T13:25:52Z
+ResourceId: zd3C3XiE0H4
+ResourceType: blog
 ResourceImportId: 11072
 creator: Martin Hinshelwood
 resourceTypes: blog

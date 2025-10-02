@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: EjoEHTWiJtf
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: EjoEHTWiJtf
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: searching-for-self-organisation
 aliases:
   - /resources/EjoEHTWiJtf
@@ -39,6 +39,8 @@ tags:
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-12T14:23:30Z
+ResourceId: EjoEHTWiJtf
+ResourceType: blog
 ResourceImportId: 9741
 creator: Martin Hinshelwood
 resourceTypes: blog

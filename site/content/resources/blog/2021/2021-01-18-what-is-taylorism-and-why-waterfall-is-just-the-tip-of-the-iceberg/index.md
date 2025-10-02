@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: wYwQygBrmgx
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: wYwQygBrmgx
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 aliases:
   - /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
@@ -49,6 +49,8 @@ Watermarks:
   description: 2025-05-07T13:15:04Z
   short_title: 2025-07-07T17:57:37Z
   tldr: 2025-08-07T13:10:27Z
+ResourceId: wYwQygBrmgx
+ResourceType: blog
 ResourceImportId: 45392
 AudioNative: true
 creator: Martin Hinshelwood

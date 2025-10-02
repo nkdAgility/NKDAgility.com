@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: ga9A29v5JJk
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ga9A29v5JJk
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: unity-and-asp-net
 aliases:
   - /resources/blog/unity-and-asp.net
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:24:07Z
+ResourceId: ga9A29v5JJk
+ResourceType: blog
 ResourceImportId: 122
 creator: Martin Hinshelwood
 resourceTypes: blog

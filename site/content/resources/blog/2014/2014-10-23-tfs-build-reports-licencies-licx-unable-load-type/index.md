@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: om6UWMd_ONd
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: om6UWMd_ONd
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-build-reports-licencies-licx-unable-to-load-type
 aliases:
   - /resources/blog/tfs-build-reports-licencies.licx-unable-to-load-type
@@ -37,6 +37,8 @@ Watermarks:
   description: 2025-05-12T14:20:52Z
   tldr: 2025-08-07T13:26:48Z
   short_title: 2025-08-07T13:26:49Z
+ResourceId: om6UWMd_ONd
+ResourceType: blog
 ResourceImportId: 10730
 creator: Martin Hinshelwood
 resourceTypes: blog

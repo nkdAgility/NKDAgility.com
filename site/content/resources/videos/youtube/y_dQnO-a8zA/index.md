@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: y_dQnO-a8zA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: y_dQnO-a8zA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: engineering-culture-that-thrives-how-to-build-teams-ready-for-change-not-just-the-next-fire-drill
 aliases:
   - /resources/y_dQnO-a8zA
@@ -33,6 +32,7 @@ categories:
 tags:
   - Organisational Culture
   - Organisational Agility
+  - Continuous Improvement
   - Social Technologies
   - Continuous Learning
   - Business Agility
@@ -42,14 +42,14 @@ tags:
   - Organisational Change
   - Agile Leadership
   - Agile Philosophy
-  - Continuous Improvement
   - Market Adaptability
+  - Evidence Based Leadership
   - Team Collaboration
-  - Enterprise Agility
 Watermarks:
   description: 2025-07-24T15:14:34Z
   short_title: 2025-07-24T15:14:35Z
   tldr: 2025-08-07T12:10:59Z
+ResourceImportSource: Youtube
 videoId: y_dQnO-a8zA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/y_dQnO-a8zA/maxresdefault.jpg
@@ -57,6 +57,8 @@ duration: 74
 resourceTypes:
   - video
 isShort: false
+ResourceId: y_dQnO-a8zA
+ResourceType: videos
 
 ---
 Change is the Only Constant: Why Your Engineering Culture Must Evolve

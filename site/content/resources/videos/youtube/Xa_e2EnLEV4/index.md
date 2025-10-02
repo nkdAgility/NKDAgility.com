@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Xa_e2EnLEV4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Xa_e2EnLEV4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
 aliases:
   - /resources/Xa_e2EnLEV4
@@ -40,10 +39,14 @@ categories:
   - Uncategorized
 tags:
   - Operational Practices
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:05:30Z
   short_title: 2025-07-07T17:49:32Z
   tldr: 2025-08-07T12:52:14Z
+ResourceId: Xa_e2EnLEV4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Xa_e2EnLEV4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Xa_e2EnLEV4/maxresdefault.jpg

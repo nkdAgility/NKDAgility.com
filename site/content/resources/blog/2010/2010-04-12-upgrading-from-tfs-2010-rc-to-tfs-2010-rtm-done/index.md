@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: wGdSgbWfpEB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: wGdSgbWfpEB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 aliases:
   - /resources/wGdSgbWfpEB
@@ -31,6 +31,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:22:15Z
+ResourceId: wGdSgbWfpEB
+ResourceType: blog
 ResourceImportId: 53
 creator: Martin Hinshelwood
 resourceTypes: blog

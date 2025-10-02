@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: zs0q_zz8-JY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: zs0q_zz8-JY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success
 aliases:
   - /resources/zs0q_zz8-JY
@@ -38,6 +37,7 @@ tags:
   - Self Organisation
   - Team Motivation
   - Team Performance
+  - Organisational Psychology
   - Agile Frameworks
   - Software Development
   - Coaching
@@ -45,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:11:23Z
   short_title: 2025-07-07T17:54:27Z
   tldr: 2025-08-07T13:03:22Z
+ResourceId: zs0q_zz8-JY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: zs0q_zz8-JY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg

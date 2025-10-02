@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: sjUCMYPEzTd
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: sjUCMYPEzTd
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: we-re-sorry-but-you-won-t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 aliases:
   - /resources/sjUCMYPEzTd
@@ -31,6 +31,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:24:23Z
+ResourceId: sjUCMYPEzTd
+ResourceType: blog
 ResourceImportId: 135
 creator: Martin Hinshelwood
 resourceTypes: blog

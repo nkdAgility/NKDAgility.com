@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: sXmXT_MDXTo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: sXmXT_MDXTo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: devops-elevating-your-organization-s-performance-through-bespoke-solutions
 aliases:
   - /resources/sXmXT_MDXTo
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:02:06Z
   short_title: 2025-07-07T17:48:32Z
   tldr: 2025-08-07T12:49:42Z
+ResourceId: sXmXT_MDXTo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: sXmXT_MDXTo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sXmXT_MDXTo/maxresdefault.jpg

@@ -5,15 +5,15 @@ description: Explains how short-lived topic branches in source control improve s
 tldr: Short-lived topic branches help teams deliver high-quality software by making integration easier, reducing merge conflicts, and supporting modular, continuous delivery. Adopting models like GitHub Flow or Release Flow keeps work focused and feedback fast, while long-lived branches increase risk and slow down delivery. Development managers should enforce small, short-lived branches and regularly review branching strategies to maintain flow, agility, and quality.
 date: 2025-07-14T09:00:00Z
 lastmod: 2025-07-14T09:00:00Z
-weight: 115
+weight: 75
 sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: O_VlmDj7n3V
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: O_VlmDj7n3V
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: why-topic-branches-drive-high-quality-delivery
 aliases:
   - /resources/O_VlmDj7n3V
@@ -43,6 +43,8 @@ Watermarks:
   description: 2025-05-07T12:48:56Z
   short_title: 2025-07-07T16:43:16Z
   tldr: 2025-07-30T23:22:10Z
+ResourceId: O_VlmDj7n3V
+ResourceType: blog
 
 ---
 In modern [software development]({{< ref "/tags/software-development" >}}) the idea of the topic branch is an essecial one. It is your gatekeeper to preventing Conway's Law and an engineering structure that mirrors your organisational boundaries. Frequent integration through topic branches helps break down silos, encouraging cross-[team collaboration]({{< ref "/tags/team-collaboration" >}}) and reducing the tendency for the software architecture to reflect the organisation's communication paths.

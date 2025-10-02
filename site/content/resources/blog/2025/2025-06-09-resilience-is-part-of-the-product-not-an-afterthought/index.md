@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: EtzHUfsWjsD
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: EtzHUfsWjsD
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: resilience-is-part-of-the-product-not-an-afterthought
 aliases:
   - /resources/EtzHUfsWjsD
@@ -37,6 +37,8 @@ Watermarks:
   description: 2025-05-07T12:49:03Z
   short_title: 2025-07-07T16:43:37Z
   tldr: 2025-08-07T12:11:29Z
+ResourceId: EtzHUfsWjsD
+ResourceType: blog
 
 ---
 Resilience is not a nice-to-have. It is not a department. It is not something you bolt on later if you get around to it. Resilience is part of the product. If you are serious about delivering value, you design resilience deliberately from day one. Any other approach is just gambling with your business, and is adding to your [technical debt]({{< ref "/tags/technical-debt" >}}).

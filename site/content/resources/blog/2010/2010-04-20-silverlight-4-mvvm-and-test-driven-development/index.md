@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: n9sGWuBTtUf
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: n9sGWuBTtUf
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: silverlight-4-mvvm-and-test-driven-development
 aliases:
   - /resources/n9sGWuBTtUf
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:22:09Z
+ResourceId: n9sGWuBTtUf
+ResourceType: blog
 ResourceImportId: 49
 creator: Martin Hinshelwood
 resourceTypes: blog

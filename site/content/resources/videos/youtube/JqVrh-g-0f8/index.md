@@ -5,16 +5,15 @@ description: Learn how to recognise a poor product backlog in Agile and Scrum, i
 tldr: A poor product backlog is disorganised, lacks clear priorities, and confuses both teams and stakeholders. A strong backlog is clearly ordered and understood by everyone, aligning team efforts with business goals. Review your backlog regularly to ensure clarity and shared understanding across your team.
 date: 2023-06-19T13:01:31Z
 lastmod: 2023-06-19T13:01:31Z
-weight: 795
+weight: 590
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
-ResourceId: JqVrh-g-0f8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: JqVrh-g-0f8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-does-a-poor-product-backlog-look-like
 aliases:
   - /resources/JqVrh-g-0f8
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:11:29Z
   short_title: 2025-07-07T17:54:32Z
   tldr: 2025-08-07T13:03:31Z
+ResourceId: JqVrh-g-0f8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: JqVrh-g-0f8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JqVrh-g-0f8/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 9TbjaO1_Nz8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 9TbjaO1_Nz8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-startup-success-why-every-entrepreneur-needs-to-master-product-management-value
 aliases:
   - /resources/9TbjaO1_Nz8
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:12:26Z
   short_title: 2025-07-07T17:55:14Z
   tldr: 2025-08-07T13:05:05Z
+ResourceId: 9TbjaO1_Nz8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 9TbjaO1_Nz8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/9TbjaO1_Nz8/maxresdefault.jpg

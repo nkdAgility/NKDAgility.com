@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: AjUC6FPYCQM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: AjUC6FPYCQM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
 aliases:
   - /resources/AjUC6FPYCQM
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:13:10Z
   short_title: 2025-07-07T17:55:51Z
   tldr: 2025-08-07T13:06:24Z
+ResourceId: AjUC6FPYCQM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: AjUC6FPYCQM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/AjUC6FPYCQM/maxresdefault.jpg

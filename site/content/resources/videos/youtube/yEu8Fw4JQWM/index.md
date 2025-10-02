@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: yEu8Fw4JQWM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: yEu8Fw4JQWM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: in-wip-less-is-more-why
 aliases:
   - /resources/yEu8Fw4JQWM
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:12:37Z
   short_title: 2025-07-07T17:55:22Z
   tldr: 2025-08-07T13:05:23Z
+ResourceId: yEu8Fw4JQWM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: yEu8Fw4JQWM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yEu8Fw4JQWM/maxresdefault.jpg

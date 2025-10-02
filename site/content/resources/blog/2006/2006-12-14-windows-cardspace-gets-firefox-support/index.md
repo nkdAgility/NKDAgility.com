@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: S4ZOLBDIh7u
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: S4ZOLBDIh7u
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: windows-cardspace-gets-firefox-support
 aliases:
   - /resources/S4ZOLBDIh7u
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:50Z
+ResourceId: S4ZOLBDIh7u
+ResourceType: blog
 ResourceImportId: 458
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 4r5fzbQPMir
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 4r5fzbQPMir
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: hosted-sticky-buddy
 aliases:
   - /resources/4r5fzbQPMir
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:23:46Z
+ResourceId: 4r5fzbQPMir
+ResourceType: blog
 ResourceImportId: 215
 creator: Martin Hinshelwood
 resourceTypes: blog

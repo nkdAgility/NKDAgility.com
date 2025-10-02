@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: lttzdaIlzel
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: lttzdaIlzel
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: msbuild-and-business-intelligence-packages-ahhhhhh
 aliases:
   - /resources/lttzdaIlzel
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:49Z
+ResourceId: lttzdaIlzel
+ResourceType: blog
 ResourceImportId: 182
 creator: Martin Hinshelwood
 resourceTypes: blog

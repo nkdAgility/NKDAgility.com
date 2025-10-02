@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: sN8_s0-PGBm
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: sN8_s0-PGBm
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-from-tfs-2008-to-tfs-2010-overview
 aliases:
   - /resources/sN8_s0-PGBm
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:08:32Z
+ResourceId: sN8_s0-PGBm
+ResourceType: blog
 ResourceImportId: 6905
 creator: Martin Hinshelwood
 resourceTypes: blog

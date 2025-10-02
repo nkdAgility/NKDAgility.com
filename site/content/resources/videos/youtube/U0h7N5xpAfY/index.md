@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: U0h7N5xpAfY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: U0h7N5xpAfY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: understanding-the-true-role-of-a-scrum-master
 aliases:
   - /resources/U0h7N5xpAfY
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:07:28Z
   short_title: 2025-07-07T17:51:28Z
   tldr: 2025-08-07T12:56:05Z
+ResourceId: U0h7N5xpAfY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: U0h7N5xpAfY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/U0h7N5xpAfY/maxresdefault.jpg

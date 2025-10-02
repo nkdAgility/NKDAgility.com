@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: q9eDYUo8WyX
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: q9eDYUo8WyX
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: i'm-luke-skywalker-according-to-the-star-wars-personality-test
 aliases:
   - /resources/blog/i-m-luke-skywalker-according-to-the-star-wars-personality-test
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:38Z
+ResourceId: q9eDYUo8WyX
+ResourceType: blog
 ResourceImportId: 409
 creator: Martin Hinshelwood
 resourceTypes: blog

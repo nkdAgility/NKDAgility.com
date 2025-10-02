@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: Szz-d1q7CG7
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: Szz-d1q7CG7
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: the-market-isn-t-slowing-down-for-anyone
 aliases:
   - /resources/Szz-d1q7CG7
@@ -43,6 +43,8 @@ Watermarks:
   description: 2025-05-16T15:55:25Z
   short_title: 2025-07-07T16:44:50Z
   tldr: 2025-08-07T12:33:34Z
+ResourceId: Szz-d1q7CG7
+ResourceType: signals
 
 ---
 The market isn’t slowing down for anyone. While some organisations are still stuck debating frameworks, others are seizing opportunities and adapting at speed. The difference? Responsiveness.

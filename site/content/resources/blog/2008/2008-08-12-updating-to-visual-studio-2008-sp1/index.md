@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: kV6Jktk_APX
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: kV6Jktk_APX
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: updating-to-visual-studio-2008-sp1
 aliases:
   - /resources/kV6Jktk_APX
@@ -27,6 +27,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:23:39Z
+ResourceId: kV6Jktk_APX
+ResourceType: blog
 ResourceImportId: 211
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: -IOLGjKhnje
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: -IOLGjKhnje
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
 aliases:
   - /resources/-IOLGjKhnje
@@ -34,6 +34,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:07:08Z
+ResourceId: -IOLGjKhnje
+ResourceType: blog
 ResourceImportId: 9164
 creator: Martin Hinshelwood
 resourceTypes: blog

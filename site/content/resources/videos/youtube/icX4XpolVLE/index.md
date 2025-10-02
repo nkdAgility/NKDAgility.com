@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: icX4XpolVLE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: icX4XpolVLE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: from-chaos-to-clarity-my-journey-through-devops-and-the-three-key-challenges-to-overcome
 aliases:
   - /resources/icX4XpolVLE
@@ -36,6 +35,7 @@ categories:
 tags:
   - Product Delivery
   - Organisational Culture
+  - Continuous Learning
   - Social Technologies
   - Application Lifecycle Management
   - Operational Practices
@@ -44,12 +44,14 @@ tags:
   - Personal
   - Value Delivery
   - Continuous Improvement
-  - Continuous Learning
   - Technical Excellence
 Watermarks:
   description: 2025-05-07T13:05:19Z
   short_title: 2025-07-07T17:49:22Z
   tldr: 2025-08-07T12:51:53Z
+ResourceId: icX4XpolVLE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: icX4XpolVLE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/icX4XpolVLE/maxresdefault.jpg

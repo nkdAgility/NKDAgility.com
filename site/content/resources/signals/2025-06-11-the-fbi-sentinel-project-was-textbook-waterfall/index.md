@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: iXdW5l5qVvR
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: iXdW5l5qVvR
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: the-fbi-sentinel-project-was-textbook-waterfall
 aliases:
   - /resources/iXdW5l5qVvR
@@ -47,6 +47,8 @@ Watermarks:
   description: 2025-06-17T17:50:37Z
   short_title: 2025-07-07T16:43:32Z
   tldr: 2025-08-07T12:11:19Z
+ResourceId: iXdW5l5qVvR
+ResourceType: signals
 
 ---
 The FBI's Sentinel project was textbook waterfall. Big budget. Big bang. Zero value delivered after four years and hundreds of millions spent.

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: VWFF90m9BYG
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: VWFF90m9BYG
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: do-you-want-to-be-an-alm-consultant
 aliases:
   - /resources/VWFF90m9BYG
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:11:15Z
+ResourceId: VWFF90m9BYG
+ResourceType: blog
 ResourceImportId: 17
 creator: Martin Hinshelwood
 resourceTypes: blog

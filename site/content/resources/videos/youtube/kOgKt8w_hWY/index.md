@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: kOgKt8w_hWY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: kOgKt8w_hWY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement
 aliases:
   - /resources/kOgKt8w_hWY
@@ -31,12 +30,16 @@ categories:
   - DevOps
   - Engineering Excellence
 tags:
+  - Organisational Change
   - Pragmatic Thinking
   - Social Technologies
 Watermarks:
   description: 2025-05-07T13:15:39Z
   short_title: 2025-07-07T17:58:02Z
   tldr: 2025-08-07T13:11:34Z
+ResourceId: kOgKt8w_hWY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: kOgKt8w_hWY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/kOgKt8w_hWY/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: DomKUWOAmyb
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: DomKUWOAmyb
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: project-natal-available-soon
 aliases:
   - /resources/DomKUWOAmyb
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:38Z
+ResourceId: DomKUWOAmyb
+ResourceType: blog
 ResourceImportId: 106
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: T_5NKsLxoK7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: T_5NKsLxoK7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: remote-execute-powershell-against-each-windows-8-vm
 aliases:
   - /resources/T_5NKsLxoK7
@@ -30,6 +30,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:21Z
+ResourceId: T_5NKsLxoK7
+ResourceType: blog
 ResourceImportId: 9901
 creator: Martin Hinshelwood
 resourceTypes: blog

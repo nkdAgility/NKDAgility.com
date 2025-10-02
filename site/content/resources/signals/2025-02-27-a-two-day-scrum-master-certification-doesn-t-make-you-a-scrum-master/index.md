@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: aYJLiPejAHG
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: aYJLiPejAHG
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: a-two-day-scrum-master-certification-doesn-t-make-you-a-scrum-master
 aliases:
   - /resources/aYJLiPejAHG
@@ -28,6 +28,7 @@ tags:
   - Pragmatic Thinking
   - Competence
   - Software Development
+  - Scrum Master
   - Product Delivery
   - Professional Scrum
   - Operational Practices
@@ -48,6 +49,8 @@ Watermarks:
   description: 2025-05-16T15:56:41Z
   short_title: 2025-07-07T16:45:45Z
   tldr: 2025-08-07T12:35:33Z
+ResourceId: aYJLiPejAHG
+ResourceType: signals
 
 ---
 A two-day Scrum Master certification doesn’t make you a Scrum Master.

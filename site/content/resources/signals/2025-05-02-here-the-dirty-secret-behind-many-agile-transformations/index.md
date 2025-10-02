@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: 6Z5I3JPMECs
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 6Z5I3JPMECs
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: here-the-dirty-secret-behind-many-agile-transformations
 aliases:
   - /resources/6Z5I3JPMECs
@@ -27,7 +27,6 @@ categories:
   - Technical Leadership
 tags:
   - Organisational Culture
-  - Team Collaboration
   - Pragmatic Thinking
   - Self Organisation
   - Social Technologies
@@ -38,6 +37,7 @@ tags:
   - Change Management
   - Professional Scrum
   - Agile Transformation
+  - Team Collaboration
   - Agile Leadership
   - Agile Values and Principles
   - Organisational Psychology
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-16T15:55:04Z
   short_title: 2025-07-07T16:44:31Z
   tldr: 2025-08-07T12:32:57Z
+ResourceId: 6Z5I3JPMECs
+ResourceType: signals
 
 ---
 Here’s the dirty secret behind many “agile transformations”:

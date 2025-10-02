@@ -59,7 +59,7 @@
     <div class="col-xl-12 d-none d-xl-flex justify-content-end align-items-center">
       {{ $url := "" }}
       {{ if eq .Type "resources" }}
-        {{ $url = printf "https://nkdagility.com/resources/%s" .Params.ResourceId }}
+        {{ $url = printf "https://nkdagility.com/resources/%s" .Params.ItemId }}
       {{ else }}
         {{ $url = printf "https://nkdagility.com%s" .RelPermalink }}
       {{ end }}

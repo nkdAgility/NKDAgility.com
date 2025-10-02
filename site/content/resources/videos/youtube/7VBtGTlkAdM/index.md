@@ -5,16 +5,15 @@ description: Overly detailed consulting contracts can hinder project success by 
 tldr: Overly detailed contracts that specify exact deliverables, timelines, and costs can undermine consulting engagements because they do not account for the unpredictable nature of software development. Focusing on outcomes and the value delivered, rather than rigid outputs, leads to better results. Development managers should prioritize flexibility in contracts to adapt to changing requirements and ensure project success.
 date: 2023-08-19T07:00:06Z
 lastmod: 2023-08-19T07:00:06Z
-weight: 910
+weight: 720
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 7VBtGTlkAdM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 7VBtGTlkAdM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 aliases:
   - /resources/7VBtGTlkAdM
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:10:07Z
   short_title: 2025-07-07T17:53:29Z
   tldr: 2025-08-07T13:00:58Z
+ResourceId: 7VBtGTlkAdM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 7VBtGTlkAdM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/7VBtGTlkAdM/maxresdefault.jpg

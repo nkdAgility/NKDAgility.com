@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 8d4KN3bxVfX
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 8d4KN3bxVfX
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: do-you-have-a-contract-between-the-product-owner-and-the-team
 aliases:
   - /resources/8d4KN3bxVfX
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:22:14Z
+ResourceId: 8d4KN3bxVfX
+ResourceType: blog
 ResourceImportId: 52
 creator: Martin Hinshelwood
 resourceTypes: blog

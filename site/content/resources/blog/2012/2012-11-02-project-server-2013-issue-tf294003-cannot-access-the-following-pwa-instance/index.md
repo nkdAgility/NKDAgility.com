@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: YXA8oHuhkaD
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: YXA8oHuhkaD
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
 aliases:
   - /resources/YXA8oHuhkaD
@@ -31,6 +31,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:07:17Z
+ResourceId: YXA8oHuhkaD
+ResourceType: blog
 ResourceImportId: 9096
 creator: Martin Hinshelwood
 resourceTypes: blog

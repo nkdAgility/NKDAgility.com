@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 6z5uZom4gof
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 6z5uZom4gof
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: configuring-a-dc-in-azure-for-aad-integrated-release-management
 aliases:
   - /resources/6z5uZom4gof
@@ -37,6 +37,8 @@ Watermarks:
   description: 2025-05-12T14:20:43Z
   tldr: 2025-08-07T13:26:32Z
   short_title: 2025-08-07T13:26:34Z
+ResourceId: 6z5uZom4gof
+ResourceType: blog
 ResourceImportId: 10865
 creator: Martin Hinshelwood
 resourceTypes: blog

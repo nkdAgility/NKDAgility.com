@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: TxY4h-j1YTB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: TxY4h-j1YTB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-sticky-buddy-2-0-development-started
 aliases:
   - /resources/blog/tfs-sticky-buddy-2.0-development-started
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:39Z
+ResourceId: TxY4h-j1YTB
+ResourceType: blog
 ResourceImportId: 173
 creator: Martin Hinshelwood
 resourceTypes: blog

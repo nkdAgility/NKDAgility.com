@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: laeSXbgT7Hm
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: laeSXbgT7Hm
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: at-the-end-of-the-day-kanban-is-about-improving-flow
 aliases:
   - /resources/laeSXbgT7Hm
@@ -31,7 +31,6 @@ tags:
   - Software Development
   - Team Performance
   - Lean Principles
-  - Lean Thinking
   - Pragmatic Thinking
 platform_signals:
   - platform: LinkedIn
@@ -48,6 +47,8 @@ Watermarks:
   description: 2025-05-16T15:56:36Z
   short_title: 2025-07-07T16:45:39Z
   tldr: 2025-08-07T12:35:17Z
+ResourceId: laeSXbgT7Hm
+ResourceType: signals
 
 ---
 At the end of the day, Kanban is about improving flow. Not micromanaging individuals. Not squeezing more hours out of people. Just removing the constraints that slow everything down.

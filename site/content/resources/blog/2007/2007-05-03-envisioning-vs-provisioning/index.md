@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: klxWFYrDmai
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: klxWFYrDmai
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: envisioning-vs-provisioning
 aliases:
   - /resources/klxWFYrDmai
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:32Z
+ResourceId: klxWFYrDmai
+ResourceType: blog
 ResourceImportId: 405
 creator: Martin Hinshelwood
 resourceTypes: blog

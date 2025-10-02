@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: y0yIAIqOv-Q
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: y0yIAIqOv-Q
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: when-should-an-organisation-consider-a-professional-agile-consultant
 aliases:
   - /resources/y0yIAIqOv-Q
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:13:30Z
   short_title: 2025-07-07T17:56:11Z
   tldr: 2025-08-07T13:07:11Z
+ResourceId: y0yIAIqOv-Q
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: y0yIAIqOv-Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/y0yIAIqOv-Q/maxresdefault.jpg

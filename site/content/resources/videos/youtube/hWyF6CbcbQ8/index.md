@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: hWyF6CbcbQ8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: hWyF6CbcbQ8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-data-integrity-the-key-to-successful-devops-migrations
 aliases:
   - /resources/hWyF6CbcbQ8
@@ -36,6 +35,7 @@ Watermarks:
   description: 2025-05-07T12:57:25Z
   short_title: 2025-07-07T17:47:43Z
   tldr: 2025-08-07T12:42:21Z
+ResourceImportSource: Youtube
 videoId: hWyF6CbcbQ8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hWyF6CbcbQ8/maxresdefault.jpg
@@ -43,6 +43,8 @@ duration: 124
 resourceTypes:
   - video
 isShort: false
+ResourceId: hWyF6CbcbQ8
+ResourceType: videos
 
 ---
 When it comes to [DevOps]({{< ref "/categories/devops" >}}) migrations, one of the most critical aspects to consider is data integrity. I’ve seen firsthand how organisations grapple with the balance between maintaining the fidelity of their data and achieving the flexibility they desire during the migration process. It’s a nuanced dance, and understanding the implications of each choice is vital.

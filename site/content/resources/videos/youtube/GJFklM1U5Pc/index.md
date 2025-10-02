@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: GJFklM1U5Pc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: GJFklM1U5Pc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
 aliases:
   - /resources/GJFklM1U5Pc
@@ -45,6 +44,7 @@ Watermarks:
   description: 2025-05-07T12:57:29Z
   short_title: 2025-07-07T17:47:47Z
   tldr: 2025-08-07T12:42:31Z
+ResourceImportSource: Youtube
 videoId: GJFklM1U5Pc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/GJFklM1U5Pc/maxresdefault.jpg
@@ -52,6 +52,8 @@ duration: 1313
 resourceTypes:
   - video
 isShort: false
+ResourceId: GJFklM1U5Pc
+ResourceType: videos
 
 ---
 The current state of [Scrum]({{< ref "/categories/scrum" >}}) Master roles is, to put it mildly, troubling. Across organizations, there’s a significant, systemic lack of [competence]({{< ref "/tags/competence" >}}) in the [Scrum Master]({{< ref "/tags/scrum-master" >}}) accountability. This shortfall has grown from the agile boom of the past two decades, creating a demand for Scrum Masters that far outstrips the available supply. As a result, many individuals have transitioned into these roles without the necessary skills or experience to succeed.

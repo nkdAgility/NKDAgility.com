@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: xUJ6VvudvJx
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: xUJ6VvudvJx
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: why-frameworks-alone-will-not-transform-your-team-culture
 aliases:
   - /resources/xUJ6VvudvJx
@@ -39,7 +39,7 @@ tags:
   - Business Agility
   - Pragmatic Thinking
   - Team Motivation
-  - Enterprise Agility
+  - Employee Engagement
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7333515101389455360
@@ -55,6 +55,8 @@ Watermarks:
   description: 2025-05-29T18:10:42Z
   short_title: 2025-07-07T16:43:54Z
   tldr: 2025-08-07T12:29:19Z
+ResourceId: xUJ6VvudvJx
+ResourceType: signals
 
 ---
 If you're waiting for a framework to shift your culture, you're already on the wrong path.

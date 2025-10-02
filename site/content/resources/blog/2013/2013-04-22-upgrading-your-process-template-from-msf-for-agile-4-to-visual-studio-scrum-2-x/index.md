@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: tT1kPVxzv3D
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: tT1kPVxzv3D
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 aliases:
   - /resources/blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2.x
@@ -31,6 +31,8 @@ tags:
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:06:35Z
+ResourceId: tT1kPVxzv3D
+ResourceType: blog
 ResourceImportId: 9456
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: jXk1_Iiam_M
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: jXk1_Iiam_M
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
 aliases:
   - /resources/jXk1_Iiam_M
@@ -45,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:07:39Z
   short_title: 2025-07-07T17:51:36Z
   tldr: 2025-08-07T12:56:35Z
+ResourceId: jXk1_Iiam_M
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: jXk1_Iiam_M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jXk1_Iiam_M/maxresdefault.jpg

@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: d4jyFSYdS2v
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: d4jyFSYdS2v
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: mastering-azure-repos-training
-aliases:
-  - /resources/d4jyFSYdS2v
+aliases: []
 aliasesArchive:
   - /training-courses/mastering-azure-repos
   - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
@@ -81,6 +80,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+ResourceId: d4jyFSYdS2v
+ResourceType: course
 
 ---
 # Mastering Azure Repos Training

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 3YR-l0WfbLK
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 3YR-l0WfbLK
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: software-development-industrial-revolution
 aliases:
   - /resources/3YR-l0WfbLK
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:24Z
+ResourceId: 3YR-l0WfbLK
+ResourceType: blog
 ResourceImportId: 416
 creator: Martin Hinshelwood
 resourceTypes: blog

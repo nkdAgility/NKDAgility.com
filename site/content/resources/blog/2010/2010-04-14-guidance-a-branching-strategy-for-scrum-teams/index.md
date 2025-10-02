@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: kxyZ3s8u340
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: kxyZ3s8u340
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: guidance-a-branching-strategy-for-scrum-teams
 aliases:
   - /resources/kxyZ3s8u340
@@ -32,6 +32,8 @@ tags:
   - Release Management
 Watermarks:
   description: 2025-05-13T15:22:11Z
+ResourceId: kxyZ3s8u340
+ResourceType: blog
 ResourceImportId: 50
 creator: Martin Hinshelwood
 resourceTypes: blog

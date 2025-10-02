@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: hu80qqzaDx0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: hu80qqzaDx0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-team-potential-how-measurement-influences-engagement-and-collaboration
 aliases:
   - /resources/hu80qqzaDx0
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T12:58:32Z
   short_title: 2025-07-07T17:48:15Z
   tldr: 2025-08-07T12:49:03Z
+ResourceId: hu80qqzaDx0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: hu80qqzaDx0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hu80qqzaDx0/maxresdefault.jpg

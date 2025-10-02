@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ChjJ40t-403
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ChjJ40t-403
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: creating-a-data-access-layer-using-unity
 aliases:
   - /resources/ChjJ40t-403
@@ -28,6 +28,8 @@ tags:
   - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:23:24Z
+ResourceId: ChjJ40t-403
+ResourceType: blog
 ResourceImportId: 95
 creator: Martin Hinshelwood
 resourceTypes: blog

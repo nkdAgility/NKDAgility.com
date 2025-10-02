@@ -5,16 +5,15 @@ description: Explores how resource scarcity—like lack of trust, funding, tools
 tldr: Resource scarcity in Agile organizations—such as lack of trust, funding, training, and tools—often stems from rigid, top-down management and can severely limit team performance and growth. Empowering teams with decision-making authority, flexible budgets, and a culture of trust and continuous learning leads to better outcomes and avoids costly mistakes. Development managers should prioritize investing in people and resources to enable agility and long-term success.
 date: 2023-10-19T15:00:30Z
 lastmod: 2023-10-19T15:00:30Z
-weight: 665
+weight: 375
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
-ResourceId: W3H9z28g9R8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: W3H9z28g9R8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 7-harbingers-of-the-agile-apocalypse-famine
 aliases:
   - /resources/W3H9z28g9R8
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:08:35Z
   short_title: 2025-07-07T17:52:16Z
   tldr: 2025-08-07T12:58:13Z
+ResourceId: W3H9z28g9R8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: W3H9z28g9R8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/W3H9z28g9R8/maxresdefault.jpg

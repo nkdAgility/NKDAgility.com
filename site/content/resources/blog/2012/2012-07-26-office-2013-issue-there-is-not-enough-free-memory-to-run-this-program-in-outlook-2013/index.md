@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 2slV7lVD3rC
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 2slV7lVD3rC
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
 aliases:
   - /resources/2slV7lVD3rC
@@ -31,6 +31,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:08:34Z
+ResourceId: 2slV7lVD3rC
+ResourceType: blog
 ResourceImportId: 6758
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: ZxDktQae10M
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ZxDktQae10M
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
 aliases:
   - /resources/ZxDktQae10M
@@ -32,11 +31,15 @@ categories:
   - Uncategorized
 tags:
   - Install and Configuration
+  - Application Lifecycle Management
   - Azure DevOps
 Watermarks:
   description: 2025-05-07T13:16:23Z
   short_title: 2025-07-07T17:58:39Z
   tldr: 2025-08-07T13:13:26Z
+ResourceId: ZxDktQae10M
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ZxDktQae10M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg

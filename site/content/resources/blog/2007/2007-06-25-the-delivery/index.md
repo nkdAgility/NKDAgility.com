@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Cy6oTqwpH2P
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Cy6oTqwpH2P
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-delivery
 aliases:
   - /resources/Cy6oTqwpH2P
@@ -28,6 +28,8 @@ tags:
   - Personal
 Watermarks:
   description: 2025-05-13T16:27:46Z
+ResourceId: Cy6oTqwpH2P
+ResourceType: blog
 ResourceImportId: 374
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: jKXc6hByR_k
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: jKXc6hByR_k
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
 aliases:
   - /resources/jKXc6hByR_k
@@ -37,6 +36,7 @@ Watermarks:
   description: 2025-05-07T12:56:43Z
   short_title: 2025-07-07T17:47:10Z
   tldr: 2025-08-07T12:40:56Z
+ResourceImportSource: Youtube
 videoId: jKXc6hByR_k
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLC_neJQ7HQOO8CRb5RGMzl5ZAqXnA
@@ -44,6 +44,8 @@ duration: 172
 resourceTypes:
   - video
 isShort: false
+ResourceId: jKXc6hByR_k
+ResourceType: videos
 
 ---
 If you’re looking to build teams and an organisation that can deliver the highest possible value for your investment, then Naked Agility is here to help. Whether you’re a team member immersed in [engineering practices]({{< ref "/tags/engineering-practices" >}}) or a CTO or CEO grappling with hypothesis-driven methodologies, we can provide the [coaching]({{< ref "/tags/coaching" >}}) and advice you need to maximise your return on investment.

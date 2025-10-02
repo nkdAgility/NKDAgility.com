@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: MCkSBdzRK_c
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: MCkSBdzRK_c
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
 aliases:
   - /resources/MCkSBdzRK_c
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:06:14Z
   short_title: 2025-07-07T17:50:07Z
   tldr: 2025-08-07T12:53:40Z
+ResourceId: MCkSBdzRK_c
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: MCkSBdzRK_c
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg

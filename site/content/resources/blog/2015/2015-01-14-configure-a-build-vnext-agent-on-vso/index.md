@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: hyJFelRdglq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: hyJFelRdglq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: configure-a-build-vnext-agent
 aliases:
   - /resources/hyJFelRdglq
@@ -41,6 +41,8 @@ Watermarks:
   description: 2025-05-12T14:20:17Z
   tldr: 2025-08-07T13:25:55Z
   short_title: 2025-08-07T13:25:56Z
+ResourceId: hyJFelRdglq
+ResourceType: blog
 ResourceImportId: 11021
 creator: Martin Hinshelwood
 resourceTypes: blog

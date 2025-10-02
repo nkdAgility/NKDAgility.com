@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: Cr7wjIJ8Uvb
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: Cr7wjIJ8Uvb
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: professional-scrum-is-for-everyone-in-your-organisation
 aliases:
   - /resources/Cr7wjIJ8Uvb
@@ -49,6 +49,8 @@ Watermarks:
   description: 2025-05-07T13:16:21Z
   short_title: 2025-07-07T17:58:37Z
   tldr: 2025-08-07T13:13:21Z
+ResourceId: Cr7wjIJ8Uvb
+ResourceType: blog
 ResourceImportId: 38287
 AudioNative: true
 creator: Martin Hinshelwood

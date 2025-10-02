@@ -5,16 +5,15 @@ description: Learn practical strategies to boost product development by using ex
 tldr: This course teaches development managers how to boost user value and ROI by using experimentation, agile practices, and better collaboration with stakeholders. Key outcomes include reducing waste, speeding up time-to-market, and unlocking creative solutions by focusing on real problems. Consider applying these methods to streamline your process, make data-driven decisions, and deliver higher-impact products.
 date: 2024-08-11T22:00:33Z
 lastmod: 2024-08-11T22:00:33Z
-weight: 750
+weight: 505
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
-ResourceId: m4KNGw5p4Go
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: m4KNGw5p4Go
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
 aliases:
   - /resources/m4KNGw5p4Go
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:02:13Z
   short_title: 2025-07-07T17:48:39Z
   tldr: 2025-08-07T12:49:58Z
+ResourceId: m4KNGw5p4Go
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: m4KNGw5p4Go
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/m4KNGw5p4Go/maxresdefault.jpg

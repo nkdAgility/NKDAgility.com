@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: cGOa0rg_L-8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: cGOa0rg_L-8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: is-your-project-ecosystem-truly-agile
 aliases:
   - /resources/cGOa0rg_L-8
@@ -55,6 +54,9 @@ Watermarks:
   description: 2025-05-07T13:02:25Z
   short_title: 2025-07-07T17:48:51Z
   tldr: 2025-08-07T12:50:30Z
+ResourceId: cGOa0rg_L-8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: cGOa0rg_L-8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cGOa0rg_L-8/maxresdefault.jpg

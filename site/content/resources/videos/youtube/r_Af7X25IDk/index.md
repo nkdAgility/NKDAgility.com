@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: r_Af7X25IDk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: r_Af7X25IDk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
 aliases:
   - /resources/r_Af7X25IDk
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:15:47Z
   short_title: 2025-07-07T17:58:09Z
   tldr: 2025-08-07T13:12:04Z
+ResourceId: r_Af7X25IDk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: r_Af7X25IDk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/r_Af7X25IDk/maxresdefault.jpg

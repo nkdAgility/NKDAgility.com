@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: f_wB3o4HlXs
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: f_wB3o4HlXs
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: ten-ways-to-use-linkedin
 aliases:
   - /resources/f_wB3o4HlXs
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:34Z
+ResourceId: f_wB3o4HlXs
+ResourceType: blog
 ResourceImportId: 451
 creator: Martin Hinshelwood
 resourceTypes: blog

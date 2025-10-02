@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: qXsjLuss22Y
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: qXsjLuss22Y
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-a-product-goal
 aliases:
   - /resources/qXsjLuss22Y
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:12:02Z
   short_title: 2025-07-07T17:54:58Z
   tldr: 2025-08-07T13:04:32Z
+ResourceId: qXsjLuss22Y
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: qXsjLuss22Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/qXsjLuss22Y/maxresdefault.jpg

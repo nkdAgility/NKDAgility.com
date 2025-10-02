@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: WvUOpSMqawD
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: WvUOpSMqawD
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: evolution-not-transformation-this-is-the-inevitability-of-change
 aliases:
   - /resources/WvUOpSMqawD
@@ -50,6 +50,8 @@ Watermarks:
   description: 2025-05-07T13:15:28Z
   short_title: 2025-07-07T17:57:53Z
   tldr: 2025-08-07T13:11:13Z
+ResourceId: WvUOpSMqawD
+ResourceType: blog
 ResourceImportId: 44511
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -9,10 +9,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: HzW0lKldLP9
-ResourceImport: false
-ResourceType: principles
-ResourceContentOrigin: Human
+ItemId: HzW0lKldLP9
+ItemType: principles
+ItemKind: resource
+ItemContentOrigin: Human
 slug: value-based-prioritization
 aliases:
   - /learn/agile-delivery-kit/first-principals/value-based-prioritization/
@@ -36,6 +36,8 @@ Watermarks:
   description: 2025-05-07T12:57:53Z
   short_title: 2025-07-07T17:48:08Z
   tldr: 2025-08-07T12:48:48Z
+ResourceId: HzW0lKldLP9
+ResourceType: principles
 recommendedContent: 
 creator: Martin Hinshelwood
 resourceTypes: principles

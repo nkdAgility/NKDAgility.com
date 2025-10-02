@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: eLkJ_YEhMB0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: eLkJ_YEhMB0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: overcoming-the-ghost-of-agile-certifications
 aliases:
   - /resources/eLkJ_YEhMB0
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:06:43Z
   short_title: 2025-07-07T17:50:32Z
   tldr: 2025-08-07T12:54:46Z
+ResourceId: eLkJ_YEhMB0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: eLkJ_YEhMB0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/eLkJ_YEhMB0/maxresdefault.jpg

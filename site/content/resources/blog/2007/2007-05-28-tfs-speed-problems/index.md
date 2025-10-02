@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: OeHyC7ftjHo
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: OeHyC7ftjHo
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-speed-problems
 aliases:
   - /resources/OeHyC7ftjHo
@@ -27,6 +27,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:28:17Z
+ResourceId: OeHyC7ftjHo
+ResourceType: blog
 ResourceImportId: 395
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 1915ua1v0mc
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 1915ua1v0mc
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 aliases:
   - /resources/1915ua1v0mc
@@ -28,6 +28,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:23:06Z
+ResourceId: 1915ua1v0mc
+ResourceType: blog
 ResourceImportId: 84
 creator: Martin Hinshelwood
 resourceTypes: blog

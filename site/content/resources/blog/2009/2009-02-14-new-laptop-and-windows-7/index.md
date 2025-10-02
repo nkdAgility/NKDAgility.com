@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: XCiJC8QfDPG
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: XCiJC8QfDPG
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: new-laptop-and-windows-7
 aliases:
   - /resources/XCiJC8QfDPG
@@ -27,6 +27,8 @@ tags:
   - Miscellaneous
 Watermarks:
   description: 2025-05-13T16:21:46Z
+ResourceId: XCiJC8QfDPG
+ResourceType: blog
 ResourceImportId: 139
 creator: Martin Hinshelwood
 resourceTypes: blog

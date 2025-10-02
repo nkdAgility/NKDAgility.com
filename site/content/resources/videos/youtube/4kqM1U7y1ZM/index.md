@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: 4kqM1U7y1ZM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 4kqM1U7y1ZM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
 aliases:
   - /resources/4kqM1U7y1ZM
@@ -53,6 +52,9 @@ Watermarks:
   description: 2025-05-07T13:11:15Z
   short_title: 2025-07-07T17:54:20Z
   tldr: 2025-08-07T13:02:52Z
+ResourceId: 4kqM1U7y1ZM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 4kqM1U7y1ZM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg

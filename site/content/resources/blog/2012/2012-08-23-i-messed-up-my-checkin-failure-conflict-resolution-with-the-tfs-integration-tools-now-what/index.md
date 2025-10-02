@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: r5ID4-DiAy7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: r5ID4-DiAy7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools…-now-what
 aliases:
   - /resources/blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
@@ -30,6 +30,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:07:56Z
+ResourceId: r5ID4-DiAy7
+ResourceType: blog
 ResourceImportId: 7610
 creator: Martin Hinshelwood
 resourceTypes: blog

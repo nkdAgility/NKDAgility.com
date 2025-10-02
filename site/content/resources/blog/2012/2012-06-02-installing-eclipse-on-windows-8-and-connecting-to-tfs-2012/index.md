@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: vuVjEWsY5Av
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: vuVjEWsY5Av
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 aliases:
   - /resources/vuVjEWsY5Av
@@ -28,6 +28,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:08:57Z
+ResourceId: vuVjEWsY5Av
+ResourceType: blog
 ResourceImportId: 5415
 creator: Martin Hinshelwood
 resourceTypes: blog

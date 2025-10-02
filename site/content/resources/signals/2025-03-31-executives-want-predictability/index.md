@@ -10,17 +10,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: sJJYz51QG0O
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: sJJYz51QG0O
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: executives-want-predictability
 aliases:
   - /resources/sJJYz51QG0O
 source: LinkedIn
 layout: signal
 concepts:
-  - Principle
+  - Tenet
 categories:
   - Scrum
   - Product Development
@@ -53,6 +53,8 @@ Watermarks:
   description: 2025-05-16T15:55:47Z
   short_title: 2025-07-07T16:45:07Z
   tldr: 2025-08-07T12:34:15Z
+ResourceId: sJJYz51QG0O
+ResourceType: signals
 
 ---
 Executives want predictability. Stakeholders want transparency. Investors want confidence. But if your organisation treats “Done” as a moving target, all you’re really delivering is a well-packaged lie.

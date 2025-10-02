@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: vY0hXTm-wgk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: vY0hXTm-wgk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
 aliases:
   - /resources/vY0hXTm-wgk
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:14:45Z
   short_title: 2025-07-07T17:57:21Z
   tldr: 2025-08-07T13:09:44Z
+ResourceId: vY0hXTm-wgk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: vY0hXTm-wgk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg

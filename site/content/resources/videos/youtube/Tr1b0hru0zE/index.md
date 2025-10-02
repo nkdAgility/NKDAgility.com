@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: Tr1b0hru0zE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: Tr1b0hru0zE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
 aliases:
   - /resources/Tr1b0hru0zE
@@ -34,10 +33,10 @@ categories:
   - Engineering Excellence
   - Product Development
 tags:
+  - Pragmatic Thinking
   - Software Development
   - Operational Practices
   - Engineering Practices
-  - Pragmatic Thinking
   - Technical Mastery
   - Product Delivery
   - Digital Transformation
@@ -46,6 +45,7 @@ Watermarks:
   description: 2025-05-07T20:13:52Z
   short_title: 2025-07-07T16:43:47Z
   tldr: 2025-08-07T12:29:01Z
+ResourceImportSource: Youtube
 videoId: Tr1b0hru0zE
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/Tr1b0hru0zE/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLAVn8ga5Jcn-LD4KMP6U1PeYvlUiQ
@@ -53,6 +53,8 @@ duration: 85
 resourceTypes:
   - video
 isShort: false
+ResourceId: Tr1b0hru0zE
+ResourceType: videos
 
 ---
 When I walk into organisations wrestling with legacy systems, I see the same story play out time and again. There’s a desire to move faster, to be more responsive, to scale with confidence—but the weight of decades-old decisions drags everything down. These decisions, made with the best intentions and the knowledge available at the time, have become anchors. The risk of change feels insurmountable, and so inertia sets in.

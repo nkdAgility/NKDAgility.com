@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: e7L0NFYUFSw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: e7L0NFYUFSw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: debunking-the-scrum-myth-why-twice-the-work-in-half-the-time-is-a-misleading-promise
 aliases:
   - /resources/e7L0NFYUFSw
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:14:17Z
   short_title: 2025-07-07T17:56:55Z
   tldr: 2025-08-07T13:08:39Z
+ResourceId: e7L0NFYUFSw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: e7L0NFYUFSw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg

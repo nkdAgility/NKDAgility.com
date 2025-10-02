@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: kBoaPAZssaV
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: kBoaPAZssaV
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: reuse-your-msdn-benefits-with-your-org-id
 aliases:
   - /resources/kBoaPAZssaV
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-12T14:20:57Z
   tldr: 2025-08-07T13:26:53Z
   short_title: 2025-08-07T13:26:54Z
+ResourceId: kBoaPAZssaV
+ResourceType: blog
 ResourceImportId: 10786
 creator: Martin Hinshelwood
 resourceTypes: blog

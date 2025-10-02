@@ -5,16 +5,15 @@ description: Explains when agile consulting is best used, highlighting its role 
 tldr: Agile consulting is most effective when used for short-term engagements that build internal leadership and agile capabilities, rather than relying on long-term external coaches which can create dependency and erode core competencies. The main value lies in helping teams quickly identify and solve key problems, enabling sustainable improvement and momentum. Development managers should focus on developing internal agile leaders and use consultants to kickstart transformation, not as a permanent solution.
 date: 2023-01-06T04:52:40Z
 lastmod: 2023-01-06T04:52:40Z
-weight: 640
+weight: 445
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: monthly
-ResourceId: rX258aqTf_w
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: rX258aqTf_w
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: in-what-circumstances-is-agile-consulting-appropriate
 aliases:
   - /resources/rX258aqTf_w
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:14:36Z
   short_title: 2025-07-07T17:57:13Z
   tldr: 2025-08-07T13:09:21Z
+ResourceId: rX258aqTf_w
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: rX258aqTf_w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rX258aqTf_w/maxresdefault.jpg

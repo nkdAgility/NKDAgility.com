@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: aTblgfZ5dUo
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: aTblgfZ5dUo
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
 aliases:
   - /resources/blog/tfs2012.2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
@@ -37,6 +37,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:06:29Z
+ResourceId: aTblgfZ5dUo
+ResourceType: blog
 ResourceImportId: 9899
 creator: Martin Hinshelwood
 resourceTypes: blog

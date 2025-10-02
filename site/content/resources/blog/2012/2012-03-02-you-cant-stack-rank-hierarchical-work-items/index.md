@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: u9Eh1rXDhGE
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: u9Eh1rXDhGE
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: you-can't-stack-rank-hierarchical-work-items
 aliases:
   - /resources/blog/you-can-t-stack-rank-hierarchical-work-items
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:09:13Z
+ResourceId: u9Eh1rXDhGE
+ResourceType: blog
 ResourceImportId: 4773
 creator: Martin Hinshelwood
 resourceTypes: blog

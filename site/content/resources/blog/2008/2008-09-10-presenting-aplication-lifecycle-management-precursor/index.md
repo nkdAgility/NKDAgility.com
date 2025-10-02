@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 896VMaXqzu_
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 896VMaXqzu_
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: presenting-aplication-lifecycle-management-precursor
 aliases:
   - /resources/896VMaXqzu_
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:23:16Z
+ResourceId: 896VMaXqzu_
+ResourceType: blog
 ResourceImportId: 194
 creator: Martin Hinshelwood
 resourceTypes: blog

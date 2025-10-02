@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: IrDYI5d-kXv
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: IrDYI5d-kXv
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: scrum-masters-enabling-teams-fostering-agility-removing-blockers
 aliases:
   - /resources/IrDYI5d-kXv
@@ -50,6 +50,8 @@ Watermarks:
   description: 2025-05-16T15:56:31Z
   short_title: 2025-07-07T16:45:36Z
   tldr: 2025-08-07T12:35:12Z
+ResourceId: IrDYI5d-kXv
+ResourceType: signals
 
 ---
 Scrum Masters talk about enabling teams, fostering agility, and removing blockers. But here’s the real question—are you accountable for delivery?

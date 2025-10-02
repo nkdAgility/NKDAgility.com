@@ -64,7 +64,7 @@
 
       {{- $recordType := "Resource" }}
       {{- $recordKind := $page.Type }}
-      {{- $recordId := $page.Params.resourceId | default $page.Title }}
+      {{- $recordId := $page.Params.ItemId | default $page.Title }}
       {{- if $page.Params.ClassificationType }}
         {{- $recordType = "Categorisation" }}
         {{- $recordKind = $page.Params.ClassificationType }}

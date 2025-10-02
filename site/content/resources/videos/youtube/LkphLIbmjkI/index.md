@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: LkphLIbmjkI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: LkphLIbmjkI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
 aliases:
   - /resources/LkphLIbmjkI
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:11:17Z
   short_title: 2025-07-07T17:54:21Z
   tldr: 2025-08-07T13:02:59Z
+ResourceId: LkphLIbmjkI
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: LkphLIbmjkI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/LkphLIbmjkI/maxresdefault.jpg

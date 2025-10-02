@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: aEBNMpag_Cn
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: aEBNMpag_Cn
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 aliases:
   - /resources/aEBNMpag_Cn
@@ -29,6 +29,8 @@ tags:
   - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:08:37Z
+ResourceId: aEBNMpag_Cn
+ResourceType: blog
 ResourceImportId: 6202
 creator: Martin Hinshelwood
 resourceTypes: blog

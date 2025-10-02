@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 5vsN0oSbwHe
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 5vsN0oSbwHe
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-visual-studio-11-on-windows-7
 aliases:
   - /resources/5vsN0oSbwHe
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:17Z
+ResourceId: 5vsN0oSbwHe
+ResourceType: blog
 ResourceImportId: 4727
 creator: Martin Hinshelwood
 resourceTypes: blog

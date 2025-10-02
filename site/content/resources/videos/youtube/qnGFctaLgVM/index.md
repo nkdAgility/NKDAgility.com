@@ -5,16 +5,15 @@ description: Discover how Russell’s extensive product development experience a
 tldr: Russell is a highly experienced and versatile PSPO trainer whose background spans both technical and strategic aspects of product development, including work in aerospace and mentoring Product Owners. His teaching focuses on maximizing product value through practical, real-world insights and engaging, comprehensive learning experiences. Development managers looking to elevate their teams' product ownership skills should consider his course for actionable strategies and proven results.
 date: 2023-08-24T07:00:31Z
 lastmod: 2023-08-24T07:00:31Z
-weight: 860
+weight: 685
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: qnGFctaLgVM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: qnGFctaLgVM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
 aliases:
   - /resources/qnGFctaLgVM
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:09:53Z
   short_title: 2025-07-07T17:53:23Z
   tldr: 2025-08-07T13:00:47Z
+ResourceId: qnGFctaLgVM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: qnGFctaLgVM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/qnGFctaLgVM/maxresdefault.jpg

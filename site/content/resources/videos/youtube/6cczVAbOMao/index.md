@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 6cczVAbOMao
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 6cczVAbOMao
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-critical-is-a-product-owner-in-developing-a-great-product-backlog
 aliases:
   - /resources/6cczVAbOMao
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:12:01Z
   short_title: 2025-07-07T17:54:57Z
   tldr: 2025-08-07T13:04:30Z
+ResourceId: 6cczVAbOMao
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 6cczVAbOMao
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/6cczVAbOMao/maxresdefault.jpg

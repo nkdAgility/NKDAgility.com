@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: jo0zeQr1paY
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: jo0zeQr1paY
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: introduction-to-visual-studio-11
 aliases:
   - /resources/jo0zeQr1paY
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:26Z
+ResourceId: jo0zeQr1paY
+ResourceType: blog
 ResourceImportId: 4393
 creator: Martin Hinshelwood
 resourceTypes: blog

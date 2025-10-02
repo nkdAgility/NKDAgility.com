@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: VThLnxVapgJ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: VThLnxVapgJ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: how-to-build-for-business-resilience-and-continuity
 aliases:
   - /resources/VThLnxVapgJ
@@ -27,11 +27,14 @@ categories:
   - Engineering Excellence
   - Product Development
 tags:
+  - Product Delivery
   - Site Reliability Engineering
+  - Engineering Practices
   - Market Adaptability
   - Operational Practices
   - Pragmatic Thinking
   - Evidence Based Management
+  - Social Technologies
   - Technical Excellence
   - Software Development
   - Technical Mastery
@@ -40,6 +43,8 @@ Watermarks:
   description: 2025-05-07T12:49:05Z
   short_title: 2025-07-07T16:43:58Z
   tldr: 2025-08-07T12:29:27Z
+ResourceId: VThLnxVapgJ
+ResourceType: blog
 
 ---
 Business resilience is not an accident. It is the deliberate outcome of intelligent systems design, pragmatic decision-making, and organisational discipline. If you want resilience, you must build for it—**upfront, consistently, and aggressively**.

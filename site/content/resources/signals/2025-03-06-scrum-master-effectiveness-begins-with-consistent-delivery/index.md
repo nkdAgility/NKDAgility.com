@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: KWm8S39saqg
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: KWm8S39saqg
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: scrum-master-effectiveness-begins-with-consistent-delivery
 aliases:
   - /resources/KWm8S39saqg
@@ -43,6 +43,8 @@ Watermarks:
   description: 2025-05-16T15:56:30Z
   short_title: 2025-07-07T16:45:35Z
   tldr: 2025-08-07T12:35:10Z
+ResourceId: KWm8S39saqg
+ResourceType: signals
 
 ---
 Scrum Masters love to talk about effectiveness, but here’s a reality check—effectiveness starts with delivery.

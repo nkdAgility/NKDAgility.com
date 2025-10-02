@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: gc8Pq_5CepY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: gc8Pq_5CepY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
 aliases:
   - /resources/gc8Pq_5CepY
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:15:40Z
   short_title: 2025-07-07T17:58:03Z
   tldr: 2025-08-07T13:11:36Z
+ResourceId: gc8Pq_5CepY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: gc8Pq_5CepY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gc8Pq_5CepY/maxresdefault.jpg

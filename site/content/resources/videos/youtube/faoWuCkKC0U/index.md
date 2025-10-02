@@ -5,16 +5,15 @@ description: Discover how the PSPO-A course helps product managers and owners ma
 tldr: The PSPO-A course helps product managers and product owners master Agile and Scrum principles, improving their ability to manage products efficiently and respond to change. It offers practical insights to boost collaboration, innovation, and effectiveness in product management. Consider enrolling to enhance your skills and drive better results for your team and business.
 date: 2023-07-11T14:00:32Z
 lastmod: 2023-07-11T14:00:32Z
-weight: 855
+weight: 665
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: faoWuCkKC0U
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: faoWuCkKC0U
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: reasons-to-do-a-pspo-a-course-in-60-seconds
 aliases:
   - /resources/faoWuCkKC0U
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:10:53Z
   short_title: 2025-07-07T17:54:03Z
   tldr: 2025-08-07T13:02:14Z
+ResourceId: faoWuCkKC0U
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: faoWuCkKC0U
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/faoWuCkKC0U/maxresdefault.jpg

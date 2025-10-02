@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: CHfV0DI2Plv
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: CHfV0DI2Plv
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: hiring-a-scrum-master-is-hard
 aliases:
   - /resources/CHfV0DI2Plv
@@ -49,6 +49,8 @@ Watermarks:
   description: 2025-05-16T15:56:56Z
   short_title: 2025-07-07T17:46:28Z
   tldr: 2025-08-07T12:39:27Z
+ResourceId: CHfV0DI2Plv
+ResourceType: signals
 
 ---
 Hiring a Scrum Master is hard. Not because the role is rare—there are plenty of CVs with “Scrum Master” slapped on them—but because too many organisations still don’t know what they actually need.

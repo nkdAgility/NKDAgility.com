@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: iCDEX6oHy7A
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: iCDEX6oHy7A
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
 aliases:
   - /resources/iCDEX6oHy7A
@@ -34,11 +33,15 @@ categories:
 tags:
   - Software Development
   - Agile Transformation
+  - Organisational Change
   - Competence
 Watermarks:
   description: 2025-05-07T13:15:54Z
   short_title: 2025-07-07T17:58:14Z
   tldr: 2025-08-07T13:12:19Z
+ResourceId: iCDEX6oHy7A
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: iCDEX6oHy7A
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: jCqRHt8LLgw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: jCqRHt8LLgw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
 aliases:
   - /resources/jCqRHt8LLgw
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:15:44Z
   short_title: 2025-07-07T17:58:06Z
   tldr: 2025-08-07T13:11:47Z
+ResourceId: jCqRHt8LLgw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: jCqRHt8LLgw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jCqRHt8LLgw/maxresdefault.jpg

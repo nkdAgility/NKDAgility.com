@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: sHgkQlcvb2R
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: sHgkQlcvb2R
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: sharepoint-2007-and-silverlight
 aliases:
   - /resources/sHgkQlcvb2R
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:24:19Z
+ResourceId: sHgkQlcvb2R
+ResourceType: blog
 ResourceImportId: 132
 creator: Martin Hinshelwood
 resourceTypes: blog

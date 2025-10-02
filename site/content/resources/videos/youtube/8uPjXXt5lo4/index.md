@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 8uPjXXt5lo4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 8uPjXXt5lo4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-the-most-valuable-thing-you-have-learned-through-training-people
 aliases:
   - /resources/8uPjXXt5lo4
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:14:13Z
   short_title: 2025-07-07T17:56:52Z
   tldr: 2025-08-07T13:08:32Z
+ResourceId: 8uPjXXt5lo4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 8uPjXXt5lo4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8uPjXXt5lo4/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: zcpMYmgu_vJ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: zcpMYmgu_vJ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: jadie-hinshelwood-a-yummy-mummy-is-born
 aliases:
   - /resources/zcpMYmgu_vJ
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:04Z
+ResourceId: zcpMYmgu_vJ
+ResourceType: blog
 ResourceImportId: 309
 creator: Martin Hinshelwood
 resourceTypes: blog

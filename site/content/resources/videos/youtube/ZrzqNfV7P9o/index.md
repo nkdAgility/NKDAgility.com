@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: ZrzqNfV7P9o
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ZrzqNfV7P9o
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: learn-scrum-with-minecraft-education-edition
 aliases:
   - /resources/ZrzqNfV7P9o
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:14:34Z
   short_title: 2025-07-07T17:57:10Z
   tldr: 2025-08-07T13:09:15Z
+ResourceId: ZrzqNfV7P9o
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ZrzqNfV7P9o
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZrzqNfV7P9o/maxresdefault.jpg

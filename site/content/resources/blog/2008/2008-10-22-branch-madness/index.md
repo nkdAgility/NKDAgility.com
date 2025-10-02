@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: s2fykp0ti2Y
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: s2fykp0ti2Y
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: branch-madness
 aliases:
   - /resources/s2fykp0ti2Y
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T16:22:59Z
+ResourceId: s2fykp0ti2Y
+ResourceType: blog
 ResourceImportId: 186
 creator: Martin Hinshelwood
 resourceTypes: blog

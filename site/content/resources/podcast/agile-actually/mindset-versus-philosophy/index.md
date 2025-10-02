@@ -11,10 +11,10 @@ sitemap:
   priority: 0.1
   changefreq: monthly
 author: MrHinsh
-ResourceId: G2XUaCtiq8w
-ResourceImport: false
-ResourceType: podcast
-ResourceContentOrigin: Human
+ItemId: G2XUaCtiq8w
+ItemType: podcast
+ItemKind: resource
+ItemContentOrigin: Human
 slug: mindset-versus-philosophy
 aliases:
   - /resources/G2XUaCtiq8w
@@ -28,6 +28,8 @@ Watermarks:
   description: 2025-05-07T13:05:39Z
   short_title: 2025-07-07T17:49:39Z
   tldr: 2025-08-07T12:52:32Z
+ResourceId: G2XUaCtiq8w
+ResourceType: podcast
 resourceTypes: podcast
 
 ---

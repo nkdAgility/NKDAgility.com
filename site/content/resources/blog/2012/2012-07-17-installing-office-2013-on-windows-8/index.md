@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Pm8GkiOhWyK
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Pm8GkiOhWyK
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-office-2013-on-windows-8
 aliases:
   - /resources/Pm8GkiOhWyK
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:08:38Z
+ResourceId: Pm8GkiOhWyK
+ResourceType: blog
 ResourceImportId: 6306
 creator: Martin Hinshelwood
 resourceTypes: blog

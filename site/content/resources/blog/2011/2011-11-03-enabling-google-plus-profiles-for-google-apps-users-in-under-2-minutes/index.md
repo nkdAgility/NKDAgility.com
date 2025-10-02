@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: iTuGd858pI6
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: iTuGd858pI6
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 aliases:
   - /resources/iTuGd858pI6
@@ -27,6 +27,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:09:58Z
+ResourceId: iTuGd858pI6
+ResourceType: blog
 ResourceImportId: 4016
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: HTv3NkNJovk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: HTv3NkNJovk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
 aliases:
   - /resources/HTv3NkNJovk
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:14:18Z
   short_title: 2025-07-07T17:56:56Z
   tldr: 2025-08-07T13:08:43Z
+ResourceId: HTv3NkNJovk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: HTv3NkNJovk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/HTv3NkNJovk/maxresdefault.jpg

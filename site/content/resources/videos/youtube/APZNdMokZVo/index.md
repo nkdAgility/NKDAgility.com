@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: APZNdMokZVo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: APZNdMokZVo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
 aliases:
   - /resources/APZNdMokZVo
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:07:56Z
   short_title: 2025-07-07T17:51:49Z
   tldr: 2025-08-07T12:57:09Z
+ResourceId: APZNdMokZVo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: APZNdMokZVo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg

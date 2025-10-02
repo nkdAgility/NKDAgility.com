@@ -5,16 +5,15 @@ description: Learn practical strategies for effective product backlog management
 tldr: Effective product backlog management is crucial for Agile success; prioritising tasks, limiting work in progress, and holding regular refinement sessions help teams stay focused and deliver more value. Engaging stakeholders and using visual tools can further improve clarity and alignment. Development managers should regularly review their backlog practices to ensure they are working on the most valuable items and maintaining a manageable, focused backlog.
 date: 2023-11-30T11:00:31Z
 lastmod: 2023-11-30T11:00:31Z
-weight: 1000
+weight: 710
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: R8Ris5quXb8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: R8Ris5quXb8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-product-backlog-management-key-strategies-for-agile-success
 aliases:
   - /resources/R8Ris5quXb8
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:07:22Z
   short_title: 2025-07-07T17:51:22Z
   tldr: 2025-08-07T12:55:55Z
+ResourceId: R8Ris5quXb8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: R8Ris5quXb8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: mgwL4ERT1N3
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: mgwL4ERT1N3
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: creating-a-custom-activity-for-team-foundation-build
 aliases:
   - /resources/mgwL4ERT1N3
@@ -28,6 +28,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:23:39Z
+ResourceId: mgwL4ERT1N3
+ResourceType: blog
 ResourceImportId: 9769
 creator: Martin Hinshelwood
 resourceTypes: blog

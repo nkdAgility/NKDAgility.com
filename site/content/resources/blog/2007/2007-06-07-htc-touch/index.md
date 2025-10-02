@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: nPextmaNube
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: nPextmaNube
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: htc-touch
 aliases:
   - /resources/nPextmaNube
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:07Z
+ResourceId: nPextmaNube
+ResourceType: blog
 ResourceImportId: 385
 creator: Martin Hinshelwood
 resourceTypes: blog

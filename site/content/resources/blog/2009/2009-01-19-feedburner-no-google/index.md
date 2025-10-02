@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: W90U2-3Up25
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: W90U2-3Up25
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: feedburner-no-google
 aliases:
   - /resources/blog/feedburner-no-google
@@ -31,6 +31,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:21:52Z
+ResourceId: W90U2-3Up25
+ResourceType: blog
 ResourceImportId: 144
 creator: Martin Hinshelwood
 resourceTypes: blog

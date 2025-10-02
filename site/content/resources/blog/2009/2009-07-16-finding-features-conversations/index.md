@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: hqtW-w7ZTE1
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: hqtW-w7ZTE1
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: finding-features-conversations
 aliases:
   - /resources/hqtW-w7ZTE1
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:35Z
+ResourceId: hqtW-w7ZTE1
+ResourceType: blog
 ResourceImportId: 101
 creator: Martin Hinshelwood
 resourceTypes: blog

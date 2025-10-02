@@ -5,16 +5,15 @@ description: Explores how AI boosts workplace productivity and creativity by aut
 tldr: AI is rapidly transforming work by boosting productivity and creativity, acting as a supportive tool for idea generation, content creation, and automating repetitive tasks. Teams that adopt AI can work more efficiently and gain a competitive advantage. Development managers should start exploring and integrating AI tools now to stay ahead in a changing landscape.
 date: 2023-07-05T14:49:20Z
 lastmod: 2023-07-05T14:49:20Z
-weight: 1000
+weight: 845
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: fcOSewXez3I
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: fcOSewXez3I
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
 aliases:
   - /resources/fcOSewXez3I
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:11:03Z
   short_title: 2025-07-07T17:54:11Z
   tldr: 2025-08-07T13:02:31Z
+ResourceId: fcOSewXez3I
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: fcOSewXez3I
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: TgSz2FK5KBK
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: TgSz2FK5KBK
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: serialize-assembly-for-service-calls-over-http
 aliases:
   - /resources/TgSz2FK5KBK
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:48Z
+ResourceId: TgSz2FK5KBK
+ResourceType: blog
 ResourceImportId: 415
 creator: Martin Hinshelwood
 resourceTypes: blog

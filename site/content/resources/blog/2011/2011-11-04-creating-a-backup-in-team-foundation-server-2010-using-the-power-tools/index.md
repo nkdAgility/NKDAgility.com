@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 9fVxqpOPzX8
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 9fVxqpOPzX8
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 aliases:
   - /resources/9fVxqpOPzX8
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:09:57Z
+ResourceId: 9fVxqpOPzX8
+ResourceType: blog
 ResourceImportId: 4025
 creator: Martin Hinshelwood
 resourceTypes: blog

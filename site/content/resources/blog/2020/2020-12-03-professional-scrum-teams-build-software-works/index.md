@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: vCeqzJIgF1F
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: vCeqzJIgF1F
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: professional-scrum-teams-build-software-that-works
 aliases:
   - /blog/professional-scrum-teams-build-software-works
@@ -55,6 +55,8 @@ Watermarks:
   description: 2025-05-07T13:15:18Z
   short_title: 2025-07-07T17:57:45Z
   tldr: 2025-08-07T13:10:53Z
+ResourceId: vCeqzJIgF1F
+ResourceType: blog
 ResourceImportId: 22774
 creator: Martin Hinshelwood
 resourceTypes: blog

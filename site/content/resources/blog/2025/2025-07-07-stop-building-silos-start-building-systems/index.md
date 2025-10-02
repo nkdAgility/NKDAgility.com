@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.9
   changefreq: weekly
-ResourceId: zLhc3UKUWOj
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: zLhc3UKUWOj
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: stop-building-silos-start-building-systems
 aliases:
   - /resources/zLhc3UKUWOj
@@ -48,6 +48,8 @@ Watermarks:
   description: 2025-05-07T12:48:58Z
   short_title: 2025-07-07T16:43:18Z
   tldr: 2025-07-30T23:22:19Z
+ResourceId: zLhc3UKUWOj
+ResourceType: blog
 
 ---
 You can’t deliver quality at speed when your automation is duct-taped together. If your pipelines are stitched across multiple systems, your deployments depend on human rituals, and your tests run in the shadows, you don’t have a delivery system—you have a liability.

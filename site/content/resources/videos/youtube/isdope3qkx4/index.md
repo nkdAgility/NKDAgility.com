@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: isdope3qkx4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: isdope3qkx4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
 aliases:
   - /resources/isdope3qkx4
@@ -33,10 +32,14 @@ categories:
 tags:
   - Software Development
   - Collaboration Tools
+  - Remote Working
 Watermarks:
   description: 2025-05-07T13:15:50Z
   short_title: 2025-07-07T17:58:11Z
   tldr: 2025-08-07T13:12:12Z
+ResourceId: isdope3qkx4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: isdope3qkx4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/isdope3qkx4/hqdefault.jpg

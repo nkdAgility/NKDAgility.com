@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: pyk0CfSobzM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: pyk0CfSobzM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 aliases:
   - /resources/pyk0CfSobzM
@@ -32,11 +31,15 @@ categories:
   - Scrum
   - Product Development
 tags:
+  - Personal
   - Software Development
 Watermarks:
   description: 2025-05-07T13:11:58Z
   short_title: 2025-07-07T17:54:55Z
   tldr: 2025-08-07T13:04:24Z
+ResourceId: pyk0CfSobzM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: pyk0CfSobzM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pyk0CfSobzM/maxresdefault.jpg

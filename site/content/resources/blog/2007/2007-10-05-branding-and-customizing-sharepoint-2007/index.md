@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 1j-4XNo1AAo
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 1j-4XNo1AAo
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: branding-and-customizing-sharepoint-2007
 aliases:
   - /resources/1j-4XNo1AAo
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:55Z
+ResourceId: 1j-4XNo1AAo
+ResourceType: blog
 ResourceImportId: 303
 creator: Martin Hinshelwood
 resourceTypes: blog

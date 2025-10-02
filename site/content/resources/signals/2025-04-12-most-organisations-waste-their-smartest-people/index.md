@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: hXwfpdteI-Q
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: hXwfpdteI-Q
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: most-organisations-waste-their-smartest-people
 aliases:
   - /resources/hXwfpdteI-Q
@@ -40,6 +40,8 @@ Watermarks:
   description: 2025-05-16T15:55:32Z
   short_title: 2025-07-07T16:44:55Z
   tldr: 2025-08-07T12:33:47Z
+ResourceId: hXwfpdteI-Q
+ResourceType: signals
 
 ---
 Most organisations waste their smartest people. Not because they lack skill—but because their environment makes thinking a liability.

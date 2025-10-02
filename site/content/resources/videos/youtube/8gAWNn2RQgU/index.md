@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: 8gAWNn2RQgU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 8gAWNn2RQgU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
 aliases:
   - /resources/8gAWNn2RQgU
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:09:57Z
   short_title: 2025-07-07T17:53:26Z
   tldr: 2025-08-07T13:00:54Z
+ResourceId: 8gAWNn2RQgU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 8gAWNn2RQgU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8gAWNn2RQgU/maxresdefault.jpg

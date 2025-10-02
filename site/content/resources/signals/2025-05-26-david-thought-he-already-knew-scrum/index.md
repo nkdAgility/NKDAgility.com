@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: qpdjJhtaABE
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: qpdjJhtaABE
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: david-thought-he-already-knew-scrum
 aliases:
   - /resources/qpdjJhtaABE
@@ -27,9 +27,9 @@ categories:
 tags:
   - Software Development
   - Professional Scrum
-  - Competence
   - Agile Frameworks
   - Pragmatic Thinking
+  - Competence
   - Empirical Process Control
   - Agile Values and Principles
 platform_signals:
@@ -47,6 +47,8 @@ Watermarks:
   description: 2025-05-29T18:10:47Z
   short_title: 2025-07-07T16:43:57Z
   tldr: 2025-08-07T12:29:25Z
+ResourceId: qpdjJhtaABE
+ResourceType: signals
 
 ---
 David thought he already knew Scrum. Four hours into the class, he realised he didn’t.

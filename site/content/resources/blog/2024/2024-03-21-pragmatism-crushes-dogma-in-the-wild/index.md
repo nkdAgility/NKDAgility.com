@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: mkdhLrKu8sh
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: mkdhLrKu8sh
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: pragmatism-crushes-dogma-in-the-wild
 aliases:
   - /blog/pragmatism-crushes-dogma-in-the-wild
@@ -49,6 +49,8 @@ Watermarks:
   description: 2025-05-07T13:05:24Z
   short_title: 2025-07-07T17:49:27Z
   tldr: 2025-08-07T12:52:04Z
+ResourceId: mkdhLrKu8sh
+ResourceType: blog
 ResourceImportId: 51362
 AudioNative: true
 creator: Martin Hinshelwood

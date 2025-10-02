@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: sbr8NkJSLPU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: sbr8NkJSLPU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
 aliases:
   - /resources/sbr8NkJSLPU
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:05:34Z
   short_title: 2025-07-07T17:49:35Z
   tldr: 2025-08-07T12:52:24Z
+ResourceId: sbr8NkJSLPU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: sbr8NkJSLPU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg

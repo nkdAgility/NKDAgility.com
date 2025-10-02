@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: _3B1lqJWcF5
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: _3B1lqJWcF5
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: search-just-got-better-part-2
 aliases:
   - /resources/_3B1lqJWcF5
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:22Z
+ResourceId: _3B1lqJWcF5
+ResourceType: blog
 ResourceImportId: 322
 creator: Martin Hinshelwood
 resourceTypes: blog

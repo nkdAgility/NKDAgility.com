@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: 9PBpgfsojQI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 9PBpgfsojQI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
 aliases:
   - /resources/9PBpgfsojQI
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:14:06Z
   short_title: 2025-07-07T17:56:47Z
   tldr: 2025-08-07T13:08:21Z
+ResourceId: 9PBpgfsojQI
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 9PBpgfsojQI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/9PBpgfsojQI/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: -dAwZr3zpgy
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: -dAwZr3zpgy
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-integration-tools-issue-unable-to-find-a-unique-local-path
 aliases:
   - /resources/-dAwZr3zpgy
@@ -30,6 +30,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:06:26Z
+ResourceId: -dAwZr3zpgy
+ResourceType: blog
 ResourceImportId: 9495
 creator: Martin Hinshelwood
 resourceTypes: blog

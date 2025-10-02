@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: YxOe4jYxLpj
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: YxOe4jYxLpj
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
 aliases:
   - /resources/YxOe4jYxLpj
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:22:51Z
+ResourceId: YxOe4jYxLpj
+ResourceType: blog
 ResourceImportId: 76
 creator: Martin Hinshelwood
 resourceTypes: blog

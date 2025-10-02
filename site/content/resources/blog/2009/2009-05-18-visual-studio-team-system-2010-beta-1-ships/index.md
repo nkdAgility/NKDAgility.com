@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: -TRUW1RsR2n
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: -TRUW1RsR2n
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-team-system-2010-beta-1-ships
 aliases:
   - /resources/-TRUW1RsR2n
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:55Z
+ResourceId: -TRUW1RsR2n
+ResourceType: blog
 ResourceImportId: 121
 creator: Martin Hinshelwood
 resourceTypes: blog

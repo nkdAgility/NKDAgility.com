@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: utI-1HVpeSU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: utI-1HVpeSU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: quotes-dictatorship-vs-democracy
 aliases:
   - /resources/utI-1HVpeSU
@@ -30,6 +29,7 @@ categories:
   - Leadership
   - Technical Leadership
 tags:
+  - Agile Leadership
   - Team Motivation
   - Organisational Psychology
   - Organisational Culture
@@ -37,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:08:44Z
   short_title: 2025-07-07T17:52:24Z
   tldr: 2025-08-07T12:58:30Z
+ResourceId: utI-1HVpeSU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: utI-1HVpeSU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/utI-1HVpeSU/maxresdefault.jpg

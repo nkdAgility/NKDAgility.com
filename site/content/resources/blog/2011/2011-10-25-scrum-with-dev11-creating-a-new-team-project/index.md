@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 04eLjqdYkiX
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 04eLjqdYkiX
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: scrum-with-visual-studio-11-creating-a-new-team-project
 aliases:
   - /resources/04eLjqdYkiX
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:10:00Z
+ResourceId: 04eLjqdYkiX
+ResourceType: blog
 ResourceImportId: 3976
 creator: Martin Hinshelwood
 resourceTypes: blog

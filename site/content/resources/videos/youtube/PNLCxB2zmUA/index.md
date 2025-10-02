@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: PNLCxB2zmUA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: PNLCxB2zmUA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: embracing-change-how-architectural-adaptation-fuels-software-development-success
 aliases:
   - /resources/PNLCxB2zmUA
@@ -40,11 +39,13 @@ categories:
   - Product Development
   - Engineering Excellence
   - Technical Leadership
-tags: []
+tags:
+  - Change Management
 Watermarks:
   description: 2025-05-07T12:49:47Z
   short_title: 2025-07-07T17:46:45Z
   tldr: 2025-08-07T12:40:03Z
+ResourceImportSource: Youtube
 videoId: PNLCxB2zmUA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/PNLCxB2zmUA/maxresdefault.jpg
@@ -52,6 +53,8 @@ duration: 48
 resourceTypes:
   - video
 isShort: true
+ResourceId: PNLCxB2zmUA
+ResourceType: videos
 
 ---
 As I reflect on my journey in [software development]({{< ref "/tags/software-development" >}}), one truth stands out: adapting to changing demands is not just a necessity; it’s a fundamental part of our craft. When we shift the expectations we place on our products, we must also be prepared to evolve the architecture that underpins them. This is a lesson I’ve learned time and again, and it’s one I want to share with you today.

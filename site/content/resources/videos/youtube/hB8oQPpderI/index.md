@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: hB8oQPpderI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: hB8oQPpderI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: one-limitation-of-reading-a-book-vs-attending-a-course
 aliases:
   - /resources/hB8oQPpderI
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:12:38Z
   short_title: 2025-07-07T17:55:23Z
   tldr: 2025-08-07T13:05:25Z
+ResourceId: hB8oQPpderI
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: hB8oQPpderI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hB8oQPpderI/maxresdefault.jpg

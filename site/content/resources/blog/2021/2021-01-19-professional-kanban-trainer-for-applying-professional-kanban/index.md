@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ZQi3U9gnXj3
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: ZQi3U9gnXj3
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: professional-kanban-trainer-for-applying-professional-kanban
 aliases:
   - /blog/professional-kanban-trainer-for-applying-professional-kanban
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-07T13:15:02Z
   short_title: 2025-07-07T17:57:36Z
   tldr: 2025-08-07T13:10:24Z
+ResourceId: ZQi3U9gnXj3
+ResourceType: blog
 ResourceImportId: 45694
 AudioNative: true
 creator: Martin Hinshelwood

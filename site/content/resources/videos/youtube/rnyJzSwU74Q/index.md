@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: rnyJzSwU74Q
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: rnyJzSwU74Q
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-agile-success-how-empirical-models-transform-project-outcomes
 aliases:
   - /resources/rnyJzSwU74Q
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:14:42Z
   short_title: 2025-07-07T17:57:19Z
   tldr: 2025-08-07T13:09:40Z
+ResourceId: rnyJzSwU74Q
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: rnyJzSwU74Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rnyJzSwU74Q/maxresdefault.jpg

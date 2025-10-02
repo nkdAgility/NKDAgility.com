@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: O_gTr7ntMcx
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: O_gTr7ntMcx
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 aliases:
   - /resources/O_gTr7ntMcx
@@ -33,6 +33,8 @@ tags:
   - Agile Planning Tools
 Watermarks:
   description: 2025-05-13T15:05:51Z
+ResourceId: O_gTr7ntMcx
+ResourceType: blog
 ResourceImportId: 9731
 creator: Martin Hinshelwood
 resourceTypes: blog

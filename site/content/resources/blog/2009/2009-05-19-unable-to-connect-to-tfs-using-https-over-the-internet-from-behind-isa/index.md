@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 6IrP42bGBD6
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 6IrP42bGBD6
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
 aliases:
   - /resources/6IrP42bGBD6
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:50Z
+ResourceId: 6IrP42bGBD6
+ResourceType: blog
 ResourceImportId: 113
 creator: Martin Hinshelwood
 resourceTypes: blog

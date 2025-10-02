@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 1QNKNnc1Mvj
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 1QNKNnc1Mvj
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-feature-wish-tfs-checkin-notifier
 aliases:
   - /resources/1QNKNnc1Mvj
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:20Z
+ResourceId: 1QNKNnc1Mvj
+ResourceType: blog
 ResourceImportId: 397
 creator: Martin Hinshelwood
 resourceTypes: blog

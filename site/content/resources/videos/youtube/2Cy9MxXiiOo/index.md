@@ -5,16 +5,15 @@ description: Explains the sprint goal in Scrum as a clear, tactical objective fo
 tldr: A sprint goal is a clear, tactical objective that guides the Scrum team’s work during each sprint, connecting daily efforts to the broader product vision. It provides a concrete focus for the team, enables actionable stakeholder feedback at sprint reviews, and helps maintain alignment and motivation. Development managers should ensure each sprint has a well-defined, tangible goal to drive progress and gather meaningful feedback.
 date: 2023-05-31T11:00:01Z
 lastmod: 2023-05-31T11:00:01Z
-weight: 780
+weight: 510
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
-ResourceId: 2Cy9MxXiiOo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 2Cy9MxXiiOo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-a-sprint-goal
 aliases:
   - /resources/2Cy9MxXiiOo
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:12:00Z
   short_title: 2025-07-07T17:54:56Z
   tldr: 2025-08-07T13:04:28Z
+ResourceId: 2Cy9MxXiiOo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 2Cy9MxXiiOo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2Cy9MxXiiOo/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: -0YnGYCeikc
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: -0YnGYCeikc
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: merge-team-projects-into-one-in-tfs
 aliases:
   - /resources/-0YnGYCeikc
@@ -31,6 +31,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-12T14:21:25Z
+ResourceId: -0YnGYCeikc
+ResourceType: blog
 ResourceImportId: 10638
 creator: Martin Hinshelwood
 resourceTypes: blog

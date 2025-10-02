@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 0Of8b0Njxtf
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 0Of8b0Njxtf
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: kerberos-problems
 aliases:
   - /resources/0Of8b0Njxtf
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:16Z
+ResourceId: 0Of8b0Njxtf
+ResourceType: blog
 ResourceImportId: 235
 creator: Martin Hinshelwood
 resourceTypes: blog

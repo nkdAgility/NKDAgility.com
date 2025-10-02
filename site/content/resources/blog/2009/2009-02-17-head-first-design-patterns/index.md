@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: EFWY-8yQI--
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: EFWY-8yQI--
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: head-first-design-patterns
 aliases:
   - /resources/EFWY-8yQI--
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:24:26Z
+ResourceId: EFWY-8yQI--
+ResourceType: blog
 ResourceImportId: 137
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 0O-R50XIwUP
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 0O-R50XIwUP
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-preview-issue-tf400898-the-underlying-connection-was-closed
 aliases:
   - /resources/0O-R50XIwUP
@@ -30,6 +30,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:13Z
+ResourceId: 0O-R50XIwUP
+ResourceType: blog
 ResourceImportId: 7161
 creator: Martin Hinshelwood
 resourceTypes: blog

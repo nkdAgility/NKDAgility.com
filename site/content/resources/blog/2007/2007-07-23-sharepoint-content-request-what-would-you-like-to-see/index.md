@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: pyKCdDNWdPB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: pyKCdDNWdPB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: sharepoint-content-request-what-would-you-like-to-see
 aliases:
   - /resources/pyKCdDNWdPB
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:27Z
+ResourceId: pyKCdDNWdPB
+ResourceType: blog
 ResourceImportId: 361
 creator: Martin Hinshelwood
 resourceTypes: blog

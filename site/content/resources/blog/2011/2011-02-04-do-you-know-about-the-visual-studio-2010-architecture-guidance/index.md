@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: _88PkXdkKu8
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: _88PkXdkKu8
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: do-you-know-about-the-visual-studio-2010-architecture-guidance
 aliases:
   - /resources/_88PkXdkKu8
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:11:12Z
+ResourceId: _88PkXdkKu8
+ResourceType: blog
 ResourceImportId: 16
 creator: Martin Hinshelwood
 resourceTypes: blog

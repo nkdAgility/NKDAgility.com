@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: TKGVsfoz6jM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: TKGVsfoz6jM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: cto-leadership-isn-t-about-knowing-everything-it-s-about-knowing-what-matters-most
 aliases:
   - /resources/TKGVsfoz6jM
@@ -34,6 +33,7 @@ Watermarks:
   description: 2025-07-24T15:14:49Z
   short_title: 2025-07-24T15:14:50Z
   tldr: 2025-08-07T12:11:11Z
+ResourceImportSource: Youtube
 videoId: TKGVsfoz6jM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TKGVsfoz6jM/maxresdefault.jpg
@@ -41,6 +41,8 @@ duration: 77
 resourceTypes:
   - video
 isShort: false
+ResourceId: TKGVsfoz6jM
+ResourceType: videos
 
 ---
 You don’t need to know everything. You need to know what matters. That might sound obvious, but if you’re a CTO right now, it’s hard to believe. New frameworks, new tools, AI models dropping weekly—every conversation feels like a pop quiz you didn’t study for. And under it all, there’s that quiet fear: if you’re not on top of every trend, every shift, you’re falling behind.

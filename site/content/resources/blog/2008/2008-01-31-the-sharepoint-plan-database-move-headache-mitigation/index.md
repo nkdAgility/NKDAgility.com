@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 8G7jFUB3MHo
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 8G7jFUB3MHo
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-sharepoint-plan-database-move-headache-mitigation
 aliases:
   - /resources/8G7jFUB3MHo
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:47Z
+ResourceId: 8G7jFUB3MHo
+ResourceType: blog
 ResourceImportId: 257
 creator: Martin Hinshelwood
 resourceTypes: blog

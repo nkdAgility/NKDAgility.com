@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: -FDdQXKH7zt
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: -FDdQXKH7zt
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: scrum-isn-t-limited-to-building-features
 aliases:
   - /resources/-FDdQXKH7zt
@@ -33,11 +33,11 @@ tags:
   - Pragmatic Thinking
   - Agile Planning
   - Agile Transformation
+  - Business Agility
   - Change Management
   - Agile Strategy
   - Agile Frameworks
   - Decision Making
-  - Business Agility
   - Metrics and Learning
 platform_signals:
   - platform: LinkedIn
@@ -54,6 +54,8 @@ Watermarks:
   description: 2025-06-17T17:50:47Z
   short_title: 2025-07-07T16:43:52Z
   tldr: 2025-08-07T12:29:11Z
+ResourceId: -FDdQXKH7zt
+ResourceType: signals
 
 ---
 Scrum isn’t limited to building features. It’s a social technology for solving complex problems. That includes your internal systems of work.

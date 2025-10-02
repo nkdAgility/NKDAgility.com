@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: qZoGIj62YP4
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: qZoGIj62YP4
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrade-to-visual-studio-11-team-foundation-service-done
 aliases:
   - /resources/qZoGIj62YP4
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:21Z
+ResourceId: qZoGIj62YP4
+ResourceType: blog
 ResourceImportId: 4573
 creator: Martin Hinshelwood
 resourceTypes: blog

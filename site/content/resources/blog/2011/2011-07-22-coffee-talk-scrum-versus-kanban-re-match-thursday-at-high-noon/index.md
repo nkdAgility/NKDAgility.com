@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: KtZxhtX0v9O
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: KtZxhtX0v9O
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 aliases:
   - /resources/blog/coffee-talk-scrum-versus-kanban-re-match-...-thursday-at-high-noon
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:10:23Z
+ResourceId: KtZxhtX0v9O
+ResourceType: blog
 ResourceImportId: 3692
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: zGbUhq_phsz
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: zGbUhq_phsz
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: htc-touch-black-shadow-weather
 aliases:
   - /resources/zGbUhq_phsz
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:07Z
+ResourceId: zGbUhq_phsz
+ResourceType: blog
 ResourceImportId: 351
 creator: Martin Hinshelwood
 resourceTypes: blog

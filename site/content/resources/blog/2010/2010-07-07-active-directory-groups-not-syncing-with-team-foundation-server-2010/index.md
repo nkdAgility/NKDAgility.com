@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Rfu6uP301x2
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Rfu6uP301x2
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: active-directory-groups-not-syncing-with-team-foundation-server-2010
 aliases:
   - /resources/Rfu6uP301x2
@@ -31,6 +31,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:21:40Z
+ResourceId: Rfu6uP301x2
+ResourceType: blog
 ResourceImportId: 32
 creator: Martin Hinshelwood
 resourceTypes: blog

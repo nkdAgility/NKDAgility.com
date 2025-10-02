@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: s_kWkDCbp9Y
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: s_kWkDCbp9Y
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-key-to-being-an-effective-agile-coach-understanding-the-team-s-context
 aliases:
   - /resources/s_kWkDCbp9Y
@@ -33,11 +32,15 @@ concepts: []
 categories:
   - Uncategorized
 tags:
+  - Personal
   - Software Development
 Watermarks:
   description: 2025-05-07T13:07:45Z
   short_title: 2025-07-07T17:51:41Z
   tldr: 2025-08-07T12:56:48Z
+ResourceId: s_kWkDCbp9Y
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: s_kWkDCbp9Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/s_kWkDCbp9Y/maxresdefault.jpg

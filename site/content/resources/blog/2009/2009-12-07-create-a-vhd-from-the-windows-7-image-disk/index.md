@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 5Um1AiEyIZr
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 5Um1AiEyIZr
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: create-a-vhd-from-the-windows-7-image-disk
 aliases:
   - /resources/5Um1AiEyIZr
@@ -29,6 +29,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:22:57Z
+ResourceId: 5Um1AiEyIZr
+ResourceType: blog
 ResourceImportId: 77
 creator: Martin Hinshelwood
 resourceTypes: blog

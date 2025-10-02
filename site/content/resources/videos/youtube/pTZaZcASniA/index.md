@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: pTZaZcASniA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: pTZaZcASniA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
 aliases:
   - /resources/pTZaZcASniA
@@ -35,11 +34,14 @@ layout: video
 concepts: []
 categories:
   - Uncategorized
-tags: []
+tags:
+  - Pragmatic Thinking
+  - Software Development
 Watermarks:
   description: 2025-05-07T12:49:15Z
   short_title: 2025-07-07T16:45:01Z
   tldr: 2025-08-07T12:33:59Z
+ResourceImportSource: Youtube
 videoId: pTZaZcASniA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pTZaZcASniA/maxresdefault.jpg
@@ -47,6 +49,8 @@ duration: 91
 resourceTypes:
   - video
 isShort: false
+ResourceId: pTZaZcASniA
+ResourceType: videos
 
 ---
 Every CTO knows the pain of dealing with technology that feels like it belongs in a museum rather than a modern workplace. I’ve been there myself, grappling with systems that are not just slow and expensive, but also riddled with layers of [technical debt]({{< ref "/tags/technical-debt" >}}) and questionable architecture. It’s a frustrating experience, and I want to share some insights on why this problem persists and how we can begin to tackle it.

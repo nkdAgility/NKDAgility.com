@@ -5,16 +5,15 @@ description: Explores how chaos arises in agile transformations due to unclear v
 tldr: Chaos in agile transformations often arises from unclear product vision and poor communication, leading to misalignment and confusion. To overcome this, development managers should establish a clear strategic direction, break it down into actionable goals, and reinforce it through ongoing communication and feedback. Focus on principles that empower teams and ensure everyone understands how their work contributes to shared objectives.
 date: 2023-10-23T07:00:21Z
 lastmod: 2023-10-23T07:00:21Z
-weight: 665
+weight: 360
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
-ResourceId: vhBsAXev014
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: vhBsAXev014
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 7-harbingers-of-the-agile-apocalypse-chaos
 aliases:
   - /resources/vhBsAXev014
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:08:30Z
   short_title: 2025-07-07T17:52:13Z
   tldr: 2025-08-07T12:58:03Z
+ResourceId: vhBsAXev014
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: vhBsAXev014
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vhBsAXev014/maxresdefault.jpg

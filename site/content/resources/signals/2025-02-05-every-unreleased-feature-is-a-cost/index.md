@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: PNGuJocqSoD
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: PNGuJocqSoD
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: every-unreleased-feature-is-a-cost
 aliases:
   - /resources/PNGuJocqSoD
@@ -53,6 +53,8 @@ Watermarks:
   description: 2025-05-16T15:57:08Z
   short_title: 2025-07-07T17:46:50Z
   tldr: 2025-08-07T12:40:17Z
+ResourceId: PNGuJocqSoD
+ResourceType: signals
 
 ---
 Every unreleased feature is a cost.

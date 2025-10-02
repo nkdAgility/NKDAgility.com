@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: 2k1726k9zvg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 2k1726k9zvg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-truth-about-newbie-vs-professional-scrum-masters-bridging-the-experience-gap
 aliases:
   - /resources/2k1726k9zvg
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:13:27Z
   short_title: 2025-07-07T17:56:07Z
   tldr: 2025-08-07T13:07:04Z
+ResourceId: 2k1726k9zvg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 2k1726k9zvg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2k1726k9zvg/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 1m73SCOy0k9
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 1m73SCOy0k9
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: install-release-management-2013
 aliases:
   - /resources/1m73SCOy0k9
@@ -27,6 +27,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:22:20Z
+ResourceId: 1m73SCOy0k9
+ResourceType: blog
 ResourceImportId: 10353
 creator: Martin Hinshelwood
 resourceTypes: blog

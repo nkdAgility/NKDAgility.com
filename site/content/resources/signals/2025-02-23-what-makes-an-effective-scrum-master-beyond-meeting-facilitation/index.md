@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: uTkyoIh6f3c
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: uTkyoIh6f3c
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: what-makes-an-effective-scrum-master-beyond-meeting-facilitation
 aliases:
   - /resources/uTkyoIh6f3c
@@ -55,6 +55,8 @@ Watermarks:
   description: 2025-05-16T15:56:46Z
   short_title: 2025-07-07T17:46:14Z
   tldr: 2025-08-07T12:35:59Z
+ResourceId: uTkyoIh6f3c
+ResourceType: signals
 
 ---
 A great Scrum Master isn’t measured by how well they facilitate meetings. It’s not about whether the Daily Scrum starts on time or if they keep the Sprint Retrospective engaging.

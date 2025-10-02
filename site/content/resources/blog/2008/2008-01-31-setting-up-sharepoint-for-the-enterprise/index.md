@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: q0Nsf_xfijz
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: q0Nsf_xfijz
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: setting-up-sharepoint-for-the-enterprise
 aliases:
   - /resources/q0Nsf_xfijz
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:46Z
+ResourceId: q0Nsf_xfijz
+ResourceType: blog
 ResourceImportId: 252
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -11,10 +11,10 @@ sitemap:
   priority: 0.1
   changefreq: weekly
 author: MrHinsh
-ResourceId: w5rxdL8YHNa
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: w5rxdL8YHNa
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org
 aliases:
   - /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
@@ -39,6 +39,8 @@ Watermarks:
   description: 2025-05-07T13:02:35Z
   short_title: 2025-07-07T17:49:00Z
   tldr: 2025-08-07T12:50:54Z
+ResourceId: w5rxdL8YHNa
+ResourceType: newsletters
 resourceTypes: newsletter
 
 ---

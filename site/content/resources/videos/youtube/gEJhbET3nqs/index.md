@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: gEJhbET3nqs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: gEJhbET3nqs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-agile-leadership-transform-your-skills-with-scrum-org's-essentials-workshop
 aliases:
   - /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum.org-s-essentials-workshop
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:15:30Z
   short_title: 2025-07-07T17:57:54Z
   tldr: 2025-08-07T13:11:15Z
+ResourceId: gEJhbET3nqs
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: gEJhbET3nqs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg

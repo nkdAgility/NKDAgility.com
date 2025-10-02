@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: -jMZpToD5Kr
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: -jMZpToD5Kr
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: windows-vista-pre-sp1-performance-and-reliability-updates-result
 aliases:
   - /resources/-jMZpToD5Kr
@@ -27,6 +27,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T16:26:50Z
+ResourceId: -jMZpToD5Kr
+ResourceType: blog
 ResourceImportId: 338
 creator: Martin Hinshelwood
 resourceTypes: blog

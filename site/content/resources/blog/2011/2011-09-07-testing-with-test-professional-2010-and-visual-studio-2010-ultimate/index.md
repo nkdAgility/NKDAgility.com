@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: SPcXGSE8VUI
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: SPcXGSE8VUI
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 aliases:
   - /resources/SPcXGSE8VUI
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:10:15Z
+ResourceId: SPcXGSE8VUI
+ResourceType: blog
 ResourceImportId: 3776
 creator: Martin Hinshelwood
 resourceTypes: blog

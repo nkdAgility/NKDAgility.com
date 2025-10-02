@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: mDZ9tLsZEI-
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: mDZ9tLsZEI-
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: bruce-lee-on-scrum-and-agile
 aliases:
   - /resources/mDZ9tLsZEI-
@@ -31,6 +31,8 @@ Watermarks:
   description: 2025-05-12T14:21:09Z
   tldr: 2025-08-07T13:27:11Z
   short_title: 2025-08-07T13:27:11Z
+ResourceId: mDZ9tLsZEI-
+ResourceType: blog
 ResourceImportId: 10800
 creator: Martin Hinshelwood
 resourceTypes: blog

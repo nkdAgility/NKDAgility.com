@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: DWOh_hRJ1uo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: DWOh_hRJ1uo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
 aliases:
   - /resources/DWOh_hRJ1uo
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:13:46Z
   short_title: 2025-07-07T17:56:30Z
   tldr: 2025-08-07T13:07:44Z
+ResourceId: DWOh_hRJ1uo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: DWOh_hRJ1uo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DWOh_hRJ1uo/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: dOYcFVzZg42
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: dOYcFVzZg42
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 aliases:
   - /resources/dOYcFVzZg42
@@ -31,6 +31,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:14Z
+ResourceId: dOYcFVzZg42
+ResourceType: blog
 ResourceImportId: 9905
 creator: Martin Hinshelwood
 resourceTypes: blog

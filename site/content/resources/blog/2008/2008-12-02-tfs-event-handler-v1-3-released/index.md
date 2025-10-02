@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 5utkJgImhFT
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 5utkJgImhFT
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-event-handler-v1-3-released
 aliases:
   - /resources/blog/tfs-event-handler-v1.3-released
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:14Z
+ResourceId: 5utkJgImhFT
+ResourceType: blog
 ResourceImportId: 158
 creator: Martin Hinshelwood
 resourceTypes: blog

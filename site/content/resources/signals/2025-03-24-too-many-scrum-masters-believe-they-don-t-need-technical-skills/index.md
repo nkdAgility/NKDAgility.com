@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: q_OupO_abR_
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: q_OupO_abR_
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: too-many-scrum-masters-believe-they-don-t-need-technical-skills
 aliases:
   - /resources/q_OupO_abR_
@@ -22,7 +22,6 @@ layout: signal
 concepts: []
 categories:
   - Scrum
-  - Product Development
   - Technical Leadership
 tags:
   - Competence
@@ -43,6 +42,8 @@ Watermarks:
   description: 2025-05-16T15:55:55Z
   short_title: 2025-07-07T16:45:14Z
   tldr: 2025-08-07T12:34:27Z
+ResourceId: q_OupO_abR_
+ResourceType: signals
 
 ---
 Too many Scrum Masters believe they don’t need technical skills. The Scrum Guide doesn’t explicitly say they do—but let’s be real.

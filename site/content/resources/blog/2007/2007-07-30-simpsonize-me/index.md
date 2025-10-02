@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: vThsgxwl-Tv
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: vThsgxwl-Tv
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: simpsonize-me
 aliases:
   - /resources/vThsgxwl-Tv
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:14Z
+ResourceId: vThsgxwl-Tv
+ResourceType: blog
 ResourceImportId: 355
 creator: Martin Hinshelwood
 resourceTypes: blog

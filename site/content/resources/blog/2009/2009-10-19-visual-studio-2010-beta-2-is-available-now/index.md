@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 8vMRaXfImnd
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 8vMRaXfImnd
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2010-beta-2-is-available-now
 aliases:
   - /resources/8vMRaXfImnd
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:09Z
+ResourceId: 8vMRaXfImnd
+ResourceType: blog
 ResourceImportId: 86
 creator: Martin Hinshelwood
 resourceTypes: blog

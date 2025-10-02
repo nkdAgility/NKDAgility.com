@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: hp378aoGMNz
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: hp378aoGMNz
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 aliases:
   - /resources/blog/upgrading-to-visual-studio-scrum-3.0-process-template-in-tfs-2013
@@ -30,6 +30,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:05:59Z
+ResourceId: hp378aoGMNz
+ResourceType: blog
 ResourceImportId: 9913
 creator: Martin Hinshelwood
 resourceTypes: blog

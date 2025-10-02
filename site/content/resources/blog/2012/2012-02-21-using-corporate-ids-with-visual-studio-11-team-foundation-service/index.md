@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Cx5_dJr48V5
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Cx5_dJr48V5
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: using-corporate-id's-with-visual-studio-2012-team-foundation-service
 aliases:
   - /resources/blog/using-corporate-id-s-with-visual-studio-2012-team-foundation-service
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:23Z
+ResourceId: Cx5_dJr48V5
+ResourceType: blog
 ResourceImportId: 4474
 creator: Martin Hinshelwood
 resourceTypes: blog

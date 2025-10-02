@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 68-m_aV0Njz
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 68-m_aV0Njz
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 aliases:
   - /resources/68-m_aV0Njz
@@ -32,6 +32,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:07:03Z
+ResourceId: 68-m_aV0Njz
+ResourceType: blog
 ResourceImportId: 9196
 creator: Martin Hinshelwood
 resourceTypes: blog

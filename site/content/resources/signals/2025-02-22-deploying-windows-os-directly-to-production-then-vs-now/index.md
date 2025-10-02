@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: 6FqFYeSHQBg
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 6FqFYeSHQBg
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: deploying-windows-os-directly-to-production-then-vs-now
 aliases:
   - /resources/6FqFYeSHQBg
@@ -30,17 +30,17 @@ tags:
   - Deployment Strategies
   - Pragmatic Thinking
   - Frequent Releases
-  - Metrics and Learning
   - Continuous Delivery
   - Continuous Improvement
   - Operational Practices
   - Customer Focus
   - Software Development
   - Product Delivery
+  - Metrics and Learning
   - Release Management
   - Deployment Frequency
   - Organisational Agility
-  - Continuous Learning
+  - Trend Analysis
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7299103145975042048
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-16T15:56:48Z
   short_title: 2025-07-07T17:46:15Z
   tldr: 2025-08-07T12:36:02Z
+ResourceId: 6FqFYeSHQBg
+ResourceType: signals
 
 ---
 The idea of deploying an operating system like Windows directly to production would have been unthinkable a decade ago. But that’s exactly what Microsoft does now.

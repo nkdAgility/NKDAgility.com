@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: RCMVmNzZDfV
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: RCMVmNzZDfV
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: decoding-scrum-team-work-balancing-sprint-and-refinement-work
 aliases:
   - /blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
@@ -49,6 +49,8 @@ Watermarks:
   description: 2025-05-07T13:09:32Z
   short_title: 2025-07-07T17:53:05Z
   tldr: 2025-08-07T13:00:03Z
+ResourceId: RCMVmNzZDfV
+ResourceType: blog
 ResourceImportId: 49783
 AudioNative: true
 creator: Martin Hinshelwood

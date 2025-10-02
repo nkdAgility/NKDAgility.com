@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: VTjU5Wl2XWU
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: VTjU5Wl2XWU
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: why-most-scrum-masters-are-failing-and-what-they-should-know
 aliases:
   - /resources/VTjU5Wl2XWU
@@ -48,6 +48,8 @@ Watermarks:
   description: 2025-05-07T12:58:35Z
   short_title: 2025-07-07T17:48:17Z
   tldr: 2025-08-07T12:49:07Z
+ResourceId: VTjU5Wl2XWU
+ResourceType: blog
 ResourceImportId: 51730
 AudioNative: true
 creator: Martin Hinshelwood

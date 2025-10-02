@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: iEMi_TIORPX
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: iEMi_TIORPX
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: using-the-build-vnext-capabilities-and-demands-system
 aliases:
   - /resources/iEMi_TIORPX
@@ -36,6 +36,8 @@ Watermarks:
   description: 2025-05-12T14:19:59Z
   tldr: 2025-08-07T13:25:31Z
   short_title: 2025-08-07T13:25:32Z
+ResourceId: iEMi_TIORPX
+ResourceType: blog
 ResourceImportId: 11081
 creator: Martin Hinshelwood
 resourceTypes: blog

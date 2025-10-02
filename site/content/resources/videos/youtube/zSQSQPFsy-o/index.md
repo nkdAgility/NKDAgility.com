@@ -5,16 +5,15 @@ description: Explores why Scrum is challenging to master, highlighting cultural 
 tldr: Scrum is challenging to master because true understanding and effective implementation require deep cultural change, transparency, and alignment with agile values, not just following the framework. Many teams struggle due to legacy mindsets, lack of comprehension, and misaligned organizational structures, leading to superficial adoption and missed opportunities for value creation. Development managers should focus on fostering a culture of transparency, learning, and value-driven collaboration to realize Scrum’s full benefits.
 date: 2023-02-28T07:00:18Z
 lastmod: 2023-02-28T07:00:18Z
-weight: 750
+weight: 480
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
-ResourceId: zSQSQPFsy-o
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: zSQSQPFsy-o
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 aliases:
   - /resources/zSQSQPFsy-o
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:13:55Z
   short_title: 2025-07-07T17:56:37Z
   tldr: 2025-08-07T13:08:00Z
+ResourceId: zSQSQPFsy-o
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: zSQSQPFsy-o
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/zSQSQPFsy-o/maxresdefault.jpg

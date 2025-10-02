@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 8N31NtGZFyB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 8N31NtGZFyB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
 aliases:
   - /resources/8N31NtGZFyB
@@ -29,6 +29,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-12T14:23:05Z
+ResourceId: 8N31NtGZFyB
+ResourceType: blog
 ResourceImportId: 10002
 creator: Martin Hinshelwood
 resourceTypes: blog

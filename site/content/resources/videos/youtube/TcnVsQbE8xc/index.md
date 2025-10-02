@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: TcnVsQbE8xc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: TcnVsQbE8xc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: reasons-to-do-a-psm-ii-course-in-60-seconds
 aliases:
   - /resources/TcnVsQbE8xc
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:10:52Z
   short_title: 2025-07-07T17:54:02Z
   tldr: 2025-08-07T13:02:12Z
+ResourceId: TcnVsQbE8xc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: TcnVsQbE8xc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TcnVsQbE8xc/maxresdefault.jpg

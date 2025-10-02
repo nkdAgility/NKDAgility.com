@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Vt_AB1py8ZH
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Vt_AB1py8ZH
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: studying-for-the-new-job
 aliases:
   - /resources/Vt_AB1py8ZH
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:37Z
+ResourceId: Vt_AB1py8ZH
+ResourceType: blog
 ResourceImportId: 330
 creator: Martin Hinshelwood
 resourceTypes: blog

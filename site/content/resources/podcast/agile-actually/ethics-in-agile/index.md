@@ -11,10 +11,10 @@ sitemap:
   priority: 0.2
   changefreq: monthly
 author: MrHinsh
-ResourceId: hWrztsvRPAi
-ResourceImport: false
-ResourceType: podcast
-ResourceContentOrigin: Human
+ItemId: hWrztsvRPAi
+ItemType: podcast
+ItemKind: resource
+ItemContentOrigin: Human
 slug: ethics-in-agile
 aliases:
   - /resources/hWrztsvRPAi
@@ -27,6 +27,8 @@ Watermarks:
   description: 2025-05-07T13:08:21Z
   short_title: 2025-07-07T17:52:06Z
   tldr: 2025-08-07T12:57:46Z
+ResourceId: hWrztsvRPAi
+ResourceType: podcast
 resourceTypes: podcast
 
 ---

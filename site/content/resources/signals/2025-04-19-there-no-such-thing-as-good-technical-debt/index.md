@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: lLNjkL_zGQa
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: lLNjkL_zGQa
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: there-no-such-thing-as-good-technical-debt
 aliases:
   - /resources/lLNjkL_zGQa
@@ -43,6 +43,8 @@ Watermarks:
   description: 2025-05-16T15:55:21Z
   short_title: 2025-07-07T16:44:47Z
   tldr: 2025-08-07T12:33:26Z
+ResourceId: lLNjkL_zGQa
+ResourceType: signals
 
 ---
 Let’s put this to rest: there’s no such thing as "good" technical debt.

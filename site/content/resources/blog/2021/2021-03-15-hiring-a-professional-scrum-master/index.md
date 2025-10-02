@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: 1EEAZ-ldcTz
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: 1EEAZ-ldcTz
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: hiring-a-professional-scrum-master
 aliases:
   - /blog/hiring-a-professional-scrum-master
@@ -42,6 +42,8 @@ Watermarks:
   description: 2025-05-07T13:14:58Z
   short_title: 2025-07-07T17:57:32Z
   tldr: 2025-08-07T13:10:16Z
+ResourceId: 1EEAZ-ldcTz
+ResourceType: blog
 AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog

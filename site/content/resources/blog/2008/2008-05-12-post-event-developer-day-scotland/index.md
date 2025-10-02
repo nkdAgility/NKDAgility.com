@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: gVVlURec7mu
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: gVVlURec7mu
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: post-event-developer-day-scotland
 aliases:
   - /resources/blog/post-event-developer-day-scotland...
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:08Z
+ResourceId: gVVlURec7mu
+ResourceType: blog
 ResourceImportId: 229
 creator: Martin Hinshelwood
 resourceTypes: blog

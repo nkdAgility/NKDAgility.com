@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: i-oFFVJd0PN
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: i-oFFVJd0PN
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
 aliases:
   - /resources/i-oFFVJd0PN
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:23:40Z
+ResourceId: i-oFFVJd0PN
+ResourceType: blog
 ResourceImportId: 9718
 creator: Martin Hinshelwood
 resourceTypes: blog

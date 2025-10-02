@@ -11,10 +11,10 @@ sitemap:
   priority: 0.1
   changefreq: monthly
 author: MrHinsh
-ResourceId: U_pzYjx6qk6
-ResourceImport: false
-ResourceType: podcast
-ResourceContentOrigin: Human
+ItemId: U_pzYjx6qk6
+ItemType: podcast
+ItemKind: resource
+ItemContentOrigin: Human
 slug: agile-at-microsoft
 aliases:
   - /resources/U_pzYjx6qk6
@@ -27,6 +27,8 @@ Watermarks:
   description: 2025-05-07T13:05:14Z
   short_title: 2025-07-07T17:49:19Z
   tldr: 2025-08-07T12:51:44Z
+ResourceId: U_pzYjx6qk6
+ResourceType: podcast
 resourceTypes: podcast
 
 ---

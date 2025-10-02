@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: oz3cfvmwtph
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: oz3cfvmwtph
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 aliases:
   - /resources/oz3cfvmwtph
@@ -28,6 +28,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T16:22:16Z
+ResourceId: oz3cfvmwtph
+ResourceType: blog
 ResourceImportId: 159
 creator: Martin Hinshelwood
 resourceTypes: blog

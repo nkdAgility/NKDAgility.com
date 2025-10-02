@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: ACZWkkvKEnw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ACZWkkvKEnw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
 aliases:
   - /resources/ACZWkkvKEnw
@@ -36,11 +35,13 @@ concepts: []
 categories:
   - Uncategorized
 tags:
+  - Enterprise Agility
   - Systems Thinking
 Watermarks:
   description: 2025-05-07T12:49:43Z
   short_title: 2025-07-07T17:46:40Z
   tldr: 2025-08-07T12:39:55Z
+ResourceImportSource: Youtube
 videoId: ACZWkkvKEnw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ACZWkkvKEnw/maxresdefault.jpg
@@ -48,6 +49,8 @@ duration: 45
 resourceTypes:
   - video
 isShort: true
+ResourceId: ACZWkkvKEnw
+ResourceType: videos
 
 ---
 In my journey through the realms of agile and organisational efficiency, I've often encountered a rather amusing yet telling analogy that perfectly encapsulates a common pitfall in our approach to governance and optimisation. Picture this: a cog in a machine, struggling to turn because it’s bogged down by the other cogs around it. Now, if we were to take a drastic step and remove all the teeth from this cog, it would spin freely, right? But here’s the catch—it would no longer serve its purpose in driving the entire system forward. 

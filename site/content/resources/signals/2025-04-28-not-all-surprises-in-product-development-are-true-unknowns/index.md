@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: 3R0CYmaHd63
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 3R0CYmaHd63
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: not-all-surprises-in-product-development-are-true-unknowns
 aliases:
   - /resources/3R0CYmaHd63
@@ -49,6 +49,8 @@ Watermarks:
   description: 2025-05-16T15:55:10Z
   short_title: 2025-07-07T16:44:37Z
   tldr: 2025-08-07T12:33:06Z
+ResourceId: 3R0CYmaHd63
+ResourceType: signals
 
 ---
 Not all surprises in product development are true unknowns. Many are just the result of bad backlog management.

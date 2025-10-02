@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: l3NhlbM2gKM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: l3NhlbM2gKM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: scrum-is-like-communism-it-doesn't-work-myth-2
 aliases:
   - /resources/l3NhlbM2gKM
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:08:26Z
   short_title: 2025-07-07T17:52:10Z
   tldr: 2025-08-07T12:57:56Z
+ResourceId: l3NhlbM2gKM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: l3NhlbM2gKM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/l3NhlbM2gKM/maxresdefault.jpg

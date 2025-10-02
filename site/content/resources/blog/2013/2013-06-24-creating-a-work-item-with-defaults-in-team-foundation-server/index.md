@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: v1HLcU8PfsS
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: v1HLcU8PfsS
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: creating-a-work-item-with-defaults-in-team-foundation-server
 aliases:
   - /resources/v1HLcU8PfsS
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:06:10Z
+ResourceId: v1HLcU8PfsS
+ResourceType: blog
 ResourceImportId: 9686
 creator: Martin Hinshelwood
 resourceTypes: blog

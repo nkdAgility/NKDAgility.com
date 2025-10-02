@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 8WoqmaS6v99
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 8WoqmaS6v99
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
 aliases:
   - /resources/8WoqmaS6v99
@@ -31,6 +31,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-12T14:23:46Z
+ResourceId: 8WoqmaS6v99
+ResourceType: blog
 ResourceImportId: 9753
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: SlusLOwCCkg
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: SlusLOwCCkg
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: developing-peer-to-peer-applications-with-wcf
 aliases:
   - /resources/SlusLOwCCkg
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:17Z
+ResourceId: SlusLOwCCkg
+ResourceType: blog
 ResourceImportId: 317
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: iT7ZtgNJbT0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: iT7ZtgNJbT0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-was-your-best-day-as-an-agile-consultant
 aliases:
   - /resources/iT7ZtgNJbT0
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:13:31Z
   short_title: 2025-07-07T17:56:15Z
   tldr: 2025-08-07T13:07:13Z
+ResourceId: iT7ZtgNJbT0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: iT7ZtgNJbT0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/iT7ZtgNJbT0/maxresdefault.jpg

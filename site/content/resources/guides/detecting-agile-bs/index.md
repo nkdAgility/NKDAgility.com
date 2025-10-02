@@ -12,10 +12,10 @@ sitemap:
   changefreq: weekly
 author:
   - US DOD Defence Innovation Board
-ResourceId: Tt8SPr3xJER
-ResourceImport: false
-ResourceType: guides
-ResourceContentOrigin: Human
+ItemId: Tt8SPr3xJER
+ItemType: guides
+ItemKind: resource
+ItemContentOrigin: Human
 slug: detecting-agile-bs
 aliases:
   - /Guides/Detecting-Agile-BS.html
@@ -45,6 +45,8 @@ Watermarks:
   description: 2025-05-07T12:58:02Z
   short_title: 2025-07-07T16:40:40Z
   tldr: 2025-08-07T12:45:53Z
+ResourceId: Tt8SPr3xJER
+ResourceType: guides
 resourceTypes: guide
 image: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png
 creator: Martin Hinshelwood

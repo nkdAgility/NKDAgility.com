@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 3-mqIx3Xkgv
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 3-mqIx3Xkgv
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: time-that-task-vsts-check-in-policy
 aliases:
   - /resources/3-mqIx3Xkgv
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:44Z
+ResourceId: 3-mqIx3Xkgv
+ResourceType: blog
 ResourceImportId: 446
 creator: Martin Hinshelwood
 resourceTypes: blog

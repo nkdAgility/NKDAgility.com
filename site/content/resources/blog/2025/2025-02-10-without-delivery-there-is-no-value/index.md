@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: UfdnQrxv5iF
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: UfdnQrxv5iF
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: without-delivery-there-is-no-value
 aliases:
   - /resources/UfdnQrxv5iF
@@ -59,6 +59,8 @@ creator: Martin Hinshelwood
 resourceTypes: blog
 preview: 2025-02-10-without-delivery-no-value.jpg
 marketing: []
+ResourceId: UfdnQrxv5iF
+ResourceType: blog
 
 ---
 Before delivery, all ideas and strategies remain theoretical. They are assumptions - educated guesses that may or may not align with actual needs or expectations. **Delivery is the only mechanism** through which these assumptions are validated, transforming theory into tangible outcomes that can be measured, tested, and improved.

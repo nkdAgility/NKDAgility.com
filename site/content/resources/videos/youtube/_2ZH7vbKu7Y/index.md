@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: _2ZH7vbKu7Y
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: _2ZH7vbKu7Y
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: training-a-bridge-to-knowledge-and-growth
 aliases:
   - /resources/_2ZH7vbKu7Y
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:08:17Z
   short_title: 2025-07-07T17:52:03Z
   tldr: 2025-08-07T12:57:40Z
+ResourceId: _2ZH7vbKu7Y
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: _2ZH7vbKu7Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_2ZH7vbKu7Y/maxresdefault.jpg

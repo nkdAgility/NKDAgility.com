@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 17qTGonSsbM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 17qTGonSsbM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-importance-of-evaluating-direction-are-you-heading-the-right-way
 aliases:
   - /resources/17qTGonSsbM
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:06:25Z
   short_title: 2025-07-07T17:50:16Z
   tldr: 2025-08-07T12:54:02Z
+ResourceId: 17qTGonSsbM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 17qTGonSsbM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/17qTGonSsbM/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: uYm_wb1sHJE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: uYm_wb1sHJE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
 aliases:
   - /resources/uYm_wb1sHJE
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:11:04Z
   short_title: 2025-07-07T17:54:12Z
   tldr: 2025-08-07T13:02:33Z
+ResourceId: uYm_wb1sHJE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: uYm_wb1sHJE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uYm_wb1sHJE/maxresdefault.jpg

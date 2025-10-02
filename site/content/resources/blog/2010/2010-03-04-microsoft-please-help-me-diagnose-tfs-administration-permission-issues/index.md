@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ueNhR-7dVyg
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ueNhR-7dVyg
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: microsoft-please-help-me-diagnose-tfs-administration-permission-issues
 aliases:
   - /resources/ueNhR-7dVyg
@@ -31,6 +31,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:22:39Z
+ResourceId: ueNhR-7dVyg
+ResourceType: blog
 ResourceImportId: 67
 creator: Martin Hinshelwood
 resourceTypes: blog

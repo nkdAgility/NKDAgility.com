@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: sdlfWR5wHx7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: sdlfWR5wHx7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: scrum-tapas-the-importance-of-professionalism
 aliases:
   - /resources/sdlfWR5wHx7
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-07T13:16:36Z
   short_title: 2025-07-07T17:58:51Z
   tldr: 2025-08-07T13:13:48Z
+ResourceId: sdlfWR5wHx7
+ResourceType: blog
 ResourceImportId: 11942
 creator: Martin Hinshelwood
 resourceTypes: blog

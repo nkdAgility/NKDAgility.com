@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: DvW-xwxufa0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: DvW-xwxufa0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-limits-of-self-taught-learning-why-external-perspectives-matter
 aliases:
   - /resources/DvW-xwxufa0
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:01:29Z
   short_title: 2025-07-07T17:48:26Z
   tldr: 2025-08-07T12:49:29Z
+ResourceId: DvW-xwxufa0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: DvW-xwxufa0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DvW-xwxufa0/maxresdefault.jpg

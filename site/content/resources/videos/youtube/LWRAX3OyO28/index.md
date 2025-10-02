@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: LWRAX3OyO28
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: LWRAX3OyO28
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
 aliases:
   - /resources/LWRAX3OyO28
@@ -48,6 +47,7 @@ Watermarks:
   description: 2025-05-07T12:56:52Z
   short_title: 2025-07-07T17:47:16Z
   tldr: 2025-08-07T12:41:11Z
+ResourceImportSource: Youtube
 videoId: LWRAX3OyO28
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCWLD4Vo4EZ6b8ciR_RqJZImwnb7w
@@ -55,6 +55,8 @@ duration: 332
 resourceTypes:
   - video
 isShort: false
+ResourceId: LWRAX3OyO28
+ResourceType: videos
 
 ---
 If you're venturing into the realm of [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), you might be pondering the benefits it brings to your organisation. While many tout speed as the primary advantage, I’ve come to realise that this is merely a by-product of a much deeper transformation. The true power of continuous delivery lies in the automation it necessitates within the [DevOps]({{< ref "/categories/devops" >}}) framework. 

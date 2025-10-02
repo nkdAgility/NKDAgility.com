@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: nTipEJck6ez
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: Hybrid
+ItemId: nTipEJck6ez
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: the-majority-of-scrum-masters-are-not-fit-for-their-position
 aliases:
   - /resources/nTipEJck6ez
@@ -52,6 +52,8 @@ Watermarks:
   description: 2025-05-07T13:02:52Z
   short_title: 2025-07-07T17:49:13Z
   tldr: 2025-08-07T12:51:25Z
+ResourceId: nTipEJck6ez
+ResourceType: signals
 resourceTypes:
   - signal
 url: /resources/signals/:slug

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: 5bgfme-Pspw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 5bgfme-Pspw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: momentum
 aliases:
   - /resources/5bgfme-Pspw
@@ -34,6 +33,9 @@ Watermarks:
   description: 2025-05-07T13:12:27Z
   short_title: 2025-07-07T17:55:14Z
   tldr: 2025-08-07T13:05:07Z
+ResourceId: 5bgfme-Pspw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 5bgfme-Pspw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5bgfme-Pspw/maxresdefault.jpg

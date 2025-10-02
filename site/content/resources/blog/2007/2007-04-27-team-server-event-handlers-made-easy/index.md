@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: NjGpMY3aKfH
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: NjGpMY3aKfH
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: team-server-event-handlers-made-easy
 aliases:
   - /resources/NjGpMY3aKfH
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:43Z
+ResourceId: NjGpMY3aKfH
+ResourceType: blog
 ResourceImportId: 412
 creator: Martin Hinshelwood
 resourceTypes: blog

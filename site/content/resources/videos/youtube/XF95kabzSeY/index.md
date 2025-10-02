@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: XF95kabzSeY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: XF95kabzSeY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: filling-the-understanding-gap-a-product-owner's-guide-to-vision-engagement-and-value
 aliases:
   - /resources/XF95kabzSeY
@@ -37,11 +36,15 @@ categories:
   - Product Management
 tags:
   - Personal
+  - Value Delivery
   - Product Owner
 Watermarks:
   description: 2025-05-07T13:06:55Z
   short_title: 2025-07-07T17:50:44Z
   tldr: 2025-08-07T12:55:10Z
+ResourceId: XF95kabzSeY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: XF95kabzSeY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XF95kabzSeY/maxresdefault.jpg

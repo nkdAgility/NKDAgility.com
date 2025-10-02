@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: GGtb7Yg8gHY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: GGtb7Yg8gHY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-team-conflict-from-healthy-disagreement-to-agile-harmony
 aliases:
   - /resources/GGtb7Yg8gHY
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:08:02Z
   short_title: 2025-07-07T17:51:54Z
   tldr: 2025-08-07T12:57:21Z
+ResourceId: GGtb7Yg8gHY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: GGtb7Yg8gHY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/GGtb7Yg8gHY/maxresdefault.jpg

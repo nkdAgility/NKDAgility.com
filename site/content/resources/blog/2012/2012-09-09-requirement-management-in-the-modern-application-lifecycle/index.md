@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: xCKZmk2o5Me
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: xCKZmk2o5Me
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: requirement-management-in-the-modern-application-lifecycle
 aliases:
   - /resources/xCKZmk2o5Me
@@ -30,6 +30,8 @@ tags:
   - Application Lifecycle Management
 Watermarks:
   description: 2025-05-13T15:07:41Z
+ResourceId: xCKZmk2o5Me
+ResourceType: blog
 ResourceImportId: 8700
 creator: Martin Hinshelwood
 resourceTypes: blog

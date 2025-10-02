@@ -10,26 +10,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: eGzb1hJRtoc
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: eGzb1hJRtoc
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: when-you-scale-scrum-the-challenge-isn-t-just-delivery-it-coherence
 aliases:
   - /resources/eGzb1hJRtoc
 source: LinkedIn
 layout: signal
 concepts:
-  - Framework
+  - Principle
 categories:
   - Scrum
   - Product Development
 tags:
   - Team Collaboration
   - Social Technologies
+  - Scaling
   - Sociotechnical Systems
   - Pragmatic Thinking
-  - Scaling
   - Software Development
   - Organisational Agility
   - Large Scale Agility
@@ -50,6 +50,8 @@ Watermarks:
   description: 2025-05-29T18:10:45Z
   short_title: 2025-07-07T16:43:56Z
   tldr: 2025-08-07T12:29:23Z
+ResourceId: eGzb1hJRtoc
+ResourceType: signals
 
 ---
 When you scale Scrum, the challenge isn’t just delivery—it’s coherence. UX is a great example. Left unchecked, each team reinvents the wheel, creates inconsistent interactions, and loses alignment.

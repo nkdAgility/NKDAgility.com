@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: ASBKRFatUhc
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ASBKRFatUhc
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: does-test-driven-development-speed-up-development
 aliases:
   - /resources/ASBKRFatUhc
@@ -32,6 +32,8 @@ tags:
   - Test Driven Development
 Watermarks:
   description: 2025-05-13T16:22:03Z
+ResourceId: ASBKRFatUhc
+ResourceType: blog
 ResourceImportId: 152
 creator: Martin Hinshelwood
 resourceTypes: blog

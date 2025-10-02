@@ -5,16 +5,16 @@ description: Earn credits towards future training by referring others to NKDAgil
 tldr: NKDAgility has launched a referral program where you and your colleagues can each get a 20 percent discount or credit on training courses, with credits increasing up to 100 percent as you refer more people. This makes it easier and more affordable for your team to access relevant agile and Scrum training. Share your personal referral code to start saving on upcoming classes and support your team's professional development.
 date: 2023-08-28
 lastmod: 2023-08-28
-weight: 945
+weight: 825
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
 author: MrHinsh
-ResourceId: TJDLWyX3cZt
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: TJDLWyX3cZt
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme
 aliases:
   - /newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-07T13:09:50Z
   short_title: 2025-07-07T17:53:21Z
   tldr: 2025-08-07T13:00:43Z
+ResourceId: TJDLWyX3cZt
+ResourceType: newsletters
 preview: naked-agility-technically-agile-1280×720-September-2023.jpg
 resourceTypes: newsletter
 

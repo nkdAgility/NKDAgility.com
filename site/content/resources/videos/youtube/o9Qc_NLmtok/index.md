@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: o9Qc_NLmtok
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: o9Qc_NLmtok
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 8-week-immersive-learning-course-in-60-seconds
 aliases:
   - /resources/o9Qc_NLmtok
@@ -34,6 +33,9 @@ Watermarks:
   description: 2025-05-07T13:11:52Z
   short_title: 2025-07-07T17:54:50Z
   tldr: 2025-08-07T13:04:14Z
+ResourceId: o9Qc_NLmtok
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: o9Qc_NLmtok
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/o9Qc_NLmtok/maxresdefault.jpg

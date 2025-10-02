@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: h5TG3MbP0QY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: h5TG3MbP0QY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: most-common-thing-you-hear-in-a-psm-1-course
 aliases:
   - /resources/h5TG3MbP0QY
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:11:11Z
   short_title: 2025-07-07T17:54:17Z
   tldr: 2025-08-07T13:02:46Z
+ResourceId: h5TG3MbP0QY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: h5TG3MbP0QY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/h5TG3MbP0QY/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 5UG3FF0n0C8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 5UG3FF0n0C8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 10th-april-2020-office-hours-ask-me-anything
 aliases:
   - /resources/5UG3FF0n0C8
@@ -33,6 +32,9 @@ Watermarks:
   description: 2025-05-07T13:15:49Z
   short_title: 2025-07-07T17:58:10Z
   tldr: 2025-08-07T13:12:10Z
+ResourceId: 5UG3FF0n0C8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 5UG3FF0n0C8
 url: /resources/videos/:slug
 canonicalUrl: https://www.youtube.com/watch?v=5UG3FF0n0C8

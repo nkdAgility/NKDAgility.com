@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: X9eHflTb1Es
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: X9eHflTb1Es
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: why-azure-devops-wins-for-governance-security-and-scale-right-out-of-the-box
 aliases:
   - /resources/X9eHflTb1Es
@@ -34,11 +33,13 @@ tags:
   - Software Development
   - Technical Mastery
   - Product Delivery
+  - Pragmatic Thinking
   - Operational Practices
 Watermarks:
   description: 2025-07-24T14:48:58Z
   short_title: 2025-07-24T14:48:59Z
   tldr: 2025-07-30T23:12:37Z
+ResourceImportSource: Youtube
 videoId: X9eHflTb1Es
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/X9eHflTb1Es/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLBA5BlXmnA6HN8yMMEBDx9K_CkqKQ
@@ -46,6 +47,8 @@ duration: 228
 resourceTypes:
   - video
 isShort: false
+ResourceId: X9eHflTb1Es
+ResourceType: videos
 
 ---
 One of the most overlooked, yet powerful, stories in the world of Azure DevOps is its approach to governance, security, compliance, and scalability. I see this time and again—organisations get so caught up in the bells and whistles of tooling that they forget the real value often lies in the things you get out of the box. With Azure DevOps, these critical capabilities aren’t afterthoughts or bolt-ons; they’re baked right in from the start. And that, in my experience, is a game-changer.

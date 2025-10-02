@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: mjsboLP-N9P
-ResourceImport: false
-ResourceType: engineering-notes
-ResourceContentOrigin: human
+ItemId: mjsboLP-N9P
+ItemType: engineering-notes
+ItemKind: resource
+ItemContentOrigin: human
 slug: building-a-resilient-token-server-engineering-for-flow-fault-tolerance-and-speed
 aliases:
   - /resources/mjsboLP-N9P
@@ -39,6 +39,8 @@ Watermarks:
   description: 2025-05-07T12:49:10Z
   short_title: 2025-07-07T16:44:24Z
   tldr: 2025-08-07T12:32:42Z
+ResourceId: mjsboLP-N9P
+ResourceType: engineering-notes
 
 ---
 Modern engineering is about making sure systems keep running reliably under load, failure, and unpredictable conditions. When I set out to build a fast, dependable way to calculate OpenAI token counts for my batch classification pipeline, I didn’t want a quick script or a one-off tool. I wanted a **resilient, observable, fault-tolerant system** that fit tightly into my PowerShell-first workflow and could hold up in real conditions, not just lab tests.

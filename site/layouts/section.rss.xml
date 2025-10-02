@@ -10,8 +10,8 @@
             <item>
                 <title>{{ .Title | htmlEscape }}</title>
                 <link>{{ .Permalink }}</link>
-                {{- if .Params.ResourceId -}}
-                <guid>https://nkdagility.com/resources/{{- .Params.ResourceId -}}</guid>
+                {{- if .Params.ItemId -}}
+                <guid>https://nkdagility.com/resources/{{- .Params.ItemId -}}</guid>
                 {{- else -}}
                 <guid>{{ .Permalink }}</guid>
                 {{- end -}}

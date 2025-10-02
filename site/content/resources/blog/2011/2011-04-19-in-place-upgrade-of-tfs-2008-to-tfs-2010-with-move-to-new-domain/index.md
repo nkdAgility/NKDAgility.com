@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: LSYjtifbvOt
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: LSYjtifbvOt
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 aliases:
   - /resources/LSYjtifbvOt
@@ -34,6 +34,8 @@ tags:
   - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:10:55Z
+ResourceId: LSYjtifbvOt
+ResourceType: blog
 ResourceImportId: 5
 creator: Martin Hinshelwood
 resourceTypes: blog

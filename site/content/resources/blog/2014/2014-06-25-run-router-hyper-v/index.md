@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 0Ly3betXY-6
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 0Ly3betXY-6
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: run-a-router-on-hyper-v
 aliases:
   - /resources/0Ly3betXY-6
@@ -30,6 +30,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-12T14:21:36Z
+ResourceId: 0Ly3betXY-6
+ResourceType: blog
 ResourceImportId: 10617
 creator: Martin Hinshelwood
 resourceTypes: blog

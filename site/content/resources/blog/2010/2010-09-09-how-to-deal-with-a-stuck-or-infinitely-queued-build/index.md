@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: gfvOPIZKbEI
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: gfvOPIZKbEI
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: how-to-deal-with-a-stuck-or-infinitely-queued-build
 aliases:
   - /resources/gfvOPIZKbEI
@@ -30,6 +30,8 @@ tags:
   - Azure DevOps
 Watermarks:
   description: 2025-05-13T15:11:33Z
+ResourceId: gfvOPIZKbEI
+ResourceType: blog
 ResourceImportId: 27
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 9xXIHbs9zmA
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 9xXIHbs9zmA
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-release-management-server-for-tfs-2013
 aliases:
   - /resources/9xXIHbs9zmA
@@ -30,6 +30,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-12T14:22:21Z
+ResourceId: 9xXIHbs9zmA
+ResourceType: blog
 ResourceImportId: 10351
 creator: Martin Hinshelwood
 resourceTypes: blog

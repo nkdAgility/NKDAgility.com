@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 221BbTUqw7Q
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 221BbTUqw7Q
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
 aliases:
   - /resources/221BbTUqw7Q
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:10:12Z
   short_title: 2025-07-07T17:53:33Z
   tldr: 2025-08-07T13:01:07Z
+ResourceId: 221BbTUqw7Q
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 221BbTUqw7Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/221BbTUqw7Q/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: klBiNFvxuy0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: klBiNFvxuy0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
 aliases:
   - /resources/klBiNFvxuy0
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:13:50Z
   short_title: 2025-07-07T17:56:33Z
   tldr: 2025-08-07T13:07:51Z
+ResourceId: klBiNFvxuy0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: klBiNFvxuy0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/klBiNFvxuy0/maxresdefault.jpg

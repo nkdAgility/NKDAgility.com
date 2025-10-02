@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: xxZKrAlxQiH
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: xxZKrAlxQiH
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-visual-studio-2008-team-suite-on-windows-7
 aliases:
   - /resources/xxZKrAlxQiH
@@ -28,6 +28,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:21:58Z
+ResourceId: xxZKrAlxQiH
+ResourceType: blog
 ResourceImportId: 147
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -5,16 +5,16 @@ description: Buy one Scrum training course and get a second free for a friend or
 tldr: For January, you can enrol in any Scrum training course and bring a colleague for free, with six course options available and a price-by-country model to ensure global accessibility. There is also a 20 percent discount on all classes until March 31, 2024. Take advantage of this offer to upskill your team and boost Agile capabilities.
 date: 2024-01-11
 lastmod: 2024-01-11
-weight: 850
+weight: 755
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
 author: MrHinsh
-ResourceId: ZHJtz2t0uTU
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: ZHJtz2t0uTU
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: change-is-easier-with-a-friend-buy-1-get-1-free
 aliases:
   - /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-07T13:06:28Z
   short_title: 2025-07-07T17:50:18Z
   tldr: 2025-08-07T12:54:06Z
+ResourceId: ZHJtz2t0uTU
+ResourceType: newsletters
 preview: naked-agility-technically-agile-1280×720-24Q1-Change-1.jpg
 resourceTypes: newsletter
 

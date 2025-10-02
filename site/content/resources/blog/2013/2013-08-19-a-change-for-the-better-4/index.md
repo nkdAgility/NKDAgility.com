@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: yryUrqeINBG
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: yryUrqeINBG
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: a-change-for-the-better-4
 aliases:
   - /resources/yryUrqeINBG
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:23:23Z
+ResourceId: yryUrqeINBG
+ResourceType: blog
 ResourceImportId: 9951
 creator: Martin Hinshelwood
 resourceTypes: blog

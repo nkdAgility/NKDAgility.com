@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: JahDQ6odH0w
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: JahDQ6odH0w
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: how-ctos-can-cut-through-the-noise-building-real-clarity-and-confidence-in-a-world-of-ai-hype-and-microservices-madness
 aliases:
   - /resources/JahDQ6odH0w
@@ -29,12 +28,15 @@ concepts:
 categories:
   - Leadership
 tags:
+  - Pragmatic Thinking
+  - Sensemaking
   - Decision Making
   - Agile Leadership
 Watermarks:
   description: 2025-07-24T15:16:16Z
   short_title: 2025-07-24T15:16:16Z
   tldr: 2025-08-07T12:32:10Z
+ResourceImportSource: Youtube
 videoId: JahDQ6odH0w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JahDQ6odH0w/maxresdefault.jpg
@@ -42,6 +44,8 @@ duration: 83
 resourceTypes:
   - video
 isShort: false
+ResourceId: JahDQ6odH0w
+ResourceType: videos
 
 ---
 AI, microservices, new frameworks every month. If you’re a CTO or technical leader right now, it probably feels like you’re drowning in decisions. I see it everywhere I go—every time you turn around, there’s a new tool, a new practice, a new expectation. And everyone’s looking at you to make the right call. Not just technically, but strategically. The pressure is relentless.

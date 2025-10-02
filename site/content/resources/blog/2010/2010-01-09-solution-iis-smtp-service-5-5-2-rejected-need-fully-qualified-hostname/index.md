@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: FnOt4634WJy
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: FnOt4634WJy
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
 aliases:
   - /resources/blog/solution-iis-smtp-service-5.5.2-rejected-need-fully-qualified-hostname
@@ -34,6 +34,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:22:47Z
+ResourceId: FnOt4634WJy
+ResourceType: blog
 ResourceImportId: 72
 creator: Martin Hinshelwood
 resourceTypes: blog

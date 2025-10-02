@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: _FVuS9sZSA2
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: _FVuS9sZSA2
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: should-i-upgrade-to-tfs-2013-update-2
 aliases:
   - /resources/_FVuS9sZSA2
@@ -33,6 +33,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:22:05Z
+ResourceId: _FVuS9sZSA2
+ResourceType: blog
 ResourceImportId: 10479
 creator: Martin Hinshelwood
 resourceTypes: blog

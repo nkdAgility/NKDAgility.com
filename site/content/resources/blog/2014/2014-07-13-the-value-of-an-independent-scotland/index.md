@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: kmgdXtKVzGS
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: kmgdXtKVzGS
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-value-of-an-independent-scotland
 aliases:
   - /resources/kmgdXtKVzGS
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:21:30Z
+ResourceId: kmgdXtKVzGS
+ResourceType: blog
 ResourceImportId: 10655
 creator: Martin Hinshelwood
 resourceTypes: blog

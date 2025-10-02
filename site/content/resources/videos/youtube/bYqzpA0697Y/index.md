@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: bYqzpA0697Y
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: bYqzpA0697Y
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
 aliases:
   - /resources/bYqzpA0697Y
@@ -38,11 +37,14 @@ categories:
   - Technical Leadership
 tags:
   - Operational Practices
+  - Software Development
   - Scaling
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T12:49:21Z
   short_title: 2025-07-07T16:45:44Z
   tldr: 2025-08-07T12:35:31Z
+ResourceImportSource: Youtube
 videoId: bYqzpA0697Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/bYqzpA0697Y/maxresdefault.jpg
@@ -50,6 +52,8 @@ duration: 87
 resourceTypes:
   - video
 isShort: false
+ResourceId: bYqzpA0697Y
+ResourceType: videos
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) [product development]({{< ref "/categories/product-development" >}}) is a challenge that many organisations face, and I can tell you from experience that it’s never as simple as just adding more people to the mix. At Naked Agility, we’ve learned that true scaling involves creating systems that allow teams to expand seamlessly without sacrificing speed or quality. 

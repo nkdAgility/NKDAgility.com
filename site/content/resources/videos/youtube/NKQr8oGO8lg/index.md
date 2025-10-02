@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: NKQr8oGO8lg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: NKQr8oGO8lg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
 aliases:
   - /resources/NKQr8oGO8lg
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:10:39Z
   short_title: 2025-07-07T17:53:56Z
   tldr: 2025-08-07T13:01:56Z
+ResourceId: NKQr8oGO8lg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: NKQr8oGO8lg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/NKQr8oGO8lg/maxresdefault.jpg

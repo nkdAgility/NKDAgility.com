@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: qVBmvY9STVE
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: qVBmvY9STVE
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: scrum-for-product-owners-training
-aliases:
-  - /resources/qVBmvY9STVE
+aliases: []
 aliasesArchive:
   - /training-courses/scrum-for-product-owners
   - /training-courses/scrum-for-product-owners-training/
@@ -95,6 +94,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+ResourceId: qVBmvY9STVE
+ResourceType: course
 
 ---
 # Scrum for Product Owners Training

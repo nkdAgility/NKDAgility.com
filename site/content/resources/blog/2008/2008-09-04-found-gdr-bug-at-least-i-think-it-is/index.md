@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: LjS_IaGaE9R
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: LjS_IaGaE9R
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: found-gdr-bug-at-least-i-think-it-is
 aliases:
   - /resources/blog/found-gdr-bug-at-least-i-think-it-is.
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:23:22Z
+ResourceId: LjS_IaGaE9R
+ResourceType: blog
 ResourceImportId: 198
 creator: Martin Hinshelwood
 resourceTypes: blog

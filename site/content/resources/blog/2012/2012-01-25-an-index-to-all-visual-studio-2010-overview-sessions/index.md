@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: _EPy7wea5xE
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: _EPy7wea5xE
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2010-overview-webcasts
 aliases:
   - /resources/_EPy7wea5xE
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:40Z
+ResourceId: _EPy7wea5xE
+ResourceType: blog
 ResourceImportId: 4128
 creator: Martin Hinshelwood
 resourceTypes: blog

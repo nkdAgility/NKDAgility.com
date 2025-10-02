@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: Q2Fo3sM6BVo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Q2Fo3sM6BVo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
 aliases:
   - /resources/Q2Fo3sM6BVo
@@ -45,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:14:41Z
   short_title: 2025-07-07T17:57:19Z
   tldr: 2025-08-07T13:09:38Z
+ResourceId: Q2Fo3sM6BVo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Q2Fo3sM6BVo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg

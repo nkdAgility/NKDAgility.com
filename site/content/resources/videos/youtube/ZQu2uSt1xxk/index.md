@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: ZQu2uSt1xxk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ZQu2uSt1xxk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: overview-of-applying-professional-kanban-course
 aliases:
   - /resources/ZQu2uSt1xxk
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:05:40Z
   short_title: 2025-07-07T17:49:40Z
   tldr: 2025-08-07T12:52:34Z
+ResourceId: ZQu2uSt1xxk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ZQu2uSt1xxk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZQu2uSt1xxk/maxresdefault.jpg

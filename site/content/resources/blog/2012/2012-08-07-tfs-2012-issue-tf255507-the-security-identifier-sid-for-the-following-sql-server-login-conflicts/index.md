@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: xEMKWWn-mv3
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: xEMKWWn-mv3
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
 aliases:
   - /resources/xEMKWWn-mv3
@@ -32,6 +32,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:08:22Z
+ResourceId: xEMKWWn-mv3
+ResourceType: blog
 ResourceImportId: 7074
 creator: Martin Hinshelwood
 resourceTypes: blog

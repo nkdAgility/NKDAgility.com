@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: vzIIFAI5ygR
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: vzIIFAI5ygR
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: batched-domain-migration-with-tfs-while-maintaining-identity
 aliases:
   - /resources/vzIIFAI5ygR
@@ -30,6 +30,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:48Z
+ResourceId: vzIIFAI5ygR
+ResourceType: blog
 ResourceImportId: 9324
 creator: Martin Hinshelwood
 resourceTypes: blog

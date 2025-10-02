@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: VkhIXCsoSJw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: VkhIXCsoSJw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
 aliases:
   - /resources/VkhIXCsoSJw
@@ -52,6 +51,7 @@ Watermarks:
   description: 2025-05-07T12:49:59Z
   short_title: 2025-07-07T17:47:00Z
   tldr: 2025-08-07T12:40:34Z
+ResourceImportSource: Youtube
 videoId: VkhIXCsoSJw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
@@ -59,6 +59,8 @@ duration: 529
 resourceTypes:
   - video
 isShort: false
+ResourceId: VkhIXCsoSJw
+ResourceType: videos
 
 ---
 When it comes to developing complex products, one of the most significant steps we can take as developers and engineering teams is to embrace automation. In my experience, this is not just a best practice; it’s essential for success. Alongside reducing the size of our backlog—essentially making our deliverables smaller so we can iterate more frequently—automation becomes a cornerstone of our development process.

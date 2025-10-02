@@ -5,16 +5,15 @@ description: Learn how using empirical, data-driven methods can improve decision
 tldr: Using data to guide decisions helps teams make better choices, improve continuously, and build trust with stakeholders. The key is to ensure access to relevant data, act deliberately, and monitor results in a cycle of experimentation and learning. Development managers should foster a culture where decisions are based on evidence, not assumptions, and regularly review outcomes to adapt and improve.
 date: 2023-08-17T07:00:09Z
 lastmod: 2023-08-17T07:00:09Z
-weight: 710
+weight: 410
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
-ResourceId: Q46T5DYVKqQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Q46T5DYVKqQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
 aliases:
   - /resources/Q46T5DYVKqQ
@@ -45,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:10:09Z
   short_title: 2025-07-07T17:53:30Z
   tldr: 2025-08-07T13:01:00Z
+ResourceId: Q46T5DYVKqQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Q46T5DYVKqQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: CPYTApf0Ibs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: CPYTApf0Ibs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: does-your-team-truly-understand-your-product-vision-and-goals
 aliases:
   - /resources/CPYTApf0Ibs
@@ -55,6 +54,9 @@ Watermarks:
   description: 2025-05-07T13:02:37Z
   short_title: 2025-07-07T17:49:01Z
   tldr: 2025-08-07T12:50:56Z
+ResourceId: CPYTApf0Ibs
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: CPYTApf0Ibs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/CPYTApf0Ibs/maxresdefault.jpg

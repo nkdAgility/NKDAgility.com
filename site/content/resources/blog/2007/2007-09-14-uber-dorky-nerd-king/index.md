@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Ujdt5B-Adqp
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Ujdt5B-Adqp
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: uber-dorky-nerd-king
 aliases:
   - /resources/Ujdt5B-Adqp
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:08Z
+ResourceId: Ujdt5B-Adqp
+ResourceType: blog
 ResourceImportId: 312
 creator: Martin Hinshelwood
 resourceTypes: blog

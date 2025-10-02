@@ -9,10 +9,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: p62cJsAjQNw
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: p62cJsAjQNw
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: agile-kata-professional
 aliases:
   - /training-courses/agile-workshops/agile-kata-professional/
@@ -86,6 +86,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+ResourceId: p62cJsAjQNw
+ResourceType: course
 
 ---
 # Agile Kata Professional

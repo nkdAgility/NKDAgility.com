@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: x-pH6Gc3gyt
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: x-pH6Gc3gyt
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: branch-compare…a-life-saver
 aliases:
   - /resources/blog/branch-compare-a-life-saver
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:51Z
+ResourceId: x-pH6Gc3gyt
+ResourceType: blog
 ResourceImportId: 181
 creator: Martin Hinshelwood
 resourceTypes: blog

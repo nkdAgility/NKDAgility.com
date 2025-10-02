@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: -9zhZou8GwO
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: -9zhZou8GwO
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: interview-with-scottish-developers
 aliases:
   - /resources/-9zhZou8GwO
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:04Z
+ResourceId: -9zhZou8GwO
+ResourceType: blog
 ResourceImportId: 85
 creator: Martin Hinshelwood
 resourceTypes: blog

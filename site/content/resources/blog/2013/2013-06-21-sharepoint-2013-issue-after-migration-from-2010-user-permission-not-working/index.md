@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: M-S-kXIX-ar
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: M-S-kXIX-ar
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
 aliases:
   - /resources/M-S-kXIX-ar
@@ -32,6 +32,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:06:13Z
+ResourceId: M-S-kXIX-ar
+ResourceType: blog
 ResourceImportId: 9906
 creator: Martin Hinshelwood
 resourceTypes: blog

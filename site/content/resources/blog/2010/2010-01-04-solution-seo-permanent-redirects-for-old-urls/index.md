@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 2x0w1Oay2UF
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 2x0w1Oay2UF
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: solution-seo-permanent-redirects-for-old-url-s
 aliases:
   - /resources/2x0w1Oay2UF
@@ -34,6 +34,8 @@ tags:
   - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:22:48Z
+ResourceId: 2x0w1Oay2UF
+ResourceType: blog
 ResourceImportId: 73
 creator: Martin Hinshelwood
 resourceTypes: blog

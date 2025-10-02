@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: EyqLSLHk_Ik
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: EyqLSLHk_Ik
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: empowering-teams-for-success-the-key-to-thriving-product-development
 aliases:
   - /resources/EyqLSLHk_Ik
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:05:09Z
   short_title: 2025-07-07T17:49:16Z
   tldr: 2025-08-07T12:51:34Z
+ResourceId: EyqLSLHk_Ik
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: EyqLSLHk_Ik
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: agPLmBdXdbk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: agPLmBdXdbk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: must-have-trait-in-an-agile-consultant
 aliases:
   - /resources/agPLmBdXdbk
@@ -33,6 +32,9 @@ Watermarks:
   description: 2025-05-07T13:12:50Z
   short_title: 2025-07-07T17:55:35Z
   tldr: 2025-08-07T13:05:47Z
+ResourceId: agPLmBdXdbk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: agPLmBdXdbk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/agPLmBdXdbk/maxresdefault.jpg

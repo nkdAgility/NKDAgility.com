@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: i3ovxH1TSqK
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: i3ovxH1TSqK
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: microsoft-forget-about-paypal-how-about-a-mastercard-killer
 aliases:
   - /resources/i3ovxH1TSqK
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:23Z
+ResourceId: i3ovxH1TSqK
+ResourceType: blog
 ResourceImportId: 439
 creator: Martin Hinshelwood
 resourceTypes: blog

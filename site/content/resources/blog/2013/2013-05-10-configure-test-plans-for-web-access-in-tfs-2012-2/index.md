@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: eNRpc70Z73R
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: eNRpc70Z73R
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: configure-test-plans-for-web-access-in-tfs-2012-2
 aliases:
   - /resources/blog/configure-test-plans-for-web-access-in-tfs-2012.2
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:06:28Z
+ResourceId: eNRpc70Z73R
+ResourceType: blog
 ResourceImportId: 9900
 creator: Martin Hinshelwood
 resourceTypes: blog

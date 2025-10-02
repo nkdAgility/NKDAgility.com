@@ -13,10 +13,10 @@ sitemap:
 author:
   - Ken Schwaber
   - Jeff Sutherland
-ResourceId: 59gcHh1fYtC
-ResourceImport: false
-ResourceType: guides
-ResourceContentOrigin: Human
+ItemId: 59gcHh1fYtC
+ItemType: guides
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-scrum-guide
 aliases:
   - /guides/Scrum-Guide/
@@ -62,6 +62,8 @@ Watermarks:
   description: 2025-05-07T12:58:15Z
   short_title: 2025-07-07T16:40:32Z
   tldr: 2025-08-07T12:48:34Z
+ResourceId: 59gcHh1fYtC
+ResourceType: guides
 resourceTypes: guide
 downloads:
   - title: Scrum Guide 2020

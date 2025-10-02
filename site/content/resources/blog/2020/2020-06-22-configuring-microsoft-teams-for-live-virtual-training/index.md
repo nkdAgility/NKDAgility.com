@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Xc0Lh3NbXfK
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: Xc0Lh3NbXfK
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: configuring-microsoft-teams-for-live-virtual-training
 aliases:
   - /resources/Xc0Lh3NbXfK
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-07T13:15:35Z
   short_title: 2025-07-07T17:57:58Z
   tldr: 2025-08-07T13:11:24Z
+ResourceId: Xc0Lh3NbXfK
+ResourceType: blog
 ResourceImportId: 44452
 creator: Martin Hinshelwood
 resourceTypes: blog

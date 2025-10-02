@@ -12,10 +12,10 @@ sitemap:
   changefreq: weekly
 author:
   - Scrum.org
-ResourceId: KD08D48Weks
-ResourceImport: false
-ResourceType: guides
-ResourceContentOrigin: Human
+ItemId: KD08D48Weks
+ItemType: guides
+ItemKind: resource
+ItemContentOrigin: Human
 slug: evidence-based-portfolio-management
 aliases:
   - /resources/KD08D48Weks
@@ -27,8 +27,11 @@ concepts: []
 categories:
   - Lean
 tags:
+  - Experimentation
   - Enterprise Agility
   - Empirical Process Control
+  - Hypothesis Driven Development
+  - Lean Product Development
   - Business Agility
 card:
   button:
@@ -39,6 +42,8 @@ Watermarks:
   description: 2025-05-07T12:58:06Z
   short_title: 2025-07-07T16:40:35Z
   tldr: 2025-08-07T13:12:41Z
+ResourceId: KD08D48Weks
+ResourceType: guides
 resourceTypes: guide
 creator: Martin Hinshelwood
 

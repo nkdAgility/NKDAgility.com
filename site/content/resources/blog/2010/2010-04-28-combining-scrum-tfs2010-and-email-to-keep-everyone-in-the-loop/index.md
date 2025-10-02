@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: aU3PspgaeEN
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: aU3PspgaeEN
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 aliases:
   - /resources/aU3PspgaeEN
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:22:05Z
+ResourceId: aU3PspgaeEN
+ResourceType: blog
 ResourceImportId: 48
 creator: Martin Hinshelwood
 resourceTypes: blog

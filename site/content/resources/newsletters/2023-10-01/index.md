@@ -11,10 +11,10 @@ sitemap:
   priority: 0.4
   changefreq: weekly
 author: MrHinsh
-ResourceId: 9YRzr3RR2Da
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: 9YRzr3RR2Da
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-płaskonka-martin-hinshelwood
 aliases:
   - /newsletters/exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-plaskonka-martin-hinshelwood/
@@ -36,6 +36,8 @@ Watermarks:
   description: 2025-05-07T13:09:07Z
   short_title: 2025-07-07T17:52:43Z
   tldr: 2025-08-07T12:59:08Z
+ResourceId: 9YRzr3RR2Da
+ResourceType: newsletters
 resourceTypes: newsletter
 
 ---

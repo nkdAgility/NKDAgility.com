@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: RwH_ozVN5om
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: RwH_ozVN5om
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: i-ll-never-understand-teams-that-manage-bugs-instead-of-fixing-them
 aliases:
   - /resources/RwH_ozVN5om
@@ -42,6 +42,8 @@ Watermarks:
   description: 2025-05-16T15:55:06Z
   short_title: 2025-07-07T16:44:32Z
   tldr: 2025-08-07T12:32:58Z
+ResourceId: RwH_ozVN5om
+ResourceType: signals
 
 ---
 I’ll never understand teams that “manage” bugs instead of just fixing them.

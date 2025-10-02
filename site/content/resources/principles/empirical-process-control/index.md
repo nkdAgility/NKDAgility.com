@@ -9,10 +9,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: VBf7KL90jRm
-ResourceImport: false
-ResourceType: principles
-ResourceContentOrigin: Human
+ItemId: VBf7KL90jRm
+ItemType: principles
+ItemKind: resource
+ItemContentOrigin: Human
 slug: empirical-process-control
 aliases:
   - /learn/agile-delivery-kit/first-principals/empirical-process-control/
@@ -36,6 +36,8 @@ Watermarks:
   description: 2025-05-07T12:58:10Z
   short_title: 2025-07-07T17:48:03Z
   tldr: 2025-08-07T12:48:43Z
+ResourceId: VBf7KL90jRm
+ResourceType: principles
 recommendedContent: 
 creator: Martin Hinshelwood
 resourceTypes: principles

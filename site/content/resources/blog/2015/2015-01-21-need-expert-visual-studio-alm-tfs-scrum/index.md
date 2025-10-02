@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: za3YB57XYl0
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: za3YB57XYl0
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: do-you-need-an-expert-in-visual-studio-alm-tfs-or-scrum
 aliases:
   - /resources/za3YB57XYl0
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-12T14:20:12Z
   tldr: 2025-08-07T13:25:49Z
   short_title: 2025-08-07T13:25:49Z
+ResourceId: za3YB57XYl0
+ResourceType: blog
 ResourceImportId: 11120
 creator: Martin Hinshelwood
 resourceTypes: blog

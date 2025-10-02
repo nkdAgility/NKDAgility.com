@@ -11,10 +11,10 @@ sitemap:
   priority: 0.8
   changefreq: weekly
 author: MrHinsh
-ResourceId: X2BzJPMloRw
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: human
+ItemId: X2BzJPMloRw
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: human
 slug: why-resilience-demands-more-than-survival
 aliases:
   - /resources/X2BzJPMloRw
@@ -35,6 +35,8 @@ Watermarks:
   short_title: 2025-07-07T16:43:31Z
   tldr: 2025-08-07T12:11:16Z
 resourceTypes: newsletter
+ResourceId: X2BzJPMloRw
+ResourceType: newsletters
 
 ---
 In resilient organisations, resilience is not about bouncing back; it is about bouncing forward. Teams that survive chaos but leave behind technical debt are not resilient — they are brittle.

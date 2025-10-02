@@ -5,15 +5,15 @@ description: Explores using AI embeddings and cosine similarity to improve relat
 tldr: Switching from Hugo’s basic related content feature to an AI embeddings-based approach enabled much more accurate and meaningful content recommendations, improving both user navigation and AI discoverability. The solution was cost-effective, scalable, and reduced computational overhead by caching similarity scores and storing embeddings for reuse. Development managers can consider using AI embeddings for smarter content linking, which can enhance user experience and support future automation or classification needs.
 date: 2025-06-04T09:00:00Z
 lastmod: 2025-06-04T09:00:00Z
-weight: 565
+weight: 675
 sitemap:
   filename: sitemap.xml
-  priority: 0.3
+  priority: 0.2
   changefreq: weekly
-ResourceId: OUeioY0BIV-
-ResourceImport: false
-ResourceType: engineering-notes
-ResourceContentOrigin: human
+ItemId: OUeioY0BIV-
+ItemType: engineering-notes
+ItemKind: resource
+ItemContentOrigin: human
 slug: leveraging-ai-embeddings-for-related-content-classification
 aliases:
   - /resources/OUeioY0BIV-
@@ -29,6 +29,8 @@ Watermarks:
   description: 2025-05-28T11:53:29Z
   short_title: 2025-07-07T16:43:44Z
   tldr: 2025-08-07T12:11:54Z
+ResourceId: OUeioY0BIV-
+ResourceType: engineering-notes
 
 ---
 Mid-last year, I transitioned my website to Hugo and since then have been exploring AI-driven content classification. A common feature I have always appreciated is the "related content" recommendation, suggesting to readers what's next or what else might be of interest. Although Hugo’s built-in related content functionality is perfectly serviceable, relying on parameters like tags, keywords, and headings, I believed there was room for something more sophisticated.

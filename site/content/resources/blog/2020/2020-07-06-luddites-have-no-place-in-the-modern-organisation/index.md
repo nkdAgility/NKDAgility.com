@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: dyxqF7lrHmn
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: dyxqF7lrHmn
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: luddites-have-no-place-in-the-modern-organisation
 aliases:
   - /resources/dyxqF7lrHmn
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-07T13:15:31Z
   short_title: 2025-07-07T17:57:55Z
   tldr: 2025-08-07T13:11:17Z
+ResourceId: dyxqF7lrHmn
+ResourceType: blog
 ResourceImportId: 44507
 creator: Martin Hinshelwood
 resourceTypes: blog

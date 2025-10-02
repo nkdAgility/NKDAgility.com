@@ -11,10 +11,10 @@ sitemap:
   priority: 0.2
   changefreq: weekly
 author: MrHinsh
-ResourceId: Y8ySIcajwoP
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: Y8ySIcajwoP
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: march-2023-nkdagility-the-magic-of-immersive-classes
 aliases:
   - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-07T13:13:53Z
   short_title: 2025-07-07T17:56:36Z
   tldr: 2025-08-07T13:07:58Z
+ResourceId: Y8ySIcajwoP
+ResourceType: newsletters
 preview: naked-agility-technically-agile-1280×720-March2023.jpg
 resourceTypes: newsletter
 

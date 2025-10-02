@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: OCJuDfc-gnc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: OCJuDfc-gnc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
 aliases:
   - /resources/OCJuDfc-gnc
@@ -35,6 +34,9 @@ Watermarks:
   description: 2025-05-07T13:16:01Z
   short_title: 2025-07-07T17:58:20Z
   tldr: 2025-08-07T13:12:37Z
+ResourceId: OCJuDfc-gnc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: OCJuDfc-gnc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg

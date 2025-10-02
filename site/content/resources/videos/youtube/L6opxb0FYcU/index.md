@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: L6opxb0FYcU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: L6opxb0FYcU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: worst-agile-advice-you've-ever-heard
 aliases:
   - /resources/L6opxb0FYcU
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:12:36Z
   short_title: 2025-07-07T17:55:21Z
   tldr: 2025-08-07T13:05:21Z
+ResourceId: L6opxb0FYcU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: L6opxb0FYcU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/L6opxb0FYcU/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: rZaFJwqThDs
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: rZaFJwqThDs
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: integrate-sharepoint-2010-with-team-foundation-server-2010
 aliases:
   - /resources/rZaFJwqThDs
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:22:01Z
+ResourceId: rZaFJwqThDs
+ResourceType: blog
 ResourceImportId: 44
 creator: Martin Hinshelwood
 resourceTypes: blog

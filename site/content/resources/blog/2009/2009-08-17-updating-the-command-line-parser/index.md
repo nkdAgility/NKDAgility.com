@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ZMPPpD1TIuP
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ZMPPpD1TIuP
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: updating-the-command-line-parser
 aliases:
   - /resources/ZMPPpD1TIuP
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:23:16Z
+ResourceId: ZMPPpD1TIuP
+ResourceType: blog
 ResourceImportId: 91
 creator: Martin Hinshelwood
 resourceTypes: blog

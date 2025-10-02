@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: -BCzcrYA0j8
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: -BCzcrYA0j8
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: wpf-drag-drop-behaviour
 aliases:
   - /resources/-BCzcrYA0j8
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:23:18Z
+ResourceId: -BCzcrYA0j8
+ResourceType: blog
 ResourceImportId: 92
 creator: Martin Hinshelwood
 resourceTypes: blog

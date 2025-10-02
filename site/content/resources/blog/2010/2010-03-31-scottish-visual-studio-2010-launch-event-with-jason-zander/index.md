@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 6uW7o7pk9WZ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 6uW7o7pk9WZ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: scottish-visual-studio-2010-launch-event-with-jason-zander
 aliases:
   - /resources/6uW7o7pk9WZ
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:22:22Z
+ResourceId: 6uW7o7pk9WZ
+ResourceType: blog
 ResourceImportId: 57
 creator: Martin Hinshelwood
 resourceTypes: blog

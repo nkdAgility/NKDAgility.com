@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: hIIqffRyh3i
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: hIIqffRyh3i
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: end-of-another-sticky-week
 aliases:
   - /resources/blog/end-of-another-sticky-week...
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:19Z
+ResourceId: hIIqffRyh3i
+ResourceType: blog
 ResourceImportId: 237
 creator: Martin Hinshelwood
 resourceTypes: blog

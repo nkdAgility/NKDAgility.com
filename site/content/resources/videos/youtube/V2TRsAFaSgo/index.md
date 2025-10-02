@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: V2TRsAFaSgo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: V2TRsAFaSgo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
 aliases:
   - /resources/V2TRsAFaSgo
@@ -32,11 +31,12 @@ concepts: []
 categories:
   - Uncategorized
 tags:
-  - Software Development
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T20:44:16Z
   short_title: 2025-07-07T16:44:07Z
   tldr: 2025-08-07T12:32:05Z
+ResourceImportSource: Youtube
 videoId: V2TRsAFaSgo
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/V2TRsAFaSgo/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLB05ovsBHZnXeNh_vVF3uBe0tQCCA
@@ -44,6 +44,8 @@ duration: 110
 resourceTypes:
   - video
 isShort: false
+ResourceId: V2TRsAFaSgo
+ResourceType: videos
 
 ---
 Are legacy contracts keeping you stuck with the wrong vendors? If so, you’re certainly not alone. Vendor lock-in is a persistent, often invisible, barrier for organisations striving to modernise their systems of work. I see it time and again: outdated contracts, proprietary platforms, and deeply embedded dependencies that make it nearly impossible to shift direction. Instead of focusing on what’s best for your business, you end up maintaining someone else’s business model—at your own expense.

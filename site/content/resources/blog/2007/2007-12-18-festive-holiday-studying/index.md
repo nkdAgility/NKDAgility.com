@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: tUIp9FEu7QH
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: tUIp9FEu7QH
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: festive-holiday-studying
 aliases:
   - /resources/tUIp9FEu7QH
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:11Z
+ResourceId: tUIp9FEu7QH
+ResourceType: blog
 ResourceImportId: 273
 creator: Martin Hinshelwood
 resourceTypes: blog

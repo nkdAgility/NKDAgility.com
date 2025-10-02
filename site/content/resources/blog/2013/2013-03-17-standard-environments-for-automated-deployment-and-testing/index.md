@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: Xmo3nfcFGmv
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Xmo3nfcFGmv
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: standard-environments-for-automated-deployment-and-testing
 aliases:
   - /resources/Xmo3nfcFGmv
@@ -42,6 +42,8 @@ tags:
   - Internal Developer Platform
 Watermarks:
   description: 2025-05-13T15:06:52Z
+ResourceId: Xmo3nfcFGmv
+ResourceType: blog
 ResourceImportId: 9308
 creator: Martin Hinshelwood
 resourceTypes: blog

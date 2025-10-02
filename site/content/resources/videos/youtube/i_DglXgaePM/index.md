@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: i_DglXgaePM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: i_DglXgaePM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
 aliases:
   - /resources/i_DglXgaePM
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:16:00Z
   short_title: 2025-07-07T17:58:19Z
   tldr: 2025-08-07T13:12:35Z
+ResourceId: i_DglXgaePM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: i_DglXgaePM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/i_DglXgaePM/maxresdefault.jpg

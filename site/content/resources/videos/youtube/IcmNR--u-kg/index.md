@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: IcmNR--u-kg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: IcmNR--u-kg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transform-your-team's-skills-the-power-of-immersive-learning-in-the-workplace
 aliases:
   - /resources/IcmNR--u-kg
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:10:30Z
   short_title: 2025-07-07T17:53:48Z
   tldr: 2025-08-07T13:01:40Z
+ResourceId: IcmNR--u-kg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: IcmNR--u-kg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/IcmNR--u-kg/maxresdefault.jpg

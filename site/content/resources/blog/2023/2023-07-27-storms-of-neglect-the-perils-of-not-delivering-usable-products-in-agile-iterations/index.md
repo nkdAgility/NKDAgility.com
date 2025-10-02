@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: G1N1dQ6DNEV
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: G1N1dQ6DNEV
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 aliases:
   - /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
@@ -49,6 +49,8 @@ Watermarks:
   description: 2025-05-07T13:10:34Z
   short_title: 2025-07-07T17:53:51Z
   tldr: 2025-08-07T13:01:45Z
+ResourceId: G1N1dQ6DNEV
+ResourceType: blog
 ResourceImportId: 49502
 AudioNative: true
 creator: Martin Hinshelwood

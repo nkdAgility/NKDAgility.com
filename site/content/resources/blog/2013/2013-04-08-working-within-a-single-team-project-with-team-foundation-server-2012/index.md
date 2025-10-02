@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: mV9NzUQYyjY
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: mV9NzUQYyjY
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: working-within-a-single-team-project-with-team-foundation-server-2012
 aliases:
   - /resources/mV9NzUQYyjY
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:06:40Z
+ResourceId: mV9NzUQYyjY
+ResourceType: blog
 ResourceImportId: 9431
 creator: Martin Hinshelwood
 resourceTypes: blog

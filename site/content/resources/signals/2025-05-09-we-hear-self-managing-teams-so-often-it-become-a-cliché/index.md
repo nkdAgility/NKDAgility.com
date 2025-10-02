@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: FqiyqqNxjFS
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: FqiyqqNxjFS
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: we-hear-self-managing-teams-so-often-it-become-a-cliché
 aliases:
   - /resources/FqiyqqNxjFS
@@ -55,6 +55,8 @@ Watermarks:
   description: 2025-05-16T15:54:54Z
   short_title: 2025-07-07T16:44:22Z
   tldr: 2025-08-07T12:32:38Z
+ResourceId: FqiyqqNxjFS
+ResourceType: signals
 
 ---
 We hear “self-managing teams” so often it’s become a cliché.

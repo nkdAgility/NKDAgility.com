@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: z6JKvHvhWuI
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: z6JKvHvhWuI
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: sharepoint-solutions-rant
 aliases:
   - /resources/z6JKvHvhWuI
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:23:58Z
+ResourceId: z6JKvHvhWuI
+ResourceType: blog
 ResourceImportId: 222
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: 56nUC8jR2v8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 56nUC8jR2v8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace
 aliases:
   - /resources/56nUC8jR2v8
@@ -31,11 +30,16 @@ categories:
   - Leadership
 tags:
   - Personal
+  - Change Management
   - Team Motivation
+  - Sociotechnical Systems
 Watermarks:
   description: 2025-05-07T13:15:33Z
   short_title: 2025-07-07T17:57:57Z
   tldr: 2025-08-07T13:11:21Z
+ResourceId: 56nUC8jR2v8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 56nUC8jR2v8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/56nUC8jR2v8/maxresdefault.jpg

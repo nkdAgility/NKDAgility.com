@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: VgEgURg3LhB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: VgEgURg3LhB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: mozy-backup-providing-extra-space-this-month
 aliases:
   - /resources/VgEgURg3LhB
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:43Z
+ResourceId: VgEgURg3LhB
+ResourceType: blog
 ResourceImportId: 176
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: 3N_y67L5LD9
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 3N_y67L5LD9
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: stop-treating-the-end-of-the-sprint-like-a-finish-line
 aliases:
   - /resources/3N_y67L5LD9
@@ -50,6 +50,8 @@ Watermarks:
   description: 2025-06-17T17:50:43Z
   short_title: 2025-07-07T16:43:42Z
   tldr: 2025-08-07T12:11:42Z
+ResourceId: 3N_y67L5LD9
+ResourceType: signals
 
 ---
 Stop treating the end of the Sprint like a finish line. It’s not. It’s a checkpoint for planning, inspection, and adaptation. The Increment gives us a view of what’s Done. The Sprint Goal gives us focus. That’s it.

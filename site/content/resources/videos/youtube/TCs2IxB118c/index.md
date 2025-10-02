@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: TCs2IxB118c
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: TCs2IxB118c
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: boosting-team-morale-and-engagement-through-effective-mentorship-programs
 aliases:
   - /resources/TCs2IxB118c
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T12:58:41Z
   short_title: 2025-07-07T17:48:21Z
   tldr: 2025-08-07T12:49:15Z
+ResourceId: TCs2IxB118c
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: TCs2IxB118c
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TCs2IxB118c/maxresdefault.jpg

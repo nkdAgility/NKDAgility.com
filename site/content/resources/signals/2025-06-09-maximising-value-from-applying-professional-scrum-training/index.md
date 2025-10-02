@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: Db-LocFYG0R
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: Db-LocFYG0R
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: maximising-value-from-applying-professional-scrum-training
 aliases:
   - /resources/Db-LocFYG0R
@@ -55,6 +55,8 @@ Watermarks:
   description: 2025-06-17T17:50:39Z
   short_title: 2025-07-07T16:43:36Z
   tldr: 2025-08-07T12:11:27Z
+ResourceId: Db-LocFYG0R
+ResourceType: signals
 
 ---
 The best outcome of a Applying Professional Scrum class isn’t just better understanding of Scrum. It’s a backlog of change.

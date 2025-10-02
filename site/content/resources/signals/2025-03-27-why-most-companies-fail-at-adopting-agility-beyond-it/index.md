@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: xdKHhjboUgT
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: xdKHhjboUgT
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: why-most-companies-fail-at-adopting-agility-beyond-it
 aliases:
   - /resources/xdKHhjboUgT
@@ -29,15 +29,14 @@ tags:
   - Organisational Agility
   - Organisational Culture
   - Pragmatic Thinking
-  - Social Technologies
   - Change Management
-  - Large Scale Agility
   - Market Adaptability
   - Enterprise Agility
   - Scrum Master
   - Agile Transformation
   - Business Agility
   - Sociotechnical Systems
+  - Social Technologies
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7311061960140226560
@@ -53,6 +52,8 @@ Watermarks:
   description: 2025-05-16T15:55:51Z
   short_title: 2025-07-07T16:45:10Z
   tldr: 2025-08-07T12:34:22Z
+ResourceId: xdKHhjboUgT
+ResourceType: signals
 
 ---
 Most companies trying to "adopt agility" fail because they think it’s an IT problem.

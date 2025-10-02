@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: x6a_BuQq580
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: x6a_BuQq580
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-cloud-migration-overcoming-the-fear-of-incomplete-data-transfers
 aliases:
   - /resources/x6a_BuQq580
@@ -36,6 +35,7 @@ Watermarks:
   description: 2025-05-07T12:57:21Z
   short_title: 2025-07-07T17:47:40Z
   tldr: 2025-08-07T12:42:15Z
+ResourceImportSource: Youtube
 videoId: x6a_BuQq580
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/x6a_BuQq580/maxresdefault.jpg
@@ -43,6 +43,8 @@ duration: 186
 resourceTypes:
   - video
 isShort: false
+ResourceId: x6a_BuQq580
+ResourceType: videos
 
 ---
 When it comes to migrating to the cloud, I often encounter a common concern: the fear of incomplete migrations. Many people worry that essential data will be lost or unavailable during the transition. However, having conducted hundreds of migrations using Microsoft's database import tool, I can confidently say that I have never experienced any data loss that wasn't already known beforehand. 

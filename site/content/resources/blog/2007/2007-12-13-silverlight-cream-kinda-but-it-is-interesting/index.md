@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: FoFh5MvtoSA
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: FoFh5MvtoSA
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: silverlight-cream-kinda-but-it-is-interesting
 aliases:
   - /resources/FoFh5MvtoSA
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:14Z
+ResourceId: FoFh5MvtoSA
+ResourceType: blog
 ResourceImportId: 278
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 6o-nqY9A5OP
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 6o-nqY9A5OP
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
 aliases:
   - /resources/blog/issue-tfs2012.2-tf30063-you-are-not-authorized-to-access
@@ -31,6 +31,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:06:11Z
+ResourceId: 6o-nqY9A5OP
+ResourceType: blog
 ResourceImportId: 9910
 creator: Martin Hinshelwood
 resourceTypes: blog

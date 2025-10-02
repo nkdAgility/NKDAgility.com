@@ -5,16 +5,15 @@ description: Explores the impact of lacking feedback and engagement in Agile tea
 tldr: A lack of feedback and engagement from stakeholders, especially the product owner, leads to disengaged teams, poor product alignment, and increased risk of failure. Regular feedback sessions, open communication, and early stakeholder involvement are essential to keep teams motivated and ensure products meet business needs. Development managers should prioritise active stakeholder participation to maintain team morale and deliver better outcomes.
 date: 2023-11-08T06:45:00Z
 lastmod: 2023-11-08T06:45:00Z
-weight: 745
+weight: 400
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
-ResourceId: ARhXjid0zSE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ARhXjid0zSE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement
 aliases:
   - /resources/ARhXjid0zSE
@@ -49,6 +48,9 @@ Watermarks:
   description: 2025-05-07T13:08:01Z
   short_title: 2025-07-07T17:51:53Z
   tldr: 2025-08-07T12:57:20Z
+ResourceId: ARhXjid0zSE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ARhXjid0zSE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg

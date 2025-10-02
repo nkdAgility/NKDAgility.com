@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: FhliT2Rp-7y
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: FhliT2Rp-7y
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-team-test-quick-reference-guide-1-0
 aliases:
   - /resources/blog/visual-studio-team-test-quick-reference-guide-1.0
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:24:20Z
+ResourceId: FhliT2Rp-7y
+ResourceType: blog
 ResourceImportId: 133
 creator: Martin Hinshelwood
 resourceTypes: blog

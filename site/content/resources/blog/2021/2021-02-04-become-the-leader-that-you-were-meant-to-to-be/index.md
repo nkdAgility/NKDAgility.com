@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: -Oo9b3G-8Zw
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: -Oo9b3G-8Zw
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: become-the-leader-that-you-were-meant-to-to-be
 aliases:
   - /blog/become-the-leader-that-you-were-meant-to-to-be
@@ -33,6 +33,8 @@ Watermarks:
   description: 2025-05-07T13:15:00Z
   short_title: 2025-07-07T17:57:34Z
   tldr: 2025-08-07T13:10:19Z
+ResourceId: -Oo9b3G-8Zw
+ResourceType: blog
 ResourceImportId: 45806
 AudioNative: true
 creator: Martin Hinshelwood

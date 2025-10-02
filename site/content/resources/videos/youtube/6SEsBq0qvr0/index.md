@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: monthly
-ResourceId: 6SEsBq0qvr0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: 6SEsBq0qvr0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
 aliases:
   - /resources/6SEsBq0qvr0
@@ -36,9 +35,9 @@ categories:
 tags:
   - Software Development
   - Product Delivery
+  - Pragmatic Thinking
   - Definition of Done
   - Operational Practices
-  - Pragmatic Thinking
   - Agile Frameworks
   - Agile Planning
   - Value Delivery
@@ -46,6 +45,7 @@ Watermarks:
   description: 2025-05-07T19:18:41Z
   short_title: 2025-07-07T16:43:19Z
   tldr: 2025-08-07T12:10:40Z
+ResourceImportSource: Youtube
 videoId: 6SEsBq0qvr0
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/6SEsBq0qvr0/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLDOXnTpAy0-cbxLma7o8SDsZP662A
@@ -53,6 +53,8 @@ duration: 70
 resourceTypes:
   - video
 isShort: false
+ResourceId: 6SEsBq0qvr0
+ResourceType: videos
 
 ---
 I see this confusion time and again: teams muddling up acceptance criteria with the definition of done. It’s a subtle distinction, but one that, if ignored, leads to missed expectations, hidden risks, and ultimately, broken trust between teams and stakeholders. Let’s be clear—one defines quality, the other defines scope. If you want to move fast without cutting corners, you need to get this right.

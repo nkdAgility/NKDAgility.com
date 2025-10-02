@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 5Grofbh67Vs
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 5Grofbh67Vs
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: i-always-like-a-good-serenity-plug
 aliases:
   - /resources/blog/i-always-like-a-good-serenity-plug...
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:03Z
+ResourceId: 5Grofbh67Vs
+ResourceType: blog
 ResourceImportId: 270
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: _KGEsIMh-nJ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: _KGEsIMh-nJ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-from-tfs2010-to-visual-studio-2012-team-foundation-server-in-production
 aliases:
   - /resources/_KGEsIMh-nJ
@@ -32,6 +32,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:09:16Z
+ResourceId: _KGEsIMh-nJ
+ResourceType: blog
 ResourceImportId: 4709
 creator: Martin Hinshelwood
 resourceTypes: blog

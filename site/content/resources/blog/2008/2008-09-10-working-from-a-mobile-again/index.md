@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: xI-FYcMl1lT
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: xI-FYcMl1lT
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: working-from-a-mobile-again
 aliases:
   - /resources/xI-FYcMl1lT
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:23:15Z
+ResourceId: xI-FYcMl1lT
+ResourceType: blog
 ResourceImportId: 196
 creator: Martin Hinshelwood
 resourceTypes: blog

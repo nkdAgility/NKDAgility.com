@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: eriIolF997p
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: eriIolF997p
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-team-explorer-2008-on-windows-7
 aliases:
   - /resources/eriIolF997p
@@ -27,6 +27,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T16:21:54Z
+ResourceId: eriIolF997p
+ResourceType: blog
 ResourceImportId: 145
 creator: Martin Hinshelwood
 resourceTypes: blog

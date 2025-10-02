@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: z78UlmtJAzV
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: z78UlmtJAzV
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: creating-wcf-service-host-programmatically
 aliases:
   - /resources/z78UlmtJAzV
@@ -30,6 +30,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:28:13Z
+ResourceId: z78UlmtJAzV
+ResourceType: blog
 ResourceImportId: 393
 creator: Martin Hinshelwood
 resourceTypes: blog

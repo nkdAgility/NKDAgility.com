@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: 154BNVcnbaU
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 154BNVcnbaU
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: deployment-documentation
 aliases:
   - /resources/154BNVcnbaU
@@ -27,6 +27,8 @@ tags:
   - Product Delivery
 Watermarks:
   description: 2025-05-13T16:27:30Z
+ResourceId: 154BNVcnbaU
+ResourceType: blog
 ResourceImportId: 363
 creator: Martin Hinshelwood
 resourceTypes: blog

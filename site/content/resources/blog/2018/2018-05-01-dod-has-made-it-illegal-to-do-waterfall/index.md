@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: dnmT3QDhGxx
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: dnmT3QDhGxx
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: dod-has-made-it-illegal-to-do-waterfall
 aliases:
   - /resources/dnmT3QDhGxx
@@ -51,6 +51,8 @@ Watermarks:
   description: 2025-05-07T13:16:17Z
   short_title: 2025-07-07T17:58:34Z
   tldr: 2025-08-07T13:13:13Z
+ResourceId: dnmT3QDhGxx
+ResourceType: blog
 ResourceImportId: 10204
 creator: Martin Hinshelwood
 resourceTypes: blog

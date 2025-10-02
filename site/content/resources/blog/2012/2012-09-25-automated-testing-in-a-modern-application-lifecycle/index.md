@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: IOUOjgnp-hB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: IOUOjgnp-hB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: automated-testing-in-a-modern-application-lifecycle
 aliases:
   - /resources/IOUOjgnp-hB
@@ -36,6 +36,8 @@ tags:
   - Product Delivery
 Watermarks:
   description: 2025-05-13T15:07:32Z
+ResourceId: IOUOjgnp-hB
+ResourceType: blog
 ResourceImportId: 8868
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: xuNNZnCNVWs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: xuNNZnCNVWs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: empowering-agile-teams-the-transformative-power-of-teaching-the-why
 aliases:
   - /resources/xuNNZnCNVWs
@@ -41,14 +40,19 @@ tags:
   - Coaching
   - Software Development
   - Scrum Master
+  - Mentoring
   - Agile Transformation
   - Social Technologies
   - Agile Frameworks
   - Organisational Agility
+  - Organisational Change
 Watermarks:
   description: 2025-05-07T13:12:58Z
   short_title: 2025-07-07T17:55:42Z
   tldr: 2025-08-07T13:06:01Z
+ResourceId: xuNNZnCNVWs
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: xuNNZnCNVWs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: 5IBKxYLA494
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 5IBKxYLA494
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
 aliases:
   - /resources/5IBKxYLA494
@@ -53,6 +52,9 @@ Watermarks:
   description: 2025-05-07T13:05:20Z
   short_title: 2025-07-07T17:49:23Z
   tldr: 2025-08-07T12:51:56Z
+ResourceId: 5IBKxYLA494
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 5IBKxYLA494
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg

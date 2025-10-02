@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: nfTAYRLAaYI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: nfTAYRLAaYI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-kanban-a-simple-guide-to-its-core-principles
 aliases:
   - /resources/nfTAYRLAaYI
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:02:44Z
   short_title: 2025-07-07T17:49:06Z
   tldr: 2025-08-07T12:51:09Z
+ResourceId: nfTAYRLAaYI
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: nfTAYRLAaYI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/nfTAYRLAaYI/maxresdefault.jpg

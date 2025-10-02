@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: X946f3k8qX8
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: X946f3k8qX8
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-service-credential-viewer
 aliases:
   - /resources/X946f3k8qX8
@@ -27,6 +27,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:09:05Z
+ResourceId: X946f3k8qX8
+ResourceType: blog
 ResourceImportId: 5032
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: wXQXA_aHLS1
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: wXQXA_aHLS1
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
 aliases:
   - /blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
@@ -46,6 +46,8 @@ Watermarks:
   description: 2025-05-07T13:09:54Z
   short_title: 2025-07-07T17:53:24Z
   tldr: 2025-08-07T13:00:49Z
+ResourceId: wXQXA_aHLS1
+ResourceType: blog
 ResourceImportId: 49523
 AudioNative: true
 creator: Martin Hinshelwood

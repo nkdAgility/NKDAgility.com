@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: IXmOAB5e44w
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: IXmOAB5e44w
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlock-£20-rewards-join-our-exciting-referral-program-for-collaborative-learning
 aliases:
   - /resources/IXmOAB5e44w
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:11:37Z
   short_title: 2025-07-07T17:54:38Z
   tldr: 2025-08-07T13:03:44Z
+ResourceId: IXmOAB5e44w
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: IXmOAB5e44w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/IXmOAB5e44w/maxresdefault.jpg

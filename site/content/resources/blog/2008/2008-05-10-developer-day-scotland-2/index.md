@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: R2pvi8SYo_y
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: R2pvi8SYo_y
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: developer-day-scotland
 aliases:
   - /resources/R2pvi8SYo_y
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:09Z
+ResourceId: R2pvi8SYo_y
+ResourceType: blog
 ResourceImportId: 230
 creator: Martin Hinshelwood
 resourceTypes: blog

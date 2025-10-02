@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Juonckoiyx0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Juonckoiyx0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 aliases:
   - /resources/Juonckoiyx0
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:09:43Z
   short_title: 2025-07-07T17:53:14Z
   tldr: 2025-08-07T13:00:22Z
+ResourceId: Juonckoiyx0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Juonckoiyx0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Juonckoiyx0/maxresdefault.jpg

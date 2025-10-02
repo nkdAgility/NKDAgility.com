@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Crf5MJ60PGe
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Crf5MJ60PGe
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: issue-tfs-2013-tf255466-a-previous-update-or-installation-requires-a-restart
 aliases:
   - /resources/Crf5MJ60PGe
@@ -32,6 +32,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:23:07Z
+ResourceId: Crf5MJ60PGe
+ResourceType: blog
 ResourceImportId: 10006
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: wiEH7vsfrSE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: wiEH7vsfrSE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-cost-cutting-during-recessions-is-counterproductive
 aliases:
   - /resources/wiEH7vsfrSE
@@ -45,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:02:41Z
   short_title: 2025-07-07T17:49:04Z
   tldr: 2025-08-07T12:51:04Z
+ResourceId: wiEH7vsfrSE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: wiEH7vsfrSE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/wiEH7vsfrSE/maxresdefault.jpg

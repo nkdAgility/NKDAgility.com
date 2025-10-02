@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: phKPK_P0xjA
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: phKPK_P0xjA
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: web-2-0
 aliases:
   - /resources/blog/web-2.0
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:58Z
+ResourceId: phKPK_P0xjA
+ResourceType: blog
 ResourceImportId: 463
 creator: Martin Hinshelwood
 resourceTypes: blog

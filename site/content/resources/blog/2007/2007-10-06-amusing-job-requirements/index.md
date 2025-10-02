@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: NU1-eAy72tU
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: NU1-eAy72tU
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: amusing-job-requirements
 aliases:
   - /resources/NU1-eAy72tU
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:53Z
+ResourceId: NU1-eAy72tU
+ResourceType: blog
 ResourceImportId: 301
 creator: Martin Hinshelwood
 resourceTypes: blog

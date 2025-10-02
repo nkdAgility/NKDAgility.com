@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: vHNwcfbNOR8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: vHNwcfbNOR8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-your-feeling-on-creating-agile-apprenticeships
 aliases:
   - /resources/vHNwcfbNOR8
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:13:38Z
   short_title: 2025-07-07T17:56:22Z
   tldr: 2025-08-07T13:07:28Z
+ResourceId: vHNwcfbNOR8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: vHNwcfbNOR8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vHNwcfbNOR8/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: C7FpzXTFpU_
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: C7FpzXTFpU_
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: not-just-happy-but-ecstatic
 aliases:
   - /resources/C7FpzXTFpU_
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:10:12Z
+ResourceId: C7FpzXTFpU_
+ResourceType: blog
 ResourceImportId: 3783
 creator: Martin Hinshelwood
 resourceTypes: blog

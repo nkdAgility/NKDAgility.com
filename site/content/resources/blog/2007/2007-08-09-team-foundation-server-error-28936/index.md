@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: pfq93Zq1pW6
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: pfq93Zq1pW6
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: team-foundation-server-error-28936
 aliases:
   - /resources/pfq93Zq1pW6
@@ -29,6 +29,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T16:26:49Z
+ResourceId: pfq93Zq1pW6
+ResourceType: blog
 ResourceImportId: 337
 creator: Martin Hinshelwood
 resourceTypes: blog

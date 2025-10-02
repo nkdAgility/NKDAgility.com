@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: kXhJrisYofU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: kXhJrisYofU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
 aliases:
   - /resources/kXhJrisYofU
@@ -45,6 +44,7 @@ Watermarks:
   description: 2025-05-07T12:56:51Z
   short_title: 2025-07-07T17:47:15Z
   tldr: 2025-08-07T12:41:08Z
+ResourceImportSource: Youtube
 videoId: kXhJrisYofU
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCuCmAp98BMQG6vEAhRCo2oBtgP4g
@@ -52,6 +52,8 @@ duration: 496
 resourceTypes:
   - video
 isShort: false
+ResourceId: kXhJrisYofU
+ResourceType: videos
 
 ---
 In the world of traditional budgeting, we often find ourselves entrenched in a cycle that feels more like a battleground than a strategic planning session. Each year, we gather around the table, armed with our spreadsheets and projections, ready to fight for our share of the budget pie. It’s a familiar scene: departments squabbling over funds, each vying for the largest slice, knowing that if they don’t spend their allocated budget, they risk losing it the following year. 

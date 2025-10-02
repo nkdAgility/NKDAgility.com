@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: phv_2Bv2PrA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: phv_2Bv2PrA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-complexity-why-agile-practices-are-essential-for-modern-product-development
 aliases:
   - /resources/phv_2Bv2PrA
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:14:43Z
   short_title: 2025-07-07T17:57:21Z
   tldr: 2025-08-07T13:09:42Z
+ResourceId: phv_2Bv2PrA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: phv_2Bv2PrA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/phv_2Bv2PrA/maxresdefault.jpg

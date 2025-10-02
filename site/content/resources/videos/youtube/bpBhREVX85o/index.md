@@ -5,16 +5,15 @@ description: Scrum highlights issues and provides feedback for leadership teams 
 tldr: Scrum does not help leadership teams choose the most valuable work; it highlights issues and provides feedback to inform decision-making, but leaders must set priorities based on business understanding. Agile frameworks like Scrum are most effective when leaders have a clear vision and use them to validate ideas, improve feedback loops, and optimize delivery. Leadership should focus on defining strategic goals, while Scrum helps teams deliver and refine solutions that align with those goals.
 date: 2023-02-10T07:15:02Z
 lastmod: 2023-02-10T07:15:02Z
-weight: 665
+weight: 460
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
-ResourceId: bpBhREVX85o
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: bpBhREVX85o
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 aliases:
   - /resources/bpBhREVX85o
@@ -35,6 +34,9 @@ Watermarks:
   description: 2025-05-07T13:14:09Z
   short_title: 2025-07-07T17:56:50Z
   tldr: 2025-08-07T13:08:25Z
+ResourceId: bpBhREVX85o
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: bpBhREVX85o
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/bpBhREVX85o/maxresdefault.jpg

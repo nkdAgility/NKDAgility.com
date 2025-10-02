@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: pAMm25X5CuE
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: pAMm25X5CuE
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: git-flow-should-have-died-years-ago
 aliases:
   - /resources/pAMm25X5CuE
@@ -44,6 +44,8 @@ Watermarks:
   description: 2025-05-16T15:57:02Z
   short_title: 2025-07-07T17:46:39Z
   tldr: 2025-08-07T12:39:51Z
+ResourceId: pAMm25X5CuE
+ResourceType: signals
 
 ---
 Git Flow should have died years ago.

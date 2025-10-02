@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: tUC5TainG2E
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: tUC5TainG2E
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
 aliases:
   - /resources/tUC5TainG2E
@@ -35,6 +34,9 @@ Watermarks:
   description: 2025-05-07T13:12:34Z
   short_title: 2025-07-07T17:55:20Z
   tldr: 2025-08-07T13:05:19Z
+ResourceId: tUC5TainG2E
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: tUC5TainG2E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/tUC5TainG2E/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: N0Ci9PQQRLc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: N0Ci9PQQRLc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
 aliases:
   - /resources/N0Ci9PQQRLc
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:14:29Z
   short_title: 2025-07-07T17:57:06Z
   tldr: 2025-08-07T13:09:04Z
+ResourceId: N0Ci9PQQRLc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: N0Ci9PQQRLc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg

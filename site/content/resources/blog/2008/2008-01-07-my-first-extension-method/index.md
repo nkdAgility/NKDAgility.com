@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: QJ6lF5ONMCD
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: QJ6lF5ONMCD
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: my-first-extension-method
 aliases:
   - /resources/blog/my-first-extension-method...
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:05Z
+ResourceId: QJ6lF5ONMCD
+ResourceType: blog
 ResourceImportId: 269
 creator: Martin Hinshelwood
 resourceTypes: blog

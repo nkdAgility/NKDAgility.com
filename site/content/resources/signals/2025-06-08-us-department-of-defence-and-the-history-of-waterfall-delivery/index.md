@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: mlGmtc4ZqJM
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: mlGmtc4ZqJM
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: us-department-of-defence-and-the-history-of-waterfall-delivery
 aliases:
   - /resources/mlGmtc4ZqJM
@@ -47,6 +47,8 @@ Watermarks:
   description: 2025-06-17T17:50:40Z
   short_title: 2025-07-07T16:43:39Z
   tldr: 2025-08-07T12:11:33Z
+ResourceId: mlGmtc4ZqJM
+ResourceType: signals
 
 ---
 For years, the US Department of Defence was the poster child for waterfall delivery. Locked gates, stage-based approvals, and delivery dates that existed more on paper than in production.

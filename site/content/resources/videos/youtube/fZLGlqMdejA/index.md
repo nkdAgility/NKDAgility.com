@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: fZLGlqMdejA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: fZLGlqMdejA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 7-deadly-sins-of-agile-greed
 aliases:
   - /resources/fZLGlqMdejA
@@ -52,6 +51,9 @@ Watermarks:
   description: 2025-05-07T13:08:53Z
   short_title: 2025-07-07T17:52:30Z
   tldr: 2025-08-07T12:58:48Z
+ResourceId: fZLGlqMdejA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: fZLGlqMdejA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/fZLGlqMdejA/maxresdefault.jpg

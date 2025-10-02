@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: ynIqkNbDN8I
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ynIqkNbDN8I
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
 aliases:
   - /resources/ynIqkNbDN8I
@@ -51,6 +50,7 @@ Watermarks:
   description: 2025-05-07T12:49:39Z
   short_title: 2025-07-07T17:46:35Z
   tldr: 2025-08-07T12:39:43Z
+ResourceImportSource: Youtube
 videoId: ynIqkNbDN8I
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ynIqkNbDN8I/maxresdefault.jpg
@@ -58,6 +58,8 @@ duration: 527
 resourceTypes:
   - video
 isShort: false
+ResourceId: ynIqkNbDN8I
+ResourceType: videos
 
 ---
 In the realm of evidence-based management, we often discuss various areas of focus, but one key value area that frequently slips under the radar is [unrealised value]({{< ref "/tags/unrealised-value" >}}). This aspect is just as crucial as the others, yet it tends to be overlooked by many organisations and teams. Today, I want to delve into what unrealised value means and why it’s essential for your [product development]({{< ref "/categories/product-development" >}}) strategy.

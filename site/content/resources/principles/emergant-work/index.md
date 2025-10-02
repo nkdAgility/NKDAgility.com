@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: g4M_sdh5Fg2
-ResourceImport: false
-ResourceType: principles
-ResourceContentOrigin: Human
+ItemId: g4M_sdh5Fg2
+ItemType: principles
+ItemKind: resource
+ItemContentOrigin: Human
 slug: emergant-work
 aliases:
   - /learn/agile-delivery-kit/first-principals/emergant-work/
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-07T12:57:56Z
   short_title: 2025-07-07T17:48:09Z
   tldr: 2025-08-07T12:46:15Z
+ResourceId: g4M_sdh5Fg2
+ResourceType: principles
 recommendedContent: 
 creator: Martin Hinshelwood
 resourceTypes: principles

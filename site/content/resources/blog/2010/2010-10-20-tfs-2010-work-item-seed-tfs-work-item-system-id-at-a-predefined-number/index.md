@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: rRCNKBm5xct
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: rRCNKBm5xct
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 aliases:
   - /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system.id-at-a-predefined-number
@@ -32,6 +32,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:11:23Z
+ResourceId: rRCNKBm5xct
+ResourceType: blog
 ResourceImportId: 21
 creator: Martin Hinshelwood
 resourceTypes: blog

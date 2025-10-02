@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: kgtNo8tGkjS
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: kgtNo8tGkjS
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: migrating-from-codeplex-to-github
 aliases:
   - /resources/kgtNo8tGkjS
@@ -35,6 +35,8 @@ Watermarks:
   description: 2025-05-07T13:16:45Z
   short_title: 2025-07-07T17:58:59Z
   tldr: 2025-08-07T13:24:16Z
+ResourceId: kgtNo8tGkjS
+ResourceType: blog
 ResourceImportId: 11465
 creator: Martin Hinshelwood
 resourceTypes: blog
