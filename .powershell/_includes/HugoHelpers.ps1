@@ -492,21 +492,31 @@ function Update-ItemFrontMatterData {
         [HugoMarkdown]$hugoMarkdown
     )
     $ItemId = $null;
-    if ($hugoMarkdown.FrontMatter.Contains("ItemId")) {
-        $ItemId = $hugoMarkdown.FrontMatter.ItemId
-    }
-    elseif ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
-        $ItemId = $hugoMarkdown.FrontMatter.ResourceId
-    }
-    elseif ($hugoMarkdown.FrontMatter.Contains("videoId")) {
-        $ItemId = $hugoMarkdown.FrontMatter.videoId
-        Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'videoId'
+
+    if ($hugoMarkdown.FrontMatter.ItemKind -eq "program") {
+        $ItemId = $hugoMarkdown.FrontMatter.code
     }
     else {
-        $ItemId = New-ResourceId
+        if ($hugoMarkdown.FrontMatter.Contains("ItemId")) {
+            $ItemId = $hugoMarkdown.FrontMatter.ItemId
+        }
+        elseif ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
+            $ItemId = $hugoMarkdown.FrontMatter.ResourceId
+        }
+        elseif ($hugoMarkdown.FrontMatter.Contains("videoId")) {
+            $ItemId = $hugoMarkdown.FrontMatter.videoId
+            Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'videoId'
+        }
+        elseif ($hugoMarkdown.FrontMatter.Contains("code")) {
+            $ItemId = $hugoMarkdown.FrontMatter.code
+        }
+        else {
+            $ItemId = New-ResourceId
+        }
     }
-    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ItemId' -fieldValue $ItemId
-    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ItemId
+   
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ItemId' -fieldValue $ItemId -Overwrite
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ItemId -Overwrite
 
     #=====================ItemType=================
     $ItemType = Get-ResourceType  -FilePath  $hugoMarkdown.FolderPath

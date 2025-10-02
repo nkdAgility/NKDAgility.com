@@ -1,5 +1,5 @@
 ---
-title: My journey with Kanban and why I actively recommend it to clients.
+title: My journey with Kanban and why I actively recommend it to clients
 short_title: Kanban for Workflow, Predictability & Transparency
 description: Explains how adopting Kanban improves workflow, predictability, and transparency for any team or industry, offering practical insights and benefits over traditional approaches.
 tldr: Kanban is a practical strategy for improving workflow and predictability by making work processes more transparent and data-driven, which builds trust and enables better decision-making. Integrating Kanban with Scrum helps teams deliver more consistently and reduces stakeholder uncertainty. Development managers should consider adopting Kanban to optimize team performance and deliver greater value across any context.
@@ -19,7 +19,6 @@ aliases:
   - /resources/ZisAuhrOhcY
   - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
   - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients
-  - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients.
 aliasesArchive:
   - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
   - /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
@@ -55,23 +54,21 @@ duration: 321
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ### Embracing [Kanban]({{< ref "/categories/kanban" >}}) for Enhanced Workflow and Predictability
 
 **Introduction**
 
 My journey with Kanban began with the guidance of Daniel Vacanti and Steve Porter during the first Professional [Scrum]({{< ref "/categories/scrum" >}}) with Kanban class back in late 2017 and early 2018. At that time, I didn't fully grasp the value of this unique approach—an observational tool that provides a different way of thinking about workflow. Understanding Kanban as a strategy, not a system, has been crucial in appreciating its full potential.
 
-
-
-* * *
+---
 
 **The Core of Kanban: A Strategy for Optimization**
 
 Kanban is best understood as a strategy for examining and optimizing your existing workflow. It's not a standalone system but a means to understand and actively manage the flow of work through your current system. This approach is particularly beneficial when integrated with Scrum teams to enhance their processes, improve predictability, and ultimately deliver greater value to the business.
 
-* * *
+---
 
 **Addressing Common Challenges in Scrum Teams**
 
@@ -81,7 +78,7 @@ Many Scrum teams struggle with predictability and consistency in delivering work
 
 Traditional Scrum teams often fall short in providing the level of transparency needed by the business. Without clear visibility into the process and progress, stakeholders' fear and uncertainty grow. This fear drives a desire for more control, which can lead to regression into old, less effective practices.
 
-* * *
+---
 
 **Kanban: Enhancing Transparency and Reducing Fear**
 
@@ -107,7 +104,7 @@ A Kanban strategy provides the necessary transparency to alleviate these fears. 
 
 - From marketing teams to [software development]({{< ref "/tags/software-development" >}}) and factory production, Kanban enhances workflow and predictability.
 
-* * *
+---
 
 **Kanban: A Universal Strategy**
 
@@ -123,13 +120,13 @@ Kanban is not limited to software teams. It can be applied to any team, deliveri
 
 - **Manufacturing**: Improve production workflows and efficiency.
 
-* * *
+---
 
 **Conclusion**
 
 Kanban is a powerful strategy for any team, in any industry, aiming to optimize their workflow and increase predictability. By providing the necessary transparency and data-driven insights, Kanban helps teams make better decisions, ask more interesting questions, and achieve more effective outcomes. Embrace Kanban to transform your team's approach to work and deliver greater value consistently.
 
-* * *
+---
 
 **Thanks for reading!** If you found this post helpful, please like, follow, and subscribe. I always reply to comments, and if you want to chat about Kanban, Scrum, or any other Agile practices, feel free to book a coffee with me through Naked Agility.
 

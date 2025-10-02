@@ -1,6 +1,8 @@
 ---
 title: Prepare your stage and be present
 type: resources
+ItemType: page
+ItemKind: marketing
 ---
 
 I have taught many Professional Scrum classes in the last 22 months, and I am still surprised to see shadows, up nostrils, half-heads, and blank screens instead of people.

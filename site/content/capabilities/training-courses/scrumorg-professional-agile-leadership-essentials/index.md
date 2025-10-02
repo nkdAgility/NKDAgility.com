@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: CujSf0EnB7d
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -107,8 +106,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-ResourceId: CujSf0EnB7d
+ResourceId: PAL-e
 ResourceType: course
+ItemId: PAL-e
 
 ---
 # Professional Agile Leadership Essentials (PAL-e) with Certification

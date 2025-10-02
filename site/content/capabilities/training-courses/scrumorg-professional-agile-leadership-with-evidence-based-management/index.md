@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: enw9s_l3PeE
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -121,8 +120,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-ResourceId: enw9s_l3PeE
+ResourceId: PAL-EBM
 ResourceType: course
+ItemId: PAL-EBM
 
 ---
 # Professional Agile Leadership – Evidence-Based Management (PAL-EBM)

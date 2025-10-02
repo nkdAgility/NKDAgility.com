@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: -IePwtEoXdo
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -92,8 +91,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-ResourceId: -IePwtEoXdo
+ResourceId: PPDV
 ResourceType: course
+ItemId: PPDV
 
 ---
 # Professional Product Discovery and Validation Skills (PPDV)
@@ -101,14 +101,17 @@ ResourceType: course
 **Course Code:** PPDV
 
 ## Overview
+
 A one-day, hands-on course equipping participants with essential skills in product discovery and validation, focusing on experimentation, evidence collection, and risk control to enhance value creation in product development.
 
 ## Target Audience
+
 - Product Owners
 - Product Managers
 - Teams involved in product development
 
 ## Learning Outcomes
+
 - Identify assumptions being made in product development.
 - Explain which assumptions require validation.
 - Describe principles for prioritizing assumptions to validate first.
@@ -121,6 +124,7 @@ A one-day, hands-on course equipping participants with essential skills in produ
 - Integrate learnings into decision-making processes.
 
 ## Course Topics
+
 - Product Discovery
 - Product Validation
 - Experimentation
@@ -132,16 +136,21 @@ A one-day, hands-on course equipping participants with essential skills in produ
 - Entrepreneurship
 
 ## Delivery Format
+
 - Traditional (instructor-led)
 
 ## Proficiency Level
+
 - Beginner
 
 ## Course Length
+
 - 1 day
 
 ## Trainer/Designer
+
 - Martin Hinshelwood
 
 ## Vendor
+
 - Scrum.org

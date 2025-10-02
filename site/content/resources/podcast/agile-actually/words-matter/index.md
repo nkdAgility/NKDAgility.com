@@ -1,5 +1,5 @@
 ---
-title: Words matter.
+title: Words matter
 short_title: Words Matter in Agile Communication
 description: Explore how precise language and transparency impact communication and effectiveness in agile teams, with insights from experienced agile coaches and consultants.
 tldr: Simon Reindl and Martin Hinshelwood discuss how using precise and accurate language is essential for transparency and effective communication in agile teams. The words you choose directly impact understanding and outcomes, so clarity is critical. Development managers should ensure their teams use clear language to avoid misunderstandings and improve collaboration.
@@ -30,8 +30,8 @@ Watermarks:
 ResourceId: Z1FuzHOIZD5
 ResourceType: podcast
 resourceTypes: podcast
-
 ---
+
 In this month's podcast, Simon Reindl and Martin Hinshelwood explore the importance of [transparency]({{< ref "/tags/transparency" >}}), specifically relating to the words we use and the context within which we use those words. Precision matters. Accuracy matters. Saying what you mean and meaning what you say matters. Listen to this podcast for some great insights into why language matters in the #agile world.
 
 **About the hosts of Agile Actually**

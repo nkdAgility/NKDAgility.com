@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: COuQsbI48JU
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -87,8 +86,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-ResourceId: COuQsbI48JU
+ResourceId: PSFS
 ResourceType: course
+ItemId: PSFS
 
 ---
 ```markdown

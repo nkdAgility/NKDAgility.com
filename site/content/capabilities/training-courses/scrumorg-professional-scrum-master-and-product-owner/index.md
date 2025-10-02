@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: 1pf0w710Q5Z
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -159,8 +158,9 @@ offering:
     colour: ""
   code: PSMPO
   courseIcon: Scrumorg-Course-PSMPO-400x.png
-ResourceId: 1pf0w710Q5Z
+ResourceId: PSMPO
 ResourceType: course
+ItemId: PSMPO
 
 ---
 # Professional Scrum Master and Product Owner (PSMPO) with Certification

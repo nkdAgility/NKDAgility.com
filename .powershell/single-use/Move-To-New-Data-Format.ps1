@@ -1,4 +1,3 @@
-
 # Helpers
 . ./.powershell/_includes/IncludesForAll.ps1
 
@@ -44,14 +43,35 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $ItemType = $ItemData.ItemType
     $ItemKind = $ItemData.ItemKind
     $ItemId = $ItemData.ItemId
-
-
-
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
+
+    # If the $hugoMarkdown.FolderPath contains a file called data.index.related.json then we need to move it to teh data folder under data/$ItemKind/$ItemType/$ItemId/related.json
+    $relatedDataFile = Join-Path -Path $hugoMarkdown.FolderPath -ChildPath "data.index.related.json"
+    if (Test-Path -Path $relatedDataFile) {
+        $newRelatedDataFile = "site/data/$ItemKind/$ItemType/$ItemId/related.json"
+        # Create directory structure if it doesn't exist
+        $newRelatedDataDir = Split-Path -Path $newRelatedDataFile -Parent
+        New-Item -ItemType Directory -Path $newRelatedDataDir -Force | Out-Null
+        Move-Item -Path $relatedDataFile -Destination $newRelatedDataFile -Force
+        Write-InformationLog "Moved related data to {RelatedDataFileNew}" -PropertyValues $newRelatedDataFile
+    }
+    # If the $hugoMarkdown.FolderPath contains a file called data.index.classifications.json then we need to move it to teh data folder under data/$ItemKind/$ItemType/$ItemId/classifications.json
+    $classificationsDataFile = Join-Path -Path $hugoMarkdown.FolderPath -ChildPath "data.index.classifications.json"
+    if (Test-Path -Path $classificationsDataFile) {
+        $newClassificationsDataFile = "site/data/$ItemKind/$ItemType/$ItemId/classifications.json"
+        # Create directory structure if it doesn't exist
+        $newClassificationsDataDir = Split-Path -Path $newClassificationsDataFile -Parent
+        New-Item -ItemType Directory -Path $newClassificationsDataDir -Force | Out-Null
+        Move-Item -Path $classificationsDataFile -Destination $newClassificationsDataFile -Force
+        Write-InformationLog "Moved classifications data to {ClassificationsDataFileNew}" -PropertyValues $newClassificationsDataFile
+    }
+
+
+
 
     
    
 }
 
 #Write-Progress -id 1 -Completed
-Write-DebugLog "All markdown files processed." 
+Write-DebugLog "All markdown files processed."

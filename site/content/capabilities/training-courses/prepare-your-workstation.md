@@ -1,6 +1,8 @@
 ---
 title: Prepare your Workstation
 type: resources
+ItemType: page
+ItemKind: marketing
 ---
 
 ## [ACTION] Prepare your Workstation [ESSENTIAL]

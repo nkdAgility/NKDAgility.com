@@ -1,6 +1,6 @@
 ---
-title: End of another Sticky week...
-description: 'Update on TFS Sticky Buddy: new support for connecting to external TFS servers, project loading, and customisable skins for different Team Foundation Server life cycles.'
+title: End of another Sticky week
+description: "Update on TFS Sticky Buddy: new support for connecting to external TFS servers, project loading, and customisable skins for different Team Foundation Server life cycles."
 date: 2008-04-18
 lastmod: 2008-04-18
 weight: 1000
@@ -14,7 +14,6 @@ ItemKind: resource
 ItemContentOrigin: Human
 slug: end-of-another-sticky-week
 aliases:
-  - /resources/blog/end-of-another-sticky-week...
   - /resources/hIIqffRyh3i
 aliasesArchive:
   - /blog/end-of-another-sticky-week
@@ -36,8 +35,8 @@ ResourceImportId: 237
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nakedalm-logo-128-link-3-3.png
-
 ---
+
 As you have probably noticed I have been soldiering on with the [TFS Sticky Buddy](http://www.codeplex.com/TFSStickyBuddy) project, and I though I would share.
 
 [![image](images/EndofanotherStickyweek_F60A-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-EndofanotherStickyweek_F60A-image_2.png)
