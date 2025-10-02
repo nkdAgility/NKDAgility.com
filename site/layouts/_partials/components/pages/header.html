@@ -52,7 +52,7 @@
           {{ $ResourceType := .Params.ResourceType | default "" }}
           {{ $url = printf "https://nkdagility.com/resources/%s" $ResourceType }}
         {{ else }}
-          {{ $url = printf "https://nkdagility.com/resources/%s" .Params.ResourceId }}
+          {{ $url = printf "https://nkdagility.com/resources/%s" .Params.ItemId }}
         {{ end }}
       {{ else }}
         {{ $url = printf "https://nkdagility.com%s" .RelPermalink }}

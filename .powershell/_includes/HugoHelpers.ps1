@@ -397,8 +397,8 @@ function Get-HugoMarkdownListAsHashTable {
     $hashTable = @{}
     
     foreach ($item in $hugoMarkdownList) {
-        if ($item.FrontMatter.ResourceId) {
-            $hashTable[$item.FrontMatter.ResourceId] = $item
+        if ($item.FrontMatter.ItemId) {
+            $hashTable[$item.FrontMatter.ItemId] = $item
         }
         elseif ($item.FrontMatter.Title) {
             $hashTable[$item.FrontMatter.Title] = $item
@@ -496,7 +496,7 @@ function Update-ItemFrontMatterData {
         $ItemId = $hugoMarkdown.FrontMatter.ItemId
     }
     elseif ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
-        $ItemId = $hugoMarkdown.FrontMatter.ResourceId
+        $ItemId = $hugoMarkdown.FrontMatter.ItemId
     }
     elseif ($hugoMarkdown.FrontMatter.Contains("videoId")) {
         $ItemId = $hugoMarkdown.FrontMatter.videoId

@@ -1,7 +1,7 @@
 {{- $resourceId := .Get 0 -}}
 {{- $page := "" -}}
 {{- range site.Pages -}}
-  {{- if eq .Params.ResourceId $resourceId -}}
+  {{- if eq .Params.ItemId $resourceId -}}
     {{- $page = . -}}
     {{- break -}}
   {{- end -}}

@@ -144,7 +144,7 @@ function Get-EmbeddingFromHugoMarkdown {
     If ($HugoMarkdown.FrontMatter.resourceType) {
         $entryKind = "resource"
         $entryType = $HugoMarkdown.FrontMatter.resourceType
-        $entryId = $HugoMarkdown.FrontMatter.ResourceId
+        $entryId = $HugoMarkdown.FrontMatter.ItemId
     }
     If ($HugoMarkdown.FrontMatter.ClassificationType) {
         $entryKind = "classification"

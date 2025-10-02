@@ -134,7 +134,7 @@ function Update-ClassificationsForHugoMarkdownList {
                             Write-WarningLog "|- HugoMarkdown not found for resourceId $($newEntry.resourceId). Skipping."
                             continue
                         }
-                        $newEntry.resourceId = $hugoMarkdown.FrontMatter.ResourceId ? $hugoMarkdown.FrontMatter.ResourceId : $hugoMarkdown.FrontMatter.Title
+                        $newEntry.resourceId = $hugoMarkdown.FrontMatter.ItemId ? $hugoMarkdown.FrontMatter.ItemId : $hugoMarkdown.FrontMatter.Title
 
                         # Get items from the cache
                         $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
@@ -231,7 +231,7 @@ function Update-ClassificationsForHugoMarkdownList {
     $nextPercent = 5
     foreach ($hugoMarkdown in $hugoMarkdownList) {
         $newPrompts = Get-PromptsForHugoMarkdown -hugoMarkdown $hugoMarkdown -catalog $catalog
-        Write-DebugLog "For {ResourceId} we need to update {count}" -PropertyValues $hugoMarkdown.FrontMatter.ResourceId, $CatalogItemsToRefreshOrGet.Count
+        Write-DebugLog "For {ResourceId} we need to update {count}" -PropertyValues $hugoMarkdown.FrontMatter.ItemId, $CatalogItemsToRefreshOrGet.Count
         if ($newPrompts.Count -gt 0) {
             $prompts += $newPrompts
         }       
@@ -420,7 +420,7 @@ function Get-PromptsForHugoMarkdown {
     foreach ($category in $CatalogItemsToRefreshOrGet) {
         try {
             $promptText = Get-Prompt -PromptName "classification-analysis.md" -Parameters @{
-                resourceId   = $hugoMarkdown.FrontMatter.ResourceId
+                resourceId   = $hugoMarkdown.FrontMatter.ItemId
                 category     = $category
                 Instructions = $Catalog[$category].Instructions
                 title        = $hugoMarkdown.FrontMatter.Title
@@ -499,7 +499,7 @@ function Update-MissingClassificationsLive {
     )
     $prompts = Get-PromptsForHugoMarkdown -hugoMarkdown $hugoMarkdown -catalog $catalog
     $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
-    Write-DebugLog "Updating {count} missing classifications for {resourceId}" -PropertyValues $prompts.count, $hugoMarkdown.FrontMatter.ResourceId
+    Write-DebugLog "Updating {count} missing classifications for {resourceId}" -PropertyValues $prompts.count, $hugoMarkdown.FrontMatter.ItemId
     $count = 0;
     foreach ($prompt in $prompts) {
         $count++
@@ -636,6 +636,7 @@ function Get-ConfidenceFromAIResponse {
     
         return [PSCustomObject]@{
             "resourceId"           = if ($AIResponse.PSObject.Properties["resourceId"]) { $AIResponse.resourceId } else { "unknown" }
+            "itemId"               = if ($AIResponse.PSObject.Properties["itemId"]) { $AIResponse.resourceId } else { "unknown" }
             "category"             = if ($AIResponse.PSObject.Properties["category"]) { $AIResponse.category } else { "unknown" }
             "calculated_at"        = $CalculatedDate
             "ai_confidence"        = $aiConfidence

@@ -6,12 +6,12 @@
 
 {{- partial "infrastructure/seo.html" . }}
 
-{{ if .Params.ResourceId }}
-  <meta name="permalink" content="https://nkdagility.com/resources/{{- .Params.ResourceId }}" />
+{{ if .Params.ItemId }}
+  <meta name="permalink" content="https://nkdagility.com/resources/{{- .Params.ItemId }}" />
 {{ end }}
 
-{{ if .Params.ResourceId }}
-  <meta name="giscus:backlink" content="https://nkdagility.com/resources/{{- .Params.ResourceId }}" />
+{{ if .Params.ItemId }}
+  <meta name="giscus:backlink" content="https://nkdagility.com/resources/{{- .Params.ItemId }}" />
 {{ else }}
   <meta name="giscus:backlink" content="https://nkdagility.com{{- .RelPermalink }}" />
 {{ end }}
