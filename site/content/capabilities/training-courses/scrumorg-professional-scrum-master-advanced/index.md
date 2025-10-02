@@ -61,8 +61,9 @@ delivery_audiences:
   - Lean Agile Practitioners
 preview: naked-agility-Professional-Scrum-PSMA-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSMII-400x.png
-brandColour: 
+brandColour:
 code: PSM-A
+programCode: PSM-A
 course_proficiencies:
   - advanced
 introduction: |-
@@ -95,7 +96,7 @@ outcomes: |2+
   - Understanding the challenges of middle management
   - Scrum Master as a change agent
 
-assessment: 
+assessment:
 objectives: |2+
 
   - What practices, tools, skills and stances make an effective Scrum Master
@@ -105,14 +106,14 @@ objectives: |2+
   - Ways that the Scrum Master can help to change the environment making it more conducive for Scrum Teams to be successful with greater agility
   - Provide tips and techniques for the Scrum Master to work with the rest of the organization in support of their Scrum Teams
 
-prerequisites: 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+prerequisites:
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 # Professional Scrum Master Advanced (PSM-A) with Certification
 
 **Course Code:** PSM-A

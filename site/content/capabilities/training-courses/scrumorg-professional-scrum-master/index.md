@@ -68,6 +68,7 @@ delivery_audiences:
 delivery_audiences_weight: 100
 preview: NKDAgility-Courses-PSM-16x9.svg
 code: PSM
+programCode: PSM
 course_proficiencies:
   - intermediate
 carousel:

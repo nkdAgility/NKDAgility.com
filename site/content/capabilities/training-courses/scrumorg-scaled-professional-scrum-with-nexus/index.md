@@ -62,8 +62,9 @@ delivery_audiences:
   - Teams
 preview: naked-agility-Professional-Scrum-SPS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-SPS-400x.png
-brandColour: 
+brandColour:
 code: SPS
+programCode: SPS
 course_length: 16
 course_sessions: 8
 course_proficiencies:
@@ -91,7 +92,7 @@ outcomes: |2+
   - Dealing with common challenges
   - Practices to help teams efficiently build an integrated software product
 
-assessment: 
+assessment:
 objectives: |2+
 
   - Learn how to Scale Scrum using the Nexus framework
@@ -108,13 +109,13 @@ prerequisites: |+
   - Have an understanding of development techniques, tools, and practices needed to sustain large scale development.
   - Passed the [Nexus Open](https://www.classmarker.com/online-test/start/?quiz=d49560ebb3d48c4f) assessment.
 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 # Scaled Professional Scrum with Nexus (SPS) with Certification
 
 **Course Code:** SPS
@@ -129,48 +130,48 @@ A hands-on, activity-based course designed to equip professionals with practical
 
 ## Target Audience
 
-- Product Owners  
-- Product Managers  
-- Scrum Masters  
-- Lean Agile Practitioners  
-- Scrum Teams  
-- Development Leads and Managers  
+- Product Owners
+- Product Managers
+- Scrum Masters
+- Lean Agile Practitioners
+- Scrum Teams
+- Development Leads and Managers
 - Anyone involved in managing or participating in scaled Scrum product development
 
 ---
 
 ## Learning Outcomes
 
-- Understand that scaled Scrum is still Scrum  
-- Gain an introduction to the Nexus Framework  
-- Learn new roles, artifacts, and events in Nexus  
-- Organize teams and work for large-scale development  
-- Manage the Nexus and Nexus+  
-- Address common challenges in scaling Scrum  
-- Apply practices to efficiently build integrated software products  
-- Experience organizing several teams working on the same product  
-- Optimize team productivity  
+- Understand that scaled Scrum is still Scrum
+- Gain an introduction to the Nexus Framework
+- Learn new roles, artifacts, and events in Nexus
+- Organize teams and work for large-scale development
+- Manage the Nexus and Nexus+
+- Address common challenges in scaling Scrum
+- Apply practices to efficiently build integrated software products
+- Experience organizing several teams working on the same product
+- Optimize team productivity
 - Identify, minimize, and remove dependencies
 
 ---
 
 ## Course Topics
 
-- Scaling Scrum and organizing teams  
-- Team selection and organizing work  
-- Nexus in action  
-- Managing the Nexus  
-- Overcoming cross-team dependencies and collaboration challenges  
+- Scaling Scrum and organizing teams
+- Team selection and organizing work
+- Nexus in action
+- Managing the Nexus
+- Overcoming cross-team dependencies and collaboration challenges
 - Practices for launching, structuring, and managing large Agile projects
 
 ---
 
 ## Delivery Format
 
-- Interactive, activity-based workshop  
-- Delivered over 8 half-day sessions (total 16 hours)  
-- Online via Microsoft Teams and Mural  
-- Includes case studies, simulations, and collaborative exercises  
+- Interactive, activity-based workshop
+- Delivered over 8 half-day sessions (total 16 hours)
+- Online via Microsoft Teams and Mural
+- Includes case studies, simulations, and collaborative exercises
 - Additional reading, writing, and watching activities between sessions
 
 ---
@@ -201,7 +202,7 @@ A hands-on, activity-based course designed to equip professionals with practical
 
 ## Certification
 
-- Includes one free attempt at the Scaled Professional Scrum (SPS) certification exam  
+- Includes one free attempt at the Scaled Professional Scrum (SPS) certification exam
 - Second attempt provided if the first is taken within 14 days and unsuccessful
 
 ---

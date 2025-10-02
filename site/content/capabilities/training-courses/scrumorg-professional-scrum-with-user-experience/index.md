@@ -65,8 +65,9 @@ delivery_audiences:
   - Teams
 preview: naked-agility-Professional-Scrum-PSU-1600x900-2.jpg
 previewIcon: Scrumorg-Course-PSU-400x.png
-brandColour: 
+brandColour:
 code: PSU
+programCode: PSU
 course_length: 16
 course_sessions: 8
 course_proficiencies:
@@ -90,7 +91,7 @@ outcomes: |2+
   - Focus on users
   - Experimentation
 
-assessment: 
+assessment:
 objectives: |+
   Students will leave the class understanding: 
   - Gain a common understanding of what is meant by Professional Scrum
@@ -116,13 +117,13 @@ prerequisites: |+
   - Review [The Scrum Guide](https://nkdagility.com/resources/the-scrum-guide/)
   - Review the Course Material provided in your [Classroom](https://community.nkdagility.com/all-courses)
 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 # Professional Scrum with User Experience (PSU) with Certification
 
 **Course Code:** PSU
