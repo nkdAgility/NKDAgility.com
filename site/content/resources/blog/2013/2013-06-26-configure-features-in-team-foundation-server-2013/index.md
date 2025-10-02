@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: MbkXNCfuEU2
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: MbkXNCfuEU2
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: configure-features-in-team-foundation-server-2013
 aliases:
   - /resources/MbkXNCfuEU2
@@ -27,6 +27,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:05Z
+ResourceId: MbkXNCfuEU2
+ResourceType: blog
 ResourceImportId: 9912
 creator: Martin Hinshelwood
 resourceTypes: blog

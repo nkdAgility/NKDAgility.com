@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: CDwU__r19XS
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: CDwU__r19XS
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
 aliases:
   - /resources/blog/be-a-kid-again-and-upgrade-to-windows-phone-8.1-developer-preview
@@ -31,6 +31,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-12T14:21:52Z
+ResourceId: CDwU__r19XS
+ResourceType: blog
 ResourceImportId: 10515
 creator: Martin Hinshelwood
 resourceTypes: blog

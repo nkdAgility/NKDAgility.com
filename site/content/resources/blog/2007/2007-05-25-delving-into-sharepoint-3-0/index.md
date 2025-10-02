@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: jXG5yABSps4
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: jXG5yABSps4
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: delving-into-sharepoint-3-0
 aliases:
   - /resources/blog/delving-into-sharepoint-3.0
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:19Z
+ResourceId: jXG5yABSps4
+ResourceType: blog
 ResourceImportId: 396
 creator: Martin Hinshelwood
 resourceTypes: blog

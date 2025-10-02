@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: qgSgXAu_d6a
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: qgSgXAu_d6a
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: moving-onedrive-for-business-files-to-a-different-drive
 aliases:
   - /resources/qgSgXAu_d6a
@@ -36,6 +36,8 @@ Watermarks:
   description: 2025-05-07T13:16:49Z
   short_title: 2025-07-07T17:59:01Z
   tldr: 2025-08-07T13:24:22Z
+ResourceId: qgSgXAu_d6a
+ResourceType: blog
 ResourceImportId: 11440
 creator: Martin Hinshelwood
 resourceTypes: blog

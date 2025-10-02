@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: JwMLCNODuls
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: JwMLCNODuls
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: fear-is-the-real-enemy-of-agility
 aliases:
   - /resources/JwMLCNODuls
@@ -34,13 +34,13 @@ tags:
   - Software Development
   - Professional Scrum
   - Social Technologies
-  - Team Collaboration
   - Organisational Agility
   - Market Adaptability
   - Agile Leadership
   - Personal
   - Agile Strategy
   - Scrum Values
+  - Business Agility
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7325904921298366464
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-16T15:54:57Z
   short_title: 2025-07-07T16:44:25Z
   tldr: 2025-08-07T12:32:44Z
+ResourceId: JwMLCNODuls
+ResourceType: signals
 
 ---
 Fear is the real enemy of agility.

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Bjz6SwLDIY4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Bjz6SwLDIY4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: continuous-adaptation-the-key-to-success-in-a-dynamic-market
 aliases:
   - /resources/Bjz6SwLDIY4
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:06:26Z
   short_title: 2025-07-07T17:50:17Z
   tldr: 2025-08-07T12:54:04Z
+ResourceId: Bjz6SwLDIY4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Bjz6SwLDIY4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Bjz6SwLDIY4/maxresdefault.jpg

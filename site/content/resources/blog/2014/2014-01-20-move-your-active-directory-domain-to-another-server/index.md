@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: koQQ-rllpsw
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: koQQ-rllpsw
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: move-your-active-directory-domain-to-another-server
 aliases:
   - /resources/koQQ-rllpsw
@@ -29,6 +29,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:22:26Z
+ResourceId: koQQ-rllpsw
+ResourceType: blog
 ResourceImportId: 10334
 creator: Martin Hinshelwood
 resourceTypes: blog

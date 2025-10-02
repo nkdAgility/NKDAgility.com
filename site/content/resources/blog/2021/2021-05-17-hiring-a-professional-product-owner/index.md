@@ -5,10 +5,10 @@ description: Explains the key accountabilities, skills, and behaviours required 
 tldr: Hiring a professional Product Owner is increasingly valued, with companies seeking external candidates who bring fresh perspectives and strong business understanding. The Product Owner is accountable for maximizing product value by setting vision, managing stakeholders, collaborating with teams, making key decisions, and using evidence-based approaches to drive outcomes. Ensure candidates have both certification and practical experience, but remember that while responsibilities can be delegated, ultimate accountability always remains with the Product Owner.
 date: 2021-05-17
 lastmod: 2021-05-17
-weight: 780
+weight: 570
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: weekly
 contributors:
   - name: Fredrik Wendt
@@ -25,10 +25,10 @@ contributors:
     external: https://www.linkedin.com/in/victoria-pent-627a6b61/
   - name: James Powis
     external: https://www.linkedin.com/in/james-powis-agile-product-owner/
-ResourceId: Stln5As7Fof
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: Stln5As7Fof
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: hiring-a-professional-product-owner
 aliases:
   - /blog/hiring-a-professional-product-owner
@@ -59,6 +59,8 @@ Watermarks:
   description: 2025-05-07T13:14:56Z
   short_title: 2025-07-07T17:57:30Z
   tldr: 2025-08-07T13:10:10Z
+ResourceId: Stln5As7Fof
+ResourceType: blog
 ResourceImportId: 46138
 AudioNative: true
 creator: Martin Hinshelwood

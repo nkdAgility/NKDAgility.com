@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: DBa5_WhA68M
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: DBa5_WhA68M
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-art-of-negotiation-for-product-owners-essential-skills-to-master
 aliases:
   - /resources/DBa5_WhA68M
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:07:01Z
   short_title: 2025-07-07T17:50:49Z
   tldr: 2025-08-07T12:55:19Z
+ResourceId: DBa5_WhA68M
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: DBa5_WhA68M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DBa5_WhA68M/maxresdefault.jpg

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: PWgzGL20QAo
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: PWgzGL20QAo
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: resilience-is-not-a-department
 aliases:
   - /resources/PWgzGL20QAo
@@ -22,7 +22,7 @@ layout: signal
 concepts:
   - Capability
 categories:
-  - Product Development
+  - Uncategorized
 tags:
   - Software Development
   - Miscellaneous
@@ -41,6 +41,8 @@ Watermarks:
   description: 2025-05-23T23:53:47Z
   short_title: 2025-07-07T16:44:08Z
   tldr: 2025-08-07T12:32:07Z
+ResourceId: PWgzGL20QAo
+ResourceType: signals
 
 ---
 Resilience is not a department. It's not a project. It's not an afterthought.

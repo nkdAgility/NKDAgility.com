@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: muFdzg1ck3Q
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: muFdzg1ck3Q
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: office-2010-first-run
 aliases:
   - /resources/muFdzg1ck3Q
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:32Z
+ResourceId: muFdzg1ck3Q
+ResourceType: blog
 ResourceImportId: 102
 creator: Martin Hinshelwood
 resourceTypes: blog

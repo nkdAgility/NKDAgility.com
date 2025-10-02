@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: 5RJpAeKMRzs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 5RJpAeKMRzs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: avoiding-the-seven-deadly-sins-of-agile-transform-your-organisation-for-true-agility
 aliases:
   - /resources/5RJpAeKMRzs
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:05:17Z
   short_title: 2025-07-07T17:49:20Z
   tldr: 2025-08-07T12:51:48Z
+ResourceId: 5RJpAeKMRzs
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 5RJpAeKMRzs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5RJpAeKMRzs/maxresdefault.jpg

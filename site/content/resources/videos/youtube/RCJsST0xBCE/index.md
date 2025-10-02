@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: RCJsST0xBCE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: RCJsST0xBCE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
 aliases:
   - /resources/RCJsST0xBCE
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:16:04Z
   short_title: 2025-07-07T17:58:23Z
   tldr: 2025-08-07T13:12:52Z
+ResourceId: RCJsST0xBCE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: RCJsST0xBCE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg

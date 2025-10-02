@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: BIT0P3MRDj9
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: BIT0P3MRDj9
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: toyota-andon-cord-lets-any-worker-stop-production-to-fix-defects
 aliases:
   - /resources/BIT0P3MRDj9
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-16T15:54:49Z
   short_title: 2025-07-07T16:44:16Z
   tldr: 2025-08-07T12:32:27Z
+ResourceId: BIT0P3MRDj9
+ResourceType: signals
 
 ---
 In manufacturing, Toyota introduced the "andon" cord—a simple chain any worker could pull to stop the entire line if they saw a defect.

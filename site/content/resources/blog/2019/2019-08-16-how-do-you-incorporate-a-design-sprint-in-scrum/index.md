@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: MHeGFYrasBx
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: MHeGFYrasBx
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: how-do-you-incorporate-a-design-sprint-in-scrum
 aliases:
   - /resources/MHeGFYrasBx
@@ -37,6 +37,8 @@ Watermarks:
   description: 2025-05-07T13:16:15Z
   short_title: 2025-07-07T17:58:32Z
   tldr: 2025-08-07T13:13:11Z
+ResourceId: MHeGFYrasBx
+ResourceType: blog
 ResourceImportId: 39682
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: XRePaJiX1kj
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: XRePaJiX1kj
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: engineering-can-fix-technical-debt-but-leadership-has-to-invest-in-it
 aliases:
   - /resources/XRePaJiX1kj
@@ -52,6 +52,8 @@ Watermarks:
   description: 2025-05-16T15:56:35Z
   short_title: 2025-07-07T16:45:38Z
   tldr: 2025-08-07T12:35:16Z
+ResourceId: XRePaJiX1kj
+ResourceType: signals
 
 ---
 Engineering can fix technical debt, but leadership has to invest in it. Without that investment, continuous delivery remains a pipe dream.

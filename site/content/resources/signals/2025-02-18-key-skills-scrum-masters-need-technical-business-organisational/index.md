@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: KVrBKTQ-Yc-
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: KVrBKTQ-Yc-
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: key-skills-scrum-masters-need-technical-business-organisational
 aliases:
   - /resources/KVrBKTQ-Yc-
@@ -46,6 +46,8 @@ Watermarks:
   description: 2025-05-16T15:56:52Z
   short_title: 2025-07-07T17:46:23Z
   tldr: 2025-08-07T12:36:29Z
+ResourceId: KVrBKTQ-Yc-
+ResourceType: signals
 
 ---
 Scrum Masters must master three domains: technical, business, and organisational.

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: dyEMgbMXhgq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: dyEMgbMXhgq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: vss-converter-–-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
 aliases:
   - /resources/blog/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
@@ -30,6 +30,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:52Z
+ResourceId: dyEMgbMXhgq
+ResourceType: blog
 ResourceImportId: 6127
 creator: Martin Hinshelwood
 resourceTypes: blog

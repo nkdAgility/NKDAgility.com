@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ks3BqiRqWAK
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ks3BqiRqWAK
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: ghost-build-controllers-in-team-foundation-server
 aliases:
   - /resources/ks3BqiRqWAK
@@ -29,6 +29,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:21:52Z
+ResourceId: ks3BqiRqWAK
+ResourceType: blog
 ResourceImportId: 39
 creator: Martin Hinshelwood
 resourceTypes: blog

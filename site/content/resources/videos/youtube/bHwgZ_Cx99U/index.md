@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: bHwgZ_Cx99U
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: bHwgZ_Cx99U
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-more-teams-won't-speed-up-delivery-the-truth-about-scaling-effectively
 aliases:
   - /resources/bHwgZ_Cx99U
@@ -44,6 +43,7 @@ Watermarks:
   description: 2025-05-07T12:49:32Z
   short_title: 2025-07-07T17:46:17Z
   tldr: 2025-08-07T12:36:06Z
+ResourceImportSource: Youtube
 videoId: bHwgZ_Cx99U
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/bHwgZ_Cx99U/maxresdefault.jpg
@@ -51,6 +51,8 @@ duration: 76
 resourceTypes:
   - video
 isShort: false
+ResourceId: bHwgZ_Cx99U
+ResourceType: videos
 
 ---
 In my experience, the common belief that "more teams mean faster delivery" is a fallacy that many organisations fall prey to. I’ve witnessed it time and again: a company decides to scale up, thinking that by simply adding more developers and teams, they’ll accelerate their release cycles. However, what often happens is the exact opposite. Instead of speeding up, everything grinds to a halt.

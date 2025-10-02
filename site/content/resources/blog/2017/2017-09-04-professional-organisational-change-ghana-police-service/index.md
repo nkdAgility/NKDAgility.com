@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: yv8bhGf1MfF
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: yv8bhGf1MfF
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: professional-organisational-change-at-the-ghana-police-service
 aliases:
   - /resources/yv8bhGf1MfF
@@ -44,6 +44,8 @@ Watermarks:
   description: 2025-05-07T13:16:28Z
   short_title: 2025-07-07T17:58:42Z
   tldr: 2025-08-07T13:13:36Z
+ResourceId: yv8bhGf1MfF
+ResourceType: blog
 ResourceImportId: 12011
 creator: Martin Hinshelwood
 resourceTypes: blog

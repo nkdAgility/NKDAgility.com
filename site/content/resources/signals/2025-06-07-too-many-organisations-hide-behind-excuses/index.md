@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: RJFPfh1L3bJ
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: RJFPfh1L3bJ
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: too-many-organisations-hide-behind-excuses
 aliases:
   - /resources/RJFPfh1L3bJ
@@ -45,6 +45,8 @@ Watermarks:
   description: 2025-06-17T17:50:41Z
   short_title: 2025-07-07T16:43:40Z
   tldr: 2025-08-07T12:11:36Z
+ResourceId: RJFPfh1L3bJ
+ResourceType: signals
 
 ---
 Too many organisations hide behind excuses:

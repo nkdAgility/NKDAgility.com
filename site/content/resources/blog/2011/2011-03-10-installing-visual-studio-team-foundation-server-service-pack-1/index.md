@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: LpdTshxayAB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: LpdTshxayAB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-visual-studio-team-foundation-server-service-pack-1
 aliases:
   - /resources/LpdTshxayAB
@@ -30,6 +30,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:10:58Z
+ResourceId: LpdTshxayAB
+ResourceType: blog
 ResourceImportId: 8
 creator: Martin Hinshelwood
 resourceTypes: blog

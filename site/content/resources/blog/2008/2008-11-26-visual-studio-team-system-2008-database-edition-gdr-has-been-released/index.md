@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: VkCGOULM8GF
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: VkCGOULM8GF
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-team-system-2008-database-edition-gdr-has-been-released
 aliases:
   - /resources/VkCGOULM8GF
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:20Z
+ResourceId: VkCGOULM8GF
+ResourceType: blog
 ResourceImportId: 162
 creator: Martin Hinshelwood
 resourceTypes: blog

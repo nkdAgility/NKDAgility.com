@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: S4XG-Is-FHq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: S4XG-Is-FHq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: creating-a-custom-proxy-class
 aliases:
   - /resources/S4XG-Is-FHq
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T16:26:30Z
+ResourceId: S4XG-Is-FHq
+ResourceType: blog
 ResourceImportId: 326
 creator: Martin Hinshelwood
 resourceTypes: blog

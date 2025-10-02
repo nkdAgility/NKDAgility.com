@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: ZXDBoq7JUSw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ZXDBoq7JUSw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 3-reasons-why-you-should-level-up-your-knowledge-and-skills
 aliases:
   - /resources/ZXDBoq7JUSw
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:10:26Z
   short_title: 2025-07-07T17:53:44Z
   tldr: 2025-08-07T13:01:31Z
+ResourceId: ZXDBoq7JUSw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ZXDBoq7JUSw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZXDBoq7JUSw/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: pVPzgsemxEY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: pVPzgsemxEY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
 aliases:
   - /resources/pVPzgsemxEY
@@ -50,6 +49,9 @@ Watermarks:
   description: 2025-05-07T13:00:54Z
   short_title: 2025-07-07T17:48:25Z
   tldr: 2025-08-07T12:49:25Z
+ResourceId: pVPzgsemxEY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: pVPzgsemxEY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pVPzgsemxEY/maxresdefault.jpg

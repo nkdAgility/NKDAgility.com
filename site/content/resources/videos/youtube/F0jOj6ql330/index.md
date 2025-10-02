@@ -5,16 +5,15 @@ description: Scrum developers find the most reward in creating meaningful, impac
 tldr: The most rewarding part of being a Scrum developer is building software that truly matters to people, which gives purpose and fuels passion for the work. When developers see their efforts making a real impact, it drives higher quality and creativity. Managers should encourage teams to focus on meaningful outcomes to boost motivation and results.
 date: 2023-06-23T11:00:09Z
 lastmod: 2023-06-23T11:00:09Z
-weight: 1000
+weight: 870
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: F0jOj6ql330
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: F0jOj6ql330
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: most-rewarding-part-of-being-a-scrum-developer
 aliases:
   - /resources/F0jOj6ql330
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:11:19Z
   short_title: 2025-07-07T17:54:22Z
   tldr: 2025-08-07T13:03:13Z
+ResourceId: F0jOj6ql330
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: F0jOj6ql330
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/F0jOj6ql330/maxresdefault.jpg

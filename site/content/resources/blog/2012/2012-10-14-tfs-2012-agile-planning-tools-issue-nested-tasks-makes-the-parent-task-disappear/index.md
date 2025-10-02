@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: YhKqO4gdGiv
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: YhKqO4gdGiv
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
 aliases:
   - /resources/YhKqO4gdGiv
@@ -32,6 +32,8 @@ tags:
   - Product Backlog
 Watermarks:
   description: 2025-05-13T15:07:27Z
+ResourceId: YhKqO4gdGiv
+ResourceType: blog
 ResourceImportId: 8936
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: u-ACEx3Q01p
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: u-ACEx3Q01p
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: would-your-cfo-approve-misrepresenting-corporate-assets
 aliases:
   - /resources/u-ACEx3Q01p
@@ -39,6 +39,8 @@ Watermarks:
   description: 2025-05-16T15:55:19Z
   short_title: 2025-07-07T16:44:44Z
   tldr: 2025-08-07T12:33:21Z
+ResourceId: u-ACEx3Q01p
+ResourceType: signals
 
 ---
 Would your CFO sign off on misrepresenting corporate assets? Of course not. But that’s exactly what happens when technical debt is ignored.

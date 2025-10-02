@@ -5,16 +5,15 @@ description: Explains how Product Owners can replace traditional project managem
 tldr: When moving from project management to product management, it is essential for Product Owners to fill the gap left by traditional planning tools by focusing on vision, value, and validation. Clearly define and communicate the product vision, ensure all work aligns with delivering real value, and continuously validate progress through feedback and measurement. Prioritize these pillars to keep teams aligned and maximize product impact; consider seeking support if challenges arise.
 date: 2023-12-14T06:45:02Z
 lastmod: 2023-12-14T06:45:02Z
-weight: 1000
+weight: 790
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Tye_-FY7boo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Tye_-FY7boo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: vision-value-and-validation-the-keys-to-successful-product-management
 aliases:
   - /resources/Tye_-FY7boo
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:06:56Z
   short_title: 2025-07-07T17:50:45Z
   tldr: 2025-08-07T12:55:12Z
+ResourceId: Tye_-FY7boo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Tye_-FY7boo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Tye_-FY7boo/maxresdefault.jpg

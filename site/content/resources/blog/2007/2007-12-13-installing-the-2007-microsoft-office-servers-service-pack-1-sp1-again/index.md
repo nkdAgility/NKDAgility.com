@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: RgZYSYc6tNy
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: RgZYSYc6tNy
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
 aliases:
   - /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-...again...
@@ -31,6 +31,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:25:21Z
+ResourceId: RgZYSYc6tNy
+ResourceType: blog
 ResourceImportId: 276
 creator: Martin Hinshelwood
 resourceTypes: blog

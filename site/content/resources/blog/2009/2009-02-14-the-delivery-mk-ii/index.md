@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: g5GoTmk3aI4
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: g5GoTmk3aI4
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-delivery-mk-ii
 aliases:
   - /resources/g5GoTmk3aI4
@@ -28,6 +28,8 @@ tags:
   - Personal
 Watermarks:
   description: 2025-05-13T16:21:45Z
+ResourceId: g5GoTmk3aI4
+ResourceType: blog
 ResourceImportId: 140
 creator: Martin Hinshelwood
 resourceTypes: blog

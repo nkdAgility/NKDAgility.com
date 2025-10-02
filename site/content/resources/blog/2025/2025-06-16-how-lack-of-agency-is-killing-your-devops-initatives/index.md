@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: AgIU1SK-3pE
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: AgIU1SK-3pE
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: how-lack-of-agency-is-killing-your-devops-initiatives
 aliases:
   - /resources/AgIU1SK-3pE
@@ -38,11 +38,15 @@ tags:
   - Value Delivery
   - Self Organisation
   - Team Motivation
+  - Metrics and Learning
+  - Deployment Frequency
   - Technical Excellence
 Watermarks:
   description: 2025-05-07T12:49:01Z
   short_title: 2025-07-07T16:43:27Z
   tldr: 2025-08-07T12:11:05Z
+ResourceId: AgIU1SK-3pE
+ResourceType: blog
 
 ---
 [DevOps]({{< ref "/categories/devops" >}}) is not automation. It is not pipelines. It is not "shifting left" while locking decision-making into ancient [release management]({{< ref "/tags/release-management" >}}) bureaucracies.  

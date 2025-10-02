@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 5qtS7DYGi5Q
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 5qtS7DYGi5Q
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-do-you-know-the-value-currently-delivered-in-your-organization
 aliases:
   - /resources/5qtS7DYGi5Q
@@ -52,6 +51,9 @@ Watermarks:
   description: 2025-05-07T13:06:19Z
   short_title: 2025-07-07T17:50:11Z
   tldr: 2025-08-07T12:53:50Z
+ResourceId: 5qtS7DYGi5Q
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 5qtS7DYGi5Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5qtS7DYGi5Q/maxresdefault.jpg

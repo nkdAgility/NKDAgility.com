@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: NdEr9LWJ2ti
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: NdEr9LWJ2ti
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-to-tfs-2010-beta-1-and-sql-collation
 aliases:
   - /resources/NdEr9LWJ2ti
@@ -28,6 +28,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:23:39Z
+ResourceId: NdEr9LWJ2ti
+ResourceType: blog
 ResourceImportId: 109
 creator: Martin Hinshelwood
 resourceTypes: blog

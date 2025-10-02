@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: cYRmqyXmGQf
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: cYRmqyXmGQf
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 aliases:
   - /resources/cYRmqyXmGQf
@@ -31,6 +31,8 @@ tags:
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:11:26Z
+ResourceId: cYRmqyXmGQf
+ResourceType: blog
 ResourceImportId: 23
 creator: Martin Hinshelwood
 resourceTypes: blog

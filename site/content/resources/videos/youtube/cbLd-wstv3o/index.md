@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: cbLd-wstv3o
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: cbLd-wstv3o
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-to-discover-unrealized-value-in-your-product
 aliases:
   - /resources/cbLd-wstv3o
@@ -53,6 +52,9 @@ Watermarks:
   description: 2025-05-07T13:06:16Z
   short_title: 2025-07-07T17:50:10Z
   tldr: 2025-08-07T12:53:46Z
+ResourceId: cbLd-wstv3o
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: cbLd-wstv3o
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cbLd-wstv3o/maxresdefault.jpg

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: wu1tvjyyrZU
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: wu1tvjyyrZU
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: creating-nested-teams-in-visual-studio-alm
 aliases:
   - /resources/wu1tvjyyrZU
@@ -35,6 +35,8 @@ Watermarks:
   description: 2025-05-12T14:20:19Z
   tldr: 2025-08-07T13:25:58Z
   short_title: 2025-08-07T13:25:59Z
+ResourceId: wu1tvjyyrZU
+ResourceType: blog
 ResourceImportId: 11068
 creator: Martin Hinshelwood
 resourceTypes: blog

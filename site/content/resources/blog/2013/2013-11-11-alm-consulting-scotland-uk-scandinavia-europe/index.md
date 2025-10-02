@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: ETl5K8OQ9kV
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ETl5K8OQ9kV
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: alm-consulting-in-scotland-uk-scandinavia-amp-europe
 aliases:
   - /resources/ETl5K8OQ9kV
@@ -33,6 +33,8 @@ tags:
   - Application Lifecycle Management
 Watermarks:
   description: 2025-05-12T14:22:52Z
+ResourceId: ETl5K8OQ9kV
+ResourceType: blog
 ResourceImportId: 10226
 creator: Martin Hinshelwood
 resourceTypes: blog

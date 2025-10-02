@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: BCWiKTm8hjg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: BCWiKTm8hjg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
 aliases:
   - /resources/BCWiKTm8hjg
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:07:14Z
   short_title: 2025-07-07T17:51:16Z
   tldr: 2025-08-07T12:55:40Z
+ResourceId: BCWiKTm8hjg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: BCWiKTm8hjg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BCWiKTm8hjg/maxresdefault.jpg

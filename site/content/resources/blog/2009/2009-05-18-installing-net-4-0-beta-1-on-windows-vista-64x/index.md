@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: v5UNW1ylUxI
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: v5UNW1ylUxI
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-net-4-0-beta-1-on-windows-vista-64x
 aliases:
   - /resources/blog/installing-.net-4.0-beta-1-on-windows-vista-64x
@@ -31,6 +31,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:23:52Z
+ResourceId: v5UNW1ylUxI
+ResourceType: blog
 ResourceImportId: 120
 creator: Martin Hinshelwood
 resourceTypes: blog

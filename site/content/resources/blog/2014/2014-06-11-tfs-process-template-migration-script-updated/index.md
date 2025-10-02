@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: __k7mlKoTxt
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: __k7mlKoTxt
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-process-template-migration-script-updated
 aliases:
   - /resources/__k7mlKoTxt
@@ -30,6 +30,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-12T14:21:42Z
+ResourceId: __k7mlKoTxt
+ResourceType: blog
 ResourceImportId: 10558
 creator: Martin Hinshelwood
 resourceTypes: blog

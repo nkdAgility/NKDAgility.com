@@ -5,15 +5,15 @@ description: Explores how organisations adopt SAFe for agility but risk rigid bu
 tldr: Many organisations adopt SAFe hoping for quick agility but end up replacing old rigid processes with new ones, without addressing real business challenges or fostering true innovation. SAFe often reinforces bureaucracy and stifles the adaptability needed in today’s fast-changing environment. Development managers should focus on evolving their organisations for genuine business agility rather than relying on prescriptive frameworks.
 date: 2020-07-01
 lastmod: 2020-07-01
-weight: 1000
+weight: 850
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: kmQceaX7e-O
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: kmQceaX7e-O
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 aliases:
   - /resources/kmQceaX7e-O
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-07T13:15:32Z
   short_title: 2025-07-07T17:57:56Z
   tldr: 2025-08-07T13:11:19Z
+ResourceId: kmQceaX7e-O
+ResourceType: blog
 ResourceImportId: 44502
 creator: Martin Hinshelwood
 resourceTypes: blog

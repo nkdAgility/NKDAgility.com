@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: YGyx4i3-4ss
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: YGyx4i3-4ss
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-user-insights-the-key-to-meaningful-software-development
 aliases:
   - /resources/YGyx4i3-4ss
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:02:15Z
   short_title: 2025-07-07T17:48:40Z
   tldr: 2025-08-07T12:50:04Z
+ResourceId: YGyx4i3-4ss
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: YGyx4i3-4ss
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/YGyx4i3-4ss/maxresdefault.jpg

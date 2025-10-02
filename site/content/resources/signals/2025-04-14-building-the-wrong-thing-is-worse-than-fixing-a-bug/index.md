@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: HvZvnbC68go
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: HvZvnbC68go
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: building-the-wrong-thing-is-worse-than-fixing-a-bug
 aliases:
   - /resources/HvZvnbC68go
@@ -34,6 +34,7 @@ tags:
   - Lean Principles
   - Product Validation
   - Pragmatic Thinking
+  - Product Discovery
   - Software Development
   - Operational Practices
   - Agile Philosophy
@@ -52,6 +53,8 @@ Watermarks:
   description: 2025-05-16T15:55:30Z
   short_title: 2025-07-07T16:44:52Z
   tldr: 2025-08-07T12:33:41Z
+ResourceId: HvZvnbC68go
+ResourceType: signals
 
 ---
 Do you know what’s worse than fixing a bug? Building the wrong thing in the first place.

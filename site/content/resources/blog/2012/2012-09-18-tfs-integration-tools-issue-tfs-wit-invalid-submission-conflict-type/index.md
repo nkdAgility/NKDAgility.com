@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: vrpjXVvhpYA
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: vrpjXVvhpYA
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 aliases:
   - /resources/vrpjXVvhpYA
@@ -32,6 +32,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:07:36Z
+ResourceId: vrpjXVvhpYA
+ResourceType: blog
 ResourceImportId: 8781
 creator: Martin Hinshelwood
 resourceTypes: blog

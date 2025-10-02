@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: ynMjy3Tn7hl
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ynMjy3Tn7hl
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: configuring-jenkins-to-talk-to-tfs-2013
 aliases:
   - /resources/ynMjy3Tn7hl
@@ -31,6 +31,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-12T14:21:48Z
+ResourceId: ynMjy3Tn7hl
+ResourceType: blog
 ResourceImportId: 10526
 creator: Martin Hinshelwood
 resourceTypes: blog

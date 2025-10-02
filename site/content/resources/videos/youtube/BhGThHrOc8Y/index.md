@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: BhGThHrOc8Y
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: BhGThHrOc8Y
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: devops-demystified-why-it's-more-than-just-tools-and-how-to-embrace-its-true-value
 aliases:
   - /resources/BhGThHrOc8Y
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:11:49Z
   short_title: 2025-07-07T17:54:48Z
   tldr: 2025-08-07T13:04:07Z
+ResourceId: BhGThHrOc8Y
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: BhGThHrOc8Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg

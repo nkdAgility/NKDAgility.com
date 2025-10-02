@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: beR21RHTUvo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: beR21RHTUvo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: story-points-a-ghost-of-agile-past
 aliases:
   - /resources/beR21RHTUvo
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:06:45Z
   short_title: 2025-07-07T17:50:34Z
   tldr: 2025-08-07T12:54:51Z
+ResourceId: beR21RHTUvo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: beR21RHTUvo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/beR21RHTUvo/maxresdefault.jpg

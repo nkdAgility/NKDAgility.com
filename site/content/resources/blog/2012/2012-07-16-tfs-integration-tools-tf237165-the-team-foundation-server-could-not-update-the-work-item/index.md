@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: -dhZywZGtrn
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: -dhZywZGtrn
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 aliases:
   - /resources/-dhZywZGtrn
@@ -29,6 +29,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:39Z
+ResourceId: -dhZywZGtrn
+ResourceType: blog
 ResourceImportId: 6179
 creator: Martin Hinshelwood
 resourceTypes: blog

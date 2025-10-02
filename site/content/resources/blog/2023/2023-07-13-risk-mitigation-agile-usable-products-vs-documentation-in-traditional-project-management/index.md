@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: vkqr5T9YVsf
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: vkqr5T9YVsf
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
 aliases:
   - /blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
@@ -45,6 +45,8 @@ Watermarks:
   description: 2025-05-07T13:10:51Z
   short_title: 2025-07-07T17:54:01Z
   tldr: 2025-08-07T13:02:10Z
+ResourceId: vkqr5T9YVsf
+ResourceType: blog
 ResourceImportId: 49495
 AudioNative: true
 creator: Martin Hinshelwood

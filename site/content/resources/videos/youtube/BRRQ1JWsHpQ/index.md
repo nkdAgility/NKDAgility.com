@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: BRRQ1JWsHpQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: BRRQ1JWsHpQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
 aliases:
   - /resources/BRRQ1JWsHpQ
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:13:06Z
   short_title: 2025-07-07T17:55:48Z
   tldr: 2025-08-07T13:06:18Z
+ResourceId: BRRQ1JWsHpQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: BRRQ1JWsHpQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg

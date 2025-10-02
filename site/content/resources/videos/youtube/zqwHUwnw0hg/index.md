@@ -5,16 +5,15 @@ description: Gain practical skills and deep understanding of the scrum master ro
 tldr: The Professional Scrum Master course teaches the theory and practical skills needed to be an effective scrum master, focusing on serving developers, product owners, and the organization to maximize team value. Participants learn through real-world examples, discussions, and case studies about empiricism, delivering working increments each sprint, and overcoming common challenges. Development managers should consider this course to strengthen their teams' ability to deliver value and navigate complexity.
 date: 2023-01-19T07:00:14Z
 lastmod: 2023-01-19T07:00:14Z
-weight: 750
+weight: 445
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
-ResourceId: zqwHUwnw0hg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: zqwHUwnw0hg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-will-you-learn-on-the-professional-scrum-master-course
 aliases:
   - /resources/zqwHUwnw0hg
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:14:30Z
   short_title: 2025-07-07T17:57:07Z
   tldr: 2025-08-07T13:09:07Z
+ResourceId: zqwHUwnw0hg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: zqwHUwnw0hg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/zqwHUwnw0hg/maxresdefault.jpg

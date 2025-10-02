@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: V5OQtr0U1IS
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: V5OQtr0U1IS
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: what's-new-in-visual-studio-2013-team-foundation-server-preview
 aliases:
   - /resources/blog/what-s-new-in-visual-studio-2013-team-foundation-server-preview
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:06:04Z
+ResourceId: V5OQtr0U1IS
+ResourceType: blog
 ResourceImportId: 9677
 creator: Martin Hinshelwood
 resourceTypes: blog

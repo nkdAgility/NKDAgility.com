@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: wPA1p1UQ6Bi
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: wPA1p1UQ6Bi
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: do-you-know-the-minimum-builds-to-create-on-any-branch
 aliases:
   - /resources/wPA1p1UQ6Bi
@@ -30,6 +30,8 @@ tags:
   - Continuous Integration
 Watermarks:
   description: 2025-05-13T15:22:28Z
+ResourceId: wPA1p1UQ6Bi
+ResourceType: blog
 ResourceImportId: 60
 creator: Martin Hinshelwood
 resourceTypes: blog

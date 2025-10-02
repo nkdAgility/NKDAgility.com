@@ -5,16 +5,15 @@ description: Explores the risks of unspoken issues in Agile teams, detailing how
 tldr: Silence in Agile teams can lead to poor communication, lack of accountability, and misleading commitments, which undermine value delivery, erode trust, and stall growth. Managers should actively foster open communication, model vulnerability, and set clear expectations to prevent these issues. Prioritising honest dialogue and celebrating those who speak up will help teams deliver better results and maintain a healthy, agile culture.
 date: 2023-11-10T06:45:01Z
 lastmod: 2023-11-10T06:45:01Z
-weight: 715
+weight: 280
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: monthly
-ResourceId: WpsGLkTXalE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: WpsGLkTXalE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams
 aliases:
   - /resources/WpsGLkTXalE
@@ -31,6 +30,7 @@ layout: video
 concepts:
   - Ethos
 categories:
+  - Technical Leadership
   - Product Development
 tags:
   - Team Collaboration
@@ -47,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:07:57Z
   short_title: 2025-07-07T17:51:50Z
   tldr: 2025-08-07T12:57:12Z
+ResourceId: WpsGLkTXalE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: WpsGLkTXalE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/WpsGLkTXalE/maxresdefault.jpg

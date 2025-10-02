@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: E0X7Vjy0zKw
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: E0X7Vjy0zKw
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: office-mobile-2007
 aliases:
   - /resources/E0X7Vjy0zKw
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:00Z
+ResourceId: E0X7Vjy0zKw
+ResourceType: blog
 ResourceImportId: 346
 creator: Martin Hinshelwood
 resourceTypes: blog

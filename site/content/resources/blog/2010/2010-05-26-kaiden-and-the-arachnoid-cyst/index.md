@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: LjGohC1Hzfv
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: LjGohC1Hzfv
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: kaiden-and-the-arachnoid-cyst
 aliases:
   - /resources/LjGohC1Hzfv
@@ -27,6 +27,8 @@ tags:
   - Miscellaneous
 Watermarks:
   description: 2025-05-13T15:21:54Z
+ResourceId: LjGohC1Hzfv
+ResourceType: blog
 ResourceImportId: 41
 creator: Martin Hinshelwood
 resourceTypes: blog

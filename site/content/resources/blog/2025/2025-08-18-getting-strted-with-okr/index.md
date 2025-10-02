@@ -5,15 +5,15 @@ description: Learn how to successfully implement OKRs by aligning clear strategy
 tldr: OKRs only work when there is a clear strategy, a culture of transparency and adaptation, empowered teams, and a focus on outcomes over output. They help connect strategy to execution but require ongoing review, learning, and refinement to be effective. Before adopting OKRs, ensure your leadership, culture, and processes support these foundations or the framework will not deliver real value.
 date: 2025-08-18T09:00:00Z
 lastmod: 2025-08-18T09:00:00Z
-weight: 490
+weight: 530
 sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: bpRR4ieKvr3
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: bpRR4ieKvr3
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: getting-started-with-objectives-key-results
 aliases:
   - /resources/bpRR4ieKvr3
@@ -44,6 +44,8 @@ Watermarks:
   short_title: 2025-07-07T16:43:08Z
   tldr: 2025-07-30T23:12:43Z
 mermaid: true
+ResourceId: bpRR4ieKvr3
+ResourceType: blog
 
 ---
 OKRs are not plug-and-play. They’re not a magic framework you sprinkle on top of chaos and suddenly get strategy, alignment, and velocity. They are a **discipline**. A **set of practices**. And they only work when the foundations are in place.

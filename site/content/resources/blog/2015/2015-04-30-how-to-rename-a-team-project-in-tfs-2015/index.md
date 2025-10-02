@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ysF0Hy8v8Rf
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ysF0Hy8v8Rf
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: how-to-rename-a-team-project-in-tfs-2015
 aliases:
   - /resources/ysF0Hy8v8Rf
@@ -31,6 +31,8 @@ Watermarks:
   description: 2025-05-12T14:19:44Z
   tldr: 2025-08-07T13:25:13Z
   short_title: 2025-08-07T13:25:14Z
+ResourceId: ysF0Hy8v8Rf
+ResourceType: blog
 ResourceImportId: 11317
 creator: Martin Hinshelwood
 resourceTypes: blog

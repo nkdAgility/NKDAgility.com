@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: 8gWwC3tvV_f
-ResourceImport: false
-ResourceType: workshops
-ResourceContentOrigin: Human
+ItemId: 8gWwC3tvV_f
+ItemType: workshops
+ItemKind: resource
+ItemContentOrigin: Human
 slug: sprint-review-1
 aliases:
   - /workshops/Sprint-Review-1.html
@@ -55,6 +55,8 @@ Watermarks:
   description: 2025-05-07T12:57:58Z
   short_title: 2025-07-07T17:48:11Z
   tldr: 2025-08-07T12:48:52Z
+ResourceId: 8gWwC3tvV_f
+ResourceType: workshops
 resourceTypes: workshop
 creator: Martin Hinshelwood
 references: 

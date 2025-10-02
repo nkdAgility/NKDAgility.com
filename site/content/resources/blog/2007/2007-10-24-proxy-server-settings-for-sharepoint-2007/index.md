@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 5_4fz8bD4UU
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 5_4fz8bD4UU
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: proxy-server-settings-for-sharepoint-2007
 aliases:
   - /resources/5_4fz8bD4UU
@@ -27,6 +27,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T16:25:44Z
+ResourceId: 5_4fz8bD4UU
+ResourceType: blog
 ResourceImportId: 295
 creator: Martin Hinshelwood
 resourceTypes: blog

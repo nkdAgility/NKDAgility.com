@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: v-m2PYvEaWx
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: v-m2PYvEaWx
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: install-tfs-2015-today
 aliases:
   - /resources/v-m2PYvEaWx
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-12T14:19:42Z
   tldr: 2025-08-07T13:25:09Z
   short_title: 2025-08-07T13:25:10Z
+ResourceId: v-m2PYvEaWx
+ResourceType: blog
 ResourceImportId: 11286
 creator: Martin Hinshelwood
 resourceTypes: blog

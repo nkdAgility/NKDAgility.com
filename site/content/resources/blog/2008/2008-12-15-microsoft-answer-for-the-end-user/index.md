@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: KIMZ-rpIxds
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: KIMZ-rpIxds
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: microsoft-answer-for-the-end-user
 aliases:
   - /resources/KIMZ-rpIxds
@@ -27,6 +27,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T16:22:05Z
+ResourceId: KIMZ-rpIxds
+ResourceType: blog
 ResourceImportId: 151
 creator: Martin Hinshelwood
 resourceTypes: blog

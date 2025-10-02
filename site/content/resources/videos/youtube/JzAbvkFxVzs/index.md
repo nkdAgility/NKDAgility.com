@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: JzAbvkFxVzs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: JzAbvkFxVzs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 aliases:
   - /resources/JzAbvkFxVzs
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:06:42Z
   short_title: 2025-07-07T17:50:30Z
   tldr: 2025-08-07T12:54:44Z
+ResourceId: JzAbvkFxVzs
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: JzAbvkFxVzs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/JzAbvkFxVzs/maxresdefault.jpg

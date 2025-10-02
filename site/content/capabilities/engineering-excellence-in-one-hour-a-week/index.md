@@ -9,10 +9,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.9
   changefreq: weekly
-ResourceId: CwlqQrHDnTD
-ResourceImport: false
-ResourceType: capabilities
-ResourceContentOrigin: human
+ItemId: CwlqQrHDnTD
+ItemType: capabilities
+ItemKind: capability
+ItemContentOrigin: human
 slug: engineering-excellence-in-one-hour-a-week
 aliases:
   - /resources/CwlqQrHDnTD
@@ -101,4 +101,8 @@ creator: Martin Hinshelwood
 menus:
   footer:
     parent: Consulting Services
+ResourceId: CwlqQrHDnTD
+ResourceType: capabilities
+
 ---
+

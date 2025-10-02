@@ -5,16 +5,15 @@ description: Explores how mushroom foraging offers practical lessons for applyin
 tldr: Applying Agile and Scrum effectively requires understanding your team's environment, being willing to step outside your comfort zone, and having patience for gradual improvement. Success comes from researching your context, iterating carefully, and focusing on continuous learning rather than just quick wins. Development managers should invest time in understanding team dynamics and encourage steady, mindful progress for lasting results.
 date: 2023-08-10T13:30:01Z
 lastmod: 2023-08-10T13:30:01Z
-weight: 865
+weight: 685
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: aWYoJtSgTDo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: aWYoJtSgTDo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: harvesting-agility-what-mushroom-foraging-taught-me-about-scrum-and-team-dynamics
 aliases:
   - /resources/aWYoJtSgTDo
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:10:17Z
   short_title: 2025-07-07T17:53:36Z
   tldr: 2025-08-07T13:01:16Z
+ResourceId: aWYoJtSgTDo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: aWYoJtSgTDo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/aWYoJtSgTDo/maxresdefault.jpg

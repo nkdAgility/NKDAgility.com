@@ -1,22 +1,24 @@
 ---
 title: NKD Insights™
-description: Naked Insights™ is a pioneering tool that helps teams improve by continuously illuminating the quality of their teamwork based on scientific insights.
+short_title: 'NKD Insights: Team Performance Assessment'
+description: A tool that uses scientific insights to assess team performance, provide evidence-based feedback, and help resolve organizational teamwork challenges.
+tldr: Naked Insights is a tool that helps teams improve by providing ongoing, science-based feedback on teamwork quality. It enables you to diagnose issues across one or multiple teams and address wider organizational challenges. Consider using it to gain actionable insights and support team development.
 date: 2024-06-12
-creator: Martin Hinshelwood
 weight: 700
-type: capabilities
-slug: nkd-insights
 sitemap:
   filename: sitemap.xml
-  priority: 0.7
+  priority: 0.9
+  changefreq: weekly
+ItemId: Rxy55R-qKnj
+ItemType: capabilities
+ItemKind: capability
+ItemContentOrigin: human
+slug: nkd-insights
 aliases:
   - /capabilities/nkd-insights/
-card:
-  button:
-    content: Diagnose your team(s)
-  title: NKD Insights™
-  content: Naked Insights™ is a pioneering tool that helps teams improve by continuously illuminating the quality of their teamwork based on scientific insights. It can diagnose one or many teams, receive evidence-based feedback, and resolve broader organizational issues.
-icon: fa-lightbulb
+aliasesArchive:
+  - /capabilities/nkd-insights/
+type: capabilities
 sections:
   - type: headline
     headline:
@@ -59,13 +61,26 @@ sections:
 
           Stay updated with the latest trends, monitor ongoing improvement initiatives, and respond promptly to ‘requests for help’ from teams. Our dashboard allows you to categorize teams into value streams, business units, or other specific groupings, enabling customized reporting and more targeted analyses.
     source: inline
-  - title:
-    content:
+  - title: 
+    content: 
     type: videos
-    related:
+    related: 
     source: data
----
+card:
+  button:
+    content: Diagnose your team(s)
+  title: NKD Insights™
+  content: Naked Insights™ is a pioneering tool that helps teams improve by continuously illuminating the quality of their teamwork based on scientific insights. It can diagnose one or many teams, receive evidence-based feedback, and resolve broader organizational issues.
+Watermarks:
+  description: 2025-10-02T13:53:08Z
+  tldr: 2025-10-02T13:53:09Z
+  short_title: 2025-10-02T13:53:10Z
+creator: Martin Hinshelwood
+icon: fa-lightbulb
+ResourceId: Rxy55R-qKnj
+ResourceType: capabilities
 
+---
 Naked Insights™ is a pioneering tool to help teams improve by illuminating the quality of their teamwork continuously based on scientific insights. Diagnose one or many teams, receive evidence-based feedback and resolve broader organizational issues.
 
 Get Started Now!

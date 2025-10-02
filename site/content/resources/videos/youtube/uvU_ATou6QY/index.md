@@ -5,16 +5,15 @@ description: Learn key signs of failing as a product owner, including poor produ
 tldr: A failing product owner is marked by poor product quality, inconsistent delivery, lack of vision, and not taking true ownership of the product. To deliver real value, product owners must make decisions, communicate a clear vision, and focus on actual outcomes rather than vanity metrics. Development managers should ensure their product owners are empowered to lead, make tough calls, and stay aligned with user and business needs.
 date: 2023-09-22T07:00:32Z
 lastmod: 2023-09-22T07:00:32Z
-weight: 860
+weight: 645
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
-ResourceId: uvU_ATou6QY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: uvU_ATou6QY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: signs-you're-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 aliases:
   - /resources/uvU_ATou6QY
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:09:21Z
   short_title: 2025-07-07T17:52:56Z
   tldr: 2025-08-07T12:59:47Z
+ResourceId: uvU_ATou6QY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: uvU_ATou6QY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg

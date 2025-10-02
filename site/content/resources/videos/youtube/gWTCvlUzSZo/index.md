@@ -5,16 +5,15 @@ description: Explains how a quality camera helps Scrum Masters boost team engage
 tldr: Using a high-quality camera in remote meetings helps Scrum Masters better read team members' body language and emotions, which leads to stronger engagement and more effective communication. Investing in good equipment, maintaining a professional background, and encouraging camera use can foster a more open and collaborative team environment. Development managers should ensure their teams have access to quality video tools to maximize virtual collaboration.
 date: 2023-09-21T07:00:14Z
 lastmod: 2023-09-21T07:00:14Z
-weight: 890
+weight: 615
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
-ResourceId: gWTCvlUzSZo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: gWTCvlUzSZo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement
 aliases:
   - /resources/gWTCvlUzSZo
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:09:23Z
   short_title: 2025-07-07T17:52:58Z
   tldr: 2025-08-07T12:59:50Z
+ResourceId: gWTCvlUzSZo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: gWTCvlUzSZo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gWTCvlUzSZo/maxresdefault.jpg

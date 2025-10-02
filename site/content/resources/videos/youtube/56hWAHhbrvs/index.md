@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 56hWAHhbrvs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 56hWAHhbrvs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 7-harbingers-of-the-agile-apocalypse-organizational-structure
 aliases:
   - /resources/56hWAHhbrvs
@@ -49,6 +48,9 @@ Watermarks:
   description: 2025-05-07T13:08:38Z
   short_title: 2025-07-07T17:52:18Z
   tldr: 2025-08-07T12:58:17Z
+ResourceId: 56hWAHhbrvs
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 56hWAHhbrvs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/56hWAHhbrvs/maxresdefault.jpg

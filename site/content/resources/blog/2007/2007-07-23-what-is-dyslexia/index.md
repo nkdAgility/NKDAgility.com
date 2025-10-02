@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 97Evnsuws6e
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 97Evnsuws6e
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: what-is-dyslexia
 aliases:
   - /resources/97Evnsuws6e
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:25Z
+ResourceId: 97Evnsuws6e
+ResourceType: blog
 ResourceImportId: 360
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: xaIDtZcoVXE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: xaIDtZcoVXE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-do-you-know-how-long-it-takes-to-deliver-value
 aliases:
   - /resources/xaIDtZcoVXE
@@ -54,6 +53,9 @@ Watermarks:
   description: 2025-05-07T13:06:10Z
   short_title: 2025-07-07T17:50:04Z
   tldr: 2025-08-07T12:53:34Z
+ResourceId: xaIDtZcoVXE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: xaIDtZcoVXE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xaIDtZcoVXE/maxresdefault.jpg

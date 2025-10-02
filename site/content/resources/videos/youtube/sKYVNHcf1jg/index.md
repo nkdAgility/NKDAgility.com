@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: sKYVNHcf1jg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: sKYVNHcf1jg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
 aliases:
   - /resources/sKYVNHcf1jg
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:13:23Z
   short_title: 2025-07-07T17:56:05Z
   tldr: 2025-08-07T13:06:58Z
+ResourceId: sKYVNHcf1jg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: sKYVNHcf1jg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg

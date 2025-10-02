@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: PIoyu9N2QaM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: PIoyu9N2QaM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
 aliases:
   - /resources/PIoyu9N2QaM
@@ -36,10 +35,14 @@ categories:
   - Scrum
 tags:
   - Scrum Master
+  - Personal
 Watermarks:
   description: 2025-05-07T13:13:20Z
   short_title: 2025-07-07T17:56:01Z
   tldr: 2025-08-07T13:06:50Z
+ResourceId: PIoyu9N2QaM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: PIoyu9N2QaM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/PIoyu9N2QaM/maxresdefault.jpg

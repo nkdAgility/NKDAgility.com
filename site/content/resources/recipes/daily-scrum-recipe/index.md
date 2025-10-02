@@ -9,10 +9,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: M4qDhvrXwp-
-ResourceImport: false
-ResourceType: recipes
-ResourceContentOrigin: Human
+ItemId: M4qDhvrXwp-
+ItemType: recipes
+ItemKind: resource
+ItemContentOrigin: Human
 slug: daily-scrum-recipe
 aliases:
   - /recipes/Daily-Scrum-Recipe.html
@@ -51,6 +51,8 @@ Watermarks:
   description: 2025-05-07T12:57:50Z
   short_title: 2025-07-07T17:47:58Z
   tldr: 2025-08-07T12:46:49Z
+ResourceId: M4qDhvrXwp-
+ResourceType: recipes
 resourceTypes: recipe
 image: /images/naked-Agility-Scrum-Framework-Daily-Scrum.jpg
 creator: Martin Hinshelwood

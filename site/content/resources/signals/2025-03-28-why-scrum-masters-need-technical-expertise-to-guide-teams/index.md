@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: _0eaUkX1o1q
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: _0eaUkX1o1q
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: why-scrum-masters-need-technical-expertise-to-guide-teams
 aliases:
   - /resources/_0eaUkX1o1q
@@ -43,6 +43,8 @@ Watermarks:
   description: 2025-05-16T15:55:50Z
   short_title: 2025-07-07T16:45:10Z
   tldr: 2025-08-07T12:34:20Z
+ResourceId: _0eaUkX1o1q
+ResourceType: signals
 
 ---
 Would you trust a coach who doesn’t understand your sport?

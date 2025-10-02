@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: k9UAGHKPtUz
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: k9UAGHKPtUz
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: assembly-version-does-not-change-in-visual-basic-workflow-projects
 aliases:
   - /resources/k9UAGHKPtUz
@@ -27,6 +27,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:24:11Z
+ResourceId: k9UAGHKPtUz
+ResourceType: blog
 ResourceImportId: 231
 creator: Martin Hinshelwood
 resourceTypes: blog

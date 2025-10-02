@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: 0A8ONYVbWlL
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 0A8ONYVbWlL
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: let-us-be-blunt
 aliases:
   - /resources/0A8ONYVbWlL
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-16T15:54:52Z
   short_title: 2025-07-07T16:44:21Z
   tldr: 2025-08-07T12:32:36Z
+ResourceId: 0A8ONYVbWlL
+ResourceType: signals
 
 ---
 Let’s be blunt:

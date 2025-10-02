@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: kr2gucSHKSd
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: kr2gucSHKSd
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: windows-live-alerts
 aliases:
   - /resources/kr2gucSHKSd
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:41Z
+ResourceId: kr2gucSHKSd
+ResourceType: blog
 ResourceImportId: 454
 creator: Martin Hinshelwood
 resourceTypes: blog

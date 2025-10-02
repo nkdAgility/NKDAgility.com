@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: mqG4p-beYqb
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: mqG4p-beYqb
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: hybrid-agile-often-combines-the-worst-of-both-traditional-and-agile-methods
 aliases:
   - /resources/mqG4p-beYqb
@@ -41,6 +41,8 @@ Watermarks:
   description: 2025-05-16T15:55:36Z
   short_title: 2025-07-07T16:44:58Z
   tldr: 2025-08-07T12:33:53Z
+ResourceId: mqG4p-beYqb
+ResourceType: signals
 
 ---
 I still hear leaders talk about "hybrid Agile" like it’s the best of both worlds. Let’s be real—it’s usually the worst of both.

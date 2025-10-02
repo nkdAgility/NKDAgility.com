@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 6VDaSknKBPu
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 6VDaSknKBPu
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: government-cloud-first-policy
 aliases:
   - /resources/6VDaSknKBPu
@@ -30,6 +30,8 @@ Watermarks:
   description: 2025-05-07T13:16:39Z
   short_title: 2025-07-07T17:58:54Z
   tldr: 2025-08-07T13:24:06Z
+ResourceId: 6VDaSknKBPu
+ResourceType: blog
 ResourceImportId: 11882
 creator: Martin Hinshelwood
 resourceTypes: blog

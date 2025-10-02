@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: 2KovKxNpZpg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 2KovKxNpZpg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success
 aliases:
   - /resources/2KovKxNpZpg
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:12:52Z
   short_title: 2025-07-07T17:55:37Z
   tldr: 2025-08-07T13:05:51Z
+ResourceId: 2KovKxNpZpg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 2KovKxNpZpg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg

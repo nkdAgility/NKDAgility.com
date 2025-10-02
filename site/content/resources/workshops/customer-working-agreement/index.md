@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: hjlKdneL4t8
-ResourceImport: false
-ResourceType: workshops
-ResourceContentOrigin: Human
+ItemId: hjlKdneL4t8
+ItemType: workshops
+ItemKind: resource
+ItemContentOrigin: Human
 slug: customer-working-agreement
 aliases:
   - workshops/Customer-Working-Agreement.html
@@ -40,6 +40,8 @@ Watermarks:
   description: 2025-05-07T12:58:01Z
   short_title: 2025-07-07T17:48:11Z
   tldr: 2025-08-07T12:46:36Z
+ResourceId: hjlKdneL4t8
+ResourceType: workshops
 resourceTypes: workshop
 creator: Martin Hinshelwood
 draft: true

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: isU2kPc5HFw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: isU2kPc5HFw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
 aliases:
   - /resources/isU2kPc5HFw
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:02:24Z
   short_title: 2025-07-07T17:48:50Z
   tldr: 2025-08-07T12:50:28Z
+ResourceId: isU2kPc5HFw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: isU2kPc5HFw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg

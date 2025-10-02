@@ -20,11 +20,10 @@ $ResourceAliasExpiryDate = (Get-Date).Date.AddYears(-5)
 Start-TokenServer
 
 $hugoMarkdownObjects = @()
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\training-courses" -YearsBack 10
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\mentor-programs" -YearsBack 10
-
-#$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\" -YearsBack 100
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
@@ -48,13 +47,17 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     #=================CLEAN============================
     Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'id'
 
+    $ItemData = Update-ItemFrontMatterData -hugoMarkdown $hugoMarkdown
+    $ItemType = $ItemData.ItemType
+    $ItemKind = $ItemData.ItemKind
+    $ItemId = $ItemData.ItemId
 
     #=================DATES=================
     if (-not $hugoMarkdown.FrontMatter.date) {
         $date = Get-Date -Format "yyyy-MM-ddT09:00:00Z"
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $date
     }
-    switch ($ResourceType) {
+    switch ($ItemType) {
         { $_ -in @("case-studies", "blog", "signals", "newsletters", "guides", "engineering-notes", "videos", "podcast") } { 
             if (-not $hugoMarkdown.FrontMatter.lastmod) {
                 Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'lastmod' -fieldValue $hugoMarkdown.FrontMatter.date
@@ -141,97 +144,6 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         }
     }
 
-    #================CONVERT RESOUCE TO ITEM=================
-    #  ItemId: sasadsadsad
-    #  ItemType: blog
-    #  ItemKind: resource
-    #  ItemContentOrigin: human
-    #  ItemImport: false
-  
-
-
-    #=================ResourceId=================
-    $ResourceId = $null;
-    if ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
-        $ResourceId = $hugoMarkdown.FrontMatter.ResourceId
-    }
-    elseif ($hugoMarkdown.FrontMatter.Contains("videoId")) {
-        $ResourceId = $hugoMarkdown.FrontMatter.videoId
-    }
-    else {
-        $ResourceId = New-ResourceId
-    }
-
-    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ResourceId
-
-    #=================ResourceType=================
-    $ResourceType = Get-ResourceType  -FilePath  $hugoMarkdown.FolderPath
-    if ($null -eq $ResourceType) {
-        $ResourceType = $hugoMarkdown.FrontMatter.type
-    }
-    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue $ResourceType -Overwrite
-    #=================ResourceContentOrigin=================
-    if ($hugoMarkdown.FrontMatter.Contains("ResourceContentOrigin")) {
-        $ResourceContentOrigin = $hugoMarkdown.FrontMatter.ResourceContentOrigin
-    }
-    else {
-        switch ($ResourceType) {
-            "blog" { 
-                if ([DateTime]::Parse($hugoMarkdown.FrontMatter.date) -gt [DateTime]::Parse("2018-01-01")) {
-                    $ResourceContentOrigin = "hybrid"
-                }
-                else {
-                    $ResourceContentOrigin = "human"
-                }    
-            }
-            "videos" { 
-                $ResourceContentOrigin = "ai"
-            }
-            default { 
-                $ResourceContentOrigin = "human"
-            }
-        }
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceContentOrigin' -fieldValue $ResourceContentOrigin
-    }
-    #=================ResourceImport+=================
-    if ( (Test-Path (Join-Path $hugoMarkdown.FolderPath "data.yaml" )) -or (Test-Path (Join-Path $hugoMarkdown.FolderPath "data.json" ))) {
-        $ResourceImport = $true
-    }
-    else {
-        $ResourceImport = $false
-    }
-    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImport' -fieldValue $ResourceImport -Overwrite
-    if ($hugoMarkdown.FrontMatter.ResourceImport) {
-        switch ($ResourceType) {
-            "blog" { 
-                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Wordpress"
-                If (([datetime]$hugoMarkdown.FrontMatter.date) -lt ([datetime]'2011-02-16')) {
-                    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource' -fieldValue "GeeksWithBlogs" -Overwrite
-                }
-                else {
-                    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource' -fieldValue "Wordpress" -Overwrite
-                }     
-            }
-            "videos" { 
-                    
-            }
-        }
-    }
-    else {
-        Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource'
-        Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource'
-    }
-
-    switch ($ResourceType) {
-        "blog" {   
-        }
-        "videos" { 
-                    
-        }
-        "signals" {
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'layout' -fieldValue "signal" -Overwrite
-        }
-    }
 
 
     $slug = ($hugoMarkdown.FrontMatter.title -replace '[:\/\\\*\?"<>\|#%\.,!—&‘’“”;()\[\]\{\}\+=@^~`]', '-' `
@@ -248,7 +160,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     # =================Add aliases===================
     $aliases = @()
    
-    switch ($ResourceType) {
+    switch ($ItemType) {
         "blog" { 
             If ($hugoSlugSimulation -ne $slug) {
                 $aliases += "/resources/blog/$hugoSlugSimulation"
@@ -262,9 +174,14 @@ while ($hugoMarkdownQueue.Count -gt 0) {
             }
         }
     }
-    # Always add the ResourceId as an alias
-    if ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
-        $aliases += "/resources/$($hugoMarkdown.FrontMatter.ResourceId)"
+    # Always add the ItemId as an alias
+    if ($hugoMarkdown.FrontMatter.Contains("ItemId")) {
+        switch ($ItemKind) {
+            "resource" {
+                $aliases += "/resources/$($hugoMarkdown.FrontMatter.ItemId)"
+            }
+        }
+        
     }
     if ([DateTime]$hugoMarkdown.FrontMatter.date -lt $ResourceAliasExpiryDate) {
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -Overwrite
@@ -276,8 +193,8 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     
     # =================Add aliasesArchive===================
     $aliasesArchive = @()
-    $aliasesArchive += $hugoMarkdown.FrontMatter.aliases | Where-Object { $_ -notmatch $hugoMarkdown.FrontMatter.ResourceId }
-    switch ($ResourceType) {
+    $aliasesArchive += $hugoMarkdown.FrontMatter.aliases | Where-Object { $_ -notmatch $hugoMarkdown.FrontMatter.ItemId }
+    switch ($ItemType) {
         "blog" { 
         }
         "podcast" { 
@@ -310,7 +227,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
 
 
     # =================CLASSIFICATION===================
-    switch ($ResourceType) {
+    switch ($ItemType) {
         { $_ -in @("videos", "podcast", "blog", "signals", "newsletters", "guides", "engineering-notes", "workshops", "recipes", "principles", "case-studies") } { 
             #-----------------Concepts-------------------
             $conceptsClassification = Get-ClassificationsForType -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
@@ -337,7 +254,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         default { 
             # Do nothing
 
-            Write-ErrorLog "We dont have a sitemap for this type of resource: $ResourceType" 
+            Write-ErrorLog "We dont have a classification for this type of resource: $ItemType" 
         }
     }
     # =================/CLASSIFICATION===================  
@@ -345,7 +262,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
 
     
     # =================weight===================
-    switch ($ResourceType) {
+    switch ($ItemType) {
         { $_ -in @("videos", "podcast", "blog", "signals", "newsletters", "guides", "engineering-notes", "workshops", "recipes", "principles", "case-studies") } { 
             $eeResult = Get-Classification -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Engineering Excellence"
             $tlResult = Get-Classification -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Technical Leadership"
@@ -355,7 +272,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         default { 
             # Do nothing
 
-            Write-ErrorLog "We dont have a sitemap for this type of resource: $ResourceType" 
+            Write-ErrorLog "We dont have a weight for this type of resource: $ItemType" 
         }
     }
     # =================/weight===================
@@ -366,7 +283,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         changefreq = "weekly"
     }
     $sitemap.priority = [math]::Round((1000 - $hugoMarkdown.FrontMatter.weight) / 999, 1)
-    switch ($ResourceType) {
+    switch ($ItemType) {
         { $_ -in @("videos", "podcast") } { 
             $sitemap.priority = $sitemap.priority - 0.2
             $sitemap.changefreq = "monthly"   
@@ -389,14 +306,14 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         default { 
             # Do nothing
             $sitemap.priority = $sitemap.priority - 0.4
-            Write-ErrorLog "We dont have a sitemap for this type of resource: $ResourceType" 
+            Write-ErrorLog "We dont have a sitemap for this type of resource: $ItemType" 
         }
     }
     $sitemap.priority = [math]::Max([math]::Round($sitemap.priority, 1), 0.1)
     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'sitemap' -fieldValue $sitemap -Overwrite
     # =================/SITEMAP===================
     # =================CONTENT===================
-    switch ($ResourceType) {
+    switch ($ItemType) {
         "blog" { 
            
         }
@@ -442,11 +359,12 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $list += 'sitemap'
     $list += 'author'
     $list += 'contributors'
-    $list += 'ResourceId'
-    $list += 'ResourceImport'
-    $list += 'ResourceType'
-    $list += 'ResourceContentOrigin'
-    $list += 'ResourceImportSource'
+    $list += 'ItemId'
+    $list += 'ItemImport'
+    $list += 'ItemType'
+    $list += 'ItemKind'
+    $list += 'ItemContentOrigin'
+    $list += 'ItemImportSource'
     $list += 'slug'
     $list += 'aliases'
     $list += 'aliasesArchive'
@@ -475,13 +393,13 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         if ($origin -ne "AI" -and $ItemDate -gt $ResourceCatalogueCutoffDate) {
             $year = $ItemDate.ToString("yyyy")
             # Aggregate yearly content per ResourceType
-            if (-not $ResourceCatalogue.ContainsKey($ResourceType)) {
-                $ResourceCatalogue[$ResourceType] = @{}
+            if (-not $ResourceCatalogue.ContainsKey($hugoMarkdown.FrontMatter.ItemType)) {
+                $ResourceCatalogue[$hugoMarkdown.FrontMatter.ItemType] = @{}
             }
-            if (-not $ResourceCatalogue[$ResourceType].ContainsKey($year)) {
-                $ResourceCatalogue[$ResourceType][$year] = @()
+            if (-not $ResourceCatalogue[$hugoMarkdown.FrontMatter.ItemType].ContainsKey($year)) {
+                $ResourceCatalogue[$hugoMarkdown.FrontMatter.ItemType][$year] = @()
             }
-            $ResourceCatalogue[$ResourceType][$year] += $hugoMarkdown
+            $ResourceCatalogue[$hugoMarkdown.FrontMatter.ItemType][$year] += $hugoMarkdown
         }
     }
 
@@ -495,16 +413,16 @@ Write-DebugLog "-------------------------------------------------"
 
 # Save the yearly aggregated content files per ResourceType
 # Iterate over each ResourceType in the catalogue
-foreach ($ResourceType in $ResourceCatalogue.Keys) {
-    foreach ($year in $ResourceCatalogue[$ResourceType].Keys) {
-        $directoryPath = [System.IO.Path]::Combine(".\.resources", $ResourceType)
+foreach ($ItemType in $ResourceCatalogue.Keys) {
+    foreach ($year in $ResourceCatalogue[$ItemType].Keys) {
+        $directoryPath = [System.IO.Path]::Combine(".\.resources", $ItemType)
 
         # Ensure the directory exists
         if (-not (Test-Path -Path $directoryPath -PathType Container)) {
             New-Item -Path $directoryPath -ItemType Directory -Force | Out-Null
         }
 
-        foreach ($hugoMarkdown in $ResourceCatalogue[$ResourceType][$year]) {
+        foreach ($hugoMarkdown in $ResourceCatalogue[$ItemType][$year]) {
             $date = [DateTime]::Parse($hugoMarkdown.FrontMatter.date)
             $slug = $hugoMarkdown.FrontMatter.slug
             $origin = ($hugoMarkdown.FrontMatter.ResourceContentOrigin).ToLower()
@@ -519,17 +437,17 @@ foreach ($ResourceType in $ResourceCatalogue.Keys) {
             if (-not (Test-Path -Path $SaveLocation -PathType Container)) {
                 New-Item -Path $SaveLocation -ItemType Directory -Force | Out-Null
             }
-            $SavedFile = [System.IO.Path]::Combine($SaveLocation, "$ResourceType.$($date.ToString("yyyy-MM-dd")).$slug.$origin.md")
+            $SavedFile = [System.IO.Path]::Combine($SaveLocation, "$ItemType.$($date.ToString("yyyy-MM-dd")).$slug.$origin.md")
             Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $SavedFile
         }
 
         # Save aggregated yearly content
-        $yearlyFilePath = [System.IO.Path]::Combine($directoryPath, "$ResourceType.$year.json")
-        $count = $ResourceCatalogue[$ResourceType][$year].Count
-        $yearContent = $ResourceCatalogue[$ResourceType][$year] | ConvertTo-Json -Depth 10
+        $yearlyFilePath = [System.IO.Path]::Combine($directoryPath, "$ItemType.$year.json")
+        $count = $ResourceCatalogue[$ItemType][$year].Count
+        $yearContent = $ResourceCatalogue[$ItemType][$year] | ConvertTo-Json -Depth 10
         $tokens = Get-TokenCountFromServer -Content $yearContent
         Set-Content -Path $yearlyFilePath -Value $yearContent -Encoding UTF8
-        Write-InfoLog "$ResourceType $year : {files}/{tokens} : {yearlyFilePath}" -PropertyValues $count, $tokens, $yearlyFilePath
+        Write-InfoLog "$ItemType $year : {files}/{tokens} : {yearlyFilePath}" -PropertyValues $count, $tokens, $yearlyFilePath
     }
 }
 

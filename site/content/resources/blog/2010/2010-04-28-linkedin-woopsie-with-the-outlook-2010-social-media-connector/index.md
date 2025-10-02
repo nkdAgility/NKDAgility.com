@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 4lmIuDVmx2V
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 4lmIuDVmx2V
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: linkedin-woopsie-with-the-outlook-2010-social-media-connector
 aliases:
   - /resources/4lmIuDVmx2V
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:22:02Z
+ResourceId: 4lmIuDVmx2V
+ResourceType: blog
 ResourceImportId: 47
 creator: Martin Hinshelwood
 resourceTypes: blog

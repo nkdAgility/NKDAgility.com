@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: cgZVYLmyyH0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: cgZVYLmyyH0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: stop-firefighting-bugs-why-shifting-left-saves-time-money-and-your-reputation
 aliases:
   - /resources/cgZVYLmyyH0
@@ -40,15 +39,15 @@ tags:
   - Operational Practices
   - Product Delivery
   - Technical Mastery
-  - Pragmatic Thinking
-  - Definition of Done
   - Engineering Practices
   - Value Delivery
+  - Pragmatic Thinking
   - Market Adaptability
 Watermarks:
   description: 2025-05-07T20:06:02Z
   short_title: 2025-07-07T16:43:45Z
   tldr: 2025-08-07T12:11:57Z
+ResourceImportSource: Youtube
 videoId: cgZVYLmyyH0
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/cgZVYLmyyH0/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLB-oV7UHXQDZ40-yACDdtjb7-4r8w
@@ -56,6 +55,8 @@ duration: 57
 resourceTypes:
   - video
 isShort: true
+ResourceId: cgZVYLmyyH0
+ResourceType: videos
 
 ---
 Patching Defects at the End? You’re Already Too Late

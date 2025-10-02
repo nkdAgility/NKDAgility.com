@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: XZip9ZcLyDs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: XZip9ZcLyDs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-is-becoming-a-scrum-master-a-great-career-option
 aliases:
   - /resources/XZip9ZcLyDs
@@ -35,6 +34,9 @@ Watermarks:
   description: 2025-05-07T13:13:28Z
   short_title: 2025-07-07T17:56:09Z
   tldr: 2025-08-07T13:07:06Z
+ResourceId: XZip9ZcLyDs
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: XZip9ZcLyDs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XZip9ZcLyDs/maxresdefault.jpg

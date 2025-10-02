@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: JV3MFcDY50C
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: JV3MFcDY50C
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
 aliases:
   - /resources/JV3MFcDY50C
@@ -32,6 +32,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:05:49Z
+ResourceId: JV3MFcDY50C
+ResourceType: blog
 ResourceImportId: 9724
 creator: Martin Hinshelwood
 resourceTypes: blog

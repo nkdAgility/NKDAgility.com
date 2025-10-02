@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: M3QCV-Dusfq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: M3QCV-Dusfq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 aliases:
   - /resources/M3QCV-Dusfq
@@ -28,6 +28,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:39Z
+ResourceId: M3QCV-Dusfq
+ResourceType: blog
 ResourceImportId: 9443
 creator: Martin Hinshelwood
 resourceTypes: blog

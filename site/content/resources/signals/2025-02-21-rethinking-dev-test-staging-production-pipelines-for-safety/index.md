@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: 3oUXWDsN6Qa
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 3oUXWDsN6Qa
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: rethinking-dev-test-staging-production-pipelines-for-safety
 aliases:
   - /resources/3oUXWDsN6Qa
@@ -38,7 +38,6 @@ tags:
   - Release Management
   - Operational Practices
   - Product Validation
-  - Metrics and Learning
   - Engineering Practices
   - Agentic Engineering
 platform_signals:
@@ -56,6 +55,8 @@ Watermarks:
   description: 2025-05-16T15:56:49Z
   short_title: 2025-07-07T17:46:16Z
   tldr: 2025-08-07T12:36:04Z
+ResourceId: 3oUXWDsN6Qa
+ResourceType: signals
 
 ---
 For years, we convinced ourselves that Dev-Test-Staging-Production pipelines kept us safe. If we just had one more layer of validation and one more environment to test in, we'd catch the problems before they hit production.

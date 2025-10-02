@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: a_PdCAmRAp9
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: a_PdCAmRAp9
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: a-change-for-the-better-3
 aliases:
   - /resources/a_PdCAmRAp9
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:21:33Z
+ResourceId: a_PdCAmRAp9
+ResourceType: blog
 ResourceImportId: 28
 creator: Martin Hinshelwood
 resourceTypes: blog

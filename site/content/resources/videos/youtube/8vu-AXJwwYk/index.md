@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: 8vu-AXJwwYk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 8vu-AXJwwYk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
 aliases:
   - /resources/8vu-AXJwwYk
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:14:27Z
   short_title: 2025-07-07T17:57:04Z
   tldr: 2025-08-07T13:08:59Z
+ResourceId: 8vu-AXJwwYk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 8vu-AXJwwYk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: g1GBes-dVzE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: g1GBes-dVzE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: one-thing-an-agile-coach-must-do-to-be-successful
 aliases:
   - /resources/g1GBes-dVzE
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:09:45Z
   short_title: 2025-07-07T17:53:16Z
   tldr: 2025-08-07T13:00:27Z
+ResourceId: g1GBes-dVzE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: g1GBes-dVzE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/g1GBes-dVzE/maxresdefault.jpg

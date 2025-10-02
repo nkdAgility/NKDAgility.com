@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 0STlzaSKK3X
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 0STlzaSKK3X
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-data-manager
 aliases:
   - /resources/0STlzaSKK3X
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:36Z
+ResourceId: 0STlzaSKK3X
+ResourceType: blog
 ResourceImportId: 171
 creator: Martin Hinshelwood
 resourceTypes: blog

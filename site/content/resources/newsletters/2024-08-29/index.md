@@ -11,10 +11,10 @@ sitemap:
   priority: 0.1
   changefreq: weekly
 author: MrHinsh
-ResourceId: bvPDNFJju4h
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: bvPDNFJju4h
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september
 aliases:
   - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
@@ -36,6 +36,8 @@ Watermarks:
   description: 2025-05-07T12:58:42Z
   short_title: 2025-07-07T17:48:22Z
   tldr: 2025-08-07T12:49:18Z
+ResourceId: bvPDNFJju4h
+ResourceType: newsletters
 resourceTypes: newsletter
 
 ---

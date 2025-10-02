@@ -10,15 +10,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.9
   changefreq: monthly
-ResourceId: r77XLSf0xcr
-ResourceImport: false
-ResourceType: case-studies
-ResourceContentOrigin: human
+ItemId: r77XLSf0xcr
+ItemType: case-studies
+ItemKind: resource
+ItemContentOrigin: human
 slug: standardize-engineering-practice-across-800-teams
 aliases:
   - /resources/r77XLSf0xcr
 concepts:
-  - Capability
+  - Tool
 categories:
   - Engineering Excellence
   - Technical Leadership
@@ -37,13 +37,15 @@ tags:
   - Scaling
   - Enterprise Agility
   - Project Management
-  - Business Agility
   - Transparency
+  - Value Delivery
 Watermarks:
   description: 2025-06-16T11:50:55Z
   short_title: 2025-07-07T16:43:50Z
   tldr: 2025-08-07T12:29:05Z
 draft: false
+ResourceId: r77XLSf0xcr
+ResourceType: case-studies
 
 ---
 ## Client Context

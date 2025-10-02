@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: 5WdN6qGylV8
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 5WdN6qGylV8
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
 aliases:
   - /resources/5WdN6qGylV8
@@ -44,6 +44,8 @@ tags:
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:10:13Z
+ResourceId: 5WdN6qGylV8
+ResourceType: blog
 ResourceImportId: 3778
 creator: Martin Hinshelwood
 resourceTypes: blog

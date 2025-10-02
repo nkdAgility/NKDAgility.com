@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: uwJYNXG7yIu
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: uwJYNXG7yIu
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie
 aliases:
   - /resources/uwJYNXG7yIu
@@ -30,6 +30,7 @@ categories:
 tags:
   - Social Technologies
   - Professional Scrum
+  - Agile Philosophy
   - Agentic Agility
   - Agile Frameworks
   - Agile Transformation
@@ -39,7 +40,6 @@ tags:
   - Team Motivation
   - Agile Product Management
   - Team Performance
-  - Agile Philosophy
   - Software Development
   - Pragmatic Thinking
   - Agile Values and Principles
@@ -47,6 +47,8 @@ Watermarks:
   description: 2025-05-07T12:49:11Z
   short_title: 2025-07-07T16:44:33Z
   tldr: 2025-08-07T12:33:00Z
+ResourceId: uwJYNXG7yIu
+ResourceType: blog
 
 ---
 [Scrum]({{< ref "/categories/scrum" >}}) is often misunderstood as a set of ceremonies or a lightweight [project management]({{< ref "/tags/project-management" >}}) method. It is neither. Scrum is a social technology built around the ethos of Agile, enabling teams to deliver adaptive solutions in complex environments. At its core lies a fundamental, non-negotiable requirement: self-management.

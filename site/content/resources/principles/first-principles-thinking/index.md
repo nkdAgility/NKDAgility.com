@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: q6gClR4HS5c
-ResourceImport: false
-ResourceType: principles
-ResourceContentOrigin: Human
+ItemId: q6gClR4HS5c
+ItemType: principles
+ItemKind: resource
+ItemContentOrigin: Human
 slug: first-principles-thinking
 aliases:
   - /principles/first-principles-thinking/
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-07T12:57:52Z
   short_title: 2025-07-07T17:48:04Z
   tldr: 2025-08-07T12:48:44Z
+ResourceId: q6gClR4HS5c
+ResourceType: principles
 creator: Martin Hinshelwood
 draft: true
 resourceTypes: principle

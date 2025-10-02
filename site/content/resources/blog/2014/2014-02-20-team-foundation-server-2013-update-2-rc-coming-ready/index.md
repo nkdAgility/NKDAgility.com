@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: VV_h0xkmY8J
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: VV_h0xkmY8J
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: team-foundation-server-2013-update-2-rc-is-coming-are-you-ready
 aliases:
   - /resources/VV_h0xkmY8J
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:22:15Z
+ResourceId: VV_h0xkmY8J
+ResourceType: blog
 ResourceImportId: 10381
 creator: Martin Hinshelwood
 resourceTypes: blog

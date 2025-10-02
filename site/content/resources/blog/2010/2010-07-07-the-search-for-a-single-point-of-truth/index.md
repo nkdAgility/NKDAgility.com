@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: nWNc5jUb0Up
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: nWNc5jUb0Up
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-search-for-a-single-point-of-truth
 aliases:
   - /resources/nWNc5jUb0Up
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:21:41Z
+ResourceId: nWNc5jUb0Up
+ResourceType: blog
 ResourceImportId: 34
 creator: Martin Hinshelwood
 resourceTypes: blog

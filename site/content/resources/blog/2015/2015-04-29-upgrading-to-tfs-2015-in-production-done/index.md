@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: lJiwJaztYBO
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: lJiwJaztYBO
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-to-tfs-2015-in-production-done
 aliases:
   - /resources/lJiwJaztYBO
@@ -36,6 +36,8 @@ Watermarks:
   description: 2025-05-12T14:19:49Z
   tldr: 2025-08-07T13:25:17Z
   short_title: 2025-08-07T13:25:18Z
+ResourceId: lJiwJaztYBO
+ResourceType: blog
 ResourceImportId: 11308
 creator: Martin Hinshelwood
 resourceTypes: blog

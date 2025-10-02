@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: 54-Zw2A7zEM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 54-Zw2A7zEM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: scrum-master-versus-seasoned-agile-coach
 aliases:
   - /resources/54-Zw2A7zEM
@@ -35,6 +34,9 @@ Watermarks:
   description: 2025-05-07T13:11:14Z
   short_title: 2025-07-07T17:54:19Z
   tldr: 2025-08-07T13:02:50Z
+ResourceId: 54-Zw2A7zEM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 54-Zw2A7zEM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/54-Zw2A7zEM/maxresdefault.jpg

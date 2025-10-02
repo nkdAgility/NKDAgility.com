@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: xLVnF1dEnfO
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: xLVnF1dEnfO
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: branch-promotion-is-a-relic-of-slow-manual-software-delivery
 aliases:
   - /resources/xLVnF1dEnfO
@@ -55,6 +55,8 @@ Watermarks:
   description: 2025-05-16T15:57:04Z
   short_title: 2025-07-07T17:46:39Z
   tldr: 2025-08-07T12:39:53Z
+ResourceId: xLVnF1dEnfO
+ResourceType: signals
 
 ---
 Branch promotion is a relic of slow, manual software delivery.

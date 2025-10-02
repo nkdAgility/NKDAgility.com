@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: yn8SQ53TMaP
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: yn8SQ53TMaP
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: agility-and-windows-10-upgrading-my-surface-pro-2
 aliases:
   - /resources/yn8SQ53TMaP
@@ -33,6 +33,8 @@ Watermarks:
   description: 2025-05-12T14:21:11Z
   tldr: 2025-08-07T13:27:17Z
   short_title: 2025-08-07T13:27:18Z
+ResourceId: yn8SQ53TMaP
+ResourceType: blog
 ResourceImportId: 10746
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: sMKQG6tzQYS
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: sMKQG6tzQYS
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: fbi-launched-outdated-criminal-records-system-in-1995
 aliases:
   - /resources/sMKQG6tzQYS
@@ -21,7 +21,7 @@ source: LinkedIn
 layout: signal
 concepts: []
 categories:
-  - Uncategorized
+  - Product Development
 tags:
   - Software Development
   - Market Adaptability
@@ -40,6 +40,8 @@ Watermarks:
   description: 2025-06-17T17:50:42Z
   short_title: 2025-07-07T16:43:41Z
   tldr: 2025-08-07T12:11:38Z
+ResourceId: sMKQG6tzQYS
+ResourceType: signals
 
 ---
 In 1995, the FBI launched a criminal records system that was obsolete the day it shipped. It used green screens while Windows 95 was on the shelves.

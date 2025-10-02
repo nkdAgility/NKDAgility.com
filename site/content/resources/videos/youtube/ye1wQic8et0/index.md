@@ -5,16 +5,15 @@ description: Explores how committees can delay decision-making, reduce agility, 
 tldr: Committees often slow down decision-making and stall teams, leading to missed business opportunities and delayed time to market. Empowering teams to make decisions and adopting modern collaboration tools can significantly improve speed, accountability, and innovation. Review your current processes and consider reducing committee involvement to stay competitive and agile.
 date: 2023-10-02T07:00:33Z
 lastmod: 2023-10-02T07:00:33Z
-weight: 735
+weight: 350
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: monthly
-ResourceId: ye1wQic8et0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ye1wQic8et0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
 aliases:
   - /resources/ye1wQic8et0
@@ -31,6 +30,7 @@ layout: video
 concepts: []
 categories:
   - Product Development
+  - Technical Leadership
 tags:
   - Pragmatic Thinking
   - Time to Market
@@ -41,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:09:06Z
   short_title: 2025-07-07T17:52:39Z
   tldr: 2025-08-07T12:59:06Z
+ResourceId: ye1wQic8et0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ye1wQic8et0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg

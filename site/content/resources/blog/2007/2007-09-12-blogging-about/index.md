@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: mYU-gZ_KBo3
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: mYU-gZ_KBo3
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: blogging-about
 aliases:
   - /resources/mYU-gZ_KBo3
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:12Z
+ResourceId: mYU-gZ_KBo3
+ResourceType: blog
 ResourceImportId: 314
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: X4QzM00onL4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: X4QzM00onL4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: taming-the-chaos-how-to-align-your-agile-team-for-success
 aliases:
   - /resources/X4QzM00onL4
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:08:08Z
   short_title: 2025-07-07T17:51:56Z
   tldr: 2025-08-07T12:57:26Z
+ResourceId: X4QzM00onL4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: X4QzM00onL4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/X4QzM00onL4/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Rb281yyb0Cl
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Rb281yyb0Cl
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: windows-7-rc
 aliases:
   - /resources/Rb281yyb0Cl
@@ -27,6 +27,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:24:12Z
+ResourceId: Rb281yyb0Cl
+ResourceType: blog
 ResourceImportId: 128
 creator: Martin Hinshelwood
 resourceTypes: blog

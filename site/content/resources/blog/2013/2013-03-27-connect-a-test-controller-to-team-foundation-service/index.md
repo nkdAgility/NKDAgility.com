@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: D5NhnVpHAwD
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: D5NhnVpHAwD
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: connect-a-test-controller-to-team-foundation-service
 aliases:
   - /resources/D5NhnVpHAwD
@@ -27,6 +27,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:43Z
+ResourceId: D5NhnVpHAwD
+ResourceType: blog
 ResourceImportId: 9348
 creator: Martin Hinshelwood
 resourceTypes: blog

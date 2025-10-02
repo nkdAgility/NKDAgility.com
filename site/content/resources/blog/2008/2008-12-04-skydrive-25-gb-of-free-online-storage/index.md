@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: MxQH0mzNWaj
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: MxQH0mzNWaj
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: skydrive-25-gb-of-free-online-storage
 aliases:
   - /resources/MxQH0mzNWaj
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:10Z
+ResourceId: MxQH0mzNWaj
+ResourceType: blog
 ResourceImportId: 157
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -11,10 +11,10 @@ sitemap:
   priority: 0.5
   changefreq: weekly
 author: MrHinsh
-ResourceId: A1Gq5rHDvzC
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: A1Gq5rHDvzC
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: july-2023-nkdagility-introducing-nkd-agility's-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century
 aliases:
   - /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
@@ -36,6 +36,8 @@ Watermarks:
   description: 2025-05-07T13:11:09Z
   short_title: 2025-07-07T17:54:16Z
   tldr: 2025-08-07T13:02:42Z
+ResourceId: A1Gq5rHDvzC
+ResourceType: newsletters
 resourceTypes: newsletter
 
 ---

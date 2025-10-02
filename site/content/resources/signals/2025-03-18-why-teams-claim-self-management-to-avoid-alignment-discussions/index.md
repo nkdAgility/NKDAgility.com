@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: UUh2trdq4D1
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: UUh2trdq4D1
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: why-teams-claim-self-management-to-avoid-alignment-discussions
 aliases:
   - /resources/UUh2trdq4D1
@@ -51,6 +51,8 @@ Watermarks:
   description: 2025-05-16T15:56:04Z
   short_title: 2025-07-07T16:45:21Z
   tldr: 2025-08-07T12:34:41Z
+ResourceId: UUh2trdq4D1
+ResourceType: signals
 
 ---
 Some teams love to wave the "we’re self-managing" flag whenever alignment is discussed. But let’s be real—autonomy doesn’t mean doing whatever you want, whenever you want. It means taking ownership within a shared framework.

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: pVQvZ2ZSyk-
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: pVQvZ2ZSyk-
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: studying-for-exam-70-536-mcts-application-development-foundation
 aliases:
   - /resources/pVQvZ2ZSyk-
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:31Z
+ResourceId: pVQvZ2ZSyk-
+ResourceType: blog
 ResourceImportId: 404
 creator: Martin Hinshelwood
 resourceTypes: blog

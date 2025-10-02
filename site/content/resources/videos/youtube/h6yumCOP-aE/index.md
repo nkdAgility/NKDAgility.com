@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: h6yumCOP-aE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: h6yumCOP-aE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 3-best-ways-to-wreck-kanban-don't-have-a-working-agreement
 aliases:
   - /resources/h6yumCOP-aE
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:05:31Z
   short_title: 2025-07-07T17:49:33Z
   tldr: 2025-08-07T12:52:16Z
+ResourceId: h6yumCOP-aE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: h6yumCOP-aE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/h6yumCOP-aE/maxresdefault.jpg

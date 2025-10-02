@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: H8CRQrD64JY
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: H8CRQrD64JY
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: why-using-a-blocked-column-in-azure-devops-is-a-mistake
 aliases:
   - /resources/H8CRQrD64JY
@@ -47,6 +47,8 @@ Watermarks:
   description: 2025-05-16T15:56:50Z
   short_title: 2025-07-07T17:46:18Z
   tldr: 2025-08-07T12:36:08Z
+ResourceId: H8CRQrD64JY
+ResourceType: signals
 
 ---
 If your team is using a “Blocked” column in Azure DevOps, you’re probably doing it wrong.

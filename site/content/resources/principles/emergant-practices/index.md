@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: _MbvqRG_XNM
-ResourceImport: false
-ResourceType: principles
-ResourceContentOrigin: Human
+ItemId: _MbvqRG_XNM
+ItemType: principles
+ItemKind: resource
+ItemContentOrigin: Human
 slug: emergant-practices
 aliases:
   - /learn/agile-delivery-kit/first-principals/emergant-practices/
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-07T12:58:23Z
   short_title: 2025-07-07T17:48:02Z
   tldr: 2025-08-07T12:45:55Z
+ResourceId: _MbvqRG_XNM
+ResourceType: principles
 resourceTypes: principles
 creator: Martin Hinshelwood
 draft: true

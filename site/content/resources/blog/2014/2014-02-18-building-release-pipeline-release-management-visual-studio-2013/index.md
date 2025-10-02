@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: Q7mjPfg5d4Q
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Q7mjPfg5d4Q
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: building-a-release-pipeline-with-release-management-with-visual-studio-2013
 aliases:
   - /resources/Q7mjPfg5d4Q
@@ -44,6 +44,8 @@ tags:
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-12T14:22:18Z
+ResourceId: Q7mjPfg5d4Q
+ResourceType: blog
 ResourceImportId: 10372
 creator: Martin Hinshelwood
 resourceTypes: blog

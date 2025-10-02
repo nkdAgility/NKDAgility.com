@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: AavdFKxGJg9
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: AavdFKxGJg9
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: what-is-the-tfs-automation-platform
 aliases:
   - /resources/AavdFKxGJg9
@@ -28,6 +28,8 @@ tags:
   - Internal Developer Platform
 Watermarks:
   description: 2025-05-13T15:10:51Z
+ResourceId: AavdFKxGJg9
+ResourceType: blog
 ResourceImportId: 3373
 creator: Martin Hinshelwood
 resourceTypes: blog

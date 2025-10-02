@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: vjwgG3uy0lI
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: vjwgG3uy0lI
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
 aliases:
   - /resources/vjwgG3uy0lI
@@ -31,6 +31,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:05:58Z
+ResourceId: vjwgG3uy0lI
+ResourceType: blog
 ResourceImportId: 9911
 creator: Martin Hinshelwood
 resourceTypes: blog

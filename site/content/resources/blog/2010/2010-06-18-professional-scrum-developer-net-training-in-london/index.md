@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: 3N171wqPaTf
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 3N171wqPaTf
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: professional-scrum-developer-net-training-in-london
 aliases:
   - /resources/blog/professional-scrum-developer-.net-training-in-london
@@ -46,6 +46,8 @@ tags:
   - Technical Excellence
 Watermarks:
   description: 2025-05-13T15:21:48Z
+ResourceId: 3N171wqPaTf
+ResourceType: blog
 ResourceImportId: 37
 creator: Martin Hinshelwood
 resourceTypes: blog

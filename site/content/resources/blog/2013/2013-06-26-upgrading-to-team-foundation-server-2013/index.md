@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Ni5lk4V30pb
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Ni5lk4V30pb
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-to-team-foundation-server-2013
 aliases:
   - /resources/Ni5lk4V30pb
@@ -30,6 +30,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:06:01Z
+ResourceId: Ni5lk4V30pb
+ResourceType: blog
 ResourceImportId: 9907
 creator: Martin Hinshelwood
 resourceTypes: blog

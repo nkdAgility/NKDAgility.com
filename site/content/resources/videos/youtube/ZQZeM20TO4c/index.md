@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: ZQZeM20TO4c
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ZQZeM20TO4c
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: agile-leader-versus-traditional-manager
 aliases:
   - /resources/ZQZeM20TO4c
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:12:48Z
   short_title: 2025-07-07T17:55:33Z
   tldr: 2025-08-07T13:05:43Z
+ResourceId: ZQZeM20TO4c
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ZQZeM20TO4c
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZQZeM20TO4c/maxresdefault.jpg

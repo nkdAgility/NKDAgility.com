@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: ICuFIMyhnwj
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: ICuFIMyhnwj
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: story-points-velocity-are-a-sign-of-an-unsuccessful-team
 aliases:
   - /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
@@ -44,6 +44,8 @@ Watermarks:
   description: 2025-05-07T13:15:06Z
   short_title: 2025-07-07T17:57:38Z
   tldr: 2025-08-07T13:10:31Z
+ResourceId: ICuFIMyhnwj
+ResourceType: blog
 ResourceImportId: 44532
 AudioNative: true
 creator: Martin Hinshelwood

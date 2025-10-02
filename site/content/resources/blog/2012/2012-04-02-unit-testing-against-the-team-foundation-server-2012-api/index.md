@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: eizpccdEtUL
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: eizpccdEtUL
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: unit-testing-against-the-team-foundation-server-2012-api
 aliases:
   - /resources/eizpccdEtUL
@@ -30,6 +30,8 @@ tags:
   - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:09:04Z
+ResourceId: eizpccdEtUL
+ResourceType: blog
 ResourceImportId: 5112
 creator: Martin Hinshelwood
 resourceTypes: blog

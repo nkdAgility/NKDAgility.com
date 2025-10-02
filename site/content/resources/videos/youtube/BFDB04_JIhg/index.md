@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: BFDB04_JIhg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: BFDB04_JIhg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: understanding-kanban-a-tool-for-transparency-and-continuous-improvement
 aliases:
   - /resources/BFDB04_JIhg
@@ -37,6 +36,7 @@ categories:
 tags:
   - Operational Practices
   - Transparency
+  - Product Delivery
   - Continuous Improvement
   - Software Development
   - Agile Frameworks
@@ -48,6 +48,9 @@ Watermarks:
   description: 2025-05-07T13:02:49Z
   short_title: 2025-07-07T17:49:11Z
   tldr: 2025-08-07T12:51:21Z
+ResourceId: BFDB04_JIhg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: BFDB04_JIhg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BFDB04_JIhg/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: PZa77csy5r8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: PZa77csy5r8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team
 aliases:
   - /resources/PZa77csy5r8
@@ -40,6 +39,7 @@ Watermarks:
   description: 2025-05-07T12:57:01Z
   short_title: 2025-07-07T17:47:22Z
   tldr: 2025-08-07T12:41:30Z
+ResourceImportSource: Youtube
 videoId: PZa77csy5r8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/PZa77csy5r8/maxresdefault.jpg
@@ -47,6 +47,8 @@ duration: 459
 resourceTypes:
   - video
 isShort: false
+ResourceId: PZa77csy5r8
+ResourceType: videos
 
 ---
 [Technical debt]({{< ref "/tags/technical-debt" >}}) is a term that often gets thrown around in the tech community, but what does it really mean? As someone who has navigated the complexities of [software development]({{< ref "/tags/software-development" >}}) for years, I can tell you that technical debt is a significant challenge for organisations. In simple terms, technical debt refers to the future costs incurred when you or your team opt for quick, short-term solutions instead of more robust, long-term approaches. 

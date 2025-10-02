@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: oXATaMW00Ct
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: oXATaMW00Ct
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2010-overview-a-day-in-the-life-of
 aliases:
   - /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of-...-plan-code-test
@@ -33,6 +33,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:44Z
+ResourceId: oXATaMW00Ct
+ResourceType: blog
 ResourceImportId: 4142
 creator: Martin Hinshelwood
 resourceTypes: blog

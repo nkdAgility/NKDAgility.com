@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: 2ASLFX2i9_g
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 2ASLFX2i9_g
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 7-deadly-sins-of-agile-gluttony
 aliases:
   - /resources/2ASLFX2i9_g
@@ -51,6 +50,9 @@ Watermarks:
   description: 2025-05-07T13:08:54Z
   short_title: 2025-07-07T17:52:32Z
   tldr: 2025-08-07T12:58:50Z
+ResourceId: 2ASLFX2i9_g
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 2ASLFX2i9_g
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2ASLFX2i9_g/maxresdefault.jpg

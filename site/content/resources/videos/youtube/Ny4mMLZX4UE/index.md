@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: Ny4mMLZX4UE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: Ny4mMLZX4UE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: stop-testing-quality-in-how-shifting-left-builds-better-software-faster
 aliases:
   - /resources/Ny4mMLZX4UE
@@ -50,6 +49,7 @@ Watermarks:
   description: 2025-07-24T15:09:42Z
   short_title: 2025-07-24T15:09:43Z
   tldr: 2025-07-30T23:14:39Z
+ResourceImportSource: Youtube
 videoId: Ny4mMLZX4UE
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/Ny4mMLZX4UE/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLCWsJzPr_lUtXaQb9o83cYJ2ydRkw
@@ -57,6 +57,8 @@ duration: 605
 resourceTypes:
   - video
 isShort: false
+ResourceId: Ny4mMLZX4UE
+ResourceType: videos
 
 ---
 In my experience working with organisations of all shapes and sizes, I see a recurring pattern that undermines engineering excellence: teams are still testing quality in, rather than building it in from the start. This isn’t just a technical quirk—it’s a fundamental flaw that ripples through your entire delivery process, inflating costs, slowing feedback, and eroding trust in your product.

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: dg9tlise6Bd
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: dg9tlise6Bd
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 aliases:
   - /resources/dg9tlise6Bd
@@ -28,6 +28,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:22:43Z
+ResourceId: dg9tlise6Bd
+ResourceType: blog
 ResourceImportId: 70
 creator: Martin Hinshelwood
 resourceTypes: blog

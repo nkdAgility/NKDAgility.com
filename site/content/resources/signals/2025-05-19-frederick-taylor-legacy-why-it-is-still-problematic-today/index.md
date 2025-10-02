@@ -10,16 +10,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: a8GPqn01alD
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: a8GPqn01alD
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: frederick-taylor-legacy-why-it-is-still-problematic-today
 aliases:
   - /resources/a8GPqn01alD
 source: LinkedIn
 layout: signal
-concepts: []
+concepts:
+  - Philosophy
 categories:
   - Uncategorized
 tags:
@@ -39,6 +40,8 @@ Watermarks:
   description: 2025-05-23T23:53:45Z
   short_title: 2025-07-07T16:44:05Z
   tldr: 2025-08-07T12:32:01Z
+ResourceId: a8GPqn01alD
+ResourceType: signals
 
 ---
 Frederick Taylor’s legacy is still alive—and it’s not a flattering one.

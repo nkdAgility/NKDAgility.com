@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: XEtys2DOkKU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: XEtys2DOkKU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-cloud-migration-how-to-leverage-microsoft-s-tool-for-a-seamless-transition
 aliases:
   - /resources/XEtys2DOkKU
@@ -33,11 +32,15 @@ concepts:
   - Tool
 categories:
   - Uncategorized
-tags: []
+tags:
+  - Miscellaneous
 Watermarks:
   description: 2025-05-07T12:57:43Z
   short_title: 2025-07-07T17:47:57Z
   tldr: 2025-08-07T12:42:53Z
+ResourceId: XEtys2DOkKU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: XEtys2DOkKU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XEtys2DOkKU/maxresdefault.jpg

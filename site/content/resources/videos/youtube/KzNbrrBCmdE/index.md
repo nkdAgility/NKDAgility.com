@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: KzNbrrBCmdE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: KzNbrrBCmdE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success
 aliases:
   - /resources/KzNbrrBCmdE
@@ -32,11 +31,15 @@ concepts: []
 categories:
   - Product Development
 tags:
+  - Personal
   - Software Development
 Watermarks:
   description: 2025-05-07T12:57:41Z
   short_title: 2025-07-07T17:47:55Z
   tldr: 2025-08-07T12:42:51Z
+ResourceId: KzNbrrBCmdE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: KzNbrrBCmdE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KzNbrrBCmdE/maxresdefault.jpg

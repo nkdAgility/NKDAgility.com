@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: YBExXvBtNAN
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: YBExXvBtNAN
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 aliases:
   - /resources/YBExXvBtNAN
@@ -29,6 +29,8 @@ tags:
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:22:37Z
+ResourceId: YBExXvBtNAN
+ResourceType: blog
 ResourceImportId: 66
 creator: Martin Hinshelwood
 resourceTypes: blog

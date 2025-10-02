@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: uCyHR_eU22A
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: uCyHR_eU22A
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
 aliases:
   - /resources/uCyHR_eU22A
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:12:04Z
   short_title: 2025-07-07T17:54:58Z
   tldr: 2025-08-07T13:04:34Z
+ResourceId: uCyHR_eU22A
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: uCyHR_eU22A
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uCyHR_eU22A/maxresdefault.jpg

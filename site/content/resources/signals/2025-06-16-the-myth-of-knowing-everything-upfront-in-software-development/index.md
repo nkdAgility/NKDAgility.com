@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: Zd6dcWwXJc7
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: Zd6dcWwXJc7
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: the-myth-of-knowing-everything-upfront-in-software-development
 aliases:
   - /resources/Zd6dcWwXJc7
@@ -30,12 +30,11 @@ tags:
   - Professional Scrum
   - Agile Product Management
   - Value Delivery
-  - Continuous Learning
-  - Empirical Process Control
   - Agile Values and Principles
   - Social Technologies
-  - Product Delivery
   - Continuous Improvement
+  - Empirical Process Control
+  - Continuous Learning
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7340400460090036224
@@ -51,6 +50,8 @@ Watermarks:
   description: 2025-06-17T17:49:59Z
   short_title: 2025-07-07T16:43:26Z
   tldr: 2025-08-07T12:11:03Z
+ResourceId: Zd6dcWwXJc7
+ResourceType: signals
 
 ---
 One of the biggest fallacies in software is the belief that you can know everything upfront. That’s why some teams try to carve out “Design Sprints” to feel more in control.

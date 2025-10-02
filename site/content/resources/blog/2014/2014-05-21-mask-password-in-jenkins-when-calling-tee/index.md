@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: rG_NN58PQym
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: rG_NN58PQym
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: mask-password-in-jenkins-when-calling-tee
 aliases:
   - /resources/rG_NN58PQym
@@ -29,6 +29,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:21:46Z
+ResourceId: rG_NN58PQym
+ResourceType: blog
 ResourceImportId: 10538
 creator: Martin Hinshelwood
 resourceTypes: blog

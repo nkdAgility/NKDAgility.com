@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: j-mPdGP7BiU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: j-mPdGP7BiU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-product-development-from-assumptions-to-hypotheses
 aliases:
   - /resources/j-mPdGP7BiU
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:02:14Z
   short_title: 2025-07-07T17:48:39Z
   tldr: 2025-08-07T12:50:00Z
+ResourceId: j-mPdGP7BiU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: j-mPdGP7BiU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/j-mPdGP7BiU/maxresdefault.jpg

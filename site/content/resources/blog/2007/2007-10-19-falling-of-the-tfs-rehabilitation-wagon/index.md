@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: xhOqFwLeKh2
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: xhOqFwLeKh2
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: falling-of-the-tfs-rehabilitation-wagon
 aliases:
   - /resources/xhOqFwLeKh2
@@ -25,6 +25,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:49Z
+ResourceId: xhOqFwLeKh2
+ResourceType: blog
 ResourceImportId: 298
 creator: Martin Hinshelwood
 resourceTypes: blog

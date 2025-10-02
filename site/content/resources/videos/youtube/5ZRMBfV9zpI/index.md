@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: 5ZRMBfV9zpI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 5ZRMBfV9zpI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
 aliases:
   - /resources/5ZRMBfV9zpI
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:14:48Z
   short_title: 2025-07-07T17:57:24Z
   tldr: 2025-08-07T13:09:51Z
+ResourceId: 5ZRMBfV9zpI
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 5ZRMBfV9zpI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5ZRMBfV9zpI/maxresdefault.jpg

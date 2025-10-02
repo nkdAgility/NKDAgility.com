@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: -tlSlpyeb9A
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: -tlSlpyeb9A
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: how-to-evolve-your-definition-of-done-start-small-grow-smarter-and-build-lasting-momentum
 aliases:
   - /resources/-tlSlpyeb9A
@@ -35,11 +34,11 @@ categories:
   - Engineering Excellence
   - Product Development
 tags:
-  - Software Development
   - Definition of Done
+  - Software Development
+  - Pragmatic Thinking
   - Product Delivery
   - Operational Practices
-  - Pragmatic Thinking
   - Engineering Practices
   - Value Delivery
   - Technical Mastery
@@ -54,6 +53,7 @@ Watermarks:
   description: 2025-05-07T19:27:32Z
   short_title: 2025-07-07T16:43:21Z
   tldr: 2025-08-07T12:10:51Z
+ResourceImportSource: Youtube
 videoId: -tlSlpyeb9A
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/-tlSlpyeb9A/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLDVlokmV4qRCVie6V8-tGPsWcPsGA
@@ -61,6 +61,8 @@ duration: 55
 resourceTypes:
   - video
 isShort: true
+ResourceId: -tlSlpyeb9A
+ResourceType: videos
 
 ---
 Start small, grow smarter. That’s a phrase I find myself repeating often, especially when I’m working with teams who are wrestling with the elusive “perfect” Definition of Done. There’s a common misconception that you need to have it all figured out from day one—that your Definition of Done must be comprehensive, bulletproof, and all-encompassing before you can even begin. But in reality, nothing could be further from the truth.

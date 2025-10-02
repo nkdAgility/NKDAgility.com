@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: T-K7HC-ZGjM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: T-K7HC-ZGjM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-a-sprint-backlog
 aliases:
   - /resources/T-K7HC-ZGjM
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:12:08Z
   short_title: 2025-07-07T17:55:00Z
   tldr: 2025-08-07T13:04:37Z
+ResourceId: T-K7HC-ZGjM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: T-K7HC-ZGjM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/T-K7HC-ZGjM/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: yCyjGBNaRqI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: yCyjGBNaRqI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 aliases:
   - /resources/yCyjGBNaRqI
@@ -45,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:02:53Z
   short_title: 2025-07-07T17:49:13Z
   tldr: 2025-08-07T12:51:27Z
+ResourceId: yCyjGBNaRqI
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: yCyjGBNaRqI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg

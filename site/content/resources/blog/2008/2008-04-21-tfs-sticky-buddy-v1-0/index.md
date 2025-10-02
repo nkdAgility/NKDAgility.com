@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: aLPelZ6_wNc
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: aLPelZ6_wNc
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-sticky-buddy-v1-0
 aliases:
   - /resources/blog/tfs-sticky-buddy-v1.0
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:17Z
+ResourceId: aLPelZ6_wNc
+ResourceType: blog
 ResourceImportId: 236
 creator: Martin Hinshelwood
 resourceTypes: blog

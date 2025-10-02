@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: LdmZbBlwgM-
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: LdmZbBlwgM-
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: can-the-definition-of-done-change-per-sprint
 aliases:
   - /resources/LdmZbBlwgM-
@@ -49,6 +49,8 @@ Watermarks:
   description: 2025-05-07T13:16:06Z
   short_title: 2025-07-07T17:58:24Z
   tldr: 2025-08-07T13:12:53Z
+ResourceId: LdmZbBlwgM-
+ResourceType: blog
 ResourceImportId: 40168
 creator: Martin Hinshelwood
 resourceTypes: blog

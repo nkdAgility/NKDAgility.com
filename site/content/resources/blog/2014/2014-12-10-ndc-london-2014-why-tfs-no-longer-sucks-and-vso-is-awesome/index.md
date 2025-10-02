@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: Lz8JHBC_e2Z
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Lz8JHBC_e2Z
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
 aliases:
   - /resources/Lz8JHBC_e2Z
@@ -33,6 +33,8 @@ Watermarks:
   description: 2025-05-12T14:20:31Z
   tldr: 2025-08-07T13:26:14Z
   short_title: 2025-08-07T13:26:15Z
+ResourceId: Lz8JHBC_e2Z
+ResourceType: blog
 ResourceImportId: 10980
 creator: Martin Hinshelwood
 resourceTypes: blog

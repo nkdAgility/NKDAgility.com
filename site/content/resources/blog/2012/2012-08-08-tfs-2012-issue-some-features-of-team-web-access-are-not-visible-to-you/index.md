@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: bqwr6oBwO6C
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: bqwr6oBwO6C
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 aliases:
   - /resources/bqwr6oBwO6C
@@ -30,6 +30,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:08:19Z
+ResourceId: bqwr6oBwO6C
+ResourceType: blog
 ResourceImportId: 7094
 creator: Martin Hinshelwood
 resourceTypes: blog

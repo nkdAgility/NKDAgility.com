@@ -5,16 +5,15 @@ description: Explores how digital whiteboards boost agile team collaboration, en
 tldr: Digital whiteboards are essential for effective team collaboration, especially in remote or hybrid agile environments, as they boost engagement, visual communication, and flexibility. Choosing the right tool, setting clear objectives, encouraging participation, and keeping sessions organised are key to maximising their value. Development managers should adopt and actively leverage digital whiteboards to enhance team alignment and productivity.
 date: 2023-09-19T07:00:21Z
 lastmod: 2023-09-19T07:00:21Z
-weight: 840
+weight: 510
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
-ResourceId: rbFTob3DdjE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: rbFTob3DdjE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration
 aliases:
   - /resources/rbFTob3DdjE
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:09:27Z
   short_title: 2025-07-07T17:53:01Z
   tldr: 2025-08-07T12:59:56Z
+ResourceId: rbFTob3DdjE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: rbFTob3DdjE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rbFTob3DdjE/maxresdefault.jpg

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: utAzlIGxj7O
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: utAzlIGxj7O
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: stop-writing-business-logic-in-stored-procedures
 aliases:
   - /resources/utAzlIGxj7O
@@ -33,6 +33,8 @@ Watermarks:
   description: 2025-05-07T12:49:00Z
   short_title: 2025-07-07T16:43:23Z
   tldr: 2025-08-07T12:10:54Z
+ResourceId: utAzlIGxj7O
+ResourceType: blog
 
 ---
 Over the years, I've encountered many companies that have maintained their business logic in stored procedures, but the practice of doing so has died out, for good reasons ill hilight below. However, many codebases have been around for 10+ years, and may still have large amounts of business logic in them.

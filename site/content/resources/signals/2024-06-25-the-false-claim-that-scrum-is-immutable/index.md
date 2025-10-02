@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: 0iq-XTDNbfx
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: Hybrid
+ItemId: 0iq-XTDNbfx
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: the-false-claim-that-scrum-is-immutable
 aliases:
   - /resources/nTipEJck6ez
@@ -27,7 +27,9 @@ concepts:
 categories:
   - Scrum
   - Product Development
-tags: []
+tags:
+  - Agile Frameworks
+  - Transparency
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
@@ -55,6 +57,8 @@ Watermarks:
   description: 2025-05-07T13:02:48Z
   short_title: 2025-07-07T17:49:10Z
   tldr: 2025-08-07T12:51:19Z
+ResourceId: 0iq-XTDNbfx
+ResourceType: signals
 resourceTypes:
   - signal
 url: /resources/signals/:slug

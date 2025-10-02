@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: c_gS0nlQD9E
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: c_gS0nlQD9E
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: live-site-culture-site-reliability-engineering
 aliases:
   - /resources/c_gS0nlQD9E
@@ -37,6 +37,8 @@ Watermarks:
   description: 2025-05-07T13:15:38Z
   short_title: 2025-07-07T17:58:01Z
   tldr: 2025-08-07T13:11:32Z
+ResourceId: c_gS0nlQD9E
+ResourceType: blog
 ResourceImportId: 44414
 creator: Martin Hinshelwood
 resourceTypes: blog

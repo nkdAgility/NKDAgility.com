@@ -12,10 +12,10 @@ sitemap:
   changefreq: weekly
 author:
   - Ken Schwaber
-ResourceId: iC8MlA3TE7S
-ResourceImport: false
-ResourceType: guides
-ResourceContentOrigin: Human
+ItemId: iC8MlA3TE7S
+ItemType: guides
+ItemKind: resource
+ItemContentOrigin: Human
 slug: nexus-guide
 aliases:
   - guides/Nexus-Framework/
@@ -57,6 +57,8 @@ Watermarks:
   description: 2025-05-07T12:58:25Z
   short_title: 2025-07-07T16:40:33Z
   tldr: 2025-08-07T12:46:29Z
+ResourceId: iC8MlA3TE7S
+ResourceType: guides
 resourceTypes: guide
 references:
   - title: The 2020 Scrum Guide

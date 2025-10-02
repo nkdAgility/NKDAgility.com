@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: DgJV3wMMjWr
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: DgJV3wMMjWr
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 aliases:
   - /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
@@ -39,6 +39,8 @@ Watermarks:
   description: 2025-05-07T13:08:42Z
   short_title: 2025-07-07T17:52:22Z
   tldr: 2025-08-07T12:58:26Z
+ResourceId: DgJV3wMMjWr
+ResourceType: blog
 ResourceImportId: 50309
 AudioNative: true
 creator: Martin Hinshelwood

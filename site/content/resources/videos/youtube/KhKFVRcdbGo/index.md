@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: KhKFVRcdbGo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: KhKFVRcdbGo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
 aliases:
   - /resources/KhKFVRcdbGo
@@ -35,6 +34,7 @@ Watermarks:
   description: 2025-05-07T12:56:35Z
   short_title: 2025-07-07T17:47:04Z
   tldr: 2025-08-07T12:40:43Z
+ResourceImportSource: Youtube
 videoId: KhKFVRcdbGo
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/KhKFVRcdbGo/maxresdefault.jpg?sqp=CKzMp7oG&rs=AOn4CLCRuKU6K3gPE5C6uZZipWu40oSNPg
@@ -42,6 +42,8 @@ duration: 150
 resourceTypes:
   - video
 isShort: false
+ResourceId: KhKFVRcdbGo
+ResourceType: videos
 
 ---
 Creating a culture of [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) within an organisation is a topic that often stirs up a fair bit of debate. I find myself grappling with the concept of culture itself. After all, culture is essentially the embodiment of what exists within an organisation. It’s like the shadow on the wall; to change the shadow, we must first alter the shape of the object casting it. This is where Naked Agility comes into play.

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: qw2arcsyX7a
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: qw2arcsyX7a
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: calling-an-object-method-in-a-data-trigger
 aliases:
   - /resources/qw2arcsyX7a
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T16:23:33Z
+ResourceId: qw2arcsyX7a
+ResourceType: blog
 ResourceImportId: 205
 creator: Martin Hinshelwood
 resourceTypes: blog

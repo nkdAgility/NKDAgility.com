@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: Lj-8s76yXLP
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: Lj-8s76yXLP
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: would-you-hire-a-junior-ciso-a-junior-financial-director
 aliases:
   - /resources/Lj-8s76yXLP
@@ -45,6 +45,8 @@ Watermarks:
   description: 2025-05-16T15:56:54Z
   short_title: 2025-07-07T17:46:26Z
   tldr: 2025-08-07T12:36:35Z
+ResourceId: Lj-8s76yXLP
+ResourceType: signals
 
 ---
 Would you hire a Junior CISO? A Junior Financial Director?

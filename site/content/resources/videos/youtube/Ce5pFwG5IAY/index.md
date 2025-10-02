@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: Ce5pFwG5IAY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Ce5pFwG5IAY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 5-tools-that-scrum-masters-love-part-1
 aliases:
   - /resources/Ce5pFwG5IAY
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:09:31Z
   short_title: 2025-07-07T17:53:04Z
   tldr: 2025-08-07T13:00:01Z
+ResourceId: Ce5pFwG5IAY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Ce5pFwG5IAY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Ce5pFwG5IAY/maxresdefault.jpg

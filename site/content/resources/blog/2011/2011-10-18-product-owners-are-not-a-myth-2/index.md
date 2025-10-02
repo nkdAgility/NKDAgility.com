@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: pgJ89XqQPZe
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: pgJ89XqQPZe
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: product-owners-are-not-a-myth
 aliases:
   - /resources/pgJ89XqQPZe
@@ -35,6 +35,8 @@ tags:
   - Scrum Team
 Watermarks:
   description: 2025-05-13T15:10:03Z
+ResourceId: pgJ89XqQPZe
+ResourceType: blog
 ResourceImportId: 3909
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: HjumLIMTefA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: HjumLIMTefA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-power-of-immersive-learning-in-agile-training
 aliases:
   - /resources/HjumLIMTefA
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:06:00Z
   short_title: 2025-07-07T17:49:57Z
   tldr: 2025-08-07T12:53:16Z
+ResourceId: HjumLIMTefA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: HjumLIMTefA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/HjumLIMTefA/maxresdefault.jpg

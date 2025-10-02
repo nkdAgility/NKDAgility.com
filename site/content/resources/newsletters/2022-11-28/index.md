@@ -11,10 +11,10 @@ sitemap:
   priority: 0.3
   changefreq: weekly
 author: MrHinsh
-ResourceId: Kn3i3yGquon
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: Kn3i3yGquon
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: futureproof-yourself-with-skills-capabilities-and-certifications-that-companies-care-about
 aliases:
   - /newsletters/newsletter-2022/
@@ -33,6 +33,8 @@ Watermarks:
   description: 2025-05-07T13:14:40Z
   short_title: 2025-07-07T17:57:17Z
   tldr: 2025-08-07T13:09:35Z
+ResourceId: Kn3i3yGquon
+ResourceType: newsletters
 preview: naked-agility-technically-agile-1280×720-December2022.jpg
 resourceTypes: newsletter
 

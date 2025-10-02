@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: mKq16PgA7Ks
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: mKq16PgA7Ks
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: mapping-your-windows-special-folders-to-onedrive-for-business-ultimate-backup
 aliases:
   - /resources/mKq16PgA7Ks
@@ -36,6 +36,8 @@ Watermarks:
   description: 2025-05-07T13:16:48Z
   short_title: 2025-07-07T17:59:00Z
   tldr: 2025-08-07T13:24:19Z
+ResourceId: mKq16PgA7Ks
+ResourceType: blog
 ResourceImportId: 11430
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: BPWVrzpIhxt
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: BPWVrzpIhxt
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: can-i-run-two-versions-of-microsoft-project-side-by-side
 aliases:
   - /resources/BPWVrzpIhxt
@@ -29,6 +29,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:11:09Z
+ResourceId: BPWVrzpIhxt
+ResourceType: blog
 ResourceImportId: 13
 creator: Martin Hinshelwood
 resourceTypes: blog

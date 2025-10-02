@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: elcSY_VSAVs
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: elcSY_VSAVs
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: reformat-your-css-on-the-fly
 aliases:
   - /resources/elcSY_VSAVs
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T16:21:50Z
+ResourceId: elcSY_VSAVs
+ResourceType: blog
 ResourceImportId: 142
 creator: Martin Hinshelwood
 resourceTypes: blog

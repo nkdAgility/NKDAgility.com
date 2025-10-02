@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: eBNUwJszXyE
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: eBNUwJszXyE
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: don-t-manage-dependencies-remove-them
 aliases:
   - /resources/eBNUwJszXyE
@@ -44,6 +44,8 @@ Watermarks:
   tldr: 2025-09-04T23:19:46Z
   short_title: 2025-09-04T23:19:48Z
 canvas: https://chatgpt.com/g/g-p-67780943691c819190b48140ff2d4fb9-blogposts/c/68b8ea46-f7b8-8321-97ab-3f498ce690a1
+ResourceId: eBNUwJszXyE
+ResourceType: blog
 
 ---
 _Answering the question: How do you manage dependencies?_

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: yCxWv4R5Eps
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: yCxWv4R5Eps
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: post-event-msdn-roadshow-glasgow
 aliases:
   - /resources/yCxWv4R5Eps
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:06Z
+ResourceId: yCxWv4R5Eps
+ResourceType: blog
 ResourceImportId: 228
 creator: Martin Hinshelwood
 resourceTypes: blog

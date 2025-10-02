@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: XOaAKJpfHIo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: XOaAKJpfHIo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-important-is-devops-in-continuous-delivery-of-value-to-customers
 aliases:
   - /resources/XOaAKJpfHIo
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:14:02Z
   short_title: 2025-07-07T17:56:44Z
   tldr: 2025-08-07T13:08:13Z
+ResourceId: XOaAKJpfHIo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: XOaAKJpfHIo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XOaAKJpfHIo/maxresdefault.jpg

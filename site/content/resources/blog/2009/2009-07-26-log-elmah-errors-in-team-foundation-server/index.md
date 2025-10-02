@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: FGTZV3eWHR9
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: FGTZV3eWHR9
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: log-elmah-errors-in-team-foundation-server
 aliases:
   - /resources/FGTZV3eWHR9
@@ -30,6 +30,8 @@ tags:
   - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:23:26Z
+ResourceId: FGTZV3eWHR9
+ResourceType: blog
 ResourceImportId: 97
 creator: Martin Hinshelwood
 resourceTypes: blog

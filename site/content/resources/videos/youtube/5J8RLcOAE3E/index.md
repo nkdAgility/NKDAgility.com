@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: 5J8RLcOAE3E
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 5J8RLcOAE3E
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: rethinking-continuous-delivery-why-best-practices-don't-exist-in-complex-environments
 aliases:
   - /resources/5J8RLcOAE3E
@@ -51,6 +50,7 @@ Watermarks:
   description: 2025-05-07T12:49:55Z
   short_title: 2025-07-07T17:46:56Z
   tldr: 2025-08-07T12:40:25Z
+ResourceImportSource: Youtube
 videoId: 5J8RLcOAE3E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg
@@ -58,6 +58,8 @@ duration: 891
 resourceTypes:
   - video
 isShort: false
+ResourceId: 5J8RLcOAE3E
+ResourceType: videos
 
 ---
 I often find myself in discussions about the best practices for enabling [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) within teams. It’s a question that comes up frequently, and I want to address it head-on: there are no best practices in complex environments. Best practices are a concept that applies to simple tasks in straightforward situations where a procedure can be followed consistently to achieve the same results. However, the world we operate in is anything but simple.

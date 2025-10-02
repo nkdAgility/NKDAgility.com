@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: 84KSaMagvy0
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 84KSaMagvy0
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: do-you-know-about-the-visual-studio-2010-database-projects-guidance
 aliases:
   - /resources/84KSaMagvy0
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:11:08Z
+ResourceId: 84KSaMagvy0
+ResourceType: blog
 ResourceImportId: 9896
 creator: Martin Hinshelwood
 resourceTypes: blog

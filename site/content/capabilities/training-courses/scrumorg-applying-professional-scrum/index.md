@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: _w2xgO2i3C9
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: _w2xgO2i3C9
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: applying-professional-scrum-aps-course-with-certification
-aliases:
-  - /resources/_w2xgO2i3C9
+aliases: []
 aliasesArchive:
   - /training-courses/professional-scrum-foundations
   - /training-courses/professional-scrum-foundations-psf-training
@@ -69,7 +68,7 @@ delivery_audiences:
   - Teams
 preview: naked-agility-Professional-Scrum-APS-Minecraft-1600x900-1.jpg
 previewIcon: Scrumorg-Course-APS 400x.png
-brandColour: "#c75129"
+brandColour: '#c75129'
 code: APS
 programCode: APS
 course_proficiencies:
@@ -140,9 +139,11 @@ roadmap:
     - /capabilities/training-courses/scrum-training-courses/professional-scrum-master/
     - /capabilities/training-courses/scrum-training-courses/professional-scrum-product-owner/
     - /capabilities/training-courses/scrum-training-courses/scrumorg-applying-professional-scrum-for-software-development/
-events:
----
+events: 
+ResourceId: _w2xgO2i3C9
+ResourceType: course
 
+---
 # Applying Professional Scrum (APS) Course with Certification
 
 **Course Code:** APS

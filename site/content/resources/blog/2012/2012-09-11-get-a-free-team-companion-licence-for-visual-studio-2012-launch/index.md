@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: kl2QemMiXN4
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: kl2QemMiXN4
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: get-a-free-team-companion-licence-for-visual-studio-2012-launch
 aliases:
   - /resources/kl2QemMiXN4
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:07:40Z
+ResourceId: kl2QemMiXN4
+ResourceType: blog
 ResourceImportId: 8715
 creator: Martin Hinshelwood
 resourceTypes: blog

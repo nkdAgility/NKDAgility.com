@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Y2XTGIaY_Os
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Y2XTGIaY_Os
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: powershell-tfs-2013-api-2-adding-to-a-globallist
 aliases:
   - /resources/Y2XTGIaY_Os
@@ -30,6 +30,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-12T14:22:58Z
+ResourceId: Y2XTGIaY_Os
+ResourceType: blog
 ResourceImportId: 10151
 creator: Martin Hinshelwood
 resourceTypes: blog

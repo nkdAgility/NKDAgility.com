@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: JB8YQfj4tUY
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: JB8YQfj4tUY
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: okr-practitioner
 aliases:
   - /resources/JB8YQfj4tUY
@@ -92,6 +92,8 @@ delivery_audiences:
 code: OMP
 course_proficiencies:
   - beginner
+ResourceId: JB8YQfj4tUY
+ResourceType: course
 
 ---
 # OKR Practitioner

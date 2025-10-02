@@ -5,16 +5,15 @@ description: Explores how project managers can shift from control to collaborati
 tldr: Project managers need to move from controlling every detail to supporting and collaborating with their teams to succeed with agile approaches. Embracing uncertainty, focusing on outcomes instead of outputs, and fostering open communication are key to this shift. To thrive, managers should let go of the need to have all the answers, encourage continuous learning, and be patient as their teams adapt.
 date: 2023-05-24T07:00:23Z
 lastmod: 2023-05-24T07:00:23Z
-weight: 815
+weight: 460
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
-ResourceId: QpK99s9uheM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: QpK99s9uheM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive
 aliases:
   - /resources/QpK99s9uheM
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:12:14Z
   short_title: 2025-07-07T17:55:06Z
   tldr: 2025-08-07T13:04:48Z
+ResourceId: QpK99s9uheM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: QpK99s9uheM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg

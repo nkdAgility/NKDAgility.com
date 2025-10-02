@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: hij5_aP_YN4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: hij5_aP_YN4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-power-of-community-becoming-an-awesome-agile-coach
 aliases:
   - /resources/hij5_aP_YN4
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:07:48Z
   short_title: 2025-07-07T17:51:42Z
   tldr: 2025-08-07T12:56:53Z
+ResourceId: hij5_aP_YN4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: hij5_aP_YN4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hij5_aP_YN4/maxresdefault.jpg

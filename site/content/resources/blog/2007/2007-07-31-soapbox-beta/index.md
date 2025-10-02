@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: pFTm6k2yWBc
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: pFTm6k2yWBc
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: soapbox-beta
 aliases:
   - /resources/pFTm6k2yWBc
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:13Z
+ResourceId: pFTm6k2yWBc
+ResourceType: blog
 ResourceImportId: 352
 creator: Martin Hinshelwood
 resourceTypes: blog

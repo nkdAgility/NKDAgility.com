@@ -5,16 +5,15 @@ description: Explores how immersive learning in product management blends practi
 tldr: Immersive learning helps product management teams move beyond traditional training by combining extended, practical assignments with real-world application and reflection, leading to deeper understanding and organizational change. Focusing on outcome-based tasks and evidence-based metrics, rather than vanity measures, sparks valuable conversations and continuous improvement within teams. Development managers should consider adopting immersive learning approaches to drive lasting value and empower teams to deliver better results.
 date: 2024-08-12T10:03:43Z
 lastmod: 2024-08-12T10:03:43Z
-weight: 750
+weight: 440
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
-ResourceId: KAqCTOIB4hk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: KAqCTOIB4hk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-the-power-of-immersive-learning-for-product-management
 aliases:
   - /resources/KAqCTOIB4hk
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:02:12Z
   short_title: 2025-07-07T17:48:38Z
   tldr: 2025-08-07T12:49:56Z
+ResourceId: KAqCTOIB4hk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: KAqCTOIB4hk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KAqCTOIB4hk/maxresdefault.jpg

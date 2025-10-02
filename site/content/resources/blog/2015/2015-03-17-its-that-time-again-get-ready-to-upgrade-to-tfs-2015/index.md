@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 7gr-fTIcGUp
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 7gr-fTIcGUp
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: it's-that-time-again-get-ready-to-upgrade-to-tfs-2015
 aliases:
   - /resources/blog/it-s-that-time-again-get-ready-to-upgrade-to-tfs-2015
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-12T14:19:55Z
   tldr: 2025-08-07T13:25:24Z
   short_title: 2025-08-07T13:25:25Z
+ResourceId: 7gr-fTIcGUp
+ResourceType: blog
 ResourceImportId: 11241
 creator: Martin Hinshelwood
 resourceTypes: blog

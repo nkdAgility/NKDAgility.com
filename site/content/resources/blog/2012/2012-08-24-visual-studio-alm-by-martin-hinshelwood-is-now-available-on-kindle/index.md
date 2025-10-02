@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: nsaShwBHR0g
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: nsaShwBHR0g
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
 aliases:
   - /resources/nsaShwBHR0g
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:07:54Z
+ResourceId: nsaShwBHR0g
+ResourceType: blog
 ResourceImportId: 7619
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: BeArx9oZHL2
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: BeArx9oZHL2
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-windows-vista-ultimate-element
 aliases:
   - /resources/BeArx9oZHL2
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:20Z
+ResourceId: BeArx9oZHL2
+ResourceType: blog
 ResourceImportId: 438
 creator: Martin Hinshelwood
 resourceTypes: blog

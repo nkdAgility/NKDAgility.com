@@ -5,16 +5,15 @@ description: Explores how knowledge of terrain, using mushroom picking as an exa
 tldr: Understanding your environment, much like knowing the terrain when foraging for mushrooms, is crucial for agile teams to adapt and succeed. Fostering a creative and collaborative workforce leads to better customer experiences and continuous improvement. Consider investing in agile training or coaching to help your teams perform at their best.
 date: 2023-08-10T14:45:00Z
 lastmod: 2023-08-10T14:45:00Z
-weight: 915
+weight: 730
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: IqWvURjrJVs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: IqWvURjrJVs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: znaczenie-znajomości-terenu
 aliases:
   - /resources/IqWvURjrJVs
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:10:16Z
   short_title: 2025-07-07T17:53:35Z
   tldr: 2025-08-07T13:01:13Z
+ResourceId: IqWvURjrJVs
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: IqWvURjrJVs
 url: /resources/videos/:slug
 canonicalUrl: https://www.youtube.com/watch?v=IqWvURjrJVs

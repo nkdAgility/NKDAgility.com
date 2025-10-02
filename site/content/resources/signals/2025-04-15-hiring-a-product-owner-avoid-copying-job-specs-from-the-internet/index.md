@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: -p1bBjBS0bA
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: -p1bBjBS0bA
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: hiring-a-product-owner-avoid-copying-job-specs-from-the-internet
 aliases:
   - /resources/-p1bBjBS0bA
@@ -46,6 +46,8 @@ Watermarks:
   description: 2025-05-16T15:55:26Z
   short_title: 2025-07-07T16:44:51Z
   tldr: 2025-08-07T12:33:39Z
+ResourceId: -p1bBjBS0bA
+ResourceType: signals
 
 ---
 Hiring a Product Owner? Don’t just copy-paste a job spec from the internet. A real PO isn’t just a requirements collector or project manager—they own product success.

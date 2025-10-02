@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: 3S0zghhDPwc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 3S0zghhDPwc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-overlooked-virtue-of-agility-diligence
 aliases:
   - /resources/3S0zghhDPwc
@@ -34,6 +33,7 @@ categories:
   - Product Development
 tags:
   - Definition of Done
+  - Personal
   - Software Development
   - Operational Practices
   - Competence
@@ -43,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:07:11Z
   short_title: 2025-07-07T17:51:14Z
   tldr: 2025-08-07T12:55:36Z
+ResourceId: 3S0zghhDPwc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 3S0zghhDPwc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/3S0zghhDPwc/maxresdefault.jpg

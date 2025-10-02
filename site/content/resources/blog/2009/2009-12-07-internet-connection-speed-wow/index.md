@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: iBNwIFFQrmS
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: iBNwIFFQrmS
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: internet-connection-speed-wow
 aliases:
   - /resources/iBNwIFFQrmS
@@ -31,6 +31,8 @@ tags:
   - Miscellaneous
 Watermarks:
   description: 2025-05-13T15:22:54Z
+ResourceId: iBNwIFFQrmS
+ResourceType: blog
 ResourceImportId: 78
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: ItvOiaC32Hs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ItvOiaC32Hs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: taming-the-chaos-factor-how-to-align-your-agile-teams-for-success
 aliases:
   - /resources/ItvOiaC32Hs
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:07:58Z
   short_title: 2025-07-07T17:51:50Z
   tldr: 2025-08-07T12:57:14Z
+ResourceId: ItvOiaC32Hs
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ItvOiaC32Hs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: BmlTZwGAcMU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: BmlTZwGAcMU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
 aliases:
   - /resources/BmlTZwGAcMU
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:05:55Z
   short_title: 2025-07-07T17:49:52Z
   tldr: 2025-08-07T12:53:05Z
+ResourceId: BmlTZwGAcMU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: BmlTZwGAcMU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BmlTZwGAcMU/maxresdefault.jpg

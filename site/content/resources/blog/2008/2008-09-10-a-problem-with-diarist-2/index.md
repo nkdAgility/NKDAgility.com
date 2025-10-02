@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Pq0Hdy2qZ05
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Pq0Hdy2qZ05
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: a-problem-with-diarist-2
 aliases:
   - /resources/Pq0Hdy2qZ05
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:23:17Z
+ResourceId: Pq0Hdy2qZ05
+ResourceType: blog
 ResourceImportId: 195
 creator: Martin Hinshelwood
 resourceTypes: blog

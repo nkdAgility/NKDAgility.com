@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: akntzjbRQe2
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: akntzjbRQe2
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-high-of-release
 aliases:
   - /resources/akntzjbRQe2
@@ -36,6 +36,8 @@ Watermarks:
   description: 2025-05-07T13:16:55Z
   short_title: 2025-07-07T17:59:06Z
   tldr: 2025-08-07T13:24:33Z
+ResourceId: akntzjbRQe2
+ResourceType: blog
 ResourceImportId: 11398
 creator: Martin Hinshelwood
 resourceTypes: blog

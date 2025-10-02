@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: 1-W64WdSbF4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 1-W64WdSbF4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: free-workshop-04-introduction-to-sprint-reviews-review-retrospective
 aliases:
   - /resources/1-W64WdSbF4
@@ -51,6 +50,9 @@ Watermarks:
   description: 2025-05-07T13:14:51Z
   short_title: 2025-07-07T17:57:27Z
   tldr: 2025-08-07T13:09:58Z
+ResourceId: 1-W64WdSbF4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 1-W64WdSbF4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/1-W64WdSbF4/maxresdefault.jpg

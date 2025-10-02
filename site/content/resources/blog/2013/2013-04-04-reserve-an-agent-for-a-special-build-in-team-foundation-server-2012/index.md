@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: SrsgdgZeWGm
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: SrsgdgZeWGm
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 aliases:
   - /resources/SrsgdgZeWGm
@@ -35,6 +35,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:06:42Z
+ResourceId: SrsgdgZeWGm
+ResourceType: blog
 ResourceImportId: 9359
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: fESk_RDaaIB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: fESk_RDaaIB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: always-prompted-for-credentials-in-tfs-2010
 aliases:
   - /resources/fESk_RDaaIB
@@ -31,6 +31,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:09:52Z
+ResourceId: fESk_RDaaIB
+ResourceType: blog
 ResourceImportId: 4071
 creator: Martin Hinshelwood
 resourceTypes: blog

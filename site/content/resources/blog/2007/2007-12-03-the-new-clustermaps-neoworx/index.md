@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: _tT2jcz-s4u
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: _tT2jcz-s4u
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-new-clustermaps-neoworx
 aliases:
   - /resources/_tT2jcz-s4u
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:24Z
+ResourceId: _tT2jcz-s4u
+ResourceType: blog
 ResourceImportId: 280
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: SdYtGr9X2KV
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: SdYtGr9X2KV
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: what's-in-a-burndown
 aliases:
   - /resources/blog/what-s-in-a-burndown
@@ -37,6 +37,8 @@ tags:
   - Team Performance
 Watermarks:
   description: 2025-05-13T15:09:10Z
+ResourceId: SdYtGr9X2KV
+ResourceType: blog
 ResourceImportId: 5002
 creator: Martin Hinshelwood
 resourceTypes: blog

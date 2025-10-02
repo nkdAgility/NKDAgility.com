@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: X8DVH4Nrsye
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: X8DVH4Nrsye
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-great-xbox-update
 aliases:
   - /resources/X8DVH4Nrsye
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:30Z
+ResourceId: X8DVH4Nrsye
+ResourceType: blog
 ResourceImportId: 166
 creator: Martin Hinshelwood
 resourceTypes: blog

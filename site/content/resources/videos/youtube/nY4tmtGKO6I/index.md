@@ -5,16 +5,15 @@ description: Guidance for new Scrum teams on building strong foundations, embrac
 tldr: New Scrum teams succeed when they deeply understand Scrum principles, empiricism, and core values, which the Scrum Master should actively teach and reinforce. Practical workshops, real-world examples, and a focus on continuous learning help teams build trust, adapt to change, and improve over time. Development managers should ensure their teams have ongoing support and a safe environment to foster growth and agility.
 date: 2023-11-28T11:00:49Z
 lastmod: 2023-11-28T11:00:49Z
-weight: 610
+weight: 320
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: monthly
-ResourceId: nY4tmtGKO6I
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: nY4tmtGKO6I
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-scrum-essential-insights-for-new-teams-from-a-scrum-master's-journey
 aliases:
   - /resources/nY4tmtGKO6I
@@ -51,6 +50,9 @@ Watermarks:
   description: 2025-05-07T13:07:27Z
   short_title: 2025-07-07T17:51:27Z
   tldr: 2025-08-07T12:56:03Z
+ResourceId: nY4tmtGKO6I
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: nY4tmtGKO6I
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/nY4tmtGKO6I/maxresdefault.jpg

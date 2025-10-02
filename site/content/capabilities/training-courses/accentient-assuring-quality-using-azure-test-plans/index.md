@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: m932F_fIGB5
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: m932F_fIGB5
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: assuring-quality-using-azure-test-plans-training
-aliases:
-  - /resources/m932F_fIGB5
+aliases: []
 aliasesArchive:
   - /training-courses/assuring-quality-using-azure-test-plans
   - /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
@@ -76,6 +75,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+ResourceId: m932F_fIGB5
+ResourceType: course
 
 ---
 # Assuring Quality Using Azure Test Plans Training

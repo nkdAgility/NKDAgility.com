@@ -5,16 +5,15 @@ description: Explores how Agile teams can clarify and align on the true meaning 
 tldr: Many Agile teams misunderstand what "done" really means, leading to gaps in quality and unmet expectations. Clearly defining "done" with input from both leadership and the team ensures consistent quality, reduces rework, and builds trust with stakeholders. Development managers should regularly review and refine their team's definition of done to align with evolving business needs and maintain high standards.
 date: 2023-12-07T11:00:05Z
 lastmod: 2023-12-07T11:00:05Z
-weight: 640
+weight: 240
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.6
   changefreq: monthly
-ResourceId: 2QojN_k3JZ4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 2QojN_k3JZ4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
 aliases:
   - /resources/2QojN_k3JZ4
@@ -31,6 +30,7 @@ layout: video
 concepts: []
 categories:
   - Product Development
+  - Engineering Excellence
   - Leadership
 tags:
   - Definition of Done
@@ -41,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:07:10Z
   short_title: 2025-07-07T17:51:13Z
   tldr: 2025-08-07T12:55:34Z
+ResourceId: 2QojN_k3JZ4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 2QojN_k3JZ4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg

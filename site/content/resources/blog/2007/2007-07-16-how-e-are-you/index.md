@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: YDrhk8yEGQa
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: YDrhk8yEGQa
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: how-'e'-are-you
 aliases:
   - /resources/blog/how-e-are-you
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:38Z
+ResourceId: YDrhk8yEGQa
+ResourceType: blog
 ResourceImportId: 368
 creator: Martin Hinshelwood
 resourceTypes: blog

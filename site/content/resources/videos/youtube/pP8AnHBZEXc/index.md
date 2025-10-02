@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: pP8AnHBZEXc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: pP8AnHBZEXc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
 aliases:
   - /resources/pP8AnHBZEXc
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:15:42Z
   short_title: 2025-07-07T17:58:05Z
   tldr: 2025-08-07T13:11:40Z
+ResourceId: pP8AnHBZEXc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: pP8AnHBZEXc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pP8AnHBZEXc/maxresdefault.jpg

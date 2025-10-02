@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: DsvMKLto30o
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: DsvMKLto30o
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
 aliases:
   - /resources/DsvMKLto30o
@@ -36,9 +35,9 @@ categories:
   - Product Development
   - DevOps
 tags:
+  - Software Development
   - Operational Practices
   - Continuous Delivery
-  - Software Development
   - Pragmatic Thinking
   - Continuous Improvement
   - Frequent Releases
@@ -47,6 +46,7 @@ Watermarks:
   description: 2025-05-07T12:49:24Z
   short_title: 2025-07-07T16:45:46Z
   tldr: 2025-08-07T12:35:36Z
+ResourceImportSource: Youtube
 videoId: DsvMKLto30o
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DsvMKLto30o/maxresdefault.jpg
@@ -54,6 +54,8 @@ duration: 788
 resourceTypes:
   - video
 isShort: false
+ResourceId: DsvMKLto30o
+ResourceType: videos
 
 ---
 I recently penned a post titled "Stop Hiding Behind Complexity and Start Delivering Continuously," and I want to expand on that idea here. The crux of my argument is straightforward: if anyone in your organisation claims that your software is too big or too complex for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), they are either lying, being lazy, or simply don’t know how to make it happen. More often than not, it’s the latter—they just don’t understand how to transition from their outdated, cumbersome systems to a more agile, continuous delivery model.

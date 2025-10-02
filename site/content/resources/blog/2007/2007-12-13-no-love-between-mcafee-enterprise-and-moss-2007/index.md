@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: uprMOboloWH
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: uprMOboloWH
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: no-love-between-mcafee-enterprise-and-moss-2007
 aliases:
   - /resources/uprMOboloWH
@@ -27,6 +27,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:25:15Z
+ResourceId: uprMOboloWH
+ResourceType: blog
 ResourceImportId: 274
 creator: Martin Hinshelwood
 resourceTypes: blog

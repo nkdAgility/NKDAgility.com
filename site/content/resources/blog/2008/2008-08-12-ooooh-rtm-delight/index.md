@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: i8GZ_Yop1t_
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: i8GZ_Yop1t_
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: ooooh-rtm-delight
 aliases:
   - /resources/i8GZ_Yop1t_
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:23:42Z
+ResourceId: i8GZ_Yop1t_
+ResourceType: blog
 ResourceImportId: 212
 creator: Martin Hinshelwood
 resourceTypes: blog

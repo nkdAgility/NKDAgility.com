@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: wNgfCTE7C6M
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: wNgfCTE7C6M
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-effective-product-development-how-a-hypothesis-driven-approach-transforms-user-experience
 aliases:
   - /resources/wNgfCTE7C6M
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:13:17Z
   short_title: 2025-07-07T17:55:59Z
   tldr: 2025-08-07T13:06:46Z
+ResourceId: wNgfCTE7C6M
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: wNgfCTE7C6M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/wNgfCTE7C6M/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: JkUaXsGbwTq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: JkUaXsGbwTq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: scott-guthrie-in-glasgow
 aliases:
   - /resources/JkUaXsGbwTq
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:22:26Z
+ResourceId: JkUaXsGbwTq
+ResourceType: blog
 ResourceImportId: 58
 creator: Martin Hinshelwood
 resourceTypes: blog

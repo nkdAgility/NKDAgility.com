@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: b-WImy6z9no
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: b-WImy6z9no
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: professional-scrum-in-immingham-uk
 aliases:
   - /resources/b-WImy6z9no
@@ -34,6 +34,8 @@ tags:
   - Team Performance
 Watermarks:
   description: 2025-05-12T14:22:49Z
+ResourceId: b-WImy6z9no
+ResourceType: blog
 ResourceImportId: 10301
 creator: Martin Hinshelwood
 resourceTypes: blog

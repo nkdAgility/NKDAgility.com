@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: jFAz7uP6k-J
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: jFAz7uP6k-J
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site
 aliases:
   - /resources/blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3.0-site-or-sub-site
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:12Z
+ResourceId: jFAz7uP6k-J
+ResourceType: blog
 ResourceImportId: 390
 creator: Martin Hinshelwood
 resourceTypes: blog

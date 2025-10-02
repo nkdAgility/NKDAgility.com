@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: mK5twHwVcIg
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: mK5twHwVcIg
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: evidence-based-management-gathering-the-metrics
 aliases:
   - /blog/evidence-based-management-gathering-metrics
@@ -55,6 +55,8 @@ Watermarks:
   description: 2025-05-07T13:15:07Z
   short_title: 2025-07-07T17:57:39Z
   tldr: 2025-08-07T13:10:38Z
+ResourceId: mK5twHwVcIg
+ResourceType: blog
 ResourceImportId: 10528
 AudioNative: true
 creator: Martin Hinshelwood

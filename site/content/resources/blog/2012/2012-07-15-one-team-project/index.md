@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: 8AfjJ-2eCEV
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 8AfjJ-2eCEV
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: one-team-project
 aliases:
   - /resources/8AfjJ-2eCEV
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:08:42Z
+ResourceId: 8AfjJ-2eCEV
+ResourceType: blog
 ResourceImportId: 6160
 creator: Martin Hinshelwood
 resourceTypes: blog

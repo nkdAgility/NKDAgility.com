@@ -7,15 +7,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: 0HKCf4ALF5Y
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: 0HKCf4ALF5Y
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: engineering-practices-workshop
-aliases:
-  - /resources/0HKCf4ALF5Y
+aliases: []
 aliasesArchive:
   - /training-courses/engineering-practices-workshop/
+type: course
 concepts: []
 categories:
   - Uncategorized
@@ -27,7 +27,6 @@ card:
   title: Engineering Practices Workshop
   content: ""
 creator: Martin Hinshelwood
-type: course
 url: 
 course_topics:
   - Engineering Training Courses
@@ -55,6 +54,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+ResourceId: 0HKCf4ALF5Y
+ResourceType: course
 
 ---
 This workshop includes instructor demo and guided discussion focusing on agile software engineering practices. The instructor will cover relevant engineering and ALM (Application Lifecycle Management) practices.

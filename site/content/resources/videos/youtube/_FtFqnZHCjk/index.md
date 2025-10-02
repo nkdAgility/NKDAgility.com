@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: _FtFqnZHCjk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: _FtFqnZHCjk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-evolution-of-product-management-in-the-agile-era
 aliases:
   - /resources/_FtFqnZHCjk
@@ -49,6 +48,9 @@ Watermarks:
   description: 2025-05-07T13:02:33Z
   short_title: 2025-07-07T17:48:58Z
   tldr: 2025-08-07T12:50:50Z
+ResourceId: _FtFqnZHCjk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: _FtFqnZHCjk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_FtFqnZHCjk/maxresdefault.jpg

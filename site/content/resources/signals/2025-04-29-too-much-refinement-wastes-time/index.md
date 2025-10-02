@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: 2GV6voRFhjH
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 2GV6voRFhjH
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: too-much-refinement-wastes-time
 aliases:
   - /resources/2GV6voRFhjH
@@ -28,10 +28,10 @@ tags:
   - Product Backlog
   - Software Development
   - Agile Planning
-  - Backlog Refinement
   - Operational Practices
   - Pragmatic Thinking
   - Definition of Ready
+  - Backlog Refinement
   - Agile Product Management
 platform_signals:
   - platform: LinkedIn
@@ -48,6 +48,8 @@ Watermarks:
   description: 2025-05-16T15:55:09Z
   short_title: 2025-07-07T16:44:36Z
   tldr: 2025-08-07T12:33:05Z
+ResourceId: 2GV6voRFhjH
+ResourceType: signals
 
 ---
 Too much refinement wastes time. Too little refinement leads to chaos. The key is knowing where to draw the line.

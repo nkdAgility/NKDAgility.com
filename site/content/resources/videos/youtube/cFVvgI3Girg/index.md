@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: cFVvgI3Girg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: cFVvgI3Girg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: from-product-owner-to-systemic-leader-embracing-the-evolution-in-agile-leadership
 aliases:
   - /resources/cFVvgI3Girg
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:10:31Z
   short_title: 2025-07-07T17:53:49Z
   tldr: 2025-08-07T13:01:42Z
+ResourceId: cFVvgI3Girg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: cFVvgI3Girg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cFVvgI3Girg/maxresdefault.jpg

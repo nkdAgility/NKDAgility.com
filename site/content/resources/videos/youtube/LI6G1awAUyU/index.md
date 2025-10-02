@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: LI6G1awAUyU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: LI6G1awAUyU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-rapid-delivery-overcoming-common-devops-challenges-for-agile-success
 aliases:
   - /resources/LI6G1awAUyU
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:13:09Z
   short_title: 2025-07-07T17:55:50Z
   tldr: 2025-08-07T13:06:22Z
+ResourceId: LI6G1awAUyU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: LI6G1awAUyU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: x3OxJIEMgFJ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: x3OxJIEMgFJ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2008-beta-2-team-explorer
 aliases:
   - /resources/x3OxJIEMgFJ
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:17Z
+ResourceId: x3OxJIEMgFJ
+ResourceType: blog
 ResourceImportId: 356
 creator: Martin Hinshelwood
 resourceTypes: blog

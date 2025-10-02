@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: MUY1jFEETH6
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: MUY1jFEETH6
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: merry-christmas
 aliases:
   - /resources/MUY1jFEETH6
@@ -27,6 +27,8 @@ tags:
   - Miscellaneous
 Watermarks:
   description: 2025-05-13T16:22:08Z
+ResourceId: MUY1jFEETH6
+ResourceType: blog
 ResourceImportId: 154
 creator: Martin Hinshelwood
 resourceTypes: blog

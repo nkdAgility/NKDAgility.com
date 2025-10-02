@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: KMId0yk2uL1
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: KMId0yk2uL1
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: if-software-is-not-delivered-it-is-not-valuable
 aliases:
   - /resources/KMId0yk2uL1
@@ -51,6 +51,8 @@ Watermarks:
   description: 2025-05-16T15:56:38Z
   short_title: 2025-07-07T16:45:42Z
   tldr: 2025-08-07T12:35:25Z
+ResourceId: KMId0yk2uL1
+ResourceType: signals
 
 ---
 If software is not delivered, it is not valuable.

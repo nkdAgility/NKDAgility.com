@@ -5,16 +5,15 @@ description: Explores how humility strengthens Agile teams by fostering trust, c
 tldr: Humility is crucial for Agile teams because it enables better collaboration, trust, and openness to feedback, leading to stronger products and happier teams. Recognizing that not all ideas are right, listening to others, and being willing to change course based on data and feedback are key to success. Development managers should foster a culture where team members check their egos, seek diverse perspectives, and use data thoughtfully to continuously improve.
 date: 2023-12-12T07:00:02Z
 lastmod: 2023-12-12T07:00:02Z
-weight: 790
+weight: 625
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
-ResourceId: 4scE4acfewk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 4scE4acfewk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-power-of-humility-in-agile-a-core-virtue-for-success
 aliases:
   - /resources/4scE4acfewk
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:07:04Z
   short_title: 2025-07-07T17:50:50Z
   tldr: 2025-08-07T12:55:24Z
+ResourceId: 4scE4acfewk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 4scE4acfewk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4scE4acfewk/maxresdefault.jpg

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: iI7MvY2p7RU
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: iI7MvY2p7RU
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: create-a-standard-environment-for-release-management-in-azure
 aliases:
   - /resources/iI7MvY2p7RU
@@ -39,6 +39,8 @@ Watermarks:
   description: 2025-05-12T14:20:33Z
   tldr: 2025-08-07T13:26:21Z
   short_title: 2025-08-07T13:26:21Z
+ResourceId: iI7MvY2p7RU
+ResourceType: blog
 ResourceImportId: 10923
 creator: Martin Hinshelwood
 resourceTypes: blog

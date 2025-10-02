@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: xKiwFed7LSB
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: xKiwFed7LSB
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: empowering-product-owners-as-strategic-leaders-in-scrum-teams
 aliases:
   - /resources/xKiwFed7LSB
@@ -23,8 +23,8 @@ concepts:
   - Accountability
 categories:
   - Scrum
-  - Product Development
   - Product Management
+  - Leadership
 tags:
   - Agile Product Management
   - Product Strategy
@@ -33,7 +33,6 @@ tags:
   - Value Delivery
   - Professional Scrum
   - Organisational Agility
-  - Social Technologies
   - Agile Leadership
   - Agile Frameworks
   - Agile Strategy
@@ -52,6 +51,8 @@ Watermarks:
   description: 2025-05-16T15:55:52Z
   short_title: 2025-07-07T16:45:11Z
   tldr: 2025-08-07T12:34:24Z
+ResourceId: xKiwFed7LSB
+ResourceType: signals
 
 ---
 The Product Owner is not a backlog manager.

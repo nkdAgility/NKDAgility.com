@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: k4F9DSE99Ok
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: k4F9DSE99Ok
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale
 aliases:
   - /resources/k4F9DSE99Ok
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:08:12Z
   short_title: 2025-07-07T17:51:59Z
   tldr: 2025-08-07T12:57:33Z
+ResourceId: k4F9DSE99Ok
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: k4F9DSE99Ok
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/k4F9DSE99Ok/maxresdefault.jpg

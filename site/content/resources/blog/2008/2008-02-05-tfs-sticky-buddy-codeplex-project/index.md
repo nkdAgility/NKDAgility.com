@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: g0bjuq5cIqX
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: g0bjuq5cIqX
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-sticky-buddy-codeplex-project
 aliases:
   - /resources/g0bjuq5cIqX
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:37Z
+ResourceId: g0bjuq5cIqX
+ResourceType: blog
 ResourceImportId: 250
 creator: Martin Hinshelwood
 resourceTypes: blog

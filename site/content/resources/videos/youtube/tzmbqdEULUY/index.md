@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: tzmbqdEULUY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: tzmbqdEULUY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-data-migration-how-to-minimise-downtime-and-keep-your-engineers-productive
 aliases:
   - /resources/tzmbqdEULUY
@@ -36,6 +35,7 @@ Watermarks:
   description: 2025-05-07T12:57:24Z
   short_title: 2025-07-07T17:47:42Z
   tldr: 2025-08-07T12:42:19Z
+ResourceImportSource: Youtube
 videoId: tzmbqdEULUY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/tzmbqdEULUY/maxresdefault.jpg
@@ -43,6 +43,8 @@ duration: 218
 resourceTypes:
   - video
 isShort: false
+ResourceId: tzmbqdEULUY
+ResourceType: videos
 
 ---
 When it comes to data migration, one of the most pressing concerns for organisations is often the potential for downtime. However, I’ve learned through experience that this concern can sometimes be overstated, especially in environments with a large number of software engineers. Let me share some insights from my journey that might help you navigate this complex process.

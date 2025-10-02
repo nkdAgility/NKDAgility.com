@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: RevK05qtZD7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: RevK05qtZD7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: the-missing-lever-in-agile-transformations
 aliases:
   - /resources/RevK05qtZD7
@@ -31,11 +31,11 @@ tags:
   - Agile Strategy
   - Organisational Change
   - Social Technologies
+  - Agile Philosophy
   - Organisational Agility
   - Team Motivation
   - Change Management
   - Agile Transformation
-  - Agile Philosophy
   - Business Agility
   - Organisational Culture
   - Strategic Goals
@@ -46,6 +46,8 @@ Watermarks:
   description: 2025-05-07T12:49:04Z
   short_title: 2025-07-07T16:43:46Z
   tldr: 2025-08-07T12:28:58Z
+ResourceId: RevK05qtZD7
+ResourceType: blog
 
 ---
 Most agile transformations fail not because they get the ceremonies wrong, but because they misunderstand the real point: **cultivating agency** in people and systems.

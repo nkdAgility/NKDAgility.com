@@ -13,10 +13,10 @@ sitemap:
 contributors:
   - name: Ralph Jocham
     external: https://www.scrum.org/ralph-jocham
-ResourceId: gWfr1oRgAIq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: gWfr1oRgAIq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: how-to-set-and-achieve-effective-sprint-goals
 aliases:
   - /blog/how-to-set-and-achieve-effective-sprint-goals
@@ -50,6 +50,8 @@ Watermarks:
   description: 2025-05-07T13:09:09Z
   short_title: 2025-07-07T17:52:45Z
   tldr: 2025-08-07T12:59:20Z
+ResourceId: gWfr1oRgAIq
+ResourceType: blog
 ResourceImportId: 50115
 AudioNative: true
 creator: Martin Hinshelwood

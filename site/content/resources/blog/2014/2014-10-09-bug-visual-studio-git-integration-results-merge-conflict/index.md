@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: GSH94xtzGy6
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: GSH94xtzGy6
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
 aliases:
   - /resources/GSH94xtzGy6
@@ -35,6 +35,8 @@ Watermarks:
   description: 2025-05-12T14:21:06Z
   tldr: 2025-08-07T13:27:08Z
   short_title: 2025-08-07T13:27:09Z
+ResourceId: GSH94xtzGy6
+ResourceType: blog
 ResourceImportId: 10734
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: RXXbeQU6tAH
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: RXXbeQU6tAH
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview
 aliases:
   - /resources/blog/unable-to-install-visual-studio-2013-rc-on-windows-8.1-preview
@@ -31,6 +31,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-12T14:23:12Z
+ResourceId: RXXbeQU6tAH
+ResourceType: blog
 ResourceImportId: 9998
 creator: Martin Hinshelwood
 resourceTypes: blog

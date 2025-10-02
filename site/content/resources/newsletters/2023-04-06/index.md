@@ -11,10 +11,10 @@ sitemap:
   priority: 0.4
   changefreq: weekly
 author: MrHinsh
-ResourceId: WAc9JUyPY5M
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: WAc9JUyPY5M
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: april-2023-nkdagility-applying-professional-scrum
 aliases:
   - /newsletters/april-2023-nkdagility-applying-professional-scrum/
@@ -38,6 +38,8 @@ Watermarks:
   description: 2025-05-07T13:13:21Z
   short_title: 2025-07-07T17:56:02Z
   tldr: 2025-08-07T13:06:54Z
+ResourceId: WAc9JUyPY5M
+ResourceType: newsletters
 resourceTypes: newsletter
 
 ---

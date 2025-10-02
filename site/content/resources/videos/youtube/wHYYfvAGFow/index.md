@@ -5,16 +5,15 @@ description: Explains how Taylorism shaped project management through standardis
 tldr: Taylorism established command-and-control management focused on efficiency, standardization, and strict hierarchies, which shaped traditional project management and works well for simple or repeatable tasks. However, this approach fails in complex environments where creativity, collaboration, and adaptability are needed, leading to the rise of Agile methods. Development managers should recognize where traditional project management fits and adopt Agile practices for complex, uncertain projects to stay effective.
 date: 2023-02-22T07:00:28Z
 lastmod: 2023-02-22T07:00:28Z
-weight: 1000
+weight: 855
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: wHYYfvAGFow
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: wHYYfvAGFow
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-taylorism-and-how-did-it-influence-project-management
 aliases:
   - /resources/wHYYfvAGFow
@@ -35,6 +34,9 @@ Watermarks:
   description: 2025-05-07T13:14:00Z
   short_title: 2025-07-07T17:56:41Z
   tldr: 2025-08-07T13:08:08Z
+ResourceId: wHYYfvAGFow
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: wHYYfvAGFow
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/wHYYfvAGFow/maxresdefault.jpg

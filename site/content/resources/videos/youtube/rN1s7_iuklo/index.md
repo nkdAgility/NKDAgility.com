@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: rN1s7_iuklo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: rN1s7_iuklo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: empowering-teams-to-maximize-value-and-return-on-investment
 aliases:
   - /resources/rN1s7_iuklo
@@ -55,6 +54,9 @@ Watermarks:
   description: 2025-05-07T13:02:30Z
   short_title: 2025-07-07T17:48:55Z
   tldr: 2025-08-07T12:50:43Z
+ResourceId: rN1s7_iuklo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: rN1s7_iuklo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rN1s7_iuklo/maxresdefault.jpg

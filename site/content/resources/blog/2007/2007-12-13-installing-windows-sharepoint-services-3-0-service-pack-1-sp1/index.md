@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: kTx0ZCg43dC
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: kTx0ZCg43dC
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-windows-sharepoint-services-3-0-service-pack-1-sp1
 aliases:
   - /resources/blog/installing-windows-sharepoint-services-3.0-service-pack-1-sp1
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:19Z
+ResourceId: kTx0ZCg43dC
+ResourceType: blog
 ResourceImportId: 275
 creator: Martin Hinshelwood
 resourceTypes: blog

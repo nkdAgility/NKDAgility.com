@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: cbNAkHnRhAW
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: cbNAkHnRhAW
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-office-2010-gotcha-1
 aliases:
   - /resources/cbNAkHnRhAW
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:34Z
+ResourceId: cbNAkHnRhAW
+ResourceType: blog
 ResourceImportId: 104
 creator: Martin Hinshelwood
 resourceTypes: blog

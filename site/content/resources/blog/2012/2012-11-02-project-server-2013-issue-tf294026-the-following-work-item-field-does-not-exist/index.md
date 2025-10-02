@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: zTaVoXPnTVP
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: zTaVoXPnTVP
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: project-server-2013-issue-–-tf294026-the-following-work-item-field-does-not-exist
 aliases:
   - /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
@@ -30,6 +30,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:07:14Z
+ResourceId: zTaVoXPnTVP
+ResourceType: blog
 ResourceImportId: 9103
 creator: Martin Hinshelwood
 resourceTypes: blog

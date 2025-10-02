@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: yKSkRhv_2Bs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: yKSkRhv_2Bs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: reasons-to-do-an-aps-course-in-60-seconds
 aliases:
   - /resources/yKSkRhv_2Bs
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:10:55Z
   short_title: 2025-07-07T17:54:04Z
   tldr: 2025-08-07T13:02:16Z
+ResourceId: yKSkRhv_2Bs
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: yKSkRhv_2Bs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yKSkRhv_2Bs/maxresdefault.jpg

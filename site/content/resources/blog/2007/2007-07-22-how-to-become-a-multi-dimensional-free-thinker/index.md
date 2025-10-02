@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: zHaP_THOBQT
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: zHaP_THOBQT
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: how-to-become-a-multi-dimensional-free-thinker
 aliases:
   - /resources/zHaP_THOBQT
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:34Z
+ResourceId: zHaP_THOBQT
+ResourceType: blog
 ResourceImportId: 364
 creator: Martin Hinshelwood
 resourceTypes: blog

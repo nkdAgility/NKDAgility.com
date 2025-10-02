@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: As4R5dKsJtU
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: As4R5dKsJtU
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 aliases:
   - /resources/As4R5dKsJtU
@@ -42,6 +42,8 @@ Watermarks:
   description: 2025-05-07T13:16:08Z
   short_title: 2025-07-07T17:58:25Z
   tldr: 2025-08-07T13:12:58Z
+ResourceId: As4R5dKsJtU
+ResourceType: blog
 ResourceImportId: 39855
 creator: Martin Hinshelwood
 resourceTypes: blog

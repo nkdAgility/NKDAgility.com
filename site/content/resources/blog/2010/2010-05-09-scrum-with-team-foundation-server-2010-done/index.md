@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: FjHIetvnkDz
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: FjHIetvnkDz
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: scrum-with-team-foundation-server-2010-done
 aliases:
   - /resources/FjHIetvnkDz
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:21:58Z
+ResourceId: FjHIetvnkDz
+ResourceType: blog
 ResourceImportId: 43
 creator: Martin Hinshelwood
 resourceTypes: blog

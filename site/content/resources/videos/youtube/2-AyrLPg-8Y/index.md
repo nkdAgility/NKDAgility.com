@@ -5,16 +5,15 @@ description: Discover how evidence-based management empowers Agile leaders to ma
 tldr: Evidence-based management helps Agile leaders make better decisions by using data on team performance, customer satisfaction, and product quality, leading to continuous improvement and stronger collaboration. Real-world examples show that adopting EBM can improve delivery times, morale, and outcomes. Development managers should invest in EBM training, encourage data-driven practices, and support experimentation to drive team success.
 date: 2023-11-29T11:00:03Z
 lastmod: 2023-11-29T11:00:03Z
-weight: 665
+weight: 390
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
-ResourceId: 2-AyrLPg-8Y
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 2-AyrLPg-8Y
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transform-your-leadership-the-power-of-evidence-based-management-in-agile
 aliases:
   - /resources/2-AyrLPg-8Y
@@ -50,6 +49,9 @@ Watermarks:
   description: 2025-05-07T13:07:24Z
   short_title: 2025-07-07T17:51:25Z
   tldr: 2025-08-07T12:55:59Z
+ResourceId: 2-AyrLPg-8Y
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 2-AyrLPg-8Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg

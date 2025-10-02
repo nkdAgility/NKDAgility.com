@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Rtjw5m2qP3t
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Rtjw5m2qP3t
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: restore-tfs-backups-from-sql-enterprise-to-sql-express
 aliases:
   - /resources/Rtjw5m2qP3t
@@ -30,6 +30,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:06:20Z
+ResourceId: Rtjw5m2qP3t
+ResourceType: blog
 ResourceImportId: 9902
 creator: Martin Hinshelwood
 resourceTypes: blog

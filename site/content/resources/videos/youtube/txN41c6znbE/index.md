@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: txN41c6znbE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: txN41c6znbE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: where-agile-went-wrong-understanding-the-competence-crisis
 aliases:
   - /resources/txN41c6znbE
@@ -51,6 +50,7 @@ Watermarks:
   description: 2025-05-07T12:57:32Z
   short_title: 2025-07-07T17:47:49Z
   tldr: 2025-08-07T12:42:35Z
+ResourceImportSource: Youtube
 videoId: txN41c6znbE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/txN41c6znbE/maxresdefault.jpg
@@ -58,6 +58,8 @@ duration: 1604
 resourceTypes:
   - video
 isShort: false
+ResourceId: txN41c6znbE
+ResourceType: videos
 
 ---
 Agile was supposed to revolutionize the way we build and deliver products, but it veered off track surprisingly early. The seeds of these challenges were planted during the creation of the Agile Manifesto itself. At Snowbird, a group of experienced and capable practitioners crafted a vision for agility in [software development]({{< ref "/tags/software-development" >}}). However, they made some assumptions that have come to haunt us.

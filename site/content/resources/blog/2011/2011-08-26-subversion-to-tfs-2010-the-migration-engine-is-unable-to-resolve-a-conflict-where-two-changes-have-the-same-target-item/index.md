@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: z1EKAHhrUI7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: z1EKAHhrUI7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 aliases:
   - /resources/z1EKAHhrUI7
@@ -30,6 +30,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:10:17Z
+ResourceId: z1EKAHhrUI7
+ResourceType: blog
 ResourceImportId: 3769
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: v3tFzfmLkHa
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: v3tFzfmLkHa
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: my-first-alm-and-second-vsts-presentaton
 aliases:
   - /resources/v3tFzfmLkHa
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:23:14Z
+ResourceId: v3tFzfmLkHa
+ResourceType: blog
 ResourceImportId: 193
 creator: Martin Hinshelwood
 resourceTypes: blog

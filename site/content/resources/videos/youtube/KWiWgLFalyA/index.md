@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: KWiWgLFalyA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: KWiWgLFalyA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-the-art-of-scaling-product-development-why-adding-more-developers-isn't-the-answer
 aliases:
   - /resources/KWiWgLFalyA
@@ -46,6 +45,7 @@ Watermarks:
   description: 2025-05-07T12:49:36Z
   short_title: 2025-07-07T17:46:24Z
   tldr: 2025-08-07T12:36:31Z
+ResourceImportSource: Youtube
 videoId: KWiWgLFalyA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KWiWgLFalyA/maxresdefault.jpg
@@ -53,6 +53,8 @@ duration: 103
 resourceTypes:
   - video
 isShort: false
+ResourceId: KWiWgLFalyA
+ResourceType: videos
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) [product development]({{< ref "/categories/product-development" >}}) sounds deceptively simple, doesn’t it? Just hire more developers, write more code, and ship more features. However, my experience has taught me that scaling is far more complex than merely increasing headcount. It’s about constructing a robust system that can grow effectively, and that’s where many organisations stumble.

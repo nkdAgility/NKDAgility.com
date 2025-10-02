@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: -Mz9cH0uiTQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: -Mz9cH0uiTQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-client-needs-how-agile-consultants-can-uncover-true-value-beyond-initial-requests
 aliases:
   - /resources/-Mz9cH0uiTQ
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:13:52Z
   short_title: 2025-07-07T17:56:35Z
   tldr: 2025-08-07T13:07:56Z
+ResourceId: -Mz9cH0uiTQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: -Mz9cH0uiTQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: UOzrABhafx0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: UOzrABhafx0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 aliases:
   - /resources/UOzrABhafx0
@@ -49,6 +48,9 @@ Watermarks:
   description: 2025-05-07T13:07:23Z
   short_title: 2025-07-07T17:51:23Z
   tldr: 2025-08-07T12:55:57Z
+ResourceId: UOzrABhafx0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: UOzrABhafx0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/UOzrABhafx0/maxresdefault.jpg

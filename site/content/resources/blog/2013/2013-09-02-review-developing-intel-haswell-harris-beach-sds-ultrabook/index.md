@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: n-WAS50HK1d
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: n-WAS50HK1d
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: review-part-2-developing-with-intel-haswell-harris-beach-sds-ultrabook
 aliases:
   - /resources/n-WAS50HK1d
@@ -29,6 +29,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-12T14:23:15Z
+ResourceId: n-WAS50HK1d
+ResourceType: blog
 ResourceImportId: 10081
 creator: Martin Hinshelwood
 resourceTypes: blog

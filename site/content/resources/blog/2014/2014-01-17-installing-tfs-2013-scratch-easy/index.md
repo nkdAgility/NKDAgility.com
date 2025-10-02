@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: VfADNDpkNbe
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: VfADNDpkNbe
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-tfs-2013-from-scratch-is-easy
 aliases:
   - /resources/VfADNDpkNbe
@@ -30,6 +30,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-12T14:22:28Z
+ResourceId: VfADNDpkNbe
+ResourceType: blog
 ResourceImportId: 10332
 creator: Martin Hinshelwood
 resourceTypes: blog

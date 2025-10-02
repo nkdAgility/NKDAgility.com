@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: gkD4iN7ZkP4
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: gkD4iN7ZkP4
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 aliases:
   - /resources/gkD4iN7ZkP4
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:08:04Z
+ResourceId: gkD4iN7ZkP4
+ResourceType: blog
 ResourceImportId: 7255
 creator: Martin Hinshelwood
 resourceTypes: blog

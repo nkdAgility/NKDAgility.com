@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: gCuWy69YpIU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: gCuWy69YpIU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: unlocking-engineering-excellence-how-azure-devops-transforms-traceability-transparency-and-the-developer-experience
 aliases:
   - /resources/gCuWy69YpIU
@@ -41,6 +40,7 @@ Watermarks:
   description: 2025-07-24T15:11:04Z
   short_title: 2025-07-24T15:11:05Z
   tldr: 2025-07-30T23:21:58Z
+ResourceImportSource: Youtube
 videoId: gCuWy69YpIU
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/gCuWy69YpIU/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLD1OdI4d54mGeR4EMbmP509M9nS4w
@@ -48,6 +48,8 @@ duration: 749
 resourceTypes:
   - video
 isShort: false
+ResourceId: gCuWy69YpIU
+ResourceType: videos
 
 ---
 Azure DevOps: More Than a Toolset—A Platform for Engineering Excellence

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: BJZdyEqHhXc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: BJZdyEqHhXc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 aliases:
   - /resources/BJZdyEqHhXc
@@ -49,6 +48,9 @@ Watermarks:
   description: 2025-05-07T13:02:53Z
   short_title: 2025-07-07T17:49:14Z
   tldr: 2025-08-07T12:51:30Z
+ResourceId: BJZdyEqHhXc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: BJZdyEqHhXc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BJZdyEqHhXc/maxresdefault.jpg

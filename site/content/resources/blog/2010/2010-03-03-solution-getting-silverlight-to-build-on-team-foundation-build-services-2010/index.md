@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: KPVUDFGZRaX
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: KPVUDFGZRaX
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 aliases:
   - /resources/KPVUDFGZRaX
@@ -31,6 +31,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:22:42Z
+ResourceId: KPVUDFGZRaX
+ResourceType: blog
 ResourceImportId: 69
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -9,10 +9,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: -IePwtEoXdo
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: -IePwtEoXdo
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: professional-product-discovery-and-validation-skills-ppdv
 aliases:
   - /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
@@ -92,6 +92,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+ResourceId: -IePwtEoXdo
+ResourceType: course
 
 ---
 # Professional Product Discovery and Validation Skills (PPDV)

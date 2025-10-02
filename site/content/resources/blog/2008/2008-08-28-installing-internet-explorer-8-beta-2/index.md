@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: JYf3i9TAak5
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: JYf3i9TAak5
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-internet-explorer-8-beta-2
 aliases:
   - /resources/JYf3i9TAak5
@@ -27,6 +27,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T16:23:30Z
+ResourceId: JYf3i9TAak5
+ResourceType: blog
 ResourceImportId: 204
 creator: Martin Hinshelwood
 resourceTypes: blog

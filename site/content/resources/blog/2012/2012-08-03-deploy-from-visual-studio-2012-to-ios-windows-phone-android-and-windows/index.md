@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: n5gPXqsSzYn
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: n5gPXqsSzYn
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 aliases:
   - /resources/n5gPXqsSzYn
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:08:26Z
+ResourceId: n5gPXqsSzYn
+ResourceType: blog
 ResourceImportId: 6950
 creator: Martin Hinshelwood
 resourceTypes: blog

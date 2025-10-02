@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: 6VmmXorMZZW
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 6VmmXorMZZW
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: do-more-staging-environments-really-reduce-deployment-risk
 aliases:
   - /resources/6VmmXorMZZW
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-16T15:56:42Z
   short_title: 2025-07-07T16:45:48Z
   tldr: 2025-08-07T12:35:39Z
+ResourceId: 6VmmXorMZZW
+ResourceType: signals
 
 ---
 The argument that more staging environments is rooted in a common fallacy: that staging environments reduce risk. They don’t. They create a false sense of security.

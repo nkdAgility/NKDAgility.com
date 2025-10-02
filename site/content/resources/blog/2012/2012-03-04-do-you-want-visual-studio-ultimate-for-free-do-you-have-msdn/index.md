@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 3-L2Y2t-oE7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 3-L2Y2t-oE7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: do-you-have-msdn-at-work-use-visual-studio-ultimate-for-free-at-home
 aliases:
   - /resources/3-L2Y2t-oE7
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:12Z
+ResourceId: 3-L2Y2t-oE7
+ResourceType: blog
 ResourceImportId: 4828
 creator: Martin Hinshelwood
 resourceTypes: blog

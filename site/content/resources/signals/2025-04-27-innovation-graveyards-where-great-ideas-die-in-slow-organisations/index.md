@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: S-OSZ8uEFdf
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: S-OSZ8uEFdf
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: innovation-graveyards-where-great-ideas-die-in-slow-organisations
 aliases:
   - /resources/S-OSZ8uEFdf
@@ -42,6 +42,8 @@ Watermarks:
   description: 2025-05-16T15:55:11Z
   short_title: 2025-07-07T16:44:38Z
   tldr: 2025-08-07T12:33:10Z
+ResourceId: S-OSZ8uEFdf
+ResourceType: signals
 
 ---
 Inside every slow-moving organisation is an innovation graveyard—a place where great ideas die before they ever see daylight.

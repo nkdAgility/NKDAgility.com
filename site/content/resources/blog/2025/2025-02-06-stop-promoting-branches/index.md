@@ -13,10 +13,10 @@ sitemap:
 contributors:
   - name: Benjamin Day
     external: https://www.linkedin.com/in/benjaminpday/
-ResourceId: x7ra7pQCDX5
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: x7ra7pQCDX5
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: stop-promoting-branches
 aliases:
   - /resources/x7ra7pQCDX5
@@ -55,6 +55,8 @@ creator: Martin Hinshelwood
 resourceTypes: blog
 preview: 2025-02-06-stop-promoting-branches.jpg
 marketing: []
+ResourceId: x7ra7pQCDX5
+ResourceType: blog
 
 ---
 The traditional Dev → Test → Staging → Production model is flawed, leading to unnecessary complexity and reinforcing outdated software delivery patterns. This breakdown explains why branch promotion is a failure mode, why [GitHub]({{< ref "/tags/github" >}}) Flow and Release Flow are reasonable alternatives, and why Git Flow belongs in the bin.

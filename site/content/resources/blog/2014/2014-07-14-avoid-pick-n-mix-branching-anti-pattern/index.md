@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: IVl4r4gpkQ6
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: IVl4r4gpkQ6
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: avoid-the-pick-n-mix-branching-anti-pattern
 aliases:
   - /resources/IVl4r4gpkQ6
@@ -41,6 +41,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-12T14:21:28Z
+ResourceId: IVl4r4gpkQ6
+ResourceType: blog
 ResourceImportId: 10649
 creator: Martin Hinshelwood
 resourceTypes: blog

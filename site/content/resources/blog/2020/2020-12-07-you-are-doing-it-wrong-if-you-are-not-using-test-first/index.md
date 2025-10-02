@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: yqHaiUlMNTP
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: yqHaiUlMNTP
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: you-are-doing-it-wrong-if-you-are-not-using-test-first
 aliases:
   - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
@@ -55,6 +55,8 @@ Watermarks:
   description: 2025-05-07T13:15:17Z
   short_title: 2025-07-07T17:57:45Z
   tldr: 2025-08-07T13:10:51Z
+ResourceId: yqHaiUlMNTP
+ResourceType: blog
 ResourceImportId: 9469
 AudioNative: true
 creator: Martin Hinshelwood

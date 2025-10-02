@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: uxd-czfPeHg
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: uxd-czfPeHg
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: blogging-from-2500-meters
 aliases:
   - /resources/uxd-czfPeHg
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:21:56Z
+ResourceId: uxd-czfPeHg
+ResourceType: blog
 ResourceImportId: 10509
 creator: Martin Hinshelwood
 resourceTypes: blog

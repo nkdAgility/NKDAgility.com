@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: QBX7dnUBzo8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: QBX7dnUBzo8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: addressing-systemic-issues-in-agile-organizations
 aliases:
   - /resources/QBX7dnUBzo8
@@ -53,6 +52,9 @@ Watermarks:
   description: 2025-05-07T13:06:18Z
   short_title: 2025-07-07T17:50:10Z
   tldr: 2025-08-07T12:53:48Z
+ResourceId: QBX7dnUBzo8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: QBX7dnUBzo8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QBX7dnUBzo8/maxresdefault.jpg

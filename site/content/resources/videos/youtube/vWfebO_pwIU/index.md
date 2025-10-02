@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: vWfebO_pwIU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: vWfebO_pwIU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
 aliases:
   - /resources/vWfebO_pwIU
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:13:19Z
   short_title: 2025-07-07T17:56:00Z
   tldr: 2025-08-07T13:06:48Z
+ResourceId: vWfebO_pwIU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: vWfebO_pwIU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg

@@ -13,10 +13,10 @@ sitemap:
 contributors:
   - name: Rikard Skelander
     external: https://www.linkedin.com/in/rikardskelander/
-ResourceId: ABbVdMBZ5fI
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: ABbVdMBZ5fI
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: is-agile-really-just-a-mindset
 aliases:
   - /resources/ABbVdMBZ5fI
@@ -35,18 +35,20 @@ tags:
   - Pragmatic Thinking
   - Engineering Practices
   - Technical Excellence
-  - Market Adaptability
   - Agile Transformation
   - Sociotechnical Systems
   - Frequent Releases
   - Organisational Agility
   - Team Performance
   - Working Software
+  - Agile Strategy
 Watermarks:
   description: 2025-05-30T15:27:52Z
   short_title: 2025-07-07T16:43:10Z
   tldr: 2025-07-30T23:14:42Z
 creator: Martin Hinshelwood
+ResourceId: ABbVdMBZ5fI
+ResourceType: blog
 
 ---
 Let’s get one thing straight: **Agile is not a mindset.** And it’s certainly not just about behaviour. That lazy framing dilutes the discipline, ignores the engineering reality, and gives cover to incompetence.

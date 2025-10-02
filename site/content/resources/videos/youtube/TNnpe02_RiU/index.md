@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: TNnpe02_RiU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: TNnpe02_RiU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-your-peeve-in-devops
 aliases:
   - /resources/TNnpe02_RiU
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:12:57Z
   short_title: 2025-07-07T17:55:41Z
   tldr: 2025-08-07T13:06:00Z
+ResourceId: TNnpe02_RiU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: TNnpe02_RiU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TNnpe02_RiU/maxresdefault.jpg

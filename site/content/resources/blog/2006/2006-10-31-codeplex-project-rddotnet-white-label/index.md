@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: LNv6D2UC7-n
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: LNv6D2UC7-n
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: codeplex-project-rddotnet-white-label
 aliases:
   - /resources/LNv6D2UC7-n
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:57Z
+ResourceId: LNv6D2UC7-n
+ResourceType: blog
 ResourceImportId: 459
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: Puz2wSg7UmE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Puz2wSg7UmE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-to-measure-your-organization's-ability-to-improve-value-through-innovation
 aliases:
   - /resources/Puz2wSg7UmE
@@ -50,6 +49,9 @@ Watermarks:
   description: 2025-05-07T13:06:13Z
   short_title: 2025-07-07T17:50:06Z
   tldr: 2025-08-07T12:53:37Z
+ResourceId: Puz2wSg7UmE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Puz2wSg7UmE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Puz2wSg7UmE/maxresdefault.jpg

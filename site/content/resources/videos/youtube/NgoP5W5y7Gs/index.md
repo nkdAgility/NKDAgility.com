@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: NgoP5W5y7Gs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: NgoP5W5y7Gs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: security-by-design-building-secure-software
 aliases:
   - /resources/NgoP5W5y7Gs
@@ -42,6 +41,7 @@ Watermarks:
   description: 2025-05-07T12:57:05Z
   short_title: 2025-07-07T17:47:28Z
   tldr: 2025-08-07T12:41:41Z
+ResourceImportSource: Youtube
 videoId: NgoP5W5y7Gs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
@@ -49,6 +49,8 @@ duration: 369
 resourceTypes:
   - video
 isShort: false
+ResourceId: NgoP5W5y7Gs
+ResourceType: videos
 
 ---
 # Shift Left: Building Quality and Security From the Start

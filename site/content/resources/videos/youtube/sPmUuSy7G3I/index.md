@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: sPmUuSy7G3I
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: sPmUuSy7G3I
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-scrum-effective-planning-and-prioritisation-for-agile-success
 aliases:
   - /resources/sPmUuSy7G3I
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:13:32Z
   short_title: 2025-07-07T17:56:16Z
   tldr: 2025-08-07T13:07:15Z
+ResourceId: sPmUuSy7G3I
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: sPmUuSy7G3I
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sPmUuSy7G3I/maxresdefault.jpg

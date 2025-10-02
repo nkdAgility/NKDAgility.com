@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: pDAL84mht3Y
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: pDAL84mht3Y
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
 aliases:
   - /resources/pDAL84mht3Y
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:08:00Z
   short_title: 2025-07-07T17:51:52Z
   tldr: 2025-08-07T12:57:18Z
+ResourceId: pDAL84mht3Y
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: pDAL84mht3Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg

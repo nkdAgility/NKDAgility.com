@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: napm9Qz4WTz
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: napm9Qz4WTz
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: professional-scrum-with-user-experience-psu-with-certification
-aliases:
-  - /resources/napm9Qz4WTz
+aliases: []
 aliasesArchive:
   - /training-courses/professional-scrum-with-user-experience-psu-training
   - /training-courses/professional-scrum-with-user-experience-training-with-certification
@@ -65,7 +64,7 @@ delivery_audiences:
   - Teams
 preview: naked-agility-Professional-Scrum-PSU-1600x900-2.jpg
 previewIcon: Scrumorg-Course-PSU-400x.png
-brandColour:
+brandColour: 
 code: PSU
 programCode: PSU
 course_length: 16
@@ -91,7 +90,7 @@ outcomes: |2+
   - Focus on users
   - Experimentation
 
-assessment:
+assessment: 
 objectives: |+
   Students will leave the class understanding: 
   - Gain a common understanding of what is meant by Professional Scrum
@@ -117,13 +116,15 @@ prerequisites: |+
   - Review [The Scrum Guide](https://nkdagility.com/resources/the-scrum-guide/)
   - Review the Course Material provided in your [Classroom](https://community.nkdagility.com/all-courses)
 
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
----
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
+ResourceId: napm9Qz4WTz
+ResourceType: course
 
+---
 # Professional Scrum with User Experience (PSU) with Certification
 
 **Course Code:** PSU

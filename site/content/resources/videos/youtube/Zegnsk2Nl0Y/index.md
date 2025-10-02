@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Zegnsk2Nl0Y
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Zegnsk2Nl0Y
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams
 aliases:
   - /resources/Zegnsk2Nl0Y
@@ -33,6 +32,7 @@ concepts:
 categories:
   - Product Development
 tags:
+  - Personal
   - Value Delivery
   - Software Development
   - Team Collaboration
@@ -42,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:09:15Z
   short_title: 2025-07-07T17:52:49Z
   tldr: 2025-08-07T12:59:34Z
+ResourceId: Zegnsk2Nl0Y
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Zegnsk2Nl0Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg

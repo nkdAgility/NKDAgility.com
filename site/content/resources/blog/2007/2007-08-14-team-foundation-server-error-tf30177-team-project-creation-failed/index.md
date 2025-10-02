@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ovERk0hj1XD
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ovERk0hj1XD
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: team-foundation-server-error-tf30177-team-project-creation-failed
 aliases:
   - /resources/ovERk0hj1XD
@@ -31,6 +31,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T16:26:39Z
+ResourceId: ovERk0hj1XD
+ResourceType: blog
 ResourceImportId: 332
 creator: Martin Hinshelwood
 resourceTypes: blog

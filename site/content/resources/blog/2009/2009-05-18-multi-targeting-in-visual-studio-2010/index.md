@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: j92AlbTRvDq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: j92AlbTRvDq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: multi-targeting-in-visual-studio-2010
 aliases:
   - /resources/j92AlbTRvDq
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:57Z
+ResourceId: j92AlbTRvDq
+ResourceType: blog
 ResourceImportId: 117
 creator: Martin Hinshelwood
 resourceTypes: blog

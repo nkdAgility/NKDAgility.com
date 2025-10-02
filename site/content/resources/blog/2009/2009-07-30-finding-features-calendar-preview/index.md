@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Q0-oHysVeAO
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Q0-oHysVeAO
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: finding-features-calendar-preview
 aliases:
   - /resources/Q0-oHysVeAO
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:23Z
+ResourceId: Q0-oHysVeAO
+ResourceType: blog
 ResourceImportId: 94
 creator: Martin Hinshelwood
 resourceTypes: blog

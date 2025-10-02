@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: PfZU13BEwiY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: PfZU13BEwiY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
 aliases:
   - /resources/PfZU13BEwiY
@@ -41,6 +40,7 @@ Watermarks:
   description: 2025-05-07T12:49:26Z
   short_title: 2025-07-07T16:45:51Z
   tldr: 2025-08-07T12:35:46Z
+ResourceImportSource: Youtube
 videoId: PfZU13BEwiY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/PfZU13BEwiY/maxresdefault.jpg
@@ -48,6 +48,8 @@ duration: 61
 resourceTypes:
   - video
 isShort: false
+ResourceId: PfZU13BEwiY
+ResourceType: videos
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) without managing [technical debt]({{< ref "/tags/technical-debt" >}}) is a recipe for disaster. I’ve seen it time and again in my journey through various organisations. Technical debt can be a silent killer, gradually slowing everything down until it becomes a major blocker. Every quick fix or shortcut we take may seem harmless at first, but as we scale, those seemingly minor decisions can snowball into significant issues. 

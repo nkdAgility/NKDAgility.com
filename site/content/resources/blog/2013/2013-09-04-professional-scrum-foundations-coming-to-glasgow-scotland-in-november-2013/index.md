@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: SO1wlCfiUu4
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: SO1wlCfiUu4
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 aliases:
   - /resources/SO1wlCfiUu4
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-12T14:23:13Z
+ResourceId: SO1wlCfiUu4
+ResourceType: blog
 ResourceImportId: 10094
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,15 +10,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.9
   changefreq: monthly
-ResourceId: L7cngB1uzW9
-ResourceImport: false
-ResourceType: case-studies
-ResourceContentOrigin: human
+ItemId: L7cngB1uzW9
+ItemType: case-studies
+ItemKind: resource
+ItemContentOrigin: human
 slug: mentorship-model-transformed-a-product-management-team
 aliases:
   - /resources/L7cngB1uzW9
 concepts:
-  - Accountability
+  - Capability
 categories:
   - Product Management
   - Product Development
@@ -27,12 +27,12 @@ tags:
   - Team Collaboration
   - Mentoring
   - Organisational Agility
-  - Business Agility
   - Competence
   - Pragmatic Thinking
   - Agile Strategy
   - Software Development
   - Continuous Learning
+  - Business Agility
   - Self Organisation
   - Social Technologies
   - Agile Transformation
@@ -44,6 +44,8 @@ Watermarks:
   short_title: 2025-07-07T16:43:48Z
   tldr: 2025-08-07T12:29:03Z
 draft: false
+ResourceId: L7cngB1uzW9
+ResourceType: case-studies
 
 ---
 ## Client Context

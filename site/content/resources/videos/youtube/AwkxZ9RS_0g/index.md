@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: AwkxZ9RS_0g
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: AwkxZ9RS_0g
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-does-your-consulting-experience-manifest-in-the-training-environment
 aliases:
   - /resources/AwkxZ9RS_0g
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:11:24Z
   short_title: 2025-07-07T17:54:28Z
   tldr: 2025-08-07T13:03:24Z
+ResourceId: AwkxZ9RS_0g
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: AwkxZ9RS_0g
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/AwkxZ9RS_0g/maxresdefault.jpg

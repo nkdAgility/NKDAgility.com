@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: pEjQq9m7081
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: pEjQq9m7081
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: running-android-2-2-frodo-on-your-hd2
 aliases:
   - /resources/blog/running-android-2.2-frodo-on-your-hd2
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:21:35Z
+ResourceId: pEjQq9m7081
+ResourceType: blog
 ResourceImportId: 29
 creator: Martin Hinshelwood
 resourceTypes: blog

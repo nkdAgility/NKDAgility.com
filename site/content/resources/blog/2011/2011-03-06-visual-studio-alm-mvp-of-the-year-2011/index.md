@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: EN9cabHmNmb
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: EN9cabHmNmb
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-alm-mvp-of-the-year-2011
 aliases:
   - /resources/EN9cabHmNmb
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:11:04Z
+ResourceId: EN9cabHmNmb
+ResourceType: blog
 ResourceImportId: 9
 creator: Martin Hinshelwood
 resourceTypes: blog

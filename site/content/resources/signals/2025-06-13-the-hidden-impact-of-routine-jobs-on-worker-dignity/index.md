@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Gp4e7gPmb-Q
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: Gp4e7gPmb-Q
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: the-hidden-impact-of-routine-jobs-on-worker-dignity
 aliases:
   - /resources/Gp4e7gPmb-Q
@@ -39,6 +39,8 @@ Watermarks:
   description: 2025-06-17T17:50:34Z
   short_title: 2025-07-07T16:43:29Z
   tldr: 2025-08-07T12:11:09Z
+ResourceId: Gp4e7gPmb-Q
+ResourceType: signals
 
 ---
 When we invented jobs like scanning groceries, packing boxes, or cleaning toilets, we weren’t aiming for dignity. We were optimising output. We engineered these roles to be mindless, repeatable, and replaceable.

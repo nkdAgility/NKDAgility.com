@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: qtc58tBJRtL
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: qtc58tBJRtL
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: developer-day-scotland
 aliases:
   - /resources/qtc58tBJRtL
@@ -28,6 +28,8 @@ tags:
   - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:24:11Z
+ResourceId: qtc58tBJRtL
+ResourceType: blog
 ResourceImportId: 125
 creator: Martin Hinshelwood
 resourceTypes: blog

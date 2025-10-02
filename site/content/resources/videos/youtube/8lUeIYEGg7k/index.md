@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: 8lUeIYEGg7k
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 8lUeIYEGg7k
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
 aliases:
   - /resources/8lUeIYEGg7k
@@ -37,13 +36,17 @@ concepts:
 categories:
   - Product Development
 tags:
+  - Agile Strategy
+  - Software Development
   - Scaling
+  - Product Delivery
   - Large Scale Agility
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:49:25Z
   short_title: 2025-07-07T16:45:48Z
   tldr: 2025-08-07T12:35:42Z
+ResourceImportSource: Youtube
 videoId: 8lUeIYEGg7k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8lUeIYEGg7k/maxresdefault.jpg
@@ -51,6 +54,8 @@ duration: 75
 resourceTypes:
   - video
 isShort: false
+ResourceId: 8lUeIYEGg7k
+ResourceType: videos
 
 ---
 Agile works exceptionally well when it’s just one team, doesn’t it? The simplicity of interactions, the fluidity of communication, and the ability to pivot quickly are all hallmarks of a well-functioning agile team. However, what happens when you scale up to ten or more teams? Suddenly, those straightforward interactions become a tangled web of dependencies, and before you know it, everything slows down to a crawl. Does this scenario resonate with you?

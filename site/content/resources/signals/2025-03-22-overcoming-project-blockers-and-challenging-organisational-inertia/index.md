@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: aXo_GayoCuE
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: aXo_GayoCuE
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: overcoming-project-blockers-and-challenging-organisational-inertia
 aliases:
   - /resources/aXo_GayoCuE
@@ -30,7 +30,6 @@ tags:
   - Agentic Agility
   - Pragmatic Thinking
   - Organisational Agility
-  - Team Performance
   - Team Motivation
   - Agile Product Management
   - Self Organisation
@@ -55,6 +54,8 @@ Watermarks:
   description: 2025-05-16T15:55:57Z
   short_title: 2025-07-07T16:45:16Z
   tldr: 2025-08-07T12:34:33Z
+ResourceId: aXo_GayoCuE
+ResourceType: signals
 
 ---
 Imagine you’re responsible for delivering a critical project, but every time you try to remove a blocker, someone tells you it’s “not your call.” Every time you challenge a dysfunction, you’re met with, “We’ve always done it this way.”

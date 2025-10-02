@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: _7Yp1RZb_8I
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: _7Yp1RZb_8I
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: deep-vein-thrombosis-dvt
 aliases:
   - /resources/_7Yp1RZb_8I
@@ -29,6 +29,8 @@ tags:
   - Miscellaneous
 Watermarks:
   description: 2025-05-13T16:29:12Z
+ResourceId: _7Yp1RZb_8I
+ResourceType: blog
 ResourceImportId: 433
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: Ewu5coIz9qm
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: Ewu5coIz9qm
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: the-fallacy-of-the-rejected-backlog-item
 aliases:
   - /resources/Ewu5coIz9qm
@@ -48,6 +48,8 @@ Watermarks:
   description: 2025-05-07T13:15:29Z
   short_title: 2025-07-07T17:57:53Z
   tldr: 2025-08-07T13:11:11Z
+ResourceId: Ewu5coIz9qm
+ResourceType: blog
 ResourceImportId: 9876
 creator: Martin Hinshelwood
 resourceTypes: blog

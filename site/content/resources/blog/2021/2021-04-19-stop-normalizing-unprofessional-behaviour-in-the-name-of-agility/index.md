@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: mqbD3iIhRg4
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: mqbD3iIhRg4
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 aliases:
   - /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
@@ -35,6 +35,8 @@ Watermarks:
   description: 2025-05-07T13:14:57Z
   short_title: 2025-07-07T17:57:31Z
   tldr: 2025-08-07T13:10:12Z
+ResourceId: mqbD3iIhRg4
+ResourceType: blog
 ResourceImportId: 46108
 AudioNative: true
 creator: Martin Hinshelwood

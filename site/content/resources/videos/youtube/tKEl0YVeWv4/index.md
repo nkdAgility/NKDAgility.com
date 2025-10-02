@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: tKEl0YVeWv4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: tKEl0YVeWv4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-the-future-of-software-development-why-automation-is-your-key-to-success
 aliases:
   - /resources/tKEl0YVeWv4
@@ -45,6 +44,7 @@ Watermarks:
   description: 2025-05-07T12:49:58Z
   short_title: 2025-07-07T17:46:59Z
   tldr: 2025-08-07T12:40:31Z
+ResourceImportSource: Youtube
 videoId: tKEl0YVeWv4
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/tKEl0YVeWv4/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLA3dRTcLKc5KZt_uc_-QOOambvXxw
@@ -52,6 +52,8 @@ duration: 477
 resourceTypes:
   - video
 isShort: false
+ResourceId: tKEl0YVeWv4
+ResourceType: videos
 
 ---
 Automation is a game changer in the world of [software development]({{< ref "/tags/software-development" >}}), and I can’t stress enough how crucial it is for enabling teams to develop faster and more effectively. If there’s one mantra I live by, it’s this: if it can be automated, it should be automated. And if it can’t be automated yet, then it’s time to invest in your product to make that automation possible.

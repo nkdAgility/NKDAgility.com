@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: cbyRy2IJmM0
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: cbyRy2IJmM0
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: why-tracking-individual-cycle-time-distorts-team-behaviour
 aliases:
   - /resources/cbyRy2IJmM0
@@ -26,21 +26,21 @@ categories:
   - Product Development
   - Technical Leadership
 tags:
+  - Team Performance
   - Pragmatic Thinking
   - Flow Efficiency
   - Software Development
-  - Team Performance
   - Lean Principles
   - Lean Thinking
   - Lead Time
   - Operational Practices
   - Self Organisation
   - Value Delivery
-  - Team Collaboration
   - Continuous Improvement
   - Organisational Agility
   - Product Delivery
   - Time to Market
+  - Metrics and Learning
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7305626135789273089
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-16T15:56:15Z
   short_title: 2025-07-07T16:45:28Z
   tldr: 2025-08-07T12:34:56Z
+ResourceId: cbyRy2IJmM0
+ResourceType: signals
 
 ---
 When you track individual's cycle time, you aren’t just measuring the wrong thing—you’re actively distorting behaviour.

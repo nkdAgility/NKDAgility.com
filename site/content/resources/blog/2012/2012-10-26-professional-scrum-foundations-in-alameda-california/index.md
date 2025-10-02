@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: If3c0gr1udB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: If3c0gr1udB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: professional-scrum-foundations-in-alameda-california
 aliases:
   - /resources/If3c0gr1udB
@@ -35,6 +35,8 @@ tags:
   - Product Delivery
 Watermarks:
   description: 2025-05-13T15:07:21Z
+ResourceId: If3c0gr1udB
+ResourceType: blog
 ResourceImportId: 8981
 creator: Martin Hinshelwood
 resourceTypes: blog

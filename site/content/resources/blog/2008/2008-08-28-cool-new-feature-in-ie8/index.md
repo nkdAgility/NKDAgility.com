@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: wd7JhsgRpbS
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: wd7JhsgRpbS
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: cool-new-feature-in-ie8
 aliases:
   - /resources/wd7JhsgRpbS
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:23:24Z
+ResourceId: wd7JhsgRpbS
+ResourceType: blog
 ResourceImportId: 202
 creator: Martin Hinshelwood
 resourceTypes: blog

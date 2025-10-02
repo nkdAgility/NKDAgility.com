@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: R2MUioX4tLG
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: R2MUioX4tLG
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-trouble-with-iis6-pac-files-and-dns
 aliases:
   - /resources/blog/the-trouble-with-iis6-.pac-files-and-dns
@@ -32,6 +32,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:32Z
+ResourceId: R2MUioX4tLG
+ResourceType: blog
 ResourceImportId: 448
 creator: Martin Hinshelwood
 resourceTypes: blog

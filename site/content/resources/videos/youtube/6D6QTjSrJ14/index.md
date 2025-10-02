@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 6D6QTjSrJ14
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 6D6QTjSrJ14
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
 aliases:
   - /resources/6D6QTjSrJ14
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:09:49Z
   short_title: 2025-07-07T17:53:20Z
   tldr: 2025-08-07T13:00:40Z
+ResourceId: 6D6QTjSrJ14
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 6D6QTjSrJ14
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/6D6QTjSrJ14/maxresdefault.jpg

@@ -5,15 +5,15 @@ description: Guidance on running live virtual Scrum classes using Microsoft Team
 tldr: Delivering live virtual classes using Microsoft Teams and Mural offers strong security, flexibility, and features that support self-organising teams and foster a safe, collaborative learning environment. Running a tech check before classes saves time and sets expectations, while Teams enables students to manage their own breakout sessions and resources, promoting autonomy and engagement. For best results, set up Teams in advance and use Mural to create structured, interactive exercises that mirror in-person collaboration.
 date: 2020-06-21
 lastmod: 2020-06-21
-weight: 750
+weight: 525
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: weekly
-ResourceId: fyJ8PxhOEZz
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: fyJ8PxhOEZz
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: delivering-live-virtual-classes-in-microsoft-teams-and-mural
 aliases:
   - /resources/fyJ8PxhOEZz
@@ -41,6 +41,8 @@ Watermarks:
   description: 2025-05-07T13:15:36Z
   short_title: 2025-07-07T17:57:59Z
   tldr: 2025-08-07T13:11:27Z
+ResourceId: fyJ8PxhOEZz
+ResourceType: blog
 ResourceImportId: 44432
 creator: Martin Hinshelwood
 resourceTypes: blog

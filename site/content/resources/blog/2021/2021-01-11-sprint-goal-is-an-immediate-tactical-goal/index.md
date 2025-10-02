@@ -5,15 +5,15 @@ description: Explains how the Sprint Goal serves as an immediate tactical object
 tldr: The Sprint Goal should be a clear, high-level statement that explains the purpose of the Sprint and connects directly to the Product Goal, guiding the team’s immediate tactical efforts. Product Owners should use tools like Lean Canvas to define business objectives and user behaviors, formulating hypotheses with measurable outcomes to maximize value. Focus on solving users’ current problems and iteratively anticipate their needs to drive engagement and deliver impactful features.
 date: 2021-01-11
 lastmod: 2021-01-11
-weight: 670
+weight: 440
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: weekly
-ResourceId: sLRE2HdkUCS
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: sLRE2HdkUCS
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: sprint-goal-is-an-immediate-tactical-goal
 aliases:
   - /blog/sprint-goal-is-an-immediate-tactical-goal
@@ -46,6 +46,8 @@ Watermarks:
   description: 2025-05-07T13:15:05Z
   short_title: 2025-07-07T17:57:38Z
   tldr: 2025-08-07T13:10:29Z
+ResourceId: sLRE2HdkUCS
+ResourceType: blog
 ResourceImportId: 45310
 AudioNative: true
 creator: Martin Hinshelwood

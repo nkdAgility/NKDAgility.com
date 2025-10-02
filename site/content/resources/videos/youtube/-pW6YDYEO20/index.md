@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: -pW6YDYEO20
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: -pW6YDYEO20
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: worst-trait-in-unskilled-scrum-masters
 aliases:
   - /resources/-pW6YDYEO20
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:13:01Z
   short_title: 2025-07-07T17:55:44Z
   tldr: 2025-08-07T13:06:09Z
+ResourceId: -pW6YDYEO20
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: -pW6YDYEO20
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/-pW6YDYEO20/maxresdefault.jpg

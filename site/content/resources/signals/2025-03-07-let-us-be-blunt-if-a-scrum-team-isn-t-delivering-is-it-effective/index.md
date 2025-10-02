@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: CB56pgg1LmZ
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: CB56pgg1LmZ
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: let-us-be-blunt-if-a-scrum-team-isn-t-delivering-is-it-effective
 aliases:
   - /resources/CB56pgg1LmZ
@@ -27,7 +27,6 @@ categories:
   - Leadership
 tags:
   - Software Development
-  - Team Performance
   - Increment
   - Scrum Master
   - Product Delivery
@@ -48,6 +47,8 @@ Watermarks:
   description: 2025-05-16T15:56:23Z
   short_title: 2025-07-07T16:45:34Z
   tldr: 2025-08-07T12:35:09Z
+ResourceId: CB56pgg1LmZ
+ResourceType: signals
 
 ---
 Let’s be blunt—if a Scrum Team isn’t delivering, is it effective?

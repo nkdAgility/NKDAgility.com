@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Fgla_Oox_sE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Fgla_Oox_sE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
 aliases:
   - /resources/Fgla_Oox_sE
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:06:54Z
   short_title: 2025-07-07T17:50:43Z
   tldr: 2025-08-07T12:55:07Z
+ResourceId: Fgla_Oox_sE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Fgla_Oox_sE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Fgla_Oox_sE/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: vbY6LUq81uY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: vbY6LUq81uY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
 aliases:
   - /resources/vbY6LUq81uY
@@ -41,6 +40,7 @@ Watermarks:
   description: 2025-05-07T12:56:48Z
   short_title: 2025-07-07T17:47:13Z
   tldr: 2025-08-07T12:41:02Z
+ResourceImportSource: Youtube
 videoId: vbY6LUq81uY
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/vbY6LUq81uY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLA7AhAQKNTt8wyFKqaI0PiC-7jbHg
@@ -48,6 +48,8 @@ duration: 437
 resourceTypes:
   - video
 isShort: false
+ResourceId: vbY6LUq81uY
+ResourceType: videos
 
 ---
 Building products is an exhilarating journey into the unknown. Every time I sit down with a team to write code, I’m reminded that we’re embarking on a venture that has never been done before. If we weren’t, we wouldn’t be coding; we’d simply be purchasing a ready-made solution. This inherent uncertainty is what gives software engineering its unique character, and it’s also why we experience such a high degree of variance in our projects.

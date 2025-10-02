@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: SrQHWVkcvAL
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: SrQHWVkcvAL
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: naked-alm-starting-with-why-and-getting-naked
 aliases:
   - /resources/SrQHWVkcvAL
@@ -29,6 +29,8 @@ tags:
   - Working Software
 Watermarks:
   description: 2025-05-13T15:06:32Z
+ResourceId: SrQHWVkcvAL
+ResourceType: blog
 ResourceImportId: 9499
 creator: Martin Hinshelwood
 resourceTypes: blog

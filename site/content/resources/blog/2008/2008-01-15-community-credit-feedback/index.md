@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: HElvJm048ib
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: HElvJm048ib
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: community-credit-feedback
 aliases:
   - /resources/HElvJm048ib
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:57Z
+ResourceId: HElvJm048ib
+ResourceType: blog
 ResourceImportId: 264
 creator: Martin Hinshelwood
 resourceTypes: blog

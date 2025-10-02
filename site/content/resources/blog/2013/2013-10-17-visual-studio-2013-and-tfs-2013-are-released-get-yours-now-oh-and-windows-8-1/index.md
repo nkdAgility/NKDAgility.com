@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 6g2Cp_ZpsHo
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 6g2Cp_ZpsHo
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
 aliases:
   - /resources/blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8.1-hellip
@@ -32,6 +32,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:22:57Z
+ResourceId: 6g2Cp_ZpsHo
+ResourceType: blog
 ResourceImportId: 10214
 creator: Martin Hinshelwood
 resourceTypes: blog

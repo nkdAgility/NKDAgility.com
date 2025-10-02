@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: quFj6dy5M7E
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: quFj6dy5M7E
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
 aliases:
   - /resources/quFj6dy5M7E
@@ -40,6 +39,7 @@ Watermarks:
   description: 2025-05-07T12:56:55Z
   short_title: 2025-07-07T17:47:19Z
   tldr: 2025-08-07T12:41:19Z
+ResourceImportSource: Youtube
 videoId: quFj6dy5M7E
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAiaNZF3dxererISCSR8zTqhCN2mw
@@ -47,6 +47,8 @@ duration: 266
 resourceTypes:
   - video
 isShort: false
+ResourceId: quFj6dy5M7E
+ResourceType: videos
 
 ---
 Building a high-performance delivery engine within an organisation is no small feat. From my experience, it requires a deep understanding of various contexts and a level of [competence]({{< ref "/tags/competence" >}}) that is often underestimated. Many organisations focus primarily on technical skills, but to truly excel in software delivery, we need to broaden our perspective.

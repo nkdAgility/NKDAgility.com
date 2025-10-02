@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 24Qmd0tzO5s
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 24Qmd0tzO5s
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-eventhandler-now-on-codeplex
 aliases:
   - /resources/24Qmd0tzO5s
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:36Z
+ResourceId: 24Qmd0tzO5s
+ResourceType: blog
 ResourceImportId: 408
 creator: Martin Hinshelwood
 resourceTypes: blog

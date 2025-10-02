@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 6v73sdkKVTr
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 6v73sdkKVTr
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: linq-to-xsd
 aliases:
   - /resources/6v73sdkKVTr
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:23:29Z
+ResourceId: 6v73sdkKVTr
+ResourceType: blog
 ResourceImportId: 203
 creator: Martin Hinshelwood
 resourceTypes: blog

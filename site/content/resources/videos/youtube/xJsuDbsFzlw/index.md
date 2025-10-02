@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: xJsuDbsFzlw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: xJsuDbsFzlw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
 aliases:
   - /resources/xJsuDbsFzlw
@@ -45,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:11:06Z
   short_title: 2025-07-07T17:54:14Z
   tldr: 2025-08-07T13:02:37Z
+ResourceId: xJsuDbsFzlw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: xJsuDbsFzlw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xJsuDbsFzlw/maxresdefault.jpg

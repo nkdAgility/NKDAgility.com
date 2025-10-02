@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: monthly
-ResourceId: YQ61AQW739A
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: YQ61AQW739A
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: from-legacy-pain-to-modern-devops-my-proven-roadmap-for-real-engineering-transformation
 aliases:
   - /resources/YQ61AQW739A
@@ -25,7 +24,7 @@ aliasesArchive:
 source: youtube
 layout: video
 concepts:
-  - Tool
+  - Practice
 categories:
   - DevOps
   - Engineering Excellence
@@ -35,6 +34,7 @@ tags:
   - Operational Practices
   - Engineering Practices
   - Azure DevOps
+  - Experimentation
   - Pragmatic Thinking
   - Personal
   - Continuous Delivery
@@ -45,11 +45,11 @@ tags:
   - Metrics and Learning
   - Value Delivery
   - Continuous Improvement
-  - Sociotechnical Systems
 Watermarks:
   description: 2025-07-24T15:10:36Z
   short_title: 2025-07-24T15:10:37Z
   tldr: 2025-07-30T23:21:53Z
+ResourceImportSource: Youtube
 videoId: YQ61AQW739A
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/YQ61AQW739A/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLDgxpLWoJLJYOlFORIUC4e7TbJfNg
@@ -57,6 +57,8 @@ duration: 586
 resourceTypes:
   - video
 isShort: false
+ResourceId: YQ61AQW739A
+ResourceType: videos
 
 ---
 Building a Roadmap from Legacy to Modern Engineering: My Approach

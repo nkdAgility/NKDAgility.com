@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: PLxBb5FqtO-
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: PLxBb5FqtO-
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: slaying-the-dragons-and-how-to-successfully-descale-at-scale
 aliases:
   - /resources/PLxBb5FqtO-
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-07T13:15:57Z
   short_title: 2025-07-07T17:58:16Z
   tldr: 2025-08-07T13:12:31Z
+ResourceId: PLxBb5FqtO-
+ResourceType: blog
 ResourceImportId: 44209
 creator: Martin Hinshelwood
 resourceTypes: blog

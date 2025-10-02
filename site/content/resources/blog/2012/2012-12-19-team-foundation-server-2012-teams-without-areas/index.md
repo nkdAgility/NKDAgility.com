@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: 5IipWQTVLEo
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 5IipWQTVLEo
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: teams-without-areas-using-a-team-field-in-tfs
 aliases:
   - /resources/5IipWQTVLEo
@@ -31,6 +31,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:07:04Z
+ResourceId: 5IipWQTVLEo
+ResourceType: blog
 ResourceImportId: 9188
 creator: Martin Hinshelwood
 resourceTypes: blog

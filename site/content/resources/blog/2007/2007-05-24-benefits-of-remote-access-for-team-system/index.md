@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: FOg_cOXZKmA
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: FOg_cOXZKmA
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: benefits-of-remote-access-for-team-system
 aliases:
   - /resources/FOg_cOXZKmA
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:23Z
+ResourceId: FOg_cOXZKmA
+ResourceType: blog
 ResourceImportId: 398
 creator: Martin Hinshelwood
 resourceTypes: blog

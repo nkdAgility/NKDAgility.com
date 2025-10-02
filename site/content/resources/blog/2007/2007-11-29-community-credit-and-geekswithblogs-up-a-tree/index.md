@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: hEA0D2QOf3l
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: hEA0D2QOf3l
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: community-credit-and-geekswithblogs-up-a-tree
 aliases:
   - /resources/hEA0D2QOf3l
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:28Z
+ResourceId: hEA0D2QOf3l
+ResourceType: blog
 ResourceImportId: 282
 creator: Martin Hinshelwood
 resourceTypes: blog

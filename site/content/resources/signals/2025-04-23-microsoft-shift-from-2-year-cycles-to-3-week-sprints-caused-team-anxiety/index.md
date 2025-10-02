@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: AW5GP1Vnnp5
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: AW5GP1Vnnp5
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: microsoft-shift-from-2-year-cycles-to-3-week-sprints-caused-team-anxiety
 aliases:
   - /resources/AW5GP1Vnnp5
@@ -48,6 +48,8 @@ Watermarks:
   description: 2025-05-16T15:55:16Z
   short_title: 2025-07-07T16:44:42Z
   tldr: 2025-08-07T12:33:18Z
+ResourceId: AW5GP1Vnnp5
+ResourceType: signals
 
 ---
 When Microsoft moved from a two-year delivery cycle to 3-week Sprints, something unexpected happened—teams became terrified.

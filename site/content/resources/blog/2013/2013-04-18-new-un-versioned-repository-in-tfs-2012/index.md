@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: AoTaD6481iE
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: AoTaD6481iE
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: new-un-versioned-repository-in-tfs-2012
 aliases:
   - /resources/AoTaD6481iE
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:06:38Z
+ResourceId: AoTaD6481iE
+ResourceType: blog
 ResourceImportId: 9452
 creator: Martin Hinshelwood
 resourceTypes: blog

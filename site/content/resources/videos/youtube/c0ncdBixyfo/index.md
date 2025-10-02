@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: c0ncdBixyfo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: c0ncdBixyfo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-the-one-thing-that-no-agile-team-can-survive
 aliases:
   - /resources/c0ncdBixyfo
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:08:41Z
   short_title: 2025-07-07T17:52:21Z
   tldr: 2025-08-07T12:58:23Z
+ResourceId: c0ncdBixyfo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: c0ncdBixyfo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/c0ncdBixyfo/maxresdefault.jpg

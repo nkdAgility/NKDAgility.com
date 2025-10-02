@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: 2s_5i0e0NBx
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 2s_5i0e0NBx
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: does-your-organisation-have-both-project-mangers-as-well-as-product-owners
 aliases:
   - /resources/2s_5i0e0NBx
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:22:00Z
+ResourceId: 2s_5i0e0NBx
+ResourceType: blog
 ResourceImportId: 10489
 creator: Martin Hinshelwood
 resourceTypes: blog

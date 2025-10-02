@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: n9OhtpbJs0-
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: n9OhtpbJs0-
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-insufficiency-of-scrum-is-a-fallacy
 aliases:
   - /resources/n9OhtpbJs0-
@@ -33,6 +33,8 @@ tags:
   - Team Performance
 Watermarks:
   description: 2025-05-13T15:06:45Z
+ResourceId: n9OhtpbJs0-
+ResourceType: blog
 ResourceImportId: 9338
 creator: Martin Hinshelwood
 resourceTypes: blog

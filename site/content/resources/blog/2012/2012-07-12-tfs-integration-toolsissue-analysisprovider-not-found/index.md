@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 8A-nFDUhe2o
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 8A-nFDUhe2o
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-integration-tools–issue-analysisprovider-not-found
 aliases:
   - /resources/blog/tfs-integration-tools-issue-analysisprovider-not-found
@@ -31,6 +31,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:46Z
+ResourceId: 8A-nFDUhe2o
+ResourceType: blog
 ResourceImportId: 6136
 creator: Martin Hinshelwood
 resourceTypes: blog

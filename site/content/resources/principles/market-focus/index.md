@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: T6DrE9pN0ds
-ResourceImport: false
-ResourceType: principles
-ResourceContentOrigin: Human
+ItemId: T6DrE9pN0ds
+ItemType: principles
+ItemKind: resource
+ItemContentOrigin: Human
 slug: market-focus
 aliases:
   - /learn/agile-delivery-kit/first-principals/market-focus/
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-07T12:57:49Z
   short_title: 2025-07-07T17:48:06Z
   tldr: 2025-08-07T12:48:25Z
+ResourceId: T6DrE9pN0ds
+ResourceType: principles
 recommendedContent: 
 creator: Martin Hinshelwood
 resourceTypes: principles

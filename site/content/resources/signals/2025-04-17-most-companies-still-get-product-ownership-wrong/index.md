@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: n7KbcPbUTTe
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: n7KbcPbUTTe
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: most-companies-still-get-product-ownership-wrong
 aliases:
   - /resources/n7KbcPbUTTe
@@ -46,6 +46,8 @@ Watermarks:
   description: 2025-05-16T15:55:23Z
   short_title: 2025-07-07T16:44:49Z
   tldr: 2025-08-07T12:33:30Z
+ResourceId: n7KbcPbUTTe
+ResourceType: signals
 
 ---
 Most companies still get Product Ownership wrong. They either treat it as a glorified backlog manager or assume any business analyst can do the job. But a real Product Owner isn’t just an order taker. They are a product strategist, decision-maker, and stakeholder wrangler, responsible for maximising product value.

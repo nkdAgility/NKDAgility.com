@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: xzuqsTxb7UD
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: xzuqsTxb7UD
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: one-team-project-collection-to-rule-them-all-consolidating-team-projects
 aliases:
   - /resources/xzuqsTxb7UD
@@ -32,6 +32,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:44Z
+ResourceId: xzuqsTxb7UD
+ResourceType: blog
 ResourceImportId: 6109
 creator: Martin Hinshelwood
 resourceTypes: blog

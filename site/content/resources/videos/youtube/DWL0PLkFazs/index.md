@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: DWL0PLkFazs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: DWL0PLkFazs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
 aliases:
   - /resources/DWL0PLkFazs
@@ -33,6 +32,9 @@ Watermarks:
   description: 2025-05-07T13:16:29Z
   short_title: 2025-07-07T17:58:44Z
   tldr: 2025-08-07T13:13:37Z
+ResourceId: DWL0PLkFazs
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: DWL0PLkFazs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/DWL0PLkFazs/maxresdefault.jpg

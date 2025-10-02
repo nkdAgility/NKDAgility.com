@@ -5,16 +5,15 @@ description: Explores how effective product ownership and lean delivery drive al
 tldr: Strong product ownership is essential for aligning product vision with business goals, fostering team collaboration, and enabling quick adaptation to change. Lean product delivery helps teams focus on delivering customer value, encourages continuous improvement, and empowers teams to take ownership of their work. Development managers should invest in training, promote experimentation, and establish feedback loops to enhance product ownership and stay competitive.
 date: 2023-09-28T09:01:38Z
 lastmod: 2023-09-28T09:01:38Z
-weight: 785
+weight: 520
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
-ResourceId: UW26aDoBVbQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: UW26aDoBVbQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
 aliases:
   - /resources/UW26aDoBVbQ
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:09:13Z
   short_title: 2025-07-07T17:52:48Z
   tldr: 2025-08-07T12:59:29Z
+ResourceId: UW26aDoBVbQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: UW26aDoBVbQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg

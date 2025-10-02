@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: tPX-wc6pG7M
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: tPX-wc6pG7M
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
 aliases:
   - /resources/tPX-wc6pG7M
@@ -34,6 +33,7 @@ categories:
 tags:
   - Organisational Culture
   - Employee Engagement
+  - Personal
   - Agile Philosophy
   - Sociotechnical Systems
   - Self Organisation
@@ -46,11 +46,13 @@ tags:
   - Organisational Change
   - Organisational Psychology
   - Team Motivation
-  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:09:12Z
   short_title: 2025-07-07T17:52:47Z
   tldr: 2025-08-07T12:59:26Z
+ResourceId: tPX-wc6pG7M
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: tPX-wc6pG7M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg

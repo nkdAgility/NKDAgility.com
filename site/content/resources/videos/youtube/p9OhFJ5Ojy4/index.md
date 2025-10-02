@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: p9OhFJ5Ojy4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: p9OhFJ5Ojy4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
 aliases:
   - /resources/p9OhFJ5Ojy4
@@ -36,10 +35,14 @@ tags:
   - Pragmatic Thinking
   - Business Agility
   - Change Management
+  - Empirical Process Control
 Watermarks:
   description: 2025-05-07T13:15:26Z
   short_title: 2025-07-07T17:57:51Z
   tldr: 2025-08-07T13:11:07Z
+ResourceId: p9OhFJ5Ojy4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: p9OhFJ5Ojy4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg

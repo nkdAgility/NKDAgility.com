@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: BPBvfH-1wzW
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: BPBvfH-1wzW
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 aliases:
   - /resources/BPBvfH-1wzW
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:07:57Z
+ResourceId: BPBvfH-1wzW
+ResourceType: blog
 ResourceImportId: 7402
 creator: Martin Hinshelwood
 resourceTypes: blog

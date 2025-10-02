@@ -5,7 +5,7 @@ description: Explores why real leadership means designing systems that enable te
 tldr: Telling people what to do is not leadership, it is a sign of poor system design that stifles autonomy and slows delivery. Effective leadership means creating systems where teams have clear goals, constraints, and feedback loops so they can self-manage, deliver value, and adapt without micromanagement. Focus on improving your delivery system—set meaningful goals, enable autonomy with clear boundaries, use evidence-based metrics, and empower teams to own outcomes—so you can step back and let professionals do their best work.
 date: 2025-08-04T09:00:00Z
 lastmod: 2025-08-04T09:00:00Z
-weight: 30
+weight: 25
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -17,10 +17,10 @@ contributors:
     external: https://www.linkedin.com/in/alexbrown/
   - name: Alessandro Recca
     external: https://www.linkedin.com/in/alessandro-recca-b9974a21a/
-ResourceId: W_KrTupmowf
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: W_KrTupmowf
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: telling-people-what-to-do-is-not-leadership-it-s-a-failure-of-system-design
 aliases:
   - /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
@@ -30,9 +30,9 @@ aliasesArchive:
 concepts:
   - Tenet
 categories:
-  - Product Development
+  - Technical Leadership
   - Engineering Excellence
-  - Leadership
+  - Product Development
 tags:
   - Agentic Engineering
   - Lean Principles
@@ -54,6 +54,8 @@ Watermarks:
   short_title: 2025-07-07T16:43:11Z
   tldr: 2025-07-30T23:21:50Z
 creator: Martin Hinshelwood
+ResourceId: W_KrTupmowf
+ResourceType: blog
 
 ---
 If your organisation still measures leadership by how many decisions a manager makes, you are not leading. You are leaking value.

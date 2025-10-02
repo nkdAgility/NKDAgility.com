@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: kYNSKaqUYb7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: kYNSKaqUYb7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: ihandlerfactory
 aliases:
   - /resources/kYNSKaqUYb7
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T16:23:45Z
+ResourceId: kYNSKaqUYb7
+ResourceType: blog
 ResourceImportId: 214
 creator: Martin Hinshelwood
 resourceTypes: blog

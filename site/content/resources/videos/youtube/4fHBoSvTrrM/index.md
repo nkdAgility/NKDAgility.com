@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 4fHBoSvTrrM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 4fHBoSvTrrM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 aliases:
   - /resources/4fHBoSvTrrM
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:13:24Z
   short_title: 2025-07-07T17:56:06Z
   tldr: 2025-08-07T13:07:00Z
+ResourceId: 4fHBoSvTrrM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 4fHBoSvTrrM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4fHBoSvTrrM/maxresdefault.jpg

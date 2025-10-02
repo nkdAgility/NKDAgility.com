@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: GfB3nB_PMyY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: GfB3nB_PMyY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-power-of-immersive-learning-bridging-theory-and-experience
 aliases:
   - /resources/GfB3nB_PMyY
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:05:54Z
   short_title: 2025-07-07T17:49:51Z
   tldr: 2025-08-07T12:53:03Z
+ResourceId: GfB3nB_PMyY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: GfB3nB_PMyY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/GfB3nB_PMyY/maxresdefault.jpg

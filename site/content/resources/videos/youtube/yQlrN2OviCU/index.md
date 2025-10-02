@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: yQlrN2OviCU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: yQlrN2OviCU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-power-of-peer-feedback-in-immersive-learning
 aliases:
   - /resources/yQlrN2OviCU
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:05:56Z
   short_title: 2025-07-07T17:49:53Z
   tldr: 2025-08-07T12:53:08Z
+ResourceId: yQlrN2OviCU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: yQlrN2OviCU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yQlrN2OviCU/maxresdefault.jpg

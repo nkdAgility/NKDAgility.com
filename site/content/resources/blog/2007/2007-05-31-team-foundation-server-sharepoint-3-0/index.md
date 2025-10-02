@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: vIsHKPxOtz-
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: vIsHKPxOtz-
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: team-foundation-server-sharepoint-3-0
 aliases:
   - /resources/blog/team-foundation-server-sharepoint-3.0
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:11Z
+ResourceId: vIsHKPxOtz-
+ResourceType: blog
 ResourceImportId: 391
 creator: Martin Hinshelwood
 resourceTypes: blog

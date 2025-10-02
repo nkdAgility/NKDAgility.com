@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: _bjNHN4PI9s
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: _bjNHN4PI9s
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 aliases:
   - /resources/_bjNHN4PI9s
@@ -35,6 +34,9 @@ Watermarks:
   description: 2025-05-07T13:15:45Z
   short_title: 2025-07-07T17:58:07Z
   tldr: 2025-08-07T13:11:58Z
+ResourceId: _bjNHN4PI9s
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: _bjNHN4PI9s
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_bjNHN4PI9s/maxresdefault.jpg

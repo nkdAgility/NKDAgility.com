@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: QI3oE9IUc6E
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: QI3oE9IUc6E
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
 aliases:
   - /resources/QI3oE9IUc6E
@@ -36,6 +35,7 @@ categories:
   - Scrum
   - Product Development
 tags:
+  - Personal
   - Agile Frameworks
   - Software Development
   - Product Delivery
@@ -44,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:10:13Z
   short_title: 2025-07-07T17:53:33Z
   tldr: 2025-08-07T13:01:09Z
+ResourceId: QI3oE9IUc6E
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: QI3oE9IUc6E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/QI3oE9IUc6E/maxresdefault.jpg

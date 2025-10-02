@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: gUB-uq9tH-d
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: gUB-uq9tH-d
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: how-visual-studio-2010-and-team-foundation-server-enable-compliance
 aliases:
   - /resources/gUB-uq9tH-d
@@ -30,6 +30,8 @@ tags:
   - Product Delivery
 Watermarks:
   description: 2025-05-13T15:11:11Z
+ResourceId: gUB-uq9tH-d
+ResourceType: blog
 ResourceImportId: 14
 creator: Martin Hinshelwood
 resourceTypes: blog

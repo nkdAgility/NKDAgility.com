@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: JdM99GWW5Pw
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: JdM99GWW5Pw
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: outlook-2007-users-angry-well-maybe-not-users
 aliases:
   - /resources/JdM99GWW5Pw
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:27Z
+ResourceId: JdM99GWW5Pw
+ResourceType: blog
 ResourceImportId: 442
 creator: Martin Hinshelwood
 resourceTypes: blog

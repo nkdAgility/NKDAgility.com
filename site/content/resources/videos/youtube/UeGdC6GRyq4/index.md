@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: UeGdC6GRyq4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: UeGdC6GRyq4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: under-employed-30-upfront-balance-when-you-are-employed
 aliases:
   - /resources/UeGdC6GRyq4
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:11:39Z
   short_title: 2025-07-07T17:54:40Z
   tldr: 2025-08-07T13:03:49Z
+ResourceId: UeGdC6GRyq4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: UeGdC6GRyq4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/UeGdC6GRyq4/maxresdefault.jpg

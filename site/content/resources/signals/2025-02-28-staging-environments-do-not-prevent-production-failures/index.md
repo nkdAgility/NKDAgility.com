@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: syS5yJ_GthF
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: syS5yJ_GthF
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: staging-environments-do-not-prevent-production-failures
 aliases:
   - /resources/syS5yJ_GthF
@@ -26,10 +26,10 @@ categories:
   - DevOps
   - Engineering Excellence
 tags:
-  - Continuous Delivery
   - Software Development
   - Pragmatic Thinking
   - Frequent Releases
+  - Continuous Delivery
   - Release Management
   - Technical Mastery
   - Operational Practices
@@ -53,6 +53,8 @@ Watermarks:
   description: 2025-05-16T15:56:40Z
   short_title: 2025-07-07T16:45:43Z
   tldr: 2025-08-07T12:35:27Z
+ResourceId: syS5yJ_GthF
+ResourceType: signals
 
 ---
 There’s a hard truth most teams don’t want to hear: your staging environment isn’t saving you from production failures. It’s just giving you false confidence.

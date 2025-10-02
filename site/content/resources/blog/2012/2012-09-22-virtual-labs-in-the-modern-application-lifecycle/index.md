@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: SXJ7aTQkyMj
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: SXJ7aTQkyMj
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: virtual-labs-in-the-modern-application-lifecycle
 aliases:
   - /resources/SXJ7aTQkyMj
@@ -30,6 +30,8 @@ tags:
   - Internal Developer Platform
 Watermarks:
   description: 2025-05-13T15:07:33Z
+ResourceId: SXJ7aTQkyMj
+ResourceType: blog
 ResourceImportId: 8803
 creator: Martin Hinshelwood
 resourceTypes: blog

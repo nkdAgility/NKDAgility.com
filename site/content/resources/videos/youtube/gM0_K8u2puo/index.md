@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: gM0_K8u2puo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: gM0_K8u2puo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-market-leadership-the-power-of-frequent-product-releases
 aliases:
   - /resources/gM0_K8u2puo
@@ -42,6 +41,7 @@ Watermarks:
   description: 2025-05-07T12:49:48Z
   short_title: 2025-07-07T17:46:46Z
   tldr: 2025-08-07T12:40:08Z
+ResourceImportSource: Youtube
 videoId: gM0_K8u2puo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gM0_K8u2puo/maxresdefault.jpg
@@ -49,6 +49,8 @@ duration: 34
 resourceTypes:
   - video
 isShort: true
+ResourceId: gM0_K8u2puo
+ResourceType: videos
 
 ---
 In today’s fast-paced digital landscape, the ability to set market trends rather than follow them is crucial for any business aiming for success. I’ve seen firsthand how organisations that embrace a proactive approach to [product delivery]({{< ref "/tags/product-delivery" >}}) can not only survive but thrive. Here’s how you can position yourself as a market leader by adopting a tight release frequency and continuously delivering value to your users.

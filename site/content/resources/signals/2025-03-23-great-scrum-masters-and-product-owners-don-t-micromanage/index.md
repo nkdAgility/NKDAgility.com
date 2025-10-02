@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: 8W3oqNsNnMS
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 8W3oqNsNnMS
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: great-scrum-masters-and-product-owners-don-t-micromanage
 aliases:
   - /resources/8W3oqNsNnMS
@@ -35,6 +35,7 @@ tags:
   - Professional Scrum
   - Social Technologies
   - Agile Product Management
+  - Team Collaboration
   - Software Development
 platform_signals:
   - platform: LinkedIn
@@ -51,6 +52,8 @@ Watermarks:
   description: 2025-05-16T15:55:56Z
   short_title: 2025-07-07T16:45:16Z
   tldr: 2025-08-07T12:34:32Z
+ResourceId: 8W3oqNsNnMS
+ResourceType: signals
 
 ---
 Great Scrum Masters and Product Owners don’t micromanage. They provide clarity, foster initiative, and hold teams accountable.

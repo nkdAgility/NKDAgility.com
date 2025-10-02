@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: jKVJOS1VMWK
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: jKVJOS1VMWK
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: screenshots-of-vista-from-2002-to-today
 aliases:
   - /resources/jKVJOS1VMWK
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:35Z
+ResourceId: jKVJOS1VMWK
+ResourceType: blog
 ResourceImportId: 450
 creator: Martin Hinshelwood
 resourceTypes: blog

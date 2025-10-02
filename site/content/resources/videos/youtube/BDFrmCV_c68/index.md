@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: BDFrmCV_c68
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: BDFrmCV_c68
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 7-deadly-sins-of-agile-pride
 aliases:
   - /resources/BDFrmCV_c68
@@ -37,10 +36,14 @@ tags:
   - Software Development
   - Pragmatic Thinking
   - Customer Focus
+  - Organisational Culture
 Watermarks:
   description: 2025-05-07T13:08:48Z
   short_title: 2025-07-07T17:52:26Z
   tldr: 2025-08-07T12:58:35Z
+ResourceId: BDFrmCV_c68
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: BDFrmCV_c68
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BDFrmCV_c68/maxresdefault.jpg

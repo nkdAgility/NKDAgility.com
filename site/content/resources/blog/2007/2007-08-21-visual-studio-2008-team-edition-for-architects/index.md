@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: wPAkb39sRlH
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: wPAkb39sRlH
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2008-team-edition-for-architects
 aliases:
   - /resources/wPAkb39sRlH
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:23Z
+ResourceId: wPAkb39sRlH
+ResourceType: blog
 ResourceImportId: 324
 creator: Martin Hinshelwood
 resourceTypes: blog

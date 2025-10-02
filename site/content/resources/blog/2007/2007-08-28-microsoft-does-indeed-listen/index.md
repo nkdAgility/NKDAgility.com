@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: vZZ_DZ3emxB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: vZZ_DZ3emxB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: microsoft-does-indeed-listen
 aliases:
   - /resources/vZZ_DZ3emxB
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:19Z
+ResourceId: vZZ_DZ3emxB
+ResourceType: blog
 ResourceImportId: 318
 creator: Martin Hinshelwood
 resourceTypes: blog

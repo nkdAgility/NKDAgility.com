@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ELz8sUhrCKr
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ELz8sUhrCKr
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: xbox-360-elite
 aliases:
   - /resources/ELz8sUhrCKr
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:05Z
+ResourceId: ELz8sUhrCKr
+ResourceType: blog
 ResourceImportId: 311
 creator: Martin Hinshelwood
 resourceTypes: blog

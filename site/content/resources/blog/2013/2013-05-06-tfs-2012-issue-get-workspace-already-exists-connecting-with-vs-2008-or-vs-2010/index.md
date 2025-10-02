@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ZbdFc4NfQUe
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ZbdFc4NfQUe
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 aliases:
   - /resources/ZbdFc4NfQUe
@@ -30,6 +30,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:31Z
+ResourceId: ZbdFc4NfQUe
+ResourceType: blog
 ResourceImportId: 9496
 creator: Martin Hinshelwood
 resourceTypes: blog

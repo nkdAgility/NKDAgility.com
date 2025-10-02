@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: monthly
-ResourceId: xxdg6WPNcDc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: xxdg6WPNcDc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-team-s-results
 aliases:
   - /resources/xxdg6WPNcDc
@@ -36,11 +35,11 @@ categories:
   - Scrum
   - Product Development
 tags:
-  - Software Development
   - Definition of Done
+  - Pragmatic Thinking
   - Technical Mastery
   - Product Delivery
-  - Pragmatic Thinking
+  - Software Development
   - Technical Debt
   - Operational Practices
   - Professional Scrum
@@ -54,6 +53,7 @@ Watermarks:
   description: 2025-05-07T20:36:57Z
   short_title: 2025-07-07T16:44:05Z
   tldr: 2025-08-07T12:31:58Z
+ResourceImportSource: Youtube
 videoId: xxdg6WPNcDc
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/xxdg6WPNcDc/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBj8suPfiSHxrqDQn0oep7IwNm1rg
@@ -61,6 +61,8 @@ duration: 60
 resourceTypes:
   - video
 isShort: true
+ResourceId: xxdg6WPNcDc
+ResourceType: videos
 
 ---
 Every shortcut adds to your technical debt. I see it time and again: teams under pressure, deadlines looming, and the temptation to cut corners becomes almost irresistible. But let me be clear—every time you skip quality standards, every time you fudge what “done” means, you’re not saving time. You’re simply deferring the pain. You’re creating future rework, and that bill always comes due.

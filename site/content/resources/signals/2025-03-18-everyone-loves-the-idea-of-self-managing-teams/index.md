@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: xETx_jwnIHO
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: xETx_jwnIHO
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: everyone-loves-the-idea-of-self-managing-teams
 aliases:
   - /resources/xETx_jwnIHO
@@ -32,14 +32,13 @@ tags:
   - Professional Scrum
   - Pragmatic Thinking
   - Team Collaboration
+  - Common Goals
   - Agile Planning
   - Team Performance
   - Team Motivation
   - Value Delivery
-  - Common Goals
   - Agile Leadership
   - Organisational Culture
-  - Agentic Agility
   - Organisational Agility
 platform_signals:
   - platform: LinkedIn
@@ -56,6 +55,8 @@ Watermarks:
   description: 2025-05-16T15:56:05Z
   short_title: 2025-07-07T16:45:22Z
   tldr: 2025-08-07T12:34:42Z
+ResourceId: xETx_jwnIHO
+ResourceType: signals
 
 ---
 Everyone loves the idea of self-managing teams. Give people autonomy, let them decide how to work, and everything just falls into place, right?

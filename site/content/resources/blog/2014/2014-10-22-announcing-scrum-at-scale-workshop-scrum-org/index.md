@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: eSPePG8uDaZ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: eSPePG8uDaZ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upcomming-scrum-at-scale-workshop-from-scrum-org
 aliases:
   - /resources/blog/upcomming-scrum-at-scale-workshop-from-scrum.org
@@ -37,6 +37,8 @@ Watermarks:
   description: 2025-05-12T14:20:55Z
   tldr: 2025-08-07T13:26:50Z
   short_title: 2025-08-07T13:26:51Z
+ResourceId: eSPePG8uDaZ
+ResourceType: blog
 ResourceImportId: 10824
 creator: Martin Hinshelwood
 resourceTypes: blog

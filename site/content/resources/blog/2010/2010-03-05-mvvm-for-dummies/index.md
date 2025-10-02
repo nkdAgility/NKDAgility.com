@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: __7oXNKjdWP
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: __7oXNKjdWP
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: mvvm-for-dummies
 aliases:
   - /resources/__7oXNKjdWP
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:22:35Z
+ResourceId: __7oXNKjdWP
+ResourceType: blog
 ResourceImportId: 65
 creator: Martin Hinshelwood
 resourceTypes: blog

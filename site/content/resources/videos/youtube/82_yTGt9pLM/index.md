@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: 82_yTGt9pLM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 82_yTGt9pLM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
 aliases:
   - /resources/82_yTGt9pLM
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:11:32Z
   short_title: 2025-07-07T17:54:34Z
   tldr: 2025-08-07T13:03:36Z
+ResourceId: 82_yTGt9pLM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 82_yTGt9pLM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/82_yTGt9pLM/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 9VHasQBlQc8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 9VHasQBlQc8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-importance-of-patience-and-trust-in-building-agile-organizations
 aliases:
   - /resources/9VHasQBlQc8
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:07:09Z
   short_title: 2025-07-07T17:51:12Z
   tldr: 2025-08-07T12:55:32Z
+ResourceId: 9VHasQBlQc8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 9VHasQBlQc8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/9VHasQBlQc8/maxresdefault.jpg

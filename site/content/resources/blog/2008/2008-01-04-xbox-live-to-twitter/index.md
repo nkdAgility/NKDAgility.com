@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 7DGS8UR6dab
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 7DGS8UR6dab
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: xbox-live-to-twitter
 aliases:
   - /resources/7DGS8UR6dab
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:09Z
+ResourceId: 7DGS8UR6dab
+ResourceType: blog
 ResourceImportId: 271
 creator: Martin Hinshelwood
 resourceTypes: blog

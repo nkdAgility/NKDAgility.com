@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: LrLP9ghLVoC
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: LrLP9ghLVoC
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: connecting-vs2010-to-tfs-2008
 aliases:
   - /resources/LrLP9ghLVoC
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:51Z
+ResourceId: LrLP9ghLVoC
+ResourceType: blog
 ResourceImportId: 118
 creator: Martin Hinshelwood
 resourceTypes: blog

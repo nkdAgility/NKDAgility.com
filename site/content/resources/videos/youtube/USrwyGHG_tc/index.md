@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: USrwyGHG_tc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: USrwyGHG_tc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: is-a-scrum-master-an-agile-micromanager
 aliases:
   - /resources/USrwyGHG_tc
@@ -56,6 +55,9 @@ Watermarks:
   description: 2025-05-07T13:13:05Z
   short_title: 2025-07-07T17:55:47Z
   tldr: 2025-08-07T13:06:14Z
+ResourceId: USrwyGHG_tc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: USrwyGHG_tc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/USrwyGHG_tc/maxresdefault.jpg

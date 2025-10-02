@@ -5,16 +5,15 @@ description: Explores how silence in agile teams signals disengagement, and offe
 tldr: Silence during agile sprint reviews signals deeper issues like lack of engagement, unclear goals, and poor product ownership, which can derail team effectiveness. To address this, focus on building trust, communicating clear objectives, and actively involving all stakeholders through inclusive practices and open discussions. Development managers should ensure product owners foster transparency and engagement to transform passive meetings into collaborative, value-driven sessions.
 date: 2023-10-23T11:00:23Z
 lastmod: 2023-10-23T11:00:23Z
-weight: 640
+weight: 430
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: monthly
-ResourceId: YuKD3WWFJNQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: YuKD3WWFJNQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 7-harbingers-of-the-agile-apocalypse-silence
 aliases:
   - /resources/YuKD3WWFJNQ
@@ -56,6 +55,9 @@ Watermarks:
   description: 2025-05-07T13:08:28Z
   short_title: 2025-07-07T17:52:12Z
   tldr: 2025-08-07T12:58:00Z
+ResourceId: YuKD3WWFJNQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: YuKD3WWFJNQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/YuKD3WWFJNQ/maxresdefault.jpg

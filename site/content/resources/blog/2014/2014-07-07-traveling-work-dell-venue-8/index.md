@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Y8cHV08YFNc
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Y8cHV08YFNc
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: traveling-for-work-and-the-dell-venue-8
 aliases:
   - /resources/Y8cHV08YFNc
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:21:33Z
+ResourceId: Y8cHV08YFNc
+ResourceType: blog
 ResourceImportId: 10645
 creator: Martin Hinshelwood
 resourceTypes: blog

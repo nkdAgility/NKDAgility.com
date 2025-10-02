@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: vXCIf3eBJfs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: vXCIf3eBJfs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-to-choose-the-right-agile-coach-for-your-business-success
 aliases:
   - /resources/vXCIf3eBJfs
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:07:32Z
   short_title: 2025-07-07T17:51:30Z
   tldr: 2025-08-07T12:56:22Z
+ResourceId: vXCIf3eBJfs
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: vXCIf3eBJfs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vXCIf3eBJfs/maxresdefault.jpg

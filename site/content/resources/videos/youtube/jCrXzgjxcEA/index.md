@@ -5,16 +5,15 @@ description: Learn how to use Azure DevOps to set up and customise Caman boards 
 tldr: Using Azure DevOps to implement a Caman strategy helps hybrid teams visualise and manage work more effectively by establishing shared workflow rules, customising boards and columns, and tracking key metrics like lead and cycle time. Involving the whole team in defining and refining these rules improves transparency and reduces local optimisations that can harm overall flow. Development managers should ensure their teams collaborate on workflow setup in Azure DevOps and regularly review it to optimise efficiency and clarity.
 date: 2024-03-29T16:42:17Z
 lastmod: 2024-03-29T16:42:17Z
-weight: 840
+weight: 510
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
-ResourceId: jCrXzgjxcEA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: jCrXzgjxcEA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
 aliases:
   - /resources/jCrXzgjxcEA
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:05:22Z
   short_title: 2025-07-07T17:49:25Z
   tldr: 2025-08-07T12:51:59Z
+ResourceId: jCrXzgjxcEA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: jCrXzgjxcEA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg

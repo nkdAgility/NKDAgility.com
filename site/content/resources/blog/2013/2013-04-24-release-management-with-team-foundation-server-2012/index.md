@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: GqwYV8fekzQ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: GqwYV8fekzQ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: release-management-with-team-foundation-server-2012
 aliases:
   - /resources/GqwYV8fekzQ
@@ -39,6 +39,8 @@ tags:
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:06:34Z
+ResourceId: GqwYV8fekzQ
+ResourceType: blog
 ResourceImportId: 9468
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: XYMN44lJp1n
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: XYMN44lJp1n
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: let-us-do-the-maths
 aliases:
   - /resources/XYMN44lJp1n
@@ -34,9 +34,9 @@ tags:
   - Market Adaptability
   - Frequent Releases
   - Value Delivery
+  - Team Performance
   - Agile Planning
   - Agile Product Management
-  - Team Performance
   - Organisational Agility
   - Release Management
 platform_signals:
@@ -54,6 +54,8 @@ Watermarks:
   description: 2025-05-16T15:55:07Z
   short_title: 2025-07-07T16:44:35Z
   tldr: 2025-08-07T12:33:03Z
+ResourceId: XYMN44lJp1n
+ResourceType: signals
 
 ---
 Let’s do the maths.

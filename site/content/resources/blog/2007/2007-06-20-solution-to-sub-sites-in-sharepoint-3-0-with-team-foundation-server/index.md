@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: B1bu87flA8w
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: B1bu87flA8w
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 aliases:
   - /resources/blog/solution-to-sub-sites-in-sharepoint-3.0-with-team-foundation-server
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:49Z
+ResourceId: B1bu87flA8w
+ResourceType: blog
 ResourceImportId: 376
 creator: Martin Hinshelwood
 resourceTypes: blog

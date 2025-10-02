@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: JUQrPR1RNmh
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: JUQrPR1RNmh
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 aliases:
   - /resources/JUQrPR1RNmh
@@ -29,6 +29,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:22:58Z
+ResourceId: JUQrPR1RNmh
+ResourceType: blog
 ResourceImportId: 185
 creator: Martin Hinshelwood
 resourceTypes: blog

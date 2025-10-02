@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: Yesn-VHhQ4k
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Yesn-VHhQ4k
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
 aliases:
   - /resources/Yesn-VHhQ4k
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:14:28Z
   short_title: 2025-07-07T17:57:05Z
   tldr: 2025-08-07T13:09:01Z
+ResourceId: Yesn-VHhQ4k
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Yesn-VHhQ4k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Yesn-VHhQ4k/maxresdefault.jpg

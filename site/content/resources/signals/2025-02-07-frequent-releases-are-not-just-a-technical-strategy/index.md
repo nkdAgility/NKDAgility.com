@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: _o_vjO--kSl
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: _o_vjO--kSl
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: frequent-releases-are-not-just-a-technical-strategy
 aliases:
   - /resources/_o_vjO--kSl
@@ -33,7 +33,6 @@ tags:
   - Team Performance
   - Market Adaptability
   - Deployment Frequency
-  - Continuous Improvement
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7293667330381787136
@@ -49,6 +48,8 @@ Watermarks:
   description: 2025-05-16T15:57:05Z
   short_title: 2025-07-07T17:46:42Z
   tldr: 2025-08-07T12:39:56Z
+ResourceId: _o_vjO--kSl
+ResourceType: signals
 
 ---
 Frequent releases are not just a technical strategy. They are a survival strategy.

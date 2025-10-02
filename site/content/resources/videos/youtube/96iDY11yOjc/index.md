@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: 96iDY11yOjc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 96iDY11yOjc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
 aliases:
   - /resources/96iDY11yOjc
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:11:51Z
   short_title: 2025-07-07T17:54:49Z
   tldr: 2025-08-07T13:04:12Z
+ResourceId: 96iDY11yOjc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 96iDY11yOjc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/96iDY11yOjc/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: UgFVn4Sp1rw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: UgFVn4Sp1rw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-product-development-costs-empower-your-team-for-financial-success
 aliases:
   - /resources/UgFVn4Sp1rw
@@ -42,6 +41,7 @@ Watermarks:
   description: 2025-05-07T12:56:36Z
   short_title: 2025-07-07T17:47:05Z
   tldr: 2025-08-07T12:40:46Z
+ResourceImportSource: Youtube
 videoId: UgFVn4Sp1rw
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/UgFVn4Sp1rw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAjw3EucvQxwrhElUanM058m6EQ9w
@@ -49,6 +49,8 @@ duration: 675
 resourceTypes:
   - video
 isShort: false
+ResourceId: UgFVn4Sp1rw
+ResourceType: videos
 
 ---
 When it comes to building products, understanding the cost associated with those products is absolutely crucial. Over the years, I've learned that the financial landscape of [product development]({{< ref "/categories/product-development" >}}) is complex, but it boils down to a few key components. The two primary costs in [software development]({{< ref "/tags/software-development" >}}) are typically hardware and, more significantly, the people involved. If you have a team of 50 people working on a product, their salaries will likely represent your largest expense. Following that, if you're deploying to the cloud, your infrastructure costs will come into play as your second biggest expense.

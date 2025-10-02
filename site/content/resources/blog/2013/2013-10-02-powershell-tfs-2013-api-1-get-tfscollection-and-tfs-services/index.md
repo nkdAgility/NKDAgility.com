@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: kaEC07NAXT7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: kaEC07NAXT7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 aliases:
   - /resources/kaEC07NAXT7
@@ -31,6 +31,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:23:02Z
+ResourceId: kaEC07NAXT7
+ResourceType: blog
 ResourceImportId: 10149
 creator: Martin Hinshelwood
 resourceTypes: blog

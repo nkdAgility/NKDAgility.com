@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Y7Cd1aocMKM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Y7Cd1aocMKM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-effective-is-scrum-training-via-digital-delivery
 aliases:
   - /resources/Y7Cd1aocMKM
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:14:19Z
   short_title: 2025-07-07T17:56:57Z
   tldr: 2025-08-07T13:08:46Z
+ResourceId: Y7Cd1aocMKM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Y7Cd1aocMKM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Y7Cd1aocMKM/maxresdefault.jpg

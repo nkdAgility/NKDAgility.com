@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: d3jujAd6f6r
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: d3jujAd6f6r
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: are-scrum-masters-agents-for-change
 aliases:
   - /resources/d3jujAd6f6r
@@ -30,6 +30,8 @@ tags:
   - Scrum Master
 Watermarks:
   description: 2025-05-13T15:10:06Z
+ResourceId: d3jujAd6f6r
+ResourceType: blog
 ResourceImportId: 3823
 creator: Martin Hinshelwood
 resourceTypes: blog

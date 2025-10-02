@@ -5,16 +5,15 @@ description: Explains how the APS course uses practical exercises and simulation
 tldr: The APS course uses hands-on simulations to help participants deeply understand scrum, recognize common dysfunctions in traditional and current agile practices, and learn how to apply scrum effectively even within organizational constraints. It highlights how traditional mindsets and policies can block team success and shows the value of aligning with scrum principles for better problem-solving and outcomes. Managers are encouraged to attend so they can see firsthand how their decisions impact teams and identify changes needed to support effective scrum adoption.
 date: 2023-01-18T08:57:16Z
 lastmod: 2023-01-18T08:57:16Z
-weight: 640
+weight: 380
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: monthly
-ResourceId: grJFd9-R5Pw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: grJFd9-R5Pw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-does-the-aps-course-help-people-apply-scrum-effectively
 aliases:
   - /resources/grJFd9-R5Pw
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:14:32Z
   short_title: 2025-07-07T17:57:08Z
   tldr: 2025-08-07T13:09:10Z
+ResourceId: grJFd9-R5Pw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: grJFd9-R5Pw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/grJFd9-R5Pw/maxresdefault.jpg

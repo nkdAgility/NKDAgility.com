@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: cFVF2mb9dJ8
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: cFVF2mb9dJ8
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: unlikely-bloggers
 aliases:
   - /resources/blog/unlikely-bloggers
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:44Z
+ResourceId: cFVF2mb9dJ8
+ResourceType: blog
 ResourceImportId: 177
 creator: Martin Hinshelwood
 resourceTypes: blog

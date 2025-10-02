@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: F0yVBj8Tx8H
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: F0yVBj8Tx8H
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
 aliases:
   - /resources/F0yVBj8Tx8H
@@ -30,6 +30,8 @@ Watermarks:
   description: 2025-05-07T12:49:06Z
   short_title: 2025-07-07T16:44:06Z
   tldr: 2025-08-07T12:32:03Z
+ResourceId: F0yVBj8Tx8H
+ResourceType: blog
 
 ---
 The future is not about humans fighting to keep soul-crushing work. It is about letting go of the roles we invented to dehumanise ourselves.

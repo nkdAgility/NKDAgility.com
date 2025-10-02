@@ -486,4 +486,99 @@ function Get-HugoMarkdownSlug {
     }
 }
 
+function Update-ItemFrontMatterData {  
+    param (
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown]$hugoMarkdown
+    )
+    $ItemId = $null;
+    if ($hugoMarkdown.FrontMatter.Contains("ItemId")) {
+        $ItemId = $hugoMarkdown.FrontMatter.ItemId
+    }
+    elseif ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
+        $ItemId = $hugoMarkdown.FrontMatter.ResourceId
+    }
+    elseif ($hugoMarkdown.FrontMatter.Contains("videoId")) {
+        $ItemId = $hugoMarkdown.FrontMatter.videoId
+    }
+    else {
+        $ItemId = New-ResourceId
+    }
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ItemId' -fieldValue $ItemId
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ItemId
+
+    #=====================ItemType=================
+    $ItemType = Get-ResourceType  -FilePath  $hugoMarkdown.FolderPath
+    if ($null -eq $ItemType) {
+        $ItemType = $hugoMarkdown.FrontMatter.type
+    }
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ItemType' -fieldValue $ItemType -Overwrite
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue $ItemType -Overwrite
+
+    $ItemKind = $null;
+
+    switch ($ItemType) {
+        { $_ -in @("workshops", "learning-series", "case-studies", "blog", "signals", "newsletters", "guides", "engineering-notes", "videos", "podcast", "principles", "recipes") } { 
+            $ItemKind = "resource"
+        }
+        { $_ -in @("course", "mentor-program") } { 
+            $ItemKind = "program"
+        }
+        "capabilities" { 
+            $ItemKind = "capability"
+        }
+        default { 
+            throw "We dont have a ItemKind for this type of resource: $ItemType"
+        } 
+    }
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ItemKind' -fieldValue $ItemKind -Overwrite
+
+    #  ItemType: blog
+    #  ItemKind: resource
+    #  ItemContentOrigin: human
+    #  ItemImport: false
+  
+    #=================ItemContentOrigin=================
+    $ItemContentOrigin = $null;
+    if ($hugoMarkdown.FrontMatter.Contains("ItemContentOrigin")) {
+        $ItemContentOrigin = $hugoMarkdown.FrontMatter.ItemContentOrigin
+    }
+    elseif ($hugoMarkdown.FrontMatter.Contains("ResourceContentOrigin")) {
+        $ItemContentOrigin = $hugoMarkdown.FrontMatter.ResourceContentOrigin
+    }
+    else {
+        switch ($ItemType) {
+            "blog" { 
+                if ([DateTime]::Parse($hugoMarkdown.FrontMatter.date) -gt [DateTime]::Parse("2018-01-01")) {
+                    $ItemContentOrigin = "hybrid"
+                }
+                else {
+                    $ItemContentOrigin = "human"
+                }    
+            }
+            "videos" { 
+                $ItemContentOrigin = "ai"
+            }
+            default { 
+                $ItemContentOrigin = "human"
+            }
+        }
+        
+    }
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ItemContentOrigin' -fieldValue $ItemContentOrigin
+
+
+    #=================ItemImport=================
+    #Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId'
+    Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImport'
+    #Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType'
+    Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceContentOrigin'
+
+    return @{
+        ItemType = $ItemType
+        ItemId   = $ItemId
+        ItemKind = $ItemKind
+    }
+}
+
 Write-DebugLog "HugoHelpers.ps1 loaded"

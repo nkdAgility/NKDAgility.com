@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ts3nKVfoy1j
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ts3nKVfoy1j
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: what-the-0x80072020
 aliases:
   - /resources/ts3nKVfoy1j
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:27Z
+ResourceId: ts3nKVfoy1j
+ResourceType: blog
 ResourceImportId: 243
 creator: Martin Hinshelwood
 resourceTypes: blog

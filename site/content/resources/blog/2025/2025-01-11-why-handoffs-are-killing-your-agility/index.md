@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: pDvDdIEi9sj
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: pDvDdIEi9sj
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: why-handoffs-are-killing-your-agility
 aliases:
   - /resources/pDvDdIEi9sj
@@ -58,6 +58,8 @@ AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
+ResourceId: pDvDdIEi9sj
+ResourceType: blog
 
 ---
 Many organisations attempt to adopt [Lean]({{< ref "/categories/lean" >}}) practices without fully understanding their implications in [software development]({{< ref "/tags/software-development" >}}). This often leads to excessive handoffs, which fragment communication and reduce agility.

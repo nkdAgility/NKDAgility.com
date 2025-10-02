@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ZSKQQVwpp3M
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: ZSKQQVwpp3M
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: ai-won-t-replace-humans
 aliases:
   - /resources/ZSKQQVwpp3M
@@ -39,6 +39,8 @@ Watermarks:
   description: 2025-05-29T18:10:54Z
   short_title: 2025-07-07T16:44:02Z
   tldr: 2025-08-07T12:29:34Z
+ResourceId: ZSKQQVwpp3M
+ResourceType: signals
 
 ---
 AI won’t replace humans. It will replace the work that should never have needed a human.

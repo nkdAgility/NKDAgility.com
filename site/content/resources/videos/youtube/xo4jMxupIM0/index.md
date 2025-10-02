@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: xo4jMxupIM0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: xo4jMxupIM0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
 aliases:
   - /resources/xo4jMxupIM0
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:07:44Z
   short_title: 2025-07-07T17:51:40Z
   tldr: 2025-08-07T12:56:45Z
+ResourceId: xo4jMxupIM0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: xo4jMxupIM0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xo4jMxupIM0/maxresdefault.jpg

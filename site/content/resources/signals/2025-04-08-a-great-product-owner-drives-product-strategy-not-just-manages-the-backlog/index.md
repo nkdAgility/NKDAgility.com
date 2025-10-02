@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: FiPINXQNDQu
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: FiPINXQNDQu
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: a-great-product-owner-drives-product-strategy-not-just-manages-the-backlog
 aliases:
   - /resources/FiPINXQNDQu
@@ -47,6 +47,8 @@ Watermarks:
   description: 2025-05-16T15:55:38Z
   short_title: 2025-07-07T16:44:59Z
   tldr: 2025-08-07T12:33:55Z
+ResourceId: FiPINXQNDQu
+ResourceType: signals
 
 ---
 A great Product Owner doesn’t just manage a backlog—they drive the entire product strategy. If you’re looking for a simple litmus test for what makes a strong PO, Jim Sammons’ Five A’s of Product Ownership is a great framework:

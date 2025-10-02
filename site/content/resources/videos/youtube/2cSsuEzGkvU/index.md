@@ -5,16 +5,15 @@ description: Explores how empathy, trust, and respect strengthen agile teams, im
 tldr: Empathy, modesty, and respect are essential for building trust and strong relationships in agile teams, leadership, and with customers, leading to better collaboration and outcomes. Avoiding assumptions and seeking diverse perspectives through open questions and feedback helps prevent bias and supports continuous improvement. Development managers should prioritise empathy and active listening to create a culture where everyone feels valued and engaged.
 date: 2023-12-12T11:00:04Z
 lastmod: 2023-12-12T11:00:04Z
-weight: 1000
+weight: 845
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 2cSsuEzGkvU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 2cSsuEzGkvU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: empathy-in-agile-building-trust-and-stronger-relationships-for-success
 aliases:
   - /resources/2cSsuEzGkvU
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:07:02Z
   short_title: 2025-07-07T17:50:49Z
   tldr: 2025-08-07T12:55:22Z
+ResourceId: 2cSsuEzGkvU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 2cSsuEzGkvU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg

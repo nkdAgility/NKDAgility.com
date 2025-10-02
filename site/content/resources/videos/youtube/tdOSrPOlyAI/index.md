@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: monthly
-ResourceId: tdOSrPOlyAI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: tdOSrPOlyAI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
 aliases:
   - /resources/tdOSrPOlyAI
@@ -40,6 +39,7 @@ Watermarks:
   description: 2025-05-07T12:56:58Z
   short_title: 2025-07-07T17:47:20Z
   tldr: 2025-08-07T12:41:23Z
+ResourceImportSource: Youtube
 videoId: tdOSrPOlyAI
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/tdOSrPOlyAI/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAWEG3GhslAtEUFyG4Q62XYoQlRRA
@@ -47,6 +47,8 @@ duration: 127
 resourceTypes:
   - video
 isShort: false
+ResourceId: tdOSrPOlyAI
+ResourceType: videos
 
 ---
 Naked agility can be a transformative partner in fostering [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) and cultivating [technical leadership]({{< ref "/categories/technical-leadership" >}}) within your organisation. Over the past few videos, I’ve delved into various aspects of this journey, and today, I want to share some insights that I believe are crucial for anyone looking to elevate their [engineering practices]({{< ref "/tags/engineering-practices" >}}).

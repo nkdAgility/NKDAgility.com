@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: k9Ptd76Xl_1
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: k9Ptd76Xl_1
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
 aliases:
   - /resources/k9Ptd76Xl_1
@@ -27,6 +27,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-12T14:22:43Z
+ResourceId: k9Ptd76Xl_1
+ResourceType: blog
 ResourceImportId: 10316
 creator: Martin Hinshelwood
 resourceTypes: blog

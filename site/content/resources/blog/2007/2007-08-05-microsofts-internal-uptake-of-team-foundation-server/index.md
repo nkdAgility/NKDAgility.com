@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 1NIc24-e5FY
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 1NIc24-e5FY
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: microsoft's-internal-uptake-of-team-foundation-server
 aliases:
   - /resources/blog/microsoft-s-internal-uptake-of-team-foundation-server
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:57Z
+ResourceId: 1NIc24-e5FY
+ResourceType: blog
 ResourceImportId: 343
 creator: Martin Hinshelwood
 resourceTypes: blog

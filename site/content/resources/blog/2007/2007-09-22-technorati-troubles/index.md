@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: r1BGZbCmJRA
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: r1BGZbCmJRA
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: technorati-troubles
 aliases:
   - /resources/r1BGZbCmJRA
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:02Z
+ResourceId: r1BGZbCmJRA
+ResourceType: blog
 ResourceImportId: 308
 creator: Martin Hinshelwood
 resourceTypes: blog

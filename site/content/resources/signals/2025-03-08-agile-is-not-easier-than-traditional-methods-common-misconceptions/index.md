@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: ZGwpGOoHHBQ
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: ZGwpGOoHHBQ
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: agile-is-not-easier-than-traditional-methods-common-misconceptions
 aliases:
   - /resources/ZGwpGOoHHBQ
@@ -45,6 +45,8 @@ Watermarks:
   description: 2025-05-16T15:56:21Z
   short_title: 2025-07-07T16:45:33Z
   tldr: 2025-08-07T12:35:06Z
+ResourceId: ZGwpGOoHHBQ
+ResourceType: signals
 
 ---
 One of the biggest misconceptions about Agile is that it’s “easier” than traditional approaches. The reality? It’s much harder.

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: YUlpnyN2IeI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: YUlpnyN2IeI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: best-scrum-advice-you-ever-received
 aliases:
   - /resources/YUlpnyN2IeI
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:11:53Z
   short_title: 2025-07-07T17:54:51Z
   tldr: 2025-08-07T13:04:16Z
+ResourceId: YUlpnyN2IeI
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: YUlpnyN2IeI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/YUlpnyN2IeI/maxresdefault.jpg

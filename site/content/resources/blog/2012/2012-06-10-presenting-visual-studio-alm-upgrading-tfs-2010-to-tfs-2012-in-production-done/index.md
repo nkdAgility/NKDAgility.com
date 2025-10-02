@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: XVaSDKBKQvb
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: XVaSDKBKQvb
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
 aliases:
   - /resources/blog/presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-done
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:08:55Z
+ResourceId: XVaSDKBKQvb
+ResourceType: blog
 ResourceImportId: 5432
 creator: Martin Hinshelwood
 resourceTypes: blog

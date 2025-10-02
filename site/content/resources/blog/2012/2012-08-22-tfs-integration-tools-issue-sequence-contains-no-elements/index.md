@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 0vuwjXdRGyv
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 0vuwjXdRGyv
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-integration-tools-issue-sequence-contains-no-elements
 aliases:
   - /resources/0vuwjXdRGyv
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:08:02Z
+ResourceId: 0vuwjXdRGyv
+ResourceType: blog
 ResourceImportId: 7377
 creator: Martin Hinshelwood
 resourceTypes: blog

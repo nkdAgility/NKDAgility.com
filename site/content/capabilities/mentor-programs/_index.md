@@ -9,10 +9,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.9
   changefreq: weekly
-ResourceId: KdeR9TbfRD_
-ResourceImport: false
-ResourceType: capabilities
-ResourceContentOrigin: human
+ItemId: KdeR9TbfRD_
+ItemType: capabilities
+ItemKind: capability
+ItemContentOrigin: human
 aliases:
   - /resources/KdeR9TbfRD_
 layout: list-single
@@ -193,6 +193,8 @@ Watermarks:
   tldr: 2025-08-08T11:40:47Z
 url: /capabilities/mentor-programs/
 icon: fa-people-arrows
+ResourceId: KdeR9TbfRD_
+ResourceType: capabilities
 
 ---
 Our training courses are designed to equip your team with the skills and knowledge they need to excel in an Agile environment. We offer a variety of courses tailored to different roles, including Scrum Masters, Product Owners, and team members, with both immersive and traditional learning experiences.

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: 2AJ2JHdMRCc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 2AJ2JHdMRCc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-is-devops-such-a-critical-element-of-software-engineering
 aliases:
   - /resources/2AJ2JHdMRCc
@@ -34,6 +33,9 @@ Watermarks:
   description: 2025-05-07T13:11:38Z
   short_title: 2025-07-07T17:54:39Z
   tldr: 2025-08-07T13:03:46Z
+ResourceId: 2AJ2JHdMRCc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 2AJ2JHdMRCc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2AJ2JHdMRCc/maxresdefault.jpg

@@ -11,10 +11,10 @@ sitemap:
   priority: 0.1
   changefreq: weekly
 author: MrHinsh
-ResourceId: I3QFLrCOXnN
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: I3QFLrCOXnN
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: working-from-paradise-a-quick-update
 aliases:
   - /resources/I3QFLrCOXnN
@@ -22,13 +22,16 @@ layout: newsletter
 concepts: []
 categories:
   - Uncategorized
-tags: []
+tags:
+  - Miscellaneous
 Watermarks:
   description: 2025-05-07T12:56:49Z
   short_title: 2025-07-07T17:47:14Z
   tldr: 2025-08-07T12:41:05Z
 preview: class-marketing-Q32021.jpg
 resourceTypes: newsletter
+ResourceId: I3QFLrCOXnN
+ResourceType: newsletters
 
 ---
 Dear Valued Clients,

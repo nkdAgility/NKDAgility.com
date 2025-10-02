@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: 8SSU0fALhd8
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 8SSU0fALhd8
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: during-a-massive-flood-in-london-nearly-every-datacentre-went-down
 aliases:
   - /resources/8SSU0fALhd8
@@ -40,6 +40,8 @@ Watermarks:
   description: 2025-05-23T23:53:48Z
   short_title: 2025-07-07T16:44:09Z
   tldr: 2025-08-07T12:32:09Z
+ResourceId: 8SSU0fALhd8
+ResourceType: signals
 
 ---
 During a massive flood in London, nearly every datacentre went down.

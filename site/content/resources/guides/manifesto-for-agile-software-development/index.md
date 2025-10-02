@@ -28,10 +28,10 @@ author:
   - Ken Schwaber
   - Jeff Sutherland
   - Dave Thomas
-ResourceId: poyC7fUGitC
-ResourceImport: false
-ResourceType: guides
-ResourceContentOrigin: Human
+ItemId: poyC7fUGitC
+ItemType: guides
+ItemKind: resource
+ItemContentOrigin: Human
 slug: manifesto-for-agile-software-development
 aliases:
   - guides/manifesto-for-agile-software-developmen/
@@ -52,6 +52,7 @@ tags:
   - Software Development
   - Value Delivery
   - Working Software
+  - Organisational Culture
   - Team Motivation
   - Agile Frameworks
   - Agile Planning
@@ -66,6 +67,8 @@ Watermarks:
   description: 2025-05-07T12:58:11Z
   short_title: 2025-07-07T16:40:34Z
   tldr: 2025-08-07T12:46:01Z
+ResourceId: poyC7fUGitC
+ResourceType: guides
 resourceTypes: guide
 references:
   - title: Manifesto for Agile Software Development

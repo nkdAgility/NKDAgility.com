@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 7fvyK7-tU4O
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 7fvyK7-tU4O
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: interview-with-my-favourite-author
 aliases:
   - /resources/7fvyK7-tU4O
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:42Z
+ResourceId: 7fvyK7-tU4O
+ResourceType: blog
 ResourceImportId: 175
 creator: Martin Hinshelwood
 resourceTypes: blog

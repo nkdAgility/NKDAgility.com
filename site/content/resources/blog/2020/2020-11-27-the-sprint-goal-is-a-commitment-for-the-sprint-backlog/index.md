@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 99LDtXqmRu5
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: 99LDtXqmRu5
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 aliases:
   - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
@@ -40,6 +40,8 @@ Watermarks:
   description: 2025-05-07T13:15:20Z
   short_title: 2025-07-07T17:57:46Z
   tldr: 2025-08-07T13:10:55Z
+ResourceId: 99LDtXqmRu5
+ResourceType: blog
 ResourceImportId: 45088
 creator: Martin Hinshelwood
 resourceTypes: blog

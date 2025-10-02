@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 00V7BJJtMT0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 00V7BJJtMT0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-devops-and-how-is-it-different-to-agile
 aliases:
   - /resources/00V7BJJtMT0
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:13:58Z
   short_title: 2025-07-07T17:56:40Z
   tldr: 2025-08-07T13:08:06Z
+ResourceId: 00V7BJJtMT0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 00V7BJJtMT0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/00V7BJJtMT0/maxresdefault.jpg

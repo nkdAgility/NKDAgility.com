@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: dALLwF2kL-U
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: dALLwF2kL-U
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: yorkhill-ice-bucket-challenge
 aliases:
   - /resources/dALLwF2kL-U
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:21:18Z
+ResourceId: dALLwF2kL-U
+ResourceType: blog
 ResourceImportId: 10682
 creator: Martin Hinshelwood
 resourceTypes: blog

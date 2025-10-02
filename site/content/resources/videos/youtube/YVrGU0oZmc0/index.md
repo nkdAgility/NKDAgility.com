@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: YVrGU0oZmc0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: YVrGU0oZmc0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-continuous-delivery-how-feature-flags-transform-software-development
 aliases:
   - /resources/YVrGU0oZmc0
@@ -54,6 +53,7 @@ Watermarks:
   description: 2025-05-07T12:49:57Z
   short_title: 2025-07-07T17:46:58Z
   tldr: 2025-08-07T12:40:30Z
+ResourceImportSource: Youtube
 videoId: YVrGU0oZmc0
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/YVrGU0oZmc0/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLDPVXqxCxtvxC7uS6ZrcSzj_2vc6g
@@ -61,6 +61,8 @@ duration: 557
 resourceTypes:
   - video
 isShort: false
+ResourceId: YVrGU0oZmc0
+ResourceType: videos
 
 ---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), one practice has consistently stood out as a game changer for organisations striving for more frequent delivery: the use of feature flags. This approach not only facilitates [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) but also allows teams to deploy new features to production incrementally, ensuring that they can gather valuable feedback before fully rolling out changes to all users.

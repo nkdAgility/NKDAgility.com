@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: qNzd15yz5fn
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: qNzd15yz5fn
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: infragistics-wpf
 aliases:
   - /resources/qNzd15yz5fn
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:46Z
+ResourceId: qNzd15yz5fn
+ResourceType: blog
 ResourceImportId: 179
 creator: Martin Hinshelwood
 resourceTypes: blog

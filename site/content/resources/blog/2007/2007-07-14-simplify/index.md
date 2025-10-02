@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: CEZVS03cb-9
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: CEZVS03cb-9
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: simplify
 aliases:
   - /resources/CEZVS03cb-9
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:43Z
+ResourceId: CEZVS03cb-9
+ResourceType: blog
 ResourceImportId: 372
 creator: Martin Hinshelwood
 resourceTypes: blog

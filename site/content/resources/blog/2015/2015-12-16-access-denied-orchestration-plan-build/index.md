@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: l331AonWBuN
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: l331AonWBuN
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: access-denied-for-orchestration-plan-on-build
 aliases:
   - /resources/l331AonWBuN
@@ -41,6 +41,8 @@ Watermarks:
   description: 2025-05-07T13:16:54Z
   short_title: 2025-07-07T17:59:05Z
   tldr: 2025-08-07T13:24:31Z
+ResourceId: l331AonWBuN
+ResourceType: blog
 ResourceImportId: 11411
 creator: Martin Hinshelwood
 resourceTypes: blog

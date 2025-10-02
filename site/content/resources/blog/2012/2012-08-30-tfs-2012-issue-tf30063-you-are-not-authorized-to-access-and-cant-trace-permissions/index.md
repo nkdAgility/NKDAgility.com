@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: -k6KiGvRFB7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: -k6KiGvRFB7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-can-t-trace-permissions
 aliases:
   - /resources/-k6KiGvRFB7
@@ -31,6 +31,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:07:45Z
+ResourceId: -k6KiGvRFB7
+ResourceType: blog
 ResourceImportId: 8018
 creator: Martin Hinshelwood
 resourceTypes: blog

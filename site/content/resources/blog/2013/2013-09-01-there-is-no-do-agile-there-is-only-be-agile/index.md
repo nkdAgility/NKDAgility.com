@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: QIFsyx_OqLG
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: QIFsyx_OqLG
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: there-is-no-do-agile-there-is-only-be-agile
 aliases:
   - /resources/QIFsyx_OqLG
@@ -39,6 +39,8 @@ tags:
   - Agile Leadership
 Watermarks:
   description: 2025-05-12T14:23:16Z
+ResourceId: QIFsyx_OqLG
+ResourceType: blog
 ResourceImportId: 10058
 creator: Martin Hinshelwood
 resourceTypes: blog

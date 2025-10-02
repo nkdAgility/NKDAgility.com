@@ -9,10 +9,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.9
   changefreq: weekly
-ResourceId: U0akd22Voq8
-ResourceImport: false
-ResourceType: capabilities
-ResourceContentOrigin: human
+ItemId: U0akd22Voq8
+ItemType: capabilities
+ItemKind: capability
+ItemContentOrigin: human
 slug: technical-leadership-in-one-hour-a-week
 aliases:
   - /resources/U0akd22Voq8
@@ -102,4 +102,8 @@ creator: Martin Hinshelwood
 menus:
   footer:
     parent: Consulting Services
+ResourceId: U0akd22Voq8
+ResourceType: capabilities
+
 ---
+

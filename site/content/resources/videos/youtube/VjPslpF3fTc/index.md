@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: VjPslpF3fTc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: VjPslpF3fTc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
 aliases:
   - /resources/VjPslpF3fTc
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:10:30Z
   short_title: 2025-07-07T17:53:47Z
   tldr: 2025-08-07T13:01:38Z
+ResourceId: VjPslpF3fTc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: VjPslpF3fTc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/VjPslpF3fTc/maxresdefault.jpg

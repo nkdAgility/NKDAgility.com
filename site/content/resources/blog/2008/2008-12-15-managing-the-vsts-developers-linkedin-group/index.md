@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: FNNPsRLDXlu
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: FNNPsRLDXlu
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: managing-the-vsts-developers-linkedin-group
 aliases:
   - /resources/blog/managing-the-vsts-developers-linkedin-group.
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:06Z
+ResourceId: FNNPsRLDXlu
+ResourceType: blog
 ResourceImportId: 153
 creator: Martin Hinshelwood
 resourceTypes: blog

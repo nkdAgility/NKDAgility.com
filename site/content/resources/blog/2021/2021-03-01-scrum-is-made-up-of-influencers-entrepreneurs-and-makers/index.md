@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: DdQ1nKvk-hv
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: DdQ1nKvk-hv
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 aliases:
   - /blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
@@ -43,6 +43,8 @@ Watermarks:
   description: 2025-05-07T13:14:59Z
   short_title: 2025-07-07T17:57:33Z
   tldr: 2025-08-07T13:10:17Z
+ResourceId: DdQ1nKvk-hv
+ResourceType: blog
 ResourceImportId: 45946
 AudioNative: true
 creator: Martin Hinshelwood

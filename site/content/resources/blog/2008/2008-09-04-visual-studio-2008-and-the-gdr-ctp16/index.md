@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: BgrdMISXI4W
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: BgrdMISXI4W
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2008-and-the-gdr-ctp16
 aliases:
   - /resources/BgrdMISXI4W
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:23:20Z
+ResourceId: BgrdMISXI4W
+ResourceType: blog
 ResourceImportId: 199
 creator: Martin Hinshelwood
 resourceTypes: blog

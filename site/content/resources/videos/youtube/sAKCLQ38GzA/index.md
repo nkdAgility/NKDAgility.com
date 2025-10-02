@@ -5,16 +5,15 @@ description: Explores how defining purpose and starting with 'why' boosts motiva
 tldr: Starting with a clear purpose is essential for Agile teams because it boosts motivation, engagement, and alignment. Focusing on intrinsic motivators like autonomy, mastery, and purpose leads to better results than relying on financial incentives. Development managers should ensure their teams understand the broader vision and regularly connect daily work to that purpose for sustained success.
 date: 2023-10-19T08:22:23Z
 lastmod: 2023-10-19T08:22:23Z
-weight: 1000
+weight: 810
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: sAKCLQ38GzA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: sAKCLQ38GzA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: does-'starting-with-why'-simon-sinek-really-matter
 aliases:
   - /resources/sAKCLQ38GzA
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:08:39Z
   short_title: 2025-07-07T17:52:19Z
   tldr: 2025-08-07T12:58:18Z
+ResourceId: sAKCLQ38GzA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: sAKCLQ38GzA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sAKCLQ38GzA/maxresdefault.jpg

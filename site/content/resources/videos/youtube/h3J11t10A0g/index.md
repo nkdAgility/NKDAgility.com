@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: h3J11t10A0g
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: h3J11t10A0g
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-the-unpredictability-of-software-development-embrace-agile-for-success
 aliases:
   - /resources/h3J11t10A0g
@@ -40,6 +39,7 @@ Watermarks:
   description: 2025-05-07T12:56:57Z
   short_title: 2025-07-07T17:47:20Z
   tldr: 2025-08-07T12:41:21Z
+ResourceImportSource: Youtube
 videoId: h3J11t10A0g
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/h3J11t10A0g/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAhUizbYFa1tDhewD44yi7B6ksFVQ
@@ -47,6 +47,8 @@ duration: 169
 resourceTypes:
   - video
 isShort: false
+ResourceId: h3J11t10A0g
+ResourceType: videos
 
 ---
 In my experience working with various organisations, one of the most prevalent issues I encounter is the struggle with missed deadlines and budget overruns in software projects. It’s a challenge that seems to plague many, and it often feels like you’re holding onto a bag that’s slowly melting away, spilling its contents all over the street. This unpredictability is a fundamental reality of navigating complexity in [software development]({{< ref "/tags/software-development" >}}).

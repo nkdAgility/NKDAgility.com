@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: ymKlRonlUX0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ymKlRonlUX0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 aliases:
   - /resources/ymKlRonlUX0
@@ -44,6 +43,9 @@ Watermarks:
   description: 2025-05-07T13:06:44Z
   short_title: 2025-07-07T17:50:33Z
   tldr: 2025-08-07T12:54:49Z
+ResourceId: ymKlRonlUX0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ymKlRonlUX0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ymKlRonlUX0/maxresdefault.jpg

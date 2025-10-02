@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: 5naWQQ14MHe
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 5naWQQ14MHe
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: anatomy-of-an-automation-for-the-tfs-automation-platform
 aliases:
   - /resources/5naWQQ14MHe
@@ -30,6 +30,8 @@ tags:
   - Internal Developer Platform
 Watermarks:
   description: 2025-05-13T15:10:49Z
+ResourceId: 5naWQQ14MHe
+ResourceType: blog
 ResourceImportId: 3361
 creator: Martin Hinshelwood
 resourceTypes: blog

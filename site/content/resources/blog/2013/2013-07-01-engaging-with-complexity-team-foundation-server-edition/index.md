@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: xr1jtRnRNvp
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: xr1jtRnRNvp
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: engaging-with-complexity-team-foundation-server-edition
 aliases:
   - /resources/xr1jtRnRNvp
@@ -36,6 +36,8 @@ tags:
   - Operational Practices
 Watermarks:
   description: 2025-05-13T15:05:53Z
+ResourceId: xr1jtRnRNvp
+ResourceType: blog
 ResourceImportId: 9703
 creator: Martin Hinshelwood
 resourceTypes: blog

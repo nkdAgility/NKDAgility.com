@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: -X57bQlULtp
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: -X57bQlULtp
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
 aliases:
   - /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
@@ -34,6 +34,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:07:01Z
+ResourceId: -X57bQlULtp
+ResourceType: blog
 ResourceImportId: 9211
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: KpwfCU1oWjz
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: KpwfCU1oWjz
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: windows-7-beta-is-live
 aliases:
   - /resources/KpwfCU1oWjz
@@ -29,6 +29,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T16:22:00Z
+ResourceId: KpwfCU1oWjz
+ResourceType: blog
 ResourceImportId: 149
 creator: Martin Hinshelwood
 resourceTypes: blog

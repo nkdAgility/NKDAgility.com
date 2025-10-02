@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 21k6OgxeKjo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 21k6OgxeKjo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners
 aliases:
   - /resources/21k6OgxeKjo
@@ -44,11 +43,15 @@ tags:
   - Software Development
   - Team Performance
   - Sociotechnical Systems
+  - Business Agility
   - Customer Focus
 Watermarks:
   description: 2025-05-07T13:06:29Z
   short_title: 2025-07-07T17:50:19Z
   tldr: 2025-08-07T12:54:08Z
+ResourceId: 21k6OgxeKjo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 21k6OgxeKjo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/21k6OgxeKjo/maxresdefault.jpg

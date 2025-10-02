@@ -12,10 +12,10 @@ sitemap:
   changefreq: weekly
 author:
   - Scrum.org
-ResourceId: Rv0ZjvwYVy5
-ResourceImport: false
-ResourceType: guides
-ResourceContentOrigin: Human
+ItemId: Rv0ZjvwYVy5
+ItemType: guides
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-evidence-based-management-guide-2020-improving-value-delivery-under-conditions-of-uncertainty
 aliases:
   - /resources/Rv0ZjvwYVy5
@@ -51,6 +51,8 @@ Watermarks:
   description: 2025-05-07T12:58:05Z
   short_title: 2025-07-07T16:40:39Z
   tldr: 2025-08-07T13:12:45Z
+ResourceId: Rv0ZjvwYVy5
+ResourceType: guides
 resourceTypes: guide
 
 ---

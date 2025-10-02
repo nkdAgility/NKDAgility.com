@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: pgCUc2qV2_q
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: pgCUc2qV2_q
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: not-all-delays-are-the-same
 aliases:
   - /resources/pgCUc2qV2_q
@@ -26,8 +26,8 @@ categories:
 tags:
   - Operational Practices
   - Team Performance
-  - Miscellaneous
   - Pragmatic Thinking
+  - Transparency
   - Metrics and Learning
   - Continuous Improvement
   - Value Stream Management
@@ -46,6 +46,8 @@ Watermarks:
   description: 2025-05-16T15:56:57Z
   short_title: 2025-07-07T17:46:29Z
   tldr: 2025-08-07T12:39:29Z
+ResourceId: pgCUc2qV2_q
+ResourceType: signals
 
 ---
 Not all delays are the same.

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 4mkwTMMtKls
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 4mkwTMMtKls
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 7-deadly-sins-of-agile-envy
 aliases:
   - /resources/4mkwTMMtKls
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:08:57Z
   short_title: 2025-07-07T17:52:33Z
   tldr: 2025-08-07T12:58:53Z
+ResourceId: 4mkwTMMtKls
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 4mkwTMMtKls
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4mkwTMMtKls/maxresdefault.jpg

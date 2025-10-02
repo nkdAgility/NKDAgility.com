@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: xIWBb8Cy_Rv
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: xIWBb8Cy_Rv
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: how-do-you-handle-conflict-in-a-scrum-team
 aliases:
   - /resources/xIWBb8Cy_Rv
@@ -44,6 +44,8 @@ Watermarks:
   description: 2025-05-07T13:16:07Z
   short_title: 2025-07-07T17:58:24Z
   tldr: 2025-08-07T13:12:56Z
+ResourceId: xIWBb8Cy_Rv
+ResourceType: blog
 ResourceImportId: 39851
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: MO7O6kTmufc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: MO7O6kTmufc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-outcomes-how-evidence-based-management-transforms-your-project-success
 aliases:
   - /resources/MO7O6kTmufc
@@ -38,10 +37,14 @@ tags:
   - Evidence Based Management
   - Pragmatic Thinking
   - Metrics and Learning
+  - Personal
 Watermarks:
   description: 2025-05-07T12:58:30Z
   short_title: 2025-07-07T17:48:14Z
   tldr: 2025-08-07T12:48:59Z
+ResourceId: MO7O6kTmufc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: MO7O6kTmufc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg

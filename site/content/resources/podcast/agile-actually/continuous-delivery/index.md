@@ -11,10 +11,10 @@ sitemap:
   priority: 0.1
   changefreq: monthly
 author: MrHinsh
-ResourceId: pGqagcI_q5y
-ResourceImport: false
-ResourceType: podcast
-ResourceContentOrigin: Human
+ItemId: pGqagcI_q5y
+ItemType: podcast
+ItemKind: resource
+ItemContentOrigin: Human
 slug: continuous-delivery
 aliases:
   - /resources/pGqagcI_q5y
@@ -27,6 +27,8 @@ Watermarks:
   description: 2025-05-07T13:07:37Z
   short_title: 2025-07-07T17:51:34Z
   tldr: 2025-08-07T12:56:30Z
+ResourceId: pGqagcI_q5y
+ResourceType: podcast
 resourceTypes: podcast
 
 ---

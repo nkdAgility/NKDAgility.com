@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: cUlDU2EJV6s
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: cUlDU2EJV6s
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: first-day-at-aggreko
 aliases:
   - /resources/cUlDU2EJV6s
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:06Z
+ResourceId: cUlDU2EJV6s
+ResourceType: blog
 ResourceImportId: 310
 creator: Martin Hinshelwood
 resourceTypes: blog

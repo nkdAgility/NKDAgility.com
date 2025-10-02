@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: LoRDIqNuwD-
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: LoRDIqNuwD-
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: scrum-tapas-scrum-and-continuous-delivery
 aliases:
   - /resources/LoRDIqNuwD-
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-07T13:16:33Z
   short_title: 2025-07-07T17:58:49Z
   tldr: 2025-08-07T13:13:45Z
+ResourceId: LoRDIqNuwD-
+ResourceType: blog
 ResourceImportId: 11946
 creator: Martin Hinshelwood
 resourceTypes: blog

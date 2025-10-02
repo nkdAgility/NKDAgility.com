@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: sE7yYXG4Th_
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: sE7yYXG4Th_
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 aliases:
   - /resources/sE7yYXG4Th_
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:10:47Z
+ResourceId: sE7yYXG4Th_
+ResourceType: blog
 ResourceImportId: 3383
 creator: Martin Hinshelwood
 resourceTypes: blog

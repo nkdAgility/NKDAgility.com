@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: s_kAb-kQr9k
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: s_kAb-kQr9k
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: from-burnout-to-breakthrough-how-ctos-can-lead-with-clarity-resilience-and-real-innovation
 aliases:
   - /resources/s_kAb-kQr9k
@@ -36,6 +35,7 @@ Watermarks:
   description: 2025-07-24T15:12:54Z
   short_title: 2025-07-24T15:12:55Z
   tldr: 2025-07-30T23:22:14Z
+ResourceImportSource: Youtube
 videoId: s_kAb-kQr9k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/s_kAb-kQr9k/maxresdefault.jpg
@@ -43,6 +43,8 @@ duration: 66
 resourceTypes:
   - video
 isShort: false
+ResourceId: s_kAb-kQr9k
+ResourceType: videos
 
 ---
 If there’s one thing I see time and again in my work with technology leaders, it’s this: you can’t lead innovation if you’re overwhelmed and burned out. Yet, that’s precisely where so many CTOs and tech leaders find themselves. The expectation is relentless—be across every trend, make a hundred decisions a day, modernise the architecture, support the teams, deliver faster, and somehow still get a decent night’s sleep. It’s no wonder so many are running on empty.

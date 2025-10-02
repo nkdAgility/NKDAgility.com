@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: HPkHnEoaEbR
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: HPkHnEoaEbR
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
 aliases:
   - /resources/HPkHnEoaEbR
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-12T14:20:45Z
   tldr: 2025-08-07T13:26:36Z
   short_title: 2025-08-07T13:26:37Z
+ResourceId: HPkHnEoaEbR
+ResourceType: blog
 ResourceImportId: 10886
 creator: Martin Hinshelwood
 resourceTypes: blog

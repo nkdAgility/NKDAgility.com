@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: yvIanYh3bcQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: yvIanYh3bcQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
 aliases:
   - /resources/yvIanYh3bcQ
@@ -46,6 +45,7 @@ Watermarks:
   description: 2025-05-07T12:49:42Z
   short_title: 2025-07-07T17:46:38Z
   tldr: 2025-08-07T12:39:50Z
+ResourceImportSource: Youtube
 videoId: yvIanYh3bcQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/yvIanYh3bcQ/maxresdefault.jpg
@@ -53,6 +53,8 @@ duration: 497
 resourceTypes:
   - video
 isShort: false
+ResourceId: yvIanYh3bcQ
+ResourceType: videos
 
 ---
 Governance is a critical aspect of any organisation, ensuring that we operate safely and effectively. However, I’ve observed that excessive governance can often hinder our ability to seize opportunities and respond to unexpected challenges. When surprises arise—be it a market shift, a product issue, or an internal complication—the time and cost to rectify these problems can escalate dramatically. 

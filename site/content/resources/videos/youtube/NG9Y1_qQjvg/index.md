@@ -8,11 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: NG9Y1_qQjvg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: NG9Y1_qQjvg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: streamline-your-release-management-setup-a-step-by-step-guide-to-simplifying-server-client-and-agent-installation
 aliases:
   - /resources/NG9Y1_qQjvg
@@ -34,6 +33,9 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-12T14:22:24Z
+ResourceId: NG9Y1_qQjvg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: NG9Y1_qQjvg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/NG9Y1_qQjvg/maxresdefault.jpg

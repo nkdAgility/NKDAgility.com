@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: f9uWaQLg8wR
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: f9uWaQLg8wR
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: sharepoint-3-0-and-moss-2007-service-pack-1-update
 aliases:
   - /resources/blog/sharepoint-3.0-and-moss-2007-service-pack-1-update
@@ -30,6 +30,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:25:10Z
+ResourceId: f9uWaQLg8wR
+ResourceType: blog
 ResourceImportId: 272
 creator: Martin Hinshelwood
 resourceTypes: blog

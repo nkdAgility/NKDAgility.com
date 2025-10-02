@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: PEl4lRY2qjH
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: PEl4lRY2qjH
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: southparkify-simpsonize-better-with-both
 aliases:
   - /resources/PEl4lRY2qjH
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:12Z
+ResourceId: PEl4lRY2qjH
+ResourceType: blog
 ResourceImportId: 353
 creator: Martin Hinshelwood
 resourceTypes: blog

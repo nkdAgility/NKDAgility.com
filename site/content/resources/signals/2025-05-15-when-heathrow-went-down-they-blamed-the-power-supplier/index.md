@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: NpLk02WHeMe
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: NpLk02WHeMe
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: when-heathrow-went-down-they-blamed-the-power-supplier
 aliases:
   - /resources/NpLk02WHeMe
@@ -38,6 +38,8 @@ Watermarks:
   description: 2025-05-19T13:39:42Z
   short_title: 2025-07-07T16:44:10Z
   tldr: 2025-08-07T12:32:12Z
+ResourceId: NpLk02WHeMe
+ResourceType: signals
 
 ---
 When Heathrow went down, they blamed the power supplier.

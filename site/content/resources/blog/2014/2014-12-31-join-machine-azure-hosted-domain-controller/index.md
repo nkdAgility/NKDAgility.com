@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 7RVNi9gLHYY
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 7RVNi9gLHYY
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: join-a-machine-to-your-azure-hosted-domain-controller
 aliases:
   - /resources/7RVNi9gLHYY
@@ -35,6 +35,8 @@ Watermarks:
   description: 2025-05-12T14:20:22Z
   tldr: 2025-08-07T13:26:05Z
   short_title: 2025-08-07T13:26:06Z
+ResourceId: 7RVNi9gLHYY
+ResourceType: blog
 ResourceImportId: 10892
 creator: Martin Hinshelwood
 resourceTypes: blog

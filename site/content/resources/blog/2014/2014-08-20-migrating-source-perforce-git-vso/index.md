@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: bvuzuOYg8gs
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: bvuzuOYg8gs
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: migrating-source-from-perforce-to-git-on-vso
 aliases:
   - /resources/bvuzuOYg8gs
@@ -34,6 +34,8 @@ tags:
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-12T14:21:19Z
+ResourceId: bvuzuOYg8gs
+ResourceType: blog
 ResourceImportId: 10677
 creator: Martin Hinshelwood
 resourceTypes: blog

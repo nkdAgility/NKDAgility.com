@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: KyDt7UnJIhX
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: KyDt7UnJIhX
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrade-your-server-to-windows-server-2012-r2-update-1
 aliases:
   - /resources/KyDt7UnJIhX
@@ -31,6 +31,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-12T14:22:03Z
+ResourceId: KyDt7UnJIhX
+ResourceType: blog
 ResourceImportId: 10472
 creator: Martin Hinshelwood
 resourceTypes: blog

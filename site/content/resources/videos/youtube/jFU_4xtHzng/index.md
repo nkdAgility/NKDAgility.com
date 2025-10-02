@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: jFU_4xtHzng
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: jFU_4xtHzng
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
 aliases:
   - /resources/jFU_4xtHzng
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:13:44Z
   short_title: 2025-07-07T17:56:27Z
   tldr: 2025-08-07T13:07:39Z
+ResourceId: jFU_4xtHzng
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: jFU_4xtHzng
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jFU_4xtHzng/maxresdefault.jpg

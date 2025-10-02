@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: bkiQSbbO78R
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: bkiQSbbO78R
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: getting-started-with-a-modern-source-control-system-and-devops
 aliases:
   - /resources/bkiQSbbO78R
@@ -40,6 +40,8 @@ Watermarks:
   description: 2025-05-07T13:16:25Z
   short_title: 2025-07-07T17:58:40Z
   tldr: 2025-08-07T13:13:31Z
+ResourceId: bkiQSbbO78R
+ResourceType: blog
 ResourceImportId: 11456
 AudioNative: true
 creator: Martin Hinshelwood

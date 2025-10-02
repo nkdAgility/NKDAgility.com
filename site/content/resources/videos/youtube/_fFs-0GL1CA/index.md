@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: _fFs-0GL1CA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: _fFs-0GL1CA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-pursuing-agile-certifications-is-your-key-to-career-advancement
 aliases:
   - /resources/_fFs-0GL1CA
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:13:48Z
   short_title: 2025-07-07T17:56:31Z
   tldr: 2025-08-07T13:07:47Z
+ResourceId: _fFs-0GL1CA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: _fFs-0GL1CA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_fFs-0GL1CA/maxresdefault.jpg

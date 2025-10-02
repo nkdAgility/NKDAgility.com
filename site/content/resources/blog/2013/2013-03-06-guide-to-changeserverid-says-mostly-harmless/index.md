@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: hoewU67YJfb
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: hoewU67YJfb
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: guide-to-changeserverid-says-mostly-harmless
 aliases:
   - /resources/hoewU67YJfb
@@ -29,6 +29,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:06:57Z
+ResourceId: hoewU67YJfb
+ResourceType: blog
 ResourceImportId: 9249
 creator: Martin Hinshelwood
 resourceTypes: blog

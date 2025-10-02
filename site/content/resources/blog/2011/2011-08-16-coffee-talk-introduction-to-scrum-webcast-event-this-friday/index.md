@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ThIUwJr1ff_
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ThIUwJr1ff_
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: coffee-talk-introduction-to-scrum-webcast-event-this-friday
 aliases:
   - /resources/ThIUwJr1ff_
@@ -31,6 +31,8 @@ tags:
   - Agile Frameworks
 Watermarks:
   description: 2025-05-13T15:10:20Z
+ResourceId: ThIUwJr1ff_
+ResourceType: blog
 ResourceImportId: 3728
 creator: Martin Hinshelwood
 resourceTypes: blog

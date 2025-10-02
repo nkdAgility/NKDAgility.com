@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: X-J3sV7w7mU
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: X-J3sV7w7mU
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: you-don-t-own-your-market
 aliases:
   - /resources/X-J3sV7w7mU
@@ -43,6 +43,8 @@ Watermarks:
   description: 2025-05-16T15:55:22Z
   short_title: 2025-07-07T16:44:48Z
   tldr: 2025-08-07T12:33:28Z
+ResourceId: X-J3sV7w7mU
+ResourceType: signals
 
 ---
 You don’t own your market. Your customers do. Ignore them, move too slowly, and they’ll move on.

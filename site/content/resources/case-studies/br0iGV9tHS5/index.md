@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: br0iGV9tHS5
-ResourceImport: false
-ResourceType: case-studies
-ResourceContentOrigin: human
+ItemId: br0iGV9tHS5
+ItemType: case-studies
+ItemKind: resource
+ItemContentOrigin: human
 slug: enabled-organisational-change-in-the-ghana-police-service
 aliases:
   - /resources/br0iGV9tHS5
@@ -24,11 +24,12 @@ categories:
   - Leadership
   - Technical Leadership
 tags:
-  - Social Technologies
   - Agile Transformation
+  - Social Technologies
   - Organisational Agility
   - Agile Frameworks
   - Organisational Change
+  - Digital Transformation
   - Change Management
   - Agile Leadership
   - Continuous Improvement
@@ -38,11 +39,12 @@ tags:
   - Agile Strategy
   - Enterprise Agility
   - Sociotechnical Systems
-  - Digital Transformation
 Watermarks:
   description: 2025-06-17T09:44:06Z
   short_title: 2025-07-07T16:43:35Z
   tldr: 2025-08-07T12:11:26Z
+ResourceId: br0iGV9tHS5
+ResourceType: case-studies
 
 ---
 ## Client Context

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: 5UaIfaLclWB
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 5UaIfaLclWB
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: you-want-speed-adaptability-resilience
 aliases:
   - /resources/5UaIfaLclWB
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-16T15:54:51Z
   short_title: 2025-07-07T16:44:19Z
   tldr: 2025-08-07T12:32:34Z
+ResourceId: 5UaIfaLclWB
+ResourceType: signals
 
 ---
 You want speed, adaptability, resilience.

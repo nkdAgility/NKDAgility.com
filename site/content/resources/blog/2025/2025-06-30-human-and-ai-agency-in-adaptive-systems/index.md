@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: ffJaR9AaTl7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: ffJaR9AaTl7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: human-and-ai-agency-in-adaptive-systems-strategy-before-optimisation
 aliases:
   - /resources/ffJaR9AaTl7
@@ -32,7 +32,6 @@ tags:
   - Strategic Goals
   - Complexity Thinking
   - Agentic Engineering
-  - Systems Thinking
   - Pragmatic Thinking
   - Decision Making
 Watermarks:
@@ -40,6 +39,8 @@ Watermarks:
   short_title: 2025-07-07T16:43:20Z
   tldr: 2025-08-07T12:10:43Z
 mermaid: true
+ResourceId: ffJaR9AaTl7
+ResourceType: blog
 
 ---
 Human agency is not optional in adaptive systems. It is not something to "blend" with AI or to automate away. It is the only thing that defines strategy, sets purpose, and drives meaningful adaptation. AI has a role, but that role is tactical optimisation within boundaries defined by humans.

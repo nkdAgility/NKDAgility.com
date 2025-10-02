@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: w2vG6eEu5BH
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: w2vG6eEu5BH
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: migrating-to-office-365-from-google-mail
 aliases:
   - /resources/w2vG6eEu5BH
@@ -27,6 +27,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:21:50Z
+ResourceId: w2vG6eEu5BH
+ResourceType: blog
 ResourceImportId: 10502
 creator: Martin Hinshelwood
 resourceTypes: blog

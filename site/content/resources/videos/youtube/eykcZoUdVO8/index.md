@@ -5,16 +5,15 @@ description: Highlights Simon Randell’s significant influence on Agile practic
 tldr: Simon Randell is highlighted as a key influence in Agile due to his exceptional facilitation skills, clear communication, and practical embodiment of Agile principles. His approach inspires others to emulate his clarity and effectiveness in both teaching and practice. Development managers should consider learning from leaders like Simon to strengthen their own Agile transformations.
 date: 2023-08-09T07:00:14Z
 lastmod: 2023-08-09T07:00:14Z
-weight: 880
+weight: 635
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
-ResourceId: eykcZoUdVO8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: eykcZoUdVO8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: part-2-most-influential-people-in-agile
 aliases:
   - /resources/eykcZoUdVO8
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:10:21Z
   short_title: 2025-07-07T17:53:40Z
   tldr: 2025-08-07T13:01:23Z
+ResourceId: eykcZoUdVO8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: eykcZoUdVO8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/eykcZoUdVO8/maxresdefault.jpg

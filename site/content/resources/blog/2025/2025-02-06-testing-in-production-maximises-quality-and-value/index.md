@@ -17,10 +17,10 @@ contributors:
     external: https://www.linkedin.com/in/dave-westgarth/
   - name: Vladimir Khvostov
     external: https://www.linkedin.com/in/vladimirkhvostov/
-ResourceId: _ncZFfeCrnS
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: _ncZFfeCrnS
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: testing-in-production-maximises-quality-and-value
 aliases:
   - /resources/_ncZFfeCrnS
@@ -59,6 +59,8 @@ creator: Martin Hinshelwood
 resourceTypes: blog
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 marketing: []
+ResourceId: _ncZFfeCrnS
+ResourceType: blog
 
 ---
 Testing in production, is about structured, observable releases that allow for fast feedback, controlled exposure, and rapid course correction, ensuring quality without sacrificing speed.

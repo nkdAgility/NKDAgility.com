@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: vaweB_aRVhL
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: vaweB_aRVhL
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: vb-9
 aliases:
   - /resources/vaweB_aRVhL
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:58Z
+ResourceId: vaweB_aRVhL
+ResourceType: blog
 ResourceImportId: 341
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: 3YDTlhSlU4A
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 3YDTlhSlU4A
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: why-compromising-on-software-quality-is-a-leadership-decision
 aliases:
   - /resources/3YDTlhSlU4A
@@ -43,6 +43,8 @@ Watermarks:
   description: 2025-05-16T15:55:46Z
   short_title: 2025-07-07T16:45:06Z
   tldr: 2025-08-07T12:34:12Z
+ResourceId: 3YDTlhSlU4A
+ResourceType: signals
 
 ---
 Would your CFO sign off on a financial report that was “mostly accurate”? Would your legal team approve a contract that “should be enforceable”? No?

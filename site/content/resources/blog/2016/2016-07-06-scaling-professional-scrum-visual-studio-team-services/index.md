@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: pErrcS8DxcQ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: pErrcS8DxcQ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: scaling-professional-scrum-with-visual-studio-team-services
 aliases:
   - /resources/pErrcS8DxcQ
@@ -36,6 +36,8 @@ Watermarks:
   description: 2025-05-07T13:16:43Z
   short_title: 2025-07-07T17:58:57Z
   tldr: 2025-08-07T13:24:12Z
+ResourceId: pErrcS8DxcQ
+ResourceType: blog
 ResourceImportId: 11563
 creator: Martin Hinshelwood
 resourceTypes: blog

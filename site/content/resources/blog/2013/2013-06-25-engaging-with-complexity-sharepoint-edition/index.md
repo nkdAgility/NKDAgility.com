@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Lzmlul_Elhj
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Lzmlul_Elhj
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: engaging-with-complexity-sharepoint-edition
 aliases:
   - /resources/Lzmlul_Elhj
@@ -32,6 +32,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:06:07Z
+ResourceId: Lzmlul_Elhj
+ResourceType: blog
 ResourceImportId: 9909
 creator: Martin Hinshelwood
 resourceTypes: blog

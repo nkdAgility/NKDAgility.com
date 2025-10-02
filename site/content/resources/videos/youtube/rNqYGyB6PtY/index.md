@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: rNqYGyB6PtY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: rNqYGyB6PtY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-should-a-product-owner-do-with-an-incompetent-team
 aliases:
   - /resources/rNqYGyB6PtY
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:08:18Z
   short_title: 2025-07-07T17:52:04Z
   tldr: 2025-08-07T12:57:42Z
+ResourceId: rNqYGyB6PtY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: rNqYGyB6PtY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rNqYGyB6PtY/maxresdefault.jpg

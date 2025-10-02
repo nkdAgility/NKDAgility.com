@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Lt6VAvnEOjb
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Lt6VAvnEOjb
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 aliases:
   - /resources/Lt6VAvnEOjb
@@ -32,6 +32,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:10:02Z
+ResourceId: Lt6VAvnEOjb
+ResourceType: blog
 ResourceImportId: 3951
 creator: Martin Hinshelwood
 resourceTypes: blog

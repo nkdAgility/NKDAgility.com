@@ -5,16 +5,15 @@ description: Learn why validating advanced product ownership skills with a PSPO-
 tldr: Validating your skills with a PSPO-A demonstrates advanced product ownership abilities that go beyond the basics, positioning you as a visionary leader who can bridge departments and drive product success. Advanced Product Owners act like mini-CEOs, integrating business, strategy, and Agile leadership to deliver greater value. Consider pursuing the PSPO-A to elevate your impact and lead innovation within your organization.
 date: 2023-06-08T11:00:05Z
 lastmod: 2023-06-08T11:00:05Z
-weight: 910
+weight: 705
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 8F3SK4sPj3M
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 8F3SK4sPj3M
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
 aliases:
   - /resources/8F3SK4sPj3M
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:11:46Z
   short_title: 2025-07-07T17:54:45Z
   tldr: 2025-08-07T13:04:01Z
+ResourceId: 8F3SK4sPj3M
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 8F3SK4sPj3M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8F3SK4sPj3M/maxresdefault.jpg

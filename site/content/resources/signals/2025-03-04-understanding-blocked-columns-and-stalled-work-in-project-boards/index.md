@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: 6K6oGV9pRbC
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 6K6oGV9pRbC
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: understanding-blocked-columns-and-stalled-work-in-project-boards
 aliases:
   - /resources/6K6oGV9pRbC
@@ -47,6 +47,8 @@ Watermarks:
   description: 2025-05-16T15:56:34Z
   short_title: 2025-07-07T16:45:37Z
   tldr: 2025-08-07T12:35:14Z
+ResourceId: 6K6oGV9pRbC
+ResourceType: signals
 
 ---
 Blocked columns seem harmless—just another column to keep track of stalled work. But they aren’t harmless. They’re workflow kryptonite.

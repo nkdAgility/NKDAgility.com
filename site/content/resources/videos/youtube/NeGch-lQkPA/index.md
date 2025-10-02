@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: NeGch-lQkPA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: NeGch-lQkPA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: overview-of-'applying-flow-metrics-for-scrum'-course
 aliases:
   - /resources/NeGch-lQkPA
@@ -52,6 +51,9 @@ Watermarks:
   description: 2025-05-07T13:05:42Z
   short_title: 2025-07-07T17:49:43Z
   tldr: 2025-08-07T12:52:39Z
+ResourceId: NeGch-lQkPA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: NeGch-lQkPA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/NeGch-lQkPA/maxresdefault.jpg

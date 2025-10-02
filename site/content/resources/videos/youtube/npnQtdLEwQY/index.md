@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: monthly
-ResourceId: npnQtdLEwQY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: npnQtdLEwQY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
 aliases:
   - /resources/npnQtdLEwQY
@@ -38,10 +37,12 @@ tags:
   - Software Development
   - Technical Mastery
   - Engineering Practices
+  - Personal
 Watermarks:
   description: 2025-05-07T12:56:38Z
   short_title: 2025-07-07T17:47:06Z
   tldr: 2025-08-07T12:40:48Z
+ResourceImportSource: Youtube
 videoId: npnQtdLEwQY
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/npnQtdLEwQY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCooGMBAXQSDwgAA6cFb5Rfe35F_A
@@ -49,6 +50,8 @@ duration: 668
 resourceTypes:
   - video
 isShort: false
+ResourceId: npnQtdLEwQY
+ResourceType: videos
 
 ---
 [Technical debt]({{< ref "/tags/technical-debt" >}}) is a term that often gets thrown around in our industry, but I want to clarify what it really means and how it impacts our products and processes. From my experience, technical debt is not just a buzzword; it represents a significant cost that can accumulate over time if not managed properly. 

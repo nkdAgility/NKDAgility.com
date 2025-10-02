@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: tiIa1A7zPP-
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: tiIa1A7zPP-
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: migrating-source-code-with-history-to-tfs-2012-with-git-tf
 aliases:
   - /resources/tiIa1A7zPP-
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:06:49Z
+ResourceId: tiIa1A7zPP-
+ResourceType: blog
 ResourceImportId: 9313
 creator: Martin Hinshelwood
 resourceTypes: blog

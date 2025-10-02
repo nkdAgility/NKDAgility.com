@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: oP62ZJrRzkU
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: oP62ZJrRzkU
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: announcing-visual-studio-11-beta-will-launch-on-february-29th
 aliases:
   - /resources/oP62ZJrRzkU
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:22Z
+ResourceId: oP62ZJrRzkU
+ResourceType: blog
 ResourceImportId: 4560
 creator: Martin Hinshelwood
 resourceTypes: blog

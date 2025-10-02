@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: SLaqpu5BHH8
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: SLaqpu5BHH8
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: understand-the-true-risk-of-technical-debt-in-your-business
 aliases:
   - /resources/SLaqpu5BHH8
@@ -39,6 +39,8 @@ Watermarks:
   description: 2025-05-16T15:55:15Z
   short_title: 2025-07-07T16:44:41Z
   tldr: 2025-08-07T12:33:15Z
+ResourceId: SLaqpu5BHH8
+ResourceType: signals
 
 ---
 If your business truly understood the risk of technical debt, you wouldn’t accept any of it.

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: HtT5KwXieea
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: HtT5KwXieea
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2012-launch-roadshows-around-the-world
 aliases:
   - /resources/HtT5KwXieea
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:07:34Z
+ResourceId: HtT5KwXieea
+ResourceType: blog
 ResourceImportId: 8834
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 7CqdvOa9t4c
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: 7CqdvOa9t4c
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
 aliases:
   - /blog/update-scrum-guide-25th-anniversary-scrum-framework
@@ -45,6 +45,8 @@ Watermarks:
   description: 2025-05-07T13:15:23Z
   short_title: 2025-07-07T17:57:49Z
   tldr: 2025-08-07T13:11:02Z
+ResourceId: 7CqdvOa9t4c
+ResourceType: blog
 ResourceImportId: 45077
 creator: Martin Hinshelwood
 resourceTypes: blog

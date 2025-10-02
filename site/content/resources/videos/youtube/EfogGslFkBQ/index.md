@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: EfogGslFkBQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: EfogGslFkBQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
 aliases:
   - /resources/EfogGslFkBQ
@@ -49,6 +48,9 @@ Watermarks:
   description: 2025-05-07T13:06:35Z
   short_title: 2025-07-07T17:50:24Z
   tldr: 2025-08-07T12:54:23Z
+ResourceId: EfogGslFkBQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: EfogGslFkBQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/EfogGslFkBQ/maxresdefault.jpg

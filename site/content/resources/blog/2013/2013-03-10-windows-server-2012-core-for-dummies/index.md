@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: qtma311iiMY
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: qtma311iiMY
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: windows-server-2012-core-for-dummies
 aliases:
   - /resources/qtma311iiMY
@@ -29,6 +29,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:06:56Z
+ResourceId: qtma311iiMY
+ResourceType: blog
 ResourceImportId: 9255
 creator: Martin Hinshelwood
 resourceTypes: blog

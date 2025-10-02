@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Po58JnxjX7M
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Po58JnxjX7M
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
 aliases:
   - /resources/Po58JnxjX7M
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:07:55Z
   short_title: 2025-07-07T17:51:48Z
   tldr: 2025-08-07T12:57:07Z
+ResourceId: Po58JnxjX7M
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Po58JnxjX7M
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Po58JnxjX7M/maxresdefault.jpg

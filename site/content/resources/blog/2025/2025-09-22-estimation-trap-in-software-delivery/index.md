@@ -17,10 +17,10 @@ contributors:
   - name: Nigel Thurlow
     external: https://www.linkedin.com/in/nigelthurlow/
     githubUsername: nigelthurlow
-ResourceId: rE-_hlb3Y34
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: rE-_hlb3Y34
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: the-estimation-trap-how-tracking-accuracy-undermines-trust-flow-and-value-in-software-delivery
 aliases:
   - /resources/blog/the-estimation-trap-in-software-delivery
@@ -43,10 +43,10 @@ tags:
   - Decision Making
   - Evidence Based Management
   - Operational Practices
-  - Software Development
   - Value Delivery
   - Continuous Improvement
   - Empirical Process Control
+  - Software Development
   - Agile Philosophy
   - Team Performance
   - Customer Focus
@@ -55,6 +55,8 @@ Watermarks:
   description: 2025-08-01T15:51:24Z
   tldr: 2025-08-01T15:51:28Z
 canvas: https://chatgpt.com/c/688ba001-adac-832a-ab90-0a1aa609facf
+ResourceId: rE-_hlb3Y34
+ResourceType: blog
 
 ---
 In many software organisations, estimation accuracy is mistaken for predictability and control. Leadership asks teams to compare _original estimates_ to _actuals_ in hopes of improving forecasts. But this creates a false sense of certainty , one that undermines trust, distorts priorities, and derails delivery.

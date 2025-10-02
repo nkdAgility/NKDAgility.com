@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: pU57BrP94-8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: pU57BrP94-8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 aliases:
   - /resources/pU57BrP94-8
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:10:22Z
   short_title: 2025-07-07T17:53:41Z
   tldr: 2025-08-07T13:01:25Z
+ResourceId: pU57BrP94-8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: pU57BrP94-8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pU57BrP94-8/maxresdefault.jpg

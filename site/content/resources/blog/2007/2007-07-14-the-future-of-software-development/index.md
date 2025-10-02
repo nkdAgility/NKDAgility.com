@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: y4gWKp3Fy4v
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: y4gWKp3Fy4v
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-future-of-software-development
 aliases:
   - /resources/y4gWKp3Fy4v
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T16:27:42Z
+ResourceId: y4gWKp3Fy4v
+ResourceType: blog
 ResourceImportId: 371
 creator: Martin Hinshelwood
 resourceTypes: blog

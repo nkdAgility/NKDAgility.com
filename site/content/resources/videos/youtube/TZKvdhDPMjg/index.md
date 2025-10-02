@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: TZKvdhDPMjg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: TZKvdhDPMjg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
 aliases:
   - /resources/TZKvdhDPMjg
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:12:40Z
   short_title: 2025-07-07T17:55:25Z
   tldr: 2025-08-07T13:05:29Z
+ResourceId: TZKvdhDPMjg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: TZKvdhDPMjg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TZKvdhDPMjg/maxresdefault.jpg

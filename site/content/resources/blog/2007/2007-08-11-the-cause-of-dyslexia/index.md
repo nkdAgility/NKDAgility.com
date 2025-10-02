@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: W_2y81Yg8QB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: W_2y81Yg8QB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-cause-of-dyslexia
 aliases:
   - /resources/W_2y81Yg8QB
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:46Z
+ResourceId: W_2y81Yg8QB
+ResourceType: blog
 ResourceImportId: 334
 creator: Martin Hinshelwood
 resourceTypes: blog

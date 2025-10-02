@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Kf-5JC3RyWF
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Kf-5JC3RyWF
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: import-excel-data-into-tfs-with-history
 aliases:
   - /resources/Kf-5JC3RyWF
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-12T14:21:45Z
+ResourceId: Kf-5JC3RyWF
+ResourceType: blog
 ResourceImportId: 10541
 creator: Martin Hinshelwood
 resourceTypes: blog

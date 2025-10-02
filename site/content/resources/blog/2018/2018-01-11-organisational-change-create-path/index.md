@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: RdwxVidD26i
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: RdwxVidD26i
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: create-your-own-path-to-organisational-agility
 aliases:
   - /resources/RdwxVidD26i
@@ -50,6 +50,8 @@ Watermarks:
   description: 2025-05-07T13:16:22Z
   short_title: 2025-07-07T17:58:38Z
   tldr: 2025-08-07T13:13:23Z
+ResourceId: RdwxVidD26i
+ResourceType: blog
 ResourceImportId: 11214
 creator: Martin Hinshelwood
 resourceTypes: blog

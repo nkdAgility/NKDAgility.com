@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: Nw0bXiOqu0Q
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Nw0bXiOqu0Q
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
 aliases:
   - /resources/Nw0bXiOqu0Q
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:14:10Z
   short_title: 2025-07-07T17:56:50Z
   tldr: 2025-08-07T13:08:27Z
+ResourceId: Nw0bXiOqu0Q
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Nw0bXiOqu0Q
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Nw0bXiOqu0Q/maxresdefault.jpg

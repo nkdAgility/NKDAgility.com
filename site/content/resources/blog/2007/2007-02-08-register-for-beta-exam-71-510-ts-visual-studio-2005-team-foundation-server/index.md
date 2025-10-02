@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: tQ69oSCcULR
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: tQ69oSCcULR
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
 aliases:
   - /resources/tQ69oSCcULR
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:14Z
+ResourceId: tQ69oSCcULR
+ResourceType: blog
 ResourceImportId: 434
 creator: Martin Hinshelwood
 resourceTypes: blog

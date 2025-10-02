@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: F8a6gtXxLe0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: F8a6gtXxLe0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: embracing-process-improvement-how-understanding-scrum-transformed-a-developer's-mindset
 aliases:
   - /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developer-s-mindset
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:16:31Z
   short_title: 2025-07-07T17:58:46Z
   tldr: 2025-08-07T13:13:41Z
+ResourceId: F8a6gtXxLe0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: F8a6gtXxLe0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/F8a6gtXxLe0/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: 6L2r8YrehWc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 6L2r8YrehWc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-the-scrum-master-s-true-power-lies-in-influence-not-authority
 aliases:
   - /resources/6L2r8YrehWc
@@ -45,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:09:30Z
   short_title: 2025-07-07T17:53:04Z
   tldr: 2025-08-07T12:59:59Z
+ResourceId: 6L2r8YrehWc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 6L2r8YrehWc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/6L2r8YrehWc/maxresdefault.jpg

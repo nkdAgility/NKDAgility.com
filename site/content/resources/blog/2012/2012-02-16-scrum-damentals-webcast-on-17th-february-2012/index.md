@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: bUSVyRUNCl3
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: bUSVyRUNCl3
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: scrum-damentals-webcast-on-17th-february-2012
 aliases:
   - /resources/bUSVyRUNCl3
@@ -28,6 +28,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:09:28Z
+ResourceId: bUSVyRUNCl3
+ResourceType: blog
 ResourceImportId: 4389
 creator: Martin Hinshelwood
 resourceTypes: blog

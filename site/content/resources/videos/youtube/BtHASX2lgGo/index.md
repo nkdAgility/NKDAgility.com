@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: BtHASX2lgGo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: BtHASX2lgGo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
 aliases:
   - /resources/BtHASX2lgGo
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:06:32Z
   short_title: 2025-07-07T17:50:22Z
   tldr: 2025-08-07T12:54:17Z
+ResourceId: BtHASX2lgGo
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: BtHASX2lgGo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: Gtp9wjkPFPA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Gtp9wjkPFPA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-do-devops-and-agile-integrate
 aliases:
   - /resources/Gtp9wjkPFPA
@@ -35,6 +34,9 @@ Watermarks:
   description: 2025-05-07T13:11:40Z
   short_title: 2025-07-07T17:54:41Z
   tldr: 2025-08-07T13:03:50Z
+ResourceId: Gtp9wjkPFPA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Gtp9wjkPFPA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Gtp9wjkPFPA/maxresdefault.jpg

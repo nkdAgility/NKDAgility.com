@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: D1dSEM9ni3C
-ResourceImport: false
-ResourceType: recipes
-ResourceContentOrigin: Human
+ItemId: D1dSEM9ni3C
+ItemType: recipes
+ItemKind: resource
+ItemContentOrigin: Human
 slug: sprint-planning-recipe
 aliases:
   - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
@@ -45,6 +45,8 @@ Watermarks:
   description: 2025-05-07T12:57:48Z
   short_title: 2025-07-07T17:47:58Z
   tldr: 2025-08-07T12:46:26Z
+ResourceId: D1dSEM9ni3C
+ResourceType: recipes
 resourceTypes: recipe
 image: /images/naked-Agility-Scrum-Framework-Sprint-Planning.jpg
 creator: Martin Hinshelwood

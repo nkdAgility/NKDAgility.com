@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: kwS9oPiz-Ny
-ResourceImport: false
-ResourceType: workshops
-ResourceContentOrigin: Human
+ItemId: kwS9oPiz-Ny
+ItemType: workshops
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-importance-of-batch-to-optimise-flow
 aliases:
   - workshops/The-Importance-of-Batch-to-Optimise-Flow.html
@@ -44,6 +44,8 @@ Watermarks:
   description: 2025-05-07T12:58:27Z
   short_title: 2025-07-07T17:48:10Z
   tldr: 2025-08-07T12:42:55Z
+ResourceId: kwS9oPiz-Ny
+ResourceType: workshops
 resourceTypes: workshop
 creator: Martin Hinshelwood
 

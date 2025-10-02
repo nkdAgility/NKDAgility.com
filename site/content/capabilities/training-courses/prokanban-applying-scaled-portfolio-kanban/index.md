@@ -9,10 +9,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: gUxi6u7gQcc
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: gUxi6u7gQcc
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: applying-scaled-portfolio-kanban
 aliases:
   - /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
@@ -89,6 +89,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+ResourceId: gUxi6u7gQcc
+ResourceType: course
 
 ---
 # Applying Scaled Portfolio Kanban

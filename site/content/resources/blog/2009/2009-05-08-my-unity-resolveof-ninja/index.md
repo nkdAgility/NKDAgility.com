@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: whj_VeMcGAL
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: whj_VeMcGAL
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: my-unity-resolve-of-ninja
 aliases:
   - /resources/blog/my.unity.resolve-of-ninja
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:24:08Z
+ResourceId: whj_VeMcGAL
+ResourceType: blog
 ResourceImportId: 123
 creator: Martin Hinshelwood
 resourceTypes: blog

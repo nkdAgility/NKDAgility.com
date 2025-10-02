@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: yUp0v2lyPX6
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: yUp0v2lyPX6
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: kalabule-or-a-professional-at-agile-in-africa
 aliases:
   - /resources/yUp0v2lyPX6
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-07T13:16:40Z
   short_title: 2025-07-07T17:58:55Z
   tldr: 2025-08-07T13:24:08Z
+ResourceId: yUp0v2lyPX6
+ResourceType: blog
 ResourceImportId: 11642
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 1Vt6-eiRtjI
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 1Vt6-eiRtjI
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: why-i-think-vb-net-is-a-better-choice-than-c
 aliases:
   - /resources/blog/why-i-think-vb.net-is-a-better-choice-than-c
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:53Z
+ResourceId: 1Vt6-eiRtjI
+ResourceType: blog
 ResourceImportId: 340
 creator: Martin Hinshelwood
 resourceTypes: blog

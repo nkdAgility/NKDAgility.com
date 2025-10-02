@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: AzpXVrfEwZ1
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: AzpXVrfEwZ1
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 aliases:
   - /resources/AzpXVrfEwZ1
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:09:39Z
+ResourceId: AzpXVrfEwZ1
+ResourceType: blog
 ResourceImportId: 4140
 creator: Martin Hinshelwood
 resourceTypes: blog

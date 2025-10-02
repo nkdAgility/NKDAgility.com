@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: o6VvFIPoyTU
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: o6VvFIPoyTU
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: upgrading-your-process-template-in-team-foundation-server
 aliases:
   - /resources/o6VvFIPoyTU
@@ -30,6 +30,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:10:21Z
+ResourceId: o6VvFIPoyTU
+ResourceType: blog
 ResourceImportId: 3717
 creator: Martin Hinshelwood
 resourceTypes: blog

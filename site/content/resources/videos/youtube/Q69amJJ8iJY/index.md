@@ -5,16 +5,15 @@ description: Avoid DevOps vendor lock-in—discover how true engineering excelle
 tldr: Outsourcing DevOps often leads to vendor lock-in, legacy systems, and teams that cannot maintain or evolve their own tools. Real engineering excellence comes from building internal capability through partnership, where experts mentor and guide your team to modernize workflows and systems themselves. Invest in developing your engineers’ skills and mindset so your organization can achieve sustainable progress and avoid costly dependencies.
 date: 2025-09-15T06:30:00Z
 lastmod: 2025-09-15T06:30:00Z
-weight: 195
+weight: 90
 sitemap:
   filename: sitemap.xml
-  priority: 0.6
+  priority: 0.7
   changefreq: monthly
-ResourceId: Q69amJJ8iJY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: Q69amJJ8iJY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: why-outsourcing-devops-fails-and-how-real-engineering-excellence-starts-with-your-team
 aliases:
   - /resources/Q69amJJ8iJY
@@ -26,6 +25,7 @@ source: youtube
 layout: video
 concepts: []
 categories:
+  - Technical Leadership
   - Engineering Excellence
   - DevOps
 tags:
@@ -37,6 +37,7 @@ Watermarks:
   description: 2025-07-24T14:48:13Z
   short_title: 2025-07-24T14:48:16Z
   tldr: 2025-07-30T23:12:29Z
+ResourceImportSource: Youtube
 videoId: Q69amJJ8iJY
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/Q69amJJ8iJY/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLAqAjCqErZza-TnE1FY9R9dVLBveA
@@ -44,6 +45,8 @@ duration: 285
 resourceTypes:
   - video
 isShort: false
+ResourceId: Q69amJJ8iJY
+ResourceType: videos
 
 ---
 One of the most common—and frankly, most damaging—mistakes I see organizations make when they set out to “do DevOps” or pursue engineering excellence is this: they outsource the whole thing to a vendor. It’s a pattern I’ve seen repeated across industries and continents, and it almost always leads to the same set of problems.

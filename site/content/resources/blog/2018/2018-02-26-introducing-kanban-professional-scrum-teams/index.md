@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: CucU7DN-fJ7
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: CucU7DN-fJ7
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: introducing-kanban-for-professional-scrum-teams
 aliases:
   - /resources/CucU7DN-fJ7
@@ -39,6 +39,8 @@ Watermarks:
   description: 2025-05-07T13:16:18Z
   short_title: 2025-07-07T17:58:35Z
   tldr: 2025-08-07T13:13:15Z
+ResourceId: CucU7DN-fJ7
+ResourceType: blog
 ResourceImportId: 38334
 creator: Martin Hinshelwood
 resourceTypes: blog

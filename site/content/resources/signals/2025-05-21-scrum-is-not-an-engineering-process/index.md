@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: 2meGTZZAPdw
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 2meGTZZAPdw
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: scrum-is-not-an-engineering-process
 aliases:
   - /resources/2meGTZZAPdw
@@ -51,6 +51,8 @@ Watermarks:
   description: 2025-05-29T18:10:56Z
   short_title: 2025-07-07T16:44:03Z
   tldr: 2025-08-07T12:29:38Z
+ResourceId: 2meGTZZAPdw
+ResourceType: signals
 
 ---
 Scrum is not an engineering process. It's a social technology that invites everyone in the organisation into the conversation.

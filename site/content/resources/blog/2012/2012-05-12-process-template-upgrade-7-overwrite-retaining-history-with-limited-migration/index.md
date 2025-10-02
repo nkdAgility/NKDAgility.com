@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 8bwduNxH7WG
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 8bwduNxH7WG
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: process-template-upgrade-7-–-rename-work-items-and-import-new-ones
 aliases:
   - /resources/blog/process-template-upgrade-7-rename-work-items-and-import-new-ones
@@ -35,6 +35,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:09:02Z
+ResourceId: 8bwduNxH7WG
+ResourceType: blog
 ResourceImportId: 5277
 creator: Martin Hinshelwood
 resourceTypes: blog

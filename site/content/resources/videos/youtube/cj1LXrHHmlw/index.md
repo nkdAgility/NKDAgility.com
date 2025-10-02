@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: cj1LXrHHmlw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: cj1LXrHHmlw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: stop-chasing-the-hottest-tech-stack-why-context-driven-choices-win-every-time
 aliases:
   - /resources/cj1LXrHHmlw
@@ -35,6 +34,7 @@ Watermarks:
   description: 2025-07-24T15:15:14Z
   short_title: 2025-07-24T15:15:15Z
   tldr: 2025-08-07T12:11:40Z
+ResourceImportSource: Youtube
 videoId: cj1LXrHHmlw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cj1LXrHHmlw/maxresdefault.jpg
@@ -42,6 +42,8 @@ duration: 72
 resourceTypes:
   - video
 isShort: false
+ResourceId: cj1LXrHHmlw
+ResourceType: videos
 
 ---
 Everywhere I look these days—conferences, job boards, blog posts—there’s a relentless drumbeat for the “hottest stack.” It’s as if the only way to be relevant is to chase whatever shiny new tool or architecture is trending this week. I see teams boasting about their bleeding-edge setups, and I get it. The temptation to follow suit is strong. No one wants to be left behind, or worse, seen as old-fashioned.

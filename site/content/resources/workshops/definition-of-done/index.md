@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: IgRDk1wrh65
-ResourceImport: false
-ResourceType: workshops
-ResourceContentOrigin: Human
+ItemId: IgRDk1wrh65
+ItemType: workshops
+ItemKind: resource
+ItemContentOrigin: Human
 slug: definition-of-done
 aliases:
   - /workshops/Definition-Of-Done.html
@@ -40,6 +40,8 @@ Watermarks:
   description: 2025-05-07T12:58:00Z
   short_title: 2025-07-07T17:48:12Z
   tldr: 2025-08-07T12:48:54Z
+ResourceId: IgRDk1wrh65
+ResourceType: workshops
 resourceTypes: workshop
 creator: Martin Hinshelwood
 

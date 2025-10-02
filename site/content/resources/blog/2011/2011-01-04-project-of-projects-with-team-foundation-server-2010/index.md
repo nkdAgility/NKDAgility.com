@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: qiY3IH2aMYV
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: qiY3IH2aMYV
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: project-of-projects-with-team-foundation-server-2010
 aliases:
   - /resources/qiY3IH2aMYV
@@ -28,6 +28,8 @@ tags:
   - Azure DevOps
 Watermarks:
   description: 2025-05-13T15:11:19Z
+ResourceId: qiY3IH2aMYV
+ResourceType: blog
 ResourceImportId: 18
 creator: Martin Hinshelwood
 resourceTypes: blog

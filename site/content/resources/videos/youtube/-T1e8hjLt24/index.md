@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: -T1e8hjLt24
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: -T1e8hjLt24
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10
 aliases:
   - /resources/-T1e8hjLt24
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:06:47Z
   short_title: 2025-07-07T17:50:36Z
   tldr: 2025-08-07T12:54:55Z
+ResourceId: -T1e8hjLt24
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: -T1e8hjLt24
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg

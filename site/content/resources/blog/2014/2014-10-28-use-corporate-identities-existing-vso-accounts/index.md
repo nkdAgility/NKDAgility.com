@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: yIJgOpFCdJE
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: yIJgOpFCdJE
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: use-corporate-identities-with-existing-vso-accounts
 aliases:
   - /resources/yIJgOpFCdJE
@@ -35,6 +35,8 @@ Watermarks:
   description: 2025-05-12T14:20:50Z
   tldr: 2025-08-07T13:26:44Z
   short_title: 2025-08-07T13:26:45Z
+ResourceId: yIJgOpFCdJE
+ResourceType: blog
 ResourceImportId: 10797
 creator: Martin Hinshelwood
 resourceTypes: blog

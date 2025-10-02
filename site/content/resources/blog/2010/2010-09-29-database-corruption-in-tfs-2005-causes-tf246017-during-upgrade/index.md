@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: YVhqKOWo2QQ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: YVhqKOWo2QQ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 aliases:
   - /resources/YVhqKOWo2QQ
@@ -28,6 +28,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:11:28Z
+ResourceId: YVhqKOWo2QQ
+ResourceType: blog
 ResourceImportId: 24
 creator: Martin Hinshelwood
 resourceTypes: blog

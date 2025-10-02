@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: WnRIGIGnlbo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: WnRIGIGnlbo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: how-to-stop-chasing-tech-hype-and-start-making-smarter-evidence-based-decisions
 aliases:
   - /resources/WnRIGIGnlbo
@@ -36,6 +35,7 @@ Watermarks:
   description: 2025-07-24T15:15:30Z
   short_title: 2025-07-24T15:15:31Z
   tldr: 2025-08-07T12:29:12Z
+ResourceImportSource: Youtube
 videoId: WnRIGIGnlbo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/WnRIGIGnlbo/maxresdefault.jpg
@@ -43,6 +43,8 @@ duration: 72
 resourceTypes:
   - video
 isShort: false
+ResourceId: WnRIGIGnlbo
+ResourceType: videos
 
 ---
 Not every shiny object deserves your attention or your budget. Yet, if you’re anything like me, you know the feeling when the next big thing is lighting up your inbox. The industry chatter is relentless. Your team is eager to experiment. A competitor just shipped something with it, and suddenly, you’re left holding the bag—wondering if you’re risking irrelevance by not jumping in.

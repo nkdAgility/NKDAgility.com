@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Esy-i2Fcamk
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Esy-i2Fcamk
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 aliases:
   - /resources/Esy-i2Fcamk
@@ -31,6 +31,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:06:36Z
+ResourceId: Esy-i2Fcamk
+ResourceType: blog
 ResourceImportId: 9446
 creator: Martin Hinshelwood
 resourceTypes: blog

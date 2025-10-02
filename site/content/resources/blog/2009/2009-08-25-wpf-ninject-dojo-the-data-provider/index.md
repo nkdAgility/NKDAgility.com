@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: fiHZn7VEOpq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: fiHZn7VEOpq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: wpf-ninject-dojo-the-data-provider
 aliases:
   - /resources/fiHZn7VEOpq
@@ -30,6 +30,8 @@ tags:
   - Technical Mastery
 Watermarks:
   description: 2025-05-13T15:23:11Z
+ResourceId: fiHZn7VEOpq
+ResourceType: blog
 ResourceImportId: 88
 creator: Martin Hinshelwood
 resourceTypes: blog

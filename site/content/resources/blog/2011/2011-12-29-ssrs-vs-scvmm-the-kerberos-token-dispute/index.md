@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: o4bErdW-aL2
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: o4bErdW-aL2
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: ssrs-vs-scvmm-the-kerberos-token-dispute
 aliases:
   - /resources/o4bErdW-aL2
@@ -32,6 +32,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:09:47Z
+ResourceId: o4bErdW-aL2
+ResourceType: blog
 ResourceImportId: 4104
 creator: Martin Hinshelwood
 resourceTypes: blog

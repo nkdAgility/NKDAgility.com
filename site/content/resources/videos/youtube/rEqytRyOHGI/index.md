@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: rEqytRyOHGI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: rEqytRyOHGI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: special-sprints-agile-banditry-or-risk-management
 aliases:
   - /resources/rEqytRyOHGI
@@ -53,6 +52,9 @@ Watermarks:
   description: 2025-05-07T13:06:40Z
   short_title: 2025-07-07T17:50:29Z
   tldr: 2025-08-07T12:54:37Z
+ResourceId: rEqytRyOHGI
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: rEqytRyOHGI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rEqytRyOHGI/maxresdefault.jpg

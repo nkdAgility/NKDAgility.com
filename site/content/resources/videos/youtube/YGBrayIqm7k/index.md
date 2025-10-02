@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: YGBrayIqm7k
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: YGBrayIqm7k
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-synergy-between-product-management-and-product-development-in-agile-environments
 aliases:
   - /resources/YGBrayIqm7k
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:02:29Z
   short_title: 2025-07-07T17:48:54Z
   tldr: 2025-08-07T12:50:41Z
+ResourceId: YGBrayIqm7k
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: YGBrayIqm7k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/YGBrayIqm7k/maxresdefault.jpg

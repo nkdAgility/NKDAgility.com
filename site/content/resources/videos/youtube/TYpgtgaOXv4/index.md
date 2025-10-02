@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: TYpgtgaOXv4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: TYpgtgaOXv4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-importance-of-product-backlog-management-in-today's-agile-landscape
 aliases:
   - /resources/TYpgtgaOXv4
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:07:21Z
   short_title: 2025-07-07T17:51:21Z
   tldr: 2025-08-07T12:55:53Z
+ResourceId: TYpgtgaOXv4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: TYpgtgaOXv4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TYpgtgaOXv4/maxresdefault.jpg

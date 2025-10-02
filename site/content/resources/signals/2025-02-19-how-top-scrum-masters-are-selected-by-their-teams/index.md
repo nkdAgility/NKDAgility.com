@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: dqFTsIhZF_A
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: dqFTsIhZF_A
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: how-top-scrum-masters-are-selected-by-their-teams
 aliases:
   - /resources/dqFTsIhZF_A
@@ -27,13 +27,13 @@ categories:
 tags:
   - Software Development
   - Pragmatic Thinking
-  - Scrum Master
   - Organisational Culture
   - Team Motivation
   - Social Technologies
   - Agile Leadership
   - Team Collaboration
   - Professional Scrum
+  - Scrum Master
   - Organisational Agility
 platform_signals:
   - platform: LinkedIn
@@ -50,6 +50,8 @@ Watermarks:
   description: 2025-05-16T15:56:51Z
   short_title: 2025-07-07T17:46:20Z
   tldr: 2025-08-07T12:36:25Z
+ResourceId: dqFTsIhZF_A
+ResourceType: signals
 
 ---
 The best Scrum Masters don’t apply for the role—they are chosen by their peers.

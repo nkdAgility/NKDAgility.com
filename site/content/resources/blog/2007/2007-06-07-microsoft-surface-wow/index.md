@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: FWXk82xEnqi
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: FWXk82xEnqi
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: microsoft-surface-wow
 aliases:
   - /resources/FWXk82xEnqi
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:06Z
+ResourceId: FWXk82xEnqi
+ResourceType: blog
 ResourceImportId: 387
 creator: Martin Hinshelwood
 resourceTypes: blog

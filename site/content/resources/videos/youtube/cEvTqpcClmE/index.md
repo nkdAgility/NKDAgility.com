@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: cEvTqpcClmE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: cEvTqpcClmE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
 aliases:
   - /resources/cEvTqpcClmE
@@ -41,6 +40,7 @@ Watermarks:
   description: 2025-05-07T12:49:12Z
   short_title: 2025-07-07T16:44:37Z
   tldr: 2025-08-07T12:33:08Z
+ResourceImportSource: Youtube
 videoId: cEvTqpcClmE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/cEvTqpcClmE/maxresdefault.jpg
@@ -48,6 +48,8 @@ duration: 91
 resourceTypes:
   - video
 isShort: false
+ResourceId: cEvTqpcClmE
+ResourceType: videos
 
 ---
 Think legacy systems can't be automated? Think again. I’ve encountered this misconception time and again in my journey through the tech landscape. Many organisations assume that because a system is old, it’s untouchable; that automation is only for modern, cloud-native systems. This couldn’t be further from the truth. In fact, I’ve found that the most significant efficiency gains often come from tackling those outdated, cumbersome processes that everyone else has written off.

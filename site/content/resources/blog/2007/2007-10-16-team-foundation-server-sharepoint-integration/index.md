@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Dn2_7F_mhyC
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Dn2_7F_mhyC
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: team-foundation-server-sharepoint-integration
 aliases:
   - /resources/Dn2_7F_mhyC
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:51Z
+ResourceId: Dn2_7F_mhyC
+ResourceType: blog
 ResourceImportId: 300
 creator: Martin Hinshelwood
 resourceTypes: blog

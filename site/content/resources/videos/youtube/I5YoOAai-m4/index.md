@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: I5YoOAai-m4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: I5YoOAai-m4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: agile-coach-versus-professional-coach
 aliases:
   - /resources/I5YoOAai-m4
@@ -34,6 +33,9 @@ Watermarks:
   description: 2025-05-07T13:11:16Z
   short_title: 2025-07-07T17:54:20Z
   tldr: 2025-08-07T13:02:54Z
+ResourceId: I5YoOAai-m4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: I5YoOAai-m4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/I5YoOAai-m4/maxresdefault.jpg

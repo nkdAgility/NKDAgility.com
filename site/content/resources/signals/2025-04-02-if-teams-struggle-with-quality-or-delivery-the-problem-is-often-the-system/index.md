@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: cXJnv3y4sb7
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: cXJnv3y4sb7
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: if-teams-struggle-with-quality-or-delivery-the-problem-is-often-the-system
 aliases:
   - /resources/cXJnv3y4sb7
@@ -28,7 +28,6 @@ tags:
   - Operational Practices
   - Software Development
   - Organisational Culture
-  - Definition of Done
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7313221193375887360
@@ -44,6 +43,8 @@ Watermarks:
   description: 2025-05-16T15:55:45Z
   short_title: 2025-07-07T16:45:05Z
   tldr: 2025-08-07T12:34:10Z
+ResourceId: cXJnv3y4sb7
+ResourceType: signals
 
 ---
 If teams are struggling with quality, technical debt, or inconsistent delivery, the issue isn’t just the team—it’s the system they’re operating in.

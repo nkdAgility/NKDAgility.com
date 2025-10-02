@@ -9,10 +9,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: dnZMM8p0lC4
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: dnZMM8p0lC4
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: applying-metrics-for-predictability
 aliases:
   - /training-courses/applying-metrics-for-predictability/
@@ -60,11 +60,11 @@ delivery_audiences:
   - Lean Agile Practitioners
 preview: NKDAgility-Courses-AMP-16x9-1.jpg
 previewIcon: Course-logo-AMP@1x.png
-brandColour:
+brandColour: 
 code: AMP
 course_proficiencies:
   - intermediate
-introduction:
+introduction: 
 overview: The course is intended for executives, managers, team members, and anyone involved in Agile or Lean project management, aiming to enhance predictability and data-driven decision-making.
 outcomes: |2+
 
@@ -76,7 +76,7 @@ outcomes: |2+
   6. Applying Techniques to Your Projects
   7. Validated Learning and Assessment
 
-assessment:
+assessment: 
 objectives: |+
   After completing the course, participants will achieve the following: 
   1. Gain a comprehensive understanding of agile metrics and their role in predictability.
@@ -88,14 +88,16 @@ objectives: |+
   7. Validate your knowledge through an online assessment, receiving guidance on areas for improvement.
 
 prerequisites: The course "Applying Metrics for Predictability" does not have specified prerequisites. It is open to a wide range of professionals interested in agile metrics and forecasting, regardless of their prior knowledge or experience. However, participants may benefit from having a basic understanding of Agile or Lean methodologies.
-audience:
-trainers:
-roadmap:
+audience: 
+trainers: 
+roadmap: 
 sessionCount: 8
-syllabus:
-events:
----
+syllabus: 
+events: 
+ResourceId: dnZMM8p0lC4
+ResourceType: course
 
+---
 # Applying Metrics for Predictability
 
 **Course Code:** AMP

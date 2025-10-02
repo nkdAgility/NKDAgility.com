@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: -U-z8x8yTw9
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: -U-z8x8yTw9
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: scaled-professional-scrum-with-nexus-sps-with-certification
-aliases:
-  - /resources/-U-z8x8yTw9
+aliases: []
 aliasesArchive:
   - /training-courses/scrum-at-scale-workshop
   - /training-courses/scaling-professional-scrum
@@ -62,7 +61,7 @@ delivery_audiences:
   - Teams
 preview: naked-agility-Professional-Scrum-SPS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-SPS-400x.png
-brandColour:
+brandColour: 
 code: SPS
 programCode: SPS
 course_length: 16
@@ -92,7 +91,7 @@ outcomes: |2+
   - Dealing with common challenges
   - Practices to help teams efficiently build an integrated software product
 
-assessment:
+assessment: 
 objectives: |2+
 
   - Learn how to Scale Scrum using the Nexus framework
@@ -109,13 +108,15 @@ prerequisites: |+
   - Have an understanding of development techniques, tools, and practices needed to sustain large scale development.
   - Passed the [Nexus Open](https://www.classmarker.com/online-test/start/?quiz=d49560ebb3d48c4f) assessment.
 
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
----
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
+ResourceId: -U-z8x8yTw9
+ResourceType: course
 
+---
 # Scaled Professional Scrum with Nexus (SPS) with Certification
 
 **Course Code:** SPS

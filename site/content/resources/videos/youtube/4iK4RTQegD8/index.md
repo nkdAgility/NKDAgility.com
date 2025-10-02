@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: 4iK4RTQegD8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: 4iK4RTQegD8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: modernising-legacy-systems-a-practical-low-risk-strategy-for-real-business-transformation
 aliases:
   - /resources/4iK4RTQegD8
@@ -32,11 +31,10 @@ concepts:
 categories:
   - Product Development
 tags:
+  - Pragmatic Thinking
   - Digital Transformation
-  - Software Development
   - Market Adaptability
   - Operational Practices
-  - Pragmatic Thinking
   - Product Delivery
   - Change Management
   - Organisational Agility
@@ -44,6 +42,7 @@ Watermarks:
   description: 2025-05-07T19:54:52Z
   short_title: 2025-07-07T16:43:38Z
   tldr: 2025-08-07T12:11:32Z
+ResourceImportSource: Youtube
 videoId: 4iK4RTQegD8
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/4iK4RTQegD8/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLCr7WnpZZkXj6DDbocSm0IErlL4jg
@@ -51,6 +50,8 @@ duration: 75
 resourceTypes:
   - video
 isShort: false
+ResourceId: 4iK4RTQegD8
+ResourceType: videos
 
 ---
 Legacy Systems: Why Modernisation Should Be a Strategy, Not a Gamble

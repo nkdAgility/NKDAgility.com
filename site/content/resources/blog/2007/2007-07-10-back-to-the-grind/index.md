@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: dcAyw0f562g
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: dcAyw0f562g
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: back-to-the-grind
 aliases:
   - /resources/dcAyw0f562g
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:45Z
+ResourceId: dcAyw0f562g
+ResourceType: blog
 ResourceImportId: 373
 creator: Martin Hinshelwood
 resourceTypes: blog

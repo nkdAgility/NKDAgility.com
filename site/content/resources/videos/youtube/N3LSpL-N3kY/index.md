@@ -5,16 +5,15 @@ description: Compares 2-day and 8-week Product Owner courses, highlighting diffe
 tldr: Both the 2-day and 8-week Product Owner courses provide the same core knowledge, practical insights, and a recognized credential, but differ in pace and depth. The 2-day option offers fast, focused learning, while the 8-week course allows for deeper integration with real work and ongoing feedback. Choose the format that best fits your team's learning style and how you want to apply new skills on the job.
 date: 2023-06-07T07:00:14Z
 lastmod: 2023-06-07T07:00:14Z
-weight: 900
+weight: 750
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: N3LSpL-N3kY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: N3LSpL-N3kY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 2-day-pspo-versus-8-week-pspo
 aliases:
   - /resources/N3LSpL-N3kY
@@ -34,6 +33,9 @@ Watermarks:
   description: 2025-05-07T13:11:48Z
   short_title: 2025-07-07T17:54:47Z
   tldr: 2025-08-07T13:04:06Z
+ResourceId: N3LSpL-N3kY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: N3LSpL-N3kY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/N3LSpL-N3kY/maxresdefault.jpg

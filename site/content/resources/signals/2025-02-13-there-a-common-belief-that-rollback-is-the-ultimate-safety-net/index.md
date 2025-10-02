@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: 3-BmsmOEWfJ
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 3-BmsmOEWfJ
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: there-a-common-belief-that-rollback-is-the-ultimate-safety-net
 aliases:
   - /resources/3-BmsmOEWfJ
@@ -51,6 +51,8 @@ Watermarks:
   description: 2025-05-16T15:57:00Z
   short_title: 2025-07-07T17:46:33Z
   tldr: 2025-08-07T12:39:36Z
+ResourceId: 3-BmsmOEWfJ
+ResourceType: signals
 
 ---
 There’s a common belief that rollback is the ultimate safety net. That if something goes wrong, we’ll just roll back and everything will be fine.

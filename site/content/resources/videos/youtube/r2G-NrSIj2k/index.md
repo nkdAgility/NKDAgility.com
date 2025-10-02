@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: r2G-NrSIj2k
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: r2G-NrSIj2k
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: code-reviews-for-quality-assurance
 aliases:
   - /resources/r2G-NrSIj2k
@@ -38,6 +37,7 @@ Watermarks:
   description: 2025-05-07T12:57:02Z
   short_title: 2025-07-07T17:47:23Z
   tldr: 2025-08-07T12:41:32Z
+ResourceImportSource: Youtube
 videoId: r2G-NrSIj2k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
@@ -45,6 +45,8 @@ duration: 116
 resourceTypes:
   - video
 isShort: false
+ResourceId: r2G-NrSIj2k
+ResourceType: videos
 
 ---
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence

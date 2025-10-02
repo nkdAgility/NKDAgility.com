@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: hBw4ouNB1U0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: hBw4ouNB1U0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
 aliases:
   - /resources/hBw4ouNB1U0
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:02:04Z
   short_title: 2025-07-07T17:48:30Z
   tldr: 2025-08-07T12:49:38Z
+ResourceId: hBw4ouNB1U0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: hBw4ouNB1U0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg

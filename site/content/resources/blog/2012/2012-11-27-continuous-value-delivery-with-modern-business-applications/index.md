@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: Bqw3QI4cP_9
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Bqw3QI4cP_9
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: continuous-value-delivery-with-modern-business-applications
 aliases:
   - /resources/Bqw3QI4cP_9
@@ -35,6 +35,8 @@ tags:
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:07:11Z
+ResourceId: Bqw3QI4cP_9
+ResourceType: blog
 ResourceImportId: 9149
 creator: Martin Hinshelwood
 resourceTypes: blog

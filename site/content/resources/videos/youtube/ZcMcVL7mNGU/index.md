@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: ZcMcVL7mNGU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ZcMcVL7mNGU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
 aliases:
   - /resources/ZcMcVL7mNGU
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:05:13Z
   short_title: 2025-07-07T17:49:18Z
   tldr: 2025-08-07T12:51:40Z
+ResourceId: ZcMcVL7mNGU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ZcMcVL7mNGU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg

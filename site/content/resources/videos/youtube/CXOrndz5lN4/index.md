@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: CXOrndz5lN4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: CXOrndz5lN4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership
 aliases:
   - /resources/CXOrndz5lN4
@@ -37,6 +36,7 @@ Watermarks:
   description: 2025-05-07T12:57:03Z
   short_title: 2025-07-07T17:47:24Z
   tldr: 2025-08-07T12:41:36Z
+ResourceImportSource: Youtube
 videoId: CXOrndz5lN4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/CXOrndz5lN4/maxresdefault.jpg
@@ -44,6 +44,8 @@ duration: 40
 resourceTypes:
   - video
 isShort: true
+ResourceId: CXOrndz5lN4
+ResourceType: videos
 
 ---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), one truth has become abundantly clear: we must cultivate a culture of [engineering excellence]({{< ref "/categories/engineering-excellence" >}}). This isn’t just a lofty ideal; it’s a necessity for any organisation that aspires to thrive in today’s fast-paced technological landscape. 

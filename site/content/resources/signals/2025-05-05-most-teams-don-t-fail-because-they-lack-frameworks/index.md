@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: sX2UVhPk6cL
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: sX2UVhPk6cL
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: most-teams-don-t-fail-because-they-lack-frameworks
 aliases:
   - /resources/sX2UVhPk6cL
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-16T15:55:00Z
   short_title: 2025-07-07T16:44:28Z
   tldr: 2025-08-07T12:32:49Z
+ResourceId: sX2UVhPk6cL
+ResourceType: signals
 
 ---
 Most teams don’t fail because they lack frameworks.  

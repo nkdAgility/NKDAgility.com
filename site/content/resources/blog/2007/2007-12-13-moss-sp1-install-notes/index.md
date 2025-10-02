@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: s8EZNFYedNl
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: s8EZNFYedNl
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: moss-sp1-install-notes
 aliases:
   - /resources/s8EZNFYedNl
@@ -27,6 +27,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:25:17Z
+ResourceId: s8EZNFYedNl
+ResourceType: blog
 ResourceImportId: 277
 creator: Martin Hinshelwood
 resourceTypes: blog

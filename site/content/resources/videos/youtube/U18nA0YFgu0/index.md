@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: U18nA0YFgu0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: U18nA0YFgu0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 7-deadly-sins-of-agile-wrath
 aliases:
   - /resources/U18nA0YFgu0
@@ -43,10 +42,14 @@ tags:
   - Organisational Culture
   - Psychological Safety
   - Team Motivation
+  - Employee Engagement
 Watermarks:
   description: 2025-05-07T13:08:44Z
   short_title: 2025-07-07T17:52:23Z
   tldr: 2025-08-07T12:58:27Z
+ResourceId: U18nA0YFgu0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: U18nA0YFgu0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/U18nA0YFgu0/maxresdefault.jpg

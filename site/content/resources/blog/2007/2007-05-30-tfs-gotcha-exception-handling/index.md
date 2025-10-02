@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: OMGmyApgm0G
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: OMGmyApgm0G
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-gotcha-exception-handling
 aliases:
   - /resources/OMGmyApgm0G
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T16:28:15Z
+ResourceId: OMGmyApgm0G
+ResourceType: blog
 ResourceImportId: 392
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: AcwMGmMo7iU
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: AcwMGmMo7iU
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: what-is-your-perspective-on-collocation
 aliases:
   - /resources/AcwMGmMo7iU
@@ -36,6 +36,8 @@ Watermarks:
   description: 2025-05-07T13:16:03Z
   short_title: 2025-07-07T17:58:22Z
   tldr: 2025-08-07T13:12:48Z
+ResourceId: AcwMGmMo7iU
+ResourceType: blog
 ResourceImportId: 39960
 creator: Martin Hinshelwood
 resourceTypes: blog

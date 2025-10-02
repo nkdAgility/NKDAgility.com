@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 9eJE-0v9BjB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 9eJE-0v9BjB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: how-to-display-your-outlook-calendar-on-you-re-my-site
 aliases:
   - /resources/9eJE-0v9BjB
@@ -30,6 +30,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:22:56Z
+ResourceId: 9eJE-0v9BjB
+ResourceType: blog
 ResourceImportId: 184
 creator: Martin Hinshelwood
 resourceTypes: blog

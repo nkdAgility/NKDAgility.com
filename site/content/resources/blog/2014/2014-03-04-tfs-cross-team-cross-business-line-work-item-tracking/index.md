@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: l6LGPY2BGU5
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: l6LGPY2BGU5
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-for-cross-team-and-cross-business-line-work-item-tracking
 aliases:
   - /resources/l6LGPY2BGU5
@@ -33,6 +33,8 @@ tags:
   - Product Delivery
 Watermarks:
   description: 2025-05-12T14:22:09Z
+ResourceId: l6LGPY2BGU5
+ResourceType: blog
 ResourceImportId: 10378
 creator: Martin Hinshelwood
 resourceTypes: blog

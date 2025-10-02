@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: UeisJt8U2_0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: UeisJt8U2_0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 7-harbingers-of-the-agile-apocalypse-plague
 aliases:
   - /resources/UeisJt8U2_0
@@ -45,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:08:34Z
   short_title: 2025-07-07T17:52:15Z
   tldr: 2025-08-07T12:58:10Z
+ResourceId: UeisJt8U2_0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: UeisJt8U2_0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/UeisJt8U2_0/maxresdefault.jpg

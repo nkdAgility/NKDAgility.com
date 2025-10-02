@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: CNqQyGHkbF3
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: CNqQyGHkbF3
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: scrum-is-not-a-process-it-is-a-social-technology-designed-to-expose-dysfunction
 aliases:
   - /resources/CNqQyGHkbF3
@@ -32,7 +32,6 @@ tags:
   - Agile Frameworks
   - Software Development
   - Team Performance
-  - Transparency
   - Empirical Process Control
   - Organisational Agility
   - Scrum Master
@@ -52,6 +51,8 @@ Watermarks:
   description: 2025-05-16T15:55:49Z
   short_title: 2025-07-07T16:45:09Z
   tldr: 2025-08-07T12:34:18Z
+ResourceId: CNqQyGHkbF3
+ResourceType: signals
 
 ---
 Scrum isn’t a process—it’s a social technology designed to expose dysfunction.

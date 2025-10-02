@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: aS9TRDoC62o
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: aS9TRDoC62o
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 aliases:
   - /resources/aS9TRDoC62o
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:09:58Z
   short_title: 2025-07-07T17:53:27Z
   tldr: 2025-08-07T13:00:56Z
+ResourceId: aS9TRDoC62o
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: aS9TRDoC62o
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/aS9TRDoC62o/maxresdefault.jpg

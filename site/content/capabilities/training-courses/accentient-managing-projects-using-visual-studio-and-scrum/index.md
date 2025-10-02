@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: QjDoUAyMmas
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: QjDoUAyMmas
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: managing-projects-using-visual-studio-and-scrum-training
-aliases:
-  - /resources/QjDoUAyMmas
+aliases: []
 aliasesArchive:
   - /training-courses/managing-projects-using-visual-studio-and-scrum
   - /training-courses/azure-devops-training-courses/managing-projects-using-visual-studio-and-scrum-training/
@@ -81,6 +80,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+ResourceId: QjDoUAyMmas
+ResourceType: course
 
 ---
 # Managing Projects Using Visual Studio and Scrum Training

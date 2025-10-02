@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: XZ1Swam_Cx0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: XZ1Swam_Cx0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation
 aliases:
   - /resources/XZ1Swam_Cx0
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:08:15Z
   short_title: 2025-07-07T17:52:02Z
   tldr: 2025-08-07T12:57:36Z
+ResourceId: XZ1Swam_Cx0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: XZ1Swam_Cx0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: fm9Rt6R7JZz
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: fm9Rt6R7JZz
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: how-do-you-make-a-good-forecast
 aliases:
   - /resources/fm9Rt6R7JZz
@@ -39,6 +39,8 @@ Watermarks:
   description: 2025-05-07T13:16:12Z
   short_title: 2025-07-07T17:58:29Z
   tldr: 2025-08-07T13:13:04Z
+ResourceId: fm9Rt6R7JZz
+ResourceType: blog
 ResourceImportId: 39852
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: KfLCHLNio90
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: KfLCHLNio90
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: change-of-plan
 aliases:
   - /resources/KfLCHLNio90
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:01Z
+ResourceId: KfLCHLNio90
+ResourceType: blog
 ResourceImportId: 224
 creator: Martin Hinshelwood
 resourceTypes: blog

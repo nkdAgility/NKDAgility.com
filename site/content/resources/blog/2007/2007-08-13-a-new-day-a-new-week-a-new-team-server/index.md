@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 6c2D94gL-Fn
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 6c2D94gL-Fn
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: a-new-day-a-new-week-a-new-team-server
 aliases:
   - /resources/6c2D94gL-Fn
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:26:40Z
+ResourceId: 6c2D94gL-Fn
+ResourceType: blog
 ResourceImportId: 333
 creator: Martin Hinshelwood
 resourceTypes: blog

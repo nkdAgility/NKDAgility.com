@@ -5,16 +5,15 @@ description: A great agile consulting outcome enables organisations to adapt qui
 tldr: A great agile consulting outcome is helping an organization become consistently adaptable to both unexpected opportunities and threats by removing barriers to responsiveness and fostering a culture of flexibility and decentralized decision-making. Key results include shifting from rigid, top-down management to empowered, autonomous teams and building resilience throughout the organization, not just in isolated groups. Development managers should focus on enabling this mindset and structure across all levels to achieve lasting agility and improved business results.
 date: 2023-01-26T07:00:04Z
 lastmod: 2023-01-26T07:00:04Z
-weight: 750
+weight: 565
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
-ResourceId: Cgy1ccX7e7Y
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Cgy1ccX7e7Y
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
 aliases:
   - /resources/Cgy1ccX7e7Y
@@ -45,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:14:25Z
   short_title: 2025-07-07T17:57:02Z
   tldr: 2025-08-07T13:08:54Z
+ResourceId: Cgy1ccX7e7Y
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Cgy1ccX7e7Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Cgy1ccX7e7Y/maxresdefault.jpg

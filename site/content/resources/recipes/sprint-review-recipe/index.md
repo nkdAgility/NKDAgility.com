@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: K4kkSAG3R7m
-ResourceImport: false
-ResourceType: recipes
-ResourceContentOrigin: Human
+ItemId: K4kkSAG3R7m
+ItemType: recipes
+ItemKind: resource
+ItemContentOrigin: Human
 slug: sprint-review-recipe
 aliases:
   - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
@@ -52,6 +52,8 @@ Watermarks:
   description: 2025-05-07T12:57:45Z
   short_title: 2025-07-07T17:48:02Z
   tldr: 2025-08-07T12:46:24Z
+ResourceId: K4kkSAG3R7m
+ResourceType: recipes
 resourceTypes: recipe
 image: /images/naked-Agility-Scrum-Framework-Sprint-Review.jpg
 creator: Martin Hinshelwood

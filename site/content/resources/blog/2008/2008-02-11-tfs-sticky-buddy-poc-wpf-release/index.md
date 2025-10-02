@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: y9N2dVYGwK3
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: y9N2dVYGwK3
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-sticky-buddy-poc-wpf-release
 aliases:
   - /resources/y9N2dVYGwK3
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:32Z
+ResourceId: y9N2dVYGwK3
+ResourceType: blog
 ResourceImportId: 247
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: ov2kV0DI9xR
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ov2kV0DI9xR
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: my-first-scrum-team-in-the-wild
 aliases:
   - /resources/ov2kV0DI9xR
@@ -40,6 +40,8 @@ tags:
   - Product Backlog
 Watermarks:
   description: 2025-05-13T15:10:56Z
+ResourceId: ov2kV0DI9xR
+ResourceType: blog
 ResourceImportId: 9892
 creator: Martin Hinshelwood
 resourceTypes: blog

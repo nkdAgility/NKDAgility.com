@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: 1VzbtRspOsM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 1VzbtRspOsM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-immersive-learning-transforms-aspiring-agile-leaders
 aliases:
   - /resources/1VzbtRspOsM
@@ -52,6 +51,9 @@ Watermarks:
   description: 2025-05-07T13:07:33Z
   short_title: 2025-07-07T17:51:31Z
   tldr: 2025-08-07T12:56:24Z
+ResourceId: 1VzbtRspOsM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 1VzbtRspOsM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/1VzbtRspOsM/maxresdefault.jpg

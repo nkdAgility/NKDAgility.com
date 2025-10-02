@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: syzFdEP1Eso
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: syzFdEP1Eso
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-'definition-of-done'-is-crucial-for-success-in-scrum
 aliases:
   - /resources/syzFdEP1Eso
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:07:54Z
   short_title: 2025-07-07T17:51:47Z
   tldr: 2025-08-07T12:57:05Z
+ResourceId: syzFdEP1Eso
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: syzFdEP1Eso
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/syzFdEP1Eso/maxresdefault.jpg

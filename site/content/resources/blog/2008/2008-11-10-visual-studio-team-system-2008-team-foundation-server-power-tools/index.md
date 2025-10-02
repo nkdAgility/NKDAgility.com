@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: GNzGGsullsE
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: GNzGGsullsE
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-team-system-2008-team-foundation-server-power-tools
 aliases:
   - /resources/GNzGGsullsE
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:34Z
+ResourceId: GNzGGsullsE
+ResourceType: blog
 ResourceImportId: 172
 creator: Martin Hinshelwood
 resourceTypes: blog

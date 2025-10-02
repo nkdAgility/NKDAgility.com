@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: wLJAMvwR6qI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: wLJAMvwR6qI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-assumptions-unlocking-success-in-product-development-through-hypothesis-driven-strategies
 aliases:
   - /resources/wLJAMvwR6qI
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:02:03Z
   short_title: 2025-07-07T17:48:29Z
   tldr: 2025-08-07T12:49:36Z
+ResourceId: wLJAMvwR6qI
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: wLJAMvwR6qI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/wLJAMvwR6qI/maxresdefault.jpg

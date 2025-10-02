@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Lqpn7ILc1mg
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Lqpn7ILc1mg
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: vista-mobile-device-center
 aliases:
   - /resources/Lqpn7ILc1mg
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:39Z
+ResourceId: Lqpn7ILc1mg
+ResourceType: blog
 ResourceImportId: 456
 creator: Martin Hinshelwood
 resourceTypes: blog

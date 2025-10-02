@@ -11,10 +11,10 @@ sitemap:
   priority: 0.7
   changefreq: weekly
 author: MrHinsh
-ResourceId: WEqwDQVsOIa
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: human
+ItemId: WEqwDQVsOIa
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: human
 aliases:
   - /resources/WEqwDQVsOIa
 layout: newsletter
@@ -37,6 +37,8 @@ Watermarks:
   tldr: 2025-08-07T13:15:42Z
   short_title: 2025-08-07T13:15:43Z
 resourceTypes: newsletter
+ResourceId: WEqwDQVsOIa
+ResourceType: newsletters
 
 ---
 ## Now in EST. Ready to Raise the Bar?

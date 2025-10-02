@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: a6j_DLQHNUq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: a6j_DLQHNUq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer
 aliases:
   - /resources/blog/windows-8.1-preview-issue-the-update-is-not-applicable-to-your-computer
@@ -35,6 +35,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:05:54Z
+ResourceId: a6j_DLQHNUq
+ResourceType: blog
 ResourceImportId: 9914
 creator: Martin Hinshelwood
 resourceTypes: blog

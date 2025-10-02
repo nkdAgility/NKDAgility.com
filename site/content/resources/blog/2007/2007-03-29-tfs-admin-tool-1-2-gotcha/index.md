@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: SmRXtDPyViB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: SmRXtDPyViB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-admin-tool-1-2-gotcha
 aliases:
   - /resources/blog/tfs-admin-tool-1.2-gotcha
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:54Z
+ResourceId: SmRXtDPyViB
+ResourceType: blog
 ResourceImportId: 422
 creator: Martin Hinshelwood
 resourceTypes: blog

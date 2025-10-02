@@ -1,28 +1,28 @@
 ---
 title: Business Agility Consultancy
-description: NKD Agility helps enterprises build true business agility - faster decisions, aligned teams, and real outcomes across the UK, EU, and North America.
+short_title: Business Agility Consulting
+description: Expert consulting to help organizations achieve true business agility—aligning strategy, teams, and delivery for faster decisions, measurable outcomes, and real impact.
+tldr: Many organizations struggle with slow delivery and misaligned teams despite adopting agile frameworks because they focus on tools instead of addressing deeper issues like strategy alignment and measurable outcomes. NKD Agility helps by aligning delivery with business goals, improving decision speed, and introducing meaningful metrics, resulting in faster releases, empowered teams, and clear priorities. If your teams are busy but not delivering real value, consider a partnership that embeds practical agility and measurable improvement across your organization.
 date: 2025-07-17
-creator: Martin Hinshelwood
+weight: 450
 sitemap:
   filename: sitemap.xml
-  priority: 0.8
-menus:
-  footer:
-    parent: Consulting Services
-weight: 450
-id: "49856"
-type: capabilities
-slug: business-agility-consulting
+  priority: 0.9
+  changefreq: weekly
+ItemId: vBfMbM9n2lk
+ItemType: capabilities
+ItemKind: capability
+ItemContentOrigin: human
+slug: business-agility-consultancy
 aliases:
   - /capabilities/lean-agile-consultancy/
   - /agile-consulting-coaching
   - /agile-consultancy/
-card:
-  button:
-    content: Transform Your Organization
-  title: Business Agility Consulting
-  content: A practical consulting service that helps organisations move fast, align teams, and deliver real value with evidence-based business agility.
-icon: fa-rocket-launch
+aliasesArchive:
+  - /capabilities/lean-agile-consultancy/
+  - /agile-consulting-coaching
+  - /agile-consultancy/
+type: capabilities
 sections:
   - type: headline
     headline:
@@ -31,10 +31,10 @@ sections:
         Unlock Faster Decisions. Smarter Products. Aligned Teams.
   - type: outcomehero
     cta:
-      content: "We have helped leaders like you. **Let's Talk**"
+      content: We have helped leaders like you. **Let's Talk**
       button:
-        text: "Connect With Us"
-        url: "/company/book-online"
+        text: Connect With Us
+        url: /company/book-online
     boxes: []
   - type: none
     title: Why Business Agility Stalls in most Orgs
@@ -60,7 +60,7 @@ sections:
   - type: boxesrow
     title: What you get with NKD Agility
     boxes:
-      - box:
+      - box: 
         title: Common Problems
         items:
           - title: Agile teams delivering unimportant work
@@ -68,14 +68,14 @@ sections:
           - title: Teams constantly “doing agile” but not improving
           - title: Sluggish release cycles and bloated backlogs
           - title: No clear way to measure progress
-      - box:
+      - box: 
         title: Our Solutions
         items:
           - title: We help you align delivery with strategic outcomes using evidence-based management
           - title: We bridge business and tech through shared metrics, goals, and feedback loops
           - title: We coach toward outcome-driven agility, not just ceremonies and labels
           - title: We implement flow-based systems that reduce WIP and accelerate value delivery
-          - title: "We introduce metrics that matter: Time to Learn, Time to Value, Value per Effort"
+          - title: 'We introduce metrics that matter: Time to Learn, Time to Value, Value per Effort'
   - title: Built for Organizations That Need to Move - Now
     content: |
       With NKD Agility you get:
@@ -106,7 +106,7 @@ sections:
   - type: symmetry
     title: What you get with NKD Agility
     boxes:
-      - box:
+      - box: 
         title: Before
         items:
           - title: Frustrated by misalignment and inertia
@@ -117,7 +117,7 @@ sections:
             icon: fa-face-nose-steam
           - title: Tired of transformation theatre
             icon: fa-face-tired
-      - box:
+      - box: 
         title: After
         items:
           - title: Aligned strategy, empowered teams, and visible impact
@@ -144,17 +144,17 @@ sections:
     type: counters
     counters:
       - counter: "350"
-        counterAfter: "+"
-        content: "**Professional Scrum Trainers**"
+        counterAfter: +
+        content: '**Professional Scrum Trainers**'
       - counter: "60"
-        counterAfter: "+"
-        content: "**Professional Kanban Trainers**"
+        counterAfter: +
+        content: '**Professional Kanban Trainers**'
       - counter: "60"
-        counterAfter: "+"
-        content: "**DevOps Specialists**"
+        counterAfter: +
+        content: '**DevOps Specialists**'
       - counter: "25"
-        counterAfter: "+"
-        content: "**Countries with active consultants**"
+        counterAfter: +
+        content: '**Countries with active consultants**'
   - title: Why NKD Agility?
     type: list
     listType: list
@@ -178,12 +178,28 @@ sections:
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: "We've helped teams like yours. Lets talk."
+      content: We've helped teams like yours. Lets talk.
       button:
-        text: "Schedule a call"
-        url: "/company/book-online"
----
+        text: Schedule a call
+        url: /company/book-online
+card:
+  button:
+    content: Transform Your Organization
+  title: Business Agility Consulting
+  content: A practical consulting service that helps organisations move fast, align teams, and deliver real value with evidence-based business agility.
+Watermarks:
+  description: 2025-10-02T13:53:02Z
+  tldr: 2025-10-02T13:53:05Z
+  short_title: 2025-10-02T13:53:07Z
+creator: Martin Hinshelwood
+menus:
+  footer:
+    parent: Consulting Services
+icon: fa-rocket-launch
+ResourceId: vBfMbM9n2lk
+ResourceType: capabilities
 
+---
 🌍 Business Agility Consulting
 Unlock Faster Decisions. Smarter Products. Aligned Teams.
 

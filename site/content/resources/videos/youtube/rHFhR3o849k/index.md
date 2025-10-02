@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: rHFhR3o849k
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: rHFhR3o849k
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
 aliases:
   - /resources/rHFhR3o849k
@@ -45,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:13:43Z
   short_title: 2025-07-07T17:56:26Z
   tldr: 2025-08-07T13:07:37Z
+ResourceId: rHFhR3o849k
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: rHFhR3o849k
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg

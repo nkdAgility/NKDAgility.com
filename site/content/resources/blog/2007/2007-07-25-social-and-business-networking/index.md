@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: wm96r47cCGV
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: wm96r47cCGV
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: social-and-business-networking
 aliases:
   - /resources/wm96r47cCGV
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:23Z
+ResourceId: wm96r47cCGV
+ResourceType: blog
 ResourceImportId: 359
 creator: Martin Hinshelwood
 resourceTypes: blog

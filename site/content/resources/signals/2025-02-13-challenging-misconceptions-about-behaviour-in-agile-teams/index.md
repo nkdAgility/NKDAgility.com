@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: lVebZgXa1DP
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: lVebZgXa1DP
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: challenging-misconceptions-about-behaviour-in-agile-teams
 aliases:
   - /resources/lVebZgXa1DP
@@ -46,6 +46,8 @@ Watermarks:
   description: 2025-05-16T15:56:59Z
   short_title: 2025-07-07T17:46:32Z
   tldr: 2025-08-07T12:39:33Z
+ResourceId: lVebZgXa1DP
+ResourceType: signals
 
 ---
 I keep hearing people justify bad behaviour in Agile teams by saying, “That’s how Agile works.” No. It isn’t.

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: hoZ59uz-zBG
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: hoZ59uz-zBG
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2005-team-foundation-installation-guide
 aliases:
   - /resources/hoZ59uz-zBG
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:30Z
+ResourceId: hoZ59uz-zBG
+ResourceType: blog
 ResourceImportId: 444
 creator: Martin Hinshelwood
 resourceTypes: blog

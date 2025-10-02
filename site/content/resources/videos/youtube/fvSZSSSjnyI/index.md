@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: fvSZSSSjnyI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: fvSZSSSjnyI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: stop-guessing-how-to-make-work-visible-and-drive-real-improvement-with-azure-devops-flow-metrics
 aliases:
   - /resources/fvSZSSSjnyI
@@ -27,8 +26,8 @@ layout: video
 concepts:
   - Tool
 categories:
-  - DevOps
   - Engineering Excellence
+  - DevOps
   - Kanban
 tags:
   - Decision Making
@@ -40,16 +39,17 @@ tags:
   - Metrics and Learning
   - Pragmatic Thinking
   - Operational Practices
+  - Evidence Based Leadership
   - Team Performance
   - Product Delivery
   - Value Delivery
   - Lead Time
   - Cycle Time
-  - Technical Mastery
 Watermarks:
   description: 2025-07-24T14:49:14Z
   short_title: 2025-07-24T14:49:15Z
   tldr: 2025-07-30T23:12:41Z
+ResourceImportSource: Youtube
 videoId: fvSZSSSjnyI
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/fvSZSSSjnyI/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLBv1On-uLT1olHCP2GKp4FGmFtQxw
@@ -57,6 +57,8 @@ duration: 481
 resourceTypes:
   - video
 isShort: false
+ResourceId: fvSZSSSjnyI
+ResourceType: videos
 
 ---
 If you’re building products at any scale—whether you’re a small startup or a sprawling enterprise—one thing has become abundantly clear to me over the years: you simply cannot make good decisions without evidence. I’ve seen too many teams, and too many organisations, fall into the trap of “gut feel” decision-making. It’s seductive, but it’s also a fast track to mediocrity. Evidence-based management isn’t just a buzzword; it’s the foundation for real, sustainable improvement.

@@ -5,16 +5,15 @@ description: Learn how involving, empowering, and communicating with your team d
 tldr: Successful organisational change depends on actively engaging your team by aligning their goals with the change, involving them in the process, and maintaining open communication. Empowering team members through participation and celebrating progress builds trust and motivation. To drive effective transformation, focus on shared purpose, regular updates, and continuous feedback so your team feels invested and valued.
 date: 2023-12-04T11:00:23Z
 lastmod: 2023-12-04T11:00:23Z
-weight: 1000
+weight: 905
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: OMlLiLkCmMY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: OMlLiLkCmMY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: engaging-your-team-the-secret-to-successful-organisational-change
 aliases:
   - /resources/OMlLiLkCmMY
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:07:18Z
   short_title: 2025-07-07T17:51:20Z
   tldr: 2025-08-07T12:55:49Z
+ResourceId: OMlLiLkCmMY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: OMlLiLkCmMY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg

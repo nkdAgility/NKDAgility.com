@@ -12,10 +12,10 @@ sitemap:
 author:
   - Ken Schwaber
   - Jeff Sutherland
-ResourceId: 59gcHh1fYtC
-ResourceImport: false
-ResourceType: guides
-ResourceContentOrigin: human
+ItemId: 59gcHh1fYtC
+ItemType: guides
+ItemKind: resource
+ItemContentOrigin: human
 slug: the-scrum-guide-february-2010
 aliases:
   - /resources/59gcHh1fYtC
@@ -26,6 +26,8 @@ tags: []
 Watermarks:
   description: 2025-05-07T12:58:15Z
   short_title: 2025-07-07T16:40:32Z
+ResourceId: 59gcHh1fYtC
+ResourceType: guides
 
 ---
 ## Acknowledgements

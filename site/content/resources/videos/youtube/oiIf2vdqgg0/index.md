@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: oiIf2vdqgg0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: oiIf2vdqgg0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-a-product-vision
 aliases:
   - /resources/oiIf2vdqgg0
@@ -35,6 +34,9 @@ Watermarks:
   description: 2025-05-07T13:12:06Z
   short_title: 2025-07-07T17:54:59Z
   tldr: 2025-08-07T13:04:35Z
+ResourceId: oiIf2vdqgg0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: oiIf2vdqgg0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/oiIf2vdqgg0/maxresdefault.jpg

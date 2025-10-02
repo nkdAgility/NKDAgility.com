@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: P2UnYGAqJMI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: P2UnYGAqJMI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
 aliases:
   - /resources/P2UnYGAqJMI
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:06:31Z
   short_title: 2025-07-07T17:50:21Z
   tldr: 2025-08-07T12:54:15Z
+ResourceId: P2UnYGAqJMI
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: P2UnYGAqJMI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/P2UnYGAqJMI/maxresdefault.jpg

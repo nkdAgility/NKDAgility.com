@@ -11,10 +11,10 @@ sitemap:
   priority: 0.1
   changefreq: monthly
 author: MrHinsh
-ResourceId: 2RYiDJ9l8wh
-ResourceImport: false
-ResourceType: podcast
-ResourceContentOrigin: Human
+ItemId: 2RYiDJ9l8wh
+ItemType: podcast
+ItemKind: resource
+ItemContentOrigin: Human
 slug: power-politics-communicating-and-building-political-capital-for-agile-transformations
 aliases:
   - /resources/2RYiDJ9l8wh
@@ -27,6 +27,8 @@ Watermarks:
   description: 2025-05-07T13:02:50Z
   short_title: 2025-07-07T17:49:12Z
   tldr: 2025-08-07T12:51:23Z
+ResourceId: 2RYiDJ9l8wh
+ResourceType: podcast
 resourceTypes: podcast
 
 ---

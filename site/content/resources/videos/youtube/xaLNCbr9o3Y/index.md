@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: xaLNCbr9o3Y
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: xaLNCbr9o3Y
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-agile-learning-embrace-change-and-community-in-uncertain-times
 aliases:
   - /resources/xaLNCbr9o3Y
@@ -35,6 +34,9 @@ Watermarks:
   description: 2025-05-07T13:15:55Z
   short_title: 2025-07-07T17:58:15Z
   tldr: 2025-08-07T13:12:22Z
+ResourceId: xaLNCbr9o3Y
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: xaLNCbr9o3Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xaLNCbr9o3Y/maxresdefault.jpg

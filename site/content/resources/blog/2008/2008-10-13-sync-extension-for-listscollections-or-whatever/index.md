@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: hDlrQdNzLp1
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: hDlrQdNzLp1
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: sync-extension-for-lists-collections-or-whatever
 aliases:
   - /resources/hDlrQdNzLp1
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T16:23:01Z
+ResourceId: hDlrQdNzLp1
+ResourceType: blog
 ResourceImportId: 188
 creator: Martin Hinshelwood
 resourceTypes: blog

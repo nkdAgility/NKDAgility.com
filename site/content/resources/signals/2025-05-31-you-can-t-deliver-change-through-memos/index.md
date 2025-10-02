@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: _CXFN2swhdy
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: _CXFN2swhdy
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: you-can-t-deliver-change-through-memos
 aliases:
   - /resources/_CXFN2swhdy
@@ -26,20 +26,19 @@ categories:
   - Product Development
 tags:
   - Pragmatic Thinking
-  - Competence
   - Personal
   - Team Collaboration
   - Organisational Change
   - Organisational Agility
   - Organisational Culture
+  - Competence
   - Social Technologies
-  - Business Agility
   - Agile Frameworks
   - Change Management
   - Agile Leadership
   - Agile Transformation
   - Software Development
-  - Self Organisation
+  - Empirical Process Control
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7334602153124102145
@@ -55,6 +54,8 @@ Watermarks:
   description: 2025-06-17T17:50:45Z
   short_title: 2025-07-07T16:43:51Z
   tldr: 2025-08-07T12:29:09Z
+ResourceId: _CXFN2swhdy
+ResourceType: signals
 
 ---
 You can’t deliver change through memos. Or tool rollouts. Or executive mandates. If people don’t understand the change, they’ll resist it. Silently. Subtly. And completely.

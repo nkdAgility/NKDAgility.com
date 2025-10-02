@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: T07AK-1FAK4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: T07AK-1FAK4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse
 aliases:
   - /resources/T07AK-1FAK4
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:08:04Z
   short_title: 2025-07-07T17:51:55Z
   tldr: 2025-08-07T12:57:23Z
+ResourceId: T07AK-1FAK4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: T07AK-1FAK4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/T07AK-1FAK4/maxresdefault.jpg

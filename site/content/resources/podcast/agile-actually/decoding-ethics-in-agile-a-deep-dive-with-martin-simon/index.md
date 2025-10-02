@@ -11,10 +11,10 @@ sitemap:
   priority: 0.1
   changefreq: monthly
 author: MrHinsh
-ResourceId: SfjZtlimOCu
-ResourceImport: false
-ResourceType: podcast
-ResourceContentOrigin: Human
+ItemId: SfjZtlimOCu
+ItemType: podcast
+ItemKind: resource
+ItemContentOrigin: Human
 slug: decoding-ethics-in-agile-a-deep-dive-with-martin-simon
 aliases:
   - /resources/SfjZtlimOCu
@@ -27,6 +27,8 @@ Watermarks:
   description: 2025-05-07T13:08:22Z
   short_title: 2025-07-07T17:52:07Z
   tldr: 2025-08-07T12:57:48Z
+ResourceId: SfjZtlimOCu
+ResourceType: podcast
 resourceTypes: podcast
 
 ---

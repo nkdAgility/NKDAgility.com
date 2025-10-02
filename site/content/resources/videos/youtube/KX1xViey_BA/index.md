@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: KX1xViey_BA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: KX1xViey_BA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
 aliases:
   - /resources/KX1xViey_BA
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:08:49Z
   short_title: 2025-07-07T17:52:27Z
   tldr: 2025-08-07T12:58:38Z
+ResourceId: KX1xViey_BA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: KX1xViey_BA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KX1xViey_BA/maxresdefault.jpg

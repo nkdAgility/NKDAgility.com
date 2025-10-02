@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: El__Y7CTcrY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: El__Y7CTcrY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-power-of-immersive-learning-in-scrum-training-why-less-is-more
 aliases:
   - /resources/El__Y7CTcrY
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:06:04Z
   short_title: 2025-07-07T17:50:01Z
   tldr: 2025-08-07T12:53:24Z
+ResourceId: El__Y7CTcrY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: El__Y7CTcrY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/El__Y7CTcrY/maxresdefault.jpg

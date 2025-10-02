@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: gtoRjWgSmKe
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: gtoRjWgSmKe
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: maven-release-prepare-fails-with-detected-changes-in-jenkins
 aliases:
   - /resources/gtoRjWgSmKe
@@ -28,6 +28,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-12T14:21:31Z
+ResourceId: gtoRjWgSmKe
+ResourceType: blog
 ResourceImportId: 10579
 creator: Martin Hinshelwood
 resourceTypes: blog

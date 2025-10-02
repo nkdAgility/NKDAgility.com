@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: J3Z2xU5ditc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: J3Z2xU5ditc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-agile-success-relies-on-effective-planning-debunking-the-myths-of-scrum
 aliases:
   - /resources/J3Z2xU5ditc
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:08:23Z
   short_title: 2025-07-07T17:52:08Z
   tldr: 2025-08-07T12:57:50Z
+ResourceId: J3Z2xU5ditc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: J3Z2xU5ditc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/J3Z2xU5ditc/maxresdefault.jpg

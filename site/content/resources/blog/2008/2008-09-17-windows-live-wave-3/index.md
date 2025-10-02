@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: V2MkZWsiMbX
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: V2MkZWsiMbX
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: windows-live-wave-3
 aliases:
   - /resources/V2MkZWsiMbX
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:23:12Z
+ResourceId: V2MkZWsiMbX
+ResourceType: blog
 ResourceImportId: 192
 creator: Martin Hinshelwood
 resourceTypes: blog

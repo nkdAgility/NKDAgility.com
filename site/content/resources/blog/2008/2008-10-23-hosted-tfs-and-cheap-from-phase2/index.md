@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: UAYEfY1bHiv
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: UAYEfY1bHiv
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: hosted-tfs-and-cheap…-from-phase2
 aliases:
   - /resources/blog/hosted-tfs-and-cheap-.from-phase2
@@ -32,6 +32,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:22:53Z
+ResourceId: UAYEfY1bHiv
+ResourceType: blog
 ResourceImportId: 183
 creator: Martin Hinshelwood
 resourceTypes: blog

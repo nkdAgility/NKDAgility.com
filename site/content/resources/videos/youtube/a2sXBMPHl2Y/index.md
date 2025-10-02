@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: a2sXBMPHl2Y
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: a2sXBMPHl2Y
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
 aliases:
   - /resources/a2sXBMPHl2Y
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:12:41Z
   short_title: 2025-07-07T17:55:26Z
   tldr: 2025-08-07T13:05:32Z
+ResourceId: a2sXBMPHl2Y
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: a2sXBMPHl2Y
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/a2sXBMPHl2Y/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: qNJ2suVslzE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: qNJ2suVslzE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
 aliases:
   - /resources/qNJ2suVslzE
@@ -51,6 +50,7 @@ Watermarks:
   description: 2025-05-07T12:56:54Z
   short_title: 2025-07-07T17:47:18Z
   tldr: 2025-08-07T12:41:16Z
+ResourceImportSource: Youtube
 videoId: qNJ2suVslzE
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/qNJ2suVslzE/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLBAuNIUpdN0JKx8msFH_ZzcrnsvLw
@@ -58,6 +58,8 @@ duration: 259
 resourceTypes:
   - video
 isShort: false
+ResourceId: qNJ2suVslzE
+ResourceType: videos
 
 ---
 If you're grappling with scope creep, you're not alone. It's a common challenge that many teams face, and often, it stems from relying on outdated practices and philosophies that were designed for a world of low variance. In environments where change is minimal, creating a detailed plan or Gantt chart seems effective. You can run the plan, manage risks, and feel in control. However, when the variance—the gap between your expectations and reality—exceeds 50%, those traditional tools start to falter, leading to the dreaded scope creep.

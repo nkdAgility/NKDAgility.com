@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: monthly
-ResourceId: gDzw-Qe_Js8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: gDzw-Qe_Js8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: engineering-excellence-isn-t-perfection-how-continuous-improvement-and-fast-feedback-drive-real-agile-and-devops-success
 aliases:
   - /resources/gDzw-Qe_Js8
@@ -25,7 +24,7 @@ aliasesArchive:
 source: youtube
 layout: video
 concepts:
-  - Capability
+  - Practice
 categories:
   - Engineering Excellence
   - DevOps
@@ -33,23 +32,24 @@ categories:
 tags:
   - Technical Excellence
   - Value Delivery
+  - Engineering Practices
   - Software Development
   - Continuous Improvement
   - Product Delivery
   - Pragmatic Thinking
   - Market Adaptability
   - Technical Mastery
-  - Azure DevOps
   - Continuous Learning
   - Operational Practices
   - Organisational Agility
-  - Engineering Practices
   - Empirical Process Control
   - Team Performance
+  - Continuous Delivery
 Watermarks:
   description: 2025-07-24T15:11:44Z
   short_title: 2025-07-24T15:11:46Z
   tldr: 2025-07-30T23:22:02Z
+ResourceImportSource: Youtube
 videoId: gDzw-Qe_Js8
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/gDzw-Qe_Js8/maxresdefault.jpg?sqp=CIyL2sMG&rs=AOn4CLCaDw4_qASDFmlS-dZFdb3kyoO16w
@@ -57,6 +57,8 @@ duration: 698
 resourceTypes:
   - video
 isShort: false
+ResourceId: gDzw-Qe_Js8
+ResourceType: videos
 
 ---
 Engineering Excellence: Why Perfection Is the Wrong Goal

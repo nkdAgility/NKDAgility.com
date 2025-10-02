@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: ag9EVTamt5M
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: ag9EVTamt5M
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: alm-events-and-public-courses-in-2015-q2
 aliases:
   - /resources/ag9EVTamt5M
@@ -30,6 +30,8 @@ Watermarks:
   description: 2025-05-12T14:19:57Z
   tldr: 2025-08-07T13:25:28Z
   short_title: 2025-08-07T13:25:29Z
+ResourceId: ag9EVTamt5M
+ResourceType: blog
 ResourceImportId: 11248
 creator: Martin Hinshelwood
 resourceTypes: blog

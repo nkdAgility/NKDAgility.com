@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: f7cHTAGDbeh
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: f7cHTAGDbeh
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: professional-scrum-foundations-in-salt-lake-city-utah
 aliases:
   - /resources/f7cHTAGDbeh
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:09:11Z
+ResourceId: f7cHTAGDbeh
+ResourceType: blog
 ResourceImportId: 4980
 creator: Martin Hinshelwood
 resourceTypes: blog

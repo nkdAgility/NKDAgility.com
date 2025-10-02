@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: 81ZWio23ss7
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 81ZWio23ss7
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: technical-debt-isn-t-just-messy-code
 aliases:
   - /resources/81ZWio23ss7
@@ -33,6 +33,7 @@ tags:
   - Operational Practices
   - Product Delivery
   - Pragmatic Thinking
+  - Team Performance
   - Technical Excellence
 platform_signals:
   - platform: LinkedIn
@@ -49,6 +50,8 @@ Watermarks:
   description: 2025-05-16T15:56:12Z
   short_title: 2025-07-07T16:45:28Z
   tldr: 2025-08-07T12:34:54Z
+ResourceId: 81ZWio23ss7
+ResourceType: signals
 
 ---
 Technical debt isn’t just messy code. It’s slow feedback, brittle systems, and manual processes that grind delivery to a halt. It’s why teams spend more time firefighting than innovating.

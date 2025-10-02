@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: KWHN3dnM-5A
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: KWHN3dnM-5A
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint
 aliases:
   - /resources/KWHN3dnM-5A
@@ -30,6 +30,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:08:12Z
+ResourceId: KWHN3dnM-5A
+ResourceType: blog
 ResourceImportId: 7247
 creator: Martin Hinshelwood
 resourceTypes: blog

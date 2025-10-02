@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: monthly
-ResourceId: p3Agu-9sZnA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: p3Agu-9sZnA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
 aliases:
   - /resources/p3Agu-9sZnA
@@ -35,15 +34,16 @@ categories:
   - Product Development
 tags:
   - Technical Debt
-  - Software Development
   - Pragmatic Thinking
   - Technical Mastery
+  - Software Development
   - Operational Practices
   - Engineering Practices
 Watermarks:
   description: 2025-05-07T20:29:03Z
   short_title: 2025-07-07T16:43:59Z
   tldr: 2025-08-07T12:29:29Z
+ResourceImportSource: Youtube
 videoId: p3Agu-9sZnA
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/p3Agu-9sZnA/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLDHQrPLPkg43P5Q18udZAZ6RbpUCg
@@ -51,6 +51,8 @@ duration: 142
 resourceTypes:
   - video
 isShort: false
+ResourceId: p3Agu-9sZnA
+ResourceType: videos
 
 ---
 Technical debt. It’s one of those insidious things that creeps up on you—quietly, almost politely—until one day you realise you’re spending more time firefighting than actually delivering anything new. At that point, it’s not just slowing you down; it’s actively standing in your way, blocking progress, and sapping morale.

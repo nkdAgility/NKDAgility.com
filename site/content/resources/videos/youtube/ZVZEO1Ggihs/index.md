@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: ZVZEO1Ggihs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ZVZEO1Ggihs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-sustainable-growth-why-leadership-is-the-key-to-successful-scaling
 aliases:
   - /resources/ZVZEO1Ggihs
@@ -46,6 +45,7 @@ Watermarks:
   description: 2025-05-07T12:49:27Z
   short_title: 2025-07-07T17:46:09Z
   tldr: 2025-08-07T12:35:51Z
+ResourceImportSource: Youtube
 videoId: ZVZEO1Ggihs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZVZEO1Ggihs/maxresdefault.jpg
@@ -53,6 +53,8 @@ duration: 77
 resourceTypes:
   - video
 isShort: false
+ResourceId: ZVZEO1Ggihs
+ResourceType: videos
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) isn't merely a technical challenge; it’s fundamentally a [leadership]({{< ref "/categories/leadership" >}}) challenge. Over the years, I’ve observed that when companies embark on the journey of scaling, their focus often narrows to architecture, infrastructure, and tools. While these elements are undeniably important, the real constraint lies in leadership. At scale, the way people think, collaborate, and make decisions has a far greater impact than any technology could.

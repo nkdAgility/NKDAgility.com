@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: P0ESCmC9VhB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: P0ESCmC9VhB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
 aliases:
   - /resources/blog/green-to-orange-joining-the-vsip-team-as-a-technical-product-manager
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:08:31Z
+ResourceId: P0ESCmC9VhB
+ResourceType: blog
 ResourceImportId: 6914
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: foi9MYyc1vq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: foi9MYyc1vq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: are-technical-skills-required-to-be-a-scrum-master
 aliases:
   - /resources/foi9MYyc1vq
@@ -40,6 +40,8 @@ Watermarks:
   description: 2025-05-07T13:16:13Z
   short_title: 2025-07-07T17:58:30Z
   tldr: 2025-08-07T13:13:06Z
+ResourceId: foi9MYyc1vq
+ResourceType: blog
 ResourceImportId: 39894
 creator: Martin Hinshelwood
 resourceTypes: blog

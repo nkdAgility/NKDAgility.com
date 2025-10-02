@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: ZqDRLw5mPc-
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: ZqDRLw5mPc-
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: the-true-role-of-a-scrum-master-beyond-facilitation
 aliases:
   - /resources/ZqDRLw5mPc-
@@ -35,10 +35,10 @@ tags:
   - Agile Leadership
   - Coaching
   - Team Performance
-  - Agentic Agility
   - Agile Frameworks
   - Organisational Agility
   - Pragmatic Thinking
+  - Agentic Agility
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7310337177316478976
@@ -54,6 +54,8 @@ Watermarks:
   description: 2025-05-16T15:55:54Z
   short_title: 2025-07-07T16:45:13Z
   tldr: 2025-08-07T12:34:26Z
+ResourceId: ZqDRLw5mPc-
+ResourceType: signals
 
 ---
 If you think a Scrum Master is just a facilitator, you’re missing the point.

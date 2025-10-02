@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 3XsOseKG57g
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 3XsOseKG57g
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-do-people-love-most-about-the-4-day-training-format
 aliases:
   - /resources/3XsOseKG57g
@@ -37,6 +36,9 @@ Watermarks:
   description: 2025-05-07T13:12:32Z
   short_title: 2025-07-07T17:55:19Z
   tldr: 2025-08-07T13:05:15Z
+ResourceId: 3XsOseKG57g
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 3XsOseKG57g
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/3XsOseKG57g/maxresdefault.jpg

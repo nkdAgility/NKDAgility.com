@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: czqyZFQxRrp
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: czqyZFQxRrp
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: commit-to-visual-studio-alm-on-area51
 aliases:
   - /resources/czqyZFQxRrp
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:21:38Z
+ResourceId: czqyZFQxRrp
+ResourceType: blog
 ResourceImportId: 31
 creator: Martin Hinshelwood
 resourceTypes: blog

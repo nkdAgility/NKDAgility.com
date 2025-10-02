@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: eIU0OIoHUfa
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: eIU0OIoHUfa
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: twitter-with-style
 aliases:
   - /resources/eIU0OIoHUfa
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:36Z
+ResourceId: eIU0OIoHUfa
+ResourceType: blog
 ResourceImportId: 105
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: lDSK1w8_5AB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: lDSK1w8_5AB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: cafemsn-prize
 aliases:
   - /resources/lDSK1w8_5AB
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:30:04Z
+ResourceId: lDSK1w8_5AB
+ResourceType: blog
 ResourceImportId: 465
 creator: Martin Hinshelwood
 resourceTypes: blog

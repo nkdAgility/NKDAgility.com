@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: RHIiRGd5H31
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: RHIiRGd5H31
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: internet-explorer-8-release-candidate-1-rc1
 aliases:
   - /resources/RHIiRGd5H31
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:21:49Z
+ResourceId: RHIiRGd5H31
+ResourceType: blog
 ResourceImportId: 143
 creator: Martin Hinshelwood
 resourceTypes: blog

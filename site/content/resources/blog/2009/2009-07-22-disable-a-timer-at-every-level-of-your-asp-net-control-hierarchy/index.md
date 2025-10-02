@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: DPQr4iigMBP
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: DPQr4iigMBP
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 aliases:
   - /resources/blog/disable-a-timer-at-every-level-of-your-asp.net-control-hierarchy
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:29Z
+ResourceId: DPQr4iigMBP
+ResourceType: blog
 ResourceImportId: 98
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: iEdzblomyOb
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: iEdzblomyOb
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: if-every-release-feels-high-risk-you-lack-a-true-definition-of-done
 aliases:
   - /resources/iEdzblomyOb
@@ -48,6 +48,8 @@ Watermarks:
   description: 2025-05-16T15:55:42Z
   short_title: 2025-07-07T16:45:03Z
   tldr: 2025-08-07T12:34:03Z
+ResourceId: iEdzblomyOb
+ResourceType: signals
 
 ---
 If every release feels like a high-risk operation, you don’t have a Definition of Done—you have a definition of “we hope this works.”

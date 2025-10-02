@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 1jIPsnnKuNK
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 1jIPsnnKuNK
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: issue-tfs-2012-2-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
 aliases:
   - /resources/blog/issue-tfs-2012.2-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
@@ -33,6 +33,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:06:08Z
+ResourceId: 1jIPsnnKuNK
+ResourceType: blog
 ResourceImportId: 9661
 creator: Martin Hinshelwood
 resourceTypes: blog

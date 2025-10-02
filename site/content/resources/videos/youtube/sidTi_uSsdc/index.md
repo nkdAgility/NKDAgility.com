@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: sidTi_uSsdc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: sidTi_uSsdc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: discipline-versus-motivation
 aliases:
   - /resources/sidTi_uSsdc
@@ -33,6 +32,9 @@ Watermarks:
   description: 2025-05-07T13:12:29Z
   short_title: 2025-07-07T17:55:17Z
   tldr: 2025-08-07T13:05:11Z
+ResourceId: sidTi_uSsdc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: sidTi_uSsdc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sidTi_uSsdc/maxresdefault.jpg

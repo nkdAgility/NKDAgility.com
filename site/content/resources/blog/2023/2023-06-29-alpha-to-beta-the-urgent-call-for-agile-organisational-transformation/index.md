@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: aeNTMpquEZ5
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: aeNTMpquEZ5
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: the-urgent-call-for-agile-organisational-transformation
 aliases:
   - /blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
@@ -53,6 +53,8 @@ Watermarks:
   description: 2025-05-07T13:11:07Z
   short_title: 2025-07-07T17:54:14Z
   tldr: 2025-08-07T13:02:40Z
+ResourceId: aeNTMpquEZ5
+ResourceType: blog
 ResourceImportId: 49485
 AudioNative: true
 creator: Martin Hinshelwood

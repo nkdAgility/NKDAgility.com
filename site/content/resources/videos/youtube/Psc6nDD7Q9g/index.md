@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: Psc6nDD7Q9g
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Psc6nDD7Q9g
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: maximizing-transparency-and-improvement-in-software-engineering-with-kanban
 aliases:
   - /resources/Psc6nDD7Q9g
@@ -50,6 +49,9 @@ Watermarks:
   description: 2025-05-07T13:02:27Z
   short_title: 2025-07-07T17:48:52Z
   tldr: 2025-08-07T12:50:32Z
+ResourceId: Psc6nDD7Q9g
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Psc6nDD7Q9g
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Psc6nDD7Q9g/maxresdefault.jpg

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: YQ8HMmx0-kz
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: YQ8HMmx0-kz
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: agile-in-africa-2016
 aliases:
   - /resources/YQ8HMmx0-kz
@@ -32,6 +32,8 @@ Watermarks:
   description: 2025-05-07T13:16:50Z
   short_title: 2025-07-07T17:59:02Z
   tldr: 2025-08-07T13:24:24Z
+ResourceId: YQ8HMmx0-kz
+ResourceType: blog
 ResourceImportId: 11450
 creator: Martin Hinshelwood
 resourceTypes: blog

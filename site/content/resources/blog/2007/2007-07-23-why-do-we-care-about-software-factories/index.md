@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: cdrcglA4d9D
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: cdrcglA4d9D
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: why-do-we-care-about-software-factories
 aliases:
   - /resources/cdrcglA4d9D
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:24Z
+ResourceId: cdrcglA4d9D
+ResourceType: blog
 ResourceImportId: 362
 creator: Martin Hinshelwood
 resourceTypes: blog

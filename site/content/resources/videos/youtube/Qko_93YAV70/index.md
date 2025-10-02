@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Qko_93YAV70
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Qko_93YAV70
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-the-power-of-caman-why-it-s-the-perfect-companion-to-scrum-for-process-optimisation
 aliases:
   - /resources/Qko_93YAV70
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:02:12Z
   short_title: 2025-07-07T17:48:37Z
   tldr: 2025-08-07T12:49:54Z
+ResourceId: Qko_93YAV70
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Qko_93YAV70
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Qko_93YAV70/maxresdefault.jpg

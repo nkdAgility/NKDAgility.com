@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: cMYx4JN2az5
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: cMYx4JN2az5
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 aliases:
   - /resources/cMYx4JN2az5
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:07:00Z
+ResourceId: cMYx4JN2az5
+ResourceType: blog
 ResourceImportId: 9229
 creator: Martin Hinshelwood
 resourceTypes: blog

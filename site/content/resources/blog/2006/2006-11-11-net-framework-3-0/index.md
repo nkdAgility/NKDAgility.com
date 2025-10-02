@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 8jxki9iqNyC
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 8jxki9iqNyC
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: net-framework-3-0
 aliases:
   - /resources/blog/.net-framework-3.0
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:55Z
+ResourceId: 8jxki9iqNyC
+ResourceType: blog
 ResourceImportId: 462
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: S7Xr1-qONmM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: S7Xr1-qONmM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
 aliases:
   - /resources/S7Xr1-qONmM
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:14:01Z
   short_title: 2025-07-07T17:56:42Z
   tldr: 2025-08-07T13:08:11Z
+ResourceId: S7Xr1-qONmM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: S7Xr1-qONmM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/S7Xr1-qONmM/maxresdefault.jpg

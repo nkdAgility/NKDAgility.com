@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: BGC7JkOCdJs
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: BGC7JkOCdJs
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: free-online-training-from-microsoft
 aliases:
   - /resources/BGC7JkOCdJs
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:59Z
+ResourceId: BGC7JkOCdJs
+ResourceType: blog
 ResourceImportId: 423
 creator: Martin Hinshelwood
 resourceTypes: blog

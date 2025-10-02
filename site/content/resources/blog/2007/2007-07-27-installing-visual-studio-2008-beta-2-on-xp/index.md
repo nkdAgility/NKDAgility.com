@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: QyRk0KkQYbz
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: QyRk0KkQYbz
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-visual-studio-2008-beta-2-on-xp
 aliases:
   - /resources/QyRk0KkQYbz
@@ -27,6 +27,8 @@ tags:
   - Miscellaneous
 Watermarks:
   description: 2025-05-13T16:27:21Z
+ResourceId: QyRk0KkQYbz
+ResourceType: blog
 ResourceImportId: 358
 creator: Martin Hinshelwood
 resourceTypes: blog

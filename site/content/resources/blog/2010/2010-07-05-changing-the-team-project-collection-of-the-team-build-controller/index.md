@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: n7Y4Ij-CPvp
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: n7Y4Ij-CPvp
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: changing-the-team-project-collection-of-the-team-build-controller
 aliases:
   - /resources/n7Y4Ij-CPvp
@@ -29,6 +29,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:21:45Z
+ResourceId: n7Y4Ij-CPvp
+ResourceType: blog
 ResourceImportId: 35
 creator: Martin Hinshelwood
 resourceTypes: blog

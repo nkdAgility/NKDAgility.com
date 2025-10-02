@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: M-6kKMAcLiM
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: M-6kKMAcLiM
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: gears-of-war-update-starting-9-jan-2007
 aliases:
   - /resources/M-6kKMAcLiM
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:36Z
+ResourceId: M-6kKMAcLiM
+ResourceType: blog
 ResourceImportId: 449
 creator: Martin Hinshelwood
 resourceTypes: blog

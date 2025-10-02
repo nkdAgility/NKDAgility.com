@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: gdc1V-o308o
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: gdc1V-o308o
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: introduction-to-net-framework-3-0-for-developers-event
 aliases:
   - /resources/blog/introduction-to-.net-framework-3.0-for-developers-event
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:49Z
+ResourceId: gdc1V-o308o
+ResourceType: blog
 ResourceImportId: 418
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: monthly
-ResourceId: LHqjlId0SiU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: LHqjlId0SiU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: why-your-definition-of-done-is-the-secret-weapon-your-team-needs-to-win
 aliases:
   - /resources/LHqjlId0SiU
@@ -36,10 +35,10 @@ categories:
 tags:
   - Definition of Done
   - Software Development
-  - Pragmatic Thinking
   - Team Performance
   - Value Delivery
   - Product Delivery
+  - Pragmatic Thinking
   - Organisational Agility
   - Operational Practices
   - Professional Scrum
@@ -53,6 +52,7 @@ Watermarks:
   description: 2025-05-07T18:57:16Z
   short_title: 2025-07-07T16:43:15Z
   tldr: 2025-07-30T23:22:08Z
+ResourceImportSource: Youtube
 videoId: LHqjlId0SiU
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/LHqjlId0SiU/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBJllDiEgFFcBqbQftEd3ihBxtwMg
@@ -60,6 +60,8 @@ duration: 66
 resourceTypes:
   - video
 isShort: false
+ResourceId: LHqjlId0SiU
+ResourceType: videos
 
 ---
 Most teams don’t fail because they can’t build. They fail because they don’t finish the right way. This is something I’ve seen time and again, whether I’m working with a start-up finding its feet or a global enterprise wrestling with legacy systems. The technical ability to build is rarely the problem. The real challenge is in finishing—properly, consistently, and in a way that actually moves the needle for the business.

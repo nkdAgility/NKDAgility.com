@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: kT9sB1jIz0U
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: kT9sB1jIz0U
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: embracing-hierarchies-of-competence-how-respect-and-expertise-transform-workplaces
 aliases:
   - /resources/kT9sB1jIz0U
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:12:45Z
   short_title: 2025-07-07T17:55:30Z
   tldr: 2025-08-07T13:05:38Z
+ResourceId: kT9sB1jIz0U
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: kT9sB1jIz0U
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/kT9sB1jIz0U/maxresdefault.jpg

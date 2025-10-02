@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Jz5uZMzPiRx
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: Jz5uZMzPiRx
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 aliases:
   - /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
@@ -43,6 +43,8 @@ Watermarks:
   description: 2025-05-07T13:09:38Z
   short_title: 2025-07-07T17:53:10Z
   tldr: 2025-08-07T13:00:15Z
+ResourceId: Jz5uZMzPiRx
+ResourceType: blog
 ResourceImportId: 49732
 AudioNative: true
 creator: Martin Hinshelwood

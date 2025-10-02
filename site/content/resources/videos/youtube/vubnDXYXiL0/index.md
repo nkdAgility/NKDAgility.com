@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: vubnDXYXiL0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: vubnDXYXiL0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
 aliases:
   - /resources/vubnDXYXiL0
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:08:40Z
   short_title: 2025-07-07T17:52:20Z
   tldr: 2025-08-07T12:58:21Z
+ResourceId: vubnDXYXiL0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: vubnDXYXiL0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vubnDXYXiL0/maxresdefault.jpg

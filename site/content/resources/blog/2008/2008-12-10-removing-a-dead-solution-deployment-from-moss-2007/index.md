@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: JD6-7WEsi2d
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: JD6-7WEsi2d
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: removing-a-dead-solution-deployment-from-moss-2007
 aliases:
   - /resources/JD6-7WEsi2d
@@ -28,6 +28,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:22:09Z
+ResourceId: JD6-7WEsi2d
+ResourceType: blog
 ResourceImportId: 155
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Nf6XCdhSUMw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Nf6XCdhSUMw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
 aliases:
   - /resources/Nf6XCdhSUMw
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:02:09Z
   short_title: 2025-07-07T17:48:34Z
   tldr: 2025-08-07T12:49:48Z
+ResourceId: Nf6XCdhSUMw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Nf6XCdhSUMw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Nf6XCdhSUMw/maxresdefault.jpg

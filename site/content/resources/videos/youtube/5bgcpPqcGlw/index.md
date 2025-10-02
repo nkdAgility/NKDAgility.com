@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: 5bgcpPqcGlw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 5bgcpPqcGlw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-site-reliability-insights-from-azure-devops-on-building-a-resilient-live-site-culture
 aliases:
   - /resources/5bgcpPqcGlw
@@ -52,6 +51,9 @@ Watermarks:
   description: 2025-05-07T13:15:41Z
   short_title: 2025-07-07T17:58:04Z
   tldr: 2025-08-07T13:11:38Z
+ResourceId: 5bgcpPqcGlw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 5bgcpPqcGlw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/5bgcpPqcGlw/maxresdefault.jpg

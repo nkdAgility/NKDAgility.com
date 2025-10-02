@@ -11,10 +11,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: LGGuvRq4g7p
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: LGGuvRq4g7p
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: fragile-by-design-the-cost-of-pretending-to-be-resilient
 aliases:
   - /resources/LGGuvRq4g7p
@@ -35,6 +35,8 @@ Watermarks:
   description: 2025-05-07T12:49:09Z
   short_title: 2025-07-07T16:44:17Z
   tldr: 2025-08-07T12:32:30Z
+ResourceId: LGGuvRq4g7p
+ResourceType: blog
 
 ---
 Most systems are not resilient. They are fragile by design—propped up by a fantasy of "continuity" that vanishes the moment real pressure hits.

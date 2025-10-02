@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: CkFbsX0M3i-
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: CkFbsX0M3i-
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: every-delay-in-decision-making-taxes-your-organisation-future
 aliases:
   - /resources/CkFbsX0M3i-
@@ -40,6 +40,8 @@ Watermarks:
   description: 2025-05-16T15:55:17Z
   short_title: 2025-07-07T16:44:43Z
   tldr: 2025-08-07T12:33:19Z
+ResourceId: CkFbsX0M3i-
+ResourceType: signals
 
 ---
 Every delay in decision-making is a tax on your organisation’s future.

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: o-wVeh3CIVI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: o-wVeh3CIVI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-scrum
 aliases:
   - /resources/o-wVeh3CIVI
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:12:20Z
   short_title: 2025-07-07T17:55:10Z
   tldr: 2025-08-07T13:04:58Z
+ResourceId: o-wVeh3CIVI
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: o-wVeh3CIVI
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/o-wVeh3CIVI/maxresdefault.jpg

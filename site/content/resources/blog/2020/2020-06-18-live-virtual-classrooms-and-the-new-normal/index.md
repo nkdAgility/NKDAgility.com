@@ -5,15 +5,15 @@ description: Explores how live virtual classrooms have become effective alternat
 tldr: Virtual training has proven to be as effective as, or even better than, in-person classes, with similar participation and only slightly lower pass rates. Modern video conferencing tools and interactive techniques enable high-quality learning experiences without the need for physical colocation. Development managers should embrace virtual delivery as the new normal, leveraging its flexibility and environmental benefits while adapting team practices to maximize engagement and outcomes.
 date: 2020-06-18
 lastmod: 2020-06-18
-weight: 1000
+weight: 885
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: wS3GaFbyzDv
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: wS3GaFbyzDv
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: live-virtual-classroom's-and-the-new-normal
 aliases:
   - /resources/blog/live-virtual-classroom-s-and-the-new-normal
@@ -35,6 +35,8 @@ Watermarks:
   description: 2025-05-07T13:15:37Z
   short_title: 2025-07-07T17:58:00Z
   tldr: 2025-08-07T13:11:29Z
+ResourceId: wS3GaFbyzDv
+ResourceType: blog
 ResourceImportId: 44418
 creator: Martin Hinshelwood
 resourceTypes: blog

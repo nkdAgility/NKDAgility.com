@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: kofEeioSTH9
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: kofEeioSTH9
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: new-event-handlers
 aliases:
   - /resources/kofEeioSTH9
@@ -27,6 +27,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T16:24:40Z
+ResourceId: kofEeioSTH9
+ResourceType: blog
 ResourceImportId: 258
 creator: Martin Hinshelwood
 resourceTypes: blog

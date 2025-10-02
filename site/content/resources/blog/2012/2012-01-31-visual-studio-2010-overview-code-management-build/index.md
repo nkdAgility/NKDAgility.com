@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: 1hC0IZyRA0c
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 1hC0IZyRA0c
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2010-overview-code-management-and-build
 aliases:
   - /resources/1hC0IZyRA0c
@@ -30,6 +30,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:09:38Z
+ResourceId: 1hC0IZyRA0c
+ResourceType: blog
 ResourceImportId: 4182
 creator: Martin Hinshelwood
 resourceTypes: blog

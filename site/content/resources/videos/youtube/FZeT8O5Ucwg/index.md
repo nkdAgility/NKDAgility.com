@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: FZeT8O5Ucwg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: FZeT8O5Ucwg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
 aliases:
   - /resources/FZeT8O5Ucwg
@@ -43,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:16:02Z
   short_title: 2025-07-07T17:58:21Z
   tldr: 2025-08-07T13:12:39Z
+ResourceId: FZeT8O5Ucwg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: FZeT8O5Ucwg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg

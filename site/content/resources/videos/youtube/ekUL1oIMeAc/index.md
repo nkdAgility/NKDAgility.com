@@ -5,16 +5,15 @@ description: A real-world example of a product owner undermining their Scrum tea
 tldr: A product owner publicly blamed the development team during a sprint review instead of supporting them when stakeholders questioned product decisions, undermining trust and collaboration. Product owners should balance accountability to stakeholders with support for their teams, especially under pressure. Development managers should ensure product owners are prepared to defend team decisions and foster a collaborative environment.
 date: 2023-06-06T11:00:34Z
 lastmod: 2023-06-06T11:00:34Z
-weight: 785
+weight: 455
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
-ResourceId: ekUL1oIMeAc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ekUL1oIMeAc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: worst-contribution-from-a-product-owner-that-you-know-of
 aliases:
   - /resources/ekUL1oIMeAc
@@ -40,6 +39,9 @@ Watermarks:
   description: 2025-05-07T13:11:50Z
   short_title: 2025-07-07T17:54:48Z
   tldr: 2025-08-07T13:04:10Z
+ResourceId: ekUL1oIMeAc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ekUL1oIMeAc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ekUL1oIMeAc/maxresdefault.jpg

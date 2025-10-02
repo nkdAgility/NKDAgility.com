@@ -8,11 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: U69JMzIZXro
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: U69JMzIZXro
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-tfs-installation-on-a-single-server-a-step-by-step-guide-for-beginners
 aliases:
   - /resources/U69JMzIZXro
@@ -34,6 +33,9 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-12T14:22:33Z
+ResourceId: U69JMzIZXro
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: U69JMzIZXro
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/U69JMzIZXro/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: V8Qpo-Gh6CE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: V8Qpo-Gh6CE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: why-your-definition-of-done-is-the-secret-weapon-for-real-business-impact-and-agile-growth
 aliases:
   - /resources/V8Qpo-Gh6CE
@@ -35,7 +34,9 @@ categories:
   - Engineering Excellence
   - Scrum
 tags:
+  - Software Development
   - Definition of Done
+  - Pragmatic Thinking
   - Customer Focus
   - Value Delivery
   - Organisational Agility
@@ -43,17 +44,16 @@ tags:
   - Operational Practices
   - Market Adaptability
   - Business Agility
-  - Pragmatic Thinking
   - Agile Product Management
   - Professional Scrum
   - Agile Strategy
   - Agile Philosophy
   - Social Technologies
-  - Software Development
 Watermarks:
   description: 2025-05-07T19:36:10Z
   short_title: 2025-07-07T16:43:25Z
   tldr: 2025-08-07T12:11:02Z
+ResourceImportSource: Youtube
 videoId: V8Qpo-Gh6CE
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/V8Qpo-Gh6CE/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLDui5h5I3gHwPFYNXQ5KAURLXRLeA
@@ -61,6 +61,8 @@ duration: 53
 resourceTypes:
   - video
 isShort: true
+ResourceId: V8Qpo-Gh6CE
+ResourceType: videos
 
 ---
 Your definition of done affects your bottom line. I’ve seen this time and again in organisations that treat “done” as a mere checklist item, a technical standard, or a box to tick at the end of a sprint. But let’s be clear: done is strategic. It’s not just about getting through the work; it’s about making the work matter.

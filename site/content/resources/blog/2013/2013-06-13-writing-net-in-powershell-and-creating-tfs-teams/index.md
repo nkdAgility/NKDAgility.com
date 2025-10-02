@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 52GnS0fI67Q
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 52GnS0fI67Q
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: writing-net-in-powershell-and-creating-tfs-teams
 aliases:
   - /resources/blog/writing-.net-in-powershell-and-creating-tfs-teams
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:06:19Z
+ResourceId: 52GnS0fI67Q
+ResourceType: blog
 ResourceImportId: 9903
 creator: Martin Hinshelwood
 resourceTypes: blog

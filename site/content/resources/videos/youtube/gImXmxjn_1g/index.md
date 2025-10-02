@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: gImXmxjn_1g
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: gImXmxjn_1g
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
 aliases:
   - /resources/gImXmxjn_1g
@@ -33,11 +32,15 @@ layout: video
 concepts: []
 categories:
   - Uncategorized
-tags: []
+tags:
+  - Organisational Change
 Watermarks:
   description: 2025-05-07T13:13:14Z
   short_title: 2025-07-07T17:55:55Z
   tldr: 2025-08-07T13:06:40Z
+ResourceId: gImXmxjn_1g
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: gImXmxjn_1g
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/gImXmxjn_1g/maxresdefault.jpg

@@ -11,10 +11,10 @@ sitemap:
   priority: 0.3
   changefreq: weekly
 author: MrHinsh
-ResourceId: 2G_gVI5phMC
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: Human
+ItemId: 2G_gVI5phMC
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: Human
 slug: unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org
 aliases:
   - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
@@ -39,6 +39,8 @@ Watermarks:
   description: 2025-05-07T13:08:59Z
   short_title: 2025-07-07T17:52:34Z
   tldr: 2025-08-07T12:58:55Z
+ResourceId: 2G_gVI5phMC
+ResourceType: newsletters
 preview: NKDAgility-technically-DOD-Not-AC-3-2.jpg
 resourceTypes: newsletter
 

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: lRBsJkDeKrI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: lRBsJkDeKrI
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: why-your-definition-of-done-is-holding-back-quality-agility-and-trust-and-how-to-raise-the-bar
 aliases:
   - /resources/lRBsJkDeKrI
@@ -39,11 +38,11 @@ tags:
   - Definition of Done
   - Software Development
   - Product Delivery
+  - Pragmatic Thinking
   - Operational Practices
   - Value Delivery
   - Technical Mastery
   - Working Software
-  - Pragmatic Thinking
   - Increment
   - Professional Scrum
   - Engineering Practices
@@ -54,6 +53,7 @@ Watermarks:
   description: 2025-05-07T19:08:27Z
   short_title: 2025-07-07T16:43:17Z
   tldr: 2025-07-30T23:22:17Z
+ResourceImportSource: Youtube
 videoId: lRBsJkDeKrI
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/lRBsJkDeKrI/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBIpDGsn1p3vMuTnHUaWV_3Gx_jkw
@@ -61,6 +61,8 @@ duration: 55
 resourceTypes:
   - video
 isShort: true
+ResourceId: lRBsJkDeKrI
+ResourceType: videos
 
 ---
 Can Your Product Pass the Done Test?

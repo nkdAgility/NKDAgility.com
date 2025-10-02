@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: RQY0XkuFgIq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: RQY0XkuFgIq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 aliases:
   - /resources/RQY0XkuFgIq
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:24:18Z
+ResourceId: RQY0XkuFgIq
+ResourceType: blog
 ResourceImportId: 131
 creator: Martin Hinshelwood
 resourceTypes: blog

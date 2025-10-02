@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: kEywzkMhWl0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: kEywzkMhWl0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: one-critical-skill-for-a-scrum-master-and-why
 aliases:
   - /resources/kEywzkMhWl0
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:13:02Z
   short_title: 2025-07-07T17:55:45Z
   tldr: 2025-08-07T13:06:10Z
+ResourceId: kEywzkMhWl0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: kEywzkMhWl0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/kEywzkMhWl0/maxresdefault.jpg

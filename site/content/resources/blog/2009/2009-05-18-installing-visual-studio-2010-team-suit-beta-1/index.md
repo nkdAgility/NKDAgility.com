@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: qtd2Xg-TMfU
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: qtd2Xg-TMfU
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-visual-studio-2010-team-suit-beta-1
 aliases:
   - /resources/qtd2Xg-TMfU
@@ -27,6 +27,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:23:54Z
+ResourceId: qtd2Xg-TMfU
+ResourceType: blog
 ResourceImportId: 119
 creator: Martin Hinshelwood
 resourceTypes: blog

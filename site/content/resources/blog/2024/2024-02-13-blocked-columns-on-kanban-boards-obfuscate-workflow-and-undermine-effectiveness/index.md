@@ -13,10 +13,10 @@ sitemap:
 contributors:
   - name: Will Seele
     external: https://www.linkedin.com/in/wjseele/
-ResourceId: 7JJaRr4g-KA
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: 7JJaRr4g-KA
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 aliases:
   - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
@@ -43,6 +43,8 @@ Watermarks:
   description: 2025-05-07T13:05:52Z
   short_title: 2025-07-07T17:49:48Z
   tldr: 2025-08-07T12:52:50Z
+ResourceId: 7JJaRr4g-KA
+ResourceType: blog
 ResourceImportId: 51208
 AudioNative: true
 creator: Martin Hinshelwood

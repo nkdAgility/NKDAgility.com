@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Z3OPR0BDfsD
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Z3OPR0BDfsD
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: event-msdn-sharepoint-for-developers-edinburgh
 aliases:
   - /resources/Z3OPR0BDfsD
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:35Z
+ResourceId: Z3OPR0BDfsD
+ResourceType: blog
 ResourceImportId: 288
 creator: Martin Hinshelwood
 resourceTypes: blog

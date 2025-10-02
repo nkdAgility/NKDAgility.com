@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: O6rYL3EDUxM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: O6rYL3EDUxM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: detecting-agile-bs-lessons-from-the-us-department-of-defense
 aliases:
   - /resources/O6rYL3EDUxM
@@ -53,6 +52,9 @@ Watermarks:
   description: 2025-05-07T13:02:45Z
   short_title: 2025-07-07T17:49:07Z
   tldr: 2025-08-07T12:51:11Z
+ResourceId: O6rYL3EDUxM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: O6rYL3EDUxM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/O6rYL3EDUxM/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: KvZbBwzxSu4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: KvZbBwzxSu4
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 aliases:
   - /resources/KvZbBwzxSu4
@@ -53,6 +52,9 @@ Watermarks:
   description: 2025-05-07T13:02:17Z
   short_title: 2025-07-07T17:48:42Z
   tldr: 2025-08-07T12:50:08Z
+ResourceId: KvZbBwzxSu4
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: KvZbBwzxSu4
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg

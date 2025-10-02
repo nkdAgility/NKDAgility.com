@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: l3dnUvBZV8r
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: l3dnUvBZV8r
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: removing-acl's-for-dead-ad-accounts
 aliases:
   - /resources/blog/removing-acl-s-for-dead-ad-accounts
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:54Z
+ResourceId: l3dnUvBZV8r
+ResourceType: blog
 ResourceImportId: 262
 creator: Martin Hinshelwood
 resourceTypes: blog

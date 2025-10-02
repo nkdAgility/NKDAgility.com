@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: V6qWqBrh4kv
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: V6qWqBrh4kv
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: full-fidelity-history-and-data-migration-are-mutually-exclusive
 aliases:
   - /resources/V6qWqBrh4kv
@@ -28,6 +28,8 @@ tags:
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:09:01Z
+ResourceId: V6qWqBrh4kv
+ResourceType: blog
 ResourceImportId: 5288
 creator: Martin Hinshelwood
 resourceTypes: blog

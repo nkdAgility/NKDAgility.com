@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: CujSf0EnB7d
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: CujSf0EnB7d
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: professional-agile-leadership-essentials-pal-e-with-certification
-aliases:
-  - /resources/CujSf0EnB7d
+aliases: []
 aliasesArchive:
   - /training-courses/professional-agile-leadership
   - /training-courses/professional-agile-leadership-essentials-training
@@ -108,6 +107,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+ResourceId: CujSf0EnB7d
+ResourceType: course
 
 ---
 # Professional Agile Leadership Essentials (PAL-e) with Certification

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 4nhKXAgutZw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 4nhKXAgutZw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-power-of-kindness-in-agile-a-core-virtue-for-success
 aliases:
   - /resources/4nhKXAgutZw
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:07:06Z
   short_title: 2025-07-07T17:51:10Z
   tldr: 2025-08-07T12:55:28Z
+ResourceId: 4nhKXAgutZw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 4nhKXAgutZw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4nhKXAgutZw/maxresdefault.jpg

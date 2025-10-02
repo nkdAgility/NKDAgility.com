@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: GJSBFyoHk8E
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: GJSBFyoHk8E
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: how-does-a-scrum-team-create-a-sprint-goal
 aliases:
   - /resources/GJSBFyoHk8E
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:11:57Z
   short_title: 2025-07-07T17:54:54Z
   tldr: 2025-08-07T13:04:22Z
+ResourceId: GJSBFyoHk8E
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: GJSBFyoHk8E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/GJSBFyoHk8E/maxresdefault.jpg

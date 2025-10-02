@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: rbEQRJrs4NY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: rbEQRJrs4NY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-product-value-why-real-user-feedback-is-your-best-asset
 aliases:
   - /resources/rbEQRJrs4NY
@@ -35,10 +34,12 @@ categories:
 tags:
   - Product Validation
   - Customer Focus
+  - Miscellaneous
 Watermarks:
   description: 2025-05-07T12:49:45Z
   short_title: 2025-07-07T17:46:43Z
   tldr: 2025-08-07T12:39:58Z
+ResourceImportSource: Youtube
 videoId: rbEQRJrs4NY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/rbEQRJrs4NY/maxresdefault.jpg
@@ -46,6 +47,8 @@ duration: 62
 resourceTypes:
   - video
 isShort: false
+ResourceId: rbEQRJrs4NY
+ResourceType: videos
 
 ---
 In my journey through the world of [product development]({{< ref "/categories/product-development" >}}), I've come to realise a fundamental truth: **value only happens when you get it in front of real users**. Everything that precedes this moment is merely an assumption. We can spend countless hours validating our ideas, trying to weed out the bad assumptions and features that seem promising on paper but may not resonate in reality. However, the crux of the matter is this: until we present something we believe will provide value to actual users, we remain in the dark about its true worth.

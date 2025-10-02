@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: 2I3S32Sk8-c
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 2I3S32Sk8-c
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 aliases:
   - /resources/2I3S32Sk8-c
@@ -45,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:14:04Z
   short_title: 2025-07-07T17:56:45Z
   tldr: 2025-08-07T13:08:17Z
+ResourceId: 2I3S32Sk8-c
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 2I3S32Sk8-c
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2I3S32Sk8-c/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: piNenAHpFYq
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: piNenAHpFYq
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: windows-communication-framework-evaluation
 aliases:
   - /resources/piNenAHpFYq
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:30:00Z
+ResourceId: piNenAHpFYq
+ResourceType: blog
 ResourceImportId: 464
 creator: Martin Hinshelwood
 resourceTypes: blog

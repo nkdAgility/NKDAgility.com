@@ -10,17 +10,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: 5nkzevV2xKG
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 5nkzevV2xKG
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: everyone-loves-to-shout-give-teams-autonomy
 aliases:
   - /resources/5nkzevV2xKG
 source: LinkedIn
 layout: signal
 concepts:
-  - Strategy
+  - Philosophy
 categories:
   - Scrum
   - Product Management
@@ -56,6 +56,8 @@ Watermarks:
   description: 2025-05-16T15:54:56Z
   short_title: 2025-07-07T16:44:23Z
   tldr: 2025-08-07T12:32:40Z
+ResourceId: 5nkzevV2xKG
+ResourceType: signals
 
 ---
 Everyone loves to shout “give teams autonomy.”

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
   changefreq: weekly
-ResourceId: 2cOXevMnGb_
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: 2cOXevMnGb_
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: release-planning-and-predictable-delivery
 aliases:
   - /blog/release-planning-and-predictable-delivery
@@ -51,6 +51,8 @@ Watermarks:
   description: 2025-05-07T13:15:21Z
   short_title: 2025-07-07T17:57:47Z
   tldr: 2025-08-07T13:10:58Z
+ResourceId: 2cOXevMnGb_
+ResourceType: blog
 ResourceImportId: 9714
 creator: Martin Hinshelwood
 resourceTypes: blog

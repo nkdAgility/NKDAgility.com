@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 2vSr2gsP4Rt
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 2vSr2gsP4Rt
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: custom-ui-colour-scheme-for-windows-forms-net
 aliases:
   - /resources/blog/custom-ui-colour-scheme-for-windows-forms-.net
@@ -31,6 +31,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T16:30:06Z
+ResourceId: 2vSr2gsP4Rt
+ResourceType: blog
 ResourceImportId: 466
 creator: Martin Hinshelwood
 resourceTypes: blog

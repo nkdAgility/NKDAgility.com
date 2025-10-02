@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 5AaOgf__tP8
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 5AaOgf__tP8
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-most-usefull-net-tool-on-the-face-of-the-planet
 aliases:
   - /resources/blog/the-most-usefull-.net-tool-on-the-face-of-the-planet
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:30:03Z
+ResourceId: 5AaOgf__tP8
+ResourceType: blog
 ResourceImportId: 468
 creator: Martin Hinshelwood
 resourceTypes: blog

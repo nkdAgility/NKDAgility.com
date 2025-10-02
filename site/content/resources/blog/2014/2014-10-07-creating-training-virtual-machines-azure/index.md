@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 93Qe5n6ux9U
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 93Qe5n6ux9U
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: creating-training-virtual-machines-in-azure
 aliases:
   - /resources/93Qe5n6ux9U
@@ -34,6 +34,8 @@ Watermarks:
   description: 2025-05-12T14:21:08Z
   tldr: 2025-08-07T13:27:14Z
   short_title: 2025-08-07T13:27:15Z
+ResourceId: 93Qe5n6ux9U
+ResourceType: blog
 ResourceImportId: 10771
 creator: Martin Hinshelwood
 resourceTypes: blog

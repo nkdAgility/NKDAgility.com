@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: bKcrt-7tHMX
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: bKcrt-7tHMX
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
 aliases:
   - /resources/bKcrt-7tHMX
@@ -32,6 +32,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:08:14Z
+ResourceId: bKcrt-7tHMX
+ResourceType: blog
 ResourceImportId: 7176
 creator: Martin Hinshelwood
 resourceTypes: blog

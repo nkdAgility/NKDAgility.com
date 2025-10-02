@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: KuQewTMxwar
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: KuQewTMxwar
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
 aliases:
   - /resources/KuQewTMxwar
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:46Z
+ResourceId: KuQewTMxwar
+ResourceType: blog
 ResourceImportId: 414
 creator: Martin Hinshelwood
 resourceTypes: blog

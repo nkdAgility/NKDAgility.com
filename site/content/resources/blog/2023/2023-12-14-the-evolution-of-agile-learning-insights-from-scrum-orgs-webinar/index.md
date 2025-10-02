@@ -5,15 +5,15 @@ description: Explores the shift from traditional to immersive Agile learning, hi
 tldr: Immersive learning, which combines incremental classroom sessions, real-world assignments, and facilitated reflection over several weeks, is proving far more effective than traditional short-term training for Agile and Scrum. This approach leads to better knowledge retention, practical application, and lasting change in participants’ skills and mindsets. Development managers should consider shifting from traditional workshops to immersive programs to achieve meaningful improvements in team performance and learning outcomes.
 date: 2023-12-14
 lastmod: 2023-12-14
-weight: 840
+weight: 630
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: weekly
-ResourceId: Ax5c4JFICyO
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: Ax5c4JFICyO
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: the-evolution-of-agile-learning-insights-from-scrum-org's-webinar
 aliases:
   - /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
@@ -41,6 +41,8 @@ Watermarks:
   description: 2025-05-07T13:06:58Z
   short_title: 2025-07-07T17:50:46Z
   tldr: 2025-08-07T12:55:14Z
+ResourceId: Ax5c4JFICyO
+ResourceType: blog
 ResourceImportId: 50979
 AudioNative: true
 creator: Martin Hinshelwood

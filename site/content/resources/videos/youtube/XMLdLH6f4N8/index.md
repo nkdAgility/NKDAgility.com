@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: XMLdLH6f4N8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: XMLdLH6f4N8
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team's-dynamics
 aliases:
   - /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team-s-dynamics
@@ -31,6 +30,7 @@ concepts: []
 categories:
   - Uncategorized
 tags:
+  - Organisational Change
   - Operational Practices
   - Social Technologies
   - Organisational Culture
@@ -38,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:16:30Z
   short_title: 2025-07-07T17:58:46Z
   tldr: 2025-08-07T13:13:39Z
+ResourceId: XMLdLH6f4N8
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: XMLdLH6f4N8
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XMLdLH6f4N8/maxresdefault.jpg

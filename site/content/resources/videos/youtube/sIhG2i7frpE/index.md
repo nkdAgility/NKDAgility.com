@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: sIhG2i7frpE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: sIhG2i7frpE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
 aliases:
   - /resources/sIhG2i7frpE
@@ -47,6 +46,9 @@ Watermarks:
   description: 2025-05-07T13:02:08Z
   short_title: 2025-07-07T17:48:34Z
   tldr: 2025-08-07T12:49:46Z
+ResourceId: sIhG2i7frpE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: sIhG2i7frpE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/sIhG2i7frpE/maxresdefault.jpg

@@ -5,15 +5,15 @@ description: Explores when to use a single Azure DevOps project versus multiple 
 tldr: Using a single Azure DevOps project for all teams and products reduces fragmentation, improves visibility, and streamlines governance compared to managing multiple projects or organisations. Key benefits include unified reporting, easier collaboration, and lower administrative overhead, while Area Paths and Teams provide the necessary structure and security within one project. Development managers should consolidate into one project where possible, using Area Paths and Teams to model structure and scale, to optimise flow and delivery.
 date: 2025-08-25T09:00:00Z
 lastmod: 2025-08-25T09:00:00Z
-weight: 80
+weight: 115
 sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: k-kqjqSgdGx
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
+ItemId: k-kqjqSgdGx
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: hybrid
 slug: should-you-use-one-project-to-rule-them-all-in-azure-devops
 aliases:
   - /resources/k-kqjqSgdGx
@@ -43,6 +43,8 @@ Watermarks:
   description: 2025-06-06T12:34:49Z
   short_title: 2025-07-07T16:43:07Z
   tldr: 2025-07-30T23:12:39Z
+ResourceId: k-kqjqSgdGx
+ResourceType: blog
 
 ---
 **Most organisations still believe that managing multiple projects means a better organisation. It doesn’t. It could just be hiding your problems or even creating them.**

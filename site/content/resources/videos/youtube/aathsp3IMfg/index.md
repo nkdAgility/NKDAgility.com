@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: aathsp3IMfg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: aathsp3IMfg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-does-your-dream-agile-consulting-week-look-like
 aliases:
   - /resources/aathsp3IMfg
@@ -30,11 +29,15 @@ layout: video
 concepts: []
 categories:
   - Product Development
-tags: []
+tags:
+  - Personal
 Watermarks:
   description: 2025-07-07T17:55:57Z
   short_title: 2025-07-07T17:55:58Z
   tldr: 2025-08-07T13:06:44Z
+ResourceId: aathsp3IMfg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: aathsp3IMfg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/aathsp3IMfg/maxresdefault.jpg

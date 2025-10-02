@@ -13,10 +13,10 @@ sitemap:
 author:
   - John Coleman
   - Daniel Vacanti
-ResourceId: uD_5MdHKu1Q
-ResourceImport: false
-ResourceType: guides
-ResourceContentOrigin: Human
+ItemId: uD_5MdHKu1Q
+ItemType: guides
+ItemKind: resource
+ItemContentOrigin: Human
 slug: kanban-guide
 aliases:
   - /learn/agile-delivery-kit/guides/kanban-guide
@@ -60,6 +60,8 @@ recommendedContent:
   - collection: practices
     path: _practices/service-level-expectation-sle.md
 creator: Martin Hinshelwood
+ResourceId: uD_5MdHKu1Q
+ResourceType: guides
 
 ---
 This document aims to be a unifying reference for the community by offering the minimal guidance for Kanban. Depending on the context, various approaches can complement Kanban, allowing it to accommodate the full spectrum of value delivery and organizational challenges.

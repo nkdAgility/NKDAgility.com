@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 9HxMS_fg6Kw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 9HxMS_fg6Kw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-are-some-big-red-flags-when-hiring-an-agile-consultant
 aliases:
   - /resources/9HxMS_fg6Kw
@@ -35,6 +34,9 @@ Watermarks:
   description: 2025-05-07T13:14:26Z
   short_title: 2025-07-07T17:57:03Z
   tldr: 2025-08-07T13:08:57Z
+ResourceId: 9HxMS_fg6Kw
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 9HxMS_fg6Kw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/9HxMS_fg6Kw/maxresdefault.jpg

@@ -5,16 +5,15 @@ description: Learn how product owners can boost team success by connecting work 
 tldr: Product owners should connect their teams to the value they create by clearly communicating vision and goals, and foster evidence-based decision-making using data and user feedback rather than intuition. Focusing on metrics like time to market and balancing innovation with maintenance helps teams deliver better results faster. Encourage regular dialogue and rapid prototyping to keep teams engaged and responsive to user needs.
 date: 2023-09-20T07:00:00Z
 lastmod: 2023-09-20T07:00:00Z
-weight: 695
+weight: 365
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
-ResourceId: a6aw7xmS2oc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: a6aw7xmS2oc
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
 aliases:
   - /resources/a6aw7xmS2oc
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:09:26Z
   short_title: 2025-07-07T17:53:00Z
   tldr: 2025-08-07T12:59:54Z
+ResourceId: a6aw7xmS2oc
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: a6aw7xmS2oc
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg

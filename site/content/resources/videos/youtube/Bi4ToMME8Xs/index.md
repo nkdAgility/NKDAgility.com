@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Bi4ToMME8Xs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Bi4ToMME8Xs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: advanced-psm-ii-immersive-learning-classes
 aliases:
   - /resources/Bi4ToMME8Xs
@@ -34,6 +33,9 @@ Watermarks:
   description: 2025-05-07T12:57:40Z
   short_title: 2025-07-07T17:47:54Z
   tldr: 2025-08-07T12:42:49Z
+ResourceId: Bi4ToMME8Xs
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Bi4ToMME8Xs
 url: /resources/videos/:slug
 canonicalUrl: https://www.youtube.com/watch?v=Bi4ToMME8Xs

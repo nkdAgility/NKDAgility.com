@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: yXZtGRWsXfS
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: yXZtGRWsXfS
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 aliases:
   - /resources/yXZtGRWsXfS
@@ -30,6 +30,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-12T14:21:26Z
+ResourceId: yXZtGRWsXfS
+ResourceType: blog
 ResourceImportId: 10620
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: G2LTuEadTg9
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: G2LTuEadTg9
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-stick-buddy-v0-4-0-ctp2-released
 aliases:
   - /resources/blog/tfs-stick-buddy-v0.4.0-ctp2-released
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:24:20Z
+ResourceId: G2LTuEadTg9
+ResourceType: blog
 ResourceImportId: 238
 creator: Martin Hinshelwood
 resourceTypes: blog

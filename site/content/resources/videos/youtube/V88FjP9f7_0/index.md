@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: V88FjP9f7_0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: V88FjP9f7_0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: quotes-less-is-more-true-or-false
 aliases:
   - /resources/V88FjP9f7_0
@@ -46,6 +45,9 @@ Watermarks:
   description: 2025-05-07T13:08:45Z
   short_title: 2025-07-07T17:52:25Z
   tldr: 2025-08-07T12:58:32Z
+ResourceId: V88FjP9f7_0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: V88FjP9f7_0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/V88FjP9f7_0/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: vftc6m70a0w
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: vftc6m70a0w
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
 aliases:
   - /resources/vftc6m70a0w
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:07:19Z
   short_title: 2025-07-07T17:51:21Z
   tldr: 2025-08-07T12:55:51Z
+ResourceId: vftc6m70a0w
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: vftc6m70a0w
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg

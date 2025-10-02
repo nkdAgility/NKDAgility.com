@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 3MtCtNaIpU3
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 3MtCtNaIpU3
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: what-to-do-after-a-servicing-fails-on-tfs-2010
 aliases:
   - /resources/3MtCtNaIpU3
@@ -30,6 +30,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T15:11:17Z
+ResourceId: 3MtCtNaIpU3
+ResourceType: blog
 ResourceImportId: 20
 creator: Martin Hinshelwood
 resourceTypes: blog

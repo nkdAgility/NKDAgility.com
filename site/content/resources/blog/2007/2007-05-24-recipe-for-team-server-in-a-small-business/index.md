@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: wOQl29WfTz6
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: wOQl29WfTz6
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: recipe-for-team-server-in-a-small-business
 aliases:
   - /resources/wOQl29WfTz6
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:28:21Z
+ResourceId: wOQl29WfTz6
+ResourceType: blog
 ResourceImportId: 399
 creator: Martin Hinshelwood
 resourceTypes: blog

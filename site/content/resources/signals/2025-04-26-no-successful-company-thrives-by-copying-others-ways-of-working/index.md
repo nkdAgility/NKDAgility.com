@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: GcanwqIp5ok
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: GcanwqIp5ok
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: no-successful-company-thrives-by-copying-others-ways-of-working
 aliases:
   - /resources/GcanwqIp5ok
@@ -44,6 +44,8 @@ Watermarks:
   description: 2025-05-16T15:55:13Z
   short_title: 2025-07-07T16:44:39Z
   tldr: 2025-08-07T12:33:12Z
+ResourceId: GcanwqIp5ok
+ResourceType: signals
 
 ---
 No successful company got where they are by copy-pasting someone else’s way of working.

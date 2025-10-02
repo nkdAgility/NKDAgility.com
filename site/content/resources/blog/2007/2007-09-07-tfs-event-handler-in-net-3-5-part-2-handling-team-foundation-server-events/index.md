@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 8LCPn1m44qL
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 8LCPn1m44qL
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events
 aliases:
   - /resources/blog/tfs-event-handler-in-.net-3.5-part-2-handling-team-foundation-server-events
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T16:26:15Z
+ResourceId: 8LCPn1m44qL
+ResourceType: blog
 ResourceImportId: 3469
 creator: Martin Hinshelwood
 resourceTypes: blog

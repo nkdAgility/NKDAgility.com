@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: osrjRtn7rUw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: osrjRtn7rUw
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: stop-chasing-tech-hype-how-evidence-based-decisions-empower-real-leadership
 aliases:
   - /resources/osrjRtn7rUw
@@ -34,12 +33,12 @@ tags:
   - Decision Making
   - Metrics and Learning
   - Product Strategy
-  - Agile Strategy
   - Decision Theory
 Watermarks:
   description: 2025-07-24T15:13:09Z
   short_title: 2025-07-24T15:13:10Z
   tldr: 2025-07-31T06:50:50Z
+ResourceImportSource: Youtube
 videoId: osrjRtn7rUw
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/osrjRtn7rUw/maxresdefault.jpg
@@ -47,6 +46,8 @@ duration: 67
 resourceTypes:
   - video
 isShort: false
+ResourceId: osrjRtn7rUw
+ResourceType: videos
 
 ---
 I’ve lost count of the number of times I’ve sat in a boardroom and heard, “Our competitor is moving to Kubernetes—why aren’t we?” The pressure is palpable. Executives want to know why we’re not following the herd. Vendors are relentless, armed with glossy case studies and promises of transformation. It’s all too easy to start doubting your own roadmap when every headline screams about the latest trend.

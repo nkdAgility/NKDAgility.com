@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: roWCOkmtfDs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: roWCOkmtfDs
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-importance-of-validation-in-product-development-a-strategic-approach
 aliases:
   - /resources/roWCOkmtfDs
@@ -51,6 +50,9 @@ Watermarks:
   description: 2025-05-07T12:58:40Z
   short_title: 2025-07-07T17:48:20Z
   tldr: 2025-08-07T12:49:13Z
+ResourceId: roWCOkmtfDs
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: roWCOkmtfDs
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/roWCOkmtfDs/maxresdefault.jpg

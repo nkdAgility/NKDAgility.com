@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: ZnXrAarX1Wg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: ZnXrAarX1Wg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: no-go-zone-for-agile-consultants
 aliases:
   - /resources/ZnXrAarX1Wg
@@ -35,6 +34,9 @@ Watermarks:
   description: 2025-05-07T13:12:33Z
   short_title: 2025-07-07T17:55:19Z
   tldr: 2025-08-07T13:05:17Z
+ResourceId: ZnXrAarX1Wg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: ZnXrAarX1Wg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/ZnXrAarX1Wg/maxresdefault.jpg

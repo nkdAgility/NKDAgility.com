@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: weekly
-ResourceId: VfWTqYc6S-M
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: VfWTqYc6S-M
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
 aliases:
   - /resources/VfWTqYc6S-M
@@ -36,6 +36,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T15:22:41Z
+ResourceId: VfWTqYc6S-M
+ResourceType: blog
 ResourceImportId: 68
 creator: Martin Hinshelwood
 resourceTypes: blog

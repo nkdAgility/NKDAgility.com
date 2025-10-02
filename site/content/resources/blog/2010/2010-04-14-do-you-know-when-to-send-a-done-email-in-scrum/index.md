@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: iHdkPl8gwwm
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: iHdkPl8gwwm
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: do-you-know-when-to-send-a-done-email-in-scrum
 aliases:
   - /resources/iHdkPl8gwwm
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:22:12Z
+ResourceId: iHdkPl8gwwm
+ResourceType: blog
 ResourceImportId: 51
 creator: Martin Hinshelwood
 resourceTypes: blog

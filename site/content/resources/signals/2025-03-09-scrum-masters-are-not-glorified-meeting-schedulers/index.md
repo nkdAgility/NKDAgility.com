@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: ASC0IjY5nKr
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: ASC0IjY5nKr
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: scrum-masters-are-not-glorified-meeting-schedulers
 aliases:
   - /resources/ASC0IjY5nKr
@@ -47,6 +47,8 @@ Watermarks:
   description: 2025-05-16T15:56:19Z
   short_title: 2025-07-07T16:45:32Z
   tldr: 2025-08-07T12:35:01Z
+ResourceId: ASC0IjY5nKr
+ResourceType: signals
 
 ---
 Scrum Masters are not glorified meeting schedulers.

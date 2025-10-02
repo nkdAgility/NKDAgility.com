@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: TabMnJpXFVA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: TabMnJpXFVA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
 aliases:
   - /resources/TabMnJpXFVA
@@ -38,6 +37,9 @@ Watermarks:
   description: 2025-05-07T13:13:39Z
   short_title: 2025-07-07T17:56:23Z
   tldr: 2025-08-07T13:07:31Z
+ResourceId: TabMnJpXFVA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: TabMnJpXFVA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg

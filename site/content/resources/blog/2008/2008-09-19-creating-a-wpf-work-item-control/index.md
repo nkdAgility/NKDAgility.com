@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 4vBEBY-yvDB
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 4vBEBY-yvDB
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: creating-a-wpf-work-item-control
 aliases:
   - /resources/4vBEBY-yvDB
@@ -31,6 +31,8 @@ tags:
   - Internal Developer Platform
 Watermarks:
   description: 2025-05-13T16:23:07Z
+ResourceId: 4vBEBY-yvDB
+ResourceType: blog
 ResourceImportId: 191
 creator: Martin Hinshelwood
 resourceTypes: blog

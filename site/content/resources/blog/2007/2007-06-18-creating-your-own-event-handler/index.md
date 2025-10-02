@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 53h9G1A5o8G
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 53h9G1A5o8G
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: creating-your-own-event-handler
 aliases:
   - /resources/53h9G1A5o8G
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T16:27:54Z
+ResourceId: 53h9G1A5o8G
+ResourceType: blog
 ResourceImportId: 378
 creator: Martin Hinshelwood
 resourceTypes: blog

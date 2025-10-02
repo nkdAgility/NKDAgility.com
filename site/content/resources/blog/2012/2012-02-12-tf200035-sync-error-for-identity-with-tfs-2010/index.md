@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: gX9PNx9Qnrt
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: gX9PNx9Qnrt
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tf200035-sync-error-for-identity-with-tfs-2010
 aliases:
   - /resources/gX9PNx9Qnrt
@@ -30,6 +30,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:09:29Z
+ResourceId: gX9PNx9Qnrt
+ResourceType: blog
 ResourceImportId: 4309
 creator: Martin Hinshelwood
 resourceTypes: blog

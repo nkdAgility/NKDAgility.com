@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: LZnn3eQy53a
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: LZnn3eQy53a
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-event-handler-in-net-3-5-part-1-the-architecture
 aliases:
   - /resources/blog/tfs-event-handler-in-.net-3.5-part-1-the-architecture
@@ -31,6 +31,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T16:26:26Z
+ResourceId: LZnn3eQy53a
+ResourceType: blog
 ResourceImportId: 3487
 creator: Martin Hinshelwood
 resourceTypes: blog

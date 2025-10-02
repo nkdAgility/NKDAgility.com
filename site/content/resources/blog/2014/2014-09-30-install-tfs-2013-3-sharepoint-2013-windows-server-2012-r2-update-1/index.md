@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: IHKBrsNm0Cp
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: IHKBrsNm0Cp
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: install-of-tfs-2013-3-with-sharepoint-2013-on-windows-server-2012-r2-update-1
 aliases:
   - /resources/blog/install-of-tfs-2013.3-with-sharepoint-2013-on-windows-server-2012-r2-update-1
@@ -39,6 +39,8 @@ Watermarks:
   description: 2025-05-12T14:21:13Z
   tldr: 2025-08-07T13:27:23Z
   short_title: 2025-08-07T13:27:24Z
+ResourceId: IHKBrsNm0Cp
+ResourceType: blog
 ResourceImportId: 10727
 creator: Martin Hinshelwood
 resourceTypes: blog

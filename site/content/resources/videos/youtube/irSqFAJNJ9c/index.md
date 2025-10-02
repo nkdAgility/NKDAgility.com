@@ -5,16 +5,15 @@ description: Explores signs of a poor scrum team, including autocratic leadershi
 tldr: Poor scrum teams are marked by autocratic leadership, dysfunctional product ownership, lack of trust, and absence of transparency, which lead to low morale and failure to deliver value. High-performing teams are rare because most organizations create barriers that prevent true collaboration and growth. To improve outcomes, focus on removing organizational obstacles and fostering an environment where teams can develop trust, openness, and shared ownership.
 date: 2023-01-27T07:00:16Z
 lastmod: 2023-01-27T07:00:16Z
-weight: 690
+weight: 445
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
-ResourceId: irSqFAJNJ9c
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: irSqFAJNJ9c
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-does-a-poor-scrum-team-look-act-and-feel-like
 aliases:
   - /resources/irSqFAJNJ9c
@@ -39,6 +38,9 @@ Watermarks:
   description: 2025-05-07T13:14:24Z
   short_title: 2025-07-07T17:57:00Z
   tldr: 2025-08-07T13:08:53Z
+ResourceId: irSqFAJNJ9c
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: irSqFAJNJ9c
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/irSqFAJNJ9c/maxresdefault.jpg

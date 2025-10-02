@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: _Hd8NZeiwFA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: _Hd8NZeiwFA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
 aliases:
   - /resources/_Hd8NZeiwFA
@@ -52,6 +51,7 @@ Watermarks:
   description: 2025-05-07T12:49:31Z
   short_title: 2025-07-07T17:46:12Z
   tldr: 2025-08-07T12:35:57Z
+ResourceImportSource: Youtube
 videoId: _Hd8NZeiwFA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/_Hd8NZeiwFA/maxresdefault.jpg
@@ -59,6 +59,8 @@ duration: 618
 resourceTypes:
   - video
 isShort: false
+ResourceId: _Hd8NZeiwFA
+ResourceType: videos
 
 ---
 In the world of Agile, one of the most common misconceptions I encounter is the idea that there exists such a thing as a "junior [Scrum]({{< ref "/categories/scrum" >}}) Master." This notion is not only misleading but also detrimental to both the individual and the organisation. I’ve seen organisations mistakenly believe that the [Scrum Master]({{< ref "/tags/scrum-master" >}}) role can be filled by anyone on the team, often selecting the least productive member to take on this responsibility. This approach does a disservice to the individual and undermines the entire Scrum process. 

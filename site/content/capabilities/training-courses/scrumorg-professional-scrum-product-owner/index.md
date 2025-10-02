@@ -9,13 +9,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: jUM-1XnARoT
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: jUM-1XnARoT
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: professional-scrum-product-owner-pspo-course-with-certification
-aliases:
-  - /resources/jUM-1XnARoT
+aliases: []
 aliasesArchive:
   - /training-courses/professional-scrum-product-owner-pspo
   - /training-courses/professional-scrum-product-owner-pspo-training
@@ -107,7 +106,7 @@ objectives: |
   - Track value creation with meaningful metrics.
   - Engage stakeholders, customers, and team members effectively.
 previewIcon: PSPO-400x.png
-brandColour: "#749335"
+brandColour: '#749335'
 prerequisites: |
   Participants will benefit most from the course if they:
   - Have studied the [Scrum Guide](https://www.scrumguides.org/).
@@ -120,9 +119,11 @@ audience:
     - capabilities/training-courses/audiences/product-owners.md
 trainers:
   - /company/people/martin-hinshelwood/
-roadmap:
----
+roadmap: 
+ResourceId: jUM-1XnARoT
+ResourceType: course
 
+---
 # Professional Scrum Product Owner (PSPO) Course Datasheet
 
 **Course Code:** PSPO

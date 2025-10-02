@@ -1,27 +1,24 @@
 ---
-Title: DevOps Technology Consulting that delivers
-Description: We help your teams embed DevOps into culture and practice, removing friction, enabling flow, and driving delivery. Flow-focused, engineering-led, outcome-driven.
+title: DevOps Technology Consulting that delivers
 short_title: DevOps Technology
+description: Expert DevOps consultants assess, advise, and guide organisations to improve DevOps strategy, culture, and tooling for better outcomes using evidence-based practices.
+tldr: Our DevOps consultants assess your current practices, provide tailored recommendations, and deliver training and coaching to help your teams adopt effective DevOps and lean approaches. We use evidence-based methods to measure progress and focus on incremental improvements, enabling faster and more reliable software releases. Consider engaging our services for expert guidance, ongoing support, and specialized Azure DevOps migration expertise.
 date: 2025-07-18
-creator: Martin Hinshelwood
 weight: 200
 sitemap:
   filename: sitemap.xml
-  priority: 0.8
-menus:
-  footer:
-    parent: Consulting Services
-id: "49868"
-type: capabilities
-slug: devops-technology-consultancy
+  priority: 0.9
+  changefreq: weekly
+ItemId: YYFs65WYwwO
+ItemType: capabilities
+ItemKind: capability
+ItemContentOrigin: human
+slug: devops-technology-consulting-that-delivers
 aliases:
   - /capabilities/devops-technology-consultancy/
-card:
-  button:
-    content: Optimize Your DevOps Strategy
-  title: DevOps Technology Consulting
-  content: Struggling with your Azure DevOps setup? Whether you're debating a single project or multiple small ones, don't let architecture complexities slow you down. Click here to discover how our DevOps Technology Consulting can simplify your processes and boost your efficiency!
-icon: fa-diagram-project
+aliasesArchive:
+  - /capabilities/devops-technology-consultancy/
+type: capabilities
 sections:
   - type: headline
     headline:
@@ -33,10 +30,10 @@ sections:
         You don’t need another vendor pitching a silver bullet—you need a trusted partner who can help you build DevOps systems that scale, secure, and perform.
   - type: outcomehero
     cta:
-      content: "Design the Systems. Build the Pipelines. Empower the Teams. **Let's Talk**"
+      content: Design the Systems. Build the Pipelines. Empower the Teams. **Let's Talk**
       button:
-        text: "Connect With Us"
-        url: "/company/book-online"
+        text: Connect With Us
+        url: /company/book-online
     boxes: []
   - type: none
     title: Why DevOps Initiatives Fail in the Real World
@@ -62,7 +59,7 @@ sections:
   - type: boxesrow
     title: What DevOps Technology Consulting Solves
     boxes:
-      - box:
+      - box: 
         title: Core Problem
         items:
           - title: Inconsistent or unreliable pipelines
@@ -70,7 +67,7 @@ sections:
           - title: Lack of engineering standards
           - title: Manual, error-prone deployments
           - title: Unclear delivery metrics
-      - box:
+      - box: 
         title: Our Solutions
         items:
           - title: Design and implement CI/CD that delivers with confidence
@@ -128,7 +125,7 @@ sections:
   - type: symmetry
     title: What you get with NKD Agility
     boxes:
-      - box:
+      - box: 
         title: Before
         items:
           - title: Frustrated by flaky pipelines and unowned tech debt
@@ -139,7 +136,7 @@ sections:
             icon: fa-face-nose-steam
           - title: Struggling to connect delivery speed with strategic goals
             icon: fa-face-tired
-      - box:
+      - box: 
         title: After
         items:
           - title: Confident in scalable, secure, team-owned delivery pipelines
@@ -192,13 +189,28 @@ sections:
   - type: outcomehero
     backgroundColor: primary
     cta:
-      content: "Ready to Upgrade Your DevOps Stack? **Let's Talk**"
+      content: Ready to Upgrade Your DevOps Stack? **Let's Talk**
       button:
-        text: "Connect With Us"
-        url: "/company/book-online"
+        text: Connect With Us
+        url: /company/book-online
     boxes: []
----
+card:
+  button:
+    content: Optimize Your DevOps Strategy
+  title: DevOps Technology Consulting
+  content: Struggling with your Azure DevOps setup? Whether you're debating a single project or multiple small ones, don't let architecture complexities slow you down. Click here to discover how our DevOps Technology Consulting can simplify your processes and boost your efficiency!
+Watermarks:
+  description: 2025-10-02T13:52:58Z
+  tldr: 2025-10-02T13:53:01Z
+creator: Martin Hinshelwood
+menus:
+  footer:
+    parent: Consulting Services
+icon: fa-diagram-project
+ResourceId: YYFs65WYwwO
+ResourceType: capabilities
 
+---
 Our DevOps consultants work with organisations to help them get the most out of their DevOps strategy and maximise its effectiveness.
 
 We conduct health checks to assess your organisation’s current State of DevOps. We meld this discovery with our experience to advise changes to the existing ways of working, culture and tooling to achieve the objectives. We design training programs to educate teams and help them change. Following training, we can coach and mentor during the next evolution as everyone works towards achieving the outcomes.

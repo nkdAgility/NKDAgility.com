@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 4uyTp0ETt2H
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 4uyTp0ETt2H
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 aliases:
   - /resources/4uyTp0ETt2H
@@ -28,6 +28,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:23:47Z
+ResourceId: 4uyTp0ETt2H
+ResourceType: blog
 ResourceImportId: 112
 creator: Martin Hinshelwood
 resourceTypes: blog

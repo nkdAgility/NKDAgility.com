@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: m_vdrvzZrol
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: m_vdrvzZrol
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-event-handler-ctp-1-delayed
 aliases:
   - /resources/m_vdrvzZrol
@@ -28,6 +28,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:27:57Z
+ResourceId: m_vdrvzZrol
+ResourceType: blog
 ResourceImportId: 381
 creator: Martin Hinshelwood
 resourceTypes: blog

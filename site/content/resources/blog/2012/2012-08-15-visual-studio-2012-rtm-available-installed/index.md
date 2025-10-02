@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: 1pWQ2Krlit5
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 1pWQ2Krlit5
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2012-rtm-available-installed
 aliases:
   - /resources/1pWQ2Krlit5
@@ -29,6 +29,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:08:16Z
+ResourceId: 1pWQ2Krlit5
+ResourceType: blog
 ResourceImportId: 7149
 creator: Martin Hinshelwood
 resourceTypes: blog

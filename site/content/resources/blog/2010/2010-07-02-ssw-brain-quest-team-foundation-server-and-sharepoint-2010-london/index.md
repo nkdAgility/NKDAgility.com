@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: 8OkQ_qWcpPi
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 8OkQ_qWcpPi
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
 aliases:
   - /resources/8OkQ_qWcpPi
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:21:47Z
+ResourceId: 8OkQ_qWcpPi
+ResourceType: blog
 ResourceImportId: 36
 creator: Martin Hinshelwood
 resourceTypes: blog

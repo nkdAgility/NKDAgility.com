@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: 3jYFD-6_kZk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 3jYFD-6_kZk
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-the-complex-world-of-azure-devops-data-migration
 aliases:
   - /resources/3jYFD-6_kZk
@@ -41,6 +40,9 @@ Watermarks:
   description: 2025-05-07T13:02:21Z
   short_title: 2025-07-07T17:48:47Z
   tldr: 2025-08-07T12:50:21Z
+ResourceId: 3jYFD-6_kZk
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 3jYFD-6_kZk
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/3jYFD-6_kZk/maxresdefault.jpg

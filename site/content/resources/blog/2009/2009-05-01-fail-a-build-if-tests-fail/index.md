@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: VuY5udPg1uD
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: VuY5udPg1uD
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: fail-a-build-if-tests-fail
 aliases:
   - /resources/VuY5udPg1uD
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:24:14Z
+ResourceId: VuY5udPg1uD
+ResourceType: blog
 ResourceImportId: 127
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: 9z9BgSi2zeA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 9z9BgSi2zeA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement
 aliases:
   - /resources/9z9BgSi2zeA
@@ -45,6 +44,9 @@ Watermarks:
   description: 2025-05-07T13:07:40Z
   short_title: 2025-07-07T17:51:37Z
   tldr: 2025-08-07T12:56:38Z
+ResourceId: 9z9BgSi2zeA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 9z9BgSi2zeA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/9z9BgSi2zeA/maxresdefault.jpg

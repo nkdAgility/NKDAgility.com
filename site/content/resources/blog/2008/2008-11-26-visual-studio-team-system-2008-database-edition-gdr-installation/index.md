@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: mTkoKh2H2uy
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: mTkoKh2H2uy
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-team-system-2008-database-edition-gdr-installation
 aliases:
   - /resources/mTkoKh2H2uy
@@ -28,6 +28,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T16:22:18Z
+ResourceId: mTkoKh2H2uy
+ResourceType: blog
 ResourceImportId: 161
 creator: Martin Hinshelwood
 resourceTypes: blog

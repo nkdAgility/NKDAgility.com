@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: hWDjTSSBUJh
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: hWDjTSSBUJh
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: navigating-the-future-with-a-fine-tuned-product-backlog
 aliases:
   - /blog/navigating-the-future-with-a-fine-tuned-product-backlog
@@ -47,6 +47,8 @@ Watermarks:
   description: 2025-05-07T13:10:18Z
   short_title: 2025-07-07T17:53:38Z
   tldr: 2025-08-07T13:01:18Z
+ResourceId: hWDjTSSBUJh
+ResourceType: blog
 ResourceImportId: 49510
 AudioNative: true
 creator: Martin Hinshelwood

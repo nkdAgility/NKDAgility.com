@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: RkVikquup-u
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: RkVikquup-u
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: silverlight-3
 aliases:
   - /resources/RkVikquup-u
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:14Z
+ResourceId: RkVikquup-u
+ResourceType: blog
 ResourceImportId: 90
 creator: Martin Hinshelwood
 resourceTypes: blog

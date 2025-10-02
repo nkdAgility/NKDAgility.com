@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Km0aNB0A6C1
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Km0aNB0A6C1
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: modelling-teams-in-team-foundation-server-2013
 aliases:
   - /resources/Km0aNB0A6C1
@@ -27,6 +27,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-12T14:23:43Z
+ResourceId: Km0aNB0A6C1
+ResourceType: blog
 ResourceImportId: 9777
 creator: Martin Hinshelwood
 resourceTypes: blog

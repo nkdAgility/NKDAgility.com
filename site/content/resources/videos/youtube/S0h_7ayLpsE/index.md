@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: S0h_7ayLpsE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: S0h_7ayLpsE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-evidence-based-management-for-agile-success
 aliases:
   - /resources/S0h_7ayLpsE
@@ -54,6 +53,9 @@ Watermarks:
   description: 2025-05-07T12:57:39Z
   short_title: 2025-07-07T17:47:53Z
   tldr: 2025-08-07T12:42:48Z
+ResourceId: S0h_7ayLpsE
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: S0h_7ayLpsE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/S0h_7ayLpsE/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 1tC2VKI3OMf
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 1tC2VKI3OMf
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: flashing-your-windows-phone-6-for-dummies
 aliases:
   - /resources/1tC2VKI3OMf
@@ -28,6 +28,8 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-13T15:21:51Z
+ResourceId: 1tC2VKI3OMf
+ResourceType: blog
 ResourceImportId: 38
 creator: Martin Hinshelwood
 resourceTypes: blog

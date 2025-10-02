@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: -H--7dlWeGE
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: -H--7dlWeGE
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: team-foundation-server-error-tf30177-team-project-creation-failed-part-2
 aliases:
   - /resources/-H--7dlWeGE
@@ -32,6 +32,8 @@ tags:
   - Windows
 Watermarks:
   description: 2025-05-13T16:26:35Z
+ResourceId: -H--7dlWeGE
+ResourceType: blog
 ResourceImportId: 327
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: 8nQ0VJ1CdqU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 8nQ0VJ1CdqU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-did-so-many-of-the-early-agile-transformations-fail
 aliases:
   - /resources/8nQ0VJ1CdqU
@@ -48,6 +47,9 @@ Watermarks:
   description: 2025-05-07T13:14:14Z
   short_title: 2025-07-07T17:56:53Z
   tldr: 2025-08-07T13:08:34Z
+ResourceId: 8nQ0VJ1CdqU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 8nQ0VJ1CdqU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/8nQ0VJ1CdqU/maxresdefault.jpg

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: B1LQBjDfDfF
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: B1LQBjDfDfF
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: tfs-weekend-part-1-install
 aliases:
   - /resources/B1LQBjDfDfF
@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:29:08Z
+ResourceId: B1LQBjDfDfF
+ResourceType: blog
 ResourceImportId: 426
 creator: Martin Hinshelwood
 resourceTypes: blog

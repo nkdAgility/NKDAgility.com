@@ -8,11 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: oHH_ES7fNWY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: oHH_ES7fNWY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-email-notifications-in-release-management-a-step-by-step-guide-to-configuring-office-365-smtp
 aliases:
   - /resources/oHH_ES7fNWY
@@ -32,6 +31,9 @@ tags:
   - Install and Configuration
 Watermarks:
   description: 2025-05-12T14:22:46Z
+ResourceId: oHH_ES7fNWY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: oHH_ES7fNWY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/oHH_ES7fNWY/maxresdefault.jpg

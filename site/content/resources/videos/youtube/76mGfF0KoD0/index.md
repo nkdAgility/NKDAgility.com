@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.3
   changefreq: monthly
-ResourceId: 76mGfF0KoD0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 76mGfF0KoD0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
 aliases:
   - /resources/76mGfF0KoD0
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:13:22Z
   short_title: 2025-07-07T17:56:03Z
   tldr: 2025-08-07T13:06:56Z
+ResourceId: 76mGfF0KoD0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: 76mGfF0KoD0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg

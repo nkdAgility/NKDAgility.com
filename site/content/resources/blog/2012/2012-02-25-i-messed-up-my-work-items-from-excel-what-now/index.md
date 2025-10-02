@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: jZw9emMhGRh
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: jZw9emMhGRh
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: i-messed-up-my-work-items-from-excel-what-now
 aliases:
   - /resources/jZw9emMhGRh
@@ -32,6 +32,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:09:20Z
+ResourceId: jZw9emMhGRh
+ResourceType: blog
 ResourceImportId: 4609
 creator: Martin Hinshelwood
 resourceTypes: blog

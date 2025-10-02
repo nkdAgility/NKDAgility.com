@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: S1hBTkbZVFM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: S1hBTkbZVFM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
 aliases:
   - /resources/S1hBTkbZVFM
@@ -35,6 +34,7 @@ categories:
 tags:
   - Organisational Agility
   - Agile Transformation
+  - Change Management
   - Coaching
   - Agile Leadership
   - Personal
@@ -42,6 +42,9 @@ Watermarks:
   description: 2025-05-07T13:07:43Z
   short_title: 2025-07-07T17:51:39Z
   tldr: 2025-08-07T12:56:43Z
+ResourceId: S1hBTkbZVFM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: S1hBTkbZVFM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/S1hBTkbZVFM/maxresdefault.jpg

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: n6Suj-swl88
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: n6Suj-swl88
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
 aliases:
   - /resources/n6Suj-swl88
@@ -52,6 +51,9 @@ Watermarks:
   description: 2025-05-07T13:09:39Z
   short_title: 2025-07-07T17:53:12Z
   tldr: 2025-08-07T13:00:17Z
+ResourceId: n6Suj-swl88
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: n6Suj-swl88
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg

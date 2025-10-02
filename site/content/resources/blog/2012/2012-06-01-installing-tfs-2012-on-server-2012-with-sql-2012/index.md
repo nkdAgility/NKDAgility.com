@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: krqWTY5WW0r
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: krqWTY5WW0r
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: installing-tfs-2012-on-server-2012-with-sql-2012
 aliases:
   - /resources/krqWTY5WW0r
@@ -29,6 +29,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:08:58Z
+ResourceId: krqWTY5WW0r
+ResourceType: blog
 ResourceImportId: 5368
 creator: Martin Hinshelwood
 resourceTypes: blog

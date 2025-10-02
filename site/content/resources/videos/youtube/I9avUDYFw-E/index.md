@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: I9avUDYFw-E
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: I9avUDYFw-E
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
 aliases:
   - /resources/I9avUDYFw-E
@@ -39,6 +38,7 @@ Watermarks:
   description: 2025-05-07T12:57:30Z
   short_title: 2025-07-07T17:47:48Z
   tldr: 2025-08-07T12:42:33Z
+ResourceImportSource: Youtube
 videoId: I9avUDYFw-E
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/I9avUDYFw-E/maxresdefault.jpg
@@ -46,6 +46,8 @@ duration: 112
 resourceTypes:
   - video
 isShort: false
+ResourceId: I9avUDYFw-E
+ResourceType: videos
 
 ---
 [Competence]({{< ref "/tags/competence" >}}) is more than just a buzzword in today's fast-paced world—it's a foundational element for success in any organization. If we want to create valuable products and services, investing in our team's competence is non-negotiable. It’s not just about bringing in the right people but supporting those we have in their journey of [continuous learning]({{< ref "/tags/continuous-learning" >}}), [experimentation]({{< ref "/tags/experimentation" >}}), and growth. Let’s dive into why competence matters and how we can foster an environment where it thrives.

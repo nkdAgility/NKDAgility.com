@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: S-YSqmiQ8BE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: S-YSqmiQ8BE
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
 aliases:
   - /resources/S-YSqmiQ8BE
@@ -35,11 +34,13 @@ concepts: []
 categories:
   - Engineering Excellence
   - Product Development
-tags: []
+tags:
+  - Miscellaneous
 Watermarks:
   description: 2025-05-07T12:49:14Z
   short_title: 2025-07-07T16:44:52Z
   tldr: 2025-08-07T12:33:43Z
+ResourceImportSource: Youtube
 videoId: S-YSqmiQ8BE
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/S-YSqmiQ8BE/maxresdefault.jpg
@@ -47,6 +48,8 @@ duration: 93
 resourceTypes:
   - video
 isShort: false
+ResourceId: S-YSqmiQ8BE
+ResourceType: videos
 
 ---
 Modern legacy systems present a unique challenge for many organisations. It’s a delicate balancing act between maintaining what works and embracing the need for innovation. I’ve seen firsthand how this struggle can manifest in various ways, and I want to share some insights that might help you navigate this complex landscape.

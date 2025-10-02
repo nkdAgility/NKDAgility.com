@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: tzY7cIvFnOc
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: tzY7cIvFnOc
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: net-service-manager
 aliases:
   - /resources/blog/.net-service-manager
@@ -30,6 +30,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:23:43Z
+ResourceId: tzY7cIvFnOc
+ResourceType: blog
 ResourceImportId: 213
 creator: Martin Hinshelwood
 resourceTypes: blog

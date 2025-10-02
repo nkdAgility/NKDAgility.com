@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: hPGpt57lpYZ
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: hPGpt57lpYZ
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: guidance-branching-for-each-sprint
 aliases:
   - /resources/hPGpt57lpYZ
@@ -31,6 +31,8 @@ tags:
   - Modern Source Control
 Watermarks:
   description: 2025-05-13T15:22:19Z
+ResourceId: hPGpt57lpYZ
+ResourceType: blog
 ResourceImportId: 56
 creator: Martin Hinshelwood
 resourceTypes: blog

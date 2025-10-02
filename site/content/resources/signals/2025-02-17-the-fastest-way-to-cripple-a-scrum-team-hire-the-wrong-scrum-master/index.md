@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: 567GkDxvlbX
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: 567GkDxvlbX
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: the-fastest-way-to-cripple-a-scrum-team-hire-the-wrong-scrum-master
 aliases:
   - /resources/567GkDxvlbX
@@ -33,10 +33,8 @@ tags:
   - Social Technologies
   - Pragmatic Thinking
   - Market Adaptability
-  - Team Performance
   - Value Delivery
   - Professional Scrum
-  - Coaching
   - Operational Practices
   - Team Motivation
 platform_signals:
@@ -54,6 +52,8 @@ Watermarks:
   description: 2025-05-16T15:56:53Z
   short_title: 2025-07-07T17:46:25Z
   tldr: 2025-08-07T12:36:33Z
+ResourceId: 567GkDxvlbX
+ResourceType: signals
 
 ---
 The fastest way to cripple a Scrum Team? Hire the wrong Scrum Master.

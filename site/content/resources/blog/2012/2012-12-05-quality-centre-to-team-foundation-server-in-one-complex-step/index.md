@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: c2QQURpbvrm
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: c2QQURpbvrm
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: quality-centre-to-team-foundation-server-in-one-complex-step
 aliases:
   - /resources/c2QQURpbvrm
@@ -28,6 +28,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T15:07:06Z
+ResourceId: c2QQURpbvrm
+ResourceType: blog
 ResourceImportId: 9170
 creator: Martin Hinshelwood
 resourceTypes: blog

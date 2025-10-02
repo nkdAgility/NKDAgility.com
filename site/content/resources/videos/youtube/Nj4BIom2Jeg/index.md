@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: monthly
-ResourceId: Nj4BIom2Jeg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: ai
-ResourceImportSource: Youtube
+ItemId: Nj4BIom2Jeg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: ai
 slug: stop-flying-blind-why-telemetry-belongs-in-your-definition-of-done
 aliases:
   - /resources/Nj4BIom2Jeg
@@ -37,18 +36,19 @@ categories:
 tags:
   - Metrics and Learning
   - Customer Focus
+  - Definition of Done
   - Software Development
   - Operational Practices
-  - Pragmatic Thinking
   - Value Delivery
-  - Definition of Done
   - Technical Mastery
   - Product Delivery
+  - Pragmatic Thinking
   - Current Value
 Watermarks:
   description: 2025-05-07T19:44:58Z
   short_title: 2025-07-07T16:43:33Z
   tldr: 2025-08-07T12:11:21Z
+ResourceImportSource: Youtube
 videoId: Nj4BIom2Jeg
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/Nj4BIom2Jeg/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBgp0NBhnpxnYEAD20FJlWRozI5gQ
@@ -56,6 +56,8 @@ duration: 50
 resourceTypes:
   - video
 isShort: true
+ResourceId: Nj4BIom2Jeg
+ResourceType: videos
 
 ---
 There’s a phrase I keep coming back to: shipping without telemetry is flying blind. It’s astonishing how often I see teams pour their energy into building and releasing features, only to have no idea what happens next. Did it work? Did it break? Is anyone even using it? Without logs, metrics, or any meaningful feedback, you’re left guessing. And guessing is not a strategy.

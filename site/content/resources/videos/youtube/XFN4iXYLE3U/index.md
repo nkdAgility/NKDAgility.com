@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: XFN4iXYLE3U
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: XFN4iXYLE3U
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: why-limiting-work-in-progress-is-key-to-success-in-kanban
 aliases:
   - /resources/XFN4iXYLE3U
@@ -49,6 +48,9 @@ Watermarks:
   description: 2025-05-07T13:02:31Z
   short_title: 2025-07-07T17:48:56Z
   tldr: 2025-08-07T12:50:45Z
+ResourceId: XFN4iXYLE3U
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: XFN4iXYLE3U
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XFN4iXYLE3U/maxresdefault.jpg

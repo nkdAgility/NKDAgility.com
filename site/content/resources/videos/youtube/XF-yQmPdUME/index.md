@@ -5,16 +5,15 @@ description: Explains why product ownership and product management are deeply co
 tldr: Product ownership and product management are not separate roles; effective product ownership is a form of product management focused on maximizing value in short, iterative cycles. Organizations should avoid diluting the product owner role with unrelated tasks and instead ensure alignment with strategic goals and market needs. Development managers should treat product ownership as a core accountability within product management, prioritize value delivery, and foster adaptability to stay competitive.
 date: 2024-08-01T06:45:01Z
 lastmod: 2024-08-01T06:45:01Z
-weight: 750
+weight: 630
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
-ResourceId: XF-yQmPdUME
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: XF-yQmPdUME
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: product-ownership-vs-product-management-busting-the-myth-that-they're-separate-roles
 aliases:
   - /resources/XF-yQmPdUME
@@ -54,6 +53,9 @@ Watermarks:
   description: 2025-05-07T13:02:20Z
   short_title: 2025-07-07T17:48:46Z
   tldr: 2025-08-07T12:50:14Z
+ResourceId: XF-yQmPdUME
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: XF-yQmPdUME
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/XF-yQmPdUME/maxresdefault.jpg

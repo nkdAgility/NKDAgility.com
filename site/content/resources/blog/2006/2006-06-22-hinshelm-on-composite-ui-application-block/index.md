@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: y_vlPh65_5Q
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: y_vlPh65_5Q
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
 aliases:
   - /resources/y_vlPh65_5Q
@@ -29,6 +29,8 @@ tags:
   - Software Development
 Watermarks:
   description: 2025-05-13T16:30:07Z
+ResourceId: y_vlPh65_5Q
+ResourceType: blog
 ResourceImportId: 467
 creator: Martin Hinshelwood
 resourceTypes: blog

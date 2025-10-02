@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: RnMOINwjO84
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: RnMOINwjO84
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
 aliases:
   - /resources/RnMOINwjO84
@@ -43,6 +42,7 @@ Watermarks:
   description: 2025-05-07T12:57:38Z
   short_title: 2025-07-07T17:47:53Z
   tldr: 2025-08-07T12:42:46Z
+ResourceImportSource: Youtube
 videoId: RnMOINwjO84
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
@@ -50,6 +50,8 @@ duration: 971
 resourceTypes:
   - video
 isShort: false
+ResourceId: RnMOINwjO84
+ResourceType: videos
 
 ---
 In the ever-evolving landscape of business, one thing has become abundantly clear: there are no universal rules for making informed decisions based on the data we collect. Whether it’s evidence-based management, telemetry data, or any other form of data, the reality is that what works in one context may not work in another. This is particularly true as we navigate a world that is increasingly complex rather than merely complicated.

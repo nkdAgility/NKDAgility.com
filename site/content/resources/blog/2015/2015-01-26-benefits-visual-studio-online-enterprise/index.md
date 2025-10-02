@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: raLa_TzImU3
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: raLa_TzImU3
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: the-benefits-of-visual-studio-online-for-the-enterprise
 aliases:
   - /resources/raLa_TzImU3
@@ -35,6 +35,8 @@ Watermarks:
   description: 2025-05-12T14:20:11Z
   tldr: 2025-08-07T13:25:45Z
   short_title: 2025-08-07T13:25:46Z
+ResourceId: raLa_TzImU3
+ResourceType: blog
 ResourceImportId: 11158
 creator: Martin Hinshelwood
 resourceTypes: blog

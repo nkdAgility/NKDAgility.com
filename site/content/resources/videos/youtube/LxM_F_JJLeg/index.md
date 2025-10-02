@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: monthly
-ResourceId: LxM_F_JJLeg
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: LxM_F_JJLeg
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
 aliases:
   - /resources/LxM_F_JJLeg
@@ -49,6 +48,9 @@ Watermarks:
   description: 2025-05-07T13:09:08Z
   short_title: 2025-07-07T17:52:44Z
   tldr: 2025-08-07T12:59:13Z
+ResourceId: LxM_F_JJLeg
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: LxM_F_JJLeg
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg

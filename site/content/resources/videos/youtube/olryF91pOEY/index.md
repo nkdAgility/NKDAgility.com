@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: olryF91pOEY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: olryF91pOEY
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
 aliases:
   - /resources/olryF91pOEY
@@ -49,6 +48,9 @@ Watermarks:
   description: 2025-05-07T13:13:29Z
   short_title: 2025-07-07T17:56:10Z
   tldr: 2025-08-07T13:07:09Z
+ResourceId: olryF91pOEY
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: olryF91pOEY
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/olryF91pOEY/maxresdefault.jpg

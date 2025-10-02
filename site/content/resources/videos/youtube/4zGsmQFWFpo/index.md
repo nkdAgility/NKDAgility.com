@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: monthly
-ResourceId: 4zGsmQFWFpo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: 4zGsmQFWFpo
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: focusing-beyond-agile-building-true-capability-in-organizations
 aliases:
   - /resources/4zGsmQFWFpo
@@ -45,6 +44,7 @@ Watermarks:
   description: 2025-05-07T12:57:33Z
   short_title: 2025-07-07T17:47:50Z
   tldr: 2025-08-07T12:42:38Z
+ResourceImportSource: Youtube
 videoId: 4zGsmQFWFpo
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4zGsmQFWFpo/maxresdefault.jpg
@@ -52,6 +52,8 @@ duration: 547
 resourceTypes:
   - video
 isShort: false
+ResourceId: 4zGsmQFWFpo
+ResourceType: videos
 
 ---
 In today’s rapidly evolving landscape, focusing solely on _Agile_ as a label can be limiting. Instead, the goal should be to increase our organization’s **capability**, **maximize value**, and **enhance effectiveness**. It's not about the moniker; it’s about achieving outcomes that matter. 🏆

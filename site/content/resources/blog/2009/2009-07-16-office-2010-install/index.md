@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: Jsol6FUVR7d
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: Jsol6FUVR7d
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: office-2010-install
 aliases:
   - /resources/Jsol6FUVR7d
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:23:31Z
+ResourceId: Jsol6FUVR7d
+ResourceType: blog
 ResourceImportId: 103
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -5,16 +5,16 @@ description: Explains how technical leaders can break down organisational silos 
 tldr: Software organisations fail when leaders tolerate poor system design, such as bad branching models, siloed teams, and business logic in databases. To improve delivery, leaders must enforce trunk-based development, restructure teams for cross-functionality and autonomy, and set clear architectural boundaries. Development managers are responsible for shaping systems that enable agility and flow, not just managing people or reporting on delivery.
 date: 2025-07-17
 lastmod: 2025-07-17
-weight: 55
+weight: 65
 sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
 author: MrHinsh
-ResourceId: AORP41zLNTi
-ResourceImport: false
-ResourceType: newsletters
-ResourceContentOrigin: human
+ItemId: AORP41zLNTi
+ItemType: newsletters
+ItemKind: resource
+ItemContentOrigin: human
 slug: break-organisational-silos-and-stop-tolerating-bad-branching-models
 aliases:
   - /resources/AORP41zLNTi
@@ -23,8 +23,8 @@ concepts:
   - Tenet
 categories:
   - Technical Leadership
-  - Leadership
   - Engineering Excellence
+  - Leadership
 tags:
   - Software Development
   - Operational Practices
@@ -46,6 +46,8 @@ Watermarks:
   short_title: 2025-07-07T16:43:14Z
   tldr: 2025-07-30T23:22:06Z
 resourceTypes: newsletter
+ResourceId: AORP41zLNTi
+ResourceType: newsletters
 
 ---
 Modern software organisations don’t fail because of weak teams; they fail because leadership tolerates bad system design — in code, in team structure, and in delivery practice.

@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: GJOGgre5lz-
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: GJOGgre5lz-
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 aliases:
   - /resources/GJOGgre5lz-
@@ -31,6 +31,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:07:48Z
+ResourceId: GJOGgre5lz-
+ResourceType: blog
 ResourceImportId: 8031
 creator: Martin Hinshelwood
 resourceTypes: blog

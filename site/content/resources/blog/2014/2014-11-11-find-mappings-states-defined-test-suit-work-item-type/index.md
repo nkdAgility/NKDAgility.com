@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: tAug7ZHHqTM
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: tAug7ZHHqTM
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 aliases:
   - /resources/blog/could-not-find-mappings-for-all-states-defined-in-test-suit-work-item-type
@@ -38,6 +38,8 @@ Watermarks:
   description: 2025-05-12T14:20:47Z
   tldr: 2025-08-07T13:26:39Z
   short_title: 2025-08-07T13:26:41Z
+ResourceId: tAug7ZHHqTM
+ResourceType: blog
 ResourceImportId: 10899
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: mZvRMHFUarM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: mZvRMHFUarM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile-success
 aliases:
   - /resources/mZvRMHFUarM
@@ -40,6 +39,7 @@ Watermarks:
   description: 2025-05-07T12:56:53Z
   short_title: 2025-07-07T17:47:17Z
   tldr: 2025-08-07T12:41:13Z
+ResourceImportSource: Youtube
 videoId: mZvRMHFUarM
 url: /resources/videos/:slug
 preview: https://i9.ytimg.com/vi/mZvRMHFUarM/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDXszYYhCvp1Mjo0PCTnMDkMR9M5w
@@ -47,6 +47,8 @@ duration: 201
 resourceTypes:
   - video
 isShort: false
+ResourceId: mZvRMHFUarM
+ResourceType: videos
 
 ---
 One of the most significant challenges I encounter in the realm of software projects is the perennial struggle with [estimation]({{< ref "/tags/estimation" >}}). It’s a topic that seems to generate endless debate and confusion. Many organisations feel compelled to engage in some form of estimation, whether that’s through absolute estimation—which often leads to errors—or by employing relative estimation tools. The reality, however, is that we often feel we need these estimates to chart our course forward. But do we really?

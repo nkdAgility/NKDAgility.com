@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: oRStCAqLAY4
-ResourceImport: false
-ResourceType: engineering-notes
-ResourceContentOrigin: human
+ItemId: oRStCAqLAY4
+ItemType: engineering-notes
+ItemKind: resource
+ItemContentOrigin: human
 slug: how-i-used-generative-ai-to-transform-site-tagging-and-categories
 aliases:
   - /resources/oRStCAqLAY4
@@ -24,7 +24,6 @@ categories:
 tags:
   - Artificial Intelligence
   - Personal
-  - Software Development
   - Technical Mastery
   - Transparency
   - Pragmatic Thinking
@@ -33,6 +32,8 @@ Watermarks:
   description: 2025-05-07T13:48:01Z
   short_title: 2025-07-07T16:44:11Z
   tldr: 2025-08-07T12:32:16Z
+ResourceId: oRStCAqLAY4
+ResourceType: engineering-notes
 
 ---
 I moved my blog to Hugo in mid-2024 to regain control over my content and workflow. This proved to be a great decision as it gave me the ability to really focus on content for my site.

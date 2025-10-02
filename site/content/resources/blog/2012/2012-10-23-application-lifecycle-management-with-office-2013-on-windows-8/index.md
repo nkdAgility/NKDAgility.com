@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: HS-74Zxqz0l
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: HS-74Zxqz0l
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: application-lifecycle-management-with-office-2013-on-windows-8
 aliases:
   - /resources/HS-74Zxqz0l
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:07:24Z
+ResourceId: HS-74Zxqz0l
+ResourceType: blog
 ResourceImportId: 8967
 creator: Martin Hinshelwood
 resourceTypes: blog

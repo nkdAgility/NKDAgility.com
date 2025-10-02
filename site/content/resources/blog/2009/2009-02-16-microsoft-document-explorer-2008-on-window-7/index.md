@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: kCaERZgxgy3
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: kCaERZgxgy3
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: microsoft-document-explorer-2008-on-window-7
 aliases:
   - /resources/kCaERZgxgy3
@@ -26,6 +26,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T15:24:27Z
+ResourceId: kCaERZgxgy3
+ResourceType: blog
 ResourceImportId: 138
 creator: Martin Hinshelwood
 resourceTypes: blog

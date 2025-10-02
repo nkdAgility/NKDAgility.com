@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: zy7JlL2SIY-
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: zy7JlL2SIY-
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: bonuses-are-not-incentives
 aliases:
   - /resources/zy7JlL2SIY-
@@ -27,7 +27,6 @@ tags:
   - Agile Philosophy
   - Employee Engagement
   - Team Motivation
-  - Self Organisation
   - Agentic Agility
 platform_signals:
   - platform: LinkedIn
@@ -44,6 +43,8 @@ Watermarks:
   description: 2025-06-23T12:13:02Z
   short_title: 2025-07-07T16:43:24Z
   tldr: 2025-08-07T12:10:56Z
+ResourceId: zy7JlL2SIY-
+ResourceType: signals
 
 ---
 Bonuses are not incentives. They’re symptoms of a system that doesn’t trust people to care about their work.

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-ResourceId: bI6ySrK2G51
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: bI6ySrK2G51
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: ndc-london-second-look-team-foundation-server-amp-vso
 aliases:
   - /resources/bI6ySrK2G51
@@ -39,6 +39,8 @@ Watermarks:
   description: 2025-05-12T14:21:01Z
   tldr: 2025-08-07T13:27:01Z
   short_title: 2025-08-07T13:27:01Z
+ResourceId: bI6ySrK2G51
+ResourceType: blog
 ResourceImportId: 10811
 creator: Martin Hinshelwood
 resourceTypes: blog

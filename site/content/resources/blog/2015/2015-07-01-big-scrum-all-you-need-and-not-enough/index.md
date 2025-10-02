@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: yCJ5ERuJHUU
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: yCJ5ERuJHUU
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: big-scrum-all-you-need-and-not-enough
 aliases:
   - /resources/yCJ5ERuJHUU
@@ -38,6 +38,8 @@ Watermarks:
   description: 2025-05-07T13:16:56Z
   tldr: 2025-08-07T13:24:36Z
   short_title: 2025-08-07T13:24:41Z
+ResourceId: yCJ5ERuJHUU
+ResourceType: blog
 ResourceImportId: 11361
 creator: Martin Hinshelwood
 resourceTypes: blog

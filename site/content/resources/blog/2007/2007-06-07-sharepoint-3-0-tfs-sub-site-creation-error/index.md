@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: x5FZPMNJgBF
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: x5FZPMNJgBF
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: sharepoint-3-0-tfs-sub-site-creation-error
 aliases:
   - /resources/blog/sharepoint-3.0-tfs-sub-site-creation-error
@@ -29,6 +29,8 @@ tags:
   - Troubleshooting
 Watermarks:
   description: 2025-05-13T16:28:05Z
+ResourceId: x5FZPMNJgBF
+ResourceType: blog
 ResourceImportId: 388
 creator: Martin Hinshelwood
 resourceTypes: blog

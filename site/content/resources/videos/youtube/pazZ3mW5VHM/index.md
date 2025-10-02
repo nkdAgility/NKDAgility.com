@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: pazZ3mW5VHM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: pazZ3mW5VHM
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: most-influential-people-in-agile-simon-reindl
 aliases:
   - /resources/pazZ3mW5VHM
@@ -33,6 +32,9 @@ Watermarks:
   description: 2025-05-07T13:10:59Z
   short_title: 2025-07-07T17:54:08Z
   tldr: 2025-08-07T13:02:24Z
+ResourceId: pazZ3mW5VHM
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: pazZ3mW5VHM
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/pazZ3mW5VHM/maxresdefault.jpg

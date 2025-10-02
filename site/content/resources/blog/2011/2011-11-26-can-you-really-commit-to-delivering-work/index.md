@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: weekly
-ResourceId: uvzKTaweOnW
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: uvzKTaweOnW
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: can-you-really-commit-to-delivering-work
 aliases:
   - /resources/uvzKTaweOnW
@@ -32,6 +32,8 @@ tags:
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-13T15:09:51Z
+ResourceId: uvzKTaweOnW
+ResourceType: blog
 ResourceImportId: 4089
 creator: Martin Hinshelwood
 resourceTypes: blog

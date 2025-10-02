@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: s7bwajkP-HP
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Hybrid
+ItemId: s7bwajkP-HP
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Hybrid
 slug: live-webcast-q-amp-a-with-martin-hinshelwood-on-27th-march-2020
 aliases:
   - /resources/s7bwajkP-HP
@@ -33,6 +33,8 @@ Watermarks:
   description: 2025-05-07T13:15:58Z
   short_title: 2025-07-07T17:58:18Z
   tldr: 2025-08-07T13:12:32Z
+ResourceId: s7bwajkP-HP
+ResourceType: blog
 ResourceImportId: 44210
 creator: Martin Hinshelwood
 resourceTypes: blog

@@ -10,10 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
-ResourceId: lPs2C5FQ5cR
-ResourceImport: false
-ResourceType: signals
-ResourceContentOrigin: human
+ItemId: lPs2C5FQ5cR
+ItemType: signals
+ItemKind: resource
+ItemContentOrigin: human
 slug: a-changing-definition-of-done-undermines-quality-and-predictability-in-teams
 aliases:
   - /resources/lPs2C5FQ5cR
@@ -47,6 +47,8 @@ Watermarks:
   description: 2025-05-16T15:55:43Z
   short_title: 2025-07-07T16:45:04Z
   tldr: 2025-08-07T12:34:05Z
+ResourceId: lPs2C5FQ5cR
+ResourceType: signals
 
 ---
 Imagine trying to run a factory job where the definition of a “finished product” changes every week. Forecasting production? Impossible. Measuring quality? Good luck.

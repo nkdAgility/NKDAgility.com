@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: jmU91ClcSqA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: jmU91ClcSqA
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: what-is-project-management
 aliases:
   - /resources/jmU91ClcSqA
@@ -35,6 +34,9 @@ Watermarks:
   description: 2025-05-07T13:12:19Z
   short_title: 2025-07-07T17:55:09Z
   tldr: 2025-08-07T13:04:56Z
+ResourceId: jmU91ClcSqA
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: jmU91ClcSqA
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/jmU91ClcSqA/maxresdefault.jpg

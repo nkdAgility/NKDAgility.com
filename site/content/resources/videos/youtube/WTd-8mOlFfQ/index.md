@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.2
   changefreq: monthly
-ResourceId: WTd-8mOlFfQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: WTd-8mOlFfQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: part-2-common-mistakes-that-scrum-masters-make
 aliases:
   - /resources/WTd-8mOlFfQ
@@ -42,6 +41,9 @@ Watermarks:
   description: 2025-05-07T13:10:57Z
   short_title: 2025-07-07T17:54:06Z
   tldr: 2025-08-07T13:02:20Z
+ResourceId: WTd-8mOlFfQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: WTd-8mOlFfQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/WTd-8mOlFfQ/maxresdefault.jpg

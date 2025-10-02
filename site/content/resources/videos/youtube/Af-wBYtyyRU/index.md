@@ -5,16 +5,15 @@ description: Learn how product owners use Evidence-Based Management (EBM) to mak
 tldr: Evidence-Based Management (EBM) helps product owners make better decisions by tracking key metrics like current value, unrealized value, ability to innovate, and time to market, ensuring teams focus on delivering the right value efficiently. Using EBM enables you to identify when to pivot, align stakeholders, and engage your team in the product’s success. Consider adopting EBM practices or training, such as the PAL-EBM course, to maximize value delivery and team effectiveness.
 date: 2024-01-29T07:00:07Z
 lastmod: 2024-01-29T07:00:07Z
-weight: 1000
+weight: 840
 sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: Af-wBYtyyRU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: Af-wBYtyyRU
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
 aliases:
   - /resources/Af-wBYtyyRU
@@ -54,6 +53,9 @@ Watermarks:
   description: 2025-05-07T13:06:07Z
   short_title: 2025-07-07T17:50:02Z
   tldr: 2025-08-07T12:53:29Z
+ResourceId: Af-wBYtyyRU
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: Af-wBYtyyRU
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/Af-wBYtyyRU/maxresdefault.jpg

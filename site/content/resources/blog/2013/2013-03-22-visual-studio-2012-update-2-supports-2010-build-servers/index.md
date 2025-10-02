@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: wOYxXY4OsUH
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: wOYxXY4OsUH
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: visual-studio-2012-update-2-supports-2010-build-servers
 aliases:
   - /resources/wOYxXY4OsUH
@@ -28,6 +28,8 @@ tags:
   - System Configuration
 Watermarks:
   description: 2025-05-13T15:06:46Z
+ResourceId: wOYxXY4OsUH
+ResourceType: blog
 ResourceImportId: 9336
 creator: Martin Hinshelwood
 resourceTypes: blog

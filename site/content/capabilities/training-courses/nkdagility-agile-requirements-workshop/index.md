@@ -7,16 +7,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ResourceId: _Wnpjm9sqp4
-ResourceImport: false
-ResourceType: course
-ResourceContentOrigin: human
+ItemId: _Wnpjm9sqp4
+ItemType: course
+ItemKind: program
+ItemContentOrigin: human
 slug: agile-requirements-workshop
-aliases:
-  - /resources/_Wnpjm9sqp4
+aliases: []
 aliasesArchive:
   - agile-requirements-workshop-1-day
   - /training-courses/agile-requirements-workshop/
+type: course
 concepts: []
 categories:
   - Uncategorized
@@ -28,7 +28,6 @@ card:
   title: Agile Requirements Workshop
   content: ""
 creator: Martin Hinshelwood
-type: course
 url: 
 course_topics:
   - Agile Training Courses
@@ -58,6 +57,8 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
+ResourceId: _Wnpjm9sqp4
+ResourceType: course
 
 ---
 This workshop includes guided discussion focusing on agile requirements management and planning practices for agile teams, projects, and products. Covers medium and long term planning needs and results in a backlog for the steps needed to establish a solid requirements management practice within your organisation.

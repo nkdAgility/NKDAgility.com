@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: weekly
-ResourceId: 4kh61B4o7T1
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: 4kh61B4o7T1
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: xbox-live-to-twitter-update-v0-2-3
 aliases:
   - /resources/blog/xbox-live-to-twitter-update-v0.2.3
@@ -32,6 +32,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-13T16:25:06Z
+ResourceId: 4kh61B4o7T1
+ResourceType: blog
 ResourceImportId: 267
 creator: Martin Hinshelwood
 resourceTypes: blog

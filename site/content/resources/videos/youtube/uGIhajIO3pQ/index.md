@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: uGIhajIO3pQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: uGIhajIO3pQ
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 aliases:
   - /resources/uGIhajIO3pQ
@@ -36,6 +35,9 @@ Watermarks:
   description: 2025-05-07T13:11:13Z
   short_title: 2025-07-07T17:54:18Z
   tldr: 2025-08-07T13:02:48Z
+ResourceId: uGIhajIO3pQ
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: uGIhajIO3pQ
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/uGIhajIO3pQ/maxresdefault.jpg

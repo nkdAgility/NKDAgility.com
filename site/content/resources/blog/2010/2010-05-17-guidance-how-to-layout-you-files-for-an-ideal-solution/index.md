@@ -8,10 +8,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
   changefreq: weekly
-ResourceId: qHU7H_raZge
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: Human
+ItemId: qHU7H_raZge
+ItemType: blog
+ItemKind: resource
+ItemContentOrigin: Human
 slug: guidance-how-to-layout-you-files-for-an-ideal-solution
 aliases:
   - /resources/qHU7H_raZge
@@ -30,6 +30,8 @@ tags:
   - Modern Source Control
 Watermarks:
   description: 2025-05-13T15:21:57Z
+ResourceId: qHU7H_raZge
+ResourceType: blog
 ResourceImportId: 42
 creator: Martin Hinshelwood
 resourceTypes: blog

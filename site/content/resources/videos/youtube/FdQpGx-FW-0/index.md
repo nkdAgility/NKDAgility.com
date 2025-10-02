@@ -10,11 +10,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.1
   changefreq: monthly
-ResourceId: FdQpGx-FW-0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
+ItemId: FdQpGx-FW-0
+ItemType: videos
+ItemKind: resource
+ItemContentOrigin: AI
 slug: 7-harbingers-of-the-agile-apocalypse-judgement
 aliases:
   - /resources/FdQpGx-FW-0
@@ -50,6 +49,9 @@ Watermarks:
   description: 2025-05-07T13:08:33Z
   short_title: 2025-07-07T17:52:15Z
   tldr: 2025-08-07T12:58:06Z
+ResourceId: FdQpGx-FW-0
+ResourceType: videos
+ResourceImportSource: Youtube
 videoId: FdQpGx-FW-0
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/FdQpGx-FW-0/maxresdefault.jpg
