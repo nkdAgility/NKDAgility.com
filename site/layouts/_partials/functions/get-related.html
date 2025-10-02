@@ -7,11 +7,11 @@
 {{ $filtered := slice }}
 
 {{- if not $ItemKind -}}
-  {{- warnf "get-related.html: ItemKind parameter is missing for page %s" .RelPermalink -}}
+  {{- warnf "get-related.html: ItemKind parameter is missing for page %s" .Path -}}
 {{- else if not $ItemType -}}
-  {{- warnf "get-related.html: ItemType parameter is missing for page %s" .RelPermalink -}}
+  {{- warnf "get-related.html: ItemType parameter is missing for page %s" .Path -}}
 {{- else if not $ItemId -}}
-  {{- warnf "get-related.html: ItemId parameter is missing for page %s" .RelPermalink -}}
+  {{- warnf "get-related.html: ItemId parameter is missing for page %s" .Path -}}
 {{- else -}}
   {{- $kindData := index site.Data $ItemKind -}}
   {{- if $kindData -}}

@@ -7,11 +7,11 @@
 {{ $relatedData := slice }}
 
 {{- if not $ItemKind -}}
-  {{- warnf "get-classifications.html: ItemKind parameter is missing for page %s" .RelPermalink -}}
+  {{- warnf "get-classifications.html: ItemKind parameter is missing for page %s" .Path -}}
 {{- else if not $ItemType -}}
-  {{- warnf "get-classifications.html: ItemType parameter is missing for page %s" .RelPermalink -}}
+  {{- warnf "get-classifications.html: ItemType parameter is missing for page %s" .Path -}}
 {{- else if not $ItemId -}}
-  {{- warnf "get-classifications.html: ItemId parameter is missing for page %s" .RelPermalink -}}
+  {{- warnf "get-classifications.html: ItemId parameter is missing for page %s" .Path -}}
 {{- else -}}
   {{- $kindData := index site.Data $ItemKind -}}
   {{- if $kindData -}}
