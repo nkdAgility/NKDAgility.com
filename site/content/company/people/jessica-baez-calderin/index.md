@@ -6,6 +6,8 @@ id: "48503"
 type: people
 slug: jessica-baez-calderin
 preview: Jessica-Baez-Calderin.jpg
+ItemType: people
+ItemKind: marketing
 people-abilities:
   - Staff
 card:
@@ -16,4 +18,10 @@ card:
     <strong>Business development</strong>
 
     Driving Business Development ✪ Accomplished Executive Planner with 10+ Years in Government ✪ Expert Event Organizer &amp; Conflict Mediator ✪ Proven Track Record in Project Delivery, Logistics, &amp; High-Level Engagement ✪ Skilled in Situational Awareness, Conflict Resolution, Marketing, &amp; Sales
+ItemId: 6tvyjxxYmPy
+ResourceId: 6tvyjxxYmPy
+ResourceType: people
+ItemContentOrigin: human
+
 ---
+

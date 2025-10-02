@@ -32,12 +32,18 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:28:43
 icon: fa-brain-circuit
 concepts:
-- Capability
+  - Capability
 categories:
-- Product Development
+  - Product Development
 tags:
-- Market Adaptability
-- Operational Practices
+  - Market Adaptability
+  - Operational Practices
+ItemId: fvpQ1fOeEe2
+ResourceId: fvpQ1fOeEe2
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Artificial Intelligence (AI) refers to the capability of machines to perform tasks that typically require human intelligence, such as learning, reasoning, and problem-solving. In an organisational context, AI enhances decision-making processes by providing data-driven insights, automating repetitive tasks, and fostering innovation. This capability is crucial for Agile, DevOps, and modern product development, as it allows teams to respond swiftly to changing market demands and customer needs.

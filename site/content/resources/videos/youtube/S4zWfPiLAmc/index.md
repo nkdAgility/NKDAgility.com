@@ -1,5 +1,5 @@
 ---
-title: 3 best ways to wreck Kanban. Use vanity metrics.
+title: 3 best ways to wreck Kanban. Use vanity metrics
 short_title: 3 Best Ways to Wreck Kanban with Vanity Metrics
 description: Learn how to avoid common Kanban mistakes by focusing on actionable metrics like WIP, cycle time, and throughput instead of vanity metrics for better workflow efficiency.
 tldr: Relying on vanity metrics like story points and velocity can undermine your Kanban strategy, as they do not provide actionable insights. Instead, focus on key metrics such as work in progress, cycle time, throughput, and work item age to identify bottlenecks, optimize flow, and improve predictability. Use data from your workflow tools to drive continuous improvement and make informed decisions for better team performance.
@@ -19,7 +19,6 @@ aliases:
   - /resources/S4zWfPiLAmc
   - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics
   - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics
-  - /resources/videos/3-best-ways-to-wreck-kanban.-use-vanity-metrics.
 aliasesArchive:
   - /resources/videos/-best-ways-to-wreck-kanban-use-vanity-metrics-
   - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics-
@@ -57,17 +56,15 @@ duration: 226
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ### Avoiding Common Mistakes in Your [Kanban]({{< ref "/categories/kanban" >}}) Strategy
 
 **Introduction**
 
 One of the primary ways to fail in implementing your Kanban strategy and not achieve the value you expect is by not looking at the right data. Many teams think they are doing Kanban simply because they have a board with columns. However, without proper metrics and active management, this approach falls short.
 
-
-
-* * *
+---
 
 **The Importance of Proper Data Analysis**
 
@@ -89,7 +86,7 @@ To truly benefit from Kanban, you need to go beyond having a simple board. You m
 
 - **Work Item Age**: Monitor how long items have been in progress. This helps to identify items that may be stuck or delayed.
 
-* * *
+---
 
 **Collecting and Using the Right Data**
 
@@ -111,7 +108,7 @@ Most digital tools like JIRA, Azure [DevOps]({{< ref "/categories/devops" >}}), 
 
 - Monitor how long each item has been in progress. This helps identify items that are at risk of becoming bottlenecks.
 
-* * *
+---
 
 **Taking Action Based on Data**
 
@@ -129,7 +126,7 @@ The true power of Kanban comes from using the data to make informed decisions an
 
 - Analyze cycle time and throughput to make better forecasts and meet delivery commitments.
 
-* * *
+---
 
 **Conclusion**
 

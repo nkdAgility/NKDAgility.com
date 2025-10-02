@@ -35,24 +35,30 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:40:17
 icon: fa-building-columns
 concepts:
-- Framework
+  - Framework
 categories:
-- Product Development
+  - Product Development
 tags:
-- Organisational Agility
-- Enterprise Agility
-- Business Agility
-- Scaling
-- Market Adaptability
-- Agile Strategy
-- Social Technologies
-- Organisational Change
-- Agile Transformation
-- Agile Frameworks
-- Organisational Culture
-- Agile Philosophy
-- Strategic Goals
-- Change Management
+  - Organisational Agility
+  - Enterprise Agility
+  - Business Agility
+  - Scaling
+  - Market Adaptability
+  - Agile Strategy
+  - Social Technologies
+  - Organisational Change
+  - Agile Transformation
+  - Agile Frameworks
+  - Organisational Culture
+  - Agile Philosophy
+  - Strategic Goals
+  - Change Management
+ItemId: uhX1tzMqqxu
+ResourceId: uhX1tzMqqxu
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Large Scale Agility refers to the application of agile principles and practices across entire organisations, transcending individual teams to foster a culture of adaptability, collaboration, and continuous improvement. This concept is crucial for enabling enterprises to respond swiftly to market changes and customer needs, ensuring that value delivery is both predictable and sustainable. By integrating agile methodologies at scale, organisations can break down silos, enhance cross-functional collaboration, and align strategic goals with operational execution.

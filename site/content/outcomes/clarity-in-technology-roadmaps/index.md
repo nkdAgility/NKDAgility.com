@@ -1,6 +1,6 @@
 ---
-title: "Clarity in Technology Roadmaps"
-description: "Develop strategic technology roadmaps that align technical initiatives with business goals and provide clear direction for implementation teams."
+title: Clarity in Technology Roadmaps
+description: Develop strategic technology roadmaps that align technical initiatives with business goals and provide clear direction for implementation teams.
 date: 2025-06-04
 creator: Martin Hinshelwood
 sitemap:
@@ -27,10 +27,10 @@ sections:
     type: content
   - type: outcomehero
     cta:
-      content: "Ready to Get Strategic? **Let’s build the roadmap that guides your next stage of growth.**"
+      content: Ready to Get Strategic? **Let’s build the roadmap that guides your next stage of growth.**
       button:
-        text: "Get Started"
-        url: "/company/book-online"
+        text: Get Started
+        url: /company/book-online
     boxes:
       - content: |
           No more reactivity.
@@ -61,7 +61,6 @@ sections:
         icon: fa-circle-question
         content: |
           You’re making architectural bets without clarity or stakeholder buy-in.
-
   - type: quote
     backgroundColor: primary
     quote: |
@@ -94,28 +93,27 @@ sections:
   - type: outcomeboxes
     title: We can help you with
     boxes:
-      - box:
+      - box: 
         items:
           - title: Build clear, adaptable technology roadmaps
           - title: Align tech decisions with business goals
           - title: Prioritize investments in tech infrastructure
           - title: Eliminate toolchain and architecture sprawl
           - title: Create shared understanding across departments
-      - box:
+      - box: 
         items:
           - title: Reduce anxiety from strategic ambiguity
           - title: Feel proactive instead of reactive
           - title: Trust your decisions and stand by them
           - title: Reclaim control over system complexity
           - title: Feel energized by strategic clarity
-      - box:
+      - box: 
         items:
           - title: Lead confident conversations with the C-suite
           - title: Champion architecture that supports scale
           - title: Get stakeholder buy-in without friction
           - title: Represent a forward-thinking tech org
           - title: Mentor product and tech leaders through growth
-
   - title: Proven Results
     type: casestudy
     list:
@@ -129,10 +127,10 @@ sections:
         content: |
           Executive confidence restored in long-term tech investments by aligning architecture, backlog, and roadmap to business outcomes
     cta:
-      content: "Want to see the frameworks?"
+      content: Want to see the frameworks?
       button:
-        text: "Case Studies"
-        url: "/resources/case-studies"
+        text: Case Studies
+        url: /resources/case-studies
   - title: Why NKDAgility?
     type: textNlist
     list:
@@ -154,6 +152,14 @@ sections:
     cta:
       content: Roadmaps that Align. Architecture that Scales.
       button:
-        text: "Schedule a call"
-        url: "/company/book-online"
+        text: Schedule a call
+        url: /company/book-online
+ItemId: wTrT0eqFtmY
+ResourceId: wTrT0eqFtmY
+ItemType: outcomes
+ResourceType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
+
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: Getting started with Kanban.
+title: Getting started with Kanban
 short_title: Getting Started with Kanban
 description: Learn how to launch a Kanban pilot, define workflows, use metrics like cycle time and throughput, and foster continuous improvement for better team productivity.
 tldr: Kanban helps teams improve workflow and productivity by visualizing work, setting clear processes, and using metrics like cycle time and throughput to drive continuous improvement. Start with a small, willing team, define and visualize your workflow, and use data to identify and address bottlenecks. Begin with a pilot, focus on collaboration and regular feedback, and use metrics to build credibility and guide ongoing enhancements.
@@ -19,7 +19,6 @@ aliases:
   - /resources/kTszGsXPLXY
   - /resources/videos/getting-started-with-kanban
   - /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization
-  - /resources/videos/getting-started-with-kanban.
 aliasesArchive:
   - /resources/videos/getting-started-with-kanban-
   - /resources/getting-started-with-kanban
@@ -56,17 +55,15 @@ duration: 331
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ### Getting Started with [Kanban]({{< ref "/categories/kanban" >}}): A Guide to Initiating Your First Kanban Pilot
 
 **Introduction**
 
 Kanban is a powerful strategy for improving workflow and enhancing productivity across various industries. Whether you're in [software development]({{< ref "/tags/software-development" >}}), marketing, or any other field, implementing Kanban can help streamline your processes and boost efficiency. This blog post will guide you through the steps to initiate your first Kanban pilot, emphasizing the importance of metrics and collaboration.
 
-
-
-* * *
+---
 
 **Why Kanban?**
 
@@ -78,33 +75,29 @@ Kanban’s flexibility and focus on [continuous improvement]({{< ref "/tags/cont
 
 - **Visibility**: By visualizing your work, Kanban helps identify bottlenecks and areas for improvement.
 
-* * *
+---
 
 **Getting Started with Kanban**
 
 Starting a Kanban pilot is simpler than you might think. Here’s a step-by-step guide to help you get started:
 
 1. **Pick a Team**:
-    - **Start Small**: Select a team that is open to change and willing to experiment with new processes.
-    
-    - **Engage Stakeholders**: Ensure you have the support of key stakeholders who can champion the pilot.
+   - **Start Small**: Select a team that is open to change and willing to experiment with new processes.
+   - **Engage Stakeholders**: Ensure you have the support of key stakeholders who can champion the pilot.
 
-3. **Define Your Workflow**:
-    - **Document Current Processes**: Run a workshop to create a definition of workflow. This involves writing down how work currently flows through your system.
-    
-    - **Agree on Terms**: Ensure everyone understands and agrees on the terminology and processes.
+2. **Define Your Workflow**:
+   - **Document Current Processes**: Run a workshop to create a definition of workflow. This involves writing down how work currently flows through your system.
+   - **Agree on Terms**: Ensure everyone understands and agrees on the terminology and processes.
 
-5. **Visualize the Workflow**:
-    - **Create a Board**: Use tools like JIRA or Azure [DevOps]({{< ref "/categories/devops" >}}) to create a digital Kanban board. This board should represent your workflow stages.
-    
-    - **Set WIP Limits**: Establish work-in-progress (WIP) limits for each stage to prevent bottlenecks.
+3. **Visualize the Workflow**:
+   - **Create a Board**: Use tools like JIRA or Azure [DevOps]({{< ref "/categories/devops" >}}) to create a digital Kanban board. This board should represent your workflow stages.
+   - **Set WIP Limits**: Establish work-in-progress (WIP) limits for each stage to prevent bottlenecks.
 
-7. **Monitor and Analyze Metrics**:
-    - **Collect Data**: Start recording metrics such as [cycle time]({{< ref "/tags/cycle-time" >}}) and [throughput]({{< ref "/tags/throughput" >}}). Use data analytics tools available in JIRA and [Azure DevOps]({{< ref "/tags/azure-devops" >}}).
-    
-    - **Identify Outliers**: Use cycle time scatterplots to spot anomalies and areas that need improvement.
+4. **Monitor and Analyze Metrics**:
+   - **Collect Data**: Start recording metrics such as [cycle time]({{< ref "/tags/cycle-time" >}}) and [throughput]({{< ref "/tags/throughput" >}}). Use data analytics tools available in JIRA and [Azure DevOps]({{< ref "/tags/azure-devops" >}}).
+   - **Identify Outliers**: Use cycle time scatterplots to spot anomalies and areas that need improvement.
 
-* * *
+---
 
 **Using Metrics to Drive Improvement**
 
@@ -116,7 +109,7 @@ Metrics are a crucial component of Kanban. They provide insights into how work f
 
 - **Scatterplots**: Use scatterplots to visualize cycle times and identify outliers. Ask questions during retrospectives about why certain tasks took longer than expected.
 
-* * *
+---
 
 **Fostering a Culture of Continuous Improvement**
 
@@ -128,7 +121,7 @@ Kanban is not just about setting up a board and moving cards. It’s about foste
 
 - **Encourage Participation**: Involve all team members in the process. Their insights and feedback are crucial for refining workflows and making meaningful improvements.
 
-* * *
+---
 
 **Overcoming Resistance**
 
@@ -140,7 +133,7 @@ Implementing Kanban can sometimes meet resistance, especially if team members ar
 
 - **Continuous Communication**: Keep the lines of communication open. Regularly update the team on progress and celebrate small wins to maintain momentum.
 
-* * *
+---
 
 **Conclusion**
 
@@ -148,7 +141,7 @@ Implementing a Kanban pilot in your organization is easier than you might think.
 
 **Thanks for reading!** If you found this post helpful, please like, follow, and subscribe. I always reply to comments, and if you want to chat about Kanban, agile, or DevOps, feel free to book a coffee with me through Naked Agility.
 
-* * *
+---
 
 **Recommended Resources:**
 

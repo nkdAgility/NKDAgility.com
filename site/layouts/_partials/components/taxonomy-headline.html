@@ -2,8 +2,7 @@
 <div class="d-flex flex-column flex-md-row justify-content-between">
   <!-- Left Section -->
   <div class="left d-flex flex-grow-1">
-    {{ $jsonFile := .Page.Resources.GetMatch "data.index.classifications.json" }}
-    {{ $jsonData := $jsonFile | unmarshal }}
+    {{- $classificationData := partial "functions/get-classifications.html" .Page }}
     <div class="d-flex ">
       <div class="resourcetypes p-1">
         <a href="{{ .RelPermalink }}" class="btn btn-sm btn-nkdagility-primary text-nowrap" title="{{ $taxonomyTitle }}: {{ .Title }}"> {{ $taxonomyTitle }} </a>
@@ -12,7 +11,7 @@
         {{ with .Params.concepts }}
           {{ range . }}
             {{ $term := . }}
-            {{ $categoryData := index $jsonData $term }}
+            {{ $categoryData := index $classificationData $term }}
             {{ if $categoryData }}
               <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="btn btn-sm btn-nkdagility-secondary me-2" title="{{ $categoryData.reasoning }}&#10;&#10;Confidence: {{ $categoryData.final_score }}%&#10;Level: {{ $categoryData.level }}">
                 {{ $term }}

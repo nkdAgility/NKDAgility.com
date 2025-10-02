@@ -32,33 +32,39 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 aliases:
-- /learn/agile-delivery-kit/practices/sprint-planning-event
-- /resources/v_AGzuOgZ0g
+  - /learn/agile-delivery-kit/practices/sprint-planning-event
+  - /resources/v_AGzuOgZ0g
 aliasesArchive:
-- /learn/agile-delivery-kit/practices/sprint-planning-event
+  - /learn/agile-delivery-kit/practices/sprint-planning-event
 icon: fa-chalkboard-user
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Product Development
-- Product Management
+  - Scrum
+  - Product Development
+  - Product Management
 tags:
-- Continuous Learning
-- Empirical Process Control
-- Agile Frameworks
-- Social Technologies
-- Agile Planning
-- Software Development
-- Pragmatic Thinking
-- Team Collaboration
-- Team Performance
-- Operational Practices
-- Product Delivery
-- Professional Scrum
-- Metrics and Learning
-- Agile Product Management
-- Organisational Agility
+  - Continuous Learning
+  - Empirical Process Control
+  - Agile Frameworks
+  - Social Technologies
+  - Agile Planning
+  - Software Development
+  - Pragmatic Thinking
+  - Team Collaboration
+  - Team Performance
+  - Operational Practices
+  - Product Delivery
+  - Professional Scrum
+  - Metrics and Learning
+  - Agile Product Management
+  - Organisational Agility
+ItemId: wHms4qkD1aE
+ResourceId: wHms4qkD1aE
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.

@@ -34,16 +34,22 @@ sitemap:
 BodyContentGenDate: 2025-04-09T15:11:46
 icon: fa-gears
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
+  - Product Development
 tags:
-- Organisational Agility
-- Value Delivery
-- Continuous Improvement
-- Team Performance
-- Market Adaptability
-- Business Agility
+  - Organisational Agility
+  - Value Delivery
+  - Continuous Improvement
+  - Team Performance
+  - Market Adaptability
+  - Business Agility
+ItemId: f2SPknWizFW
+ResourceId: f2SPknWizFW
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Operational Practices encompass the techniques and strategies that organisations employ to enhance their operational efficiency and delivery capabilities. These practices are essential for fostering a culture of continuous improvement, enabling teams to respond swiftly to changing demands while maintaining high-quality outputs. By integrating methodologies such as Lean, Agile, and DevOps, organisations can streamline workflows, reduce waste, and optimise resource allocation.

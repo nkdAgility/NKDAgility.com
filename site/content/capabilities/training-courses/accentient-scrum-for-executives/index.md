@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: AHschsDjL2E
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -93,8 +92,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-ResourceId: AHschsDjL2E
+ResourceId: S4E
 ResourceType: course
+ItemId: S4E
 
 ---
 # Scrum for Executives Training

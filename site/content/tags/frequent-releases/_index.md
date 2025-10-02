@@ -37,26 +37,32 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:44:50
 icon: fa-calendar-arrow-down
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- Engineering Excellence
-- DevOps
+  - Product Development
+  - Engineering Excellence
+  - DevOps
 tags:
-- Product Delivery
-- Value Delivery
-- Continuous Improvement
-- Operational Practices
-- Business Agility
-- Team Performance
-- Software Development
-- Time to Market
-- Market Adaptability
-- Organisational Agility
-- Pragmatic Thinking
-- Release Management
-- Continuous Delivery
-- Deployment Frequency
+  - Product Delivery
+  - Value Delivery
+  - Continuous Improvement
+  - Operational Practices
+  - Business Agility
+  - Team Performance
+  - Software Development
+  - Time to Market
+  - Market Adaptability
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Release Management
+  - Continuous Delivery
+  - Deployment Frequency
+ItemId: A6EH7snayY3
+ResourceId: A6EH7snayY3
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Frequent releases refer to the practice of delivering small, incremental updates to products or services on a regular basis. This approach is crucial for organisations aiming to respond swiftly to user feedback and market changes, ensuring that value is consistently delivered to stakeholders. By breaking down larger projects into manageable releases, teams can reduce the risk associated with deployment, as each release is smaller and easier to test and validate.

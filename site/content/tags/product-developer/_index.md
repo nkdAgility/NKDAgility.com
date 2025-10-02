@@ -43,6 +43,12 @@ icon: fa-code-commit
 concepts: []
 categories: []
 tags: []
+ItemId: bD178zm1yUs
+ResourceId: bD178zm1yUs
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Product Developer is both a role and an accountability within modern product development frameworks. All Product Developers together should possess all the skills needed to create Increments, with their combined skill set often referred to as cross-functional.

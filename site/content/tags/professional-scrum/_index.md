@@ -34,15 +34,21 @@ sitemap:
 concept: Philosophy
 icon: fa-user-graduate
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Philosophy
-- Empirical Process Control
-- Continuous Improvement
-- Social Technologies
+  - Agile Philosophy
+  - Empirical Process Control
+  - Continuous Improvement
+  - Social Technologies
+ItemId: X0PXgaUZz6S
+ResourceId: X0PXgaUZz6S
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Professional Scrum is the disciplined expression of Scrum guided by empiricism, technical excellence, and continuous delivery of value. It transcends frameworks and rituals, focusing instead on how individuals, teams, and organisations choose to work—with intent, professionalism, and accountability.

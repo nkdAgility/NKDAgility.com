@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: -U-z8x8yTw9
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -113,8 +112,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-ResourceId: -U-z8x8yTw9
+ResourceId: SPS
 ResourceType: course
+ItemId: SPS
 
 ---
 # Scaled Professional Scrum with Nexus (SPS) with Certification

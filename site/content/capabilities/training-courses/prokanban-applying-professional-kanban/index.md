@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: ZeqWpEsyhbv
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -118,8 +117,9 @@ roadmap:
 sessionCount: 8
 syllabus: 
 events: 
-ResourceId: ZeqWpEsyhbv
+ResourceId: APK
 ResourceType: course
+ItemId: APK
 
 ---
 # Applying Professional Kanban (APK) Course with Certification

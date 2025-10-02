@@ -6,6 +6,8 @@ id: "44264"
 type: people
 slug: martin-hinshelwood
 preview: MartinHinshelwood260-SOLO.png
+ItemType: people
+ItemKind: marketing
 weight: 10
 people-abilities:
   - Trainer
@@ -36,8 +38,8 @@ sections:
     content: |
       Martin Hinshelwood is a leading expert in Agile and DevOps, renowned for his ability to drive successful transformations in organizations of all sizes. With a wealth of experience in coaching, training, and consulting, Martin empowers teams to adopt modern software development practices, optimize processes, and achieve continuous improvement. His comprehensive approach integrates Agile methodologies, Scrum mastery, DevOps automation, certified training, change management, and Lean principles, making him a pivotal figure in advancing software delivery excellence.
     type: none
-  - title: null
-    content: null
+  - title: 
+    content: 
     type: videos
     related:
       - resources/videos/youtube/4kqM1U7y1ZM
@@ -53,7 +55,7 @@ sections:
       Specialists: DevOps, Lean and Agile Methodology, Organizational Transformation
     type: none
   - title: Courses that Martin Teaches
-    content:
+    content: 
     type: otherpages
     related:
       - /capabilities/training-courses/accentiant-practicing-kanban-using-azure-boards
@@ -98,6 +100,12 @@ sections:
 
       Martin has been awarded as a Microsoft MVP every year since 2008 in the ALM & DevOps category and has been a Visual Studio ALM Ranger since 2010. He attained his MCSD: Application Lifecycle Management in 2012. In 2014 Martin co-authored Professional Application Lifecycle Management with Visual Studio 2013 and was often called upon by Microsoft to present to customers and at events on ALM, DevOps, & Agility. Martin also became a Professional Scrum Trainer (PST) with Scrum.org, Ken Schwaber’s organisation, in 2010 and currently teaches public and private courses; Professional Scrum Foundations (PSF), Professional Scrum Master (PSM), Professional Scrum Developer (PSD), & Scaled Professional Scrum (SPS). In 2013 he became an Evidence-based Management Consultant (EBM) with Scrum.org and used Evidence-based Management techniques to help the customer understand where to make improvements. In 2020 Martin became a Professional Kanban Trainer (PKT) with ProKanban.org, Daniel Vacanti’s organisation, and currently teaches the Applying Professional Kanban (APK) training class.
     type: trustpilot
-    tags: "trainer:Nml4dDMzbkNoYXJhY3Ryekr3AA=="
+    tags: trainer:Nml4dDMzbkNoYXJhY3Ryekr3AA==
     height: 1200
+ItemId: 1YewPlXmwpi
+ResourceId: 1YewPlXmwpi
+ResourceType: people
+ItemContentOrigin: human
+
 ---
+

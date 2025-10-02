@@ -6,6 +6,8 @@ id: "44798"
 type: people
 slug: glaudia-califano
 preview: 0.png
+ItemType: people
+ItemKind: marketing
 people-abilities:
   - Trainer
   - Consultant
@@ -18,4 +20,10 @@ card:
     <strong>Trainer &amp; Coach</strong>
 
     Passionate Change Leader Focused on Sustainable Customer Value ✪ Leader, Author, &amp; Speaker ✪ Scrum (PST) &amp; Kanban (PKT) Trainer
+ItemId: hMdTrhyt03H
+ResourceId: hMdTrhyt03H
+ResourceType: people
+ItemContentOrigin: human
+
 ---
+

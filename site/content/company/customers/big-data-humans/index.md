@@ -6,4 +6,12 @@ id: "11819"
 type: customers
 slug: big-data-humans
 preview: nkdagility-customer-big-data-for-humans-200x75.png
+ItemType: customers
+ItemKind: marketing
+ItemId: mrKIxNabSmI
+ResourceId: mrKIxNabSmI
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

@@ -33,18 +33,24 @@ sitemap:
   priority: 0.7
 icon: fa-vial
 concepts:
-- Practice
+  - Practice
 categories:
-- Engineering Excellence
-- Product Development
+  - Engineering Excellence
+  - Product Development
 tags:
-- Engineering Practices
-- Software Development
-- Technical Mastery
-- Technical Excellence
-- Operational Practices
-- Shift Left Strategy
-- Pragmatic Thinking
+  - Engineering Practices
+  - Software Development
+  - Technical Mastery
+  - Technical Excellence
+  - Operational Practices
+  - Shift Left Strategy
+  - Pragmatic Thinking
+ItemId: 9ARau6V0dYr
+ResourceId: 9ARau6V0dYr
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 **Test First** is a modern engineering practice that anchors the delivery of working software in clarity, confidence, and quality. It is a shift-left strategy where tests are defined *before* implementation begins, guiding design and enabling faster feedback loops.

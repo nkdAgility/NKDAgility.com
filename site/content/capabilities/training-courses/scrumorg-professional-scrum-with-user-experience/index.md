@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: napm9Qz4WTz
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -121,8 +120,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-ResourceId: napm9Qz4WTz
+ResourceId: PSU
 ResourceType: course
+ItemId: PSU
 
 ---
 # Professional Scrum with User Experience (PSU) with Certification

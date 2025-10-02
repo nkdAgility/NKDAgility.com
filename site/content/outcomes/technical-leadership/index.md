@@ -1,6 +1,6 @@
 ---
-title: "Technical Leadership"
-description: "Develop influential technical leaders who drive innovation, guide teams effectively, and translate business needs into technical solutions."
+title: Technical Leadership
+description: Develop influential technical leaders who drive innovation, guide teams effectively, and translate business needs into technical solutions.
 date: 2025-06-03
 creator: Martin Hinshelwood
 sitemap:
@@ -29,10 +29,10 @@ sections:
     type: content
   - type: outcomehero
     cta:
-      content: "Let’s change that. **You deserve to be heard.**"
+      content: Let’s change that. **You deserve to be heard.**
       button:
-        text: "Connect now"
-        url: "/company/book-online"
+        text: Connect now
+        url: /company/book-online
     boxes:
       - content: |
           Are you a CTO stuck in the weeds instead of setting the vision?
@@ -63,13 +63,12 @@ sections:
         icon: fa-user-shield
         content: |
           With expert advisory support, you stop fighting fires and start leading the transformation.
-
   - type: quote
     backgroundColor: primary
     quote: |
       "Martin's depth and breadth of knowledge and experience of the world of Agile/DevOps is incredible. He will switch between hands on development to advanced consulting or training on process, practices and tools to help you in your own DevOps journey. When the going gets tough in challenging situations he is super responsive and goes the extra mile... He is passionate about what he does and is always trying to improve the way we work to build high value products and solutions... Down to earth and straight talking. Highly recommend!"
       - **Nancy Maher | Global Software Lifecycle Management Program Manager | SLB**
-  - title: 🎯 The Strategic Gains You Achieve
+  - title: "\U0001F3AF The Strategic Gains You Achieve"
     type: list
     listType: boxed
     list:
@@ -96,28 +95,27 @@ sections:
   - type: outcomeboxes
     title: We help you with
     boxes:
-      - box:
+      - box: 
         items:
           - title: Align tech strategy with business goals
           - title: Build and communicate scalable tech roadmaps
           - title: Influence executive decisions with data
           - title: Lead transformation initiatives
           - title: Justify tech investments
-      - box:
+      - box: 
         items:
           - title: Feel in control of your tech vision
           - title: Reduce the stress of ambiguity
           - title: Regain confidence in decision-making
           - title: Stop being reactive and start being visionary
           - title: Gain validation and respect from stakeholders
-      - box:
+      - box: 
         items:
           - title: Lead with credibility in the boardroom
           - title: Advocate effectively for strategic initiatives
           - title: Mentor the next generation of tech leaders
           - title: Represent your org as a future-driven leader
           - title: Foster innovation culture and cross-functional alignment
-
   - title: What Changes When Leaders Engage With Us
     type: casestudy
     list:
@@ -131,10 +129,10 @@ sections:
         content: |
           Cross-functional collaboration becomes easier when shared goals and delivery constraints are made more visible and understood.
     cta:
-      content: "Want the inside stories?"
+      content: Want the inside stories?
       button:
-        text: "Explore Success Case Studies"
-        url: "/resources/case-studies"
+        text: Explore Success Case Studies
+        url: /resources/case-studies
   - title: Why NKDAgility?
     type: textNlist
     list:
@@ -152,12 +150,19 @@ sections:
       We blend deep DevOps, engineering, and Agile coaching expertise with boardroom-savvy advisory.
 
       Led by Microsoft MVP Martin Hinshelwood, NKD Agility helps CTOs go from:
-
   - type: sectioncta
     backgroundColor: primary
     cta:
       content: Empowering the Tech Leaders Who Shape the Future
       button:
-        text: "Schedule a call"
-        url: "/company/book-online"
+        text: Schedule a call
+        url: /company/book-online
+ItemId: wJMDXD_JAJt
+ResourceId: wJMDXD_JAJt
+ItemType: outcomes
+ResourceType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
+
 ---
+

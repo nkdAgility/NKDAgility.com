@@ -5,4 +5,12 @@ creator: Martin Hinshelwood
 id: "45348"
 type: customers
 slug: nit-a-s
+ItemType: customers
+ItemKind: marketing
+ItemId: erq5zRidEUW
+ResourceId: erq5zRidEUW
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

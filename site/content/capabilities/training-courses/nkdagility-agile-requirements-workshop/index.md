@@ -7,7 +7,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: _Wnpjm9sqp4
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -57,8 +56,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-ResourceId: _Wnpjm9sqp4
+ResourceId: NKD-AR
 ResourceType: course
+ItemId: NKD-AR
 
 ---
 This workshop includes guided discussion focusing on agile requirements management and planning practices for agile teams, projects, and products. Covers medium and long term planning needs and results in a backlog for the steps needed to establish a solid requirements management practice within your organisation.

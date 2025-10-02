@@ -33,21 +33,27 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:35:44
 icon: fa-recycle
 concepts:
-- Principle
+  - Principle
 categories:
-- Lean
-- Product Development
+  - Lean
+  - Product Development
 tags:
-- Lean Principles
-- Operational Practices
-- Value Delivery
-- Continuous Improvement
-- Market Adaptability
-- Social Technologies
-- Organisational Agility
-- Continuous Learning
-- Organisational Change
-- Pragmatic Thinking
+  - Lean Principles
+  - Operational Practices
+  - Value Delivery
+  - Continuous Improvement
+  - Market Adaptability
+  - Social Technologies
+  - Organisational Agility
+  - Continuous Learning
+  - Organisational Change
+  - Pragmatic Thinking
+ItemId: MYfQZupJiVl
+ResourceId: MYfQZupJiVl
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Lean Thinking focuses on maximising value by minimising waste within organisational processes. It emphasises the importance of understanding customer needs and aligning workflows to deliver products and services that meet those needs efficiently. By applying Lean principles, teams can identify non-value-adding activities, streamline operations, and enhance overall productivity. This approach fosters a culture of continuous improvement, encouraging teams to experiment, learn, and adapt their processes over time.

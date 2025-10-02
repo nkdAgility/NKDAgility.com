@@ -6,4 +6,12 @@ id: "11829"
 type: customers
 slug: emerson-process-management
 preview: nkdagility-customer-emerson-process-management-200x75.png
+ItemType: customers
+ItemKind: marketing
+ItemId: IapWTEOuSUd
+ResourceId: IapWTEOuSUd
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

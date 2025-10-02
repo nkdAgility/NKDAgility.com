@@ -5,7 +5,8 @@ creator: Martin Hinshelwood
 id: "49463"
 type: people
 slug: dan-brown-kanbandan
-
+ItemType: people
+ItemKind: marketing
 preview: kanban-dan.png
 weight: 50
 people-abilities:
@@ -19,4 +20,10 @@ card:
     <strong>Agile Trainer &amp; Coach</strong>
 
     Enhancing Delivery ✪ Agile Trainer &amp; Coach ✪ Expert in Lean Kanban &amp; Agile Transformation ✪ Passionate Coach, Teacher, &amp; Speaker
+ItemId: qEvFqrkX4js
+ResourceId: qEvFqrkX4js
+ResourceType: people
+ItemContentOrigin: human
+
 ---
+

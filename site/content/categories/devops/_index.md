@@ -32,12 +32,18 @@ headline:
   content: An approach centred on integrating people, processes, and technology to accelerate reliable software delivery through collaboration, automation, rapid feedback loops, and continuous improvement. Posts explore flow efficiency, observability, eliminating organisational silos, shared accountability, and embedding quality and security early, enabling organisations to deliver customer value faster and more confidently.
   updated: 2025-05-23T23:15:21Z
 types:
-- Philosophy
+  - Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Ethos
+  - Ethos
+ItemId: 2e4bliamdfl
+ResourceId: 2e4bliamdfl
+ItemType: categories
+ResourceType: categories
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 DevOps is not a methodology, framework, or job title—it is an **philosophy** or **ethos** that unites **people, processes, and technology** to enable **continuous value delivery**. At its core, DevOps is about **eliminating friction** between development and operations, fostering **collaboration**, and embracing **automation** to achieve high-quality, fast, and reliable software delivery.

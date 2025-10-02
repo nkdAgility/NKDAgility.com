@@ -34,6 +34,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
+ItemId: NWDQBMsGcDb
+ResourceId: NWDQBMsGcDb
+ItemType: concepts
+ResourceType: concepts
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 The **Philosophy** category represents the **foundational beliefs** that shape methodologies like **Agile**, **DevOps**, and **Lean**. It focuses on **why** these methodologies work and how their principles guide decision-making and organisational behaviour. Philosophy is concerned with the **big picture**, offering insights into how teams and organisations should think about work, value, and collaboration.

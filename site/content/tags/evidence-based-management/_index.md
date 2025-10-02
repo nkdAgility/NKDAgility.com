@@ -31,34 +31,39 @@ headline:
   content: Evidence-Based Management provides organisations with empirical methods and meaningful metrics to evaluate value delivery, responsiveness, innovation capacity, and untapped opportunities. It emphasises outcome-driven decisions, informed prioritisation, and continuous improvement, enabling leaders to replace assumptions and superficial measures with actionable insights and measurable progress in complex, dynamic environments.
   updated: 2025-05-23T23:15:56Z
 aliases:
-- /methods/ebm/
-- /learn/agile-delivery-kit/strategies/evidence-based-management/
-- /resources/dN0v6E1KsNd
+  - /methods/ebm/
+  - /learn/agile-delivery-kit/strategies/evidence-based-management/
+  - /resources/dN0v6E1KsNd
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 icon: fa-magnifying-glass-chart
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Management
-- Product Development
-- Technical Leadership
+  - Product Management
+  - Product Development
+  - Technical Leadership
 tags:
-- Decision Making
-- Evidence Based Leadership
-- Metrics and Learning
-- Customer Focus
-- Empirical Process Control
-- Pragmatic Thinking
-- Value Delivery
-- Operational Practices
-- Organisational Agility
-- Market Adaptability
-- Professional Scrum
-- Strategic Goals
-- Agile Strategy
-- Product Strategy
+  - Decision Making
+  - Evidence Based Leadership
+  - Metrics and Learning
+  - Customer Focus
+  - Empirical Process Control
+  - Pragmatic Thinking
+  - Value Delivery
+  - Operational Practices
+  - Organisational Agility
+  - Market Adaptability
+  - Professional Scrum
+  - Strategic Goals
+  - Agile Strategy
+  - Product Strategy
+ItemId: dN0v6E1KsNd
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Too many organisations talk about being agile, but they’re still flying blind. Evidence-Based Management (EBM) is a strategy to fix that. It’s not a framework, a methodology, or a tool. It’s a way to stop pretending we’re improving and start proving it.

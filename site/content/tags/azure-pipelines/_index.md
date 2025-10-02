@@ -35,25 +35,31 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:24:25
 icon: fa-cloud-arrow-up
 concepts:
-- Tool
+  - Tool
 categories:
-- Engineering Excellence
-- Product Development
-- DevOps
+  - Engineering Excellence
+  - Product Development
+  - DevOps
 tags:
-- Software Development
-- Azure DevOps
-- Operational Practices
-- Frequent Releases
-- Product Delivery
-- Continuous Delivery
-- Release Management
-- Market Adaptability
-- Engineering Practices
-- Value Delivery
-- Continuous Integration
-- Technical Excellence
-- Deployment Frequency
+  - Software Development
+  - Azure DevOps
+  - Operational Practices
+  - Frequent Releases
+  - Product Delivery
+  - Continuous Delivery
+  - Release Management
+  - Market Adaptability
+  - Engineering Practices
+  - Value Delivery
+  - Continuous Integration
+  - Technical Excellence
+  - Deployment Frequency
+ItemId: HbmCVgxmrjh
+ResourceId: HbmCVgxmrjh
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Azure Pipelines is a cloud-based service that automates the building, testing, and deployment of applications, enabling teams to deliver value predictably and sustainably. By integrating with various version control systems, Azure Pipelines facilitates continuous integration and continuous delivery (CI/CD), allowing teams to deploy code changes frequently and reliably. This automation reduces manual errors, accelerates feedback loops, and enhances collaboration among cross-functional teams.

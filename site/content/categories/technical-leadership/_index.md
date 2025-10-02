@@ -35,7 +35,13 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T13:03:30
 concepts:
-- Capability
+  - Capability
+ItemId: GGiTeL_w6n1
+ResourceId: GGiTeL_w6n1
+ItemType: categories
+ResourceType: categories
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Technical leadership is the practice of guiding development teams through the application of technical expertise and agile best practices. It plays a crucial role in fostering an environment where teams can deliver value predictably and sustainably. By providing direction and support, technical leaders help teams navigate complex challenges, ensuring that technical decisions align with organisational goals and customer needs.

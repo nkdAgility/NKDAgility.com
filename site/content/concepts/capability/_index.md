@@ -36,6 +36,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T12:39:16
+ItemId: IjampZAPYvu
+ResourceId: IjampZAPYvu
+ItemType: concepts
+ResourceType: concepts
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Capability refers to a persistent, cross-cutting competence that empowers teams or organisations to deliver value in a predictable, sustainable, and adaptive manner. Unlike transient tools or one-off techniques, capabilities are cultivated over time and become embedded in the organisational culture and processes. This long-term, systemic nature of capabilities is what distinguishes them from other concepts such as practices or tools, which may be more focused on specific tasks or methodologies.

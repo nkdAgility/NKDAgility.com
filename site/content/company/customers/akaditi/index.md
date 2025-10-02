@@ -6,4 +6,12 @@ id: "12009"
 type: customers
 slug: akaditi
 preview: Akaditi-logo-03-e1545146217836.png
+ItemType: customers
+ItemKind: marketing
+ItemId: RXKd9m0H1ut
+ResourceId: RXKd9m0H1ut
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

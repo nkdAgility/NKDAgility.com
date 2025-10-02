@@ -1,6 +1,8 @@
 ---
 title: Training
 trustpilot: false
+ItemType: marketing
+ItemKind: classification
 date: 2025-02-11T10:16:54Z
 description: How to achieve product leadership and engineering excellence through training.
 Instructions: |-
@@ -24,6 +26,4 @@ headline:
   subtitle: Empowering teams through targeted learning to enhance product leadership and engineering capabilities.
   content: Empowering teams to enhance their product leadership and engineering skills through structured learning initiatives. Posts should explore effective practices in continuous improvement, team dynamics, performance metrics, and the integration of feedback loops, drawing insights from industry thought leaders and frameworks that promote adaptive learning and innovation.
   updated: 2025-02-14T09:59:23Z
-
 ---
-

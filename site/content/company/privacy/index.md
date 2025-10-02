@@ -1,8 +1,10 @@
 ---
-title: "Privacy Policy"
+title: Privacy Policy
 date: 2025-05-26
 draft: false
-description: "Learn how we collect, process, and protect data across our website and Azure DevOps Migration Tools."
+ItemType: company
+ItemKind: marketing
+description: Learn how we collect, process, and protect data across our website and Azure DevOps Migration Tools.
 aliases:
   - /privacy/
 layout: informational
@@ -21,8 +23,12 @@ headline:
     - style: secondary
       link: /company/working-with-us
       text: Working with us!
----
+ItemId: QNsU_6ciL8k
+ResourceId: QNsU_6ciL8k
+ResourceType: company
+ItemContentOrigin: human
 
+---
 naked Agility Ltd is committed to protecting your privacy and ensuring transparency in how we handle personal information. This Privacy Statement outlines the services and tools we use, the regions where data is processed or stored, and how your personal information is managed.
 
 We follow a fit-for-purpose information security model tailored to the nature and scale of consulting engagements. Our privacy and security practices align with the intent of ISO/IEC 27001 and NIST CSF standards appropriate to our consulting model.
@@ -92,14 +98,16 @@ We maintain a comprehensive security posture through:
 To support efficient and accurate legal and policy comparison, naked Agility Ltd may use OpenAI's Enterprise platform to review and analyse customer-submitted legal documents (e.g. Data Processing Agreements, Information Security questionnaires, Master Service Agreements).
 
 This includes:
+
 - Comparing customer terms to our published Terms of Business, Privacy Policy, and engagement model
 - Identifying potential conflicts, gaps, or redlines for discussion
 - Drafting suggested responses or clarifications to customer-supplied clauses
 
 We use **OpenAI Enterprise**, hosted in the **European Union**, with the following guarantees:
-- **No data is used for training** any AI models  
-- **No inputs or outputs are retained** by OpenAI  
-- Data is encrypted in transit and processed securely within the enterprise platform  
+
+- **No data is used for training** any AI models
+- **No inputs or outputs are retained** by OpenAI
+- Data is encrypted in transit and processed securely within the enterprise platform
 - We do **not share these inputs with any unauthorised parties**
 
 We do not process sensitive personal data (e.g. health, financial, or identity documents) through AI, and redact or anonymise any sensitive content before use.

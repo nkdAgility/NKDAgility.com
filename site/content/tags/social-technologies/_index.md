@@ -35,24 +35,30 @@ sitemap:
   priority: 0.7
 icon: fa-share-nodes
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Leadership
+  - Leadership
 tags:
-- Miscellaneous
-- Self Organisation
-- Sensemaking
-- Organisational Agility
-- Continuous Learning
-- Complexity Thinking
-- Agile Philosophy
-- Organisational Change
-- Organisational Culture
-- Ability to Innovate
-- Pragmatic Thinking
-- Organisational Physics
-- Sociotechnical Systems
-- Beta Codex
+  - Miscellaneous
+  - Self Organisation
+  - Sensemaking
+  - Organisational Agility
+  - Continuous Learning
+  - Complexity Thinking
+  - Agile Philosophy
+  - Organisational Change
+  - Organisational Culture
+  - Ability to Innovate
+  - Pragmatic Thinking
+  - Organisational Physics
+  - Sociotechnical Systems
+  - Beta Codex
+ItemId: 8Zc_6SWuElx
+ResourceId: 8Zc_6SWuElx
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 In complex environments where variance is high, methodologies fall short. In order to guide our ways of working we need foundational philosophies that foster adaptability, emergent coordination, and collective intelligence. Social technologies provide this foundation, shaping interactions, decision-making, and value creation.

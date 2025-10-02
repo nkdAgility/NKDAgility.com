@@ -8,8 +8,8 @@ abstract: Customer Focus is not a platitude. It's the first principle of agile d
 date: 2025-05-13T09:00:00
 weight: 475
 aliases:
-- /principles/customer-focus/
-- /resources/p1bdjnIJDmW
+  - /principles/customer-focus/
+  - /resources/p1bdjnIJDmW
 Instructions: |-
   Use this category only for discussions on Customer Focus.
 
@@ -43,25 +43,30 @@ sitemap:
   priority: 0.7
 icon: fa-user-group-simple
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Value Delivery
-- Metrics and Learning
-- Agile Product Management
-- Product Delivery
-- Pragmatic Thinking
-- Decision Making
-- Agile Philosophy
-- Operational Practices
-- Product Strategy
-- Organisational Agility
-- Product Discovery
-- Evidence Based Management
-- Current Value
-- Agile Product Operating Model
+  - Value Delivery
+  - Metrics and Learning
+  - Agile Product Management
+  - Product Delivery
+  - Pragmatic Thinking
+  - Decision Making
+  - Agile Philosophy
+  - Operational Practices
+  - Product Strategy
+  - Organisational Agility
+  - Product Discovery
+  - Evidence Based Management
+  - Current Value
+  - Agile Product Operating Model
+ItemId: p1bdjnIJDmW
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Customer Focus is the lens through which all meaningful delivery is measured. It's not about opinions. It's about outcomes. If your product doesn't change customer behaviour, it doesn’t matter how elegant the code is or how smooth the deployment was.

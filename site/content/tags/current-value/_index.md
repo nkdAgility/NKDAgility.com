@@ -35,25 +35,31 @@ sitemap:
   priority: 0.7
 icon: fa-gauge-high
 concepts:
-- Capability
+  - Capability
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Evidence Based Management
-- Value Delivery
-- Metrics and Learning
-- Customer Focus
-- Evidence Based Leadership
-- Professional Scrum
-- Decision Making
-- Agile Product Management
-- Software Development
-- Market Adaptability
-- Agile Philosophy
-- Pragmatic Thinking
-- Agile Strategy
-- Operational Practices
+  - Evidence Based Management
+  - Value Delivery
+  - Metrics and Learning
+  - Customer Focus
+  - Evidence Based Leadership
+  - Professional Scrum
+  - Decision Making
+  - Agile Product Management
+  - Software Development
+  - Market Adaptability
+  - Agile Philosophy
+  - Pragmatic Thinking
+  - Agile Strategy
+  - Operational Practices
+ItemId: E6-pMtcf7IL
+ResourceId: E6-pMtcf7IL
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Current Value represents a critical measure within Evidence-Based Management, focusing on the tangible, real-time value a product or service delivers to its users. It encompasses a range of indicators, such as customer satisfaction, revenue impact, and performance feedback, which collectively provide insights into the value being realised at any given moment. This concept is essential for teams aiming to deliver value predictably and sustainably, as it allows for continuous assessment and adjustment based on actual performance rather than assumptions.

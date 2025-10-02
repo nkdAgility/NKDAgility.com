@@ -33,38 +33,43 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 aliases:
-- /learn/agile-delivery-kit/practices/metrics-reports
-- /resources/26FWeqJuu0P
+  - /learn/agile-delivery-kit/practices/metrics-reports
+  - /resources/26FWeqJuu0P
 aliasesArchive:
-- /learn/agile-delivery-kit/practices/metrics-reports
+  - /learn/agile-delivery-kit/practices/metrics-reports
 recommendedContent:
-- practices/Metrics-Reports/
-- practices/Metrics-Reports.html
-- metrics-reports
-- metrics-reports.html
+  - practices/Metrics-Reports/
+  - practices/Metrics-Reports.html
+  - metrics-reports
+  - metrics-reports.html
 BodyContentGenDate: 2025-04-09T16:31:19
 icon: fa-chart-bar
 concepts:
-- Principle
+  - Principle
 categories:
-- Technical Leadership
-- DevOps
-- Product Development
+  - Technical Leadership
+  - DevOps
+  - Product Development
 tags:
-- Project Management
-- Pragmatic Thinking
-- Organisational Agility
-- Continuous Improvement
-- Operational Practices
-- Evidence Based Leadership
-- Decision Making
-- Lean Product Development
-- Continuous Learning
-- Agile Transformation
-- Self Organisation
-- Agile Philosophy
-- Agile Product Operating Model
-- Team Performance
+  - Project Management
+  - Pragmatic Thinking
+  - Organisational Agility
+  - Continuous Improvement
+  - Operational Practices
+  - Evidence Based Leadership
+  - Decision Making
+  - Lean Product Development
+  - Continuous Learning
+  - Agile Transformation
+  - Self Organisation
+  - Agile Philosophy
+  - Agile Product Operating Model
+  - Team Performance
+ItemId: 26FWeqJuu0P
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Metrics and Learning is not about tracking velocity or producing dashboards to appease managers. It’s about creating the conditions for continuous improvement by making performance transparent, exposing constraints, and enabling teams and leaders to respond with evidence rather than assumption.

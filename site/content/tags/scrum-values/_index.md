@@ -31,21 +31,27 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:15:15
 icon: fa-gem
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Product Development
-- Technical Leadership
+  - Scrum
+  - Product Development
+  - Technical Leadership
 tags:
-- Team Collaboration
-- Team Motivation
-- Social Technologies
-- Organisational Culture
-- Software Development
-- Professional Scrum
-- Agile Frameworks
-- Organisational Agility
-- Agile Values and Principles
+  - Team Collaboration
+  - Team Motivation
+  - Social Technologies
+  - Organisational Culture
+  - Software Development
+  - Professional Scrum
+  - Agile Frameworks
+  - Organisational Agility
+  - Agile Values and Principles
+ItemId: 54mAOuDn9gl
+ResourceId: 54mAOuDn9gl
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 The Scrum Values are a first principal of Scrum.

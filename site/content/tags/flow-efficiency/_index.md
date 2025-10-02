@@ -34,26 +34,32 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:46:33
 icon: fa-arrows-left-right-to-line
 concepts:
-- Capability
+  - Capability
 categories:
-- Lean
-- Product Development
-- DevOps
+  - Lean
+  - Product Development
+  - DevOps
 tags:
-- Lean Principles
-- Operational Practices
-- Value Stream Management
-- Pragmatic Thinking
-- Value Delivery
-- Lean Thinking
-- Team Performance
-- Lean Product Development
-- Continuous Improvement
-- Market Adaptability
-- Social Technologies
-- Metrics and Learning
-- Organisational Agility
-- Product Delivery
+  - Lean Principles
+  - Operational Practices
+  - Value Stream Management
+  - Pragmatic Thinking
+  - Value Delivery
+  - Lean Thinking
+  - Team Performance
+  - Lean Product Development
+  - Continuous Improvement
+  - Market Adaptability
+  - Social Technologies
+  - Metrics and Learning
+  - Organisational Agility
+  - Product Delivery
+ItemId: gX5e5N058qw
+ResourceId: gX5e5N058qw
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Flow efficiency refers to the optimisation of work throughput across the value stream, focusing on minimising waste and reducing bottlenecks. This concept is crucial for organisations aiming to deliver value predictably and sustainably, as it directly impacts the speed at which teams can respond to customer needs and market changes. By analysing and improving flow efficiency, teams can identify areas where delays occur, allowing for targeted interventions that enhance overall performance.

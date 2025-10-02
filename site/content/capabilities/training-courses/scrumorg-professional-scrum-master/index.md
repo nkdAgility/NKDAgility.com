@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: NphdCz-Fh4k
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -160,8 +159,9 @@ events:
           - 5
           - 6
           - 7
-ResourceId: NphdCz-Fh4k
+ResourceId: PSM
 ResourceType: course
+ItemId: PSM
 
 ---
 # Professional Scrum Master (PSM) Course with Certification

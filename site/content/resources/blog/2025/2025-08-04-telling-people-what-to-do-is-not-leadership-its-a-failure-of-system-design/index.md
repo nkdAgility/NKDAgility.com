@@ -1,5 +1,5 @@
 ---
-title: Telling People What to Do Is Not Leadership. It’s a Failure of System Design.
+title: Telling People What to Do Is Not Leadership. It’s a Failure of System Design
 short_title: Leadership Is System Design, Not Command
 description: Explores why real leadership means designing systems that enable team autonomy, flow, and accountability—rather than relying on command-and-control management.
 tldr: Telling people what to do is not leadership, it is a sign of poor system design that stifles autonomy and slows delivery. Effective leadership means creating systems where teams have clear goals, constraints, and feedback loops so they can self-manage, deliver value, and adapt without micromanagement. Focus on improving your delivery system—set meaningful goals, enable autonomy with clear boundaries, use evidence-based metrics, and empower teams to own outcomes—so you can step back and let professionals do their best work.
@@ -23,7 +23,6 @@ ItemKind: resource
 ItemContentOrigin: hybrid
 slug: telling-people-what-to-do-is-not-leadership-it-s-a-failure-of-system-design
 aliases:
-  - /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
   - /resources/W_KrTupmowf
 aliasesArchive:
   - /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
@@ -56,8 +55,8 @@ Watermarks:
 creator: Martin Hinshelwood
 ResourceId: W_KrTupmowf
 ResourceType: blog
-
 ---
+
 If your organisation still measures leadership by how many decisions a manager makes, you are not leading. You are leaking value.
 
 There is a stubborn, Taylorist holdover in many companies—the belief that work gets done when someone is told exactly what to do. The assumption is that certainty comes from control, clarity comes from instruction, and delivery comes from compliance.

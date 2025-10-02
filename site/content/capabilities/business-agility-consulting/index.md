@@ -11,7 +11,7 @@ sitemap:
   changefreq: weekly
 ItemId: vBfMbM9n2lk
 ItemType: capabilities
-ItemKind: capability
+ItemKind: marketing
 ItemContentOrigin: human
 slug: business-agility-consultancy
 aliases:

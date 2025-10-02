@@ -1,5 +1,4 @@
 ---
-title: 3 core practices of Kanban. Improving a workflow.
 short_title: Kanban Workflow Improvement Practices
 description: Learn how to improve Kanban workflows by identifying blockages, reducing waiting times, and making continuous changes to boost efficiency and value delivery in your process.
 tldr: Continuous improvement is a key Kanban practice that focuses on identifying and removing workflow blockages and reducing waiting times to maximize value delivery. Making inefficiencies and their costs visible, as shown in a real-life example, can prompt immediate behavioral changes and significant efficiency gains. Development managers should regularly review processes, use visual aids to highlight delays, and engage stakeholders to drive ongoing workflow improvements.
@@ -18,7 +17,6 @@ slug: 3-core-practices-of-kanban-improving-a-workflow
 aliases:
   - /resources/qWHCBUwpOZk
   - /resources/videos/3-core-practices-of-kanban-improving-a-workflow
-  - /resources/videos/3-core-practices-of-kanban.-improving-a-workflow.
 aliasesArchive:
   - /resources/videos/-core-practices-of-kanban-improving-a-workflow-
   - /resources/videos/3-core-practices-of-kanban-improving-a-workflow-
@@ -57,17 +55,15 @@ duration: 307
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ### Improving Your Workflow in a [Kanban]({{< ref "/categories/kanban" >}}) Strategy
 
 **Introduction**
 
 The third core practice in Kanban is improving your workflow. It’s essential to not only visualize your work and actively manage it but also to make continuous improvements to the workflow itself. Without ongoing improvements, inefficiencies and blockages will persist, hindering the overall effectiveness of your system.
 
-
-
-* * *
+---
 
 **The Importance of Improving Your Workflow**
 
@@ -85,7 +81,7 @@ It's not enough to just see what's happening in your system and manage the work 
 
 - Implement strategies to ensure work moves smoothly through the system without unnecessary waiting.
 
-* * *
+---
 
 **A Real-Life Example of Workflow Improvement**
 
@@ -115,7 +111,7 @@ I worked with a team in the US that had a Kanban board on the wall in a central 
 
 - This change significantly reduced the waiting times, leading to a major cost benefit for the team.
 
-* * *
+---
 
 **Taking Action to Improve Workflow**
 
@@ -139,7 +135,7 @@ Improving your workflow involves more than just identifying problems. It require
 
 - Ensure everyone understands the impact of delays and the importance of timely approvals and actions.
 
-* * *
+---
 
 **Conclusion**
 

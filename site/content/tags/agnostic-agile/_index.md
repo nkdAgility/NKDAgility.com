@@ -32,34 +32,39 @@ headline:
   updated: 2025-05-23T23:19:37Z
 ResourceId: kfsLvZzGPDZ
 aliases:
-- /APOM
-- /methods/agnostic-agile/
-- /learn/agile-delivery-kit/strategies/agnostic-agile/
-- /resources/kfsLvZzGPDZ
+  - /APOM
+  - /methods/agnostic-agile/
+  - /learn/agile-delivery-kit/strategies/agnostic-agile/
+  - /resources/kfsLvZzGPDZ
 BodyContentGenDate: 2025-04-10T14:51:34
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 icon: fa-shuffle
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Philosophy
-- Pragmatic Thinking
-- Social Technologies
-- Value Delivery
-- Software Development
-- Market Adaptability
-- Agile Values and Principles
-- Organisational Agility
-- Agile Transformation
-- Business Agility
-- Agile Strategy
-- Organisational Change
-- Organisational Culture
-- Agile Frameworks
+  - Agile Philosophy
+  - Pragmatic Thinking
+  - Social Technologies
+  - Value Delivery
+  - Software Development
+  - Market Adaptability
+  - Agile Values and Principles
+  - Organisational Agility
+  - Agile Transformation
+  - Business Agility
+  - Agile Strategy
+  - Organisational Change
+  - Organisational Culture
+  - Agile Frameworks
+ItemId: kfsLvZzGPDZ
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Agnostic Agile is a movement that champions a flexible, context-driven approach to agility, prioritising principles over rigid frameworks. It encourages teams to adapt their methodologies based on specific needs rather than adhering strictly to a single ideology. This pragmatic stance allows practitioners to draw from a variety of approaches, including Scrum, Kanban, Lean, and XP, fostering an environment where critical thinking and professionalism thrive.

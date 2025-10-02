@@ -31,29 +31,35 @@ headline:
   content: Definition of Ready describes criteria that clarify when a backlog item is sufficiently understood and actionable for implementation. Posts explore establishing shared understanding among stakeholders, avoiding premature assumptions of readiness, continuous refinement practices, backlog candidacy criteria, INVEST principles, and balancing objective clarity with subjective team alignment.
   updated: 2025-05-23T23:16:55Z
 aliases:
-- /practices/Definition-of-Ready-DoR.html
-- /learn/agile-delivery-kit/practices/definition-of-ready-dor
-- /resources/afLYe__TZKq
+  - /practices/Definition-of-Ready-DoR.html
+  - /learn/agile-delivery-kit/practices/definition-of-ready-dor
+  - /resources/afLYe__TZKq
 aliasesArchive:
-- /practices/Definition-of-Ready-DoR.html
-- /learn/agile-delivery-kit/practices/definition-of-ready-dor
+  - /practices/Definition-of-Ready-DoR.html
+  - /learn/agile-delivery-kit/practices/definition-of-ready-dor
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 icon: fa-clipboard-question
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Product Development
-- Scrum
-- Technical Leadership
+  - Product Development
+  - Scrum
+  - Technical Leadership
 tags:
-- Software Development
-- Agile Planning
-- Backlog Refinement
-- Agile Product Management
-- Operational Practices
-- Product Backlog
+  - Software Development
+  - Agile Planning
+  - Backlog Refinement
+  - Agile Product Management
+  - Operational Practices
+  - Product Backlog
+ItemId: wJb3UWcL18z
+ResourceId: wJb3UWcL18z
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Definition of Ready (DoR) is an artifact.

@@ -3,6 +3,8 @@ title: Who are we?
 description: We exist to help organisations understand and evolve their system of work. Through professional training, technical coaching, and strategic guidance, we empower teams to deliver continuous value with clarity, resilience, and integrity. Our work transforms ambiguity into alignment, silos into systems, and effort into outcomes.
 layout: aboutus
 url: /company/
+ItemType: company
+ItemKind: marketing
 sitemap:
   filename: sitemap.xml
   priority: 0.9

@@ -48,9 +48,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Principle
+  - Principle
 categories: []
 tags: []
+ItemId: 75SCgnYwEsI
+ResourceId: 75SCgnYwEsI
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 OKRs are a way to make your strategy actionable. You don’t get alignment by telling people what to do. You get it by being crystal clear on what matters — and how you’ll know if it’s working.

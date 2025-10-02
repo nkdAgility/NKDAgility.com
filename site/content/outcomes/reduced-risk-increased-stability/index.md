@@ -1,6 +1,6 @@
 ---
-title: "Reduced risk Increased Stability"
-description: "Minimize deployment risks and enhance system reliability through advanced engineering practices and proactive management strategies."
+title: Reduced risk Increased Stability
+description: Minimize deployment risks and enhance system reliability through advanced engineering practices and proactive management strategies.
 date: 2025-06-01T09:00:00Z
 creator: Martin Hinshelwood
 sitemap:
@@ -27,10 +27,10 @@ sections:
     type: content
   - type: outcomehero
     cta:
-      content: "Ready to De-Risk Your Technology? **Schedule a comprehensive risk and stability assessment.**"
+      content: Ready to De-Risk Your Technology? **Schedule a comprehensive risk and stability assessment.**
       button:
-        text: "Book Now"
-        url: "/company/book-online"
+        text: Book Now
+        url: /company/book-online
     boxes:
       - content: |
           Are you tired of crossing your fingers during every release?
@@ -93,21 +93,21 @@ sections:
   - type: outcomeboxes
     title: How we can help you
     boxes:
-      - box:
+      - box: 
         items:
           - title: Implement secure, reliable delivery pipelines
           - title: Ensure system uptime exceeds business-critical thresholds
           - title: Ensure audit-readiness & compliance
           - title: Automate security, infrastructure, and deployment processes comprehensively
           - title: Mitigate risks without slowing delivery
-      - box:
+      - box: 
         items:
           - title: Reduce anxiety about outages
           - title: Feel confident under executive scrutiny
           - title: Avoid the fear of being exposed
           - title: Trust your delivery process again
           - title: Balance innovation and stability
-      - box:
+      - box: 
         items:
           - title: Represent your company as a secure, mature tech org
           - title: Gain credibility with stakeholders, auditors, and boards
@@ -127,10 +127,10 @@ sections:
         content: |
           Markedly decreased security vulnerabilities and strengthened overall system resilience
     cta:
-      content: "Want proof?"
+      content: Want proof?
       button:
-        text: "See Case Studies"
-        url: "/resources/case-studies"
+        text: See Case Studies
+        url: /resources/case-studies
   - title: Why NKDAgility?
     type: textNlist
     list:
@@ -150,8 +150,16 @@ sections:
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: "NKD Agility: Fast, Safe, and Scalable by Design"
+      content: 'NKD Agility: Fast, Safe, and Scalable by Design'
       button:
-        text: "Schedule a call"
-        url: "/company/book-online"
+        text: Schedule a call
+        url: /company/book-online
+ItemId: _QpdqoCkfEl
+ResourceId: _QpdqoCkfEl
+ItemType: outcomes
+ResourceType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
+
 ---
+

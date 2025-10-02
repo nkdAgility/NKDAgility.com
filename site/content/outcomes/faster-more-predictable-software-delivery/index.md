@@ -1,7 +1,7 @@
 ---
-title: "Faster More Predictable Software Delivery"
+title: Faster More Predictable Software Delivery
 subtitle: Velocity Without the Volatility
-description: "Your teams are working hard. The backlog never ends. Yet delivery is slow, unpredictable, and stressful."
+description: Your teams are working hard. The backlog never ends. Yet delivery is slow, unpredictable, and stressful.
 date: 2025-05-31T09:00:00Z
 creator: Martin Hinshelwood
 sitemap:
@@ -26,10 +26,10 @@ sections:
     type: content
   - type: outcomehero
     cta:
-      content: "Ready to Release at the Speed of Strategy? **Let’s fix that.**"
+      content: Ready to Release at the Speed of Strategy? **Let’s fix that.**
       button:
-        text: "Book a Free Delivery Optimization Call"
-        url: "/company/book-online"
+        text: Book a Free Delivery Optimization Call
+        url: /company/book-online
     boxes:
       - content: |
           Still stuck in delivery hell?
@@ -92,21 +92,21 @@ sections:
   - type: outcomeboxes
     title: Faster more predictable delivery ensures
     boxes:
-      - box:
+      - box: 
         items:
           - title: Release features quickly and safely
           - title: Improve delivery cadence and quality
           - title: Reduce bugs, rollbacks, and rework
           - title: Build a delivery pipeline that scales
           - title: Establish clear, data-driven predictability
-      - box:
+      - box: 
         items:
           - title: Eliminate delivery stress
           - title: Regain control over delivery timelines
           - title: Feel pride in consistent outcomes
           - title: Avoid burnout and team fatigue
           - title: Lead with clarity, not chaos
-      - box:
+      - box: 
         items:
           - title: Be seen as a reliable technology leader
           - title: Inspire trust across product, execs, and customers
@@ -126,10 +126,10 @@ sections:
         content: |
           One client saw a marked reduction in release failures after introducing automated testing, progressive delivery, and a Definition of Done that included telemetry.
     cta:
-      content: "Want more proof?"
+      content: Want more proof?
       button:
-        text: "Explore Our Case Studies"
-        url: "/resources/case-studies"
+        text: Explore Our Case Studies
+        url: /resources/case-studies
   - title: Why NKDAgility?
     type: textNlist
     list:
@@ -147,12 +147,19 @@ sections:
       We align Agile delivery and DevOps engineering into one smooth, scalable, value-stream.
 
       With NKD Agility, you build a system that delivers—every sprint, every release, every time.
-
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: "Because Your Code Should Ship with Confidence"
+      content: Because Your Code Should Ship with Confidence
       button:
-        text: "Schedule a call"
-        url: "/company/book-online"
+        text: Schedule a call
+        url: /company/book-online
+ItemId: ew25L-Aydmr
+ResourceId: ew25L-Aydmr
+ItemType: outcomes
+ResourceType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
+
 ---
+

@@ -22,8 +22,14 @@ sitemap:
 concepts:
   - Tool
 categories: []
----
+ItemId: w5_pQGc6ZgG
+ResourceId: w5_pQGc6ZgG
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
+---
 Tags on this site aren’t for decoration—they’re how we expose structure in complexity. Each tag represents a recurring theme that cuts across disciplines, roles, and systems of work. Think of them as observability for ideas.
 
 They’re not just labels for content. They’re a way to understand the relationships between engineering practices, product delivery patterns, and organisational strategies.

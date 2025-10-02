@@ -7,4 +7,12 @@ type: customers
 slug: genus-breeding-ltd
 preview: genus-logo.jpeg
 customer-industries: Medical
+ItemType: customers
+ItemKind: marketing
+ItemId: IXRc6E4A3nB
+ResourceId: IXRc6E4A3nB
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

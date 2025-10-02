@@ -35,25 +35,31 @@ sitemap:
   priority: 0.7
 icon: fa-seedling
 concepts:
-- Capability
+  - Capability
 categories:
-- Product Management
-- Product Development
+  - Product Management
+  - Product Development
 tags:
-- Evidence Based Management
-- Metrics and Learning
-- Evidence Based Leadership
-- Continuous Improvement
-- Value Delivery
-- Strategic Goals
-- Product Strategy
-- Business Agility
-- Decision Making
-- Agile Strategy
-- Operational Practices
-- Social Technologies
-- Professional Scrum
-- Organisational Agility
+  - Evidence Based Management
+  - Metrics and Learning
+  - Evidence Based Leadership
+  - Continuous Improvement
+  - Value Delivery
+  - Strategic Goals
+  - Product Strategy
+  - Business Agility
+  - Decision Making
+  - Agile Strategy
+  - Operational Practices
+  - Social Technologies
+  - Professional Scrum
+  - Organisational Agility
+ItemId: 4kYNkl7BMxU
+ResourceId: 4kYNkl7BMxU
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Unrealised Value refers to the potential value that an organisation has yet to capture, highlighting opportunities for improvement and innovation. It encompasses a range of indicators that assess untapped possibilities, such as latent market demand or areas ripe for enhancement. By focusing on Unrealised Value, teams can identify where they can optimise processes, innovate products, or better meet customer needs, ultimately leading to increased competitiveness and sustainability.

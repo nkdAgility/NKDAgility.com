@@ -35,23 +35,29 @@ sitemap:
   priority: 0.7
 icon: fa-tachometer-alt
 concepts:
-- Observability
+  - Observability
 categories:
-- Product Development
-- Kanban
-- Lean
+  - Product Development
+  - Kanban
+  - Lean
 tags:
-- Team Performance
-- Flow Efficiency
-- Metrics and Learning
-- Software Development
-- Continuous Improvement
-- Empirical Process Control
-- Evidence Based Leadership
-- Operational Practices
-- Product Delivery
-- Forecasting
-- Project Management
+  - Team Performance
+  - Flow Efficiency
+  - Metrics and Learning
+  - Software Development
+  - Continuous Improvement
+  - Empirical Process Control
+  - Evidence Based Leadership
+  - Operational Practices
+  - Product Delivery
+  - Forecasting
+  - Project Management
+ItemId: -OIIzYxzBnS
+ResourceId: -OIIzYxzBnS
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Throughput is a key observability metric used to quantify the amount of work a system completes over a specific time period. It reflects the flow of value and helps teams inspect how effectively their system delivers completed work items. Unlike productivity measures, throughput captures system performance as a whole, not individual contribution.

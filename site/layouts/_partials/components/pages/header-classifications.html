@@ -1,6 +1,5 @@
 {{ $section := .Site.GetPage "section" .Section }}
-{{ $jsonFile := .Page.Resources.GetMatch "data.index.classifications.json" }}
-{{ $jsonData := $jsonFile | unmarshal }}
+{{- $classificationData := partial "functions/get-classifications.html" .Page }}
 <div class="d-flex">
   <div class="resourcetypes">
     <a href="{{ printf "/%s" (.Section | urlize) | relURL }}" class="btn btn-sm btn-nkdagility-accent me-1 text-nowrap" title="{{ $section.Title }}">{{- title .Section }} </a>
@@ -8,14 +7,14 @@
   <div class="categories">
     {{ with .Params.concepts }}
       {{ range . }}
-        {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-nkdagility-accent-alt m-1") }}
+        {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $classificationData "buttonClass" "btn btn-sm btn-nkdagility-accent-alt m-1") }}
       {{ end }}
     {{ end }}
   </div>
   <div class="categories">
     {{ with .Params.categories }}
       {{ range . }}
-        {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-nkdagility-secondary m-1") }}
+        {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $classificationData "buttonClass" "btn btn-sm btn-nkdagility-secondary m-1") }}
       {{ end }}
     {{ end }}
   </div>

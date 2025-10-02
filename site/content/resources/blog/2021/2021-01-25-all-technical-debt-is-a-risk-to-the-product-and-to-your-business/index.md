@@ -1,5 +1,5 @@
 ---
-title: All technical debt is a risk to the product and to your business.
+title: All technical debt is a risk to the product and to your business
 short_title: Technical Debt Is a Risk to Products and Business
 description: Technical debt increases risk to products and businesses, leading to hidden costs, reduced quality, and slower delivery. Ignoring it can harm long-term value and growth.
 tldr: Technical debt is a significant risk to your product and business, as it undermines quality, slows delivery, and can accumulate unnoticed until it becomes a major problem. The Microsoft Team Foundation Server example shows that ignoring technical debt leads to reduced productivity and competitiveness, while addressing it through transparency and shorter feedback cycles enables faster, higher-quality delivery. Development managers should prioritize eliminating technical debt and fostering a culture of quality to protect business value and avoid long-term risks.
@@ -22,7 +22,6 @@ aliases:
   - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
   - /resources/ZSqNF7v9vSR
   - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
-  - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business.
 aliasesArchive:
   - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
   - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business
@@ -50,8 +49,8 @@ AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
-
 ---
+
 If you were buying a car, or a TV, you as the purchaser would do your best to understand the product that you are buying, the quality tradeoffs, and the capabilities.
 
 <figure>

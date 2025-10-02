@@ -2,6 +2,8 @@
 title: DevOps
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+ItemType: marketing
+ItemKind: classification
 description: How to achieve product leadership and engineering excellence through devops.
 Instructions: |-
   **Use this category only for discussions on DevOps.**  
@@ -24,6 +26,4 @@ headline:
   subtitle: Achieve engineering excellence and product leadership through effective collaboration, continuous improvement, and adaptive practices.
   content: Achieve seamless integration of development and operations to enhance product delivery and quality. Explore practices that foster collaboration, continuous feedback, and iterative improvement. Topics include workflow optimisation, team dynamics, automation, and metrics for performance evaluation, all aimed at driving organisational success and responsiveness to change.
   updated: 2025-02-14T09:59:30Z
-
 ---
-

@@ -36,26 +36,32 @@ sitemap:
   priority: 0.7
 icon: fa-person-running
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Technical Leadership
-- Leadership
-- Product Development
+  - Technical Leadership
+  - Leadership
+  - Product Development
 tags:
-- Organisational Agility
-- Agile Philosophy
-- Sociotechnical Systems
-- Social Technologies
-- Agile Transformation
-- Organisational Culture
-- Organisational Change
-- Continuous Improvement
-- Agile Strategy
-- Agile Values and Principles
-- Project Management
-- Business Agility
-- Pragmatic Thinking
-- Change Management
+  - Organisational Agility
+  - Agile Philosophy
+  - Sociotechnical Systems
+  - Social Technologies
+  - Agile Transformation
+  - Organisational Culture
+  - Organisational Change
+  - Continuous Improvement
+  - Agile Strategy
+  - Agile Values and Principles
+  - Project Management
+  - Business Agility
+  - Pragmatic Thinking
+  - Change Management
+ItemId: mIjqFdw2gta
+ResourceId: mIjqFdw2gta
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 **Agency** is **the capacity, condition, or state of acting or exerting power**. In Agile, Scrum, DevOps, and organisational change, it means **the ability to act with autonomy, intentionality, and accountability toward meaningful goals within socio-technical environments**.

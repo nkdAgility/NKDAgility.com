@@ -7,4 +7,12 @@ type: customers
 slug: healthgrades
 preview: image-healthgrades-logo.png
 customer-industries: Medical
+ItemType: customers
+ItemKind: marketing
+ItemId: 92MJukde_AC
+ResourceId: 92MJukde_AC
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

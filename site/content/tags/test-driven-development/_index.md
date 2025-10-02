@@ -34,18 +34,24 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:01:20
 icon: fa-clipboard-check
 concepts:
-- Practice
+  - Practice
 categories:
-- Engineering Excellence
+  - Engineering Excellence
 tags:
-- Software Development
-- Engineering Practices
-- Technical Excellence
-- Technical Mastery
-- Automated Testing
-- Operational Practices
-- Test First Development
-- Team Performance
+  - Software Development
+  - Engineering Practices
+  - Technical Excellence
+  - Technical Mastery
+  - Automated Testing
+  - Operational Practices
+  - Test First Development
+  - Team Performance
+ItemId: _fJ65HAhnqC
+ResourceId: _fJ65HAhnqC
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Test Driven Development (TDD) is a software development approach that emphasises writing automated tests before the actual code is developed. This practice ensures that the software design is driven by the requirements defined in the tests, leading to a clearer understanding of the desired functionality. TDD matters because it fosters a culture of quality and accountability, enabling teams to deliver value predictably and sustainably. By integrating testing into the development process from the outset, TDD reduces the likelihood of defects and facilitates easier refactoring, as the tests serve as a safety net.

@@ -1,6 +1,8 @@
 ---
 title: Prices by Country
 layout: price-by-country
+ItemType: page
+ItemKind: marketing
 aliases:
   - /training-courses/prices-by-country/
 ---

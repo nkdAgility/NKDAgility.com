@@ -36,14 +36,20 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:10:30
 icon: fa-code
 concepts:
-- Capability
+  - Capability
 categories:
-- Product Development
-- Engineering Excellence
+  - Product Development
+  - Engineering Excellence
 tags:
-- Pragmatic Thinking
-- Value Delivery
-- Organisational Agility
+  - Pragmatic Thinking
+  - Value Delivery
+  - Organisational Agility
+ItemId: W8W67IGO0UU
+ResourceId: W8W67IGO0UU
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Software Development encompasses the techniques and methodologies employed to engineer high-quality software solutions that meet user needs and business objectives. It is a systematic approach that integrates various practices, including Agile, Lean, and DevOps, to enhance collaboration, efficiency, and adaptability within teams. This concept is crucial as it enables organisations to deliver value predictably and sustainably, fostering a culture of continuous improvement and responsiveness to change.

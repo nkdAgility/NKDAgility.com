@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: p62cJsAjQNw
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -86,8 +85,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-ResourceId: p62cJsAjQNw
+ResourceId: AKP1
 ResourceType: course
+ItemId: AKP1
 
 ---
 # Agile Kata Professional
@@ -95,15 +95,18 @@ ResourceType: course
 **Course Code:** AKP1
 
 ## Overview
+
 A one-day, instructor-led course empowering teams to enhance processes and drive cultural change using the Agile Kata pattern, combining scientific thinking with agile values for lasting organizational impact.
 
 ## Target Audience
+
 - Entire Agile teams (Scrum, Kanban, etc.) seeking improved or alternative ways of working
 - Agile coaches, Scrum Masters, Project Managers, and change agents introducing Agile Kata
 - Agile leaders aiming to improve business agility and agile culture
 - Business leaders interested in increasing business agility
 
 ## Learning Outcomes
+
 - Understand and practice the Agile Kata pattern
 - Apply techniques that inject agility into the Agile Kata
 - Recognize the Agile Kata as a tool for agile transformations
@@ -114,6 +117,7 @@ A one-day, instructor-led course empowering teams to enhance processes and drive
 - Define a first step to increase business agility in your organization using the Agile Kata
 
 ## Course Topics
+
 - Agile Kata pattern fundamentals
 - Techniques for enhancing agility
 - Agile transformation scenarios
@@ -122,22 +126,27 @@ A one-day, instructor-led course empowering teams to enhance processes and drive
 - Case study application
 
 ## Delivery Format
+
 - Instructor-led
 - Activity-based learning (pairs or small teams)
 - Available in-person (1 day) or live online (modularized)
 
 ## Proficiency Level
+
 Intermediate
 
 ## Course Length
+
 1 day
 
 ## Trainer/Designer
+
 Martin Hinshelwood
 
 ## Vendor
+
 Agile Kata
 
 ---
 
-*Certification is not mentioned.*
+_Certification is not mentioned._

@@ -38,6 +38,12 @@ headline:
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+ItemId: IlpZKwZwwVe
+ResourceId: IlpZKwZwwVe
+ItemType: concepts
+ResourceType: concepts
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Ethos is not what you say you value—it’s what your system proves you believe.

@@ -2,6 +2,8 @@
 title: Book Online
 description: Naked Agility Limited is a boutique consultancy that offers training, coaching, mentoring, and facilitation to help people and teams evolve, integrate, and continuously improve.
 layout: booking
+ItemType: company
+ItemKind: marketing
 aliases:
   - /book-online/
   - /book/

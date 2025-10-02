@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: QjDoUAyMmas
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -80,8 +79,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-ResourceId: QjDoUAyMmas
+ResourceId: MPVS
 ResourceType: course
+ItemId: MPVS
 
 ---
 # Managing Projects Using Visual Studio and Scrum Training
@@ -89,9 +89,11 @@ ResourceType: course
 **Course Code:** MPVS
 
 ## Overview
+
 This three-day course provides hands-on experience in delivering software using the Scrum framework and Visual Studio tools, combining lectures, demonstrations, and team-based exercises.
 
 ## Target Audience
+
 - Product Owners
 - Scrum Masters
 - Developers
@@ -102,6 +104,7 @@ This three-day course provides hands-on experience in delivering software using 
 - Managers
 
 ## Learning Outcomes
+
 1. Understand the Scrum Framework
 2. Apply Scrum in real-world scenarios
 3. Adopt Scrum practices within teams
@@ -114,6 +117,7 @@ This three-day course provides hands-on experience in delivering software using 
 10. Utilize Reporting tools in Visual Studio
 
 ## Course Topics
+
 - Scrum Framework and Practices
 - Visual Studio for Agile Teams
 - Product Backlog Management
@@ -123,24 +127,30 @@ This three-day course provides hands-on experience in delivering software using 
 - Reporting in Visual Studio
 
 ## Delivery Format
+
 - Traditional (lecture, demonstrations, hands-on activities, team-based exercises)
 
 ## Proficiency Level
+
 - Intermediate
 
 ## Course Length
+
 - 3 days
 
 ## Trainer/Designer
+
 - Martin Hinshelwood
 
 ## Vendor
+
 - Accentient
 
 ## Prerequisites
+
 - Familiarity with the [Scrum Guide](https://scrumguides.com)
 - Experience working on a team in Azure DevOps
 
 ---
 
-*Certification: Not specified*
+_Certification: Not specified_

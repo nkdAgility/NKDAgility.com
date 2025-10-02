@@ -32,14 +32,19 @@ headline:
   content: A strategy for managing organisational change by visualising workflow, limiting work in progress, and optimising flow to enhance value delivery. Rooted in systems thinking, it promotes evolutionary improvement through explicit policies, measurement-driven decisions, and continuous adaptation, enabling predictable, sustainable outcomes in complex, rapidly evolving environments.
   updated: 2025-05-23T23:18:49Z
 aliases:
-- /methods/kanban-strategy/
-- /learn/agile-delivery-kit/strategies/kanban-strategy/
-- /resources/_O7H5eH902L
+  - /methods/kanban-strategy/
+  - /learn/agile-delivery-kit/strategies/kanban-strategy/
+  - /resources/_O7H5eH902L
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Practice
+  - Practice
+ItemId: _O7H5eH902L
+ItemType: categories
+ResourceType: categories
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Kanban is a strategy for change, not a tool or board. As defined in the Kanban Guide, it enables organisations to “start with what they do now,” understand their current system, and improve flow and value delivery through evolutionary change. It is rooted in Lean principles and systems thinking, focusing on how work flows rather than what work gets done.

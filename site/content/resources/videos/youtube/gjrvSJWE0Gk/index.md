@@ -1,5 +1,5 @@
 ---
-title: Overview of 'applying metrics for predictability' Kanban course.
+title: Overview of 'applying metrics for predictability' Kanban course
 short_title: Applying Metrics for Predictability in Kanban
 description: Learn how to use Kanban metrics like cycle time and throughput to improve team predictability, make accurate forecasts, and deliver consistent project outcomes.
 tldr: The "Applying Metrics for Predictability" Kanban course teaches teams how to use key Kanban metrics and probabilistic forecasting to improve delivery predictability, enabling more accurate planning and increased stakeholder trust. Participants learn to interpret data, identify bottlenecks, and make informed decisions that drive efficiency and consistent value delivery. Development managers whose teams struggle with predictability should consider this course to enhance forecasting and workflow reliability.
@@ -17,8 +17,6 @@ ItemContentOrigin: AI
 slug: overview-of-'applying-metrics-for-predictability'-kanban-course
 aliases:
   - /resources/gjrvSJWE0Gk
-  - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
-  - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course.
 aliasesArchive:
   - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course-
   - /resources/overview-of-applying-metrics-for-predictability-kanban-course
@@ -53,17 +51,15 @@ duration: 124
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ### Enhancing Team Predictability with [Kanban]({{< ref "/categories/kanban" >}}): The "Applying Metrics for Predictability" Course
 
 **Introduction**
 
 Predictability is a crucial aspect of successful [project management]({{< ref "/tags/project-management" >}}). It allows teams to set realistic expectations, make informed decisions, and deliver consistent value. However, many teams struggle to accurately forecast when work will be completed and how much work can be delivered within a given timeframe. This is where the "Applying Metrics for Predictability" course from Pro Kanban comes in. This course delves deep into using Kanban metrics to improve the predictability of your team's delivery capabilities.
 
-
-
-* * *
+---
 
 **Why Focus on Predictability?**
 
@@ -75,7 +71,7 @@ Predictability in project management translates to trust and reliability. When t
 
 - **Consistent [Value Delivery]({{< ref "/tags/value-delivery" >}})**: Ensures a steady flow of value to the business, avoiding surprises and delays.
 
-* * *
+---
 
 **Course Overview: Applying Metrics for Predictability**
 
@@ -89,7 +85,7 @@ The "Applying Metrics for Predictability" course is designed to equip teams with
 
 - **Improving Flow**: Discover strategies to increase the flow of value to production, ensuring consistent delivery.
 
-* * *
+---
 
 **Key Components of the Course**
 
@@ -117,7 +113,7 @@ The "Applying Metrics for Predictability" course is designed to equip teams with
 
 - Ensure that value delivery to the business is consistent and reliable.
 
-* * *
+---
 
 **Benefits of Applying Metrics for Predictability**
 
@@ -131,7 +127,7 @@ By applying the techniques taught in this course, your team can expect the follo
 
 - **Better Resource Allocation**: Plan and allocate resources more effectively based on reliable forecasts.
 
-* * *
+---
 
 **Conclusion**
 
@@ -139,7 +135,7 @@ The "Applying Metrics for Predictability" course offers invaluable insights and 
 
 **Thanks for reading!** If you found this post helpful, please like, follow, and subscribe. I always reply to comments, and if you want to chat about Kanban, [Scrum]({{< ref "/categories/scrum" >}}), or any other Agile practices, feel free to book a coffee with me through Naked Agility.
 
-* * *
+---
 
 **Recommended Resources:**
 

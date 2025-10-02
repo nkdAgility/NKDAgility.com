@@ -36,19 +36,25 @@ sitemap:
   priority: 0.7
 icon: fa-sparkles
 concepts:
-- Capability
+  - Capability
 categories:
-- Product Development
+  - Product Development
 tags:
-- Organisational Culture
-- Evidence Based Management
-- Metrics and Learning
-- Continuous Learning
-- Business Agility
-- Organisational Agility
-- Continuous Improvement
-- Value Delivery
-- Team Motivation
+  - Organisational Culture
+  - Evidence Based Management
+  - Metrics and Learning
+  - Continuous Learning
+  - Business Agility
+  - Organisational Agility
+  - Continuous Improvement
+  - Value Delivery
+  - Team Motivation
+ItemId: M4DBUfCPJoS
+ResourceId: M4DBUfCPJoS
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Ability to Innovate refers to an organisation's capacity to generate, implement, and sustain innovative solutions effectively. This concept is crucial as it directly influences how teams can deliver value predictably and sustainably. By fostering a culture that prioritises innovation, organisations can adapt to changing market demands and customer needs, ensuring they remain competitive.

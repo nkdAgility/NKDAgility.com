@@ -11,7 +11,7 @@ sitemap:
   changefreq: weekly
 ItemId: Rxy55R-qKnj
 ItemType: capabilities
-ItemKind: capability
+ItemKind: marketing
 ItemContentOrigin: human
 slug: nkd-insights
 aliases:

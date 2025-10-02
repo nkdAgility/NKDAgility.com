@@ -1,6 +1,6 @@
 ---
-title: "Upskilled Engineering Teams"
-description: "Transform your engineering capabilities through targeted skill development that enables teams to deliver higher quality software faster."
+title: Upskilled Engineering Teams
+description: Transform your engineering capabilities through targeted skill development that enables teams to deliver higher quality software faster.
 date: 2025-06-04
 aliases:
   - /outcomes/increase-team-effectiveness/
@@ -31,10 +31,10 @@ sections:
     type: content
   - type: outcomehero
     cta:
-      content: "Build the Teams You Always Wished You Had"
+      content: Build the Teams You Always Wished You Had
       button:
         text: Ready to Build Confident, Capable Teams?
-        url: "/company/book-online"
+        url: /company/book-online
     boxes:
       - content: |
           Still relying on your top 10% to carry the 90%?
@@ -97,28 +97,27 @@ sections:
   - type: outcomeboxes
     title: We help you with
     boxes:
-      - box:
+      - box: 
         items:
           - title: Build high-performing, modern engineering teams
           - title: Close skill gaps in DevOps, QA, and architecture
           - title: Improve code quality and delivery reliability
           - title: Shift from reactive to proactive development
           - title: Foster continuous learning in real-world environments
-      - box:
+      - box: 
         items:
           - title: Inspire pride and confidence in your team
           - title: Feel secure in your team's ability to deliver
           - title: Reduce the stress of micromanaging technical decisions
           - title: Feel confident stepping back and delegating
           - title: Feel energized by team progress and capability
-      - box:
+      - box: 
         items:
           - title: Represent your org as an employer of choice for top talent
           - title: Mentor engineering leaders who can scale your org
           - title: Build a reputation for engineering excellence
           - title: Lead a team that gets noticed inside - and outside - the company
           - title: Attract and retain top developers who want to grow
-
   - title: Results from the Ground Up
     type: casestudy
     list:
@@ -132,10 +131,10 @@ sections:
         content: |
           Teams reported higher morale and deeper engagement, with several individuals describing it as the most meaningful growth period of their careers.
     cta:
-      content: "Curious what this looks like in practice? Explore Our Engineering Upskilling Stories."
+      content: Curious what this looks like in practice? Explore Our Engineering Upskilling Stories.
       button:
-        text: "Case Studies"
-        url: "/resources/case-studies"
+        text: Case Studies
+        url: /resources/case-studies
   - title: Why NKDAgility?
     type: textNlist
     list:
@@ -157,8 +156,16 @@ sections:
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: "Grow the Teams that Build the Future"
+      content: Grow the Teams that Build the Future
       button:
-        text: "Schedule a call"
-        url: "/company/book-online"
+        text: Schedule a call
+        url: /company/book-online
+ItemId: SepceedTcGN
+ResourceId: SepceedTcGN
+ItemType: outcomes
+ResourceType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
+
 ---
+

@@ -9,7 +9,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: 81zAbGYQP0o
+ItemId: A-MPAB
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -59,7 +59,6 @@ delivery_audiences:
 preview: naked-agility-Accentient-MPAB-1600x900-1.jpg
 previewIcon: A-MPAB.png
 brandColour: 
-code: A-MPAB
 course_proficiencies:
   - intermediate
 introduction: |2-
@@ -116,8 +115,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-ResourceId: 81zAbGYQP0o
+ResourceId: A-MPAB
 ResourceType: course
+Code: A-MPAB
 
 ---
 # Managing Projects Using Azure Boards Training
@@ -125,19 +125,23 @@ ResourceType: course
 **Course Code:** A-MPAB
 
 ## Overview
+
 Master Azure Boards in this one-day course, empowering your agile team to plan, track, and deliver software effectively through hands-on collaboration. This course demonstrates how an agile team can configure and use Azure Boards in a practical, team-based environment.
 
 ## Target Audience
+
 - Product managers
 - Software development team members (especially those involved in backlog creation, refinement, and sprint planning/execution)
 - Managers, Scrum Masters, coaches, and other stakeholders seeking hands-on exposure to Azure Boards
 
 ## Learning Outcomes
+
 1. Understand and utilize Azure Boards for agile project management.
 2. Effectively manage and refine the Product Backlog.
 3. Plan and manage sprints using Azure Boards.
 
 ## Course Topics
+
 - Introduction to Azure Boards
   - Azure DevOps Services overview
   - Creating, configuring, and securing a team project
@@ -156,21 +160,27 @@ Master Azure Boards in this one-day course, empowering your agile team to plan, 
   - Daily activities, definition of “Done,” sprint completion, and handling unfinished items
 
 ## Delivery Format
+
 - Traditional (instructor-led, hands-on, team-based exercises)
 
 ## Proficiency Level
+
 - Intermediate
 
 ## Course Length
+
 - 1 day
 
 ## Trainer/Designer
+
 - Richard Hundhausen (Microsoft’s first Visual Studio ALM/DevOps MVP, Professional Scrum Trainer)
 
 ## Vendor
+
 - Accentient
 
 ## Prerequisites
+
 - Attendees should read and be familiar with the [Scrum Guide](http://www.scrumguides.org/) prior to class.
 
 ---

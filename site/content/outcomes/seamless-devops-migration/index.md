@@ -1,6 +1,6 @@
 ---
-title: "Seamless DevOps Migration"
-description: "Modernise legacy systems with secure, scalable DevOps migration that accelerates delivery and preserves business continuity."
+title: Seamless DevOps Migration
+description: Modernise legacy systems with secure, scalable DevOps migration that accelerates delivery and preserves business continuity.
 date: 2025-06-03
 creator: Martin Hinshelwood
 sitemap:
@@ -32,8 +32,8 @@ sections:
     cta:
       content: "**Your migration shouldn't feel like a gamble.** Let us de-risk, accelerate, and empower your transformation."
       button:
-        text: "Ready to Modernize?"
-        url: "/company/book-online"
+        text: Ready to Modernize?
+        url: /company/book-online
     boxes:
       - content: |
           Struggling to unlock strategic outcomes?
@@ -96,21 +96,21 @@ sections:
   - type: outcomeboxes
     title: What we bring to your DevOps migration
     boxes:
-      - box:
+      - box: 
         items:
           - title: Migrate legacy systems to modern DevOps
           - title: Eliminate downtime during transformation
           - title: Implement secure, scalable infrastructure
           - title: Standardize CI/CD, IaC, monitoring, and QA
           - title: Enable faster, more predictable delivery
-      - box:
+      - box: 
         items:
           - title: Build trust in the migration strategy
           - title: Reduce anxiety and gain clarity in complex transitions
           - title: Feel in control of an overwhelming landscape
           - title: Reclaim confidence and reduce burnout
           - title: Manage risk while innovating
-      - box:
+      - box: 
         items:
           - title: Advocate confidently to execs and stakeholders
           - title: Mentor teams through change
@@ -130,10 +130,10 @@ sections:
         content: |
           Notably improved alignment among product, engineering, and business teams shortly after project initiation.
     cta:
-      content: "Want proof?"
+      content: Want proof?
       button:
-        text: "Explore Case Studies"
-        url: "/resources/case-studies"
+        text: Explore Case Studies
+        url: /resources/case-studies
   - title: Why NKDAgility?
     type: textNlist
     list:
@@ -150,12 +150,19 @@ sections:
       **We’ve seen migrations go wrong — and know how to get them right.**
 
       Unlike traditional consultancies, we embed deep engineering expertise (backed by Martin Hinshelwood’s Microsoft MVP status) with Agile product development, delivering strategic outcomes that stick.
-
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: "Engineering Excellence. DevOps Mastery. Agile Evolution."
+      content: Engineering Excellence. DevOps Mastery. Agile Evolution.
       button:
-        text: "Schedule a call"
-        url: "/company/book-online"
+        text: Schedule a call
+        url: /company/book-online
+ItemId: 3ZsP7HmazPs
+ResourceId: 3ZsP7HmazPs
+ItemType: outcomes
+ResourceType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
+
 ---
+

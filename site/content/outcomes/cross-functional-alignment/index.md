@@ -1,6 +1,6 @@
 ---
-title: "Cross functional alignment"
-description: "Break down organizational silos and create seamless collaboration between departments to deliver cohesive, customer-focused solutions."
+title: Cross functional alignment
+description: Break down organizational silos and create seamless collaboration between departments to deliver cohesive, customer-focused solutions.
 date: 2025-06-04
 creator: Martin Hinshelwood
 sitemap:
@@ -27,10 +27,10 @@ sections:
     type: content
   - type: outcomehero
     cta:
-      content: "Time to Unite Your Org? **Let’s change the way your organization delivers—together.**"
+      content: Time to Unite Your Org? **Let’s change the way your organization delivers—together.**
       button:
-        text: "Get Started"
-        url: "/company/book-online"
+        text: Get Started
+        url: /company/book-online
     boxes:
       - content: |
           Still battling internal turf wars?
@@ -61,7 +61,6 @@ sections:
         icon: fa-question
         content: |
           Everyone’s busy—but no one agrees on what “done” looks like.
-
   - type: quote
     backgroundColor: primary
     quote: |
@@ -94,28 +93,27 @@ sections:
   - type: outcomeboxes
     title: We can help you with
     boxes:
-      - box:
+      - box: 
         items:
           - title: Break down silos between departments
           - title: Align strategy with execution
           - title: Improve communication between business, tech, and product
           - title: Eliminate duplication of work and resource clashes
           - title: Create a shared understanding of goals, metrics, and priorities
-      - box:
+      - box: 
         items:
           - title: Reduce frustration caused by misalignment
           - title: Feel confident in what your teams are building
           - title: Move from firefighting to forward planning
           - title: Regain clarity and focus across teams
           - title: Feel pride in leading a truly aligned org
-      - box:
+      - box: 
         items:
           - title: Be the catalyst that unifies your org around delivery
           - title: Build a culture of shared ownership and trust
           - title: Lead seamless planning conversations across functions
           - title: Build stakeholder trust through organizational coherence
           - title: Represent your function as a model for high-performing teamwork
-
   - title: Results That Matter
     type: casestudy
     list:
@@ -129,10 +127,10 @@ sections:
         content: |
           Quarterly OKRs aligned across departments for the first time ever
     cta:
-      content: "Want to see it in action?"
+      content: Want to see it in action?
       button:
-        text: "Case Studies"
-        url: "/resources/case-studies"
+        text: Case Studies
+        url: /resources/case-studies
   - title: Why NKDAgility?
     type: textNlist
     list:
@@ -151,8 +149,16 @@ sections:
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: "One Vision. One Team. One Flow."
+      content: One Vision. One Team. One Flow.
       button:
-        text: "Schedule a call"
-        url: "/company/book-online"
+        text: Schedule a call
+        url: /company/book-online
+ItemId: btO46GSjdqv
+ResourceId: btO46GSjdqv
+ItemType: outcomes
+ResourceType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
+
 ---
+

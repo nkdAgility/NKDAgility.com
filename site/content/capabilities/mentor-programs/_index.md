@@ -11,7 +11,7 @@ sitemap:
   changefreq: weekly
 ItemId: KdeR9TbfRD_
 ItemType: capabilities
-ItemKind: capability
+ItemKind: marketing
 ItemContentOrigin: human
 aliases:
   - /resources/KdeR9TbfRD_

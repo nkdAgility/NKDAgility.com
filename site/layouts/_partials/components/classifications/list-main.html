@@ -18,9 +18,9 @@
 
 {{- $pagesWithData := slice }}
 {{- range $page := $pages }}
-  {{- with .Resources.GetMatch "data.index.classifications.json" }}
-    {{- $data := . | transform.Unmarshal }}
-    {{- $dataItem := index $data $taxonomyName }}
+  {{- $classificationData := partial "functions/get-classifications.html" .Page }}
+  {{- with $classificationData }}
+    {{- $dataItem := index . $taxonomyName }}
     {{- if $dataItem }}
       <!-- Ensure the taxonomy exists in the data -->
       {{- $pagesWithData = $pagesWithData | append (dict "page" $page "score" ($dataItem.final_score | default 0)) }}

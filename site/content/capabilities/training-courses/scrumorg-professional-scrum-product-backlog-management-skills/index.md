@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: N4fzkLtirTS
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -102,8 +101,9 @@ audience:
 trainers: 
 roadmap: 
 events: 
-ResourceId: N4fzkLtirTS
+ResourceId: PSPBMS
 ResourceType: course
+ItemId: PSPBMS
 
 ---
 # Professional Scrum Product Backlog Management Skills (PSPBMS) Course with Certification

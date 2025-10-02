@@ -1,5 +1,5 @@
 ---
-title: I always like a good Serenity plug...
+title: I always like a good Serenity plug
 description: Find out which Serenity character you resemble most with quiz results, including detailed character match percentages and a brief personality summary.
 date: 2008-01-07
 lastmod: 2008-01-07
@@ -14,7 +14,6 @@ ItemKind: resource
 ItemContentOrigin: Human
 slug: i-always-like-a-good-serenity-plug
 aliases:
-  - /resources/blog/i-always-like-a-good-serenity-plug...
   - /resources/5Grofbh67Vs
 aliasesArchive:
   - /blog/i-always-like-a-good-serenity-plug
@@ -22,7 +21,6 @@ aliasesArchive:
   - /blog/i-always-like-a-good-serenity-plug---
   - /i-always-like-a-good-serenity-plug
   - /resources/blog/i-always-like-a-good-serenity-plug
-  - /resources/blog/i-always-like-a-good-serenity-plug...
 layout: blog
 concepts: []
 categories:
@@ -36,8 +34,8 @@ ResourceImportId: 270
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nakedalm-logo-128-link-1-1.png
-
 ---
+
 Your results:  
 **You are Dr. Simon Tam (Ship Medic)**
 

@@ -11,7 +11,7 @@ sitemap:
   changefreq: weekly
 ItemId: U0akd22Voq8
 ItemType: capabilities
-ItemKind: capability
+ItemKind: marketing
 ItemContentOrigin: human
 slug: technical-leadership-in-one-hour-a-week
 aliases:

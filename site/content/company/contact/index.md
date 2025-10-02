@@ -3,6 +3,8 @@ title: Contact Us
 description: Naked Agility Limited is a boutique consultancy that offers training, coaching, mentoring, and facilitation to help people and teams evolve, integrate, and continuously improve.
 type: page
 layout: booking
+ItemType: company
+ItemKind: marketing
 aliases:
   - /contact/
   - /company/general-inquiries/

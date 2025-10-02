@@ -6,4 +6,12 @@ id: "45247"
 type: customers
 slug: yearup-org
 preview: yearup.png
+ItemType: customers
+ItemKind: marketing
+ItemId: T0DxhsMXdeK
+ResourceId: T0DxhsMXdeK
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

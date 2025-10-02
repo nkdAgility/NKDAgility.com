@@ -36,14 +36,20 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:07:21
 icon: fa-face-grin-stars
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Customer Retention
-- Customer Focus
-- Current Value
-- Value Delivery
+  - Customer Retention
+  - Customer Focus
+  - Current Value
+  - Value Delivery
+ItemId: qvqFQc5Vaze
+ResourceId: qvqFQc5Vaze
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Customer satisfaction is the measure of how well a product or service meets or exceeds the expectations of its users. It is a critical indicator of product-market fit and serves as a vital feedback loop for teams striving to deliver value. By prioritising customer satisfaction, organisations can ensure that their offerings resonate with users, leading to increased loyalty and retention.

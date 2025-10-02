@@ -10,7 +10,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: JB8YQfj4tUY
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -92,8 +91,9 @@ delivery_audiences:
 code: OMP
 course_proficiencies:
   - beginner
-ResourceId: JB8YQfj4tUY
+ResourceId: OMP
 ResourceType: course
+ItemId: OMP
 
 ---
 # OKR Practitioner
@@ -106,23 +106,23 @@ A practical course designed to help individuals and teams confidently apply the 
 
 ## Target Audience
 
-- Employees seeking clarity and focus  
-- Emerging OKR Champions supporting adoption  
-- Leaders at strategic, tactical, or operational levels  
+- Employees seeking clarity and focus
+- Emerging OKR Champions supporting adoption
+- Leaders at strategic, tactical, or operational levels
 
 ## Learning Outcomes
 
-- Understand the core principles behind OKRs  
-- Craft strong Objectives and measurable Key Results  
-- Integrate OKRs into day-to-day work  
-- Identify and avoid common OKR pitfalls  
+- Understand the core principles behind OKRs
+- Craft strong Objectives and measurable Key Results
+- Integrate OKRs into day-to-day work
+- Identify and avoid common OKR pitfalls
 
 ## Course Topics
 
-- OKR principles and foundations  
-- Writing effective Objectives and Key Results  
-- Integrating OKRs into team routines  
-- Common challenges and solutions  
+- OKR principles and foundations
+- Writing effective Objectives and Key Results
+- Integrating OKRs into team routines
+- Common challenges and solutions
 
 ## Delivery Format
 
