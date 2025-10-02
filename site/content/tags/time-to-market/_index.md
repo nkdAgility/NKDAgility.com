@@ -35,25 +35,31 @@ sitemap:
   priority: 0.7
 icon: fa-stopwatch
 concepts:
-- Capability
+  - Capability
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Metrics and Learning
-- Evidence Based Management
-- Value Delivery
-- Operational Practices
-- Market Adaptability
-- Pragmatic Thinking
-- Organisational Agility
-- Business Agility
-- Software Development
-- Product Delivery
-- Continuous Improvement
-- Agile Product Management
-- Evidence Based Leadership
-- Lean Product Development
+  - Metrics and Learning
+  - Evidence Based Management
+  - Value Delivery
+  - Operational Practices
+  - Market Adaptability
+  - Pragmatic Thinking
+  - Organisational Agility
+  - Business Agility
+  - Software Development
+  - Product Delivery
+  - Continuous Improvement
+  - Agile Product Management
+  - Evidence Based Leadership
+  - Lean Product Development
+ItemId: Yn6ZPSQSPS3
+ResourceId: Yn6ZPSQSPS3
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Time to Market refers to the collective metrics that assess how swiftly an organisation can convert ideas into market-ready products or features. This concept encompasses various measures, including lead time and cycle time, providing a holistic view of the efficiency of product development processes. It is crucial for organisations aiming to deliver value predictably and sustainably, as a reduced Time to Market enables teams to respond swiftly to customer needs and market changes.

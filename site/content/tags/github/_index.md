@@ -38,17 +38,23 @@ BodyContentGenDate: 2025-04-10T10:16:54Z
 icon: fa-github
 iconType: fa-brands
 concepts:
-- Tool
+  - Tool
 categories:
-- Engineering Excellence
-- DevOps
+  - Engineering Excellence
+  - DevOps
 tags:
-- Software Development
-- Modern Source Control
-- Collaboration Tools
-- Engineering Practices
-- Team Collaboration
-- Product Delivery
+  - Software Development
+  - Modern Source Control
+  - Collaboration Tools
+  - Engineering Practices
+  - Team Collaboration
+  - Product Delivery
+ItemId: 2_we2Gc8rUt
+ResourceId: 2_we2Gc8rUt
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 GitHub is a comprehensive suite of tools that enables version control, collaboration, and integration in software development. It includes tools like GitHub Repositories for code hosting, GitHub Actions for automating CI/CD workflows, and GitHub Projects for managing tasks and tracking progress. GitHub plays a crucial role in enhancing collaboration, reducing friction in development cycles, and supporting teams in delivering value efficiently.

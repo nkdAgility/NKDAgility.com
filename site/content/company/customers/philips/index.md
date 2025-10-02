@@ -6,4 +6,6 @@ id: "45366"
 type: customers
 slug: philips
 preview: Philips.png
+ItemType: customers
+ItemKind: marketing
 ---

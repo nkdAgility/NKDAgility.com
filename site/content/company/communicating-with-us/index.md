@@ -2,6 +2,8 @@
 title: Working With Us – Communication & Security Setup
 short_title: Communication & Security Setup
 description: To collaborate effectively with NKD Agility, please follow these steps to configure Microsoft Entra ID and Microsoft Teams for secure communication and device compliance.
+ItemType: company
+ItemKind: marketing
 menus:
   footer:
     - params:

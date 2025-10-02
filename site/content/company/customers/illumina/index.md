@@ -6,4 +6,6 @@ id: "45364"
 type: customers
 slug: illumina
 preview: Illumina.jpg
+ItemType: customers
+ItemKind: marketing
 ---

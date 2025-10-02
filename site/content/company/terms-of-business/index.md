@@ -2,6 +2,8 @@
 title: Terms of Business
 description: Terms of Business for the services provided by NKDAgility.
 trustpilot: false
+ItemType: company
+ItemKind: marketing
 menus:
   footer:
     - params:

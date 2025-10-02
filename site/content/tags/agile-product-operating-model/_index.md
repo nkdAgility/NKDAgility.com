@@ -32,36 +32,41 @@ headline:
   content: A structured approach that integrates contemporary product management practices with iterative delivery methods, enabling organisations to continuously deliver customer value. It emphasises outcome-driven decision-making, clear governance, adaptive roadmaps, operational transparency, and measurable performance, fostering responsiveness to market dynamics and alignment with strategic business objectives.
   updated: 2025-05-23T23:21:11Z
 aliases:
-- /agile-product-operating-model
-- /methods/agile-product-operating-model/
-- /learn/agile-delivery-kit/strategies/agile-product-operating-model/
-- /APOM
-- /resources/cBWi9iKD1Sa
+  - /agile-product-operating-model
+  - /methods/agile-product-operating-model/
+  - /learn/agile-delivery-kit/strategies/agile-product-operating-model/
+  - /APOM
+  - /resources/cBWi9iKD1Sa
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 icon: fa-diagram-cells
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Product Management
-- Product Development
-- Technical Leadership
+  - Product Management
+  - Product Development
+  - Technical Leadership
 tags:
-- Organisational Agility
-- Agile Product Management
-- Business Agility
-- Product Strategy
-- Product Delivery
-- Value Delivery
-- Operational Practices
-- Social Technologies
-- Agile Strategy
-- Decision Making
-- Organisational Change
-- Market Adaptability
-- Continuous Improvement
-- Pragmatic Thinking
+  - Organisational Agility
+  - Agile Product Management
+  - Business Agility
+  - Product Strategy
+  - Product Delivery
+  - Value Delivery
+  - Operational Practices
+  - Social Technologies
+  - Agile Strategy
+  - Decision Making
+  - Organisational Change
+  - Market Adaptability
+  - Continuous Improvement
+  - Pragmatic Thinking
+ItemId: cBWi9iKD1Sa
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 The Agile Product Operating Model (APOM) is a set of principles that combines contemporary product management strategies with agile ways of working, providing organisations with a solid basis for consistently delivering value. It embodies a product ethos, aligning the entire organisation around well-defined and measurable outcomes.

@@ -11,7 +11,7 @@ sitemap:
   changefreq: weekly
 ItemId: YYFs65WYwwO
 ItemType: capabilities
-ItemKind: capability
+ItemKind: marketing
 ItemContentOrigin: human
 slug: devops-technology-consulting-that-delivers
 aliases:

@@ -35,22 +35,28 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:29:06
 icon: fa-user-crown
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Product Development
-- Scrum
-- Product Management
+  - Product Development
+  - Scrum
+  - Product Management
 tags:
-- Agile Product Management
-- Value Delivery
-- Product Strategy
-- Social Technologies
-- Organisational Agility
-- Professional Scrum
-- Market Adaptability
-- Decision Making
-- Customer Focus
-- Product Delivery
+  - Agile Product Management
+  - Value Delivery
+  - Product Strategy
+  - Social Technologies
+  - Organisational Agility
+  - Professional Scrum
+  - Market Adaptability
+  - Decision Making
+  - Customer Focus
+  - Product Delivery
+ItemId: _dmfJJBvYes
+ResourceId: _dmfJJBvYes
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 The **Product Owner** is an **accountability** within the Scrum framework, responsible for maximising the value of the product resulting from the work of the Scrum Team. This accountability extends beyond managing the product backlog; it involves making strategic decisions that align the product vision with customer needs and business objectives. The Product Owner ensures that the team focuses on delivering value, optimising the product backlog, and continuously adapting to stakeholder feedback and market changes.

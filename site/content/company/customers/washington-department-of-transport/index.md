@@ -7,4 +7,6 @@ type: customers
 slug: washington-department-of-transport
 preview: washington-state-DOT.jpg
 customer-industries: Government
+ItemType: customers
+ItemKind: marketing
 ---

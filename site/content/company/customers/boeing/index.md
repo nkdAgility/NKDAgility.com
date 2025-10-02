@@ -6,4 +6,6 @@ id: "45362"
 type: customers
 slug: boeing
 preview: Boeing.jpg
+ItemType: customers
+ItemKind: marketing
 ---

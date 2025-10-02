@@ -33,10 +33,16 @@ sitemap:
 BodyContentGenDate: 2025-04-10T10:45:00Z
 icon: fa-bezier-curve
 concepts:
-- Ethos
+  - Ethos
 categories: []
 tags:
-- Software Development
+  - Software Development
+ItemId: 3ck2NcPNirJ
+ResourceId: 3ck2NcPNirJ
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 **Hybrid Agile** is a label frequently used by organisations attempting to bolt agile practices onto project structures. The intention may be to gain flexibility without losing perceived control, but the outcome is rarely effective. Instead of blending strengths, Hybrid Agile often produces the **worst of both worlds**: rigid governance with the illusion of agility.

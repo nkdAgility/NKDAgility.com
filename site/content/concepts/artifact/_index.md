@@ -33,6 +33,12 @@ headline:
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+ItemId: WCvtpAOJLRe
+ResourceId: WCvtpAOJLRe
+ItemType: concepts
+ResourceType: concepts
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 An **artifact** is a formal, inspectable output that represents work and progress in a system of delivery. In Agile, Lean, and DevOps contexts, artifacts provide a shared understanding of what is being worked on, what is Done, and what remains. They are not tools or documents, but defined constructs that exist to support transparency, inspection, and adaptation.

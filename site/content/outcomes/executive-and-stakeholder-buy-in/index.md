@@ -1,6 +1,6 @@
 ---
-title: "Executive and Stakeholder Buy In"
-description: "Gain strong organizational support through strategic alignment and demonstrable business value to ensure your transformation succeeds."
+title: Executive and Stakeholder Buy In
+description: Gain strong organizational support through strategic alignment and demonstrable business value to ensure your transformation succeeds.
 date: 2025-06-02
 creator: Martin Hinshelwood
 sitemap:
@@ -33,10 +33,10 @@ sections:
     type: content
   - type: outcomehero
     cta:
-      content: "Ready to Lead With Authority?  **Let’s help you tell the right story—to the right people.**"
+      content: Ready to Lead With Authority?  **Let’s help you tell the right story—to the right people.**
       button:
-        text: "Book an Executive Buy-In Strategy Session"
-        url: "/company/book-online"
+        text: Book an Executive Buy-In Strategy Session
+        url: /company/book-online
     boxes:
       - content: |
           Still hitting a wall in the boardroom?
@@ -99,21 +99,21 @@ sections:
   - type: outcomeboxes
     title: We help you
     boxes:
-      - box:
+      - box: 
         items:
           - title: Help stakeholders understand and support the case for investment
           - title: Translate technical vision into business outcomes
           - title: Build business cases aligned to measurable results
           - title: Unblock stalled transformations
           - title: Justify DevOps, Agile, and modernization programs
-      - box:
+      - box: 
         items:
           - title: Feel empowered to lead from the front
           - title: Reduce anxiety around presenting to execs
           - title: Gain respect from cross-functional stakeholders
           - title: Unblock progress with shared understanding and aligned priorities
           - title: Gain pride in leading change - not just suggesting it
-      - box:
+      - box: 
         items:
           - title: Be seen as a credible, strategic leader
           - title: Build influence with peers and senior decision-makers
@@ -133,10 +133,10 @@ sections:
         content: |
           A technology leader gained executive visibility and was later promoted, supported by their improved ability to influence strategy
     cta:
-      content: "Want examples?"
+      content: Want examples?
       button:
-        text: "Explore Executive Buy-In Case Studies"
-        url: "/resources/case-studies"
+        text: Explore Executive Buy-In Case Studies
+        url: /resources/case-studies
   - title: Why NKDAgility?
     type: textNlist
     list:
@@ -157,8 +157,16 @@ sections:
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: "From Ideas to Influence, We’ve Got Your Back"
+      content: From Ideas to Influence, We’ve Got Your Back
       button:
-        text: "Schedule a call"
-        url: "/company/book-online"
+        text: Schedule a call
+        url: /company/book-online
+ItemId: geznVaAkN1-
+ResourceId: geznVaAkN1-
+ItemType: outcomes
+ResourceType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
+
 ---
+

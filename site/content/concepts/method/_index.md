@@ -36,6 +36,12 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
 ClassificationContentOrigin: AI
+ItemId: SEXmmhgRw2Q
+ResourceId: SEXmmhgRw2Q
+ItemType: concepts
+ResourceType: concepts
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 **Method** refers to a structured, step-by-step approach used to achieve specific goals within a system. Unlike **frameworks**, which offer broader structures and guidelines, methods are focused on **detailed procedures** and **actions** that enable teams to implement solutions or solve problems.

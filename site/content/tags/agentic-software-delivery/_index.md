@@ -40,30 +40,35 @@ sitemap:
   priority: 0.7
 icon: fa-robot
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Technical Leadership
-- Product Development
-- Engineering Excellence
+  - Technical Leadership
+  - Product Development
+  - Engineering Excellence
 tags:
-- Artificial Intelligence
-- Continuous Delivery
-- DevOps
-- Agile Strategy
-- Business Agility
-- Technical Excellence
-- Organisational Agility
-- Value Delivery
-- Engineering Practices
-- Continuous Improvement
-- Product Strategy
-- Empirical Process Control
-- Feedback-Driven Adaptation
-- Contextual Intelligence
-- Autonomous Systems
+  - Artificial Intelligence
+  - Continuous Delivery
+  - DevOps
+  - Agile Strategy
+  - Business Agility
+  - Technical Excellence
+  - Organisational Agility
+  - Value Delivery
+  - Engineering Practices
+  - Continuous Improvement
+  - Product Strategy
+  - Empirical Process Control
+  - Feedback-Driven Adaptation
+  - Contextual Intelligence
+  - Autonomous Systems
+ItemId: Kt4j5W-hi34
+ResourceId: Kt4j5W-hi34
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
-
 **Agentic Software Delivery** is a strategy for continuously achieving business outcomes through the deliberate integration of autonomous AI agents, human expertise, and organisational context. It is not about automation for automation's sake. It is about enabling teams to move faster and smarter by embedding proactive, context-aware intelligence into their systems of work.
 
 The term *agentic* implies more than assistance. It implies **agency**. These agents are not static tools awaiting instructions; they operate autonomously within defined boundaries, learning from data, adapting to patterns, and making context-informed decisions. They do not simply execute tasks, they contribute meaningfully to outcomes—across discovery, development, delivery, and operations.

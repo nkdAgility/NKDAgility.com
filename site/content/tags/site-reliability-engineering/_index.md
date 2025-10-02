@@ -9,9 +9,9 @@ date: 2025-05-05T10:17:24Z
 weight: 175
 description: Applying software engineering principles to ensure scalable and reliable systems.
 aliases:
-- /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
-- /resources/practices/site-reliability-engineering-sre/
-- /resources/K0i7PIZARDw
+  - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
+  - /resources/practices/site-reliability-engineering-sre/
+  - /resources/K0i7PIZARDw
 Instructions: |-
   **Use this category only for discussions on Site Reliability Engineering.**  
   The purpose of this category is to explore the application of software engineering principles to enhance the reliability, scalability, and performance of systems in production environments. It focuses on the integration of development and operations to create resilient systems that can withstand failures and maintain service quality.
@@ -39,25 +39,30 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:12:47
 icon: fa-shield-alt
 concepts:
-- Ethos
+  - Ethos
 categories:
-- DevOps
-- Engineering Excellence
+  - DevOps
+  - Engineering Excellence
 tags:
-- Software Development
-- Operational Practices
-- Metrics and Learning
-- Technical Mastery
-- Pragmatic Thinking
-- Team Performance
-- Product Delivery
-- Customer Focus
-- Engineering Practices
-- Market Adaptability
-- Continuous Improvement
-- Service Level Expectation
-- Value Delivery
-- Technical Excellence
+  - Software Development
+  - Operational Practices
+  - Metrics and Learning
+  - Technical Mastery
+  - Pragmatic Thinking
+  - Team Performance
+  - Product Delivery
+  - Customer Focus
+  - Engineering Practices
+  - Market Adaptability
+  - Continuous Improvement
+  - Service Level Expectation
+  - Value Delivery
+  - Technical Excellence
+ItemId: K0i7PIZARDw
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Site Reliability Engineering (SRE) is not a job title; it is an ethos. It is the disciplined application of software engineering principles to design, build, and operate reliable, scalable systems. And it is essential if you want to survive modern software delivery.

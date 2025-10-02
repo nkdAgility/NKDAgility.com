@@ -9,6 +9,8 @@ aliases:
   - joanna-plaskonka-ph-d
 preview: 1651952183458.jpg
 weight: 20
+ItemType: people
+ItemKind: marketing
 people-abilities:
   - Trainer
   - Consultant
@@ -22,9 +24,14 @@ card:
     Agile Coach, Consultant, Professional Scrum Trainer (PST), Agile Kata Trainer, Action Learning Coach
 sections:
   - title: What Joanna's Customers Say
-    content: |
-
+    content: ""
     type: trustpilot
-    tags: "trainer:Nml4dDMzbkNoYXJhY3Ryekr8ANGQUw=="
+    tags: trainer:Nml4dDMzbkNoYXJhY3Ryekr8ANGQUw==
     height: 1200
+ItemId: 4zeaY1BPcHz
+ResourceId: 4zeaY1BPcHz
+ResourceType: people
+ItemContentOrigin: human
+
 ---
+

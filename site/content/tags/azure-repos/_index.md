@@ -34,14 +34,20 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:23:32
 icon: fa-database
 concepts:
-- Tool
+  - Tool
 categories:
-- Engineering Excellence
+  - Engineering Excellence
 tags:
-- Software Development
-- Modern Source Control
-- Azure DevOps
-- Team Collaboration
+  - Software Development
+  - Modern Source Control
+  - Azure DevOps
+  - Team Collaboration
+ItemId: 22D441vkNb6
+ResourceId: 22D441vkNb6
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Azure Repos is a cloud-based source control service that enables teams to manage their code repositories effectively within the Azure DevOps ecosystem. It supports both Git and Team Foundation Version Control (TFVC), allowing teams to choose the version control system that best fits their workflow. By providing a centralised platform for code collaboration, Azure Repos facilitates seamless integration with other Azure DevOps services, such as Azure Pipelines and Azure Boards, enhancing the overall development lifecycle.

@@ -33,14 +33,20 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:04:41
 icon: fa-scale-balanced
 concepts:
-- Capability
+  - Capability
 categories: []
 tags:
-- Pragmatic Thinking
-- Social Technologies
-- Business Agility
-- Evidence Based Management
-- Continuous Improvement
+  - Pragmatic Thinking
+  - Social Technologies
+  - Business Agility
+  - Evidence Based Management
+  - Continuous Improvement
+ItemId: qS5JzpcfrFA
+ResourceId: qS5JzpcfrFA
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Decision making involves applying structured, evidence-based approaches to make informed business choices that drive organisational success. This concept is crucial as it empowers teams to evaluate options systematically, ensuring that decisions are not based on intuition alone but on data, analysis, and collective insights. By fostering a culture of informed decision making, organisations can enhance their ability to deliver value predictably and sustainably.

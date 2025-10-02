@@ -36,6 +36,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
+ItemId: s-4zEfmgBFT
+ResourceId: s-4zEfmgBFT
+ItemType: concepts
+ResourceType: concepts
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 **Practice** refers to **consistent, repeatable techniques** or habits that teams use to enhance their effectiveness, collaboration, and delivery of value. Unlike **methods**, which are structured approaches with defined steps, practices focus on **habits** that can be incorporated into a team’s regular workflow.

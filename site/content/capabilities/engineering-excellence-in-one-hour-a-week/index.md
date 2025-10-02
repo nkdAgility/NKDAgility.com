@@ -11,7 +11,7 @@ sitemap:
   changefreq: weekly
 ItemId: CwlqQrHDnTD
 ItemType: capabilities
-ItemKind: capability
+ItemKind: marketing
 ItemContentOrigin: human
 slug: engineering-excellence-in-one-hour-a-week
 aliases:

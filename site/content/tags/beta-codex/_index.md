@@ -33,25 +33,31 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:20:55
 icon: fa-diagram-next
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Leadership
-- Product Development
+  - Leadership
+  - Product Development
 tags:
-- Organisational Culture
-- Self Organisation
-- Social Technologies
-- Agile Strategy
-- Organisational Agility
-- Organisational Change
-- Market Adaptability
-- Agile Leadership
-- Team Collaboration
-- Team Motivation
-- Business Agility
-- Enterprise Agility
-- Agentic Agility
-- Agile Philosophy
+  - Organisational Culture
+  - Self Organisation
+  - Social Technologies
+  - Agile Strategy
+  - Organisational Agility
+  - Organisational Change
+  - Market Adaptability
+  - Agile Leadership
+  - Team Collaboration
+  - Team Motivation
+  - Business Agility
+  - Enterprise Agility
+  - Agentic Agility
+  - Agile Philosophy
+ItemId: ED8JJ5RqjiO
+ResourceId: ED8JJ5RqjiO
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Beta Codex represents a paradigm shift in organisational design, advocating for decentralised, adaptive, and human-centric structures that transcend traditional hierarchies. This concept emphasises the importance of empowering teams to make decisions, fostering an environment where agility is not merely a set of practices but a fundamental aspect of the organisational culture. By embracing Beta Codex, organisations can enhance their ability to innovate and respond to change, enabling teams to deliver value predictably and sustainably.

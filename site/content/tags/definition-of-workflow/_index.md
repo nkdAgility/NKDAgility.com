@@ -41,24 +41,30 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Kanban
-- Product Development
-- Engineering Excellence
+  - Kanban
+  - Product Development
+  - Engineering Excellence
 tags:
-- Transparency
-- Operational Practices
-- Agile Frameworks
-- Lean Thinking
-- Value Delivery
-- Team Performance
-- Social Technologies
-- Agile Planning
-- Lean Principles
-- Software Development
-- Empirical Process Control
-- Continuous Improvement
+  - Transparency
+  - Operational Practices
+  - Agile Frameworks
+  - Lean Thinking
+  - Value Delivery
+  - Team Performance
+  - Social Technologies
+  - Agile Planning
+  - Lean Principles
+  - Software Development
+  - Empirical Process Control
+  - Continuous Improvement
+ItemId: BfQz4UI4v81
+ResourceId: BfQz4UI4v81
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 In Kanban, the Definition of Workflow (DoW) is not a static checklist. It is a dynamic model of how work flows through a value stream, and how progress is made visible. The Kanban Guide defines it as the **explicit agreements and policies** that guide how work is selected, started, progressed, and completed.

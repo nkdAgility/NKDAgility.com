@@ -6,4 +6,6 @@ id: "45373"
 type: customers
 slug: deliotte
 preview: deloit.jpg
+ItemType: customers
+ItemKind: marketing
 ---

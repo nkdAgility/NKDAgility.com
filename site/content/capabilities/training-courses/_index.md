@@ -11,7 +11,7 @@ sitemap:
   changefreq: weekly
 ItemId: TSbCL5T_4G9
 ItemType: capabilities
-ItemKind: capability
+ItemKind: marketing
 ItemContentOrigin: human
 aliases:
   - /capabilities/private-corporate-training/

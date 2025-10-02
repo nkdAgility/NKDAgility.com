@@ -7,4 +7,12 @@ type: customers
 slug: ghana-police-service
 preview: ghana-police-service.jpg
 customer-industries: Government
+ItemType: customers
+ItemKind: marketing
+ItemId: gIu3oxkbnAe
+ResourceId: gIu3oxkbnAe
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

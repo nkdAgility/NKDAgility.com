@@ -34,22 +34,28 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T17:20:01
 concepts:
-- Capability
+  - Capability
 categories:
-- Product Development
+  - Product Development
 tags:
-- Organisational Agility
-- Market Adaptability
-- Organisational Culture
-- Value Delivery
-- Social Technologies
-- Agile Strategy
-- Organisational Change
-- Continuous Improvement
-- Continuous Learning
-- Operational Practices
-- Strategic Goals
-- Agile Philosophy
+  - Organisational Agility
+  - Market Adaptability
+  - Organisational Culture
+  - Value Delivery
+  - Social Technologies
+  - Agile Strategy
+  - Organisational Change
+  - Continuous Improvement
+  - Continuous Learning
+  - Operational Practices
+  - Strategic Goals
+  - Agile Philosophy
+ItemId: wODU0iA3WYV
+ResourceId: wODU0iA3WYV
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Business Agility refers to an organisation's ability to rapidly adapt and respond to market changes, customer demands, and emerging opportunities while maintaining a focus on delivering value. This concept is crucial as it empowers teams to innovate continuously, streamline processes, and enhance collaboration across functions. By fostering a culture of flexibility and responsiveness, organisations can navigate uncertainties and leverage their capabilities to meet evolving business needs.

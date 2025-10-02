@@ -33,26 +33,32 @@ sitemap:
 BodyContentGenDate: 2025-04-11T06:00:00
 icon: fa-clock-rotate-left
 concepts:
-- Observability
+  - Observability
 categories:
-- Engineering Excellence
-- Product Development
-- Lean
+  - Engineering Excellence
+  - Product Development
+  - Lean
 tags:
-- Team Performance
-- Flow Efficiency
-- Operational Practices
-- Product Delivery
-- Software Development
-- Value Delivery
-- Market Adaptability
-- Metrics and Learning
-- Pragmatic Thinking
-- Lean Thinking
-- Time to Market
-- Business Agility
-- Evidence Based Management
-- Continuous Improvement
+  - Team Performance
+  - Flow Efficiency
+  - Operational Practices
+  - Product Delivery
+  - Software Development
+  - Value Delivery
+  - Market Adaptability
+  - Metrics and Learning
+  - Pragmatic Thinking
+  - Lean Thinking
+  - Time to Market
+  - Business Agility
+  - Evidence Based Management
+  - Continuous Improvement
+ItemId: zmX-vSdaXQI
+ResourceId: zmX-vSdaXQI
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 **Lead Time** is a critical **observability metric** that measures the time taken from the initiation of a work item to its delivery to the customer. It is a flow-based implementation of **Cycle Time**, commonly used in **Kanban** systems to reflect how long it takes to deliver value end-to-end. While Cycle Time focuses on active processing time within a system, Lead Time includes the full duration from commitment to delivery, providing external visibility into service responsiveness.

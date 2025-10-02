@@ -33,26 +33,32 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:01:09
 icon: fa-calendar-arrow-up
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- Engineering Excellence
-- DevOps
+  - Product Development
+  - Engineering Excellence
+  - DevOps
 tags:
-- Value Delivery
-- Frequent Releases
-- Metrics and Learning
-- Software Development
-- Continuous Improvement
-- Team Performance
-- Organisational Agility
-- Market Adaptability
-- Operational Practices
-- Product Delivery
-- Release Management
-- Pragmatic Thinking
-- Time to Market
-- Customer Focus
+  - Value Delivery
+  - Frequent Releases
+  - Metrics and Learning
+  - Software Development
+  - Continuous Improvement
+  - Team Performance
+  - Organisational Agility
+  - Market Adaptability
+  - Operational Practices
+  - Product Delivery
+  - Release Management
+  - Pragmatic Thinking
+  - Time to Market
+  - Customer Focus
+ItemId: bzePYp2QIsI
+ResourceId: bzePYp2QIsI
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Deployment Frequency refers to the rate at which software is released into production, a critical metric in modern product development. It directly influences an organisation's ability to deliver value to customers, as higher deployment frequency allows for quicker feedback loops and more responsive adjustments to user needs. By optimising deployment frequency, teams can ensure that they are not only releasing features and fixes more often but also validating assumptions and learning from real-world usage in a timely manner.

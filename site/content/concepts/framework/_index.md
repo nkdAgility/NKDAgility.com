@@ -32,6 +32,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T12:39:07
+ItemId: BBQBE46dSX1
+ResourceId: BBQBE46dSX1
+ItemType: concepts
+ResourceType: concepts
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 A framework is a structured approach that provides a set of guidelines, principles, and rules to facilitate the implementation of processes while allowing for flexibility in execution. It serves as a foundational blueprint that organisations can adapt to their specific contexts, ensuring that teams can operate effectively within a defined structure. Frameworks like Scrum, SAFe, and ITIL exemplify this concept, offering a balance between prescribed practices and the autonomy needed for teams to innovate and respond to changing circumstances.

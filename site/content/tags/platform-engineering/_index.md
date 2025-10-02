@@ -36,15 +36,21 @@ sitemap:
   priority: 0.7
 icon: fa-server
 concepts:
-- Capability
+  - Capability
 categories:
-- Product Development
-- Engineering Excellence
+  - Product Development
+  - Engineering Excellence
 tags:
-- Value Delivery
-- Software Development
-- Operational Practices
-- Internal Developer Platform
+  - Value Delivery
+  - Software Development
+  - Operational Practices
+  - Internal Developer Platform
+ItemId: EiFac70NFI2
+ResourceId: EiFac70NFI2
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Platform Engineering is the practice of designing, building, and maintaining internal platforms that enable developers to deliver value independently, reliably, and at pace.

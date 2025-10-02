@@ -28,33 +28,38 @@ headline:
   updated: 2025-05-23T23:19:57Z
 ResourceId: K-0Kt7CHeQw
 aliases:
-- /learn/agile-delivery-kit/first-principals/common-goals/
-- /resources/K-0Kt7CHeQw
+  - /learn/agile-delivery-kit/first-principals/common-goals/
+  - /resources/K-0Kt7CHeQw
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 icon: fa-flag-checkered
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Product Management
-- Scrum
+  - Product Development
+  - Product Management
+  - Scrum
 tags:
-- Agile Strategy
-- Strategic Goals
-- Pragmatic Thinking
-- Value Delivery
-- Agile Product Management
-- Product Strategy
-- Team Motivation
-- Organisational Agility
-- Professional Scrum
-- Operational Practices
-- Product Delivery
-- Agile Product Operating Model
-- Social Technologies
-- Team Collaboration
+  - Agile Strategy
+  - Strategic Goals
+  - Pragmatic Thinking
+  - Value Delivery
+  - Agile Product Management
+  - Product Strategy
+  - Team Motivation
+  - Organisational Agility
+  - Professional Scrum
+  - Operational Practices
+  - Product Delivery
+  - Agile Product Operating Model
+  - Social Technologies
+  - Team Collaboration
+ItemId: K-0Kt7CHeQw
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Here’s a rewritten version of your text, reframed around **Common Goals** as the first principle:

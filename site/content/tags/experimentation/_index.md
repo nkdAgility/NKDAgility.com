@@ -36,25 +36,31 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:47:25
 icon: fa-flask
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Empirical Process Control
-- Continuous Improvement
-- Organisational Culture
-- Organisational Agility
-- Continuous Learning
-- Decision Making
-- Ability to Innovate
-- Pragmatic Thinking
-- Team Performance
-- Product Discovery
-- Operational Practices
-- Value Delivery
-- Organisational Change
-- Agile Philosophy
+  - Empirical Process Control
+  - Continuous Improvement
+  - Organisational Culture
+  - Organisational Agility
+  - Continuous Learning
+  - Decision Making
+  - Ability to Innovate
+  - Pragmatic Thinking
+  - Team Performance
+  - Product Discovery
+  - Operational Practices
+  - Value Delivery
+  - Organisational Change
+  - Agile Philosophy
+ItemId: csu-x7cQ3Pl
+ResourceId: csu-x7cQ3Pl
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Experimentation is a critical practice in agile workflows, centred on using hypothesis-driven approaches to test ideas and validate assumptions. This concept empowers teams to systematically explore uncertainties, allowing them to make informed decisions based on empirical evidence rather than intuition alone. By fostering a culture of experimentation, organisations can enhance their ability to innovate, adapt, and respond to changing market demands.

@@ -1,6 +1,6 @@
 ---
-title: "Culture Transformation and Team Enablement"
-description: "Create an adaptive, high-performing organizational culture where teams are empowered to deliver exceptional value continuously."
+title: Culture Transformation and Team Enablement
+description: Create an adaptive, high-performing organizational culture where teams are empowered to deliver exceptional value continuously.
 date: 2025-06-04
 creator: Martin Hinshelwood
 sitemap:
@@ -26,14 +26,13 @@ sections:
         But without cultural alignment, delivery still stalls - and teams stay disengaged.
   - content: |
       **NKD Agility doesn’t just install practices. We enable transformation.** We help teams shift mindset, build modern habits, and create a culture where innovation flows and ownership thrives.
-
     type: content
   - type: outcomehero
     cta:
-      content: "**Is Your Culture Holding You Back?** Let’s build something stronger."
+      content: '**Is Your Culture Holding You Back?** Let’s build something stronger.'
       button:
-        text: "Book a Discovery Call"
-        url: "/company/book-online"
+        text: Book a Discovery Call
+        url: /company/book-online
     boxes:
       - content: |
           Tools don't transform teams - people and systems do.
@@ -89,36 +88,34 @@ sections:
         icon: fa-hammer
         content: |
           From retros to standups, we make team practices _real_, not ritual.
-
   - title: Open Collaboration & Feedback Loops
     type: content
     content: |
       Communication improves. Tensions reduce. Results get better.
   - type: outcomeboxes
-    title: "We can help you with:"
+    title: 'We can help you with:'
     boxes:
-      - box:
+      - box: 
         items:
           - title: Build high-performing engineering teams
           - title: Shift from command-and-control to empowered teams
           - title: Improve collaboration across silos
           - title: Retain top talent through culture and development
           - title: Embed continuous learning into daily work
-      - box:
+      - box: 
         items:
           - title: Reduce leadership fatigue and emotional drain
           - title: Feel pride in team morale and growth
           - title: Move from frustration to flow
           - title: Inspire belief in your transformation vision
           - title: See tangible growth in team maturity
-      - box:
+      - box: 
         items:
           - title: Foster a culture of innovation and ownership
           - title: Be known for building a world-class tech culture
           - title: Create alignment between business, product, and tech
           - title: Be seen as the leader teams want to work for
           - title: Champion Agile values that live beyond the framework
-
   - title: The Results Speak
     type: casestudy
     list:
@@ -135,10 +132,10 @@ sections:
         content: |
           Leaders reported fewer surprises and more confidence in team forecasts after shifting to evidence-led planning sessions
     cta:
-      content: "Curious how we did it?"
+      content: Curious how we did it?
       button:
-        text: "See Culture Change Case Studies"
-        url: "/resources/case-studies"
+        text: See Culture Change Case Studies
+        url: /resources/case-studies
   - title: Why NKDAgility?
     type: textNlist
     list:
@@ -160,8 +157,16 @@ sections:
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: "Empowering Teams to Deliver. Together."
+      content: Empowering Teams to Deliver. Together.
       button:
-        text: "Schedule a call"
-        url: "/company/book-online"
+        text: Schedule a call
+        url: /company/book-online
+ItemId: Do4uZk5AUJe
+ResourceId: Do4uZk5AUJe
+ItemType: outcomes
+ResourceType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
+
 ---
+

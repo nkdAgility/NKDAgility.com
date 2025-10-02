@@ -6,4 +6,12 @@ id: "11827"
 type: customers
 slug: dfds
 preview: nkdagility-customer-dfds-200x75.png
+ItemType: customers
+ItemKind: marketing
+ItemId: XMV41RomPcg
+ResourceId: XMV41RomPcg
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

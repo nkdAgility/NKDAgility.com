@@ -7,4 +7,6 @@ type: customers
 slug: new-hampshire-supreme-court
 preview: New-Hampshire-Supreme-Court.jpg
 customer-industries: Government
+ItemType: customers
+ItemKind: marketing
 ---

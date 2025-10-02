@@ -6,4 +6,12 @@ id: "11831"
 type: customers
 slug: flowmaster-mentor-graphics-company
 preview: nkdagility-customer-flowmaster-200x75.png
+ItemType: customers
+ItemKind: marketing
+ItemId: j2uQGa7r0lh
+ResourceId: j2uQGa7r0lh
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

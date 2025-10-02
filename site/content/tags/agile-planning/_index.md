@@ -34,22 +34,28 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:38:00
 icon: fa-calendar-check
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Software Development
-- Agile Strategy
-- Social Technologies
-- Operational Practices
-- Value Delivery
-- Market Adaptability
-- Organisational Agility
-- Strategic Goals
-- Agile Philosophy
-- Pragmatic Thinking
-- Agile Frameworks
+  - Software Development
+  - Agile Strategy
+  - Social Technologies
+  - Operational Practices
+  - Value Delivery
+  - Market Adaptability
+  - Organisational Agility
+  - Strategic Goals
+  - Agile Philosophy
+  - Pragmatic Thinking
+  - Agile Frameworks
+ItemId: Qi4MehbXyxw
+ResourceId: Qi4MehbXyxw
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Agile Planning is a strategic approach that enables teams to balance flexibility with predictability, ensuring that they can adapt to changing requirements while delivering value consistently. It involves defining clear objectives, prioritising tasks, and aligning team efforts to optimise delivery. This process is crucial for fostering collaboration and transparency, allowing teams to respond swiftly to feedback and market dynamics.

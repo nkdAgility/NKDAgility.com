@@ -7,4 +7,6 @@ type: customers
 slug: milliman
 preview: Milliman.jpg
 customer-industries: Medical
+ItemType: customers
+ItemKind: marketing
 ---

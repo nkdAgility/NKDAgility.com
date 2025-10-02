@@ -37,21 +37,27 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:25:15
 icon: fa-cloud-sun
 concepts:
-- Tool
+  - Tool
 categories:
-- DevOps
-- Product Development
-- Engineering Excellence
+  - DevOps
+  - Product Development
+  - Engineering Excellence
 tags:
-- Product Delivery
-- Software Development
-- Application Lifecycle Management
-- Operational Practices
-- Value Delivery
-- Collaboration Tools
-- Social Technologies
-- Market Adaptability
-- Organisational Agility
+  - Product Delivery
+  - Software Development
+  - Application Lifecycle Management
+  - Operational Practices
+  - Value Delivery
+  - Collaboration Tools
+  - Social Technologies
+  - Market Adaptability
+  - Organisational Agility
+ItemId: IIKvwtLpLJ4
+ResourceId: IIKvwtLpLJ4
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Azure DevOps is a comprehensive suite of tools from Microsoft designed to facilitate continuous integration and continuous delivery (CI/CD), enhance collaboration, and streamline agile project management. It integrates various functionalities, including Azure Boards for tracking work, Azure Repos for source control, Azure Pipelines for automating builds and deployments, and Azure Test Plans for managing testing efforts. This platform is pivotal for organisations aiming to deliver value predictably and sustainably, as it fosters a culture of collaboration and transparency across teams.

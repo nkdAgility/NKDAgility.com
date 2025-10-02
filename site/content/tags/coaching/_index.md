@@ -36,22 +36,28 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:18:14
 icon: fa-chalkboard-teacher
 concepts:
-- Capability
+  - Capability
 categories:
-- Technical Leadership
-- Leadership
-- Product Development
+  - Technical Leadership
+  - Leadership
+  - Product Development
 tags:
-- Social Technologies
-- Pragmatic Thinking
-- Team Collaboration
-- Organisational Agility
-- Market Adaptability
-- Team Motivation
-- Continuous Learning
-- Psychological Safety
-- Operational Practices
-- Organisational Culture
+  - Social Technologies
+  - Pragmatic Thinking
+  - Team Collaboration
+  - Organisational Agility
+  - Market Adaptability
+  - Team Motivation
+  - Continuous Learning
+  - Psychological Safety
+  - Operational Practices
+  - Organisational Culture
+ItemId: ECsKhG1ys-j
+ResourceId: ECsKhG1ys-j
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Coaching is the practice of unlocking the potential within teams and leaders by providing guidance rather than issuing directives. This approach fosters an environment where individuals can develop their skills, enhance their decision-making capabilities, and embrace a mindset of continuous improvement. Coaching is essential in agile, lean, and DevOps contexts, as it empowers teams to adapt to changing circumstances and deliver value predictably and sustainably.

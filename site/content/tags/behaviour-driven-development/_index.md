@@ -33,19 +33,25 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:21:47
 icon: fa-comments-question
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- Engineering Excellence
+  - Product Development
+  - Engineering Excellence
 tags:
-- Software Development
-- Social Technologies
-- Team Collaboration
-- Value Delivery
-- Organisational Agility
-- Engineering Practices
-- Pragmatic Thinking
-- Product Delivery
+  - Software Development
+  - Social Technologies
+  - Team Collaboration
+  - Value Delivery
+  - Organisational Agility
+  - Engineering Practices
+  - Pragmatic Thinking
+  - Product Delivery
+ItemId: jwFeeq3l_MK
+ResourceId: jwFeeq3l_MK
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Behaviour Driven Development (BDD) is a collaborative approach that aligns software development with business objectives by fostering clear communication among stakeholders. It emphasises the creation of shared understanding through the use of natural language to describe the desired behaviour of a system. This practice enables teams to define requirements in a way that is both testable and understandable, bridging the gap between technical and non-technical participants.
