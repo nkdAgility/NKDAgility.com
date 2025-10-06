@@ -35,25 +35,31 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T17:32:56
 concepts:
-- Capability
+  - Capability
 categories:
-- Product Development
-- Leadership
+  - Product Development
+  - Leadership
 tags:
-- Organisational Agility
-- Organisational Culture
-- Agile Strategy
-- Organisational Change
-- Social Technologies
-- Agile Philosophy
-- Business Agility
-- Change Management
-- Agile Values and Principles
-- Continuous Learning
-- Sociotechnical Systems
-- Enterprise Agility
-- Market Adaptability
-- Strategic Goals
+  - Organisational Agility
+  - Organisational Culture
+  - Agile Strategy
+  - Organisational Change
+  - Social Technologies
+  - Agile Philosophy
+  - Business Agility
+  - Change Management
+  - Agile Values and Principles
+  - Continuous Learning
+  - Sociotechnical Systems
+  - Enterprise Agility
+  - Market Adaptability
+  - Strategic Goals
+ItemId: UT2QLI1iptr
+ResourceId: UT2QLI1iptr
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Agile Transformation is the process of fundamentally shifting an organisation's culture, mindset, and operational practices to embrace Agile principles and methodologies. This transformation is crucial as it enables teams to deliver value predictably and sustainably, fostering an environment where adaptability and responsiveness to change are paramount. By prioritising collaboration, customer feedback, and iterative development, organisations can enhance their ability to innovate and respond to market demands effectively.

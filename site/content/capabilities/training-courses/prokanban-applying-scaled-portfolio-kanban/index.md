@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: gUxi6u7gQcc
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -89,8 +88,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-ResourceId: gUxi6u7gQcc
+ResourceId: ASPK
 ResourceType: course
+ItemId: ASPK
 
 ---
 # Applying Scaled Portfolio Kanban

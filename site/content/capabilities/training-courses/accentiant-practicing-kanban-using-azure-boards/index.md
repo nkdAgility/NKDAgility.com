@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: wHhDvrn-8PH
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -146,8 +145,9 @@ events:
           - 2
           - 3
           - 4
-ResourceId: wHhDvrn-8PH
+ResourceId: PKAB
 ResourceType: course
+ItemId: PKAB
 
 ---
 # Practicing Kanban Using Azure Boards

@@ -34,23 +34,29 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:26:59
 icon: fa-vials
 concepts:
-- Practice
+  - Practice
 categories:
-- Engineering Excellence
-- Product Development
-- DevOps
+  - Engineering Excellence
+  - Product Development
+  - DevOps
 tags:
-- Software Development
-- Engineering Practices
-- Technical Mastery
-- Operational Practices
-- Test Automation
-- Team Performance
-- Value Delivery
-- Product Delivery
-- Technical Excellence
-- Market Adaptability
-- Shift Left Strategy
+  - Software Development
+  - Engineering Practices
+  - Technical Mastery
+  - Operational Practices
+  - Test Automation
+  - Team Performance
+  - Value Delivery
+  - Product Delivery
+  - Technical Excellence
+  - Market Adaptability
+  - Shift Left Strategy
+ItemId: IiO4k_1JUuk
+ResourceId: IiO4k_1JUuk
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Automated Testing is a critical practice that enhances software quality and reliability by systematically executing tests through automation tools. This approach allows teams to detect issues early in the development process, significantly reducing the manual effort required for testing and accelerating the delivery of high-quality software. By integrating automated tests into the development pipeline, organisations can ensure that new features do not introduce regressions, thereby maintaining a stable codebase.

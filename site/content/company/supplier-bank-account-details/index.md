@@ -4,11 +4,13 @@ title: Supplier & Bank Account Details
 date: 2024-10-10
 author: naked Agility Ltd
 description: Details about supplier, corporate registration, banking, and insurance for naked Agility Ltd.
+ItemType: company
+ItemKind: marketing
 aliases:
   - /accounts/
 resources:
-  - src: "./pdfs/account_details_proof_aud-20240625.pdf"
-    name: "account_details_proof_aud-20240625.pdf"
+  - src: ./pdfs/account_details_proof_aud-20240625.pdf
+    name: account_details_proof_aud-20240625.pdf
 layout: informational
 headline:
   cards: []
@@ -18,8 +20,12 @@ headline:
 keywords:
   - supplier
   - Bank Account
----
+ItemId: G01vLjDYclY
+ResourceId: G01vLjDYclY
+ResourceType: company
+ItemContentOrigin: human
 
+---
 # Supplier & Bank Account Details
 
 Welcome to the comprehensive guide on supplier and corporate details for naked Agility Ltd. Below, you will find all the essential information regarding invoices, banking details, corporate registration, and insurance. This document aims to ensure you have the necessary details to handle all financial and corporate transactions smoothly.

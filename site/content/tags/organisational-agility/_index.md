@@ -34,14 +34,20 @@ sitemap:
 BodyContentGenDate: 2025-04-09T15:10:46
 icon: fa-arrows-to-circle
 concepts:
-- Capability
+  - Capability
 categories: []
 tags:
-- Business Agility
-- Agile Philosophy
-- Organisational Culture
-- Market Adaptability
-- Miscellaneous
+  - Business Agility
+  - Agile Philosophy
+  - Organisational Culture
+  - Market Adaptability
+  - Miscellaneous
+ItemId: bZu9I9fyy6g
+ResourceId: bZu9I9fyy6g
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Organisational Agility refers to an organisation's capacity to swiftly adapt to changes in the market, customer demands, and emerging opportunities. This concept is crucial as it empowers teams to deliver value predictably and sustainably, ensuring that they can respond effectively to both challenges and opportunities. By fostering a culture of flexibility and responsiveness, organisations can enhance their ability to innovate and maintain a competitive edge.

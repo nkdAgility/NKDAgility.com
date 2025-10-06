@@ -34,16 +34,22 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:08:15
 icon: fa-retweet
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Customer Focus
-- Customer Satisfaction
-- Business Agility
-- Value Delivery
-- Agile Strategy
+  - Customer Focus
+  - Customer Satisfaction
+  - Business Agility
+  - Value Delivery
+  - Agile Strategy
+ItemId: mn6Ofyx94MP
+ResourceId: mn6Ofyx94MP
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Customer retention refers to the strategies and practices employed by organisations to keep users engaged with their products or services over time, thereby reducing churn. This concept is crucial as it directly impacts an organisation's sustainability and profitability. By focusing on customer retention, teams can ensure that they are consistently delivering value, which fosters loyalty and encourages repeat business. 

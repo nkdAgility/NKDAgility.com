@@ -43,7 +43,9 @@ foreach ($HugoMarkdown in $hugoMarkdownObjects) {
     $filteredRelated += $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "course" } | Select-Object -First 5
     $relatedWrapper.related = $filteredRelated  | Sort-Object Similarity -Descending
     if ($relatedWrapper.related.Count -gt 0) {
-        $relatedLocalCache = Join-Path $HugoMarkdown.FolderPath 'data.index.related.json'
+        $relatedLocalCache = "site/data/$($HugoMarkdown.FrontMatter.ItemKind)/$($HugoMarkdown.FrontMatter.ItemType)/$($HugoMarkdown.FrontMatter.ItemId)/related.json"
+        $relatedDataDir = Split-Path -Path $relatedLocalCache -Parent
+        New-Item -ItemType Directory -Path $relatedDataDir -Force | Out-Null
         $relatedWrapper | ConvertTo-Json -Depth 10 | Set-Content $relatedLocalCache 
         Write-DebugLog "Processing  $($HugoMarkdown.ReferencePath) [$($relatedWrapper.related.Count) related items found.]"    
     }    

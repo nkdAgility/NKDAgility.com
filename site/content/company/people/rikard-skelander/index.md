@@ -6,6 +6,8 @@ id: "50829"
 type: people
 slug: rikard-skelander
 preview: nkdagility-rikard-skelander.png
+ItemType: people
+ItemKind: marketing
 people-abilities:
   - Trainer
   - Consultant
@@ -42,9 +44,15 @@ sections:
     content: |
       Rikard Skelander has built a distinguished career in software engineering and Agile methodologies over the past 15 years. Starting as a tester and test lead, Rikard transitioned into Agile roles, becoming a certified Scrum Master. He currently serves as a Scrum Master at Trygg-Hansa, one of Sweden's largest insurance companies, where he helps teams adopt Agile practices to improve efficiency and product quality. Rikard's expertise extends to being an Agile Kata Pro Trainer, where he teaches the Agile Kata pattern through immersive and interactive training sessions, designed to enhance business agility and continuous improvement.\r\n\r\nIn addition to his professional achievements, Rikard is fluent in both English and Swedish, allowing him to offer bilingual training sessions. He has also contributed to the Agile community by translating the Agile Kata into Swedish. His background as a former high school teacher and martial arts instructor enriches his teaching philosophy, emphasizing practical application, discipline, and continuous learning. Rikard's comprehensive training and coaching services have made him a valuable asset to organizations seeking to improve their Agile practices​.
   - title: Courses that Rikard Teaches
-    content:
+    content: 
     type: course
     related:
       - /capabilities/training-courses/agile-kata-professional
     source: data
+ItemId: RpPGcLHl8Me
+ResourceId: RpPGcLHl8Me
+ResourceType: people
+ItemContentOrigin: human
+
 ---
+

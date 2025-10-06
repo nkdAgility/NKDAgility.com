@@ -1,5 +1,5 @@
 ---
-title: 'Found GDR Bug: At least I think it is.'
+title: "Found GDR Bug: At least I think it is"
 description: Describes a bug in GDR and Data Dude where SQL views using derived tables cause unresolved reference errors, impacting database project development and validation.
 date: 2008-09-04
 lastmod: 2008-09-04
@@ -14,7 +14,6 @@ ItemKind: resource
 ItemContentOrigin: Human
 slug: found-gdr-bug-at-least-i-think-it-is
 aliases:
-  - /resources/blog/found-gdr-bug-at-least-i-think-it-is.
   - /resources/LjS_IaGaE9R
 aliasesArchive:
   - /blog/found-gdr-bug-at-least-i-think-it-is
@@ -36,8 +35,8 @@ ResourceImportId: 198
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: metro-aggreko-128-link-1-1.png
-
 ---
+
 This is not isolated to GDR, but seams to exist in Data Dude as well. If you create the following SQL:
 
 ```

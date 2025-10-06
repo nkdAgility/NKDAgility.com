@@ -1,5 +1,5 @@
 ---
-title: Scrum is like communism, it doesn't work. Myth 3.
+title: Scrum is like communism, it doesn't work. Myth 3
 short_title: Scrum and the Myth of Micromanagement
 description: Explores the myth that Scrum leads to micromanagement, clarifying that true Scrum empowers teams with autonomy, collaboration, and trust, not top-down control.
 tldr: Scrum does not inherently lead to micromanagement; this misconception arises when organizations misapply Scrum by imposing top-down control instead of empowering teams. True Scrum gives developers autonomy over their work, encourages open collaboration, and relies on trust and technical expertise. Development managers should focus on enabling team decision-making and fostering a culture of trust to realize the full benefits of Agile.
@@ -19,7 +19,6 @@ aliases:
   - /resources/CawY8x3kGVk
   - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3
   - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3-micromanagement-developer-autonomy-and-more
-  - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-3.
 aliasesArchive:
   - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
   - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3-
@@ -56,8 +55,8 @@ duration: 234
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 # [Scrum]({{< ref "/categories/scrum" >}}) and Micromanagement: Dispelling the Myth 🚀
 
 Hello, Agile advocates! Today, we're diving into a contentious topic that's sparked debate across many Scrum teams: **The Myth of Micromanagement in Scrum**. This myth perpetuates the notion that Scrum inherently fosters an environment ripe for micromanagement. However, is this truly an attribute of Scrum, or is it a manifestation of how some organizations misapply its principles? Let's unravel this myth and explore how we can cultivate genuine Agile environments that empower, rather than constrain, teams. 🌟
@@ -80,9 +79,9 @@ Understanding that the micromanagement myth is not an indictment of Scrum itself
 
 1. **Empower the Developers:** Reinforce the principle that Developers have the autonomy to choose their work based on the product goal and their insights into technical feasibility and impact.
 
-3. **Foster Open Dialogue:** Encourage Product Owners and stakeholders to engage in conversations with Developers about priorities and concerns, ensuring decisions are made collaboratively and with full [transparency]({{< ref "/tags/transparency" >}}).
+2. **Foster Open Dialogue:** Encourage Product Owners and stakeholders to engage in conversations with Developers about priorities and concerns, ensuring decisions are made collaboratively and with full [transparency]({{< ref "/tags/transparency" >}}).
 
-5. **Cultivate Trust:** Building trust within the team and across the organization is key. Trust that your Developers have the project's best interests at heart and possess the expertise to make informed decisions about their work.
+3. **Cultivate Trust:** Building trust within the team and across the organization is key. Trust that your Developers have the project's best interests at heart and possess the expertise to make informed decisions about their work.
 
 ### Embracing Empiricism and Technical Expertise 🚀
 

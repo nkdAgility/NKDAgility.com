@@ -1,0 +1,34 @@
+{{ $page := . }}
+
+{{ $ItemKind := .Params.ItemKind }}
+{{ $ItemType := .Params.ItemType }}
+{{ $ItemId := .Params.ItemId }}
+
+{{ $relatedData := slice }}
+
+{{- if not $ItemKind -}}
+  {{- warnf "get-classifications.html: ItemKind parameter is missing for page %s" .Path -}}
+{{- else if not $ItemType -}}
+  {{- warnf "get-classifications.html: ItemType parameter is missing for page %s" .Path -}}
+{{- else if not $ItemId -}}
+  {{- warnf "get-classifications.html: ItemId parameter is missing for page %s" .Path -}}
+{{- else -}}
+  {{- $kindData := index site.Data $ItemKind -}}
+  {{- if $kindData -}}
+    {{- $typeData := index $kindData $ItemType -}}
+    {{- if $typeData -}}
+      {{- $itemData := index $typeData $ItemId -}}
+      {{- if $itemData -}}
+        {{- $relatedData = index $itemData "classifications" -}}
+      {{- else -}}
+        {{- warnf "get-classifications.html: No data found for ItemId %s on page %s" $ItemId .Path -}}
+      {{- end -}}
+    {{- else -}}
+      {{- warnf "get-classifications.html: No data found for ItemType %s on page %s" $ItemType .Path -}}
+    {{- end -}}
+  {{- else -}}
+    {{- warnf "get-classifications.html: No data found for ItemKind %s and ItemType %s on page %s" $ItemKind $ItemType .Path -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return $relatedData -}}

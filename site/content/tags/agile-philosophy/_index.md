@@ -37,24 +37,30 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:39:34
 icon: fa-feather
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Product Development
+  - Product Development
 tags:
-- Agile Values and Principles
-- Social Technologies
-- Value Delivery
-- Market Adaptability
-- Organisational Agility
-- Continuous Improvement
-- Software Development
-- Agile Strategy
-- Business Agility
-- Organisational Culture
-- Continuous Learning
-- Organisational Change
-- Agile Transformation
-- Enterprise Agility
+  - Agile Values and Principles
+  - Social Technologies
+  - Value Delivery
+  - Market Adaptability
+  - Organisational Agility
+  - Continuous Improvement
+  - Software Development
+  - Agile Strategy
+  - Business Agility
+  - Organisational Culture
+  - Continuous Learning
+  - Organisational Change
+  - Agile Transformation
+  - Enterprise Agility
+ItemId: HayVv0vR0pI
+ResourceId: HayVv0vR0pI
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Agile philosophy embodies a mindset that prioritises flexibility, collaboration, and customer-centricity in product development. It transcends specific frameworks like Scrum or Kanban, serving as a guiding ethos that shapes how teams approach their work. This philosophy emphasises the importance of delivering value incrementally and iteratively, allowing organisations to respond swiftly to changing market demands and customer feedback. 

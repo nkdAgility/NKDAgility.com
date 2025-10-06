@@ -33,24 +33,30 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:26:06
 icon: fa-table-cells-large
 concepts:
-- Tool
+  - Tool
 categories:
-- Product Development
+  - Product Development
 tags:
-- Azure DevOps
-- Agile Planning Tools
-- Operational Practices
-- Continuous Improvement
-- Product Delivery
-- Software Development
-- Agile Planning
-- Organisational Agility
-- Collaboration Tools
-- Project Management
-- Transparency
-- Pragmatic Thinking
-- Social Technologies
-- Team Performance
+  - Azure DevOps
+  - Agile Planning Tools
+  - Operational Practices
+  - Continuous Improvement
+  - Product Delivery
+  - Software Development
+  - Agile Planning
+  - Organisational Agility
+  - Collaboration Tools
+  - Project Management
+  - Transparency
+  - Pragmatic Thinking
+  - Social Technologies
+  - Team Performance
+ItemId: aSiB2E-9XYy
+ResourceId: aSiB2E-9XYy
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Azure Boards is a powerful tool within the Azure DevOps suite designed to facilitate the management of Agile projects. It enables teams to track work items, manage backlogs, and optimise planning through visual boards that support methodologies like Scrum and Kanban. By providing a clear view of tasks, progress, and team capacity, Azure Boards enhances collaboration and communication among team members, ensuring everyone is aligned on priorities and deliverables.

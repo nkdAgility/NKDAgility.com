@@ -1,6 +1,6 @@
 ---
-title: When Heathrow went down, they blamed the power supplier.
-short_title: 'Heathrow Outage: Disaster Recovery Failure'
+title: When Heathrow went down, they blamed the power supplier
+short_title: "Heathrow Outage: Disaster Recovery Failure"
 description: Heathrow’s outage was caused by an over-sensitive disaster recovery system, not a power loss, highlighting the risks of untested resilience and flawed infrastructure assumptions.
 tldr: Heathrow’s outage was not caused by a power loss but by an overly sensitive internal system that shut everything down in response to a minor fluctuation, revealing that their disaster recovery measures were untested for real-world chaos. Investing in infrastructure does not guarantee true resilience; resilience is proven only when systems are tested against unexpected failures. Development managers should regularly test and challenge their recovery processes to ensure they work under real conditions, not just ideal scenarios.
 date: 2025-05-15T15:30:30+01:00
@@ -40,8 +40,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:12Z
 ResourceId: NpLk02WHeMe
 ResourceType: signals
-
 ---
+
 When Heathrow went down, they blamed the power supplier.
 
 A fire at one substation, they said, caused the disruption. Convenient story. But it wasn't true.

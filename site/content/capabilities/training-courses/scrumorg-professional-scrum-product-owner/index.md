@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: jUM-1XnARoT
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -120,8 +119,9 @@ audience:
 trainers:
   - /company/people/martin-hinshelwood/
 roadmap: 
-ResourceId: jUM-1XnARoT
+ResourceId: PSPO
 ResourceType: course
+ItemId: PSPO
 
 ---
 # Professional Scrum Product Owner (PSPO) Course Datasheet

@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: -JfGj8NOcre
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -124,8 +123,9 @@ roadmap:
 sessionCount: 8
 syllabus: 
 events: 
-ResourceId: -JfGj8NOcre
+ResourceId: PSPO-A
 ResourceType: course
+ItemId: PSPO-A
 
 ---
 # Advanced Professional Scrum Product Owner (PSPO-A) Course with Certification

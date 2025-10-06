@@ -36,6 +36,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
+ItemId: iA5Aa00m1eA
+ResourceId: iA5Aa00m1eA
+ItemType: concepts
+ResourceType: concepts
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 **Strategy** is a **high-level approach** that guides an organisation towards achieving its long-term goals. Unlike **methods** or **practices**, which provide the **how** of execution, **strategy** defines the **direction** and **purpose** of those actions. It is about ensuring that resources, teams, and methods are **aligned** with the organisation's overall vision and mission.

@@ -33,25 +33,31 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:14:25
 icon: fa-sitemap
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Technical Leadership
+  - Product Development
+  - Technical Leadership
 tags:
-- Social Technologies
-- Organisational Agility
-- Organisational Culture
-- Market Adaptability
-- Pragmatic Thinking
-- Business Agility
-- Agile Philosophy
-- Team Collaboration
-- Team Motivation
-- Value Delivery
-- Agentic Agility
-- Lean Principles
-- Continuous Learning
-- Team Performance
+  - Social Technologies
+  - Organisational Agility
+  - Organisational Culture
+  - Market Adaptability
+  - Pragmatic Thinking
+  - Business Agility
+  - Agile Philosophy
+  - Team Collaboration
+  - Team Motivation
+  - Value Delivery
+  - Agentic Agility
+  - Lean Principles
+  - Continuous Learning
+  - Team Performance
+ItemId: fpCQh1KmLc2
+ResourceId: fpCQh1KmLc2
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Self-organisation refers to the ability of teams to autonomously manage their work, make decisions, and adapt to changing circumstances without relying on external control. This concept is crucial as it fosters a culture of ownership and accountability, enabling teams to respond swiftly to challenges and opportunities. By empowering individuals to take initiative, self-organisation enhances collaboration and innovation, leading to more effective problem-solving and value delivery.

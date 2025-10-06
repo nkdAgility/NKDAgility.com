@@ -1,5 +1,5 @@
 ---
-title: Loss of My.User.Name is not that bad...
+title: Loss of My.User.Name is not that bad
 description: Explains how to access and manage user and security information in .NET applications using System.DirectoryServices.AccountManagement instead of My.User.Name.
 date: 2008-02-19
 lastmod: 2008-02-19
@@ -14,7 +14,7 @@ ItemKind: resource
 ItemContentOrigin: Human
 slug: loss-of-my-user-name-is-not-that-bad
 aliases:
-  - /resources/blog/loss-of-my.user.name-is-not-that-bad...
+  - /resources/blog/loss-of-my.user.name-is-not-that-bad
   - /resources/2iThCwSc5Qx
 aliasesArchive:
   - /blog/loss-of-my-user-name-is-not-that-bad
@@ -36,8 +36,8 @@ ResourceImportId: 245
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: metro-binary-vb-128-link-2-2.png
-
 ---
+
 ```
 Imports System.DirectoryServices.AccountManagement
 ```

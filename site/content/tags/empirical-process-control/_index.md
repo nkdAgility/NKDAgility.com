@@ -36,24 +36,30 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:54:26
 icon: fa-microscope
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
+  - Product Development
 tags:
-- Pragmatic Thinking
-- Decision Making
-- Organisational Agility
-- Continuous Improvement
-- Social Technologies
-- Metrics and Learning
-- Continuous Learning
-- Operational Practices
-- Agile Philosophy
-- Agile Strategy
-- Agile Values and Principles
-- Organisational Change
-- Value Delivery
-- Agile Transformation
+  - Pragmatic Thinking
+  - Decision Making
+  - Organisational Agility
+  - Continuous Improvement
+  - Social Technologies
+  - Metrics and Learning
+  - Continuous Learning
+  - Operational Practices
+  - Agile Philosophy
+  - Agile Strategy
+  - Agile Values and Principles
+  - Organisational Change
+  - Value Delivery
+  - Agile Transformation
+ItemId: rvkDj1GRUjd
+ResourceId: rvkDj1GRUjd
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Empirical Process Control is a foundational concept that emphasises decision-making based on observation and experimentation rather than assumptions. It is integral to Agile, Lean, and DevOps methodologies, enabling teams to adapt their processes and outputs through continuous inspection and transparency. By relying on real data and feedback, organisations can identify what works and what doesn’t, fostering a culture of learning and improvement.

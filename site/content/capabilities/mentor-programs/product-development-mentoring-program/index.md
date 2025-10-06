@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: JVKfZqwgHRO
 ItemType: mentor-program
 ItemKind: program
 ItemContentOrigin: human
@@ -194,8 +193,9 @@ headline:
     >
     > *- Brian Harry, Product Unit Manager, Azure DevOps*
   cards: []
-ResourceId: JVKfZqwgHRO
+ResourceId: NKD-PDMP
 ResourceType: mentor-program
+ItemId: NKD-PDMP
 
 ---
 # Product Development Mentoring Program

@@ -1,6 +1,6 @@
 ---
-title: "Engineering Excellence"
-description: "Build high-quality software systems through advanced engineering practices that enhance reliability, maintainability, and technical innovation."
+title: Engineering Excellence
+description: Build high-quality software systems through advanced engineering practices that enhance reliability, maintainability, and technical innovation.
 date: 2025-05-30T09:00:00Z
 trustpilot: false
 creator: Martin Hinshelwood
@@ -28,10 +28,10 @@ sections:
     type: content
   - type: outcomehero
     cta:
-      content: "We've helped leaders like you. **Let's Talk.**"
+      content: We've helped leaders like you. **Let's Talk.**
       button:
-        text: "Get Started Now"
-        url: "/company/book-online"
+        text: Get Started Now
+        url: /company/book-online
     boxes:
       - content: |
           Are you a CTO burried under tech debt with no clear way forward?
@@ -96,24 +96,24 @@ sections:
   - type: outcomeboxes
     title: Engineering Excellence ensures
     boxes:
-      - box:
-        content:
+      - box: 
+        content: 
         items:
           - title: Standardise development practices
           - title: Implement CI/CD, IaC, test automation
           - title: Eliminate waste and drive continuous delivery
           - title: Build a learning scalable tech culture
           - title: Reduce release failure rates
-      - box:
-        content:
+      - box: 
+        content: 
         items:
           - title: Reclaim trust in your engineering culture
           - title: Reduce stress from firefighting releases
           - title: Feel pride in your product, not dread
           - title: Empower your teams to innovate without fear
           - title: Avoid burnout by building systems that work
-      - box:
-        content:
+      - box: 
+        content: 
         items:
           - title: Lead high-performing delivery teams
           - title: Mentor engineering managers and architects
@@ -133,10 +133,10 @@ sections:
         content: |
           By removing delivery friction and giving teams more autonomy over their work systems, multiple clients reported higher morale and better retention in team surveys conducted post-engagement.
     cta:
-      content: "Want the numbers?"
+      content: Want the numbers?
       button:
-        text: "Read the Case Study"
-        url: "/resources/case-studies/"
+        text: Read the Case Study
+        url: /resources/case-studies/
   - title: Why NKDAgility?
     type: textNlist
     list:
@@ -158,8 +158,16 @@ sections:
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: "We've helped teams like yours. Lets talk."
+      content: We've helped teams like yours. Lets talk.
       button:
-        text: "Schedule a call"
-        url: "/company/book-online"
+        text: Schedule a call
+        url: /company/book-online
+ItemId: HHVaKkQviFN
+ResourceId: HHVaKkQviFN
+ItemType: outcomes
+ResourceType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
+
 ---
+

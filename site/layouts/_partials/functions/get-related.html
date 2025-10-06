@@ -1,5 +1,31 @@
 {{ $page := . }}
-{{ $jsonFile := $page.Resources.GetMatch "data.index.related.json" }}
-{{ $relatedData := ($jsonFile | transform.Unmarshal) }}
-{{ $filtered := where (or $relatedData.related (slice)) "Similarity" "gt" 0.4 }}
+
+{{ $ItemKind := .Params.ItemKind }}
+{{ $ItemType := .Params.ItemType }}
+{{ $ItemId := .Params.ItemId }}
+
+{{ $filtered := slice }}
+
+{{- if not $ItemKind -}}
+  {{- warnf "get-related.html: ItemKind parameter is missing for page %s" .Path -}}
+{{- else if not $ItemType -}}
+  {{- warnf "get-related.html: ItemType parameter is missing for page %s" .Path -}}
+{{- else if not $ItemId -}}
+  {{- warnf "get-related.html: ItemId parameter is missing for page %s" .Path -}}
+{{- else -}}
+  {{- $kindData := index site.Data $ItemKind -}}
+  {{- if $kindData -}}
+    {{- $typeData := index $kindData $ItemType -}}
+    {{- if $typeData -}}
+      {{- $itemData := index $typeData $ItemId -}}
+      {{- if $itemData -}}
+        {{- $relatedData := index $itemData "related" -}}
+        {{- if $relatedData -}}
+          {{- $filtered = where (or $relatedData.related (slice)) "Similarity" "gt" 0.4 -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
 {{- return $filtered -}}

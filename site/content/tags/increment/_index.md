@@ -35,29 +35,35 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T16:42:59
 aliases:
-- /practices/product-increment.html
-- /learn/agile-delivery-kit/practices/product-increment
-- /resources/m1DWI59M-Tf
-- /resources/practices/product-increment/
+  - /practices/product-increment.html
+  - /learn/agile-delivery-kit/practices/product-increment
+  - /resources/m1DWI59M-Tf
+  - /resources/practices/product-increment/
 icon: fa-stairs
 concepts:
-- Artifact
+  - Artifact
 categories:
-- Product Development
-- Scrum
-- Engineering Excellence
+  - Product Development
+  - Scrum
+  - Engineering Excellence
 tags:
-- Working Software
-- Software Development
-- Value Delivery
-- Agile Frameworks
-- Organisational Agility
-- Operational Practices
-- Product Delivery
-- Social Technologies
-- Market Adaptability
-- Empirical Process Control
-- Transparency
+  - Working Software
+  - Software Development
+  - Value Delivery
+  - Agile Frameworks
+  - Organisational Agility
+  - Operational Practices
+  - Product Delivery
+  - Social Technologies
+  - Market Adaptability
+  - Empirical Process Control
+  - Transparency
+ItemId: 8f7mkHfT7Ha
+ResourceId: 8f7mkHfT7Ha
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 **Increment** refers to the **tangible, usable output** produced at the end of each iteration, especially in frameworks like **Scrum** and **Agile**. It represents the sum of all **completed work** during a Sprint, ensuring that the product is always potentially shippable and adds measurable value.

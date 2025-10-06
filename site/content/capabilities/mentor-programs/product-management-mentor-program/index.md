@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: 3xZaUxPTiUZ
 ItemType: mentor-program
 ItemKind: program
 ItemContentOrigin: human
@@ -191,8 +190,9 @@ headline:
     >
     > *-Edward Deming*
   cards: []
-ResourceId: 3xZaUxPTiUZ
+ResourceId: NKD-PMMP
 ResourceType: mentor-program
+ItemId: NKD-PMMP
 
 ---
 # Product Management Mentor Program

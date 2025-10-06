@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: 9TCIWaWs_mz
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -95,8 +94,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-ResourceId: 9TCIWaWs_mz
+ResourceId: PSK
 ResourceType: course
+ItemId: PSK
 
 ---
 ```markdown

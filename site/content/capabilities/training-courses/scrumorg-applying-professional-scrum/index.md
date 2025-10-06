@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: _w2xgO2i3C9
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -140,8 +139,9 @@ roadmap:
     - /capabilities/training-courses/scrum-training-courses/professional-scrum-product-owner/
     - /capabilities/training-courses/scrum-training-courses/scrumorg-applying-professional-scrum-for-software-development/
 events: 
-ResourceId: _w2xgO2i3C9
+ResourceId: APS
 ResourceType: course
+ItemId: APS
 
 ---
 # Applying Professional Scrum (APS) Course with Certification

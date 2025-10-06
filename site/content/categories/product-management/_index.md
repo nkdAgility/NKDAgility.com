@@ -33,7 +33,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Ethos
+  - Ethos
+ItemId: XIThPpc-pCX
+ResourceId: XIThPpc-pCX
+ItemType: categories
+ResourceType: categories
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 **Product Management: Balancing Vision, Value, and Viability**

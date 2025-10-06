@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: dnZMM8p0lC4
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -94,8 +93,9 @@ roadmap:
 sessionCount: 8
 syllabus: 
 events: 
-ResourceId: dnZMM8p0lC4
+ResourceId: AMP
 ResourceType: course
+ItemId: AMP
 
 ---
 # Applying Metrics for Predictability

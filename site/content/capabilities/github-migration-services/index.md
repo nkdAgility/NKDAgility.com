@@ -11,7 +11,7 @@ sitemap:
   changefreq: weekly
 ItemId: 6NS_E7j1pRu
 ItemType: capabilities
-ItemKind: capability
+ItemKind: marketing
 ItemContentOrigin: human
 slug: github-migration-services
 aliases: []

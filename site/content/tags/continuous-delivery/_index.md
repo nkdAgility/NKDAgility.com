@@ -29,29 +29,35 @@ headline:
   content: A software delivery approach enabling teams to rapidly and reliably release incremental improvements to users through automation of integration, testing, and deployment processes, facilitating quick validation of assumptions, responsiveness to user feedback, reduced risk, enhanced quality, and accelerated value delivery, thereby promoting continuous learning, adaptability, and innovation.
   updated: 2025-05-23T23:17:12Z
 aliases:
-- /learn/agile-delivery-kit/first-principals/continuous-delivery/
+  - /learn/agile-delivery-kit/first-principals/continuous-delivery/
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 icon: fa-infinity
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- Engineering Excellence
-- DevOps
+  - Product Development
+  - Engineering Excellence
+  - DevOps
 tags:
-- Frequent Releases
-- Software Development
-- Product Delivery
-- Value Delivery
-- Operational Practices
-- Engineering Practices
-- Market Adaptability
-- Deployment Strategies
-- Pragmatic Thinking
-- Release Management
-- Time to Market
+  - Frequent Releases
+  - Software Development
+  - Product Delivery
+  - Value Delivery
+  - Operational Practices
+  - Engineering Practices
+  - Market Adaptability
+  - Deployment Strategies
+  - Pragmatic Thinking
+  - Release Management
+  - Time to Market
+ItemId: gzUIBdIPGik
+ResourceId: gzUIBdIPGik
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Continuous Delivery is a disciplined software delivery practice aimed at producing software in short, reliable cycles, ensuring that it can be released at any moment. It involves consistently delivering small, incremental improvements directly into the hands of real users, from the very first iteration.

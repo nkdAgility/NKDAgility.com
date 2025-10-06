@@ -34,11 +34,17 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:05:09
 icon: fa-people-group
 concepts:
-- Capability
+  - Capability
 categories: []
 tags:
-- Metrics and Learning
-- Operational Practices
+  - Metrics and Learning
+  - Operational Practices
+ItemId: mm3PcAgceu0
+ResourceId: mm3PcAgceu0
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 eam performance refers to the consistent ability of a team to deliver outcomes through its system of work. It reflects delivery capability over time, as measured by observable patterns in flow, responsiveness, and quality.

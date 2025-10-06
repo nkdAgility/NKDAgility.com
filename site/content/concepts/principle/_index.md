@@ -35,6 +35,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
+ItemId: 0xDxjVuNxZj
+ResourceId: 0xDxjVuNxZj
+ItemType: concepts
+ResourceType: concepts
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 A **principle** is a **fundamental, actionable belief** or **guiding rule** that shapes decision-making and behaviour within an organisation. It serves as a **framework for action**, ensuring that teams know **how to approach** their work in alignment with the organisation’s broader goals and values.

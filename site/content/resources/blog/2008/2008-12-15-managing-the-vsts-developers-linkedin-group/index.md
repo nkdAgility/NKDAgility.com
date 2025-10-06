@@ -1,5 +1,5 @@
 ---
-title: Managing the “VSTS Developers” LinkedIn group.
+title: Managing the “VSTS Developers” LinkedIn group
 description: Announces new managers for the VSTS Developers LinkedIn group to improve member support, information sharing, and response times for ALM and TFS topics.
 date: 2008-12-15
 lastmod: 2008-12-15
@@ -14,7 +14,6 @@ ItemKind: resource
 ItemContentOrigin: Human
 slug: managing-the-vsts-developers-linkedin-group
 aliases:
-  - /resources/blog/managing-the-vsts-developers-linkedin-group.
   - /resources/FNNPsRLDXlu
 aliasesArchive:
   - /blog/managing-the-vsts-developers-linkedin-group
@@ -35,8 +34,8 @@ ResourceType: blog
 ResourceImportId: 153
 creator: Martin Hinshelwood
 resourceTypes: blog
-
 ---
+
 [![n2381079695_7151](images/eb4ca28d54bb_77F8-n2381079695_7151_3-1-1.jpg)](//www.linkedin.com/e/gis/104499)
 { .post-img }
 

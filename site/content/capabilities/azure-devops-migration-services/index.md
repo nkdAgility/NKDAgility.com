@@ -11,7 +11,7 @@ sitemap:
   changefreq: weekly
 ItemId: 9VervIsddUa
 ItemType: capabilities
-ItemKind: capability
+ItemKind: marketing
 ItemContentOrigin: human
 slug: azure-devops-migration-services
 aliases:

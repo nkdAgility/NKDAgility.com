@@ -11,8 +11,6 @@ class HugoMarkdown {
     [System.Collections.Specialized.OrderedDictionary]$FrontMatter
     [string]$BodyContent
     [string]$FilePath
-    [string]$FolderPath
-    [string]$ReferencePath
 
     HugoMarkdown([System.Collections.Specialized.OrderedDictionary]$frontMatter, [string]$bodyContent, [string]$FilePath) {
         # Directly assign the front matter to the class property
@@ -26,6 +24,8 @@ class HugoMarkdown {
         $this.FilePath = $FilePath
         $this.FolderPath = Split-Path -Path $FilePath -Parent
         $this.ReferencePath = $this.FolderPath.Replace((Resolve-Path -Path "./site/content/"), '').Replace('\', '/')
+        $this.DataPath = Join-Path "site\data" $this.FrontMatter.ItemKind $this.FrontMatter.ItemType $this.FrontMatter.ItemId
+
     }
 }
 
@@ -492,25 +492,68 @@ function Update-ItemFrontMatterData {
         [HugoMarkdown]$hugoMarkdown
     )
     $ItemId = $null;
-    if ($hugoMarkdown.FrontMatter.Contains("ItemId")) {
-        $ItemId = $hugoMarkdown.FrontMatter.ItemId
-    }
-    elseif ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
-        $ItemId = $hugoMarkdown.FrontMatter.ItemId
-    }
-    elseif ($hugoMarkdown.FrontMatter.Contains("videoId")) {
-        $ItemId = $hugoMarkdown.FrontMatter.videoId
+
+    if ($hugoMarkdown.FrontMatter.ItemKind -eq "program") {
+        $ItemId = $hugoMarkdown.FrontMatter.code
     }
     else {
-        $ItemId = New-ResourceId
+        if ($hugoMarkdown.FrontMatter.Contains("ItemId")) {
+            $ItemId = $hugoMarkdown.FrontMatter.ItemId
+        }
+        elseif ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
+            $ItemId = $hugoMarkdown.FrontMatter.ResourceId
+        }
+        elseif ($hugoMarkdown.FrontMatter.Contains("videoId")) {
+            $ItemId = $hugoMarkdown.FrontMatter.videoId
+            Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'videoId'
+        }
+        elseif ($hugoMarkdown.FrontMatter.Contains("code")) {
+            $ItemId = $hugoMarkdown.FrontMatter.code
+        }
+        else {
+            $ItemId = New-ResourceId
+        }
     }
-    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ItemId' -fieldValue $ItemId
-    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ItemId
+   
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ItemId' -fieldValue $ItemId -Overwrite
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ItemId -Overwrite
 
     #=====================ItemType=================
     $ItemType = Get-ResourceType  -FilePath  $hugoMarkdown.FolderPath
     if ($null -eq $ItemType) {
-        $ItemType = $hugoMarkdown.FrontMatter.type
+        if ($hugoMarkdown.FrontMatter.Contains("ItemType")) {
+            $ItemType = $hugoMarkdown.FrontMatter.ItemType
+        }
+        elseif ($hugoMarkdown.FrontMatter.Contains("type")) {
+            $ItemType = $hugoMarkdown.FrontMatter.type
+        }
+        elseif ($hugoMarkdown.ReferencePath.Contains("tags")) {
+            $ItemType = "tags"
+        }
+        elseif ($hugoMarkdown.ReferencePath.Contains("categories")) {
+            $ItemType = "categories"
+        }
+        elseif ($hugoMarkdown.ReferencePath.Contains("concepts")) {
+            $ItemType = "concepts"
+        }
+        elseif ($hugoMarkdown.ReferencePath.Contains("course_learning_experiences")) {
+            $ItemType = "course_learning_experiences"
+        }
+        elseif ($hugoMarkdown.ReferencePath.Contains("course_proficiencies")) {
+            $ItemType = "course_proficiencies"
+        }
+        elseif ($hugoMarkdown.ReferencePath.Contains("course_topics")) {
+            $ItemType = "course_topics"
+        }
+        elseif ($hugoMarkdown.ReferencePath.Contains("course_vendors")) {
+            $ItemType = "course_vendors"
+        }
+        elseif ($hugoMarkdown.ReferencePath.Contains("delivery_audiences")) {
+            $ItemType = "delivery_audiences"
+        }
+        else {
+            throw "We dont have a ItemType for this resource: $($hugoMarkdown.FilePath)"
+        }
     }
     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ItemType' -fieldValue $ItemType -Overwrite
     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue $ItemType -Overwrite
@@ -521,11 +564,14 @@ function Update-ItemFrontMatterData {
         { $_ -in @("workshops", "learning-series", "case-studies", "blog", "signals", "newsletters", "guides", "engineering-notes", "videos", "podcast", "principles", "recipes") } { 
             $ItemKind = "resource"
         }
+        { $_ -in @("delivery_audiences", "course_vendors", "course_topics", "course_proficiencies", "course_learning_experiences", "concepts", "categories", "tags") } { 
+            $ItemKind = "classification"
+        }
         { $_ -in @("course", "mentor-program") } { 
             $ItemKind = "program"
         }
-        "capabilities" { 
-            $ItemKind = "capability"
+        { $_ -in @("capabilities", "outcomes", "company", "people", "customers", "home") } { 
+            $ItemKind = "marketing"
         }
         default { 
             throw "We dont have a ItemKind for this type of resource: $ItemType"

@@ -39,6 +39,12 @@ headline:
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+ItemId: 2CeTKKZhkBN
+ResourceId: 2CeTKKZhkBN
+ItemType: concepts
+ResourceType: concepts
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 A **First Principle** is an **irreducible truth**. It is not a heuristic, value, or belief. It is a foundational constraint on how complex systems behave, adapt, and deliver value.

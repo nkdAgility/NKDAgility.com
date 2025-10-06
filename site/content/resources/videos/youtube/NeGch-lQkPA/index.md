@@ -1,5 +1,5 @@
 ---
-title: Overview of 'applying flow metrics for Scrum' course.
+title: Overview of 'applying flow metrics for Scrum' course
 short_title: Applying Flow Metrics for Scrum Course Overview
 description: Learn how to use Kanban flow metrics in Scrum to improve value delivery, track progress, identify bottlenecks, and drive continuous improvement in agile teams.
 tldr: The "Applying Flow Metrics for Scrum" course teaches Scrum teams how to use Kanban metrics to improve value delivery, transparency, and continuous improvement. Key benefits include better visibility into workflow, data-driven decision-making, and more predictable outcomes for stakeholders. Development managers should consider this course if their teams need to deliver value more consistently and want practical tools for ongoing improvement.
@@ -19,7 +19,6 @@ aliases:
   - /resources/NeGch-lQkPA
   - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
   - /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
-  - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course.
 aliasesArchive:
   - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course-
   - /resources/overview-of-applying-flow-metrics-for-scrum-course
@@ -61,17 +60,15 @@ duration: 125
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ### Applying Flow Metrics for [Scrum]({{< ref "/categories/scrum" >}}): Enhancing [Value Delivery]({{< ref "/tags/value-delivery" >}}) with [Kanban]({{< ref "/categories/kanban" >}})
 
 **Introduction**
 
 Scrum teams often face challenges in delivering value at the end of each sprint. While Scrum provides a robust framework for iterative development, it lacks specific metrics for measuring and optimizing flow. This is where Kanban’s flow metrics come in. By integrating Kanban strategies within Scrum, teams can enhance their ability to deliver value consistently. In this post, we’ll explore the benefits of the "Applying Flow Metrics for Scrum" course and how it can transform your Scrum practice.
 
-
-
-* * *
+---
 
 **Why Integrate Kanban with Scrum?**
 
@@ -83,7 +80,7 @@ Kanban and Scrum are not mutually exclusive. In fact, they complement each other
 
 - **Data-Driven Decisions**: Kanban’s data-centric approach allows teams to make informed decisions, leading to [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and better outcomes.
 
-* * *
+---
 
 **Course Overview: Applying Flow Metrics for Scrum**
 
@@ -95,7 +92,7 @@ The "Applying Flow Metrics for Scrum" course is designed to help Scrum teams lev
 
 - **Tools and Techniques**: Gain insights into tools and techniques for tracking progress, managing the [product backlog]({{< ref "/tags/product-backlog" >}}), and identifying improvement opportunities.
 
-* * *
+---
 
 **How Kanban Metrics Enhance Scrum Events**
 
@@ -129,7 +126,7 @@ The "Applying Flow Metrics for Scrum" course is designed to help Scrum teams lev
 
 - Ensure that high-value items are ready for upcoming sprints.
 
-* * *
+---
 
 **The Benefits of Applying Flow Metrics for Scrum**
 
@@ -141,7 +138,7 @@ By integrating Kanban metrics into your Scrum practice, you can expect the follo
 
 - **Continuous Improvement**: Use data to drive continuous improvement, making your team more efficient and effective over time.
 
-* * *
+---
 
 **Conclusion**
 
@@ -149,7 +146,7 @@ The "Applying Flow Metrics for Scrum" course offers a powerful way to enhance yo
 
 **Thanks for reading!** If you found this post helpful, please like, follow, and subscribe. I always reply to comments, and if you want to chat about Kanban, Scrum, or any other Agile practices, feel free to book a coffee with me through Naked Agility.
 
-* * *
+---
 
 **Recommended Resources:**
 

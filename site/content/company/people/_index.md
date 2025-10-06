@@ -1,6 +1,8 @@
 ---
 title: Our People
 type: people
+ItemType: people
+ItemKind: marketing
 card:
   button:
     content: more info

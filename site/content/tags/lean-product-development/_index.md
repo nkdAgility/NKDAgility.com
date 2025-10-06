@@ -33,26 +33,32 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:37:30
 icon: fa-lightbulb-gear
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
-- Lean
-- Product Management
+  - Product Development
+  - Lean
+  - Product Management
 tags:
-- Lean Thinking
-- Operational Practices
-- Value Delivery
-- Pragmatic Thinking
-- Lean Principles
-- Market Adaptability
-- Continuous Improvement
-- Business Agility
-- Product Strategy
-- Product Delivery
-- Organisational Agility
-- Social Technologies
-- Organisational Culture
-- Experimentation
+  - Lean Thinking
+  - Operational Practices
+  - Value Delivery
+  - Pragmatic Thinking
+  - Lean Principles
+  - Market Adaptability
+  - Continuous Improvement
+  - Business Agility
+  - Product Strategy
+  - Product Delivery
+  - Organisational Agility
+  - Social Technologies
+  - Organisational Culture
+  - Experimentation
+ItemId: xD3HhEA2Wh7
+ResourceId: xD3HhEA2Wh7
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Lean Product Development focuses on minimising waste while maximising learning throughout the product creation process. This approach is rooted in Lean principles, which advocate for efficiency and value delivery by eliminating non-value-adding activities. By fostering a culture of continuous improvement, teams can adapt quickly to changing market demands and customer feedback, ensuring that the products developed are not only relevant but also of high quality.

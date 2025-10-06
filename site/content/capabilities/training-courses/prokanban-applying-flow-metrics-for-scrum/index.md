@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: Ej_UgfRAGhZ
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -100,8 +99,9 @@ roadmap:
 sessionCount: 8
 syllabus: 
 events: 
-ResourceId: Ej_UgfRAGhZ
+ResourceId: AFMS
 ResourceType: course
+ItemId: AFMS
 
 ---
 # Applying Flow Metrics for Scrum

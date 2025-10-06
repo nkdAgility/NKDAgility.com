@@ -33,18 +33,24 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T17:19:05
 concepts:
-- Capability
+  - Capability
 categories: []
 tags:
-- Organisational Change
-- Social Technologies
-- Organisational Agility
-- Organisational Culture
-- Pragmatic Thinking
-- Continuous Improvement
-- Continuous Learning
-- Sociotechnical Systems
-- Organisational Psychology
+  - Organisational Change
+  - Social Technologies
+  - Organisational Agility
+  - Organisational Culture
+  - Pragmatic Thinking
+  - Continuous Improvement
+  - Continuous Learning
+  - Sociotechnical Systems
+  - Organisational Psychology
+ItemId: Vs1WpXj41mm
+ResourceId: Vs1WpXj41mm
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Change Management is the structured approach to transitioning individuals, teams, and organisations from a current state to a desired future state. It is essential for fostering an environment where teams can adapt to new processes, technologies, and mindsets without succumbing to superficial transformation efforts. Effective change management ensures that changes are not only implemented but also embraced, leading to sustainable improvements in performance and value delivery.

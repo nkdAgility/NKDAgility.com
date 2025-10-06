@@ -36,7 +36,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Discipline
+  - Discipline
+ItemId: 6tZX2WF_M0K
+ResourceId: 6tZX2WF_M0K
+ItemType: categories
+ResourceType: categories
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 ## Engineering Excellence: Driving High-Quality, Sustainable Software Development

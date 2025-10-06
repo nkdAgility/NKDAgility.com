@@ -36,21 +36,27 @@ sitemap:
 BodyContentGenDate: 2025-04-09T12:55:25
 icon: fa-laptop-code
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Value Delivery
-- Increment
-- Software Development
-- Product Delivery
-- Organisational Agility
-- Empirical Process Control
-- Continuous Improvement
-- Operational Practices
-- Agile Philosophy
-- Pragmatic Thinking
+  - Value Delivery
+  - Increment
+  - Software Development
+  - Product Delivery
+  - Organisational Agility
+  - Empirical Process Control
+  - Continuous Improvement
+  - Operational Practices
+  - Agile Philosophy
+  - Pragmatic Thinking
+ItemId: TkiYgsiMRLH
+ResourceId: TkiYgsiMRLH
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 **Working Software** is a core **artifact** in Agile, Scrum, and Lean frameworks, representing the **tangible output** of a team’s work. It is the product of iterative development, and it **demonstrates progress** and **value delivery**. Unlike methods or practices, which define **how** work is done, **working software** is the **concrete result**—the **increment** produced at the end of each Sprint or iteration.

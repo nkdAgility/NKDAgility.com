@@ -44,6 +44,12 @@ icon: fa-brain-circuit
 concepts: []
 categories: []
 tags: []
+ItemId: wSJI1jyeHre
+ResourceId: wSJI1jyeHre
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Collective Intelligence represents the enhanced problem-solving and innovation capabilities that emerge when humans with agency collaborate effectively with AI agents as team members. This goes beyond using AI as a passive tool—it requires genuine partnership where both humans and AI contribute complementary strengths to achieve outcomes neither could accomplish alone.

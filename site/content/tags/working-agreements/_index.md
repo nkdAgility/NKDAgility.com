@@ -32,18 +32,24 @@ sitemap:
 BodyContentGenDate: 2025-04-09T12:55:36
 icon: fa-handshake
 concepts:
-- Discipline
+  - Discipline
 categories:
-- Product Development
+  - Product Development
 tags:
-- Team Collaboration
-- Self Organisation
-- Social Technologies
-- Organisational Culture
-- Team Motivation
-- Pragmatic Thinking
-- Organisational Agility
-- Agile Philosophy
+  - Team Collaboration
+  - Self Organisation
+  - Social Technologies
+  - Organisational Culture
+  - Team Motivation
+  - Pragmatic Thinking
+  - Organisational Agility
+  - Agile Philosophy
+ItemId: h7LBpdEzg1g
+ResourceId: h7LBpdEzg1g
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Working agreements are essential norms and principles established by teams to enhance collaboration and effectiveness in their work. These agreements define how team members interact, communicate, and make decisions, fostering a shared understanding of expectations and responsibilities. By creating a clear framework for behaviour and engagement, working agreements enable teams to operate more cohesively, reducing misunderstandings and conflicts.

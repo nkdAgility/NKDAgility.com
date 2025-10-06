@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: IoUQqtS1U1Y
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -120,8 +119,9 @@ audience:
 trainers: 
 roadmap: 
 events: 
-ResourceId: IoUQqtS1U1Y
+ResourceId: APS-SD
 ResourceType: course
+ItemId: APS-SD
 
 ---
 # Applying Professional Scrum for Software Development (APS-SD) with Certification

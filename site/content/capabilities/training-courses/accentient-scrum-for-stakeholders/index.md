@@ -9,7 +9,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
-ItemId: 33qyqKjBf3T
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -89,8 +88,9 @@ trainers:
 roadmap: 
 syllabus: 
 events: 
-ResourceId: 33qyqKjBf3T
+ResourceId: S4S
 ResourceType: course
+ItemId: S4S
 
 ---
 # Scrum for Stakeholders Training

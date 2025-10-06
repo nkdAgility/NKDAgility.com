@@ -37,22 +37,28 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:51:54
 icon: fa-building-flag
 concepts:
-- Capability
+  - Capability
 categories:
-- Product Development
+  - Product Development
 tags:
-- Business Agility
-- Market Adaptability
-- Organisational Agility
-- Agile Philosophy
-- Large Scale Agility
-- Agile Strategy
-- Organisational Change
-- Change Management
-- Social Technologies
-- Organisational Culture
-- Agile Transformation
-- Agile Values and Principles
+  - Business Agility
+  - Market Adaptability
+  - Organisational Agility
+  - Agile Philosophy
+  - Large Scale Agility
+  - Agile Strategy
+  - Organisational Change
+  - Change Management
+  - Social Technologies
+  - Organisational Culture
+  - Agile Transformation
+  - Agile Values and Principles
+ItemId: oc9MtHVCSoB
+ResourceId: oc9MtHVCSoB
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Enterprise Agility refers to the ability of an organisation to respond swiftly and effectively to changes in the market and customer demands, extending agile principles beyond individual teams to the entire enterprise. This concept is crucial as it fosters a culture of adaptability, enabling organisations to pivot quickly in response to new information or shifting priorities. By embedding agility into the organisational structure, processes, and culture, teams can deliver value predictably and sustainably, ensuring that products and services align closely with customer needs.

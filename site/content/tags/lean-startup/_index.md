@@ -33,25 +33,31 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:36:34
 icon: fa-flask-vial
 concepts:
-- Method
+  - Method
 categories:
-- Product Development
-- Lean
+  - Product Development
+  - Lean
 tags:
-- Entrepreneurship
-- Product Validation
-- Market Adaptability
-- Ability to Innovate
-- Lean Principles
-- Product Discovery
-- Social Technologies
-- Pragmatic Thinking
-- Hypothesis Driven Development
-- Continuous Improvement
-- Customer Focus
-- Experimentation
-- Organisational Agility
-- Minimum Viable Product
+  - Entrepreneurship
+  - Product Validation
+  - Market Adaptability
+  - Ability to Innovate
+  - Lean Principles
+  - Product Discovery
+  - Social Technologies
+  - Pragmatic Thinking
+  - Hypothesis Driven Development
+  - Continuous Improvement
+  - Customer Focus
+  - Experimentation
+  - Organisational Agility
+  - Minimum Viable Product
+ItemId: AHge1e_KSIl
+ResourceId: AHge1e_KSIl
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Lean Startup is a methodology that applies Lean principles to the development of new business ideas, focusing on rapid experimentation and validated learning. It emphasises the importance of building a minimum viable product (MVP) to test hypotheses about customer needs and market viability with minimal risk and investment. This approach allows teams to gather real-time feedback, enabling them to pivot or persevere based on empirical evidence rather than assumptions.

@@ -10,9 +10,9 @@ weight: 470
 icon: fa-sync-alt
 ResourceId: peNS32Lw-sn
 aliases:
-- /resources/methods/scrum-framework/
-- /learn/agile-delivery-kit/strategies/scrum-framework/
-- /resources/peNS32Lw-sn
+  - /resources/methods/scrum-framework/
+  - /learn/agile-delivery-kit/strategies/scrum-framework/
+  - /resources/peNS32Lw-sn
 Instructions: |-
   **Use this category only for discussions on Scrum.**  
   The Scrum category encompasses the principles, practices, and frameworks that facilitate collaborative and adaptive project management, primarily in software development. It is designed to enhance team performance and deliver maximum business value through iterative progress and continuous improvement.
@@ -36,7 +36,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Framework
+  - Framework
+ItemId: peNS32Lw-sn
+ItemType: categories
+ResourceType: categories
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Scrum is a **Framework** and a **social technology** for delivering **adaptive solutions** in complex environments. It is built on **empiricism**—transparency, inspection, and adaptation—and is designed to help teams deliver value iteratively and incrementally. Scrum is a **framework** that helps teams work together to solve complex problems and deliver high-value products. Its about planning.

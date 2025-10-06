@@ -36,26 +36,32 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:06:33
 icon: fa-circle-notch
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- DevOps
-- Kanban
+  - Product Development
+  - DevOps
+  - Kanban
 tags:
-- Team Performance
-- Metrics and Learning
-- Value Delivery
-- Operational Practices
-- Time to Market
-- Market Adaptability
-- Continuous Improvement
-- Evidence Based Management
-- Forecasting
-- Organisational Agility
-- Lean Thinking
-- Product Delivery
-- Software Development
-- Pragmatic Thinking
+  - Team Performance
+  - Metrics and Learning
+  - Value Delivery
+  - Operational Practices
+  - Time to Market
+  - Market Adaptability
+  - Continuous Improvement
+  - Evidence Based Management
+  - Forecasting
+  - Organisational Agility
+  - Lean Thinking
+  - Product Delivery
+  - Software Development
+  - Pragmatic Thinking
+ItemId: uk3AL8VhWiW
+ResourceId: uk3AL8VhWiW
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Cycle time is the measure of the total time taken to complete a unit of work, from the moment it is initiated until it is delivered. This metric is crucial for teams aiming to enhance their efficiency and predictability in delivering value. By tracking cycle time, organisations can identify bottlenecks, streamline processes, and optimise workflows, ultimately leading to faster delivery of products and services.

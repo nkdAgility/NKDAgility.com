@@ -7,4 +7,12 @@ type: customers
 slug: washington-department-of-enterprise-services
 preview: Washington-Department-of-Enterprise-Services.jpg
 customer-industries: Government
+ItemType: customers
+ItemKind: marketing
+ItemId: zoXYvkWUgpF
+ResourceId: zoXYvkWUgpF
+ResourceType: customers
+ItemContentOrigin: human
+
 ---
+

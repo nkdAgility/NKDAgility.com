@@ -11,7 +11,7 @@ sitemap:
   changefreq: weekly
 ItemId: p7M4Bv_h_Pa
 ItemType: capabilities
-ItemKind: capability
+ItemKind: marketing
 ItemContentOrigin: human
 slug: ai-opportunity-discovery
 aliases:

@@ -35,6 +35,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
+ItemId: dER2ExZIQui
+ResourceId: dER2ExZIQui
+ItemType: concepts
+ResourceType: concepts
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 A **tenet** is a **specific, actionable guiding rule** or **doctrine** that reinforces a larger philosophy within an organisation. Unlike **values**, which express what is important to an organisation, or **principles**, which provide broad guidance, tenets are **prescriptive** and define **how** teams should act in specific situations.

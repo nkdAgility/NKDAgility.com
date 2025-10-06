@@ -1,6 +1,6 @@
 ---
-title: 3 best ways to wreck Kanban. Don't have a working agreement.
-short_title: 'Kanban Failure: No Working Agreement'
+title: 3 best ways to wreck Kanban. Don't have a working agreement
+short_title: "Kanban Failure: No Working Agreement"
 description: Not having a working agreement in Kanban leads to team misalignment, inefficiency, and conflict. Clear agreements ensure roles, goals, and processes are understood by all.
 tldr: Not having a working agreement causes chaos, misalignment, and inefficiency in teams using Kanban or similar frameworks. Clear agreements on roles, goals, processes, and workflows are essential for team alignment and success. Development managers should ensure their teams regularly create and review working agreements to avoid confusion and improve outcomes.
 date: 2024-03-01T07:00:17Z
@@ -19,7 +19,6 @@ aliases:
   - /resources/h6yumCOP-aE
   - /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
   - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement
-  - /resources/videos/3-best-ways-to-wreck-kanban.-don-t-have-a-working-agreement.
 aliasesArchive:
   - /resources/videos/-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
   - /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
@@ -56,17 +55,15 @@ duration: 302
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ### Achieving Team Alignment with [Kanban]({{< ref "/categories/kanban" >}}): The Importance of a Working Agreement
 
 **Introduction**
 
 One of the primary ways to derail your Kanban strategy and fail to achieve the expected value is by not agreeing on how to work as a team. Without a clear working agreement, your team members are likely to operate based on personal preferences, leading to chaos and inefficiency.
 
-
-
-* * *
+---
 
 **The Necessity of a Working Agreement**
 
@@ -90,7 +87,7 @@ A working agreement is essential for team alignment and efficiency. Here’s why
 
 - Similarly, teams need to agree on the rules for success, how to achieve it, and what steps are necessary for incremental wins.
 
-* * *
+---
 
 **Steps to Establish a Working Agreement**
 
@@ -114,7 +111,7 @@ A working agreement is essential for team alignment and efficiency. Here’s why
 
 - Continuously revisit and adjust the working agreement as needed. This allows the team to adapt to changes and improve processes over time.
 
-* * *
+---
 
 **The Consequences of Not Having a Working Agreement**
 
@@ -132,7 +129,7 @@ Without a working agreement, teams operate in a state of total disarray:
 
 - Misaligned expectations and unclear roles can lead to frustration and conflict within the team.
 
-* * *
+---
 
 **Conclusion**
 

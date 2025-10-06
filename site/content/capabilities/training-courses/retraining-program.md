@@ -1,6 +1,8 @@
 ---
 title: Retraining Program
 layout: retraining-program
+ItemType: page
+ItemKind: marketing
 aliases:
   - /training-courses/retraining-program/
 ---
