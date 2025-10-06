@@ -20,8 +20,14 @@
       {{- $itemData := index $typeData $ItemId -}}
       {{- if $itemData -}}
         {{- $relatedData = index $itemData "classifications" -}}
+      {{- else -}}
+        {{- warnf "get-classifications.html: No data found for ItemId %s on page %s" $ItemId .Path -}}
       {{- end -}}
+    {{- else -}}
+      {{- warnf "get-classifications.html: No data found for ItemType %s on page %s" $ItemType .Path -}}
     {{- end -}}
+  {{- else -}}
+    {{- warnf "get-classifications.html: No data found for ItemKind %s and ItemType %s on page %s" $ItemKind $ItemType .Path -}}
   {{- end -}}
 {{- end -}}
 

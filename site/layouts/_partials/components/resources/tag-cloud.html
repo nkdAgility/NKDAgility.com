@@ -1,5 +1,4 @@
-{{ $jsonFile := .Page.Resources.GetMatch "data.index.classifications.json" }}
-{{ $jsonData := $jsonFile | unmarshal }}
+{{- $classificationData := partial "functions/get-classifications.html" .Page }}
 {{ with .Params.tags }}
   {{ if gt (len .) 0 }}
     <div id="components-resources-tag-cloud" class="mb-5">
@@ -10,7 +9,7 @@
         {{ $hidden := after 5 . }}
 
         {{ range $visible }}
-          {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-secondary me-0 px-1 py-0") }}
+          {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $classificationData "buttonClass" "btn btn-sm btn-secondary me-0 px-1 py-0") }}
         {{ end }}
         {{ if gt (len $hidden) 0 }}
           {{ $count := len $hidden }}
@@ -18,7 +17,7 @@
         {{ end }}
 
         {{ range $hidden }}
-          {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-secondary me-0 tag-hidden px-1 py-0" ) }}
+          {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $classificationData "buttonClass" "btn btn-sm btn-secondary me-0 tag-hidden px-1 py-0" ) }}
         {{ end }}
 
       </div>

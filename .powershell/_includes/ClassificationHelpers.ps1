@@ -458,17 +458,17 @@ function Get-ClassificationsForType {
         { $_ -in "categories", "tags", "concepts" } {
             $catalog = $catalogues["catalog"][$ClassificationType]
             $catalog_full = $catalogues["catalog_full"]
-            $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
+            $cacheFile = Join-Path $hugoMarkdown.DataPath "classifications.json"
         }
         { $_ -in "catalog_full", "classification" } {
             $catalog = $catalogues["catalog_full"]
             $catalog_full = $catalogues["catalog_full"]
-            $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
+            $cacheFile = Join-Path $hugoMarkdown.DataPath "classifications.json"
         }
         "marketing" {
             $catalog = $catalogues["marketing"]
             $catalog_full = $catalog
-            $cacheFile = Join-Path $CacheFolder "data.index.classifications.marketing.json"
+            $cacheFile = Join-Path $hugoMarkdown.DataPath "classifications.marketing.json"
         }
         default {
             Write-ErrorLog "Invalid classification type. Please use 'categories', 'tags', or 'marketing'."
@@ -530,10 +530,10 @@ function Update-MissingClassificationsLive {
 
 function Get-Classification {
     param (
-        [string]$CacheFolder,
+        [HugoMarkdown]$hugoMarkdown,
         [string]$ClassificationName
     )
-    $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
+    $cacheFile = Join-Path $hugoMarkdown.DataPath "classifications.json"
     if (Test-Path $cacheFile) {
         # Load from cache
         try {
@@ -660,172 +660,6 @@ function Get-ConfidenceFromAIResponse {
     }
 }
 
-
-function Remove-ClassificationsFromCache {
-    param (
-        [string[]]$ClassificationsToRemove,
-        [string]$CacheFolder
-    )
-
-    # Construct the cache file path
-    $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
-
-    # Check if the cache file exists
-    if (!(Test-Path $cacheFile)) {
-        Write-WarningLog "Cache file does not exist. No action needed."
-        return
-    }
-
-    # Load the cache data
-    try {
-        $cachedData = Get-Content $cacheFile | ConvertFrom-Json -AsHashtable -ErrorAction Stop
-    }
-    catch {
-        Write-WarningLog "Cache file is corrupted or unreadable. Unable to process."
-        return
-    }
-
-    $removedCount = 0
-
-    # Iterate through each classification to remove
-    foreach ($classification in $ClassificationsToRemove) {
-        if ($cachedData.ContainsKey($classification)) {
-            # Remove the classification from cache
-            $cachedData.Remove($classification)
-            $removedCount++
-            Write-Host "Removed classification '$classification' from cache."
-        }
-        else {
-            Write-WarningLog "Classification '$classification' not found in cache. Skipping."
-        }
-    }
-
-    # Save the updated cache if any classifications were removed
-    if ($removedCount -gt 0) {
-        $cachedData | ConvertTo-Json -Depth 10 | Set-Content -Path $cacheFile -Force
-        Write-Host "Cache file updated successfully with $removedCount removals."
-    }
-    else {
-        Write-WarningLog "No classifications were removed. Cache remains unchanged."
-    }
-}
-
-function Remove-ClassificationsFromCacheThatLookBroken {
-    param (
-        [hashtable]$ClassificationCatalog,
-        [string]$CacheFolder,
-        [string]$ClassificationType = "classification"
-    )
-
-    # Construct the cache file path
-    $cacheFile = Join-Path $CacheFolder "data.index.$ClassificationType.json"
-
-    # Check if the cache file exists
-    if (!(Test-Path $cacheFile)) {
-        Write-WarningLog "Cache file does not exist. No action needed."
-        return
-    }
-
-    # Load the cache data
-    try {
-        $cachedData = Get-Content $cacheFile | ConvertFrom-Json -AsHashtable -ErrorAction Stop
-    }
-    catch {
-        Write-WarningLog "Cache file is corrupted or unreadable. Unable to process."
-        return
-    }
-
-    $removedCount = 0
-
-    # Iterate through each classification to remove
-    foreach ($classification in $ClassificationCatalog.Keys) {
-        if ($cachedData.ContainsKey($classification)) {
-            $classificationData = $cachedData[$classification]
-            if ($classificationData.reasoning -eq $null) {
-                # Remove the classification from cache
-                $cachedData.Remove($classification)
-                if ($removedCount -gt 0) {
-                    Set-ClassificationsFromCache -hugoMarkdown $hugoMarkdown -cachedData $cachedData
-                    Write-Host "Cache file updated successfully with $removedCount removals."
-                }
-                else {
-                    Write-WarningLog "No classifications were removed. Cache remains unchanged."
-                }
-            }
-
-
-            if ($removedCount -gt 0) {
-                Set-ClassificationsFromCache -hugoMarkdown $hugoMarkdown -cachedData $cachedData
-                Write-Host "Cache file updated successfully with $removedCount removals."
-            }
-            else {
-                Write-WarningLog "No classifications were removed. Cache remains unchanged."
-            }
-        }
-
-    }
-}
-
-function Update-ClassificationLinksInBodyContent {
-    param (
-        [string]$ClassificationType,
-        [object]$hugoMarkdown
-    )
-
-    $catalog = $catalogues["catalog"][$ClassificationType]
-
-    foreach ($classification in $catalog.Keys) {
-        $classificationData = $catalog[$classification]
-        if ($classificationData.CrossLinkingInContent -eq $false) {
-            Write-WarningLog "Classification $classification. Skipping."
-            continue
-        }
-        $classificationTitle = $classificationData.Title
-        $classificationSlug = $classificationTitle.ToLowerInvariant() -replace ' ', '-'
-        $classificationEscaped = [regex]::Escape($classificationTitle)
-
-        # Skip if already linked using the correct shortcode
-        $linkedPattern = "\[.*?\]\(\{\{< ref ""/$ClassificationType/$classificationSlug"" >\}\}\)"
-        if ($hugoMarkdown.BodyContent -match $linkedPattern) {
-            continue
-        }
-
-        # Phase 1: Find all ranges of markdown links to exclude
-        $excludedRanges = [System.Collections.Generic.List[System.Tuple[int, int]]]::new()
-        $linkRegex = [regex]'\[.*?\]\(.*?\)'
-        foreach ($match in $linkRegex.Matches($hugoMarkdown.BodyContent)) {
-            $excludedRanges.Add([Tuple]::Create($match.Index, $match.Index + $match.Length))
-        }
-
-        # Phase 2: Find the first occurrence of the tag not inside any excluded range
-        $simpleRegex = [regex]::new("\b($classificationEscaped)\b", [System.Text.RegularExpressions.RegexOptions]::IgnoreCase)
-        foreach ($match in $simpleRegex.Matches($hugoMarkdown.BodyContent)) {
-            $index = $match.Index
-
-            $inExcluded = $false
-            foreach ($range in $excludedRanges) {
-                if ($index -ge $range.Item1 -and $index -lt $range.Item2) {
-                    $inExcluded = $true
-                    break
-                }
-            }
-
-            if (-not $inExcluded) {
-                # Inject Hugo ref-style link, preserving matched casing
-                $MatchValue = $match.Value
-                $replacement = "[$MatchValue]({{< ref `"/$ClassificationType/$classificationSlug`" >}})"
-                $hugoMarkdown.BodyContent = $hugoMarkdown.BodyContent.Substring(0, $index) + $replacement + $hugoMarkdown.BodyContent.Substring($index + $match.Length)
-                break
-            }
-        }
-    }
-
-    Write-InfoLog "Updated body content for classification type '$ClassificationType'."
-    return $hugoMarkdown.BodyContent
-}
-
-
-
 function Get-CatalogItemsToRefreshOrGet {
     param (
         [Parameter(Mandatory = $true)]
@@ -891,8 +725,7 @@ function Set-ClassificationsFromCache {
         [hashtable]$cachedData
     )
 
-    $CacheFolder = $hugoMarkdown.FolderPath
-    $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
+    $cacheFile = Join-Path $hugoMarkdown.DataPath "classifications.json"
     $jsonData = $cachedData | ConvertTo-Json -Depth 10
 
     $maxRetries = 5
@@ -934,9 +767,8 @@ function Get-ClassificationsFromCache {
         [HugoMarkdown]$hugoMarkdown
     )
 
-    $CacheFolder = $hugoMarkdown.FolderPath
     $catalog_full = $catalogues["catalog_full"]
-    $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
+    $cacheFile = Join-Path $hugoMarkdown.DataPath "classifications.json"
    
     # Load from Cache and validate its contents
     #==========================================

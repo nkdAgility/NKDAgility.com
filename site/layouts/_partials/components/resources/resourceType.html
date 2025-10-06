@@ -1,16 +1,15 @@
-{{ $jsonFile := .Page.Resources.GetMatch "data.index.classifications.json" }}
-{{ $jsonData := $jsonFile | unmarshal }}
+{{- $classificationData := partial "functions/get-classifications.html" .Page }}
 <div class="d-flex">
   <div class="resourcetypes">
     <a href="{{ printf "/resources/%s" (.Params.ResourceType | urlize) | relURL }}" class="btn btn-sm btn-nkdagility-accent m-1 text-nowrap">{{- partial "components/resources/resource-icon.html" . }} {{- title .Params.ResourceType }} </a>
     {{ with .Params.concepts }}
       {{ range . }}
-        {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-nkdagility-accent-alt me-1") }}
+        {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $classificationData "buttonClass" "btn btn-sm btn-nkdagility-accent-alt me-1") }}
       {{ end }}
     {{ end }}
     {{ with .Params.categories }}
       {{ range . }}
-        {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-nkdagility-secondary me-1") }}
+        {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $classificationData "buttonClass" "btn btn-sm btn-nkdagility-secondary me-1") }}
       {{ end }}
     {{ end }}
   </div>

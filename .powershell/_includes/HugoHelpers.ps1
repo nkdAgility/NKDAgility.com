@@ -11,8 +11,6 @@ class HugoMarkdown {
     [System.Collections.Specialized.OrderedDictionary]$FrontMatter
     [string]$BodyContent
     [string]$FilePath
-    [string]$FolderPath
-    [string]$ReferencePath
 
     HugoMarkdown([System.Collections.Specialized.OrderedDictionary]$frontMatter, [string]$bodyContent, [string]$FilePath) {
         # Directly assign the front matter to the class property
@@ -26,6 +24,8 @@ class HugoMarkdown {
         $this.FilePath = $FilePath
         $this.FolderPath = Split-Path -Path $FilePath -Parent
         $this.ReferencePath = $this.FolderPath.Replace((Resolve-Path -Path "./site/content/"), '').Replace('\', '/')
+        $this.DataPath = Join-Path "site\data" $this.FrontMatter.ItemKind $this.FrontMatter.ItemType $this.FrontMatter.ItemId
+
     }
 }
 
