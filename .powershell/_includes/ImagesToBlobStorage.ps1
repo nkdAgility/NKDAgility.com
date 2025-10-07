@@ -98,6 +98,14 @@ function Rewrite-ImageLinks {
     $chunkSize = [math]::Max(1, [math]::Ceiling($totalFiles / 10))
     Write-InfoLog "Processing $totalFiles HTML files in chunks of ~$chunkSize files each..."
 
+    # 4. Get the root-relative path
+    $LocalImagesFullPath = (Get-Item $LocalPath).FullName
+    Write-DebugLog "Local Images Full Path: $LocalImagesFullPath"
+
+    # Precompile the regex for better performance
+    $ImageRegexPattern = "(?i)(src|content|href|data-theme-src-light|data-theme-src-dark)\s*=\s*([""']?)(?<url>[^\s""'>]+\.(jpg|jpeg|png|gif|webp|svg))\2"
+    $CompiledImageRegex = [System.Text.RegularExpressions.Regex]::new($ImageRegexPattern, [System.Text.RegularExpressions.RegexOptions]::IgnoreCase -bor [System.Text.RegularExpressions.RegexOptions]::Compiled)
+
     # Create chunks using Group-Object
     $counter = [pscustomobject] @{ Value = 0 }
     $chunks = $HtmlFiles | Group-Object -Property { [math]::Floor($counter.Value++ / $chunkSize) }
@@ -117,7 +125,7 @@ function Rewrite-ImageLinks {
 
         # Optimize parallelism for build servers - use fewer threads to avoid resource contention
         $processorCount = [Environment]::ProcessorCount
-        $maxDegreeOfParallelism = 1 # [math]::Max(1, [math]::Min(4, [math]::Ceiling($processorCount / 2)))
+        $maxDegreeOfParallelism = [math]::Max(1, [math]::Min(4, [math]::Ceiling($processorCount / 2)))
 
         Write-InfoLog "Processing chunk $chunkNumber of $($chunks.Count) ($($chunk.Group.Count) files) with $maxDegreeOfParallelism parallel tasks (out of $processorCount processors)..."
 
@@ -132,24 +140,24 @@ function Rewrite-ImageLinks {
             # Import variables into parallel scope
             $BlobUrl = $using:BlobUrl
             $LocalPath = $using:LocalPath
+            $LocalImagesFullPath = $using:LocalImagesFullPath
+            $CompiledImageRegex = $using:CompiledImageRegex
        
-            $FileContent = Get-Content -LiteralPath $_.FullName -Raw
-            # Regex to match all src attributes with image paths
-            $ImageRegex = "(?i)(src|content|href|data-theme-src-light|data-theme-src-dark)\s*=\s*([""']?)(?<url>[^\s""'>]+\.(jpg|jpeg|png|gif|webp|svg))\2"
+            #$FileContent = Get-Content -LiteralPath $_.FullName -Raw
+            $FileContent = [System.IO.File]::ReadAllText($_.FullName)
 
-            # Find all matches and ensure uniqueness based on the 'url' group
-            $RegexMatches = [regex]::Matches($FileContent, $ImageRegex)
-            $UniqueUrls = @()
+            # Find all matches using the precompiled regex
+            $RegexMatches = $CompiledImageRegex.Matches($FileContent)
+            $UniqueUrls = [System.Collections.Generic.HashSet[string]]::new()
 
             foreach ($Match in $RegexMatches) {
                 $Url = $Match.Groups['url'].Value
-        
-                # Add the URL to the array if it's not already included
-                if ($Url -notin $UniqueUrls) {
-                    $UniqueUrls += $Url
-                }
+                [void]$UniqueUrls.Add($Url)
             }    
 
+            # Build a hashtable of replacements to perform all at once
+            $replacements = @{}
+            
             foreach ($UniqueUrl in $UniqueUrls) {
            
                 $OriginalPath = $UniqueUrl
@@ -206,10 +214,6 @@ function Rewrite-ImageLinks {
                         $ResolvedPath = Resolve-Path -Path $CombinedPath
                         Write-DebugLog "Resolved Path: $ResolvedPath"
 
-                        # 4. Get the root-relative path
-                        $LocalImagesFullPath = (Get-Item $LocalPath).FullName
-                        Write-DebugLog "Local Images Full Path: $LocalImagesFullPath"
-
                         $RootRelativePath = $ResolvedPath.Path.Replace($LocalImagesFullPath, "").Replace("\", "/")
                         Write-DebugLog "Root Relative Path: $RootRelativePath"
 
@@ -223,18 +227,27 @@ function Rewrite-ImageLinks {
                     }
                 }
 
-                # Replace the original path in the content
+                # Add to replacements hashtable if different
                 if ($OriginalPath -ne $UpdatedPath) {
-                    $FileContent = $FileContent -replace [regex]::Escape($OriginalPath), $UpdatedPath
-                    Write-DebugLog "  Replaced: $OriginalPath -> $UpdatedPath"
-                    $fileLinks++
+                    $replacements[$OriginalPath] = $UpdatedPath
+                    Write-DebugLog "  Will replace: $OriginalPath -> $UpdatedPath"
                 }
-            
             }
 
-            # Save updated content back to the file
-            Set-Content -LiteralPath $_.FullName -Value $FileContent
-            Write-DebugLog "Updated ($($RegexMatches.count) matches, $fileLinks links): $($_.FullName)"
+            # Perform all replacements at once
+            foreach ($replacement in $replacements.GetEnumerator()) {
+                $FileContent = $FileContent.Replace($replacement.Key, $replacement.Value)
+                $fileLinks++
+            }
+
+            # Only save the file if there were actual changes
+            if ($fileLinks -gt 0) {
+                [System.IO.File]::WriteAllText($_.FullName, $FileContent)
+                Write-DebugLog "Updated ($($RegexMatches.count) matches, $fileLinks links): $($_.FullName)"
+            }
+            else {
+                Write-DebugLog "No changes needed: $($_.FullName)"
+            }
 
             # Return the count of links processed for this file
             return $fileLinks
