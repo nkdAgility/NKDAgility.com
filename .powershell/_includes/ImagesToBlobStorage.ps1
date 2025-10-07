@@ -155,17 +155,16 @@ function Rewrite-ImageLinks {
                 [void]$UniqueUrls.Add($Url)
             }    
 
-            # Build a hashtable of replacements to perform all at once
-            $replacements = @{}
-            
-            foreach ($UniqueUrl in $UniqueUrls) {
-           
-                $OriginalPath = $UniqueUrl
+            # Create a delegate function to handle URL transformations in a single regex pass
+            $urlTransformDelegate = {
+                param($match)
+                
+                $OriginalPath = $match.Groups['url'].Value
                 $UpdatedPath = $OriginalPath
 
                 # Skip if the path already contains the BlobUrl
                 if ($OriginalPath -like "$BlobUrl*") {
-                    continue
+                    return $match.Value
                 }
 
                 # Handle all paths using $BlobUrl
@@ -179,21 +178,20 @@ function Rewrite-ImageLinks {
                                 $path = $matches['path']
                                 $UpdatedPath = "$BlobUrl/" + $path -join '/'
                             }
-                       
                         }
                         else {
                             Write-DebugLog "  Skipping : $OriginalPath"
+                            return $match.Value
                         }   
-                          
                     }
                     catch {
                         Write-DebugLog "  ERROR HTTP: $OriginalPath -> $UpdatedPath : $_" 
+                        return $match.Value
                     }              
                 }
                 elseif ($OriginalPath.StartsWith("/")) {
                     # Absolute paths
                     $UpdatedPath = "$BlobUrl" + $OriginalPath
-
                 }
                 else {
                     try {
@@ -208,7 +206,7 @@ function Rewrite-ImageLinks {
 
                         if (-not (Test-Path -Path $CombinedPath)) {
                             Write-DebugLog "  Path does not exist: $CombinedPath"
-                            continue;
+                            return $match.Value
                         }
                         # 3. Resolve the full path
                         $ResolvedPath = Resolve-Path -Path $CombinedPath
@@ -223,22 +221,22 @@ function Rewrite-ImageLinks {
                     }
                     catch {
                         Write-ErrorLog "  Error resolving path: $_"
-                        continue;
+                        return $match.Value
                     }
                 }
 
-                # Add to replacements hashtable if different
+                # Return the modified match if the path changed
                 if ($OriginalPath -ne $UpdatedPath) {
-                    $replacements[$OriginalPath] = $UpdatedPath
+                    $fileLinks++
                     Write-DebugLog "  Will replace: $OriginalPath -> $UpdatedPath"
+                    return $match.Value.Replace($OriginalPath, $UpdatedPath)
                 }
+                
+                return $match.Value
             }
 
-            # Perform all replacements at once
-            foreach ($replacement in $replacements.GetEnumerator()) {
-                $FileContent = $FileContent.Replace($replacement.Key, $replacement.Value)
-                $fileLinks++
-            }
+            # Perform single-pass replacement using the delegate
+            $FileContent = $CompiledImageRegex.Replace($FileContent, $urlTransformDelegate)
 
             # Only save the file if there were actual changes
             if ($fileLinks -gt 0) {
