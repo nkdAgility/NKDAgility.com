@@ -120,6 +120,7 @@ function Rewrite-ImageLinks {
             $LocalPath = $using:LocalPath
             $LocalImagesFullPath = $using:LocalImagesFullPath
             $CompiledImageRegex = $using:CompiledImageRegex
+            $currentFile = $_
        
             #$FileContent = Get-Content -LiteralPath $_.FullName -Raw
             $FileContent = [System.IO.File]::ReadAllText($_.FullName)
@@ -133,16 +134,19 @@ function Rewrite-ImageLinks {
                 [void]$UniqueUrls.Add($Url)
             }    
 
-            # Create a delegate function to handle URL transformations in a single regex pass
-            $urlTransformDelegate = {
-                param($match)
-                
+            # Initialize file link counter
+            $fileLinks = 0
+
+            # Process each match and build replacement pairs
+            $replacements = @()
+            
+            foreach ($match in $RegexMatches) {
                 $OriginalPath = $match.Groups['url'].Value
                 $UpdatedPath = $OriginalPath
 
                 # Skip if the path already contains the BlobUrl
                 if ($OriginalPath -like "$BlobUrl*") {
-                    return $match.Value
+                    continue
                 }
 
                 # Handle all paths using $BlobUrl
@@ -154,17 +158,17 @@ function Rewrite-ImageLinks {
                             $pattern = '^(?:https?:\/\/)?[^\/]+(?<path>\/.*)$'
                             if ($OriginalPath -match $pattern) {
                                 $path = $matches['path']
-                                $UpdatedPath = "$BlobUrl/" + $path -join '/'
+                                $UpdatedPath = "$BlobUrl$path"
                             }
                         }
                         else {
                             Write-DebugLog "  Skipping : $OriginalPath"
-                            return $match.Value
+                            continue
                         }   
                     }
                     catch {
                         Write-DebugLog "  ERROR HTTP: $OriginalPath -> $UpdatedPath : $_" 
-                        return $match.Value
+                        continue
                     }              
                 }
                 elseif ($OriginalPath.StartsWith("/")) {
@@ -175,7 +179,7 @@ function Rewrite-ImageLinks {
                     try {
                         # Relative paths - Ensure consistency by converting to root-relative
                         # 1. Get the parent directory of the HTML file
-                        $ParentDirectory = Split-Path -Path $_.FullName -Parent
+                        $ParentDirectory = Split-Path -Path $currentFile.FullName -Parent
                         Write-DebugLog "Parent Directory: $ParentDirectory"
 
                         # 2. Combine the parent directory with the original path
@@ -184,7 +188,7 @@ function Rewrite-ImageLinks {
 
                         if (-not (Test-Path -Path $CombinedPath)) {
                             Write-DebugLog "  Path does not exist: $CombinedPath"
-                            return $match.Value
+                            continue
                         }
                         # 3. Resolve the full path
                         $ResolvedPath = Resolve-Path -Path $CombinedPath
@@ -199,22 +203,27 @@ function Rewrite-ImageLinks {
                     }
                     catch {
                         Write-ErrorLog "  Error resolving path: $_"
-                        return $match.Value
+                        continue
                     }
                 }
 
-                # Return the modified match if the path changed
+                # Add replacement if the path changed
                 if ($OriginalPath -ne $UpdatedPath) {
+                    $replacements += @{
+                        Original  = $OriginalPath
+                        Updated   = $UpdatedPath
+                        FullMatch = $match.Value
+                    }
                     $fileLinks++
                     Write-DebugLog "  Will replace: $OriginalPath -> $UpdatedPath"
-                    return $match.Value.Replace($OriginalPath, $UpdatedPath)
                 }
-                
-                return $match.Value
             }
 
-            # Perform single-pass replacement using the delegate
-            $FileContent = $CompiledImageRegex.Replace($FileContent, $urlTransformDelegate)
+            # Apply all replacements to the file content
+            foreach ($replacement in $replacements) {
+                $newMatchValue = $replacement.FullMatch.Replace($replacement.Original, $replacement.Updated)
+                $FileContent = $FileContent.Replace($replacement.FullMatch, $newMatchValue)
+            }
 
             # Only save the file if there were actual changes
             if ($fileLinks -gt 0) {
