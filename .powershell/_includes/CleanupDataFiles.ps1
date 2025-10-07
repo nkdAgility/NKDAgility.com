@@ -2,50 +2,20 @@
 . ./.powershell/_includes/LoggingHelper.ps1
 
 function Delete-LocalDataFiles {
-    param (
-        [string]$LocalPath
-    )
-    $count = 0
-    try {
-        Write-InfoLog "Deleting all data files locally from '$LocalPath'..."
-        $files = Get-ChildItem -Path $LocalPath -Recurse -Include data.*
-        if ($files.Count -eq 0) {
-            Write-InfoLog "No files found."
-            return 0;
-        }
-        
-        $totalFiles = $files.Count
-        $size = ($files | Measure-Object -Property Length -Sum).Sum 
-        $sizeString = "{0:N2} MB" -f ($size / 1MB)
-        Write-InfoLog "Found ($totalFiles) files totalling $sizeString."
+    [CmdletBinding()]
+    param([Parameter(Mandatory)][string]$LocalPath)
 
-        $lastPercentage = 0  # To track when to log progress
-        $progressInterval = 10 # Percentage interval for logging
+    Write-InfoLog "Deleting all data.* files from '$LocalPath'..."
+    # -Filter is handled by the filesystem, faster than -Include; -File avoids dirs
+    $files = Get-ChildItem -Path $LocalPath -Recurse -File -Filter 'data.*' -ErrorAction SilentlyContinue
+    $total = $files.Count
+    if ($total -eq 0) { Write-InfoLog "No files found."; return 0 }
 
-        $files | ForEach-Object -Begin { $index = 0 } -Process {
-            try {
-                Remove-Item -Path $_.FullName -Force
-                Write-DebugLog "Deleted: $($_.FullName)"
-                $count++
-                $index++
+    $bytes = ($files | Measure-Object Length -Sum).Sum
+    Write-InfoLog ("Found ({0}) files totalling {1:N2} MB." -f $total, ($bytes / 1MB))
 
-                # Calculate percentage progress
-                $percentage = [math]::Round(($index / $totalFiles) * 100, 0)
-                
-                # Log progress at defined intervals (e.g., every 10%)
-                if ($percentage -ge $lastPercentage + $progressInterval) {
-                    Write-InfoLog "Progress: $percentage% ($index of $totalFiles files deleted)"
-                    $lastPercentage = $percentage
-                }
-            }
-            catch {
-                Write-ErrorLog "Error deleting file $($_.FullName): $_"
-            }
-        }
-    }
-    catch {
-        Write-ErrorLog "Error during file deletion: $_"
-    }
-    Write-InfoLog "Completed: Deleted $count files."
-    return $count;
+    # Single call reduces per-item cmdlet overhead
+    Remove-Item -LiteralPath $files.FullName -Force -ErrorAction SilentlyContinue
+    Write-InfoLog "Completed: Deleted $total files."
+    return $total
 }
