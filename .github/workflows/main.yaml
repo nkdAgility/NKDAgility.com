@@ -384,7 +384,7 @@ jobs:
           } else {
             $levelSwitch.MinimumLevel = 'Information'
           }
-          $deletedImagesCount = Delete-LocalImageFiles -LocalPath $env:LOCAL_IMAGE_PATH
+          $deletedImagesCount = Remove-LocalImageFiles -LocalPath $env:LOCAL_IMAGE_PATH
 
         env:
           LOCAL_IMAGE_PATH: "./_site/"

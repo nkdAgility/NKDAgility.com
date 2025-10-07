@@ -22,54 +22,32 @@ function Upload-ImageFiles {
     }
 }
 
-# Method 2: Delete all image files locally
-function Delete-LocalImageFiles {
-    param (
-        [string]$LocalPath
-    )
-    $count = 0
-    try {
-        Write-InfoLog "Deleting all image files locally..."
-        $images = Get-ChildItem -Path $LocalPath -Recurse -Include *.jpg, *.jpeg, *.png, *.gif, *.webp, *.svg
-        if ($images.Count -eq 0) {
-            Write-InfoLog "No image files found."
-            return 0;
-        }
+# Method 2: Remove all image files locally
+function Remove-LocalImageFiles {
+    param([Parameter(Mandatory)][string]$LocalPath)
 
-        $totalFiles = $images.Count
-        $size = ($images | Measure-Object -Property Length -Sum).Sum 
-        $sizeString = "{0:N2} MB" -f ($size / 1MB)
-        Write-InfoLog "Found ($totalFiles) image files totalling $sizeString."
+    Write-InfoLog "Scanning for image files..."
+    $patterns = @('*.jpg', '*.jpeg', '*.png', '*.gif', '*.webp', '*.svg')
 
-        $lastPercentage = 0  # Tracks when to log progress
-        $progressInterval = 10 # Percentage interval for logging
-
-        $images | ForEach-Object -Begin { $index = 0 } -Process {
-            try {
-                Remove-Item -Path $_.FullName -Force
-                Write-DebugLog "Deleted: $($_.FullName)"
-                $count++
-                $index++
-
-                # Calculate percentage progress
-                $percentage = [math]::Round(($index / $totalFiles) * 100, 0)
-
-                # Log progress at defined intervals
-                if ($percentage -ge $lastPercentage + $progressInterval) {
-                    Write-InfoLog "Progress: $percentage% ($index of $totalFiles image files deleted)"
-                    $lastPercentage = $percentage
-                }
-            }
-            catch {
-                Write-ErrorLog "Error deleting file $($_.FullName): $_"
-            }
-        }
+    # Use -Filter per pattern, it is handled by the filesystem and is faster than -Include
+    $files = foreach ($p in $patterns) {
+        Get-ChildItem -Path $LocalPath -Recurse -File -Filter $p -ErrorAction SilentlyContinue
     }
-    catch {
-        Write-ErrorLog "Error during image file deletion: $_"
+
+    $total = $files.Count
+    if ($total -eq 0) {
+        Write-InfoLog "No image files found."
+        return 0
     }
-    Write-InfoLog "Completed: Deleted $count image files."
-    return $count;
+
+    $size = ($files | Measure-Object Length -Sum).Sum
+    $sizeString = "{0:N2} MB" -f ($size / 1MB)
+    Write-InfoLog "Found ($total) image files totalling $sizeString."
+
+    # Single call, array of literal paths, minimal overhead
+    Remove-Item -LiteralPath $files.FullName -Force -ErrorAction SilentlyContinue
+    Write-InfoLog "Completed: Deleted $total image files."
+    return $total
 }
 
 
