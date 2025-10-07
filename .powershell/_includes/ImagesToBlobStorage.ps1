@@ -115,9 +115,11 @@ function Rewrite-ImageLinks {
         $chunkNumber++
         $chunkLinks = 0
 
-        $maxDegreeOfParallelism = [Environment]::ProcessorCount
+        # Optimize parallelism for build servers - use fewer threads to avoid resource contention
+        $processorCount = [Environment]::ProcessorCount
+        $maxDegreeOfParallelism = [math]::Max(1, [math]::Min(4, [math]::Ceiling($processorCount / 2)))
 
-        Write-InfoLog "Processing chunk $chunkNumber of $($chunks.Count) ($($chunk.Group.Count) files) with $maxDegreeOfParallelism parallel tasks..."
+        Write-InfoLog "Processing chunk $chunkNumber of $($chunks.Count) ($($chunk.Group.Count) files) with $maxDegreeOfParallelism parallel tasks (out of $processorCount processors)..."
 
         # Start chunk timing
         $chunkStopwatch = [System.Diagnostics.Stopwatch]::StartNew()
