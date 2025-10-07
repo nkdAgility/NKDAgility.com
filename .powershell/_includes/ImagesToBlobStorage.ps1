@@ -13,7 +13,8 @@ function Upload-ImageFiles {
     )
     try {
         Write-InfoLog "Uploading image files to Azure Blob Storage using azcopy..."
-        azcopy sync $LocalPath "$BlobUrlBase`?$AzureSASToken" --recursive=true --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp;*.svg" --compare-hash=MD5
+        #azcopy sync $LocalPath "$BlobUrlBase`?$AzureSASToken" --recursive=true --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp;*.svg" --compare-hash=MD5
+        azcopy copy $LocalPath "$BlobUrlBase`?$AzureSASToken" --recursive=true --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp;*.svg" --overwrite ifSourceNewer --put-md5=false
         Write-InfoLog "Upload complete."
     }
     catch {
@@ -78,6 +79,8 @@ function Rewrite-ImageLinks {
         [string]$LocalPath,
         [string]$BlobUrl
     )
+
+    
   
     Write-InfoLog "Rewriting image links in .html files using regex..."
 
@@ -91,124 +94,167 @@ function Rewrite-ImageLinks {
         return
     }
 
-    $lastPercentage = 0  # Tracks when to log progress
-    $progressInterval = 10 # Percentage interval for logging
+    # Use Group-Object chunking
+    $chunkSize = [math]::Max(1, [math]::Ceiling($totalFiles / 10))
+    Write-InfoLog "Processing $totalFiles HTML files in chunks of ~$chunkSize files each..."
 
-    foreach ($HtmlFile in $HtmlFiles) {
-       
-        $FileContent = Get-Content -LiteralPath $HtmlFile.FullName -Raw
-        # Regex to match all src attributes with image paths
-        $ImageRegex = "(?i)(src|content|href|data-theme-src-light|data-theme-src-dark)\s*=\s*([""']?)(?<url>[^\s""'>]+\.(jpg|jpeg|png|gif|webp|svg))\2"
+    # Create chunks using Group-Object
+    $counter = [pscustomobject] @{ Value = 0 }
+    $chunks = $HtmlFiles | Group-Object -Property { [math]::Floor($counter.Value++ / $chunkSize) }
 
-        # Find all matches and ensure uniqueness based on the 'url' group
-        $Matches = [regex]::Matches($FileContent, $ImageRegex)
-        $UniqueUrls = @()
+    $processedFiles = 0
+    $chunkNumber = 0
 
-        foreach ($Match in $Matches) {
-            $Url = $Match.Groups['url'].Value
+    # Note: Using simple fallback logging in parallel blocks to avoid complex dependencies
+
+    # Start overall timing
+    $overallStopwatch = [System.Diagnostics.Stopwatch]::StartNew()
+
+    # Process each chunk
+    foreach ($chunk in $chunks) {
+        $chunkNumber++
+        $chunkLinks = 0
         
-            # Add the URL to the array if it's not already included
-            if ($Url -notin $UniqueUrls) {
-                $UniqueUrls += $Url
-            }
-        }    
+        Write-InfoLog "Processing chunk $chunkNumber of $($chunks.Count) ($($chunk.Group.Count) files)..."
+        
+        # Start chunk timing
+        $chunkStopwatch = [System.Diagnostics.Stopwatch]::StartNew()
+        
+        $chunk.Group | ForEach-Object -ThrottleLimit ([Environment]::ProcessorCount) -Parallel {
+            # Simple fallback logging functions to avoid complex dependencies
+            function Write-DebugLog { param($msg) Write-Debug $msg }
+            function Write-ErrorLog { param($msg) Write-Error $msg }
+            
+            # Import variables into parallel scope
+            $BlobUrl = $using:BlobUrl
+            $LocalPath = $using:LocalPath
+       
+            $FileContent = Get-Content -LiteralPath $_.FullName -Raw
+            # Regex to match all src attributes with image paths
+            $ImageRegex = "(?i)(src|content|href|data-theme-src-light|data-theme-src-dark)\s*=\s*([""']?)(?<url>[^\s""'>]+\.(jpg|jpeg|png|gif|webp|svg))\2"
 
-        foreach ($UniqueUrl in $UniqueUrls) {
-           
-            $OriginalPath = $UniqueUrl
-            $UpdatedPath = $OriginalPath
+            # Find all matches and ensure uniqueness based on the 'url' group
+            $RegexMatches = [regex]::Matches($FileContent, $ImageRegex)
+            $UniqueUrls = @()
 
-            # Skip if the path already contains the BlobUrl
-            if ($OriginalPath -like "$BlobUrl*") {
-                continue
-            }
-
-            # Handle all paths using $BlobUrl
-            if ($OriginalPath.StartsWith("https://") -or $OriginalPath.StartsWith("http://")) {
-                try {
-                    # Define the regex pattern
-                    $allowedPattern = '^(?:https?:\/\/)?(?:nkdagility\.com|preview\.nkdagility\.com|yellow-pond-042d21b03.*\.westeurope\.5\.azurestaticapps\.net)(\/.*)?$'
-                    if ($OriginalPath -match $allowedPattern) {
-                        $pattern = '^(?:https?:\/\/)?[^\/]+(?<path>\/.*)$'
-                        if ($OriginalPath -match $pattern) {
-                            $path = $matches['path']
-                            $UpdatedPath = "$BlobUrl/" + $path -join '/'
-                        }
-                       
-                    }
-                    else {
-                        Write-DebugLog "  Skipping : $OriginalPath"
-                    }   
-                          
+            foreach ($Match in $RegexMatches) {
+                $Url = $Match.Groups['url'].Value
+        
+                # Add the URL to the array if it's not already included
+                if ($Url -notin $UniqueUrls) {
+                    $UniqueUrls += $Url
                 }
-                catch {
-                    Write-DebugLog "  ERROR HTTP: $OriginalPath -> $UpdatedPath : $_" 
-                }              
-            }
-            elseif ($OriginalPath.StartsWith("/")) {
-                # Absolute paths
-                $UpdatedPath = "$BlobUrl" + $OriginalPath
+            }    
 
-            }
-            else {
-                try {
-                    # Relative paths - Ensure consistency by converting to root-relative
-                    # 1. Get the parent directory of the HTML file
-                    $ParentDirectory = Split-Path -Path $HtmlFile.FullName -Parent
-                    Write-DebugLog "Parent Directory: $ParentDirectory"
+            foreach ($UniqueUrl in $UniqueUrls) {
+           
+                $OriginalPath = $UniqueUrl
+                $UpdatedPath = $OriginalPath
 
-                    # 2. Combine the parent directory with the original path
-                    $CombinedPath = Join-Path -Path $ParentDirectory -ChildPath $OriginalPath
-                    Write-DebugLog "Combined Path: $CombinedPath"
+                # Skip if the path already contains the BlobUrl
+                if ($OriginalPath -like "$BlobUrl*") {
+                    continue
+                }
 
-                    if (-not (Test-Path -Path $CombinedPath)) {
-                        Write-DebugLog "  Path does not exist: $CombinedPath"
+                # Handle all paths using $BlobUrl
+                if ($OriginalPath.StartsWith("https://") -or $OriginalPath.StartsWith("http://")) {
+                    try {
+                        # Define the regex pattern
+                        $allowedPattern = '^(?:https?:\/\/)?(?:nkdagility\.com|preview\.nkdagility\.com|yellow-pond-042d21b03.*\.westeurope\.5\.azurestaticapps\.net)(\/.*)?$'
+                        if ($OriginalPath -match $allowedPattern) {
+                            $pattern = '^(?:https?:\/\/)?[^\/]+(?<path>\/.*)$'
+                            if ($OriginalPath -match $pattern) {
+                                $path = $matches['path']
+                                $UpdatedPath = "$BlobUrl/" + $path -join '/'
+                            }
+                       
+                        }
+                        else {
+                            Write-DebugLog "  Skipping : $OriginalPath"
+                        }   
+                          
+                    }
+                    catch {
+                        Write-DebugLog "  ERROR HTTP: $OriginalPath -> $UpdatedPath : $_" 
+                    }              
+                }
+                elseif ($OriginalPath.StartsWith("/")) {
+                    # Absolute paths
+                    $UpdatedPath = "$BlobUrl" + $OriginalPath
+
+                }
+                else {
+                    try {
+                        # Relative paths - Ensure consistency by converting to root-relative
+                        # 1. Get the parent directory of the HTML file
+                        $ParentDirectory = Split-Path -Path $_.FullName -Parent
+                        Write-DebugLog "Parent Directory: $ParentDirectory"
+
+                        # 2. Combine the parent directory with the original path
+                        $CombinedPath = Join-Path -Path $ParentDirectory -ChildPath $OriginalPath
+                        Write-DebugLog "Combined Path: $CombinedPath"
+
+                        if (-not (Test-Path -Path $CombinedPath)) {
+                            Write-DebugLog "  Path does not exist: $CombinedPath"
+                            continue;
+                        }
+                        # 3. Resolve the full path
+                        $ResolvedPath = Resolve-Path -Path $CombinedPath
+                        Write-DebugLog "Resolved Path: $ResolvedPath"
+
+                        # 4. Get the root-relative path
+                        $LocalImagesFullPath = (Get-Item $LocalPath).FullName
+                        Write-DebugLog "Local Images Full Path: $LocalImagesFullPath"
+
+                        $RootRelativePath = $ResolvedPath.Path.Replace($LocalImagesFullPath, "").Replace("\", "/")
+                        Write-DebugLog "Root Relative Path: $RootRelativePath"
+
+                        # 5. Construct the updated path
+                        $UpdatedPath = "$BlobUrl/$RootRelativePath"
+                        Write-DebugLog "  Updated Path: $UpdatedPath"
+                    }
+                    catch {
+                        Write-ErrorLog "  Error resolving path: $_"
                         continue;
                     }
-                    # 3. Resolve the full path
-                    $ResolvedPath = Resolve-Path -Path $CombinedPath
-                    Write-DebugLog "Resolved Path: $ResolvedPath"
-
-                    # 4. Get the root-relative path
-                    $LocalImagesFullPath = (Get-Item $LocalPath).FullName
-                    Write-DebugLog "Local Images Full Path: $LocalImagesFullPath"
-
-                    $RootRelativePath = $ResolvedPath.Path.Replace($LocalImagesFullPath, "").Replace("\", "/")
-                    Write-DebugLog "Root Relative Path: $RootRelativePath"
-
-                    # 5. Construct the updated path
-                    $UpdatedPath = "$BlobUrl/$RootRelativePath"
-                    Write-DebugLog "  Updated Path: $UpdatedPath"
                 }
-                catch {
-                    Write-ErrorLog "  Error resolving path: $_"
-                    continue;
-                }
-            }
 
-            # Replace the original path in the content
-            if ($OriginalPath -ne $UpdatedPath) {
-                $FileContent = $FileContent -replace [regex]::Escape($OriginalPath), $UpdatedPath
-                Write-DebugLog "  Replaced: $OriginalPath -> $UpdatedPath"
-                $totalLinks += 1;
-            }
+                # Replace the original path in the content
+                if ($OriginalPath -ne $UpdatedPath) {
+                    $FileContent = $FileContent -replace [regex]::Escape($OriginalPath), $UpdatedPath
+                    Write-DebugLog "  Replaced: $OriginalPath -> $UpdatedPath"
+                    $fileLinks++
+                }
             
+            }
+
+            # Save updated content back to the file
+            Set-Content -LiteralPath $_.FullName -Value $FileContent
+            Write-DebugLog "Updated ($($RegexMatches.count) matches, $fileLinks links): $($_.FullName)"
+
+            # Return the count of links processed for this file
+            return $fileLinks
+            
+        } | ForEach-Object {
+            $chunkLinks += $_
         }
 
-        # Save updated content back to the file
-        Set-Content -LiteralPath $HtmlFile.FullName -Value $FileContent
-        Write-DebugLog "Updated ($($Matches.count)): $($HtmlFile.FullName)"
-
-        # **Progress tracking**
-        $index++
-        $percentage = [math]::Round(($index / $totalFiles) * 100, 0)
+        $processedFiles += $chunk.Group.Count
+        $totalLinks += $chunkLinks
+        $percentage = [math]::Round(($processedFiles / $totalFiles) * 100, 0)
         
-        # Log progress every 10%
-        if ($percentage -ge $lastPercentage + $progressInterval) {
-            Write-InfoLog "Progress: $percentage% ($index of $totalFiles HTML files processed with $totalLinks links updated)"
-            $lastPercentage = $percentage
-        }
-            
+        # Stop chunk timing
+        $chunkStopwatch.Stop()
+        $chunkTime = $chunkStopwatch.Elapsed.TotalSeconds
+        $avgTimePerFile = $chunkTime / $chunk.Group.Count
+        
+        Write-InfoLog "Completed chunk ${chunkNumber}: $chunkLinks links updated in $($chunkTime.ToString('F1'))s (avg $($avgTimePerFile.ToString('F2'))s/file). Overall progress: $percentage% ($processedFiles of $totalFiles files, $totalLinks total links updated)"
     }
-    Write-InfoLog "HTML link rewriting complete: $totalLinks links updated across $totalFiles files."
+
+    # Stop overall timing
+    $overallStopwatch.Stop()
+    $totalTime = $overallStopwatch.Elapsed.TotalSeconds
+    $avgOverallTimePerFile = $totalTime / $totalFiles
+    
+    Write-InfoLog "HTML link rewriting complete: $totalLinks links updated across $totalFiles files in $($totalTime.ToString('F1'))s (avg $($avgOverallTimePerFile.ToString('F2'))s/file)"
 }
