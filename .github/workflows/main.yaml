@@ -414,9 +414,6 @@ jobs:
     outputs:
       static_web_app_url: ${{ steps.azureDeploy.outputs.static_web_app_url }}
     steps:
-      - uses: actions/checkout@v4
-        with:
-          submodules: true # Fetch Hugo themes (true OR recursive)
       - name: Download a single artifact
         uses: actions/download-artifact@v4
         with:
@@ -432,7 +429,7 @@ jobs:
       - name: Merge Configuration Files
         run: |
           # Find all files matching the pattern in a safe way
-          $files = Get-ChildItem -Path "." -Recurse -Filter "staticwebapp.*.json" -ErrorAction Stop
+          $files = Get-ChildItem -Path "_site" -Recurse -Filter "staticwebapp.*.json" -ErrorAction Stop
 
           if ($files.Count -eq 0) {
               Write-Host "No files matching the pattern 'staticwebapp.*.json' were found."
