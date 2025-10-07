@@ -114,13 +114,15 @@ function Rewrite-ImageLinks {
     foreach ($chunk in $chunks) {
         $chunkNumber++
         $chunkLinks = 0
-        
-        Write-InfoLog "Processing chunk $chunkNumber of $($chunks.Count) ($($chunk.Group.Count) files)..."
-        
+
+        $maxDegreeOfParallelism = [Environment]::ProcessorCount
+
+        Write-InfoLog "Processing chunk $chunkNumber of $($chunks.Count) ($($chunk.Group.Count) files) with $maxDegreeOfParallelism parallel tasks..."
+
         # Start chunk timing
         $chunkStopwatch = [System.Diagnostics.Stopwatch]::StartNew()
-        
-        $chunk.Group | ForEach-Object -ThrottleLimit ([Environment]::ProcessorCount) -Parallel {
+
+        $chunk.Group | ForEach-Object -ThrottleLimit $maxDegreeOfParallelism -Parallel {
             # Simple fallback logging functions to avoid complex dependencies
             function Write-DebugLog { param($msg) Write-Debug $msg }
             function Write-ErrorLog { param($msg) Write-Error $msg }
