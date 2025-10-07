@@ -13,8 +13,8 @@ function Upload-ImageFiles {
     )
     try {
         Write-InfoLog "Uploading image files to Azure Blob Storage using azcopy..."
-        #azcopy sync $LocalPath "$BlobUrlBase`?$AzureSASToken" --recursive=true --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp;*.svg" --compare-hash=MD5
-        azcopy copy $LocalPath "$BlobUrlBase`?$AzureSASToken" --recursive=true --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp;*.svg" --overwrite ifSourceNewer --put-md5=false
+        azcopy sync $LocalPath "$BlobUrlBase`?$AzureSASToken" --recursive=true --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp;*.svg" --compare-hash=MD5
+        #azcopy copy $LocalPath "$BlobUrlBase`?$AzureSASToken" --recursive=true --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp;*.svg" --overwrite ifSourceNewer --put-md5=false
         Write-InfoLog "Upload complete."
     }
     catch {
