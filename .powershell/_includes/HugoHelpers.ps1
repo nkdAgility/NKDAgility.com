@@ -11,6 +11,10 @@ class HugoMarkdown {
     [System.Collections.Specialized.OrderedDictionary]$FrontMatter
     [string]$BodyContent
     [string]$FilePath
+    [string]$FolderPath
+    [string]$ReferencePath
+    [string]$DataPath
+
 
     HugoMarkdown([System.Collections.Specialized.OrderedDictionary]$frontMatter, [string]$bodyContent, [string]$FilePath) {
         # Directly assign the front matter to the class property
@@ -24,7 +28,10 @@ class HugoMarkdown {
         $this.FilePath = $FilePath
         $this.FolderPath = Split-Path -Path $FilePath -Parent
         $this.ReferencePath = $this.FolderPath.Replace((Resolve-Path -Path "./site/content/"), '').Replace('\', '/')
-        $this.DataPath = Join-Path "site\data" $this.FrontMatter.ItemKind $this.FrontMatter.ItemType $this.FrontMatter.ItemId
+        $ItemKind = if ($this.FrontMatter.Contains("ItemKind")) { $this.FrontMatter.ItemKind } else { "unknown" }
+        $ItemType = if ($this.FrontMatter.Contains("ItemType")) { $this.FrontMatter.ItemType } else { "unknown" }
+        $ItemId = if ($this.FrontMatter.Contains("ItemId")) { $this.FrontMatter.ItemId } else { "unknown" }
+        $this.DataPath = Join-Path "site\data" $ItemKind $ItemType $ItemId
 
     }
 }
@@ -625,6 +632,14 @@ function Update-ItemFrontMatterData {
         ItemId   = $ItemId
         ItemKind = $ItemKind
     }
+}
+
+function Get-HugoSlugSimulation {
+    param (
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown]$hugoMarkdown
+    )
+    return ($hugoMarkdown.FrontMatter.title -replace '[^A-Za-z0-9._~]+', '-' -replace '-{2,}', '-' ).Trim('-').ToLower()
 }
 
 Write-DebugLog "HugoHelpers.ps1 loaded"
