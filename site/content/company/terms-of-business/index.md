@@ -198,6 +198,16 @@ The total course cost is determined by multiplying the adjusted session rate by 
 
 For larger groups, additional pricing tiers apply: 16 students incur a 10% surcharge and additional students above that incur a 20% surcharge.
 
+### Migration Rates
+
+Although we typically deliver migrations under the timeboxed retainer model, we also offer fixed-price migration services for specific scenarios. Please contact us for a tailored quote based on your migration needs.
+
+For per-project migrations, our standard pricing structure includes:
+
+{{< migration-rates >}}
+
+We are the creators and primary maintainers of the [Azure DevOps Migration Tools](https://devopsmigration.io) that we use for many migrations. For complex migrations requiring custom tool development or significant adaptation, additional fees may apply based on the scope of work.
+
 ### Rates & Discounts
 
 - Standard consulting and training rates are published for transparency.
