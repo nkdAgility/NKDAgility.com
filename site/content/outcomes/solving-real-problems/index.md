@@ -21,9 +21,9 @@ sections:
       title: Problem Before Solution
       subtitle: Why 95% of AI Pilots Fail—And How to Avoid That Fate
       content: |
-        Research suggests that **95% of generative AI pilot projects fail** because teams jump straight to technology without first solving real problems. This isn't just an AI issue—it's the danger of any tool-centric approach. <a href="https://nkdagility.com/resources/guides/kendall-guide">The Kendall Guide</a> teaches that successful adoption begins with clearly defined problems, emphasising principles like "Problem before solution," "Context creates meaning," and "Collaboration sustains value."
+        Research suggests that **95% of generative AI pilot projects fail** because teams jump straight to technology without first solving real problems. This isn't just an AI issue—it's the danger of any tool-centric approach. Successful adoption begins with clearly defined problems, emphasising principles like **"Problem before solution,"** **"Context creates meaning,"** and **"Collaboration sustains value."**
   - content: |
-      **NKD Agility applies the Kendall Guide's problem-first approach to help organisations avoid the pitfalls of technology-driven initiatives.** Our <a href="https://nkdagility.com/capabilities/ai-opportunity-discovery">AI Opportunity Discovery & Context Sourcing</a> service reinforces these principles by focusing on a problem-first mindset and structured, team-driven prioritisation—ensuring that technology serves your business needs, not the other way around.
+      **NKD Agility helps organisations focus on outcomes by starting with real problems, not tools.** Our <a href="https://nkdagility.com/capabilities/ai-opportunity-discovery">AI Opportunity Discovery & Context Sourcing</a> service embeds a problem-first mindset and structured, team-driven prioritisation—ensuring that technology serves your business needs, not the other way around.
     type: content
   - type: outcomehero
     cta:
@@ -104,7 +104,7 @@ sections:
           - title: Capture context to create shared understanding
           - title: Prioritize problems based on business impact
           - title: Create actionable roadmaps aligned to outcomes
-          - title: Apply the Kendall Guide's problem-first principles
+          - title: Apply problem-first principles to every initiative
       - box: 
         items:
           - title: Reduce anxiety from tool-centric chaos
@@ -127,7 +127,7 @@ sections:
           Organizations that start with problem identification see dramatically higher success rates in their AI and digital transformation initiatives.
       - icon: fa-shield-check
         content: |
-          Teams applying the Kendall Guide's problem-first principles report better alignment, clearer priorities, and more sustainable outcomes.
+          Teams applying problem-first principles report better alignment, clearer priorities, and more sustainable outcomes.
       - icon: fa-shield-check
         content: |
           Clients using our AI Opportunity Discovery approach successfully avoid the 95% failure rate by focusing on context and real business problems.
@@ -151,7 +151,7 @@ sections:
     sideContent: |
       We don't sell tools or chase trends. We help you solve real problems.
 
-      Guided by <a href="https://nkdagility.com/resources/guides/kendall-guide">The Kendall Guide</a> and our proven <a href="https://nkdagility.com/capabilities/ai-opportunity-discovery">AI Opportunity Discovery</a> methodology, NKD Agility ensures your initiatives start with clear problems—delivering sustainable success, not just temporary hype.
+      Our proven <a href="https://nkdagility.com/capabilities/ai-opportunity-discovery">AI Opportunity Discovery</a> methodology ensures your initiatives start with clear problems—delivering sustainable success, not just temporary hype.
   - type: sectioncta
     backgroundColor: primary
     cta:
