@@ -56,7 +56,7 @@ sections:
       - title: Initiative Failure & Low ROI
         icon: fa-chart-line-down
         content: |
-          Tool-centric mindsets, whether AI, DevOps, or Agile, often deliver negative results because they skip the crucial step of problem definition.
+          Tool-centric mindsets, whether AI, DevOps, Scrum, or Agile, often deliver negative results because they skip the crucial step of problem definition.
       - title: Lost Stakeholder Confidence
         icon: fa-handshake-slash
         content: |
