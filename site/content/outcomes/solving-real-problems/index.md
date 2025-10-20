@@ -19,11 +19,11 @@ sections:
   - type: headline
     headline:
       title: Problem Before Solution
-      subtitle: Why 95% of AI Pilots Fail—And How to Avoid That Fate
+      subtitle: Why 95% of AI Pilots Fail - And How to Avoid That Fate
       content: |
-        Research suggests that **95% of generative AI pilot projects fail** because teams jump straight to technology without first solving real problems. This isn't just an AI issue—it's the danger of any tool-centric approach. Successful adoption begins with clearly defined problems, emphasising principles like **"Problem before solution,"** **"Context creates meaning,"** and **"Collaboration sustains value."**
+        Research suggests that **95% of generative AI pilot projects fail** because teams jump straight to technology without first solving real problems. This isn't just an AI issue; it's the danger of any tool-centric approach. Successful adoption begins with clearly defined problems, emphasising principles like **"Problem before solution,"** **"Context creates meaning,"** and **"Collaboration sustains value."**
   - content: |
-      **NKD Agility helps organisations focus on outcomes by starting with real problems, not tools.** Our <a href="https://nkdagility.com/capabilities/ai-opportunity-discovery">AI Opportunity Discovery & Context Sourcing</a> service embeds a problem-first mindset and structured, team-driven prioritisation—ensuring that technology serves your business needs, not the other way around.
+      **NKD Agility helps organisations focus on outcomes by starting with real problems, not tools.** Our [AI Opportunity Discovery & Context Sourcing]({{< ref "/capabilities/ai-opportunity-discovery" >}}) service embeds a problem-first mindset and structured, team-driven prioritisation-ensuring that technology serves your business needs, not the other way around.
     type: content
   - type: outcomehero
     cta:
@@ -56,7 +56,7 @@ sections:
       - title: Initiative Failure & Low ROI
         icon: fa-chart-line-down
         content: |
-          Tool-centric mindsets—whether AI, DevOps, or Agile—often deliver negative results because they skip the crucial step of problem definition.
+          Tool-centric mindsets-whether AI, DevOps, or Agile-often deliver negative results because they skip the crucial step of problem definition.
       - title: Lost Stakeholder Confidence
         icon: fa-handshake-slash
         content: |
@@ -64,9 +64,7 @@ sections:
   - type: quote
     backgroundColor: primary
     quote: |
-      "95% of generative AI pilot projects fail because teams jump to technology without solving real problems. The same pattern repeats across all tool-centric initiatives—only a problem-first approach delivers sustainable success."
-      
-      Learn more about our <a href="https://nkdagility.com/capabilities/ai-opportunity-discovery" style="color: white; text-decoration: underline;">AI Opportunity Discovery & Context Sourcing</a> approach.
+      "95% of generative AI pilot projects fail because teams jump to technology without solving real problems. The same pattern repeats across all tool-centric initiatives-only a problem-first approach delivers sustainable success."
   - title: Benefits of Focusing on Real Problems
     type: list
     listType: boxed
@@ -98,21 +96,21 @@ sections:
   - type: outcomeboxes
     title: How NKD Agility Helps You Solve Real Problems
     boxes:
-      - box: 
+      - box:
         items:
           - title: Identify and articulate real business problems
           - title: Capture context to create shared understanding
           - title: Prioritize problems based on business impact
           - title: Create actionable roadmaps aligned to outcomes
           - title: Apply problem-first principles to every initiative
-      - box: 
+      - box:
         items:
           - title: Reduce anxiety from tool-centric chaos
           - title: Feel confident you're solving the right problems
           - title: Trust that investments align with business needs
           - title: Experience clarity instead of confusion
           - title: Build momentum through meaningful progress
-      - box: 
+      - box:
         items:
           - title: Lead with problem-focused strategy
           - title: Champion outcome-oriented initiatives
@@ -151,7 +149,7 @@ sections:
     sideContent: |
       We don't sell tools or chase trends. We help you solve real problems.
 
-      Our proven <a href="https://nkdagility.com/capabilities/ai-opportunity-discovery">AI Opportunity Discovery</a> methodology ensures your initiatives start with clear problems—delivering sustainable success, not just temporary hype.
+      Our proven [AI Opportunity Discovery]({{< ref "/capabilities/ai-opportunity-discovery" >}}) capability ensures your initiatives start with clear problems-delivering sustainable success, not just temporary hype.
   - type: sectioncta
     backgroundColor: primary
     cta:
