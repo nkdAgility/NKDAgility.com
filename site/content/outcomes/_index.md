@@ -77,6 +77,10 @@ sections:
     title: "Strategic Leadership & Alignment"
     boxes:
       - box:
+        ref: "/outcomes/solving-real-problems"
+        title: Solving Real Problems
+        content: Avoid the 95% failure rate of technology-first initiatives by focusing on real problems first.
+      - box:
         ref: "/outcomes/clarity-in-technology-roadmaps"
       - box:
         ref: "/outcomes/technical-leadership"
