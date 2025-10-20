@@ -128,7 +128,7 @@ sections:
           Teams applying problem-first principles report better alignment, clearer priorities, and more sustainable outcomes.
       - icon: fa-shield-check
         content: |
-          Clients using our AI Opportunity Discovery approach successfully avoid the 95% failure rate by focusing on context and real business problems.
+          Clients using our [AI Opportunity Discovery]({{< ref "/capabilities/ai-opportunity-discovery" >}})) approach successfully avoid the 95% failure rate by focusing on context and real business problems.
     cta:
       content: Want to see real examples?
       button:
