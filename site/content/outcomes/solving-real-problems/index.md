@@ -136,7 +136,7 @@ sections:
       button:
         text: Explore Case Studies
         url: /resources/case-studies
-  - title: Why NKDAgility?
+  - title: Why NKD Agility?
     type: textNlist
     list:
       - icon: fa-award
