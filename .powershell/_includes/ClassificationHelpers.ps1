@@ -530,7 +530,7 @@ function Update-MissingClassificationsLive {
 
 function Get-Classification {
     param (
-        [HugoMarkdown]$hugoMarkdown,
+        [Parameter(Mandatory = $true)][HugoMarkdown]$hugoMarkdown,
         [string]$ClassificationName
     )
     $cacheFile = Join-Path $hugoMarkdown.DataPath "classifications.json"

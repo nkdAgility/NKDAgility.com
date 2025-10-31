@@ -141,25 +141,34 @@ function Get-EmbeddingFromHugoMarkdown {
     $entryType = "unknown"
     $entryKind = "unknown"
     $entryId = "unknown"
-    If ($HugoMarkdown.FrontMatter.resourceType) {
-        $entryKind = "resource"
-        $entryType = $HugoMarkdown.FrontMatter.resourceType
+    if ($HugoMarkdown.FrontMatter.ItemType) {
+        $entryKind = $HugoMarkdown.FrontMatter.ItemKind
+        $entryType = $HugoMarkdown.FrontMatter.ItemType
         $entryId = $HugoMarkdown.FrontMatter.ItemId
     }
-    If ($HugoMarkdown.FrontMatter.ClassificationType) {
-        $entryKind = "classification"
-        $entryType = $HugoMarkdown.FrontMatter.ClassificationType
-        $entryId = Get-HugoMarkdownSlug -hugoMarkdown $HugoMarkdown
-    }
-    If ($HugoMarkdown.FrontMatter.type -eq "course" -OR $HugoMarkdown.FrontMatter.type -eq "mentor-program") {
-        $entryKind = "program"
-        $entryType = $HugoMarkdown.FrontMatter.type
-        $entryId = Get-HugoMarkdownSlug -hugoMarkdown $HugoMarkdown
+    else {
+        If ($HugoMarkdown.FrontMatter.resourceType) {
+            $entryKind = "resource"
+            $entryType = $HugoMarkdown.FrontMatter.resourceType
+            $entryId = $HugoMarkdown.FrontMatter.ItemId
+        }
+        If ($HugoMarkdown.FrontMatter.ClassificationType) {
+            $entryKind = "classification"
+            $entryType = $HugoMarkdown.FrontMatter.ClassificationType
+            $entryId = Get-HugoMarkdownSlug -hugoMarkdown $HugoMarkdown
+        }
+        If ($HugoMarkdown.FrontMatter.type -eq "course" -OR $HugoMarkdown.FrontMatter.type -eq "mentor-program") {
+            $entryKind = "program"
+            $entryType = $HugoMarkdown.FrontMatter.type
+            $entryId = Get-HugoMarkdownSlug -hugoMarkdown $HugoMarkdown
+        }
+
+        if ($entryType -eq "unknown") {
+            Write-WarningLog "Unknown entry type for $($HugoMarkdown.ReferencePath)"
+        }
     }
 
-    if ($entryType -eq "unknown") {
-        Write-WarningLog "Unknown entry type for $($HugoMarkdown.ReferencePath)"
-    }
+ 
 
     $embeddingData = @{
         title         = $HugoMarkdown.FrontMatter.title
