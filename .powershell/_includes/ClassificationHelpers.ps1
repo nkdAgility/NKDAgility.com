@@ -636,7 +636,7 @@ function Get-ConfidenceFromAIResponse {
     
         return [PSCustomObject]@{
             "resourceId"           = if ($AIResponse.PSObject.Properties["resourceId"]) { $AIResponse.resourceId } else { "unknown" }
-            "itemId"               = if ($AIResponse.PSObject.Properties["itemId"]) { $AIResponse.resourceId } else { "unknown" }
+            "itemId"               = if ($AIResponse.PSObject.Properties["itemId"]) { $AIResponse.itemId } else { if ($AIResponse.PSObject.Properties["resourceId"]) { $AIResponse.resourceId } else { "unknown" } }
             "category"             = if ($AIResponse.PSObject.Properties["category"]) { $AIResponse.category } else { "unknown" }
             "calculated_at"        = $CalculatedDate
             "ai_confidence"        = $aiConfidence
