@@ -6,6 +6,7 @@
   {{ partialCached "infrastructure/publish-categories.html" . }}
   {{ partialCached "infrastructure/validate-taxonomy-terms.html" . }}
 {{ end }}
+{{ .Page.Scratch.Set "heading_count" 0 }}
 <html lang="{{- or site.Language.LanguageCode }}" dir="{{- or site.Language.LanguageDirection `ltr` }}">
   <head>
     {{- if or (eq hugo.Environment "preview") (eq hugo.Environment "production") }}

@@ -1,0 +1,14 @@
+{{/* Count rendered headings across the page */}}
+{{ $n := default 0 (.Page.Scratch.Get "heading_count") }}
+{{ $n = add $n 1 }}
+{{ .Page.Scratch.Set "heading_count" $n }} 
+
+{{/* Decide whether to inject before the 3rd heading */}}
+{{ if eq $n 3 }}
+    {{/*  <div class="injected">-------------------------------------TEST</div>  */}}
+    {{ else}}
+    {{/*  <div class="injected">-------------------------------------TEST {{ $n }}</div>  */}}
+{{ end }} 
+
+{{/* Render the actual heading (preserve id/anchor) */}}
+<h{{ .Level }} id="{{ .Anchor }}">{{ .Text | safeHTML }}</h{{ .Level }}>
