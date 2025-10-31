@@ -1,20 +1,21 @@
 ---
 title: Clarity in Technology Roadmaps
-description: Develop strategic technology roadmaps that align technical initiatives with business goals and provide clear direction for implementation teams.
+short_title: Clarity in Technology Roadmaps
+description: Learn how to create clear, effective technology roadmaps that align teams, set priorities, and guide successful project delivery.
+tldr: Clear technology roadmaps help teams align on goals, prioritize work, and track progress. Regularly updating and communicating the roadmap ensures everyone understands priorities and dependencies. Development managers should review and share the roadmap often to keep teams focused and responsive to changes.
 date: 2025-06-04
-creator: Martin Hinshelwood
+weight: 500
 sitemap:
   filename: sitemap.xml
-  priority: 0.8
-type: outcomes
+  priority: 0.9
+  changefreq: weekly
+ItemId: wTrT0eqFtmY
+ItemType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
 slug: clarity-in-technology-roadmaps
-weight: 500
-card:
-  button:
-    content: Clarify Your Roadmap
-  title: Clarity in Technology Roadmaps
-  content: Eliminate confusion with strategic technology roadmaps that connect technical decisions to business outcomes and guide teams toward success.
-icon: fa-map-signs
+aliases: []
+type: outcomes
 sections:
   - type: headline
     headline:
@@ -154,12 +155,19 @@ sections:
       button:
         text: Schedule a call
         url: /company/book-online
-ItemId: wTrT0eqFtmY
+card:
+  button:
+    content: Clarify Your Roadmap
+  title: Clarity in Technology Roadmaps
+  content: Eliminate confusion with strategic technology roadmaps that connect technical decisions to business outcomes and guide teams toward success.
+Watermarks:
+  description: 2025-10-31T14:01:11Z
+  tldr: 2025-10-31T14:01:12Z
+  short_title: 2025-10-31T14:01:13Z
+creator: Martin Hinshelwood
+icon: fa-map-signs
 ResourceId: wTrT0eqFtmY
-ItemType: outcomes
 ResourceType: outcomes
-ItemKind: marketing
-ItemContentOrigin: human
 
 ---
 

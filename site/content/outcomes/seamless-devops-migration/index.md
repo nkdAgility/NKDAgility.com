@@ -1,19 +1,20 @@
 ---
 title: Seamless DevOps Migration
-description: Modernise legacy systems with secure, scalable DevOps migration that accelerates delivery and preserves business continuity.
+short_title: Seamless DevOps Migration Guide
+description: Learn key steps, best practices, and challenges in migrating to DevOps for improved collaboration, automation, and software delivery efficiency.
+tldr: Migrating to DevOps can streamline software delivery, improve collaboration between teams, and increase deployment speed. Success depends on clear communication, phased implementation, and ongoing training. Start with a pilot project to identify challenges early and build momentum for wider adoption.
 date: 2025-06-03
-creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
-  priority: 0.8
-type: outcomes
+  priority: 0.9
+  changefreq: weekly
+ItemId: 3ZsP7HmazPs
+ItemType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
 slug: seamless-devops-migration
-card:
-  button:
-    content: Start DevOps Journey
-  title: Seamless DevOps Migration
-  content: odernize your delivery pipeline without disrupting business operations through strategic migration that delivers value from day one.
-icon: fa-cloud-upload-alt
+aliases: []
+type: outcomes
 sections:
   - type: headline
     headline:
@@ -157,12 +158,19 @@ sections:
       button:
         text: Schedule a call
         url: /company/book-online
-ItemId: 3ZsP7HmazPs
+card:
+  button:
+    content: Start DevOps Journey
+  title: Seamless DevOps Migration
+  content: odernize your delivery pipeline without disrupting business operations through strategic migration that delivers value from day one.
+Watermarks:
+  description: 2025-10-31T14:01:17Z
+  tldr: 2025-10-31T14:01:18Z
+  short_title: 2025-10-31T14:01:19Z
+creator: Martin Hinshelwood
+icon: fa-cloud-upload-alt
 ResourceId: 3ZsP7HmazPs
-ItemType: outcomes
 ResourceType: outcomes
-ItemKind: marketing
-ItemContentOrigin: human
 
 ---
 

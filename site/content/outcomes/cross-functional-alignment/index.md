@@ -1,20 +1,21 @@
 ---
 title: Cross functional alignment
-description: Break down organizational silos and create seamless collaboration between departments to deliver cohesive, customer-focused solutions.
+short_title: Cross Functional Alignment
+description: How teams from different functions work together to achieve shared goals, improve collaboration, and drive better business outcomes.
+tldr: Cross functional alignment helps teams work better together by clarifying shared goals and responsibilities. It reduces misunderstandings, speeds up decision making, and improves project outcomes. Development managers should regularly facilitate communication between teams to maintain alignment and keep projects on track.
 date: 2025-06-04
-creator: Martin Hinshelwood
+weight: 500
 sitemap:
   filename: sitemap.xml
-  priority: 0.8
-type: outcomes
+  priority: 0.9
+  changefreq: weekly
+ItemId: btO46GSjdqv
+ItemType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
 slug: cross-functional-alignment
-weight: 500
-card:
-  button:
-    content: Align Your Teams
-  title: Cross Functional Alignment
-  content: Break down silos and unite departments around shared goals to deliver cohesive customer value and drive organizational success.
-icon: fa-project-diagram
+aliases: []
+type: outcomes
 sections:
   - type: headline
     headline:
@@ -153,12 +154,19 @@ sections:
       button:
         text: Schedule a call
         url: /company/book-online
-ItemId: btO46GSjdqv
+card:
+  button:
+    content: Align Your Teams
+  title: Cross Functional Alignment
+  content: Break down silos and unite departments around shared goals to deliver cohesive customer value and drive organizational success.
+Watermarks:
+  description: 2025-10-31T14:01:06Z
+  tldr: 2025-10-31T14:01:08Z
+  short_title: 2025-10-31T14:01:09Z
+creator: Martin Hinshelwood
+icon: fa-project-diagram
 ResourceId: btO46GSjdqv
-ItemType: outcomes
 ResourceType: outcomes
-ItemKind: marketing
-ItemContentOrigin: human
 
 ---
 

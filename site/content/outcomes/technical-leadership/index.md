@@ -1,20 +1,21 @@
 ---
 title: Technical Leadership
-description: Develop influential technical leaders who drive innovation, guide teams effectively, and translate business needs into technical solutions.
+short_title: Technical Leadership Guide
+description: Guidance on effective technical leadership, including key skills, responsibilities, and best practices for leading technology teams and projects.
+tldr: Technical leadership is about guiding teams to deliver high-quality software by setting clear direction and supporting growth. Effective leaders foster collaboration, encourage innovation, and help remove obstacles. Focus on developing your team's skills and creating an environment where they can succeed.
 date: 2025-06-03
-creator: Martin Hinshelwood
+weight: 200
 sitemap:
   filename: sitemap.xml
-  priority: 0.8
-type: outcomes
+  priority: 0.9
+  changefreq: weekly
+ItemId: wJMDXD_JAJt
+ItemType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
 slug: technical-leadership
-weight: 200
-card:
-  button:
-    content: Develop Leaders
-  title: Technical Leadership
-  content: Cultivate technical leaders who combine deep expertise with human skills to guide teams, drive innovation, and deliver exceptional results.
-icon: fa-users-cog
+aliases: []
+type: outcomes
 sections:
   - type: headline
     headline:
@@ -157,12 +158,19 @@ sections:
       button:
         text: Schedule a call
         url: /company/book-online
-ItemId: wJMDXD_JAJt
+card:
+  button:
+    content: Develop Leaders
+  title: Technical Leadership
+  content: Cultivate technical leaders who combine deep expertise with human skills to guide teams, drive innovation, and deliver exceptional results.
+Watermarks:
+  description: 2025-10-31T14:01:14Z
+  tldr: 2025-10-31T14:01:15Z
+  short_title: 2025-10-31T14:01:16Z
+creator: Martin Hinshelwood
+icon: fa-users-cog
 ResourceId: wJMDXD_JAJt
-ItemType: outcomes
 ResourceType: outcomes
-ItemKind: marketing
-ItemContentOrigin: human
 
 ---
 

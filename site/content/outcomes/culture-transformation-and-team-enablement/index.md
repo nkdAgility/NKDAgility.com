@@ -1,20 +1,21 @@
 ---
 title: Culture Transformation and Team Enablement
-description: Create an adaptive, high-performing organizational culture where teams are empowered to deliver exceptional value continuously.
+short_title: Culture Transformation & Team Enablement
+description: Learn how to drive culture change and empower teams for better collaboration, innovation, and performance in modern organisations.
+tldr: Transforming company culture is essential for improving team performance and engagement. Focusing on open communication, trust, and continuous learning helps teams adapt to change and deliver better results. Development managers should actively support these cultural shifts to enable teams to thrive and achieve business goals.
 date: 2025-06-04
-creator: Martin Hinshelwood
+weight: 500
 sitemap:
   filename: sitemap.xml
-  priority: 0.8
-type: outcomes
-weight: 500
+  priority: 0.9
+  changefreq: weekly
+ItemId: Do4uZk5AUJe
+ItemType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
 slug: culture-transformation-and-team-enablement
-card:
-  button:
-    content: Transform Your Culture
-  title: Culture Transformation and Team Enablement
-  content: Evolve your organizational culture from command-and-control to empowered, adaptive teams that drive innovation and exceptional results.
-icon: fa-people-arrows
+aliases: []
+type: outcomes
 sections:
   - type: headline
     headline:
@@ -161,12 +162,19 @@ sections:
       button:
         text: Schedule a call
         url: /company/book-online
-ItemId: Do4uZk5AUJe
+card:
+  button:
+    content: Transform Your Culture
+  title: Culture Transformation and Team Enablement
+  content: Evolve your organizational culture from command-and-control to empowered, adaptive teams that drive innovation and exceptional results.
+Watermarks:
+  description: 2025-10-31T14:01:03Z
+  tldr: 2025-10-31T14:01:04Z
+  short_title: 2025-10-31T14:01:05Z
+creator: Martin Hinshelwood
+icon: fa-people-arrows
 ResourceId: Do4uZk5AUJe
-ItemType: outcomes
 ResourceType: outcomes
-ItemKind: marketing
-ItemContentOrigin: human
 
 ---
 

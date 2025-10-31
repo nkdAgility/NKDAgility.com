@@ -1,20 +1,21 @@
 ---
 title: Reduced risk Increased Stability
-description: Minimize deployment risks and enhance system reliability through advanced engineering practices and proactive management strategies.
+short_title: Reduced Risk, Increased Stability
+description: Learn how reducing risk leads to greater system stability, ensuring reliable performance and minimizing disruptions in software and business operations.
+tldr: Focusing on reducing risk leads to more stable software and fewer unexpected issues in production. By identifying and addressing potential problems early, teams can deliver more reliable releases and improve customer trust. Development managers should prioritize risk management practices to maintain stability and support smoother deployments.
 date: 2025-06-01T09:00:00Z
-creator: Martin Hinshelwood
+weight: 500
 sitemap:
   filename: sitemap.xml
-  priority: 0.8
-type: outcomes
+  priority: 0.9
+  changefreq: weekly
+ItemId: _QpdqoCkfEl
+ItemType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
 slug: reduced-risk-increased-stability
-weight: 500
-card:
-  button:
-    content: Build Stable Systems
-  title: Reduced Risk Increased Stability
-  content: Transform uncertain deployments into predictable releases through disciplined engineering practices that proactively address potential failures.
-icon: fa-shield-alt
+aliases: []
+type: outcomes
 sections:
   - type: headline
     headline:
@@ -154,12 +155,19 @@ sections:
       button:
         text: Schedule a call
         url: /company/book-online
-ItemId: _QpdqoCkfEl
+card:
+  button:
+    content: Build Stable Systems
+  title: Reduced Risk Increased Stability
+  content: Transform uncertain deployments into predictable releases through disciplined engineering practices that proactively address potential failures.
+Watermarks:
+  description: 2025-10-31T14:01:24Z
+  tldr: 2025-10-31T14:01:25Z
+  short_title: 2025-10-31T14:01:26Z
+creator: Martin Hinshelwood
+icon: fa-shield-alt
 ResourceId: _QpdqoCkfEl
-ItemType: outcomes
 ResourceType: outcomes
-ItemKind: marketing
-ItemContentOrigin: human
 
 ---
 

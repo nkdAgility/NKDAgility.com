@@ -1,21 +1,21 @@
 ---
 title: Engineering Excellence
-description: Build high-quality software systems through advanced engineering practices that enhance reliability, maintainability, and technical innovation.
+short_title: Engineering Excellence Guide
+description: A guide to best practices, skills, and standards for achieving high-quality results in engineering teams and technical projects.
+tldr: Engineering excellence means consistently delivering high-quality software that meets user needs and business goals. It requires strong technical skills, effective collaboration, and a culture of continuous improvement. Focus on building teams that prioritize quality, share knowledge, and regularly review processes to drive better outcomes.
 date: 2025-05-30T09:00:00Z
-trustpilot: false
-creator: Martin Hinshelwood
 weight: 100
 sitemap:
   filename: sitemap.xml
-  priority: 0.8
-type: outcomes
+  priority: 0.9
+  changefreq: weekly
+ItemId: HHVaKkQviFN
+ItemType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
 slug: engineering-excellence
-card:
-  button:
-    content: Achieve Excellence
-  title: Engineering Excellence
-  content: Elevate your engineering practices to world-class standards that deliver exceptional software quality, maintainability, and innovation.
-icon: fa-gear-code
+aliases: []
+type: outcomes
 sections:
   - type: headline
     headline:
@@ -162,12 +162,20 @@ sections:
       button:
         text: Schedule a call
         url: /company/book-online
-ItemId: HHVaKkQviFN
+card:
+  button:
+    content: Achieve Excellence
+  title: Engineering Excellence
+  content: Elevate your engineering practices to world-class standards that deliver exceptional software quality, maintainability, and innovation.
+Watermarks:
+  description: 2025-10-31T14:01:30Z
+  tldr: 2025-10-31T14:01:32Z
+  short_title: 2025-10-31T14:01:33Z
+trustpilot: false
+creator: Martin Hinshelwood
+icon: fa-gear-code
 ResourceId: HHVaKkQviFN
-ItemType: outcomes
 ResourceType: outcomes
-ItemKind: marketing
-ItemContentOrigin: human
 
 ---
 

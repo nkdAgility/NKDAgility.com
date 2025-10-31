@@ -1,20 +1,21 @@
 ---
 title: Solving Real Problems
-description: Focus on real problems before jumping to technology solutions. Learn how a problem-first mindset prevents the 95% failure rate seen in tool-centric AI initiatives and drives sustainable success.
+short_title: Solving Real Problems
+description: Learn practical approaches and strategies to identify, analyze, and effectively solve real-world problems in various contexts and industries.
+tldr: Focusing on real user problems leads to better products and more satisfied customers. Teams should spend time understanding user needs, not just building features, and regularly validate solutions with actual users. Encourage your team to prioritize problem discovery and user feedback to ensure development efforts have real impact.
 date: 2025-10-20
-creator: Martin Hinshelwood
 weight: 150
 sitemap:
   filename: sitemap.xml
-  priority: 0.8
-type: outcomes
+  priority: 0.9
+  changefreq: weekly
+ItemId: iwPLcfU_z2Q
+ItemType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
 slug: solving-real-problems
-card:
-  button:
-    content: Start with Problems
-  title: Solving Real Problems
-  content: Avoid the 95% failure rate of technology-first initiatives by focusing on real problems first, ensuring sustainable and purposeful outcomes.
-icon: fa-lightbulb-on
+aliases: []
+type: outcomes
 sections:
   - type: headline
     headline:
@@ -27,7 +28,7 @@ sections:
     type: content
   - type: outcomehero
     cta:
-      content: "Ready to focus on real problems? **Let's identify what truly matters.**"
+      content: Ready to focus on real problems? **Let's identify what truly matters.**
       button:
         text: Book a Discovery Call
         url: /company/book-online
@@ -96,21 +97,21 @@ sections:
   - type: outcomeboxes
     title: How NKD Agility Helps You Solve Real Problems
     boxes:
-      - box:
+      - box: 
         items:
           - title: Identify and articulate real business problems
           - title: Capture context to create shared understanding
           - title: Prioritize problems based on business impact
           - title: Create actionable roadmaps aligned to outcomes
           - title: Apply problem-first principles to every initiative
-      - box:
+      - box: 
         items:
           - title: Reduce anxiety from tool-centric chaos
           - title: Feel confident you're solving the right problems
           - title: Trust that investments align with business needs
           - title: Experience clarity instead of confusion
           - title: Build momentum through meaningful progress
-      - box:
+      - box: 
         items:
           - title: Lead with problem-focused strategy
           - title: Champion outcome-oriented initiatives
@@ -153,8 +154,23 @@ sections:
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: "Ready to solve real problems instead of chasing tools?"
+      content: Ready to solve real problems instead of chasing tools?
       button:
         text: Schedule a Call
         url: /company/book-online
+card:
+  button:
+    content: Start with Problems
+  title: Solving Real Problems
+  content: Avoid the 95% failure rate of technology-first initiatives by focusing on real problems first, ensuring sustainable and purposeful outcomes.
+Watermarks:
+  description: 2025-10-31T14:00:51Z
+  tldr: 2025-10-31T14:00:54Z
+  short_title: 2025-10-31T14:00:56Z
+creator: Martin Hinshelwood
+icon: fa-lightbulb-on
+ResourceId: iwPLcfU_z2Q
+ResourceType: outcomes
+
 ---
+

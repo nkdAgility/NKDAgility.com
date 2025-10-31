@@ -1,20 +1,21 @@
 ---
 title: Executive and Stakeholder Buy In
-description: Gain strong organizational support through strategic alignment and demonstrable business value to ensure your transformation succeeds.
+short_title: Executive and Stakeholder Buy-In
+description: Learn how to gain support from executives and stakeholders for your projects, ensuring alignment, commitment, and successful outcomes.
+tldr: Getting executives and stakeholders on board is crucial for project success. Clear communication of goals, benefits, and progress helps build trust and support. Regular updates and involving stakeholders in key decisions can increase engagement and alignment.
 date: 2025-06-02
-creator: Martin Hinshelwood
+weight: 500
 sitemap:
   filename: sitemap.xml
-  priority: 0.8
-type: outcomes
-weight: 500
+  priority: 0.9
+  changefreq: weekly
+ItemId: geznVaAkN1-
+ItemType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
 slug: executive-and-stakeholder-buy-in
-card:
-  button:
-    content: Secure Leadership Support
-  title: Executive and Stakeholder Buy-In
-  content: Transform sceptical leadership into committed champions through strategic alignment, clear ROI demonstration, and proven engagement strategies.
-icon: fa-handshake
+aliases: []
+type: outcomes
 sections:
   - type: headline
     headline:
@@ -161,12 +162,19 @@ sections:
       button:
         text: Schedule a call
         url: /company/book-online
-ItemId: geznVaAkN1-
+card:
+  button:
+    content: Secure Leadership Support
+  title: Executive and Stakeholder Buy-In
+  content: Transform sceptical leadership into committed champions through strategic alignment, clear ROI demonstration, and proven engagement strategies.
+Watermarks:
+  description: 2025-10-31T14:01:20Z
+  tldr: 2025-10-31T14:01:22Z
+  short_title: 2025-10-31T14:01:23Z
+creator: Martin Hinshelwood
+icon: fa-handshake
 ResourceId: geznVaAkN1-
-ItemType: outcomes
 ResourceType: outcomes
-ItemKind: marketing
-ItemContentOrigin: human
 
 ---
 
