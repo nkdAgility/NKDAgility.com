@@ -9,6 +9,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: PAL-EBM
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -20,7 +21,6 @@ aliases:
   - /training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification
   - /training-courses/professional-scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
   - /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
-  - /resources/enw9s_l3PeE
   - /capabilities/evidence-based-leadership/
   - /capabilities/training-courses/scrumorg-professional-agile-leadership-with-evidence-based-management
 aliasesArchive:
@@ -78,12 +78,12 @@ delivery_audiences:
   - Entrepreneurs
 preview: naked-agility-Professional-Scrum-PALEBM-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PALEBM-400x.png
-brandColour: 
+brandColour:
 code: PAL-EBM
 programCode: PAL-EBM
 course_proficiencies:
   - advanced
-introduction: 
+introduction:
 overview: |-
   PAL-EBM is for professionals in leadership roles (including executives, managers, Scrum Masters, Product Owners, coaches, and consultants) who: 
   - Are responsible for the success of their product delivery programs or Agile transformations and are seeking a means to measure and demonstrate that success
@@ -101,7 +101,7 @@ outcomes: |-
   - Drive operational improvements by using four Key Value Areas (Unrealized Value, Current Value, Time-to-Market, and the Ability to Innovate) as lenses for evidence-based decision-making
 
   <!-- /wp:list -->
-assessment: 
+assessment:
 objectives: |2+
 
   - Understand the essential aspects of goals and measures and how they influence behaviors and an organization’s culture and values
@@ -115,16 +115,15 @@ prerequisites: |+
   - Read: [The Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/)
   - Read: [Investing for Business Agility: Using evidence-based portfolio management to achieve better business outcomes](https://nkdagility.com/investing-for-business-agility-using-evidence-based-portfolio-management-to-achieve-better-business-outcomes/)
 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ResourceId: PAL-EBM
 ResourceType: course
-ItemId: PAL-EBM
-
 ---
+
 # Professional Agile Leadership – Evidence-Based Management (PAL-EBM)
 
 **Course Code:** PAL-EBM

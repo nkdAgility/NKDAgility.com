@@ -9,6 +9,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: cdads
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -86,7 +87,6 @@ syllabus:
 events: 
 ResourceId: cdads
 ResourceType: course
-ItemId: cdads
 
 ---
 # Continuous Delivery Using Azure DevOps Services Training

@@ -9,6 +9,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: NKD-PMMP
 ItemType: mentor-program
 ItemKind: program
 ItemContentOrigin: human
@@ -16,7 +17,6 @@ slug: product-management-mentor-program
 aliases:
   - /capabilities/product-management-mentor-program/
   - /NKD-PMMP/
-  - /resources/3xZaUxPTiUZ
 aliasesArchive:
   - /capabilities/product-management-mentor-program/
   - /NKD-PMMP/
@@ -45,42 +45,42 @@ tags:
   - Evidence Based Leadership
 sections:
   - title: Tackle Product Management Challenges Head-On
-    content: 'Our mentoring program directly addresses and delivers transformative solutions for the 9 most significant challenges in product development:'
+    content: "Our mentoring program directly addresses and delivers transformative solutions for the 9 most significant challenges in product development:"
     type: cards
     cards:
       - title: Navigating Uncertainty
         content: Equip teams with Agile methodologies to adapt and thrive.
-        image: 
+        image:
       - title: Stakeholder Alignment
         content: Enhance communication and collaboration for stakeholder satisfaction.
-        image: 
+        image:
       - title: Prioritization in Complexity
         content: Master prioritization techniques for high-value tasks.
-        image: 
+        image:
       - title: Integrating User Experience
         content: Embed UX principles for products that meet user needs.
-        image: 
+        image:
       - title: Evidence-Based Decision Making
         content: Shift towards data-driven strategies.
-        image: 
+        image:
       - title: Adapting to Market Changes
         content: Enhance responsiveness with Agile practices.
-        image: 
+        image:
       - title: Building High-Performing Teams
         content: Cultivate leadership that motivates and drives excellence.
-        image: 
+        image:
       - title: Scaling Agile Practices
         content: Expand Agile methodologies for organizational cohesion.
-        image: 
+        image:
       - title: Sustaining Innovation
         content: Develop a continuous improvement framework for product and practice innovation.
-        image: 
+        image:
   - title: A Transformative Expedition from Basics to Mastery
-    content: 'Our immersive learning experience is more than training; it’s a transformative journey designed to equip your product management team with the actionable skills, tools, and Agile mindset required to excel. Here’s how our program addresses your challenges with immediate, effective solutions:'
+    content: "Our immersive learning experience is more than training; it’s a transformative journey designed to equip your product management team with the actionable skills, tools, and Agile mindset required to excel. Here’s how our program addresses your challenges with immediate, effective solutions:"
     type: phases
     source: sylabus
     sylabus:
-      - title: 'Phase 1: Value-driven product development'
+      - title: "Phase 1: Value-driven product development"
         content: |
           Are you struggling with the implications of a move to a product organisation and how to develop vision, value, and validation in place of the traditional structures?
 
@@ -88,7 +88,7 @@ sections:
 
           As part of this phase, we use the accredited [Professional Scrum Product Owner (PSPO)](/capabilities/training-courses/scrumorg-professional-scrum-product-owner) training course and every participant received 2 attempts at the [Professional Scrum Product Owner™ I Certification (PSPO I)](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification).
         module: /capabilities/training-courses/scrumorg-professional-scrum-product-owner
-      - title: 'Phase 2: Agile Product Management'
+      - title: "Phase 2: Agile Product Management"
         content: |
           Need to navigate product management in complex environments? Advanced stakeholder management and product vision development are often challenging.
 
@@ -96,7 +96,7 @@ sections:
 
           As part of this phase, we use the accredited [Advanced Professional Scrum Product Owner (PSPO-A)](/capabilities/training-courses/scrumorg-professional-scrum-product-owner-advanced) Course, and every participant received two attempts at the [Professional Scrum Product Owner™ II Certification](https://www.scrum.org/assessments/professional-scrum-product-owner-ii-assessment).
         module: /capabilities/training-courses/scrumorg-professional-scrum-product-owner-advanced
-      - title: 'Phase 3: Hypothosis Driven Product Management'
+      - title: "Phase 3: Hypothosis Driven Product Management"
         content: |
           User experience taking a backseat in your Agile process? Integrating UX design principles into your teams is critical for success.
 
@@ -104,7 +104,7 @@ sections:
 
           Included with this phase is access to the accredited [Professional Scrum with User Experience (PSU) course](/capabilities/training-courses/scrumorg-professional-scrum-with-user-experience) and two atempts at the [Professional Scrum™ with User Experience Certification](https://www.scrum.org/assessments/professional-scrum-user-experience-certification).
         module: /capabilities/training-courses/scrumorg-professional-scrum-with-user-experience
-      - title: 'Phase 4: Evidence-based Mangement'
+      - title: "Phase 4: Evidence-based Mangement"
         content: |
           Difficulty in measuring the value that you are adding with change? Leadership often lacks the tools for evidence-based decision-making.
 
@@ -113,40 +113,40 @@ sections:
           As part of this phase, we use the accredited [Professional Agile Leadership – Evidence-Based Management (PAL-EBM)](/capabilities/training-courses/scrumorg-professional-agile-leadership-with-evidence-based-management) Course and all participants gain receive two attempts at the [Professional Agile Leadership™ – Evidence-Based Management™ Certification](https://www.scrum.org/assessments/professional-agile-leadership-evidence-based-management-certification).
         module: /capabilities/training-courses/scrumorg-professional-agile-leadership-with-evidence-based-management
   - title: Why NKD Agility?
-    content: 
+    content:
     type: cards
     cards:
       - title: Expert Guidance
         content: Learn from Agile coaches with firsthand success in leading product teams to excellence.
-        image: 
+        image:
       - title: Holistic Approach
         content: Beyond the classroom, our program includes real-world consulting and coaching for practical application.
-        image: 
+        image:
       - title: Community and Support
         content: Join a vibrant community of practitioners with ongoing support post-completion.
-        image: 
+        image:
       - title: Proven Results
         content: Alumni leading Agile transformations stand as a testament to our program’s effectiveness.
-        image: 
+        image:
   - title: Evidence Based with NKDAgility Insights
-    content: 'NKDAgility Insights is a significant development in team and organizational development tools. By providing continuous illumination on the quality of teamwork based on scientific insights, it offers a structured approach to diagnosing team performance issues. Here’s a closer look at its features and how it might function:'
+    content: "NKDAgility Insights is a significant development in team and organizational development tools. By providing continuous illumination on the quality of teamwork based on scientific insights, it offers a structured approach to diagnosing team performance issues. Here’s a closer look at its features and how it might function:"
     type: cards
     cards:
       - title: Comprehensive Analysis
         content: The tool assesses various dimensions of team performance, including communication, collaboration, problem-solving abilities, and leadership dynamics.
-        image: 
+        image:
       - title: Actionable Recommendations
         content: The feedback provided is grounded in scientific research, ensuring that recommendations are both effective and actionable.
-        image: 
+        image:
       - title: Community and Support
         content: Join a vibrant community of practitioners with ongoing support post-completion.
-        image: 
+        image:
       - title: Systemic Improvement
         content: Beyond addressing immediate team-level concerns, NKDA-Insights also identifys and proposes solutions for broader organizational challenges affecting team performance.
-        image: 
+        image:
       - title: Continuous Improvement
         content: The tool's emphasis on continuous assessment ensures that teams can adapt and evolve their strategies over time, fostering a culture of continuous improvement.
-        image: 
+        image:
   - title: Transform Your Team into Agile Leaders
     content: |
       Designed for organizations aiming to lead, innovate, and thrive in an Agile world, our program is perfect for:
@@ -154,8 +154,8 @@ sections:
       - Teams elevating their product management practices.
       - Individuals aspiring to become influential Product Owners or Product Managers.
       - Organizations embedding Agile principles deeply into their culture.
-  - title: 
-    content: 
+  - title:
+    content:
     type: videos
     related:
       - resources/videos/youtube/TCs2IxB118c
@@ -192,9 +192,8 @@ headline:
   cards: []
 ResourceId: NKD-PMMP
 ResourceType: mentor-program
-ItemId: NKD-PMMP
-
 ---
+
 # Product Management Mentor Program
 
 **Course Code:** NKD-PMMP

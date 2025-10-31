@@ -34,8 +34,8 @@ ResourceImportId: 270
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Your results:  
 **You are Dr. Simon Tam (Ship Medic)**
 

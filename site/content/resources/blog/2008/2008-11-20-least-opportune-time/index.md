@@ -35,8 +35,8 @@ ResourceImportId: 163
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: metro-visual-studio-2005-128-link-4-4.png
----
 
+---
 [![codeplex](images/Leastopportunetime_CCCD-codeplex_thumb-2-2.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Leastopportunetime_CCCD-codeplex_2.jpg)
 { .post-img }
 

@@ -34,8 +34,8 @@ ResourceType: blog
 ResourceImportId: 153
 creator: Martin Hinshelwood
 resourceTypes: blog
----
 
+---
 [![n2381079695_7151](images/eb4ca28d54bb_77F8-n2381079695_7151_3-1-1.jpg)](//www.linkedin.com/e/gis/104499)
 { .post-img }
 

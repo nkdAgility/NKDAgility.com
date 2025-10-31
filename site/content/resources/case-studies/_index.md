@@ -6,6 +6,8 @@ url: "/resources/case-studies/"
 layout: "section" # Hugo will use section.html to render the list of pages
 resourceType: case-studies
 resourceIsSection: true
+aliases:
+  - /learn/agile-delivery-kit/whitepapers/
 headline:
   title: "a·gen·tic a·gil·i·ty: case stud·ies"
   content: |

@@ -19,6 +19,7 @@ aliases:
   - /resources/CawY8x3kGVk
   - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3
   - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3-micromanagement-developer-autonomy-and-more
+  - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-3
 aliasesArchive:
   - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
   - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3-
@@ -30,6 +31,7 @@ aliasesArchive:
   - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3
   - scrum-is-like-communism-it-doesnt-work-myth-3
   - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-3.
+  - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-3
 source: internal
 layout: video
 concepts: []
@@ -55,8 +57,8 @@ duration: 234
 resourceTypes:
   - video
 isShort: false
----
 
+---
 # [Scrum]({{< ref "/categories/scrum" >}}) and Micromanagement: Dispelling the Myth 🚀
 
 Hello, Agile advocates! Today, we're diving into a contentious topic that's sparked debate across many Scrum teams: **The Myth of Micromanagement in Scrum**. This myth perpetuates the notion that Scrum inherently fosters an environment ripe for micromanagement. However, is this truly an attribute of Scrum, or is it a manifestation of how some organizations misapply its principles? Let's unravel this myth and explore how we can cultivate genuine Agile environments that empower, rather than constrain, teams. 🌟

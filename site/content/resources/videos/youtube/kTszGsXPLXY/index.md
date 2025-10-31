@@ -55,8 +55,8 @@ duration: 331
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ### Getting Started with [Kanban]({{< ref "/categories/kanban" >}}): A Guide to Initiating Your First Kanban Pilot
 
 **Introduction**

@@ -1,5 +1,5 @@
 ---
-title: "Post event: Developer Day Scotland"
+title: 'Post event: Developer Day Scotland'
 description: Highlights from Developer Day Scotland, featuring sessions on ADO.NET Data Services, anti-patterns, continuous integration, and test-driven development by expert speakers.
 date: 2008-05-12
 lastmod: 2008-05-12
@@ -35,8 +35,8 @@ ResourceImportId: 229
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 What a fantastic day... Thanks to [Colin Mackay](http://blog.colinmackay.net/) for the fantastic job he did organising this event and I hope that there will be more events like this in Glasgow in the future...
 
 I can only comment on the speakers that I attended, but they were all very impressive...

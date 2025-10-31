@@ -9,6 +9,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: APS
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -141,7 +142,6 @@ roadmap:
 events: 
 ResourceId: APS
 ResourceType: course
-ItemId: APS
 
 ---
 # Applying Professional Scrum (APS) Course with Certification

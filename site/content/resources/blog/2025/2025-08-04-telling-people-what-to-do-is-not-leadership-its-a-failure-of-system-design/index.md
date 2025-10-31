@@ -24,8 +24,10 @@ ItemContentOrigin: hybrid
 slug: telling-people-what-to-do-is-not-leadership-it-s-a-failure-of-system-design
 aliases:
   - /resources/W_KrTupmowf
+  - /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design
 aliasesArchive:
   - /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
+  - /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design
 concepts:
   - Tenet
 categories:
@@ -55,8 +57,8 @@ Watermarks:
 creator: Martin Hinshelwood
 ResourceId: W_KrTupmowf
 ResourceType: blog
----
 
+---
 If your organisation still measures leadership by how many decisions a manager makes, you are not leading. You are leaking value.
 
 There is a stubborn, Taylorist holdover in many companies—the belief that work gets done when someone is told exactly what to do. The assumption is that certainty comes from control, clarity comes from instruction, and delivery comes from compliance.

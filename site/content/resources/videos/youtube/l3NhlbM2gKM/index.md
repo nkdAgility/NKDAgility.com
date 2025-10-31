@@ -1,6 +1,6 @@
 ---
 title: Scrum is like communism, it doesn't work. Myth 2
-short_title: "Scrum Story Points: Myths and Best Practices"
+short_title: 'Scrum Story Points: Myths and Best Practices'
 description: Explains why story points are often misunderstood in Scrum, clarifies their intended use, and offers practical advice for more effective Agile estimation and team collaboration.
 tldr: Story points are not required by Scrum and are often misused, leading to confusion and pressure on teams. Their real value is in sparking conversations about uncertainty during backlog refinement, not as ongoing metrics or time proxies. Development managers should focus on open dialogue, use story points only as needed for understanding, and consider alternative estimation methods to better support team effectiveness and value delivery.
 date: 2023-10-24T11:00:39Z
@@ -18,6 +18,7 @@ slug: scrum-is-like-communism-it-doesn't-work-myth-2
 aliases:
   - /resources/l3NhlbM2gKM
   - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2
+  - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-2
 aliasesArchive:
   - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
   - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2-
@@ -28,6 +29,7 @@ aliasesArchive:
   - scrum-is-like-communism-it-doesnt-work-myth-2-
   - scrum-is-like-communism-it-doesnt-work-myth-2
   - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-2.
+  - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-2
 source: internal
 layout: video
 concepts: []
@@ -48,8 +50,8 @@ duration: 216
 resourceTypes:
   - video
 isShort: false
----
 
+---
 # Unraveling the Story Point Myth in [Scrum]({{< ref "/categories/scrum" >}}): A Path to Clarity 🚀
 
 Hello, Agile practitioners! Today, I'm tackling a pervasive myth that has become a common stumbling block in Scrum teams: **the Story Point Conundrum**. This myth often manifests as confusion and frustration around the use of story points, with many questioning their value and relevance in Scrum. Let's dive deep into this myth, understand its origins, and explore how we can navigate beyond it to foster more effective and meaningful Agile practices. 🌟

@@ -36,8 +36,8 @@ ResourceImportId: 268
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: metro-binary-vb-128-link-2-1.png
----
 
+---
 [![image](images/ReturninganAnonymoustype_8A86-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ReturninganAnonymoustype_8A86-image_2.png) In VB.NET it is actually possible to return an Anonymous type from a function and use it somewhere else. In VB.NET you need to use late binding so you can't change the "Option strict" compiler option to true as I have always done in the past. This option, that defaults to "Off", is the main reason that C# developers scoff at VB, but this feature is now available, controversially in C#.
 { .post-img }
 

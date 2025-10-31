@@ -1,4 +1,5 @@
 ---
+title: "3 Core Practices of Kanban: Improving a Workflow"
 short_title: Kanban Workflow Improvement Practices
 description: Learn how to improve Kanban workflows by identifying blockages, reducing waiting times, and making continuous changes to boost efficiency and value delivery in your process.
 tldr: Continuous improvement is a key Kanban practice that focuses on identifying and removing workflow blockages and reducing waiting times to maximize value delivery. Making inefficiencies and their costs visible, as shown in a real-life example, can prompt immediate behavioral changes and significant efficiency gains. Development managers should regularly review processes, use visual aids to highlight delays, and engage stakeholders to drive ongoing workflow improvements.

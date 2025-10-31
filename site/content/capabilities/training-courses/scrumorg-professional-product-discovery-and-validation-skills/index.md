@@ -9,6 +9,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: PPDV
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -17,7 +18,6 @@ aliases:
   - /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
   - /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
   - /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
-  - /resources/-IePwtEoXdo
 aliasesArchive:
   - /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
   - /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
@@ -58,12 +58,12 @@ delivery_audiences:
   - Teams
 preview: NKDAgility-Courses-PSVS-16x9-1.png
 previewIcon: PPDV-BETA-logo.png
-brandColour: 
+brandColour:
 code: PPDV
 course_proficiencies:
   - beginner
-introduction: 
-overview: 
+introduction:
+overview:
 outcomes: |2+
 
   - Identify what assumptions are being made
@@ -77,7 +77,7 @@ outcomes: |2+
   - Analyze the results of your experiments
   - Use learnings in your decision making process
 
-assessment: 
+assessment:
 objectives: |2+
 
   - Increase user value created by deliberately designing experiments to validate assumptions about user’s needs and wants
@@ -85,17 +85,16 @@ objectives: |2+
   - Improve organizational collaboration and alignment by engaging with key stakeholders using data instead of opinions
   - Unlock creativity by reframing work as problems to solve rather than tasks to execute
 
-prerequisites: 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
+prerequisites:
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ResourceId: PPDV
 ResourceType: course
-ItemId: PPDV
-
 ---
+
 # Professional Product Discovery and Validation Skills (PPDV)
 
 **Course Code:** PPDV

@@ -7,6 +7,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: NKD-ENG
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -55,7 +56,6 @@ syllabus:
 events: 
 ResourceId: NKD-ENG
 ResourceType: course
-ItemId: NKD-ENG
 
 ---
 This workshop includes instructor demo and guided discussion focusing on agile software engineering practices. The instructor will cover relevant engineering and ALM (Application Lifecycle Management) practices.

@@ -17,6 +17,7 @@ ItemContentOrigin: AI
 slug: overview-of-'applying-metrics-for-predictability'-kanban-course
 aliases:
   - /resources/gjrvSJWE0Gk
+  - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
 aliasesArchive:
   - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course-
   - /resources/overview-of-applying-metrics-for-predictability-kanban-course
@@ -51,8 +52,8 @@ duration: 124
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ### Enhancing Team Predictability with [Kanban]({{< ref "/categories/kanban" >}}): The "Applying Metrics for Predictability" Course
 
 **Introduction**

@@ -10,12 +10,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: OMP
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
 slug: okr-practitioner
 aliases:
-  - /resources/JB8YQfj4tUY
+aliasesArchive:
 type: course
 concepts:
   - Framework
@@ -93,9 +94,8 @@ course_proficiencies:
   - beginner
 ResourceId: OMP
 ResourceType: course
-ItemId: OMP
-
 ---
+
 # OKR Practitioner
 
 **Course Code:** OMP

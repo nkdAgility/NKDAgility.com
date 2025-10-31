@@ -23,6 +23,7 @@ aliasesArchive:
   - /loss-of-my-user-name-is-not-that-bad
   - /resources/blog/loss-of-my-user-name-is-not-that-bad
   - /resources/blog/loss-of-my.user.name-is-not-that-bad...
+  - /resources/blog/loss-of-my.user.name-is-not-that-bad
 layout: blog
 concepts: []
 categories:
@@ -36,8 +37,8 @@ ResourceImportId: 245
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: metro-binary-vb-128-link-2-2.png
----
 
+---
 ```
 Imports System.DirectoryServices.AccountManagement
 ```
