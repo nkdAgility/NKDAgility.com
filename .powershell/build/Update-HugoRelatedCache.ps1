@@ -46,7 +46,7 @@ foreach ($HugoMarkdown in $hugoMarkdownObjects) {
 
     $capabilities = $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "capabilities" } | Select-Object -First 5
     if ($capabilities.count -eq 0) {
-        Write-DebugLog "No capabilities found for $($HugoMarkdown.ReferencePath)"
+        Write-InformationLog "No capabilities found for $($HugoMarkdown.ReferencePath)"
     }
     $filteredRelated += $capabilities
     $filteredRelated += $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "outcomes" } | Select-Object -First 5
