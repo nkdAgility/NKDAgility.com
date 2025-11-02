@@ -5,6 +5,11 @@
 
 {{/* Decide whether to inject before the 3rd heading */}}
 {{ if eq $n 3 }}
+{{- $relatedResources := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "resource") }}
+    {{- $relatedResources := where $relatedResources "Type" "ne" "guides" }}
+    {{- $relatedResources := first 6 $relatedResources }}
+
+
     {{/*  <div class="injected">-------------------------------------TEST</div>  */}}
     {{ else}}
     {{/*  <div class="injected">-------------------------------------TEST {{ $n }}</div>  */}}

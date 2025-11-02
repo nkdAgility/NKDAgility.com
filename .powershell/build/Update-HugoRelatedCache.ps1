@@ -13,7 +13,7 @@ $levelSwitch.MinimumLevel = 'Information'
 Start-TokenServer
 #$storageContext = New-AzStorageContext -SasToken $Env:AZURE_BLOB_STORAGE_SAS_TOKEN -StorageAccountName "nkdagilityblobs"
 $hugoMarkdownObjects = @()
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\outcomes\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\tags\" -YearsBack 100
@@ -28,6 +28,8 @@ Write-DebugLog "--------------------------------------------------------"
 $totalCount = $hugoMarkdownObjects.Count
 $currentIndex = 0
 
+pause
+
 foreach ($HugoMarkdown in $hugoMarkdownObjects) {
     $currentIndex++
     $percentComplete = [math]::Round(($currentIndex / $totalCount) * 100, 2)
@@ -41,12 +43,17 @@ foreach ($HugoMarkdown in $hugoMarkdownObjects) {
     $filteredRelated += $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "Signals" } | Select-Object -First 5
     $filteredRelated += $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "Guides" } | Select-Object -First 5
     $filteredRelated += $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "course" } | Select-Object -First 5
-    $filteredRelated += $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "capabilities" } | Select-Object -First 5
+
+    $capabilities = $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "capabilities" } | Select-Object -First 5
+    if ($capabilities.count -eq 0) {
+        Write-DebugLog "No capabilities found for $($HugoMarkdown.ReferencePath)"
+    }
+    $filteredRelated += $capabilities
     $filteredRelated += $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "outcomes" } | Select-Object -First 5
     $relatedWrapper.related = $filteredRelated  | Sort-Object Similarity -Descending
     if ($relatedWrapper.related.Count -gt 0) {
         $relatedLocalCache = "site/data/$($HugoMarkdown.FrontMatter.ItemKind)/$($HugoMarkdown.FrontMatter.ItemType)/$($HugoMarkdown.FrontMatter.ItemId)/related.json"
-        $relatedDataDir = Split-Path -Path $relatedLocalCache -Parent
+        $relatedDataDir = Split-Path -Path $relatedLocalCache -Parent`
         New-Item -ItemType Directory -Path $relatedDataDir -Force | Out-Null
         $relatedWrapper | ConvertTo-Json -Depth 10 | Set-Content $relatedLocalCache 
         Write-DebugLog "Processing  $($HugoMarkdown.ReferencePath) [$($relatedWrapper.related.Count) related items found.]"    
