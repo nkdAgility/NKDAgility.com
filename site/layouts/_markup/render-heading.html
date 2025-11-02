@@ -1,7 +1,8 @@
-{{/* Count rendered headings across the page */}}
-{{ $n := default 0 (.Page.Scratch.Get "heading_count") }}
+{{/* Count rendered headings across the page with unique namespace */}}
+{{ $scratchKey := printf "heading_count_%s" .Page.RelPermalink }}
+{{ $n := default 0 (.Page.Scratch.Get $scratchKey) }}
 {{ $n = add $n 1 }}
-{{ .Page.Scratch.Set "heading_count" $n }} 
+{{ .Page.Scratch.Set $scratchKey $n }} 
 
 {{/* Decide whether to inject before the 3rd heading */}}
 {{ if eq $n 3 }}
@@ -32,7 +33,7 @@
         </aside>
     {{- end }}
     {{- else}}
-    <div>Not for heading {{$n}}</div>
+    {{/*  <div>Not for heading {{$n}}</div>  */}}
 {{ end }} 
 
 {{/* Render the actual heading (preserve id/anchor) */}}
