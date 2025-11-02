@@ -28,7 +28,7 @@ Write-DebugLog "--------------------------------------------------------"
 $totalCount = $hugoMarkdownObjects.Count
 $currentIndex = 0
 
-pause
+#pause
 
 foreach ($HugoMarkdown in $hugoMarkdownObjects) {
     $currentIndex++
@@ -53,7 +53,7 @@ foreach ($HugoMarkdown in $hugoMarkdownObjects) {
     $relatedWrapper.related = $filteredRelated  | Sort-Object Similarity -Descending
     if ($relatedWrapper.related.Count -gt 0) {
         $relatedLocalCache = "site/data/$($HugoMarkdown.FrontMatter.ItemKind)/$($HugoMarkdown.FrontMatter.ItemType)/$($HugoMarkdown.FrontMatter.ItemId)/related.json"
-        $relatedDataDir = Split-Path -Path $relatedLocalCache -Parent`
+        $relatedDataDir = Split-Path -Path $relatedLocalCache -Parent
         New-Item -ItemType Directory -Path $relatedDataDir -Force | Out-Null
         $relatedWrapper | ConvertTo-Json -Depth 10 | Set-Content $relatedLocalCache 
         Write-DebugLog "Processing  $($HugoMarkdown.ReferencePath) [$($relatedWrapper.related.Count) related items found.]"    
