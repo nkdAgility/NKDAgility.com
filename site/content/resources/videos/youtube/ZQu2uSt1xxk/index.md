@@ -51,8 +51,8 @@ duration: 104
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ### Understanding and Applying [Kanban]({{< ref "/categories/kanban" >}}): The Professional Kanban Course
 
 **Introduction**

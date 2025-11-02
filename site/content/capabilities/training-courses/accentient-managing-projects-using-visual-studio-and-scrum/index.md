@@ -9,6 +9,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: MPVS
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -81,7 +82,6 @@ syllabus:
 events: 
 ResourceId: MPVS
 ResourceType: course
-ItemId: MPVS
 
 ---
 # Managing Projects Using Visual Studio and Scrum Training

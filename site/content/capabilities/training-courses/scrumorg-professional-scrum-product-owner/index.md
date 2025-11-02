@@ -9,6 +9,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: PSPO
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -121,7 +122,6 @@ trainers:
 roadmap: 
 ResourceId: PSPO
 ResourceType: course
-ItemId: PSPO
 
 ---
 # Professional Scrum Product Owner (PSPO) Course Datasheet

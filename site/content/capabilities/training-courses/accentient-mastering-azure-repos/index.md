@@ -9,6 +9,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: MARS
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -81,7 +82,6 @@ syllabus:
 events: 
 ResourceId: MARS
 ResourceType: course
-ItemId: MARS
 
 ---
 # Mastering Azure Repos Training

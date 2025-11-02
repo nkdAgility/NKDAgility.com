@@ -9,6 +9,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: AFMS
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -17,7 +18,6 @@ aliases:
   - /training-courses/applying-flow-metrics-for-scrum/
   - /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
   - /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
-  - /resources/Ej_UgfRAGhZ
 aliasesArchive:
   - /training-courses/applying-flow-metrics-for-scrum/
   - /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
@@ -67,12 +67,12 @@ delivery_audiences:
   - Lean Agile Practitioners
 preview: NKDAgility-Courses-AFMS-16x9-1.jpg
 previewIcon: AFMS.png
-brandColour: 
+brandColour:
 course-topic: Professional Kanban
 code: AFMS
 course_proficiencies:
   - intermediate
-introduction: 
+introduction:
 overview: This course is suitable for Scrum Masters, Product Owners, Development Team Members, Agile Coaches, Leaders, Managers, Scrum Enthusiasts, and anyone interested in data-driven Scrum practices, aiming to optimize their Scrum processes through the application of flow metrics.
 outcomes: |2-
 
@@ -82,7 +82,7 @@ outcomes: |2-
   4. **Getting Started with Flow Metrics**: A step-by-step guide on initiating Flow Metrics in your Scrum team. This includes practical advice on what data is crucial, effective methods for data collection, and techniques for mining and interpreting this data to enhance Scrum practices.
 
    This focused approach ensures that participants not only grasp the theoretical aspects of Flow Metrics but also gain hands-on experience in applying these concepts effectively within their Scrum teams.
-assessment: 
+assessment:
 objectives: |-
   Upon completing the course, participants will possess the following capabilities: 
   1. **Precise Sprint Planning**: Proficiently leverage metrics to enhance the accuracy of Sprint Planning. Participants will acquire the skills to use data-driven insights to determine realistic Sprint goals and commitments, optimizing the team's workflow and delivery efficiency.
@@ -93,17 +93,16 @@ objectives: |-
 
    By mastering these objectives, participants will be well-prepared to apply flow metrics effectively within their Scrum teams, leading to more efficient planning, enhanced daily Scrum activities, improved progress tracking, measurable team enhancements, and streamlined Product Backlog Item refinement processes.
 prerequisites: There are no specific prerequisites for this course, making it accessible to participants at various levels of Scrum experience. However, a basic understanding of Scrum principles and Agile practices would be beneficial to fully grasp the content.
-audience: 
-trainers: 
-roadmap: 
+audience:
+trainers:
+roadmap:
 sessionCount: 8
-syllabus: 
-events: 
+syllabus:
+events:
 ResourceId: AFMS
 ResourceType: course
-ItemId: AFMS
-
 ---
+
 # Applying Flow Metrics for Scrum
 
 **Course Code:** AFMS

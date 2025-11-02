@@ -9,6 +9,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: ASPK
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -16,7 +17,6 @@ slug: applying-scaled-portfolio-kanban
 aliases:
   - /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
   - /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
-  - /resources/gUxi6u7gQcc
 aliasesArchive:
   - /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
   - /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
@@ -41,7 +41,7 @@ Watermarks:
   short_title: 2025-07-29T15:01:00Z
   tldr: 2025-08-08T11:37:26Z
 creator: Martin Hinshelwood
-url: 
+url:
 course_topics:
   - Kanban Training Courses
 course_vendors:
@@ -54,11 +54,11 @@ delivery_audiences:
   - Lean Agile Practitioners
 preview: NKDAgility-Courses-SPK-16x9-1.jpg
 previewIcon: SPK@600.png
-brandColour: 
+brandColour:
 code: ASPK
 course_proficiencies:
   - intermediate
-introduction: 
+introduction:
 overview: Professionals in leadership and project management roles, including Heads of Departments, Agile Coaches, Project Managers, Development Leaders, Product Owners, Scrum Masters, and Product Managers, seeking to enhance their organization's efficiency, effectiveness, and predictability through the application of Scaled Portfolio Kanban principles.
 outcomes: |2+
 
@@ -70,7 +70,7 @@ outcomes: |2+
   6. Leveraging data for organization-wide improvements
   7. Validated Learning and Scaled Portfolio Kanban Certification
 
-assessment: 
+assessment:
 objectives: |+
   After attending the course, learners will be able to: 
   1. Set up transparent systems to track team progress.
@@ -82,17 +82,16 @@ objectives: |+
   7. Validate the organization's effectiveness in delivering the right outcomes.
   8. Obtain the "Scaled Portfolio Kanban" (SPK) certification through assessment.
 
-prerequisites: 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
+prerequisites:
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ResourceId: ASPK
 ResourceType: course
-ItemId: ASPK
-
 ---
+
 # Applying Scaled Portfolio Kanban
 
 **Course Code:** ASPK

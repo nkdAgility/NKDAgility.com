@@ -21,9 +21,10 @@ Start-TokenServer
 
 $hugoMarkdownObjects = @()
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 100
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\training-courses" -YearsBack 10
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\mentor-programs" -YearsBack 10
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\training-courses" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\mentor-programs" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\outcomes\" -YearsBack 100
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
@@ -183,13 +184,13 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         }
         
     }
-    if ([DateTime]$hugoMarkdown.FrontMatter.date -lt $ResourceAliasExpiryDate) {
-        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -Overwrite
-    }
-    else {
-        # You can change this branch if you want different behaviour, or leave it identical
-        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases
-    }
+    # if ([DateTime]$hugoMarkdown.FrontMatter.date -lt $ResourceAliasExpiryDate) {
+    #     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -Overwrite
+    # }
+    # else {
+    # You can change this branch if you want different behaviour, or leave it identical
+    Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases
+    #}
     
     # =================Add aliasesArchive===================
     $aliasesArchive = @()
@@ -264,8 +265,8 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     # =================weight===================
     switch ($ItemType) {
         { $_ -in @("videos", "podcast", "blog", "signals", "newsletters", "guides", "engineering-notes", "workshops", "recipes", "principles", "case-studies") } { 
-            $eeResult = Get-Classification -CacheFolder $hugoMarkdown  -ClassificationName "Engineering Excellence"
-            $tlResult = Get-Classification -CacheFolder $hugoMarkdown  -ClassificationName "Technical Leadership"
+            $eeResult = Get-Classification -hugoMarkdown $hugoMarkdown  -ClassificationName "Engineering Excellence"
+            $tlResult = Get-Classification -hugoMarkdown $hugoMarkdown  -ClassificationName "Technical Leadership"
             $weight = [math]::Round(((1000 - ($eeResult.final_score * 10)) + (1000 - ($tlResult.final_score * 10))) / 2)
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'weight' -fieldValue $weight -Overwrite
         }

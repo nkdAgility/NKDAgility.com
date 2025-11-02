@@ -9,6 +9,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: PSM-A
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -112,7 +113,6 @@ syllabus:
 events: 
 ResourceId: PSM-A
 ResourceType: course
-ItemId: PSM-A
 
 ---
 # Professional Scrum Master Advanced (PSM-A) with Certification

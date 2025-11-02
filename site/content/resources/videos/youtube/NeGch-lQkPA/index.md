@@ -60,8 +60,8 @@ duration: 125
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ### Applying Flow Metrics for [Scrum]({{< ref "/categories/scrum" >}}): Enhancing [Value Delivery]({{< ref "/tags/value-delivery" >}}) with [Kanban]({{< ref "/categories/kanban" >}})
 
 **Introduction**

@@ -49,8 +49,8 @@ AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
----
 
+---
 If you were buying a car, or a TV, you as the purchaser would do your best to understand the product that you are buying, the quality tradeoffs, and the capabilities.
 
 <figure>

@@ -19,6 +19,7 @@ aliases:
   - /resources/S4zWfPiLAmc
   - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics
   - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics
+  - /resources/videos/3-best-ways-to-wreck-kanban.-use-vanity-metrics
 aliasesArchive:
   - /resources/videos/-best-ways-to-wreck-kanban-use-vanity-metrics-
   - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics-
@@ -30,6 +31,7 @@ aliasesArchive:
   - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics
   - 3-best-ways-to-wreck-kanban-use-vanity-metrics
   - /resources/videos/3-best-ways-to-wreck-kanban.-use-vanity-metrics.
+  - /resources/videos/3-best-ways-to-wreck-kanban.-use-vanity-metrics
 source: internal
 layout: video
 concepts:
@@ -56,8 +58,8 @@ duration: 226
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ### Avoiding Common Mistakes in Your [Kanban]({{< ref "/categories/kanban" >}}) Strategy
 
 **Introduction**

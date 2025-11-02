@@ -9,6 +9,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: S4PO
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -95,7 +96,6 @@ syllabus:
 events: 
 ResourceId: S4PO
 ResourceType: course
-ItemId: S4PO
 
 ---
 # Scrum for Product Owners Training

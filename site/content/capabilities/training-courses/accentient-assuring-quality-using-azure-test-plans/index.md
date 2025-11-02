@@ -9,6 +9,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: AD-QA
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -76,7 +77,6 @@ syllabus:
 events: 
 ResourceId: AD-QA
 ResourceType: course
-ItemId: AD-QA
 
 ---
 # Assuring Quality Using Azure Test Plans Training

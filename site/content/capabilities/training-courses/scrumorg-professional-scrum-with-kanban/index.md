@@ -9,6 +9,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.8
   changefreq: weekly
+ItemId: PSK
 ItemType: course
 ItemKind: program
 ItemContentOrigin: human
@@ -96,7 +97,6 @@ syllabus:
 events: 
 ResourceId: PSK
 ResourceType: course
-ItemId: PSK
 
 ---
 ```markdown

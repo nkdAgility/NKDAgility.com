@@ -19,6 +19,7 @@ aliases:
   - /resources/4kqM1U7y1ZM
   - /resources/videos/transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
   - /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days
+  - /resources/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days/
 aliasesArchive:
   - /resources/videos/transform-your-scrum-team-in-days-strategies-for-continuous-delivery-and-empowerment
   - /resources/videos/transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
@@ -26,6 +27,7 @@ aliasesArchive:
   - /resources/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
   - /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days
   - transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
+  - /resources/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days/
 source: youtube
 layout: video
 concepts:
@@ -64,7 +66,7 @@ resourceTypes:
 isShort: false
 
 ---
-When I embark on the journey of working with a new [Scrum]({{< ref "/categories/scrum" >}}) team, I often find myself reflecting on what I hope to achieve within the first 90 days. In my experience, this timeframe is typically sufficient to make significant strides, but it’s essential to consider the context in which the team operates. 
+When I embark on the journey of working with a new [Scrum]({{< ref "/categories/scrum" >}}) team, I often find myself reflecting on what I hope to achieve within the first 90 days. In my experience, this timeframe is typically sufficient to make significant strides, but it’s essential to consider the context in which the team operates.
 
 ### Understanding the Landscape
 
@@ -87,12 +89,12 @@ Assuming we have a supportive environment, my goal is to take the team from a st
 
 ### The Path Forward
 
-Once we reach this milestone, my role shifts. I want to step back and allow the team to flourish independently. They should have developed a unique organisational structure that fits their needs, enabling them to continue their Agile journey without my constant oversight. 
+Once we reach this milestone, my role shifts. I want to step back and allow the team to flourish independently. They should have developed a unique organisational structure that fits their needs, enabling them to continue their Agile journey without my constant oversight.
 
 Of course, I remain available for [coaching]({{< ref "/tags/coaching" >}}), answering questions, and providing support as needed. However, the ultimate goal is for the team to feel confident in their ability to navigate challenges and drive their work forward.
 
 ### Conclusion
 
-In summary, the first 90 days with a new Scrum team can be transformative if approached with the right mindset and strategies. By focusing on continuous delivery, clarifying value, integrating feedback, and empowering champions, we can set the stage for long-term success. 
+In summary, the first 90 days with a new Scrum team can be transformative if approached with the right mindset and strategies. By focusing on continuous delivery, clarifying value, integrating feedback, and empowering champions, we can set the stage for long-term success.
 
 If you found this insight helpful, I encourage you to engage with me further. Whether you have questions about Agile, Scrum, or [DevOps]({{< ref "/categories/devops" >}}), or simply want to chat over a coffee, feel free to reach out through Naked Agility. Your journey towards agility is just beginning, and I’m here to support you every step of the way.

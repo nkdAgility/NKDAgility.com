@@ -1,20 +1,21 @@
 ---
 title: Faster More Predictable Software Delivery
+short_title: Faster, Predictable Software Delivery
 subtitle: Velocity Without the Volatility
-description: Your teams are working hard. The backlog never ends. Yet delivery is slow, unpredictable, and stressful.
+description: Learn key strategies and practices to speed up software delivery while improving predictability, reliability, and overall development efficiency.
+tldr: Improving software delivery speed and predictability requires clear goals, frequent feedback, and removing bottlenecks in the process. Teams should focus on smaller, incremental releases and use data to identify and address delays. Prioritizing these practices helps deliver value to customers more reliably and efficiently.
 date: 2025-05-31T09:00:00Z
-creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
-  priority: 0.8
-type: outcomes
+  priority: 0.9
+  changefreq: weekly
+ItemId: ew25L-Aydmr
+ItemType: outcomes
+ItemKind: marketing
+ItemContentOrigin: human
 slug: faster-more-predictable-software-delivery
-card:
-  button:
-    content: Accelerate Delivery Now
-  title: Faster More Predictable Software Delivery
-  content: Eliminate delivery bottlenecks and uncertainty with engineering practices that improve flow, shorten lead times, and maintain quality at scale.
-icon: fa-tachometer-alt
+aliases: []
+type: outcomes
 sections:
   - type: headline
     headline:
@@ -154,12 +155,19 @@ sections:
       button:
         text: Schedule a call
         url: /company/book-online
-ItemId: ew25L-Aydmr
+card:
+  button:
+    content: Accelerate Delivery Now
+  title: Faster More Predictable Software Delivery
+  content: Eliminate delivery bottlenecks and uncertainty with engineering practices that improve flow, shorten lead times, and maintain quality at scale.
+Watermarks:
+  description: 2025-10-31T14:01:27Z
+  tldr: 2025-10-31T14:01:29Z
+  short_title: 2025-10-31T14:01:30Z
+creator: Martin Hinshelwood
+icon: fa-tachometer-alt
 ResourceId: ew25L-Aydmr
-ItemType: outcomes
 ResourceType: outcomes
-ItemKind: marketing
-ItemContentOrigin: human
 
 ---
 

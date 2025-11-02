@@ -1,6 +1,6 @@
 ---
 title: 3 best ways to wreck Kanban. Don't have a working agreement
-short_title: "Kanban Failure: No Working Agreement"
+short_title: 'Kanban Failure: No Working Agreement'
 description: Not having a working agreement in Kanban leads to team misalignment, inefficiency, and conflict. Clear agreements ensure roles, goals, and processes are understood by all.
 tldr: Not having a working agreement causes chaos, misalignment, and inefficiency in teams using Kanban or similar frameworks. Clear agreements on roles, goals, processes, and workflows are essential for team alignment and success. Development managers should ensure their teams regularly create and review working agreements to avoid confusion and improve outcomes.
 date: 2024-03-01T07:00:17Z
@@ -19,6 +19,7 @@ aliases:
   - /resources/h6yumCOP-aE
   - /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
   - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement
+  - /resources/videos/3-best-ways-to-wreck-kanban.-don-t-have-a-working-agreement
 aliasesArchive:
   - /resources/videos/-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
   - /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
@@ -30,6 +31,7 @@ aliasesArchive:
   - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement
   - 3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
   - /resources/videos/3-best-ways-to-wreck-kanban.-don-t-have-a-working-agreement.
+  - /resources/videos/3-best-ways-to-wreck-kanban.-don-t-have-a-working-agreement
 source: internal
 layout: video
 concepts: []
@@ -55,8 +57,8 @@ duration: 302
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ### Achieving Team Alignment with [Kanban]({{< ref "/categories/kanban" >}}): The Importance of a Working Agreement
 
 **Introduction**

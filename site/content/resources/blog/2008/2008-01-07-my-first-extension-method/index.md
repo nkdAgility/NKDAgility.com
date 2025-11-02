@@ -36,8 +36,8 @@ ResourceImportId: 269
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 I decided as part of my .NET 3.5 learning curve to rebuild [Duncan Mackenzie](http://duncanmackenzie.net/blog/connect-your-xbox-360-gamertag-to-twitter/default.aspx)'s [Xbox to Twitter application](http://www.duncanmackenzie.net/blog/using-the-xbox-to-twitter-app-please-update-your-client/default.aspx) just for fun...
 
 When you call his web service you get a XboxInfo class back that contains all of your Xbox Live Information. I wanted to be able to add a method to this called "ToInstanceString" that I would use to both display your Status, and to detect when it had changed.

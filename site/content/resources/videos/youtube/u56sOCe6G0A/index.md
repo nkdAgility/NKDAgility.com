@@ -19,6 +19,7 @@ aliases:
   - /resources/u56sOCe6G0A
   - /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
   - /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow
+  - /resources/videos/3-core-practices-of-kanban.-actively-managing-work-items-in-a-workflow
 aliasesArchive:
   - /resources/videos/-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
   - /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
@@ -30,6 +31,7 @@ aliasesArchive:
   - /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow
   - 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
   - /resources/videos/3-core-practices-of-kanban.-actively-managing-work-items-in-a-workflow.
+  - /resources/videos/3-core-practices-of-kanban.-actively-managing-work-items-in-a-workflow
 source: internal
 layout: video
 concepts:
@@ -57,8 +59,8 @@ duration: 234
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ### Actively Managing Your Workflow in a [Kanban]({{< ref "/categories/kanban" >}}) Strategy
 
 **Introduction**

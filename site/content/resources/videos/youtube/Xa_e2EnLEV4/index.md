@@ -1,6 +1,6 @@
 ---
 title: 3 best ways to wreck Kanban. Sweep problems under the rug
-short_title: "3 Best Ways to Wreck Kanban: Ignoring Problems"
+short_title: '3 Best Ways to Wreck Kanban: Ignoring Problems'
 description: Ignoring problems in Kanban leads to workflow blockages, technical debt, and crises. Learn why prompt issue resolution and transparency are vital for effective Kanban.
 tldr: Ignoring problems in your Kanban process leads to bigger issues, workflow blockages, and potential crises like project delays or cost overruns. Teams should regularly identify, visualize, and address problems, foster transparency, and take prompt action to prevent issues from escalating. Make it a priority to surface and resolve problems early to keep your workflow effective and avoid costly setbacks.
 date: 2024-03-04T07:00:13Z
@@ -19,6 +19,7 @@ aliases:
   - /resources/Xa_e2EnLEV4
   - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
   - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
+  - /resources/videos/3-best-ways-to-wreck-kanban.-sweep-problems-under-the-rug
 aliasesArchive:
   - /resources/videos/-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
   - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
@@ -30,6 +31,7 @@ aliasesArchive:
   - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
   - 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
   - /resources/videos/3-best-ways-to-wreck-kanban.-sweep-problems-under-the-rug.
+  - /resources/videos/3-best-ways-to-wreck-kanban.-sweep-problems-under-the-rug
 source: internal
 layout: video
 concepts:
@@ -53,8 +55,8 @@ duration: 277
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ### The Danger of Ignoring Problems in Your [Kanban]({{< ref "/categories/kanban" >}}) Strategy
 
 **Introduction**

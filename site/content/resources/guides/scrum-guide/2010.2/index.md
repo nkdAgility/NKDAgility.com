@@ -4,10 +4,10 @@ short_title: The Scrum Guide (February 2010)
 description: A clear summary of Scrum’s framework, roles, events, artefacts, and values, explaining how teams use Scrum to deliver value and adapt to complex problems.
 date: 2010-02-01
 lastmod: 2010-02-01
-weight: 1000
+weight: 690
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: weekly
 author:
   - Ken Schwaber
@@ -19,10 +19,27 @@ ItemContentOrigin: human
 slug: the-scrum-guide-february-2010
 aliases:
   - /resources/59gcHh1fYtC
-concepts: []
+concepts:
+  - Framework
 categories:
-  - Uncategorized
-tags: []
+  - Scrum
+  - Product Development
+tags:
+  - Increment
+  - Professional Scrum
+  - Product Developer
+  - Transparency
+  - Agile Frameworks
+  - Scrum Team
+  - Empirical Process Control
+  - Agile Product Management
+  - Software Development
+  - Value Delivery
+  - Scrum Master
+  - Scrum Values
+  - Agile Planning
+  - Product Delivery
+  - Team Performance
 Watermarks:
   description: 2025-05-07T12:58:15Z
   short_title: 2025-07-07T16:40:32Z
