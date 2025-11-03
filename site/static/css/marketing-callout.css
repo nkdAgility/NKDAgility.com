@@ -1,0 +1,42 @@
+/* Light mode (default) */
+.marketing-callout {
+  background: rgba(0, 57, 114, 0.05);
+  border-left: 4px solid #003972;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+}
+
+.marketing-callout__title {
+  margin-top: 0;
+  color: #003972;
+  font-size: 1.1rem;
+}
+
+.marketing-callout__description {
+  margin-bottom: 0.5rem;
+}
+
+.marketing-callout__link {
+  color: #003972;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.marketing-callout__link:hover {
+  text-decoration: underline;
+}
+
+/* Dark mode */
+[data-theme="dark"] .marketing-callout {
+  background: rgba(74, 158, 255, 0.1);
+  border-left-color: #4a9eff;
+}
+
+[data-theme="dark"] .marketing-callout__title {
+  color: #b3d5fd;
+}
+
+[data-theme="dark"] .marketing-callout__link {
+  color: #4a9eff;
+}
