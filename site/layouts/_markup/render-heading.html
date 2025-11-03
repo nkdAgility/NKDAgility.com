@@ -11,25 +11,25 @@
     
     {{- if $relatedMarketing }}
         {{- range $relatedMarketing }}
-        <aside class="marketing-callout" style="background: #f8f9fa; border-left: 4px solid #0066cc; padding: 1.5rem; margin: 2rem 0; border-radius: 4px;">
-            <h4 style="margin-top: 0; color: #0066cc; font-size: 1.1rem;">🚀 {{ .Title }}</h4>
+        <aside class="marketing-callout">
+            <h4 class="marketing-callout__title">🚀 {{ .Title }}</h4>
             {{- if .Description }}
-            <p style="margin-bottom: 0.5rem;">{{ .Description }}</p>
+            <p class="marketing-callout__description">{{ .Description }}</p>
             {{- end }}
-            <a href="{{ .RelPermalink }}" style="color: #0066cc; text-decoration: none; font-weight: 500;">Learn more →</a>
+            <a href="{{ .RelPermalink }}" class="marketing-callout__link">Learn more →</a>
         </aside>
         {{- else}}
-        <aside class="marketing-callout" style="background: #f8f9fa; border-left: 4px solid #003972; padding: 1.5rem; margin: 2rem 0; border-radius: 4px;">
-            <h4 style="margin-top: 0; color: #003972; font-size: 1.1rem;">🚀 Technical Leadership in One Hour a Week</h4>
-            <p style="margin-bottom: 0.5rem;">A practical guide to effective technical leadership, offering strategies and tips for making a meaningful impact with just one hour of focused effort each week.</p>
-            <a href="/capabilities/technical-leadership-in-one-hour-a-week/#default" style="color: #003972; text-decoration: none; font-weight: 500;">Learn more →</a>
+        <aside class="marketing-callout">
+            <h4 class="marketing-callout__title">🚀 Technical Leadership in One Hour a Week</h4>
+            <p class="marketing-callout__description">A practical guide to effective technical leadership, offering strategies and tips for making a meaningful impact with just one hour of focused effort each week.</p>
+            <a href="/capabilities/technical-leadership-in-one-hour-a-week/#default" class="marketing-callout__link">Learn more →</a>
         </aside>
         {{- end }}
         {{- else }}
-         <aside class="marketing-callout" style="background: #f8f9fa; border-left: 4px solid #003972; padding: 1.5rem; margin: 2rem 0; border-radius: 4px;">
-            <h4 style="margin-top: 0; color: #003972; font-size: 1.1rem;">🚀 Technical Leadership in One Hour a Week</h4>
-            <p style="margin-bottom: 0.5rem;">A practical guide to effective technical leadership, offering strategies and tips for making a meaningful impact with just one hour of focused effort each week.</p>
-            <a href="/capabilities/technical-leadership-in-one-hour-a-week/#default" style="color: #003972; text-decoration: none; font-weight: 500;">Learn more →</a>
+         <aside class="marketing-callout">
+            <h4 class="marketing-callout__title">🚀 Technical Leadership in One Hour a Week</h4>
+            <p class="marketing-callout__description">A practical guide to effective technical leadership, offering strategies and tips for making a meaningful impact with just one hour of focused effort each week.</p>
+            <a href="/capabilities/technical-leadership-in-one-hour-a-week/#default" class="marketing-callout__link">Learn more →</a>
         </aside>
     {{- end }}
     {{- else}}

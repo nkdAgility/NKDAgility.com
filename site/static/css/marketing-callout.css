@@ -1,0 +1,47 @@
+.marketing-callout {
+  background: #f8f9fa;
+  border-left: 4px solid #003972;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+}
+
+.marketing-callout__title {
+  margin-top: 0;
+  color: #003972;
+  font-size: 1.1rem;
+}
+
+.marketing-callout__description {
+  margin-bottom: 0.5rem;
+}
+
+.marketing-callout__link {
+  color: #003972;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.marketing-callout__link:hover {
+  text-decoration: underline;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .marketing-callout {
+    background: #1a1a1a;
+    border-left-color: #4a9eff;
+  }
+
+  .marketing-callout__title {
+    color: #4a9eff;
+  }
+
+  .marketing-callout__description {
+    color: #e0e0e0;
+  }
+
+  .marketing-callout__link {
+    color: #4a9eff;
+  }
+}
