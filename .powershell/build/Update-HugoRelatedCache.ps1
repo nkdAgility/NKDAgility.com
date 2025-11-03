@@ -5,7 +5,7 @@
 
 
 $ErrorActionPreference = 'Stop'
-$levelSwitch.MinimumLevel = 'Information'
+$levelSwitch.MinimumLevel = 'Debug'
 
 ###### TEST CODE BELOW HERE ######
 # Parameters
