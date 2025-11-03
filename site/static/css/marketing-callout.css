@@ -1,5 +1,6 @@
+/* Light mode (default) */
 .marketing-callout {
-  background: var(--bs-light, #f8f9fa);
+  background: rgba(0, 57, 114, 0.05);
   border-left: 4px solid #003972;
   padding: 1.5rem;
   margin: 2rem 0;
@@ -14,7 +15,6 @@
 
 .marketing-callout__description {
   margin-bottom: 0.5rem;
-  color: var(--bs-body-color);
 }
 
 .marketing-callout__link {
@@ -27,32 +27,16 @@
   text-decoration: underline;
 }
 
-/* Dark mode support using Bootstrap's data-bs-theme */
-[data-bs-theme="dark"] .marketing-callout {
-  background: var(--bs-dark, #1a1a1a);
+/* Dark mode */
+[data-theme="dark"] .marketing-callout {
+  background: rgba(74, 158, 255, 0.1);
   border-left-color: #4a9eff;
 }
 
-[data-bs-theme="dark"] .marketing-callout__title {
-  color: #4a9eff;
+[data-theme="dark"] .marketing-callout__title {
+  color: #b3d5fd;
 }
 
-[data-bs-theme="dark"] .marketing-callout__link {
+[data-theme="dark"] .marketing-callout__link {
   color: #4a9eff;
-}
-
-/* Fallback for prefers-color-scheme if data attribute isn't used */
-@media (prefers-color-scheme: dark) {
-  html:not([data-bs-theme="light"]) .marketing-callout {
-    background: var(--bs-dark, #1a1a1a);
-    border-left-color: #4a9eff;
-  }
-
-  html:not([data-bs-theme="light"]) .marketing-callout__title {
-    color: #4a9eff;
-  }
-
-  html:not([data-bs-theme="light"]) .marketing-callout__link {
-    color: #4a9eff;
-  }
 }
