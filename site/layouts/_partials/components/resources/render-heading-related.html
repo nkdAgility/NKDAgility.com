@@ -23,7 +23,7 @@
     </aside>
   {{- end }}
 
-  {{- if eq $totalItems 0 }}
+  {{- if and (eq $totalItems 0) (eq (mod $n 3) 0) }}
     <aside class="marketing-callout marketing-callout-NoRelated">
       <p class="small text-secondary mb-2"><strong>NKD Agility</strong> helps teams implement the ideas discussed in this article with</p>
       <h4 class="marketing-callout__title">🚀 Technical Leadership in One Hour a Week</h4>
