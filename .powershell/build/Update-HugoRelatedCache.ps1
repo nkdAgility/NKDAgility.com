@@ -5,7 +5,7 @@
 
 
 $ErrorActionPreference = 'Stop'
-$levelSwitch.MinimumLevel = 'Information'
+$levelSwitch.MinimumLevel = 'Debug'
 
 ###### TEST CODE BELOW HERE ######
 # Parameters
@@ -20,8 +20,8 @@ $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\ta
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\categories\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\concepts\" -YearsBack 100
 
-Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects
-#Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjects -ThrottleLimit 0
+#Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects
+Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjects -ThrottleLimit 10
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
 

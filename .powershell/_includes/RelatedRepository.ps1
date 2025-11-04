@@ -2,7 +2,8 @@ function Get-RelatedResourceFileName {
     param (
         [HugoMarkdown]$HugoMarkdown
     )
-    return $HugoMarkdown.ReferencePath.Replace("\", "-").Replace("/", "-") + ".related.json"
+    return $HugoMarkdown.FrontMatter.ItemKind + "-" + $HugoMarkdown.FrontMatter.ItemType + "-" + $HugoMarkdown.FrontMatter.ItemId + ".related.json"
+    #return $HugoMarkdown.ReferencePath.Replace("\", "-").Replace("/", "-") + ".related.json"
 }
 
 function Update-RelatedRepository {
@@ -106,6 +107,7 @@ function Get-RelatedFromHugoMarkdown {
         [string]$EmbeddingPath = "./.data/content-embeddings/",
         [string]$StorageAccountName = "nkdagilityblobs",
         [string]$SASToken = $Env:AZURE_BLOB_STORAGE_SAS_TOKEN,
+        [bool]$checkEachRelatedEntry = $false,
         [int]$TopN = 5000,
         [int]$JobId = 1
     )
@@ -128,13 +130,11 @@ function Get-RelatedFromHugoMarkdown {
         throw "Embedding path does not exist: $EmbeddingPath. Please ensure the embedding files are generated first."
     }
 
-    $regenerate = $false
-
     # 1. Check if local file already exists and is current
     if (Test-Path $localFilePath) {
         try {
             $existingData = Get-Content $localFilePath | ConvertFrom-Json
-            # If we have valid data, check if we need to regenerate based on embedding timestamps
+            # If we have valid data, check if we need to checkEachRelatedEntry based on embedding timestamps
             if ($existingData -and $existingData.related) {
                 $embeddingFileName = Get-EmbeddingResourceFileName -HugoMarkdown $HugoMarkdown
                 $targetEmbeddingFile = Join-Path $EmbeddingPath $embeddingFileName
@@ -152,18 +152,18 @@ function Get-RelatedFromHugoMarkdown {
                             return $existingData
                         }
                         else {
-                            $regenerate = $true
-                            Write-DebugLog "  | -- Local related file is older than 30 days, will regenerate for $($HugoMarkdown.ReferencePath)"
+                            $checkEachRelatedEntry = $true
+                            Write-DebugLog "  | -- Local related file is older than 30 days, will checkEachRelatedEntry for $($HugoMarkdown.ReferencePath)"
                         }
                     }
                     else {
-                        $regenerate = $true
+                        $checkEachRelatedEntry = $true
                     }
                 }
             }
         }
         catch {
-            Write-DebugLog "  | -- Error reading existing local file, will regenerate: $_"
+            Write-DebugLog "  | -- Error reading existing local file, will checkEachRelatedEntry: $_"
         }
     }
 
@@ -187,7 +187,7 @@ function Get-RelatedFromHugoMarkdown {
                 if (Test-Path $localFilePath) {
                     Write-DebugLog "  | -- Downloaded related file from blob storage for $($HugoMarkdown.ReferencePath)"
                     $downloadedData = Get-Content $localFilePath | ConvertFrom-Json
-                    if (-not $regenerate) {
+                    if (-not $checkEachRelatedEntry) {
                         return $downloadedData
                     }
                 }
@@ -197,38 +197,6 @@ function Get-RelatedFromHugoMarkdown {
             Write-DebugLog "  | -- Failed to download from blob storage: $_"
         }
     }
-
-    # # 3. Check for legacy migration from data.index.related.json
-    # $legacyPath = Join-Path $HugoMarkdown.FolderPath 'data.index.related.json'
-    # if (Test-Path $legacyPath) {
-    #     try {
-    #         Write-DebugLog "  | -- Found legacy related file, migrating: $legacyPath"
-    #         $legacyData = Get-Content $legacyPath | ConvertFrom-Json
-            
-    #         # Save to new location
-    #         $legacyData | ConvertTo-Json -Depth 10 | Set-Content $localFilePath
-
-            
-    #         # Upload to blob storage if possible
-    #         if ($context) {
-    #             try {
-    #                 Set-AzStorageBlobContent -File $localFilePath -Container $ContainerName -Blob $relatedFileName -Context $context -Force | Out-Null
-    #                 Write-DebugLog "  | -- Migrated legacy related file to blob storage"
-    #             }
-    #             catch {
-    #                 Write-DebugLog "  | -- Failed to upload migrated file to blob storage: $_"
-    #             }
-    #         }
-            
-    #         return $legacyData
-    #     }
-    #     catch {
-    #         Write-Warning "Failed to migrate legacy related file '$legacyPath': $_"
-    #     }
-    #     else {
-    #         Write-DebugLog "  | -- No legacy related file found for $($HugoMarkdown.ReferencePath), proceeding to generate new cache."
-    #     }
-    # }
 
     # 4. Generate new related content cache
     Write-DebugLog "  | -- Generating new related content for $($HugoMarkdown.ReferencePath)"

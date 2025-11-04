@@ -1,0 +1,3 @@
+{{/* Reset heading counter for this page */}}
+{{ $scratchKey := printf "heading_count_%s" .Page.Params.ItemId }}
+{{ .Page.Scratch.Delete $scratchKey }}
