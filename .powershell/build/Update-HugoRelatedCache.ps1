@@ -13,24 +13,24 @@ $levelSwitch.MinimumLevel = 'Information'
 Start-TokenServer
 #$storageContext = New-AzStorageContext -SasToken $Env:AZURE_BLOB_STORAGE_SAS_TOKEN -StorageAccountName "nkdagilityblobs"
 $hugoMarkdownObjects = @()
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\outcomes\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\tags\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\categories\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\concepts\" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 100
 
 $hugoMarkdownObjects = $hugoMarkdownObjects | Where-Object { $_.FrontMatter.ignore -eq $false -or $_.FrontMatter.ignore -eq $null }
 
 #Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects
-Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjects -ThrottleLimit 1
+Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjects -ThrottleLimit 10
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
 
 $totalCount = $hugoMarkdownObjects.Count
 $currentIndex = 0
 
-#pause
+pause
 
 foreach ($HugoMarkdown in $hugoMarkdownObjects) {
     $currentIndex++
