@@ -8,7 +8,7 @@
   {{- $relatedMarketing := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "marketing") }}
   {{ $totalItems := len $relatedMarketing }}
   {{- if eq hugo.Environment "development" }}
-    <div>[Heading {{ $n }} - Related*{{ $totalItems }}]</div>
+    <div>[Heading count="{{ $n }}" totalRelated="{{ $totalItems }}"]</div>
   {{- end }}
   {{- if and (eq (mod $n 3) 0) (le (div $n 3) $totalItems) }}
     {{ $index := sub (div $n 3) 1 }}
@@ -19,14 +19,7 @@
       {{- if $item.Description }}
         <p class="marketing-callout__description">{{ $item.Description }}</p>
       {{- end }}
-      <a href="{{ $item.RelPermalink }}" 
-         class="marketing-callout__link" 
-         data-ga-event="marketing_callout_click"
-         data-ga-category="Marketing Callout"
-         data-ga-label="{{ $item.Title }}"
-         data-ga-value="{{ div $n 3 }}"
-         data-ga-param-position="{{ $n }}"
-         data-ga-param-item-type="related">Learn more →</a>
+      <a href="{{ $item.RelPermalink }}" class="marketing-callout__link" data-ga-event="marketing_callout_click" data-ga-category="Marketing Callout" data-ga-label="{{ $item.Title }}" data-ga-value="{{ div $n 3 }}" data-ga-param-position="{{ $n }}" data-ga-param-item-type="related">Learn more →</a>
     </aside>
   {{- end }}
 
@@ -35,14 +28,10 @@
       <p class="small text-secondary mb-2"><strong>NKD Agility</strong> helps teams implement the ideas discussed in this article with</p>
       <h4 class="marketing-callout__title">🚀 Technical Leadership in One Hour a Week</h4>
       <p class="marketing-callout__description">A practical guide to effective technical leadership, offering strategies and tips for making a meaningful impact with just one hour of focused effort each week.</p>
-      <a href="/capabilities/technical-leadership-in-one-hour-a-week/#default" 
-         class="marketing-callout__link"
-         data-ga-event="marketing_callout_click"
-         data-ga-category="Marketing Callout" 
-         data-ga-label="Technical Leadership Fallback"
-         data-ga-value="{{ div $n 3 }}"
-         data-ga-param-position="{{ $n }}"
-         data-ga-param-item-type="fallback">Learn more →</a>
+      <a href="/capabilities/technical-leadership-in-one-hour-a-week/#default" class="marketing-callout__link" data-ga-event="marketing_callout_click" data-ga-category="Marketing Callout" data-ga-label="Technical Leadership Fallback" data-ga-value="{{ div $n 3 }}" data-ga-param-position="{{ $n }}" data-ga-param-item-type="fallback">Learn more →</a>
     </aside>
+  {{- end }}
+  {{- if eq hugo.Environment "development" }}
+    <div>[/Heading]</div>
   {{- end }}
 {{- end }}
