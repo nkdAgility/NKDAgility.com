@@ -5,7 +5,7 @@
 
 
 $ErrorActionPreference = 'Stop'
-$levelSwitch.MinimumLevel = 'Debug'
+$levelSwitch.MinimumLevel = 'Information'
 
 ###### TEST CODE BELOW HERE ######
 # Parameters
@@ -20,8 +20,10 @@ $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\ta
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\categories\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\concepts\" -YearsBack 100
 
+$hugoMarkdownObjects = $hugoMarkdownObjects | Where-Object { $_.FrontMatter.ignore -eq $false -or $_.FrontMatter.ignore -eq $null }
+
 #Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects
-Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjects -ThrottleLimit 10
+Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjects -ThrottleLimit 1
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
 
