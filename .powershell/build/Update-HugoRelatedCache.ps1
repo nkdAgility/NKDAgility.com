@@ -18,7 +18,7 @@ $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\ou
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\tags\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\categories\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\concepts\" -YearsBack 100
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\blog" -YearsBack 100
 
 $hugoMarkdownObjects = $hugoMarkdownObjects | Where-Object { $_.FrontMatter.ignore -eq $false -or $_.FrontMatter.ignore -eq $null }
 
