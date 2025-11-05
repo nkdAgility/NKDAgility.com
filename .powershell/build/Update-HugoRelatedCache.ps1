@@ -24,7 +24,7 @@ $hugoMarkdownObjectsSorted = $hugoMarkdownObjects | Sort-Object { $_.FrontMatter
 
 
 #Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjectsSorted
-Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjectsSorted -ThrottleLimit 12
+#Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjectsSorted -ThrottleLimit 12
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
 
