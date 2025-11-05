@@ -30,7 +30,11 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
 <script async data-search-pseudo-elements src="https://kit.fontawesome.com/3e6b2f4808.js" crossorigin="Access-Control-Allow-Origin"></script>
 
 <!-- Main css-->
-<link async rel="stylesheet" href="{{- "css/main.css" | relURL }}" />
+{{ $maincss := resources.Get "css/main.css" }}
+{{ if $maincss }}
+  {{ $maincss = $maincss | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $maincss.RelPermalink }}" integrity="{{ $maincss.Data.Integrity }}" />
+{{ end }}
 <!-- navbar -->
 <link async rel="stylesheet" href="{{- "css/main-menu.css" | relURL }}" />
 <!-- cards -->

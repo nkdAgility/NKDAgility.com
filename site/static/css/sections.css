@@ -21,3 +21,37 @@
     column-count: 1; /* Single column on smaller screens */
   }
 }
+
+.section-header-title h2 {
+  font-size: 2.5rem;
+  line-height: 1.4;
+  margin-bottom: 0.5rem;
+}
+
+.section-header-title h3 {
+  font-size: 2rem;
+  line-height: 1.4;
+  margin-top: 3rem;
+}
+
+/* Side by Side Section Layout */
+.section-header-sideBySide {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+.section-header-sideBySide .section-header-title {
+  flex: 0 0 40%;
+}
+
+.section-header-sideBySide .section-content {
+  flex: 1;
+}
+
+/* Responsive design for sideBySide layout */
+@media (max-width: 768px) {
+  .section-header-sideBySide {
+    flex-direction: column;
+  }
+}
