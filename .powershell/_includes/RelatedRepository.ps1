@@ -305,6 +305,15 @@ function Get-RelatedFromHugoMarkdown {
     
     $topRelated = $similarities | Sort-Object Similarity -Descending | Select-Object -First $TopN
     $output = @{
+        target  = @{
+            Title       = $HugoMarkdown.FrontMatter.title
+            Slug        = $HugoMarkdown.FrontMatter.slug
+            Reference   = $HugoMarkdown.ReferencePath
+            EntryId     = $HugoMarkdown.FrontMatter.ItemId
+            EntryKind   = $HugoMarkdown.FrontMatter.ItemKind
+            EntryType   = $HugoMarkdown.FrontMatter.ItemType
+            GeneratedAt = (Get-Date).ToString("o")
+        }
         related = $topRelated
     }
     

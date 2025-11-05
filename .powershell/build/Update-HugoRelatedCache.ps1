@@ -5,7 +5,7 @@
 
 
 $ErrorActionPreference = 'Stop'
-$levelSwitch.MinimumLevel = 'Debug'
+$levelSwitch.MinimumLevel = 'Information'
 
 ###### TEST CODE BELOW HERE ######
 # Parameters
@@ -13,24 +13,27 @@ $levelSwitch.MinimumLevel = 'Debug'
 Start-TokenServer
 #$storageContext = New-AzStorageContext -SasToken $Env:AZURE_BLOB_STORAGE_SAS_TOKEN -StorageAccountName "nkdagilityblobs"
 $hugoMarkdownObjects = @()
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\outcomes\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\tags\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\categories\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\concepts\" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 100
 
-#Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects
-Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjects -ThrottleLimit 10
+$hugoMarkdownObjectsSorted = $hugoMarkdownObjects | Sort-Object { $_.FrontMatter.weight } | Where-Object { $_.FrontMatter.ignore -eq $false -or $_.FrontMatter.ignore -eq $null }
+
+
+#Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjectsSorted
+#Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjectsSorted -ThrottleLimit 12
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
 
 $totalCount = $hugoMarkdownObjects.Count
 $currentIndex = 0
 
-#pause
+pause
 
-foreach ($HugoMarkdown in $hugoMarkdownObjects) {
+foreach ($HugoMarkdown in $hugoMarkdownObjectsSorted) {
     $currentIndex++
     $percentComplete = [math]::Round(($currentIndex / $totalCount) * 100, 2)
     
