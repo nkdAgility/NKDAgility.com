@@ -257,7 +257,7 @@ sections:
     cta:
       content: Questions? Email us or schedule a 15-minute clarity call.
       button:
-        text: Let's Talk
+        text: Book My First Session
         url: /company/book-online
     boxes: []
   - type: sectioncta
