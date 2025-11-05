@@ -237,7 +237,7 @@ sections:
           The investment that turns your team from "constantly firefighting" into "consistently shipping excellence."
 
           The mentorship that makes engineering capability your competitive advantage.
-  - type: none
+  - type: outcomehero
     class: sideBySide
     title: Your engineering excellence journey starts with one conversation.
     content: |
@@ -254,11 +254,17 @@ sections:
       **If it's not the most valuable hour your engineering team has spent in months, we'll refund you immediately.**
 
       That's how confident we are that this works.
+    cta:
+      content: Questions? Email us or schedule a 15-minute clarity call.
+      button:
+        text: Let's Talk
+        url: /company/book-online
+    boxes: []
   - type: sectioncta
     backgroundColor: primary
     cta:
       content: |
-        Questions? Email us at martin@nkdagility.com or schedule a 15-minute clarity call.
+        Your engineers aren't the problem. **Your system is.**
       button:
         text: Schedule My Consultation
         url: /company/book-online

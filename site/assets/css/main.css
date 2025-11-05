@@ -931,14 +931,14 @@ html {
   min-height: 200px;
 }
 
-/* Boxed variant - adds borders and shadows */
+.section-boxesrow-box:hover {
+  transform: translateY(-5px);
+}
+
+/* Boxed variant - adds borders, shadows AND background colors */
 .section-boxesrow-boxed .section-boxesrow-box {
   border: 2px solid transparent;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
-
-.section-boxesrow-box:hover {
-  transform: translateY(-5px);
 }
 
 /* Boxed variant hover - adds enhanced shadow */
@@ -946,52 +946,61 @@ html {
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
 }
 
-.section-boxesrow-box-primary {
+/* Background colors ONLY for boxed variant */
+.section-boxesrow-boxed .section-boxesrow-box-primary {
   background-color: var(--primary-color);
   color: white;
-}
-
-.section-boxesrow-box-accent {
-  background-color: var(--light-accent-color-alt);
-  color: var(--text-color);
-}
-
-.section-boxesrow-box-light {
-  background-color: #fbf3fe;
-  color: var(--text-color);
-}
-
-/* Border colors only for boxed variant */
-.section-boxesrow-boxed .section-boxesrow-box-primary {
   border-color: var(--primary-color);
 }
 
 .section-boxesrow-boxed .section-boxesrow-box-accent {
+  background-color: var(--light-accent-color-alt);
+  color: var(--text-color);
   border-color: var(--light-accent-color-alt);
 }
 
 .section-boxesrow-boxed .section-boxesrow-box-light {
+  background-color: #fbf3fe;
+  color: var(--text-color);
   border-color: #fbf3fe;
 }
 
-/* Dark theme adjustments */
-[data-theme="dark"] .section-boxesrow-box-accent {
+/* Dark theme adjustments ONLY for boxed variant */
+[data-theme="dark"] .section-boxesrow-boxed .section-boxesrow-box-accent {
   background-color: var(--accent-color-alt);
   color: var(--light-text-color);
-}
-
-[data-theme="dark"] .section-boxesrow-box-light {
-  background-color: #2d2436;
-  color: var(--dark-text-color);
-}
-
-/* Dark theme border colors only for boxed variant */
-[data-theme="dark"] .section-boxesrow-boxed .section-boxesrow-box-accent {
   border-color: var(--accent-color-alt);
 }
 
 [data-theme="dark"] .section-boxesrow-boxed .section-boxesrow-box-light {
+  background-color: #2d2436;
+  color: var(--dark-text-color);
   border-color: #2d2436;
+}
+
+/* VerticalSeparator boxType - clean styling with separator */
+.section-boxesrow-verticalSeparator .row {
+  position: relative;
+}
+
+/* Add vertical separator between boxes */
+.section-boxesrow-verticalSeparator .col-12:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2px;
+  height: 60%;
+  background-color: var(--primary-color);
+  z-index: 10;
+}
+
+/* Remove separators on mobile */
+@media (max-width: 767px) {
+  .section-boxesrow-verticalSeparator .col-12:not(:last-child)::after {
+    display: none;
+  }
 }
 
 .section-boxesrow-title {
@@ -1003,155 +1012,7 @@ html {
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
 }
 
-.section-boxesrow-content {
-  font-size: 1.1rem;
-  font-weight: 500;
-  line-height: 1.4;
-}
-
-.section-boxesrow-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.section-boxesrow-item {
-  position: relative;
-  padding: 0.5rem 0 0.5rem 0.5rem;
-  margin-bottom: 0.5rem;
-  font-size: 1.2rem;
-  line-height: 1.4;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-}
-
-.section-boxesrow-item:last-child {
-  margin-bottom: 0;
-  border-bottom: none;
-}
-
-.section-boxesrow-item::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0.5rem;
-  font-weight: bold;
-  color: currentColor;
-  opacity: 0.8;
-}
-
-/* Light theme items styling */
-.section-boxesrow-box-light .section-boxesrow-item {
-  border-bottom-color: rgba(0, 0, 0, 0.1);
-}
-
-.section-boxesrow-box-light .section-boxesrow-item::before {
-  color: var(--bs-success);
-}
-
-/* Link styling for different box types */
-.section-boxesrow-link {
-  margin-top: auto !important;
-}
-
-.section-boxesrow-box-primary .section-boxesrow-link .btn {
-  background-color: rgba(255, 255, 255, 0.1);
-  border-color: rgba(255, 255, 255, 0.3);
-  color: white;
-}
-
-.section-boxesrow-box-primary .section-boxesrow-link .btn:hover {
-  background-color: rgba(255, 255, 255, 0.2);
-  border-color: rgba(255, 255, 255, 0.5);
-  color: white;
-  transform: translateY(-1px);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-}
-
-.section-boxesrow-box-accent .section-boxesrow-link .btn {
-  background-color: var(--primary-color);
-  border-color: var(--primary-color);
-  color: white;
-}
-
-.section-boxesrow-box-accent .section-boxesrow-link .btn:hover {
-  background-color: var(--bs-primary);
-  border-color: var(--bs-primary);
-  color: white;
-  transform: translateY(-1px);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
-}
-
-.section-boxesrow-box-light .section-boxesrow-link .btn {
-  background-color: var(--primary-color);
-  border-color: var(--primary-color);
-  color: white;
-}
-
-.section-boxesrow-box-light .section-boxesrow-link .btn:hover {
-  background-color: var(--bs-primary);
-  border-color: var(--bs-primary);
-  color: white;
-  transform: translateY(-1px);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
-}
-
-/* Dark theme link adjustments */
-[data-theme="dark"] .section-boxesrow-box-accent .section-boxesrow-link .btn,
-[data-theme="dark"] .section-boxesrow-box-light .section-boxesrow-link .btn {
-  background-color: var(--light-accent-color);
-  border-color: var(--light-accent-color);
-  color: var(--text-color);
-}
-
-[data-theme="dark"] .section-boxesrow-box-accent .section-boxesrow-link .btn:hover,
-[data-theme="dark"] .section-boxesrow-box-light .section-boxesrow-link .btn:hover {
-  background-color: var(--accent-color);
-  border-color: var(--accent-color);
-  color: white;
-}
-
-/* Responsive adjustments */
-@media (max-width: 768px) {
-  .section-boxesrow-box {
-    margin-bottom: 1.5rem;
-    min-height: auto;
-  }
-
-  .section-boxesrow-content {
-    font-size: 1rem;
-  }
-
-  .section-boxesrow-item {
-    font-size: 0.9rem;
-  }
-}
-
-/* Capabilities-main specific styling - outline only - ONLY for boxed variants */
-.capabilities-main .section-boxesrow-boxed .section-boxesrow-box-primary {
-  background-color: transparent !important;
-  color: var(--text-color) !important;
-  border-color: var(--primary-color) !important;
-  border-width: 2px;
-  border-style: solid;
-}
-
-.capabilities-main .section-boxesrow-boxed .section-boxesrow-box-accent {
-  background-color: transparent !important;
-  color: var(--text-color) !important;
-  border-color: var(--light-accent-color-alt) !important;
-  border-width: 2px;
-  border-style: solid;
-}
-
-.capabilities-main .section-boxesrow-boxed .section-boxesrow-box-light {
-  background-color: transparent !important;
-  color: var(--text-color) !important;
-  border-color: #fbf3fe !important;
-  border-width: 2px;
-  border-style: solid;
-}
-
-/* Dark theme adjustments for capabilities-main - ONLY for boxed variants */
+/* Dark mode adjustments for capabilities-main - ONLY for boxed variants */
 [data-theme="dark"] .capabilities-main .section-boxesrow-boxed .section-boxesrow-box-accent {
   background-color: transparent !important;
   color: var(--dark-text-color) !important;
@@ -1164,22 +1025,22 @@ html {
   border-color: #2d2436 !important;
 }
 
-/* Override title colors for capabilities-main outline boxes - ONLY for boxed variants */
-.capabilities-main .section-boxesrow-boxed .section-boxesrow-box-primary .section-boxesrow-title h4 {
+/* Override title colors for capabilities-main - Apply to ALL variants, not just boxed */
+.capabilities-main .section-boxesrow-box-primary .section-boxesrow-title h4 {
   color: var(--primary-color-heading) !important;
   text-shadow: none !important;
 }
 
-[data-theme="dark"] .capabilities-main .section-boxesrow-boxed .section-boxesrow-box-primary .section-boxesrow-title h4 {
+[data-theme="dark"] .capabilities-main .section-boxesrow-box-primary .section-boxesrow-title h4 {
   color: var(--dark-primary-color-heading) !important;
 }
 
-/* Adjust item styling for capabilities-main outline boxes - ONLY for boxed variants */
-.capabilities-main .section-boxesrow-boxed .section-boxesrow-item {
+/* Adjust item styling for capabilities-main - Apply to ALL variants, not just boxed */
+.capabilities-main .section-boxesrow-item {
   border-bottom-color: rgba(0, 0, 0, 0.1);
 }
 
-[data-theme="dark"] .capabilities-main .section-boxesrow-boxed .section-boxesrow-item {
+[data-theme="dark"] .capabilities-main .section-boxesrow-item {
   border-bottom-color: rgba(255, 255, 255, 0.2);
 }
 
