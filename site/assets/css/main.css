@@ -927,32 +927,50 @@ html {
 }
 
 .section-boxesrow-box {
-  border: 2px solid transparent;
   transition: all 0.3s ease;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   min-height: 200px;
+}
+
+/* Boxed variant - adds borders and shadows */
+.section-boxesrow-boxed .section-boxesrow-box {
+  border: 2px solid transparent;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .section-boxesrow-box:hover {
   transform: translateY(-5px);
+}
+
+/* Boxed variant hover - adds enhanced shadow */
+.section-boxesrow-boxed .section-boxesrow-box:hover {
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
 }
 
 .section-boxesrow-box-primary {
   background-color: var(--primary-color);
   color: white;
-  border-color: var(--primary-color);
 }
 
 .section-boxesrow-box-accent {
   background-color: var(--light-accent-color-alt);
   color: var(--text-color);
-  border-color: var(--light-accent-color-alt);
 }
 
 .section-boxesrow-box-light {
   background-color: #fbf3fe;
   color: var(--text-color);
+}
+
+/* Border colors only for boxed variant */
+.section-boxesrow-boxed .section-boxesrow-box-primary {
+  border-color: var(--primary-color);
+}
+
+.section-boxesrow-boxed .section-boxesrow-box-accent {
+  border-color: var(--light-accent-color-alt);
+}
+
+.section-boxesrow-boxed .section-boxesrow-box-light {
   border-color: #fbf3fe;
 }
 
@@ -960,12 +978,19 @@ html {
 [data-theme="dark"] .section-boxesrow-box-accent {
   background-color: var(--accent-color-alt);
   color: var(--light-text-color);
-  border-color: var(--accent-color-alt);
 }
 
 [data-theme="dark"] .section-boxesrow-box-light {
   background-color: #2d2436;
   color: var(--dark-text-color);
+}
+
+/* Dark theme border colors only for boxed variant */
+[data-theme="dark"] .section-boxesrow-boxed .section-boxesrow-box-accent {
+  border-color: var(--accent-color-alt);
+}
+
+[data-theme="dark"] .section-boxesrow-boxed .section-boxesrow-box-light {
   border-color: #2d2436;
 }
 
@@ -1101,8 +1126,8 @@ html {
   }
 }
 
-/* Capabilities-main specific styling - outline only */
-.capabilities-main .section-boxesrow-box-primary {
+/* Capabilities-main specific styling - outline only - ONLY for boxed variants */
+.capabilities-main .section-boxesrow-boxed .section-boxesrow-box-primary {
   background-color: transparent !important;
   color: var(--text-color) !important;
   border-color: var(--primary-color) !important;
@@ -1110,7 +1135,7 @@ html {
   border-style: solid;
 }
 
-.capabilities-main .section-boxesrow-box-accent {
+.capabilities-main .section-boxesrow-boxed .section-boxesrow-box-accent {
   background-color: transparent !important;
   color: var(--text-color) !important;
   border-color: var(--light-accent-color-alt) !important;
@@ -1118,7 +1143,7 @@ html {
   border-style: solid;
 }
 
-.capabilities-main .section-boxesrow-box-light {
+.capabilities-main .section-boxesrow-boxed .section-boxesrow-box-light {
   background-color: transparent !important;
   color: var(--text-color) !important;
   border-color: #fbf3fe !important;
@@ -1126,35 +1151,35 @@ html {
   border-style: solid;
 }
 
-/* Dark theme adjustments for capabilities-main */
-[data-theme="dark"] .capabilities-main .section-boxesrow-box-accent {
+/* Dark theme adjustments for capabilities-main - ONLY for boxed variants */
+[data-theme="dark"] .capabilities-main .section-boxesrow-boxed .section-boxesrow-box-accent {
   background-color: transparent !important;
   color: var(--dark-text-color) !important;
   border-color: var(--accent-color-alt) !important;
 }
 
-[data-theme="dark"] .capabilities-main .section-boxesrow-box-light {
+[data-theme="dark"] .capabilities-main .section-boxesrow-boxed .section-boxesrow-box-light {
   background-color: transparent !important;
   color: var(--dark-text-color) !important;
   border-color: #2d2436 !important;
 }
 
-/* Override title colors for capabilities-main outline boxes */
-.capabilities-main .section-boxesrow-box-primary .section-boxesrow-title h4 {
+/* Override title colors for capabilities-main outline boxes - ONLY for boxed variants */
+.capabilities-main .section-boxesrow-boxed .section-boxesrow-box-primary .section-boxesrow-title h4 {
   color: var(--primary-color-heading) !important;
   text-shadow: none !important;
 }
 
-[data-theme="dark"] .capabilities-main .section-boxesrow-box-primary .section-boxesrow-title h4 {
+[data-theme="dark"] .capabilities-main .section-boxesrow-boxed .section-boxesrow-box-primary .section-boxesrow-title h4 {
   color: var(--dark-primary-color-heading) !important;
 }
 
-/* Adjust item styling for capabilities-main outline boxes */
-.capabilities-main .section-boxesrow-item {
+/* Adjust item styling for capabilities-main outline boxes - ONLY for boxed variants */
+.capabilities-main .section-boxesrow-boxed .section-boxesrow-item {
   border-bottom-color: rgba(0, 0, 0, 0.1);
 }
 
-[data-theme="dark"] .capabilities-main .section-boxesrow-item {
+[data-theme="dark"] .capabilities-main .section-boxesrow-boxed .section-boxesrow-item {
   border-bottom-color: rgba(255, 255, 255, 0.2);
 }
 

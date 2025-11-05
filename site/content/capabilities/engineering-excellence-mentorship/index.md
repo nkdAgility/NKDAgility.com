@@ -92,9 +92,7 @@ sections:
   - type: cards
     title: What happens when engineering excellence becomes your competitive advantage?
     subtitle: |
-      This isn't about adopting a new framework.
-
-      This is about transforming how your team builds, ships, and evolves software.
+      This isn't about adopting a new framework. This is about transforming how your team **builds, ships, and evolves** software.
     cards:
       - content: |
           **Week 1:** You bring your biggest blocker. Martin helps you see what you've been missing. You leave with a concrete improvement your team implements immediately.
@@ -110,48 +108,157 @@ sections:
     boxes:
       - box:
         title: "The ROI you can measure:"
-        items:
-          - title: Faster time to market
-          - title: Reduced production incidents
-          - title: Higher team retention and satisfaction
-          - title: Improved customer satisfaction scores
-          - title: Technical capabilities that differentiate your product
+        content: |
+          - Faster time to market
+          - Reduced production incidents
+          - Higher team retention and satisfaction
+          - Improved customer satisfaction scores
+          - Technical capabilities that differentiate your product
       - box:
         title: "The shift you can feel:"
-        items:
-          - title: Your engineers stop dreading deployments. Your product managers stop apologizing to customers. Your executives stop wondering why engineering takes so long.
-  - type: list
-    title: What CTOs and Engineering Leaders Want
-    listType: boxed
-    list:
-      - title: Predictable Delivery
-        icon: fa-calendar-check
         content: |
-          Deliver predictably without firefighting.
-      - title: Built‑in Quality
-        icon: fa-check-circle
+          Your engineers stop dreading deployments. Your product managers stop apologizing to customers. Your executives stop wondering why engineering takes so long.
+  - type: boxesrow
+    title: 60 minutes. Every week. Consulting, coaching, and mentorship fused into one.
+    content: |
+      This isn't a certification program you complete and forget.
+      This isn't consulting where someone hands you a 200-slide deck and disappears.
+      This is active, **in-the-code mentorship**, tailored to your team's actual challenges, delivered with the rhythm of weekly momentum.
+    boxes:
+      - box:
+        title: "What You Get:"
         content: |
-          Build quality in from the start.
-      - title: Scalable DevOps
-        icon: fa-cubes
+          **4 Sessions Per Month** (60 minutes each)
+          - **One-to-one or one-to-many format** - your tech lead, your engineering manager, or your whole squad
+          - **Real-time problem solving** - bring your actual blockers, architectural decisions, and challenges
+          - **Blend of consulting, coaching, training, and mentoring** - Martin adapts to what you need most
+          - **Actionable next steps** - every session ends with clarity on what to implement next
+      - box:
+        title: "What Gets Covered:"
         content: |
-          Embrace DevOps practices that scale.
-      - title: Modernize Engineering
-        icon: fa-forward
-        content: |
-          Shift from legacy technical debt to modern engineering excellence.
-      - title: Continuous Improvement
-        icon: fa-sync
-        content: |
-          Continuously improve without losing momentum.
+          - Engineering practices that unlock sustainable velocity
+          - CI/CD pipeline design and optimization
+          - Code quality practices and technical debt strategy
+          - Architecture decisions and refactoring approaches
+          - Testing strategies that build confidence
+          - Deployment practices that eliminate fear
+          - Team dynamics and engineering culture
+          - DevOps principles and implementation
+          - Whatever framework you use (or don't use)—made to actually work
 
+          ### The Rhythm: 
+
+          Week 1: Diagnose and identify quick wins 
+
+          Week 2: Implement and learn from results 
+
+          Week 3: Deepen practices and address root causes 
+
+          Week 4: Reflect, consolidate, and plan ahead
+
+          Every month, you build momentum. Every quarter, you look back and barely recognize the engineering organization you were.
+  - type: none
+    class: sideBySide
+    title: "250+ engineering teams. Decades of impact. One consistent outcome: "
+    subtitle: Engineering excellence
+    content: |
+      Martin doesn't theorize about software engineering, he transforms it.
+
+      The Track Record:
+      - **17 consecutive years as Microsoft MVP** - a recognition reserved for those who demonstrably advance the software industry
+      - **1,000+ engagements across three continents** - from chaotic startups to enterprise-scale transformations
+      - **Expert in DevOps, CI/CD, and engineering excellence** - the practices that separate high-performing teams from everyone else
+
+      #### What Engineering Leaders Say:
+
+      *“Thanks to Martin's guidance and support we successfully upgraded to TFS 2010 from an unstable TFS 2005 database, moved our dev team to Visual Studio 2010 and implemented the finest product build process ever known!*
+       
+      *I would recommend Martin to anyone, in fact I would insist they use him as he's the best ALM consultant I've worked with.”*
+       
+      Paul Martin | Interim IT Director
+  - type: none
+    class: sideBySide
+    title: |
+      <span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="100" data-nkda-amount="900">900</span> per month. 
+
+      4 sessions.
+    subtitle: One decision that transforms everything.
+    content: |
+      You've spent more on tools that didn't solve the problem.
+
+      You've invested in training that didn't transfer to real work.
+
+      You've hired consultants who left you with documentation no one reads.
+
+      **This is different.**
+
+      For less than the cost of losing one talented engineer to burnout, you get direct access to one of the world's leading minds in engineering excellence—every single week.
+
+      **What <span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="100" data-nkda-amount="900">900</span> Gets You:**
+
+      - 4 × 60-minute mentorship sessions with Martin Hinshelwood
+      - One-to-one or one-to-many format—tailored to your team structure
+      - Real-time problem solving on your actual engineering challenges
+      - Actionable guidance you can implement immediately
+      - Ongoing accountability—Martin's there every week as you build momentum
+       
+      **No long-term contracts. No hidden fees. No consultancy overhead.**
+
+      Just clarity, guidance, and results—delivered weekly.
+  - type: boxesrow
+    boxType: verticalSeparator
+    title: Every week you wait, your competitors ship faster. Your best engineers get closer to leaving. Your technical debt compounds.
+    boxes:
+      - box:
+        content: |
+          You know the cost of inaction.
+
+          Releases that keep slipping.
+
+          Incidents that keep happening.
+
+          Engineers who stop caring.
+
+          Customers who stop trusting.
+
+          **Excellence delayed is opportunity lost.**
+      - box:
+        content: |
+          The teams shipping with confidence today aren't smarter than you.
+
+          They aren't better funded.
+
+          They just had someone show them **how**.
+
+          **This is your moment.**
+
+          The hour-a-week that transforms the next 12 months.
+
+          The investment that turns your team from "constantly firefighting" into "consistently shipping excellence."
+
+          The mentorship that makes engineering capability your competitive advantage.
+  - type: none
+    class: sideBySide
+    title: Your engineering excellence journey starts with one conversation.
+    content: |
+      Book your first session with Martin.
+
+      Bring your biggest engineering challenge, the technical debt that's crushing you, the deployment pipeline that terrifies everyone, the architecture decision you're stuck on, the quality issues you can't seem to solve.
+
+      In 60 minutes, you'll walk away with:
+
+      - Clarity on your next right move
+      - A concrete improvement you can implement this week
+      - A roadmap for the transformation ahead
+      - 
+      **If it's not the most valuable hour your engineering team has spent in months, we'll refund you immediately.**
+
+      That's how confident we are that this works.
   - type: sectioncta
     backgroundColor: primary
     cta:
       content: |
-        It only takes one step to get started. **Book a Free Consultation with Martin Hinshelwood today.**
-
-        See how one hour a week can change everything for your team.
+        Questions? Email us at martin@nkdagility.com or schedule a 15-minute clarity call.
       button:
         text: Schedule My Consultation
         url: /company/book-online

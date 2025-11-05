@@ -27,7 +27,7 @@
 {{- $section := .context }}
 
 
-<div class="section-boxesrow">
+<div class="section-boxesrow {{ if $section.boxType }}section-boxesrow-{{ $section.boxType }}{{ end }}">
   {{- if $section.boxes }}
     <div class="row g-4">
       {{- range $index, $box := $section.boxes }}
