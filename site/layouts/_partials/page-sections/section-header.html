@@ -5,13 +5,19 @@
 */}}
 
 {{- $section := .section }}
+<div class="section-header{{ if $section.class }}-{{ $section.class }}{{ end }}">
+  <div class="section-header-title">
+    {{- if $section.title }}
+      <h2 class="section-title">{{ $section.title | markdownify }}</h2>
+    {{- end }}
 
-{{- if $section.title }}
-  <h2 class="section-title">{{ $section.title | markdownify }}</h2>
-{{- end }}
-
-{{- if $section.content }}
-  <div class="section-content {{ $section.contentClass }}">
-    <p>{{ $section.content | markdownify }}</p>
+    {{- if $section.subtitle }}
+      <h3 class="section-subtitle">{{ $section.subtitle | markdownify }}</h3>
+    {{- end }}
   </div>
-{{- end }}
+  {{- if $section.content }}
+    <div class="section-content {{ $section.contentClass }}">
+      <p>{{ $section.content | markdownify }}</p>
+    </div>
+  {{- end }}
+</div>

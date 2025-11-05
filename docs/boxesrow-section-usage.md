@@ -52,12 +52,46 @@ sections:
 
 - `title`: Section title
 - `content`: Section description (supports Markdown)
+- `boxType`: Visual variant type
+  - `"boxed"`: Adds borders and shadows for enhanced visual treatment
+  - (default): Clean appearance without borders or shadows
 - `boxes`: Array of box objects
   - `title`: Box title (or uses referenced page title)
   - `content`: Box description (or uses referenced page description)
   - `items`: Array of item objects
     - `title`: Item text
   - `ref`: Optional reference to another page for content
+
+## Visual Variants
+
+The boxesrow section supports two visual treatments:
+
+### Default (Clean)
+
+```yaml
+- type: "boxesrow"
+  title: "Clean Design"
+  boxes: [...]
+```
+
+- **No borders** around boxes
+- **No shadows** for minimal design
+- **Subtle hover effect** (slight lift)
+- Clean, content-focused appearance
+
+### Boxed (Enhanced)
+
+```yaml
+- type: "boxesrow"
+  boxType: "boxed"
+  title: "Enhanced Design"
+  boxes: [...]
+```
+
+- **Borders** around each box with theme-appropriate colors
+- **Drop shadows** for visual depth
+- **Enhanced hover effects** with shadow enhancement
+- Full visual treatment for emphasis
 
 ## Box Layout Logic
 
@@ -94,6 +128,47 @@ Referenced pages provide:
 - **Link**: Automatic "Find out more" button to page
 
 ## Examples
+
+### Clean Design (Default)
+
+```yaml
+- type: "boxesrow"
+  title: "Simple Content Layout"
+  content: "Clean, minimal design focusing on content"
+  boxes:
+    - title: "Feature One"
+      content: "Description of the first feature"
+      items:
+        - title: "Benefit A"
+        - title: "Benefit B"
+    - title: "Feature Two"
+      content: "Description of the second feature"
+      items:
+        - title: "Advantage X"
+        - title: "Advantage Y"
+```
+
+### Enhanced Design (Boxed)
+
+```yaml
+- type: "boxesrow"
+  boxType: "boxed"
+  title: "Highlighted Service Packages"
+  content: "Visually enhanced presentation for important information"
+  boxes:
+    - title: "Premium Package"
+      content: "Our most comprehensive offering"
+      items:
+        - title: "All features included"
+        - title: "Priority support"
+        - title: "Custom integrations"
+    - title: "Enterprise Package"
+      content: "Tailored for large organizations"
+      items:
+        - title: "Unlimited usage"
+        - title: "Dedicated account manager"
+        - title: "SLA guarantees"
+```
 
 ### Service Comparison
 
@@ -180,7 +255,8 @@ The section uses these CSS classes:
 
 ### Box Containers
 
-- `.section-boxesrow`: Main section container
+- `.section-boxesrow`: Main section container (clean variant)
+- `.section-boxesrow-boxed`: Enhanced visual treatment (when `boxType: "boxed"`)
 - `.section-boxesrow-box`: Individual box container
 - `.section-boxesrow-box-primary`: Primary box styling (first box)
 - `.section-boxesrow-box-accent`: Accent box styling (second box)
@@ -203,6 +279,23 @@ The section uses these CSS classes:
 5. **Visual Hierarchy**: Use the natural box styling to guide attention
 6. **Mobile Consideration**: Content stacks vertically on mobile
 7. **Reference Quality**: Ensure referenced pages have good descriptions
+
+### When to Use Each Variant
+
+**Use Default (Clean) When:**
+
+- Content should be the primary focus
+- Page already has many visual elements
+- Minimalist design is preferred
+- Information is supplementary or secondary
+
+**Use Boxed When:**
+
+- Information is critical or promotional
+- You want to draw attention to specific content
+- Comparing products/services/packages
+- Page needs more visual interest
+- Content represents distinct, separate offerings
 
 ## Error Handling
 
