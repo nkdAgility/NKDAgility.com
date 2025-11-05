@@ -983,22 +983,27 @@ html {
   position: relative;
 }
 
-/* Add vertical separator between boxes */
-.section-boxesrow-verticalSeparator .col-12:not(:last-child)::after {
+/* Add vertical separator between boxes - new approach */
+.section-boxesrow-verticalSeparator .row::before {
   content: "";
   position: absolute;
-  right: 0;
+  left: 50%;
   top: 50%;
-  transform: translateY(-50%);
+  transform: translate(-50%, -50%);
   width: 2px;
   height: 60%;
   background-color: var(--primary-color);
   z-index: 10;
 }
 
+/* Hide separator if only one column or on mobile */
+.section-boxesrow-verticalSeparator .row:has(.col-12:only-child)::before {
+  display: none;
+}
+
 /* Remove separators on mobile */
 @media (max-width: 767px) {
-  .section-boxesrow-verticalSeparator .col-12:not(:last-child)::after {
+  .section-boxesrow-verticalSeparator .row::before {
     display: none;
   }
 }
