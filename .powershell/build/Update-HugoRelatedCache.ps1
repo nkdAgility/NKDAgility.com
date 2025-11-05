@@ -23,7 +23,7 @@ $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\re
 $hugoMarkdownObjects = $hugoMarkdownObjects | Where-Object { $_.FrontMatter.ignore -eq $false -or $_.FrontMatter.ignore -eq $null }
 
 #Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects
-Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjects -ThrottleLimit 10
+#Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjects -ThrottleLimit 12
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
 
