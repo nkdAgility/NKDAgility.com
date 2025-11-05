@@ -18,12 +18,13 @@ $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\ou
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\tags\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\categories\" -YearsBack 100
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\concepts\" -YearsBack 100
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\blog" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 100
 
-$hugoMarkdownObjects = $hugoMarkdownObjects | Where-Object { $_.FrontMatter.ignore -eq $false -or $_.FrontMatter.ignore -eq $null }
+$hugoMarkdownObjectsSorted = $hugoMarkdownObjects | Sort-Object { $_.FrontMatter.weight } | Where-Object { $_.FrontMatter.ignore -eq $false -or $_.FrontMatter.ignore -eq $null }
 
-#Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects
-#Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjects -ThrottleLimit 12
+
+#Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjectsSorted
+Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjectsSorted -ThrottleLimit 12
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
 
@@ -32,7 +33,7 @@ $currentIndex = 0
 
 pause
 
-foreach ($HugoMarkdown in $hugoMarkdownObjects) {
+foreach ($HugoMarkdown in $hugoMarkdownObjectsSorted) {
     $currentIndex++
     $percentComplete = [math]::Round(($currentIndex / $totalCount) * 100, 2)
     
