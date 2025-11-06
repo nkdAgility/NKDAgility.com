@@ -131,7 +131,7 @@
             {{- $printed := 0 -}}
             {{- range $i, $item := $filteredRelatedData }}
               {{- if lt $printed $max }}
-                {"@type": "Article", "url": {{- with site.GetPage .Reference -}}{{ .Permalink }}{{- else -}}{{ .Reference }}{{- end -}}, "additionalProperty": [{ "@type": "PropertyValue", "propertyID": "Similarity", "name": "Similarity", "value": {{ printf "%.2f" $item.Similarity }} }}]{{- if lt (add $printed 1) $max -}},{{- end }}
+                {"@type": "Article", "url": {{- with site.GetPage .Reference -}}{{ .Permalink }}{{- else -}}{{ .Reference }}{{- end -}}, "additionalProperty": [{ "@type": "PropertyValue", "propertyID": "Similarity", "name": "Similarity", "value": {{ printf "%.2f" $item.Similarity }} }]{{- if lt (add $printed 1) $max -}},{{- end }}
                 {{- $printed = add $printed 1 -}}
               {{- end }}
             {{- end }}
