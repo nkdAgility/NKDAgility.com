@@ -11,6 +11,9 @@ summaryLength: 30
 enableRobotsTXT: true
 enableGitInfo: true
 
+frontmatter:
+  lastmod: ["lastmod", "publishDate", ":git"]
+
 timezone: "Europe/London"
 
 # Site-wide parameters
