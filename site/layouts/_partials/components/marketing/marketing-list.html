@@ -1,0 +1,99 @@
+{{ $marketing := .marketings }}
+{{ $page := .context }}
+{{ $now := now }}
+{{ $includeMeta := .includeMeta | default true }}
+<section class="row g-4" aria-label="Marketing offerings">
+  {{ range $marketing }}
+    {{ $isFuture := (.Date.After $now) }}
+    {{ $programType := .Params.code | default "program" }}
+    {{ $truncatedDescription := .Description | default .Summary | truncate 150 }}
+    <div class="col-12 col-md-6 col-lg-4">
+      <article class="card h-100" itemscope itemtype="{{ if or (eq .Type "capabilities") (eq .Type "outcomes") }}https://schema.org/Service{{ else }}https://schema.org/Service{{ end }}">
+        {{ if $isFuture }}
+          {{ $duration := .Date.Sub $now }}
+          {{ $days := math.Floor (div $duration.Hours 24) }}
+          <header class="card-header bg-warning text-dark py-1 px-2" role="banner">
+            <small><strong>Launches in {{ $days }} day{{ if ne $days 1 }}s{{ end }}</strong></small>
+          </header>
+        {{ end }}
+        <div class="card-body d-flex flex-column position-relative">
+          <header title="{{ .Title }}">
+            <h3 class="card-title h5 mb-2 fw-semibold" itemprop="name">
+              <a href="{{ .Permalink }}" class="text-decoration-none text-reset" aria-describedby="desc-{{ .Params.ItemId }}" itemprop="url">
+                {{ .Params.short_title | default .Title }}
+              </a>
+            </h3>
+          </header>
+          <p class="card-text flex-grow-1" id="desc-{{ .Params.ItemId }}" itemprop="description" {{ if $includeMeta }}title="{{ .Description | default .Summary }}"{{ end }}>
+            {{ $truncatedDescription }}
+          </p>
+          <footer class="d-flex justify-content-between align-items-end mt-auto">
+            {{ if eq .Kind "term" }}
+              <div class="program-type d-flex align-items-center gap-1" aria-label="Program Category: {{ .Type | title }}">
+                <i class="fa-regular fa-tag"></i>
+                <span class="visually-hidden">{{ .Type | title }}</span>
+                <small class="text-muted">{{ .Type | title }} ({{ len .Pages }})</small>
+              </div>
+            {{ else }}
+              <div class="program-type d-flex align-items-center gap-1" aria-label="Program type: {{ if eq .Type "capabilities" }}Service{{ else if eq .Type "outcomes" }}Outcome{{ else }}Offering{{ end }}">
+                {{ if eq .Type "capabilities" }}
+                  <i class="fa-solid fa-cogs" aria-hidden="true"></i>
+                  <span class="visually-hidden">Capability</span>
+                  <small class="text-muted">Capability</small>
+                {{ else if eq .Type "outcomes" }}
+                  <i class="fa-solid fa-bullseye" aria-hidden="true"></i>
+                  <span class="visually-hidden">Outcome</span>
+                  <small class="text-muted">Outcome</small>
+                {{ else }}
+                  <i class="fa-solid fa-bookmark" aria-hidden="true"></i>
+                  <span class="visually-hidden">Offering</span>
+                  <small class="text-muted">Offering</small>
+                {{ end }}
+              </div>
+            {{ end }}
+            {{ if .IsSection }}
+              <i class="fa-regular fa-layer-group" aria-label="Multiple versions available" title="Multiple versions available"></i>
+            {{ end }}
+            {{ if .Params.forked_from }}
+              <i class="fa-regular fa-code-fork" aria-label="Fork of another Guide" title="Fork of another Guide"></i>
+            {{ end }}
+            <span class="visually-hidden">Read more about {{ .Title }}</span>
+          </footer>
+        </div>
+        {{ if $includeMeta }}
+          {{ with .Params.author }}
+            {{ if (reflect.IsSlice .) }}
+              {{ range . }}
+                <meta itemprop="author" content="{{ . }}" />
+              {{ end }}
+            {{ else }}
+              <meta itemprop="author" content="{{ . }}" />
+            {{ end }}
+          {{ end }}
+          {{ with .Params.creator }}
+            <meta itemprop="instructor" content="{{ . }}" />
+          {{ end }}
+          {{ with .Params.tags }}
+            {{ range . }}
+              <meta itemprop="keywords" content="{{ . }}" />
+            {{ end }}
+          {{ end }}
+          {{ with .Params.preview_image }}
+            <meta itemprop="image" content="{{ . | absURL }}" />
+          {{ end }}
+          {{ with .Params.featured_image }}
+            <meta itemprop="image" content="{{ . | absURL }}" />
+          {{ end }}
+          {{ if .Params.course_length }}
+            <meta itemprop="totalTime" content="PT{{ .Params.course_length }}H" />
+          {{ end }}
+          {{ with .Params.course_vendors }}
+            {{ range . }}
+              <meta itemprop="provider" content="{{ . }}" />
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </article>
+    </div>
+  {{ end }}
+</section>

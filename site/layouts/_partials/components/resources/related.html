@@ -25,6 +25,15 @@
         {{ partial "components/programs/programs-list.html" (dict "context" . "programs" $relatedCourses "includeMeta" false) }}
       </div>
     {{ end }}
+    {{- $relatedMarketing := partial "functions/get-related-as-pages.html" (dict "Page" .Page "EntryKind" "marketing") }}
+    {{- $relatedMarketing := first 6 $relatedMarketing }}
+    {{ if gt (len $relatedMarketing) 0 }}
+      <div class="pt-5">
+        <h5>Outcomes and Capabilities</h5>
+        <p>These offerings complement the ideas in this post, helping you translate insights into impactful outcomes.</p>
+        {{ partial "components/marketing/marketing-list.html" (dict "context" . "marketings" $relatedMarketing "includeMeta" false) }}
+      </div>
+    {{ end }}
   {{ else }}
     <div class="pt-5">
       <h5>What to read next?</h5>

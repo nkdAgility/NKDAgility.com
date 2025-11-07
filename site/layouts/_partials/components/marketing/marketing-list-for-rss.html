@@ -1,0 +1,24 @@
+{{ $marketing := .marketings }}
+{{ $now := now }}
+<ul>
+  {{ range $marketing }}
+    {{ $isFuture := (.Date.After $now) }}
+    {{ $programType := .Params.code | default "program" }}
+    {{ $truncatedDescription := .Description | default .Summary | truncate 200 }}
+    <li>
+      <strong><a href="{{ .Permalink }}">{{ .Params.short_title | default .Title }}</a></strong>
+      {{ if $isFuture }}
+        {{ $duration := .Date.Sub $now }}
+        {{ $days := math.Floor (div $duration.Hours 24) }}
+        <em>(Launches in {{ $days }} day{{ if ne $days 1 }}s{{ end }})</em>
+      {{ end }}
+      <br />
+      <small>
+        {{ if eq .Type "capabilities" }}Service{{ else if eq .Type "outcomes" }}Outcome{{ else }}Offering{{ end }}
+        {{ if .Params.creator }}• {{ .Params.creator }}{{ end }}
+      </small>
+      <br />
+      {{ $truncatedDescription }}
+    </li>
+  {{ end }}
+</ul>

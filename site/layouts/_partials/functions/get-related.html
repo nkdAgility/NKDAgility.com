@@ -1,4 +1,5 @@
 {{ $page := . }}
+{{ $SimilarityThreshold := 0.4 }}
 
 {{ $ItemKind := .Params.ItemKind }}
 {{ $ItemType := .Params.ItemType }}
@@ -21,7 +22,7 @@
       {{- if $itemData -}}
         {{- $relatedData := index $itemData "related" -}}
         {{- if $relatedData -}}
-          {{- $filtered = where (or $relatedData.related (slice)) "Similarity" "gt" 0.4 -}}
+          {{- $filtered = where (or $relatedData.related (slice)) "Similarity" "gt" $SimilarityThreshold -}}
         {{- end -}}
       {{- end -}}
     {{- end -}}

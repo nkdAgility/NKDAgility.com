@@ -66,14 +66,14 @@
 <meta name="twitter:data1" content="{{- .ReadingTime -}} minutes" />
 
 {{ $breadcrumbs := partial "functions/breadcrumbs.html" . }}
-<script type="application/ld+json" data-nkda-type="{{ .Page.Type }}" data-nkda-type="{{ .Kind }}">
+<script type="application/ld+json" data-nkda-ItemKind="{{ .Page.Params.ItemKind }}"  data-nkda-ItemType="{{ .Page.Params.ItemType }}" data-hugo-type="{{ .Page.Type }}" data-hugo-kind="{{ .Kind }}">
   {
     "@context": "https://schema.org",
     "@graph": [
-      {{ if eq .Type "resources" }}
+      {{ if eq .Page.Params.ItemKind "resource" }}
       {
         "@context": "https://schema.org",
-        "@type": {{- if .Params.resourceType }}{{- if eq .Params.resourceTyp "blog" }}"BlogPosting"{{- else if eq .Params.resourceTyp "newsletter" }}"NewsArticle"{{- else }}"Article"{{- end }}{{- else }}"Article"{{- end }},
+        "@type": {{- if .Params.ItemType }}{{- if eq .Params.ItemType "blog" }}"BlogPosting"{{- else if eq .Params.ItemType "newsletter" }}"NewsArticle"{{- else }}"Article"{{- end }}{{- else }}"Article"{{- end }},
         "headline": {{ .Title | htmlEscape }},
         "image": [
           {{- /* Include images from the page bundle */ -}}
@@ -122,16 +122,16 @@
         ],
         "isRelatedTo": [
           {{- $page := . -}}
-          {{- $resourceType := .Params.ResourceType -}}
+
           {{- $relatedData := partial "functions/get-related.html" .Page }}
           {{- if and $relatedData (gt (len $relatedData) 0) -}}
-            {{- $relatedBlogs := where $relatedData "ResourceType" $resourceType -}}
-            {{- $count := len $relatedBlogs -}}
-            {{- $max := cond (gt $count 5) 5 $count -}}
+            {{- $filteredRelatedData := where $relatedData "Similarity" "gt" 0.70 -}}
+            {{- $count := len $filteredRelatedData -}}
+            {{- $max := cond (gt $count 15) 15 $count -}}
             {{- $printed := 0 -}}
-            {{- range $i, $item := $relatedBlogs }}
-              {{- if lt $printed 5 }}
-                {"@type": "Article", "url": {{- with site.GetPage .Reference -}}{{ .Permalink }}{{- else -}}{{ .Reference }}{{- end -}}}{{- if lt (add $printed 1) $max -}},{{- end }}
+            {{- range $i, $item := $filteredRelatedData }}
+              {{- if lt $printed $max }}
+                {"@type": "Article", "url": {{- with site.GetPage .Reference -}}{{ .Permalink }}{{- else -}}{{ .Reference }}{{- end -}}, "additionalProperty": [{ "@type": "PropertyValue", "propertyID": "Similarity", "name": "Similarity", "value": "{{ printf "%.2f" $item.Similarity }}" }]}{{- if lt (add $printed 1) $max -}},{{- end }}
                 {{- $printed = add $printed 1 -}}
               {{- end }}
             {{- end }}
