@@ -250,10 +250,10 @@ function Get-RelatedFromHugoMarkdown {
        
         if ($percent -ge ($lastPercent + 10) -or $percent -eq 100) {
             if (Get-IsDebug) {
-                Write-InformationLog "  | -- $progress $percent % complete (Building related cache for $($HugoMarkdown.ReferencePath))"
+                Write-InformationLog "  | -- $JobId $progress $percent % complete (Building related cache for $($HugoMarkdown.ReferencePath))"
             }
             else {
-                Write-Progress -Activity "Building related cache for $($HugoMarkdown.ReferencePath)" -Status "$progress $percent% complete" -PercentComplete $percent -Id $JobId
+                Write-Progress -Activity "$JobId Building related cache for $($HugoMarkdown.ReferencePath)" -Status "$progress $percent% complete" -PercentComplete $percent -Id $JobId
             }
             $lastPercent = [math]::Floor($percent / 10) * 10
         }       
@@ -334,7 +334,7 @@ function Get-RelatedFromHugoMarkdown {
 
     # Clear progress bar when not in debug mode
     if (-not (Get-IsDebug)) {
-        Write-Progress -Activity "Building related cache for $($HugoMarkdown.ReferencePath)" -Completed -Id $JobId
+        Write-Progress -Activity "$JobId Building related cache for $($HugoMarkdown.ReferencePath)" -Completed -Id $JobId
     }
     
     return $output
