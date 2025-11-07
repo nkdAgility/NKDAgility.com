@@ -107,7 +107,7 @@ function Get-RelatedFromHugoMarkdown {
         [string]$EmbeddingPath = "./.data/content-embeddings/",
         [string]$StorageAccountName = "nkdagilityblobs",
         [string]$SASToken = $Env:AZURE_BLOB_STORAGE_SAS_TOKEN,
-        [bool]$checkEachRelatedEntry = $false,
+        [bool]$checkEachRelatedEntry = $true,
         [int]$TopN = 5000,
         [int]$JobId = 1
     )
