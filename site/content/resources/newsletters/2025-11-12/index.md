@@ -33,7 +33,7 @@ ResourceType: newsletters
 
 ## Why Engineering Matters More Than Methodology
 
-When teams struggle to ship reliably or sustain quality, the instinct is to reach for a new framework or management model. But **engineering excellence isn’t a process problem, it’s a systems problem**. Poor flow, brittle architecture, and invisible feedback loops can’t be fixed by reorganising teams or renaming roles.
+When teams struggle to ship reliably or sustain quality, the instinct is to reach for a new framework or management model. But **engineering excellence isn’t a process problem, it’s a system problem**. Poor flow, brittle architecture, and invisible feedback loops can’t be fixed by reorganising teams or renaming roles.
 
 Scrum, Kanban, and DevOps all depend on a foundation of disciplined engineering. Without it, every method collapses into chaos. Engineering excellence is about building that foundation deliberately: through habits, clarity, and technical mastery.
 
@@ -90,4 +90,4 @@ Start by examining your own system of work:
 
 Then invest a single hour a week to inspect and improve those answers. Over time, that rhythm builds the conditions for real agility – one deliberate improvement at a time.
 
-[**Engineering Excellence Mentorship in 1 hour a week!**](https://nkdagility.com/capabilities/engineering-excellence-mentorship/) or go strait to [booking your first session](https://outlook.office.com/book/nakedAgilityLimited@nkdagility.com/s/9P0hVInIQ0qjY26xkrx_tg2)
+[**Engineering Excellence Mentorship in 1 hour a week!**](https://nkdagility.com/capabilities/engineering-excellence-mentorship/) or go straight to [booking your first session](https://outlook.office.com/book/nakedAgilityLimited@nkdagility.com/s/9P0hVInIQ0qjY26xkrx_tg2)
