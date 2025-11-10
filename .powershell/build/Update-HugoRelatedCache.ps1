@@ -36,8 +36,8 @@ pause
 foreach ($HugoMarkdown in $hugoMarkdownObjectsSorted) {
     $currentIndex++
     $percentComplete = [math]::Round(($currentIndex / $totalCount) * 100, 2)
-    
-    Write-Progress -Activity "Processing Hugo Markdown Objects" -Status "Processing: $($HugoMarkdown.ReferencePath)" -PercentComplete $percentComplete -CurrentOperation "$currentIndex of $totalCount"
+    $progress = "[$currentIndex|$totalCount]"
+    Write-Progress -Activity "Processing $progress Hugo Markdown Objects" -Status "Processing: $($HugoMarkdown.ReferencePath)" -PercentComplete $percentComplete -CurrentOperation "$currentIndex of $totalCount"
     Write-DebugLog "Processing $($HugoMarkdown.ReferencePath)"
     $relatedWrapper = Get-RelatedFromHugoMarkdown -HugoMarkdown $HugoMarkdown
     $filteredRelated = @()
