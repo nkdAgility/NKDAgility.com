@@ -25,6 +25,7 @@ categories:
   - Uncategorized
 tags:
   - Agile Philosophy
+  - Personal
   - Employee Engagement
   - Team Motivation
   - Agentic Agility

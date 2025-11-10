@@ -23,14 +23,13 @@ concepts:
   - Principle
 categories:
   - Scrum
-  - Product Development
 tags:
   - Software Development
   - Professional Scrum
+  - Empirical Process Control
   - Agile Frameworks
   - Pragmatic Thinking
   - Competence
-  - Empirical Process Control
   - Agile Values and Principles
 platform_signals:
   - platform: LinkedIn

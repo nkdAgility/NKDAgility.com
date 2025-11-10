@@ -36,7 +36,6 @@ tags:
   - Project Management
   - Sociotechnical Systems
   - Agile Leadership
-  - Team Collaboration
   - Social Technologies
   - Employee Engagement
 platform_signals:

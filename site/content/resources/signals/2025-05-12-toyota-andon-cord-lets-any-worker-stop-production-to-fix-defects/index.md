@@ -27,10 +27,9 @@ categories:
   - Technical Leadership
 tags:
   - Organisational Culture
-  - Sociotechnical Systems
-  - Continuous Improvement
   - Agile Philosophy
-  - Transparency
+  - Team Collaboration
+  - Social Technologies
   - Change Management
   - Lean Thinking
   - Software Development
@@ -39,6 +38,7 @@ tags:
   - Pragmatic Thinking
   - Psychological Safety
   - Lean Principles
+  - Sociotechnical Systems
   - Professional Scrum
   - Self Organisation
 platform_signals:

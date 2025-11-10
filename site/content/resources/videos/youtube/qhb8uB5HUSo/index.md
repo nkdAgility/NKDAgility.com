@@ -29,7 +29,9 @@ categories:
   - Leadership
   - Technical Leadership
 tags:
+  - Digital Transformation
   - Organisational Culture
+  - Sociotechnical Systems
   - Business Agility
   - Agile Leadership
 Watermarks:

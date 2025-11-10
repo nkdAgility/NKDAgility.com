@@ -21,7 +21,7 @@ source: LinkedIn
 layout: signal
 concepts: []
 categories:
-  - Product Development
+  - Uncategorized
 tags:
   - Agile Philosophy
   - Organisational Change
@@ -32,7 +32,6 @@ tags:
   - Change Management
   - Market Adaptability
   - Enterprise Agility
-  - Scrum Master
   - Agile Transformation
   - Business Agility
   - Sociotechnical Systems

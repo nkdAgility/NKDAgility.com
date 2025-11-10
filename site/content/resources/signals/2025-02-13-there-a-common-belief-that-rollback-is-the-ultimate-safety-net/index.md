@@ -29,12 +29,12 @@ tags:
   - Deployment Strategies
   - Pragmatic Thinking
   - Operational Practices
+  - Technical Mastery
   - Product Delivery
   - Software Development
   - Engineering Practices
   - Frequent Releases
   - Release Management
-  - Technical Mastery
   - Continuous Delivery
 platform_signals:
   - platform: LinkedIn

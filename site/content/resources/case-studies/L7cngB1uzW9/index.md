@@ -31,14 +31,14 @@ tags:
   - Pragmatic Thinking
   - Agile Strategy
   - Software Development
-  - Continuous Learning
   - Business Agility
   - Self Organisation
   - Social Technologies
   - Agile Transformation
   - Team Motivation
-  - Organisational Culture
   - Team Performance
+  - Agile Leadership
+  - Change Management
 Watermarks:
   description: 2025-06-16T11:50:58Z
   short_title: 2025-07-07T16:43:48Z

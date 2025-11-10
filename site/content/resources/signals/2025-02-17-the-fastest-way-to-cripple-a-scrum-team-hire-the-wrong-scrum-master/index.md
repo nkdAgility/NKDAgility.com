@@ -28,13 +28,13 @@ categories:
 tags:
   - Software Development
   - Scrum Master
-  - Competence
   - Organisational Agility
   - Social Technologies
   - Pragmatic Thinking
   - Market Adaptability
   - Value Delivery
   - Professional Scrum
+  - Competence
   - Operational Practices
   - Team Motivation
 platform_signals:

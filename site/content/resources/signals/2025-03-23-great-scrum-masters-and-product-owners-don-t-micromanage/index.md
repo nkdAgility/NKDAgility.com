@@ -26,15 +26,15 @@ categories:
   - Scrum
   - Technical Leadership
 tags:
-  - Self Organisation
   - Agile Leadership
   - Organisational Agility
   - Team Motivation
   - Pragmatic Thinking
   - Organisational Culture
   - Professional Scrum
-  - Social Technologies
+  - Self Organisation
   - Agile Product Management
+  - Social Technologies
   - Team Collaboration
   - Software Development
 platform_signals:

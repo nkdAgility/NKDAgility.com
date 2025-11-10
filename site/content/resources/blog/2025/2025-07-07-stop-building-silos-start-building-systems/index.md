@@ -32,12 +32,12 @@ tags:
   - Pragmatic Thinking
   - Technical Mastery
   - Operational Practices
+  - Internal Developer Platform
   - One Engineering System
   - Platform Engineering
   - Continuous Delivery
   - Social Technologies
   - Transparency
-  - Internal Developer Platform
   - Technical Excellence
   - Product Delivery
   - Software Development

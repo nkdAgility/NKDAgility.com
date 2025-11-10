@@ -34,7 +34,6 @@ tags:
   - Organisational Culture
   - Scrum Team
   - Agile Leadership
-  - Common Goals
   - Self Organisation
 platform_signals:
   - platform: LinkedIn

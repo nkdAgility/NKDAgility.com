@@ -28,10 +28,10 @@ tags:
   - Software Development
   - Pragmatic Thinking
   - Organisational Culture
+  - Team Collaboration
   - Team Motivation
   - Social Technologies
   - Agile Leadership
-  - Team Collaboration
   - Professional Scrum
   - Scrum Master
   - Organisational Agility

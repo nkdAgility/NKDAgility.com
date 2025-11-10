@@ -21,7 +21,7 @@ source: LinkedIn
 layout: signal
 concepts: []
 categories:
-  - Product Development
+  - Uncategorized
 tags:
   - Business Agility
   - Agile Philosophy

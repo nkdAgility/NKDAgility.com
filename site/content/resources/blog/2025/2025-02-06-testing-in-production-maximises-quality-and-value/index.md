@@ -35,21 +35,21 @@ categories:
   - Product Development
   - DevOps
 tags:
+  - Software Development
   - Operational Practices
   - Market Adaptability
+  - Pragmatic Thinking
   - Customer Focus
   - Azure DevOps
+  - Product Delivery
   - Technical Mastery
   - Continuous Improvement
   - Continuous Delivery
   - Release Management
-  - Software Development
   - Deployment Frequency
   - Experimentation
   - Technical Excellence
   - Organisational Agility
-  - Value Delivery
-  - Deployment Strategies
 Watermarks:
   description: 2025-05-07T12:49:38Z
   short_title: 2025-07-07T17:46:34Z

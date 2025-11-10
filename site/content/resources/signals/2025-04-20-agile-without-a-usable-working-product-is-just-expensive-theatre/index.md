@@ -23,12 +23,13 @@ concepts: []
 categories:
   - Product Development
 tags:
-  - Working Software
   - Pragmatic Thinking
+  - Working Software
   - Value Delivery
   - Increment
   - Agile Product Management
   - Operational Practices
+  - Team Performance
   - Product Delivery
   - Agile Values and Principles
   - Agile Philosophy

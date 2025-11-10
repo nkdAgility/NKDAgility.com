@@ -42,6 +42,7 @@ tags:
   - Value Delivery
   - Technical Mastery
   - Product Delivery
+  - Customer Feedback Loops
   - Pragmatic Thinking
   - Current Value
 Watermarks:

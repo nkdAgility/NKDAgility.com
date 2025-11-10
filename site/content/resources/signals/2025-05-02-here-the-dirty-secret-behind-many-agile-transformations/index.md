@@ -29,7 +29,6 @@ tags:
   - Organisational Culture
   - Pragmatic Thinking
   - Self Organisation
-  - Social Technologies
   - Agentic Agility
   - Software Development
   - Team Motivation
@@ -40,6 +39,7 @@ tags:
   - Team Collaboration
   - Agile Leadership
   - Agile Values and Principles
+  - Social Technologies
   - Organisational Psychology
 platform_signals:
   - platform: LinkedIn

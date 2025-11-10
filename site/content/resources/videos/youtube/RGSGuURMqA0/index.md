@@ -31,15 +31,14 @@ categories:
   - Leadership
 tags:
   - Market Adaptability
+  - Pragmatic Thinking
   - Organisational Agility
-  - Team Performance
   - Product Delivery
   - Software Development
   - Team Collaboration
   - Organisational Change
   - Continuous Improvement
   - Operational Practices
-  - Pragmatic Thinking
   - Social Technologies
   - Change Management
 Watermarks:

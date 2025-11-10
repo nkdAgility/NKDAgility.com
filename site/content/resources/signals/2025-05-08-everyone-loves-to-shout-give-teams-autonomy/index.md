@@ -24,7 +24,7 @@ concepts:
 categories:
   - Scrum
   - Product Management
-  - Leadership
+  - Product Development
 tags:
   - Agile Product Management
   - Common Goals

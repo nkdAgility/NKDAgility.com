@@ -24,7 +24,6 @@ concepts:
 categories:
   - Engineering Excellence
   - DevOps
-  - Product Development
 tags:
   - Pragmatic Thinking
   - Operational Practices

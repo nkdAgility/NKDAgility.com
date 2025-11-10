@@ -35,13 +35,13 @@ tags:
   - Pragmatic Thinking
   - Engineering Practices
   - Technical Excellence
-  - Agile Transformation
   - Sociotechnical Systems
-  - Frequent Releases
   - Organisational Agility
   - Team Performance
   - Working Software
   - Agile Strategy
+  - Agile Frameworks
+  - Continuous Delivery
 Watermarks:
   description: 2025-05-30T15:27:52Z
   short_title: 2025-07-07T16:43:10Z

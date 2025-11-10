@@ -23,6 +23,7 @@ concepts:
   - Strategy
 categories:
   - Leadership
+  - Product Development
 tags:
   - Agile Philosophy
   - Agile Strategy

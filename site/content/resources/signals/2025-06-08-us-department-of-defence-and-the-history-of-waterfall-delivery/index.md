@@ -28,7 +28,6 @@ tags:
   - Software Development
   - Enterprise Agility
   - Organisational Change
-  - Business Agility
   - Agile Strategy
   - Agile Transformation
   - Product Delivery

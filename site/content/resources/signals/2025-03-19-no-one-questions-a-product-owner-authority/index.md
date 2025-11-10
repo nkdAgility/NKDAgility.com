@@ -31,7 +31,6 @@ tags:
   - Organisational Culture
   - Agile Frameworks
   - Agile Leadership
-  - Team Performance
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7308162966737018882

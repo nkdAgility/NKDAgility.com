@@ -28,7 +28,6 @@ tags:
   - Azure DevOps
   - Operational Practices
   - Pragmatic Thinking
-  - Team Performance
   - Software Development
   - Transparency
   - Azure Boards

@@ -30,10 +30,10 @@ categories:
   - DevOps
   - Product Development
 tags:
+  - Software Development
   - Technical Excellence
   - Value Delivery
   - Engineering Practices
-  - Software Development
   - Continuous Improvement
   - Product Delivery
   - Pragmatic Thinking
@@ -43,7 +43,6 @@ tags:
   - Operational Practices
   - Organisational Agility
   - Empirical Process Control
-  - Team Performance
   - Continuous Delivery
 Watermarks:
   description: 2025-07-24T15:11:44Z

@@ -34,13 +34,13 @@ categories:
   - Product Development
 tags:
   - Pragmatic Thinking
+  - Market Adaptability
   - Software Development
   - Operational Practices
-  - Engineering Practices
   - Technical Mastery
   - Product Delivery
+  - Engineering Practices
   - Digital Transformation
-  - Market Adaptability
 Watermarks:
   description: 2025-05-07T20:13:52Z
   short_title: 2025-07-07T16:43:47Z

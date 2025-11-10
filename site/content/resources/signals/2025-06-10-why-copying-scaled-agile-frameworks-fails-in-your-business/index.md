@@ -31,14 +31,14 @@ tags:
   - Agile Transformation
   - Professional Scrum
   - Agile Strategy
-  - Business Agility
+  - Empirical Process Control
   - Organisational Culture
+  - Business Agility
   - Social Technologies
   - Agile Philosophy
   - Software Development
   - Evidence Based Leadership
   - Value Delivery
-  - Continuous Learning
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7338226091821608960

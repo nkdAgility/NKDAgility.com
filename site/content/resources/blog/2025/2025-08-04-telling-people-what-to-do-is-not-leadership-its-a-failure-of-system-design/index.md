@@ -35,8 +35,10 @@ categories:
   - Engineering Excellence
   - Product Development
 tags:
+  - Decision Making
   - Agentic Engineering
   - Lean Principles
+  - Agile Transformation
   - Operational Practices
   - Self Organisation
   - Software Development
@@ -45,11 +47,9 @@ tags:
   - Agile Product Management
   - Empirical Process Control
   - Organisational Agility
-  - Pragmatic Thinking
   - Product Delivery
   - Agile Leadership
   - Agile Strategy
-  - Agile Transformation
 Watermarks:
   description: 2025-05-19T07:28:14Z
   short_title: 2025-07-07T16:43:11Z

@@ -35,7 +35,6 @@ tags:
   - Change Management
   - Agile Strategy
   - Miscellaneous
-  - Social Technologies
   - Agile Product Management
   - Agnostic Agile
   - Organisational Change

@@ -26,8 +26,8 @@ tags:
   - Install and Configuration
   - Pragmatic Thinking
   - Technical Mastery
-  - System Configuration
   - Engineering Practices
+  - System Configuration
   - Operational Practices
   - Troubleshooting
   - Application Lifecycle Management

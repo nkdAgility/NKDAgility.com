@@ -28,12 +28,12 @@ tags:
   - Project Management
   - Software Development
   - Operational Practices
-  - Pragmatic Thinking
   - Value Delivery
   - Product Delivery
   - Agile Planning Tools
   - Application Lifecycle Management
   - Scaling
+  - Pragmatic Thinking
   - Large Scale Agility
   - Agile Planning
   - Agile Strategy

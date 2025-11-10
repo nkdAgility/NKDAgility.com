@@ -27,21 +27,21 @@ categories:
   - Technical Leadership
   - Leadership
 tags:
+  - Pragmatic Thinking
+  - Organisational Agility
   - Agentic Agility
   - Agile Strategy
+  - Change Management
   - Organisational Change
+  - Agile Transformation
   - Social Technologies
   - Agile Philosophy
-  - Organisational Agility
+  - Evidence Based Management
   - Team Motivation
-  - Change Management
-  - Agile Transformation
   - Business Agility
   - Organisational Culture
   - Strategic Goals
   - Agentic Engineering
-  - Enterprise Agility
-  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:49:04Z
   short_title: 2025-07-07T16:43:46Z

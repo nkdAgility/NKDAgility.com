@@ -32,11 +32,11 @@ tags:
   - Software Development
   - Pragmatic Thinking
   - Continuous Learning
+  - Team Collaboration
   - Market Adaptability
   - Change Management
   - Continuous Improvement
   - Agile Values and Principles
-  - Social Technologies
   - Agile Leadership
   - Agile Product Management
   - Value Delivery

@@ -5,7 +5,7 @@ description: Measuring individual cycle time in Kanban misleads teams, hides rea
 tldr: Measuring individual cycle time in Kanban misleads teams by focusing on personal speed instead of system flow, which ignores real bottlenecks and encourages counterproductive behaviors. To improve delivery, track system-wide metrics like lead time, work in progress, process cycle efficiency, and blockers, then address constraints at the process level. Development managers should shift measurement and improvement efforts from individuals to the overall workflow to achieve better outcomes.
 date: 2025-03-03T09:00:00
 lastmod: 2025-03-03T09:00:00
-weight: 245
+weight: 195
 sitemap:
   filename: sitemap.xml
   priority: 0.7
@@ -35,22 +35,22 @@ concepts:
 categories:
   - Kanban
   - Product Development
-  - Lean
+  - Engineering Excellence
 tags:
   - Flow Efficiency
   - Operational Practices
   - Software Development
   - Lean Principles
+  - Metrics and Learning
   - Value Delivery
   - Pragmatic Thinking
+  - Organisational Physics
   - Systems Thinking
   - Product Delivery
+  - Value Stream Management
   - Project Management
-  - Metrics and Learning
   - Cycle Time
   - Lean Thinking
-  - Organisational Physics
-  - Value Stream Management
   - Continuous Improvement
 platform_signals:
   - platform: Scrumorg

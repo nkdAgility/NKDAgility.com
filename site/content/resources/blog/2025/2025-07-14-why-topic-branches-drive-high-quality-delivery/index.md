@@ -24,8 +24,9 @@ categories:
   - Technical Leadership
   - Product Development
 tags:
-  - Software Development
   - Modern Source Control
+  - Software Development
+  - Technical Mastery
   - Operational Practices
   - Engineering Practices
   - Product Delivery
@@ -35,7 +36,6 @@ tags:
   - Team Collaboration
   - Team Performance
   - Flow Efficiency
-  - Frequent Releases
   - GitHub
   - Market Adaptability
   - Technical Excellence

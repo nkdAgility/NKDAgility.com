@@ -28,7 +28,6 @@ categories:
   - DevOps
 tags:
   - Software Development
-  - Operational Practices
   - Pragmatic Thinking
   - Sociotechnical Systems
   - Technical Mastery
@@ -36,6 +35,7 @@ tags:
   - Team Performance
   - Modern Source Control
   - Self Organisation
+  - Operational Practices
   - Large Scale Agility
   - Release Management
   - Technical Excellence

@@ -32,12 +32,12 @@ tags:
   - Self Organisation
   - Professional Scrum
   - Pragmatic Thinking
-  - Team Collaboration
   - Agile Product Management
   - Agile Philosophy
   - Organisational Agility
   - Product Delivery
   - Agile Frameworks
+  - Agentic Agility
   - Team Motivation
   - Sociotechnical Systems
 platform_signals:

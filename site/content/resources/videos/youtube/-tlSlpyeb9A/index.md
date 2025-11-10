@@ -39,16 +39,16 @@ tags:
   - Pragmatic Thinking
   - Product Delivery
   - Operational Practices
-  - Engineering Practices
   - Value Delivery
   - Technical Mastery
   - Continuous Improvement
   - Team Performance
   - Competence
   - Continuous Learning
-  - Market Adaptability
   - Professional Scrum
   - Social Technologies
+  - Technical Excellence
+  - Engineering Practices
 Watermarks:
   description: 2025-05-07T19:27:32Z
   short_title: 2025-07-07T16:43:21Z

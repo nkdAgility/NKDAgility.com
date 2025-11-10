@@ -31,6 +31,7 @@ tags:
   - Scrum Master
   - Self Organisation
   - Software Development
+  - Agentic Agility
   - Team Performance
   - Team Collaboration
   - Agile Frameworks

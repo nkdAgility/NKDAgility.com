@@ -36,6 +36,7 @@ tags:
   - Market Adaptability
   - Pragmatic Thinking
   - Team Performance
+  - Shift Left Strategy
   - Value Delivery
 platform_signals:
   - platform: LinkedIn

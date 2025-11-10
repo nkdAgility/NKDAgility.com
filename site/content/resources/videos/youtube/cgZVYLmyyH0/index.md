@@ -34,12 +34,12 @@ categories:
   - DevOps
   - Product Development
 tags:
-  - Software Development
   - Shift Left Strategy
+  - Software Development
+  - Engineering Practices
   - Operational Practices
   - Product Delivery
   - Technical Mastery
-  - Engineering Practices
   - Value Delivery
   - Pragmatic Thinking
   - Market Adaptability

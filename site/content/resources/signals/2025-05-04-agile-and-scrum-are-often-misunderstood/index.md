@@ -28,8 +28,9 @@ tags:
   - Pragmatic Thinking
   - Software Development
   - Organisational Agility
-  - Social Technologies
   - Agile Philosophy
+  - Social Technologies
+  - Agile Frameworks
   - Professional Scrum
 platform_signals:
   - platform: LinkedIn

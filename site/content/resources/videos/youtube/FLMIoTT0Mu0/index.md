@@ -37,8 +37,8 @@ tags:
   - Engineering Practices
   - Operational Practices
   - Product Delivery
-  - Technical Mastery
   - Continuous Delivery
+  - Technical Mastery
   - Test Automation
   - Pragmatic Thinking
   - Continuous Integration

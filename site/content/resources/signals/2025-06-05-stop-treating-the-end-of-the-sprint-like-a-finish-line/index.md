@@ -26,14 +26,13 @@ categories:
   - Product Development
 tags:
   - Social Technologies
-  - Empirical Process Control
   - Agile Frameworks
   - Professional Scrum
   - Software Development
+  - Empirical Process Control
   - Agile Philosophy
   - Pragmatic Thinking
   - Agile Planning
-  - Continuous Learning
   - Organisational Agility
 platform_signals:
   - platform: LinkedIn

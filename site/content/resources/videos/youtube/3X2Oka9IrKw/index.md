@@ -35,6 +35,8 @@ categories:
   - Product Development
 tags:
   - Social Technologies
+  - Enterprise Agility
+  - Organisational Change
   - Agile Strategy
 Watermarks:
   description: 2025-05-07T12:49:22Z

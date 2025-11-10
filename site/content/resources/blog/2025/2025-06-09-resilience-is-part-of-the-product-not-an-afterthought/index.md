@@ -28,8 +28,8 @@ categories:
 tags:
   - Technical Mastery
   - Pragmatic Thinking
-  - Site Reliability Engineering
   - Technical Excellence
+  - Site Reliability Engineering
   - Operational Practices
   - Software Development
   - Engineering Practices

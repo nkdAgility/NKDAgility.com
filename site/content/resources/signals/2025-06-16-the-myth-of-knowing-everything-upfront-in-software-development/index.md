@@ -22,17 +22,17 @@ layout: signal
 concepts:
   - Tenet
 categories:
-  - Scrum
   - Product Development
+  - Scrum
 tags:
   - Software Development
+  - Continuous Improvement
   - Pragmatic Thinking
   - Professional Scrum
   - Agile Product Management
   - Value Delivery
   - Agile Values and Principles
   - Social Technologies
-  - Continuous Improvement
   - Empirical Process Control
   - Continuous Learning
 platform_signals:

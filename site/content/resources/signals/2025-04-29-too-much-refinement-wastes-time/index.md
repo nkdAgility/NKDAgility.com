@@ -20,7 +20,7 @@ aliases:
 source: LinkedIn
 layout: signal
 concepts:
-  - Method
+  - Practice
 categories:
   - Scrum
   - Product Development

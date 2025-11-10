@@ -25,6 +25,7 @@ concepts:
 categories:
   - Uncategorized
 tags:
+  - Sociotechnical Systems
   - Organisational Agility
 Watermarks:
   description: 2025-05-07T12:49:06Z

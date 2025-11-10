@@ -27,6 +27,7 @@ categories:
   - Product Development
 tags:
   - Agentic Agility
+  - Self Organisation
   - Organisational Agility
   - Team Motivation
   - Agile Philosophy
@@ -39,8 +40,7 @@ tags:
   - Value Delivery
   - Product Delivery
   - Agentic Engineering
-  - Agile Strategy
-  - Self Organisation
+  - Sociotechnical Systems
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7327354418876628992

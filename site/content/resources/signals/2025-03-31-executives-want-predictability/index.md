@@ -26,6 +26,7 @@ categories:
   - Product Development
   - Engineering Excellence
 tags:
+  - Technical Mastery
   - Definition of Done
   - Operational Practices
   - Increment
@@ -33,8 +34,6 @@ tags:
   - Product Delivery
   - Engineering Practices
   - Software Development
-  - Technical Mastery
-  - Team Performance
   - Professional Scrum
   - Pragmatic Thinking
   - Value Delivery

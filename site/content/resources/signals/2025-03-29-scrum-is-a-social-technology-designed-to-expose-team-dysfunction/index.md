@@ -26,15 +26,15 @@ categories:
   - Product Development
   - Technical Leadership
 tags:
+  - Agile Frameworks
   - Social Technologies
   - Professional Scrum
   - Value Delivery
-  - Agile Frameworks
   - Software Development
-  - Team Performance
+  - Scrum Master
   - Empirical Process Control
   - Organisational Agility
-  - Scrum Master
+  - Team Performance
   - Scrum Team
 platform_signals:
   - platform: LinkedIn

@@ -24,11 +24,10 @@ categories:
   - Technical Leadership
   - Engineering Excellence
 tags:
+  - Personal
   - Operational Practices
-  - Sociotechnical Systems
   - Software Development
   - Team Performance
-  - Continuous Improvement
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7306350908538277888

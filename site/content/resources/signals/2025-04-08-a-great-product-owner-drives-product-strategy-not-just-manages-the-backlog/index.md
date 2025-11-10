@@ -27,8 +27,8 @@ categories:
   - Leadership
 tags:
   - Product Owner
-  - Product Strategy
   - Agile Product Management
+  - Product Strategy
   - Pragmatic Thinking
   - Agile Strategy
   - Professional Scrum

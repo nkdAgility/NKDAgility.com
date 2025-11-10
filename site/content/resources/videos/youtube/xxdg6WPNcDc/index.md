@@ -49,6 +49,7 @@ tags:
   - Organisational Agility
   - Working Software
   - Increment
+  - Team Collaboration
 Watermarks:
   description: 2025-05-07T20:36:57Z
   short_title: 2025-07-07T16:44:05Z

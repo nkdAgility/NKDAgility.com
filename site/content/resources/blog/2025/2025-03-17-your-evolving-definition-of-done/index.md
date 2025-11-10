@@ -26,20 +26,20 @@ concepts:
 categories:
   - Product Development
   - Engineering Excellence
-  - Product Management
+  - Scrum
 tags:
+  - Software Development
   - Definition of Done
   - Value Delivery
+  - Professional Scrum
   - Operational Practices
   - Agile Frameworks
   - Product Delivery
-  - Software Development
+  - Team Performance
   - Continuous Improvement
   - Technical Mastery
   - Market Adaptability
   - Engineering Practices
-  - Agile Product Management
-  - Professional Scrum
   - Shift Left Strategy
   - Common Goals
   - Technical Excellence

@@ -34,10 +34,10 @@ tags:
   - Agile Product Management
   - Engineering Practices
   - Operational Practices
-  - Competence
   - Professional Scrum
   - Value Delivery
   - Working Software
+  - Social Technologies
   - Increment
 Watermarks:
   description: 2025-05-07T12:48:53Z

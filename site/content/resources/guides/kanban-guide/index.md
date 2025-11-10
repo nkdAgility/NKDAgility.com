@@ -5,10 +5,10 @@ description: Comprehensive reference outlining Kanban principles, practices, and
 tldr: This guide defines Kanban as a flexible strategy to optimize value flow by visualizing, managing, and improving workflows, supported by tracking key flow metrics like WIP, throughput, work item age, and cycle time. It emphasizes creating a clear workflow definition, actively managing work in progress, and continuously improving processes to balance effectiveness, efficiency, and predictability. Development managers should ensure teams establish explicit workflow policies, regularly review flow metrics, and adapt practices as needed to maximize value delivery.
 date: 2025-05-01
 lastmod: 2025-05-01
-weight: 840
+weight: 535
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: weekly
 author:
   - John Coleman

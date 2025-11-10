@@ -30,20 +30,20 @@ categories:
   - DevOps
 tags:
   - Azure DevOps
-  - Operational Practices
+  - Pragmatic Thinking
   - Software Development
   - Technical Mastery
+  - Operational Practices
   - Frequent Releases
   - Engineering Practices
   - Product Delivery
-  - Azure Pipelines
   - Continuous Delivery
   - Release Management
   - Value Delivery
-  - Technical Excellence
   - Deployment Strategies
   - Deployment Frequency
-  - Pragmatic Thinking
+  - Technical Excellence
+  - Continuous Integration
 Watermarks:
   description: 2025-07-24T15:10:12Z
   short_title: 2025-07-24T15:10:13Z

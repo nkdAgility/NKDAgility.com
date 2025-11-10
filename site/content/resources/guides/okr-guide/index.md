@@ -23,19 +23,19 @@ concepts:
   - Method
 categories:
   - Product Development
-  - Product Management
   - Leadership
+  - Product Management
 tags:
   - Objective Key Results
   - Strategic Goals
   - Common Goals
+  - Agile Strategy
   - Sociotechnical Systems
   - Metrics and Learning
   - Team Collaboration
   - Operational Practices
   - Organisational Agility
   - Social Technologies
-  - Agile Strategy
   - Pragmatic Thinking
   - Organisational Change
   - Value Delivery

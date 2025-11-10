@@ -30,7 +30,6 @@ tags:
   - Backlog Refinement
   - Software Development
   - Operational Practices
-  - Team Performance
   - Agile Planning
   - Pragmatic Thinking
   - Agile Product Management

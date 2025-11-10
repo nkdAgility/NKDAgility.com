@@ -42,15 +42,15 @@ tags:
   - Pragmatic Thinking
   - Decision Making
   - Evidence Based Management
+  - Continuous Improvement
   - Operational Practices
   - Value Delivery
-  - Continuous Improvement
   - Empirical Process Control
   - Software Development
   - Agile Philosophy
   - Team Performance
-  - Customer Focus
-  - Organisational Agility
+  - Product Delivery
+  - Professional Scrum
 Watermarks:
   description: 2025-08-01T15:51:24Z
   tldr: 2025-08-01T15:51:28Z

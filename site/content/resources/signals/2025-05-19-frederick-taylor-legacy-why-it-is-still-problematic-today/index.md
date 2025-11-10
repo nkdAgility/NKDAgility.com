@@ -5,7 +5,7 @@ description: Examines how Frederick Taylor’s management ideas still shape work
 tldr: Many organizations still follow Frederick Taylor’s outdated approach of breaking work into repetitive tasks, leading to meaningless titles, ineffective bonuses, and siloed knowledge. With AI and automation revealing how much work is based on repetition, leaders must choose between maintaining the status quo or shifting to a culture focused on mastery, autonomy, and real outcomes. Development managers should reconsider current structures and incentives to ensure their teams are prepared for a future where genuine skills and collaboration matter most.
 date: 2025-05-19T15:30:58+01:00
 lastmod: 2025-05-19T15:30:58+01:00
-weight: 765
+weight: 795
 sitemap:
   filename: sitemap.xml
   priority: 0.1

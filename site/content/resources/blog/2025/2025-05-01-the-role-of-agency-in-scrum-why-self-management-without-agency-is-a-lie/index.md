@@ -31,17 +31,17 @@ tags:
   - Social Technologies
   - Professional Scrum
   - Agile Philosophy
+  - Pragmatic Thinking
   - Agentic Agility
   - Agile Frameworks
-  - Agile Transformation
   - Self Organisation
   - Scrum Team
   - Scrum Master
   - Team Motivation
+  - Organisational Agility
   - Agile Product Management
   - Team Performance
   - Software Development
-  - Pragmatic Thinking
   - Agile Values and Principles
 Watermarks:
   description: 2025-05-07T12:49:11Z

@@ -29,11 +29,12 @@ tags:
   - Scrum Master
   - Software Development
   - Value Delivery
-  - Team Performance
   - Product Delivery
+  - Team Performance
   - Professional Scrum
   - Operational Practices
   - Pragmatic Thinking
+  - Agile Frameworks
   - Organisational Agility
 platform_signals:
   - platform: LinkedIn

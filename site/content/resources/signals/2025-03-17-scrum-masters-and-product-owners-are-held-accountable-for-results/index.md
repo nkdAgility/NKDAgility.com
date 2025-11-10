@@ -26,13 +26,13 @@ categories:
   - Leadership
   - Technical Leadership
 tags:
-  - Scrum Master
   - Software Development
   - Market Adaptability
   - Agile Frameworks
   - Professional Scrum
   - Pragmatic Thinking
   - Agile Leadership
+  - Scrum Master
   - Social Technologies
   - Product Delivery
 platform_signals:

@@ -23,7 +23,7 @@ concepts:
   - Principle
 categories:
   - Scrum
-  - Leadership
+  - Product Development
 tags:
   - Organisational Agility
   - Social Technologies

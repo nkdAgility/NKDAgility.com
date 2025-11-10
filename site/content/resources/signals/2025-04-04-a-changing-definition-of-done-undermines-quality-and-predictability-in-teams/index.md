@@ -31,7 +31,6 @@ tags:
   - Professional Scrum
   - Operational Practices
   - Software Development
-  - Continuous Improvement
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7313945955295244288

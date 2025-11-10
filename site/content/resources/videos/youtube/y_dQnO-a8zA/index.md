@@ -24,7 +24,7 @@ aliasesArchive:
 source: youtube
 layout: video
 concepts:
-  - Capability
+  - Ethos
 categories:
   - Technical Leadership
   - Leadership
@@ -33,6 +33,7 @@ tags:
   - Organisational Culture
   - Organisational Agility
   - Continuous Improvement
+  - Agile Philosophy
   - Social Technologies
   - Continuous Learning
   - Business Agility
@@ -41,7 +42,6 @@ tags:
   - Pragmatic Thinking
   - Organisational Change
   - Agile Leadership
-  - Agile Philosophy
   - Market Adaptability
   - Evidence Based Leadership
   - Team Collaboration

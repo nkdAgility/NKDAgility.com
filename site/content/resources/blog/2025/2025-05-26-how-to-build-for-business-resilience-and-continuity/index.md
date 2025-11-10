@@ -27,17 +27,20 @@ categories:
   - Engineering Excellence
   - Product Development
 tags:
+  - Operational Practices
   - Product Delivery
   - Site Reliability Engineering
   - Engineering Practices
   - Market Adaptability
-  - Operational Practices
   - Pragmatic Thinking
   - Evidence Based Management
+  - Metrics and Learning
+  - Evidence Based Leadership
   - Social Technologies
   - Technical Excellence
   - Software Development
   - Technical Mastery
+  - Digital Transformation
   - Continuous Delivery
 Watermarks:
   description: 2025-05-07T12:49:05Z
