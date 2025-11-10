@@ -80,7 +80,6 @@ function Update-ClassificationsForHugoMarkdownList {
 
                     foreach ($result in $batchResults) {
 
-                   
 
 
 
@@ -102,64 +101,118 @@ function Update-ClassificationsForHugoMarkdownList {
                             continue
                         }
                         $newEntry = $null
-                        $calculatedAt = (Convert-UnixTimestamp $rawAiBatchResult.response.body.created).ToUniversalTime().ToString("s")
-                        $newEntry = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -CalculatedDate $calculatedAt
-                        if ($newEntry -eq $null) {
-                            $countOfBatchResultsThatAreBad++
-                            $countOfResultsThatAreBad++
-                            Write-WarningLog "|- AI response is null for resourceId $($rawAiBatchResult.resourceId). Skipping."
-                            $newEntry = $null
-                            continue
-                        }
-                        if ($newEntry.resourceId -eq $null) {
-                            $countOfBatchResultsThatAreBad++
-                            $countOfResultsThatAreBad++
-                            Write-WarningLog "|- resourceId mismatch for $($rawAiBatchResult.resourceId). Skipping."
-                            $newEntry = $null
-                            continue
-                        }
-                        if ($newEntry.resourceId -eq $null -or $newEntry.resourceId -eq '') {
-                            $countOfBatchResultsThatAreBad++
-                            $countOfResultsThatAreBad++
-                            # The resourceId is null or empty
-                            Write-WarningLog "|- Resource ID is Empty. Skipping."
-                            $newEntry = $null
-                            continue
-                        }
-                        $hugoMarkdown = Find-ApproximateLookup -InputString $newEntry.resourceId -LookupTable $HugoLookup  
-                        if ($hugoMarkdown -eq $null) {
-                            $countOfResultsThatAreBad++
-                            $countOfBatchResultsThatAreBad++
-                            $brokenBatchItems += $newEntry.resourceId
-                            Write-WarningLog "|- HugoMarkdown not found for resourceId $($newEntry.resourceId). Skipping."
-                            continue
-                        }
-                        $newEntry.resourceId = $hugoMarkdown.FrontMatter.ItemId ? $hugoMarkdown.FrontMatter.ItemId : $hugoMarkdown.FrontMatter.Title
-
-                        # Get items from the cache
-                        $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
-                        if ($cachedData.ContainsKey($newEntry.category)) {
-                            $cutoff = (Get-Date).Date.AddDays(-1)
-                            $oldEntry = $cachedData.($newEntry.category)
-                            if ($oldEntry.ai_confidence -eq $newEntry.ai_confidence) {
-                                $cachedData[$newEntry.category] = $newEntry
+                       
+                        try {
+                            # Validate the raw batch result structure
+                            if ($null -eq $rawAiBatchResult -or 
+                                $null -eq $rawAiBatchResult.response -or 
+                                $null -eq $rawAiBatchResult.response.body -or 
+                                $null -eq $rawAiBatchResult.response.body.created) {
+                                $countOfBatchResultsThatAreBad++
+                                $countOfResultsThatAreBad++
+                                Write-WarningLog "|- Invalid batch result structure. Skipping."
+                                continue
                             }
-                            else {
-                                if ([System.DateTimeOffset]$oldEntry.calculated_at -lt [System.DateTimeOffset]$newEntry.calculated_at) {
+
+                            $calculatedAt = (Convert-UnixTimestamp $rawAiBatchResult.response.body.created).ToUniversalTime().ToString("s")
+                            $newEntry = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -CalculatedDate $calculatedAt
+                            
+                            if ($null -eq $newEntry) {
+                                $countOfBatchResultsThatAreBad++
+                                $countOfResultsThatAreBad++
+                                Write-WarningLog "|- AI response is null for resourceId $($rawAiBatchResult.resourceId). Skipping."
+                                continue
+                            }
+                            
+                            if ([string]::IsNullOrEmpty($newEntry.resourceId)) {
+                                $countOfBatchResultsThatAreBad++
+                                $countOfResultsThatAreBad++
+                                Write-WarningLog "|- Resource ID is null or empty. Skipping."
+                                continue
+                            }
+                            
+                            $hugoMarkdown = Find-ApproximateLookup -InputString $newEntry.resourceId -LookupTable $HugoLookup  
+                            if ($null -eq $hugoMarkdown) {
+                                $countOfResultsThatAreBad++
+                                $countOfBatchResultsThatAreBad++
+                                $brokenBatchItems += $newEntry.resourceId
+                                Write-WarningLog "|- HugoMarkdown not found for resourceId $($newEntry.resourceId). Skipping."
+                                continue
+                            }
+                            
+                            # Safely access FrontMatter properties
+                            if ($null -eq $hugoMarkdown.FrontMatter) {
+                                $countOfBatchResultsThatAreBad++
+                                $countOfResultsThatAreBad++
+                                Write-WarningLog "|- FrontMatter is null for resourceId $($newEntry.resourceId). Skipping."
+                                continue
+                            }
+                            
+                            $newEntry.resourceId = $hugoMarkdown.FrontMatter.ItemId ? $hugoMarkdown.FrontMatter.ItemId : $hugoMarkdown.FrontMatter.Title
+
+                            # Get items from the cache
+                            $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
+                            
+                            # Validate category before using it
+                            if ([string]::IsNullOrEmpty($newEntry.category)) {
+                                $countOfBatchResultsThatAreBad++
+                                $countOfResultsThatAreBad++
+                                Write-WarningLog "|- Category is null or empty for resourceId $($newEntry.resourceId). Skipping."
+                                continue
+                            }
+                            
+                            if ($cachedData.ContainsKey($newEntry.category)) {
+                                $oldEntry = $cachedData.($newEntry.category)
+                                if ($null -ne $oldEntry) {
+                                    if ($oldEntry.ai_confidence -eq $newEntry.ai_confidence) {
+                                        $cachedData[$newEntry.category] = $newEntry
+                                    }
+                                    else {
+                                        # Safely parse DateTimeOffset
+                                        $oldCalculatedAt = $null
+                                        $newCalculatedAt = $null
+                                        
+                                        if (-not [string]::IsNullOrEmpty($oldEntry.calculated_at) -and 
+                                            [System.DateTimeOffset]::TryParse($oldEntry.calculated_at, [ref]$oldCalculatedAt)) {
+                                            if ([System.DateTimeOffset]::TryParse($newEntry.calculated_at, [ref]$newCalculatedAt)) {
+                                                if ($oldCalculatedAt -lt $newCalculatedAt) {
+                                                    $cachedData[$newEntry.category] = $newEntry
+                                                }
+                                            }
+                                        }
+                                        else {
+                                            # If we can't parse dates, prefer the new entry
+                                            $cachedData[$newEntry.category] = $newEntry
+                                        }
+                                    }
+                                }
+                                else {
                                     $cachedData[$newEntry.category] = $newEntry
                                 }
-                            } 
+                            }
+                            else {
+                                $cachedData.Add($newEntry.category, $newEntry)
+                            }
+                            
+                            Set-ClassificationsFromCache -hugoMarkdown $hugoMarkdown -cachedData $cachedData
+                            Write-DebugLog "|- Updated {category} for {resourceId} with {confidence}" -PropertyValues $newEntry.category, $newEntry.resourceId, $newEntry.ai_confidence
+                            
+                            $percentComplete = [math]::Floor(($currentIndex / $total) * 100)
+                            if ($percentComplete -ge $lastReportedPercent + 10) {
+                                Write-InformationLog "|- ⏳ Batch Progress: {percentComplete}% complete with {countOfBatchResults} results, {countOfBatchResultsThatAreBad} of which were bad" -PropertyValues $percentComplete, $countOfBatchResults, $countOfBatchResultsThatAreBad
+                                $lastReportedPercent = $percentComplete - ($percentComplete % 10)
+                            }
+
                         }
-                        else {
-                            $cachedData.Add($newEntry.category, $newEntry )
+                        catch {
+                            $countOfBatchResultsThatAreBad++
+                            $countOfResultsThatAreBad++
+                            Write-ErrorLog "|- Error processing batch result: $($_.Exception.Message)"
+                            Write-ErrorLog "|- Stack trace: $($_.ScriptStackTrace)"
+                            continue
                         }
-                        Set-ClassificationsFromCache -hugoMarkdown $hugoMarkdown -cachedData $cachedData
-                        Write-DebugLog "|- Updated {category} for {resourceId} with {confidence}" -PropertyValues $newEntry.category, $newEntry.resourceId, $newEntry.ai_confidence
-                        $percentComplete = [math]::Floor(($currentIndex / $total) * 100)
-                        if ($percentComplete -ge $lastReportedPercent + 10) {
-                            Write-InformationLog "|- ⏳ Batch Progress: {percentComplete}% complete with {countOfBatchResults} results, {countOfBatchResultsThatAreBad} of which were bad" -PropertyValues $percentComplete, $countOfBatchResults, $countOfBatchResultsThatAreBad
-                            $lastReportedPercent = $percentComplete - ($percentComplete % 10)
-                        }
+
+
                     }
                     Write-InformationLog "Outcome: Complete with {countOfBatchResults} results, {countOfBatchResultsThatAreBad} of which were bad" -PropertyValues $countOfBatchResults, $countOfResultsThatAreBad
                     # Cleanup batch file after processing
@@ -726,6 +779,19 @@ function Set-ClassificationsFromCache {
     )
 
     $cacheFile = Join-Path $hugoMarkdown.DataPath "classifications.json"
+
+    # Convert relative path to absolute path based on current location
+    if (-not [System.IO.Path]::IsPathRooted($cacheFile)) {
+        $cacheFile = Join-Path (Get-Location) $cacheFile
+        $cacheFile = [System.IO.Path]::GetFullPath($cacheFile)
+    }
+    # Ensure the directory exists
+    $cacheDirectory = Split-Path -Path $cacheFile -Parent
+    if (-not (Test-Path -Path $cacheDirectory)) {
+        Write-DebugLog "Creating cache directory: $cacheDirectory"
+        New-Item -Path $cacheDirectory -ItemType Directory -Force | Out-Null
+    }
+
     $jsonData = $cachedData | ConvertTo-Json -Depth 10
 
     $maxRetries = 5
@@ -748,8 +814,14 @@ function Set-ClassificationsFromCache {
             break  # Successfully written, exit loop
         }
         catch {
-            Write-Warning "Attempt $attempt : File locked, retrying in $retryIntervalSeconds seconds..."
-            Start-Sleep -Seconds $retryIntervalSeconds
+            Write-Warning "Attempt $attempt : File locked, retrying in $($retryIntervalSeconds * $attempt) seconds..."
+            Write-Warning "-------------------"
+            Write-Warning "Error: $_"
+            Write-Warning "Hugo Markdown: $($hugoMarkdown.FrontMatter.ItemId)            "
+            Write-Warning "Cache File: $cacheFile"
+            Write-Warning "Data Path: $($hugoMarkdown.DataPath)"
+            Write-Warning "-------------------"
+            Start-Sleep -Seconds ($retryIntervalSeconds * $attempt)
 
             if ($attempt -eq $maxRetries) {
                 throw "Unable to access $cacheFile after $maxRetries attempts."
