@@ -90,4 +90,4 @@ Start by examining your own system of work:
 
 Then invest a single hour a week to inspect and improve those answers. Over time, that rhythm builds the conditions for real agility – one deliberate improvement at a time.
 
-[**Engineering Excellence Mentorship in 1 hour a week!**](https://nkdagility.com/capabilities/engineering-excellence-mentorship/) or go strait to [booking your first session](https://nkdagility.com/company/book-online)
+[**Engineering Excellence Mentorship in 1 hour a week!**](https://nkdagility.com/capabilities/engineering-excellence-mentorship/) or go strait to [booking your first session](https://outlook.office.com/book/nakedAgilityLimited@nkdagility.com/s/9P0hVInIQ0qjY26xkrx_tg2)
