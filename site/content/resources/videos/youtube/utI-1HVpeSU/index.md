@@ -33,6 +33,7 @@ tags:
   - Team Motivation
   - Organisational Psychology
   - Organisational Culture
+  - Agile Strategy
 Watermarks:
   description: 2025-05-07T13:08:44Z
   short_title: 2025-07-07T17:52:24Z

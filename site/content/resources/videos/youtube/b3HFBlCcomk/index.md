@@ -5,10 +5,10 @@ description: Explains why Agile is not about speed but about prioritising valuab
 tldr: Agile is not about working faster but about focusing on delivering the most valuable outcomes by prioritizing, experimenting, and adapting based on real customer needs. Speed alone can lead to building the wrong product, while Agile helps teams avoid wasted effort by eliminating unnecessary work and bureaucracy. Development managers should ensure their teams use Agile to maximize value, not just to increase velocity.
 date: 2024-07-11T06:45:01Z
 lastmod: 2024-07-11T06:45:01Z
-weight: 840
+weight: 520
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: b3HFBlCcomk
 ItemType: videos

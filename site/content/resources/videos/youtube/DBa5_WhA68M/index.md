@@ -5,7 +5,7 @@ description: Learn key negotiation skills for Product Owners to manage stakehold
 tldr: Strong negotiation skills are essential for Product Owners to balance stakeholder demands, technical realities, and leadership requests, ensuring the product delivers maximum value. Key techniques include active listening, asking probing questions, and guiding others to see the bigger picture, which helps avoid unnecessary features and maintain focus. Development managers should encourage Product Owners to build these skills through training, reflection, and coaching to improve outcomes and stakeholder relationships.
 date: 2023-12-13T07:00:07Z
 lastmod: 2023-12-13T07:00:07Z
-weight: 1000
+weight: 875
 sitemap:
   filename: sitemap.xml
   priority: 0.1

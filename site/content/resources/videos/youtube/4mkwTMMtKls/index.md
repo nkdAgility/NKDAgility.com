@@ -5,7 +5,7 @@ description: Explores how envy leads teams to copy Agile models like Spotify, wa
 tldr: Avoid copying Agile models like Spotify without considering your team's unique context, as imitation and trend-driven decisions often lead to poor results. Instead, focus on adapting practices to fit your specific needs, encourage creativity and autonomy, and foster a positive, customer-focused culture. Assess new tools and methods carefully before adopting them to ensure they truly benefit your organization.
 date: 2023-10-09T11:17:10Z
 lastmod: 2023-10-09T11:17:10Z
-weight: 1000
+weight: 720
 sitemap:
   filename: sitemap.xml
   priority: 0.1

@@ -5,7 +5,7 @@ description: Experience Scrum hands-on by collaborating in Minecraft Education E
 tldr: Using Minecraft Education Edition in Scrum training creates a more realistic and engaging environment for learning complex product development compared to traditional website-building exercises. This approach ensures full team participation, better simulates real-world complexity, and is accessible across devices. Development managers should ensure participants can install Minecraft Education on an unrestricted device and join sessions off VPN for the best experience.
 date: 2023-01-10T07:48:02Z
 lastmod: 2023-01-10T07:48:02Z
-weight: 1000
+weight: 870
 sitemap:
   filename: sitemap.xml
   priority: 0.1

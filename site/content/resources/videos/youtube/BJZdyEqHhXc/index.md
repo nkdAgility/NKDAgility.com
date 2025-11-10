@@ -5,10 +5,10 @@ description: Explains why lasting Agile and DevOps success requires empowering t
 tldr: There are no quick fixes for Agile or DevOps transformation; relying on external parties or contractors to deliver ready-made solutions does not build lasting capability. Sustainable change comes from empowering your own team through learning, collaboration, and continuous improvement, with consultants serving as guides rather than doers. Invest in developing your people and culture to achieve real, long-term agility.
 date: 2024-05-09T06:45:00Z
 lastmod: 2024-05-09T06:45:00Z
-weight: 610
+weight: 330
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: monthly
 ItemId: BJZdyEqHhXc
 ItemType: videos
@@ -33,6 +33,7 @@ categories:
   - DevOps
   - Technical Leadership
 tags:
+  - Team Motivation
   - Agile Philosophy
   - Competence
   - Pragmatic Thinking

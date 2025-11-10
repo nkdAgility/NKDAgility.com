@@ -5,10 +5,10 @@ description: Step-by-step guide to migrating a Codeplex repository to GitHub, co
 tldr: Migrating a Codeplex repository to GitHub is necessary due to declining support and features on Codeplex, but GitHub's import tool is unreliable and does not handle folder selection or branches well. Using Git-TF with Chocolatey provides a more flexible and effective migration, allowing you to select specific folders and preserve history, though some manual steps are needed for wiki pages and other content. Development managers should use Git-TF for smoother migrations and plan for some manual adjustments, especially for documentation.
 date: 2016-03-02
 lastmod: 2016-03-02
-weight: 1000
+weight: 750
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: weekly
 ItemId: kgtNo8tGkjS
 ItemType: blog

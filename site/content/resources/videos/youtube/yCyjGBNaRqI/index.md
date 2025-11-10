@@ -5,10 +5,10 @@ description: Explores how team happiness, autonomy, mastery, and purpose drive e
 tldr: Happy, engaged teams are essential for building exceptional products; when people have autonomy, opportunities for growth, and a clear sense of purpose, their motivation and output improve significantly. Managers should empower decision-making, invest in skill development, and clearly communicate the vision to foster this environment. Prioritising team well-being leads to better products and more satisfied customers, so focus on creating a culture where your teams can thrive.
 date: 2024-05-10T06:45:01Z
 lastmod: 2024-05-10T06:45:01Z
-weight: 665
+weight: 425
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: yCyjGBNaRqI
 ItemType: videos

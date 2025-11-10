@@ -48,9 +48,9 @@ tags:
   - Empirical Process Control
   - Product Delivery
   - Team Performance
-  - Agile Product Management
-  - Technical Debt
   - Competence
+  - Engineering Practices
+  - Operational Practices
 Watermarks:
   description: 2025-05-07T13:15:18Z
   short_title: 2025-07-07T17:57:45Z

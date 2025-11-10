@@ -5,7 +5,7 @@ description: Explores the limitations of traditional budgeting and explains how 
 tldr: Traditional annual budgeting creates rigidity, discourages innovation, and often leads to missed opportunities and wasted resources. Adopting a more flexible, value-driven approach like Beyond Budgeting allows teams to allocate funds dynamically, respond quickly to changing needs, and focus on delivering real value. Development managers should consider shifting to iterative funding models to maximise impact and avoid costly missed opportunities.
 date: 2024-12-09T06:30:00Z
 lastmod: 2024-12-09T06:30:00Z
-weight: 1000
+weight: 695
 sitemap:
   filename: sitemap.xml
   priority: 0.1

@@ -5,7 +5,7 @@ description: Explores how increasing deployment frequency, stable environments, 
 tldr: Increasing deployment frequency is key to reducing time to market and driving business success, but it only adds value if deployments reach production and enable fast learning from real user feedback. Focus on stable environments, end-to-end pipeline analysis, and shortening the time to learn so you can iterate quickly and align with business needs. Prioritise building trust with stakeholders, collecting actionable data, and enabling continuous delivery to respond rapidly to opportunities and deliver the right features at the right time.
 date: 2025-01-22T14:16:54Z
 lastmod: 2025-01-22T14:16:54Z
-weight: 230
+weight: 210
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,13 +32,13 @@ categories:
   - Product Development
   - DevOps
 tags:
+  - Value Delivery
+  - Deployment Frequency
   - Frequent Releases
   - Organisational Agility
   - Operational Practices
-  - Deployment Frequency
   - Product Delivery
   - Market Adaptability
-  - Value Delivery
   - Metrics and Learning
   - Software Development
   - Time to Market

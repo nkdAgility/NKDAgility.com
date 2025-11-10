@@ -5,7 +5,7 @@ description: Learn to identify, prioritise, and test assumptions in product deve
 tldr: This course teaches development managers how to identify, prioritize, and validate assumptions in product development by turning them into testable hypotheses, focusing on data-driven decision-making rather than gut feelings. Key insights include learning to distinguish critical assumptions from trivial ones, balancing the cost and confidence of experiments, and using experiment results to guide strategy. The main takeaway is to adopt a mindset that values learning and evidence, leading to more effective and efficient product development.
 date: 2024-08-10T07:00:32Z
 lastmod: 2024-08-10T07:00:32Z
-weight: 1000
+weight: 805
 sitemap:
   filename: sitemap.xml
   priority: 0.1

@@ -5,7 +5,7 @@ description: Explores why true organisational agility means building custom proc
 tldr: The main point is that true organisational agility is about responding to market changes faster than competitors, not about adopting specific frameworks like SAFe or Scrum. Successful companies build processes tailored to their unique needs rather than copying others, and relying on outdated rules or hybrid models slows adaptation. Development managers should focus on creating flexible, custom processes that enable rapid response and continuous adaptation to stay competitive.
 date: 2023-09-07
 lastmod: 2023-09-07
-weight: 1000
+weight: 880
 sitemap:
   filename: sitemap.xml
   priority: 0.1

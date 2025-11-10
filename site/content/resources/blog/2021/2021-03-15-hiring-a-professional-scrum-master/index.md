@@ -5,10 +5,10 @@ description: Covers key responsibilities, skills, and requirements for hiring a 
 tldr: Hiring a Scrum Master is challenging and requires someone who can lead, coach, and support both the team and organization to improve effectiveness and adopt Scrum practices. Key requirements include strong leadership, facilitation, and communication skills, a servant leadership mindset, and relevant certifications, with technical or business domain knowledge as a plus. Focus on candidates who can foster a safe, collaborative environment and drive continuous improvement for reliable product delivery.
 date: 2021-03-15
 lastmod: 2021-03-15
-weight: 590
+weight: 255
 sitemap:
   filename: sitemap.xml
-  priority: 0.3
+  priority: 0.6
   changefreq: weekly
 ItemId: 1EEAZ-ldcTz
 ItemType: blog

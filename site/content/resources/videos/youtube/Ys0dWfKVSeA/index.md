@@ -45,6 +45,7 @@ tags:
   - Software Development
   - Pragmatic Thinking
   - Team Performance
+  - Troubleshooting
   - Agile Planning
   - Team Collaboration
   - Agile Transformation

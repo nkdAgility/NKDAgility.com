@@ -5,10 +5,10 @@ description: Explores how patience and trust foster effective Agile teams, suppo
 tldr: Building a successful Agile organization requires patience and trust, as these enable teams to experiment, learn from failures, and innovate without fear of blame. Impatience leads to a blame culture, reduced quality, and stifled creativity, while patience supports empiricism and continuous improvement. Development managers should foster a culture that values learning from mistakes, sets realistic expectations, and avoids blame to strengthen trust and drive better outcomes.
 date: 2023-12-08T07:00:06Z
 lastmod: 2023-12-08T07:00:06Z
-weight: 665
+weight: 475
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: 9VHasQBlQc8
 ItemType: videos

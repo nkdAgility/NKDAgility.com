@@ -5,7 +5,7 @@ description: Explores how advances in technology have redefined co-location, emp
 tldr: With modern video technology and fast internet, online meetings can now provide the same level of non-verbal communication as being in the same room, so keeping cameras on is essential for team transparency and engagement. Development managers should encourage camera use during online events to maximize communication and adapt interactions, but also respect occasional needs for cameras off. If team members cannot use video reliably, consider in-person participation instead.
 date: 2020-11-16
 lastmod: 2020-11-16
-weight: 1000
+weight: 905
 sitemap:
   filename: sitemap.xml
   priority: 0.1

@@ -5,10 +5,10 @@ description: Explains the Nexus framework for scaling Scrum with multiple teams,
 tldr: Nexus is a framework for scaling Scrum to coordinate three to nine teams working on a single product, focusing on minimizing dependencies and ensuring integrated delivery each Sprint. It adds a Nexus Integration Team, shared events, and artifacts like a single Product Backlog and Integrated Increment to maintain transparency and alignment across teams. Development managers should use Nexus to address cross-team challenges, improve integration, and maximize value without simply adding more people.
 date: 2024-09-17
 lastmod: 2024-09-17
-weight: 750
+weight: 465
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: weekly
 author:
   - Ken Schwaber

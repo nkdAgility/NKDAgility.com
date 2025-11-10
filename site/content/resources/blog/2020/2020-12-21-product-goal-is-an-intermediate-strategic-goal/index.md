@@ -45,8 +45,8 @@ tags:
   - Experimentation
   - Value Delivery
   - Customer Focus
+  - Enterprise Agility
   - Ability to Innovate
-  - Agile Product Management
 Watermarks:
   description: 2025-05-07T13:15:10Z
   short_title: 2025-07-07T17:57:41Z

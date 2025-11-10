@@ -5,10 +5,10 @@ description: Explains how the PSM II course focuses on developing advanced Scrum
 tldr: The PSM II course is designed to develop your skills and capabilities as a Scrum Master, not just validate what you already know. The class focuses on advanced facilitation techniques and deepens your understanding of Scrum Master accountability to the team, Product Owner, and organization. If you want to grow as a Scrum Master and apply practical tools with your teams, attending the course is recommended over just taking the assessment.
 date: 2023-04-17T07:00:17Z
 lastmod: 2023-04-17T07:00:17Z
-weight: 665
+weight: 500
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: vI_qQ7-1z2E
 ItemType: videos

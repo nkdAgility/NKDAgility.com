@@ -5,10 +5,10 @@ description: Explores the problems with story points in Agile, their impact on t
 tldr: Story points have become a source of dysfunction in Agile teams, shifting focus from delivering value to hitting arbitrary targets and enabling misleading comparisons between teams. These issues are worsened when contracts tie performance to story point delivery, leading to counterproductive behaviors. Development managers should move away from story points and instead adopt flow metrics like cycle time and throughput, which provide more accurate, value-focused insights into team performance.
 date: 2023-12-29T07:00:14Z
 lastmod: 2023-12-29T07:00:14Z
-weight: 1000
+weight: 580
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: beR21RHTUvo
 ItemType: videos
@@ -29,6 +29,7 @@ source: internal
 layout: video
 concepts: []
 categories:
+  - Engineering Excellence
   - Product Development
 tags:
   - Flow Efficiency

@@ -38,11 +38,12 @@ categories:
   - Scrum
 tags:
   - Organisational Culture
+  - Agile Values and Principles
   - Agile Frameworks
   - Agile Philosophy
   - Organisational Agility
   - Agile Transformation
-  - Agile Values and Principles
+  - Agile Strategy
   - Continuous Improvement
   - Pragmatic Thinking
   - Empirical Process Control

@@ -5,10 +5,10 @@ description: Effective Agile coaching relies on understanding your team's unique
 tldr: Effective Agile coaching requires understanding your team's specific work and context, not just Agile frameworks. Coaches with domain experience or those who actively learn about their team's challenges can offer more relevant, practical advice and build trust. Development managers should ensure their coaches engage deeply with teams' day-to-day realities to maximize impact.
 date: 2023-11-17T11:00:55Z
 lastmod: 2023-11-17T11:00:55Z
-weight: 665
+weight: 490
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: s_kWkDCbp9Y
 ItemType: videos

@@ -5,7 +5,7 @@ description: Examines how rigid, hierarchical Alpha organisations struggle and w
 tldr: Traditional hierarchical organizations that thrived in stable markets are now struggling in today’s fast-paced, innovation-driven environments, leading to wasted resources, stifled creativity, and missed customer needs. Slow decision-making and rigid structures prevent them from adapting quickly, leaving talent and opportunities untapped. Development managers should consider shifting toward more agile, decentralized models to stay competitive and reduce waste.
 date: 2023-07-06
 lastmod: 2023-07-06
-weight: 1000
+weight: 865
 sitemap:
   filename: sitemap.xml
   priority: 0.1

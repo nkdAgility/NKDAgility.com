@@ -5,7 +5,7 @@ description: Explores how practising moderation in Agile—by keeping backlogs l
 tldr: Focusing on just enough work and keeping your backlog, planning, and team size lean helps your team deliver more value and avoid waste or burnout. Prioritize only high-impact tasks, limit work in progress, and avoid over-refining or over-planning. Say no to non-essential work, balance short-term wins with long-term goals, and seek coaching if you struggle to maintain this balance.
 date: 2023-12-05T07:00:10Z
 lastmod: 2023-12-05T07:00:10Z
-weight: 1000
+weight: 655
 sitemap:
   filename: sitemap.xml
   priority: 0.1

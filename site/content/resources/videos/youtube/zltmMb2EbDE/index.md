@@ -5,10 +5,10 @@ description: Explains how Kanban can be integrated with Scrum to improve workflo
 tldr: Kanban can be integrated with Scrum to improve workflow visibility, provide essential metrics like cycle time and throughput, and support continuous improvement. This combination helps teams answer key delivery questions and identify bottlenecks that Scrum alone may not address. Development managers should consider adding Kanban practices and metrics to their Scrum teams to optimize performance and make more informed decisions.
 date: 2024-02-15T07:00:31Z
 lastmod: 2024-02-15T07:00:31Z
-weight: 1000
+weight: 580
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: zltmMb2EbDE
 ItemType: videos
@@ -31,6 +31,7 @@ layout: video
 concepts:
   - Method
 categories:
+  - Engineering Excellence
   - Kanban
   - Product Development
 tags:
@@ -42,6 +43,7 @@ tags:
   - Flow Efficiency
   - Agile Frameworks
   - Pragmatic Thinking
+  - Transparency
 Watermarks:
   description: 2025-05-07T13:05:45Z
   short_title: 2025-07-07T17:49:45Z

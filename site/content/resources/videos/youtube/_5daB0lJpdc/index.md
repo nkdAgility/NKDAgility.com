@@ -5,7 +5,7 @@ description: Explores the dangers of dogmatism in Agile, highlighting the need f
 tldr: Rigid adherence to Agile rules can harm teams and stifle progress; true agility means adapting processes to fit the team’s needs and focusing on delivering value. Flexibility and pragmatism are essential for creating inclusive, effective environments, while dogmatic approaches undermine collaboration and innovation. Development managers should prioritize outcomes and continuous improvement over strict rule-following to support team success.
 date: 2023-12-28T08:40:54Z
 lastmod: 2023-12-28T08:40:54Z
-weight: 1000
+weight: 785
 sitemap:
   filename: sitemap.xml
   priority: 0.1
@@ -37,6 +37,7 @@ tags:
   - Agile Values and Principles
   - Software Development
   - Agile Philosophy
+  - Organisational Culture
   - Social Technologies
 Watermarks:
   description: 2025-05-07T13:06:46Z

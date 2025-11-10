@@ -5,10 +5,10 @@ description: Explains when an Applied Professional Scrum (APS) course benefits S
 tldr: An APS course is valuable for Scrum teams that want to deepen their understanding of core Scrum principles and shed ineffective practices that may have accumulated over time. It helps teams focus on delivering a working product each iteration and provides practical exercises, like the Barnacle Exercise, to identify and remove process inefficiencies. Consider APS if your team needs to realign with authentic Scrum practices and drive meaningful agile transformation.
 date: 2023-10-12T08:32:45Z
 lastmod: 2023-10-12T08:32:45Z
-weight: 750
+weight: 425
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: HrJMsZZQl_g
 ItemType: videos

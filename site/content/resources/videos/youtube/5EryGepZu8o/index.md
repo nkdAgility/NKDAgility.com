@@ -5,10 +5,10 @@ description: The most important aspect of Scrum is empiricism—using transparen
 tldr: The most important thing to teach about Scrum is the principle of empiricism, which means making work transparent, inspecting progress frequently, and adapting based on what is learned. This approach helps teams navigate complex, uncertain environments where traditional project management falls short. Focus on building your team's ability to learn and adapt quickly, as Scrum reveals problems but does not solve them for you.
 date: 2023-02-27T07:00:01Z
 lastmod: 2023-02-27T07:00:01Z
-weight: 665
+weight: 450
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: 5EryGepZu8o
 ItemType: videos
@@ -32,6 +32,7 @@ categories:
   - Product Development
 tags:
   - Empirical Process Control
+  - Transparency
   - Market Adaptability
   - Professional Scrum
   - Agile Transformation

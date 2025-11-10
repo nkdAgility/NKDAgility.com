@@ -5,7 +5,7 @@ description: Explains how the PSPO course centres on understanding and defining 
 tldr: The PSPO course centers on understanding and defining value, which goes beyond just financial outcomes and varies by organization. Product Owners are expected to lead in clarifying and championing what value means for their teams and stakeholders. Development managers should ensure their teams have a shared, well-communicated definition of value to guide decisions and priorities.
 date: 2023-05-15T14:00:13Z
 lastmod: 2023-05-15T14:00:13Z
-weight: 790
+weight: 740
 sitemap:
   filename: sitemap.xml
   priority: 0.1

@@ -35,6 +35,7 @@ tags:
   - Agile Transformation
   - Organisational Change
   - Competence
+  - Self Organisation
 Watermarks:
   description: 2025-05-07T13:15:54Z
   short_title: 2025-07-07T17:58:14Z

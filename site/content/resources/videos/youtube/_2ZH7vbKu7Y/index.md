@@ -33,6 +33,7 @@ categories:
 tags:
   - Continuous Learning
   - Competence
+  - Organisational Agility
   - Continuous Improvement
   - Organisational Culture
   - Team Motivation

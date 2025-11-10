@@ -31,7 +31,9 @@ categories:
 tags:
   - Organisational Agility
   - Competence
+  - Operational Practices
   - Pragmatic Thinking
+  - Continuous Learning
 Watermarks:
   description: 2025-05-07T13:16:00Z
   short_title: 2025-07-07T17:58:19Z

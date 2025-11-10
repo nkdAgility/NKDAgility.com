@@ -5,7 +5,7 @@ description: Explains the Sprint Backlog as a transparent, flexible plan in Scru
 tldr: The Sprint Backlog is a combination of the Sprint Goal, selected tasks, and a clear plan for achieving them, providing transparency on current work and progress. It should balance goal-driven work with essential tasks like bug fixes, remain flexible to adapt to new needs during the Sprint, and set teams up for achievable success. Development managers should ensure Sprint Goals are realistic and use the Sprint Backlog to maintain focus while staying adaptable.
 date: 2023-05-29T12:01:04Z
 lastmod: 2023-05-29T12:01:04Z
-weight: 1000
+weight: 755
 sitemap:
   filename: sitemap.xml
   priority: 0.1

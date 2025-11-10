@@ -39,12 +39,12 @@ tags:
   - Software Development
   - Organisational Agility
   - Sociotechnical Systems
+  - Self Organisation
   - Market Adaptability
+  - Enterprise Agility
   - Agile Leadership
   - Team Collaboration
   - Value Delivery
-  - Working Software
-  - Empirical Process Control
 Watermarks:
   description: 2025-05-07T13:16:21Z
   short_title: 2025-07-07T17:58:37Z

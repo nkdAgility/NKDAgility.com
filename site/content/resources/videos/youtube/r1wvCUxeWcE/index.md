@@ -34,6 +34,8 @@ categories:
   - Product Development
 tags:
   - Software Development
+  - Empirical Process Control
+  - Team Performance
 Watermarks:
   description: 2025-05-07T13:02:07Z
   short_title: 2025-07-07T17:48:33Z

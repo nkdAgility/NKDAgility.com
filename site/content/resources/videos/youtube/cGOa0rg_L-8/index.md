@@ -45,11 +45,11 @@ tags:
   - Pragmatic Thinking
   - Product Delivery
   - Deployment Frequency
+  - Technical Mastery
   - Team Collaboration
   - Continuous Improvement
   - Release Management
   - Agile Planning
-  - Continuous Delivery
 Watermarks:
   description: 2025-05-07T13:02:25Z
   short_title: 2025-07-07T17:48:51Z

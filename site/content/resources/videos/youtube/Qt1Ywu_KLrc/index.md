@@ -5,10 +5,10 @@ description: Learn how to migrate Azure DevOps projects step by step, including 
 tldr: Migrating projects in Azure DevOps can be straightforward if you use the right tools, carefully configure your migration files, and address common issues like field mapping and iteration paths. Key steps include installing migration tools, preparing configuration files, ensuring required fields are present, and matching Git repo names between source and target. Prepare thoroughly, follow the outlined steps, and seek expert help if needed to ensure a smooth migration.
 date: 2023-11-16T12:47:09Z
 lastmod: 2023-11-16T12:47:09Z
-weight: 685
+weight: 510
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: Qt1Ywu_KLrc
 ItemType: videos

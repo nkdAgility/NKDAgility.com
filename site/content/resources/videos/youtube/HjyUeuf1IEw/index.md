@@ -30,6 +30,7 @@ categories:
   - Uncategorized
 tags:
   - Software Development
+  - Operational Practices
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:15:43Z

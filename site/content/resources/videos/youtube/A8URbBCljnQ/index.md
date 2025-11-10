@@ -29,12 +29,12 @@ categories:
   - Product Development
   - Scrum
 tags:
+  - Team Performance
   - Pragmatic Thinking
   - Team Collaboration
   - Remote Working
   - Agile Product Management
   - Agile Transformation
-  - Backlog Refinement
   - Market Adaptability
   - Product Delivery
   - Scrum Team

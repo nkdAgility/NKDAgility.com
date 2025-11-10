@@ -5,10 +5,10 @@ description: Explores why using Lego in Scrum training can undermine professiona
 tldr: Using Lego in Scrum training can undermine the seriousness of the message, create a mismatch between the training method and professional context, and risk disengaging senior participants. The playful approach may trivialize key concepts and reduce credibility with experienced professionals. Development managers should choose training tools that align with the professional environment and reinforce the importance of cultural transformation.
 date: 2023-10-02T11:00:28Z
 lastmod: 2023-10-02T11:00:28Z
-weight: 810
+weight: 640
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: f1cWND9Wsh0
 ItemType: videos

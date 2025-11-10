@@ -5,10 +5,10 @@ description: Immersive learning helps aspiring agile leaders overcome cultural b
 tldr: Immersive learning experiences like the PAL-E class help aspiring agile leaders overcome common barriers by providing time, practical assignments, and peer feedback to apply and reflect on agile practices in real-world settings. Leaders gain actionable tools to empower teams, foster collaboration, and focus on value delivery rather than just process. Consider enrolling your leadership team in such a program to drive sustainable agile transformation and maximize organizational impact.
 date: 2023-11-24T07:00:00Z
 lastmod: 2023-11-24T07:00:00Z
-weight: 610
+weight: 470
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.3
   changefreq: monthly
 ItemId: 1VzbtRspOsM
 ItemType: videos

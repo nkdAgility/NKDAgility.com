@@ -5,7 +5,7 @@ description: Explains choosing Scrum.Org over Scrum Alliance, focusing on values
 tldr: The author chose Scrum.Org over Scrum Alliance due to its strong professionalism, integrity, and community focus, as well as its fair certification policies that avoid recurring fees and restrictive progression paths. Scrum.Org encourages continuous improvement and knowledge sharing among trainers, which benefits both individuals and organizations. Development managers should consider Scrum.Org for its flexible, value-driven approach to Scrum training and certification.
 date: 2023-02-24T07:00:14Z
 lastmod: 2023-02-24T07:00:14Z
-weight: 1000
+weight: 655
 sitemap:
   filename: sitemap.xml
   priority: 0.1

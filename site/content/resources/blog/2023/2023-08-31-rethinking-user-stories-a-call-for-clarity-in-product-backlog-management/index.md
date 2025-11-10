@@ -5,7 +5,7 @@ description: Explores why replacing "User Stories" with "Product Backlog Items" 
 tldr: The author argues that using the term "User Stories" for all work items leads to confusion and unnecessary complexity, as not all tasks fit this format. Switching to a more generic term like "Product Backlog Item" allows teams to describe work more clearly and flexibly, improving communication and transparency. Development managers should consider updating their backlog terminology to better reflect the true nature of their work and support more effective product development.
 date: 2023-08-31
 lastmod: 2023-08-31
-weight: 1000
+weight: 840
 sitemap:
   filename: sitemap.xml
   priority: 0.1

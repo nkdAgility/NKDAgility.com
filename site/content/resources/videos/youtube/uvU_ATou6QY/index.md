@@ -35,6 +35,7 @@ categories:
   - Product Management
 tags:
   - Product Owner
+  - Personal
   - Agile Product Management
 Watermarks:
   description: 2025-05-07T13:09:21Z

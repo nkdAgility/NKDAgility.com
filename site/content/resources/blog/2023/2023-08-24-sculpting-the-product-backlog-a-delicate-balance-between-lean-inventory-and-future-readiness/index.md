@@ -5,7 +5,7 @@ description: Explores how to maintain a lean, transparent product backlog that b
 tldr: Keep your product backlog minimal but sufficient, ensuring it is clear and transparent for all stakeholders while also considering future needs to avoid surprises. Regularly review and reflect on completed work and unexpected issues to refine your backlog and adapt to changing circumstances. Aim for a balance that supports both current priorities and readiness for what lies ahead.
 date: 2023-08-24
 lastmod: 2023-08-24
-weight: 1000
+weight: 760
 sitemap:
   filename: sitemap.xml
   priority: 0.1

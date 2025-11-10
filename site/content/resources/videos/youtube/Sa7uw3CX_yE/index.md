@@ -30,6 +30,10 @@ categories:
   - Product Development
 tags:
   - Organisational Change
+  - Software Development
+  - Empirical Process Control
+  - Transparency
+  - Value Delivery
   - Personal
 Watermarks:
   description: 2025-05-07T13:15:27Z

@@ -5,7 +5,7 @@ description: Immersive learning is transforming professional development with on
 tldr: Immersive learning is quickly replacing traditional two-day workshops, with businesses reporting better knowledge retention, higher engagement, and greater return on investment as employees apply new skills in real time. This approach uses ongoing sessions, real-time collaboration, and continuous feedback, allowing for tailored and incremental development. Development managers should consider adopting immersive learning formats to foster deeper skill growth and more sustainable professional development within their teams.
 date: 2023-08-28T07:00:05Z
 lastmod: 2023-08-28T07:00:05Z
-weight: 1000
+weight: 860
 sitemap:
   filename: sitemap.xml
   priority: 0.1

@@ -5,10 +5,10 @@ description: Explores how routine Agile questions can hinder team progress, stre
 tldr: Focusing daily meetings on routine status questions leads to disengagement and distracts from delivering real value. Instead, teams should use these meetings to track progress toward sprint goals, manage aging tasks before they become bottlenecks, and adapt ceremonies to support value delivery and continuous improvement. Review your Agile practices and shift the focus from individual updates to team outcomes for better results.
 date: 2024-01-03T07:00:13Z
 lastmod: 2024-01-03T07:00:13Z
-weight: 640
+weight: 315
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: monthly
 ItemId: JzAbvkFxVzs
 ItemType: videos

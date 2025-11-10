@@ -536,7 +536,7 @@ function Get-ClassificationsForType {
     # Load from Cache and validate its contents
     $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
     #Find items from the catalogue that we have.
-    $CatalogFromCache = @{}; $cachedData.Keys | Where-Object { $catalog.ContainsKey($_) } | ForEach-Object { $CatalogFromCache[$_] = $cachedData[$_] }
+    $CatalogFromCache = @{}; $cachedData.Keys | Where-Object { $_ -and $catalog.ContainsKey($_) } | ForEach-Object { $CatalogFromCache[$_] = $cachedData[$_] }
 
  
     # Return the items

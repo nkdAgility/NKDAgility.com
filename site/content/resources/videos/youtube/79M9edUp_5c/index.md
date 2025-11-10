@@ -5,7 +5,7 @@ description: Discover how asynchronous communication improves team collaboration
 tldr: Asynchronous communication increases flexibility, reduces pressure, and improves collaboration by allowing team members to contribute on their own schedules and providing clear documentation. Shifting away from constant meetings can boost productivity and lead to more thoughtful input. Development managers should set clear expectations, use the right tools, and balance async work with occasional check-ins to get the most benefit.
 date: 2023-09-26T07:00:02Z
 lastmod: 2023-09-26T07:00:02Z
-weight: 875
+weight: 655
 sitemap:
   filename: sitemap.xml
   priority: 0.1
@@ -32,6 +32,7 @@ categories:
   - Uncategorized
 tags:
   - Asynchronous Development
+  - Personal
 Watermarks:
   description: 2025-05-07T13:09:19Z
   short_title: 2025-07-07T17:52:54Z

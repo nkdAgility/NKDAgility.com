@@ -5,10 +5,10 @@ description: Explores what traditional organisations must change—beyond adopti
 tldr: Traditional organisations must go beyond surface-level Agile adoption and commit to deep cultural change if they want to stay competitive, attract top talent, and respond quickly to market shifts. True Agile transformation requires honest readiness assessment, willingness to dismantle old structures, and embracing the discomfort of change. Leaders should act now to drive genuine, organisation-wide agility or risk falling behind more adaptive competitors.
 date: 2023-07-06T07:08:30Z
 lastmod: 2023-07-06T07:08:30Z
-weight: 790
+weight: 550
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: TzhiftXOJdw
 ItemType: videos

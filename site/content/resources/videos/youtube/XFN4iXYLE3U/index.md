@@ -36,6 +36,7 @@ categories:
   - Product Development
   - Lean
 tags:
+  - Team Performance
   - Operational Practices
   - Agile Frameworks
   - Software Development

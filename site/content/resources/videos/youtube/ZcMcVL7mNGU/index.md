@@ -31,14 +31,16 @@ categories:
   - Product Development
   - Product Management
 tags:
-  - Agile Strategy
   - Common Goals
+  - Enterprise Agility
+  - Agile Strategy
+  - Product Strategy
   - Personal
+  - Product Delivery
   - Agile Product Management
   - Value Delivery
   - Agile Philosophy
   - Pragmatic Thinking
-  - Product Delivery
   - Software Development
   - Customer Focus
 Watermarks:

@@ -5,10 +5,10 @@ description: Learn how to move from traditional project management to Kanban, in
 tldr: Transitioning from traditional project management to Kanban is a gradual process that starts by documenting your current workflow, collecting and analyzing data, and making incremental improvements based on evidence. Kanban allows teams to identify and address bottlenecks at their own pace, reducing disruption and avoiding the pitfalls of rushed Agile adoption. Development managers should consider starting with Kanban to enable continuous improvement without overwhelming their teams.
 date: 2024-02-16T07:00:10Z
 lastmod: 2024-02-16T07:00:10Z
-weight: 670
+weight: 355
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: IU_1dJw7xk4
 ItemType: videos

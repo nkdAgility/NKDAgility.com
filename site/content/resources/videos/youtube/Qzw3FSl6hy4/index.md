@@ -5,7 +5,7 @@ description: Explains Product Discovery in product development, its role in sett
 tldr: Product Discovery is a proactive process that helps teams identify what to build and why, ensuring alignment with business goals and user needs. It goes beyond backlog refinement by uncovering new opportunities, involving diverse perspectives, and driving strategic direction at both portfolio and team levels. To maximize product value and ROI, development managers should invest in deliberate discovery practices, involve their teams early, and continuously gather feedback to guide decisions.
 date: 2024-08-26T07:44:38Z
 lastmod: 2024-08-26T07:44:38Z
-weight: 1000
+weight: 770
 sitemap:
   filename: sitemap.xml
   priority: 0.1

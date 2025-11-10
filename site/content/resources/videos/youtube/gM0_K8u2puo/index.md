@@ -36,7 +36,8 @@ concepts: []
 categories:
   - Product Development
   - Product Management
-tags: []
+tags:
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T12:49:48Z
   short_title: 2025-07-07T17:46:46Z

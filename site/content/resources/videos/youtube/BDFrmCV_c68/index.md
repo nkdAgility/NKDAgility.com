@@ -5,10 +5,10 @@ description: Explores how unchecked pride can harm Agile teams, stressing data-d
 tldr: Excessive pride in Agile can lead teams to make decisions based on assumptions or ego rather than real customer value and data. To avoid wasted effort and missed opportunities, managers should ensure decisions are data-driven, learn from failures, and focus on meaningful metrics. Foster a culture of humility and continuous learning to keep teams aligned with business goals.
 date: 2023-10-13T07:00:05Z
 lastmod: 2023-10-13T07:00:05Z
-weight: 1000
+weight: 650
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: BDFrmCV_c68
 ItemType: videos

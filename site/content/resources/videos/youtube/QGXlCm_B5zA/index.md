@@ -36,9 +36,11 @@ categories:
   - Leadership
 tags:
   - Pragmatic Thinking
+  - Personal
   - Professional Scrum
   - Scrum Master
   - Software Development
+  - Agile Philosophy
 Watermarks:
   description: 2025-05-07T13:13:49Z
   short_title: 2025-07-07T17:56:32Z

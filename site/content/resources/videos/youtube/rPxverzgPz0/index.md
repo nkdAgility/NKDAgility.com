@@ -5,10 +5,10 @@ description: Explains why the Agile Practitioner Series course is ideal for new 
 tldr: The APS course is highly recommended for new Scrum teams because it simplifies Scrum concepts, helps teams identify and address necessary organizational changes, and empowers both team members and leaders to drive improvements. Key benefits include creating an actionable Organizational Change Backlog and fostering team engagement and alignment. Development managers should consider enrolling their teams to ensure a strong start with Scrum and ongoing alignment with agile principles.
 date: 2023-03-23T07:00:15Z
 lastmod: 2023-03-23T07:00:15Z
-weight: 715
+weight: 550
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: rPxverzgPz0
 ItemType: videos

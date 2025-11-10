@@ -5,10 +5,10 @@ description: Learn how to use Kanban metrics like cycle time and throughput to i
 tldr: The "Applying Metrics for Predictability" Kanban course teaches teams how to use key Kanban metrics and probabilistic forecasting to improve delivery predictability, enabling more accurate planning and increased stakeholder trust. Participants learn to interpret data, identify bottlenecks, and make informed decisions that drive efficiency and consistent value delivery. Development managers whose teams struggle with predictability should consider this course to enhance forecasting and workflow reliability.
 date: 2024-02-20T07:00:27Z
 lastmod: 2024-02-20T07:00:27Z
-weight: 1000
+weight: 595
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: gjrvSJWE0Gk
 ItemType: videos
@@ -30,6 +30,7 @@ layout: video
 concepts:
   - Method
 categories:
+  - Engineering Excellence
   - Product Development
 tags:
   - Product Delivery

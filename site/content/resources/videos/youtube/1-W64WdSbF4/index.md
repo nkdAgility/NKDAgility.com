@@ -38,7 +38,6 @@ categories:
 tags:
   - Personal
   - Product Delivery
-  - Agile Product Management
   - Agile Planning
   - Scrum Team
   - Value Delivery

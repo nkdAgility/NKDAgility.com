@@ -37,6 +37,7 @@ tags:
   - Pragmatic Thinking
   - Product Delivery
   - Software Development
+  - Technical Mastery
   - Operational Practices
 Watermarks:
   description: 2025-05-07T13:13:09Z

@@ -5,10 +5,10 @@ description: Explains the difference between subjective goals and the objective 
 tldr: The Definition of Done (DoD) in Scrum is an objective, measurable checklist that sets the minimum quality standard for every product increment, distinct from the more subjective Product and Sprint Goals. Teams should ensure their DoD is clear, comprehensive, regularly reviewed, and as automated as possible, avoiding subjective approval steps. Development managers should treat the DoD as a non-negotiable baseline for quality, not a ceiling, and keep it updated to reflect evolving standards and business needs.
 date: 2025-01-03
 lastmod: 2025-01-03
-weight: 180
+weight: 145
 sitemap:
   filename: sitemap.xml
-  priority: 0.7
+  priority: 0.8
   changefreq: weekly
 ItemId: -Z5GGUOjc-d
 ItemType: blog
@@ -31,12 +31,12 @@ concepts:
   - Artifact
 categories:
   - Product Development
+  - Engineering Excellence
   - Scrum
-  - Product Management
 tags:
+  - Software Development
   - Definition of Done
   - Operational Practices
-  - Software Development
   - Agile Planning
   - Pragmatic Thinking
   - Professional Scrum

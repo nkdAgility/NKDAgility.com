@@ -5,7 +5,7 @@ description: Defines the Product Goal as a clear, measurable objective in the Pr
 tldr: The Product Goal is a clear, measurable long-term objective in the Product Backlog that guides the Scrum Team’s focus and progress. It should be understood by everyone involved, align Sprint Goals, and can be changed if it no longer delivers value. Development managers should ensure their teams have a well-defined Product Goal to drive alignment and transparency.
 date: 2020-11-23
 lastmod: 2020-11-23
-weight: 1000
+weight: 815
 sitemap:
   filename: sitemap.xml
   priority: 0.1

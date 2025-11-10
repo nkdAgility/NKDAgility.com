@@ -5,10 +5,10 @@ description: Explores common misconceptions about Scrum Masters, clarifies their
 tldr: Many Scrum Masters misunderstand their true responsibilities, focusing on tools and rituals instead of the core principles and accountabilities defined by Scrum. Effective Scrum Masters balance support for the team, Product Owner, and organisation, acting as coaches and mentors rather than process enforcers. Development managers should ensure Scrum Masters are competent in Scrum’s philosophies and adapt practices to fit their context, not just follow common routines.
 date: 2024-10-25T07:02:17Z
 lastmod: 2024-10-25T07:02:17Z
-weight: 640
+weight: 330
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: monthly
 ItemId: Cia3d_y9akQ
 ItemType: videos

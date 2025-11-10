@@ -5,7 +5,7 @@ description: Explains the steps to become an Agile consultant, highlighting the 
 tldr: Becoming an Agile consultant requires deep expertise in your own field first, then integrating Agile practices and building a reputation as an Agile expert within that context. Success comes from mastering your domain, learning to abstract Agile principles for broader application, and gradually expanding into new industries as your experience grows. Start by applying Agile in your area, gain recognition, and only then consider consulting in other sectors.
 date: 2023-03-21T07:00:18Z
 lastmod: 2023-03-21T07:00:18Z
-weight: 840
+weight: 720
 sitemap:
   filename: sitemap.xml
   priority: 0.1

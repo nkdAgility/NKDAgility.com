@@ -31,6 +31,7 @@ categories:
   - Technical Leadership
   - Product Development
 tags:
+  - Agile Strategy
   - Organisational Culture
   - Empirical Process Control
   - Agile Philosophy
@@ -45,7 +46,6 @@ tags:
   - Agile Leadership
   - Pragmatic Thinking
   - Agile Values and Principles
-  - Agile Strategy
 Watermarks:
   description: 2025-05-07T13:15:28Z
   short_title: 2025-07-07T17:57:53Z

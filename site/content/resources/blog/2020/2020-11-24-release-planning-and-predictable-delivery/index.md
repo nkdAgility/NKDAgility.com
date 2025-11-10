@@ -5,10 +5,10 @@ description: Explores how agile teams can achieve predictable software delivery 
 tldr: Predictable delivery and agile release planning are not incompatible, but achieving them requires a shift in mindset, a focus on continuous quality, and embracing transparency. Key actions include making quality non-negotiable, refining backlog items to be small and clear, ensuring teams own the full delivery process, and minimizing dependencies. Development managers should prioritize building working software in regular increments, stop accumulating technical debt, and foster a culture of continuous improvement to improve delivery predictability.
 date: 2020-11-24
 lastmod: 2020-11-24
-weight: 175
+weight: 125
 sitemap:
   filename: sitemap.xml
-  priority: 0.7
+  priority: 0.8
   changefreq: weekly
 ItemId: 2cOXevMnGb_
 ItemType: blog
@@ -29,24 +29,24 @@ concepts:
   - Tenet
 categories:
   - Product Development
+  - Engineering Excellence
   - Scrum
-  - Technical Leadership
 tags:
   - Software Development
+  - Agile Strategy
+  - Social Technologies
+  - Technical Debt
   - Increment
   - Agile Planning
-  - Agile Product Management
   - Pragmatic Thinking
   - Working Software
   - Product Delivery
   - Value Delivery
   - Operational Practices
+  - Agile Product Management
   - Agile Frameworks
   - Empirical Process Control
   - Professional Scrum
-  - Release Management
-  - Technical Debt
-  - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:15:21Z
   short_title: 2025-07-07T17:57:47Z

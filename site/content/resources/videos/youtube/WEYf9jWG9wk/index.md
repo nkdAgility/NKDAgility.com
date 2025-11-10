@@ -5,10 +5,10 @@ description: Explores how breaking features into small experiments boosts softwa
 tldr: A team increased their annual feature delivery from 25 to 150 by breaking down work into smaller experiments, enabling faster feedback, reduced risk, and continuous learning without increasing headcount. This approach allowed them to quickly identify and focus on features that mattered most to customers, leading to better products. Development managers should consider adopting small, frequent experiments to drive both speed and quality in feature delivery.
 date: 2024-11-20T08:02:36Z
 lastmod: 2024-11-20T08:02:36Z
-weight: 600
+weight: 325
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: monthly
 ItemId: WEYf9jWG9wk
 ItemType: videos

@@ -43,6 +43,7 @@ tags:
   - Pragmatic Thinking
   - Personal
   - Value Delivery
+  - Change Management
   - Continuous Improvement
   - Technical Excellence
 Watermarks:

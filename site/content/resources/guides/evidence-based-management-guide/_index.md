@@ -31,21 +31,21 @@ categories:
   - Product Development
   - Product Management
 tags:
+  - Value Delivery
+  - Software Development
   - Customer Focus
+  - Empirical Process Control
+  - Experimentation
+  - Common Goals
+  - Operational Practices
   - Strategic Goals
   - Decision Making
   - Evidence Based Leadership
   - Evidence Based Management
   - Metrics and Learning
-  - Value Delivery
   - Social Technologies
+  - Product Validation
   - Agile Product Management
-  - Agile Strategy
-  - Business Agility
-  - Organisational Agility
-  - Product Strategy
-  - Software Development
-  - Enterprise Agility
 card:
   button:
     content: Learn More

@@ -5,7 +5,7 @@ description: Learn how to define and visualise workflows in Kanban to boost team
 tldr: Defining and visualising your workflow in Kanban creates shared understanding, clarity, and alignment among team members, which leads to greater efficiency. Establishing clear rules for task selection, workflow stages, and work in progress is essential for a stable and productive system. Take time to document and visualise your process so everyone knows how work flows and can contribute effectively.
 date: 2024-02-27T07:00:31Z
 lastmod: 2024-02-27T07:00:31Z
-weight: 1000
+weight: 715
 sitemap:
   filename: sitemap.xml
   priority: 0.1

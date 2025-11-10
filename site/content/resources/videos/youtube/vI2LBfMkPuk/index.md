@@ -35,6 +35,7 @@ tags:
   - Agile Frameworks
   - Software Development
   - Pragmatic Thinking
+  - Empirical Process Control
   - Professional Scrum
   - Competence
 Watermarks:

@@ -30,9 +30,9 @@ layout: blog
 concepts:
   - Accountability
 categories:
-  - Scrum
   - Technical Leadership
   - Product Development
+  - Engineering Excellence
 tags:
   - Software Development
   - Competence

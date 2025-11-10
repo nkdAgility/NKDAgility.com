@@ -5,7 +5,7 @@ description: Explores how Product Owners can use marketing skills to communicate
 tldr: Product Owners need to actively market their product vision to engage teams, stakeholders, and customers, not just manage backlogs. Consistent, emotionally resonant communication boosts participation in Sprint Reviews, improves feedback, and aligns everyone around shared goals. Development managers should encourage Product Owners to treat vision-sharing as an ongoing marketing effort to drive engagement and maximize product value.
 date: 2023-12-15T07:00:05Z
 lastmod: 2023-12-15T07:00:05Z
-weight: 1000
+weight: 895
 sitemap:
   filename: sitemap.xml
   priority: 0.1

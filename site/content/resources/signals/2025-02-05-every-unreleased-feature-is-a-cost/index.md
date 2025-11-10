@@ -27,8 +27,8 @@ categories:
   - Engineering Excellence
 tags:
   - Value Delivery
-  - Deployment Frequency
   - Team Performance
+  - Deployment Frequency
   - Product Delivery
   - Software Development
   - Operational Practices

@@ -5,10 +5,10 @@ description: Learn how to scale Scrum by tailoring frameworks to your organisati
 tldr: There is no single course that teaches you exactly how to scale Scrum, but courses like Scaled Professional Scrum from Scrum.org provide tools and techniques to help you build a scaling framework tailored to your organization. Key to success are starting small, focusing on dependency management and alignment, and iterating based on feedback. Development managers should invest in team education, select relevant practices, and foster a culture of collaboration and continuous improvement to scale Scrum effectively.
 date: 2023-10-18T07:00:23Z
 lastmod: 2023-10-18T07:00:23Z
-weight: 640
+weight: 300
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: monthly
 ItemId: vubnDXYXiL0
 ItemType: videos

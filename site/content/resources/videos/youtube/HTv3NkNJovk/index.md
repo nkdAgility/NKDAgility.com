@@ -36,13 +36,15 @@ tags:
   - Pragmatic Thinking
   - Agile Leadership
   - Empirical Process Control
-  - Value Delivery
+  - Organisational Change
+  - Software Development
   - Agile Strategy
+  - Value Delivery
   - Agile Transformation
   - Business Agility
   - Agile Philosophy
   - Organisational Culture
-  - Organisational Change
+  - Agile Values and Principles
 Watermarks:
   description: 2025-05-07T13:14:18Z
   short_title: 2025-07-07T17:56:56Z

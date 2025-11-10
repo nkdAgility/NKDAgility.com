@@ -5,10 +5,10 @@ description: Explains how immersive learning helps Scrum Masters apply knowledge
 tldr: Immersive learning is more effective than traditional training for developing Scrum Masters because it emphasizes hands-on assignments, real-world application, and knowledge sharing, which lead to lasting improvements in team performance. Teams immediately apply what they learn, receive real-time feedback, and benefit from collective insights, making Scrum practices like the Definition of Done part of daily work. To boost Scrum mastery and see real impact, prioritize immersive learning for your organization’s training programs.
 date: 2023-11-22T07:00:18Z
 lastmod: 2023-11-22T07:00:18Z
-weight: 750
+weight: 425
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: jXk1_Iiam_M
 ItemType: videos

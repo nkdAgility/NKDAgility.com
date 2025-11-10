@@ -5,10 +5,10 @@ description: Explores how the APSPOA course equips product owners and leaders wi
 tldr: The APSPO course does not directly tell leaders how to set product direction, but it provides valuable tools and frameworks that help them identify gaps and strengthen their approach. It highlights six key roles for product owners, encouraging a balance between customer focus, innovation, collaboration, and decisive leadership. Leaders should use the course to broaden their skills and continuously improve their product ownership capabilities.
 date: 2023-03-22T07:00:17Z
 lastmod: 2023-03-22T07:00:17Z
-weight: 690
+weight: 530
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: nTxn_izPBFQ
 ItemType: videos

@@ -28,14 +28,15 @@ source: youtube
 layout: video
 concepts: []
 categories:
-  - Engineering Excellence
   - Product Development
+  - Engineering Excellence
   - Product Management
 tags:
   - Value Delivery
   - Metrics and Learning
   - Operational Practices
   - Pragmatic Thinking
+  - Product Delivery
   - Business Agility
   - Software Development
   - Market Adaptability

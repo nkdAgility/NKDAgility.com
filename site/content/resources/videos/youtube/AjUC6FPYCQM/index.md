@@ -36,6 +36,7 @@ categories:
 tags:
   - Competence
   - Software Development
+  - Personal
   - Product Delivery
   - Agile Frameworks
 Watermarks:

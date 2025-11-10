@@ -5,7 +5,7 @@ description: Explains the assessment phase in consulting, highlighting continuou
 tldr: The assessment phase in consulting should be minimal and flexible, with consultants continuously learning and adapting as they engage with teams rather than relying on a rigid upfront evaluation. Starting to help right away and adjusting based on real-time insights leads to better understanding and outcomes. Development managers should focus on early collaboration and ongoing adaptation instead of lengthy initial assessments.
 date: 2023-06-19T10:00:25Z
 lastmod: 2023-06-19T10:00:25Z
-weight: 790
+weight: 675
 sitemap:
   filename: sitemap.xml
   priority: 0.1

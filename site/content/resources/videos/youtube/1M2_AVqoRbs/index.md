@@ -33,6 +33,7 @@ categories:
 tags:
   - Technical Debt
   - Software Development
+  - Team Performance
   - Personal
 Watermarks:
   description: 2025-05-07T12:57:13Z

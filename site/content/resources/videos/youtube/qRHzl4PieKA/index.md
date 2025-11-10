@@ -5,10 +5,10 @@ description: Empowering teams to adapt requirements based on user feedback is ke
 tldr: Empowering teams to update or delete requirements based on user feedback is essential for true agility and delivering maximum value. Regularly engaging with the product team, keeping the backlog dynamic, and being willing to pivot or remove features ensures your product stays relevant and user-focused. Review your processes to make sure your teams have the authority and support to make these changes.
 date: 2024-07-17T06:45:01Z
 lastmod: 2024-07-17T06:45:01Z
-weight: 750
+weight: 440
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: qRHzl4PieKA
 ItemType: videos

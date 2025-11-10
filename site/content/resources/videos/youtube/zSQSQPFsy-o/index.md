@@ -35,6 +35,7 @@ tags:
   - Agile Frameworks
   - Software Development
   - Transparency
+  - Empirical Process Control
   - Agile Values and Principles
   - Agile Transformation
 Watermarks:

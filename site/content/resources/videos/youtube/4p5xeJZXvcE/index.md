@@ -5,10 +5,10 @@ description: Explores how patience fosters trust, growth, and collaboration in a
 tldr: Patience is essential for agile teams to build trust, avoid blame, and support growth, leading to better collaboration and outcomes. Leaders should set realistic expectations, encourage open communication, and model patient behavior to foster a healthy team environment. Take time to invest in team development and celebrate progress to enable long-term success.
 date: 2023-12-08T11:00:09Z
 lastmod: 2023-12-08T11:00:09Z
-weight: 815
+weight: 405
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: 4p5xeJZXvcE
 ItemType: videos
@@ -30,6 +30,7 @@ layout: video
 concepts: []
 categories:
   - Leadership
+  - Technical Leadership
   - Product Development
 tags:
   - Team Motivation

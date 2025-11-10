@@ -33,7 +33,9 @@ tags:
   - Market Adaptability
   - Agile Product Management
   - Software Development
+  - Agile Leadership
   - Value Delivery
+  - Pragmatic Thinking
   - Product Delivery
   - Social Technologies
   - Personal

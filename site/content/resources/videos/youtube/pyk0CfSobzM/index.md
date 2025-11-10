@@ -5,10 +5,10 @@ description: Scrum teams estimate Sprint deliverables by assessing the size and 
 tldr: Scrum teams do not precisely estimate what can be delivered in a Sprint; instead, they focus on understanding the size and complexity of backlog items to make informed guesses. This approach acknowledges the unpredictability of creative work and the high level of uncertainty in software development. Managers should allow flexibility in Sprint goals and use estimation tools to foster shared understanding rather than to set rigid deadlines.
 date: 2023-06-01T07:00:31Z
 lastmod: 2023-06-01T07:00:31Z
-weight: 790
+weight: 550
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: pyk0CfSobzM
 ItemType: videos

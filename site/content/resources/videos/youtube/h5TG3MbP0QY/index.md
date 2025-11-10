@@ -5,10 +5,10 @@ description: Explores the common challenge in PSM 1 courses of balancing real-wo
 tldr: Many PSM 1 students justify compromising transparency with clients by citing "real world" pressures, especially around upfront estimates. The course stresses that maintaining honesty and moral integrity with customers is essential, even when it feels difficult. Development managers should prioritize truth and transparency over convenience to build lasting trust and avoid misleading clients.
 date: 2023-06-28T11:00:24Z
 lastmod: 2023-06-28T11:00:24Z
-weight: 790
+weight: 550
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: h5TG3MbP0QY
 ItemType: videos

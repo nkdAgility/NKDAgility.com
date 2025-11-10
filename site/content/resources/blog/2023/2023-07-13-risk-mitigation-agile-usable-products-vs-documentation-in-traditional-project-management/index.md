@@ -41,6 +41,7 @@ tags:
   - Agile Philosophy
   - Product Delivery
   - Value Delivery
+  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:10:51Z
   short_title: 2025-07-07T17:54:01Z

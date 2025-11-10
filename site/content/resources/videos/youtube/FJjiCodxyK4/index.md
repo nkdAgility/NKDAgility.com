@@ -5,10 +5,10 @@ description: Explains why agile consulting is preferred over coaching, focusing 
 tldr: Agile consulting is preferred over coaching because it empowers internal leadership, avoids creating long-term dependencies, and leads to more sustainable change. Consultants work intensively for a short period to spark transformation, then step back so teams can take ownership and continue improving on their own. Development managers should consider consulting to build self-reliant teams and lasting results rather than relying on ongoing external support.
 date: 2023-03-14T07:00:05Z
 lastmod: 2023-03-14T07:00:05Z
-weight: 665
+weight: 550
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: FJjiCodxyK4
 ItemType: videos

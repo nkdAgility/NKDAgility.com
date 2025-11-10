@@ -5,7 +5,7 @@ description: Training people worldwide reveals that organisations face similar c
 tldr: The most valuable lesson from training people worldwide is that teams everywhere face the same core challenges when adopting agile and Scrum, regardless of culture or location. Shared experiences in training help participants realize their problems are not unique, which builds confidence and accelerates learning. Development managers should leverage global perspectives and proven Scrum practices to address common issues and drive improvement in their teams.
 date: 2023-02-07T07:00:06Z
 lastmod: 2023-02-07T07:00:06Z
-weight: 1000
+weight: 780
 sitemap:
   filename: sitemap.xml
   priority: 0.1

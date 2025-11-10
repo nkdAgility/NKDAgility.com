@@ -5,10 +5,10 @@ description: Explores how agile leadership and evidence-based management trainin
 tldr: Managers often struggle to transition into effective leadership roles without proper training, especially in agile environments where servant leadership and data-driven decision making are key. Investing in Professional Agile Leadership and Evidence-Based Management training helps managers empower teams, align work with organizational goals, and make informed decisions. Consider prioritizing these training programs to boost both team performance and organizational success.
 date: 2023-11-29T07:00:23Z
 lastmod: 2023-11-29T07:00:23Z
-weight: 610
+weight: 420
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: monthly
 ItemId: W3cyrYFXDfg
 ItemType: videos

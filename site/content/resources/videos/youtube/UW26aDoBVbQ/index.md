@@ -36,6 +36,8 @@ tags:
   - Lean Product Development
   - Product Owner
   - Value Delivery
+  - Personal
+  - Market Adaptability
   - Lean Principles
   - Lean Thinking
   - Organisational Agility

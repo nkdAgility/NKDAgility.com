@@ -5,10 +5,10 @@ description: Step-by-step guide for running a Sprint Review, including presentin
 tldr: The Sprint Review is designed to inspect the latest product increment, gather stakeholder feedback, and update the product backlog based on new insights, helping inform the next Sprint. Key steps include presenting the product vision, reviewing completed and incomplete work with supporting data, demoing new features, collecting actionable feedback, and discussing release forecasts and compliance. Development managers should ensure the review is structured, data-driven, and focused on actionable outcomes to maximize stakeholder engagement and guide future planning.
 date: 2024-09-17
 lastmod: 2024-09-17
-weight: 750
+weight: 410
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: weekly
 ItemId: K4kkSAG3R7m
 ItemType: recipes

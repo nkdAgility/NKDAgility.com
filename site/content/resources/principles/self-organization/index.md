@@ -4,10 +4,10 @@ short_title: Self-Organization in Scrum Teams
 description: Explains how Scrum teams manage their own work, make collaborative decisions, and rely on a Scrum Master for guidance and process support.
 tldr: Scrum teams are self-organizing, meaning they decide together how to reach their goals and share responsibility for outcomes. The Scrum Master supports and guides the team but does not direct their work. Encourage your teams to collaborate and make decisions independently to improve ownership and results.
 date: 2024-09-17
-weight: 690
+weight: 545
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: weekly
 ItemId: eyXbQF80i4R
 ItemType: principles

@@ -5,10 +5,10 @@ description: Explains when a Scrum Master should remove impediments, focusing on
 tldr: The Scrum Master is responsible for removing impediments, but should only step in when the team cannot resolve the issue themselves. Their focus should be on enabling the team to handle similar problems independently in the future, building self-sufficiency. Development managers should encourage Scrum Masters to coach teams rather than always solving problems for them.
 date: 2019-09-23
 lastmod: 2019-09-23
-weight: 605
+weight: 405
 sitemap:
   filename: sitemap.xml
-  priority: 0.3
+  priority: 0.5
   changefreq: weekly
 ItemId: xPJL0I4sjDJ
 ItemType: blog

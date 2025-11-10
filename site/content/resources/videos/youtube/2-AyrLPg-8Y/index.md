@@ -41,6 +41,7 @@ tags:
   - Continuous Learning
   - Pragmatic Thinking
   - Competence
+  - Team Performance
   - Organisational Culture
   - Continuous Improvement
   - Agile Leadership

@@ -40,6 +40,7 @@ tags:
   - Pragmatic Thinking
   - Agile Philosophy
   - Continuous Improvement
+  - Personal
 Watermarks:
   description: 2025-05-07T13:10:09Z
   short_title: 2025-07-07T17:53:30Z

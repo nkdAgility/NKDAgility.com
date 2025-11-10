@@ -5,10 +5,10 @@ description: Ignoring problems in Kanban leads to workflow blockages, technical 
 tldr: Ignoring problems in your Kanban process leads to bigger issues, workflow blockages, and potential crises like project delays or cost overruns. Teams should regularly identify, visualize, and address problems, foster transparency, and take prompt action to prevent issues from escalating. Make it a priority to surface and resolve problems early to keep your workflow effective and avoid costly setbacks.
 date: 2024-03-04T07:00:13Z
 lastmod: 2024-03-04T07:00:13Z
-weight: 1000
+weight: 575
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: Xa_e2EnLEV4
 ItemType: videos
@@ -37,8 +37,9 @@ layout: video
 concepts:
   - Practice
 categories:
-  - Uncategorized
+  - Engineering Excellence
 tags:
+  - Agile Frameworks
   - Operational Practices
   - Value Delivery
 Watermarks:

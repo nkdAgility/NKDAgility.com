@@ -36,8 +36,8 @@ categories:
   - Product Development
 tags:
   - Product Backlog
-  - Agile Product Management
   - Complexity Thinking
+  - Agile Product Management
   - Software Development
   - Pragmatic Thinking
   - Organisational Agility

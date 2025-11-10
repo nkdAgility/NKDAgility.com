@@ -5,10 +5,10 @@ description: Explores how Agile transformed product management by enabling short
 tldr: Agile product management replaces long release cycles with short, frequent delivery, enabling faster feedback, reduced risk, and more responsive adaptation to customer needs. Building quality in from the start and using practices like continuous integration and a clear definition of done minimizes defects and waste. Development managers should focus on shorter cycles, continuous feedback, and embedding quality throughout the process to stay competitive and maximize business value.
 date: 2024-07-18T06:45:01Z
 lastmod: 2024-07-18T06:45:01Z
-weight: 790
+weight: 550
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: _FtFqnZHCjk
 ItemType: videos

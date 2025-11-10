@@ -31,7 +31,8 @@ layout: video
 concepts: []
 categories:
   - Technical Leadership
-tags: []
+tags:
+  - Team Collaboration
 Watermarks:
   description: 2025-05-07T13:11:26Z
   short_title: 2025-07-07T17:54:30Z

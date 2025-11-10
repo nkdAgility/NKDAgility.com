@@ -5,10 +5,10 @@ description: Guidance on resolving conflict in Scrum Teams, including facilitati
 tldr: When conflict arises in a Scrum Team, first encourage the team to resolve it themselves and use facilitation techniques that ensure everyone is heard, such as structured group discussions. The Scrum Master should coach team members and escalate only if necessary, involving HR or considering team changes as a last resort. Focus on building conflict resolution skills within the team and iteratively adapt your approach to find the best solution.
 date: 2019-10-07
 lastmod: 2019-10-07
-weight: 610
+weight: 485
 sitemap:
   filename: sitemap.xml
-  priority: 0.3
+  priority: 0.4
   changefreq: weekly
 ItemId: xIWBb8Cy_Rv
 ItemType: blog

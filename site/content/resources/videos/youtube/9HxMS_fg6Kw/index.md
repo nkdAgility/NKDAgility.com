@@ -5,10 +5,10 @@ description: Key warning signs when hiring an agile consultant include lack of c
 tldr: When hiring an agile consultant, watch out for those who are not active in the agile community, lack deep understanding of core agile concepts, or come from consultancies that prioritize volume over quality and expertise. These red flags suggest the consultant may not be able to adapt to your team's needs or deliver meaningful results. Take time to assess their community involvement, knowledge, and the consultancy's focus before making a decision.
 date: 2023-01-25T07:30:02Z
 lastmod: 2023-01-25T07:30:02Z
-weight: 840
+weight: 560
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: 9HxMS_fg6Kw
 ItemType: videos

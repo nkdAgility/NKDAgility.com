@@ -5,10 +5,10 @@ description: A clear summary of Scrum’s framework, roles, events, artefacts, a
 tldr: The Scrum Guide defines Scrum as a lightweight, adaptable framework for teams to deliver value in complex environments by following clear roles, events, and artefacts. Key points include the importance of empiricism, transparency, and continuous inspection and adaptation, as well as the need for cross-functional, self-managing teams that embody values like commitment and respect. To get the full benefits, implement Scrum in its entirety, empower teams, and use its events and artefacts to drive regular improvement and value delivery.
 date: 2024-09-17
 lastmod: 2024-09-17
-weight: 690
+weight: 365
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: weekly
 author:
   - Ken Schwaber

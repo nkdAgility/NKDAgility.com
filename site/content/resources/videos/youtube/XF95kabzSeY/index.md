@@ -36,6 +36,7 @@ categories:
   - Product Management
 tags:
   - Personal
+  - Product Strategy
   - Value Delivery
   - Product Owner
 Watermarks:

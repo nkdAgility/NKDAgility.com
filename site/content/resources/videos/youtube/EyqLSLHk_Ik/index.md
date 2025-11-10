@@ -42,6 +42,8 @@ tags:
   - Organisational Culture
   - Pragmatic Thinking
   - Product Delivery
+  - Coaching
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:05:09Z
   short_title: 2025-07-07T17:49:16Z

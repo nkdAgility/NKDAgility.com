@@ -34,8 +34,10 @@ concepts:
 categories:
   - Product Development
 tags:
+  - Team Performance
   - Value Delivery
   - Product Delivery
+  - Agile Planning
   - Transparency
   - Agile Frameworks
   - Operational Practices

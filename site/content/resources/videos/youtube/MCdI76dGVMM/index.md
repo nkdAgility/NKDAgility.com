@@ -5,10 +5,10 @@ description: Explores why embracing true professionalism is the hardest part of 
 tldr: The biggest challenge in becoming a professional Scrum Master is the widespread lack of true professionalism in the role, as many focus on titles rather than mastering the underlying principles and continuous learning. Success requires a deep understanding of Scrum theory and its real-world application, not just surface-level knowledge. Development managers should encourage their teams to prioritize professionalism and ongoing skill development to raise industry standards.
 date: 2023-08-02T07:00:12Z
 lastmod: 2023-08-02T07:00:12Z
-weight: 730
+weight: 415
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: MCdI76dGVMM
 ItemType: videos

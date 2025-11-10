@@ -5,10 +5,10 @@ description: Defines a collaborative workshop to create a Statement of Work and 
 tldr: A Customer Working Agreement workshop, lasting about 60 minutes, helps both parties define a clear Statement of Work and agree on the level of agility to apply. It ensures customers understand their responsibilities, such as providing a Product Owner, clear goals, and attending Sprint Reviews, while the development team commits to delivering usable increments and a dedicated team. Development managers should use this workshop early to clarify expectations, roles, and trade-offs for successful collaboration.
 date: 2024-09-17
 lastmod: 2024-09-17
-weight: 705
+weight: 585
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.3
   changefreq: weekly
 ItemId: hjlKdneL4t8
 ItemType: workshops

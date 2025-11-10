@@ -37,7 +37,6 @@ tags:
   - Agile Frameworks
   - Professional Scrum
   - Software Development
-  - Empirical Process Control
   - Agile Product Management
   - Daily Scrum
   - Agile Planning

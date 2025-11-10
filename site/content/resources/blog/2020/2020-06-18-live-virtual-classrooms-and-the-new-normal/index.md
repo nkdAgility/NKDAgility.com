@@ -5,7 +5,7 @@ description: Explores how live virtual classrooms have become effective alternat
 tldr: Virtual training has proven to be as effective as, or even better than, in-person classes, with similar participation and only slightly lower pass rates. Modern video conferencing tools and interactive techniques enable high-quality learning experiences without the need for physical colocation. Development managers should embrace virtual delivery as the new normal, leveraging its flexibility and environmental benefits while adapting team practices to maximize engagement and outcomes.
 date: 2020-06-18
 lastmod: 2020-06-18
-weight: 885
+weight: 830
 sitemap:
   filename: sitemap.xml
   priority: 0.1

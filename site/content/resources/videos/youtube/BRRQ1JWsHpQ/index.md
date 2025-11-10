@@ -32,6 +32,7 @@ categories:
   - Uncategorized
 tags:
   - Team Motivation
+  - Operational Practices
   - Team Collaboration
   - Pragmatic Thinking
   - Continuous Learning

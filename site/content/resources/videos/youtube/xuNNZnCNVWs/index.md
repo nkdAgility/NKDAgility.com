@@ -40,7 +40,9 @@ tags:
   - Coaching
   - Software Development
   - Scrum Master
+  - Team Motivation
   - Mentoring
+  - Value Delivery
   - Agile Transformation
   - Social Technologies
   - Agile Frameworks

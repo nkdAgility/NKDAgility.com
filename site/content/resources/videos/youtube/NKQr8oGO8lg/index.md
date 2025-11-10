@@ -5,10 +5,10 @@ description: Explores how immersive learning boosts practical skills, career gro
 tldr: Immersive learning delivers immediate, practical skills that employees can apply to drive real improvements and continuous growth in your organisation. Teams benefit from ongoing support and multiple opportunities to implement new knowledge, while individuals gain confidence and job readiness. Investing in immersive training accelerates both organisational agility and individual career impact, making it a high-value development strategy.
 date: 2023-07-13T12:16:15Z
 lastmod: 2023-07-13T12:16:15Z
-weight: 805
+weight: 535
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: NKQr8oGO8lg
 ItemType: videos
@@ -32,6 +32,7 @@ categories:
   - Uncategorized
 tags:
   - Competence
+  - Personal
 Watermarks:
   description: 2025-05-07T13:10:39Z
   short_title: 2025-07-07T17:53:56Z

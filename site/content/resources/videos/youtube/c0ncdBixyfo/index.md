@@ -5,10 +5,10 @@ description: Explores how a culture of contempt undermines Agile teams, its caus
 tldr: No Agile team can survive a culture of contempt, which arises when team input is ignored and decisions are made without their involvement, leading to low morale and poor productivity. Leaders must foster open communication, include teams in decision-making, and address disconnects to build a positive, engaged workforce. If change is not possible, individuals may need to seek healthier environments to maintain well-being and performance.
 date: 2023-10-17T11:00:23Z
 lastmod: 2023-10-17T11:00:23Z
-weight: 665
+weight: 485
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: c0ncdBixyfo
 ItemType: videos

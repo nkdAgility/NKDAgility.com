@@ -5,7 +5,7 @@ description: Explains the pitfalls of micromanagement in Agile, showing Product 
 tldr: Product Owners who micromanage and focus on rigid task planning undermine team engagement and product success. Shifting to a focus on vision, value, and outcomes while empowering teams leads to higher motivation, better collaboration, and improved results. Development managers should encourage Product Owners to let go of detailed control, trust their teams, and prioritize clear goals and customer value.
 date: 2024-01-10T07:00:11Z
 lastmod: 2024-01-10T07:00:11Z
-weight: 1000
+weight: 675
 sitemap:
   filename: sitemap.xml
   priority: 0.1

@@ -5,10 +5,10 @@ description: Explains why spreading training over four half-days improves learni
 tldr: Spreading training over four half days instead of two full days leads to better knowledge retention, more opportunities for reflection, and improved practical application. This approach reduces cognitive overload and supports continuous learning and improvement. Consider adopting or experimenting with more flexible training formats to maximize learning outcomes for your teams.
 date: 2023-03-10T07:00:27Z
 lastmod: 2023-03-10T07:00:27Z
-weight: 1000
+weight: 610
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: jFU_4xtHzng
 ItemType: videos

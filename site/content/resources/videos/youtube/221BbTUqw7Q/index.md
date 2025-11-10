@@ -5,10 +5,10 @@ description: 'Discover three essential lessons for Scrum teams after an APS imme
 tldr: The APS immersive course helps Scrum teams deeply understand core principles, apply them to real-world challenges, and distinguish essential Scrum practices from unnecessary add-ons. It provides practical, actionable insights for overcoming early implementation hurdles. Teams are encouraged to revisit and refine their Scrum approach for greater effectiveness.
 date: 2023-08-14T07:00:01Z
 lastmod: 2023-08-14T07:00:01Z
-weight: 735
+weight: 545
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: 221BbTUqw7Q
 ItemType: videos

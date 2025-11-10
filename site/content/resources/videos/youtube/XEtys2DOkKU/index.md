@@ -5,7 +5,7 @@ description: Learn how to use Microsoft’s migration tool to identify issues, r
 tldr: Using Microsoft’s migration tool helps identify and address potential issues with your systems and customisations before moving to the cloud, reducing post-migration problems. Review all customisations for compatibility, plan necessary rewrites, and track tasks to ensure nothing is missed. Proactively using these steps will make your cloud migration smoother and more reliable.
 date: 2024-09-18T11:59:33Z
 lastmod: 2024-09-18T11:59:33Z
-weight: 1000
+weight: 730
 sitemap:
   filename: sitemap.xml
   priority: 0.1

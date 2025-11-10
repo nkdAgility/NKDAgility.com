@@ -5,10 +5,10 @@ description: Explains how Applied Professional Scrum (APS) helps teams master Sc
 tldr: The Applied Professional Scrum (APS) course helps teams focus on delivering a working product every iteration and sheds unhelpful habits that slow progress. Through practical exercises like the "Barnacle Exercise," teams identify and remove outdated practices, leading to more effective Scrum adoption. Development managers should consider APS to build teams that consistently deliver value and embody true Scrum principles.
 date: 2023-08-12T07:00:10Z
 lastmod: 2023-08-12T07:00:10Z
-weight: 665
+weight: 340
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: monthly
 ItemId: QI3oE9IUc6E
 ItemType: videos

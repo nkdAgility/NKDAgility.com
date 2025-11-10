@@ -5,7 +5,7 @@ description: Explains immersive training courses, highlighting how real-world as
 tldr: Immersive training courses move beyond traditional or flipped classroom formats by having participants apply new concepts directly in their own work environments, then return to share and learn from real experiences. This approach, often spread over several weeks, leads to deeper engagement and more practical learning outcomes. Consider adopting immersive training to drive real change and knowledge retention within your teams.
 date: 2023-03-15T07:00:19Z
 lastmod: 2023-03-15T07:00:19Z
-weight: 1000
+weight: 790
 sitemap:
   filename: sitemap.xml
   priority: 0.1

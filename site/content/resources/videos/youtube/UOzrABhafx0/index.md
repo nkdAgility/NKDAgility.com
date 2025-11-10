@@ -5,7 +5,7 @@ description: Learn practical skills for effective product backlog management, in
 tldr: Scrum.org’s new Product Backlog Management course offers focused, practical training in backlog management, helping teams capture, prioritize, and break down work for better clarity and alignment. The compact 8-hour format teaches actionable techniques to minimize distractions, improve transparency, and ensure teams deliver high-value work that supports business goals. Development managers should consider this course to streamline their backlog processes and boost team efficiency.
 date: 2023-11-30T07:00:11Z
 lastmod: 2023-11-30T07:00:11Z
-weight: 1000
+weight: 765
 sitemap:
   filename: sitemap.xml
   priority: 0.1

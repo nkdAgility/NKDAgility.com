@@ -33,6 +33,7 @@ categories:
   - Product Development
   - Product Management
 tags:
+  - Personal
   - Agile Product Management
   - Team Collaboration
 Watermarks:

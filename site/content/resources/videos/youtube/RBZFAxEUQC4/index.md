@@ -5,7 +5,7 @@ description: Explores why Agile transformation requires genuine commitment and a
 tldr: Agile transformation is not a quick fix or something that can be bought off the shelf; it requires genuine commitment, adaptation, and alignment with your organisation’s unique context. Many companies make the mistake of seeking instant results or copying generic models, which often leads to disappointment. Development managers should focus on building a tailored Agile journey through ongoing learning, experimentation, and a willingness to evolve.
 date: 2023-10-12T07:00:12Z
 lastmod: 2023-10-12T07:00:12Z
-weight: 1000
+weight: 825
 sitemap:
   filename: sitemap.xml
   priority: 0.1

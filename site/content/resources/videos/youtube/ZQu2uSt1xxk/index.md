@@ -5,7 +5,7 @@ description: Learn how to implement Kanban in any workflow, use key metrics and 
 tldr: The Applying Professional Kanban course teaches how to integrate Kanban into any workflow to improve efficiency, identify bottlenecks, and drive continuous improvement using data and visualizations. Key outcomes include better workflow management, data-driven decision-making, and increased value delivery to stakeholders. Development managers should consider this course to optimize their team's processes and deliver more value quickly.
 date: 2024-02-21T07:00:11Z
 lastmod: 2024-02-21T07:00:11Z
-weight: 1000
+weight: 690
 sitemap:
   filename: sitemap.xml
   priority: 0.1

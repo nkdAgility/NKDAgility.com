@@ -15,8 +15,8 @@ ItemType: course
 ItemKind: program
 ItemContentOrigin: human
 slug: okr-practitioner
-aliases:
-aliasesArchive:
+aliases: []
+aliasesArchive: 
 type: course
 concepts:
   - Framework
@@ -94,8 +94,8 @@ course_proficiencies:
   - beginner
 ResourceId: OMP
 ResourceType: course
----
 
+---
 # OKR Practitioner
 
 **Course Code:** OMP

@@ -5,10 +5,10 @@ description: Explains the sprint goal in Scrum as a clear, tactical objective fo
 tldr: The most common mistake in sprint planning is failing to define a clear and tangible sprint goal, which is essential for guiding the team's immediate work and connecting it to the broader product vision. A well-defined sprint goal provides focus, enables actionable stakeholder feedback, and helps the team understand and meet expectations. Development managers should ensure every sprint has a concrete goal that can be evaluated at the sprint review to drive progress and alignment.
 date: 2023-05-25T14:00:20Z
 lastmod: 2023-05-25T14:00:20Z
-weight: 840
+weight: 560
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: JVZzJZ5q0Hw
 ItemType: videos

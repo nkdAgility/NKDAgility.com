@@ -5,7 +5,7 @@ description: Learn how to migrate projects to Azure DevOps using self-service or
 tldr: Migrating to Azure DevOps can boost your team's collaboration and productivity by centralising project management and scaling with your needs. You can choose between self-service migration tools or a managed import service, both designed to ensure a smooth and accurate transition. Careful planning and assessment are essential for a successful migration, so consider expert support to avoid common pitfalls and maximise the benefits.
 date: 2024-09-03T09:57:36Z
 lastmod: 2024-09-03T09:57:36Z
-weight: 1000
+weight: 730
 sitemap:
   filename: sitemap.xml
   priority: 0.1

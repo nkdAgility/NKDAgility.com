@@ -5,7 +5,7 @@ description: Explains how strong relationships, dual expertise in DevOps and Scr
 tldr: Becoming a preferred Scrum training supplier for Microsoft was achieved through long-term relationship building, deep expertise in both DevOps and Scrum, and consistently delivering value that led to strong referrals and repeat clients. Engaging directly with Microsoft’s teams and culture further strengthened credibility and visibility. Development managers should focus on building trust, developing dual-domain expertise, and maintaining ongoing client relationships to achieve similar recognition.
 date: 2023-05-10T07:00:17Z
 lastmod: 2023-05-10T07:00:17Z
-weight: 1000
+weight: 795
 sitemap:
   filename: sitemap.xml
   priority: 0.1

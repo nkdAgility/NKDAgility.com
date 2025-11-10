@@ -5,10 +5,10 @@ description: Explains how Scrum teams can balance Sprint work and Refinement, wi
 tldr: Scrum teams need to balance Sprint work, which delivers direct value to stakeholders, with Refinement, which prepares the backlog for future Sprints. Using tools like Azure DevOps to visualise and track both types of work helps teams plan better, avoid unnecessary effort, and stay ready for challenges. Development managers should ensure both work types are visible and managed to improve team efficiency and product outcomes.
 date: 2023-09-14
 lastmod: 2023-09-14
-weight: 690
+weight: 345
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.6
   changefreq: weekly
 ItemId: RCMVmNzZDfV
 ItemType: blog

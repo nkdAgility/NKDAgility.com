@@ -5,10 +5,10 @@ description: Summarises key changes in the 2020 Scrum Guide, including simplifie
 tldr: The 2020 update to the Scrum Guide simplifies language and reduces prescriptive rules, emphasizing that Scrum Teams are self-managing and collectively accountable for delivering value each Sprint. Key changes include clear commitments for Product Goal, Sprint Goal, and Definition of Done, as well as a focus on cross-functional teams and improved Sprint Planning. Development managers should review the new guide to align their teams with these streamlined practices.
 date: 2020-11-18
 lastmod: 2020-11-18
-weight: 790
+weight: 485
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: weekly
 ItemId: 7CqdvOa9t4c
 ItemType: blog

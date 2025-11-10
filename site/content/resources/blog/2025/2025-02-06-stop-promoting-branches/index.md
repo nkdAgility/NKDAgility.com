@@ -38,6 +38,7 @@ tags:
   - Continuous Delivery
   - Team Performance
   - Operational Practices
+  - Frequent Releases
   - Organisational Agility
   - Pragmatic Thinking
   - Modern Source Control
@@ -45,7 +46,6 @@ tags:
   - Deployment Strategies
   - Value Delivery
   - Release Management
-  - Flow Efficiency
 Watermarks:
   description: 2025-05-07T12:49:50Z
   short_title: 2025-07-07T17:46:49Z

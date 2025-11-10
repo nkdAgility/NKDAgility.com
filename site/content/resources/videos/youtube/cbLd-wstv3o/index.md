@@ -5,10 +5,10 @@ description: Learn how to identify and measure unrealised value in your product 
 tldr: Evidence-Based Management helps you find hidden opportunities to improve your product by using metrics like customer satisfaction, market share, and innovation to identify gaps between current performance and potential value. By adding these insights to your product backlog and prioritizing improvements, you can boost user satisfaction, reduce churn, and stay competitive. Regularly review feedback and involve stakeholders to ensure continuous improvement and maximize your product’s value.
 date: 2024-01-24T11:00:29Z
 lastmod: 2024-01-24T11:00:29Z
-weight: 1000
+weight: 440
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: cbLd-wstv3o
 ItemType: videos

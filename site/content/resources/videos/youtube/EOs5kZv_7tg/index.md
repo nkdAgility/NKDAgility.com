@@ -5,10 +5,10 @@ description: Highlights Johanna’s passion, deep experience, and engaging teach
 tldr: Johanna is an engaging and passionate instructor for the Professional Agile Leadership course, bringing extensive real-world experience with organizational leaders. Her sessions are dynamic due to both her enthusiasm and the active participation of decision-makers in the class, leading to valuable discussions and practical insights. Consider enrolling in the course or reaching out for a conversation to enhance your agile leadership skills and drive transformation in your organization.
 date: 2023-07-26T04:03:17Z
 lastmod: 2023-07-26T04:03:17Z
-weight: 765
+weight: 650
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: EOs5kZv_7tg
 ItemType: videos

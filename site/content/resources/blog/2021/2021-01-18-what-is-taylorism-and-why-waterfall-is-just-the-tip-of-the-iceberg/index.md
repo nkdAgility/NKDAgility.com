@@ -38,6 +38,7 @@ concepts:
 categories:
   - Lean
 tags:
+  - Social Technologies
   - Organisational Physics
   - Sociotechnical Systems
   - Organisational Culture

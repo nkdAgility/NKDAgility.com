@@ -5,10 +5,10 @@ description: Most people in scrum courses realise the true value of empiricism a
 tldr: The most common realization in scrum courses is understanding the deep purpose behind each element of the scrum framework, especially its foundation in empiricism, rather than just following procedures. Many experienced practitioners discover they have been missing the true value of scrum by not connecting its events and artefacts to their intended outcomes. To unlock high performance, teams should focus on mastering the fundamentals and intentionally applying scrum’s principles, not just its mechanics.
 date: 2023-03-03T07:15:03Z
 lastmod: 2023-03-03T07:15:03Z
-weight: 790
+weight: 585
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: klBiNFvxuy0
 ItemType: videos

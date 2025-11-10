@@ -5,7 +5,7 @@ description: Learn the three core Kanban principles—visualising workflow, acti
 tldr: Kanban helps teams boost productivity by visualizing their workflow, actively managing tasks, and continuously improving processes. Key benefits include increased transparency, better communication, and faster delivery through proactive management and small, ongoing improvements. Start by mapping your workflow, then focus on daily task management and regular process reviews to drive efficiency.
 date: 2024-07-01T07:00:24Z
 lastmod: 2024-07-01T07:00:24Z
-weight: 1000
+weight: 695
 sitemap:
   filename: sitemap.xml
   priority: 0.1
@@ -34,6 +34,7 @@ categories:
   - Kanban
   - Product Development
 tags:
+  - Team Performance
   - Transparency
   - Continuous Improvement
   - Agile Frameworks

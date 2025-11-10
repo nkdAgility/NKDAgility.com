@@ -35,6 +35,8 @@ tags:
   - Customer Focus
   - Agile Philosophy
   - Software Development
+  - Decision Making
+  - Agile Strategy
   - Agile Values and Principles
   - Agile Transformation
   - Pragmatic Thinking

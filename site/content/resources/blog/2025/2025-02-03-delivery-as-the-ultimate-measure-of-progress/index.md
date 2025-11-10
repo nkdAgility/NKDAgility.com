@@ -5,10 +5,10 @@ description: Scrum teams must deliver working software to real users every Sprin
 tldr: Progress in Scrum should be measured by delivering working software to real users, not just completing internal work. Teams must deliver increments to production every Sprint, gather user feedback quickly, and adapt based on that feedback. To stay competitive, make delivery the default by automating releases, breaking down silos, and ensuring value reaches users every iteration.
 date: 2025-02-03T09:00:00
 lastmod: 2025-02-03T09:00:00
-weight: 175
+weight: 150
 sitemap:
   filename: sitemap.xml
-  priority: 0.7
+  priority: 0.8
   changefreq: weekly
 contributors:
   - name: Ana Kotevska
@@ -33,6 +33,7 @@ categories:
   - Scrum
   - Engineering Excellence
 tags:
+  - Frequent Releases
   - Pragmatic Thinking
   - Software Development
   - Market Adaptability
@@ -46,7 +47,6 @@ tags:
   - Social Technologies
   - Continuous Delivery
   - Technical Mastery
-  - Frequent Releases
   - Agile Product Management
 platform_signals:
   - platform: Scrumorg

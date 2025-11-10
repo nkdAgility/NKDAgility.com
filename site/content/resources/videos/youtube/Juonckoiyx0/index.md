@@ -5,10 +5,10 @@ description: Learn how Scrum teams can boost Sprint review success by engaging s
 tldr: To get the most out of Sprint reviews, focus on engaging stakeholders by understanding their priorities, communicating value in clear and relevant terms, and encouraging active participation. Regular check-ins, feedback loops, and making information accessible to all stakeholders help build stronger relationships and increase involvement. Make Sprint reviews a collaborative opportunity rather than just a technical update to drive better outcomes and transparency.
 date: 2023-09-04T07:00:13Z
 lastmod: 2023-09-04T07:00:13Z
-weight: 690
+weight: 490
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: Juonckoiyx0
 ItemType: videos
