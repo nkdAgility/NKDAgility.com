@@ -1,5 +1,5 @@
 ---
-title: 'Engineering Excellence Mentorship: Transform Your Team in One Hour a Week'
+title: "Engineering Excellence Mentorship: Transform Your Team in One Hour a Week"
 short_title: Engineering Excellence Mentorship Program
 description: A weekly one-hour mentorship for engineering teams to improve code quality, delivery predictability, and team culture through practical, system-focused coaching.
 tldr: Engineering Excellence Mentorship offers a practical, one-hour-a-week program that helps teams fix systemic issues affecting delivery, quality, and burnout by improving engineering practices within real work. Teams see measurable results like faster, safer releases, reduced cycle times, and higher engagement within months. Book a session to quickly diagnose blockers and start building sustainable improvement without adding more frameworks or meetings.
@@ -22,8 +22,7 @@ aliasesArchive:
   - /resources/WEqwDQVsOIa
 layout: newsletter
 concepts: []
-categories:
-  - Uncategorized
+categories: []
 tags: []
 Watermarks:
   description: 2025-11-10T10:29:15Z
@@ -31,8 +30,8 @@ Watermarks:
   short_title: 2025-11-10T10:29:21Z
 ResourceId: UNwJYTj5fV1
 ResourceType: newsletters
-
 ---
+
 ## Why another methodology won’t save you
 
 If your release dates keep slipping, your top engineers are burning out, and your technical debt keeps growing, the issue isn’t talent or intent – **it’s the system**. The new Engineering Excellence Mentorship program begins by making this visible, then fixing it where it matters most: in the way work flows, not in more frameworks or meetings.
