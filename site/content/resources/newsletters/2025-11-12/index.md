@@ -16,10 +16,9 @@ ItemType: newsletters
 ItemKind: resource
 ItemContentOrigin: human
 aliases:
-  - /resources/WEqwDQVsOIa
   - /resources/UNwJYTj5fV1
 aliasesArchive:
-  - /resources/WEqwDQVsOIa
+  - /resources/UNwJYTj5fV1
 layout: newsletter
 concepts: []
 categories: []
@@ -34,7 +33,7 @@ ResourceType: newsletters
 
 ## Why another methodology won’t save you
 
-If your release dates keep slipping, your top engineers are burning out, and your technical debt keeps growing, the issue isn’t talent or intent – **it’s the system**. The new Engineering Excellence Mentorship program begins by making this visible, then fixing it where it matters most: in the way work flows, not in more frameworks or meetings.
+If your release dates keep slipping, your top engineers are burning out, and your technical debt keeps growing, the issue isn’t talent or intent, **it’s the system**. The Engineering Excellence Mentorship program begins by making this visible, then fixing it where it matters most: in the way work flows, not in more frameworks or meetings.
 
 **Scrum, Kanban, and DevOps all rely on one foundation: good engineering.** Without disciplined engineering practice, every method degenerates into chaos. This mentorship is designed to rebuild that foundation – pragmatically, one hour at a time.
 
