@@ -34,6 +34,7 @@ tags:
   - Product Delivery
   - Artificial Intelligence
   - Market Adaptability
+  - Business Agility
   - Value Delivery
   - Digital Transformation
 Watermarks:

@@ -5,10 +5,10 @@ description: Explores how immersive, collaborative learning methods in Scrum tra
 tldr: Immersive learning is more effective than traditional Scrum training because it provides ongoing support, real-time problem solving, and peer collaboration over several weeks, helping participants apply new skills in real situations. This approach leads to gradual, sustainable change and builds confidence through shared learning and continuous improvement. Development managers should consider immersive learning to achieve lasting transformation in their teams and organizations.
 date: 2023-11-23T08:30:06Z
 lastmod: 2023-11-23T08:30:06Z
-weight: 665
+weight: 380
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: Frqfd0EPj_4
 ItemType: videos

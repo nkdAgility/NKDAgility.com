@@ -33,14 +33,14 @@ categories:
   - Product Management
   - Product Development
 tags:
+  - Agile Strategy
+  - Social Technologies
   - Business Agility
   - Pragmatic Thinking
   - Agile Planning
-  - Agile Strategy
   - Organisational Agility
   - Market Adaptability
   - Agile Transformation
-  - Agile Values and Principles
   - Operational Practices
   - Organisational Physics
   - Agile Philosophy

@@ -5,10 +5,10 @@ description: Explains why Scrum events are not pointless meetings but structured
 tldr: Scrum events are not just meetings but purposeful activities designed to drive inspection, adaptation, and real progress. Misunderstanding them as empty ceremonies leads to missed opportunities for team alignment, stakeholder engagement, and continuous improvement. Development managers should focus on using Scrum events to foster transparency and action, not just to fill calendars.
 date: 2023-10-24T06:50:42Z
 lastmod: 2023-10-24T06:50:42Z
-weight: 665
+weight: 380
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: 7O-LmzmxUkE
 ItemType: videos

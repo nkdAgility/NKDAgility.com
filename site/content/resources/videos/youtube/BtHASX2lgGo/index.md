@@ -5,10 +5,10 @@ description: Explains why burndown charts hinder agile teams, highlighting the p
 tldr: Relying on burndown charts leads to excessive upfront planning, which is ineffective given the high uncertainty and frequent changes in software development. Instead, start each Sprint with only enough planning to begin work, then reassess and adjust daily to stay flexible and focused on delivering value. Shift your team’s approach to minimal, just-in-time planning to reduce overhead and respond better to change.
 date: 2024-01-09T07:00:05Z
 lastmod: 2024-01-09T07:00:05Z
-weight: 655
+weight: 315
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: monthly
 ItemId: BtHASX2lgGo
 ItemType: videos

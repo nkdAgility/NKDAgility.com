@@ -33,6 +33,7 @@ categories:
   - Product Development
   - Scrum
 tags:
+  - Value Delivery
   - Software Development
   - Agile Product Management
   - Empirical Process Control

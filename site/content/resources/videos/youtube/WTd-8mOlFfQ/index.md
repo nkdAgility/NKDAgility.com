@@ -37,6 +37,7 @@ categories:
   - Scrum
 tags:
   - Scrum Master
+  - Personal
 Watermarks:
   description: 2025-05-07T13:10:57Z
   short_title: 2025-07-07T17:54:06Z

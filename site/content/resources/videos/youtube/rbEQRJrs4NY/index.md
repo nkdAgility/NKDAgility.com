@@ -35,6 +35,8 @@ tags:
   - Product Validation
   - Customer Focus
   - Miscellaneous
+  - Minimum Viable Product
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T12:49:45Z
   short_title: 2025-07-07T17:46:43Z

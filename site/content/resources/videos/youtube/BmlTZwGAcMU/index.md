@@ -33,9 +33,11 @@ concepts:
 categories:
   - Product Development
 tags:
+  - Professional Scrum
   - Scrum Master
   - Software Development
   - Competence
+  - Empirical Process Control
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:05:55Z

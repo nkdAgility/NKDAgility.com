@@ -5,7 +5,7 @@ description: Explores how fear hinders true agility in teams, emphasising the ne
 tldr: Fear blocks true agility and leads to stagnation, regardless of how many Agile practices you follow. The main job of leaders is to remove fear so teams can learn, adapt, and deliver value. Focus on creating an environment where people feel safe to speak up and take risks.
 date: 2025-05-07T15:30:42+01:00
 lastmod: 2025-05-07T15:30:42+01:00
-weight: 325
+weight: 345
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -22,8 +22,8 @@ layout: signal
 concepts:
   - Principle
 categories:
-  - Technical Leadership
   - Leadership
+  - Technical Leadership
   - Product Development
 tags:
   - Agile Philosophy

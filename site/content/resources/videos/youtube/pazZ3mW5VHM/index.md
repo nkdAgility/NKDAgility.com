@@ -5,10 +5,10 @@ description: Many Product Owners in PSPO courses feel a lack of control or influ
 tldr: Many Product Owners feel they lack control over key decisions like backlog order and product goals, often being excluded from strategic discussions. Recognizing this gap is the first step toward gaining more influence and accountability. Product Owners should proactively seek involvement in important meetings and build relationships to elevate their role within the organization.
 date: 2023-07-06T14:33:51Z
 lastmod: 2023-07-06T14:33:51Z
-weight: 775
+weight: 555
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: pazZ3mW5VHM
 ItemType: videos

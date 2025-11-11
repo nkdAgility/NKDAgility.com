@@ -32,6 +32,7 @@ concepts:
 categories:
   - Product Development
 tags:
+  - Personal
   - Organisational Agility
   - Agile Philosophy
   - Social Technologies

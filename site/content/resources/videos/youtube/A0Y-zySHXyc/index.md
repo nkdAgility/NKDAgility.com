@@ -5,10 +5,10 @@ description: Explores key barriers preventing developers from accepting Product 
 tldr: Developers may not fully accept the Product Owner as the final decision maker when stakeholders undermine the Product Owner’s authority, send mixed messages, or fail to consistently support their decisions. This leads to confusion, lack of trust, and developers second-guessing decisions. To address this, ensure stakeholders back the Product Owner publicly, document agreements, and foster open communication to build trust and accountability.
 date: 2023-10-03T07:00:08Z
 lastmod: 2023-10-03T07:00:08Z
-weight: 790
+weight: 615
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: A0Y-zySHXyc
 ItemType: videos

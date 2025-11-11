@@ -5,7 +5,7 @@ description: Practical tech tips for using Microsoft Teams and Mural to improve 
 tldr: Using Microsoft Teams for video conferencing and Mural for digital whiteboarding can significantly improve engagement and collaboration in virtual Scrum training. Ensuring participants are comfortable with these tools through a tech check before class helps reduce confusion and maximises learning time. Development managers should encourage their teams to familiarise themselves with these platforms ahead of training to ensure a smoother and more productive experience.
 date: 2020-05-02T16:34:05Z
 lastmod: 2020-05-02T16:34:05Z
-weight: 900
+weight: 710
 sitemap:
   filename: sitemap.xml
   priority: 0.1

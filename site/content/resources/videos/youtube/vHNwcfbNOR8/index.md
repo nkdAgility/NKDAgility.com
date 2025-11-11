@@ -5,10 +5,10 @@ description: Explores building Agile apprenticeships through mentorship, continu
 tldr: Creating Agile apprenticeships is a natural next step from immersive learning, as ongoing engagement with trainees has organically formed a community of Agile learners. Key initiatives include open invitations for informal discussions, bonus consulting time, and a mentor-apprentice model that supports continuous growth and knowledge sharing. Development managers should consider fostering similar environments to encourage ongoing learning and mentorship within their teams.
 date: 2023-03-17T07:00:21Z
 lastmod: 2023-03-17T07:00:21Z
-weight: 665
+weight: 480
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: vHNwcfbNOR8
 ItemType: videos

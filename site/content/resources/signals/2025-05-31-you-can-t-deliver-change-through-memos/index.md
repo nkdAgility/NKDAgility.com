@@ -24,6 +24,7 @@ concepts:
 categories:
   - Scrum
   - Product Development
+  - Leadership
 tags:
   - Pragmatic Thinking
   - Personal
@@ -33,12 +34,13 @@ tags:
   - Organisational Culture
   - Competence
   - Social Technologies
+  - Sociotechnical Systems
   - Agile Frameworks
   - Change Management
   - Agile Leadership
   - Agile Transformation
   - Software Development
-  - Empirical Process Control
+  - Continuous Learning
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7334602153124102145

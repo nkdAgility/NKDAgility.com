@@ -5,7 +5,7 @@ description: Explores the full responsibilities of a Product Owner in Agile, hig
 tldr: The Product Owner role goes far beyond managing the backlog, requiring strategic decision-making, budget accountability, and proactive leadership to maximize product value and stay ahead of the market. Success depends on strong relationships, deep market understanding, and continuous learning, not just training. Development managers should ensure Product Owners have the authority, information, and support needed to drive product direction and deliver real business impact.
 date: 2023-11-27T06:46:47Z
 lastmod: 2023-11-27T06:46:47Z
-weight: 1000
+weight: 875
 sitemap:
   filename: sitemap.xml
   priority: 0.1

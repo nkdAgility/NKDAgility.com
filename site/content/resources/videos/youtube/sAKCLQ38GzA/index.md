@@ -5,10 +5,10 @@ description: Explores how defining purpose and starting with 'why' boosts motiva
 tldr: Starting with a clear purpose is essential for Agile teams because it boosts motivation, engagement, and alignment. Focusing on intrinsic motivators like autonomy, mastery, and purpose leads to better results than relying on financial incentives. Development managers should ensure their teams understand the broader vision and regularly connect daily work to that purpose for sustained success.
 date: 2023-10-19T08:22:23Z
 lastmod: 2023-10-19T08:22:23Z
-weight: 810
+weight: 495
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: sAKCLQ38GzA
 ItemType: videos

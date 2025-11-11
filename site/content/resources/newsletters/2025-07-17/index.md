@@ -5,7 +5,7 @@ description: Explains how technical leaders can break down organisational silos 
 tldr: Software organisations fail when leaders tolerate poor system design, such as bad branching models, siloed teams, and business logic in databases. To improve delivery, leaders must enforce trunk-based development, restructure teams for cross-functionality and autonomy, and set clear architectural boundaries. Development managers are responsible for shaping systems that enable agility and flow, not just managing people or reporting on delivery.
 date: 2025-07-17
 lastmod: 2025-07-17
-weight: 65
+weight: 80
 sitemap:
   filename: sitemap.xml
   priority: 0.8
@@ -23,24 +23,24 @@ concepts:
   - Tenet
 categories:
   - Technical Leadership
-  - Engineering Excellence
   - Leadership
+  - Engineering Excellence
 tags:
   - Software Development
   - Operational Practices
-  - Pragmatic Thinking
-  - Product Delivery
   - Technical Mastery
+  - Pragmatic Thinking
   - Technical Excellence
   - Engineering Practices
   - Market Adaptability
   - Organisational Agility
+  - Product Delivery
   - Continuous Delivery
   - Enterprise Agility
   - Social Technologies
-  - Sociotechnical Systems
   - Team Performance
   - Value Delivery
+  - Agile Leadership
 Watermarks:
   description: 2025-05-07T12:48:55Z
   short_title: 2025-07-07T16:43:14Z

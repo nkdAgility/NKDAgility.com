@@ -5,10 +5,10 @@ description: Learn how to track, manage, and optimise product development costs 
 tldr: Understanding and managing product development costs, especially people and infrastructure, is essential for financial success. Empowering teams with financial awareness helps them make better decisions, align work with value, and focus on profitable outcomes. Development managers should foster a culture where teams track costs, measure value delivered, and continuously improve processes to drive profitability and innovation.
 date: 2024-12-20T07:00:00Z
 lastmod: 2024-12-20T07:00:00Z
-weight: 590
+weight: 470
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.3
   changefreq: monthly
 ItemId: UgFVn4Sp1rw
 ItemType: videos
@@ -36,6 +36,8 @@ tags:
   - Metrics and Learning
   - Pragmatic Thinking
   - Value Delivery
+  - Decision Making
+  - Agile Strategy
   - Project Management
 Watermarks:
   description: 2025-05-07T12:56:36Z

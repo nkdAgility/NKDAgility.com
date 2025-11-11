@@ -35,6 +35,7 @@ concepts: []
 categories:
   - Uncategorized
 tags:
+  - Agile Strategy
   - Enterprise Agility
   - Systems Thinking
 Watermarks:

@@ -5,10 +5,10 @@ description: Emphasises the importance of flexibility and pragmatism in Scrum, e
 tldr: The most valuable Scrum advice is to avoid rigidly following every rule and instead adapt Scrum principles to fit your team's unique context. Flexibility and continuous improvement are more important than strict adherence to the framework, so use Scrum as a guide and modify it as needed to maximize value and innovation. Encourage your teams to experiment and iterate, focusing on what works best for your organization.
 date: 2023-06-05T07:00:20Z
 lastmod: 2023-06-05T07:00:20Z
-weight: 690
+weight: 490
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: YUlpnyN2IeI
 ItemType: videos

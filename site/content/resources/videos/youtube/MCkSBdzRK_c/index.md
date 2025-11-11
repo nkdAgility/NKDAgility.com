@@ -5,7 +5,7 @@ description: Explains how evidence-based management uses data-driven decisions a
 tldr: Evidence-based management helps leaders make better decisions by focusing on meaningful metrics that drive real business value, such as current and unrealised value, time to market, and ability to innovate. Regularly reviewing and tailoring these metrics to your organisation enables data-driven strategies and a clear competitive advantage. Consider adopting this approach to move beyond gut feelings and ensure your team delivers measurable results.
 date: 2024-01-25T07:00:13Z
 lastmod: 2024-01-25T07:00:13Z
-weight: 1000
+weight: 700
 sitemap:
   filename: sitemap.xml
   priority: 0.1

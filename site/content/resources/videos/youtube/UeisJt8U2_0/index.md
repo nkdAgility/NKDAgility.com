@@ -5,10 +5,10 @@ description: Explores the widespread issue of incompetent Agile coaches and Scru
 tldr: Many organizations are undermined by unqualified Agile coaches and Scrum Masters who lack real understanding and experience, leading to harmful practices, lost trust in Agile, and reduced team performance. Key issues include rigid rule enforcement, lack of inclusivity, and prioritizing process over people. To avoid these pitfalls, prioritize hiring experienced, continuously learning Agile leaders who embody true Agile values and focus on team empowerment and value delivery.
 date: 2023-10-20T07:00:23Z
 lastmod: 2023-10-20T07:00:23Z
-weight: 640
+weight: 350
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: monthly
 ItemId: UeisJt8U2_0
 ItemType: videos

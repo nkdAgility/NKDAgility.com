@@ -36,21 +36,21 @@ categories:
   - Product Development
   - Scrum
 tags:
+  - Value Delivery
+  - Decision Making
   - Social Technologies
+  - Operational Practices
   - Customer Focus
   - Evidence Based Management
   - Metrics and Learning
+  - Organisational Change
   - Ability to Innovate
   - Agile Product Management
   - Continuous Improvement
-  - Operational Practices
   - Evidence Based Leadership
   - Software Development
-  - Value Delivery
-  - Decision Making
   - Pragmatic Thinking
-  - Current Value
-  - Time to Market
+  - Empirical Process Control
 Watermarks:
   description: 2025-05-07T13:15:07Z
   short_title: 2025-07-07T17:57:39Z

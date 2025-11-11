@@ -27,12 +27,12 @@ categories:
 tags:
   - Technical Mastery
   - Software Development
-  - Engineering Practices
   - Technical Excellence
+  - Engineering Practices
   - Pragmatic Thinking
+  - Product Delivery
   - Operational Practices
   - Team Performance
-  - Technical Debt
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7333877465657872386

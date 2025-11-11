@@ -5,10 +5,10 @@ description: Continuous delivery is achievable for any software, regardless of c
 tldr: Complexity is not a valid reason to avoid continuous delivery; organisations like Azure DevOps and Starbucks have proven that even large, complex systems can achieve frequent, reliable releases with the right investment in automation, process improvement, and culture change. Key actions include automating everything, adopting trunk-based development, using feature flags, shifting quality left, and iterating on pain points. Development managers should focus on measuring and improving flow metrics and value delivery, prioritising organisational commitment to overcome resistance and realise the benefits of continuous delivery.
 date: 2025-02-24T09:00:00
 lastmod: 2025-02-24T09:00:00
-weight: 155
+weight: 105
 sitemap:
   filename: sitemap.xml
-  priority: 0.7
+  priority: 0.8
   changefreq: weekly
 contributors:
   - name: John McFadyen
@@ -31,25 +31,25 @@ layout: blog
 concepts:
   - Practice
 categories:
-  - DevOps
   - Engineering Excellence
+  - DevOps
   - Product Development
 tags:
   - Continuous Delivery
   - Metrics and Learning
   - Software Development
+  - Product Delivery
   - Technical Mastery
   - Operational Practices
   - Market Adaptability
   - Value Delivery
   - Frequent Releases
   - Pragmatic Thinking
-  - Product Delivery
+  - Technical Excellence
   - Engineering Practices
   - Evidence Based Management
   - Deployment Frequency
   - Organisational Agility
-  - Technical Excellence
 platform_signals:
   - platform: Scrumorg
     post_url: https://www.scrum.org/resources/blog/stop-hiding-behind-complexity-and-start-delivering-continuously

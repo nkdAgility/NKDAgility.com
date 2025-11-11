@@ -33,6 +33,7 @@ categories:
   - Technical Leadership
   - Leadership
 tags:
+  - Competence
   - Professional Scrum
   - Pragmatic Thinking
   - Social Technologies
@@ -40,10 +41,9 @@ tags:
   - Scrum Master
   - Agile Frameworks
   - Agile Transformation
-  - Software Development
-  - Competence
-  - Team Performance
   - Product Delivery
+  - Software Development
+  - Team Performance
   - Organisational Agility
   - Value Delivery
   - Operational Practices

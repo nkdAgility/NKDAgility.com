@@ -27,20 +27,20 @@ categories:
   - Product Development
 tags:
   - Engineering Practices
-  - Operational Practices
   - Frequent Releases
+  - Continuous Delivery
+  - Operational Practices
   - Product Delivery
   - Technical Excellence
   - Software Development
   - Automated Testing
-  - Continuous Delivery
-  - Continuous Integration
   - Technical Mastery
   - Pragmatic Thinking
   - Test Automation
   - Market Adaptability
   - Deployment Frequency
   - Value Delivery
+  - Continuous Integration
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7300552825229434882

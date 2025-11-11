@@ -5,7 +5,7 @@ description: Explores when consensus helps or hinders product development, highl
 tldr: Consensus is essential in product development but can slow progress if overused, especially in fast-moving markets where quick decisions are needed. Building trust and involving the team in decision-making helps achieve effective consensus, but leaders must know when to seek agreement and when to act decisively. Development managers should balance collaboration with timely leadership to drive successful outcomes.
 date: 2023-09-25T07:00:08Z
 lastmod: 2023-09-25T07:00:08Z
-weight: 840
+weight: 680
 sitemap:
   filename: sitemap.xml
   priority: 0.1

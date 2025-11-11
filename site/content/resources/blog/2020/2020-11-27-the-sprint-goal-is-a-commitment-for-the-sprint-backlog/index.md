@@ -5,10 +5,10 @@ description: Explains how the Sprint Goal guides Scrum teams by providing a clea
 tldr: The Sprint Goal is a clear, single objective for each Sprint that guides the team’s focus and aligns their work toward the Product Goal. It is set during Sprint Planning, helps teams adapt their work as needed without losing sight of the main purpose, and should be specific to your business context. Ensure your Product Owner proposes a meaningful Sprint Goal for each Sprint to keep the team aligned and working toward valuable outcomes.
 date: 2020-11-27
 lastmod: 2020-11-27
-weight: 790
+weight: 610
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: weekly
 ItemId: 99LDtXqmRu5
 ItemType: blog

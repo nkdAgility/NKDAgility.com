@@ -5,10 +5,10 @@ description: Organisations should consider a professional Agile consultant after
 tldr: Organisations should consider a professional agile consultant when facing significant project failure or when seeking continuous improvement, as an external expert can provide valuable perspective and help identify opportunities for change. It is important to avoid being swayed by consultants who lack real agile expertise and instead choose someone with proven experience. Whether recovering from setbacks or aiming to enhance performance, bringing in the right agile consultant can help teams evolve and deliver better results.
 date: 2023-03-28T07:00:21Z
 lastmod: 2023-03-28T07:00:21Z
-weight: 790
+weight: 580
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: y0yIAIqOv-Q
 ItemType: videos

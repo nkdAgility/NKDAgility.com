@@ -43,6 +43,7 @@ tags:
   - Business Agility
   - Pragmatic Thinking
   - Organisational Agility
+  - Empirical Process Control
   - Change Management
   - Value Delivery
 Watermarks:

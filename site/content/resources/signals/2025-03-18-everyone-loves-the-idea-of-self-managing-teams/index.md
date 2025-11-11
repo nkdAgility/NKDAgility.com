@@ -34,7 +34,6 @@ tags:
   - Team Collaboration
   - Common Goals
   - Agile Planning
-  - Team Performance
   - Team Motivation
   - Value Delivery
   - Agile Leadership

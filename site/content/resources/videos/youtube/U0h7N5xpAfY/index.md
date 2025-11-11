@@ -5,10 +5,10 @@ description: Explains the true responsibilities of a Scrum Master, how to maximi
 tldr: The true role of a Scrum Master is to maximize the effectiveness of the Scrum team, which may differ from how organizations define the job. Key to success are teaching the team Scrum principles and empiricism, using complementary practices, and actively working with the wider organization to remove obstacles. Development managers should ensure Scrum Masters are empowered to focus on these priorities and invest in ongoing training to drive both team and organizational improvement.
 date: 2023-11-28T07:00:15Z
 lastmod: 2023-11-28T07:00:15Z
-weight: 610
+weight: 430
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: monthly
 ItemId: U0h7N5xpAfY
 ItemType: videos

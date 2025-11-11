@@ -5,7 +5,7 @@ description: Explores how immersive learning boosts engagement, retention, and u
 tldr: Immersive learning experiences lead to deeper understanding, better retention, and stronger engagement than traditional methods by providing hands-on practice, ongoing support, and a collaborative community. This approach encourages continuous growth and adaptation, making learning a sustained journey rather than a one-time event. Development managers should consider adopting immersive learning to build resilient, high-performing teams and ensure lasting knowledge transfer.
 date: 2023-07-10T07:00:18Z
 lastmod: 2023-07-10T07:00:18Z
-weight: 1000
+weight: 920
 sitemap:
   filename: sitemap.xml
   priority: 0.1

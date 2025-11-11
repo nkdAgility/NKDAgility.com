@@ -5,7 +5,7 @@ description: Explains why lasting organisational change comes from adjusting sys
 tldr: Focusing on changing organizational culture directly does not work because culture is an outcome of the underlying system, such as rules, processes, and decision-making structures. To achieve real and lasting change, development managers should make small, targeted adjustments to these systems, monitor the impact on team behavior, and iterate as needed. Leaders must support and model these changes, as system tweaks drive the cultural shifts that Agile aims for.
 date: 2024-01-21T07:00:06Z
 lastmod: 2024-01-21T07:00:06Z
-weight: 1000
+weight: 775
 sitemap:
   filename: sitemap.xml
   priority: 0.1

@@ -37,6 +37,7 @@ tags:
   - Software Development
   - Working Software
   - Personal
+  - Team Collaboration
 Watermarks:
   description: 2025-05-07T13:07:10Z
   short_title: 2025-07-07T17:51:13Z

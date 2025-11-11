@@ -5,10 +5,10 @@ description: Explores the limits of Agile certifications, emphasising real-world
 tldr: Agile certifications are often overvalued and can distract from real learning and practical experience; passing an exam does not make someone an expert or guarantee they can deliver value. True capability comes from hands-on work, team recognition, and continuous learning, not just credentials. Development managers should prioritize real-world skills and team impact over certifications when hiring or developing Agile professionals.
 date: 2024-01-02T07:00:20Z
 lastmod: 2024-01-02T07:00:20Z
-weight: 790
+weight: 600
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: eLkJ_YEhMB0
 ItemType: videos

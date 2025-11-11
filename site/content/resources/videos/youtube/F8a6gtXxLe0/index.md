@@ -30,7 +30,9 @@ concepts: []
 categories:
   - Product Development
   - Scrum
-tags: []
+tags:
+  - Software Development
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T13:16:31Z
   short_title: 2025-07-07T17:58:46Z

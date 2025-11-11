@@ -38,7 +38,7 @@ tags:
   - Pragmatic Thinking
   - Social Technologies
   - Metrics and Learning
-  - Enterprise Agility
+  - Agile Leadership
 Watermarks:
   description: 2025-06-03T15:33:08Z
   short_title: 2025-07-07T16:43:08Z

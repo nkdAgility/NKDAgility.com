@@ -24,12 +24,12 @@ categories:
   - Product Development
 tags:
   - Value Delivery
-  - Product Delivery
   - Pragmatic Thinking
   - Agile Philosophy
   - Market Adaptability
-  - Organisational Agility
+  - Product Delivery
   - Agile Values and Principles
+  - Organisational Agility
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7337138877612150785

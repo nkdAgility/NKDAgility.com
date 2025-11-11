@@ -5,7 +5,7 @@ description: Learn how to identify, prioritise, and test assumptions in product 
 tldr: Success in product development depends on identifying, prioritising, and validating assumptions through structured hypotheses and targeted experiments. Focusing on the most critical assumptions, using data-driven testing, and avoiding attachment to unproven ideas leads to better decision-making and outcomes. Development managers should foster a culture of learning and adaptability by encouraging teams to challenge assumptions and iterate based on evidence.
 date: 2024-08-20T07:06:21Z
 lastmod: 2024-08-20T07:06:21Z
-weight: 1000
+weight: 760
 sitemap:
   filename: sitemap.xml
   priority: 0.1

@@ -31,6 +31,7 @@ concepts:
 categories:
   - Engineering Excellence
 tags:
+  - Digital Transformation
   - Pragmatic Thinking
   - Software Development
 Watermarks:

@@ -5,7 +5,7 @@ description: A 30% discount is offered to alumni, recognising their dedication a
 tldr: Existing alumni are being offered a 30 percent discount on future courses to recognize their dedication and support their continued growth in Agile and DevOps. This offer aims to help committed professionals deepen their expertise, transition to consultant roles, and stay competitive. Take advantage of this opportunity to further develop your skills and advance your career.
 date: 2023-06-09T11:00:46Z
 lastmod: 2023-06-09T11:00:46Z
-weight: 900
+weight: 760
 sitemap:
   filename: sitemap.xml
   priority: 0.1

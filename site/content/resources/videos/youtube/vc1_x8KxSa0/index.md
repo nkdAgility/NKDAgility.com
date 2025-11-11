@@ -35,16 +35,16 @@ tags:
   - Continuous Improvement
   - Technical Mastery
   - Organisational Change
+  - Change Management
   - Organisational Agility
   - Continuous Learning
   - Pragmatic Thinking
-  - Team Collaboration
-  - Change Management
   - Digital Transformation
+  - Team Collaboration
   - Business Agility
+  - Team Motivation
+  - Product Delivery
   - Operational Practices
-  - Sociotechnical Systems
-  - Engineering Practices
 Watermarks:
   description: 2025-07-24T14:48:31Z
   short_title: 2025-07-24T14:48:31Z

@@ -36,6 +36,7 @@ categories:
 tags:
   - Operational Practices
   - Transparency
+  - Team Performance
   - Product Delivery
   - Continuous Improvement
   - Software Development

@@ -31,12 +31,13 @@ categories:
   - Scrum
 tags:
   - Software Development
+  - Frequent Releases
   - Deployment Frequency
   - Working Software
+  - Agile Philosophy
   - Market Adaptability
   - Customer Focus
   - Operational Practices
-  - Frequent Releases
   - Value Delivery
   - Product Delivery
   - Continuous Delivery
@@ -44,7 +45,6 @@ tags:
   - Release Management
   - Time to Market
   - Pragmatic Thinking
-  - Increment
 platform_signals:
   - platform: Scrumorg
     post_url: https://www.scrum.org/resources/blog/without-delivery-there-no-value

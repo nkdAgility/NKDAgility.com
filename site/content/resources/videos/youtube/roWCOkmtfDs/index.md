@@ -5,10 +5,10 @@ description: Explains why validating product features is essential, highlighting
 tldr: Prioritizing features to close sales can fragment your product and lead to long-term costs that outweigh short-term gains. Shifting to a hypothesis-driven approach, where you define, track, and validate the value of new features using data, helps ensure you invest in what truly benefits users and the business. Equip product managers with the right telemetry and authority to make evidence-based decisions, and avoid building features that do not deliver measurable value.
 date: 2024-09-02T15:30:15Z
 lastmod: 2024-09-02T15:30:15Z
-weight: 640
+weight: 385
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: monthly
 ItemId: roWCOkmtfDs
 ItemType: videos

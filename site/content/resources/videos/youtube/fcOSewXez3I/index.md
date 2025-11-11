@@ -30,7 +30,8 @@ layout: video
 concepts: []
 categories:
   - Uncategorized
-tags: []
+tags:
+  - Miscellaneous
 Watermarks:
   description: 2025-05-07T13:11:03Z
   short_title: 2025-07-07T17:54:11Z

@@ -29,10 +29,10 @@ tags:
   - Definition of Done
   - Professional Scrum
   - Software Development
-  - Product Delivery
-  - Agile Frameworks
-  - Pragmatic Thinking
   - Technical Mastery
+  - Product Delivery
+  - Team Performance
+  - Pragmatic Thinking
   - Continuous Improvement
   - Operational Practices
 platform_signals:

@@ -27,20 +27,21 @@ categories:
   - Engineering Excellence
   - Product Development
 tags:
+  - Pragmatic Thinking
   - Agentic Agility
   - Technical Mastery
   - Social Technologies
   - Agentic Engineering
   - Product Delivery
-  - Pragmatic Thinking
   - Software Development
+  - Sociotechnical Systems
   - Operational Practices
   - Value Delivery
+  - Organisational Agility
   - Self Organisation
   - Team Motivation
   - Metrics and Learning
   - Deployment Frequency
-  - Technical Excellence
 Watermarks:
   description: 2025-05-07T12:49:01Z
   short_title: 2025-07-07T16:43:27Z

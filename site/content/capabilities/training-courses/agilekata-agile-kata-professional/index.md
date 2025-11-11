@@ -43,7 +43,7 @@ Watermarks:
   short_title: 2025-07-29T15:01:02Z
   tldr: 2025-08-08T11:37:28Z
 creator: Martin Hinshelwood
-url:
+url: 
 course_topics:
   - Agile Training Courses
 course_vendors:
@@ -54,11 +54,11 @@ delivery_audiences:
   - Teams
 preview: NKDAgility-Courses-AKP-16x9-1.jpg
 previewIcon: AgileKataProLevel1.png
-brandColour:
+brandColour: 
 code: AKP1
 course_proficiencies:
   - intermediate
-introduction:
+introduction: 
 overview: |2+
 
   - Entire Agile Teams (Scrum, Kanban etc.) looking for better/alternative ways of working.
@@ -66,8 +66,8 @@ overview: |2+
   - Agile Leaders interested to improve business agility and agile culture.
   - Business leaders interested in learning about a pattern to increase business agility
 
-outcomes:
-assessment:
+outcomes: 
+assessment: 
 objectives: |2+
 
   - Understanding and practicing the Agile Kata pattern.
@@ -79,16 +79,16 @@ objectives: |2+
   - Understand the role of an Agile Coach in the Agile Kata.
   - Define a first step to increase business agility in your organization using the Agile Kata.
 
-prerequisites:
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
+prerequisites: 
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
 ResourceId: AKP1
 ResourceType: course
----
 
+---
 # Agile Kata Professional
 
 **Course Code:** AKP1

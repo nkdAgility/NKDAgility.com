@@ -5,7 +5,7 @@ description: Explains why businesses must prioritise customer needs and agility 
 tldr: Your customers control the market, not you, so failing to listen or respond quickly means losing them to competitors. Many organizations prioritize internal views over real customer needs, leading to late product launches and missed opportunities. To stay relevant, focus on genuine customer feedback and ensure your teams are closely connected to those you serve.
 date: 2025-04-18T15:30:32+01:00
 lastmod: 2025-04-18T15:30:32+01:00
-weight: 725
+weight: 740
 sitemap:
   filename: sitemap.xml
   priority: 0.2
@@ -21,13 +21,12 @@ source: LinkedIn
 layout: signal
 concepts: []
 categories:
-  - Uncategorized
+  - Product Development
 tags:
   - Miscellaneous
   - Business Agility
   - Value Delivery
   - Agile Philosophy
-  - Product Strategy
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7319019512433958912

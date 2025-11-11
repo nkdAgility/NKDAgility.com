@@ -31,8 +31,11 @@ categories:
   - Scrum
   - Product Development
 tags:
+  - Agile Frameworks
   - Software Development
+  - Operational Practices
   - Professional Scrum
+  - Product Delivery
 Watermarks:
   description: 2025-05-07T13:15:40Z
   short_title: 2025-07-07T17:58:03Z

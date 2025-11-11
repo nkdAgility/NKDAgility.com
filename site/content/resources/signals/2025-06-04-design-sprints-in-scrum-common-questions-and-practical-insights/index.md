@@ -30,6 +30,7 @@ tags:
   - Professional Scrum
   - Agile Frameworks
   - Operational Practices
+  - Product Delivery
   - Agile Planning
 platform_signals:
   - platform: LinkedIn

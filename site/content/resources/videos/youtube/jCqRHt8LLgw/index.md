@@ -31,6 +31,9 @@ categories:
   - Product Development
 tags:
   - Software Development
+  - Operational Practices
+  - Product Delivery
+  - Team Performance
 Watermarks:
   description: 2025-05-07T13:15:44Z
   short_title: 2025-07-07T17:58:06Z

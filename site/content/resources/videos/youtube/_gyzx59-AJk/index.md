@@ -38,9 +38,9 @@ categories:
   - Engineering Excellence
 tags:
   - Market Adaptability
+  - Digital Transformation
   - Business Agility
   - Continuous Improvement
-  - Digital Transformation
   - Metrics and Learning
   - Operational Practices
   - Organisational Agility

@@ -29,21 +29,21 @@ categories:
   - Product Development
   - Lean
 tags:
+  - Lean Product Development
   - Lean Thinking
+  - Value Delivery
   - Empirical Process Control
   - Flow Efficiency
   - Lean Principles
   - Operational Practices
-  - Throughput
-  - Continuous Improvement
-  - Lean Product Development
   - Organisational Physics
+  - Lead Time
+  - Throughput
+  - Time to Market
+  - Continuous Improvement
   - Pragmatic Thinking
-  - Value Delivery
-  - Agile Strategy
-  - Portfolio Management
-  - Product Delivery
-  - Systems Thinking
+  - Agile Leadership
+  - Agile Transformation
 Watermarks:
   description: 2025-05-07T12:48:54Z
   short_title: 2025-07-07T16:43:13Z

@@ -31,9 +31,9 @@ concepts:
   - Practice
 categories:
   - Product Development
-  - Product Management
   - Scrum
 tags:
+  - Product Delivery
   - Product Backlog
   - Personal
   - Agile Planning
@@ -45,7 +45,6 @@ tags:
   - Agile Planning Tools
   - Azure DevOps
   - Organisational Agility
-  - Product Delivery
 Watermarks:
   description: 2025-05-07T13:05:23Z
   short_title: 2025-07-07T17:49:26Z

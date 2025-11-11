@@ -5,10 +5,10 @@ description: Explores how Agile’s true value lies in delivering outcomes and a
 tldr: Agile is not about following rituals or procedures but about delivering value and adapting to change to maximize business outcomes. Teams that focus only on rituals risk losing sight of continuous improvement and ownership, while over-automation can miss the need for human judgment in complex situations. Development managers should prioritize outcomes, encourage critical thinking about processes, and adapt Agile practices to their unique context rather than just checking boxes.
 date: 2024-01-22T07:00:11Z
 lastmod: 2024-01-22T07:00:11Z
-weight: 665
+weight: 420
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: XZVixdVy-PQ
 ItemType: videos

@@ -5,10 +5,10 @@ description: Explores how unmanaged conflict in agile teams can escalate from he
 tldr: Unchecked conflict in agile teams can escalate from healthy debate to destructive infighting, undermining collaboration and progress. Leaders must foster open communication, empathy, and clear conflict resolution processes to keep disagreements constructive and aligned with shared goals. Proactively managing conflict is essential to prevent team dysfunction and support ongoing innovation and growth.
 date: 2023-10-19T13:00:46Z
 lastmod: 2023-10-19T13:00:46Z
-weight: 610
+weight: 405
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: monthly
 ItemId: wHGw1vmudNA
 ItemType: videos

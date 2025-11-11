@@ -36,6 +36,7 @@ categories:
 tags:
   - Operational Practices
   - Software Development
+  - Team Performance
 Watermarks:
   description: 2025-05-07T13:02:40Z
   short_title: 2025-07-07T17:49:03Z

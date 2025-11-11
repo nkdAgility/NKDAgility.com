@@ -30,7 +30,6 @@ tags:
   - Agile Product Management
   - Pragmatic Thinking
   - Professional Scrum
-  - Competence
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7317932421058883584

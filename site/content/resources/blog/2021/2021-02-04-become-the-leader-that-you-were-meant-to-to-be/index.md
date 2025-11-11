@@ -5,10 +5,10 @@ description: Explores the shift from traditional management to leadership focuse
 tldr: Leadership in modern software development is about inspiring and enabling teams rather than controlling them; managers should focus on leading people and improving effectiveness. The Scrum Master is a leadership role that supports the team and organization, not a manager or administrator. To drive better results, shift from traditional hierarchy to servant leadership and lead by example.
 date: 2021-02-04
 lastmod: 2021-02-04
-weight: 640
+weight: 520
 sitemap:
   filename: sitemap.xml
-  priority: 0.3
+  priority: 0.4
   changefreq: weekly
 ItemId: -Oo9b3G-8Zw
 ItemType: blog

@@ -5,7 +5,7 @@ description: Explores whether organisations are moving past Agile disillusionmen
 tldr: Most organizations are still struggling with Agile due to unrealistic expectations and a focus on process over people, but a growing number are starting to see real benefits by prioritizing human interactions and learning from successful pioneers. The shift toward true Agile maturity is underway, though widespread enlightenment has not yet been reached. Development managers should focus on setting realistic goals, fostering a people-first culture, and learning from those who have achieved genuine Agile success.
 date: 2023-07-07T07:00:03Z
 lastmod: 2023-07-07T07:00:03Z
-weight: 1000
+weight: 730
 sitemap:
   filename: sitemap.xml
   priority: 0.1
@@ -34,6 +34,7 @@ categories:
   - Uncategorized
 tags:
   - Agile Transformation
+  - Team Collaboration
 Watermarks:
   description: 2025-05-07T13:10:58Z
   short_title: 2025-07-07T17:54:07Z

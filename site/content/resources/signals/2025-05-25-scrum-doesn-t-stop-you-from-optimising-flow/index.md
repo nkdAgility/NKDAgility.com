@@ -29,11 +29,11 @@ tags:
   - Software Development
   - Professional Scrum
   - Empirical Process Control
-  - Product Delivery
   - Agile Planning
   - Organisational Agility
   - Engineering Practices
   - Agile Frameworks
+  - Product Delivery
   - Value Delivery
   - Operational Practices
   - Frequent Releases

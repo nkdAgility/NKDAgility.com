@@ -32,7 +32,6 @@ tags:
   - Technical Mastery
   - Operational Practices
   - Team Performance
-  - Working Software
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7313583561599582210

@@ -46,6 +46,7 @@ tags:
   - Software Development
   - Coaching
   - Competence
+  - Agile Leadership
 Watermarks:
   description: 2025-05-07T13:07:27Z
   short_title: 2025-07-07T17:51:27Z

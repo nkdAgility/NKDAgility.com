@@ -5,10 +5,10 @@ description: Guidance on addressing issues with multiple Product Owners in Scrum
 tldr: If multiple people are acting as Product Owners but are not providing clear direction or attending key meetings, your team lacks true ownership of the product backlog and value delivery. This leads to wasted effort on features that may not matter, with industry data showing up to 65 percent of time spent on the wrong work. Raise this issue with management and ensure someone is clearly accountable for prioritizing and validating work, even if it means temporarily assigning the role until a suitable Product Owner is found.
 date: 2019-09-16
 lastmod: 2019-09-16
-weight: 640
+weight: 485
 sitemap:
   filename: sitemap.xml
-  priority: 0.3
+  priority: 0.4
   changefreq: weekly
 ItemId: KIG3LzjF3zK
 ItemType: blog

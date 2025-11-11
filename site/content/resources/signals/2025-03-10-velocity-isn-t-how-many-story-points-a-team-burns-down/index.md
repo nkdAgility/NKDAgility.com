@@ -27,12 +27,11 @@ categories:
   - Engineering Excellence
 tags:
   - Software Development
-  - Continuous Delivery
   - Metrics and Learning
+  - Continuous Delivery
   - Operational Practices
   - Time to Market
   - Frequent Releases
-  - Technical Mastery
   - Product Delivery
   - Engineering Practices
   - Pragmatic Thinking
@@ -41,6 +40,7 @@ tags:
   - Flow Efficiency
   - Market Adaptability
   - Evidence Based Leadership
+  - Team Performance
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7304901359516958721

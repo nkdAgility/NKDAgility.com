@@ -5,7 +5,7 @@ description: Explores why burndown charts can limit Agile teams, highlighting th
 tldr: Burndown charts often hinder Agile teams by promoting rigid, upfront planning and fixed scopes, which do not reflect how real Agile work unfolds. Teams are more effective when they focus on delivering a steady flow of value, adapt plans as they learn, and make decisions based on actual progress rather than predictions. Consider moving away from burndown charts and instead prioritize flexibility, just-in-time planning, and empirical management to improve your team's outcomes.
 date: 2024-01-01T07:00:20Z
 lastmod: 2024-01-01T07:00:20Z
-weight: 1000
+weight: 670
 sitemap:
   filename: sitemap.xml
   priority: 0.1

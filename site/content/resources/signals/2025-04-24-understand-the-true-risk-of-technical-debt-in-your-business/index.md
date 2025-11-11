@@ -24,6 +24,7 @@ categories:
   - Engineering Excellence
 tags:
   - Technical Debt
+  - Technical Mastery
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7321193906157637635

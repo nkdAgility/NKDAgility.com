@@ -38,12 +38,12 @@ tags:
   - Agile Frameworks
   - Value Delivery
   - Operational Practices
+  - Team Performance
   - Professional Scrum
   - Agile Planning
   - Throughput
   - Flow Efficiency
   - Market Adaptability
-  - Team Performance
   - Agile Product Management
   - Organisational Agility
 Watermarks:

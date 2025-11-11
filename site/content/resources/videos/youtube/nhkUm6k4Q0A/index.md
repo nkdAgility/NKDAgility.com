@@ -5,10 +5,10 @@ description: Learn how Agile coaches can empower teams by staying framework-agno
 tldr: Effective Agile coaching means being flexible and not pushing one framework; instead, help teams understand core Agile, Lean, and Scrum principles so they can choose what works best for their context. Encourage experimentation, educate teams on different approaches, and support their decision-making process. Focus on enabling teams to own their process and continuously improve rather than prescribing solutions.
 date: 2023-11-14T11:00:50Z
 lastmod: 2023-11-14T11:00:50Z
-weight: 610
+weight: 350
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: monthly
 ItemId: nhkUm6k4Q0A
 ItemType: videos

@@ -5,10 +5,10 @@ description: Explains how real consulting experience enhances training by provid
 tldr: Training is most effective when led by someone with real consulting experience, as it brings practical, relatable examples that bridge the gap between theory and real-world challenges. Sharing authentic stories from consulting helps teams engage, learn, and apply concepts like Agile and Scrum more effectively. Consider choosing training programs led by experienced consultants to ensure your teams gain actionable insights they can use immediately.
 date: 2023-06-21T07:00:03Z
 lastmod: 2023-06-21T07:00:03Z
-weight: 755
+weight: 555
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: AwkxZ9RS_0g
 ItemType: videos

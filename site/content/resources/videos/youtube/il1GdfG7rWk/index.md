@@ -5,10 +5,10 @@ description: Learn the core skills and best practices for effective product back
 tldr: Effective product backlog management is critical for delivering value, and product owners remain accountable even when delegating tasks. Focus on managing risk, maximizing value, sizing items for quick delivery, and embracing learning through iteration; regular refinement and clear communication with the team and stakeholders are essential. Review your backlog often, break down large or risky items, and seek help if needed to ensure your team delivers the right outcomes efficiently.
 date: 2023-12-18T07:00:15Z
 lastmod: 2023-12-18T07:00:15Z
-weight: 1000
+weight: 475
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: il1GdfG7rWk
 ItemType: videos

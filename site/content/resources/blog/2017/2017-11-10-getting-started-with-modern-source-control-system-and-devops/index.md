@@ -34,6 +34,7 @@ tags:
   - Operational Practices
   - Software Development
   - Engineering Practices
+  - Technical Excellence
   - Modern Source Control
   - Pragmatic Thinking
 Watermarks:

@@ -4,10 +4,10 @@ short_title: The Scrum Guide (February 2010)
 description: A clear summary of Scrum’s framework, roles, events, artefacts, and values, explaining how teams use Scrum to deliver value and adapt to complex problems.
 date: 2010-02-01
 lastmod: 2010-02-01
-weight: 690
+weight: 365
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: weekly
 author:
   - Ken Schwaber

@@ -1,14 +1,14 @@
 ---
-title: "Engineering Excellence: The Quiet Discipline Behind Great Teams"
+title: 'Engineering Excellence: The Quiet Discipline Behind Great Teams'
 short_title: The Quiet Discipline Behind Great Team
 description: A weekly one-hour mentorship for engineering teams to improve code quality, delivery predictability, and team culture through practical, system-focused coaching.
 tldr: Engineering Excellence Mentorship offers a practical, one-hour-a-week program that helps teams fix systemic issues affecting delivery, quality, and burnout by improving engineering practices within real work. Teams see measurable results like faster, safer releases, reduced cycle times, and higher engagement within months. Book a session to quickly diagnose blockers and start building sustainable improvement without adding more frameworks or meetings.
 date: 2025-11-12T09:00:00Z
 lastmod: 2025-11-10T09:00:00Z
-weight: 1000
+weight: 85
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.8
   changefreq: weekly
 author: MrHinsh
 ItemId: UNwJYTj5fV1
@@ -20,17 +20,35 @@ aliases:
 aliasesArchive:
   - /resources/UNwJYTj5fV1
 layout: newsletter
-concepts: []
-categories: []
-tags: []
+concepts:
+  - Capability
+categories:
+  - Engineering Excellence
+  - Technical Leadership
+  - Product Development
+tags:
+  - Software Development
+  - Operational Practices
+  - Team Performance
+  - Pragmatic Thinking
+  - Product Delivery
+  - Technical Excellence
+  - Technical Mastery
+  - Continuous Improvement
+  - Mentoring
+  - Engineering Practices
+  - Time to Market
+  - Value Delivery
+  - Flow Efficiency
+  - Competence
 Watermarks:
   description: 2025-11-10T10:29:15Z
   tldr: 2025-11-10T10:29:18Z
   short_title: 2025-11-10T10:29:21Z
 ResourceId: UNwJYTj5fV1
 ResourceType: newsletters
----
 
+---
 ## Why Engineering Matters More Than Methodology
 
 When teams struggle to ship reliably or sustain quality, the instinct is to reach for a new framework or management model. But **engineering excellence isn’t a process problem, it’s a system problem**. Poor flow, brittle architecture, and invisible feedback loops can’t be fixed by reorganising teams or renaming roles.

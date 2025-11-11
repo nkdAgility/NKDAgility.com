@@ -39,7 +39,9 @@ tags:
   - Agile Strategy
   - Software Development
   - Scaling
+  - Enterprise Agility
   - Product Delivery
+  - Organisational Change
   - Large Scale Agility
   - Pragmatic Thinking
 Watermarks:

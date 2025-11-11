@@ -24,13 +24,13 @@ categories:
   - Engineering Excellence
   - Kanban
 tags:
-  - Team Performance
   - Flow Efficiency
+  - Team Performance
   - Operational Practices
   - Software Development
+  - Value Delivery
   - Cycle Time
   - Organisational Physics
-  - Value Delivery
   - Continuous Improvement
   - Metrics and Learning
   - Lean Principles

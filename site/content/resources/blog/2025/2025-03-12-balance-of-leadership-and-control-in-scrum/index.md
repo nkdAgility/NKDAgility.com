@@ -25,21 +25,25 @@ layout: blog
 concepts:
   - Accountability
 categories:
-  - Leadership
   - Scrum
+  - Leadership
   - Product Management
 tags:
-  - Pragmatic Thinking
-  - Agile Frameworks
-  - Professional Scrum
-  - Software Development
-  - Scrum Master
   - Agile Leadership
+  - Pragmatic Thinking
+  - Software Development
+  - Agile Frameworks
+  - Social Technologies
+  - Team Collaboration
+  - Professional Scrum
+  - Scrum Master
+  - Agile Philosophy
+  - Organisational Agility
   - Team Performance
-  - Agile Transformation
-  - Agile Product Management
-  - Team Motivation
-  - Value Delivery
+  - Sociotechnical Systems
+  - Agile Strategy
+  - Organisational Psychology
+  - Change Management
 platform_signals:
   - platform: Scrumorg
     post_url: https://www.scrum.org/resources/blog/balance-leadership-and-control-scrum

@@ -5,10 +5,10 @@ description: Early agile transformations often failed due to top-down decisions,
 tldr: Many agile transformations fail because decisions are made top-down without involving the teams who do the actual work, leading to poor fit and lack of buy-in. Teams have the best understanding of their environment and should be included in selecting and shaping agile solutions to ensure success. To improve outcomes, involve your teams in decision-making from the start rather than imposing off-the-shelf frameworks.
 date: 2023-02-06T07:00:02Z
 lastmod: 2023-02-06T07:00:02Z
-weight: 625
+weight: 410
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: monthly
 ItemId: 8nQ0VJ1CdqU
 ItemType: videos

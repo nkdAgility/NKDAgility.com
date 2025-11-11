@@ -5,7 +5,7 @@ description: Explains product vision as a long-term guiding goal that defines a 
 tldr: A product vision gives your team clear direction by defining the long-term goal and desired outcome for your product, serving as a guiding reference beyond short-term objectives. It aligns everyone toward a shared future state and inspires both the team and stakeholders. Make sure your team understands and uses the product vision to guide decisions and maintain focus on the big picture.
 date: 2023-05-29T14:00:36Z
 lastmod: 2023-05-29T14:00:36Z
-weight: 940
+weight: 805
 sitemap:
   filename: sitemap.xml
   priority: 0.1
@@ -29,7 +29,8 @@ layout: video
 concepts: []
 categories:
   - Product Development
-tags: []
+tags:
+  - Personal
 Watermarks:
   description: 2025-05-07T13:12:06Z
   short_title: 2025-07-07T17:54:59Z

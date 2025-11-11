@@ -5,10 +5,10 @@ description: Learn how to quickly turn user feedback into actionable work items 
 tldr: Turning user feedback into actionable work quickly is essential for delivering real product value and staying truly agile. Teams that engage users regularly, prioritize feedback effectively, and integrate it into each Sprint see higher satisfaction and better business results. Review feedback weekly, involve stakeholders, and empower your team to act fast so your product evolves in line with user needs.
 date: 2024-07-10T06:45:01Z
 lastmod: 2024-07-10T06:45:01Z
-weight: 725
+weight: 500
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: OZt-5iszx-I
 ItemType: videos

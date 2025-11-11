@@ -35,20 +35,20 @@ categories:
   - Scrum
 tags:
   - Value Delivery
+  - Decision Making
+  - Professional Scrum
   - Evidence Based Leadership
   - Evidence Based Management
   - Metrics and Learning
+  - Agile Strategy
   - Customer Focus
+  - Social Technologies
   - Organisational Agility
   - Operational Practices
   - Product Delivery
   - Agile Product Management
   - Software Development
   - Pragmatic Thinking
-  - Decision Making
-  - Current Value
-  - Time to Market
-  - Unrealised Value
 Watermarks:
   description: 2025-05-07T12:58:29Z
   short_title: 2025-07-07T17:48:13Z

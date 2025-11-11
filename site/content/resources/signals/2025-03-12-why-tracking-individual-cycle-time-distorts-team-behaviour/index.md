@@ -31,16 +31,16 @@ tags:
   - Flow Efficiency
   - Software Development
   - Lean Principles
-  - Lean Thinking
   - Lead Time
   - Operational Practices
+  - Lean Thinking
   - Self Organisation
   - Value Delivery
-  - Continuous Improvement
   - Organisational Agility
   - Product Delivery
   - Time to Market
   - Metrics and Learning
+  - Social Technologies
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7305626135789273089

@@ -5,10 +5,10 @@ description: 'Summarises the top considerations for Scrum Masters adopting a coa
 tldr: A Scrum Master adopting a coaching stance should focus on guiding teams toward self-organisation, building trust and influence through expertise and empathy, and adapting their approach to the team’s unique context and culture. Key outcomes include stronger collaboration, empowered decision-making, and higher team satisfaction. To be effective, Scrum Masters should actively listen, foster a positive environment, and continuously develop their own skills.
 date: 2023-09-18T07:00:32Z
 lastmod: 2023-09-18T07:00:32Z
-weight: 565
+weight: 345
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: monthly
 ItemId: v1sMbKpQndU
 ItemType: videos
@@ -43,6 +43,7 @@ tags:
   - Scrum Master
   - Pragmatic Thinking
   - Team Performance
+  - Organisational Culture
   - Organisational Agility
   - Continuous Learning
   - Agile Values and Principles

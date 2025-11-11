@@ -5,7 +5,7 @@ description: Learn how evidence-based management uses clear outcomes and targete
 tldr: Defining clear, measurable outcomes and using both leading and lagging metrics are essential for project success. Evidence-based management helps teams make informed decisions by consistently collecting and analyzing data, then iterating based on insights. Development managers should focus on setting SMART goals, tracking the right metrics, and using data to guide continuous improvement.
 date: 2024-09-12T13:46:15Z
 lastmod: 2024-09-12T13:46:15Z
-weight: 1000
+weight: 700
 sitemap:
   filename: sitemap.xml
   priority: 0.1

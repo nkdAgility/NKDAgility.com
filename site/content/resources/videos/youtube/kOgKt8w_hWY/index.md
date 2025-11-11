@@ -30,6 +30,7 @@ categories:
   - DevOps
   - Engineering Excellence
 tags:
+  - Value Delivery
   - Organisational Change
   - Pragmatic Thinking
   - Social Technologies

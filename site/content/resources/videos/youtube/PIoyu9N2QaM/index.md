@@ -5,10 +5,10 @@ description: Explores why the distinction between 'newbie' and 'professional' Sc
 tldr: There is no real distinction between a newbie and a professional Scrum Master; once someone takes on the role and is accountable for the team's effectiveness, they are expected to act professionally and add value. The key is to fully embrace the responsibilities, focus on improving team productivity, and avoid ineffective practices. Development managers should ensure Scrum Masters are empowered to take the role seriously and support their ongoing learning.
 date: 2023-04-06T07:00:08Z
 lastmod: 2023-04-06T07:00:08Z
-weight: 690
+weight: 505
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: PIoyu9N2QaM
 ItemType: videos

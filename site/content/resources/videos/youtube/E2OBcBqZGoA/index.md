@@ -33,6 +33,8 @@ categories:
   - Leadership
   - Product Development
 tags:
+  - Miscellaneous
+  - Personal
   - Beta Codex
   - Social Technologies
   - Team Motivation

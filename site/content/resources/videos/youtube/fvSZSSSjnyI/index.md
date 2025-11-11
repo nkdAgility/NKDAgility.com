@@ -28,13 +28,14 @@ concepts:
 categories:
   - Engineering Excellence
   - DevOps
-  - Kanban
+  - Product Development
 tags:
   - Decision Making
   - Azure DevOps
   - Software Development
   - Flow Efficiency
   - Time to Market
+  - Empirical Process Control
   - Transparency
   - Metrics and Learning
   - Pragmatic Thinking
@@ -44,7 +45,6 @@ tags:
   - Product Delivery
   - Value Delivery
   - Lead Time
-  - Cycle Time
 Watermarks:
   description: 2025-07-24T14:49:14Z
   short_title: 2025-07-24T14:49:15Z

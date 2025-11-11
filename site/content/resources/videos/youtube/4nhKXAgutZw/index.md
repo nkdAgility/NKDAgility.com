@@ -5,7 +5,7 @@ description: Explores how kindness, empathy, and compassion in Agile foster trus
 tldr: Kindness is a strategic advantage in Agile, driving both customer loyalty and effective team collaboration by building trust through empathy and compassion. Focusing on employee well-being and understanding customer needs leads to better products and stronger relationships. Development managers should model kindness in daily interactions to foster a culture where teams and customers feel valued, directly impacting long-term success.
 date: 2023-12-11T07:00:01Z
 lastmod: 2023-12-11T07:00:01Z
-weight: 1000
+weight: 815
 sitemap:
   filename: sitemap.xml
   priority: 0.1

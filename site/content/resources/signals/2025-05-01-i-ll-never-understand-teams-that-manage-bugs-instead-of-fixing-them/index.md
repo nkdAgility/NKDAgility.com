@@ -27,6 +27,7 @@ tags:
   - Pragmatic Thinking
   - Product Delivery
   - Technical Mastery
+  - Working Software
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7323730580020289536

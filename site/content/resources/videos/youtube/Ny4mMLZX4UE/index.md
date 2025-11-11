@@ -30,21 +30,21 @@ categories:
   - DevOps
   - Product Development
 tags:
+  - Shift Left Strategy
   - Engineering Practices
   - Software Development
   - Technical Mastery
-  - Shift Left Strategy
+  - Continuous Delivery
   - Technical Excellence
   - Automated Testing
   - Operational Practices
-  - Continuous Delivery
   - Test Automation
   - Value Delivery
   - Product Delivery
-  - Test First Development
+  - Metrics and Learning
   - Team Performance
-  - Pragmatic Thinking
-  - Continuous Integration
+  - Test First Development
+  - Frequent Releases
 Watermarks:
   description: 2025-07-24T15:09:42Z
   short_title: 2025-07-24T15:09:43Z

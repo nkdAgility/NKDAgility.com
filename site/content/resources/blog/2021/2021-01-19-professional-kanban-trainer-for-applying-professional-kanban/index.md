@@ -5,7 +5,7 @@ description: Learn about becoming a Professional Kanban Trainer, the Applying Pr
 tldr: The new Kanban Guide provides a clear, open framework for optimizing value flow in software teams, complementing Scrum and fostering collaboration between the two communities. Professional Kanban training now offers focused, in-depth learning on Kanban principles and practices, with certification and resources available independently of the course. Development managers can leverage these guides and training to improve workflow efficiency and team performance.
 date: 2021-01-19
 lastmod: 2021-01-19
-weight: 1000
+weight: 790
 sitemap:
   filename: sitemap.xml
   priority: 0.1

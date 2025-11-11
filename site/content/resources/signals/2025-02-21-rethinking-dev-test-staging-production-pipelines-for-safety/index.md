@@ -23,8 +23,8 @@ concepts:
   - Practice
 categories:
   - Engineering Excellence
-  - Product Development
   - DevOps
+  - Product Development
 tags:
   - Pragmatic Thinking
   - Product Delivery

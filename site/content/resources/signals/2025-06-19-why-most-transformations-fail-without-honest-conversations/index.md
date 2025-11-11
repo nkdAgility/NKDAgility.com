@@ -28,7 +28,6 @@ tags:
   - Personal
   - Team Collaboration
   - Transparency
-  - Organisational Psychology
   - Organisational Culture
   - Business Agility
   - Organisational Agility

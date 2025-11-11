@@ -34,6 +34,7 @@ categories:
   - Product Development
   - Product Management
 tags:
+  - Personal
   - Agile Product Management
   - Pragmatic Thinking
   - Customer Focus

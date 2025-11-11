@@ -38,12 +38,12 @@ tags:
   - Value Delivery
   - Azure DevOps
   - Software Development
+  - Social Technologies
   - Organisational Agility
   - Personal
   - Technical Mastery
   - Cross Functional Teams
   - Deployment Frequency
-  - Frequent Releases
   - Market Adaptability
   - Product Delivery
   - Sociotechnical Systems

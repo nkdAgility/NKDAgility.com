@@ -5,10 +5,10 @@ description: Explains how to actively manage Kanban workflows by monitoring work
 tldr: Actively managing your Kanban workflow is essential for keeping work moving efficiently; this involves regularly reviewing your board, adjusting work in progress limits, and quickly addressing bottlenecks or blocked items. Monitoring for aging or stuck tasks and using data to optimize flow helps prevent delays and maximize team productivity. Development managers should ensure their teams are not just visualizing work but actively engaging with and improving the workflow.
 date: 2024-02-26T14:06:47Z
 lastmod: 2024-02-26T14:06:47Z
-weight: 1000
+weight: 635
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: u56sOCe6G0A
 ItemType: videos

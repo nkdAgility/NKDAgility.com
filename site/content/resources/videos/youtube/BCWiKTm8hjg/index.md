@@ -5,7 +5,7 @@ description: Explores how practising charity—helping others without expecting 
 tldr: Charity, or helping others without expecting anything in return, is a key driver of Agile team and organizational success because it builds trust, collaboration, and a shared sense of purpose. Encouraging this behavior leads to higher motivation, better product quality, and long-term growth. Development managers should actively foster a culture of giving and collective achievement to unlock these benefits.
 date: 2023-12-06T07:00:08Z
 lastmod: 2023-12-06T07:00:08Z
-weight: 840
+weight: 720
 sitemap:
   filename: sitemap.xml
   priority: 0.1

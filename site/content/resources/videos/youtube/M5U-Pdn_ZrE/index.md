@@ -5,10 +5,10 @@ description: Guidance for product owners on improving team clarity by reading no
 tldr: Product owners should focus on actively gauging team understanding by observing non-verbal cues, asking open-ended questions, and creating a safe environment for honest communication. Tailoring language to the audience and encouraging curiosity helps bridge knowledge gaps. Regular check-ins and fostering openness are key actions to ensure everyone is aligned, which is essential for project success.
 date: 2023-12-18T11:00:15Z
 lastmod: 2023-12-18T11:00:15Z
-weight: 840
+weight: 565
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: M5U-Pdn_ZrE
 ItemType: videos

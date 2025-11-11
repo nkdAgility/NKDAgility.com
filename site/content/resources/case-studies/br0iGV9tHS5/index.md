@@ -5,7 +5,7 @@ description: NKD Agility helped the Ghana Police Service drive organisational ch
 tldr: The Ghana Police Service partnered with NKD Agility to drive real organisational change by embedding Scrum and evidence-based management, moving from rigid command structures to a system that enabled learning and adaptation at all levels. Key outcomes included new digital capabilities delivered every sprint, cross-functional teams taking ownership of change, and a national backlog created by officers themselves. The main takeaway is that transformation succeeded because change was practised through structured experimentation, not just planned or mandated, and development managers should focus on enabling systems that let teams drive and sustain their own improvements.
 date: 2025-06-10
 lastmod: 2025-06-10
-weight: 395
+weight: 390
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -18,7 +18,7 @@ slug: enabled-organisational-change-in-the-ghana-police-service
 aliases:
   - /resources/br0iGV9tHS5
 concepts:
-  - Framework
+  - Method
 categories:
   - Scrum
   - Leadership

@@ -33,6 +33,7 @@ categories:
   - Product Development
 tags:
   - Team Collaboration
+  - Personal
   - Software Development
   - Remote Working
 Watermarks:

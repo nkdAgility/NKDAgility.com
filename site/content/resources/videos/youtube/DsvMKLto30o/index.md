@@ -31,14 +31,15 @@ source: internal
 layout: video
 concepts: []
 categories:
-  - Engineering Excellence
   - Product Development
+  - Engineering Excellence
   - DevOps
 tags:
   - Software Development
   - Operational Practices
   - Continuous Delivery
   - Pragmatic Thinking
+  - Technical Excellence
   - Continuous Improvement
   - Frequent Releases
   - Product Delivery

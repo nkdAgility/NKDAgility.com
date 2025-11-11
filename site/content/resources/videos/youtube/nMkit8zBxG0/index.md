@@ -5,10 +5,10 @@ description: Sprint planning is a collaborative session where teams define and a
 tldr: Sprint planning is a team meeting to align on what will be accomplished in the next sprint, ensuring everyone understands the goals and priorities, including new features, technical debt, and unexpected work. It provides clarity, flexibility, and a shared sense of direction, whether you use Scrum or Kanban. Make sure your team uses sprint planning to regularly evaluate priorities and maintain alignment for better outcomes.
 date: 2023-05-24T14:00:36Z
 lastmod: 2023-05-24T14:00:36Z
-weight: 690
+weight: 500
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: nMkit8zBxG0
 ItemType: videos

@@ -32,9 +32,9 @@ tags:
   - Personal
   - Team Collaboration
   - Agile Frameworks
+  - Sociotechnical Systems
   - Pragmatic Thinking
   - Agile Leadership
-  - Sociotechnical Systems
   - Professional Scrum
 platform_signals:
   - platform: LinkedIn

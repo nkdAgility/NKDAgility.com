@@ -5,10 +5,10 @@ description: Compares traditional managers’ focus on control and delegation wi
 tldr: Traditional managers focus on control and task delegation, which can limit communication and slow decision-making. Agile leaders, on the other hand, empower teams, encourage open communication, and help organizations adapt quickly to change. Consider shifting from traditional management to Agile leadership to drive growth and market responsiveness.
 date: 2023-05-02T09:30:14Z
 lastmod: 2023-05-02T09:30:14Z
-weight: 690
+weight: 580
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: ZQZeM20TO4c
 ItemType: videos

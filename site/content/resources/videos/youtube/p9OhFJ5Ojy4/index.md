@@ -31,6 +31,7 @@ categories:
   - Uncategorized
 tags:
   - Organisational Agility
+  - Personal
   - Organisational Change
   - Pragmatic Thinking
   - Business Agility

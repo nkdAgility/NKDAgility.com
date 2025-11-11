@@ -32,10 +32,9 @@ categories:
   - Product Development
 tags:
   - Pragmatic Thinking
-  - Digital Transformation
-  - Market Adaptability
   - Operational Practices
   - Product Delivery
+  - Digital Transformation
   - Change Management
   - Organisational Agility
 Watermarks:

@@ -5,7 +5,7 @@ description: Step-by-step guide to setting up Microsoft Teams for live virtual t
 tldr: To deliver effective live virtual training in Microsoft Teams, you need to set up Azure Active Directory, a Microsoft 365 subscription, and enable guest and external access for full collaboration features. Proper configuration allows both internal and external participants to access files, chat, and breakout rooms, and recent updates make guest authentication easier. Investing time in setup ensures a smoother, more professional experience for your training sessions, so plan and configure these elements before your first class.
 date: 2020-06-22
 lastmod: 2020-06-22
-weight: 1000
+weight: 890
 sitemap:
   filename: sitemap.xml
   priority: 0.1

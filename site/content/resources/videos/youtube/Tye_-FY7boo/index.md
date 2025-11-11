@@ -5,10 +5,10 @@ description: Explains how Product Owners can replace traditional project managem
 tldr: When moving from project management to product management, it is essential for Product Owners to fill the gap left by traditional planning tools by focusing on vision, value, and validation. Clearly define and communicate the product vision, ensure all work aligns with delivering real value, and continuously validate progress through feedback and measurement. Prioritize these pillars to keep teams aligned and maximize product impact; consider seeking support if challenges arise.
 date: 2023-12-14T06:45:02Z
 lastmod: 2023-12-14T06:45:02Z
-weight: 790
+weight: 605
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: Tye_-FY7boo
 ItemType: videos

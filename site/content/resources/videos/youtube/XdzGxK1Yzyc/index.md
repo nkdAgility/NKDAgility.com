@@ -5,7 +5,7 @@ description: Explains the product owner's role in Scrum, focusing on accountabil
 tldr: A product owner is essential because they are accountable for maximizing the value delivered by the Scrum team, not just managing the backlog. They ensure alignment between stakeholders, customers, and developers by setting a clear vision and strategy based on market and user insights. To succeed, make sure your product owner is empowered to lead, deeply understands your market, and keeps everyone focused on shared goals.
 date: 2023-05-23T14:00:19Z
 lastmod: 2023-05-23T14:00:19Z
-weight: 840
+weight: 670
 sitemap:
   filename: sitemap.xml
   priority: 0.1

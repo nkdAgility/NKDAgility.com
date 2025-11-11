@@ -45,6 +45,7 @@ tags:
   - Metrics and Learning
   - Business Agility
   - Pragmatic Thinking
+  - Continuous Learning
 Watermarks:
   description: 2025-05-07T13:06:13Z
   short_title: 2025-07-07T17:50:06Z

@@ -5,10 +5,10 @@ description: Explains how setting and adjusting Work-In-Progress (WIP) limits in
 tldr: Setting work-in-progress (WIP) limits is essential for an effective Kanban strategy because it prevents overload, exposes bottlenecks, and improves workflow. The optimal WIP limit for each stage should be found through experimentation and regular adjustment, aiming for a balance that maximizes flow without causing idle time or bottlenecks. Start small, monitor results, and adjust limits as needed to boost team productivity and collaboration.
 date: 2024-03-06T07:00:17Z
 lastmod: 2024-03-06T07:00:17Z
-weight: 1000
+weight: 590
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: Ir8QiX7eAHU
 ItemType: videos
@@ -32,6 +32,7 @@ concepts:
   - Practice
 categories:
   - Kanban
+  - Engineering Excellence
 tags:
   - Flow Efficiency
   - Software Development

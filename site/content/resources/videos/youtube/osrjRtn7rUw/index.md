@@ -32,6 +32,8 @@ tags:
   - Pragmatic Thinking
   - Decision Making
   - Metrics and Learning
+  - Empirical Process Control
+  - Agile Leadership
   - Product Strategy
   - Decision Theory
 Watermarks:

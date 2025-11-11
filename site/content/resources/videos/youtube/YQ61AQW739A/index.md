@@ -31,20 +31,20 @@ categories:
   - Technical Leadership
 tags:
   - Software Development
-  - Operational Practices
-  - Engineering Practices
-  - Azure DevOps
-  - Experimentation
   - Pragmatic Thinking
+  - Engineering Practices
+  - Operational Practices
+  - Technical Excellence
+  - Azure DevOps
+  - Technical Mastery
+  - Experimentation
   - Personal
   - Continuous Delivery
   - Product Delivery
   - Application Lifecycle Management
-  - Technical Mastery
+  - Organisational Change
   - Digital Transformation
   - Metrics and Learning
-  - Value Delivery
-  - Continuous Improvement
 Watermarks:
   description: 2025-07-24T15:10:36Z
   short_title: 2025-07-24T15:10:37Z

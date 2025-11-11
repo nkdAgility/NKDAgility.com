@@ -30,6 +30,8 @@ categories:
   - Uncategorized
 tags:
   - Software Development
+  - Operational Practices
+  - Agile Frameworks
 Watermarks:
   description: 2025-05-07T13:16:01Z
   short_title: 2025-07-07T17:58:20Z

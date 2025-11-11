@@ -5,7 +5,7 @@ description: Practical guidance on becoming a Scrum Master outside software, cov
 tldr: Certifications can help you get noticed as a Scrum Master outside software engineering, but real value comes from applying Scrum principles and building practical skills. Focus on validated learning through assessments, training, and hands-on experience to bridge the gap between knowledge and expertise. Invest time in mastering the material and demonstrating your understanding in real situations to advance your career.
 date: 2023-03-08T07:00:04Z
 lastmod: 2023-03-08T07:00:04Z
-weight: 790
+weight: 690
 sitemap:
   filename: sitemap.xml
   priority: 0.1

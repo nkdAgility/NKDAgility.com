@@ -37,6 +37,7 @@ tags:
   - Value Delivery
   - Social Technologies
   - Personal
+  - Professional Scrum
   - Product Owner
   - Agile Leadership
   - Pragmatic Thinking

@@ -5,10 +5,10 @@ description: Explores how product owners make critical decisions to pivot or per
 tldr: Product owners must confidently make pivotal decisions, often with incomplete information, by balancing data, instinct, and alignment with long-term goals. Success depends on staying connected with teams and stakeholders, monitoring market trends, and fostering a culture of continuous learning and adaptability. To lead effectively, embrace change, value feedback, and be prepared to pivot or persevere based on evidence rather than sunk costs.
 date: 2023-09-13T13:59:54Z
 lastmod: 2023-09-13T13:59:54Z
-weight: 690
+weight: 420
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: B12n_52H48U
 ItemType: videos

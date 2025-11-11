@@ -5,10 +5,10 @@ description: Explains why Scrum does not mean a lack of governance, highlighting
 tldr: Scrum does not mean abandoning governance; instead, it requires teams to balance agility with necessary regulatory and organizational standards. Applying "just enough governance" ensures compliance and quality without stifling innovation, especially in regulated or complex environments. Development managers should regularly review and adapt governance practices to support both compliance and Agile delivery.
 date: 2023-10-26T07:00:29Z
 lastmod: 2023-10-26T07:00:29Z
-weight: 735
+weight: 415
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: kORUKHu-64A
 ItemType: videos

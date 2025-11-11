@@ -38,7 +38,7 @@ tags:
   - Agile Strategy
   - Agile Frameworks
   - Decision Making
-  - Metrics and Learning
+  - Value Delivery
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7334239840894423040

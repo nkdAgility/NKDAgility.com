@@ -46,10 +46,10 @@ tags:
   - Working Software
   - Personal
   - Product Delivery
-  - Agile Philosophy
   - Increment
-  - Metrics and Learning
+  - Empirical Process Control
   - Deployment Frequency
+  - Organisational Agility
 Watermarks:
   description: 2025-05-10T14:13:51Z
   short_title: 2025-07-07T16:44:26Z

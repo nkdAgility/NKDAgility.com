@@ -5,7 +5,7 @@ description: 'Shares the top three values guiding a Professional Scrum Trainer: 
 tldr: The author wants to be remembered as a Scrum Trainer who values integrity, honesty, and approachability, always acting transparently and providing straightforward, fact-based advice. They prioritize being open and helpful, offering free consultations and building lasting relationships. Development managers should seek trainers who embody these qualities to foster trust and effective learning in their teams.
 date: 2023-04-19T07:00:06Z
 lastmod: 2023-04-19T07:00:06Z
-weight: 1000
+weight: 910
 sitemap:
   filename: sitemap.xml
   priority: 0.1

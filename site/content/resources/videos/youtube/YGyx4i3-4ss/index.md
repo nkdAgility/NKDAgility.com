@@ -5,7 +5,7 @@ description: Explores how deeper user understanding, data-driven decisions, and 
 tldr: To deliver real value, development managers need to go beyond what users say and use data to understand their true needs, avoid copying competitors without clear alignment to user goals, and foster strong collaboration with stakeholders. Focus on evidence-based decisions and ongoing engagement to ensure your team builds solutions that genuinely matter. Make it a priority to regularly question assumptions and validate user needs with data and stakeholder input.
 date: 2024-08-09T05:39:57Z
 lastmod: 2024-08-09T05:39:57Z
-weight: 1000
+weight: 760
 sitemap:
   filename: sitemap.xml
   priority: 0.1

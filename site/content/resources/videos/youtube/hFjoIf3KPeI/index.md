@@ -5,10 +5,10 @@ description: Explains how Scrum Masters and Agile coaches boost team motivation 
 tldr: Scrum Masters and Agile coaches play a key role in keeping teams motivated by aligning goals with stakeholder value, celebrating achievements, and fostering open communication. Teams lose motivation when goals are misaligned or stakeholder engagement is lacking, so it is important to set achievable objectives, involve stakeholders, and encourage autonomy and continuous learning. Regularly review team morale, connect work to its broader impact, and create feedback loops to maintain a resilient and high-performing team.
 date: 2023-09-11T07:00:17Z
 lastmod: 2023-09-11T07:00:17Z
-weight: 610
+weight: 370
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: monthly
 ItemId: hFjoIf3KPeI
 ItemType: videos

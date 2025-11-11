@@ -23,25 +23,25 @@ aliasesArchive:
 concepts:
   - Principle
 categories:
+  - Kanban
   - Product Development
   - Engineering Excellence
-  - Technical Leadership
 tags:
   - Lean Principles
   - Customer Focus
   - Empirical Process Control
-  - Software Development
   - Metrics and Learning
+  - Software Development
   - Lean Product Development
   - Continuous Improvement
   - Value Delivery
   - Product Validation
   - Continuous Learning
-  - Agile Frameworks
   - Pragmatic Thinking
   - Flow Efficiency
-  - Agile Philosophy
+  - Evidence Based Leadership
   - Hypothesis Driven Development
+  - Team Performance
 Watermarks:
   description: 2025-07-30T22:58:59Z
   tldr: 2025-08-07T12:38:44Z

@@ -5,7 +5,7 @@ description: Explores why businesses should develop custom scaling practices tai
 tldr: Relying on generic scaling frameworks can dilute what makes your organization successful, so it is better to develop your own scaling practices tailored to your unique culture, challenges, and goals. This approach preserves your competitive edge, increases adaptability, and fosters team ownership and engagement. Learn from others but create solutions that fit your context to achieve sustainable growth.
 date: 2023-06-21
 lastmod: 2023-06-21
-weight: 1000
+weight: 830
 sitemap:
   filename: sitemap.xml
   priority: 0.1

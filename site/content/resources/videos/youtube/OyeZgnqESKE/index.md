@@ -32,7 +32,9 @@ concepts: []
 categories:
   - Product Development
 tags:
+  - Agile Frameworks
   - Team Motivation
+  - Empirical Process Control
   - Social Technologies
 Watermarks:
   description: 2025-05-07T13:06:03Z

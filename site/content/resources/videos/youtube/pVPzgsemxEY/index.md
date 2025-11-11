@@ -42,6 +42,7 @@ tags:
   - Lean Principles
   - Pragmatic Thinking
   - Team Performance
+  - Team Collaboration
   - Agile Transformation
   - Lean Thinking
   - Organisational Agility

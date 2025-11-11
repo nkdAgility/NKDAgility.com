@@ -26,12 +26,12 @@ categories:
   - Product Development
   - Technical Leadership
 tags:
-  - Scrum Master
   - Software Development
   - Pragmatic Thinking
+  - Scrum Master
+  - Social Technologies
   - Professional Scrum
   - Team Collaboration
-  - Social Technologies
   - Product Delivery
   - Team Performance
   - Value Delivery

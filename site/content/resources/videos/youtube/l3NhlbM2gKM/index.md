@@ -5,10 +5,10 @@ description: Explains why story points are often misunderstood in Scrum, clarifi
 tldr: Story points are not required by Scrum and are often misused, leading to confusion and pressure on teams. Their real value is in sparking conversations about uncertainty during backlog refinement, not as ongoing metrics or time proxies. Development managers should focus on open dialogue, use story points only as needed for understanding, and consider alternative estimation methods to better support team effectiveness and value delivery.
 date: 2023-10-24T11:00:39Z
 lastmod: 2023-10-24T11:00:39Z
-weight: 1000
+weight: 640
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: l3NhlbM2gKM
 ItemType: videos

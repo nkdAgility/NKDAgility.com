@@ -5,10 +5,10 @@ description: Explains how Scrum teams rely on three key roles—Influencers, Ent
 tldr: 'Scrum teams need a balance of three key roles: Influencers who lead and shape the environment, Entrepreneurs who define and communicate the product vision, and Makers who build the product. Each role has its own growth path and is essential for delivering high-value products. Development managers should ensure all three tracks are present and balanced in their teams to maximize success.'
 date: 2021-03-01
 lastmod: 2021-03-01
-weight: 665
+weight: 475
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: weekly
 ItemId: DdQ1nKvk-hv
 ItemType: blog

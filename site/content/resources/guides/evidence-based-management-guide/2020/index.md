@@ -27,21 +27,21 @@ categories:
   - Product Management
   - Engineering Excellence
 tags:
+  - Value Delivery
   - Metrics and Learning
+  - Experimentation
+  - Empirical Process Control
+  - Agile Strategy
   - Customer Focus
+  - Organisational Change
   - Evidence Based Management
   - Social Technologies
   - Continuous Improvement
   - Current Value
   - Decision Making
   - Evidence Based Leadership
-  - Experimentation
-  - Value Delivery
-  - Empirical Process Control
-  - Hypothesis Driven Development
   - Software Development
   - Operational Practices
-  - Business Agility
 card:
   button:
     content: Learn More

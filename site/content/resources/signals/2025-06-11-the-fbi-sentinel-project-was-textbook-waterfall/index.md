@@ -26,11 +26,10 @@ categories:
 tags:
   - Software Development
   - Pragmatic Thinking
+  - Product Delivery
   - Agile Frameworks
   - Organisational Agility
-  - Working Software
   - Organisational Change
-  - Product Delivery
   - Social Technologies
 platform_signals:
   - platform: LinkedIn

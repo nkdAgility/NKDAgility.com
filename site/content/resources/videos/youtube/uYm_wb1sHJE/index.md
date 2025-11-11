@@ -5,10 +5,10 @@ description: Explains the Sprint Review workshop, detailing its role in Agile te
 tldr: The Sprint Review workshop helps teams align product development with stakeholder needs, adapt to market changes, and drive continuous improvement. It offers practical guidance on running effective reviews, boosting stakeholder engagement, and turning feedback into actionable improvements. Development managers should consider this workshop to enhance team performance and ensure products deliver real value.
 date: 2023-06-30T07:00:18Z
 lastmod: 2023-06-30T07:00:18Z
-weight: 665
+weight: 405
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: uYm_wb1sHJE
 ItemType: videos

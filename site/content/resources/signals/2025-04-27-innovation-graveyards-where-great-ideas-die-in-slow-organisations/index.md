@@ -25,7 +25,6 @@ categories:
 tags:
   - Entrepreneurship
   - Unrealised Value
-  - Miscellaneous
   - Business Agility
 platform_signals:
   - platform: LinkedIn

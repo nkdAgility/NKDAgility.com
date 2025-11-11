@@ -33,8 +33,6 @@ tags:
   - Software Development
   - Organisational Agility
   - Large Scale Agility
-  - Professional Scrum
-  - Agile Product Management
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7333152642082193409

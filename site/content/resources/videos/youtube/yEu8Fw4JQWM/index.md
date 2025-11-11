@@ -5,10 +5,10 @@ description: Limiting work in progress boosts productivity by reducing multitask
 tldr: Limiting work in progress leads to higher productivity because multitasking and context switching reduce efficiency and slow down progress. Keeping tasks small and focusing on finishing before starting new work helps teams deliver more in less time. Development managers should encourage teams to reduce simultaneous tasks and prioritize completing work to improve outcomes.
 date: 2023-05-09T07:00:19Z
 lastmod: 2023-05-09T07:00:19Z
-weight: 840
+weight: 560
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: yEu8Fw4JQWM
 ItemType: videos

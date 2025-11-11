@@ -45,8 +45,6 @@ tags:
   - Working Software
   - Increment
   - Professional Scrum
-  - Engineering Practices
-  - Market Adaptability
   - Organisational Agility
   - Technical Excellence
 Watermarks:

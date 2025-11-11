@@ -5,10 +5,10 @@ description: Using Blocked columns on Kanban boards hides workflow issues, cause
 tldr: Using Blocked columns on Kanban boards hides the true status of work, encourages team disengagement, and leads to stale tasks and inflated work-in-progress limits. Instead, teams should tag blocked items within their current workflow stage and provide clear context, which maintains transparency and accountability. Managers should avoid Blocked columns and use tags or annotations to highlight issues without disrupting the flow or losing critical information.
 date: 2024-02-13
 lastmod: 2024-02-13
-weight: 1000
+weight: 590
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: weekly
 contributors:
   - name: Will Seele
@@ -32,6 +32,7 @@ concepts:
   - Tool
 categories:
   - Kanban
+  - Engineering Excellence
 tags:
   - Empirical Process Control
   - Operational Practices

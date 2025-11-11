@@ -5,10 +5,10 @@ description: Learn how to use Kanban flow metrics in Scrum to improve value deli
 tldr: The "Applying Flow Metrics for Scrum" course teaches Scrum teams how to use Kanban metrics to improve value delivery, transparency, and continuous improvement. Key benefits include better visibility into workflow, data-driven decision-making, and more predictable outcomes for stakeholders. Development managers should consider this course if their teams need to deliver value more consistently and want practical tools for ongoing improvement.
 date: 2024-02-19T07:00:09Z
 lastmod: 2024-02-19T07:00:09Z
-weight: 665
+weight: 235
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.6
   changefreq: monthly
 ItemId: NeGch-lQkPA
 ItemType: videos
@@ -35,6 +35,7 @@ layout: video
 concepts:
   - Practice
 categories:
+  - Engineering Excellence
   - Product Development
 tags:
   - Social Technologies

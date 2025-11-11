@@ -26,11 +26,10 @@ categories:
   - Product Development
   - Leadership
 tags:
+  - Scrum Master
   - Software Development
   - Increment
-  - Scrum Master
   - Product Delivery
-  - Working Software
   - Value Delivery
 platform_signals:
   - platform: LinkedIn

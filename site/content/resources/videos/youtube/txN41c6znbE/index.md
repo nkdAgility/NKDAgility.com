@@ -41,7 +41,6 @@ tags:
   - Software Development
   - Agile Leadership
   - Sociotechnical Systems
-  - Agile Strategy
   - Organisational Culture
   - Agile Philosophy
   - Pragmatic Thinking

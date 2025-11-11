@@ -63,11 +63,11 @@ delivery_audiences:
   - Lean Agile Practitioners
 preview: NKDAgility-Courses-APK-16x9-1.jpg
 previewIcon: APK@2x.png
-brandColour:
+brandColour: 
 code: APK
 course_proficiencies:
   - intermediate
-introduction:
+introduction: 
 overview: |2-
 
   1. **Team Members**: Individuals working in teams who are looking to enhance their workflow and productivity. Suitable for those in technical, creative, or operational roles seeking to improve their project management and delivery skills.
@@ -90,7 +90,7 @@ outcomes: |2-
   - **Getting Started with Kanban**: A step-by-step guide to initiating a Kanban system from scratch. Understand the essentials of starting Kanban in your organization, from initial setup to engaging team members and ensuring a successful launch.
 
    Each of these topics is tailored to provide a comprehensive understanding of Kanban, combining theoretical knowledge with practical, immersive exercises. This approach ensures that participants not only learn about Kanban but also acquire the skills necessary to effectively implement and benefit from it in their professional context.
-assessment:
+assessment: 
 objectives: |-
   Following the completion of our 'Applying Professional Kanban' course, learners will have gained a comprehensive set of skills and knowledge, enabling them to: 
   1. **Explain the Basic Principles of Flow**: Understand and articulate the fundamental concepts of flow in the context of Kanban, and how they contribute to smoother, more efficient processes.
@@ -111,16 +111,16 @@ prerequisites: |-
   5. **Basic Project Management Knowledge**: While not mandatory, understanding the basics of project management can be helpful in comprehending how Kanban can optimize project workflows.
 
    These recommendations are designed to ensure that participants can fully engage with the course content and apply the learnings effectively in their professional environments. However, the course is structured to be inclusive and beneficial even for those who are new to Kanban and agile practices.
-audience:
-trainers:
-roadmap:
+audience: 
+trainers: 
+roadmap: 
 sessionCount: 8
-syllabus:
-events:
+syllabus: 
+events: 
 ResourceId: APK
 ResourceType: course
----
 
+---
 # Applying Professional Kanban (APK) Course with Certification
 
 **Course Code:** APK

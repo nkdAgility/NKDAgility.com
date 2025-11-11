@@ -5,10 +5,10 @@ description: Explains how DevOps and Agile share core principles, focusing on de
 tldr: DevOps and Agile are fundamentally the same, both aiming to deliver value to customers and organizations by focusing on rapid feedback, continuous improvement, and systems thinking. The main difference is perspective, with each emphasizing different aspects of the delivery process, but both require the right tools and practices to optimize the whole system. Development managers should ensure Agile and DevOps work together to maximize value and improve outcomes across the organization.
 date: 2023-02-23T07:00:00Z
 lastmod: 2023-02-23T07:00:00Z
-weight: 690
+weight: 450
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: 00V7BJJtMT0
 ItemType: videos

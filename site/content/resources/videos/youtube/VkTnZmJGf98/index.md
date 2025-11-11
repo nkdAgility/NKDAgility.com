@@ -5,10 +5,10 @@ description: Evidence-based management uses data-driven decisions to help organi
 tldr: Focusing only on agile frameworks does not guarantee business success; organizations need to use evidence-based management to track real business outcomes and adapt based on data. Successful companies transform their leadership, processes, and decision-making using key metrics like current value, unrealized value, ability to innovate, and time to market. Development managers should prioritize data-driven decisions and organizational adaptability over simply following agile practices.
 date: 2024-01-26T07:00:25Z
 lastmod: 2024-01-26T07:00:25Z
-weight: 790
+weight: 605
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: VkTnZmJGf98
 ItemType: videos

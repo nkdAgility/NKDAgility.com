@@ -33,7 +33,6 @@ tags:
   - Technical Mastery
   - Product Delivery
   - Release Management
-  - Frequent Releases
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7300190314370093060

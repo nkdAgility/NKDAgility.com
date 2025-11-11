@@ -5,10 +5,10 @@ description: Explores how spaced learning in Agile and Scrum boosts retention, r
 tldr: Spaced learning, where Agile and Scrum training is spread over several weeks, leads to better retention, real-world application, and ongoing support compared to traditional short courses. Participants can practice and apply concepts in their actual work, get guidance as challenges arise, and benefit from peer collaboration. Development managers should consider longer, cohort-based training formats to achieve more lasting and practical results for their teams.
 date: 2023-07-13T07:45:48Z
 lastmod: 2023-07-13T07:45:48Z
-weight: 800
+weight: 585
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: L9KsDJ2Rebo
 ItemType: videos

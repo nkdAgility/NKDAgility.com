@@ -34,10 +34,10 @@ categories:
   - Product Development
   - Scrum
 tags:
+  - Agile Strategy
   - Agile Values and Principles
   - Customer Focus
   - Organisational Culture
-  - Agile Strategy
   - Pragmatic Thinking
   - Agile Philosophy
   - Continuous Improvement

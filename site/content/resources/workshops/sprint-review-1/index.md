@@ -5,10 +5,10 @@ description: Guides a 160-minute Sprint Review workshop using Liberating Structu
 tldr: This Sprint Review workshop uses interactive methods to help teams and stakeholders inspect the product increment, gather feedback, and identify next steps based on recent changes and business needs. Key activities include networking to clarify expectations, hands-on product inspection, structured group reflection, and personal action planning. Development managers should ensure active participation, update the Product Backlog with new insights, and encourage team members to define concrete actions for the next Sprint.
 date: 2024-09-17
 lastmod: 2024-09-17
-weight: 655
+weight: 385
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: weekly
 ItemId: 8gWwC3tvV_f
 ItemType: workshops

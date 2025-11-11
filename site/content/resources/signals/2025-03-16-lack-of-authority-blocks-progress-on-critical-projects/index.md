@@ -27,8 +27,8 @@ categories:
   - Technical Leadership
 tags:
   - Software Development
-  - Scrum Master
   - Agile Leadership
+  - Scrum Master
   - Agile Frameworks
   - Pragmatic Thinking
   - Agentic Agility

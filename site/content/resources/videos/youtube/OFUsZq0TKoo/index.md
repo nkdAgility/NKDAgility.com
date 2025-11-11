@@ -5,10 +5,10 @@ description: Learn how structured learning in product development boosts user va
 tldr: A structured learning course in product development can help your teams better understand user needs through experimentation, reduce waste by making evidence-based decisions, and improve collaboration with stakeholders using data-driven discussions. The course also encourages creative problem-solving and provides practical tools you can apply immediately. Consider investing in this training to boost user value, efficiency, and team alignment.
 date: 2024-08-27T07:07:18Z
 lastmod: 2024-08-27T07:07:18Z
-weight: 765
+weight: 575
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: OFUsZq0TKoo
 ItemType: videos

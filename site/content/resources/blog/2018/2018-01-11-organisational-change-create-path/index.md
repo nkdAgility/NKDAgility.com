@@ -31,13 +31,13 @@ categories:
   - Leadership
   - Technical Leadership
 tags:
+  - Organisational Change
   - Social Technologies
   - Scaling
   - Business Agility
   - Enterprise Agility
   - Digital Transformation
   - Operational Practices
-  - Organisational Change
   - Value Delivery
   - Agile Transformation
   - Organisational Agility

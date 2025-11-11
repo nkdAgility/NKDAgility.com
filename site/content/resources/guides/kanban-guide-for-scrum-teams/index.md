@@ -5,10 +5,10 @@ description: Explains how Scrum Teams can use Kanban practices to optimise workf
 tldr: Combining Kanban with Scrum helps teams improve the flow of work, increase transparency, and make better use of feedback loops by tracking key metrics like work in progress, cycle time, work item age, and throughput. By visualizing workflow, limiting work in progress, actively managing tasks, and regularly inspecting and adapting processes, teams can deliver value more predictably and efficiently. Development managers should consider integrating Kanban practices into their Scrum teams to optimize delivery and continuously improve team performance.
 date: 2024-09-17
 lastmod: 2024-09-17
-weight: 840
+weight: 495
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: weekly
 author:
   - Steve Porter

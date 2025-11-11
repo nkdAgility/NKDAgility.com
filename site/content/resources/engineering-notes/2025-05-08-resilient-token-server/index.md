@@ -24,14 +24,13 @@ categories:
   - DevOps
 tags:
   - Technical Mastery
+  - Troubleshooting
   - Pragmatic Thinking
   - Software Development
   - Operational Practices
-  - Troubleshooting
   - Personal
   - Continuous Improvement
   - Engineering Practices
-  - Working Software
   - Technical Excellence
   - Site Reliability Engineering
   - System Configuration

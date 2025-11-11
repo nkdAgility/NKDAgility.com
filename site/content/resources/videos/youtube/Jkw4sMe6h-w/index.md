@@ -32,6 +32,7 @@ concepts: []
 categories:
   - Uncategorized
 tags:
+  - Personal
   - Organisational Culture
   - Pragmatic Thinking
 Watermarks:

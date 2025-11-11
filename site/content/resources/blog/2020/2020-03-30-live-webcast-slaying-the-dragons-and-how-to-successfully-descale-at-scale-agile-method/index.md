@@ -5,7 +5,7 @@ description: Explores why most organisations struggle to scale agile practices, 
 tldr: Most organizations fail to improve software delivery because they resist real change and try to scale without embracing core agile values and principles. The few that succeed focus on small, meaningful changes rather than just scaling existing practices. To achieve true improvement at scale, prioritize genuine transformation over superficial scaling.
 date: 2020-03-30
 lastmod: 2020-03-30
-weight: 1000
+weight: 815
 sitemap:
   filename: sitemap.xml
   priority: 0.1

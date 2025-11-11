@@ -47,42 +47,42 @@ tags:
   - Engineering Practices
 sections:
   - title: Overcome Product Development Hurdles with Precision
-    content: "Our mentorship program directly tackles and provides transformative strategies for the 9 most significant challenges in product engineering:"
+    content: 'Our mentorship program directly tackles and provides transformative strategies for the 9 most significant challenges in product engineering:'
     type: cards
     cards:
       - title: Embracing Engineering Uncertainty
         content: Empower teams with Agile and DevOps practices to navigate and excel amidst technological uncertainties.
-        image:
+        image: 
       - title: Ensuring Stakeholder and Team Cohesion
         content: Boost communication and collaboration between teams and stakeholders, ensuring alignment with engineering goals.
-        image:
+        image: 
       - title: Complexity and Prioritization
         content: Adopt advanced prioritization methods to focus on engineering tasks that deliver maximum value.
-        image:
+        image: 
       - title: Implementing Kanban Strategies
         content: Incorporate Kanban practices to monitor and maximize the flow of value through engineering processes, ensuring efficient delivery and continuous improvement.
-        image:
+        image: 
       - title: Data-Driven Engineering Decisions
         content: Move towards evidence-based decision making to guide engineering strategies and outcomes.Move towards evidence-based decision making to guide engineering strategies and outcomes.
-        image:
+        image: 
       - title: Agile Response to Technological Shifts
         content: Improve adaptability to market and technology changes through lean Agile practices.
-        image:
+        image: 
       - title: Fostering High-Performance Engineering Teams
         content: Develop leadership that inspires, motivates, and drives engineering excellence across teams.
-        image:
+        image: 
       - title: Expanding Agile and DevOps Across the Organization
         content: Scale Agile and DevOps practices to enhance collaboration and efficiency at all organizational levels.
-        image:
+        image: 
       - title: Cultivating Continuous Engineering Innovation
         content: Establish a culture of continuous improvement to consistently innovate both products and engineering methodologies.
-        image:
+        image: 
   - title: Elevating Engineering and DevOps Excellence
     content: Our program is more than mere training; it represents a comprehensive transformation, meticulously crafted to endow your engineering and product management teams with the practical skills, advanced tools, and a DevOps-oriented Agile mindset crucial for achieving excellence in product development. We delve deep into the core of your challenges, offering tailored, impactful solutions that resonate with the demands of modern engineering and DevOps practices. Through this journey, participants will not only master the essentials but also learn to navigate and excel in the complex landscape of today’s fast-evolving technological environment.
     type: phases
     source: sylabus
     sylabus:
-      - title: "Phase 1: Applying Agile Engineering"
+      - title: 'Phase 1: Applying Agile Engineering'
         content: |
           Are you grappling with the complexities of adopting Agile practices and the challenges of aligning them with engineering principles within your organization?
 
@@ -90,7 +90,7 @@ sections:
 
           As part of this phase, we use the accredited [Applying Professional Scrum (APS)](/capabilities/training-courses/scrumorg-applying-professional-scrum) Course training course and every participant received 2 attempts at the [Professional Scrum Master™ I Certification (PSM I)](https://www.scrum.org/assessments/professional-scrum-master-i-certification).
         module: /capabilities/training-courses/scrumorg-applying-professional-scrum
-      - title: "Phase 2: Agile Product Development"
+      - title: 'Phase 2: Agile Product Development'
         content: |
           Navigating the complexities of software development and team dynamics within Scrum can be overwhelming, from maintaining high code quality to managing stakeholder expectations and ensuring timely delivery.
 
@@ -98,7 +98,7 @@ sections:
 
           As part of this phase, we use the accredited [Applying Professional Scrum for Software Development (APS-SD)](/capabilities/training-courses/scrumorg-applying-professional-scrum-for-software-development) Course, and every participant received two attempts at the [Professional Scrum Developer™ Certification](https://www.scrum.org/assessments/professional-scrum-developer-certification).
         module: /capabilities/training-courses/scrumorg-applying-professional-scrum-for-software-development
-      - title: "Phase 3: Enhancing Engineering with Flow"
+      - title: 'Phase 3: Enhancing Engineering with Flow'
         content: |
           In software development environments, achieving a seamless workflow, effectively managing work in progress (WIP), and ensuring delivery predictability, while maintaining transparency and adaptability, are common challenges teams face.
 
@@ -106,7 +106,7 @@ sections:
 
           Included with this phase is access to the accredited [Professional Scrum with Kanban (PSK)](/capabilities/training-courses/scrumorg-professional-scrum-with-kanban) Course and two atempts at the [Professional Scrum™ with Kanban Certification](https://www.scrum.org/assessments/professional-scrum-with-kanban-certification).
         module: /capabilities/training-courses/scrumorg-professional-scrum-with-kanban
-      - title: "Phase 4: Engineering Excelance at Scale"
+      - title: 'Phase 4: Engineering Excelance at Scale'
         content: |
           As software development projects scale, they often encounter complex challenges such as process inefficiencies, detrimental effects of cross-team dependencies, and the struggle to align multiple teams for unified value delivery.
 
@@ -115,47 +115,47 @@ sections:
           As part of this phase, we use the accredited [Scaled Professional Scrum (SPS)](/capabilities/training-courses/scrumorg-scaled-professional-scrum-with-nexus) Course and all participants gain receive two attempts at the [Scaled Professional Scrum™ Certification](https://www.scrum.org/assessments/scaled-professional-scrum-certification).
         module: /capabilities/training-courses/scrumorg-scaled-professional-scrum-with-nexus
   - title: Why NKD Agility?
-    content:
+    content: 
     type: cards
     cards:
       - title: Expert Guidance
         content: Learn from Agile coaches with firsthand success in leading product teams to excellence.
-        image:
+        image: 
       - title: Holistic Approach
         content: Beyond the classroom, our program includes real-world consulting and coaching for practical application.
-        image:
+        image: 
       - title: Community and Support
         content: Join a vibrant community of practitioners with ongoing support post-completion.
-        image:
+        image: 
       - title: Proven Results
         content: Alumni leading Agile transformations stand as a testament to our program’s effectiveness.
-        image:
+        image: 
   - title: Evidence Based with NKDAgility Insights
-    content: "NKDAgility Insights is a significant development in team and organizational development tools. By providing continuous illumination on the quality of teamwork based on scientific insights, it offers a structured approach to diagnosing team performance issues. Here’s a closer look at its features and how it might function:"
+    content: 'NKDAgility Insights is a significant development in team and organizational development tools. By providing continuous illumination on the quality of teamwork based on scientific insights, it offers a structured approach to diagnosing team performance issues. Here’s a closer look at its features and how it might function:'
     type: cards
     cards:
       - title: Comprehensive Analysis
         content: The tool assesses various dimensions of team performance, including communication, collaboration, problem-solving abilities, and leadership dynamics.
-        image:
+        image: 
       - title: Actionable Recommendations
         content: The feedback provided is grounded in scientific research, ensuring that recommendations are both effective and actionable.
-        image:
+        image: 
       - title: Community and Support
         content: Join a vibrant community of practitioners with ongoing support post-completion.
-        image:
+        image: 
       - title: Systemic Improvement
         content: Beyond addressing immediate team-level concerns, NKDA-Insights also identifys and proposes solutions for broader organizational challenges affecting team performance.
-        image:
+        image: 
       - title: Continuous Improvement
         content: The tool's emphasis on continuous assessment ensures that teams can adapt and evolve their strategies over time, fostering a culture of continuous improvement.
-        image:
+        image: 
   - title: Elevate Your Engineering Teams to Agile Excellence
     content: |
       Tailored for organizations striving to excel, innovate, and lead in a technology-driven landscape, our program is ideally suited for. 
 
       Teams advancing their product development processes with a focus on engineering excellence. Individuals aiming to become key contributors or leaders in product engineering roles. Organizations committed to integrating Agile methodologies at the core of their engineering culture.
-  - title:
-    content:
+  - title: 
+    content: 
     type: videos
     related:
       - resources/videos/youtube/TCs2IxB118c
@@ -195,8 +195,8 @@ headline:
   cards: []
 ResourceId: NKD-PDMP
 ResourceType: mentor-program
----
 
+---
 # Product Development Mentoring Program
 
 **Course Code:** NKD-PDMP

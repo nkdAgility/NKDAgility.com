@@ -27,8 +27,8 @@ tags:
   - Agile Frameworks
   - Professional Scrum
   - Increment
-  - Product Delivery
   - Pragmatic Thinking
+  - Working Software
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7332065411456245762

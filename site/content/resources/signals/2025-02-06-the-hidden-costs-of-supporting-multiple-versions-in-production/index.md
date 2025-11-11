@@ -25,7 +25,6 @@ categories:
 tags:
   - Software Development
   - Technical Mastery
-  - Miscellaneous
   - Modern Source Control
   - Technical Debt
   - Team Performance

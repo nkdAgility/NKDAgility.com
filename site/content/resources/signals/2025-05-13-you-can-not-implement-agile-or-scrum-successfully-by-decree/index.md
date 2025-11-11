@@ -37,9 +37,9 @@ tags:
   - Software Development
   - Agile Frameworks
   - Agile Product Management
+  - Employee Engagement
   - Organisational Agility
   - Change Management
-  - Organisational Psychology
   - Sociotechnical Systems
 platform_signals:
   - platform: LinkedIn

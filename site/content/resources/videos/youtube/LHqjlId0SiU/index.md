@@ -43,7 +43,6 @@ tags:
   - Operational Practices
   - Professional Scrum
   - Business Agility
-  - Market Adaptability
   - Social Technologies
   - Agile Product Management
   - Agile Transformation

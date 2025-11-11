@@ -40,6 +40,7 @@ tags:
   - Operational Practices
   - Agile Frameworks
   - Agile Planning
+  - Agile Product Management
   - Value Delivery
 Watermarks:
   description: 2025-05-07T19:18:41Z

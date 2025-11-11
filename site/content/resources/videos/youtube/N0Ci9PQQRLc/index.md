@@ -31,6 +31,7 @@ concepts: []
 categories:
   - Uncategorized
 tags:
+  - Personal
   - Software Development
   - Pragmatic Thinking
   - Competence

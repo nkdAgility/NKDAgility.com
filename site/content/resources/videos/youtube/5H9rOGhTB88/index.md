@@ -35,11 +35,11 @@ categories:
   - Leadership
   - Lean
 tags:
+  - Self Organisation
   - Agile Strategy
   - Agile Transformation
   - Organisational Agility
   - Agile Philosophy
-  - Self Organisation
   - Team Motivation
   - Pragmatic Thinking
   - Agile Values and Principles

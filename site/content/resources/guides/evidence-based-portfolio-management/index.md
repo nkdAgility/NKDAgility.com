@@ -25,14 +25,8 @@ aliasesArchive:
 layout: guide
 concepts: []
 categories:
-  - Lean
-tags:
-  - Experimentation
-  - Enterprise Agility
-  - Empirical Process Control
-  - Hypothesis Driven Development
-  - Lean Product Development
-  - Business Agility
+  - Uncategorized
+tags: []
 card:
   button:
     content: Learn More

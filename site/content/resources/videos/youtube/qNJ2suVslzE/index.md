@@ -5,10 +5,10 @@ description: Learn how to turn scope creep into an advantage by adopting Agile m
 tldr: Scope creep is often a sign that traditional fixed-scope approaches are failing in today’s fast-changing market. Focusing on delivering customer value, embracing flexible planning, and actively seeking feedback helps teams adapt and succeed. Development managers should shift from rigid scope management to Agile practices that prioritize value and responsiveness to change.
 date: 2024-12-04T06:00:00Z
 lastmod: 2024-12-04T06:00:00Z
-weight: 750
+weight: 520
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: qNJ2suVslzE
 ItemType: videos

@@ -32,6 +32,7 @@ concepts:
 categories:
   - Uncategorized
 tags:
+  - Personal
   - Team Collaboration
   - Change Management
   - Organisational Culture

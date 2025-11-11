@@ -33,11 +33,11 @@ tags:
   - Deployment Frequency
   - Market Adaptability
   - Value Delivery
-  - Metrics and Learning
   - Pragmatic Thinking
   - Continuous Delivery
   - Team Performance
   - Release Management
+  - Metrics and Learning
   - Operational Practices
   - Decision Making
   - Empirical Process Control

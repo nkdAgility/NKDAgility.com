@@ -29,14 +29,17 @@ layout: video
 concepts:
   - Method
 categories:
-  - Product Management
   - Product Development
+  - Product Management
 tags:
   - Customer Focus
+  - Software Development
   - Value Delivery
   - Experimentation
   - Hypothesis Driven Development
   - Pragmatic Thinking
+  - Product Delivery
+  - Empirical Process Control
   - Agile Product Management
   - Organisational Agility
   - Business Agility

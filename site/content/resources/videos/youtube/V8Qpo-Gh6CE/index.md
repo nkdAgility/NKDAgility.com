@@ -39,14 +39,14 @@ tags:
   - Pragmatic Thinking
   - Customer Focus
   - Value Delivery
+  - Market Adaptability
   - Organisational Agility
   - Product Delivery
   - Operational Practices
-  - Market Adaptability
   - Business Agility
-  - Agile Product Management
   - Professional Scrum
   - Agile Strategy
+  - Agile Product Management
   - Agile Philosophy
   - Social Technologies
 Watermarks:

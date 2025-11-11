@@ -37,14 +37,13 @@ tags:
   - Definition of Done
   - Software Development
   - Product Delivery
-  - Team Collaboration
   - Pragmatic Thinking
+  - Team Collaboration
   - Operational Practices
   - Value Delivery
   - Team Performance
   - Technical Mastery
   - Social Technologies
-  - Engineering Practices
 Watermarks:
   description: 2025-05-07T20:51:36Z
   short_title: 2025-07-07T16:44:14Z

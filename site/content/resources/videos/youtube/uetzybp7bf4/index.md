@@ -33,6 +33,7 @@ categories:
   - Product Development
 tags:
   - Value Delivery
+  - Agile Strategy
 Watermarks:
   description: 2025-05-07T12:56:45Z
   short_title: 2025-07-07T17:47:11Z

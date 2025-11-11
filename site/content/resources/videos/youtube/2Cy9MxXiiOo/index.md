@@ -33,6 +33,7 @@ categories:
 tags:
   - Software Development
   - Agile Product Management
+  - Personal
 Watermarks:
   description: 2025-05-07T13:12:00Z
   short_title: 2025-07-07T17:54:56Z

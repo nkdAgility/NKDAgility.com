@@ -38,8 +38,10 @@ categories:
 tags:
   - Operational Practices
   - Software Development
+  - Enterprise Agility
   - Scaling
   - Product Delivery
+  - Value Delivery
 Watermarks:
   description: 2025-05-07T12:49:21Z
   short_title: 2025-07-07T16:45:44Z

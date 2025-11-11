@@ -30,7 +30,9 @@ categories:
   - Technical Leadership
 tags:
   - Decision Making
+  - Continuous Improvement
   - Pragmatic Thinking
+  - Market Adaptability
 Watermarks:
   description: 2025-07-24T15:15:30Z
   short_title: 2025-07-24T15:15:31Z

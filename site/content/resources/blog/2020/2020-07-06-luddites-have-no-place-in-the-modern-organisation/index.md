@@ -5,10 +5,10 @@ description: Explores how resistance to change and outdated mindsets hinder orga
 tldr: To build a modern, adaptable software organization, you need to hire people open to change and innovation and be willing to let go of those who resist new ways of working. Cultural resistance from "Luddites" will slow or undermine your agile evolution, as seen in Microsoft's transformation under Satya Nadella. Review your hiring and team composition to ensure you have the right people to support continuous learning and agility.
 date: 2020-07-06
 lastmod: 2020-07-06
-weight: 665
+weight: 480
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: weekly
 ItemId: dyxqF7lrHmn
 ItemType: blog

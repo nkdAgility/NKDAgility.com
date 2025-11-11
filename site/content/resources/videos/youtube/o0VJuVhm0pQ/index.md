@@ -34,6 +34,7 @@ categories:
 tags:
   - Value Delivery
   - Unrealised Value
+  - Agile Strategy
   - Agile Frameworks
   - Empirical Process Control
   - Software Development

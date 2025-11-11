@@ -32,6 +32,7 @@ tags:
   - Software Development
   - Pragmatic Thinking
   - Value Delivery
+  - Technical Excellence
   - Azure DevOps
 Watermarks:
   description: 2025-07-24T14:48:13Z

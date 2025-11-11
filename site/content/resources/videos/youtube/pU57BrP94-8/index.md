@@ -5,10 +5,10 @@ description: Immersive learning enables on-the-job coaching by combining real-wo
 tldr: Immersive learning spreads Agile training over several weeks, allowing participants to apply lessons directly to their work and receive valuable feedback in each session. This approach leads to deeper understanding, practical skill development, and stronger collaboration among team members. Development managers should consider immersive learning to foster real-world growth and continuous improvement within their teams.
 date: 2023-08-08T07:00:22Z
 lastmod: 2023-08-08T07:00:22Z
-weight: 790
+weight: 630
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: pU57BrP94-8
 ItemType: videos

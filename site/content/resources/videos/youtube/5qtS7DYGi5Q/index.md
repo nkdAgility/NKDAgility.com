@@ -5,10 +5,10 @@ description: Learn how Evidence-Based Management helps organisations measure del
 tldr: Evidence-Based Management helps organizations measure and improve the value they deliver by using key metrics like customer satisfaction, employee engagement, revenue per employee, product cost ratio, and customer usage. This approach enables clearer goals, better decisions, and ongoing improvement by relying on data instead of assumptions. Start small with relevant metrics, involve your team, and regularly review results to drive meaningful change.
 date: 2024-01-23T11:00:05Z
 lastmod: 2024-01-23T11:00:05Z
-weight: 1000
+weight: 455
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: 5qtS7DYGi5Q
 ItemType: videos

@@ -31,16 +31,19 @@ categories:
   - Product Development
 tags:
   - Market Adaptability
+  - Empirical Process Control
   - Agile Strategy
+  - Social Technologies
   - Customer Focus
   - Agile Philosophy
   - Business Agility
   - Pragmatic Thinking
-  - Empirical Process Control
   - Organisational Agility
   - Value Delivery
+  - Agile Values and Principles
   - Software Development
   - Agile Transformation
+  - Experimentation
 Watermarks:
   description: 2025-05-07T13:14:10Z
   short_title: 2025-07-07T17:56:50Z

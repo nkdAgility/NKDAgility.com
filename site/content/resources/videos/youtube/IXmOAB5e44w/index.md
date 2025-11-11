@@ -5,7 +5,7 @@ description: Earn £20 credit for each friend you refer to our classes. Both you
 tldr: A new referral program offers £20 rewards for both you and your colleagues when you invite them to join classes, encouraging collaborative learning and community building. By sharing a unique code, you both receive discounts or credits, making professional development more cost-effective. Visit the website to get your code and start inviting your team to enhance learning together.
 date: 2023-06-15T07:00:06Z
 lastmod: 2023-06-15T07:00:06Z
-weight: 930
+weight: 835
 sitemap:
   filename: sitemap.xml
   priority: 0.1

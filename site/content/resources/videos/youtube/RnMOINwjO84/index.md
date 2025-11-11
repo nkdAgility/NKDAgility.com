@@ -5,7 +5,7 @@ description: Explores how businesses can boost agility and innovation by adaptin
 tldr: There are no universal rules for making good business decisions in complex environments, so teams must focus on adaptability, creativity, and continuous learning to stay competitive. Relying on standard tools or processes can lead to bureaucracy and stifle innovation, so regularly reassess what adds value and be ready to change approaches as needed. Encourage a culture that questions the status quo and adapts quickly to new information or challenges.
 date: 2024-10-03T07:00:16Z
 lastmod: 2024-10-03T07:00:16Z
-weight: 1000
+weight: 660
 sitemap:
   filename: sitemap.xml
   priority: 0.1

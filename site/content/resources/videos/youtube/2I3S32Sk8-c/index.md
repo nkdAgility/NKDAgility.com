@@ -5,10 +5,10 @@ description: Guidance for new scrum teams on establishing effective practices, l
 tldr: In the first four weeks, a scrum team should focus on practicing scrum correctly, learning both what works and what does not, and experimenting to find the best fit for their context. Teams should document obstacles and improvements, address one key change per sprint, and use retrospectives to drive continuous improvement. This approach builds a strong foundation and helps make organizational issues visible for future action.
 date: 2023-02-16T07:00:01Z
 lastmod: 2023-02-16T07:00:01Z
-weight: 640
+weight: 370
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: monthly
 ItemId: 2I3S32Sk8-c
 ItemType: videos

@@ -2,7 +2,7 @@
 # Helpers
 . ./.powershell/_includes/IncludesForAll.ps1
 
-$ErrorActionPreference = 'Stop'
+$ErrorActionPreference = 'Continue'
 $levelSwitch.MinimumLevel = 'Information'
 $hugoMarkdownObjects = @()
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10

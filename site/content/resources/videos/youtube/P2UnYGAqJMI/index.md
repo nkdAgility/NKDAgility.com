@@ -5,10 +5,10 @@ description: Explains why relying on Agile burndown charts leads to over-plannin
 tldr: Relying on burndown charts leads to excessive upfront planning, false confidence, and wasted effort, as most plans quickly become outdated and only a fraction of features are actually used. Instead, focus on minimal, just-in-time planning and continuous flow to adapt quickly, reduce overhead, and deliver real value. Encourage your teams to plan only what is needed for the next day, adjust daily, and prioritize delivering value over maintaining detailed charts.
 date: 2024-01-09T11:00:51Z
 lastmod: 2024-01-09T11:00:51Z
-weight: 1000
+weight: 420
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: P2UnYGAqJMI
 ItemType: videos

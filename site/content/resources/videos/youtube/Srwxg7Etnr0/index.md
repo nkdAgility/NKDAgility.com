@@ -5,10 +5,10 @@ description: Explains how Scrum teams collaboratively define a clear, achievable
 tldr: A Scrum team decides on a Sprint goal through early and ongoing collaboration with stakeholders, aligning the goal with business strategy, market needs, and team capacity. The goal is crafted during Sprint planning by the product owner and developers together, ensuring it is clear, measurable, and agreed upon by all. To improve outcomes, start goal discussions before planning, maintain open communication, and make the goal visible to keep the team focused and adaptable.
 date: 2023-06-02T07:00:09Z
 lastmod: 2023-06-02T07:00:09Z
-weight: 640
+weight: 360
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: monthly
 ItemId: Srwxg7Etnr0
 ItemType: videos

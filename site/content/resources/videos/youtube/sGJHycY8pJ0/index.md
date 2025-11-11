@@ -34,6 +34,7 @@ tags:
   - Operational Practices
   - Team Performance
   - Value Delivery
+  - Continuous Improvement
   - Lean Product Development
   - Lean Principles
   - Project Management

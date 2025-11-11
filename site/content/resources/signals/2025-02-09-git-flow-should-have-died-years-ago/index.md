@@ -27,8 +27,8 @@ tags:
   - Frequent Releases
   - Software Development
   - Deployment Frequency
-  - Continuous Delivery
   - Modern Source Control
+  - Continuous Delivery
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7294392103877394432

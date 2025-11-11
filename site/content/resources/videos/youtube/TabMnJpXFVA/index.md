@@ -32,6 +32,7 @@ concepts: []
 categories:
   - Uncategorized
 tags:
+  - Personal
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:13:39Z

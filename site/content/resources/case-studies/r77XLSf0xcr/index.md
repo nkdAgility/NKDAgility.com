@@ -28,8 +28,8 @@ tags:
   - One Engineering System
   - Software Development
   - System Configuration
-  - Operational Practices
   - Pragmatic Thinking
+  - Operational Practices
   - Digital Transformation
   - Agile Strategy
   - Product Delivery

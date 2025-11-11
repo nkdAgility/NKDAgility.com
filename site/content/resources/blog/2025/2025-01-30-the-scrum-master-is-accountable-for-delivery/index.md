@@ -39,12 +39,12 @@ categories:
   - Product Development
   - Leadership
 tags:
+  - Value Delivery
   - Software Development
   - Agile Frameworks
   - Professional Scrum
   - Scrum Master
   - Product Delivery
-  - Value Delivery
   - Team Performance
   - Operational Practices
   - Empirical Process Control

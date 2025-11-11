@@ -5,10 +5,10 @@ description: Explores the journey from DevOps practitioner to consultant, highli
 tldr: Transitioning from DevOps practitioner to consultant often happens when your expertise is recognized by others, not just when you feel ready. Key signals include being noticed for your skills, sharing your insights publicly, and being sought out for advice, which can lead to opportunities to guide multiple organizations. To prepare, focus on demonstrating your expertise, sharing your knowledge, and engaging with the community to build visibility and influence.
 date: 2023-05-04T07:00:19Z
 lastmod: 2023-05-04T07:00:19Z
-weight: 840
+weight: 635
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: sb9RsFslUfU
 ItemType: videos

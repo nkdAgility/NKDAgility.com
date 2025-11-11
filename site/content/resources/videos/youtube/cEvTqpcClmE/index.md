@@ -35,7 +35,8 @@ categories:
   - DevOps
   - Engineering Excellence
   - Product Development
-tags: []
+tags:
+  - Organisational Change
 Watermarks:
   description: 2025-05-07T12:49:12Z
   short_title: 2025-07-07T16:44:37Z

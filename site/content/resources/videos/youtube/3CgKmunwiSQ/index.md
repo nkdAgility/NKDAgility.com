@@ -5,7 +5,7 @@ description: Explains how traditional management relies on authority and intuiti
 tldr: Traditional management relies on experience and authority, often leading to decisions based on intuition or hierarchy rather than data. Evidence-based management uses data collection, team analysis, and outcome validation to drive better decisions and avoid misleading metrics like story points or velocity. Development managers should shift focus from vanity metrics to meaningful data that aligns with organizational goals and encourages continuous improvement.
 date: 2024-09-12T07:00:02Z
 lastmod: 2024-09-12T07:00:02Z
-weight: 1000
+weight: 680
 sitemap:
   filename: sitemap.xml
   priority: 0.1

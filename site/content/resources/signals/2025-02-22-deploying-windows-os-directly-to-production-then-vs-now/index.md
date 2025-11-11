@@ -29,12 +29,12 @@ tags:
   - Windows
   - Deployment Strategies
   - Pragmatic Thinking
-  - Frequent Releases
+  - Operational Practices
   - Continuous Delivery
   - Continuous Improvement
-  - Operational Practices
   - Customer Focus
   - Software Development
+  - Frequent Releases
   - Product Delivery
   - Metrics and Learning
   - Release Management

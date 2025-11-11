@@ -5,10 +5,10 @@ description: Digital scrum training is nearly as effective as in-person, offerin
 tldr: While in-person Scrum training offers slightly more engagement and interaction, digital delivery is nearly as effective and brings unique advantages such as greater accessibility, exposure to global perspectives, and alignment with how remote teams now work. Online courses allow immediate application of learning, foster diverse collaboration, and introduce valuable digital tools. Development managers should consider digital training as a practical, effective option that fits modern team dynamics and broadens participation.
 date: 2023-01-31T07:00:08Z
 lastmod: 2023-01-31T07:00:08Z
-weight: 790
+weight: 610
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: Y7Cd1aocMKM
 ItemType: videos

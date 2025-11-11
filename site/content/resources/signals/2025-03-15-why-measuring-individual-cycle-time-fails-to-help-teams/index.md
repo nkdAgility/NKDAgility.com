@@ -26,14 +26,13 @@ categories:
   - Kanban
   - Lean
 tags:
-  - Team Performance
   - Operational Practices
   - Flow Efficiency
   - Software Development
   - Decision Making
+  - Team Performance
   - Lead Time
   - Continuous Improvement
-  - Team Collaboration
   - Systems Thinking
   - Lean Principles
   - Organisational Physics
@@ -41,6 +40,7 @@ tags:
   - Lean Thinking
   - Value Delivery
   - Pragmatic Thinking
+  - Metrics and Learning
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7306713296575885312

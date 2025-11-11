@@ -32,7 +32,7 @@ tags:
   - Product Delivery
   - Metrics and Learning
   - Market Adaptability
-  - Continuous Delivery
+  - Team Performance
   - Release Management
   - Agile Philosophy
   - Pragmatic Thinking

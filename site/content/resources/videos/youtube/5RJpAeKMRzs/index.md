@@ -38,6 +38,8 @@ tags:
   - Organisational Agility
   - Social Technologies
   - Agile Strategy
+  - Team Performance
+  - Self Organisation
   - Agile Frameworks
   - Agile Transformation
   - Pragmatic Thinking

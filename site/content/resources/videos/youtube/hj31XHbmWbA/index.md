@@ -35,7 +35,8 @@ concepts:
   - Principle
 categories:
   - Product Development
-tags: []
+tags:
+  - Software Development
 Watermarks:
   description: 2025-05-07T13:08:47Z
   short_title: 2025-07-07T17:52:25Z

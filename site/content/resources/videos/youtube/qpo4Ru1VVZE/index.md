@@ -31,6 +31,7 @@ categories:
   - Uncategorized
 tags:
   - Pragmatic Thinking
+  - Digital Transformation
 Watermarks:
   description: 2025-05-07T12:57:23Z
   short_title: 2025-07-07T17:47:41Z

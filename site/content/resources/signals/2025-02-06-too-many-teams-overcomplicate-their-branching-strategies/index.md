@@ -29,9 +29,9 @@ tags:
   - Pragmatic Thinking
   - Software Development
   - Operational Practices
+  - Team Performance
   - GitHub
   - Technical Mastery
-  - Team Performance
   - Frequent Releases
   - Continuous Delivery
   - Value Delivery

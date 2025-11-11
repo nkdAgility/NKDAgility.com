@@ -5,7 +5,7 @@ description: A product vision defines the shared direction and purpose for a tea
 tldr: A clear product vision is essential because it aligns teams, prevents chaos, and ensures everyone understands the direction and purpose of their work. Without it, efforts become fragmented and counterproductive. Development managers should prioritize creating and communicating a shared vision so teams can work cohesively toward common goals.
 date: 2023-05-17T14:00:17Z
 lastmod: 2023-05-17T14:00:17Z
-weight: 1000
+weight: 890
 sitemap:
   filename: sitemap.xml
   priority: 0.1

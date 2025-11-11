@@ -5,10 +5,10 @@ description: Not having a working agreement in Kanban leads to team misalignment
 tldr: Not having a working agreement causes chaos, misalignment, and inefficiency in teams using Kanban or similar frameworks. Clear agreements on roles, goals, processes, and workflows are essential for team alignment and success. Development managers should ensure their teams regularly create and review working agreements to avoid confusion and improve outcomes.
 date: 2024-03-01T07:00:17Z
 lastmod: 2024-03-01T07:00:17Z
-weight: 690
+weight: 450
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: h6yumCOP-aE
 ItemType: videos

@@ -5,10 +5,10 @@ description: Explores how blame and intolerance for mistakes harm Agile teams, a
 tldr: Wrath in Agile teams shows up as blame and fear of mistakes, which stifles innovation and learning. Shifting from blame to shared accountability creates a safer environment for risk-taking and continuous improvement. Development managers should encourage open discussion of mistakes and support a culture where learning from errors is valued over perfection.
 date: 2023-10-16T11:00:31Z
 lastmod: 2023-10-16T11:00:31Z
-weight: 640
+weight: 430
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: monthly
 ItemId: U18nA0YFgu0
 ItemType: videos

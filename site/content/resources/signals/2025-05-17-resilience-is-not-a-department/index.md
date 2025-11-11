@@ -5,10 +5,10 @@ description: Resilience must be built into products from the start, ensuring the
 tldr: Resilience must be built into your product from the start, not treated as a separate concern or afterthought. Focusing only on performance, cost, or speed can lead to fragile systems that fail in real-world conditions. Make sure your disaster recovery plans are tested under real scenarios, not just documented, to avoid turning your product into a liability.
 date: 2025-05-17T15:30:21+01:00
 lastmod: 2025-05-17T15:30:21+01:00
-weight: 375
+weight: 475
 sitemap:
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.4
   changefreq: weekly
 ItemId: PWgzGL20QAo
 ItemType: signals
@@ -25,6 +25,7 @@ categories:
   - Uncategorized
 tags:
   - Software Development
+  - Pragmatic Thinking
   - Miscellaneous
 platform_signals:
   - platform: LinkedIn
