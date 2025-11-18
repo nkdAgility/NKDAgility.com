@@ -254,6 +254,24 @@ We encourage our consultants to contribute back to the broader community through
 
 This approach supports transparency, learning, and the evolution of better practices while fully respecting client confidentiality.
 
+## Restrictive Open Source Code
+
+naked Agility Ltd agrees not to include, embed, provide, combine, or otherwise use Restrictive Open Source Code in any manner that results in such code being combined with, linked to, distributed with, or otherwise incorporated into any SLB software or SLB deliverables.
+
+For the avoidance of doubt, the use of Restrictive Open Source Code by naked Agility Ltd in its own internal tools, systems, or processes is permitted, provided that such use:
+
+- (a) does not require SLB to make any source code (including SLB software or third party software used by SLB) available to any third party;
+- (b) does not impose any licensing obligations on SLB or its software; and
+- (c) is not integrated with, nor forms part of, any SLB software or SLB deliverables.
+
+**"Restrictive Open Source Code"** means software that is:
+
+1. licensed under terms that require making modifications to the software (or any other software combined with the software) available to third parties in source code form;
+2. licensed under terms that require any SLB software to be re-licensed under terms or conditions that conflict with SLB licensing terms; or
+3. licensed under terms that require any third party software included with SLB software to be licensed under terms or conditions that conflict with the respective third party licensing terms.
+
+Restrictive Open Source Code also includes software for which the licence terms are unknown or cannot be verified.
+
 ## Responsible AI & Agentic Systems
 
 We use AI tools responsibly to accelerate insight, explore ideas, and support co-creation—but always with human agency and judgment at the centre.
