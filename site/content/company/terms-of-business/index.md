@@ -305,6 +305,41 @@ Each engagement begins upon written acceptance and initial payment. Unless other
 
 We carry {{< currency 1000000 >}} professional indemnity insurance and operate under reasonable limits of liability. We are not liable for indirect or consequential loss. If there's a concern, we’ll address it directly and transparently.
 
+
+## Warranties
+
+naked Agility Ltd warrants that:
+
+1. **Original work**  
+   Any materials expressly created for you during the engagement will be original to us or created using assets for which we hold the necessary rights.
+
+2. **Non-infringement (knowledge-based)**  
+   To the best of our knowledge, work created specifically for you will not knowingly infringe the intellectual property rights of any third party.
+
+3. **Professional skill and care**  
+   All services will be performed with reasonable professional skill, care, and diligence consistent with the nature of advisory and outcome-focused consultancy.
+
+These warranties are limited to the services and materials we create directly. They do not apply to pre-existing materials, third-party platforms, client-provided systems, or outcomes that depend on client execution, decisions, or technical environments.
+
+Except as expressly stated in this section, no other warranties, conditions, or guarantees (express or implied) are given.
+
+## Indemnity
+
+naked Agility Ltd will indemnify and hold you harmless from any direct losses, costs, or reasonable legal fees arising from:
+
+1. **Breach of these terms**  
+   A proven breach by naked Agility Ltd of the obligations set out in this agreement.
+
+2. **IP infringement claims related to our work**  
+   A claim by a third party that materials created solely by naked Agility Ltd for you infringe that third party's intellectual property rights.
+
+This indemnity is subject to the following limits and conditions:
+
+- It does not apply to claims arising from your data, systems, directions, or modifications.  
+- It does not cover indirect, consequential, or punitive damages.  
+- Our total liability under this indemnity will not exceed the fees paid for the engagement that gave rise to the claim or our professional indemnity insurance limit, whichever is higher.  
+- You must notify us promptly of any claim and allow us to manage the defence or settlement.
+
 ## Issue Resolution
 
 If an issue arises, we commit to open, respectful dialogue to resolve it quickly. Legal action is always a last resort.
