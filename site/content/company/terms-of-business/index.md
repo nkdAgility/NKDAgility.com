@@ -136,6 +136,24 @@ This clause applies **only to UK engagements**. It does not affect services deli
 
 > Each party agrees to keep confidential any information marked as confidential or which would reasonably be considered confidential. Confidential information may be disclosed to employees and subcontractors bound by equivalent confidentiality obligations. Disclosure is permitted when required by law or with prior written consent.
 
+## Restrictive Open Source Code
+
+naked Agility Ltd agrees not to include, embed, provide, combine, or otherwise use Restrictive Open Source Code in any manner that results in such code being combined with, linked to, distributed with, or otherwise incorporated into any client software or client deliverables.
+
+For the avoidance of doubt, the use of Restrictive Open Source Code by naked Agility Ltd in its own internal tools, systems, or processes is permitted, provided that such use:
+
+- does not require the client to make any source code (including client software or third party software used by the client) available to any third party;
+- does not impose any licensing obligations on the client or its software; and
+- is not integrated with, nor forms part of, any client software or client deliverables.
+
+**"Restrictive Open Source Code"** means software that is:
+
+1. licensed under terms that require making modifications to the software, or any other software combined with the software, available to third parties in source code form;
+2. licensed under terms that require any client software to be re-licensed under terms or conditions that conflict with the client's licensing terms; or
+3. licensed under terms that require any third party software included with client software to be licensed under terms or conditions that conflict with the respective third party licensing terms.
+
+Restrictive Open Source Code also includes software for which the licence terms are unknown or cannot be verified.
+
 ## Location, Rates, and Onsite
 
 - Most services are delivered **remotely** using Microsoft Teams and Mural.
