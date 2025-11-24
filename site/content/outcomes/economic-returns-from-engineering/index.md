@@ -19,11 +19,11 @@ sections:
   - type: headline
     headline:
       title: Economic Returns from Engineering
-      subtitle: Transform Engineering Costs into Strategic Value
+      subtitle: Transform Engineering from Cost Center to Competitive Advantage
       content: |
-        Engineering is often seen as a cost center—headcount, tools, cloud spend.
+        Your engineering budget keeps growing, but delivery speed isn't keeping pace. You're spending millions on talent and tools—yet can't show the board clear ROI.
 
-        But when done right, engineering becomes your **competitive advantage**, delivering faster time-to-market, higher product quality, and measurable economic returns that compound over time.
+        **The opportunity:** DORA research shows elite engineering organizations deploy 208x more frequently and recover 2,604x faster than low performers. That's not incremental improvement—that's competitive advantage.
   - content: |
       **NKD Agility helps you maximize the business value of your engineering investments.** We focus on flow economics, reduced waste, and evidence-based decision-making to ensure every engineering dollar drives measurable business outcomes.
     type: content
@@ -77,23 +77,23 @@ sections:
       - title: Faster Time-to-Value
         icon: fa-rocket
         content: |
-          Get features to market faster, capturing revenue sooner and responding to competition quicker.
+          **DORA shows** elite teams deploy 208x more frequently. Even closing half that gap means capturing revenue weeks or months earlier.
       - title: Higher Product Quality
         icon: fa-medal
         content: |
-          Reduce defects, support costs, and customer churn through engineering excellence.
+          **Elite performers have 7x lower change failure rates.** Fewer production incidents = lower support costs, higher customer retention.
       - title: Reduced Waste
         icon: fa-trash-can
         content: |
-          Eliminate rework, unnecessary handoffs, and technical debt that drain resources.
+          **Industry data shows** 85% of engineering time is wasted on rework, waiting, and context switching. We help you reclaim it.
       - title: Better Resource Utilization
         icon: fa-users-gear
         content: |
-          Optimize team capacity, reduce context switching, and focus on high-value work.
+          **You'll see exactly where engineering capacity goes**—and which investments actually move the business forward.
       - title: Predictable Forecasting
         icon: fa-calendar-check
         content: |
-          Make better investment decisions with confidence in delivery timelines and costs.
+          **Board presentations become easier** when you can show flow metrics, cycle time trends, and delivery predictability.
   - title: Engineering as Strategic Advantage
     type: content
     content: |
@@ -154,9 +154,11 @@ sections:
     sideContent: |
       **Because engineering investments should compound, not drain.**
 
-      We combine deep technical expertise with flow economics and evidence-based management to help you maximize returns from every engineering dollar.
+      **Why engineering leaders trust us:** We're not business consultants trying to understand code. We're engineers who've built production systems, led DevOps transformations, and presented ROI to boards. We speak both languages fluently.
 
-      Led by Microsoft MVP Martin Hinshelwood, NKD Agility has decades of experience turning engineering into competitive advantage.
+      **Our guarantee:** Timeboxed engagement with full refund if you're not satisfied. No hourly billing, no scope creep, no change orders—just measurable outcomes.
+
+      Led by Microsoft MVP Martin Hinshelwood, combining 20+ years of technical depth with flow economics and evidence-based management.
   - type: sectioncta
     backgroundColor: primary
     cta:

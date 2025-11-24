@@ -21,9 +21,9 @@ sections:
       title: Strategic Decision-Making
       subtitle: From Opinion-Based to Evidence-Based Leadership
       content: |
-        You're making million-dollar decisions with gut feelings and outdated spreadsheets.
+        You're approving engineering investments without seeing the ROI. Strategy gets lost in translation between the boardroom and delivery teams. Decisions take weeks—and still don't stick.
 
-        When strategy disconnects from execution, every decision becomes a gamble—and your teams pay the price in rework, confusion, and missed opportunities.
+        **The cost?** Elite software organizations (per DORA research) make strategic decisions 106x faster than low performers, with 2,604x faster recovery when things go wrong.
   - content: |
       **NKD Agility enables strategic decision-making grounded in evidence, not opinion.** We help leaders build the systems, metrics, and operating models that turn uncertainty into clarity and reactive leadership into proactive strategy.
     type: content
@@ -75,19 +75,19 @@ sections:
       - title: Evidence-Based Confidence
         icon: fa-chart-line
         content: |
-          Make decisions backed by data, metrics, and measurable outcomes—not opinions.
+          **You'll know** which initiatives drive revenue and which drain resources—within 30 days. Stop debating, start measuring.
       - title: Faster Decision Cycles
         icon: fa-bolt
         content: |
-          Reduce time spent debating and increase time executing with clarity.
+          **DORA research shows** elite performers make decisions 106x faster. We help you close that gap through aligned operating models.
       - title: Aligned Leadership
         icon: fa-handshake
         content: |
-          Get executives, product leaders, and engineering aligned on priorities and direction.
+          **Your exec team will finally speak the same language**—connecting board strategy to engineering reality with metrics everyone trusts.
       - title: Strategic Agility
         icon: fa-arrows-rotate
         content: |
-          Adapt to market changes and new information without losing momentum.
+          **Adapt without chaos.** When strategy shifts, your teams know exactly what changes—and what doesn't.
   - title: Clear, Trusted Direction
     type: content
     content: |
@@ -148,9 +148,11 @@ sections:
     sideContent: |
       **Because strategy without execution is hallucination. And execution without strategy is chaos.**
 
-      We bridge the gap with operating models, evidence-based management, and technical leadership that connects boardroom decisions to engineering reality.
+      **Our unique advantage:** We're not typical consultants. We're deeply technical engineers who understand both code and business strategy. Engineering leaders trust us because we've lived their challenges—from DevOps pipelines to board presentations.
 
-      Led by Microsoft MVP Martin Hinshelwood, NKD Agility brings decades of experience helping leaders make decisions that stick.
+      **How we engage:** Timeboxed retainer (not hourly). Satisfaction guaranteed—if we don't deliver value, we refund you. No risk, no change orders, just outcomes.
+
+      Led by Microsoft MVP Martin Hinshelwood with 20+ years bridging technical excellence and strategic leadership.
   - type: sectioncta
     backgroundColor: primary
     cta:
