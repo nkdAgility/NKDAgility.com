@@ -20,11 +20,11 @@ sections:
   - type: headline
     headline:
       title: Cross-Functional Alignment
-      subtitle: Unite Product, Tech & Business Around Shared Outcomes.
+      subtitle: Aligning Strategy, Discovery, Delivery, and Operations.
       content: |
         You don’t have a tech problem. You have a _coordination_ problem. Product ships what sales promised. Engineering scrambles to deliver. Leadership wonders why timelines are slipping.
   - content: |
-      **NKD Agility creates true alignment—across every function.** We help you turn fractured priorities and siloed teams into one unified engine of delivery.
+      **NKD Agility creates operating models that align strategy, discovery, delivery, and operations—turning fractured priorities and siloed teams into one unified system of work.** When teams move faster with greater clarity and accountability, you unlock measurable business outcomes.
     type: content
   - type: outcomehero
     cta:
@@ -94,21 +94,21 @@ sections:
   - type: outcomeboxes
     title: We can help you with
     boxes:
-      - box: 
+      - box:
         items:
           - title: Break down silos between departments
           - title: Align strategy with execution
           - title: Improve communication between business, tech, and product
           - title: Eliminate duplication of work and resource clashes
           - title: Create a shared understanding of goals, metrics, and priorities
-      - box: 
+      - box:
         items:
           - title: Reduce frustration caused by misalignment
           - title: Feel confident in what your teams are building
           - title: Move from firefighting to forward planning
           - title: Regain clarity and focus across teams
           - title: Feel pride in leading a truly aligned org
-      - box: 
+      - box:
         items:
           - title: Be the catalyst that unifies your org around delivery
           - title: Build a culture of shared ownership and trust
@@ -167,6 +167,4 @@ creator: Martin Hinshelwood
 icon: fa-project-diagram
 ResourceId: btO46GSjdqv
 ResourceType: outcomes
-
 ---
-

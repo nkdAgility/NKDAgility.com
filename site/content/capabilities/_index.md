@@ -10,11 +10,11 @@ sections:
   - type: headline
     headline:
       title: Capabilities That Drive Real Change
-      subtitle: Strategic Expertise. Engineering Precision. Organisational Impact.
+      subtitle: Operating Model Design. Engineering Precision. Measurable Outcomes.
       content: |
-        From executive agility to DevOps migrations, NKD Agility delivers outcomes, not buzzwords.  
-        Our capabilities are built to solve the real problems slowing your teams down,  
-        with services that evolve how your organisation works, delivers, and leads.
+        From executive leadership to DevOps system design, NKD Agility delivers measurable business outcomes, not buzzwords.  
+        Our capabilities align strategy, discovery, delivery, and operations—creating operating models that increase speed, strengthen decision-making, and reduce delivery friction.  
+        We help you build a resilient, adaptable, and effective system of work where technology becomes a strategic advantage.
   - type: list
     title: Who We Help
     listType: boxed

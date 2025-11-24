@@ -23,11 +23,11 @@ sections:
   - type: headline
     headline:
       title: DevOps Technology Consultancy
-      subtitle: Design the Systems. Build the Pipelines. Empower the Teams.
+      subtitle: Operating Model Design. DevOps System Architecture. Team Enablement.
       content: |
-        You’ve got too many tools, too many silos, and a delivery pipeline that’s more duct tape than design.
+        You've got too many tools, too many silos, and a delivery pipeline that's more duct tape than design.
 
-        You don’t need another vendor pitching a silver bullet—you need a trusted partner who can help you build DevOps systems that scale, secure, and perform.
+        You don't need another vendor pitching a silver bullet—you need a trusted partner who can help you design operating models and build DevOps systems that scale, secure, and perform.
   - type: outcomehero
     cta:
       content: Design the Systems. Build the Pipelines. Empower the Teams. **Let's Talk**
@@ -40,15 +40,15 @@ sections:
     content: |
       Most DevOps initiatives stall because:
 
-      - Teams don’t own the pipelines
+      - Teams don't own the pipelines
       - Tools are deployed without architecture
       - Security is bolted on, not baked in
       - Delivery slows down instead of speeding up
-      - Leaders can’t see flow—or fix it
+      - Leaders can't see flow—or fix it
 
-      **We don’t start with tools. We start with outcomes.**
+      **We don't start with tools. We start with measurable business outcomes.**
 
-      Then we architect, automate, and enable.
+      We design operating models that align strategy, discovery, delivery, and operations—then we architect, automate, and enable.
   - type: quote
     backgroundColor: primary
     quote: |
@@ -59,7 +59,7 @@ sections:
   - type: boxesrow
     title: What DevOps Technology Consulting Solves
     boxes:
-      - box: 
+      - box:
         title: Core Problem
         items:
           - title: Inconsistent or unreliable pipelines
@@ -67,7 +67,7 @@ sections:
           - title: Lack of engineering standards
           - title: Manual, error-prone deployments
           - title: Unclear delivery metrics
-      - box: 
+      - box:
         title: Our Solutions
         items:
           - title: Design and implement CI/CD that delivers with confidence
@@ -75,9 +75,9 @@ sections:
           - title: Create shared DevOps principles across teams and products
           - title: Automate infrastructure, testing, and delivery workflows
           - title: Establish meaningful flow metrics and visibility dashboards
-  - title: We Build the DevOps Systems You Actually Need
+  - title: We Build the Operating Models and DevOps Systems You Actually Need
     content: |
-      This is **consulting in code** - not just strategy decks.
+      This is **operating model design and consulting in code** - not just strategy decks.
     type: list
     listType: list
     list:
@@ -125,7 +125,7 @@ sections:
   - type: symmetry
     title: What you get with NKD Agility
     boxes:
-      - box: 
+      - box:
         title: Before
         items:
           - title: Frustrated by flaky pipelines and unowned tech debt
@@ -136,7 +136,7 @@ sections:
             icon: fa-face-nose-steam
           - title: Struggling to connect delivery speed with strategic goals
             icon: fa-face-tired
-      - box: 
+      - box:
         title: After
         items:
           - title: Confident in scalable, secure, team-owned delivery pipelines
@@ -209,8 +209,8 @@ menus:
 icon: fa-diagram-project
 ResourceId: YYFs65WYwwO
 ResourceType: capabilities
-
 ---
+
 Our DevOps consultants work with organisations to help them get the most out of their DevOps strategy and maximise its effectiveness.
 
 We conduct health checks to assess your organisation’s current State of DevOps. We meld this discovery with our experience to advise changes to the existing ways of working, culture and tooling to achieve the objectives. We design training programs to educate teams and help them change. Following training, we can coach and mentor during the next evolution as everyone works towards achieving the outcomes.

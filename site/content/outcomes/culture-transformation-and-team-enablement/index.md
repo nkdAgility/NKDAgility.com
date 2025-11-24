@@ -26,11 +26,11 @@ sections:
 
         But without cultural alignment, delivery still stalls - and teams stay disengaged.
   - content: |
-      **NKD Agility doesn’t just install practices. We enable transformation.** We help teams shift mindset, build modern habits, and create a culture where innovation flows and ownership thrives.
+      **NKD Agility doesn't just install practices. We enable transformation.** We help teams shift mindset, build modern habits, and create a resilient, adaptable, and effective system of work where innovation flows and ownership thrives.
     type: content
   - type: outcomehero
     cta:
-      content: '**Is Your Culture Holding You Back?** Let’s build something stronger.'
+      content: "**Is Your Culture Holding You Back?** Let’s build something stronger."
       button:
         text: Book a Discovery Call
         url: /company/book-online
@@ -94,23 +94,23 @@ sections:
     content: |
       Communication improves. Tensions reduce. Results get better.
   - type: outcomeboxes
-    title: 'We can help you with:'
+    title: "We can help you with:"
     boxes:
-      - box: 
+      - box:
         items:
           - title: Build high-performing engineering teams
           - title: Shift from command-and-control to empowered teams
           - title: Improve collaboration across silos
           - title: Retain top talent through culture and development
           - title: Embed continuous learning into daily work
-      - box: 
+      - box:
         items:
           - title: Reduce leadership fatigue and emotional drain
           - title: Feel pride in team morale and growth
           - title: Move from frustration to flow
           - title: Inspire belief in your transformation vision
           - title: See tangible growth in team maturity
-      - box: 
+      - box:
         items:
           - title: Foster a culture of innovation and ownership
           - title: Be known for building a world-class tech culture
@@ -175,6 +175,4 @@ creator: Martin Hinshelwood
 icon: fa-people-arrows
 ResourceId: Do4uZk5AUJe
 ResourceType: outcomes
-
 ---
-
