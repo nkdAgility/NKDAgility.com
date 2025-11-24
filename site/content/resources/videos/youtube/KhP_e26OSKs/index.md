@@ -5,10 +5,10 @@ description: Learn practical strategies to boost stakeholder attendance and enga
 tldr: Sprint reviews often fail to engage stakeholders or generate useful feedback because stakeholders do not see the value or feel emotionally connected to the work. To address this, communicate the benefits of participation early, use visuals, create a safe space for feedback, engage stakeholders before reviews, and tailor your approach to their interests. Development managers should focus on making Sprint reviews relevant and personal to stakeholders to drive better engagement and product outcomes.
 date: 2023-12-15T11:00:17Z
 lastmod: 2023-12-15T11:00:17Z
-weight: 660
+weight: 440
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: KhP_e26OSKs
 ItemType: videos

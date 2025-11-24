@@ -30,11 +30,12 @@ layout: video
 concepts: []
 categories:
   - Product Development
+  - DevOps
 tags:
+  - Pragmatic Thinking
   - Software Development
   - Organisational Agility
   - Personal
-  - Pragmatic Thinking
   - Agile Transformation
   - Agile Philosophy
 Watermarks:

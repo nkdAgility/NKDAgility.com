@@ -26,7 +26,8 @@ aliasesArchive:
   - empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
 source: youtube
 layout: video
-concepts: []
+concepts:
+  - Strategy
 categories:
   - Product Management
   - Leadership

@@ -5,10 +5,10 @@ description: Explores how to balance engineering excellence and effective Agile 
 tldr: Balancing strong engineering practices with effective processes is essential for thriving in today’s fast-changing business environment; neglecting either can lead to costly failures or products that miss user needs. Success with Agile requires more than process changes—it demands a culture of transparency, collaboration, and continuous learning, along with well-trained product owners and meaningful outcome-focused metrics. Development managers should invest in engineering excellence, support ongoing training, and adopt an experimental, evidence-based approach to drive real agility and business value.
 date: 2020-03-25T21:07:01Z
 lastmod: 2020-03-25T21:07:01Z
-weight: 560
+weight: 195
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.6
   changefreq: monthly
 ItemId: i_DglXgaePM
 ItemType: videos

@@ -36,9 +36,9 @@ categories:
   - Product Development
 tags:
   - Definition of Done
+  - Product Delivery
   - Pragmatic Thinking
   - Technical Mastery
-  - Product Delivery
   - Software Development
   - Technical Debt
   - Operational Practices

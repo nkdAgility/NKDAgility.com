@@ -29,6 +29,7 @@ categories:
   - Kanban
   - Product Development
 tags:
+  - Transparency
   - Software Development
   - Agile Frameworks
   - Operational Practices

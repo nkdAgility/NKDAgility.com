@@ -34,14 +34,15 @@ categories:
 tags:
   - Value Delivery
   - Agile Philosophy
+  - Agile Strategy
   - Agile Transformation
   - Agile Values and Principles
   - Pragmatic Thinking
   - Software Development
   - Organisational Agility
-  - Agile Strategy
   - Empirical Process Control
   - Customer Focus
+  - Agile Planning
 Watermarks:
   description: 2025-05-07T13:02:38Z
   short_title: 2025-07-07T17:49:02Z

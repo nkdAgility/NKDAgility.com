@@ -36,12 +36,12 @@ tags:
   - Product Delivery
   - Product Backlog
   - Personal
-  - Agile Planning
   - Operational Practices
   - Pragmatic Thinking
   - Value Delivery
   - Agile Product Management
   - Software Development
+  - Agile Planning
   - Agile Planning Tools
   - Azure DevOps
   - Organisational Agility

@@ -35,8 +35,8 @@ categories:
   - Technical Leadership
 tags:
   - Definition of Done
-  - Software Development
   - Product Delivery
+  - Software Development
   - Pragmatic Thinking
   - Team Collaboration
   - Operational Practices

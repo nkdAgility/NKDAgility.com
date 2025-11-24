@@ -33,12 +33,12 @@ tags:
   - Software Development
   - Technical Excellence
   - Value Delivery
+  - Technical Mastery
   - Engineering Practices
   - Continuous Improvement
   - Product Delivery
   - Pragmatic Thinking
   - Market Adaptability
-  - Technical Mastery
   - Continuous Learning
   - Operational Practices
   - Organisational Agility

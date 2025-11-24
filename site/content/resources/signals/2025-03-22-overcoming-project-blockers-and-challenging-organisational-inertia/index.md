@@ -37,7 +37,6 @@ tags:
   - Sociotechnical Systems
   - Agile Leadership
   - Social Technologies
-  - Employee Engagement
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7309250013287645184

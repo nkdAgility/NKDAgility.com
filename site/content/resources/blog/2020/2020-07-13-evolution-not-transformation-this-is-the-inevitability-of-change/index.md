@@ -25,7 +25,7 @@ aliasesArchive:
   - /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
 layout: blog
 concepts:
-  - Ethos
+  - Strategy
 categories:
   - Leadership
   - Technical Leadership

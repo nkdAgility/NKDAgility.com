@@ -5,7 +5,7 @@ description: Explains how Caman complements Scrum by providing transparency and 
 tldr: Caman is a strategy that complements Scrum by increasing transparency and providing deeper insights into workflows, helping teams identify bottlenecks and optimise processes. It is universally applicable across different systems and industries, not just software development. Development managers should use Caman alongside Scrum by mapping processes, involving teams in discussions, and iterating improvements to enhance value delivery.
 date: 2024-08-13T07:04:49Z
 lastmod: 2024-08-13T07:04:49Z
-weight: 1000
+weight: 730
 sitemap:
   filename: sitemap.xml
   priority: 0.1

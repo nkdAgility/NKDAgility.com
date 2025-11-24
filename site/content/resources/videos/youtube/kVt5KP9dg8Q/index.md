@@ -5,7 +5,7 @@ description: Explores why true organisational agility needs more than Agile deve
 tldr: Adopting Agile development practices is not enough if the rest of your organization remains slow and bureaucratic; true agility requires continuous delivery, high product quality, and minimal manual or bureaucratic steps across the entire process. Use the Department of Defense's six-question test to assess your real agility, and focus on automating testing, streamlining deployment, and building quality in from the start. Regularly review and improve your processes to eliminate bottlenecks and ensure your whole ecosystem supports rapid, reliable delivery.
 date: 2024-08-02T06:45:02Z
 lastmod: 2024-08-02T06:45:02Z
-weight: 245
+weight: 180
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +31,8 @@ layout: video
 concepts:
   - Practice
 categories:
-  - Product Development
   - Engineering Excellence
+  - Product Development
 tags:
   - Agile Philosophy
   - Continuous Delivery

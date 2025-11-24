@@ -32,6 +32,7 @@ tags:
   - Sensemaking
   - Decision Making
   - Agile Leadership
+  - Market Adaptability
 Watermarks:
   description: 2025-07-24T15:16:16Z
   short_title: 2025-07-24T15:16:16Z

@@ -25,8 +25,8 @@ categories:
   - Engineering Excellence
 tags:
   - Software Development
-  - Technical Mastery
   - Competence
+  - Technical Mastery
   - Engineering Practices
   - Product Delivery
   - Operational Practices

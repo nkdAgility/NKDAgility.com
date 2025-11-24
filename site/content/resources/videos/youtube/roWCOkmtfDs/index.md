@@ -44,8 +44,8 @@ tags:
   - Evidence Based Management
   - Current Value
   - Product Delivery
-  - Pragmatic Thinking
   - Product Strategy
+  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:58:40Z
   short_title: 2025-07-07T17:48:20Z

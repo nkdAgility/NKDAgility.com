@@ -5,7 +5,7 @@ description: Tracking estimation accuracy in software delivery leads to mistrust
 tldr: Focusing on estimation accuracy as a performance metric leads to fear, gaming, and a culture of compliance rather than real improvement, which undermines trust, innovation, and actual value delivery. Research shows that when teams are judged on how closely they meet estimates, they pad numbers, hide risks, and avoid complex work, resulting in false success and missed opportunities for learning. Instead, shift attention to evidence-based metrics that reflect customer value, system health, and delivery flow, and use estimates only to support learning and informed conversations, not as tools for control.
 date: 2025-09-22T09:00:00Z
 lastmod: 2025-09-22T09:00:00Z
-weight: 100
+weight: 95
 sitemap:
   filename: sitemap.xml
   priority: 0.8

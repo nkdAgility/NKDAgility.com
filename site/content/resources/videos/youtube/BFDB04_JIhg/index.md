@@ -5,7 +5,7 @@ description: Explains how Kanban visualises workflows, tracks metrics, and suppo
 tldr: Kanban is a tool that helps teams visualize their workflow, track key metrics, and identify bottlenecks, leading to greater transparency and continuous improvement without changing existing processes. By starting with a simple board, setting work-in-progress limits, and regularly reviewing metrics, teams can quickly spot issues and make data-driven improvements. Development managers should consider implementing Kanban to gain clearer insights into team performance and drive ongoing process enhancements.
 date: 2024-06-24T06:48:02Z
 lastmod: 2024-06-24T06:48:02Z
-weight: 1000
+weight: 700
 sitemap:
   filename: sitemap.xml
   priority: 0.1

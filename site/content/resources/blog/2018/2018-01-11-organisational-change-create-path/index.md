@@ -5,10 +5,10 @@ description: Learn how to achieve organisational agility by tailoring change to 
 tldr: A one-size-fits-all agile framework rarely works because every organisation’s path to agility is unique; instead, you should define a clear vision, form a cross-functional change team, and use an incremental, evidence-based approach to improvement. Broad, consistent training across all levels ensures everyone understands and supports the change, while involving stakeholders in identifying and prioritising impediments helps create a relevant organisational change backlog. To succeed, secure executive buy-in, empower teams to drive change, and focus on continuous, measurable improvements tailored to your context.
 date: 2018-01-11
 lastmod: 2018-01-11
-weight: 290
+weight: 410
 sitemap:
   filename: sitemap.xml
-  priority: 0.6
+  priority: 0.5
   changefreq: weekly
 ItemId: RdwxVidD26i
 ItemType: blog
@@ -32,7 +32,9 @@ categories:
   - Technical Leadership
 tags:
   - Organisational Change
+  - Agile Strategy
   - Social Technologies
+  - Operating Model
   - Scaling
   - Business Agility
   - Enterprise Agility
@@ -44,8 +46,6 @@ tags:
   - Continuous Improvement
   - Software Development
   - Agile Leadership
-  - Change Management
-  - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:16:22Z
   short_title: 2025-07-07T17:58:38Z

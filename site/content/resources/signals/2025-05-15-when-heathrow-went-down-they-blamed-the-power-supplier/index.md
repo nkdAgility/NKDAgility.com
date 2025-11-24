@@ -5,10 +5,10 @@ description: Heathrow’s outage was caused by an over-sensitive disaster recove
 tldr: Heathrow’s outage was not caused by a power loss but by an overly sensitive internal system that shut everything down in response to a minor fluctuation, revealing that their disaster recovery measures were untested for real-world chaos. Investing in infrastructure does not guarantee true resilience; resilience is proven only when systems are tested against unexpected failures. Development managers should regularly test and challenge their recovery processes to ensure they work under real conditions, not just ideal scenarios.
 date: 2025-05-15T15:30:30+01:00
 lastmod: 2025-05-15T15:30:30+01:00
-weight: 405
+weight: 515
 sitemap:
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.4
   changefreq: weekly
 ItemId: NpLk02WHeMe
 ItemType: signals

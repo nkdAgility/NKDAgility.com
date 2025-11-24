@@ -5,10 +5,10 @@ description: The US Department of Defence now requires agile, iterative software
 tldr: The US Department of Defense has updated its procurement rules to require agile, iterative development instead of traditional waterfall methods, following high-profile failures like the FBI’s Sentinel project. Agile approaches have proven to deliver higher success rates, lower costs, and reduced risk, and these changes are now influencing government and vendor practices across the US and UK. Development managers working with government clients should adopt agile methods to align with new regulations and improve project outcomes.
 date: 2018-05-01
 lastmod: 2018-05-01
-weight: 320
+weight: 415
 sitemap:
   filename: sitemap.xml
-  priority: 0.6
+  priority: 0.5
   changefreq: weekly
 ItemId: dnmT3QDhGxx
 ItemType: blog
@@ -26,8 +26,8 @@ concepts:
   - Tenet
 categories:
   - Product Development
-  - Engineering Excellence
 tags:
+  - Agile Strategy
   - Value Delivery
   - Business Agility
   - Organisational Agility
@@ -42,7 +42,6 @@ tags:
   - Digital Transformation
   - Continuous Improvement
   - Agile Frameworks
-  - Agile Planning
 platform_signals:
   - platform: Scrumorg
     post_url: https://www.scrum.org/resources/blog/dod-has-made-it-illegal-do-waterfall

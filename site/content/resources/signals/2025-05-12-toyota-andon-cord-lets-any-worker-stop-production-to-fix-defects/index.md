@@ -20,7 +20,7 @@ aliases:
 source: LinkedIn
 layout: signal
 concepts:
-  - Ethos
+  - Philosophy
 categories:
   - Product Development
   - Leadership
@@ -31,16 +31,16 @@ tags:
   - Team Collaboration
   - Social Technologies
   - Change Management
-  - Lean Thinking
+  - Psychological Safety
   - Software Development
   - Organisational Agility
   - Team Motivation
   - Pragmatic Thinking
-  - Psychological Safety
   - Lean Principles
   - Sociotechnical Systems
   - Professional Scrum
   - Self Organisation
+  - Market Adaptability
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7327716895598460928

@@ -39,6 +39,7 @@ tags:
   - Team Collaboration
   - Scrum Master
   - Personal
+  - Continuous Learning
   - Scrum Values
   - Professional Scrum
   - Agile Frameworks

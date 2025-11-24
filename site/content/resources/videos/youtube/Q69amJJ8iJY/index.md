@@ -30,6 +30,7 @@ categories:
   - DevOps
 tags:
   - Software Development
+  - Team Performance
   - Pragmatic Thinking
   - Value Delivery
   - Technical Excellence

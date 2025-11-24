@@ -5,7 +5,7 @@ description: Step-by-step guide to moving OneDrive for Business files to a diffe
 tldr: If your OneDrive files are taking up too much space on your main drive, you can move them to another drive by unlinking your account, copying the files to the new location, and then relinking OneDrive to that folder. This avoids re-downloading large amounts of data and frees up significant space without risking your system recovery setup. Development managers should consider this approach to optimize storage and maintain system reliability for their teams.
 date: 2016-02-03
 lastmod: 2016-02-03
-weight: 1000
+weight: 945
 sitemap:
   filename: sitemap.xml
   priority: 0.1

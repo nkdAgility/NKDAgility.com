@@ -42,6 +42,7 @@ tags:
   - Product Delivery
   - Value Delivery
   - Social Technologies
+  - Agile Strategy
 Watermarks:
   description: 2025-05-07T13:10:51Z
   short_title: 2025-07-07T17:54:01Z

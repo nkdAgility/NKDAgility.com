@@ -31,7 +31,6 @@ tags:
   - Empirical Process Control
   - Product Delivery
   - Agile Frameworks
-  - Agile Product Management
   - Engineering Practices
   - Operational Practices
   - Professional Scrum
@@ -39,6 +38,7 @@ tags:
   - Working Software
   - Social Technologies
   - Increment
+  - Team Performance
 Watermarks:
   description: 2025-05-07T12:48:53Z
   short_title: 2025-07-07T16:43:12Z

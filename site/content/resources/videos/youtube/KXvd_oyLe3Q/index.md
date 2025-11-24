@@ -5,10 +5,10 @@ description: Explores how DevOps transformation, refactoring, and ownership redu
 tldr: DevOps transformation delivers major benefits when organizations address technical debt, simplify systems, and empower teams to take ownership of change. Key outcomes include faster delivery, lower costs, and happier, more effective teams, but success requires upskilling and active participation rather than outsourcing the work. Development managers should prioritize regular refactoring and foster a culture of continuous improvement to achieve lasting results.
 date: 2024-08-21T07:00:19Z
 lastmod: 2024-08-21T07:00:19Z
-weight: 175
+weight: 150
 sitemap:
   filename: sitemap.xml
-  priority: 0.6
+  priority: 0.7
   changefreq: monthly
 ItemId: KXvd_oyLe3Q
 ItemType: videos
@@ -27,10 +27,11 @@ aliasesArchive:
   - the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
 source: internal
 layout: video
-concepts: []
+concepts:
+  - Strategy
 categories:
-  - DevOps
   - Engineering Excellence
+  - DevOps
   - Technical Leadership
 tags:
   - Technical Mastery

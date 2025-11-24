@@ -42,8 +42,8 @@ tags:
   - Time to Market
   - Continuous Improvement
   - Pragmatic Thinking
-  - Agile Leadership
-  - Agile Transformation
+  - Operating Model
+  - Product Operating Model
 Watermarks:
   description: 2025-05-07T12:48:54Z
   short_title: 2025-07-07T16:43:13Z

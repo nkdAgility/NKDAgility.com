@@ -29,7 +29,6 @@ tags:
   - Agile Philosophy
   - Professional Scrum
   - Organisational Agility
-  - Team Collaboration
   - Pragmatic Thinking
 platform_signals:
   - platform: LinkedIn

@@ -31,11 +31,12 @@ tags:
   - Collective Intelligence
   - Pragmatic Thinking
   - Sociotechnical Systems
+  - Value Delivery
   - Product Delivery
   - Artificial Intelligence
   - Market Adaptability
   - Business Agility
-  - Value Delivery
+  - Organisational Agility
   - Digital Transformation
 Watermarks:
   description: 2025-05-07T12:49:07Z

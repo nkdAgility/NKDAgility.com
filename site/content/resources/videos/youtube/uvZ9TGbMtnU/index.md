@@ -5,10 +5,10 @@ description: Explains why relying on special Sprints undermines Agile, and advoc
 tldr: Relying on special Sprints like Sprint Zero or bug fix Sprints undermines true Agile practices by encouraging risky behavior, diluting focus, and creating a false sense of security. Teams should instead prioritize delivering a usable product at the end of every Sprint, foster accountability, and integrate quality assurance into regular work. Development managers should avoid safety nets and focus on continuous improvement and value delivery each Sprint.
 date: 2024-01-04T12:14:45Z
 lastmod: 2024-01-04T12:14:45Z
-weight: 630
+weight: 275
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: monthly
 ItemId: uvZ9TGbMtnU
 ItemType: videos

@@ -94,21 +94,21 @@ sections:
   - type: outcomeboxes
     title: We can help you with
     boxes:
-      - box:
+      - box: 
         items:
           - title: Break down silos between departments
           - title: Align strategy with execution
           - title: Improve communication between business, tech, and product
           - title: Eliminate duplication of work and resource clashes
           - title: Create a shared understanding of goals, metrics, and priorities
-      - box:
+      - box: 
         items:
           - title: Reduce frustration caused by misalignment
           - title: Feel confident in what your teams are building
           - title: Move from firefighting to forward planning
           - title: Regain clarity and focus across teams
           - title: Feel pride in leading a truly aligned org
-      - box:
+      - box: 
         items:
           - title: Be the catalyst that unifies your org around delivery
           - title: Build a culture of shared ownership and trust
@@ -167,4 +167,6 @@ creator: Martin Hinshelwood
 icon: fa-project-diagram
 ResourceId: btO46GSjdqv
 ResourceType: outcomes
+
 ---
+

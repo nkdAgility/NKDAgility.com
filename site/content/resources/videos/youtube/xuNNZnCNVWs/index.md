@@ -42,6 +42,7 @@ tags:
   - Scrum Master
   - Team Motivation
   - Mentoring
+  - Continuous Learning
   - Value Delivery
   - Agile Transformation
   - Social Technologies

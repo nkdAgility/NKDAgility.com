@@ -42,10 +42,10 @@ tags:
   - Professional Scrum
   - Agile Planning
   - Throughput
+  - Continuous Improvement
   - Flow Efficiency
   - Market Adaptability
   - Agile Product Management
-  - Organisational Agility
 Watermarks:
   description: 2025-05-24T23:43:41Z
   short_title: 2025-07-07T17:58:36Z

@@ -33,11 +33,11 @@ tags:
   - Agile Philosophy
   - Pragmatic Thinking
   - Agentic Agility
-  - Agile Frameworks
   - Self Organisation
   - Scrum Team
   - Scrum Master
   - Team Motivation
+  - Agile Frameworks
   - Organisational Agility
   - Agile Product Management
   - Team Performance

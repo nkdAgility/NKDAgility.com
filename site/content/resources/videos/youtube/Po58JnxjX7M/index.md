@@ -5,10 +5,10 @@ description: Real-world experience with teams is essential for Agile coaches, pr
 tldr: To be an effective Agile coach, you need real hands-on experience working with teams to build products, not just theoretical knowledge. Practical involvement helps you understand team dynamics, earn credibility, and offer advice that resonates with teams. If you aspire to coach, seek opportunities to join or volunteer with Agile teams so you can build the trust and insight needed to guide others successfully.
 date: 2023-11-13T11:00:29Z
 lastmod: 2023-11-13T11:00:29Z
-weight: 790
+weight: 565
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: Po58JnxjX7M
 ItemType: videos

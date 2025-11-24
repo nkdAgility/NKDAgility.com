@@ -28,9 +28,9 @@ tags:
   - Pragmatic Thinking
   - Software Development
   - Operational Practices
-  - Personal
   - Continuous Improvement
   - Engineering Practices
+  - Personal
   - Technical Excellence
   - Site Reliability Engineering
   - System Configuration

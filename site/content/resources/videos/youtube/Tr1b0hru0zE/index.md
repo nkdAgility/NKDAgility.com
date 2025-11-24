@@ -37,10 +37,11 @@ tags:
   - Market Adaptability
   - Software Development
   - Operational Practices
-  - Technical Mastery
   - Product Delivery
+  - Technical Mastery
   - Engineering Practices
   - Digital Transformation
+  - Change Management
 Watermarks:
   description: 2025-05-07T20:13:52Z
   short_title: 2025-07-07T16:43:47Z

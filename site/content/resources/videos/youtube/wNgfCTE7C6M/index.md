@@ -34,6 +34,7 @@ categories:
   - Product Development
   - Product Management
 tags:
+  - Experimentation
   - Personal
   - Agile Product Management
   - Pragmatic Thinking

@@ -5,7 +5,7 @@ description: Learn how agile metrics like innovation rate, product index, usage 
 tldr: Most organisations lose significant value due to waste and lack of focus on engineering excellence, with metrics showing that only a small fraction of development investment results in features customers actually use. Key insights include low innovation rates, poor feature usage, and lagging version adoption, all of which drastically reduce ROI. Development managers should measure and act on innovation and usage metrics, close feedback loops, and focus on delivering value rather than just reducing costs.
 date: 2024-12-17T06:00:00Z
 lastmod: 2024-12-17T06:00:00Z
-weight: 340
+weight: 320
 sitemap:
   filename: sitemap.xml
   priority: 0.5
@@ -37,6 +37,7 @@ tags:
   - Operational Practices
   - Pragmatic Thinking
   - Product Delivery
+  - Decision Making
   - Business Agility
   - Software Development
   - Market Adaptability

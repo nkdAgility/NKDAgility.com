@@ -5,7 +5,7 @@ description: Learn how to design and customise Kanban boards to visualise workfl
 tldr: A clear and accurate Kanban board is essential for understanding and improving your team's workflow. Map your actual process, adjust columns to reflect real work stages, and use visual cues to highlight priorities and bottlenecks. Regularly review and adapt your board to boost team collaboration, identify issues early, and drive continuous improvement.
 date: 2024-07-08T06:00:07Z
 lastmod: 2024-07-08T06:00:07Z
-weight: 1000
+weight: 760
 sitemap:
   filename: sitemap.xml
   priority: 0.1

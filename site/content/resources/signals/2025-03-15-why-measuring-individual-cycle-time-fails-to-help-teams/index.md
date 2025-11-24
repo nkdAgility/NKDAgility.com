@@ -5,7 +5,7 @@ description: Measuring individual cycle time overlooks team performance and syst
 tldr: Measuring individual cycle time does not help teams improve because it focuses on people instead of the overall system. Real bottlenecks come from process issues like queues and overloaded work, not individual speed. To improve team performance, focus on system-level metrics such as lead time, throughput, and process efficiency, and address process bottlenecks rather than monitoring individuals.
 date: 2025-03-15T16:30:02+00:00
 lastmod: 2025-03-15T16:30:02+00:00
-weight: 245
+weight: 215
 sitemap:
   filename: sitemap.xml
   priority: 0.7

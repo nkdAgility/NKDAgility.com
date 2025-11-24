@@ -5,7 +5,7 @@ description: Explores how early assumptions about competence led to Agile’s cu
 tldr: Agile has struggled because its founders assumed widespread competence and commitment to continuous learning, but most organizations lack enough skilled practitioners, especially in key roles like Scrum Master. This competence gap is worsened by low hiring standards and overreliance on basic certifications, leading to ineffective teams and missed opportunities for improvement. Development managers should prioritize hiring and promoting individuals with proven learning habits, deep contextual understanding, and advanced expertise to build high-performing Agile teams.
 date: 2024-10-14T07:00:38Z
 lastmod: 2024-10-14T07:00:38Z
-weight: 250
+weight: 220
 sitemap:
   filename: sitemap.xml
   priority: 0.6

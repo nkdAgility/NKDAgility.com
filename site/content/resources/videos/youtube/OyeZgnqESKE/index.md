@@ -5,10 +5,10 @@ description: Explores how immersive, hands-on learning keeps Scrum students enga
 tldr: Immersive learning keeps Scrum students engaged by making each session a hands-on journey of discovery, allowing them to apply new concepts in real time and reflect on their experiences. Spreading content over multiple sessions helps teams assimilate knowledge, experiment safely, and continuously improve through feedback. Development managers should break training into manageable pieces, encourage experimentation, and foster regular feedback to maintain excitement and drive ongoing growth.
 date: 2024-02-01T07:00:09Z
 lastmod: 2024-02-01T07:00:09Z
-weight: 1000
+weight: 650
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: OyeZgnqESKE
 ItemType: videos

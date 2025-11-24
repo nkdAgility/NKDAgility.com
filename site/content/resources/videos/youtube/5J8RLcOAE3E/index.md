@@ -31,9 +31,9 @@ source: youtube
 layout: video
 concepts: []
 categories:
+  - DevOps
   - Engineering Excellence
   - Product Development
-  - DevOps
 tags:
   - Technical Mastery
   - Complexity Thinking

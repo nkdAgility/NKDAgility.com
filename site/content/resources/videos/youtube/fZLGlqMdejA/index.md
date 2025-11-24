@@ -5,7 +5,7 @@ description: Explores how greed in Agile leads to overwork and reduced value, of
 tldr: Focusing on resource utilisation over value in Agile leads to busywork, burnout, and reduced innovation, undermining true productivity. Teams should prioritise delivering customer value, balance workloads, and foster open communication and trust to enable creativity and continuous improvement. Development managers should shift from maximising activity to nurturing a value-driven, healthy Agile culture that supports learning and adaptation.
 date: 2023-10-11T12:00:36Z
 lastmod: 2023-10-11T12:00:36Z
-weight: 415
+weight: 400
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -35,8 +35,8 @@ categories:
   - Product Development
   - Scrum
 tags:
-  - Agile Philosophy
   - Agile Strategy
+  - Agile Philosophy
   - Agile Transformation
   - Pragmatic Thinking
   - Flow Efficiency

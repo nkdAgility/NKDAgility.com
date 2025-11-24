@@ -5,7 +5,7 @@ description: Active senior leadership engagement is essential for successful Agi
 tldr: Active involvement from senior leadership is essential for successful Agile transformation because systemic change and faster market response require alignment and participation at all levels. Without leadership engagement, teams face barriers to adaptability and meaningful change. Development managers should ensure senior leaders are directly involved to enable organisation-wide transformation and maximise the value of Agile initiatives.
 date: 2023-06-23T07:00:11Z
 lastmod: 2023-06-23T07:00:11Z
-weight: 455
+weight: 530
 sitemap:
   filename: sitemap.xml
   priority: 0.3

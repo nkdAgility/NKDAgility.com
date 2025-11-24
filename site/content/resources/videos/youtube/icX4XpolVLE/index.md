@@ -44,6 +44,7 @@ tags:
   - Personal
   - Value Delivery
   - Change Management
+  - Competence
   - Continuous Improvement
   - Technical Excellence
 Watermarks:

@@ -5,7 +5,7 @@ description: Explains how effective Product Owners shape product strategy using 
 tldr: A great Product Owner shapes product strategy by owning the vision, understanding customers and the market, making tough decisions, aligning stakeholders, and adapting based on evidence. Focusing only on backlog management limits their impact; empowered POs drive real value and influence roadmaps. Ensure your Product Owners have the authority and support to make strategic decisions, not just administrative tasks.
 date: 2025-04-08T15:30:02+01:00
 lastmod: 2025-04-08T15:30:02+01:00
-weight: 695
+weight: 740
 sitemap:
   filename: sitemap.xml
   priority: 0.2

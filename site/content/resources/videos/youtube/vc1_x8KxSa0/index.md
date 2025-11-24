@@ -31,6 +31,7 @@ categories:
   - Technical Leadership
 tags:
   - Organisational Culture
+  - Personal
   - Software Development
   - Continuous Improvement
   - Technical Mastery
@@ -44,7 +45,6 @@ tags:
   - Business Agility
   - Team Motivation
   - Product Delivery
-  - Operational Practices
 Watermarks:
   description: 2025-07-24T14:48:31Z
   short_title: 2025-07-24T14:48:31Z

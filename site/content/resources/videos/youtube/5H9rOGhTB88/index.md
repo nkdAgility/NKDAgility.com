@@ -35,8 +35,9 @@ categories:
   - Leadership
   - Lean
 tags:
-  - Self Organisation
   - Agile Strategy
+  - Self Organisation
+  - Agile Planning
   - Agile Transformation
   - Organisational Agility
   - Agile Philosophy
@@ -49,7 +50,6 @@ tags:
   - Team Performance
   - Change Management
   - Business Agility
-  - Continuous Improvement
 Watermarks:
   description: 2025-05-07T13:02:28Z
   short_title: 2025-07-07T17:48:53Z

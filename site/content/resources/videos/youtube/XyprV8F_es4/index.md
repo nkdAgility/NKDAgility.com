@@ -37,6 +37,7 @@ categories:
 tags:
   - Organisational Culture
   - Organisational Change
+  - Personal
   - Social Technologies
   - Agile Leadership
   - Business Agility

@@ -5,7 +5,7 @@ description: Explores how slow organisational processes, risk aversion, and exce
 tldr: Slow organisations kill promising ideas by demanding certainty, avoiding risk, and requiring full alignment before testing anything. Successful companies move quickly, experiment, and improve as they go, understanding that waiting for perfection leads to missed opportunities. To avoid wasting potential, encourage faster testing and learning from new ideas.
 date: 2025-04-27T15:30:30+01:00
 lastmod: 2025-04-27T15:30:30+01:00
-weight: 750
+weight: 710
 sitemap:
   filename: sitemap.xml
   priority: 0.2

@@ -5,7 +5,7 @@ description: A personal story highlighting how Agile consulting and Scrum worksh
 tldr: A brief Agile and Scrum engagement with a Java development team led to lasting positive change, as confirmed by a team member’s email seven years later describing its ongoing impact on their team and organization. The experience showed that even short, focused workshops can be a catalyst for significant transformation. Consider investing in Agile and Scrum training to spark similar long-term improvements in your teams.
 date: 2023-03-27T07:00:30Z
 lastmod: 2023-03-27T07:00:30Z
-weight: 1000
+weight: 810
 sitemap:
   filename: sitemap.xml
   priority: 0.1

@@ -34,14 +34,14 @@ tags:
   - Team Collaboration
   - Team Performance
   - Modern Source Control
-  - Self Organisation
   - Operational Practices
   - Large Scale Agility
-  - Release Management
   - Technical Excellence
   - Product Delivery
   - Agentic Agility
   - One Engineering System
+  - Digital Transformation
+  - Self Organisation
 Watermarks:
   description: 2025-06-16T11:50:57Z
   short_title: 2025-07-07T16:43:48Z

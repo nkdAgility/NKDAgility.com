@@ -33,16 +33,16 @@ categories:
   - DevOps
   - Engineering Excellence
 tags:
+  - Automated Testing
   - Software Development
+  - Product Delivery
   - Engineering Practices
   - Operational Practices
-  - Product Delivery
   - Continuous Delivery
   - Technical Mastery
   - Test Automation
   - Pragmatic Thinking
   - Continuous Integration
-  - Automated Testing
   - Value Delivery
   - Technical Excellence
 Watermarks:

@@ -44,6 +44,7 @@ tags:
   - Agile Transformation
   - Market Adaptability
   - Empirical Process Control
+  - Agile Strategy
 Watermarks:
   description: 2025-05-07T13:10:36Z
   short_title: 2025-07-07T17:53:53Z

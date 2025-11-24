@@ -36,6 +36,7 @@ categories:
   - Uncategorized
 tags:
   - Organisational Agility
+  - Personal
   - Business Agility
   - Lean Principles
   - Lean Thinking

@@ -23,17 +23,17 @@ concepts:
   - Principle
 categories:
   - Scrum
-  - Product Development
   - Technical Leadership
+  - Leadership
 tags:
   - Software Development
-  - Social Technologies
-  - Self Organisation
   - Professional Scrum
+  - Self Organisation
   - Pragmatic Thinking
   - Team Collaboration
   - Common Goals
   - Agile Planning
+  - Social Technologies
   - Team Motivation
   - Value Delivery
   - Agile Leadership

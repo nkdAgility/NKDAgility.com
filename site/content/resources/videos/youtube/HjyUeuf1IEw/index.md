@@ -31,6 +31,7 @@ categories:
 tags:
   - Software Development
   - Operational Practices
+  - Personal
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:15:43Z

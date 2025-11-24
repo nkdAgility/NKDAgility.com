@@ -5,10 +5,10 @@ description: Learn how tailored DevOps strategies help organisations assess curr
 tldr: Tailoring DevOps to your organization’s unique needs starts with assessing your current state, streamlining processes, and choosing the right tools, which leads to higher quality and more frequent software deliveries. Key actions include conducting solo interviews to uncover real issues, automating and rationalizing tools, and empowering teams with end-to-end ownership while ensuring compliance does not block DevOps practices. Start with small, controlled deployments and strategic timing to minimize risk and maximize efficiency.
 date: 2024-08-16T07:18:10Z
 lastmod: 2024-08-16T07:18:10Z
-weight: 300
+weight: 220
 sitemap:
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.6
   changefreq: monthly
 ItemId: sXmXT_MDXTo
 ItemType: videos
@@ -30,8 +30,8 @@ source: internal
 layout: video
 concepts: []
 categories:
-  - DevOps
   - Engineering Excellence
+  - DevOps
 tags:
   - Operational Practices
   - Pragmatic Thinking

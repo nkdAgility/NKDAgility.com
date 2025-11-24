@@ -23,7 +23,6 @@ concepts:
   - Practice
 categories:
   - Kanban
-  - Product Development
 tags:
   - Pragmatic Thinking
   - Software Development

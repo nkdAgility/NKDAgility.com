@@ -36,6 +36,7 @@ tags:
   - Agile Philosophy
   - Social Technologies
   - Continuous Learning
+  - Agile Values and Principles
   - Business Agility
   - Sociotechnical Systems
   - Change Management
@@ -44,7 +45,6 @@ tags:
   - Agile Leadership
   - Market Adaptability
   - Evidence Based Leadership
-  - Team Collaboration
 Watermarks:
   description: 2025-07-24T15:14:34Z
   short_title: 2025-07-24T15:14:35Z

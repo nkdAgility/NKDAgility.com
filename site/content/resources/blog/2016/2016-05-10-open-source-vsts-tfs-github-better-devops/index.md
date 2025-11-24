@@ -5,10 +5,10 @@ description: Learn how to automate code synchronisation between VSTS/TFS and Git
 tldr: You can use VSTS or TFS for full DevOps and agile capabilities while keeping your open-source code on Github by setting up automated two-way synchronization between the platforms. This approach lets you manage private work and processes in VSTS, then publish selected branches to Github for public access and contributions. Set up automated builds in VSTS to sync code in both directions, using personal tokens for authentication, so you get the best of both tools without extra manual effort.
 date: 2016-05-10
 lastmod: 2016-05-10
-weight: 690
+weight: 500
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: weekly
 ItemId: LWHiaHn3CWF
 ItemType: blog

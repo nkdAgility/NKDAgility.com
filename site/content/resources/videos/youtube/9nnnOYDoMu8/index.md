@@ -35,8 +35,8 @@ categories:
   - Engineering Excellence
   - Product Development
 tags:
-  - Customer Focus
   - Value Delivery
+  - Customer Focus
   - Software Development
   - Professional Scrum
   - Team Performance

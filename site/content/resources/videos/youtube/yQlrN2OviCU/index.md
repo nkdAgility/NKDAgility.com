@@ -5,7 +5,7 @@ description: Explores how peer feedback in immersive Scrum and Agile training en
 tldr: Peer feedback in immersive learning accelerates skill development by enabling participants to apply Scrum techniques in real situations, share experiences, and collaboratively solve problems. Facilitated debriefs deepen understanding and build a shared knowledge base, leading to better retention and real-world results. Encourage your teams to actively engage in peer feedback during training to drive continuous improvement and more effective Scrum adoption.
 date: 2024-02-07T07:00:27Z
 lastmod: 2024-02-07T07:00:27Z
-weight: 1000
+weight: 740
 sitemap:
   filename: sitemap.xml
   priority: 0.1

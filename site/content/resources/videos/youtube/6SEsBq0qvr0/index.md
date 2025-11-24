@@ -34,10 +34,10 @@ categories:
   - Engineering Excellence
 tags:
   - Software Development
-  - Product Delivery
   - Pragmatic Thinking
   - Definition of Done
   - Operational Practices
+  - Product Delivery
   - Agile Frameworks
   - Agile Planning
   - Agile Product Management

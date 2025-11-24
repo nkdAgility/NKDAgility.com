@@ -24,8 +24,8 @@ concepts:
 categories:
   - Product Development
 tags:
-  - Pragmatic Thinking
   - Organisational Agility
+  - Pragmatic Thinking
   - Agile Frameworks
   - Organisational Change
   - Agile Transformation

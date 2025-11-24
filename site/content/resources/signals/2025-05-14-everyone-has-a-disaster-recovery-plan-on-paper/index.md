@@ -19,8 +19,7 @@ aliases:
   - /resources/jgAmhaBbUlm
 source: LinkedIn
 layout: signal
-concepts:
-  - Ethos
+concepts: []
 categories:
   - Uncategorized
 tags:

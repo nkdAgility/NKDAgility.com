@@ -41,12 +41,12 @@ tags:
   - Value Delivery
   - Market Adaptability
   - Organisational Agility
-  - Product Delivery
   - Operational Practices
   - Business Agility
   - Professional Scrum
   - Agile Strategy
   - Agile Product Management
+  - Product Delivery
   - Agile Philosophy
   - Social Technologies
 Watermarks:

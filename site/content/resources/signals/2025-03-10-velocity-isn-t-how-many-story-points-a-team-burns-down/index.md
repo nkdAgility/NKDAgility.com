@@ -22,9 +22,9 @@ layout: signal
 concepts:
   - Practice
 categories:
-  - Product Development
   - DevOps
   - Engineering Excellence
+  - Product Development
 tags:
   - Software Development
   - Metrics and Learning

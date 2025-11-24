@@ -23,7 +23,6 @@ concepts:
   - Practice
 categories:
   - Engineering Excellence
-  - Product Development
   - Scrum
 tags:
   - Definition of Done

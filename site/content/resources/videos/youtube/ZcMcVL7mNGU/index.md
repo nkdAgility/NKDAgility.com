@@ -26,14 +26,15 @@ aliasesArchive:
   - bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
 source: youtube
 layout: video
-concepts: []
+concepts:
+  - Strategy
 categories:
   - Product Development
   - Product Management
 tags:
   - Common Goals
-  - Enterprise Agility
   - Agile Strategy
+  - Enterprise Agility
   - Product Strategy
   - Personal
   - Product Delivery
@@ -42,6 +43,8 @@ tags:
   - Agile Philosophy
   - Pragmatic Thinking
   - Software Development
+  - Agile Planning
+  - Decision Making
   - Customer Focus
 Watermarks:
   description: 2025-05-07T13:05:13Z

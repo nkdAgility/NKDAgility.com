@@ -5,7 +5,7 @@ description: Learn how to address concerns about incomplete data transfers durin
 tldr: Concerns about incomplete data transfers during cloud migration are often overstated; with proper planning, use of Microsoft’s migration tools, and clear communication about limitations, data loss is highly unlikely. Key steps include assessing your data, understanding cloud constraints like attachment size, and engaging Microsoft support for complex cases. To ensure a smooth migration, involve stakeholders early, plan for contingencies, and address potential issues before starting the move.
 date: 2024-11-07T05:45:02Z
 lastmod: 2024-11-07T05:45:02Z
-weight: 1000
+weight: 735
 sitemap:
   filename: sitemap.xml
   priority: 0.1

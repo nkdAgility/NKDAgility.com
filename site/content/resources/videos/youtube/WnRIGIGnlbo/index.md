@@ -32,6 +32,7 @@ tags:
   - Decision Making
   - Continuous Improvement
   - Pragmatic Thinking
+  - Agile Strategy
   - Market Adaptability
 Watermarks:
   description: 2025-07-24T15:15:30Z

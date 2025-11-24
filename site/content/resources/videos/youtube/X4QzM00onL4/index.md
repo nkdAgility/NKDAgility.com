@@ -34,6 +34,7 @@ categories:
 tags:
   - Team Collaboration
   - Common Goals
+  - Operational Practices
   - Team Motivation
   - Software Development
   - Agile Strategy

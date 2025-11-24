@@ -59,7 +59,7 @@ sections:
   - type: boxesrow
     title: What DevOps Technology Consulting Solves
     boxes:
-      - box:
+      - box: 
         title: Core Problem
         items:
           - title: Inconsistent or unreliable pipelines
@@ -67,7 +67,7 @@ sections:
           - title: Lack of engineering standards
           - title: Manual, error-prone deployments
           - title: Unclear delivery metrics
-      - box:
+      - box: 
         title: Our Solutions
         items:
           - title: Design and implement CI/CD that delivers with confidence
@@ -125,7 +125,7 @@ sections:
   - type: symmetry
     title: What you get with NKD Agility
     boxes:
-      - box:
+      - box: 
         title: Before
         items:
           - title: Frustrated by flaky pipelines and unowned tech debt
@@ -136,7 +136,7 @@ sections:
             icon: fa-face-nose-steam
           - title: Struggling to connect delivery speed with strategic goals
             icon: fa-face-tired
-      - box:
+      - box: 
         title: After
         items:
           - title: Confident in scalable, secure, team-owned delivery pipelines
@@ -209,8 +209,8 @@ menus:
 icon: fa-diagram-project
 ResourceId: YYFs65WYwwO
 ResourceType: capabilities
----
 
+---
 Our DevOps consultants work with organisations to help them get the most out of their DevOps strategy and maximise its effectiveness.
 
 We conduct health checks to assess your organisation’s current State of DevOps. We meld this discovery with our experience to advise changes to the existing ways of working, culture and tooling to achieve the objectives. We design training programs to educate teams and help them change. Following training, we can coach and mentor during the next evolution as everyone works towards achieving the outcomes.

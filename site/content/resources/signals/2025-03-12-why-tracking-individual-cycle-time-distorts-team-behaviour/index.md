@@ -34,13 +34,13 @@ tags:
   - Lead Time
   - Operational Practices
   - Lean Thinking
-  - Self Organisation
   - Value Delivery
   - Organisational Agility
   - Product Delivery
   - Time to Market
   - Metrics and Learning
   - Social Technologies
+  - Agile Planning
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7305626135789273089

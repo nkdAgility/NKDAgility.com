@@ -36,20 +36,20 @@ categories:
   - Leadership
 tags:
   - Social Technologies
+  - Agile Strategy
   - Agile Values and Principles
   - Organisational Change
   - Organisational Culture
-  - Agile Planning
   - Software Development
   - Team Motivation
-  - Transparency
-  - Agile Strategy
   - Agile Transformation
   - Common Goals
-  - Decision Making
   - Team Collaboration
   - Pragmatic Thinking
   - Agile Philosophy
+  - Team Performance
+  - Strategic Goals
+  - Agile Leadership
 Watermarks:
   description: 2025-05-07T13:02:37Z
   short_title: 2025-07-07T17:49:01Z

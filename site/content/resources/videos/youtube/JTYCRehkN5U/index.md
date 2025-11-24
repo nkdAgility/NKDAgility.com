@@ -5,7 +5,7 @@ description: Explores how technical excellence in Agile development reduces risk
 tldr: Technical excellence is essential for delivering a usable, high-quality product at the end of every iteration, which reduces risk and enables faster, more valuable feature delivery. The Azure DevOps team at Microsoft dramatically increased their output by focusing on paying down technical debt and establishing a strong Definition of Done. Development managers should prioritize technical excellence, avoid sacrificing quality for speed, and ensure their teams have a clear Definition of Done to maximize value and stay competitive.
 date: 2024-06-27T06:45:00Z
 lastmod: 2024-06-27T06:45:00Z
-weight: 180
+weight: 160
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -35,13 +35,13 @@ categories:
   - Scrum
 tags:
   - Software Development
+  - Engineering Practices
   - Definition of Done
   - Product Delivery
   - Technical Debt
   - Technical Mastery
   - Value Delivery
   - Working Software
-  - Engineering Practices
   - Pragmatic Thinking
   - Operational Practices
   - Technical Excellence

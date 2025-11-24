@@ -25,6 +25,7 @@ categories:
 tags:
   - Software Development
   - Agile Frameworks
+  - Agile Planning
   - Professional Scrum
   - Increment
   - Pragmatic Thinking

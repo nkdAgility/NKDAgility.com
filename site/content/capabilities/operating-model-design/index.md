@@ -1,23 +1,25 @@
 ---
 title: Operating Model Design
 short_title: Operating Model Design
-description: Expert guidance in designing operating models that align strategy, discovery, delivery, and operations to increase speed, strengthen decision-making, and reduce delivery friction.
-tldr: Operating model design helps organizations create coherent systems of work that align strategy with execution. By connecting discovery, delivery, and operations, teams move faster with greater clarity and accountability. Leaders should focus on evidence-based decision-making and measurable business outcomes when designing their operating model.
+description: Designs integrated operating models that align strategy with execution, combining Scrum, Kanban, and DevOps for measurable business outcomes and evidence-based decisions.
+tldr: Many organizations fail to achieve results because their operating models do not effectively link strategy to execution. Integrating Scrum, Kanban, and DevOps as complementary practices can create a system that delivers measurable business outcomes. Consider designing your operating model with both technical and organizational expertise to ensure it is practical and evidence-based.
 date: 2025-11-24
 weight: 150
 sitemap:
   filename: sitemap.xml
   priority: 0.9
   changefreq: weekly
+ItemId: nwui0FU-QVV
 ItemType: capabilities
 ItemKind: marketing
 ItemContentOrigin: human
 slug: operating-model-design
+aliases: []
 type: capabilities
 sections:
   - type: headline
     headline:
-      title: "Operating Model Design"
+      title: Operating Model Design
       subtitle: Align Strategy, Discovery, Delivery, and Operations
       content: |
         Most organizations don't fail because they lack talent or technology.  
@@ -75,19 +77,19 @@ sections:
   - type: boxesrow
     title: What Operating Model Design Delivers
     boxes:
-      - box:
+      - box: 
         title: Strategic Clarity
         items:
           - title: Clear connection from business strategy to team execution
           - title: Evidence-based decision-making frameworks
           - title: Measurable outcomes that matter to the business
-      - box:
+      - box: 
         title: Delivery Flow
         items:
           - title: Reduced friction between discovery, delivery, and operations
           - title: Faster cycle times and higher quality
           - title: Predictable, sustainable pace
-      - box:
+      - box: 
         title: Organizational Resilience
         items:
           - title: Systems that adapt to change
@@ -136,7 +138,7 @@ sections:
   - type: symmetry
     title: From Fragmentation to Flow
     boxes:
-      - box:
+      - box: 
         title: Before
         items:
           - title: Strategy disconnected from delivery
@@ -147,7 +149,7 @@ sections:
             icon: fa-face-tired
           - title: Technology as a bottleneck
             icon: fa-face-anxious
-      - box:
+      - box: 
         title: After
         items:
           - title: Clear line of sight from strategy to execution
@@ -199,14 +201,18 @@ card:
     content: Design Your Operating Model
   title: Operating Model Design
   content: Align strategy, discovery, delivery, and operations to create operating models that increase speed, strengthen decision-making, and reduce delivery friction.
+Watermarks:
+  description: 2025-11-24T17:39:41Z
+  tldr: 2025-11-24T17:39:44Z
 creator: Martin Hinshelwood
 menus:
   footer:
     parent: Consulting Services
 icon: fa-diagram-project
 ResourceType: capabilities
----
+ResourceId: nwui0FU-QVV
 
+---
 Organizations struggle not because they lack frameworks, but because they lack coherent operating models that connect strategy to execution.
 
 We help you design operating models where Scrum, Kanban, and DevOps work together as complementary practices—creating systems of work that deliver measurable business outcomes.

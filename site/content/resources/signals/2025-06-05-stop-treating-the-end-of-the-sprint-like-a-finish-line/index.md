@@ -31,8 +31,8 @@ tags:
   - Software Development
   - Empirical Process Control
   - Agile Philosophy
-  - Pragmatic Thinking
   - Agile Planning
+  - Pragmatic Thinking
   - Organisational Agility
 platform_signals:
   - platform: LinkedIn

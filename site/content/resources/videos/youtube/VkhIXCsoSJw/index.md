@@ -28,8 +28,8 @@ source: youtube
 layout: video
 concepts: []
 categories:
-  - Engineering Excellence
   - DevOps
+  - Engineering Excellence
   - Product Development
 tags:
   - Software Development

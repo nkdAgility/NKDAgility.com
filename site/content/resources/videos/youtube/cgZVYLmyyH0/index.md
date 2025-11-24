@@ -37,12 +37,13 @@ tags:
   - Shift Left Strategy
   - Software Development
   - Engineering Practices
-  - Operational Practices
   - Product Delivery
+  - Operational Practices
   - Technical Mastery
   - Value Delivery
   - Pragmatic Thinking
   - Market Adaptability
+  - Automated Testing
 Watermarks:
   description: 2025-05-07T20:06:02Z
   short_title: 2025-07-07T16:43:45Z

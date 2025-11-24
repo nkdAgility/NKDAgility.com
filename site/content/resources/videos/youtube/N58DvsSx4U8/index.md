@@ -5,7 +5,7 @@ description: A complex software project unified 80+ teams across 9 countries by 
 tldr: A fragmented, multi-billion-dollar software project with 80 to 90 teams across nine countries was transformed by unifying processes and source control onto Azure DevOps, greatly improving collaboration and efficiency. The key outcomes were simplification, system unification, and a shift toward a 'One Engineering System' approach. Development managers should consider consolidating tools and processes to drive similar improvements in productivity and teamwork.
 date: 2023-04-18T07:00:08Z
 lastmod: 2023-04-18T07:00:08Z
-weight: 390
+weight: 370
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -29,6 +29,7 @@ layout: video
 concepts: []
 categories:
   - DevOps
+  - Engineering Excellence
 tags:
   - One Engineering System
   - Azure DevOps

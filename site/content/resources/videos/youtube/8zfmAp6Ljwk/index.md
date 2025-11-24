@@ -33,6 +33,7 @@ tags:
   - Pragmatic Thinking
   - Strategic Goals
   - Software Development
+  - Sensemaking
   - Social Technologies
 Watermarks:
   description: 2025-07-24T15:15:56Z

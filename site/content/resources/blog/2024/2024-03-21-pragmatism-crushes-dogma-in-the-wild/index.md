@@ -5,7 +5,7 @@ description: Explores how practical use of Scrum fosters adaptability and resili
 tldr: Practical use of Scrum in a mentoring program showed that teams succeed by focusing on adaptability and resilience rather than rigidly following rules. Key insights include the importance of making work visible, inspecting progress, and quickly adapting to change, as outlined in the Scrum Guide. Development managers should prioritize flexibility within Scrum’s essential guardrails to help teams handle real-world challenges effectively.
 date: 2024-03-21
 lastmod: 2024-03-21
-weight: 330
+weight: 285
 sitemap:
   filename: sitemap.xml
   priority: 0.6

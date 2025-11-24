@@ -5,7 +5,7 @@ description: Explains how integrating Kanban with Scrum boosts transparency, lim
 tldr: Kanban is not a replacement for Scrum but a complementary strategy that increases transparency, helps teams visualize workflow, and manage work in progress, leading to better focus and faster feedback. Integrating Kanban with Scrum enables teams to identify bottlenecks, improve efficiency, and consistently meet sprint goals. Development managers should consider adding Kanban boards and WIP limits to their Scrum process to enhance team performance and value delivery.
 date: 2024-08-05T06:45:00Z
 lastmod: 2024-08-05T06:45:00Z
-weight: 1000
+weight: 700
 sitemap:
   filename: sitemap.xml
   priority: 0.1

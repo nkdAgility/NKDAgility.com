@@ -44,6 +44,7 @@ tags:
   - Agile Philosophy
   - Agile Planning
   - Agile Transformation
+  - Continuous Learning
 Watermarks:
   description: 2025-05-07T13:12:52Z
   short_title: 2025-07-07T17:55:37Z

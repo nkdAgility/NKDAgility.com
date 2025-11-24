@@ -5,7 +5,7 @@ description: Explains Scrum’s four key value areas—current value, unrealised
 tldr: Evidence-based management in Scrum focuses on four key value areas—current value, unrealized value, ability to innovate, and time to market—to guide data-driven decisions and balance innovation with stability. Tracking metrics in these areas helps teams improve customer satisfaction, identify growth opportunities, manage technical debt, and speed up delivery. Development managers should start measuring these areas to align teams with evidence-based management and drive sustainable product success.
 date: 2024-09-13T07:00:34Z
 lastmod: 2024-09-13T07:00:34Z
-weight: 315
+weight: 345
 sitemap:
   filename: sitemap.xml
   priority: 0.5
@@ -31,8 +31,8 @@ concepts:
   - Strategy
 categories:
   - Product Management
-  - Engineering Excellence
   - Scrum
+  - Product Development
 tags:
   - Value Delivery
   - Decision Making

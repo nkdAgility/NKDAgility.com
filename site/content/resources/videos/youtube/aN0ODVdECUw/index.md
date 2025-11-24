@@ -29,6 +29,7 @@ categories:
   - DevOps
   - Engineering Excellence
 tags:
+  - Organisational Agility
   - Software Development
   - Time to Market
 Watermarks:

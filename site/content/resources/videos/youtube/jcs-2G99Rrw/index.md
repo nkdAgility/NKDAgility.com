@@ -5,10 +5,10 @@ description: Learn how to avoid common mistakes in Azure DevOps, improve agile w
 tldr: Many teams misuse Azure DevOps by creating flat work item hierarchies, using custom work item types that do not fit agile practices, neglecting traceability, and overcomplicating processes, which reduces the platform’s effectiveness. Sticking to intended structures and keeping processes simple helps teams stay agile and productive. Review your team’s use of Azure DevOps to ensure alignment with agile principles and avoid these common pitfalls.
 date: 2024-04-09T08:00:20Z
 lastmod: 2024-04-09T08:00:20Z
-weight: 555
+weight: 210
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.6
   changefreq: monthly
 ItemId: jcs-2G99Rrw
 ItemType: videos

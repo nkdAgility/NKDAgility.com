@@ -49,9 +49,9 @@ tags:
   - Product Delivery
   - Value Stream Management
   - Project Management
-  - Cycle Time
   - Lean Thinking
   - Continuous Improvement
+  - Market Adaptability
 platform_signals:
   - platform: Scrumorg
     post_url: https://www.scrum.org/resources/blog/why-measuring-individual-cycle-time-killing-your-flow-and-what-do-instead

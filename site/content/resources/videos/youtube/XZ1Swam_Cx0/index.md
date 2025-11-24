@@ -5,10 +5,10 @@ description: Explores how unqualified Agile practitioners undermine genuine inno
 tldr: Relying on certified but inexperienced Agile practitioners can harm teams by leading to poor leadership, stifled innovation, and loss of trust. Real-world experience and ongoing learning are more important than credentials alone. Development managers should prioritize hiring Agile coaches with proven practical backgrounds and foster open communication to maintain genuine Agile practices.
 date: 2023-10-30T07:00:13Z
 lastmod: 2023-10-30T07:00:13Z
-weight: 665
+weight: 280
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: monthly
 ItemId: XZ1Swam_Cx0
 ItemType: videos
@@ -31,6 +31,7 @@ layout: video
 concepts: []
 categories:
   - Leadership
+  - Technical Leadership
 tags:
   - Personal
 Watermarks:

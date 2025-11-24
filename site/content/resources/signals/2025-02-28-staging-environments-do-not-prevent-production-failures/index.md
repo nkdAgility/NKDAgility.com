@@ -32,12 +32,12 @@ tags:
   - Continuous Delivery
   - Release Management
   - Technical Mastery
-  - Operational Practices
   - Product Delivery
   - Deployment Strategies
   - Deployment Frequency
   - Engineering Practices
   - Value Delivery
+  - Operational Practices
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7301277475324461057

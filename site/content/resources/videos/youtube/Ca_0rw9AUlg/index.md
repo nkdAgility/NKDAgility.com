@@ -34,6 +34,7 @@ categories:
   - Leadership
 tags:
   - Organisational Physics
+  - Operating Model
   - Organisational Change
   - Systems Thinking
   - Organisational Agility

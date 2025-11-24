@@ -28,8 +28,8 @@ categories:
 tags:
   - Scrum Master
   - Organisational Agility
-  - Competence
   - Pragmatic Thinking
+  - Competence
   - Product Delivery
   - Professional Scrum
   - Software Development

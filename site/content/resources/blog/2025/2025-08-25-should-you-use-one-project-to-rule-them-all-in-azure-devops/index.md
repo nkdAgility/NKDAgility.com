@@ -28,6 +28,7 @@ tags:
   - Project Management
   - Software Development
   - Operational Practices
+  - Operating Model
   - Value Delivery
   - Product Delivery
   - Agile Planning Tools
@@ -35,7 +36,6 @@ tags:
   - Scaling
   - Pragmatic Thinking
   - Large Scale Agility
-  - Agile Planning
   - Agile Strategy
   - Organisational Agility
   - Team Performance

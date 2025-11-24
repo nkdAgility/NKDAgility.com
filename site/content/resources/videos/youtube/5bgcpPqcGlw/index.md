@@ -33,8 +33,8 @@ categories:
   - Technical Leadership
 tags:
   - Operational Practices
-  - Pragmatic Thinking
   - Site Reliability Engineering
+  - Pragmatic Thinking
   - Value Delivery
   - Azure DevOps
   - Software Development
@@ -42,11 +42,11 @@ tags:
   - Organisational Agility
   - Personal
   - Technical Mastery
+  - Engineering Practices
   - Cross Functional Teams
   - Deployment Frequency
   - Market Adaptability
   - Product Delivery
-  - Sociotechnical Systems
 Watermarks:
   description: 2025-05-07T13:15:41Z
   short_title: 2025-07-07T17:58:04Z

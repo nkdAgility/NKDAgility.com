@@ -20,7 +20,7 @@ aliases:
 source: LinkedIn
 layout: signal
 concepts:
-  - Ethos
+  - Philosophy
 categories:
   - Leadership
   - Technical Leadership
@@ -40,7 +40,7 @@ tags:
   - Value Delivery
   - Product Delivery
   - Agentic Engineering
-  - Sociotechnical Systems
+  - Agile Strategy
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7327354418876628992

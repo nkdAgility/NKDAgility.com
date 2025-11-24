@@ -5,10 +5,10 @@ description: Many Scrum Masters lack essential skills and experience, leading to
 tldr: There is a widespread lack of competence among Scrum Masters due to high demand, low entry barriers, and insufficient experience, which undermines team and organizational effectiveness. Effective Scrum Masters need deep practical experience, a solid understanding of software development and DevOps, and the ability to support both teams and Product Owners while driving organizational change. Development managers should prioritize hiring or developing Scrum Masters with real-world experience and a commitment to continuous learning, rather than relying on certifications alone.
 date: 2024-10-16T07:00:09Z
 lastmod: 2024-10-16T07:00:09Z
-weight: 280
+weight: 235
 sitemap:
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.6
   changefreq: monthly
 ItemId: GJFklM1U5Pc
 ItemType: videos
@@ -32,6 +32,7 @@ concepts: []
 categories:
   - Scrum
   - Product Development
+  - Engineering Excellence
 tags:
   - Competence
   - Scrum Master

@@ -39,9 +39,9 @@ tags:
   - Social Technologies
   - Technical Excellence
   - Software Development
+  - Deployment Strategies
   - Technical Mastery
   - Digital Transformation
-  - Continuous Delivery
 Watermarks:
   description: 2025-05-07T12:49:05Z
   short_title: 2025-07-07T16:43:58Z

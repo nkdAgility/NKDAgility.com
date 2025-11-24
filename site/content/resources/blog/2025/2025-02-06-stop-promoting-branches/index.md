@@ -31,6 +31,8 @@ categories:
   - Product Development
   - DevOps
 tags:
+  - Product Delivery
+  - Release Management
   - GitHub
   - Software Development
   - Technical Mastery
@@ -44,8 +46,6 @@ tags:
   - Modern Source Control
   - Deployment Frequency
   - Deployment Strategies
-  - Value Delivery
-  - Release Management
 Watermarks:
   description: 2025-05-07T12:49:50Z
   short_title: 2025-07-07T17:46:49Z

@@ -38,6 +38,7 @@ tags:
   - Metrics and Learning
   - Continuous Learning
   - Personal
+  - Decision Making
   - Value Delivery
   - Evidence Based Leadership
   - Pragmatic Thinking

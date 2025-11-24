@@ -38,6 +38,7 @@ tags:
   - Decision Making
   - Metrics and Learning
   - Pragmatic Thinking
+  - Professional Scrum
   - Personal
 Watermarks:
   description: 2025-05-07T13:06:14Z

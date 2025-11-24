@@ -46,8 +46,8 @@ tags:
   - Agile Transformation
   - Agile Values and Principles
   - Agile Leadership
-  - Product Discovery
   - Agile Strategy
+  - Product Discovery
   - Business Agility
 Watermarks:
   description: 2025-05-07T13:02:32Z

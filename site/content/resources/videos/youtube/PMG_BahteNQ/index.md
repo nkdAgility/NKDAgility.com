@@ -32,9 +32,9 @@ tags:
   - Azure DevOps
   - Pragmatic Thinking
   - Software Development
-  - Technical Mastery
   - Operational Practices
   - Frequent Releases
+  - Technical Mastery
   - Engineering Practices
   - Product Delivery
   - Continuous Delivery

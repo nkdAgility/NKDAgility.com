@@ -5,10 +5,10 @@ description: Explains how Scrum and Continuous Delivery work together, highlight
 tldr: Scrum and Continuous Delivery work well together and can enhance each other’s benefits. Using both allows teams to deliver value more frequently and respond to change faster. Consider combining these approaches to improve your team's delivery speed and adaptability.
 date: 2017-06-28
 lastmod: 2017-06-28
-weight: 1000
+weight: 690
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: weekly
 ItemId: LoRDIqNuwD-
 ItemType: blog

@@ -33,7 +33,6 @@ tags:
   - Software Development
   - Agentic Agility
   - Team Performance
-  - Team Collaboration
   - Agile Frameworks
   - Agile Leadership
   - Social Technologies

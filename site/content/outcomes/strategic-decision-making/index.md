@@ -1,14 +1,15 @@
 ---
 title: Strategic Decision-Making
 short_title: Strategic Decision-Making
-description: Enable leaders to make better strategic decisions through evidence-based practices, clear metrics, and aligned operating models that reduce uncertainty.
-tldr: Strategic decision-making improves when leaders have clear evidence, aligned teams, and measurable outcomes. Organizations that use data-driven approaches and connect strategy to execution make faster, more confident decisions. Development managers should establish feedback loops and metrics that inform rather than confuse.
+description: Learn the key principles, processes, and tools for effective strategic decision-making to improve outcomes in business and organisational settings.
+tldr: Strategic decision-making involves setting clear goals, analyzing data, and considering long-term impacts to guide your team effectively. Prioritizing collaboration and regular review helps ensure decisions align with business objectives and adapt to change. Encourage your team to use data-driven insights and revisit decisions as needed to stay on track.
 date: 2025-11-24
 weight: 250
 sitemap:
   filename: sitemap.xml
   priority: 0.9
   changefreq: weekly
+ItemId: 1Pbl4bi_RU1
 ItemType: outcomes
 ItemKind: marketing
 ItemContentOrigin: human
@@ -95,21 +96,21 @@ sections:
   - type: outcomeboxes
     title: Strategic decision-making enables
     boxes:
-      - box:
+      - box: 
         items:
           - title: Make faster, more confident decisions
           - title: Align strategy with execution
           - title: Establish clear success metrics
           - title: Build evidence-based operating models
           - title: Reduce decision paralysis and rework
-      - box:
+      - box: 
         items:
           - title: Feel confident in your strategic direction
           - title: Eliminate the stress of guesswork
           - title: Lead with clarity instead of confusion
           - title: Gain trust from teams and stakeholders
           - title: Sleep better knowing decisions are sound
-      - box:
+      - box: 
         items:
           - title: Be seen as a decisive, data-driven leader
           - title: Inspire confidence in your vision
@@ -165,7 +166,13 @@ card:
     content: Strengthen Decisions
   title: Strategic Decision-Making
   content: Enable evidence-based decision-making through clear metrics, aligned operating models, and systems that connect strategy to execution with confidence.
+Watermarks:
+  description: 2025-11-24T17:39:47Z
+  tldr: 2025-11-24T17:39:50Z
 creator: Martin Hinshelwood
 icon: fa-lightbulb
 ResourceType: outcomes
+ResourceId: 1Pbl4bi_RU1
+
 ---
+

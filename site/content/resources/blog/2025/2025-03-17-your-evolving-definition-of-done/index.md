@@ -31,6 +31,7 @@ tags:
   - Software Development
   - Definition of Done
   - Value Delivery
+  - Pragmatic Thinking
   - Professional Scrum
   - Operational Practices
   - Agile Frameworks
@@ -42,7 +43,6 @@ tags:
   - Engineering Practices
   - Shift Left Strategy
   - Common Goals
-  - Technical Excellence
 Watermarks:
   description: 2025-05-07T12:49:17Z
   short_title: 2025-07-07T16:45:08Z

@@ -38,6 +38,7 @@ tags:
   - Product Delivery
   - Software Development
   - Technical Mastery
+  - Deployment Frequency
   - Operational Practices
 Watermarks:
   description: 2025-05-07T13:13:09Z

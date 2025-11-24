@@ -5,7 +5,7 @@ description: Explores how competence, collaboration, and agile philosophies driv
 tldr: To build a high-performing software delivery team, focus on developing both technical and business competence across all members, encouraging everyone to think like product developers rather than just coders. Embrace Agile, DevOps, Lean, and Scrum philosophies, adapt practices as needed, and ensure due diligence before making structural changes. Prioritise collaboration, open communication, and continuous improvement to maximise value delivery and drive business success.
 date: 2024-12-03T06:30:00Z
 lastmod: 2024-12-03T06:30:00Z
-weight: 305
+weight: 275
 sitemap:
   filename: sitemap.xml
   priority: 0.5
@@ -35,6 +35,7 @@ tags:
   - Pragmatic Thinking
   - Product Delivery
   - Value Delivery
+  - Agile Strategy
 Watermarks:
   description: 2025-05-07T12:56:55Z
   short_title: 2025-07-07T17:47:19Z

@@ -5,10 +5,10 @@ description: Explores how hypothesis-driven engineering helps teams maximise pro
 tldr: Focusing on hypothesis-driven engineering helps teams maximise product value by testing ideas with small experiments, measuring outcomes, and quickly adapting based on real customer feedback. The Azure DevOps team’s experience showed that even costly initiatives can provide critical learning, allowing resources to be redirected before larger losses occur. Development managers should encourage rapid experimentation and validation at all levels to ensure investments deliver real value and support agility.
 date: 2024-12-11T06:30:00Z
 lastmod: 2024-12-11T06:30:00Z
-weight: 390
+weight: 325
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.5
   changefreq: monthly
 ItemId: Ig-HpUfQr3M
 ItemType: videos
@@ -31,8 +31,10 @@ concepts:
 categories:
   - Product Development
   - Product Management
+  - Engineering Excellence
 tags:
   - Customer Focus
+  - Decision Making
   - Software Development
   - Value Delivery
   - Experimentation
@@ -40,13 +42,12 @@ tags:
   - Pragmatic Thinking
   - Product Delivery
   - Empirical Process Control
+  - Agile Strategy
   - Agile Product Management
   - Organisational Agility
   - Business Agility
   - Product Discovery
   - Product Validation
-  - Metrics and Learning
-  - Lean Product Development
 Watermarks:
   description: 2025-05-07T12:56:46Z
   short_title: 2025-07-07T17:47:12Z

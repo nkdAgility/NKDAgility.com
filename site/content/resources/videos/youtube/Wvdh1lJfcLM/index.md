@@ -5,10 +5,10 @@ description: Step-by-step guide to migrating from Team Foundation Server (TFS) t
 tldr: Migrating from TFS to Azure DevOps can boost team collaboration, enable cloud capabilities, and provide continuous updates, but it requires careful planning to address compatibility issues and account alignment. Key steps include updating TFS, running validation tools, fixing issues, and thorough post-migration testing to avoid disruptions. To ensure a smooth transition, use the right migration tools and consider expert support for complex environments.
 date: 2024-07-31T11:58:11Z
 lastmod: 2024-07-31T11:58:11Z
-weight: 1000
+weight: 645
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: Wvdh1lJfcLM
 ItemType: videos

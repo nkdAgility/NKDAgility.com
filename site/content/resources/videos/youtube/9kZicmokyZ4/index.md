@@ -5,10 +5,10 @@ description: Explains how evidence-based management helps Agile teams use data a
 tldr: Evidence-based management helps Agile teams make smarter decisions by tracking key metrics like value delivered, time to market, and ability to innovate, ensuring changes actually lead to improvement. Without data, teams risk wasting time and resources on ineffective changes, but with regular measurement and analysis, they can adapt quickly and foster continuous improvement. Start by identifying and tracking a few important metrics, involve your team, and use the insights to guide your next steps.
 date: 2024-01-22T11:00:07Z
 lastmod: 2024-01-22T11:00:07Z
-weight: 690
+weight: 425
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: 9kZicmokyZ4
 ItemType: videos

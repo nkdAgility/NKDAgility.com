@@ -37,11 +37,11 @@ tags:
   - Software Development
   - Team Performance
   - Value Delivery
-  - Product Delivery
   - Pragmatic Thinking
   - Organisational Agility
   - Operational Practices
   - Professional Scrum
+  - Product Delivery
   - Business Agility
   - Social Technologies
   - Agile Product Management

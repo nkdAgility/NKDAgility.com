@@ -33,18 +33,18 @@ tags:
   - Software Development
   - Frequent Releases
   - Deployment Frequency
+  - Product Delivery
   - Working Software
   - Agile Philosophy
+  - Empirical Process Control
   - Market Adaptability
   - Customer Focus
+  - Continuous Delivery
   - Operational Practices
   - Value Delivery
-  - Product Delivery
-  - Continuous Delivery
-  - Empirical Process Control
-  - Release Management
   - Time to Market
   - Pragmatic Thinking
+  - Increment
 platform_signals:
   - platform: Scrumorg
     post_url: https://www.scrum.org/resources/blog/without-delivery-there-no-value

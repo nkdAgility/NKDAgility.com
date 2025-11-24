@@ -28,8 +28,8 @@ categories:
 tags:
   - Scrum Master
   - Software Development
-  - Increment
   - Product Delivery
+  - Increment
   - Value Delivery
 platform_signals:
   - platform: LinkedIn

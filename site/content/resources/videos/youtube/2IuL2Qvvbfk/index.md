@@ -5,10 +5,10 @@ description: Explores how visionary Product Owners at Microsoft drove Agile tran
 tldr: Brian Harry and Aaron Bjork at Microsoft transformed product development by shifting from slow, two-year release cycles to rapid, three-week feedback loops, driving a major cultural and process shift toward Agile across the organization. Their leadership and collaboration, supported by executive buy-in, embedded sustainable Agile practices and set a new industry standard for balancing scale with agility. Development managers should recognize the impact that visionary Product Owners can have in driving both process and cultural change, and prioritize empowering such leaders within their teams.
 date: 2023-06-13T11:32:18Z
 lastmod: 2023-06-13T11:32:18Z
-weight: 480
+weight: 325
 sitemap:
   filename: sitemap.xml
-  priority: 0.3
+  priority: 0.5
   changefreq: monthly
 ItemId: 2IuL2Qvvbfk
 ItemType: videos
@@ -33,13 +33,13 @@ categories:
   - Product Management
   - Leadership
 tags:
+  - Agile Strategy
   - Organisational Change
   - Software Development
   - Agile Transformation
   - Organisational Agility
   - Pragmatic Thinking
   - Agile Leadership
-  - Agile Strategy
   - Product Owner
   - Organisational Culture
   - Strategic Goals

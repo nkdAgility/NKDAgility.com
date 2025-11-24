@@ -33,6 +33,7 @@ tags:
   - Professional Scrum
   - Operational Practices
   - Definition of Done
+  - Team Performance
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7314308335866957824

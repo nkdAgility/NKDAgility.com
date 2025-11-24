@@ -28,7 +28,6 @@ categories:
 tags:
   - Agentic Agility
   - Professional Scrum
-  - Self Organisation
   - Team Motivation
   - Agile Product Management
   - Organisational Agility
@@ -40,7 +39,8 @@ tags:
   - Scrum Master
   - Value Delivery
   - Social Technologies
-  - Agile Strategy
+  - Self Organisation
+  - Product Owner
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7326992004440072194

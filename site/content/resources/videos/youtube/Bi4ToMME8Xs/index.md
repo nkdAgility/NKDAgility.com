@@ -5,7 +5,7 @@ description: Private advanced Scrum Master classes offering immersive learning t
 tldr: If you want your Scrum Masters to deliver better results, consider a private Advanced Professional Scrum Master immersive learning class. This training can help improve team performance and outcomes. Visit the provided link to learn more and take action.
 date: 2024-09-20T11:04:29Z
 lastmod: 2024-09-20T11:04:29Z
-weight: 1000
+weight: 705
 sitemap:
   filename: sitemap.xml
   priority: 0.1

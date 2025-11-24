@@ -27,19 +27,19 @@ aliasesArchive:
 source: youtube
 layout: video
 concepts:
-  - Principle
+  - Strategy
 categories:
   - Product Management
   - Product Development
 tags:
   - Value Delivery
+  - Agile Strategy
   - Business Agility
   - Organisational Agility
   - Pragmatic Thinking
   - Project Management
   - Market Adaptability
   - Enterprise Agility
-  - Agile Strategy
 Watermarks:
   description: 2025-05-07T12:56:51Z
   short_title: 2025-07-07T17:47:15Z

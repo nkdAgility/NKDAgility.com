@@ -5,10 +5,10 @@ description: Learn how Agile principles help businesses improve predictability b
 tldr: Predictability in software development is achieved by aligning teams around clear goals, optimizing systems, and adopting Agile principles that balance planning with adaptability. Key insights include the importance of well-defined processes, empowering teams to make decisions, and tailoring Agile frameworks to fit your unique business needs, as seen in Microsoft’s transformation. To improve predictability, focus on continuous improvement, effective communication, and collaboration both within teams and with customers.
 date: 2024-10-08T10:33:32Z
 lastmod: 2024-10-08T10:33:32Z
-weight: 590
+weight: 540
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.3
   changefreq: monthly
 ItemId: G1BQG2tsbYg
 ItemType: videos
@@ -28,16 +28,16 @@ aliasesArchive:
 source: internal
 layout: video
 concepts:
-  - Principle
+  - Strategy
 categories:
   - Product Management
   - Product Development
 tags:
   - Agile Strategy
   - Social Technologies
+  - Agile Planning
   - Business Agility
   - Pragmatic Thinking
-  - Agile Planning
   - Organisational Agility
   - Market Adaptability
   - Agile Transformation

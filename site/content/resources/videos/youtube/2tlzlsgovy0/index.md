@@ -5,10 +5,10 @@ description: Explains why agile teams need a clear understanding of product visi
 tldr: Teams that clearly understand the product vision and strategic goals are more aligned, empowered, and able to make decisions that deliver greater value. Regularly communicating the vision, involving the team in its development, and providing context and feedback opportunities foster ownership and agility. Development managers should ensure their teams know and connect with the product vision to maximize effectiveness and adaptability.
 date: 2024-07-03T06:45:00Z
 lastmod: 2024-07-03T06:45:00Z
-weight: 640
+weight: 425
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: monthly
 ItemId: 2tlzlsgovy0
 ItemType: videos

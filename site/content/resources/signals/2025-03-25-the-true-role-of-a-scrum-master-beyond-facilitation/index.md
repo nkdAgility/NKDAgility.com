@@ -34,7 +34,6 @@ tags:
   - Operational Practices
   - Agile Leadership
   - Coaching
-  - Team Performance
   - Agile Frameworks
   - Organisational Agility
   - Pragmatic Thinking

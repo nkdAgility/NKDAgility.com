@@ -28,7 +28,7 @@ aliasesArchive:
 source: internal
 layout: video
 concepts:
-  - Tenet
+  - Strategy
 categories:
   - Product Management
   - Product Development

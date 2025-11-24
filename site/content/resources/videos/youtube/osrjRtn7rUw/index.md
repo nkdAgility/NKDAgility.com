@@ -28,6 +28,7 @@ concepts:
 categories:
   - Technical Leadership
 tags:
+  - Personal
   - Evidence Based Leadership
   - Pragmatic Thinking
   - Decision Making

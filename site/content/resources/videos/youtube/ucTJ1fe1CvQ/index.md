@@ -5,10 +5,10 @@ description: Learn to identify, challenge, and validate assumptions in product d
 tldr: The PPDV course helps product teams avoid the common pitfall of building features without understanding real user needs by teaching them to identify and challenge assumptions throughout the product development process. It emphasizes a cycle of discovery, delivery, and validation, encouraging evidence-based decisions and continuous learning. Development managers should consider this course to shift their teams from a feature factory mindset to one focused on delivering real value.
 date: 2024-08-09T05:27:35Z
 lastmod: 2024-08-09T05:27:35Z
-weight: 795
+weight: 535
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: ucTJ1fe1CvQ
 ItemType: videos

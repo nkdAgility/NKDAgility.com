@@ -5,10 +5,10 @@ description: Explores how rigid, hierarchical structures hinder organisational a
 tldr: Traditional top-down management structures block true agility by centralizing decision-making and limiting team empowerment, especially for key roles like Product Owner. To become more agile, organizations need to decentralize authority, promote transparency, and adopt servant leadership, allowing teams closer to the customer to make decisions. Leaders should drive this shift by supporting teams and gradually implementing changes that focus on delivering customer value.
 date: 2023-10-19T11:00:06Z
 lastmod: 2023-10-19T11:00:06Z
-weight: 860
+weight: 435
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: 56hWAHhbrvs
 ItemType: videos
@@ -33,12 +33,15 @@ concepts:
   - Strategy
 categories:
   - Leadership
+  - Technical Leadership
   - Product Development
 tags:
   - Enterprise Agility
   - Agile Transformation
   - Organisational Change
   - Agile Strategy
+  - Operating Model
+  - Product Operating Model
   - Agile Philosophy
   - Organisational Agility
   - Pragmatic Thinking

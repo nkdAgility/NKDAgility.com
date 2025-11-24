@@ -5,10 +5,10 @@ description: Identifies seven common Agile pitfalls—quick fixes, backlog overl
 tldr: Achieving true agility requires more than adopting Agile practices; organisations often fall into seven common traps such as seeking quick fixes, overloading backlogs, focusing on resource utilisation over value, lacking accountability, fostering blame, copying others blindly, and letting pride block learning. These behaviours hinder innovation, value delivery, and team effectiveness. Development managers should regularly assess and address these pitfalls, tailor Agile to their context, and foster a culture of continuous improvement and honest reflection.
 date: 2024-04-14T12:17:16Z
 lastmod: 2024-04-14T12:17:16Z
-weight: 530
+weight: 375
 sitemap:
   filename: sitemap.xml
-  priority: 0.3
+  priority: 0.4
   changefreq: monthly
 ItemId: 5RJpAeKMRzs
 ItemType: videos
@@ -38,6 +38,7 @@ tags:
   - Organisational Agility
   - Social Technologies
   - Agile Strategy
+  - Agile Planning
   - Team Performance
   - Self Organisation
   - Agile Frameworks

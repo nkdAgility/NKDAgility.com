@@ -44,6 +44,7 @@ tags:
   - Pragmatic Thinking
   - Throughput
   - Organisational Agility
+  - Agile Planning Tools
   - Transparency
 Watermarks:
   description: 2025-05-07T13:02:27Z

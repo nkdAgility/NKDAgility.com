@@ -28,6 +28,7 @@ tags:
   - Operational Practices
   - Organisational Physics
   - Product Delivery
+  - Operating Model
   - Organisational Change
   - Self Organisation
   - Pragmatic Thinking
@@ -37,8 +38,7 @@ tags:
   - Large Scale Agility
   - Team Collaboration
   - Software Development
-  - Technical Mastery
-  - Scaling
+  - Product Operating Model
 Watermarks:
   description: 2025-09-04T23:19:42Z
   tldr: 2025-09-04T23:19:46Z

@@ -5,7 +5,7 @@ description: Evidence-Based Management (EBM) guides organisations to improve val
 tldr: Evidence-Based Management (EBM) is a framework that helps organizations improve value delivery by using measurement, experimentation, and adaptation to navigate uncertainty and achieve strategic goals. It focuses on four key areas—current value, unrealized value, time-to-market, and ability to innovate—encouraging teams to set measurable goals, run small experiments, and use evidence to guide decisions. Development managers should ensure their teams make hypotheses explicit, measure outcomes rather than just activities or outputs, and regularly inspect and adapt based on results to maximize customer and business value.
 date: 2020-01-01
 lastmod: 2020-01-01
-weight: 360
+weight: 380
 sitemap:
   filename: sitemap.xml
   priority: 0.5
@@ -21,14 +21,14 @@ aliases:
   - /resources/Rv0ZjvwYVy5
 layout: guide
 concepts:
-  - Model
+  - Strategy
 categories:
   - Product Development
   - Product Management
-  - Engineering Excellence
 tags:
   - Value Delivery
   - Metrics and Learning
+  - Decision Making
   - Experimentation
   - Empirical Process Control
   - Agile Strategy
@@ -38,7 +38,6 @@ tags:
   - Social Technologies
   - Continuous Improvement
   - Current Value
-  - Decision Making
   - Evidence Based Leadership
   - Software Development
   - Operational Practices

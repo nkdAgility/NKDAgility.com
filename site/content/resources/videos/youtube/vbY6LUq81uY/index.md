@@ -5,7 +5,7 @@ description: Learn how to fund product development by thinking like a venture ca
 tldr: Treat product funding like a venture capitalist by running small, low-risk experiments to validate ideas before committing significant resources. Require clear business plans, proof of concept, and ongoing iteration based on real user feedback to manage risk and maximize learning. Balance data-driven decisions with vision and passion, and be prepared to discard failed experiments while investing further in those that show promise.
 date: 2024-12-10T06:30:00Z
 lastmod: 2024-12-10T06:30:00Z
-weight: 840
+weight: 715
 sitemap:
   filename: sitemap.xml
   priority: 0.1

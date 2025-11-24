@@ -5,7 +5,7 @@ description: Explains why Story Points are subjective and unsuitable for compari
 tldr: Story Points are useful for team discussions and backlog refinement but are too subjective for comparing teams or predicting delivery. Focus instead on objective metrics like throughput, cycle time, and work in process to measure and improve team performance, while also considering value delivered using evidence-based management practices. Shift your attention from normalising Story Points to tracking flow metrics and value to make better decisions and optimise outcomes.
 date: 2023-09-21
 lastmod: 2023-09-21
-weight: 300
+weight: 255
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,6 +29,7 @@ concepts: []
 categories:
   - Product Development
   - Product Management
+  - Engineering Excellence
 tags:
   - Metrics and Learning
   - Software Development

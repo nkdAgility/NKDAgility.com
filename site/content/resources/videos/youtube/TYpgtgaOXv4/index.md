@@ -39,6 +39,7 @@ tags:
   - Pragmatic Thinking
   - Agile Planning
   - Agile Planning Tools
+  - Team Performance
   - Personal
   - Operational Practices
   - Transparency

@@ -5,7 +5,7 @@ description: Explores how immersive learning in Agile and Scrum helps overcome c
 tldr: Immersive learning is essential for Agile teams because it exposes knowledge gaps and helps overcome overconfidence, leading to real skill growth. By focusing on hands-on practice, continuous feedback, and regular reflection, teams can drive ongoing improvement and avoid common pitfalls. Development managers should encourage immersive, practical learning environments to ensure their teams keep evolving and truly master Agile principles.
 date: 2024-02-05T07:00:03Z
 lastmod: 2024-02-05T07:00:03Z
-weight: 1000
+weight: 760
 sitemap:
   filename: sitemap.xml
   priority: 0.1

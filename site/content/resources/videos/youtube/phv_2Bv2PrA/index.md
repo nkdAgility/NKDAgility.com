@@ -35,6 +35,7 @@ tags:
   - Agile Transformation
   - Product Delivery
   - Pragmatic Thinking
+  - Value Delivery
   - Increment
   - Market Adaptability
   - Agile Philosophy

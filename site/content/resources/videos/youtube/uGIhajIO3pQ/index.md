@@ -5,7 +5,7 @@ description: Explore how Agile 2023 in Scotland brings together tech professiona
 tldr: Agile 2023 in Scotland is a growing event that brings together passionate Agile professionals to share knowledge, connect with thought leaders, and discuss the latest trends in Agile practices. The conference highlights the importance of community, collaboration, and continuous learning in driving innovation within the tech sector. Development managers should consider engaging with local Agile events to gain fresh insights and foster a culture of improvement in their teams.
 date: 2023-06-28T07:00:21Z
 lastmod: 2023-06-28T07:00:21Z
-weight: 1000
+weight: 845
 sitemap:
   filename: sitemap.xml
   priority: 0.1

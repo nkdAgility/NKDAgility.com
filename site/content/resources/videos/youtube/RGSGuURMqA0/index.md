@@ -5,10 +5,10 @@ description: Stop chasing trends—build real agility. Discover how DevOps and a
 tldr: Focusing on real agility and DevOps means building adaptable teams and resilient systems, not just adopting the latest tools or trends. Key outcomes include smoother delivery, better feedback, and teams that can handle change without disruption. Prioritise embedding adaptability into your culture and processes so your teams can lead rather than react to change.
 date: 2025-06-27T06:00:23Z
 lastmod: 2025-06-27T06:00:23Z
-weight: 275
+weight: 240
 sitemap:
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.6
   changefreq: monthly
 ItemId: RGSGuURMqA0
 ItemType: videos

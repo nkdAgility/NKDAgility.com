@@ -5,10 +5,10 @@ description: Explores how effective training, continuous learning, and a support
 tldr: Investing in training and continuous learning is key to team growth and long-term success, helping teams stay relevant and engaged while demonstrating organizational commitment. Leaders should focus on creating a supportive environment that encourages experimentation, celebrates small wins, and addresses systemic barriers to learning. Prioritize ongoing development and adapt to new technologies to boost morale, performance, and retention.
 date: 2023-10-27T07:00:14Z
 lastmod: 2023-10-27T07:00:14Z
-weight: 330
+weight: 405
 sitemap:
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.4
   changefreq: monthly
 ItemId: _2ZH7vbKu7Y
 ItemType: videos

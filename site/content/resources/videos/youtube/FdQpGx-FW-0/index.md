@@ -5,10 +5,10 @@ description: Explores how rigid, judgmental Agile practices stifle creativity an
 tldr: Rigid, judgmental application of Agile frameworks stifles creativity and innovation, turning teams into rule-followers instead of problem-solvers. True agility comes from empowering teams with autonomy, transparency, and principles rather than enforcing one-size-fits-all rules. Development managers should focus on fostering a culture of openness and continuous learning, allowing teams to adapt practices to their unique needs.
 date: 2023-10-20T11:00:13Z
 lastmod: 2023-10-20T11:00:13Z
-weight: 665
+weight: 360
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: FdQpGx-FW-0
 ItemType: videos
@@ -35,6 +35,7 @@ categories:
   - Leadership
   - Product Development
 tags:
+  - Agile Strategy
   - Agnostic Agile
   - Agile Transformation
   - Software Development

@@ -5,10 +5,10 @@ description: Explains how Product Owners can use effective prioritisation to max
 tldr: Product Owners play a crucial role in ensuring resources are spent wisely by prioritising the most valuable work, aligning development with business goals, and maintaining stakeholder trust through clear communication. Effective prioritisation maximises value delivery, keeps teams focused, and adapts to changing needs. Development managers should support Product Owners in understanding users, collaborating closely, and staying flexible to drive successful outcomes.
 date: 2023-11-27T11:00:56Z
 lastmod: 2023-11-27T11:00:56Z
-weight: 890
+weight: 645
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: xLUsgKWzkUM
 ItemType: videos

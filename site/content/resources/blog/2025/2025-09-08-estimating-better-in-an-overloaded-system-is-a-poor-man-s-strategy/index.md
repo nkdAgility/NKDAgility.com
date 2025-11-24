@@ -24,9 +24,9 @@ categories:
   - Engineering Excellence
   - Kanban
 tags:
+  - Operational Practices
   - Flow Efficiency
   - Team Performance
-  - Operational Practices
   - Software Development
   - Value Delivery
   - Cycle Time

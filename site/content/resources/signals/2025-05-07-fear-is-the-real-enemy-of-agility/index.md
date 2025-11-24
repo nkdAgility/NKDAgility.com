@@ -26,8 +26,8 @@ categories:
   - Technical Leadership
   - Product Development
 tags:
-  - Agile Philosophy
   - Organisational Culture
+  - Agile Philosophy
   - Team Motivation
   - Psychological Safety
   - Pragmatic Thinking

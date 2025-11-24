@@ -23,10 +23,10 @@ concepts: []
 categories:
   - Engineering Excellence
 tags:
+  - Technical Mastery
   - Software Development
   - Pragmatic Thinking
   - Product Delivery
-  - Technical Mastery
   - Working Software
 platform_signals:
   - platform: LinkedIn

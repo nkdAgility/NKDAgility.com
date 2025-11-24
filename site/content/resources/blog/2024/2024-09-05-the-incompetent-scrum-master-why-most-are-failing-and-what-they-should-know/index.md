@@ -41,6 +41,7 @@ tags:
   - Technical Mastery
   - Market Adaptability
   - Operational Practices
+  - Product Delivery
   - Scrum Master
   - Professional Scrum
   - Team Performance

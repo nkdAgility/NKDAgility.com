@@ -30,6 +30,7 @@ concepts:
 categories:
   - Kanban
 tags:
+  - Team Performance
   - Operational Practices
   - Cycle Time
   - Flow Efficiency

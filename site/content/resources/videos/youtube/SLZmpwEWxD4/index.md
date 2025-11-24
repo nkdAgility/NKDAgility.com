@@ -5,10 +5,10 @@ description: Explains how visualising work in Kanban boosts team clarity, transp
 tldr: Visualizing work in Kanban is essential for team clarity, transparency, and accountability, but its real value comes from aligning everyone on shared workflows and rules. Teams should collaboratively define what gets visualized, map out each workflow stage, and document these agreements to avoid misalignment and inefficiencies. Prioritize team alignment over optimization, and consider using flow metrics and workshops to continuously improve your process.
 date: 2024-03-07T07:00:10Z
 lastmod: 2024-03-07T07:00:10Z
-weight: 670
+weight: 270
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: monthly
 ItemId: SLZmpwEWxD4
 ItemType: videos
@@ -33,6 +33,7 @@ concepts:
 categories:
   - Kanban
   - Product Development
+  - Technical Leadership
 tags:
   - Team Collaboration
   - Social Technologies

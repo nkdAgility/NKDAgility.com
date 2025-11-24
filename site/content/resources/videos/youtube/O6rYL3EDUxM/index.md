@@ -5,7 +5,7 @@ description: Learn how to spot fake Agile practices using six key questions from
 tldr: Many organizations claim to be Agile but often fall short of true Agile practices, as highlighted by the US Department of Defense's "Detecting Agile BS" guide. The guide recommends six key questions to assess real Agile maturity, focusing on frequent delivery to users, regular production releases, adapting to feedback, clear product vision, team empowerment, and a culture of continuous improvement. Development managers should honestly assess their teams against these criteria, start small with improvements, and foster a culture of feedback and learning to achieve genuine Agile transformation.
 date: 2024-06-28T06:45:01Z
 lastmod: 2024-06-28T06:45:01Z
-weight: 390
+weight: 355
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -32,11 +32,13 @@ concepts:
   - Principle
 categories:
   - Product Development
+  - Engineering Excellence
   - Scrum
 tags:
   - Agile Strategy
   - Agile Values and Principles
   - Customer Focus
+  - Agile Planning
   - Organisational Culture
   - Pragmatic Thinking
   - Agile Philosophy
@@ -46,7 +48,6 @@ tags:
   - Working Software
   - Agile Frameworks
   - Operational Practices
-  - Agile Planning
   - Product Delivery
 Watermarks:
   description: 2025-05-07T13:02:45Z

@@ -30,6 +30,7 @@ tags:
   - Software Development
   - Technical Excellence
   - Technical Mastery
+  - Competence
 Watermarks:
   description: 2025-05-07T12:49:02Z
   short_title: 2025-07-07T16:43:31Z

@@ -5,10 +5,10 @@ description: Explains why story points and velocity can mislead Agile teams, and
 tldr: Story points and velocity often distract teams from delivering real customer value and can lead to counterproductive behaviors, especially when used as performance measures or written into contracts. Instead, focus on metrics like throughput and cycle time, which better reflect actual progress and value delivery. Use story points only for internal team discussions, then discard them, and never include them in contracts or external reporting.
 date: 2024-01-08T07:00:06Z
 lastmod: 2024-01-08T07:00:06Z
-weight: 565
+weight: 250
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.6
   changefreq: monthly
 ItemId: EfogGslFkBQ
 ItemType: videos

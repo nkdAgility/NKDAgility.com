@@ -5,7 +5,7 @@ description: Limiting work in progress in Kanban helps teams focus, spot bottlen
 tldr: Limiting work in progress is essential for effective Kanban because it helps teams focus, exposes bottlenecks, and supports a sustainable pace, leading to higher quality and faster delivery. Teams that set and adjust WIP limits based on capacity see improved productivity and less stress. To get the benefits, involve your team in setting WIP limits and regularly review them to keep your workflow smooth and predictable.
 date: 2024-07-22T06:00:19Z
 lastmod: 2024-07-22T06:00:19Z
-weight: 1000
+weight: 725
 sitemap:
   filename: sitemap.xml
   priority: 0.1

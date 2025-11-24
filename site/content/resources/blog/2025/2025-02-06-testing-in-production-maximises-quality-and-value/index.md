@@ -32,11 +32,12 @@ concepts:
   - Tool
 categories:
   - Engineering Excellence
-  - Product Development
   - DevOps
+  - Product Development
 tags:
   - Software Development
   - Operational Practices
+  - Frequent Releases
   - Market Adaptability
   - Pragmatic Thinking
   - Customer Focus
@@ -49,7 +50,6 @@ tags:
   - Deployment Frequency
   - Experimentation
   - Technical Excellence
-  - Organisational Agility
 Watermarks:
   description: 2025-05-07T12:49:38Z
   short_title: 2025-07-07T17:46:34Z

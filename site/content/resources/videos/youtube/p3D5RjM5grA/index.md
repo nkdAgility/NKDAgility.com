@@ -29,6 +29,7 @@ concepts: []
 categories:
   - Leadership
 tags:
+  - Organisational Agility
   - Continuous Learning
   - Agile Leadership
   - Business Agility

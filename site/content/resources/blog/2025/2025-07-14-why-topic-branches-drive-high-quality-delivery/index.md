@@ -29,9 +29,9 @@ tags:
   - Technical Mastery
   - Operational Practices
   - Engineering Practices
+  - Value Delivery
   - Product Delivery
   - Continuous Delivery
-  - Deployment Frequency
   - Pragmatic Thinking
   - Team Collaboration
   - Team Performance

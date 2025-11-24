@@ -5,7 +5,7 @@ description: The biggest challenge with new scrum teams is overcoming misconcept
 tldr: The hardest part of working with a new scrum team is overcoming their misconceptions about scrum and their focus on superficial practices instead of core principles. Teams often concentrate on the mechanics rather than embracing empiricism and rapid feedback loops, which are essential for high performance. Development managers should guide teams to master foundational agile concepts and use evidence-based learning to drive improvement.
 date: 2023-02-03T07:00:00Z
 lastmod: 2023-02-03T07:00:00Z
-weight: 450
+weight: 375
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -43,6 +43,7 @@ tags:
   - Scrum Master
   - Scrum Team
   - Coaching
+  - Decision Making
 Watermarks:
   description: 2025-05-07T13:14:15Z
   short_title: 2025-07-07T17:56:54Z

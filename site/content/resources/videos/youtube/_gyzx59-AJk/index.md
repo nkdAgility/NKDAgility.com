@@ -5,7 +5,7 @@ description: Explores how Azure DevOps shifted from slow, two-year releases to r
 tldr: Azure DevOps transformed from two-year release cycles to 880,000 deployments per year by adopting continuous delivery, shortening feedback loops, and using real-time data to guide decisions. This shift enabled rapid response to customer needs and market changes, helping them stay ahead of competitors. Development managers should focus on frequent, small releases and data-driven improvements to maximise value and agility.
 date: 2025-02-06T10:20:34Z
 lastmod: 2025-02-06T10:20:34Z
-weight: 230
+weight: 185
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,10 +33,11 @@ layout: video
 concepts:
   - Principle
 categories:
-  - Product Development
   - DevOps
   - Engineering Excellence
+  - Product Development
 tags:
+  - Agile Strategy
   - Market Adaptability
   - Digital Transformation
   - Business Agility
@@ -51,7 +52,6 @@ tags:
   - Deployment Frequency
   - Product Delivery
   - Value Delivery
-  - Enterprise Agility
 Watermarks:
   description: 2025-05-07T12:49:49Z
   short_title: 2025-07-07T17:46:47Z

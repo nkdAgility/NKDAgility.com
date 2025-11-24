@@ -5,7 +5,7 @@ description: Explains Kanban as a flexible strategy for visualising, analysing, 
 tldr: Kanban is a flexible strategy for improving existing workflows by making processes visible, tracking data, and enabling continuous, incremental improvements. Key steps include documenting your current workflow, visualizing work to spot issues, and using metrics to guide changes. Start by mapping your team's process and use the insights to drive efficiency and effectiveness.
 date: 2024-02-12T07:00:11Z
 lastmod: 2024-02-12T07:00:11Z
-weight: 1000
+weight: 815
 sitemap:
   filename: sitemap.xml
   priority: 0.1

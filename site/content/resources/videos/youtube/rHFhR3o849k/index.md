@@ -38,7 +38,9 @@ tags:
   - Organisational Change
   - Scrum Team
   - Software Development
+  - Organisational Culture
   - Value Delivery
+  - Change Management
   - Sociotechnical Systems
   - Pragmatic Thinking
 Watermarks:

@@ -27,14 +27,15 @@ categories:
   - Technical Leadership
 tags:
   - Pragmatic Thinking
-  - Social Technologies
   - Software Development
   - Professional Scrum
   - Organisational Agility
   - Organisational Culture
   - Scrum Team
-  - Agile Leadership
   - Self Organisation
+  - Agile Leadership
+  - Social Technologies
+  - Agile Frameworks
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7307800591827632129

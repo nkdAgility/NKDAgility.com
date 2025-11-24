@@ -23,7 +23,6 @@ concepts: []
 categories:
   - Engineering Excellence
   - DevOps
-  - Product Development
 tags:
   - Software Development
   - Operational Practices

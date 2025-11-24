@@ -28,19 +28,19 @@ categories:
 tags:
   - Software Development
   - Professional Scrum
-  - Empirical Process Control
   - Agile Planning
   - Organisational Agility
   - Engineering Practices
   - Agile Frameworks
+  - Empirical Process Control
   - Product Delivery
   - Value Delivery
   - Operational Practices
-  - Frequent Releases
   - Pragmatic Thinking
   - Team Performance
   - Technical Excellence
   - Continuous Delivery
+  - Market Adaptability
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7332427823237804033

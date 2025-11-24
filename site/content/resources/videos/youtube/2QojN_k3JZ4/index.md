@@ -35,6 +35,7 @@ categories:
 tags:
   - Definition of Done
   - Software Development
+  - Operational Practices
   - Working Software
   - Personal
   - Team Collaboration

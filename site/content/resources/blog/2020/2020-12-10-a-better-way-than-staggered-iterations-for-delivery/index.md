@@ -32,9 +32,9 @@ categories:
   - Scrum
   - Product Development
 tags:
+  - Agile Planning
   - Software Development
   - Increment
-  - Agile Planning
   - Agile Product Management
   - Agile Transformation
   - Engineering Practices

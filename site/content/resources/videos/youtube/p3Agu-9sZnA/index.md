@@ -38,6 +38,8 @@ tags:
   - Technical Mastery
   - Software Development
   - Operational Practices
+  - Change Management
+  - Product Delivery
   - Engineering Practices
 Watermarks:
   description: 2025-05-07T20:29:03Z

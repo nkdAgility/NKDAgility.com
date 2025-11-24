@@ -24,7 +24,7 @@ concepts:
 categories:
   - Scrum
   - Engineering Excellence
-  - Technical Leadership
+  - Product Development
 tags:
   - Definition of Done
   - Professional Scrum

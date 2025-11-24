@@ -38,6 +38,7 @@ tags:
   - Decision Making
   - Agentic Engineering
   - Lean Principles
+  - Market Adaptability
   - Agile Transformation
   - Operational Practices
   - Self Organisation
@@ -49,7 +50,6 @@ tags:
   - Organisational Agility
   - Product Delivery
   - Agile Leadership
-  - Agile Strategy
 Watermarks:
   description: 2025-05-19T07:28:14Z
   short_title: 2025-07-07T16:43:11Z

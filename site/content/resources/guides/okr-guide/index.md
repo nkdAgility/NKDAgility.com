@@ -26,8 +26,8 @@ categories:
   - Leadership
   - Product Management
 tags:
-  - Objective Key Results
   - Strategic Goals
+  - Objective Key Results
   - Common Goals
   - Agile Strategy
   - Sociotechnical Systems
@@ -36,11 +36,11 @@ tags:
   - Operational Practices
   - Organisational Agility
   - Social Technologies
+  - Continuous Improvement
   - Pragmatic Thinking
   - Organisational Change
   - Value Delivery
   - Organisational Culture
-  - Continuous Improvement
 Watermarks:
   description: 2025-06-30T00:28:38Z
   short_title: 2025-07-07T16:40:29Z

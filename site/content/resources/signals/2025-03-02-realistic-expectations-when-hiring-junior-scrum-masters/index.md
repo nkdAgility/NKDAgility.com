@@ -25,6 +25,7 @@ categories:
   - Leadership
 tags:
   - Scrum Master
+  - Competence
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7302002253777760257

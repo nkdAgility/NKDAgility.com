@@ -5,7 +5,7 @@ description: 'Guidance for 2023: Succeed by clarifying strategy, boosting produc
 tldr: To succeed in a challenging year, organizations must clarify their strategy, focus on both customer and employee satisfaction, and invest in effective ways of working. Key actions include strengthening product ownership, conducting thorough market analysis, and providing agile training and practice for teams. Prioritizing these areas will help maintain competitiveness and performance even in tough market conditions.
 date: 2023-02-13T22:00:04Z
 lastmod: 2023-02-13T22:00:04Z
-weight: 540
+weight: 480
 sitemap:
   filename: sitemap.xml
   priority: 0.3
@@ -34,6 +34,7 @@ categories:
   - Product Development
   - Product Management
 tags:
+  - Agile Strategy
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:14:06Z

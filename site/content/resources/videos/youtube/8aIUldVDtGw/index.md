@@ -5,7 +5,7 @@ description: Multitasking reduces team productivity. Learn how focusing on finis
 tldr: Trying to do too many tasks at once reduces team productivity due to context switching and leads to slower delivery and burnout. Focusing on finishing work before starting new tasks, limiting work in progress, and prioritizing by business value helps teams deliver faster and more predictably. Development managers should ensure their teams complete current work before taking on new tasks to maximize efficiency and business impact.
 date: 2024-01-31T14:26:11Z
 lastmod: 2024-01-31T14:26:11Z
-weight: 440
+weight: 360
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -49,6 +49,7 @@ tags:
   - Social Technologies
   - Agile Product Management
   - Software Development
+  - Agile Strategy
 Watermarks:
   description: 2025-05-07T13:06:05Z
   short_title: 2025-07-07T17:50:02Z

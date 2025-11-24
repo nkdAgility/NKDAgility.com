@@ -5,7 +5,7 @@ description: Explores how empathy, clear value, and open feedback can turn produ
 tldr: Products succeed when users see them as empowering tools rather than burdens, which requires empathy, clear communication of value, and proactive support. Open feedback channels and acting on user input help build trust and drive continuous improvement. Development managers should prioritize user relationships and feedback loops to ensure products are seen as essential and beneficial.
 date: 2023-12-11T11:00:47Z
 lastmod: 2023-12-11T11:00:47Z
-weight: 1000
+weight: 775
 sitemap:
   filename: sitemap.xml
   priority: 0.1

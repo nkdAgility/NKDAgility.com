@@ -33,10 +33,9 @@ categories:
 tags:
   - Pragmatic Thinking
   - Operational Practices
-  - Product Delivery
   - Digital Transformation
-  - Change Management
   - Organisational Agility
+  - Change Management
 Watermarks:
   description: 2025-05-07T19:54:52Z
   short_title: 2025-07-07T16:43:38Z

@@ -5,7 +5,7 @@ description: 'Explains a pay-later training programme for the underemployed: pay
 tldr: A new training program offers underemployed professionals affordable access by requiring only 30% upfront payment, with the balance due after securing suitable employment. The approach is built on trust, focuses on practical upskilling, and encourages networking and a positive mindset to turn underemployment into a career springboard. Development managers can consider this model to support team members’ growth while minimizing financial barriers.
 date: 2023-06-14T07:00:18Z
 lastmod: 2023-06-14T07:00:18Z
-weight: 1000
+weight: 895
 sitemap:
   filename: sitemap.xml
   priority: 0.1

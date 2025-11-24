@@ -20,15 +20,14 @@ aliases:
 source: LinkedIn
 layout: signal
 concepts:
-  - Philosophy
+  - Strategy
 categories:
   - Scrum
-  - Product Management
   - Product Development
+  - Leadership
 tags:
   - Agile Product Management
   - Common Goals
-  - Sociotechnical Systems
   - Strategic Goals
   - Pragmatic Thinking
   - Organisational Agility
@@ -37,10 +36,11 @@ tags:
   - Agile Planning
   - Agile Leadership
   - Organisational Culture
+  - Sociotechnical Systems
   - Team Motivation
   - Social Technologies
   - Professional Scrum
-  - Team Collaboration
+  - Value Delivery
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7326267302268592129
