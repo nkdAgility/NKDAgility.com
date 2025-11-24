@@ -168,20 +168,8 @@ function Update-ClassificationsForHugoMarkdownList {
                                         $cachedData[$newEntry.category] = $newEntry
                                     }
                                     else {
-                                        # Safely parse DateTimeOffset
-                                        $oldCalculatedAt = $null
-                                        $newCalculatedAt = $null
-                                        
-                                        if (-not [string]::IsNullOrEmpty($oldEntry.calculated_at) -and 
-                                            [System.DateTimeOffset]::TryParse($oldEntry.calculated_at, [ref]$oldCalculatedAt)) {
-                                            if ([System.DateTimeOffset]::TryParse($newEntry.calculated_at, [ref]$newCalculatedAt)) {
-                                                if ($oldCalculatedAt -lt $newCalculatedAt) {
-                                                    $cachedData[$newEntry.category] = $newEntry
-                                                }
-                                            }
-                                        }
-                                        else {
-                                            # If we can't parse dates, prefer the new entry
+                                        # Compare DateTime values directly
+                                        if ($oldEntry.calculated_at -lt $newEntry.calculated_at) {
                                             $cachedData[$newEntry.category] = $newEntry
                                         }
                                     }
