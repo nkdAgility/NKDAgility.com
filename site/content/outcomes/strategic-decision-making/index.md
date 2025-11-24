@@ -96,27 +96,57 @@ sections:
   - type: outcomeboxes
     title: Strategic decision-making enables
     boxes:
-      - box: 
+      - box:
+        title: What You Can Do
         items:
           - title: Make faster, more confident decisions
           - title: Align strategy with execution
           - title: Establish clear success metrics
           - title: Build evidence-based operating models
           - title: Reduce decision paralysis and rework
-      - box: 
+      - box:
+        title: How You'll Feel
         items:
           - title: Feel confident in your strategic direction
           - title: Eliminate the stress of guesswork
           - title: Lead with clarity instead of confusion
           - title: Gain trust from teams and stakeholders
           - title: Sleep better knowing decisions are sound
-      - box: 
+      - box:
+        title: How You'll Be Seen
         items:
           - title: Be seen as a decisive, data-driven leader
           - title: Inspire confidence in your vision
           - title: Represent your org as strategically mature
           - title: Champion evidence-based culture
           - title: Set the standard for leadership excellence
+  - type: boxesrow
+    backgroundColor: light-accent-alt
+    title: What Strategic Decision-Making Delivers
+    content: |
+      Industry research (DORA) shows elite organisations make strategic decisions and deploy changes 106× faster than low performers. We help you close that gap through clear metrics and aligned operating models.
+    boxes:
+      - box:
+        title: Economic Clarity
+        items:
+          - title: See which initiatives contribute to Current Value (revenue today)
+          - title: Identify which unlock Ability to Innovate (capability for tomorrow)
+          - title: Understand where team time goes and what creates bottlenecks
+          - title: Know what's working before committing significant resources
+      - box:
+        title: Operational Confidence
+        items:
+          - title: Faster strategic decisions through flow metrics that inform rather than confuse
+          - title: Fewer escalations when delivery is predictable—problems solved at team level
+          - title: Stronger leadership credibility at every level through evidence, not hope
+          - title: Recognition for customer-facing products, platforms, and shared services
+      - box:
+        title: Practical Implementation
+        items:
+          - title: No enterprise overhead or restructuring required
+          - title: Works for 10-person teams and 500-engineer organisations
+          - title: Strategic clarity emerges from better information
+          - title: Connect strategic intent to delivery reality within 30 days—not quarters
   - title: What Strategic Clarity Looks Like
     type: casestudy
     list:

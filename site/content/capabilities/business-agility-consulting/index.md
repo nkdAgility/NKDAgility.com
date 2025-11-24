@@ -139,6 +139,32 @@ sections:
       - Org design, role clarity, and decision flow mapping
       - Agile metrics dashboards and OKR integration
       - Leadership workshops and capability uplift
+  - type: boxesrow
+    title: What Business Agility Delivers
+    content: |
+      Evidence-Based Management connects strategic intent to delivery reality. DORA research shows elite organisations make decisions 106× faster—we help you close that gap.
+    boxes:
+      - box:
+        title: Strategic Alignment
+        items:
+          - title: Connect mission, metrics, and execution across all levels
+          - title: Align strategy-discovery-delivery-operations as one system
+          - title: Reduce decision latency from weeks to days
+          - title: See which work contributes to Current Value and Ability to Innovate
+      - box:
+        title: Flow & Throughput
+        items:
+          - title: Shift from project chaos to product-based flow
+          - title: Reduce WIP, eliminate bottlenecks, accelerate value delivery
+          - title: Clear metrics that inform rather than confuse
+          - title: Recognition for customer-facing and internal platform work
+      - box:
+        title: Practical Implementation
+        items:
+          - title: No framework dogma—tailored to your context
+          - title: Works for small teams and large enterprises
+          - title: Embedded coaching during real work, not classroom theory
+          - title: Outcome-driven agility, not ceremonies for ceremony's sake
   - title: World-Class Transformation Expertise
     content: Access to the industry's most experienced agile, lean, and DevOps transformation professionals.
     type: counters

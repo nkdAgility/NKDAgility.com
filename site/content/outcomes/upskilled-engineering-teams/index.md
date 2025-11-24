@@ -122,6 +122,35 @@ sections:
           - title: Build a reputation for engineering excellence
           - title: Lead a team that gets noticed inside - and outside - the company
           - title: Attract and retain top developers who want to grow
+  - type: none
+    backgroundColor: light-accent-alt
+    title: What Engineering Excellence Delivers
+    content: |
+      Skills don't transform teams—applied capability does. We embed modern engineering practices into your team's daily flow so learning becomes doing.
+  - type: boxesrow
+    title: From Capability Gaps to Engineering Confidence
+    boxes:
+      - box:
+        title: Modern Engineering Skills
+        items:
+          - title: CI/CD, Infrastructure as Code, Test Automation, TDD, Clean Architecture
+          - title: Learning by doing during real work—not classroom lectures
+          - title: DevOps, quality engineering, and architectural practices that matter
+          - title: Hands-on coaching that builds ownership, not dependency
+      - box:
+        title: Team Impact
+        items:
+          - title: Confidence to tackle complexity—no more flinching at scale
+          - title: Reduced firefighting through proactive systems
+          - title: Higher morale and retention when engineers grow
+          - title: Recognition for all engineering work—products, platforms, and shared services
+      - box:
+        title: Strategic Value
+        items:
+          - title: Capability building vs. endless hiring
+          - title: Reduced dependency on external contractors
+          - title: Succession planning and knowledge distribution
+          - title: Engineering as competitive advantage—attracting and retaining top talent
   - title: Results from the Ground Up
     type: casestudy
     list:

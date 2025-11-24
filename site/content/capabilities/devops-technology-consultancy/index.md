@@ -49,6 +49,33 @@ sections:
       **We don't start with tools. We start with measurable business outcomes.**
 
       We design operating models that align strategy, discovery, delivery, and operations—then we architect, automate, and enable.
+  - type: boxesrow
+    backgroundColor: light-accent-alt
+    title: What This Means for Your Organisation
+    content: |
+      Industry research (DORA) shows elite engineering organisations deploy 208× more frequently than low performers. Even closing part of that gap means capturing competitive advantage measured in weeks, not quarters.
+    boxes:
+      - box:
+        title: Economic Visibility
+        items:
+          - title: See where engineering investment creates value—and where it creates waste
+          - title: Connect toolchain costs and infrastructure spend directly to delivery outcomes
+          - title: Understand which systems accelerate Time-to-Market and which constrain Ability to Innovate
+          - title: Know what's working before committing significant resources
+      - box:
+        title: Team Confidence
+        items:
+          - title: Predictable delivery systems teams actually own—reducing firefighting and escalations
+          - title: Proactive monitoring, automated testing, and infrastructure as code
+          - title: Clear metrics that inform decisions rather than confuse them
+          - title: Recognition for customer-facing products, internal platforms, and shared services
+      - box:
+        title: Designed for Scale
+        items:
+          - title: Small teams get lightweight guidance without enterprise overhead
+          - title: Large teams get enterprise-ready systems without unnecessary bureaucracy
+          - title: Work within existing systems and ceremonies—no disruption
+          - title: Transform by improving how you deliver, not by stopping to restructure
   - type: quote
     backgroundColor: primary
     quote: |
@@ -166,6 +193,33 @@ sections:
       - Security and compliance automation
       - Flow metrics dashboard implementation
       - Embedded mentoring for DevOps and engineering teams
+  - type: list
+    backgroundColor: light-accent-alt
+    title: How We Work With You
+    content: |
+      Our engagement model is designed for speed, flexibility, and results—not hourly billing or scope negotiations.
+    listType: list
+    list:
+      - title: Week 1 - Discovery & Situational Appraisal
+        icon: fa-magnifying-glass
+        content: |
+          We assess your current DevOps maturity, toolchain architecture, delivery flow, and business objectives. Not selling—just listening and understanding your context.
+      - title: Weeks 2–4 - Evidence-Based Direction
+        icon: fa-chart-line
+        content: |
+          We establish baseline metrics (cycle time, deployment frequency, change failure rate), identify highest-value improvements, and co-create a pragmatic roadmap aligned to your strategic outcomes.
+      - title: Ongoing - Embedded Improvement
+        icon: fa-people-group
+        content: |
+          We work alongside your teams—designing pipelines, automating infrastructure, coaching engineers. No workshops in conference rooms while the backlog grows—real improvement in real work.
+      - title: Timeboxed Retainer Model
+        icon: fa-handshake
+        content: |
+          You retain a percentage of our capacity (not buying hours). No fixed deliverables—we co-create outcomes. No change orders—we adapt as context evolves. Satisfaction guaranteed—full refund if we don't deliver value.
+      - title: Scales From Small to Large
+        icon: fa-arrows-left-right-to-line
+        content: |
+          10-person startup or 500-engineer organisation—we tailor our approach. Lightweight for small teams, enterprise-ready for large teams, no unnecessary overhead for anyone.
   - title: Why NKD Agility?
     type: list
     listType: list

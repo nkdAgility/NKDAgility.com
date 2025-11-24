@@ -114,6 +114,33 @@ sections:
           - title: Drive alignment across tech, product, and business
           - title: Represent your org as a center of engineering excellence
           - title: Represent your org as a center of engineering excellence
+  - type: boxesrow
+    backgroundColor: light-accent-alt
+    title: What Predictable Delivery Enables
+    content: |
+      Industry research shows elite teams have lead times of less than one hour from commit to production. Even closing half that gap changes your strategic options fundamentally.
+    boxes:
+      - box:
+        title: Speed & Quality
+        items:
+          - title: Shorter cycle times—ideas become features in days, not months
+          - title: 7× lower change failure rates (DORA elite performers)
+          - title: Fewer production incidents, lower support costs
+          - title: Higher customer trust through reliable delivery
+      - box:
+        title: Team Confidence
+        items:
+          - title: Flow-based systems that reduce WIP and eliminate bottlenecks
+          - title: Automated testing and progressive delivery remove fear from shipping
+          - title: Clear metrics—cycle time, throughput, deployment frequency
+          - title: Recognition for platforms and developer experience tools
+      - box:
+        title: Strategic Impact
+        items:
+          - title: Commit to release dates with evidence, not optimism
+          - title: Credibility with senior stakeholders through predictable delivery
+          - title: Fewer escalations when systems work proactively
+          - title: Engineering capability as competitive advantage
   - title: Real Impact from Real Engagements
     type: casestudy
     list:

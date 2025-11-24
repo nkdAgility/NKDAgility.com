@@ -98,7 +98,34 @@ sections:
   - title: Engineering as Strategic Advantage
     type: content
     content: |
-      When engineering delivers predictably, your organization can plan, invest, and compete more effectively.
+      When engineering delivers predictably, your organisation can plan, invest, and compete more effectively.
+  - type: boxesrow
+    backgroundColor: light-accent-alt
+    title: What Better Economic Returns Look Like
+    content: |
+      Industry data shows elite engineering organisations deploy 208× more frequently and recover from incidents 2,604× faster than low performers.
+    boxes:
+      - box:
+        title: Faster Time-to-Value
+        items:
+          - title: Capture revenue weeks or months earlier
+          - title: Elite performers have 7× lower change failure rates
+          - title: Fewer production incidents, lower support costs
+          - title: Higher customer retention and trust
+      - box:
+        title: Reduced Waste
+        items:
+          - title: Reclaim time lost to rework, waiting, and context switching
+          - title: Clear flow metrics show cycle time trends and delivery predictability
+          - title: Engineering capacity directed at highest-value work
+          - title: Recognition for customer-facing products and internal platforms
+      - box:
+        title: Leadership Credibility
+        items:
+          - title: Board presentations backed by evidence, not gut feelings
+          - title: Justify engineering investments with data
+          - title: Demonstrate technology as strategic function, not cost centre
+          - title: Visibility into Current Value delivered and Ability to Innovate preserved
   - type: outcomeboxes
     title: Better economic returns enable
     boxes:
