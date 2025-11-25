@@ -29,7 +29,7 @@
                 <div class="row p-2">
                   <hr />
                   <div class="col-12">
-                    <h6>Other Engineering Excellence & Technical Leadership posts</h6>
+                    <h6>Recent engineering excellence insights</h6>
                   </div>
                   {{ range first 4 (after 1 (where .Site.RegularPages.ByWeight "Params.ResourceType" "blog")) }}
                     <div class="col-md-12 d-flex align-items-center">
@@ -56,55 +56,65 @@
   <section class="container my-5">
     {{- partial "components/trustpilot/scrumorg-trustpilot-carousel.html" . }}
   </section>
-  <section class="container my-5">
-    {{- partial "headline.html" . }}
-  </section>
 {{- end }}
 {{- define "main" }}
   <section class="container my-5">
-    <h2>Our Proven Track Record</h2>
-    <p>Over the years, we have successfully served hundreds of clients across the globe.​</p>
+    <h2>What you gain</h2>
+    <p>You experience improved conditions across delivery, quality, and economic visibility. Teams deliver with greater predictability. Risk reduces. Innovation becomes sustainable.</p>
+    {{- partial "cards-section.html" (dict "context" . "SectionName" "outcomes") . }}
+  </section>
+  <section class="container my-5">
+    <h2>How we work with you</h2>
+    <p>Our engagement model removes transactional friction. You retain strategic capacity through timeboxed partnerships—no hourly billing, no change orders, no scope debates. Full refund if you're not satisfied. You choose advisory, embedded, or fractional executive involvement at the level that fits your context.</p>
+    <div class="row">
+      <div class="col-md-4">
+        <h3 class="text-modern text-center nkda-heading-primary"><i class="fa-solid fa-shield-halved"></i></h3>
+        <p class="text-modern text-center nkda-heading-secondary"><strong>Risk reversal</strong><br />Full refund guarantee</p>
+      </div>
+      <div class="col-md-4">
+        <h3 class="text-modern text-center nkda-heading-primary"><i class="fa-solid fa-clock"></i></h3>
+        <p class="text-modern text-center nkda-heading-secondary"><strong>Timeboxed retainers</strong><br />Capacity, not hours</p>
+      </div>
+      <div class="col-md-4">
+        <h3 class="text-modern text-center nkda-heading-primary"><i class="fa-solid fa-handshake"></i></h3>
+        <p class="text-modern text-center nkda-heading-secondary"><strong>High trust</strong><br />Transparent collaboration</p>
+      </div>
+    </div>
+  </section>
+  <section class="container my-5">
+    <h2>What we provide</h2>
+    <p>We deliver assessments, operating model design, coaching, and engineering excellence enablement. Our capabilities span strategy alignment, delivery system optimisation, and technical leadership development.</p>
+    {{- partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
+  </section>
+  <section class="container my-5">
+    <h2>Experience and reach</h2>
+    <p>We've partnered with organisations across finance, healthcare, technology, government, and more. Our work spans multiple continents and regulatory contexts.</p>
     <div class="row">
       <div class="col-md-2">
         <h2 class="text-modern text-center nkda-heading-primary">{{- sub (now.Year) 2013 }}</h2>
-        <p class="text-modern text-center nkda-heading-secondary">Years in Business​</p>
+        <p class="text-modern text-center nkda-heading-secondary">Years in business</p>
       </div>
       <div class="col-md-2">
         <h2 class="text-modern text-center nkda-heading-primary">{{- sub (now.Year) 2008 }}</h2>
-        <p class="text-modern text-center nkda-heading-secondary">Years as Microsoft MVP​</p>
+        <p class="text-modern text-center nkda-heading-secondary">Years as Microsoft MVP</p>
       </div>
       <div class="col-md-2">
         <h2 class="text-modern text-center nkda-heading-primary">{{- sub (now.Year) 2010 }}</h2>
-        <p class="text-modern text-center nkda-heading-secondary">Years as a Scrum.org trainer</p>
+        <p class="text-modern text-center nkda-heading-secondary">Years as Scrum.org trainer</p>
       </div>
       <div class="col-md-2">
         <h2 class="text-modern text-center nkda-heading-primary">13</h2>
-        <p class="text-modern text-center nkda-heading-secondary">Countries Covered​</p>
+        <p class="text-modern text-center nkda-heading-secondary">Countries served</p>
       </div>
       <div class="col-md-2">
         <h2 class="text-modern text-center nkda-heading-primary">200+</h2>
-        <p class="text-modern text-center nkda-heading-secondary">Clients Served​</p>
+        <p class="text-modern text-center nkda-heading-secondary">Organisations supported</p>
       </div>
       <div class="col-md-2">
         <h2 class="text-modern text-center nkda-heading-primary">2,600+</h2>
-        <p class="text-modern text-center nkda-heading-secondary">People trained</p>
+        <p class="text-modern text-center nkda-heading-secondary">Professionals trained</p>
       </div>
     </div>
   </section>
   {{- partial "our-customers.html" . }}
-  {{- partial "connect.html" . }}
-  <section class="container my-5">
-    <h2 title="Outcomes - What you get?">What you get?</h2>
-    <p>
-      We help organizations improve the performance of their digital products through measurable business outcomes. Our clients see faster delivery cycles, higher product quality, and better economic returns by focusing on evidence-based decisions and strong engineering leadership. Discover how our operating model approach reduces delivery friction, strengthens decision-making, and provides organizations with a more resilient, adaptable, and effective
-      system of work.
-    </p>
-    {{- partial "cards-section.html" (dict "context" . "SectionName" "outcomes") . }}
-  </section>
-  <section class="container my-5">
-    <h2 title="Capabilities - What we do?">What we do?</h2>
-    <p>We align strategy, discovery, delivery, and operations to help teams move faster with greater clarity and accountability. Our comprehensive capabilities are designed to build empowered teams, create clearer value flow, and ensure technology becomes a strategic advantage rather than a constraint.</p>
-    {{- partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
-  </section>
-  {{- partial "homepage-people.html" . }}
 {{- end }}
