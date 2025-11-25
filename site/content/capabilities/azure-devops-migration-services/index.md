@@ -32,7 +32,7 @@ sections:
         Services include migration assessment, architecture design, data transfer execution, pipeline redesign, and team enablement. Complete history preservation with minimal downtime.
   - type: outcomehero
     cta:
-      content: Modernise your delivery system. Enable your engineers. Lead with confidence. **Let's Talk.**
+      content: Migration services for Azure DevOps modernisation. **Book a migration consultation.**
       button:
         text: Book a Strategy Call
         url: /company/book-online
@@ -98,27 +98,27 @@ sections:
         content: "**Microsoft MVP Experience**"
   - type: list
     listType: list
-    title: Built for CTOs Who Want Strategic Advantage
-    content: "This service isn’t just about migration—it’s about enabling you to:"
+    title: Migration Services Suitable For
+    content: "Services designed for organisations requiring:"
     list:
-      - title: "Do your real job:"
+      - title: "Strategic Clarity:"
         icon: fa-brain
         content: |
-          Craft a compelling roadmap. Build strategic partnerships. Lead innovation.
+          Migration planning aligned with technology roadmap and business objectives.
 
-          We’ll handle the infrastructure shift so you can focus on impact.
-      - title: "Deliver business outcomes:"
+          Architecture design supporting strategic direction.
+      - title: "Delivery System Modernisation:"
         icon: fa-chart-line
         content: |
-          Our migrations don’t disrupt delivery. They increase it.
+          CI/CD pipelines designed for reliability and speed.
 
-          We build CI/CD pipelines that shorten cycle times and improve reliability.
-      - title: "Build technical leadership from within:"
+          DevOps practices integrated throughout migration.
+      - title: "Internal Capability Building:"
         icon: fa-rocket
         content: |
-          Stop outsourcing transformation.
+          Team coaching and enablement supporting sustained capability post-migration.
 
-          Start leading it, with coaching and capability uplift tailored to your org.
+          Knowledge transfer embedded throughout engagement.
   - type: list
     title: Migration Scope
     listType: list
@@ -165,47 +165,63 @@ sections:
       I would recommend Martin to anyone, in fact I would insist they use him as he is the best DevOps consultant i've worked with."
       - **Paul Martin | IT Director**
   - type: list
-    title: Who We Work With
+    title: Service Suitable For
     listType: list
-    list:
-      - title: CTOs, VPs of Engineering & Heads of DevOps
-        icon: fa-user-tie
-      - title: Enterprise teams modernising from legacy environments
-        icon: fa-building
-      - title: Organisations building engineering-led cultures
-        icon: fa-screwdriver-wrench
-  - type: none
-    backgroundColor: light-accent-alt
-    title: What Success Looks Like
     content: |
-      - Git adoption across your dev teams
-      - High-trust CI/CD pipelines that deploy with confidence
-      - Engineers who understand and own their workflows
-      - A CTO recognised for strategic leadership, not firefighting
+      Migration services designed for:
+    list:
+      - title: Organisations modernising from legacy TFS or Azure DevOps Server
+        icon: fa-building
+      - title: Teams requiring Azure DevOps Services migration
+        icon: fa-cloud
+      - title: Engineering organisations building DevOps capability
+        icon: fa-screwdriver-wrench
+  - type: list
+    title: Migration Deliverables
+    listType: list
+    content: |
+      Migration services provide:
+    list:
+      - title: Complete Git Migration
+        icon: fa-code-branch
+        content: |
+          Full history preservation from TFVC to Git repositories.
+      - title: Modern CI/CD Pipelines
+        icon: fa-arrows-rotate
+        content: |
+          YAML pipeline design and automation configuration.
+      - title: Team Enablement
+        icon: fa-graduation-cap
+        content: |
+          Training materials and workflow coaching.
+      - title: Post-Migration Support
+        icon: fa-life-ring
+        content: |
+          Validation, optimisation, and ongoing guidance.
   - type: list
     title: Why NKD Agility?
     listType: list
     list:
-      - title: Microsoft MVP-Level Expertise
+      - title: Microsoft MVP Expertise
         icon: fa-award
         content: |
-          Martin Hinshelwood leads our engagements with rare hands-on expertise in Azure DevOps and engineering transformation.
-      - title: Engineering-First Approach
+          Led by Martin Hinshelwood, Microsoft MVP with specialisation in Azure DevOps migration.
+      - title: Engineering-Focused Approach
         icon: fa-gear
         content: |
-          We don’t just migrate tools—we build cultures of engineering excellence.
-      - title: Seamless, Zero-Disruption Transitions
+          Migration services integrated with engineering practice development and DevOps capability building.
+      - title: Proven Migration Methodology
         icon: fa-bolt
         content: |
-          Your teams stay productive. Your pipelines improve, fast.
-      - title: Capability That Lasts
+          Structured approach minimising downtime whilst maintaining delivery continuity.
+      - title: Embedded Capability Building
         icon: fa-graduation-cap
         content: |
-          Our embedded coaching builds real, long-term capability in your organisation.
+          Coaching and enablement integrated throughout migration engagement.
   - type: outcomehero
     backgroundColor: primary
     cta:
-      content: Legacy systems don’t need to hold you back. **Let’s talk.**
+      content: Azure DevOps migration services. **Book a consultation.**
       button:
         text: Book a Migration Call
         url: /company/book-online

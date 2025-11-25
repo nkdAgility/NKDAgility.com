@@ -32,25 +32,27 @@ sections:
         Consulting services focused on organisational agility, delivery system design, and evidence-based management. Services address alignment, flow, and the connection between strategy and execution.
   - type: outcomehero
     cta:
-      content: We have helped leaders like you. **Let's Talk**
+      content: Business agility consulting services. **Book a consultation.**
       button:
         text: Connect With Us
         url: /company/book-online
     boxes: []
-  - type: none
-    title: Why Business Agility Stalls in most Orgs
-    content: |
-      Most agile transformations focus on tools, jargon, and role changes.
-      But they ignore the real constraints:
+  - type: textNlist
+    title: Why Organisations Engage Business Agility Consulting
+    sideContent: |
+      Organisations typically require business agility consulting when agile framework adoption has not delivered expected improvements in delivery speed, alignment, or business outcomes.
 
-      -	Misaligned strategy and delivery
-      -	Dysfunctional team structures
-      -	A lack of measurable outcomes
-
-      You don’t need more frameworks.
-
-      You need **a partner who understands product, technology, and systems thinking.
-      That’s us**.
+      Services address the systemic constraints affecting delivery: strategy-execution alignment, organisational structure, flow design, and evidence-based decision-making.
+    list:
+      - icon: fa-diagram-project
+        content: |
+          **Strategy-delivery misalignment** – Strategic intent not translating to delivery reality
+      - icon: fa-users
+        content: |
+          **Organisational structure constraints** – Team structures impeding flow and collaboration
+      - icon: fa-chart-line
+        content: |
+          **Lack of measurable outcomes** – Activity measurement without business value visibility
   - type: quote
     backgroundColor: primary
     quote: |
@@ -105,42 +107,12 @@ sections:
         content: |
           Business, Product, and Technology finally pull in the same direction. We make agility everyone’s business.
   - type: none
-    backgroundColor: primary
-    title: From Frustration to Forward Momentum
-    content: |
-      There is a big difference in how you feel before and after working with us.
-  - type: symmetry
-    title: What you get with NKD Agility
-    boxes:
-      - box:
-        title: Before
-        items:
-          - title: Frustrated by misalignment and inertia
-            icon: fa-face-persevering
-          - title: Anxious about slow decisions and poor delivery
-            icon: fa-face-diagonal-mouth
-          - title: Overwhelmed by agile jargon and consultant-speak
-            icon: fa-face-nose-steam
-          - title: Tired of transformation theatre
-            icon: fa-face-tired
-      - box:
-        title: After
-        items:
-          - title: Aligned strategy, empowered teams, and visible impact
-            icon: fa-square-check
-          - title: Clear priorities, faster feedback loops, better outcomes
-            icon: fa-square-check
-          - title: Practical coaching, simple language, real-world results
-            icon: fa-square-check
-          - title: A true culture of delivery, learning, and continuous improvement
-            icon: fa-square-check
-  - type: none
     backgroundColor: light-accent-alt
-    title: Whats Included in Our Consulting Programs
+    title: Consulting Service Scope
     content: |
-      - Business Agility Assessments (team-level & enterprise-wide)
-      - Evidence-Based Management setup
-      - Flow and throughput coaching (Kanban, Product Management, Lean UX)
+      - Business agility assessments (team-level and enterprise-wide)
+      - Evidence-based management setup
+      - Flow and throughput coaching (Kanban, product management, Lean UX)
       - Product Operating Model design
       - Org design, role clarity, and decision flow mapping
       - Agile metrics dashboards and OKR integration
@@ -210,9 +182,9 @@ sections:
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: We've helped teams like yours. Lets talk.
+      content: Business agility consulting services. **Book a consultation.**
       button:
-        text: Schedule a call
+        text: Schedule a Call
         url: /company/book-online
 card:
   button:
