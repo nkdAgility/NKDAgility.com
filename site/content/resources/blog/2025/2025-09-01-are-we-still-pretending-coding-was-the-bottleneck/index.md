@@ -45,13 +45,13 @@ Watermarks:
   tldr: 2025-07-30T23:12:35Z
 ResourceId: IO5EHjiHhTf
 ResourceType: blog
-
 ---
+
 AI has changed a lot of things in software development. But if you're shocked that it can write code, you’ve probably misunderstood where the real constraints are.
 
 Let’s be clear: **coding was never the bottleneck**.
 
-If you're still organising your system of work like it is—managing capacity by developer headcount, measuring velocity in story points, handing off tickets from BA to Dev to QA—then AI isn’t going to save you. It’s going to expose you.
+If you're still organising your system of work like it is, managing capacity by developer headcount, measuring velocity in story points, handing off tickets from BA to Dev to QA, then AI isn’t going to save you. It’s going to expose you.
 
 ## The First Way of DevOps Was Always the Warning
 
@@ -96,7 +96,7 @@ The problem isn’t the LLM. The problem is the system it landed in.
 
 If you still have a separate QA team running tests after “dev is done,” you are perpetuating one of the core dysfunctions that made DevOps necessary.
 
-Quality is not something you inspect in later. It’s something you **build in** from the start—with design, pairing, automation, and feedback.
+Quality is not something you inspect in later. It’s something you **build in** from the start, with design, pairing, automation, and feedback.
 
 AI won’t fix this. But it will make it more obvious.
 
@@ -116,6 +116,6 @@ AI isn’t the enemy. Your culture is. Your delivery model is. Your lack of flow
 
 If your teams can’t ship working software reliably today, AI isn’t going to help.
 
-But if you’ve invested in autonomy, flow, and observability—if you’ve taken the First Way of DevOps seriously—then AI is a force multiplier.
+But if you’ve invested in autonomy, flow, and observability, if you’ve taken the First Way of DevOps seriously, then AI is a force multiplier.
 
 The bottleneck was never the code. It was the way you worked.

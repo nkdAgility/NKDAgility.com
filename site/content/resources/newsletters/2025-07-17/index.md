@@ -48,15 +48,15 @@ Watermarks:
 resourceTypes: newsletter
 ResourceId: AORP41zLNTi
 ResourceType: newsletters
-
 ---
-Modern software organisations don’t fail because of weak teams; they fail because leadership tolerates bad system design — in code, in team structure, and in delivery practice.
+
+Modern software organisations don’t fail because of weak teams; they fail because leadership tolerates bad system design , in code, in team structure, and in delivery practice.
 
 This issue calls on CTOs and development managers to **step up as technical leaders** who shape the system, not just manage people.
 
 ### **1. End Branch Chaos: Kill Topic Branches**
 
-Topic branches feel safe — they are not.  
+Topic branches feel safe , they are not.  
 They **delay integration, block feedback, and increase risk**.
 
 Leadership must enforce:
@@ -103,9 +103,9 @@ Technical leadership is **not optional decoration**. It is the deliberate shapin
 - Teams that maximise flow.
 - Governance that reinforces adaptability.
 
-If you hold the title of CTO or development manager, you are accountable for systemic delivery health — not just delivery reports.
+If you hold the title of CTO or development manager, you are accountable for systemic delivery health , not just delivery reports.
 
-Want an external assessment or alignment session? [Schedule time with us]({{< ref "/capabilities/business-agility-consulting" >}}) and tackle the **technical debt at the leadership level** — because that’s where real transformation begins.
+Want an external assessment or alignment session? [Schedule time with us]({{< ref "/capabilities/business-agility-consulting" >}}) and tackle the **technical debt at the leadership level** , because that’s where real transformation begins.
 
 I look forward to continuing our work together. Don't hesitate to reach out if you have any questions or concerns.
 

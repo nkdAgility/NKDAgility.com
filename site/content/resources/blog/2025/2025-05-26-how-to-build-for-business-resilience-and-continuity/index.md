@@ -48,9 +48,9 @@ Watermarks:
   tldr: 2025-08-07T12:29:27Z
 ResourceId: VThLnxVapgJ
 ResourceType: blog
-
 ---
-Business resilience is not an accident. It is the deliberate outcome of intelligent systems design, pragmatic decision-making, and organisational discipline. If you want resilience, you must build for it—**upfront, consistently, and aggressively**.
+
+Business resilience is not an accident. It is the deliberate outcome of intelligent systems design, pragmatic decision-making, and organisational discipline. If you want resilience, you must build for it, **upfront, consistently, and aggressively**.
 
 Here is a pragmatic checklist for engineering true business resilience and continuity:
 
@@ -84,7 +84,7 @@ The service was so tightly coupled into critical user flows that its failure cri
 
 In response, the teams created "live site incident" repair work and moved the Profile Service behind a **circuit breaker**. If the Profile Service went down again, it would degrade gracefully, not drag down the entire experience.
 
-As an anecdotal aside, a few months later another unrelated service failed, and—unsurprisingly—it also took down large parts of the system. That was the final straw. The teams went on a full-scale mission to introduce the **circuit breaker pattern** across **every service**, making sure no single point of failure could collapse the platform again.
+As an anecdotal aside, a few months later another unrelated service failed, and, unsurprisingly, it also took down large parts of the system. That was the final straw. The teams went on a full-scale mission to introduce the **circuit breaker pattern** across **every service**, making sure no single point of failure could collapse the platform again.
 
 Decoupling and graceful degradation are not academic exercises. They are mandatory if you value continuity.
 
@@ -122,7 +122,7 @@ If you are not recovering faster than your competitors, you are losing.
 
 Business resilience is **DevOps in action**: the union of people, process, and products to enable continuous delivery of value to end users. Resilient systems emerge from the daily discipline of CI/CD, Infrastructure as Code (IaC), and monitoring as first-class citizens.
 
-It is **Site Reliability Engineering (SRE)** lived, not aspirational. SRE teaches us that availability, latency, performance, efficiency, [change management]({{< ref "/tags/change-management" >}}), monitoring, and emergency response are all product features—just as important as the user-facing ones.
+It is **Site Reliability Engineering (SRE)** lived, not aspirational. SRE teaches us that availability, latency, performance, efficiency, [change management]({{< ref "/tags/change-management" >}}), monitoring, and emergency response are all product features, just as important as the user-facing ones.
 
 It is **Evidence-Based Management (EBM)** made real. Metrics like Mean Time to Recovery (MTTR), [Deployment Frequency]({{< ref "/tags/deployment-frequency" >}}), and [Customer Satisfaction]({{< ref "/tags/customer-satisfaction" >}}) are not vanity measures; they are survival metrics. They inform whether your investment in resilience is paying off or just theatre.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Empowering Leadership: Driving Cultural Change for Agile Success'
+title: "Empowering Leadership: Driving Cultural Change for Agile Success"
 short_title: Empowering Leadership for Agile Culture Change
 description: Explores how effective leadership drives cultural change, supports agile practices, and fosters collaboration through vision, automation, learning, and breaking down silos.
 tldr: Leadership is crucial for enabling agile success by setting a clear vision, investing in automation, supporting architectural improvements, fostering continuous learning, and breaking down silos. These actions help teams align with organisational goals, deliver more reliably, and adapt to change. Development managers should prioritise these areas to create a culture that supports frequent, high-quality delivery and ongoing improvement.
@@ -61,13 +61,13 @@ resourceTypes:
 isShort: false
 ResourceId: XyprV8F_es4
 ResourceType: videos
-
 ---
+
 In my journey through various organisations, I've come to realise that [leadership]({{< ref "/categories/leadership" >}}) plays a pivotal role in driving cultural and [organisational change]({{< ref "/tags/organisational-change" >}}). This change is essential for supporting frequent and reliable deployments across multiple teams. Today, I want to share some insights on how leaders can effectively facilitate this transformation, drawing from my experiences and observations.
 
 ### Setting a Clear Vision and Goals
 
-One of the first steps leaders should take is to establish a clear vision and set achievable goals. In Dan Pink's book *Drive*, he emphasises the importance of autonomy, mastery, and purpose. Among these, purpose stands out as a crucial element. When leaders articulate a clear vision, they provide their teams with a sense of purpose. This connection allows team members to see how their daily work contributes to the organisation's overarching objectives.
+One of the first steps leaders should take is to establish a clear vision and set achievable goals. In Dan Pink's book _Drive_, he emphasises the importance of autonomy, mastery, and purpose. Among these, purpose stands out as a crucial element. When leaders articulate a clear vision, they provide their teams with a sense of purpose. This connection allows team members to see how their daily work contributes to the organisation's overarching objectives.
 
 - **Connect the Dots**: Help your team understand how their roles align with the organisation's goals.
 - **Foster Purpose**: Encourage discussions around the impact of their work, reinforcing the significance of their contributions.
@@ -88,7 +88,7 @@ Many organisations have legacy applications that may not be architected for cont
 
 ### [Continuous Learning]({{< ref "/tags/continuous-learning" >}}) and Improvement
 
-As leaders, we must foster a culture of continuous learning and improvement—not just for ourselves but for our engineering teams as well. Are your engineers under constant pressure to deliver, or do they have the bandwidth to discuss necessary changes and improvements?
+As leaders, we must foster a culture of continuous learning and improvement, not just for ourselves but for our engineering teams as well. Are your engineers under constant pressure to deliver, or do they have the bandwidth to discuss necessary changes and improvements?
 
 - **Prioritise Quality**: Short-term wins at the expense of quality can lead to long-term losses. Encourage your teams to focus on sustainable practices.
 - **Create Space for Discussion**: Allow time for engineers to reflect on their work and discuss necessary changes without the looming pressure of immediate deadlines.

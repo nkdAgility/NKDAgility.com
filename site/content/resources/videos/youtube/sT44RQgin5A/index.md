@@ -1,8 +1,8 @@
 ---
-title: 'Evidence-Based Management: The Four Key Value Areas in Scrum'
-short_title: 'Evidence-Based Management: Four Value Areas'
-description: Explains Scrum’s four key value areas—current value, unrealised value, ability to innovate, and time to market—for data-driven product and organisational improvement.
-tldr: Evidence-based management in Scrum focuses on four key value areas—current value, unrealized value, ability to innovate, and time to market—to guide data-driven decisions and balance innovation with stability. Tracking metrics in these areas helps teams improve customer satisfaction, identify growth opportunities, manage technical debt, and speed up delivery. Development managers should start measuring these areas to align teams with evidence-based management and drive sustainable product success.
+title: "Evidence-Based Management: The Four Key Value Areas in Scrum"
+short_title: "Evidence-Based Management: Four Value Areas"
+description: Explains Scrum’s four key value areas, current value, unrealised value, ability to innovate, and time to market, for data-driven product and organisational improvement.
+tldr: Evidence-based management in Scrum focuses on four key value areas, current value, unrealized value, ability to innovate, and time to market, to guide data-driven decisions and balance innovation with stability. Tracking metrics in these areas helps teams improve customer satisfaction, identify growth opportunities, manage technical debt, and speed up delivery. Development managers should start measuring these areas to align teams with evidence-based management and drive sustainable product success.
 date: 2024-09-13T07:00:34Z
 lastmod: 2024-09-13T07:00:34Z
 weight: 345
@@ -63,8 +63,8 @@ duration: 1652
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 When we talk about _evidence-based management_ in [Scrum]({{< ref "/categories/scrum" >}}), we're focusing on making decisions grounded in data rather than gut feeling. A core element of this approach involves evaluating our work through four **key value areas**. These areas ensure a holistic view, covering different aspects of the system instead of focusing narrowly on specific metrics. This allows for a more strategic understanding and avoids suboptimal optimizations.
 
 ## **What Are the Four Key Value Areas?**
@@ -73,11 +73,11 @@ The **four key value areas** outlined in Scrum's evidence-based management guide
 
 1. **Market Value** - Focused on the external perception and value of our product in the market.
 
-3. **Organizational Capability** - Concentrated on internal capabilities and efficiency.
+2. **Organizational Capability** - Concentrated on internal capabilities and efficiency.
 
 Each of these categories contains two key value areas, offering a comprehensive view of both product and organizational performance.
 
-* * *
+---
 
 ## **Market Value: Understanding Customer Needs and Market Potential**
 
@@ -111,7 +111,7 @@ Unrealized value represents the potential opportunities that haven't been captur
 
 🧠 _Example_: Think of a TV series. Typically, a brand-new show can capture a larger audience than an additional season of an existing one. The same applies to products: new features can attract more users than merely adding to existing ones.
 
-* * *
+---
 
 ## **Organizational Capability: Building a Strong Foundation for Success**
 
@@ -145,7 +145,7 @@ Time to Market is about how quickly you can deliver changes or new features into
 
 🚀 _Example_: Facebook is known for its impressive 12.5-minute cycle from developer code commit to production, which includes all testing. This speed allows them to adapt quickly to user needs.
 
-* * *
+---
 
 ## **Balancing Innovation and Stability: Why Both Matter**
 
@@ -161,7 +161,7 @@ Achieving the right balance between innovation and stability is crucial for long
 
 🛠 _Personal Experience_: In maintaining the Azure [DevOps]({{< ref "/categories/devops" >}}) Migration Tools, I implemented a fully automated CI/CD pipeline. The build time was 12 minutes, which initially slowed down my process. Shortening this feedback loop allowed me to iterate faster and deliver features more efficiently.
 
-* * *
+---
 
 ## **Why Evidence-Based Management Matters**
 
@@ -175,7 +175,7 @@ Implementing evidence-based management helps organizations:
 
 In an environment where both internal capability and [market adaptability]({{< ref "/tags/market-adaptability" >}}) are vital, the four key value areas of evidence-based management provide a framework for sustainable success.
 
-* * *
+---
 
 ## **Wrapping Up: The Four Key Value Areas in Action**
 
@@ -183,16 +183,16 @@ To summarize, the four key value areas of evidence-based management include:
 
 1. **Current Value**: Focus on existing product performance and user satisfaction.
 
-3. **Unrealized Value**: Explore untapped opportunities for growth and market expansion.
+2. **Unrealized Value**: Explore untapped opportunities for growth and market expansion.
 
-5. **Ability to Innovate**: Manage technical debt and prioritize time for new development.
+3. **Ability to Innovate**: Manage technical debt and prioritize time for new development.
 
-7. **Time to Market**: Speed up delivery cycles and adapt quickly to changes.
+4. **Time to Market**: Speed up delivery cycles and adapt quickly to changes.
 
 By measuring and optimizing these areas, teams can strike a balance between **innovation and stability**, ultimately ensuring a robust and sustainable approach to product development.
 
 👉 _Take Action Today_: Start tracking metrics in each of these areas to ensure that your team is aligned with evidence-based management principles. Embrace data-driven decision-making, and you’ll be well on your way to creating products that truly resonate with your customers.
 
-* * *
+---
 
-By adopting this evidence-based approach, we can transform how we deliver value, both internally and to our customers. It’s not just about what we build—it's about how we measure, adapt, and grow.
+By adopting this evidence-based approach, we can transform how we deliver value, both internally and to our customers. It’s not just about what we build, it's about how we measure, adapt, and grow.

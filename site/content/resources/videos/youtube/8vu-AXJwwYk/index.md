@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking Organisational Potential: The Transformative Power of a Great Consultant'
+title: "Unlocking Organisational Potential: The Transformative Power of a Great Consultant"
 short_title: Unlocking Organisational Potential
 description: Explores how skilled consultants drive rapid, impactful organisational change by identifying core issues, bridging leadership gaps, and fostering agile transformation.
 tldr: A great consultant can quickly identify and address core organisational issues by providing an honest, external perspective and actionable recommendations, often leading to immediate improvements. Their value lies in bridging gaps between leadership and teams, catalysing cultural change, and helping organisations move beyond common challenges. If your teams are struggling with transformation or alignment, consider bringing in a consultant to accelerate progress and unlock your organisation’s potential.
@@ -45,9 +45,9 @@ duration: 554
 resourceTypes:
   - video
 isShort: false
-
 ---
-When I reflect on my experiences as a consultant, I often find myself pondering the profound impact a great consultant can have on an organisation. It’s a topic that resonates deeply with me, especially when I consider the distinction between consulting and [coaching]({{< ref "/tags/coaching" >}}). 
+
+When I reflect on my experiences as a consultant, I often find myself pondering the profound impact a great consultant can have on an organisation. It’s a topic that resonates deeply with me, especially when I consider the distinction between consulting and [coaching]({{< ref "/tags/coaching" >}}).
 
 **The Consultant's Role: A Unique Perspective**
 
@@ -55,7 +55,7 @@ A consultant is not just an agile consultant; they are a catalyst for change. Un
 
 - **Focused Expertise**: Consultants are brought in to tackle specific problems. They don’t linger unnecessarily, which can often be a sign of their value. If a company wants you around full-time, it might mean you’re not charging enough for your expertise.
 
-- **State of Agile Reports**: One of my go-to strategies is conducting a "state of agile" report. This involves interviewing a diverse range of employees to gauge the current agile practices within the organisation. The insights I gather often reveal a stark contrast between what [leadership]({{< ref "/categories/leadership" >}}) believes is happening and the reality on the ground. 
+- **State of Agile Reports**: One of my go-to strategies is conducting a "state of agile" report. This involves interviewing a diverse range of employees to gauge the current agile practices within the organisation. The insights I gather often reveal a stark contrast between what [leadership]({{< ref "/categories/leadership" >}}) believes is happening and the reality on the ground.
 
 - **Bridging the Gap**: It’s not uncommon to hear leadership touting their commitment to [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) and unit testing, while the teams on the ground express frustration over the lack of these practices. This disconnect highlights the need for open and transparent communication within the organisation.
 
@@ -65,7 +65,7 @@ When I step into an organisation, my goal is to identify the significant issues 
 
 - **Trial and Error**: I provide organisations with actionable suggestions to try out. These may have worked in other contexts, but I always emphasise that they might not be a perfect fit. The key is to experiment, learn, and adapt.
 
-- **Ownership of Problems**: It’s essential for the organisation’s leaders to take ownership of their challenges. If they rely too heavily on an external consultant, they may struggle to implement lasting change. 
+- **Ownership of Problems**: It’s essential for the organisation’s leaders to take ownership of their challenges. If they rely too heavily on an external consultant, they may struggle to implement lasting change.
 
 - **Brutal Honesty**: As a consultant, I have the luxury of being candid. I can deliver the hard truths about what’s broken within the organisation without fear of repercussions. This honesty can be a wake-up call for leadership, prompting them to take action.
 
@@ -81,7 +81,7 @@ One of the most significant advantages of consulting is the ability to implement
 
 Interestingly, I’ve found that many organisations believe they have unique problems. However, in my experience, these challenges are often universal. Here are some insights:
 
-- **Shared Struggles**: The issues organisations face—transitioning from traditional hierarchical structures to more decentralised, self-organising teams—are not unique. They are common across industries.
+- **Shared Struggles**: The issues organisations face, transitioning from traditional hierarchical structures to more decentralised, self-organising teams, are not unique. They are common across industries.
 
 - **Cultural Shifts**: Moving from a Tayloristic mindset to one that embraces agility and self-organisation requires significant cultural change. This shift is often fraught with challenges, but it’s essential for long-term success.
 
@@ -89,6 +89,6 @@ Interestingly, I’ve found that many organisations believe they have unique pro
 
 **Conclusion: The Consultant's Edge**
 
-In conclusion, the value of a great consultant lies in their ability to quickly identify and address core issues within an organisation. They bring a unique perspective that can catalyse change, helping organisations navigate the complexities of [agile transformation]({{< ref "/tags/agile-transformation" >}}). 
+In conclusion, the value of a great consultant lies in their ability to quickly identify and address core issues within an organisation. They bring a unique perspective that can catalyse change, helping organisations navigate the complexities of [agile transformation]({{< ref "/tags/agile-transformation" >}}).
 
 If you find yourself in a situation where you’re grappling with organisational challenges, consider the potential benefits of engaging a consultant. Their insights could be the key to unlocking your organisation’s true potential. Remember, the journey to agility is not just about adopting new practices; it’s about fostering a culture that embraces change and innovation.

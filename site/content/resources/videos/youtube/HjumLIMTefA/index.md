@@ -57,8 +57,8 @@ duration: 43
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 In the world of Agile training, there's one approach that stands out above the rest: immersive learning. It's not just about absorbing knowledge in a classroom setting; it's about creating a lasting impact that resonates far beyond the training session itself. When participants take what they’ve learned and apply it to their real-world challenges, that's where the magic happens. But what makes immersive learning so effective? Let’s dive into how this approach creates _real_ organizational change and why it should be at the core of any Agile learning journey.
 
 ## **What is Immersive Learning?**
@@ -79,9 +79,9 @@ One of the most significant impacts of immersive learning is how it promotes a c
 
 1. **Experiment with new ideas**: After the training, they return to their organization and try out the concepts they’ve learned.
 
-3. **Receive feedback**: They gather insights from their teams, stakeholders, and users about what worked and what didn’t.
+2. **Receive feedback**: They gather insights from their teams, stakeholders, and users about what worked and what didn’t.
 
-5. **Refine their approach**: Based on the feedback, they make adjustments and try again, refining their skills and approaches.
+3. **Refine their approach**: Based on the feedback, they make adjustments and try again, refining their skills and approaches.
 
 This cycle of **try** **➡️** **feedback** **➡️** **adjust** fosters an environment of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), a hallmark of Agile practices.
 
@@ -89,7 +89,7 @@ This cycle of **try** **➡️** **feedback** **➡️** **adjust** fosters an e
 
 I recently ran a [Scrum]({{< ref "/categories/scrum" >}}) training session for a team in a large financial services organization. One of the participants, a [Scrum Master]({{< ref "/tags/scrum-master" >}}), was particularly excited about trying out some new techniques for sprint planning that we covered during the session. She went back to her team and implemented these changes, but it didn’t go as smoothly as she had hoped.
 
-Instead of getting discouraged, she gathered feedback from her team, asking what they thought about the new approach and how they felt it could be improved. Armed with this feedback, she made slight adjustments for the next sprint, and by the third sprint, the team was performing at a much higher level. What made the difference? It wasn’t just the techniques—it was her willingness to continuously learn, adapt, and grow.
+Instead of getting discouraged, she gathered feedback from her team, asking what they thought about the new approach and how they felt it could be improved. Armed with this feedback, she made slight adjustments for the next sprint, and by the third sprint, the team was performing at a much higher level. What made the difference? It wasn’t just the techniques, it was her willingness to continuously learn, adapt, and grow.
 
 **Key takeaway**: Immersive learning isn’t about getting it right the first time. It’s about experimenting, learning from mistakes, and improving over time.
 
@@ -113,7 +113,7 @@ The ultimate goal of any Agile training is to create lasting, meaningful change 
 
 - **Cultural shift**: Over time, the feedback-driven, adaptive mindset spreads throughout the organization, leading to a broader cultural shift toward continuous improvement.
 
-This is the reason we go to training in the first place—not to simply acquire new knowledge but to **enact real change**.
+This is the reason we go to training in the first place, not to simply acquire new knowledge but to **enact real change**.
 
 ## **My Personal Experience with Immersive Learning**
 
@@ -121,7 +121,7 @@ As a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer, I’v
 
 There’s nothing more rewarding than hearing, "We tried this, and it worked!" But what’s even more powerful is when they follow up with, "It didn’t work as well as we hoped, but we adjusted and now it’s working even better."
 
-That’s the essence of Agile—learning from failure, making adjustments, and continuously improving. Immersive learning embodies this philosophy perfectly, helping participants not just learn _about_ Agile, but truly **live** Agile in their daily work.
+That’s the essence of Agile, learning from failure, making adjustments, and continuously improving. Immersive learning embodies this philosophy perfectly, helping participants not just learn _about_ Agile, but truly **live** Agile in their daily work.
 
 ## **How to Implement Immersive Learning in Your Organization** **🚀**
 

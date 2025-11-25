@@ -57,8 +57,8 @@ duration: 285
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ## Why Senior [Leadership]({{< ref "/categories/leadership" >}}) is Non-Negotiable in an Agile Consulting Journey
 
 Unlocking the full potential of [Agile transformation]({{< ref "/tags/agile-transformation" >}}) hinges on one critical factor: the active engagement of senior leadership. In this article, let's discuss why their role is important and non-negotiable in any Agile consulting journey.  🎯
@@ -105,4 +105,4 @@ In summation, the need for senior leadership engagement is not an optional extra
 
 Ready to become an Agile powerhouse?
 
-Don't just deepen your understanding—transform it. Explore our comprehensive courses in Agile, [Scrum]({{< ref "/categories/scrum" >}}), and transformative change to elevate your Agile skills to an expert level today! 🌟
+Don't just deepen your understanding, transform it. Explore our comprehensive courses in Agile, [Scrum]({{< ref "/categories/scrum" >}}), and transformative change to elevate your Agile skills to an expert level today! 🌟

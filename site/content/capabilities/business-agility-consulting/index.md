@@ -1,7 +1,7 @@
 ---
 title: Business Agility Consultancy
 short_title: Business Agility Consulting
-description: Expert consulting to help organizations achieve true business agility—aligning strategy, teams, and delivery for faster decisions, measurable outcomes, and real impact.
+description: Expert consulting to help organizations achieve true business agility, aligning strategy, teams, and delivery for faster decisions, measurable outcomes, and real impact.
 tldr: Many organizations struggle with slow delivery and misaligned teams despite adopting agile frameworks because they focus on tools instead of addressing deeper issues like strategy alignment and measurable outcomes. NKD Agility helps by aligning delivery with business goals, improving decision speed, and introducing meaningful metrics, resulting in faster releases, empowered teams, and clear priorities. If your teams are busy but not delivering real value, consider a partnership that embeds practical agility and measurable improvement across your organization.
 date: 2025-07-17
 weight: 450
@@ -97,11 +97,11 @@ sections:
       - title: Flow Over Friction
         icon: fa-chart-sine
         content: |
-          We help you shift from project-based chaos to product-based flow—so value reaches customers faster.
+          We help you shift from project-based chaos to product-based flow, so value reaches customers faster.
       - title: Strategic Clarity
         icon: fa-compass
         content: |
-          We connect the dots between mission, metrics, and execution—so everyone knows why their work matters.
+          We connect the dots between mission, metrics, and execution, so everyone knows why their work matters.
       - title: Enterprise-wide Alignment
         icon: fa-objects-align-left
         content: |
@@ -120,7 +120,7 @@ sections:
   - type: boxesrow
     title: What Business Agility Delivers
     content: |
-      Evidence-Based Management connects strategic intent to delivery reality. DORA research shows elite organisations make decisions 106× faster—we help you close that gap.
+      Evidence-Based Management connects strategic intent to delivery reality. DORA research shows elite organisations make decisions 106× faster, we help you close that gap.
     boxes:
       - box:
         title: Strategic Alignment
@@ -139,7 +139,7 @@ sections:
       - box:
         title: Practical Implementation
         items:
-          - title: No framework dogma—tailored to your context
+          - title: No framework dogma, tailored to your context
           - title: Works for small teams and large enterprises
           - title: Embedded coaching during real work, not classroom theory
           - title: Outcome-driven agility, not ceremonies for ceremony's sake
@@ -170,11 +170,11 @@ sections:
       - title: Outcome-Driven, Not Framework-Obsessed
         icon: fa-flask
         content: |
-          We tailor our approach to your context—no cookie-cutter playbooks.
+          We tailor our approach to your context, no cookie-cutter playbooks.
       - title: Evidence-Based, Flow-Focused
         icon: fa-chart-scatter
         content: |
-          We connect the dots between mission, metrics, and execution—so everyone knows why their work matters.
+          We connect the dots between mission, metrics, and execution, so everyone knows why their work matters.
       - title: Partners, Not Preachers
         icon: fa-handshake-simple
         content: |

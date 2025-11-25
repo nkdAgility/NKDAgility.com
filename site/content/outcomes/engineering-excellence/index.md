@@ -24,7 +24,7 @@ sections:
       content: |
         Inconsistent delivery. Brittle pipelines. Burned-out teams. Quality failures slipping into production.
 
-        Engineering excellence isn't about working harder—it's about the condition where modern practices, clear flow, and sustainable delivery become the norm rather than the exception.
+        Engineering excellence isn't about working harder, it's about the condition where modern practices, clear flow, and sustainable delivery become the norm rather than the exception.
   - type: outcomehero
     cta:
       content: Confident delivery. Sustainable pace. **Let's talk.**
@@ -76,11 +76,11 @@ sections:
       - title: Modern Engineering Becomes Normal
         icon: fa-dna
         content: |
-          CI/CD, IaC, TDD, and QA automation integrate into daily workflows—not aspirational, just standard.
+          CI/CD, IaC, TDD, and QA automation integrate into daily workflows, not aspirational, just standard.
       - title: Delivery Becomes Predictable
         icon: fa-cog
         content: |
-          Teams ship reliably, with pride and predictability—not by pushing harder, but by engineering smarter.
+          Teams ship reliably, with pride and predictability, not by pushing harder, but by engineering smarter.
       - title: Risk Decreases, Quality Increases
         icon: fa-bug
         content: |
@@ -94,7 +94,7 @@ sections:
     sideContent: |
       Developers stop blaming process and start owning it. Technical leadership emerges. Engineering capability becomes competitive advantage.
 
-      This isn't about guarantees—it's about the condition that emerges when engineering practices align with business reality and teams have the capability to sustain them.
+      This isn't about guarantees, it's about the condition that emerges when engineering practices align with business reality and teams have the capability to sustain them.
     list:
       - icon: fa-check-circle
         content: |
@@ -162,7 +162,7 @@ sections:
         content: |
           Overwhelm becomes control
     sideContent: |
-      Engineering excellence isn't about tools—it's about the condition where modern practices, technical capability, and business reality align.
+      Engineering excellence isn't about tools, it's about the condition where modern practices, technical capability, and business reality align.
 
       When engineering culture shifts, delivery changes. When delivery changes, business options expand. The shift is observable, measurable, and sustainable.
   - type: sectioncta

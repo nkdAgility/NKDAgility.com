@@ -45,8 +45,8 @@ Watermarks:
   tldr: 2025-07-30T23:12:39Z
 ResourceId: k-kqjqSgdGx
 ResourceType: blog
-
 ---
+
 **Most organisations still believe that managing multiple projects means a better organisation. It doesn’t. It could just be hiding your problems or even creating them.**
 
 If you’re still using multiple team projects in Azure DevOps to represent every application, every team, or every product, you may be paying the price in fragmentation, lost observability, and poor flow. That might have made sense in TFS 2005, but it's a liability in 2025.
@@ -57,7 +57,7 @@ I have been advocating for [One Team Project to rule them all]({{< resource-ref
 
 ## TL;DR;&#x20;
 
-The "many teams and projects" model in Azure DevOps is Microsoft’s own recommended setup—and one they use internally. It can make life easier for portfolio management and cross-team collaboration. But it comes with a price: increased complexity in setup, configuration, and ongoing maintenance. You’re trading operational simplicity for structural flexibility.
+The "many teams and projects" model in Azure DevOps is Microsoft’s own recommended setup, and one they use internally. It can make life easier for portfolio management and cross-team collaboration. But it comes with a price: increased complexity in setup, configuration, and ongoing maintenance. You’re trading operational simplicity for structural flexibility.
 
 > "One project to rule them all \[Teams] and in \[Azure DevOps] bind them"
 > \- Martin Hinshelwood, 2010
@@ -91,7 +91,7 @@ Azure DevOps’ organisational and project boundaries can hinder this flexibilit
 - **Boards**: You cannot create a board that visualises work across multiple projects. That’s a hard platform limitation.
 - **Team Focus**: When individuals belong to multiple projects, their focus splinters. Backlogs fragment. Priorities conflict. The result? Increased wait time, context switching, and delivery delays.
 - **Security**: Permissions, policies, and groups must be duplicated and managed separately across projects. That’s more overhead and more risk.
-- **Shared Assets**: Test cases, source, pipelines, environments—these are far harder to reuse or coordinate across projects.
+- **Shared Assets**: Test cases, source, pipelines, environments, these are far harder to reuse or coordinate across projects.
 
 Every additional Organisation and Project adds friction that Azure DevOps is not designed to resolve. These aren’t flexible abstractions; they are hard boundaries and are by design.
 
@@ -101,9 +101,9 @@ Every additional Organisation and Project adds friction that Azure DevOps is not
 
 Here is a summary of the three options:
 
-- **One project, many teams** - If your teams are aligned, your backlog is coherent, and you're operating within a single organisation, then one project is the sweet spot. You get unified governance, consistent processes, and minimal admin overhead. Each team can tailor their boards and iterations while still feeding into a shared backlog and reporting structure. Visibility is baked in—if someone wants to see what's happening, they can. Coordination is simpler, reuse is natural, and roll-up metrics just work. Most importantly, it reduces cognitive and operational overhead, letting teams focus on delivery, not bureaucracy.
+- **One project, many teams** - If your teams are aligned, your backlog is coherent, and you're operating within a single organisation, then one project is the sweet spot. You get unified governance, consistent processes, and minimal admin overhead. Each team can tailor their boards and iterations while still feeding into a shared backlog and reporting structure. Visibility is baked in, if someone wants to see what's happening, they can. Coordination is simpler, reuse is natural, and roll-up metrics just work. Most importantly, it reduces cognitive and operational overhead, letting teams focus on delivery, not bureaucracy.
 - **One organisation, many projects, and teams** - This model is useful when you're juggling different processes, delivery cadences, or security needs. You trade a bit of simplicity for flexibility. Each project has its own process templates, permissions, and settings, which makes sense if the work is fundamentally different, but it adds friction. Cross-team visibility suffers, reuse gets clumsy, and roll-up reporting becomes harder. You're coordinating across silos, not within a system. If you're using this model, you’ve likely optimised for isolation over collaboration. That might be intentional, but it comes at a cost.
-- **Many organisations** - Only use this if you need ironclad isolation—think separate business units, external contracts, or compliance constraints. This is the most expensive model in terms of overhead, administration, and collaboration. There’s no natural visibility across orgs, no shared queries or boards, and zero cross-org reporting. Everything has to be duplicated or integrated manually. That might be acceptable if you’re supporting legacy TFS structures or strict multitenancy, but it kills flow. If you’re working across orgs and still need to coordinate, you’re solving a problem your tooling should have prevented.
+- **Many organisations** - Only use this if you need ironclad isolation, think separate business units, external contracts, or compliance constraints. This is the most expensive model in terms of overhead, administration, and collaboration. There’s no natural visibility across orgs, no shared queries or boards, and zero cross-org reporting. Everything has to be duplicated or integrated manually. That might be acceptable if you’re supporting legacy TFS structures or strict multitenancy, but it kills flow. If you’re working across orgs and still need to coordinate, you’re solving a problem your tooling should have prevented.
 
 I have always advocated for larger projects and use the following rule of thumb:
 
@@ -126,7 +126,7 @@ Here’s how it works.
 
 ### 1. **Use Area Paths to Represent Departments and Products**
 
-Your Area Path hierarchy is the backbone of visibility, governance, and scale. Treat it as a map of how your products are delivered—not how your org chart looks. It should reflect the product structure and value streams, not departmental politics.
+Your Area Path hierarchy is the backbone of visibility, governance, and scale. Treat it as a map of how your products are delivered, not how your org chart looks. It should reflect the product structure and value streams, not departmental politics.
 
 Create a distinct leaf node for every delivery team. This gives you fine-grained control for permissions, test plan isolation, dashboard targeting, and scoped visibility. Intermediate levels should reflect coherent product or platform groupings, enabling roll-up views without breaking team autonomy.
 
@@ -155,7 +155,7 @@ The key? Design the Area Path hierarchy with intent, then map each team to a spe
 
 - Want a unified **Platform view**? Create an Azure DevOps Team at the higher-level node and include all sub-areas.
 - Need a **delivery team focus**? Map them to their own leaf node and exclude others.
-- Building a **Portfolio Kanban**? Use higher-level Areas with Epics and Features only—leave Backlog Items to delivery teams.
+- Building a **Portfolio Kanban**? Use higher-level Areas with Epics and Features only, leave Backlog Items to delivery teams.
 
 > [!TIP]
 > A work item should never appear on two boards. If it does, your setup will confuse stakeholders and erode trust.
@@ -165,7 +165,7 @@ Here’s a common, pragmatic split:
 - **Feature team Boards**: Configure to show Backlog Items only.
 - **Portfolio Boards**: Configure to show Epics and Features only, with “include sub-areas” on.
 
-This setup enables delivery teams to focus on tactical work, while leadership tracks strategic progress—all in the same project, without duplication.
+This setup enables delivery teams to focus on tactical work, while leadership tracks strategic progress, all in the same project, without duplication.
 
 ### 3. **Use Iteration Paths for Cadence, Not Structure**
 
@@ -199,7 +199,7 @@ You can grant fine-grained access control to individual teams, stakeholders, or 
 
 If you're using one Azure DevOps project with clearly defined Area Paths and Teams, reporting becomes dramatically simpler, more powerful, and more honest.
 
-Everything you need is in one place: Work Items, Repos, Pipelines, Releases, Test Plans. That means dashboards, boards, analytics views, and Delivery Plans just work—with no duct tape, no spreadsheet exports, no cross-project hacks.
+Everything you need is in one place: Work Items, Repos, Pipelines, Releases, Test Plans. That means dashboards, boards, analytics views, and Delivery Plans just work, with no duct tape, no spreadsheet exports, no cross-project hacks.
 
 - Use **Dashboards** for high-level visibility tailored to stakeholders.
 - Use **Delivery Plans** for planning across multiple teams and value streams.
@@ -209,10 +209,10 @@ Everything you need is in one place: Work Items, Repos, Pipelines, Releases, Tes
 And when you need more:
 
 - **Portfolio++** provides rich roadmap and status visualisations that work across queries, teams, and even projects.
-- **ActionableAgile** brings deep flow metrics—cycle time scatterplots, throughput charts, WIP ageing—directly into your Azure DevOps instance.
+- **ActionableAgile** brings deep flow metrics, cycle time scatterplots, throughput charts, WIP ageing, directly into your Azure DevOps instance.
 
 > [!TIP]
-> Reporting doesn’t just inform—it aligns. A unified project gives you shared truth. Every extra project boundary erodes that.
+> Reporting doesn’t just inform, it aligns. A unified project gives you shared truth. Every extra project boundary erodes that.
 
 ## Final Word: Optimise for Flow, Not Structure
 

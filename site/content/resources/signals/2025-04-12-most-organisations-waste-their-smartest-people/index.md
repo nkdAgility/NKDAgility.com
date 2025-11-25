@@ -42,9 +42,9 @@ Watermarks:
   tldr: 2025-08-07T12:33:47Z
 ResourceId: hXwfpdteI-Q
 ResourceType: signals
-
 ---
-Most organisations waste their smartest people. Not because they lack skill—but because their environment makes thinking a liability.
+
+Most organisations waste their smartest people. Not because they lack skill, but because their environment makes thinking a liability.
 
 - Decisions are made at the top, leaving those closest to the work powerless.
 - Ideas get stuck in endless loops of sign-offs.
@@ -52,6 +52,6 @@ Most organisations waste their smartest people. Not because they lack skill—bu
 
 People don’t need motivation. They need the ability to act. Yet, in so many companies, talent is squandered in meetings, reports, and waiting for permission that never comes.
 
-The best employees don’t tolerate this forever. They leave. Or worse—they disengage.
+The best employees don’t tolerate this forever. They leave. Or worse, they disengage.
 
 If your best people aren’t driving change, it’s not because they don’t care. It’s because they’ve learned it doesn’t matter.

@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking Organisational Value: The Transformative Power of Engagement in Agile Teams'
+title: "Unlocking Organisational Value: The Transformative Power of Engagement in Agile Teams"
 short_title: Engagement Drives Value in Agile Teams
 description: Explores how decentralising decision-making, fostering autonomy, and building a shared vision in agile teams can boost engagement and unlock greater organisational value.
 tldr: Organisations deliver the most value when they focus on engaging their teams, not just managing them. Empowering people through decentralised decision-making, inclusivity, and clear principles leads to higher morale, innovation, and better results. Development managers should prioritise creating an environment where everyone feels trusted, aligned with the vision, and motivated to contribute.
@@ -60,8 +60,8 @@ duration: 129
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In my journey through the world of agile and organisational effectiveness, I've often found myself pondering a critical question: If even large organisations struggle to deliver value and determine which products to build, what hope do smaller organisations have? With tighter budgets and fewer hands on deck, the challenge can seem insurmountable. However, I firmly believe that the issue isn't about scale; it's about engagement.
 
 ### The Power of Engagement
@@ -71,7 +71,6 @@ Engaging the people you have is paramount to creating products of the highest po
 #### Key Insights on Engagement:
 
 - **Decentralisation**: We need to rethink how we structure our organisations. By decentralising decision-making, we empower individuals to take ownership of their work. This not only boosts morale but also fosters innovation.
-  
 - **Democratisation**: Engaging everyone in the process means creating an environment where all voices are heard. This inclusivity can lead to richer ideas and solutions that might not emerge in a more hierarchical structure.
 
 - **Principles Over Rules**: Instead of imposing strict rules, we should focus on establishing clear principles. When everyone understands the direction and goals of the organisation, they can leverage their unique skills to contribute effectively.
@@ -88,6 +87,6 @@ As leaders, it's crucial to recognise that we cannot know everything about how t
 
 ### Conclusion
 
-In conclusion, the path to delivering value in any organisation—large or small—lies in how we engage our people. By decentralising authority, democratising decision-making, and focusing on principles rather than rules, we can unlock the potential within our teams. Remember, it's not about the number of people or the size of the budget; it's about creating an environment where everyone feels valued and motivated to contribute to the organisation's success. 
+In conclusion, the path to delivering value in any organisation, large or small, lies in how we engage our people. By decentralising authority, democratising decision-making, and focusing on principles rather than rules, we can unlock the potential within our teams. Remember, it's not about the number of people or the size of the budget; it's about creating an environment where everyone feels valued and motivated to contribute to the organisation's success.
 
 Let’s embrace this shift in perspective and work towards a more engaged and effective workforce. Thank you for joining me on this journey towards maximising value in our organisations.

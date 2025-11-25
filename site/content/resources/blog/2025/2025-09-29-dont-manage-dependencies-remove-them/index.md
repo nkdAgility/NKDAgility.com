@@ -46,8 +46,8 @@ Watermarks:
 canvas: https://chatgpt.com/g/g-p-67780943691c819190b48140ff2d4fb9-blogposts/c/68b8ea46-f7b8-8321-97ab-3f498ce690a1
 ResourceId: eBNUwJszXyE
 ResourceType: blog
-
 ---
+
 _Answering the question: How do you manage dependencies?_
 
 Every large-scale delivery conversation eventually drifts into the same dead-end: _“How do you manage dependencies?”_ The assumption is baked in, that dependencies are inevitable, so the best you can do is build a Gantt chart, track them, and hope for the best.
@@ -60,7 +60,7 @@ This post reframes the question. Instead of asking how to manage dependencies, l
 
 ## Step 1: Align Work, Teams, and Architecture
 
-Dependencies don’t just appear by accident; they are often created when work, team structures, and architecture are misaligned. Without clear alignment, every piece of work risks bouncing between silos, waiting on specialists, and suffering from endless handoffs. That is the problem: dependencies are the tax you pay for poor organisational design. Getting alignment between the work coming in, the teams who own it, and the architecture they work within is the single most effective lever to reduce this tax. Start by examining the flow of work into the system and then design accordingly. Misalignment creates dependencies, which in turn generate delay and rework. Alignment is not optional; it is the prerequisite for autonomy and predictable flow. Leadership must own this alignment—teams cannot fix systemic misalignment by themselves.
+Dependencies don’t just appear by accident; they are often created when work, team structures, and architecture are misaligned. Without clear alignment, every piece of work risks bouncing between silos, waiting on specialists, and suffering from endless handoffs. That is the problem: dependencies are the tax you pay for poor organisational design. Getting alignment between the work coming in, the teams who own it, and the architecture they work within is the single most effective lever to reduce this tax. Start by examining the flow of work into the system and then design accordingly. Misalignment creates dependencies, which in turn generate delay and rework. Alignment is not optional; it is the prerequisite for autonomy and predictable flow. Leadership must own this alignment, teams cannot fix systemic misalignment by themselves.
 
 **What you’d observe:**
 
@@ -104,7 +104,7 @@ Explicit contracts turn invisible risks into manageable, testable agreements. Te
 
 - Define **service contracts** for every API, integration, or shared capability.
 - Use patterns like **consumer-driven contracts** and the **tolerant reader** to protect against breakage.
-- Maintain a catalogue of who depends on what—visible and owned.
+- Maintain a catalogue of who depends on what, visible and owned.
 
 ## Step 3: Clarify Ownership
 
@@ -164,7 +164,7 @@ Dependencies exist because of how you design systems of work. A flawed system wi
 - Ambiguous ownership breeds uncertainty and political friction.
 - Implicit contracts guarantee surprises and rework.
 
-These are not accidents; they are deliberate design choices, even if unacknowledged. Left unchecked, they act as amplifiers of waste—magnifying delay, variability, and risk across the organisation. Dependencies are one of the clearest forms of systemic waste and delay, and every appearance of them is a call to redesign.
+These are not accidents; they are deliberate design choices, even if unacknowledged. Left unchecked, they act as amplifiers of waste, magnifying delay, variability, and risk across the organisation. Dependencies are one of the clearest forms of systemic waste and delay, and every appearance of them is a call to redesign.
 
 The answer is not to manage harder but to redesign. You remove the cause rather than chase the symptom. That is the work of stewardship: shaping structures, policies, and boundaries so that flow becomes natural and dependencies are engineered out of existence.
 

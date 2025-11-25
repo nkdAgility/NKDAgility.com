@@ -1,5 +1,5 @@
 ---
-title: let-us be blunt—if a Scrum Team isn’t delivering, is it effective
+title: let-us be blunt, if a Scrum Team isn’t delivering, is it effective
 short_title: Scrum Team Effectiveness and Delivery
 description: Explores Scrum Team effectiveness, emphasising that consistent delivery is essential and highlighting the Scrum Master's accountability for enabling successful outcomes.
 tldr: A Scrum Team is only effective if it consistently delivers usable product increments; without delivery, Scrum practices are just empty rituals. The Scrum Master is accountable for enabling the team to deliver by fixing any issues that block progress. If your team is not delivering, focus on identifying and removing obstacles to restore effectiveness.
@@ -48,11 +48,11 @@ Watermarks:
   tldr: 2025-08-07T12:35:09Z
 ResourceId: CB56pgg1LmZ
 ResourceType: signals
-
 ---
-Let’s be blunt—if a Scrum Team isn’t delivering, is it effective?
 
-Scrum exists to deliver usable increments. Without that, everything else—standups, retros, sprints—is just theatre.
+Let’s be blunt, if a Scrum Team isn’t delivering, is it effective?
+
+Scrum exists to deliver usable increments. Without that, everything else, standups, retros, sprints, is just theatre.
 
 So if a team isn’t delivering, what happens? Who gets held accountable?
 

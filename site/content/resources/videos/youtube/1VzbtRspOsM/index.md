@@ -61,8 +61,8 @@ duration: 239
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 Aspiring agile leaders often face significant challenges when trying to shift organizational culture. They encounter barriers to having the necessary deep conversations and find themselves short on time and space to implement the changes they envision. In today’s fast-paced environments, making that leap to true agile [leadership]({{< ref "/categories/leadership" >}}) can feel daunting. That's where immersive learning experiences, like the PAL-E (Professional [Agile Leadership]({{< ref "/tags/agile-leadership" >}}) Essentials) class, come in to play. These courses create room for both reflection and action, driving real, sustainable change within organizations.
 
 ## **The Challenge for Agile Leaders**
@@ -75,7 +75,7 @@ Aspiring agile leaders often face significant challenges when trying to shift or
 
 - Most leadership conversations happen in fragmented moments, without enough depth or focus.
 
-Leaders need more than just conversations—they need **actionable frameworks** and dedicated time to practice. While traditional leadership courses offer important discussions, they often lack the structure and continuity to help leaders apply what they've learned. That’s where an immersive learning experience, spread over weeks, makes all the difference.
+Leaders need more than just conversations, they need **actionable frameworks** and dedicated time to practice. While traditional leadership courses offer important discussions, they often lack the structure and continuity to help leaders apply what they've learned. That’s where an immersive learning experience, spread over weeks, makes all the difference.
 
 ## **What Makes the PAL-E Class Different?**
 
@@ -115,7 +115,7 @@ What happens if something doesn’t work? That’s where the PAL-E class really 
 
 - **“We introduced this new workflow, but our teams struggled. What should we do differently?”**
 
-This kind of **collaborative problem-solving** is essential for leadership growth. The PAL-E class isn’t just a space for learning—it’s a space for **failing**, **learning from those failures**, and **iterating on leadership practices** until they start delivering value.
+This kind of **collaborative problem-solving** is essential for leadership growth. The PAL-E class isn’t just a space for learning, it’s a space for **failing**, **learning from those failures**, and **iterating on leadership practices** until they start delivering value.
 
 ## **Personal Experience: Why This Works**
 
@@ -123,7 +123,7 @@ In my experience as a [Scrum]({{< ref "/categories/scrum" >}}) Trainer, I’ve s
 
 1. **Delegation Challenges**: One leader I worked with was struggling to delegate responsibility to his team. After several failed attempts, he used the PAL-E class to get feedback from his peers, adjust his approach, and finally succeeded in empowering his team to take full ownership of their work.
 
-3. **Collaboration Issues**: Another participant wanted to break down silos within his organization. Through the course, he experimented with different collaborative frameworks, received peer feedback, and ultimately created a more connected, agile culture.
+2. **Collaboration Issues**: Another participant wanted to break down silos within his organization. Through the course, he experimented with different collaborative frameworks, received peer feedback, and ultimately created a more connected, agile culture.
 
 These experiences aren’t unique. Time and again, I’ve seen leaders leave the PAL-E class with **real tools** to foster **agile thinking** and **self-organizing teams**.
 
@@ -141,7 +141,7 @@ _“It’s about changing the way we do things to allow people to take more acco
 
 ## **Bringing Agile Leadership to Life**
 
-At the end of the day, the PAL-E class isn’t just about theory—it’s about **actionable change**. Leaders walk away with a deeper understanding of how to:
+At the end of the day, the PAL-E class isn’t just about theory, it’s about **actionable change**. Leaders walk away with a deeper understanding of how to:
 
 - Implement **agile principles** in a real-world setting.
 

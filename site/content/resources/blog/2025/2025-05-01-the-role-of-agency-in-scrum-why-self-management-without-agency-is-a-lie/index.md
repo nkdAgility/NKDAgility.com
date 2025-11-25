@@ -1,5 +1,5 @@
 ---
-title: 'The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie'
+title: "The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie"
 short_title: The Role of Agency in Scrum
 description: Explains why true Scrum requires real team agency, not just self-management in name, and how lacking agency leads to ineffective, ritualistic Agile practices.
 tldr: Scrum only works when teams have real decision-making power, not just the appearance of self-management. Without agency, accountability is hollow and Scrum devolves into empty rituals that fail to deliver true agility or value. To achieve the benefits of Scrum, leaders must ensure teams and roles have genuine authority to own outcomes and drive change.
@@ -49,8 +49,8 @@ Watermarks:
   tldr: 2025-08-07T12:33:00Z
 ResourceId: uwJYNXG7yIu
 ResourceType: blog
-
 ---
+
 [Scrum]({{< ref "/categories/scrum" >}}) is often misunderstood as a set of ceremonies or a lightweight [project management]({{< ref "/tags/project-management" >}}) method. It is neither. Scrum is a social technology built around the ethos of Agile, enabling teams to deliver adaptive solutions in complex environments. At its core lies a fundamental, non-negotiable requirement: self-management.
 
 But self-management is not simply a label you apply to teams. It demands something deeper and harder: real agency.
@@ -58,7 +58,7 @@ But self-management is not simply a label you apply to teams. It demands somethi
 Without agency, Scrum collapses into shallow ritual. Without agency, accountability is performative, not real.  
 Without agency, you are not doing Scrum. You are enacting a fragile imitation of agility.
 
-## Scrum _Is_ Agile — and Agile Demands Self-Management
+## Scrum _Is_ Agile , and Agile Demands Self-Management
 
 Agile and Scrum are often conflated or treated as separate. Let us be clear: True Scrum is Agile. Scrum operationalises Agile principles with discipline, [transparency]({{< ref "/tags/transparency" >}}), and empiricism. It creates a bounded environment where teams can thrive.
 
@@ -66,7 +66,7 @@ The Agile Manifesto (2001) made it clear:
 
 > _The best architectures, requirements, and designs emerge from self-organizing teams._
 
-Self-organisation was never about anarchy. It was about **teams owning how they deliver value**. Agile assumes teams will figure out the best way to achieve goals — not be told exactly what to do.
+Self-organisation was never about anarchy. It was about **teams owning how they deliver value**. Agile assumes teams will figure out the best way to achieve goals , not be told exactly what to do.
 
 Scrum sharpened this requirement in the 2020 Scrum Guide:
 
@@ -76,7 +76,7 @@ Self-management is not a bonus feature. It is the foundation. Without it, Scrum 
 
 ## Agency: The Prerequisite for Accountability
 
-Agency is the power to make decisions and act toward outcomes you are accountable for. It is inseparable from accountability itself. Without agency, accountability is a façade — a mechanism for assigning blame rather than empowering success.
+Agency is the power to make decisions and act toward outcomes you are accountable for. It is inseparable from accountability itself. Without agency, accountability is a façade , a mechanism for assigning blame rather than empowering success.
 
 Scrum defines clear accountabilities:
 
@@ -131,7 +131,7 @@ When organisations complain that "[Scrum doesn’t work]({{< ref "/resources/blo
 
 If you are serious about creating real, resilient agility:
 
-- **Scrum Masters** must coach, teach, mentor, and cause real change — not just facilitate ceremonies.
+- **Scrum Masters** must coach, teach, mentor, and cause real change , not just facilitate ceremonies.
 - **Product Owners** must demand the authority to own the backlog and drive [product strategy]({{< ref "/tags/product-strategy" >}}).
 - **Developers** must guard their right to decide how to build and deliver working product Increments.
 
@@ -143,7 +143,7 @@ Self-management is not optional. Agency is not optional. Without them, you have 
 
 Scrum depends on self-management, and self-management depends on agency. Remove agency, and you remove the heart of Scrum. All that remains is empty ceremony, a hollow simulation of Agile values.
 
-If you truly want the benefits of Scrum — adaptability, resilience, continuous [value delivery]({{< ref "/tags/value-delivery" >}}) — you must be willing to do the hard work of granting real agency to those accountable for outcomes.
+If you truly want the benefits of Scrum , adaptability, resilience, continuous [value delivery]({{< ref "/tags/value-delivery" >}}) , you must be willing to do the hard work of granting real agency to those accountable for outcomes.
 
 **Scrum without agency is not Scrum. It is theatre.**
 

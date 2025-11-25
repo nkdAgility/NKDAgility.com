@@ -1,5 +1,5 @@
 ---
-title: 'Understanding the Difference: Traditional Management vs. Evidence-Based Management'
+title: "Understanding the Difference: Traditional Management vs. Evidence-Based Management"
 short_title: Traditional vs. Evidence-Based Management
 description: Explains how traditional management relies on authority and intuition, while evidence-based management uses data, analysis, and meaningful metrics for better decisions.
 tldr: Traditional management relies on experience and authority, often leading to decisions based on intuition or hierarchy rather than data. Evidence-based management uses data collection, team analysis, and outcome validation to drive better decisions and avoid misleading metrics like story points or velocity. Development managers should shift focus from vanity metrics to meaningful data that aligns with organizational goals and encourages continuous improvement.
@@ -51,8 +51,8 @@ duration: 395
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ## **What Is Traditional Management?**
 
 Traditional management is a term often used to describe the approach many managers have used for decades, if not centuries. While the term "traditional" might seem outdated, it's a method that many still rely on. In essence, traditional management practices are:
@@ -97,7 +97,7 @@ A common pitfall in evidence-based management is focusing on "vanity metrics." T
 
 - Include things like story points, velocity, or the sum of tasks completed per sprint.
 
-**Example**: Imagine a [product owner]({{< ref "/tags/product-owner" >}}) who makes decisions solely based on velocity—the sum of story points completed each sprint. This might look impressive on paper, but it doesn’t necessarily mean the product is delivering value to the customer. It’s like judging a race based on how fast a car is going without considering if it’s going in the right direction.
+**Example**: Imagine a [product owner]({{< ref "/tags/product-owner" >}}) who makes decisions solely based on velocity, the sum of story points completed each sprint. This might look impressive on paper, but it doesn’t necessarily mean the product is delivering value to the customer. It’s like judging a race based on how fast a car is going without considering if it’s going in the right direction.
 
 ## **Common Decision-Making Pitfalls in Traditional Management**
 
@@ -105,7 +105,7 @@ In traditional management, decision-making often happens in one of two ways:
 
 1. **Making it up** 🤷: A manager might make a decision based solely on their authority without consulting data.
 
-3. **Escalation-based decisions** 📢: When a manager is unsure, they ask someone more senior to make the decision, leading to a reliance on hierarchy rather than evidence.
+2. **Escalation-based decisions** 📢: When a manager is unsure, they ask someone more senior to make the decision, leading to a reliance on hierarchy rather than evidence.
 
 Both approaches can lead to suboptimal outcomes, especially when dealing with complex, multi-million-dollar decisions. Instead, managers should be asking:
 
@@ -153,11 +153,11 @@ Making the shift from traditional to evidence-based management is not easy, but 
 
 1. **Commit to data collection** 📊: Make it a habit to gather data regularly before making any major decision.
 
-3. **Encourage team-based analysis** 🧑‍🤝‍🧑: Bring in diverse viewpoints to analyze the data and avoid biases.
+2. **Encourage team-based analysis** 🧑‍🤝‍🧑: Bring in diverse viewpoints to analyze the data and avoid biases.
 
-5. **Validate outcomes** ✅: Continuously measure the impact of decisions to ensure they align with the organization’s goals.
+3. **Validate outcomes** ✅: Continuously measure the impact of decisions to ensure they align with the organization’s goals.
 
-7. **Avoid vanity metrics** 🚫: Focus on metrics that drive true value rather than those that look good on paper.
+4. **Avoid vanity metrics** 🚫: Focus on metrics that drive true value rather than those that look good on paper.
 
 ## **Personal Experience: The Shift in My Own Practice**
 

@@ -58,13 +58,13 @@ Watermarks:
   tldr: 2025-08-07T12:29:31Z
 ResourceId: BD9f00po0V6
 ResourceType: signals
-
 ---
+
 Scrum doesn’t stop you from optimising flow. It just demands accountability: a Sprint Goal and a Done Increment.
 
-If your system of work already delivers high-quality software continuously, why impose hard delivery cuts every two weeks? Let work flow—sustainably—across Sprint boundaries.
+If your system of work already delivers high-quality software continuously, why impose hard delivery cuts every two weeks? Let work flow, sustainably, across Sprint boundaries.
 
-This isn’t about bypassing Scrum. It’s about doing it professionally. If your team uses CI/CD, practices TDD, has a rock-solid Definition of Done, and meets the Sprint Goal—there’s no problem letting a Product Backlog Item finish next Sprint.
+This isn’t about bypassing Scrum. It’s about doing it professionally. If your team uses CI/CD, practices TDD, has a rock-solid Definition of Done, and meets the Sprint Goal, there’s no problem letting a Product Backlog Item finish next Sprint.
 
 Teams stuck in “you must finish everything” are optimising for calendars, not outcomes. That’s not agility. That’s a theatre.
 

@@ -1,5 +1,5 @@
 ---
-title: 'From Control to Collaboration: How Project Managers Can Embrace Agility and Thrive'
+title: "From Control to Collaboration: How Project Managers Can Embrace Agility and Thrive"
 short_title: From Control to Collaboration in Agile PM
 description: Explores how project managers can shift from control to collaboration, adopt agile mindsets, embrace uncertainty, and foster team empowerment for project success.
 tldr: Project managers need to move from controlling every detail to supporting and collaborating with their teams to succeed with agile approaches. Embracing uncertainty, focusing on outcomes instead of outputs, and fostering open communication are key to this shift. To thrive, managers should let go of the need to have all the answers, encourage continuous learning, and be patient as their teams adapt.
@@ -51,16 +51,15 @@ duration: 48
 resourceTypes:
   - video
 isShort: true
-
 ---
-In my experience, the term "project manager" often feels like an oxymoron when we talk about agility. It’s a bit of a paradox, isn’t it? While we can certainly sprinkle some agile principles into [project management]({{< ref "/tags/project-management" >}}), the reality is that unless a project manager is willing to let go of their traditional mindset—specifically the belief that they have all the answers and can control every aspect of a project—they will continue to face the same challenges that have plagued project management for years.
+
+In my experience, the term "project manager" often feels like an oxymoron when we talk about agility. It’s a bit of a paradox, isn’t it? While we can certainly sprinkle some agile principles into [project management]({{< ref "/tags/project-management" >}}), the reality is that unless a project manager is willing to let go of their traditional mindset, specifically the belief that they have all the answers and can control every aspect of a project, they will continue to face the same challenges that have plagued project management for years.
 
 ### Embracing Complexity
 
 Agility is fundamentally about embracing complexity and uncertainty. It’s about recognising that we cannot predict every outcome or control every variable. This is where many project managers struggle. They often come from a background where predictability and control were paramount, and shifting to an agile mindset requires a significant change in thinking.
 
 - **Letting Go of Control**: A project manager who clings to the idea that they must know everything will find it difficult to adapt to the fluid nature of agile. They need to understand that in an agile environment, the team is empowered to make decisions, and the project manager’s role shifts from controlling to facilitating.
-  
 - **Accepting Uncertainty**: Accepting that not everything can be known upfront is crucial. Agile methodologies thrive on iterative processes, where teams learn and adapt as they go. This means that project managers must be comfortable with ambiguity and be willing to pivot when necessary.
 
 ### The Agile Project Manager

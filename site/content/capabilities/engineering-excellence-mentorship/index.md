@@ -206,7 +206,7 @@ sections:
       - title: Practical Focus
         icon: fa-wrench
         content: |
-          Real problems, real solutions, actionable guidance—no abstract frameworks without context.
+          Real problems, real solutions, actionable guidance, no abstract frameworks without context.
       - title: Engagement Model
         icon: fa-handshake
         content: |

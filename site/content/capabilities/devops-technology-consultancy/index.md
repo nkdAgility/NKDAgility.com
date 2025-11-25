@@ -27,7 +27,7 @@ sections:
       content: |
         Too many tools, too many silos, delivery pipelines held together by workarounds.
 
-        We provide DevOps technology consulting—operating model design, system architecture, pipeline engineering, and team capability building. Services focus on creating coherent DevOps systems rather than tool deployments.
+        We provide DevOps technology consulting, operating model design, system architecture, pipeline engineering, and team capability building. Services focus on creating coherent DevOps systems rather than tool deployments.
   - type: outcomehero
     cta:
       content: Design the Systems. Build the Pipelines. Empower the Teams. **Let's Talk**
@@ -115,11 +115,11 @@ sections:
       - title: Pipeline Architecture + CI/CD Design
         icon: fa-diagram-project
         content: |
-          From Git branching to artifact flow to environment promotion—we design for flow, not friction.
+          From Git branching to artifact flow to environment promotion, we design for flow, not friction.
       - title: Toolchain Integration + Rationalization
         icon: fa-plug
         content: |
-          Azure DevOps, GitHub, Terraform, Docker, Kubernetes, and more—integrated, automated, and streamlined.
+          Azure DevOps, GitHub, Terraform, Docker, Kubernetes, and more, integrated, automated, and streamlined.
       - title: Infrastructure as Code (IaC) Enablement
         icon: fa-code
         content: |
@@ -184,7 +184,7 @@ sections:
     content: |
       - Pipelines you trust to ship fast and safely
       - Engineers who understand and own the delivery system
-      - Metrics that inform—not confuse
+      - Metrics that inform, not confuse
       - Cloud infrastructure that scales, flexes, and secures
       - DevOps practices that actually improve flow, quality, and resilience
   - type: none
@@ -201,13 +201,13 @@ sections:
     backgroundColor: light-accent-alt
     title: How We Work With You
     content: |
-      Our engagement model is designed for speed, flexibility, and results—not hourly billing or scope negotiations.
+      Our engagement model is designed for speed, flexibility, and results, not hourly billing or scope negotiations.
     listType: list
     list:
       - title: Week 1 - Discovery & Situational Appraisal
         icon: fa-magnifying-glass
         content: |
-          We assess your current DevOps maturity, toolchain architecture, delivery flow, and business objectives. Not selling—just listening and understanding your context.
+          We assess your current DevOps maturity, toolchain architecture, delivery flow, and business objectives. Not selling, just listening and understanding your context.
       - title: Weeks 2–4 - Evidence-Based Direction
         icon: fa-chart-line
         content: |
@@ -215,15 +215,15 @@ sections:
       - title: Ongoing - Embedded Improvement
         icon: fa-people-group
         content: |
-          We work alongside your teams—designing pipelines, automating infrastructure, coaching engineers. No workshops in conference rooms while the backlog grows—real improvement in real work.
+          We work alongside your teams, designing pipelines, automating infrastructure, coaching engineers. No workshops in conference rooms while the backlog grows, real improvement in real work.
       - title: Timeboxed Retainer Model
         icon: fa-handshake
         content: |
-          You retain a percentage of our capacity (not buying hours). No fixed deliverables—we co-create outcomes. No change orders—we adapt as context evolves. Satisfaction guaranteed—full refund if we don't deliver value.
+          You retain a percentage of our capacity (not buying hours). No fixed deliverables, we co-create outcomes. No change orders, we adapt as context evolves. Satisfaction guaranteed, full refund if we don't deliver value.
       - title: Scales From Small to Large
         icon: fa-arrows-left-right-to-line
         content: |
-          10-person startup or 500-engineer organisation—we tailor our approach. Lightweight for small teams, enterprise-ready for large teams, no unnecessary overhead for anyone.
+          10-person startup or 500-engineer organisation, we tailor our approach. Lightweight for small teams, enterprise-ready for large teams, no unnecessary overhead for anyone.
   - title: Why NKD Agility?
     type: list
     listType: list

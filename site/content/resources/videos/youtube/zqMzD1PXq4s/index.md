@@ -1,5 +1,5 @@
 ---
-title: 'Transforming Chaos into Clarity: How Optimising Systems Fuels Engineering Excellence'
+title: "Transforming Chaos into Clarity: How Optimising Systems Fuels Engineering Excellence"
 short_title: Optimising Systems for Engineering Excellence
 description: Explores how optimising systems, reducing technical debt, and strong leadership improve engineering quality, productivity, and innovation while minimising chaos.
 tldr: Unmanaged chaos in software delivery leads to poor quality, technical debt, and wasted resources. Optimising systems and processes, as shown by Microsoft’s transformation of their DevOps team, enables faster delivery, higher productivity, and better products by reducing technical debt and improving testing practices. Development managers should prioritise system optimisation and technical leadership to empower teams and drive sustainable engineering excellence.
@@ -52,8 +52,8 @@ resourceTypes:
 isShort: false
 ResourceId: zqMzD1PXq4s
 ResourceType: videos
-
 ---
+
 Chaos costs money. In my experience working with various organisations, I've seen firsthand how they struggle to manage the chaos that often surrounds the delivery of usable, working products to their customers. The result? Substandard work, a barrage of bugs hitting production, and a frustrating cycle of rework because things simply don’t meet the minimum standards we expect. It’s a familiar tale, and one that I’ve encountered time and again.
 
 ### Understanding the Shift
@@ -72,7 +72,7 @@ Investing time and money to transition from legacy systems to modern solutions i
 
 Satya Nadella at Microsoft exemplifies this approach. He prioritises optimising systems so that the best engineers can focus on delivering features rather than wrestling with outdated processes. This investment in system optimisation is not merely a cost; it’s a value centre that supports our [ability to innovate]({{< ref "/tags/ability-to-innovate" >}}) and deliver new features.
 
-A prime example of this is the Azure [DevOps]({{< ref "/categories/devops" >}}) team. Back in 2012, they were delivering around 25 features to production each year with a workforce of 650 people. Through a commitment to [technical excellence]({{< ref "/tags/technical-excellence" >}}) and [leadership]({{< ref "/categories/leadership" >}}), they transformed their output to over 600 features annually. This remarkable increase was achieved by addressing both technical debt and the accumulation of what I like to call “technical cruft”—the sediment that builds up in systems over time.
+A prime example of this is the Azure [DevOps]({{< ref "/categories/devops" >}}) team. Back in 2012, they were delivering around 25 features to production each year with a workforce of 650 people. Through a commitment to [technical excellence]({{< ref "/tags/technical-excellence" >}}) and [leadership]({{< ref "/categories/leadership" >}}), they transformed their output to over 600 features annually. This remarkable increase was achieved by addressing both technical debt and the accumulation of what I like to call “technical cruft”, the sediment that builds up in systems over time.
 
 ### The Impact of Testing
 

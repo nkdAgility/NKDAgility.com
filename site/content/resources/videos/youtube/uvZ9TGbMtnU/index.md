@@ -1,5 +1,5 @@
 ---
-title: 'Ditching the Myth of Special Sprints: Embrace True Agile Practices for Usable Products'
+title: "Ditching the Myth of Special Sprints: Embrace True Agile Practices for Usable Products"
 short_title: Ditching Special Sprints for True Agile Delivery
 description: Explains why relying on special Sprints undermines Agile, and advocates for continuous improvement, accountability, and delivering usable products each Sprint.
 tldr: Relying on special Sprints like Sprint Zero or bug fix Sprints undermines true Agile practices by encouraging risky behavior, diluting focus, and creating a false sense of security. Teams should instead prioritize delivering a usable product at the end of every Sprint, foster accountability, and integrate quality assurance into regular work. Development managers should avoid safety nets and focus on continuous improvement and value delivery each Sprint.
@@ -58,9 +58,9 @@ duration: 41
 resourceTypes:
   - video
 isShort: true
-
 ---
-In my journey through the world of Agile, I've often encountered a myriad of misconceptions that can hinder our progress. One of the most persistent myths is the idea of special Sprints—those elusive Sprint Zeros, hardening Sprints, and bug fix Sprints. Today, I want to share my thoughts on why these concepts can be detrimental to our Agile practices and how we can focus on delivering usable, working products instead.
+
+In my journey through the world of Agile, I've often encountered a myriad of misconceptions that can hinder our progress. One of the most persistent myths is the idea of special Sprints, those elusive Sprint Zeros, hardening Sprints, and bug fix Sprints. Today, I want to share my thoughts on why these concepts can be detrimental to our Agile practices and how we can focus on delivering usable, working products instead.
 
 ### The Myth of Special Sprints
 
@@ -82,7 +82,7 @@ Instead of relying on special Sprints, we should cultivate an Agile mindset that
 
 ### Avoiding the Agile Bandit Mentality
 
-I often refer to the concept of the "Agile Bandit"—those who misuse Agile principles to justify poor practices. By relying on special Sprints, we risk falling into this trap. We must remember that Agile is not just a set of practices; it’s a mindset that requires discipline, focus, and a commitment to delivering value.
+I often refer to the concept of the "Agile Bandit", those who misuse Agile principles to justify poor practices. By relying on special Sprints, we risk falling into this trap. We must remember that Agile is not just a set of practices; it’s a mindset that requires discipline, focus, and a commitment to delivering value.
 
 ### Conclusion
 

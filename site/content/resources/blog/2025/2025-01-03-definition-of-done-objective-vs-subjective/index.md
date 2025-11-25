@@ -1,6 +1,6 @@
 ---
 title: Definition of Done - Objective vs Subjective
-short_title: 'Definition of Done: Objective vs Subjective'
+short_title: "Definition of Done: Objective vs Subjective"
 description: Explains the difference between subjective goals and the objective Definition of Done in Scrum, highlighting how clear, measurable criteria ensure consistent product quality.
 tldr: The Definition of Done (DoD) in Scrum is an objective, measurable checklist that sets the minimum quality standard for every product increment, distinct from the more subjective Product and Sprint Goals. Teams should ensure their DoD is clear, comprehensive, regularly reviewed, and as automated as possible, avoiding subjective approval steps. Development managers should treat the DoD as a non-negotiable baseline for quality, not a ceiling, and keep it updated to reflect evolving standards and business needs.
 date: 2025-01-03
@@ -64,11 +64,11 @@ resourceTypes: blog
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 ResourceId: -Z5GGUOjc-d
 ResourceType: blog
-
 ---
-In countless teams, there’s a recurring mix-up between “what” we’re building, “how” it aligns with business objectives, and the objective quality criteria by which it should be measured. The result? Chaos masquerading as agility. To clear the air: in [Scrum]({{< ref "/categories/scrum" >}}), the “what” and “how” are driven by Product and Sprint Goals. These provide directional clarity but remain inherently subjective—a north star guiding your path, not a litmus test of quality.
 
-Contrast this with the [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD). The DoD is your team’s objective compass—a binary, quantifiable checklist that ensures every [Increment]({{< ref "/tags/increment" >}}) meets professional-grade quality. It’s non-negotiable and should be firmly rooted in your product’s brand, user expectations, and technical robustness.
+In countless teams, there’s a recurring mix-up between “what” we’re building, “how” it aligns with business objectives, and the objective quality criteria by which it should be measured. The result? Chaos masquerading as agility. To clear the air: in [Scrum]({{< ref "/categories/scrum" >}}), the “what” and “how” are driven by Product and Sprint Goals. These provide directional clarity but remain inherently subjective, a north star guiding your path, not a litmus test of quality.
+
+Contrast this with the [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD). The DoD is your team’s objective compass, a binary, quantifiable checklist that ensures every [Increment]({{< ref "/tags/increment" >}}) meets professional-grade quality. It’s non-negotiable and should be firmly rooted in your product’s brand, user expectations, and technical robustness.
 
 #### TL;DR:
 
@@ -123,7 +123,7 @@ To maintain focus on quality, consider the following practices:
 
 ### Conclusion: The Quality of Done
 
-In Scrum, the Definition of Done is your minimum bar for quality. It’s the safeguard against [technical debt]({{< ref "/tags/technical-debt" >}}), the foundation for stakeholder trust, and the cornerstone of professional-grade delivery. By keeping your DoD objective, measurable, and focused on quality, you empower your team to build products that meet—and often exceed—user expectations. Remember, the DoD is a minimum bar, not a maximum aspiration. Raise it periodically and watch your product’s quality soar.
+In Scrum, the Definition of Done is your minimum bar for quality. It’s the safeguard against [technical debt]({{< ref "/tags/technical-debt" >}}), the foundation for stakeholder trust, and the cornerstone of professional-grade delivery. By keeping your DoD objective, measurable, and focused on quality, you empower your team to build products that meet, and often exceed, user expectations. Remember, the DoD is a minimum bar, not a maximum aspiration. Raise it periodically and watch your product’s quality soar.
 
 **What’s Your Take?**
 

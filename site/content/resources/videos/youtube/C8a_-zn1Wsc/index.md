@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking the Power of Immersive Learning in Agile: Overcoming Cognitive Bias'
+title: "Unlocking the Power of Immersive Learning in Agile: Overcoming Cognitive Bias"
 short_title: Immersive Learning in Agile to Overcome Bias
 description: Explores how immersive learning in Agile and Scrum helps overcome cognitive bias, promotes hands-on practice, and supports continuous improvement for practitioners.
 tldr: Immersive learning is essential for Agile teams because it exposes knowledge gaps and helps overcome overconfidence, leading to real skill growth. By focusing on hands-on practice, continuous feedback, and regular reflection, teams can drive ongoing improvement and avoid common pitfalls. Development managers should encourage immersive, practical learning environments to ensure their teams keep evolving and truly master Agile principles.
@@ -56,8 +56,8 @@ duration: 48
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 In the ever-evolving world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), one of the most valuable approaches to mastering the methodologies is immersive learning. It’s a technique that not only sharpens your understanding but also combats the cognitive biases we unknowingly harbor. As Agile practitioners, we often think we know more than we do about the framework. Immersive learning helps dismantle that illusion, forcing us to confront the reality of how much we still have to discover.
 
 In this post, we’ll explore the power of immersive learning in Agile, how it combats the Dunning-Kruger effect, and why it’s essential to keep learning by doing.
@@ -74,7 +74,7 @@ The Dunning-Kruger effect is a cognitive bias where individuals with low ability
 
 - Teams who claim to "do Agile" without grasping the core principles that underpin it.
 
-It’s easy to fall into the trap of thinking, "I’ve been doing this for years, so I know it inside and out." However, as any seasoned Scrum trainer will tell you, **real learning comes from doing**, and doing repeatedly—this is where immersive learning shines.
+It’s easy to fall into the trap of thinking, "I’ve been doing this for years, so I know it inside and out." However, as any seasoned Scrum trainer will tell you, **real learning comes from doing**, and doing repeatedly, this is where immersive learning shines.
 
 ## **The Power of Immersive Learning: Breaking Through the Dunning-Kruger Effect**
 
@@ -88,7 +88,7 @@ Immersive learning allows practitioners to engage deeply with Agile principles a
 
 - **Focus on Doing**: You can’t escape the need to do and learn by doing. It keeps you humble and grounded.
 
-In my experience as a Scrum trainer, I’ve seen how **immersive learning whittles away the illusion of knowledge**. You might think you’ve mastered Scrum, but once you start actively engaging with it—whether in a training simulation or on a real-world project—you begin to understand just how much you don’t know. And that’s a good thing!
+In my experience as a Scrum trainer, I’ve seen how **immersive learning whittles away the illusion of knowledge**. You might think you’ve mastered Scrum, but once you start actively engaging with it, whether in a training simulation or on a real-world project, you begin to understand just how much you don’t know. And that’s a good thing!
 
 ### **Personal Example: Discovering What You Don’t Know**
 
@@ -96,7 +96,7 @@ I recall one training session where a group of seasoned Agile practitioners join
 
 ## **[Continuous Improvement]({{< ref "/tags/continuous-improvement" >}}) Through Focus and Doing**
 
-One of the key lessons I emphasize in all my Scrum training sessions is the importance of **continuous improvement**. To be successful in Agile, you need to keep refining your skills and knowledge. This is where immersive learning really takes the lead. It’s not a one-time event but an ongoing process that keeps you focused on what truly matters—doing, reflecting, and improving.
+One of the key lessons I emphasize in all my Scrum training sessions is the importance of **continuous improvement**. To be successful in Agile, you need to keep refining your skills and knowledge. This is where immersive learning really takes the lead. It’s not a one-time event but an ongoing process that keeps you focused on what truly matters, doing, reflecting, and improving.
 
 ### **Why Focus Is Essential:**
 
@@ -138,10 +138,10 @@ Immersive learning is a powerful tool in the Agile world. It helps break down th
 
 Remember:
 
-- **You don’t know as much as you think you do**—and that’s okay! It’s part of the journey.
+- **You don’t know as much as you think you do**, and that’s okay! It’s part of the journey.
 
 - **Learning by doing** is the best way to uncover gaps in your knowledge.
 
 - **Stay focused, reflect, and keep improving** to become a better Agile practitioner.
 
-If you’re ready to take your Agile skills to the next level, immersive learning is the way forward. Whether you’re a [Scrum Master]({{< ref "/tags/scrum-master" >}}), [Product Owner]({{< ref "/tags/product-owner" >}}), or part of a development team, there’s always room to grow—so keep learning, keep doing, and keep improving! 😊
+If you’re ready to take your Agile skills to the next level, immersive learning is the way forward. Whether you’re a [Scrum Master]({{< ref "/tags/scrum-master" >}}), [Product Owner]({{< ref "/tags/product-owner" >}}), or part of a development team, there’s always room to grow, so keep learning, keep doing, and keep improving! 😊

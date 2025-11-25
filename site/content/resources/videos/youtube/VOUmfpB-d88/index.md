@@ -1,5 +1,5 @@
 ---
-title: 'Transforming Training: The Power of Immersive Learning in Scrum'
+title: "Transforming Training: The Power of Immersive Learning in Scrum"
 short_title: Immersive Learning in Scrum Training
 description: Explores how immersive, hands-on learning in Scrum boosts knowledge retention, practical skills, and continuous improvement compared to traditional training methods.
 tldr: Traditional two-day Scrum training is ineffective for lasting change because participants retain little and struggle to apply what they learn. Immersive learning, with shorter sessions spread over time, hands-on assignments, and ongoing feedback, leads to better retention, practical application, and continuous improvement. Development managers should consider adopting immersive training formats to drive real, sustainable transformation in their teams and organizations.
@@ -57,11 +57,11 @@ duration: 430
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ## **The Shift from Traditional to Immersive Learning**
 
-In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), training is not just about passing on knowledge—it's about creating real, actionable change in organizations. Our approach has evolved significantly, from traditional two-day workshops to a more engaging and practical immersive learning format. This shift is crucial for achieving lasting transformation in organizations.
+In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), training is not just about passing on knowledge, it's about creating real, actionable change in organizations. Our approach has evolved significantly, from traditional two-day workshops to a more engaging and practical immersive learning format. This shift is crucial for achieving lasting transformation in organizations.
 
 ### **Why Traditional Training Falls Short**
 
@@ -79,7 +79,7 @@ But there was a problem. It wasn't effective for the participants. Imagine a tea
 
 - **Application Challenges:** When they return to their daily work, the pressure is still on, and much of the training fades into the background.
 
-- **Minimal Impact:** Out of a room of 20 participants, each remembers a different 10%—and maybe 2% of that knowledge gets put into practice.
+- **Minimal Impact:** Out of a room of 20 participants, each remembers a different 10%, and maybe 2% of that knowledge gets put into practice.
 
 So, what's the solution? We needed a new approach.
 
@@ -100,23 +100,18 @@ The **immersive learning format** isn't just about delivering content; it's abou
 This format offers several advantages over the traditional model:
 
 1. **Compounded Learning** 📈
-    - In the traditional format, participants might retain 10% of the training content.
-    
-    - With immersive learning, they retain 10% of each session, and this knowledge builds over time.
-    
-    - The result? A **compounding effect** that leads to deeper understanding and greater practical application.
+   - In the traditional format, participants might retain 10% of the training content.
+   - With immersive learning, they retain 10% of each session, and this knowledge builds over time.
+   - The result? A **compounding effect** that leads to deeper understanding and greater practical application.
 
-3. **Hands-On Practice** 🛠️
-    - After each session, participants get assignments to try out in their organization.
-    
-    - This hands-on experience ensures that learning isn't just theoretical—it’s directly applicable to their unique challenges.
+2. **Hands-On Practice** 🛠️
+   - After each session, participants get assignments to try out in their organization.
+   - This hands-on experience ensures that learning isn't just theoretical, it’s directly applicable to their unique challenges.
 
-5. **Continuous Feedback Loop** 🔄
-    - After trying out their assignments, participants return to debrief.
-    
-    - They share what worked, what didn’t, and receive feedback.
-    
-    - This **feedback loop** is key to refining their approach and overcoming challenges.
+3. **Continuous Feedback Loop** 🔄
+   - After trying out their assignments, participants return to debrief.
+   - They share what worked, what didn’t, and receive feedback.
+   - This **feedback loop** is key to refining their approach and overcoming challenges.
 
 ### **Real-World Impact: A Personal Example**
 
@@ -132,11 +127,11 @@ That's when I began offering **immersive learning**. Instead of a single, overwh
 
 1. **Two-Day Format**: Effective for trainers but limited in retention and real-world impact.
 
-3. **Four Half-Day Format**: Better retention, but still lacked depth in application.
+2. **Four Half-Day Format**: Better retention, but still lacked depth in application.
 
-5. **Eight Half-Day Sessions**: Introduced the concept of assignments, compounding knowledge and practical experience.
+3. **Eight Half-Day Sessions**: Introduced the concept of assignments, compounding knowledge and practical experience.
 
-7. **Mentor Program (8-50 Weeks)**: A complete transformation, offering extended support, workshops, and tailored guidance.
+4. **Mentor Program (8-50 Weeks)**: A complete transformation, offering extended support, workshops, and tailored guidance.
 
 ### **The Game-Changer for Organizations**
 
@@ -154,11 +149,11 @@ Think of the immersive learning format as an **iterative process**, similar to h
 
 1. **Learn**: Participants engage in a focused session, diving deep into key concepts.
 
-3. **Apply**: They take assignments back to their organizations, implementing changes in real-world settings.
+2. **Apply**: They take assignments back to their organizations, implementing changes in real-world settings.
 
-5. **Review**: In the next session, we discuss their experiences, what worked, and what didn’t.
+3. **Review**: In the next session, we discuss their experiences, what worked, and what didn’t.
 
-7. **Improve**: With feedback, participants adjust their approach and try again.
+4. **Improve**: With feedback, participants adjust their approach and try again.
 
 This iterative cycle ensures that learning is always tied to action, making it far more effective than traditional methods.
 
@@ -182,7 +177,7 @@ This kind of **cross-pollination** is one of the most powerful aspects of immers
 
 ## **Final Thoughts: Why Immersive Learning Is the Future of Scrum Training**
 
-The shift to immersive learning isn't just about longer training programs—it's about **transforming how we learn and apply Scrum**. By focusing on:
+The shift to immersive learning isn't just about longer training programs, it's about **transforming how we learn and apply Scrum**. By focusing on:
 
 - **Compounding Knowledge**
 

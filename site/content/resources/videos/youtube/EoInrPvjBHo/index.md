@@ -1,5 +1,5 @@
 ---
-title: 'How to Overcome Agile Banditry: A Product Owner’s Journey'
+title: "How to Overcome Agile Banditry: A Product Owner’s Journey"
 short_title: Overcoming Agile Banditry for Product Owners
 description: Explains the pitfalls of micromanagement in Agile, showing Product Owners how to avoid "Agile Banditry" by focusing on vision, value, and empowering their teams.
 tldr: Product Owners who micromanage and focus on rigid task planning undermine team engagement and product success. Shifting to a focus on vision, value, and outcomes while empowering teams leads to higher motivation, better collaboration, and improved results. Development managers should encourage Product Owners to let go of detailed control, trust their teams, and prioritize clear goals and customer value.
@@ -60,13 +60,13 @@ duration: 197
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In Agile, there's a common misconception that leads to what I like to call "Agile Banditry." Product Owners, when misguided, can fall into the trap of treating their role as a project manager, dictating every step of the team’s progress like an overbearing taskmaster. This often leads to disengagement, frustration, and ultimately, a failed product. In this blog, we’ll explore the dangers of Agile Banditry and how Product Owners can avoid this trap, enabling their teams to thrive.
 
 ## **What is an Agile Bandit?**
 
-**Have you ever encountered a [Product Owner]({{< ref "/tags/product-owner" >}}) as an Agile Bandit?** I have. I once worked with a Product Owner who was obsessed with task-level planning. Every person on the team had a detailed Gantt chart—start times, end times, task dependencies—you name it. If the team followed this rigid plan perfectly, everything would supposedly work out just fine. But as you can guess, it didn’t.
+**Have you ever encountered a [Product Owner]({{< ref "/tags/product-owner" >}}) as an Agile Bandit?** I have. I once worked with a Product Owner who was obsessed with task-level planning. Every person on the team had a detailed Gantt chart, start times, end times, task dependencies, you name it. If the team followed this rigid plan perfectly, everything would supposedly work out just fine. But as you can guess, it didn’t.
 
 This mindset embodies Agile Banditry. The Product Owner believes that controlling every little detail of the team’s work will result in success. They’re so focused on the plan that they miss the bigger picture.
 
@@ -88,9 +88,9 @@ The role of the Product Owner centers around three key areas:
 
 1. **Vision**: Where are we going as a team? What is the ultimate goal of our product?
 
-3. **Value**: What are we delivering to our users or customers? How does this product improve their lives?
+2. **Value**: What are we delivering to our users or customers? How does this product improve their lives?
 
-5. **Validation**: Did we achieve what we set out to do? Are our users actually benefiting from the product?
+3. **Validation**: Did we achieve what we set out to do? Are our users actually benefiting from the product?
 
 If a Product Owner is overly focused on task-level planning, they lose sight of these core responsibilities. Instead, they need to trust the highly skilled team they’ve assembled. These are smart, capable individuals who know how to deliver amazing products. The Product Owner’s job is to guide them by providing a clear vision and ensuring the team stays focused on creating value.
 
@@ -106,15 +106,15 @@ If a Product Owner is overly focused on task-level planning, they lose sight of 
 
 So, what should a Product Owner do if they recognize Agile Bandit tendencies in themselves or their organization?
 
-1. **Let go of old habits**: Stop relying on detailed Gantt charts and micro-managed task lists. Focus on the big picture—goals, value, and customer needs.
+1. **Let go of old habits**: Stop relying on detailed Gantt charts and micro-managed task lists. Focus on the big picture, goals, value, and customer needs.
 
-3. **Trust your team**: You’ve hired smart, capable people to do the job. Let them own their work. If they have autonomy, they’ll be more engaged, and that will reflect in the quality of the product.
+2. **Trust your team**: You’ve hired smart, capable people to do the job. Let them own their work. If they have autonomy, they’ll be more engaged, and that will reflect in the quality of the product.
 
-5. **Focus on collaboration**: Agile is about teamwork, not top-down management. Encourage collaboration between team members and across departments. Instead of being a taskmaster, be a facilitator of discussions and decisions.
+3. **Focus on collaboration**: Agile is about teamwork, not top-down management. Encourage collaboration between team members and across departments. Instead of being a taskmaster, be a facilitator of discussions and decisions.
 
 ### **Personal Experience: A Team in Crisis**
 
-Let me share a personal example. I once worked with a team that had a Product Owner stuck in the Agile Bandit mindset. The Product Owner focused exclusively on delivering their detailed plan, and as a result, the team was disengaged. They didn’t care about the bigger picture—they were just trying to check boxes off a to-do list.
+Let me share a personal example. I once worked with a team that had a Product Owner stuck in the Agile Bandit mindset. The Product Owner focused exclusively on delivering their detailed plan, and as a result, the team was disengaged. They didn’t care about the bigger picture, they were just trying to check boxes off a to-do list.
 
 The Product Owner didn’t trust the team to figure out how to solve problems. Instead, they were laser-focused on each individual’s task list. The result? The team was frustrated, morale was low, and productivity was abysmal. There was no collaboration, no innovation, and no passion for the work.
 
@@ -138,4 +138,4 @@ Agile Banditry doesn’t just hurt the Product Owner; it hurts the entire team a
 
 - **Trust your team** to deliver amazing results when they’re given autonomy and support.
 
-**Prioritize engagement**—happy, empowered teams build the best products.
+**Prioritize engagement**, happy, empowered teams build the best products.

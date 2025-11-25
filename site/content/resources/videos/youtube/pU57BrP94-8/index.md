@@ -46,8 +46,8 @@ duration: 133
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning
 
 In my many years in the Agile landscape, I've keenly observed and deeply felt the power of immersive learning.  🚀 
@@ -72,7 +72,7 @@ And it's this direct application that truly makes immersive learning stand out b
 
 Immersive learning gives you the space you need in order to prepare and then approach the next learning session armed with practical experiences, including the good, the bad and the challenging tasks.  
 
-This is more than theoretical —it's learning interwoven with tasks and assignments that give you time to learn on the job. 
+This is more than theoretical , it's learning interwoven with tasks and assignments that give you time to learn on the job. 
 
 ## **Valuable Feedback**  
 
@@ -98,7 +98,7 @@ Wrapping things up, I'd like to finish off by saying that immersive learning has
 
 This is what makes this learning experience truly stand out.  
 
-Immersive learning isn't just another class—it's a meeting point of diverse insights. 
+Immersive learning isn't just another class, it's a meeting point of diverse insights. 
 
 Explore the Immersive Journey with Me 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Maximising Deployment Frequency: The Key to Faster Time to Market and Business Success'
+title: "Maximising Deployment Frequency: The Key to Faster Time to Market and Business Success"
 short_title: Maximising Deployment Frequency for Faster Delivery
 description: Explores how increasing deployment frequency, stable environments, and fast feedback loops improve software delivery, reduce time to market, and align with business goals.
 tldr: Increasing deployment frequency is key to reducing time to market and driving business success, but it only adds value if deployments reach production and enable fast learning from real user feedback. Focus on stable environments, end-to-end pipeline analysis, and shortening the time to learn so you can iterate quickly and align with business needs. Prioritise building trust with stakeholders, collecting actionable data, and enabling continuous delivery to respond rapidly to opportunities and deliver the right features at the right time.
@@ -61,8 +61,8 @@ resourceTypes:
 isShort: false
 ResourceId: 1-jUmFcyiI8
 ResourceType: videos
-
 ---
+
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've come to realise that [deployment frequency]({{< ref "/tags/deployment-frequency" >}}) is a crucial leading indicator of a company's ability to reduce [time to market]({{< ref "/tags/time-to-market" >}}). It’s a metric that, when understood correctly, can illuminate the path to more efficient delivery. However, it’s essential to remember that deploying frequently to a test environment doesn’t necessarily translate to success in production. I've seen teams that deploy to test environments with alarming regularity, yet their production deployments remain a struggle. This disconnect can be misleading.
 
 ### Understanding Deployment Metrics
@@ -70,8 +70,7 @@ In my journey through the world of [software development]({{< ref "/tags/softwar
 To truly gauge our deployment capabilities, we need to consider several factors:
 
 - **Stability of Environments**: A stable environment is key. If we can deploy to a stable environment consistently, we should be able to deliver to production more swiftly. This stability is a reasonable indicator of our deployment health.
-  
-- **End-to-End Pipeline Analysis**: I advocate for examining the entire pipeline—from ideation to delivery. This means tracking how long it takes to get features in front of customers and closing the feedback loop. The time it takes to learn from our deployments is often the most significant bottleneck.
+- **End-to-End Pipeline Analysis**: I advocate for examining the entire pipeline, from ideation to delivery. This means tracking how long it takes to get features in front of customers and closing the feedback loop. The time it takes to learn from our deployments is often the most significant bottleneck.
 
 ### The Time to Learn
 
@@ -79,7 +78,7 @@ The concept of "time to learn" is vital. It encompasses the entire cycle of coll
 
 1. **Identify Bottlenecks**: Look for the longest delays in your time to learn. Once identified, tackle these issues head-on. Streamlining these processes can lead to faster iterations and improved delivery.
 
-2. **Define Manageable Learning Times**: What constitutes a manageable time to learn? It’s about finding the balance—enough speed to meet customer expectations without incurring unnecessary costs. 
+2. **Define Manageable Learning Times**: What constitutes a manageable time to learn? It’s about finding the balance, enough speed to meet customer expectations without incurring unnecessary costs.
 
 3. **Align with Business Needs**: Understand the urgency of your sales team. They often promise features to customers, creating expectations that must be met. It’s crucial to ship features quickly to build and maintain trust.
 

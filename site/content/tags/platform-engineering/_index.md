@@ -27,7 +27,7 @@ Instructions: |-
   - Misinterpretations of platform engineering that do not align with the core principles of enhancing developer efficiency and application management.
 headline:
   cards: []
-  title: 'Platform Engineering: Empowering Developers Through Self-Service Platforms'
+  title: "Platform Engineering: Empowering Developers Through Self-Service Platforms"
   subtitle: Empowering developer autonomy and accelerating value delivery through internal platforms, streamlined interfaces, self-service tooling, and rapid feedback loops.
   content: Platform Engineering encompasses the design, creation, and ongoing refinement of internal platforms that empower development teams to independently deliver value with speed, reliability, and reduced cognitive load, emphasising self-service tooling, infrastructure abstraction, continuous feedback loops, and alignment with organisational strategy to enable rapid experimentation and resilient software delivery at scale.
   updated: 2025-05-23T23:17:02Z
@@ -51,12 +51,12 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
+
 Platform Engineering is the practice of designing, building, and maintaining internal platforms that enable developers to deliver value independently, reliably, and at pace.
 
 It focuses on reducing cognitive load by abstracting infrastructure and operational complexity behind well-designed interfaces, tools, and APIs. These platforms are treated as products, with clear ownership, feedback loops, and continuous improvement driven by developer needs.
 
-A well-functioning platform engineering capability provides paved paths and self-service tooling that support secure, observable, and resilient software delivery—without enforcing constraints that limit innovation. It creates the conditions for fast feedback, safe experimentation, and autonomous delivery across teams.
+A well-functioning platform engineering capability provides paved paths and self-service tooling that support secure, observable, and resilient software delivery, without enforcing constraints that limit innovation. It creates the conditions for fast feedback, safe experimentation, and autonomous delivery across teams.
 
 The outcome of Platform Engineering is not simply tools, but a coherent developer experience that aligns with organisational strategy and enables continuous value delivery at scale.

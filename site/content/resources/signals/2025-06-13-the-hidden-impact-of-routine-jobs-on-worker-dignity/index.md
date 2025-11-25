@@ -41,13 +41,13 @@ Watermarks:
   tldr: 2025-08-07T12:11:09Z
 ResourceId: Gp4e7gPmb-Q
 ResourceType: signals
-
 ---
+
 When we invented jobs like scanning groceries, packing boxes, or cleaning toilets, we weren’t aiming for dignity. We were optimising output. We engineered these roles to be mindless, repeatable, and replaceable.
 
 That’s not work. That’s industrial subjugation.
 
-Now that robots and AI are taking those jobs, people panic. But ask yourself—are we really mourning the loss of human fulfilment? Or just clinging to broken systems that assumed most people aren’t capable of critical thinking?
+Now that robots and AI are taking those jobs, people panic. But ask yourself, are we really mourning the loss of human fulfilment? Or just clinging to broken systems that assumed most people aren’t capable of critical thinking?
 
 This isn’t a threat to humanity. It’s a threat to Taylorism and the lies it told us about what people are for.
 

@@ -1,5 +1,5 @@
 ---
-title: 'How AI is Revolutionising Our Work: Embrace the Future of Productivity and Creativity'
+title: "How AI is Revolutionising Our Work: Embrace the Future of Productivity and Creativity"
 short_title: How AI Is Revolutionising Our Work
 description: Explores how AI boosts workplace productivity and creativity by automating tasks, aiding idea generation, and empowering professionals to work more efficiently.
 tldr: AI is rapidly transforming work by boosting productivity and creativity, acting as a supportive tool for idea generation, content creation, and automating repetitive tasks. Teams that adopt AI can work more efficiently and gain a competitive advantage. Development managers should start exploring and integrating AI tools now to stay ahead in a changing landscape.
@@ -46,13 +46,13 @@ duration: 263
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 The question on everyone’s lips these days is: how is technology, particularly AI, changing the world we work in? I genuinely believe we are on the cusp of a significant revolutionary shift rather than just an evolutionary one. AI isn’t here to take your job; rather, it’s a powerful tool that acts as a sidekick or co-pilot, enhancing our capabilities as we navigate our daily tasks.
 
 ### My Personal Experience with AI
 
-I’ve found AI to be incredibly useful in my own work. For instance, when I’m brainstorming ideas on a specific topic, I often turn to AI to generate suggestions. It’s a game-changer! Instead of staring at a blank page, I can input my thoughts and let AI provide a fresh perspective. Sure, some of the suggestions might be less than stellar, but that’s the beauty of it—I remain the author, the one in control. AI simply nudges me in the right direction, helping to jog my memory or spark new ideas.
+I’ve found AI to be incredibly useful in my own work. For instance, when I’m brainstorming ideas on a specific topic, I often turn to AI to generate suggestions. It’s a game-changer! Instead of staring at a blank page, I can input my thoughts and let AI provide a fresh perspective. Sure, some of the suggestions might be less than stellar, but that’s the beauty of it, I remain the author, the one in control. AI simply nudges me in the right direction, helping to jog my memory or spark new ideas.
 
 Here are a few ways I leverage AI in my work:
 
@@ -74,4 +74,4 @@ I encourage you to start incorporating AI into your work as soon as possible. Ev
 
 In conclusion, AI is not just a tool; it’s a catalyst for change. It’s going to transform every aspect of our work life, making us more effective and productive. So, get on board, or risk being left behind in this rapidly evolving landscape.
 
-Thank you for reading! If you found this post insightful, please like, follow, and subscribe. I always welcome comments, and if you’d like to discuss this topic further—be it Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}})—feel free to book a coffee chat with me through Naked Agility. Let’s navigate this exciting journey together!
+Thank you for reading! If you found this post insightful, please like, follow, and subscribe. I always welcome comments, and if you’d like to discuss this topic further, be it Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee chat with me through Naked Agility. Let’s navigate this exciting journey together!

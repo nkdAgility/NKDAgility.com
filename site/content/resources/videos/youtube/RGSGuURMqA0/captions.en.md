@@ -1,6 +1,6 @@
 You don't have to choose trends if you've built agility into your core, because when your systems are adaptable and your teams know how to respond to change, you're not scrabbling to keep up. You're ready.
 
-That's what DevOps and agile are really about—not velocity for its own sake, but reducing the friction that holds you back when changes hit.
+That's what DevOps and agile are really about, not velocity for its own sake, but reducing the friction that holds you back when changes hit.
 
 Want to adopt a new tool, try a different architecture, rethink how you deliver? Great. But if your delivery pipeline's fragile, your teams are overloaded, and every change is a drama, it doesn't matter how shiny the tech is.
 

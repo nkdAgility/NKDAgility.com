@@ -55,13 +55,13 @@ Watermarks:
   tldr: 2025-08-07T12:34:35Z
 ResourceId: 8EauPhROdZq
 ResourceType: signals
-
 ---
+
 “Teams are self-managing. We don’t need a Scrum Master telling us what to do.”
 
 That’s a common misconception. Yes, Scrum is designed for self-managing teams, but self-management is not the absence of structure.
 
-Autonomy exists within constraints—Scrum events, commitments, and organisational needs define the playing field. Without that, self-management turns into chaos.
+Autonomy exists within constraints, Scrum events, commitments, and organisational needs define the playing field. Without that, self-management turns into chaos.
 
 Scrum Masters aren’t there to micromanage. They ensure the team has clarity, alignment, and accountability. They protect Scrum, not by controlling every decision, but by maintaining the conditions for teams to thrive.
 

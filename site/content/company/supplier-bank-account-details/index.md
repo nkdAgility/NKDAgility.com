@@ -24,8 +24,8 @@ ItemId: G01vLjDYclY
 ResourceId: G01vLjDYclY
 ResourceType: company
 ItemContentOrigin: human
-
 ---
+
 # Supplier & Bank Account Details
 
 Welcome to the comprehensive guide on supplier and corporate details for naked Agility Ltd. Below, you will find all the essential information regarding invoices, banking details, corporate registration, and insurance. This document aims to ensure you have the necessary details to handle all financial and corporate transactions smoothly.
@@ -112,4 +112,4 @@ We follow a fit-for-purpose information security model tailored to the nature an
 - **Privacy Officer:** Martin Hinshelwood, Managing Director
 - **Confidentiality:** All engagements are covered by mutual confidentiality terms; subcontractors, if used, are bound by equivalent agreements
 - **Hardware Security:** All consulting access is limited to a single hardened, encrypted device under sole control of the consultant. No unmanaged hardware is used
-- **Access Control:** Least privilege is enforced through role boundaries, access scope, and system isolation — not through redundant user account separation, which offers no additional benefit in a professionally-managed setup
+- **Access Control:** Least privilege is enforced through role boundaries, access scope, and system isolation , not through redundant user account separation, which offers no additional benefit in a professionally-managed setup

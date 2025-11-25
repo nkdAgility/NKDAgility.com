@@ -1,7 +1,7 @@
 ---
 title: The Missing Lever in Agile Transformations
 short_title: The Missing Lever in Agile Transformations
-description: Most agile transformations fail by neglecting agency—empowering people and systems to adapt—making true agility possible through autonomy, evidence, and continuous learning.
+description: Most agile transformations fail by neglecting agency, empowering people and systems to adapt, making true agility possible through autonomy, evidence, and continuous learning.
 tldr: Agile transformations often fail because they focus on following ceremonies instead of building real agency in people and systems. True agility comes from empowering individuals and teams to make decisions and adapt, supported by evidence-based management to measure outcomes and guide change. To succeed, shift your transformation efforts from compliance to fostering agency and use data to drive continuous improvement.
 date: 2025-06-02T09:00:00Z
 lastmod: 2025-06-02T09:00:00Z
@@ -48,8 +48,8 @@ Watermarks:
   tldr: 2025-08-07T12:28:58Z
 ResourceId: RevK05qtZD7
 ResourceType: blog
-
 ---
+
 Most agile transformations fail not because they get the ceremonies wrong, but because they misunderstand the real point: **cultivating agency** in people and systems.
 
 You can install all the stand-ups, backlogs, retrospectives, and planning sessions you want. Without genuine agency, you're not transforming. You're decorating.

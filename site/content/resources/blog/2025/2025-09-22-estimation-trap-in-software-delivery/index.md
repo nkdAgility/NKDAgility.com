@@ -1,7 +1,7 @@
 ---
-title: 'The Estimation Trap: How Tracking Accuracy Undermines Trust, Flow, and Value in Software Delivery'
+title: "The Estimation Trap: How Tracking Accuracy Undermines Trust, Flow, and Value in Software Delivery"
 short_title: The Estimation Trap in Software Delivery
-description: Tracking estimation accuracy in software delivery leads to mistrust, fear, and distorted behaviours. Focus on customer value, flow, and outcomes—not estimate compliance.
+description: Tracking estimation accuracy in software delivery leads to mistrust, fear, and distorted behaviours. Focus on customer value, flow, and outcomes, not estimate compliance.
 tldr: Focusing on estimation accuracy as a performance metric leads to fear, gaming, and a culture of compliance rather than real improvement, which undermines trust, innovation, and actual value delivery. Research shows that when teams are judged on how closely they meet estimates, they pad numbers, hide risks, and avoid complex work, resulting in false success and missed opportunities for learning. Instead, shift attention to evidence-based metrics that reflect customer value, system health, and delivery flow, and use estimates only to support learning and informed conversations, not as tools for control.
 date: 2025-09-22T09:00:00Z
 lastmod: 2025-09-22T09:00:00Z
@@ -57,8 +57,8 @@ Watermarks:
 canvas: https://chatgpt.com/c/688ba001-adac-832a-ab90-0a1aa609facf
 ResourceId: rE-_hlb3Y34
 ResourceType: blog
-
 ---
+
 In many software organisations, estimation accuracy is mistaken for predictability and control. Leadership asks teams to compare _original estimates_ to _actuals_ in hopes of improving forecasts. But this creates a false sense of certainty , one that undermines trust, distorts priorities, and derails delivery.
 
 ## When the Metric Becomes the Target

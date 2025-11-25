@@ -56,13 +56,13 @@ duration: 267
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), one crucial element often overlooked is the **visualization of work**. It’s not just about getting things done; it’s about understanding the flow of value within your system. As a [Scrum Master]({{< ref "/tags/scrum-master" >}}) or Agile practitioner, the ability to visualize your work will empower your team to be more effective, transparent, and aligned. Today, we’ll explore how visualization can transform your [Kanban]({{< ref "/categories/kanban" >}}) strategy, improve collaboration, and streamline processes for better results.
 
 ## **Why Visualization is Crucial**
 
-Visualization is a game-changer when it comes to implementing a successful Kanban strategy. It’s not enough to _assume_ everyone is on the same page—without clear visual cues, your team might interpret workflows and priorities differently.
+Visualization is a game-changer when it comes to implementing a successful Kanban strategy. It’s not enough to _assume_ everyone is on the same page, without clear visual cues, your team might interpret workflows and priorities differently.
 
 I’m a huge fan of tools like **Azure [DevOps]({{< ref "/categories/devops" >}})** and **Jira** that allow you to _see_ your work on a board. These platforms make it easy to track the smallest units of value as they move across the board, giving everyone clarity on the status of tasks.
 
@@ -74,7 +74,7 @@ Here’s why it’s so effective:
 
 - 🟢 **[Transparency]({{< ref "/tags/transparency" >}})**: Everyone in the team has a shared understanding of what’s being worked on and where things stand in the workflow.
 
-But—and this is a _big_ but—while visualization is essential, it’s not always easy to create.
+But, and this is a _big_ but, while visualization is essential, it’s not always easy to create.
 
 ### **The Challenge of Creating a Shared Visualization**
 
@@ -84,7 +84,7 @@ One of the most common issues I see in teams is **misalignment**. You may think 
 
 I’m a bit of a board game enthusiast (yes, I’ve got a collection!). Imagine taking a board game off the shelf, throwing away the rulebook, and telling everyone to make up their own rules. Each player will interpret the pieces differently, and despite their best efforts, the game will fall apart. The same is true for your Kanban board.
 
-If your team hasn’t sat down and _defined the rules_—the workflow, what gets visualized, and how the process works—you’re all playing different versions of the same game. And that leads to confusion and inefficiencies.
+If your team hasn’t sat down and _defined the rules_, the workflow, what gets visualized, and how the process works, you’re all playing different versions of the same game. And that leads to confusion and inefficiencies.
 
 ## **Writing the Rulebook: Defining Your Kanban System**
 
@@ -136,7 +136,7 @@ By taking the time to define your Kanban system and visualize your work, you’r
 
 ### **What If You’re Struggling?**
 
-If your team is struggling to define the workflow or visualize the system, don’t worry—you’re not alone. Many teams face this challenge, especially when they’re new to Kanban or Scrum. That’s why we offer **world-class Kanban training** and **consulting services** to help teams like yours implement effective Kanban strategies.
+If your team is struggling to define the workflow or visualize the system, don’t worry, you’re not alone. Many teams face this challenge, especially when they’re new to Kanban or Scrum. That’s why we offer **world-class Kanban training** and **consulting services** to help teams like yours implement effective Kanban strategies.
 
 ## **Bringing in Flow Metrics**
 
@@ -144,10 +144,10 @@ For teams that are using Scrum, I always recommend bringing in **flow metrics** 
 
 By combining flow metrics with your visual board, you can make data-driven decisions that improve your team’s performance over time.
 
-* * *
+---
 
 ## **Conclusion: Visualize, Align, and Succeed** **🎯**
 
 Visualizing your work is a foundational practice in any successful Kanban or Scrum implementation. It provides clarity, transparency, and accountability for your team. But more importantly, it ensures that everyone is aligned on how the system works. Without that alignment, even the best-laid plans will fall apart.
 
-So, take the time to define your workflow, create a shared visualization, and ensure your team is playing the same game. If you’re struggling to get started or need guidance on improving your system, we’re here to help. Our **Kanban training** and **[coaching]({{< ref "/tags/coaching" >}}) services** are designed to help teams implement best practices and achieve their goals. In the end, it’s not just about moving cards across a board—it’s about moving your team toward success.
+So, take the time to define your workflow, create a shared visualization, and ensure your team is playing the same game. If you’re struggling to get started or need guidance on improving your system, we’re here to help. Our **Kanban training** and **[coaching]({{< ref "/tags/coaching" >}}) services** are designed to help teams implement best practices and achieve their goals. In the end, it’s not just about moving cards across a board, it’s about moving your team toward success.

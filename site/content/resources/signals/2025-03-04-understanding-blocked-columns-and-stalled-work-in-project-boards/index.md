@@ -48,14 +48,14 @@ Watermarks:
   tldr: 2025-08-07T12:35:14Z
 ResourceId: 6K6oGV9pRbC
 ResourceType: signals
-
 ---
-Blocked columns seem harmless—just another column to keep track of stalled work. But they aren’t harmless. They’re workflow kryptonite.
+
+Blocked columns seem harmless, just another column to keep track of stalled work. But they aren’t harmless. They’re workflow kryptonite.
 
 Here’s the problem: A column should represent a state that work naturally flows through. But if your team is routinely moving work into “Blocked,” it means getting stuck has become part of the process. That’s a serious issue.
 
 What happens next? The work sits. The team assumes someone else will handle it. WIP limits inflate. Context gets lost. Tasks lose priority. Before you know it, the board is cluttered with forgotten work, and real progress is suffocating under the weight of “maybe someday.”
 
-A better approach? Keep blocked work in its current column. Tag it, highlight it, raise the alarm—but never let it disappear into a column that signals "not my problem."
+A better approach? Keep blocked work in its current column. Tag it, highlight it, raise the alarm, but never let it disappear into a column that signals "not my problem."
 
 How does your team surface and handle blocked work?

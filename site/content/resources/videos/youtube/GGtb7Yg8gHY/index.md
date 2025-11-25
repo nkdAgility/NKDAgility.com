@@ -1,5 +1,5 @@
 ---
-title: 'Navigating Team Conflict: From Healthy Disagreement to Agile Harmony'
+title: "Navigating Team Conflict: From Healthy Disagreement to Agile Harmony"
 short_title: Navigating Team Conflict in Agile Teams
 description: Explores recognising and managing team conflict in Agile, outlining stages from healthy disagreement to destructive "war" and offering practical de-escalation strategies.
 tldr: Team conflict is normal and can drive innovation, but if disagreements escalate unchecked, they can harm team dynamics and project outcomes. Managers should watch for signs of unhealthy conflict and use open communication, objective discussions, mediation, and clear team norms to de-escalate issues early. Addressing conflict directly helps maintain productivity and keeps teams focused on delivering value together.
@@ -49,11 +49,11 @@ duration: 42
 resourceTypes:
   - video
 isShort: true
-
 ---
-In my journey through the world of Agile, I've often encountered various signs that indicate a team is veering off course. One of the most alarming of these signs is what I like to call "war"—a manifestation of team conflict that can derail even the most promising projects. 
 
-Now, let me clarify: it's perfectly normal for team members to have disagreements. In fact, I believe that these discussions are crucial for innovation. When diverse perspectives clash, that's where the magic happens. However, there's a fine line between healthy debate and a full-blown contest where the goal shifts from collaboration to winning the argument. 
+In my journey through the world of Agile, I've often encountered various signs that indicate a team is veering off course. One of the most alarming of these signs is what I like to call "war", a manifestation of team conflict that can derail even the most promising projects.
+
+Now, let me clarify: it's perfectly normal for team members to have disagreements. In fact, I believe that these discussions are crucial for innovation. When diverse perspectives clash, that's where the magic happens. However, there's a fine line between healthy debate and a full-blown contest where the goal shifts from collaboration to winning the argument.
 
 ### The Escalation of Conflict
 
@@ -62,7 +62,7 @@ When disagreements escalate, it can lead to a toxic environment. Here’s how I 
 - **Healthy Disagreement**: Team members share differing opinions, leading to constructive discussions and creative solutions.
 - **Argument**: The focus shifts from collaboration to proving a point, and emotions can start to run high.
 - **Conflict**: At this stage, the disagreement becomes personal, and team dynamics begin to suffer.
-- **War**: This is the worst-case scenario, where the conflict escalates to a point of no return—think of it as a Crusade or World War among team members.
+- **War**: This is the worst-case scenario, where the conflict escalates to a point of no return, think of it as a Crusade or World War among team members.
 
 As a [Scrum]({{< ref "/categories/scrum" >}}) Master, it’s my responsibility to recognise when we’re approaching that dangerous territory of "war." If I see the team gearing up for battle, it’s time to step in and de-escalate the situation.
 

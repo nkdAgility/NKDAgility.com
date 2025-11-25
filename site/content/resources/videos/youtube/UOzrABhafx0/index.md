@@ -1,5 +1,5 @@
 ---
-title: 'Mastering Product Backlog Management: Insights from the New Scrum.org Course'
+title: "Mastering Product Backlog Management: Insights from the New Scrum.org Course"
 short_title: Mastering Product Backlog Management
 description: Learn practical skills for effective product backlog management, including item creation, prioritisation, breakdown, and alignment with business goals to boost Agile team success.
 tldr: Scrum.org’s new Product Backlog Management course offers focused, practical training in backlog management, helping teams capture, prioritize, and break down work for better clarity and alignment. The compact 8-hour format teaches actionable techniques to minimize distractions, improve transparency, and ensure teams deliver high-value work that supports business goals. Development managers should consider this course to streamline their backlog processes and boost team efficiency.
@@ -58,8 +58,8 @@ duration: 114
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In today's fast-paced Agile environments, effective [product backlog]({{< ref "/tags/product-backlog" >}}) management is key to ensuring teams stay focused, aligned, and efficient. [Scrum]({{< ref "/categories/scrum" >}}).org has recently launched a new **Product Backlog Management** course, and it’s shaping up to be an exciting addition to their offerings. Having worked with countless teams and seen firsthand how backlog mismanagement can derail progress, this course offers practical, actionable skills that every [Scrum team]({{< ref "/tags/scrum-team" >}}) can benefit from.
 
 Let's dive into what makes this course unique and why mastering product backlog management can significantly impact your team's success.
@@ -72,7 +72,7 @@ The new **Product Backlog Management** course from Scrum.org has been a long tim
 
 - **Shorter Duration**: Unlike the typical 16-hour courses, this one is a compact 8-hour class, perfect for professionals with limited time.
 
-- **Focused Learning**: It narrows down on one crucial skill—product backlog management—ensuring you leave with deep, actionable insights.
+- **Focused Learning**: It narrows down on one crucial skill, product backlog management, ensuring you leave with deep, actionable insights.
 
 👉 **Why is this important?** In my experience, teams often struggle because they’re overloaded with general knowledge but lack mastery of specific, critical skills. This course cuts through the noise and helps you build expertise in backlog management, which is the backbone of effective Agile delivery.
 
@@ -82,7 +82,7 @@ This course is designed to help you grasp the **nuances of managing a product ba
 
 ### **1\. Where Do Backlog Items Come From?**
 
-Understanding where backlog items originate is fundamental. Often, teams gather requirements from various sources—stakeholders, customer feedback, or [technical debt]({{< ref "/tags/technical-debt" >}})—but struggle to organize and prioritize them effectively.
+Understanding where backlog items originate is fundamental. Often, teams gather requirements from various sources, stakeholders, customer feedback, or [technical debt]({{< ref "/tags/technical-debt" >}}), but struggle to organize and prioritize them effectively.
 
 - You’ll learn how to **capture backlog items** from diverse sources.
 
@@ -98,7 +98,7 @@ Managing backlog items is more than just listing tasks. It’s about crafting st
 
 - Breaking down large items into **smaller, consumable units** of work.
 
-- Maximizing [transparency]({{< ref "/tags/transparency" >}}), ensuring everyone—from developers to stakeholders—understands the status and priority of each item.
+- Maximizing [transparency]({{< ref "/tags/transparency" >}}), ensuring everyone, from developers to stakeholders, understands the status and priority of each item.
 
 ### **3\. The Art of Breaking Down Backlog Items**
 

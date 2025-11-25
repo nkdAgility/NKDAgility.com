@@ -1,5 +1,5 @@
 ---
-title: 'Mastering Evidence-Based Management in Agile: Inform, Don’t Control'
+title: "Mastering Evidence-Based Management in Agile: Inform, Don’t Control"
 short_title: Evidence-Based Management in Agile
 description: Explains how to use data in Agile management to guide decisions and behaviours, focusing on informed outcomes without letting metrics control teams or stifle value delivery.
 tldr: Evidence-Based Management helps you use data to guide decisions and understand team behaviors, but it should inform rather than control actions. Define clear outcomes, choose metrics that align with those goals, and use data as a conversation starter to uncover challenges and drive improvement. Regularly review metrics with your teams to stay aligned and focus on delivering real value, not just hitting targets.
@@ -58,19 +58,19 @@ duration: 414
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ## **What is Evidence-Based Management?**
 
-**Evidence-Based Management (EBM)** is the strategic use of data to inform decision-making processes at both the strategic and tactical levels of an organization. It’s about using data as a guide—not a dictator—to shape behaviors and drive outcomes that benefit your business.
+**Evidence-Based Management (EBM)** is the strategic use of data to inform decision-making processes at both the strategic and tactical levels of an organization. It’s about using data as a guide, not a dictator, to shape behaviors and drive outcomes that benefit your business.
 
 In essence, it’s not about letting numbers rule your every move; instead, you gather data to **inform your actions** and **understand the behaviors** that impact the results. Let’s dive into how EBM can transform your approach to management and decision-making.
 
-* * *
+---
 
 ## **Why Data Matters (But Shouldn’t Control)**
 
-**Data informs behaviors.** The way you measure your team's performance has a direct impact on how they behave. Ever encountered someone in your organization who seems to be working against the team’s goals or is less engaged than expected? 🤔 Often, it's not a personal issue—it’s about the metrics they’re being judged on.
+**Data informs behaviors.** The way you measure your team's performance has a direct impact on how they behave. Ever encountered someone in your organization who seems to be working against the team’s goals or is less engaged than expected? 🤔 Often, it's not a personal issue, it’s about the metrics they’re being judged on.
 
 ### **Here’s Why That Happens:**
 
@@ -82,7 +82,7 @@ In essence, it’s not about letting numbers rule your every move; instead, you 
 
 **Pro tip:** If you notice a team member's actions aren't aligning with your expectations, dig into the metrics they are held accountable for. It can provide clarity on why they behave the way they do.
 
-* * *
+---
 
 ## **Using Metrics to Drive Positive Outcomes**
 
@@ -116,7 +116,7 @@ Let’s say your organization is running a live service and you want to minimize
 
 By tracking this, you can monitor whether issues are being resolved promptly and identify any trends. For instance, if most teams resolve issues quickly but one team struggles with incidents lingering beyond six or seven sprints, it’s a flag to investigate further. 🚩
 
-* * *
+---
 
 ## **Informing Decisions Without Over-Controlling**
 
@@ -130,11 +130,11 @@ Imagine a team has unresolved incidents beyond the typical three-sprint window. 
 
 - Dealing with **external dependencies** that are slowing down their resolution process.
 
-In such cases, the team might be doing everything right—**chasing the issue, applying pressure**, and keeping it on their radar—but progress is slow due to factors outside their control. 📅
+In such cases, the team might be doing everything right, **chasing the issue, applying pressure**, and keeping it on their radar, but progress is slow due to factors outside their control. 📅
 
 The takeaway? **Data informs but doesn’t dictate.** Use it as a conversation starter to understand the challenges your teams face.
 
-* * *
+---
 
 ## **Making Data-Driven Decisions: A Balanced Approach**
 
@@ -142,15 +142,15 @@ The takeaway? **Data informs but doesn’t dictate.** Use it as a conversation s
 
 1. **Collect Data**: Gather quantitative and qualitative data from your teams.
 
-3. **Analyze the Metrics**: Identify patterns, trends, and anomalies.
+2. **Analyze the Metrics**: Identify patterns, trends, and anomalies.
 
-5. **Ask Questions**: Use the data as a basis to ask deeper questions about what’s happening.
+3. **Ask Questions**: Use the data as a basis to ask deeper questions about what’s happening.
 
-7. **Make Informed Decisions**: Apply your findings to make decisions that align with your desired outcomes.
+4. **Make Informed Decisions**: Apply your findings to make decisions that align with your desired outcomes.
 
 ### **Why Metrics Have Gaps (And How to Bridge Them)**
 
-Data doesn’t always tell the whole story. There will be **gaps and unknowns**. The key is to **extrapolate from what you do know** and make informed assumptions about the rest. Think of it like putting together a puzzle—sometimes, you need to infer the missing pieces.
+Data doesn’t always tell the whole story. There will be **gaps and unknowns**. The key is to **extrapolate from what you do know** and make informed assumptions about the rest. Think of it like putting together a puzzle, sometimes, you need to infer the missing pieces.
 
 ### **Practical Tips for Implementing EBM**
 
@@ -160,7 +160,7 @@ Data doesn’t always tell the whole story. There will be **gaps and unknowns**.
 
 - **Engage your teams in the process**, allowing them to understand how their work impacts the metrics and outcomes.
 
-* * *
+---
 
 ## **Transforming Your Organization with Evidence-Based Management**
 
@@ -178,11 +178,11 @@ By adopting an evidence-based approach, your organization can enjoy several bene
 
 ### **Personal Advice from the Field**
 
-As a [Scrum]({{< ref "/categories/scrum" >}}) Trainer, I’ve seen firsthand the transformative power of EBM in organizations. It’s not about hitting a specific number every time—it’s about using data to **guide meaningful conversations** and **adjust your course** when needed.
+As a [Scrum]({{< ref "/categories/scrum" >}}) Trainer, I’ve seen firsthand the transformative power of EBM in organizations. It’s not about hitting a specific number every time, it’s about using data to **guide meaningful conversations** and **adjust your course** when needed.
 
 Remember, it’s okay if the data doesn’t always tell you what you want to hear. 📊 It’s a tool to help you get closer to your goals, not a measure of your worth or your team’s value.
 
-* * *
+---
 
 ## **Final Thoughts: Using Data to Inform, Not Dictate**
 
@@ -192,6 +192,6 @@ Remember, it’s okay if the data doesn’t always tell you what you want to hea
 
 - **Choose metrics** that align with those goals.
 
-- **Use data to inform**—not dictate—your decisions.
+- **Use data to inform**, not dictate, your decisions.
 
-By following this approach, you can create a culture where data is a trusted advisor, not a demanding boss. This shift can lead to better decisions, more engaged teams, and ultimately, **greater value delivery** for your customers. 🚀 Now, go forth and let data be your guide—not your master!
+By following this approach, you can create a culture where data is a trusted advisor, not a demanding boss. This shift can lead to better decisions, more engaged teams, and ultimately, **greater value delivery** for your customers. 🚀 Now, go forth and let data be your guide, not your master!

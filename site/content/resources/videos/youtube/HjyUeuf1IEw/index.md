@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking Agile Success: Embrace Continuous Forecasting and Transform Your Training Experience'
+title: "Unlocking Agile Success: Embrace Continuous Forecasting and Transform Your Training Experience"
 short_title: Agile Training & Continuous Forecasting Strategies
 description: Explore practical strategies for Agile training, including virtual class setups, continuous forecasting, and using metrics to improve planning, learning, and team outcomes.
 tldr: Continuous forecasting in Agile, supported by metrics and tools like Monte Carlo simulations, enables teams to plan flexibly and adapt quickly rather than committing to a full sprint plan upfront. Virtual training with interactive tools and follow-up sessions has improved learning and engagement. Development managers should consider adopting continuous forecasting and leveraging available training resources to enhance team performance and responsiveness.
@@ -47,13 +47,13 @@ duration: 1331
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 As I sit here in my office, I’m excited to share some insights from my recent experiences in the world of Agile training and the innovative approaches we’re adopting to enhance our learning environments. This week, I want to delve into a couple of key topics: the new training programme I’ve launched and the concept of continuous [forecasting]({{< ref "/tags/forecasting" >}}), which I discussed with Daniel Vacanti during our recent Professional [Scrum]({{< ref "/categories/scrum" >}}) with [Kanban]({{< ref "/categories/kanban" >}}) class.
 
 ### Office Hours and Engagement
 
-Every Wednesday at 6 p.m. BST, I host office hours where I’m available to answer your questions. This is a fantastic opportunity for anyone looking to deepen their understanding of Agile practices or seeking advice on specific challenges they face in their teams. I encourage you to join in, whether live or by submitting questions in advance. If you prefer anonymity, there’s a simple form you can fill out—no identification required.
+Every Wednesday at 6 p.m. BST, I host office hours where I’m available to answer your questions. This is a fantastic opportunity for anyone looking to deepen their understanding of Agile practices or seeking advice on specific challenges they face in their teams. I encourage you to join in, whether live or by submitting questions in advance. If you prefer anonymity, there’s a simple form you can fill out, no identification required.
 
 ### Virtual Training Setup
 
@@ -62,14 +62,13 @@ Over the past few months, I’ve been conducting all my classes virtually, and I
 Here’s a quick overview of how I prepare for these classes:
 
 - **Tech Checks**: A week before each class, I conduct a tech check to ensure everyone can connect seamlessly. This involves guiding participants on how to log in correctly, as there are multiple ways to access Teams, and I want to avoid any hiccups on the day.
-  
 - **Utilising Tools**: We also use Mural, a digital whiteboarding tool, which allows for interactive sessions. I ensure that all outputs from our sessions are accessible to students post-class, enhancing their learning experience.
 
 - **Reification Sessions**: I’ve introduced what I call “reification sessions” two weeks after the class. This is a chance for students to revisit concepts, discuss challenges they’ve encountered, and solidify their understanding. It’s an informal yet valuable way to reinforce learning.
 
 ### Continuous Forecasting
 
-Now, let’s talk about continuous forecasting. This concept emerged during our Professional Scrum with Kanban class, and it’s a game-changer for how we approach sprint planning and daily scrums. 
+Now, let’s talk about continuous forecasting. This concept emerged during our Professional Scrum with Kanban class, and it’s a game-changer for how we approach sprint planning and daily scrums.
 
 The Scrum Guide doesn’t mandate that we plan our entire sprint upfront. Instead, it emphasises having enough of a plan to get started. This means we can adopt a more flexible approach, focusing on the immediate next steps rather than trying to predict every task for the entire sprint. Here’s how I suggest we can implement this:
 

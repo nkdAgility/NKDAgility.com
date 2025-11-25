@@ -1,5 +1,5 @@
 ---
-title: 'Rethinking Sprint Planning: Why Burndown Charts Are Agile Banditry and What to Do Instead'
+title: "Rethinking Sprint Planning: Why Burndown Charts Are Agile Banditry and What to Do Instead"
 short_title: Rethinking Sprint Planning Without Burndowns
 description: Explains why burndown charts hinder agile teams, highlighting the pitfalls of detailed upfront planning and advocating for minimal, adaptive Sprint planning and continuous flow.
 tldr: Relying on burndown charts leads to excessive upfront planning, which is ineffective given the high uncertainty and frequent changes in software development. Instead, start each Sprint with only enough planning to begin work, then reassess and adjust daily to stay flexible and focused on delivering value. Shift your team’s approach to minimal, just-in-time planning to reduce overhead and respond better to change.
@@ -51,19 +51,19 @@ duration: 324
 resourceTypes:
   - video
 isShort: false
-
 ---
-A common practice I observe among agile teams is the reliance on burndown charts to gauge progress throughout a Sprint. However, I must confess, I view burndowns as a form of agile banditry. The premise of a burndown chart is that for it to move smoothly from the top left to the bottom right, you must have meticulously planned the entire Sprint upfront. But let’s be honest—when we’re developing products that don’t yet exist, this approach is fundamentally flawed.
+
+A common practice I observe among agile teams is the reliance on burndown charts to gauge progress throughout a Sprint. However, I must confess, I view burndowns as a form of agile banditry. The premise of a burndown chart is that for it to move smoothly from the top left to the bottom right, you must have meticulously planned the entire Sprint upfront. But let’s be honest, when we’re developing products that don’t yet exist, this approach is fundamentally flawed.
 
 ### The Reality of [Product Development]({{< ref "/categories/product-development" >}})
 
-In the world of product development, especially when venturing into uncharted territory, we face a plethora of unknowns. According to the Standish Group's Chaos Report, a staggering 65% of what we build changes over the product's lifecycle. Even more concerning is that only 30% of the features we develop are actually utilised by our customers. This data underscores a critical truth: we often know less than half of what we need to figure out as we progress. 
+In the world of product development, especially when venturing into uncharted territory, we face a plethora of unknowns. According to the Standish Group's Chaos Report, a staggering 65% of what we build changes over the product's lifecycle. Even more concerning is that only 30% of the features we develop are actually utilised by our customers. This data underscores a critical truth: we often know less than half of what we need to figure out as we progress.
 
-Given this level of uncertainty, attempting to plan even the next 10-day Sprint is akin to spinning a fictional tale. Instead, I advocate for a more pragmatic approach. 
+Given this level of uncertainty, attempting to plan even the next 10-day Sprint is akin to spinning a fictional tale. Instead, I advocate for a more pragmatic approach.
 
 ### Sprint Planning: Less is More
 
-When you walk out of Sprint planning, your plan should be minimal yet sufficient to get started. Ideally, you should leave with just enough to kick off the Sprint—perhaps a mere 24 hours' worth of work. This allows for flexibility and adaptability, enabling you to reassess and plan again every day. 
+When you walk out of Sprint planning, your plan should be minimal yet sufficient to get started. Ideally, you should leave with just enough to kick off the Sprint, perhaps a mere 24 hours' worth of work. This allows for flexibility and adaptability, enabling you to reassess and plan again every day.
 
 - **Key Takeaways for Sprint Planning**:
   - **Start Small**: Focus on what you need to begin, not on an exhaustive list of tasks.

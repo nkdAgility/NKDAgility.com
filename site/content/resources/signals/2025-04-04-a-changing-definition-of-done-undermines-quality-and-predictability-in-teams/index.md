@@ -47,13 +47,13 @@ Watermarks:
   tldr: 2025-08-07T12:34:05Z
 ResourceId: lPs2C5FQ5cR
 ResourceType: signals
-
 ---
+
 Imagine trying to run a factory job where the definition of a “finished product” changes every week. Forecasting production? Impossible. Measuring quality? Good luck.
 
-Yet many teams change their Definition of Done so frequently that it becomes meaningless. This isn’t agility—it’s dysfunction.
+Yet many teams change their Definition of Done so frequently that it becomes meaningless. This isn’t agility, it’s dysfunction.
 
-The DoD can evolve, but only in the direction of increasing quality. Otherwise, you’re not iterating—you’re shifting goalposts and hoping no one notices.
+The DoD can evolve, but only in the direction of increasing quality. Otherwise, you’re not iterating, you’re shifting goalposts and hoping no one notices.
 
 If your teams struggle with predictability, start by making your DoD consistent and enforced. Agility doesn’t mean abandoning standards. It means continuously improving them.
 

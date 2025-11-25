@@ -24,9 +24,9 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the methodologies and practices of forecasting within Agile and Scrum, such as unrelated project management techniques, non-empirical approaches, or general business strategies that do not focus on Agile principles.
 headline:
   cards: []
-  title: 'Forecasting: Leveraging Data to Predict Timelines and Optimise Agile Delivery'
+  title: "Forecasting: Leveraging Data to Predict Timelines and Optimise Agile Delivery"
   subtitle: Using empirical data and flow metrics to predict timelines, manage risks, improve predictability, and enable informed, transparent decision-making.
-  content: Forecasting involves leveraging empirical data and metrics—such as cycle time, lead time, throughput, and historical performance—to anticipate delivery timelines, manage risks, and optimise value delivery. It promotes transparency, informed decision-making, proactive adaptation, and continuous improvement, enabling teams to consistently meet stakeholder expectations and respond effectively to evolving market conditions.
+  content: Forecasting involves leveraging empirical data and metrics, such as cycle time, lead time, throughput, and historical performance, to anticipate delivery timelines, manage risks, and optimise value delivery. It promotes transparency, informed decision-making, proactive adaptation, and continuous improvement, enabling teams to consistently meet stakeholder expectations and respond effectively to evolving market conditions.
   updated: 2025-05-23T23:14:11Z
 sitemap:
   filename: sitemap.xml
@@ -60,8 +60,8 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
+
 Forecasting is the practice of using empirical data to predict delivery timelines, manage risks, and optimise value delivery within Agile and Scrum frameworks. It enables teams to make informed decisions based on historical performance and current capacity, allowing for a more predictable and sustainable approach to product development. By analysing metrics such as cycle time, lead time, and throughput, teams can identify trends and adjust their strategies accordingly, ensuring that they meet stakeholder expectations and deliver value consistently.
 
 This concept is crucial for fostering a culture of transparency and accountability, as it encourages teams to reflect on their processes and outcomes. Unlike mere estimation, which can often be subjective and prone to bias, forecasting relies on data-driven insights that enhance decision-making. It empowers teams to anticipate challenges and adapt proactively, rather than reactively, thereby improving overall efficiency and effectiveness.

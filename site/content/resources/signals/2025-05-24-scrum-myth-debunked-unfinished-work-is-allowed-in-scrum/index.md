@@ -1,6 +1,6 @@
 ---
-title: 'Scrum Myth Debunked: Unfinished Work is Allowed in Scrum'
-short_title: 'Unfinished Work in Scrum: Myth vs Reality'
+title: "Scrum Myth Debunked: Unfinished Work is Allowed in Scrum"
+short_title: "Unfinished Work in Scrum: Myth vs Reality"
 description: Clarifies Scrum guidelines on unfinished work, explaining that items can span multiple Sprints if the Sprint Goal and Done Increment remain intact, avoiding common misconceptions.
 tldr: Scrum does not require all work to be finished by the end of a Sprint, only that the Increment is Done and meets the Definition of Done. Unfinished items can carry over as long as the Sprint Goal and Increment are not compromised. Managers should focus on delivering value and avoid forcing work to fit arbitrary Sprint boundaries.
 date: 2025-05-24T15:30:17+01:00
@@ -47,11 +47,11 @@ Watermarks:
   tldr: 2025-08-07T12:29:32Z
 ResourceId: uhQlOorRmkA
 ResourceType: signals
-
 ---
+
 For years I repeated a myth without questioning it: “You can’t have unfinished work in Scrum.” But the truth is, that’s not what the Scrum Guide says at all.
 
-You must have a Done Increment by the end of the Sprint, but not every item must be finished. There’s no rule against work flowing across Sprints—so long as it doesn’t compromise the Sprint Goal or the Increment.
+You must have a Done Increment by the end of the Sprint, but not every item must be finished. There’s no rule against work flowing across Sprints, so long as it doesn’t compromise the Sprint Goal or the Increment.
 
 If you’re doing Continuous Delivery, you already have working software. You just need to make sure whatever you deliver meets the Definition of Done. That’s it.
 

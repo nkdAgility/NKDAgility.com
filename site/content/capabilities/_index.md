@@ -13,7 +13,7 @@ sections:
       subtitle: Operating Model Design. Engineering Precision. Measurable Outcomes.
       content: |
         From executive leadership to DevOps system design, NKD Agility delivers measurable business outcomes, not buzzwords.  
-        Our capabilities align strategy, discovery, delivery, and operations—creating operating models that increase speed, strengthen decision-making, and reduce delivery friction.  
+        Our capabilities align strategy, discovery, delivery, and operations, creating operating models that increase speed, strengthen decision-making, and reduce delivery friction.  
         We help you build a resilient, adaptable, and effective system of work where technology becomes a strategic advantage.
   - type: list
     title: Who We Help

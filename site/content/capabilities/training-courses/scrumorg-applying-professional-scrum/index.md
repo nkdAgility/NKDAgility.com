@@ -68,7 +68,7 @@ delivery_audiences:
   - Teams
 preview: naked-agility-Professional-Scrum-APS-Minecraft-1600x900-1.jpg
 previewIcon: Scrumorg-Course-APS 400x.png
-brandColour: '#c75129'
+brandColour: "#c75129"
 code: APS
 programCode: APS
 course_proficiencies:
@@ -139,11 +139,11 @@ roadmap:
     - /capabilities/training-courses/scrum-training-courses/professional-scrum-master/
     - /capabilities/training-courses/scrum-training-courses/professional-scrum-product-owner/
     - /capabilities/training-courses/scrum-training-courses/scrumorg-applying-professional-scrum-for-software-development/
-events: 
+events:
 ResourceId: APS
 ResourceType: course
-
 ---
+
 # Applying Professional Scrum (APS) Course with Certification
 
 **Course Code:** APS
@@ -152,7 +152,7 @@ ResourceType: course
 
 ## Overview
 
-A hands-on, activity-based course where participants experience how Professional Scrum and the Scrum framework enhance value delivery compared to traditional methods. The course uses immersive exercises—including Minecraft simulations—to foster Agile principles, teamwork, and practical Scrum application, culminating in the opportunity to earn the Professional Scrum Master I (PSM I) certification.
+A hands-on, activity-based course where participants experience how Professional Scrum and the Scrum framework enhance value delivery compared to traditional methods. The course uses immersive exercises, including Minecraft simulations, to foster Agile principles, teamwork, and practical Scrum application, culminating in the opportunity to earn the Professional Scrum Master I (PSM I) certification.
 
 ---
 

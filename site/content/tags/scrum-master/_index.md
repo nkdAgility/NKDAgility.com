@@ -10,7 +10,7 @@ weight: 160
 description: The Scrum Master is an accountability in Scrum, responsible for enabling the effectiveness of the Scrum Team and fostering continuous improvement across the organisation.
 Instructions: |-
   **Use this tag only for content focused on the Scrum Master as an accountability within the Scrum framework.**  
-  The Scrum Master is accountable for the effectiveness of the Scrum Team by enabling empiricism, removing impediments, and supporting continuous improvement. Content should focus on the accountability, its responsibilities, and its systemic impact—not just tools or methods.
+  The Scrum Master is accountable for the effectiveness of the Scrum Team by enabling empiricism, removing impediments, and supporting continuous improvement. Content should focus on the accountability, its responsibilities, and its systemic impact, not just tools or methods.
 
   **Key Topics:**
   - Definition of the Scrum Master as an accountability in Scrum
@@ -68,11 +68,11 @@ A **Scrum Master** is a **change agent** who enables a Scrum Team and its surrou
 
 Scrum is a **social technology** for solving complex problems. The Scrum Master ensures it is understood and enacted, not just followed.
 
-To fulfil this accountability, the Scrum Master must **teach, coach, mentor, and facilitate**—choosing the right stance at the right time to help the Scrum Team, Product Owner, and organisation evolve. This demands more than textbook Scrum or basic facilitation skills.
+To fulfil this accountability, the Scrum Master must **teach, coach, mentor, and facilitate**, choosing the right stance at the right time to help the Scrum Team, Product Owner, and organisation evolve. This demands more than textbook Scrum or basic facilitation skills.
 
 **Competence matters.** Just as a soccer coach must understand the game to develop players effectively, a Scrum Master needs deep knowledge of the work their teams perform. Without this understanding, they risk becoming mere meeting facilitators rather than transformational change agents.
 
-**Delivery is the foundation.** The Scrum Master is accountable for creating an environment where the team can consistently deliver usable, valuable increments every Sprint. Delivery serves as the minimum bar for team effectiveness—without it, there is no increment, no feedback, and no way to empirically assess value. While the entire Scrum Team shares accountability for delivery, the Scrum Master ensures the conditions for success by addressing systemic issues and empowering the team to work efficiently.
+**Delivery is the foundation.** The Scrum Master is accountable for creating an environment where the team can consistently deliver usable, valuable increments every Sprint. Delivery serves as the minimum bar for team effectiveness, without it, there is no increment, no feedback, and no way to empirically assess value. While the entire Scrum Team shares accountability for delivery, the Scrum Master ensures the conditions for success by addressing systemic issues and empowering the team to work efficiently.
 
 This accountability requires **mastery across three critical domains**:
 
@@ -143,6 +143,6 @@ They are **change agents** and **lean-agile practitioners** accountable for **de
 
 Their effectiveness is measured by the team's ability to deliver working increments that solve real problems every Sprint, not by process compliance or ceremony attendance.
 
-**The reality:** Businesses invest in Scrum Masters because they want working, usable products that create value. Delivery is the minimum bar for effectiveness—without it, there is no way to inspect, adapt, or measure value. A team that fails to deliver consistently cannot be considered effective under any measure.
+**The reality:** Businesses invest in Scrum Masters because they want working, usable products that create value. Delivery is the minimum bar for effectiveness, without it, there is no way to inspect, adapt, or measure value. A team that fails to deliver consistently cannot be considered effective under any measure.
 
-Without a capable Scrum Master, Scrum risks becoming theatre. With one who possesses technical, business, and organisational mastery—and embraces accountability for delivery outcomes—it becomes a lever for transformation.
+Without a capable Scrum Master, Scrum risks becoming theatre. With one who possesses technical, business, and organisational mastery, and embraces accountability for delivery outcomes, it becomes a lever for transformation.

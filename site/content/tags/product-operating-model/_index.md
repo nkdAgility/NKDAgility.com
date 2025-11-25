@@ -80,7 +80,7 @@ A product operating model defines the foundational structure for how an organiza
 
 ## The Purpose of a Product Operating Model
 
-Unlike frameworks or methodologies such as Scrum or Kanban, which focus on team-level practices, the product operating model addresses the broader, systemic enablers—governance, funding, cross-team alignment, and lifecycle management—that underpin sustainable product delivery. It clarifies how priorities are set, how work flows from idea to customer, and how feedback loops drive continuous improvement.
+Unlike frameworks or methodologies such as Scrum or Kanban, which focus on team-level practices, the product operating model addresses the broader, systemic enablers, governance, funding, cross-team alignment, and lifecycle management, that underpin sustainable product delivery. It clarifies how priorities are set, how work flows from idea to customer, and how feedback loops drive continuous improvement.
 
 By establishing clear boundaries for ownership and accountability, it reduces friction and ambiguity, allowing teams to focus on outcomes rather than navigating organizational silos. This long-term, systemic approach is essential for scaling agility, supporting innovation, and maintaining a predictable cadence of value delivery, even as market conditions or organizational structures evolve.
 
@@ -105,4 +105,4 @@ Organizations may adopt specialized approaches based on their delivery philosoph
 
 ## An Evolving Framework
 
-A well-designed product operating model is not a static blueprint but an evolving framework that adapts to learning, customer feedback, and shifts in strategic direction. It ensures that product teams remain empowered and aligned with the organization's purpose while continuously optimizing for flow, quality, and customer impact. This adaptability is what distinguishes a true operating model from rigid processes or temporary initiatives—it provides the stable foundation that enables continuous change and improvement.
+A well-designed product operating model is not a static blueprint but an evolving framework that adapts to learning, customer feedback, and shifts in strategic direction. It ensures that product teams remain empowered and aligned with the organization's purpose while continuously optimizing for flow, quality, and customer impact. This adaptability is what distinguishes a true operating model from rigid processes or temporary initiatives, it provides the stable foundation that enables continuous change and improvement.

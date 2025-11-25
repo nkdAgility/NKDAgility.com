@@ -1,5 +1,5 @@
 ---
-title: 'Mastering Scrum: Effective Planning and Prioritisation for Agile Success'
+title: "Mastering Scrum: Effective Planning and Prioritisation for Agile Success"
 short_title: Scrum Planning and Prioritisation Guide
 description: Learn how to plan and prioritise effectively in Scrum by aligning with business goals, assessing value and risk, and keeping a lean, focused product backlog.
 tldr: Effective Scrum planning and prioritisation require aligning work with business goals, regularly communicating with stakeholders, and keeping the product backlog lean and focused on near-term priorities. Use a simple value, risk, and size formula to help order backlog items, and continuously adjust based on customer data and outcomes. Keep your backlog manageable and iterate often to ensure your team delivers meaningful results that support business objectives.
@@ -56,8 +56,8 @@ duration: 312
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 When it comes to effective planning and prioritisation within a [Scrum]({{< ref "/categories/scrum" >}}) team, the question often arises: how do we navigate this complex landscape? It’s a challenge that many teams face, and I can assure you, it’s not a one-size-fits-all solution. The intricacies of planning and prioritisation hinge significantly on the specific business context and its overarching goals.
 
 ### Understanding Business Goals
@@ -69,9 +69,9 @@ First and foremost, it’s essential to grasp what the business is striving to a
 
 ### The Challenge of Value and Size
 
-Once we have a clear understanding of the business goals, we need to delve into the specifics of the work itself. This is where things can get a bit tricky. 
+Once we have a clear understanding of the business goals, we need to delve into the specifics of the work itself. This is where things can get a bit tricky.
 
-- **Sizing Work Items**: While I’m trying to avoid the dreaded ‘E’ word—[estimation]({{< ref "/tags/estimation" >}})—sizing is a necessary step. Understanding the scale of tasks helps us gauge their potential return on investment (ROI).
+- **Sizing Work Items**: While I’m trying to avoid the dreaded ‘E’ word, [estimation]({{< ref "/tags/estimation" >}}), sizing is a necessary step. Understanding the scale of tasks helps us gauge their potential return on investment (ROI).
 - **Assessing Value**: This is often a more significant challenge. The business must have a clear grasp of what constitutes value. It’s not just about completing tasks; it’s about delivering meaningful outcomes.
 
 ### Balancing Value, Risk, and Size

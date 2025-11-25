@@ -1,5 +1,5 @@
 ---
-title: 'The Fallacy of Equating Agility with Speed: What Agile Really Means'
+title: "The Fallacy of Equating Agility with Speed: What Agile Really Means"
 short_title: Agility Is About Value, Not Speed
 description: Explains why Agile is not about speed but about prioritising valuable work, adapting to feedback, and avoiding wasted effort to deliver products that truly meet user needs.
 tldr: Agile is not about working faster but about focusing on delivering the most valuable outcomes by prioritizing, experimenting, and adapting based on real customer needs. Speed alone can lead to building the wrong product, while Agile helps teams avoid wasted effort by eliminating unnecessary work and bureaucracy. Development managers should ensure their teams use Agile to maximize value, not just to increase velocity.
@@ -57,17 +57,17 @@ duration: 494
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In the world of Agile, there’s a common misconception that agility equals speed. However, this idea is as much of an oxymoron as the concept of an "agile project manager." The truth is, Agile isn’t about rushing through tasks or speeding up processes; it's about spending your time wisely on valuable endeavors. Let’s dive deeper into what agility truly means and why it’s not about doing things faster, but doing the right things.
 
 ## **Agility is About Spending Time Wisely**
 
-One of the most important aspects of agility is the efficient use of time. The goal isn't to do everything faster, but to ensure that the time you spend is on the right tasks—the ones that bring the most value. Here’s how:
+One of the most important aspects of agility is the efficient use of time. The goal isn't to do everything faster, but to ensure that the time you spend is on the right tasks, the ones that bring the most value. Here’s how:
 
 - **Focus on Value**: Agility is about focusing on the most valuable endeavors. We want to spend less time on the wrong things and more time on the right things.
 
-- **Trial and Error**: To find the right thing, you often need to try multiple things—sometimes even 10—before you find the three that work. This is a crucial part of Agile that separates it from the notion of speed.
+- **Trial and Error**: To find the right thing, you often need to try multiple things, sometimes even 10, before you find the three that work. This is a crucial part of Agile that separates it from the notion of speed.
 
 - **Iterative Process**: You might need to test and refine multiple ideas, which can take time. For instance, if each experiment takes two weeks, and you test 10 ideas, that's 20 weeks of work just to find the one approach that truly delivers value.
 
@@ -75,7 +75,7 @@ So, the notion that agility equals speed is a complete fallacy. Agile allows for
 
 ## **The Danger of Building the Wrong Product**
 
-One of the biggest risks in any project is building the wrong product—something that doesn’t fit the market or meet customer needs. Here’s why this happens and how Agile helps mitigate this risk:
+One of the biggest risks in any project is building the wrong product, something that doesn’t fit the market or meet customer needs. Here’s why this happens and how Agile helps mitigate this risk:
 
 - **Assumptions Can Lead to Failure**: Many organizations fail because they assume they know what the customer wants. They think they’re building the right product, but in reality, they’re not.
 
@@ -109,11 +109,11 @@ A famous example of Agile in action is the Sentinel project, the FBI’s records
 
 1. **Initial Failure**: In 1995, the FBI delivered a new system that was obsolete the moment it shipped. They spent $400 million and four years on a product that didn’t work.
 
-3. **Another Attempt**: They then spent another five years and $300 million, only to have another failed product.
+2. **Another Attempt**: They then spent another five years and $300 million, only to have another failed product.
 
-5. **[Agile Transformation]({{< ref "/tags/agile-transformation" >}})**: In 2012, the FBI decided to switch to Agile. They reduced the team from 400 to 40 people, set up [Scrum]({{< ref "/categories/scrum" >}}) teams, and delivered a working product to production within a year.
+3. **[Agile Transformation]({{< ref "/tags/agile-transformation" >}})**: In 2012, the FBI decided to switch to Agile. They reduced the team from 400 to 40 people, set up [Scrum]({{< ref "/categories/scrum" >}}) teams, and delivered a working product to production within a year.
 
-Was Agile faster? Not really. What changed was the focus—they stopped trying to build the entire system at once and instead focused on delivering the first piece, the part that would provide immediate value.
+Was Agile faster? Not really. What changed was the focus, they stopped trying to build the entire system at once and instead focused on delivering the first piece, the part that would provide immediate value.
 
 ## **Reframing the Concept of Speed in Agile**
 
@@ -125,4 +125,4 @@ The best way to understand Agile is not by how fast you can get things done, but
 
 ## **Final Thoughts: Agile is About Delivering Value, Not Speed**
 
-Agile is often misunderstood as a methodology for doing things faster. In reality, Agile is about ensuring that the time you spend is on the most valuable tasks—the ones that will truly benefit your customers and your business. By focusing on market fit, eliminating unnecessary bureaucracy, and embracing an iterative process, Agile helps organizations deliver better products, not just faster products. So, the next time you hear someone equating agility with speed, remember: it’s not about rushing to the finish line; it’s about making sure that what you deliver is worth the journey. 🚀
+Agile is often misunderstood as a methodology for doing things faster. In reality, Agile is about ensuring that the time you spend is on the most valuable tasks, the ones that will truly benefit your customers and your business. By focusing on market fit, eliminating unnecessary bureaucracy, and embracing an iterative process, Agile helps organizations deliver better products, not just faster products. So, the next time you hear someone equating agility with speed, remember: it’s not about rushing to the finish line; it’s about making sure that what you deliver is worth the journey. 🚀

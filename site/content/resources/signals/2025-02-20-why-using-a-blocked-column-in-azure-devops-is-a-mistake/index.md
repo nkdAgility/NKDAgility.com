@@ -48,11 +48,11 @@ Watermarks:
   tldr: 2025-08-07T12:36:08Z
 ResourceId: H8CRQrD64JY
 ResourceType: signals
-
 ---
+
 If your team is using a “Blocked” column in Azure DevOps, you’re probably doing it wrong.
 
-Why? Because work doesn’t flow through blocked—it stops there. And once it’s there, it tends to stay there.
+Why? Because work doesn’t flow through blocked, it stops there. And once it’s there, it tends to stay there.
 
 Instead of a blocked column, try this:
 

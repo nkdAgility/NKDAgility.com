@@ -1,7 +1,7 @@
 ---
-title: 'Rethinking Backlog Management: Why a Flat Structure Boosts Agility and Value Delivery'
+title: "Rethinking Backlog Management: Why a Flat Structure Boosts Agility and Value Delivery"
 short_title: Flat Backlog Structure for Agile Value Delivery
-description: Explains how using a flat backlog structure—rather than a hierarchy—improves agility, prioritisation, and value delivery in Scrum and Kanban teams.
+description: Explains how using a flat backlog structure, rather than a hierarchy, improves agility, prioritisation, and value delivery in Scrum and Kanban teams.
 tldr: Using a flat backlog instead of a hierarchical one makes it easier to prioritise work, adapt to changing needs, and focus on delivering value rather than just managing tasks. Flat structures avoid the inflexibility and complexity of parent-child relationships, allowing teams to use tags and flexible visualisations for context. Development managers should consider shifting to a flat backlog to improve agility and value delivery.
 date: 2024-03-26T10:56:26Z
 lastmod: 2024-03-26T10:56:26Z
@@ -59,20 +59,19 @@ duration: 1156
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In my journey as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and [Kanban]({{< ref "/categories/kanban" >}}) coach, I've often encountered a common misconception: the belief that a hierarchy is essential for effective backlog management. Today, I want to share my insights on why this approach can be detrimental and how we can rethink our backlogs to enhance our agility and focus on delivering value.
 
 ### Understanding the Backlog
 
-At its core, a backlog is simply a list of tasks or items that need to be completed. However, the way we order this list is crucial. Each item should have a distinct position—first, second, third—without any items sharing the same level of importance. This flat structure allows us to prioritise effectively, ensuring that the most critical tasks are addressed first. 
+At its core, a backlog is simply a list of tasks or items that need to be completed. However, the way we order this list is crucial. Each item should have a distinct position, first, second, third, without any items sharing the same level of importance. This flat structure allows us to prioritise effectively, ensuring that the most critical tasks are addressed first.
 
 ### The Pitfalls of Hierarchical Structures
 
 Many teams fall into the trap of creating a hierarchical backlog, often breaking down epics into features, which then break down into stories or tasks. While this might seem logical, it introduces several challenges:
 
 - **Work Breakdown Structure**: This hierarchical approach often leads to a focus on breaking down work rather than delivering value. Teams can become so engrossed in managing the structure that they lose sight of the ultimate goal: delivering value to the customer.
-  
 - **Inflexibility**: When items are tied to a parent-child relationship, it becomes cumbersome to reorder them based on changing priorities. If I want to elevate the importance of a task, I might inadvertently change its parent, complicating the management process.
 
 - **Limited Relationships**: Most tools enforce a tree structure, which means each item can only have one parent. This limitation makes it difficult to represent items that contribute to multiple features or initiatives, hindering our ability to manage work effectively.
@@ -81,7 +80,7 @@ Many teams fall into the trap of creating a hierarchical backlog, often breaking
 
 So, how can we shift our mindset and practices to avoid these pitfalls? Here are some strategies I've found effective:
 
-1. **Embrace a Flat List**: Instead of viewing your backlog as a hierarchy, treat it as a flat list. Each item can have additional context—such as tags or links to documentation—without being constrained by a parent-child relationship.
+1. **Embrace a Flat List**: Instead of viewing your backlog as a hierarchy, treat it as a flat list. Each item can have additional context, such as tags or links to documentation, without being constrained by a parent-child relationship.
 
 2. **Utilise Tags for Context**: In tools like Azure [DevOps]({{< ref "/categories/devops" >}}), you can use tags to provide context for each item. This allows you to filter and view items based on features or projects without losing the flexibility of a flat structure.
 

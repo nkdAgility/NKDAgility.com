@@ -1,6 +1,6 @@
 ---
 title: OKR Guide - A Social Discipline for Shared Focus, Measurable Contribution, and Strategic Learning
-short_title: 'OKR Guide: Shared Focus, Measurable Outcomes'
+short_title: "OKR Guide: Shared Focus, Measurable Outcomes"
 description: Comprehensive guide to using OKRs for shared focus, measurable outcomes, and strategic learning, including roles, events, best practices, and common pitfalls.
 tldr: OKRs are a practical system for aligning teams around shared goals, measuring real progress, and learning from results, provided they are supported by clear vision, leadership, and a culture of feedback and adaptability. Effective OKR practice requires well-defined roles, regular events for definition, check-in, review, and reflection, and a focus on measurable outcomes rather than tasks or top-down mandates. To get value, involve teams in crafting OKRs, keep them focused and measurable, and use frequent feedback to adapt both goals and ways of working.
 date: 2025-06-26
@@ -47,8 +47,8 @@ Watermarks:
   tldr: 2025-08-07T12:10:49Z
 ResourceId: KcistbuSUsg
 ResourceType: guides
-
 ---
+
 # OKR Guide
 
 A Social Discipline for Shared Focus, Measurable Contribution, and Strategic Learning
@@ -77,14 +77,14 @@ The OKR framework rests on four irreducible first principles shaped by Peter Dru
 
 - **Clarity of Purpose** - OKRs distil focus. Drucker advocated for shared and public objectives to unify effort. Grove operationalised this by insisting on fewer, well-scoped goals with clear metrics. Doerr reinforced the idea that inspiration must be grounded in execution; objectives must be motivational but paired with measurable key results.
 - **Alignment** - OKRs promote shared direction. Drucker’s early MBO stressed aligning individual contributions with enterprise-wide goals. Grove extended this with cascading OKRs and bottom-up participation. Doerr championed organisational transparency, making every OKR visible to foster unity across teams.
-- **Measurement** - OKRs insist on observable outcomes. Drucker warned against managing by intuition. Grove introduced Key Results as measurable indicators of progress. Doerr summarised this as "measure what matters"—metrics aren’t optional, they define what success looks like.
+- **Measurement** - OKRs insist on observable outcomes. Drucker warned against managing by intuition. Grove introduced Key Results as measurable indicators of progress. Doerr summarised this as "measure what matters", metrics aren’t optional, they define what success looks like.
 - **Accountability**  - OKRs build a system of ownership and follow-through. Drucker envisioned self-management through mutually agreed-upon goals. Grove made OKRs a recurring practice of review and adjustment, decoupled from compensation. Doerr extended this with tools for tracking and public scoring, reinforcing commitment through visibility.
 
 These principles enable OKRs to become a management tool for aligning purposeful effort with measurable performance. They shift the organisation away from static reporting and toward active contribution, feedback, and course correction, making objectives a means for directing energy and learning, not documenting activity.
 
 ## OKRs and Strategic Planning
 
-**OKRs do not replace strategic plans or roadmaps—they connect intent to action.** They express strategic priorities as working hypotheses, helping teams focus their energy on what matters now and test whether it produces the outcomes the organisation needs.
+**OKRs do not replace strategic plans or roadmaps, they connect intent to action.** They express strategic priorities as working hypotheses, helping teams focus their energy on what matters now and test whether it produces the outcomes the organisation needs.
 
 In practice, OKRs give form to strategy by:
 
@@ -204,7 +204,7 @@ A successful Definition event produces a coherent set of OKRs with clarity of pu
 
 ### **Check-ins**
 
-Check-ins are not status updates—they are leadership in action. These weekly or biweekly forums create the rhythm that turns objectives into feedback loops. Teams don’t just report—they inspect, sense, and respond. A well-run check-in makes misalignment visible early, enables decisions while there’s still time to act, and reinforces accountability through dialogue, not oversight.
+Check-ins are not status updates, they are leadership in action. These weekly or biweekly forums create the rhythm that turns objectives into feedback loops. Teams don’t just report, they inspect, sense, and respond. A well-run check-in makes misalignment visible early, enables decisions while there’s still time to act, and reinforces accountability through dialogue, not oversight.
 
 This event helps teams gauge whether their efforts are yielding tangible results and provides a space to redirect energy when needed.
 

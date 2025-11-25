@@ -63,9 +63,9 @@ duration: 29
 resourceTypes:
   - video
 isShort: true
-
 ---
-In today’s fast-paced, ever-evolving business world, it’s not enough to simply make changes and hope for the best. We need to understand the true impact of our actions—whether they’re improving or hindering our overall success. This is where evidence-based management comes into play. If you're working in an Agile environment, it’s essential to have the right tools in place to measure success and progress effectively.
+
+In today’s fast-paced, ever-evolving business world, it’s not enough to simply make changes and hope for the best. We need to understand the true impact of our actions, whether they’re improving or hindering our overall success. This is where evidence-based management comes into play. If you're working in an Agile environment, it’s essential to have the right tools in place to measure success and progress effectively.
 
 **So, why should you care about evidence-based management? Let me walk you through it.**
 
@@ -89,15 +89,15 @@ There are several critical areas that evidence-based management focuses on:
 
 These metrics provide a structured approach to understanding performance in Agile environments. They allow you to **analyze the impact** of your decisions and adapt your strategy accordingly.
 
-* * *
+---
 
 ## **Why Every Agile Team Needs Evidence-Based Management**
 
 When I work with Agile teams, I often see a common issue: teams make changes but have no way to determine if those changes lead to improvements. That’s a dangerous path to walk down. Without evidence, you're essentially flying blind.
 
-In my own experience, I’ve seen companies make sweeping changes to their processes—whether it's adopting a new tool, tweaking a workflow, or even changing the team structure—but because they weren’t measuring the results, they had no idea if these changes were actually working. It led to frustration, inefficiency, and even a loss of trust within the team.
+In my own experience, I’ve seen companies make sweeping changes to their processes, whether it's adopting a new tool, tweaking a workflow, or even changing the team structure, but because they weren’t measuring the results, they had no idea if these changes were actually working. It led to frustration, inefficiency, and even a loss of trust within the team.
 
-Imagine investing time, energy, and resources into a new process only to find out weeks or months later that it didn't make any difference—or worse, that it had a negative impact. This is why **evidence-based management** is so important.
+Imagine investing time, energy, and resources into a new process only to find out weeks or months later that it didn't make any difference, or worse, that it had a negative impact. This is why **evidence-based management** is so important.
 
 ### **Personal Example: A Realization Through Data**
 
@@ -107,7 +107,7 @@ We started implementing evidence-based management, tracking metrics like **time 
 
 Without EBM, the team would have continued to struggle without understanding the root cause. The key takeaway? **Data is your best friend when it comes to making improvements.**
 
-* * *
+---
 
 ## **Measuring Success: How to Implement EBM**
 
@@ -131,19 +131,19 @@ Once you’ve identified the metrics, the next step is to **track them regularly
 
 ### **3\. Use the Data to Drive Change**
 
-Now that you have the data, you can start making changes to your process or system. Here’s where the magic happens. If you make a change and see a positive impact in your metrics—congratulations, you’re on the right path! But if the data shows a decline, you can adjust your strategy before it causes too much damage.
+Now that you have the data, you can start making changes to your process or system. Here’s where the magic happens. If you make a change and see a positive impact in your metrics, congratulations, you’re on the right path! But if the data shows a decline, you can adjust your strategy before it causes too much damage.
 
 This process creates a **feedback loop**:
 
 1. **Measure**: Collect data on key metrics.
 
-3. **Change**: Implement a change.
+2. **Change**: Implement a change.
 
-5. **Analyze**: See how the metrics have shifted post-change.
+3. **Analyze**: See how the metrics have shifted post-change.
 
-7. **Adapt**: Based on the results, make informed decisions on the next steps.
+4. **Adapt**: Based on the results, make informed decisions on the next steps.
 
-* * *
+---
 
 ## **How EBM Empowers Teams**
 
@@ -161,7 +161,7 @@ Data provides transparency. When teams and stakeholders can see real evidence of
 
 Agile is all about adapting and improving. EBM helps create a culture of continuous improvement by providing a clear picture of progress. When teams can measure their improvements, they are more motivated to keep pushing for better results.
 
-* * *
+---
 
 ## **Practical Tips for Using EBM**
 
@@ -171,11 +171,11 @@ Here are some practical tips to help you integrate evidence-based management int
 
 - **Involve the Team**: Make sure the entire team understands the importance of EBM and is involved in tracking and analyzing the data.
 
-- **Review Regularly**: Don’t wait until the end of a project to analyze the data. Review it regularly—at the end of each Sprint, for example—so that you can adapt quickly.
+- **Review Regularly**: Don’t wait until the end of a project to analyze the data. Review it regularly, at the end of each Sprint, for example, so that you can adapt quickly.
 
 - **Celebrate Wins**: When the data shows positive results, take a moment to celebrate with the team! 🎉
 
-* * *
+---
 
 ## **Conclusion: Evidence-Based Management Is Non-Negotiable**
 

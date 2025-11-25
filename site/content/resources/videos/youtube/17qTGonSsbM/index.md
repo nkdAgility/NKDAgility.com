@@ -1,8 +1,8 @@
 ---
-title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
+title: "The Importance of Evaluating Direction: Are You Heading the Right Way?"
 short_title: Evaluating and Adjusting Direction in Agile Teams
 description: Learn why regularly evaluating your direction is vital for developers, product owners, and organisations to ensure goals, features, and strategies truly meet user and business needs.
-tldr: Regularly evaluating your direction at every level—developer, product owner, and organization—is essential to avoid wasted effort and ensure you are building the right things for your users. Key insights include aligning work with the product vision, listening to feedback, and being willing to pivot based on data rather than sticking to outdated plans. Make time for honest retrospectives and be ready to change course when needed to achieve better outcomes.
+tldr: Regularly evaluating your direction at every level, developer, product owner, and organization, is essential to avoid wasted effort and ensure you are building the right things for your users. Key insights include aligning work with the product vision, listening to feedback, and being willing to pivot based on data rather than sticking to outdated plans. Make time for honest retrospectives and be ready to change course when needed to achieve better outcomes.
 date: 2024-01-20T07:00:00Z
 lastmod: 2024-01-20T07:00:00Z
 weight: 840
@@ -51,11 +51,11 @@ duration: 312
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 As Lao Tzu wisely said, _“If you do not change direction, you may end up where you are heading.”_ This quote resonates deeply with me, both as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and a practitioner. Whether you're a developer writing code or an organization strategizing for the future, it's vital to continuously ask yourself: **Are we heading in the right direction?** 🛤️
 
-In this post, we’ll explore why it’s crucial to evaluate your direction regularly at different levels—individual, team, and organizational—and how you can pivot when necessary to achieve better outcomes.
+In this post, we’ll explore why it’s crucial to evaluate your direction regularly at different levels, individual, team, and organizational, and how you can pivot when necessary to achieve better outcomes.
 
 ## **Hitting the Target as a Developer** **🎯**
 
@@ -75,7 +75,7 @@ One personal experience I often share is when a team I was working with delivere
 
 - Ensure that architectural and security choices are sound.
 
-- Don’t wait until the end of the product cycle to assess usability and security issues—fix them along the way.
+- Don’t wait until the end of the product cycle to assess usability and security issues, fix them along the way.
 
 ## **Product Owners: Are You Building the Right Features?** **🚀**
 
@@ -93,7 +93,7 @@ I remember working with a [product owner]({{< ref "/tags/product-owner" >}}) who
 
 💡 **Pro tip**: Constantly monitor market trends and feedback. Don’t assume the path you’re on is the right one just because it worked in the past. Products and users evolve, and so should your direction!
 
-## **The Organizational Level: Avoiding the Cliff** **🏢🕳****️**
+## **The Organizational Level: Avoiding the Cliff** **🏢🕳\*\***️\*\*
 
 On a larger scale, entire organizations sometimes fail to course-correct. They are so set on their established strategy that they overlook the shifts in market dynamics, customer needs, or even technological advancements. This stubbornness often leads them off a cliff. 📉
 
@@ -113,7 +113,7 @@ If you’re looking for a historical example of direction change, the story of D
 
 Why? Because people were comfortable with the old way, even if it wasn’t the best way. This highlights an important lesson: doing things the same way for the sake of comfort can prevent innovation and success. Don’t wait 10 years to change direction when a better way is clearly visible.
 
-## **Pivoting: Knowing When It’s Time to Change ⏳****🔄**
+## **Pivoting: Knowing When It’s Time to Change ⏳\*\***🔄\*\*
 
 So how do you know when it’s time to pivot?
 

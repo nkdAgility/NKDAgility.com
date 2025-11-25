@@ -27,7 +27,7 @@ Instructions: |-
   **Strictly exclude** discussions that focus on unrelated methodologies, frameworks, or tools that do not align with the core principles of DevOps, such as specific project management techniques that do not incorporate the DevOps ethos.
 headline:
   cards: []
-  title: 'DevOps: Uniting People, Processes, and Tech for Continuous Value Delivery'
+  title: "DevOps: Uniting People, Processes, and Tech for Continuous Value Delivery"
   subtitle: Uniting people, processes, and technology to accelerate continuous value delivery through collaboration, automation, and rapid feedback loops.
   content: An approach centred on integrating people, processes, and technology to accelerate reliable software delivery through collaboration, automation, rapid feedback loops, and continuous improvement. Posts explore flow efficiency, observability, eliminating organisational silos, shared accountability, and embedding quality and security early, enabling organisations to deliver customer value faster and more confidently.
   updated: 2025-05-23T23:15:21Z
@@ -44,9 +44,9 @@ ItemType: categories
 ResourceType: categories
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
-DevOps is not a methodology, framework, or job title—it is an **philosophy** or **ethos** that unites **people, processes, and technology** to enable **continuous value delivery**. At its core, DevOps is about **eliminating friction** between development and operations, fostering **collaboration**, and embracing **automation** to achieve high-quality, fast, and reliable software delivery.
+
+DevOps is not a methodology, framework, or job title, it is an **philosophy** or **ethos** that unites **people, processes, and technology** to enable **continuous value delivery**. At its core, DevOps is about **eliminating friction** between development and operations, fostering **collaboration**, and embracing **automation** to achieve high-quality, fast, and reliable software delivery.
 
 #### **The Philosophical Foundation**
 
@@ -54,9 +54,9 @@ DevOps is built on principles that extend beyond tooling or process enforcement:
 
 - **Flow Efficiency Over Resource Efficiency**: Focus on the smooth, uninterrupted flow of value rather than just keeping teams busy.
 - **Feedback Loops as a Virtue**: Fast feedback reduces risk and ensures alignment with customer needs.
-- **Automation as a Necessity**: Anything repetitive should be automated—manual intervention is an opportunity for errors and delays.
+- **Automation as a Necessity**: Anything repetitive should be automated, manual intervention is an opportunity for errors and delays.
 - **Shared Accountability**: Developers, operations, and security are jointly responsible for product quality and reliability.
-- **Continuous Improvement as Culture**: DevOps teams continuously experiment, learn, and adapt—there is no "done," only "better."
+- **Continuous Improvement as Culture**: DevOps teams continuously experiment, learn, and adapt, there is no "done," only "better."
 
 #### **DevOps in Action**
 
@@ -67,4 +67,4 @@ A DevOps-driven organisation doesn't ask, "How do we implement DevOps?" Instead,
 - **Embracing observability** to make decisions based on data rather than assumptions.
 - **Automating everything possible**, from infrastructure to compliance.
 
-DevOps is not a **destination**—it’s a **continuous journey** toward **delivering better software, faster, with confidence**.
+DevOps is not a **destination**, it’s a **continuous journey** toward **delivering better software, faster, with confidence**.

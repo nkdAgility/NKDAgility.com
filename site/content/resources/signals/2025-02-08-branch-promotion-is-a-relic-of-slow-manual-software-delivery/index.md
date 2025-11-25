@@ -57,8 +57,8 @@ Watermarks:
   tldr: 2025-08-07T12:39:53Z
 ResourceId: xLVnF1dEnfO
 ResourceType: signals
-
 ---
+
 Branch promotion is a relic of slow, manual software delivery.
 
 Modern teams integrate continuously:
@@ -67,6 +67,6 @@ Modern teams integrate continuously:
 - Deployments are decoupled from releases using feature flags.
 - Testing happens in production-like environments without blocking releases.
 
-This approach makes rollbacks instant—no need for painful cherry-picking. And it eliminates reverse integration, a practice that introduces more risk than it removes.
+This approach makes rollbacks instant, no need for painful cherry-picking. And it eliminates reverse integration, a practice that introduces more risk than it removes.
 
 The best teams don’t manage branches. They manage flow.

@@ -55,13 +55,13 @@ Watermarks:
   tldr: 2025-08-07T12:33:13Z
 ResourceId: otmDMgDEp-i
 ResourceType: signals
-
 ---
-I've lost count of the number of times I've heard companies say, "We're going Agile!"—as if declaring it makes it so.
 
-The reality? Most of these transformations are superficial at best. Agile isn’t about installing SAFe, Scrum@Scale, or any other framework. Those are just tools. The real game is market responsiveness—seizing opportunities faster than your competitors and adapting to change before it catches you off guard.
+I've lost count of the number of times I've heard companies say, "We're going Agile!", as if declaring it makes it so.
 
-Most large organisations became successful by building their own ways of working—tailored to their markets, customers, and business realities. Why, then, do so many think copying another company's playbook will work for them?
+The reality? Most of these transformations are superficial at best. Agile isn’t about installing SAFe, Scrum@Scale, or any other framework. Those are just tools. The real game is market responsiveness, seizing opportunities faster than your competitors and adapting to change before it catches you off guard.
+
+Most large organisations became successful by building their own ways of working, tailored to their markets, customers, and business realities. Why, then, do so many think copying another company's playbook will work for them?
 
 Agility isn’t about ticking boxes. It’s about survival. The companies that understand this are already outpacing the ones still debating which framework to buy.
 

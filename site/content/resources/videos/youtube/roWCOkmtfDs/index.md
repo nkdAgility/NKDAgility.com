@@ -1,5 +1,5 @@
 ---
-title: 'The Importance of Validation in Product Development: A Strategic Approach'
+title: "The Importance of Validation in Product Development: A Strategic Approach"
 short_title: Validation in Product Development
 description: Explains why validating product features is essential, highlighting hypothesis-driven development, data collection, and evidence-based decisions to maximise long-term product value.
 tldr: Prioritizing features to close sales can fragment your product and lead to long-term costs that outweigh short-term gains. Shifting to a hypothesis-driven approach, where you define, track, and validate the value of new features using data, helps ensure you invest in what truly benefits users and the business. Equip product managers with the right telemetry and authority to make evidence-based decisions, and avoid building features that do not deliver measurable value.
@@ -60,9 +60,9 @@ duration: 843
 resourceTypes:
   - video
 isShort: false
-
 ---
-When you're developing a product, it's natural to assume that the features you're adding will deliver value to your customers and your business. But how do you truly know that these features are providing the expected value? Recently, I've been working with a client facing a common issue—sales-driven features are fragmenting their product, making it harder to use. This issue stems from prioritizing short-term gains over long-term value. In this blog post, we'll explore the pitfalls of this approach and how shifting focus towards value-driven development can lead to more sustainable success.
+
+When you're developing a product, it's natural to assume that the features you're adding will deliver value to your customers and your business. But how do you truly know that these features are providing the expected value? Recently, I've been working with a client facing a common issue, sales-driven features are fragmenting their product, making it harder to use. This issue stems from prioritizing short-term gains over long-term value. In this blog post, we'll explore the pitfalls of this approach and how shifting focus towards value-driven development can lead to more sustainable success.
 
 ## **The Danger of Sales-Driven Features**
 

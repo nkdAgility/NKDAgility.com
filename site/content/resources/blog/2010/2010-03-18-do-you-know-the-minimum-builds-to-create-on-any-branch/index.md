@@ -1,6 +1,6 @@
 ---
 title: Do you know the minimum builds to create on any branch?
-description: Explains the essential three build types—Gate, CI, and Nightly—needed per branch to ensure code quality, test coverage, and collaboration in team projects.
+description: Explains the essential three build types, Gate, CI, and Nightly, needed per branch to ensure code quality, test coverage, and collaboration in team projects.
 date: 2010-03-18
 lastmod: 2010-03-18
 weight: 610
@@ -36,8 +36,8 @@ ResourceImportId: 60
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: metro-visual-studio-2010-128-link-6-6.png
-
 ---
+
 ![BuildIcon_Large](images/Doyouknowtheminimumbuildstocreate_CABD-BuildIcon_Large_-1-1.png)
 { .post-img }
 

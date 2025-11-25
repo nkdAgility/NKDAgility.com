@@ -1,5 +1,5 @@
 ---
-title: 'Sprint Review #1'
+title: "Sprint Review #1"
 short_title: Sprint Review Workshop with Liberating Structures
 description: Guides a 160-minute Sprint Review workshop using Liberating Structures to inspect product progress, gather feedback, and plan next steps for Scrum teams and stakeholders.
 tldr: This Sprint Review workshop uses interactive methods to help teams and stakeholders inspect the product increment, gather feedback, and identify next steps based on recent changes and business needs. Key activities include networking to clarify expectations, hands-on product inspection, structured group reflection, and personal action planning. Development managers should ensure active participation, update the Product Backlog with new insights, and encourage team members to define concrete actions for the next Sprint.
@@ -50,7 +50,7 @@ card:
   button:
     content: Learn More
   content: Discover more about "Sprint Review
-  title: 'Sprint Review #1'
+  title: "Sprint Review #1"
 Watermarks:
   description: 2025-05-07T12:57:58Z
   short_title: 2025-07-07T17:48:11Z
@@ -59,7 +59,7 @@ ResourceId: 8gWwC3tvV_f
 ResourceType: workshops
 resourceTypes: workshop
 creator: Martin Hinshelwood
-references: 
+references:
 recommendedContent:
   - collection: guides
     path: _guides/scrum-guide.md
@@ -76,8 +76,8 @@ videos:
     embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
   - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
     embed: https://www.youtube.com/embed/1-W64WdSbF4
-
 ---
+
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).
 
 # Duration
@@ -129,11 +129,11 @@ The invitation for [Impromptu Networking](../_technologies/liberating-structures
 
 Now that everyone has had the opportunity to get their thinking started about what they are looking for in the Sprint Review, we can start the inspection. Instead of a presentation or a demo by the Development Team, we instead use a Liberating Structure called Shift & Share.
 
-There are 3 to 7 stations — depending on the number of participants. Each station focuses on a relevant area of the Increment to be inspected — like a related set of PBI's — or other relevant topics — like release planning, market conditions or product vision. Stations are equipped with whatever devices are helpful to perform an inspection of the product on, like smartphones, tablets, laptops, and specialized hardware. Each station has a host who takes responsibility for starting the conversation, guiding inspection and gathering feedback. Other participants distribute evenly across the stations. Every 7 minutes, the groups rotate to the next station while the hosts remain with their station. Continue until all groups have visited all stations.
+There are 3 to 7 stations , depending on the number of participants. Each station focuses on a relevant area of the Increment to be inspected , like a related set of PBI's , or other relevant topics , like release planning, market conditions or product vision. Stations are equipped with whatever devices are helpful to perform an inspection of the product on, like smartphones, tablets, laptops, and specialized hardware. Each station has a host who takes responsibility for starting the conversation, guiding inspection and gathering feedback. Other participants distribute evenly across the stations. Every 7 minutes, the groups rotate to the next station while the hosts remain with their station. Continue until all groups have visited all stations.
 
 The 7-minute timeboxes are based on our experience. You can increase the time-box if you have fewer stations or when the group agrees that this allows for better inspection, but we recommend against changing the timeboxes in between. A variation you can experiment with is to allow participants to pick a selection of the stations they'd like to visit in a limited number of rounds.
 
-[Shift & Share](../_technologies/technologies/liberating-structures/shift-share.md) is a good approach to shift from statically presenting a “Done”-increment to a more hands-on approach where stakeholders actually explore [working software]({{< ref "/tags/working-software" >}}). We usually invite stakeholders to write feedback on special ‘feedback cards' that are available at each station — but this is just one idea on how to gather feedback.
+[Shift & Share](../_technologies/technologies/liberating-structures/shift-share.md) is a good approach to shift from statically presenting a “Done”-increment to a more hands-on approach where stakeholders actually explore [working software]({{< ref "/tags/working-software" >}}). We usually invite stakeholders to write feedback on special ‘feedback cards' that are available at each station , but this is just one idea on how to gather feedback.
 
 ## Part 4: What, So What, Now What [30 min]
 
@@ -157,7 +157,7 @@ Individually, people take a couple of minutes to write down their action steps a
 
 “What is your 15% Solution to help advance our work together on this product? What is something you can do without needing approval from someone else or resources you don't have access to?”
 
-When everyone is done, give participants the opportunity to briefly share and refine their personal 15% Solutions in small groups of 2–4 participants. We have often found that, by actively engaging everyone with [Liberating Structures]({{< ref "/tags/liberating-structures" >}}) like this, people are better able to formulate how they can contribute. Stakeholders may offer to invite other stakeholders, join a refinement workshop with developers or be available for feedback. Optionally, you can collect the 15% Solutions and make them transparent somewhere — for example, next to a Scrum Board.
+When everyone is done, give participants the opportunity to briefly share and refine their personal 15% Solutions in small groups of 2–4 participants. We have often found that, by actively engaging everyone with [Liberating Structures]({{< ref "/tags/liberating-structures" >}}) like this, people are better able to formulate how they can contribute. Stakeholders may offer to invite other stakeholders, join a refinement workshop with developers or be available for feedback. Optionally, you can collect the 15% Solutions and make them transparent somewhere , for example, next to a Scrum Board.
 
 ## Part 6: Closing
 

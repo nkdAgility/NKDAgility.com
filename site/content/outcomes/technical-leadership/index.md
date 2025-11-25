@@ -38,7 +38,7 @@ sections:
       - content: |
           Are you a CTO stuck in the weeds instead of setting the vision?
       - content: |
-          Are you leading transformation—but no one’s following?
+          Are you leading transformation, but no one’s following?
       - content: |
           Are you struggling to get buy-in for your tech initiatives?
   - title: The Pains We Eliminate
@@ -59,7 +59,7 @@ sections:
       - title: Difficulty Influencing Stakeholders
         icon: fa-chess
         content: |
-          We coach you in the language of the C-suite—so your ideas get approved, not sidelined.
+          We coach you in the language of the C-suite, so your ideas get approved, not sidelined.
       - title: Overwhelm & Isolation
         icon: fa-user-shield
         content: |
@@ -96,21 +96,21 @@ sections:
   - type: outcomeboxes
     title: We help you with
     boxes:
-      - box: 
+      - box:
         items:
           - title: Align tech strategy with business goals
           - title: Build and communicate scalable tech roadmaps
           - title: Influence executive decisions with data
           - title: Lead transformation initiatives
           - title: Justify tech investments
-      - box: 
+      - box:
         items:
           - title: Feel in control of your tech vision
           - title: Reduce the stress of ambiguity
           - title: Regain confidence in decision-making
           - title: Stop being reactive and start being visionary
           - title: Gain validation and respect from stakeholders
-      - box: 
+      - box:
         items:
           - title: Lead with credibility in the boardroom
           - title: Advocate effectively for strategic initiatives
@@ -125,7 +125,7 @@ sections:
           CTOs gain clarity on their role in shaping technology strategy and begin contributing more confidently in executive discussions.
       - icon: fa-shield-check
         content: |
-          Teams we support often identify disconnects between technical planning and business priorities—and start working to close them.
+          Teams we support often identify disconnects between technical planning and business priorities, and start working to close them.
       - icon: fa-shield-check
         content: |
           Cross-functional collaboration becomes easier when shared goals and delivery constraints are made more visible and understood.
@@ -171,6 +171,4 @@ creator: Martin Hinshelwood
 icon: fa-users-cog
 ResourceId: wJMDXD_JAJt
 ResourceType: outcomes
-
 ---
-

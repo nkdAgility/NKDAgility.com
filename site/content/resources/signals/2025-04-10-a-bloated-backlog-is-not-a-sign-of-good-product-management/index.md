@@ -42,11 +42,11 @@ Watermarks:
   tldr: 2025-08-07T12:33:51Z
 ResourceId: gcu0w2Xq7sm
 ResourceType: signals
-
 ---
+
 A bloated backlog is not a sign of good product management. It’s a sign of indecision.
 
-If your backlog reads like an archive of every idea that’s ever been considered, you’re setting your team up for failure. The backlog is not a dumping ground for every possibility—it’s a lean inventory of unrealised value.
+If your backlog reads like an archive of every idea that’s ever been considered, you’re setting your team up for failure. The backlog is not a dumping ground for every possibility, it’s a lean inventory of unrealised value.
 
 A cluttered backlog creates noise. It obscures priorities, confuses stakeholders, and forces teams to wade through irrelevance. The best backlogs? They are sharp, clear, and reflect only the next most valuable work.
 

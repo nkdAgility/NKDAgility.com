@@ -46,8 +46,8 @@ Watermarks:
 mermaid: true
 ResourceId: bpRR4ieKvr3
 ResourceType: blog
-
 ---
+
 OKRs are not plug-and-play. They’re not a magic framework you sprinkle on top of chaos and suddenly get strategy, alignment, and velocity. They are a **discipline**. A **set of practices**. And they only work when the foundations are in place.
 
 So what do you need?
@@ -57,7 +57,7 @@ So what do you need?
 I've worked at a few customers that have tried, unsuccessfully, to implement OKR, and every time it comes down to a lack of leadership in defining and communicating clear strategies that everyone can understand.
 
 > “Is there a product charter that lays out the mission and strategic goals? Do all members of the team understand both, and are they able to see how their work contributes to both?”
-> — DIB: Detecting Agile BS
+> , DIB: Detecting Agile BS
 
 Strategy should drive execution. If you don’t know where you’re trying to go over the next 1 to 5 years, OKRs won’t help. They’ll float. They’ll drift. They’ll get turned into a quarterly to-do list that looks busy but delivers nothing that matters. Worse, they can just become a work breakdown structure and a disaster waiting to happen.
 
@@ -71,11 +71,11 @@ OKRs surface misalignment; they are as much like a mirror as Scrum is. They expo
 
 ## 3. Team Agency
 
-OKRs only work if the people doing the work have the **agency** to shape how they deliver outcomes. If you’re still managing with command-and-control, resource allocation, individual performance metrics, centralised plans, and siloed functions—admit it. You don’t want agility. You want a Gantt chart and a work breakdown structure. You’ll never unlock the creativity and accountability that OKRs demand.
+OKRs only work if the people doing the work have the **agency** to shape how they deliver outcomes. If you’re still managing with command-and-control, resource allocation, individual performance metrics, centralised plans, and siloed functions, admit it. You don’t want agility. You want a Gantt chart and a work breakdown structure. You’ll never unlock the creativity and accountability that OKRs demand.
 
 > "Are teams empowered to change the requirements based on user feedback?"
 > "Are teams empowered to change their process based on what they learn?"
-> — DIB: Detecting Agile BS
+> , DIB: Detecting Agile BS
 
 OKRs work best when teams self-manage against shared constraints. This requires clarity on purpose, context for decision-making, and boundaries that support autonomy rather than inhibit it.
 

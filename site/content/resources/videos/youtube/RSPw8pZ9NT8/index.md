@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking the Power of Kanban: Transform Your Workflow with Data-Driven Insights'
+title: "Unlocking the Power of Kanban: Transform Your Workflow with Data-Driven Insights"
 short_title: Kanban Workflow Optimisation with Data Insights
 description: Learn how Kanban uses data-driven insights and probabilistic forecasting to optimise workflows, improve delivery, and enhance transparency across any team or process.
 tldr: Kanban can be applied to any workflow to provide visibility into how work moves through your system, enabling teams to optimise delivery speed and manage capacity effectively. By using data analysis and probabilistic forecasting, such as Monte Carlo simulations, you can set realistic expectations with stakeholders and make more informed decisions. Consider adopting Kanban to improve transparency, predictability, and continuous improvement in your development processes.
@@ -53,8 +53,8 @@ duration: 466
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In my recent [Kanban]({{< ref "/categories/kanban" >}}) workshop with Procamban.org, titled "APK: Applying Professional Kanban," I had the opportunity to delve deep into the strategic underpinnings of [DevOps]({{< ref "/categories/devops" >}}). Over the course of 16 hours, we explored how Kanban serves as a meta-process that can be applied to any existing workflow, regardless of its nature. Whether your team is using [Scrum]({{< ref "/categories/scrum" >}}), a homegrown process, or even something like SSADM, Kanban provides a framework to observe and enhance your current practices.
 
 ### Understanding Kanban as a Strategy
@@ -85,4 +85,4 @@ The shift from deterministic to probabilistic thinking is a game-changer in how 
 
 The "APK: Applying Professional Kanban" workshop reinforced my belief in the power of Kanban as a strategic tool for enhancing workflows across various systems. Whether you’re a team aiming to improve [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) or a [leadership]({{< ref "/categories/leadership" >}}) group overseeing multiple projects, Kanban provides the insights needed to optimise your processes and deliver value more effectively.
 
-If you’re interested in exploring how Kanban can transform your organisation, I encourage you to reach out. Let’s have a chat over coffee—book a session with me through Naked Agility. Your journey towards improved agility and efficiency starts with understanding your processes, and I’m here to help you every step of the way.
+If you’re interested in exploring how Kanban can transform your organisation, I encourage you to reach out. Let’s have a chat over coffee, book a session with me through Naked Agility. Your journey towards improved agility and efficiency starts with understanding your processes, and I’m here to help you every step of the way.

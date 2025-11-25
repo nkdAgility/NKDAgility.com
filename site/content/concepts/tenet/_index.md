@@ -27,7 +27,7 @@ Instructions: |-
   - Content that strays from core tenets of Agile, Lean, DevOps, or Evidence-Based Management.
 headline:
   cards: []
-  title: 'Tenet: Actionable Rules That Embed Philosophy into Daily Decisions'
+  title: "Tenet: Actionable Rules That Embed Philosophy into Daily Decisions"
   subtitle: Actionable guiding rules that translate organisational philosophies into consistent team behaviours, decisions, and continuous improvement practices.
   content: Tenets are explicit, actionable guidelines that translate organisational philosophies into concrete team behaviours, providing clear direction for decision-making, operational effectiveness, and continuous improvement. They establish stable behavioural expectations, enabling cohesive teamwork, decentralised decisions, efficient workflow, and adaptability in complex, rapidly evolving environments.
   updated: 2025-05-23T23:27:36Z
@@ -41,13 +41,13 @@ ItemType: concepts
 ResourceType: concepts
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
+
 A **tenet** is a **specific, actionable guiding rule** or **doctrine** that reinforces a larger philosophy within an organisation. Unlike **values**, which express what is important to an organisation, or **principles**, which provide broad guidance, tenets are **prescriptive** and define **how** teams should act in specific situations.
 
-For example, in **Kanban**, the tenet “**Flow efficiency over resource efficiency**” directs teams to prioritise smooth, continuous workflow rather than simply maximising resource utilisation. This tenet translates the philosophy of **flow** into actionable behaviour—guiding teams on how to improve operational efficiency and value delivery.
+For example, in **Kanban**, the tenet “**Flow efficiency over resource efficiency**” directs teams to prioritise smooth, continuous workflow rather than simply maximising resource utilisation. This tenet translates the philosophy of **flow** into actionable behaviour, guiding teams on how to improve operational efficiency and value delivery.
 
-Tenets are more than just rules—they provide clear, consistent direction for **decision-making** and **behaviour** across teams. They are **actionable** beliefs that help guide how teams operate day to day. By embedding tenets into daily operations, organisations can ensure that their actions align with larger philosophical frameworks. For instance, **decentralised decision-making** is a core tenet in **Agile**, empowering teams to make decisions quickly and autonomously, improving agility and responsiveness.
+Tenets are more than just rules, they provide clear, consistent direction for **decision-making** and **behaviour** across teams. They are **actionable** beliefs that help guide how teams operate day to day. By embedding tenets into daily operations, organisations can ensure that their actions align with larger philosophical frameworks. For instance, **decentralised decision-making** is a core tenet in **Agile**, empowering teams to make decisions quickly and autonomously, improving agility and responsiveness.
 
 The long-term nature of tenets makes them essential in creating a consistent organisational culture. They are not just about individual actions or practices; they define the **collective behaviour** that teams should embrace to reach their goals. While **practices** may change depending on the project or technology, **tenets** remain stable, providing the foundation upon which practices are built.
 

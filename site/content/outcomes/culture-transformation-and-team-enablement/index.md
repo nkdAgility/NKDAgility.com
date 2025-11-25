@@ -1,7 +1,7 @@
 ---
 title: Culture Transformation and Team Enablement
 short_title: Culture Transformation & Team Enablement
-description: You get teams that own their outcomes, adapt to change, and deliver predictably—without burning out or disengaging.
+description: You get teams that own their outcomes, adapt to change, and deliver predictably, without burning out or disengaging.
 tldr: You gain clarity on what's blocking team effectiveness, confidence that cultural change will stick, and visible improvements in ownership, collaboration, and delivery flow. Teams become resilient, leadership becomes less exhausting, and your organisation becomes capable of sustained innovation.
 date: 2025-06-04
 weight: 500
@@ -83,7 +83,7 @@ sections:
       - title: You Gain Confidence That Transformation Will Last
         icon: fa-shield-check
         content: |
-          Change is reinforced through habits, systems, and shared understanding—not just events or mandates.
+          Change is reinforced through habits, systems, and shared understanding, not just events or mandates.
       - title: Your Teams Become Self-Correcting
         icon: fa-rotate
         content: |
@@ -125,11 +125,11 @@ sections:
     sideContent: |
       Culture change fails when it's treated as a rollout. It succeeds when it's embedded in how teams think, communicate, and make decisions.
 
-      You gain access to deep coaching and organisational change expertise that addresses the human and systemic dynamics—not just the surface mechanics. Transformation sticks because it's reinforced through practice, feedback, and shared ownership.
+      You gain access to deep coaching and organisational change expertise that addresses the human and systemic dynamics, not just the surface mechanics. Transformation sticks because it's reinforced through practice, feedback, and shared ownership.
 
       This work is led by practitioners with decades of experience across small organisations and large enterprises, delivering cultural change that aligns with engineering economics, DORA research, and Evidence-Based Management principles.
 
-      Work is delivered through timeboxed retainers with full risk reversal—if you're not satisfied, you're refunded. No hourly billing, no scope creep, just focused collaboration on outcomes that matter.
+      Work is delivered through timeboxed retainers with full risk reversal, if you're not satisfied, you're refunded. No hourly billing, no scope creep, just focused collaboration on outcomes that matter.
     list:
       - icon: fa-users
         content: Teams shift from compliance to commitment
@@ -150,7 +150,7 @@ card:
   button:
     content: Transform Your Culture
   title: Culture Transformation and Team Enablement
-  content: You get teams that own their outcomes, adapt to change, and deliver predictably—without burning out or disengaging.
+  content: You get teams that own their outcomes, adapt to change, and deliver predictably, without burning out or disengaging.
 Watermarks:
   description: 2025-11-25T00:00:00Z
   tldr: 2025-11-25T00:00:00Z

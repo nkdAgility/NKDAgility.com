@@ -45,8 +45,8 @@ duration: 194
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ## Empowering Teams with the APS Approach: Elevating Your [Scrum]({{< ref "/categories/scrum" >}}) Journey
 
 In the dynamic and ever-evolving realm of Scrum, where teams and organisations strive to harness their full potential, the Applied [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) (APS) stands out as a guiding light for authentic Scrum Mastery.  💡
@@ -77,7 +77,7 @@ APS's Signature: The Barnacle Exercise 🔄
 
 Among the myriad of APS sessions I've facilitated, the "Barnacle Exercise" still holds a special place with me and remains extremely effective.
 
-Through this introspective task, teams—be they newbies or veterans—are empowered to recognise and shed their own 'barnacles'. When diving deep into Agile practices within their organisations, as this exercise evolves, leading to the creation of an [organisational change]({{< ref "/tags/organisational-change" >}}) backlog.
+Through this introspective task, teams, be they newbies or veterans, are empowered to recognise and shed their own 'barnacles'. When diving deep into Agile practices within their organisations, as this exercise evolves, leading to the creation of an [organisational change]({{< ref "/tags/organisational-change" >}}) backlog.
 
 This blueprint, an [agile transformation]({{< ref "/tags/agile-transformation" >}}) roadmap, is a testament to the hands-on, collaborative essence of APS.  🎯
 
@@ -85,7 +85,7 @@ This blueprint, an [agile transformation]({{< ref "/tags/agile-transformation" >
 
 At its heart, APS is unwavering in its mission, which is to equip teams with the precise tools and insights to excel.
 
-The ultimate aim is to foster teams that are not merely superficially performing Scrum but truly embody its spirit—authentically and adeptly.  🎯
+The ultimate aim is to foster teams that are not merely superficially performing Scrum but truly embody its spirit, authentically and adeptly.  🎯
 
 ## Embark on Your APS Journey with Insight and Mastery
 

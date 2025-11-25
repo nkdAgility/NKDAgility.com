@@ -1,7 +1,7 @@
 ---
-title: 'Stop Flying Blind: Why Telemetry Belongs in Your Definition of Done'
+title: "Stop Flying Blind: Why Telemetry Belongs in Your Definition of Done"
 short_title: Telemetry in the Definition of Done
-description: Stop flying blind after release—learn why telemetry is vital to your Definition of Done and how real feedback drives better software, value, and team success.
+description: Stop flying blind after release, learn why telemetry is vital to your Definition of Done and how real feedback drives better software, value, and team success.
 tldr: Shipping software without telemetry leaves teams guessing about usage, performance, and user behavior, which prevents learning and improvement. Teams that make telemetry a core part of their Definition of Done catch issues early, validate outcomes with real data, and make better decisions. To deliver real value, define telemetry needs upfront, automate data collection, review feedback regularly, and act on what you learn.
 date: 2025-06-11T06:45:00Z
 lastmod: 2025-06-11T06:45:00Z
@@ -59,11 +59,11 @@ resourceTypes:
 isShort: true
 ResourceId: Nj4BIom2Jeg
 ResourceType: videos
-
 ---
+
 There’s a phrase I keep coming back to: shipping without telemetry is flying blind. It’s astonishing how often I see teams pour their energy into building and releasing features, only to have no idea what happens next. Did it work? Did it break? Is anyone even using it? Without logs, metrics, or any meaningful feedback, you’re left guessing. And guessing is not a strategy.
 
-At Naked Agility, we’ve made it our mission to help teams embed telemetry into their very definition of Done. Not as an afterthought. Not as a “nice to have.” Telemetry is a core requirement—an essential ingredient for any team that wants to deliver real value, not just working software.
+At Naked Agility, we’ve made it our mission to help teams embed telemetry into their very definition of Done. Not as an afterthought. Not as a “nice to have.” Telemetry is a core requirement, an essential ingredient for any team that wants to deliver real value, not just working software.
 
 Why Telemetry Matters
 
@@ -81,7 +81,7 @@ I’ve seen first-hand the difference it makes when teams treat telemetry as a f
 
 - Bake telemetry into every release, no exceptions.
 - Use real data to validate outcomes, not just opinions or gut feelings.
-- Spot problems early—sometimes before users even notice.
+- Spot problems early, sometimes before users even notice.
 - Make informed decisions about what to build next, based on evidence, not assumptions.
 
 Contrast that with teams who ship and hope. They’re the ones who get blindsided by outages, who can’t answer basic questions about usage, and who struggle to justify their next move. It’s not a place you want to be.
@@ -97,14 +97,14 @@ So, how do you make telemetry part of your Definition of Done? Here’s what I r
    Manual logging is a recipe for inconsistency. Invest in tools and practices that make telemetry automatic and reliable.
 
 3. **Review Telemetry as Part of Every Increment**  
-   Don’t wait for a crisis. Make reviewing telemetry a regular part of your process—every sprint, every release.
+   Don’t wait for a crisis. Make reviewing telemetry a regular part of your process, every sprint, every release.
 
 4. **Act on What You Learn**  
    Telemetry is only valuable if you use it. Build a culture where data drives decisions, not just hunches.
 
 The Bottom Line
 
-If you’re not gathering telemetry, you’re not learning. And if you’re not learning, you’re not delivering real value. It’s as simple—and as challenging—as that.
+If you’re not gathering telemetry, you’re not learning. And if you’re not learning, you’re not delivering real value. It’s as simple, and as challenging, as that.
 
 So, are you ready to stop flying blind after you ship? Let’s make telemetry a non-negotiable part of your Definition of Done. Your users, your team, and your future self will thank you.
 

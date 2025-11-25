@@ -1,5 +1,5 @@
 ---
-title: 'Human and AI Agency in Adaptive Systems: Strategy Before Optimisation'
+title: "Human and AI Agency in Adaptive Systems: Strategy Before Optimisation"
 short_title: Human vs AI Agency in Adaptive Systems
 description: Explores the distinct roles of human and AI agency in adaptive systems, emphasising human-led strategy and accountability versus AI-driven tactical optimisation.
 tldr: Human decision-making is essential for setting strategy, purpose, and adapting to change, while AI should be used for tactical optimisation within clear human-defined boundaries. Over-relying on AI for adaptation leads to fragile systems, loss of accountability, and strategic obsolescence. Development managers should ensure humans remain responsible for strategic direction and adaptation, using AI only to optimise within those parameters.
@@ -41,13 +41,13 @@ Watermarks:
 mermaid: true
 ResourceId: ffJaR9AaTl7
 ResourceType: blog
-
 ---
+
 Human agency is not optional in adaptive systems. It is not something to "blend" with AI or to automate away. It is the only thing that defines strategy, sets purpose, and drives meaningful adaptation. AI has a role, but that role is tactical optimisation within boundaries defined by humans.
 
 Treating these two forms of agency as equivalent is not just careless; it is dangerous. It leads to brittle systems that optimise yesterday’s decisions while failing to recognise when the game has changed.
 
-When we talk about **human agency**, we are speaking about **strategic intent** — the setting of direction, the framing of purpose, the shaping of hypotheses, and the stewardship of ethical, political, and systemic choices that no model or algorithm can or should automate. **AI agency**, by contrast, is about **tactical optimisation** — rapid [experimentation]({{< ref "/tags/experimentation" >}}) within bounded parameters, local improvements, efficiency gains, and the relentless pursuit of better tactics without changing the fundamental strategic frame.
+When we talk about **human agency**, we are speaking about **strategic intent** , the setting of direction, the framing of purpose, the shaping of hypotheses, and the stewardship of ethical, political, and systemic choices that no model or algorithm can or should automate. **AI agency**, by contrast, is about **tactical optimisation** , rapid [experimentation]({{< ref "/tags/experimentation" >}}) within bounded parameters, local improvements, efficiency gains, and the relentless pursuit of better tactics without changing the fundamental strategic frame.
 
 Put simply: AI optimises inside a system. Humans adapt and redefine the system.
 
@@ -89,7 +89,7 @@ Adaptive systems are grounded in weak signal detection, hypothesis-driven explor
 
 ### 2. Fragility under Complexity
 
-AI systems operate well under known constraints but become brittle in the face of novel complexity. When the operating environment changes outside the model's training range — as it inevitably will — organisations that have outsourced strategic sensing and adaptation will fail catastrophically and rapidly, long before any dashboard or model warns them.
+AI systems operate well under known constraints but become brittle in the face of novel complexity. When the operating environment changes outside the model's training range , as it inevitably will , organisations that have outsourced strategic sensing and adaptation will fail catastrophically and rapidly, long before any dashboard or model warns them.
 
 ### 3. Erosion of Human Accountability
 

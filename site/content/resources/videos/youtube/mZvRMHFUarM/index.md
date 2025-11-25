@@ -1,5 +1,5 @@
 ---
-title: 'Rethinking Software Estimation: Embrace Probabilistic Forecasting for Agile Success'
+title: "Rethinking Software Estimation: Embrace Probabilistic Forecasting for Agile Success"
 short_title: Probabilistic Forecasting in Agile Estimation
 description: Explores how probabilistic forecasting improves software project planning by replacing traditional estimation with data-driven confidence levels for agile delivery.
 tldr: Traditional software estimation is often inaccurate and burdens teams, so shifting to probabilistic forecasting based on historical data provides more realistic delivery predictions and reduces pressure. Breaking work into smaller pieces and aiming for high confidence levels, such as 85 percent, helps teams adapt to uncertainty and improve outcomes. Development managers should move away from precise estimates and instead use probability-based forecasts to guide planning and decision-making.
@@ -49,9 +49,9 @@ resourceTypes:
 isShort: false
 ResourceId: mZvRMHFUarM
 ResourceType: videos
-
 ---
-One of the most significant challenges I encounter in the realm of software projects is the perennial struggle with [estimation]({{< ref "/tags/estimation" >}}). It’s a topic that seems to generate endless debate and confusion. Many organisations feel compelled to engage in some form of estimation, whether that’s through absolute estimation—which often leads to errors—or by employing relative estimation tools. The reality, however, is that we often feel we need these estimates to chart our course forward. But do we really?
+
+One of the most significant challenges I encounter in the realm of software projects is the perennial struggle with [estimation]({{< ref "/tags/estimation" >}}). It’s a topic that seems to generate endless debate and confusion. Many organisations feel compelled to engage in some form of estimation, whether that’s through absolute estimation, which often leads to errors, or by employing relative estimation tools. The reality, however, is that we often feel we need these estimates to chart our course forward. But do we really?
 
 In my experience, what we truly need is the ability to forecast into the future with a degree of probability. When it comes to software delivery, where variance is high and uncertainty reigns, achieving accuracy in our predictions is nearly impossible. If you find yourself in a situation where more than 50% of your project is unknown, you can forget about precise predictions. Instead, we should focus on probabilistic [forecasting]({{< ref "/tags/forecasting" >}}).
 
@@ -60,7 +60,6 @@ So, what does this look like in practice? Rather than attempting to estimate ind
 Here are a few key takeaways from this approach:
 
 - **Embrace Probabilities**: Instead of fixating on exact numbers, focus on probabilities. This shift in mindset can alleviate the pressure on teams and foster a more realistic outlook on project timelines.
-  
 - **Reduce Batch Size**: While we may not be estimating individual items, it’s still crucial for teams to analyse their work and break it down into smaller, manageable chunks. This practice not only aids in understanding the deliverables but also enhances our ability to execute effectively.
 
 - **Build Confidence**: In this new paradigm, we may not have traditional estimates, but we can still cultivate confidence in our forecasts. I often encourage teams to aim for an 85% confidence level. Given that around 70% of startups fail, this benchmark provides a pragmatic approach to assessing our likelihood of success.

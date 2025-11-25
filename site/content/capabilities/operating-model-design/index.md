@@ -23,13 +23,13 @@ sections:
       subtitle: Align Strategy, Discovery, Delivery, and Operations
       content: |
         Most organisations don't fail because they lack talent or technology.  
-        They fail because their operating model is misaligned—strategy disconnected from delivery, operations fighting with engineering, and decisions made without evidence.
+        They fail because their operating model is misaligned, strategy disconnected from delivery, operations fighting with engineering, and decisions made without evidence.
 
         We design operating models that turn fragmented activity into coherent systems of work. This is consultation, design, and enablement focused on how your organisation connects strategic intent to delivery reality.
   - type: textNlist
     title: What We Provide
     sideContent: |
-      Operating model design is strategic consultation on how your organisation actually works—not just org charts, but how strategy flows into discovery, how discovery shapes delivery, and how operations enable scale.
+      Operating model design is strategic consultation on how your organisation actually works, not just org charts, but how strategy flows into discovery, how discovery shapes delivery, and how operations enable scale.
 
       The service includes assessment, model design, practice integration, and ongoing enablement to help your organisation maintain coherence as context evolves.
     list:
@@ -95,7 +95,7 @@ sections:
           - title: Adaptation support as context changes
   - title: How We Deliver This Service
     content: |
-      We don't start with frameworks. We start with your context—your goals, constraints, and current state. Engagement follows our timeboxed retainer model with full transparency and risk reversal.
+      We don't start with frameworks. We start with your context, your goals, constraints, and current state. Engagement follows our timeboxed retainer model with full transparency and risk reversal.
     type: list
     listType: list
     list:
@@ -165,7 +165,7 @@ sections:
       - title: Multi-Method Expertise
         icon: fa-layer-group
         content: |
-          We understand Scrum, Kanban, DevOps, and how they work together—not as competing frameworks but as complementary practices within coherent operating models.
+          We understand Scrum, Kanban, DevOps, and how they work together, not as competing frameworks but as complementary practices within coherent operating models.
       - title: Engineering-Grounded
         icon: fa-code
         content: |

@@ -1,5 +1,5 @@
 ---
-title: 'Maximising Product Value: The Power of Hypothesis-Driven Engineering'
+title: "Maximising Product Value: The Power of Hypothesis-Driven Engineering"
 short_title: Maximising Product Value with Hypothesis-Driven Engineering
 description: Explores how hypothesis-driven engineering helps teams maximise product value by testing ideas, measuring outcomes, and learning from failure to guide investment decisions.
 tldr: Focusing on hypothesis-driven engineering helps teams maximise product value by testing ideas with small experiments, measuring outcomes, and quickly adapting based on real customer feedback. The Azure DevOps team’s experience showed that even costly initiatives can provide critical learning, allowing resources to be redirected before larger losses occur. Development managers should encourage rapid experimentation and validation at all levels to ensure investments deliver real value and support agility.
@@ -62,8 +62,8 @@ resourceTypes:
 isShort: false
 ResourceId: Ig-HpUfQr3M
 ResourceType: videos
-
 ---
+
 When it comes to managing product investments, I’ve shifted my perspective significantly over the years. The phrase "stay within budget" doesn’t resonate with me anymore. Instead, I view it as having a pool of money that I can allocate strategically to maximise value. This approach requires a solid understanding of the data at hand and a clear vision of what we aim to achieve.
 
 ### Embracing Hypothesis-Driven Engineering
@@ -71,7 +71,6 @@ When it comes to managing product investments, I’ve shifted my perspective sig
 One of the key concepts I advocate for is **hypothesis-driven [engineering practices]({{< ref "/tags/engineering-practices" >}})**. Whether we’re developing new products or enhancing existing ones, starting with a hypothesis is crucial. Here’s how I approach it:
 
 - **Identify the Idea**: What do we want to add to our product? This could be a feature on your backlog or a broader initiative across your product portfolio.
-  
 - **Define the Outcome**: What are we trying to achieve? This clarity helps in aligning our efforts with the desired results.
 
 - **Run Small Experiments**: What’s the smallest experiment we can conduct to test our hypothesis? This allows us to validate our ideas without committing extensive resources upfront.
@@ -84,9 +83,9 @@ This methodology can be applied at any scale, from individual features to entire
 
 Let me share an insightful example from the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team at Microsoft. They faced a challenge: how to help customers manage their [technical debt]({{< ref "/tags/technical-debt" >}}) effectively. The product unit manager, who oversees budgetary control, recognised that people are the most significant expense in [product development]({{< ref "/categories/product-development" >}}). With a team of exactly 600 people, the focus was on allocating resources to ideas that would yield the highest return on investment.
 
-The team proposed a grand idea: to create tools that would help customers identify and manage their technical debt. This initiative required collaboration across various teams, each contributing their insights and expertise. They dedicated a significant amount of time—around four to six months—to explore this concept.
+The team proposed a grand idea: to create tools that would help customers identify and manage their technical debt. This initiative required collaboration across various teams, each contributing their insights and expertise. They dedicated a significant amount of time, around four to six months, to explore this concept.
 
-However, after extensive [experimentation]({{< ref "/tags/experimentation" >}}) and customer feedback, they discovered that their solutions didn’t resonate with users. Despite the investment—potentially around £10 million—they learned a valuable lesson: not every idea will succeed, and sometimes, it’s better to pivot and redirect resources elsewhere.
+However, after extensive [experimentation]({{< ref "/tags/experimentation" >}}) and customer feedback, they discovered that their solutions didn’t resonate with users. Despite the investment, potentially around £10 million, they learned a valuable lesson: not every idea will succeed, and sometimes, it’s better to pivot and redirect resources elsewhere.
 
 ### Learning from Failure
 
@@ -96,6 +95,6 @@ This experience catalysed a shift in Microsoft’s approach. They recognised the
 
 ### Conclusion: The Path Forward
 
-In today’s fast-paced environment, adopting hypothesis-driven engineering practices is essential for success. It allows us to make informed decisions, minimise wasted resources, and ultimately deliver products that meet customer needs. 
+In today’s fast-paced environment, adopting hypothesis-driven engineering practices is essential for success. It allows us to make informed decisions, minimise wasted resources, and ultimately deliver products that meet customer needs.
 
 As we move forward, let’s commit to this approach at every level of our businesses. By doing so, we can ensure that our investments yield the maximum value and that we remain agile in the face of change. Remember, it’s not just about the money spent; it’s about the insights gained and the ability to pivot when necessary.

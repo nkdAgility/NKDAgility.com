@@ -22,10 +22,10 @@ sections:
       title: Clarity in Technology Roadmaps
       subtitle: Strategic Confidence. Aligned Decisions. Sustainable Growth.
       content: |
-        You gain confidence in every technical decision. Architecture, systems, and investments align naturally. Your organisation moves in one direction—without friction, second-guessing, or reactive drift.
+        You gain confidence in every technical decision. Architecture, systems, and investments align naturally. Your organisation moves in one direction, without friction, second-guessing, or reactive drift.
   - type: outcomehero
     cta:
-      content: Ready to gain strategic clarity? **Start with a timeboxed engagement—full refund if you're not satisfied.**
+      content: Ready to gain strategic clarity? **Start with a timeboxed engagement, full refund if you're not satisfied.**
       button:
         text: Book a Call
         url: /company/book-online
@@ -87,7 +87,7 @@ sections:
       - title: Innovation Without Instability
         icon: fa-lightbulb
         content: |
-          You can evolve your stack, adopt new practices, and explore new capabilities—without breaking what works.
+          You can evolve your stack, adopt new practices, and explore new capabilities, without breaking what works.
   - type: outcomeboxes
     title: The Improved Condition You Experience
     boxes:
@@ -137,13 +137,13 @@ sections:
     list:
       - icon: fa-award
         content: |
-          Fixed timeboxes—you know the investment, we deliver value within it
+          Fixed timeboxes, you know the investment, we deliver value within it
       - icon: fa-award
         content: |
-          Full refund guarantee—if you're not satisfied, we haven't earned your investment
+          Full refund guarantee, if you're not satisfied, we haven't earned your investment
       - icon: fa-award
         content: |
-          You experience improvement, not reports—clarity emerges through working together
+          You experience improvement, not reports, clarity emerges through working together
     sideContent: |
       **Strategic clarity requires experience solving these problems at scale.** You work with practitioners who've led technical transformations, architectural decisions, and product development in organisations like yours.
 

@@ -50,8 +50,8 @@ Watermarks:
   tldr: 2025-08-07T12:33:05Z
 ResourceId: 2GV6voRFhjH
 ResourceType: signals
-
 ---
+
 Too much refinement wastes time. Too little refinement leads to chaos. The key is knowing where to draw the line.
 
 Scrum teams often fall into one of two traps:
@@ -59,7 +59,7 @@ Scrum teams often fall into one of two traps:
 - Refining everything too soon – spending hours detailing work that might never happen.
 - Not refining enough – arriving at Sprint Planning with backlog items that are vague, oversized, and full of unknowns.
 
-The goal isn’t perfection—it’s readiness. Your backlog should be refined just enough that developers can confidently pull work into a Sprint without endless clarification.
+The goal isn’t perfection, it’s readiness. Your backlog should be refined just enough that developers can confidently pull work into a Sprint without endless clarification.
 
 It’s about finding the Goldilocks zone: Not too much, not too little. Just enough.
 

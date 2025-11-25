@@ -54,11 +54,11 @@ Watermarks:
   tldr: 2025-08-07T12:34:32Z
 ResourceId: 8W3oqNsNnMS
 ResourceType: signals
-
 ---
+
 Great Scrum Masters and Product Owners don’t micromanage. They provide clarity, foster initiative, and hold teams accountable.
 
-The best teams understand the vision, have the autonomy to execute, and own their results. But autonomy doesn’t mean working in a vacuum. It exists within a structured system—Scrum events, commitments, and organisational needs define the playing field.
+The best teams understand the vision, have the autonomy to execute, and own their results. But autonomy doesn’t mean working in a vacuum. It exists within a structured system, Scrum events, commitments, and organisational needs define the playing field.
 
 Leadership isn’t about control for control’s sake. It’s about removing obstacles, enabling success, and stepping in when necessary.
 

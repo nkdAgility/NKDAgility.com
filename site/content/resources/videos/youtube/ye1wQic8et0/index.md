@@ -1,5 +1,5 @@
 ---
-title: 'Cutting Through the Red Tape: How Eliminating Committees Can Boost Your Time to Market'
+title: "Cutting Through the Red Tape: How Eliminating Committees Can Boost Your Time to Market"
 short_title: Eliminating Committees to Speed Time to Market
 description: Explores how committees can delay decision-making, reduce agility, and increase time to market, highlighting the benefits of empowering teams and streamlining processes.
 tldr: Committees often slow down decision-making and stall teams, leading to missed business opportunities and delayed time to market. Empowering teams to make decisions and adopting modern collaboration tools can significantly improve speed, accountability, and innovation. Review your current processes and consider reducing committee involvement to stay competitive and agile.
@@ -51,8 +51,8 @@ duration: 408
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In the world of agile methodologies, one question that often arises is whether removing committees can significantly reduce [time to market]({{< ref "/tags/time-to-market" >}}). Some claim that this can lead to a reduction of up to 50%. But is that really true? My experience suggests that while the figure may be exaggerated, the impact of committees on decision-making and agility is profound.
 
 ### The Myth of the 50% Reduction
@@ -64,7 +64,6 @@ Let’s be honest: the idea that you can cut time to market by half simply by el
 In my current engagements, I’ve observed that both formal and informal committees often slow down the decision-making process. Here’s how:
 
 - **Decision Delays**: When a decision is needed, it often requires the input of multiple stakeholders. This can lead to lengthy discussions, disagreements, and the need to involve even more people. The result? Prolonged decision-making that stalls progress.
-  
 - **Stalled Teams**: While committees deliberate, teams are left waiting. This not only affects morale but also impacts deadlines. Teams need clarity to move forward, and when they’re held up by committee processes, they can’t deliver value.
 
 ### A Real-World Example
@@ -75,7 +74,7 @@ However, the committee insisted on a more traditional approach: sending a final 
 
 ### The Cost of Traditional Practices
 
-The difference between these two approaches is stark. With modern [collaboration tools]({{< ref "/tags/collaboration-tools" >}}), we could have produced a near-final document in a matter of days. Instead, we faced a drawn-out process that could take six to twelve weeks. This is where the real cost lies—not just in time to market, but in lost opportunities.
+The difference between these two approaches is stark. With modern [collaboration tools]({{< ref "/tags/collaboration-tools" >}}), we could have produced a near-final document in a matter of days. Instead, we faced a drawn-out process that could take six to twelve weeks. This is where the real cost lies, not just in time to market, but in lost opportunities.
 
 - **Missed Opportunities**: Every moment spent in committee is a moment where potential business opportunities slip away. If decisions are delayed, competitors can swoop in and capture the [market share]({{< ref "/tags/market-share" >}}) that could have been yours.
 
@@ -83,7 +82,7 @@ The difference between these two approaches is stark. With modern [collaboration
 
 ### The Need for Change
 
-It’s clear to me that committees need to be re-evaluated in the context of modern business practices. The agility of a team can be severely compromised by outdated decision-making structures. 
+It’s clear to me that committees need to be re-evaluated in the context of modern business practices. The agility of a team can be severely compromised by outdated decision-making structures.
 
 - **Empower Teams**: Instead of relying on committees, organisations should empower teams to make decisions. This not only speeds up processes but also fosters a culture of accountability and innovation.
 
@@ -91,7 +90,7 @@ It’s clear to me that committees need to be re-evaluated in the context of mod
 
 ### Conclusion
 
-While the claim that removing committees can reduce time to market by 50% may be an exaggeration, the underlying truth is undeniable: committees slow down decision-making and hinder agility. The real question is, how many opportunities are you willing to let slip away while waiting for a committee to make a decision? 
+While the claim that removing committees can reduce time to market by 50% may be an exaggeration, the underlying truth is undeniable: committees slow down decision-making and hinder agility. The real question is, how many opportunities are you willing to let slip away while waiting for a committee to make a decision?
 
 If you’re in a traditional organisation, consider how you can streamline your processes and empower your teams. The future of your business may depend on it.
 

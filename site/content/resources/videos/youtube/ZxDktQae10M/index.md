@@ -1,5 +1,5 @@
 ---
-title: 'Mastering VSTS Sync Migration Tools: Your Ultimate Guide to Seamless TFS to VSTS Transitions'
+title: "Mastering VSTS Sync Migration Tools: Your Ultimate Guide to Seamless TFS to VSTS Transitions"
 short_title: VSTS Sync Migration Tools for TFS to VSTS
 description: Learn how to use VSTS sync migration tools for flexible, selective TFS to VSTS migrations, including setup, configuration, field mapping, and community support.
 tldr: When migrating from TFS to VSTS, use Microsoft's migration service for full database moves, but choose VSTS sync migration tools if you need flexibility to migrate or restructure specific projects. The sync tools allow selective migration, field mapping, and bulk updates, and are supported by a strong community; install them via Chocolatey and always test with a small dataset first. Decide which approach fits your needs, and leverage available documentation and community support for a smooth migration.
@@ -47,17 +47,17 @@ duration: 1977
 resourceTypes:
   - video
 isShort: false
-
 ---
-My name is Martin Hinshelwood, and I work for Naked Agility in Scotland, where we specialise in digital transformations, [DevOps]({{< ref "/categories/devops" >}}), and agile methodologies for a variety of clients. Today, I want to share my insights on the VSTS sync migration tools, a topic that has garnered much interest in our community. 
+
+My name is Martin Hinshelwood, and I work for Naked Agility in Scotland, where we specialise in digital transformations, [DevOps]({{< ref "/categories/devops" >}}), and agile methodologies for a variety of clients. Today, I want to share my insights on the VSTS sync migration tools, a topic that has garnered much interest in our community.
 
 ### Understanding Your Migration Options
 
-When it comes to migrating from TFS (Team Foundation Server) to VSTS (Visual Studio Team Services), it’s crucial to know that you have multiple options at your disposal. If your goal is to migrate your entire organisation from TFS to VSTS, the **VSTS migration services** provided by Microsoft should be your primary consideration. This tool offers a full fidelity service, meaning it can import your entire database and collection into VSTS. 
+When it comes to migrating from TFS (Team Foundation Server) to VSTS (Visual Studio Team Services), it’s crucial to know that you have multiple options at your disposal. If your goal is to migrate your entire organisation from TFS to VSTS, the **VSTS migration services** provided by Microsoft should be your primary consideration. This tool offers a full fidelity service, meaning it can import your entire database and collection into VSTS.
 
-- **Downtime Considerations**: Depending on the size of your collection, you may experience some downtime. For instance, I’ve successfully migrated collections as small as 50 GB in just a couple of hours, while larger collections—like a 2.5 TB one—took around 40 hours. The larger the data, the more complex the migration process becomes, as it involves transferring data to Azure before Microsoft processes it into VSTS.
+- **Downtime Considerations**: Depending on the size of your collection, you may experience some downtime. For instance, I’ve successfully migrated collections as small as 50 GB in just a couple of hours, while larger collections, like a 2.5 TB one, took around 40 hours. The larger the data, the more complex the migration process becomes, as it involves transferring data to Azure before Microsoft processes it into VSTS.
 
-However, if your needs are more specific—perhaps you only want to migrate a few team projects or restructure your projects—then the VSTS migration service may not meet your requirements. This is where the **VSTS sync migration tools** come into play.
+However, if your needs are more specific, perhaps you only want to migrate a few team projects or restructure your projects, then the VSTS migration service may not meet your requirements. This is where the **VSTS sync migration tools** come into play.
 
 ### The VSTS Sync Migration Tools
 
@@ -93,6 +93,6 @@ The VSTS sync migration tools are supported by a vibrant community. If you encou
 
 ### Conclusion
 
-In summary, whether you’re looking to perform a full migration or just need to move specific projects, understanding your options is key. The VSTS migration services from Microsoft are excellent for full fidelity migrations, while the VSTS sync migration tools offer the flexibility needed for more tailored scenarios. 
+In summary, whether you’re looking to perform a full migration or just need to move specific projects, understanding your options is key. The VSTS migration services from Microsoft are excellent for full fidelity migrations, while the VSTS sync migration tools offer the flexibility needed for more tailored scenarios.
 
 I hope this overview provides you with the insights you need to get started with your migration journey. If you have any questions or need further assistance, don’t hesitate to reach out. Happy migrating!

@@ -1,6 +1,6 @@
 ---
 title: Why is Kanban such a popular approach for people in creative industries?
-short_title: 'Kanban for Creative Teams: Workflow & Efficiency'
+short_title: "Kanban for Creative Teams: Workflow & Efficiency"
 description: Explains how Kanban helps creative teams organise workflows, reduce chaos, prioritise tasks, and improve efficiency without stifling creativity, using real-world examples.
 tldr: Kanban is popular in creative industries because it adapts to existing workflows, reduces chaos, and helps teams align on priorities without stifling creativity. It improves efficiency by visualising work, shortening cycle times, and encouraging collective decision-making. Development managers should consider mapping their team's current process with Kanban to enhance collaboration and deliver creative work more predictably.
 date: 2023-08-25T07:00:00Z
@@ -48,8 +48,8 @@ duration: 245
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 Creativity, with its boundless landscape, where every spark of inspiration has the potential to morph into a magnum opus, often thrives in a state of organised chaos.  
 
 But when the whirlwind of creative brilliance threatens to scatter ideas like leaves in a storm, [Kanban]({{< ref "/categories/kanban" >}}) steps forward as the beacon of method in the madness. 🎨 
@@ -82,7 +82,7 @@ It proposes a simple question: "What if our choices align?" 🧩 This alignment 
 
 ## Crafting a Unified Creative Selection 
 
-Consider an orchestra sans conductor—utter bedlam. In a creative team, Kanban wields the baton. By agreeing that tasks which have lingered longest take precedence, every idea is ensured its moment in the spotlight.  
+Consider an orchestra sans conductor, utter bedlam. In a creative team, Kanban wields the baton. By agreeing that tasks which have lingered longest take precedence, every idea is ensured its moment in the spotlight.  
 
 This isn't just about being fair; it’s about being efficient and client-centric. 🎵 
 
@@ -142,6 +142,6 @@ Here’s a brief 'how-to' concerto: 
 
 ## Kanban: The Maestro of the Creative Symphony 
 
-Kanban doesn’t just streamline; it leads. It transforms creative chaos into a coherent composition—collaborative, continuous, and always on cue. 
+Kanban doesn’t just streamline; it leads. It transforms creative chaos into a coherent composition, collaborative, continuous, and always on cue. 
 
 As those in the creative sector embrace Kanban, an epiphany unfolds: a framework can indeed liberate creativity. And with Kanban, this framework is as adaptable as it is sturdy, resonating with the dynamic tempo of creative work.

@@ -21,13 +21,13 @@ sections:
 
         Every engagement is designed to create lasting change: empowered teams, faster delivery cycles, higher quality products, and better economic returns through evidence-based decisions and strong engineering leadership.  
 
-        Explore the results we help our clients achieve — and see what's possible when technology becomes a strategic advantage in your organisation.
+        Explore the results we help our clients achieve ,  and see what's possible when technology becomes a strategic advantage in your organisation.
   - type: textNlist
     title: Start With Results, Not Methods
     sideContent: |
       We're here to improve the performance of your digital products by creating operating models that increase speed, strengthen decision-making, and reduce delivery friction.
 
-      That's why we start with measurable business outcomes — and only apply methods that deliver real results.
+      That's why we start with measurable business outcomes ,  and only apply methods that deliver real results.
 
       From coaching CTOs to transforming delivery systems, everything we do aligns strategy, discovery, delivery, and operations to create _evidence of progress_.
 

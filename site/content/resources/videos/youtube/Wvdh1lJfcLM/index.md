@@ -1,5 +1,5 @@
 ---
-title: 'Mastering the Migration: Seamlessly Transitioning from TFS to Azure DevOps'
+title: "Mastering the Migration: Seamlessly Transitioning from TFS to Azure DevOps"
 short_title: TFS to Azure DevOps Migration Guide
 description: Step-by-step guide to migrating from Team Foundation Server (TFS) to Azure DevOps, covering tools, validation, common issues, account alignment, and best practices.
 tldr: Migrating from TFS to Azure DevOps can boost team collaboration, enable cloud capabilities, and provide continuous updates, but it requires careful planning to address compatibility issues and account alignment. Key steps include updating TFS, running validation tools, fixing issues, and thorough post-migration testing to avoid disruptions. To ensure a smooth transition, use the right migration tools and consider expert support for complex environments.
@@ -49,8 +49,8 @@ duration: 188
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In today’s fast-paced tech landscape, staying ahead often means making strategic moves that streamline processes and enhance collaboration. For organizations still utilizing Team Foundation Server (TFS), migrating to Azure [DevOps]({{< ref "/categories/devops" >}}) is one such strategic move that promises enhanced agility and efficiency. However, this migration is not always straightforward. Let’s dive into the intricacies of this transition and explore how to do it seamlessly, leveraging the right tools and expertise.
 
 ## **Why Migrate to [Azure DevOps]({{< ref "/tags/azure-devops" >}})?**
@@ -85,7 +85,7 @@ When it comes to migrating from TFS to Azure DevOps, we offer a two-pronged appr
 
 ### **1\. Targeted Migration Using Azure DevOps Migration Tools**
 
-For organizations looking to migrate specific elements—such as individual work items, code repositories, or builds—our targeted migration service is ideal. Using the Azure DevOps Migration Tools available on [GitHub]({{< ref "/tags/github" >}}), we assist in moving specific components of your TFS environment. This approach is perfect when:
+For organizations looking to migrate specific elements, such as individual work items, code repositories, or builds, our targeted migration service is ideal. Using the Azure DevOps Migration Tools available on [GitHub]({{< ref "/tags/github" >}}), we assist in moving specific components of your TFS environment. This approach is perfect when:
 
 - You want to consolidate projects.
 
@@ -109,13 +109,13 @@ Migrating to Azure DevOps is not just about moving data; it’s about ensuring t
 
 1. **Update to the Latest Version of TFS:** Before starting the migration, ensure your TFS is updated to the latest version. This reduces the risk of encountering compatibility issues during migration.
 
-3. **Run Validation Tools:** Use Microsoft’s tools to validate your TFS environment. These tools will check for any potential issues that could cause the migration to fail.
+2. **Run Validation Tools:** Use Microsoft’s tools to validate your TFS environment. These tools will check for any potential issues that could cause the migration to fail.
 
-5. **Fix Identified Issues:** Address all issues highlighted by the validation tools. This might involve reverting custom settings, such as max attachment sizes, or cleaning up outdated configurations.
+3. **Fix Identified Issues:** Address all issues highlighted by the validation tools. This might involve reverting custom settings, such as max attachment sizes, or cleaning up outdated configurations.
 
-7. **Initiate the Migration:** Once everything is validated and issues are resolved, initiate the migration process, either using our targeted migration tools or the managed import service.
+4. **Initiate the Migration:** Once everything is validated and issues are resolved, initiate the migration process, either using our targeted migration tools or the managed import service.
 
-9. **Post-Migration Testing:** After the migration, conduct thorough testing to ensure everything is functioning as expected. This includes checking code repositories, builds, and process templates.
+5. **Post-Migration Testing:** After the migration, conduct thorough testing to ensure everything is functioning as expected. This includes checking code repositories, builds, and process templates.
 
 ### **Personal Advice: Don’t Skip the Testing Phase**
 

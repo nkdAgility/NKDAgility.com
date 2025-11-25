@@ -1,5 +1,5 @@
 ---
-title: 'The Pitfalls of Agile Burndowns: Stop Being Agile Bandits'
+title: "The Pitfalls of Agile Burndowns: Stop Being Agile Bandits"
 short_title: Pitfalls of Agile Burndown Charts
 description: Explains why relying on Agile burndown charts leads to over-planning and false progress, and advocates for minimal, adaptive planning and continuous value delivery.
 tldr: Relying on burndown charts leads to excessive upfront planning, false confidence, and wasted effort, as most plans quickly become outdated and only a fraction of features are actually used. Instead, focus on minimal, just-in-time planning and continuous flow to adapt quickly, reduce overhead, and deliver real value. Encourage your teams to plan only what is needed for the next day, adjust daily, and prioritize delivering value over maintaining detailed charts.
@@ -57,25 +57,25 @@ duration: 46
 resourceTypes:
   - video
 isShort: true
-
 ---
-Agile teams often use burndown charts to track progress throughout a sprint. It seems like a solid approach—after all, it’s a visual indicator of how much work remains. But let me be clear: **burndowns are Agile banditry**! In fact, relying too heavily on burndowns could lead your team down a treacherous path of excessive upfront planning and false security. Let’s explore why burndowns aren’t the hero of Agile, and how embracing a continuous flow mindset can lead to real value.
+
+Agile teams often use burndown charts to track progress throughout a sprint. It seems like a solid approach, after all, it’s a visual indicator of how much work remains. But let me be clear: **burndowns are Agile banditry**! In fact, relying too heavily on burndowns could lead your team down a treacherous path of excessive upfront planning and false security. Let’s explore why burndowns aren’t the hero of Agile, and how embracing a continuous flow mindset can lead to real value.
 
 ## **The Reality of [Agile Planning]({{< ref "/tags/agile-planning" >}})**
 
 Imagine this: for your burndown chart to move from the top left to the bottom right in a smooth, linear fashion, you’d need to have planned the entire sprint upfront. Think about that for a moment. You’d need to know exactly what you’ll encounter over the next two weeks to deliver a perfect outcome. And, if you're doing a project burndown, this planning covers the entire product lifecycle!
 
-But let’s face it—if we’re developing products that don’t yet exist, how can we possibly plan it all upfront? There’s too much complexity, variance, and, quite frankly, **too many surprises**. If you’re familiar with the data from the Standish Group’s _Chaos Report_, you’ll know that:
+But let’s face it, if we’re developing products that don’t yet exist, how can we possibly plan it all upfront? There’s too much complexity, variance, and, quite frankly, **too many surprises**. If you’re familiar with the data from the Standish Group’s _Chaos Report_, you’ll know that:
 
 - **65%** of what we build changes over the product’s lifetime
 
 - Only **30%** of the features we build are actually used by customers 😲
 
-This means we can’t predict the next six months with any degree of accuracy. Attempting to plan everything upfront is like writing fiction—it’s **made up**. It’s not Agile, and it’s certainly not effective.
+This means we can’t predict the next six months with any degree of accuracy. Attempting to plan everything upfront is like writing fiction, it’s **made up**. It’s not Agile, and it’s certainly not effective.
 
 ### **Personal Experience: The Sprint Planning Fiction**
 
-I’ve seen countless teams spend hours, if not days, planning every detail of a sprint. They meticulously list tasks, assign work, and create elaborate plans for each team member. But guess what happens by Day 2? Half of the plan is already outdated! The team has discovered new complexities, unforeseen dependencies, or—more often than not—the initial plan just doesn’t align with the actual work.
+I’ve seen countless teams spend hours, if not days, planning every detail of a sprint. They meticulously list tasks, assign work, and create elaborate plans for each team member. But guess what happens by Day 2? Half of the plan is already outdated! The team has discovered new complexities, unforeseen dependencies, or, more often than not, the initial plan just doesn’t align with the actual work.
 
 When this happens, the team is forced to go back and update their detailed plan. It becomes a game of catch-up, leaving developers frustrated as they balance delivering value with maintaining an ever-changing backlog.
 
@@ -99,7 +99,7 @@ You want a **minimal but sufficient** plan, one that’s flexible enough to adju
 
 ## **Continuous Flow: The Heartbeat of Agile**
 
-Instead of getting stuck in the planning trap, focus on the **continuous flow of value**. In an ideal Agile system, your team is delivering value regularly and adjusting to new information just as quickly. Think of it as a stream of value flowing through your system—always moving, always delivering.
+Instead of getting stuck in the planning trap, focus on the **continuous flow of value**. In an ideal Agile system, your team is delivering value regularly and adjusting to new information just as quickly. Think of it as a stream of value flowing through your system, always moving, always delivering.
 
 Burndowns, on the other hand, create the illusion that everything will go as planned. In reality, they’re often out of date by Day 2. And when developers are under pressure to deliver, they don’t have the time or inclination to go back and update a bloated backlog of tasks.
 
@@ -135,7 +135,7 @@ The result? Happier developers, faster delivery, and more satisfied customers.
 
 ## **Are You Being Ambushed by Agile Bandits?**
 
-If you find yourself stuck in the rut of excessive planning, burndowns, and over-complicated backlogs, it’s time to stop being Agile bandits! Focus on what matters—**continuous flow** and **delivering value**.
+If you find yourself stuck in the rut of excessive planning, burndowns, and over-complicated backlogs, it’s time to stop being Agile bandits! Focus on what matters, **continuous flow** and **delivering value**.
 
 Burndowns may seem like a good idea, but they’re often a trap, forcing teams into too much planning, creating unnecessary overhead, and leading to burnout. By embracing minimal planning and continuous flow, your team will become more adaptable, productive, and happier.
 

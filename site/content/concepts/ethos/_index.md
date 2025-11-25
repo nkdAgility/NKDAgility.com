@@ -5,13 +5,13 @@ trustpilot: false
 date: 2025-05-13T10:30:00Z
 weight: 430
 description: The core beliefs that underpin how we think, structure work, and enable value delivery across all systems.
-abstract: Ethos is the foundation beneath principles, practices, and strategies. It informs how we lead, how we coach, and how we build systems that endure. Without a clearly defined ethos, teams drift into rituals without results—Scrum becomes status theatre, DevOps becomes tool automation, and transformation stalls. Ethos brings coherence and conviction to how we work. It’s not a mindset. It’s a disciplined stance.
+abstract: Ethos is the foundation beneath principles, practices, and strategies. It informs how we lead, how we coach, and how we build systems that endure. Without a clearly defined ethos, teams drift into rituals without results, Scrum becomes status theatre, DevOps becomes tool automation, and transformation stalls. Ethos brings coherence and conviction to how we work. It’s not a mindset. It’s a disciplined stance.
 icon: fa-heart
 Instructions: |-
   Use this category only for discussions on Ethos.
 
   **Scope and Purpose:**  
-  This category is strictly for content that explores the foundational beliefs, disciplined stances, and underlying convictions that shape how Agile, DevOps, Lean, and related systems are led, coached, and sustained. Ethos refers to the core, demonstrable values that inform principles, practices, and system evolution—distinct from stated values, mindsets, or surface-level rituals. The purpose is to examine how ethos underpins sustainable delivery, authentic agility, and meaningful transformation, ensuring coherence and integrity in practice.
+  This category is strictly for content that explores the foundational beliefs, disciplined stances, and underlying convictions that shape how Agile, DevOps, Lean, and related systems are led, coached, and sustained. Ethos refers to the core, demonstrable values that inform principles, practices, and system evolution, distinct from stated values, mindsets, or surface-level rituals. The purpose is to examine how ethos underpins sustainable delivery, authentic agility, and meaningful transformation, ensuring coherence and integrity in practice.
 
   **Key Topics:**  
   - The role of ethos as the foundation beneath principles, practices, and strategies in Agile, DevOps, and Lean contexts  
@@ -31,7 +31,7 @@ Instructions: |-
   - Any content not directly addressing the foundational, system-level convictions that drive sustainable delivery and authentic transformation
 headline:
   cards: []
-  title: 'Ethos: Building Systems That Reflect What You Truly Value'
+  title: "Ethos: Building Systems That Reflect What You Truly Value"
   subtitle: The disciplined stance that shapes leadership, informs decisions, guides system evolution, and ensures meaningful outcomes over empty rituals.
   content: Ethos defines the underlying beliefs and disciplined stance that shape leadership, coaching, decision-making, and system evolution. It emphasises value delivery, accountability, evidence-based decisions, and continuous improvement, ensuring practices remain purposeful and coherent rather than drifting into empty rituals, superficial compliance, or ineffective automation.
   updated: 2025-05-23T23:25:25Z
@@ -44,14 +44,14 @@ ItemType: concepts
 ResourceType: concepts
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
-Ethos is not what you say you value—it’s what your system proves you believe.
 
-Everything on this site reflects a consistent ethos: value delivery over activity, accountability over role-playing, system evolution over compliance, evidence over opinion. This ethos drives how we apply Scrum as a social technology, how we use Kanban as an observability pattern, and how we treat DevOps as a delivery enabler—not a toolchain.
+Ethos is not what you say you value, it’s what your system proves you believe.
+
+Everything on this site reflects a consistent ethos: value delivery over activity, accountability over role-playing, system evolution over compliance, evidence over opinion. This ethos drives how we apply Scrum as a social technology, how we use Kanban as an observability pattern, and how we treat DevOps as a delivery enabler, not a toolchain.
 
 Your principles emerge from ethos. So do your working agreements, your feedback loops, your definition of done, your deployment cadence, your response to failure, and your tolerance for nonsense. You can’t build a sustainable delivery system without it.
 
 Ethos is what keeps your teams from falling back into habits that feel comfortable but deliver nothing. It holds the line when pressure mounts and shortcuts tempt. It’s the difference between agility that lasts and transformations that collapse into ceremony.
 
-This site exists to support that ethos. Every method, recipe, principle, and workshop here is grounded in it. If you don’t share the ethos, the tools won’t work. If you do, the system will evolve—continuously, deliberately, and with integrity.
+This site exists to support that ethos. Every method, recipe, principle, and workshop here is grounded in it. If you don’t share the ethos, the tools won’t work. If you do, the system will evolve, continuously, deliberately, and with integrity.

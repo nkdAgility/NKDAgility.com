@@ -1,5 +1,5 @@
 ---
-title: 'Unpacking Assumptions: How to Elevate Your Product Development Beyond the Feature Factory'
+title: "Unpacking Assumptions: How to Elevate Your Product Development Beyond the Feature Factory"
 short_title: Unpacking Assumptions in Product Development
 description: Learn how to identify and challenge assumptions in product development, avoid the feature factory trap, and use discovery, experimentation, and validation to meet real user needs.
 tldr: Many teams focus on delivering features quickly but often overlook the assumptions behind what users truly need, leading to wasted effort and misaligned products. The PPD V course helps product teams identify and challenge these assumptions through structured discovery, experimentation, and validation, fostering better collaboration and evidence-based decisions. Consider investing in approaches that prioritise learning and user value over simply shipping features.
@@ -49,22 +49,19 @@ duration: 355
 resourceTypes:
   - video
 isShort: false
-
 ---
-Let’s dive into a topic that’s been on my mind lately: the importance of addressing assumptions in [product development]({{< ref "/categories/product-development" >}}). As I’ve observed in various organisations, there’s often a heavy focus on delivery—specifically, the creation of product increments. While this is undoubtedly a crucial goal, I believe we’re missing a vital piece of the puzzle: the complex problems we’re trying to solve along the way.
+
+Let’s dive into a topic that’s been on my mind lately: the importance of addressing assumptions in [product development]({{< ref "/categories/product-development" >}}). As I’ve observed in various organisations, there’s often a heavy focus on delivery, specifically, the creation of product increments. While this is undoubtedly a crucial goal, I believe we’re missing a vital piece of the puzzle: the complex problems we’re trying to solve along the way.
 
 ### The Assumption Trap
 
-In our rush to deliver, we often make assumptions—sometimes without even realising it. This can lead to missed learning opportunities and, ultimately, the dreaded feature factory problem. You know the one I mean: where teams churn out features without truly understanding user needs or the underlying problems they’re trying to solve.
+In our rush to deliver, we often make assumptions, sometimes without even realising it. This can lead to missed learning opportunities and, ultimately, the dreaded feature factory problem. You know the one I mean: where teams churn out features without truly understanding user needs or the underlying problems they’re trying to solve.
 
 Here are a few factors that contribute to this issue:
 
 - **Insufficient User Understanding**: We might take what users say at face value, but do we really grasp their needs? It’s essential to dig deeper and gather data that informs our decisions.
-  
 - **Reactionary Development**: Often, we find ourselves developing features simply because competitors have done so. This knee-jerk reaction can lead us astray.
-  
 - **Poor Collaboration**: Healthy collaboration with stakeholders is crucial. If we’re not engaging effectively, we risk misalignment and confusion.
-  
 - **Misguided Metrics**: Choosing the wrong metrics can skew our understanding of success and lead us down the wrong path.
 
 ### Navigating Complexity
@@ -89,11 +86,8 @@ In essence, anyone involved in the product development process will find value i
 Throughout the course, we’ll engage with a case study that illustrates how to incorporate discovery and validation into the product development process. Here’s what you can expect to learn:
 
 - **Working with Assumptions**: We’ll explore how to identify and challenge assumptions that may hinder our progress.
-  
 - **[Experimentation]({{< ref "/tags/experimentation" >}})**: You’ll learn how to design experiments that provide valuable insights into user needs and preferences.
-  
 - **Collecting Evidence**: We’ll discuss methods for gathering data that informs our decisions and validates our hypotheses.
-  
 - **Conscious Learning**: This course is all about fostering a culture of learning, enabling us to build better products over time.
 
 ### Conclusion

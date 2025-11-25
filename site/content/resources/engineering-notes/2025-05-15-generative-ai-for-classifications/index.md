@@ -34,13 +34,13 @@ Watermarks:
   tldr: 2025-08-07T12:32:16Z
 ResourceId: oRStCAqLAY4
 ResourceType: engineering-notes
-
 ---
+
 I moved my blog to Hugo in mid-2024 to regain control over my content and workflow. This proved to be a great decision as it gave me the ability to really focus on content for my site.
 
 My site has been around since 2006 and was originally on GeeksWithBlogs, then Blogger, and then WordPress. As it moved, it grew in complexity, but updating legacy things like "old posts" and "categories" became painful in WordPress when you have 800+ posts. If you have tried to use the WordPress API, you will understand the pain.
 
-So when I moved, I wanted my content to be portable, static, and in a data format that I could easily manipulate. I chose Hugo as the site generator, with Markdown and YAML as the data formats (with some JSON as you will see below). This made it very easy to write scripts over the top of the Markdown and update it dynamically. I built a bunch of such scripts, and it became apparent very early that AI could play a fantastic part in the story. My first implementation of AI was to use a prompt to ensure that my posts all had an SEO-friendly description. This worked great and produced some fantastic descriptions, but while it’s tempting to treat AI as a black box, that’s reckless. AI systems have **agency**, but it is limited to **tactical optimisation** — they can suggest, rank, and cluster, but they cannot **own accountability** for what gets published or accepted. That’s the human’s job.
+So when I moved, I wanted my content to be portable, static, and in a data format that I could easily manipulate. I chose Hugo as the site generator, with Markdown and YAML as the data formats (with some JSON as you will see below). This made it very easy to write scripts over the top of the Markdown and update it dynamically. I built a bunch of such scripts, and it became apparent very early that AI could play a fantastic part in the story. My first implementation of AI was to use a prompt to ensure that my posts all had an SEO-friendly description. This worked great and produced some fantastic descriptions, but while it’s tempting to treat AI as a black box, that’s reckless. AI systems have **agency**, but it is limited to **tactical optimisation** , they can suggest, rank, and cluster, but they cannot **own accountability** for what gets published or accepted. That’s the human’s job.
 
 This post outlines the architecture and technical strategy I implemented to integrate OpenAI into my Hugo site for automated classification, while maintaining human oversight and ensuring auditability.
 
@@ -48,7 +48,7 @@ This post outlines the architecture and technical strategy I implemented to inte
 
 I realised pretty quickly that many of my tags and categories were vague, uninteresting, and often just wrong. I had over 1,000 tags and 200 categories, which made discoverability a nightmare. So I decided to see if I could leverage generative AI to do the classification for me once I had pruned my categorisations.
 
-I finally ended up with about 140 tags and 12 categories, but more recently also introduced the idea of "Concepts" to classify the classifications — what fun.
+I finally ended up with about 140 tags and 12 categories, but more recently also introduced the idea of "Concepts" to classify the classifications , what fun.
 
 Overall I wanted to:
 
@@ -69,7 +69,7 @@ By combining these, I created a multi-level structure that improves searchabilit
 
 The AI assigns tags, categories, and concepts to all the content items using "instructions" embedded in the classification pages.
 
-I'm a Windows user and have been for years, so I wrote all of the scripting in PowerShell. For me, this is the most flexible as it’s native, and anything I can’t do in PowerShell I can use C#. I do have some calls out to Python, but that’s another post. Iterating over a bunch of Markdown files with YAML front matter is a trivial experience, but I have built up a bunch of helper modules over the last 6 months that do a lot of the heavy lifting — so much so that it can take minutes to build new scripts for specific one-time tasks. For example, if I want to get a list of all my content resources pre-parsed into an ordered front matter hashtable and the content, then all I need to do is call `$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 1` and I have a ready-to-iterate collection.
+I'm a Windows user and have been for years, so I wrote all of the scripting in PowerShell. For me, this is the most flexible as it’s native, and anything I can’t do in PowerShell I can use C#. I do have some calls out to Python, but that’s another post. Iterating over a bunch of Markdown files with YAML front matter is a trivial experience, but I have built up a bunch of helper modules over the last 6 months that do a lot of the heavy lifting , so much so that it can take minutes to build new scripts for specific one-time tasks. For example, if I want to get a list of all my content resources pre-parsed into an ordered front matter hashtable and the content, then all I need to do is call `$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 1` and I have a ready-to-iterate collection.
 
 I also have a batch version, and all of my code is in GitHub where it can be versioned, branched, and reviewed with a PR.
 
@@ -131,4 +131,4 @@ I've been very impressed with the capability, and I’ve also learned valuable l
 
 ## Closing Thoughts
 
-Bringing AI into this system has been transformative, and if you’re considering similar work, my advice is simple: don’t delegate accountability — use AI to amplify your judgment. By combining automation with careful oversight, I’ve turned a massive manual maintenance burden into a scalable, transparent process. This work has not only improved the quality and consistency of my site, but it has also deepened my own understanding of how to use AI responsibly: as a partner in execution, not as a substitute for accountability. I’m excited about where this will go next and how it can push the boundaries of what’s possible in content management.
+Bringing AI into this system has been transformative, and if you’re considering similar work, my advice is simple: don’t delegate accountability , use AI to amplify your judgment. By combining automation with careful oversight, I’ve turned a massive manual maintenance burden into a scalable, transparent process. This work has not only improved the quality and consistency of my site, but it has also deepened my own understanding of how to use AI responsibly: as a partner in execution, not as a substitute for accountability. I’m excited about where this will go next and how it can push the boundaries of what’s possible in content management.

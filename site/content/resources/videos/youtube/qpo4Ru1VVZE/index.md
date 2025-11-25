@@ -1,5 +1,5 @@
 ---
-title: 'Navigating the TFS to Azure DevOps Migration: Overcoming Compatibility Concerns with Confidence'
+title: "Navigating the TFS to Azure DevOps Migration: Overcoming Compatibility Concerns with Confidence"
 short_title: TFS to Azure DevOps Migration Guide
 description: Guidance on migrating from TFS on-premises to Azure DevOps, addressing compatibility, customisations, code security, and best practices for a smooth transition.
 tldr: Migrating from TFS on-premises to Azure DevOps is generally straightforward, with most compatibility concerns affecting older on-prem versions rather than the cloud. Key considerations include planning for the loss of unsupported customisations, ensuring code security during the transition, and evaluating how existing extensions will work in Azure DevOps. To ensure a smooth migration, assess your current setup, identify potential gaps, and proactively address customisation needs.
@@ -46,15 +46,15 @@ resourceTypes:
 isShort: false
 ResourceId: qpo4Ru1VVZE
 ResourceType: videos
-
 ---
+
 When it comes to migrating from TFS on-prem to Azure [DevOps]({{< ref "/categories/devops" >}}), I often hear concerns about compatibility issues. However, I can assure you that if you're worried about these problems, you probably shouldn't be. In my experience, everything that works on-prem is compatible with [Azure DevOps]({{< ref "/tags/azure-devops" >}}). In fact, the reverse is often true; not everything that functions in Azure DevOps will work seamlessly on older on-prem versions, which is where compatibility issues are more likely to arise.
 
 ### Understanding the Migration Landscape
 
 Recently, I was involved in a migration project for a client still using TFS 2010. This version is quite dated and, as you might expect, it presented some unique challenges. Here are a few key takeaways from that experience:
 
-- **Customisations Matter**: The client had several customisations—some they built themselves and others they purchased—that simply no longer exist in newer versions of TFS. This required us to plan carefully around what functionalities they would lose when moving to the cloud.
+- **Customisations Matter**: The client had several customisations, some they built themselves and others they purchased, that simply no longer exist in newer versions of TFS. This required us to plan carefully around what functionalities they would lose when moving to the cloud.
 
 - **Upgrade Necessity**: Even a straightforward upgrade from TFS 2010 to a newer version would mean losing certain functionalities. TFS 2010 has been out of support for over five years, which means that companies still using it are at risk of data integrity issues and lack of support. It’s crucial to stay compliant to protect your organisation's intellectual property.
 
@@ -68,12 +68,12 @@ Your code is not just lines of text; it’s a vital organisational asset. Here�
 
 ### Customisations and Extensions
 
-One of the most significant aspects to consider during this migration is your in-house customisations. Over the years, it has been relatively easy to create extensions, plugins, and other systems that integrate with TFS. As you move to the cloud, you’ll need to evaluate how these will function in the new environment. 
+One of the most significant aspects to consider during this migration is your in-house customisations. Over the years, it has been relatively easy to create extensions, plugins, and other systems that integrate with TFS. As you move to the cloud, you’ll need to evaluate how these will function in the new environment.
 
 - **Planning for Change**: While it may seem daunting, addressing these customisations is manageable. With a bit of foresight and planning, you can ensure that your transition to Azure DevOps is smooth and that your existing functionalities are preserved as much as possible.
 
 ### Conclusion
 
-Migrating from TFS on-prem to Azure DevOps doesn’t have to be a source of anxiety. With careful planning and consideration of your unique environment, you can navigate the transition effectively. Remember, the key is to understand what you currently have, what you might lose, and how to adapt your customisations to fit the new model. 
+Migrating from TFS on-prem to Azure DevOps doesn’t have to be a source of anxiety. With careful planning and consideration of your unique environment, you can navigate the transition effectively. Remember, the key is to understand what you currently have, what you might lose, and how to adapt your customisations to fit the new model.
 
 If you’re facing a similar migration, I encourage you to take a proactive approach. Assess your current setup, identify potential pitfalls, and don’t hesitate to reach out for help if needed. The cloud offers incredible opportunities for growth and efficiency, and with the right strategy, you can harness its full potential.

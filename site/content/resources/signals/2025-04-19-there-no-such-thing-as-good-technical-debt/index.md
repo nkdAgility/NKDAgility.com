@@ -45,16 +45,16 @@ Watermarks:
   tldr: 2025-08-07T12:33:26Z
 ResourceId: lLNjkL_zGQa
 ResourceType: signals
-
 ---
+
 Let’s put this to rest: there’s no such thing as "good" technical debt.
 
 If new engineers take weeks to become productive, your system is unreadable. If every change introduces faults, your architecture is fragile. If you’re manually handling tasks that should be automated, you’re building inefficiency into your process.
 
-And here’s the kicker—technical debt doesn’t accumulate linearly. It builds up silently, then one day, it collapses your ability to deliver.
+And here’s the kicker, technical debt doesn’t accumulate linearly. It builds up silently, then one day, it collapses your ability to deliver.
 
 Microsoft learned this the hard way with TFS. They were shipping 24 features per year across a team of 600 engineers. The solution? A complete overhaul in how they worked. They moved to 3-week Sprints, embraced transparency, and started paying back their technical debt.
 
-Stop normalising dysfunction. There’s no "acceptable level" of technical debt—only risk you haven’t accounted for yet.
+Stop normalising dysfunction. There’s no "acceptable level" of technical debt, only risk you haven’t accounted for yet.
 
 What’s stopping your team from tackling technical debt head-on?

@@ -1,5 +1,5 @@
 ---
-title: 'Innovation graveyards: Where great ideas die in slow organisations'
+title: "Innovation graveyards: Where great ideas die in slow organisations"
 short_title: Innovation Graveyards in Slow Organisations
 description: Explores how slow organisational processes, risk aversion, and excessive alignment cause promising ideas to stall, leading to lost innovation and unrealised potential.
 tldr: Slow organisations kill promising ideas by demanding certainty, avoiding risk, and requiring full alignment before testing anything. Successful companies move quickly, experiment, and improve as they go, understanding that waiting for perfection leads to missed opportunities. To avoid wasting potential, encourage faster testing and learning from new ideas.
@@ -43,9 +43,9 @@ Watermarks:
   tldr: 2025-08-07T12:33:10Z
 ResourceId: S-OSZ8uEFdf
 ResourceType: signals
-
 ---
-Inside every slow-moving organisation is an innovation graveyard—a place where great ideas die before they ever see daylight.
+
+Inside every slow-moving organisation is an innovation graveyard, a place where great ideas die before they ever see daylight.
 
 How?
 

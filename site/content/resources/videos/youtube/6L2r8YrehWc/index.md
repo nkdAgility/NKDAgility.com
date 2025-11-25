@@ -54,13 +54,13 @@ duration: 237
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In the world of [Scrum]({{< ref "/categories/scrum" >}}), a common question arises: why isn’t the [Scrum Master]({{< ref "/tags/scrum-master" >}}) endowed with any real power or authority as outlined in the Scrum Guide? This is a thought-provoking inquiry, and I’d like to share my perspective based on my experiences in the field.
 
 ### Understanding Accountability in Scrum
 
-First and foremost, it’s essential to clarify that the Scrum Master does hold a significant role within the Scrum framework. They are accountable for the effectiveness of the [Scrum team]({{< ref "/tags/scrum-team" >}}). However, this accountability does not translate into explicit authority. Instead, it’s about creating an environment where the team can thrive. 
+First and foremost, it’s essential to clarify that the Scrum Master does hold a significant role within the Scrum framework. They are accountable for the effectiveness of the [Scrum team]({{< ref "/tags/scrum-team" >}}). However, this accountability does not translate into explicit authority. Instead, it’s about creating an environment where the team can thrive.
 
 - **[Product Owner]({{< ref "/tags/product-owner" >}})**: Their primary responsibility is to maximise the value of the work done.
 - **Developers**: They focus on maximising the quality of the product they are developing.
@@ -68,7 +68,7 @@ First and foremost, it’s essential to clarify that the Scrum Master does hold 
 
 ### The Nature of Authority in Organisations
 
-In many organisations, authority is often used as a tool for escalation. When something goes awry, it’s escalated up the chain, and a decision is made—regardless of whether it’s the right one. This is a common scenario, but it’s not how effective teams operate.
+In many organisations, authority is often used as a tool for escalation. When something goes awry, it’s escalated up the chain, and a decision is made, regardless of whether it’s the right one. This is a common scenario, but it’s not how effective teams operate.
 
 A Scrum Master is a leader, and [leadership]({{< ref "/categories/leadership" >}}) is fundamentally different from authority. Here’s why:
 

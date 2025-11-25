@@ -54,8 +54,8 @@ duration: 253
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 When it comes to enhancing your team's agility, the question often arises: is the EPS immersive learning experience akin to having a hands-on [Scrum]({{< ref "/categories/scrum" >}}) coach? My answer? Not quite, but it’s pretty close. Let me explain why I believe this immersive approach can be a game-changer for your organisation.
 
 ### The Power of Continuous Support
@@ -71,7 +71,7 @@ One of the standout features of our immersive sessions is the built-in feedback 
 
 ### Maximising Your Time Investment
 
-Over the course of ten weeks, you’ll engage in five Sprints. This means you’re only dedicating half a day per week to the immersive class—just ten percent of your Sprint time. While it may seem like a loss of productive time, the potential gains in team effectiveness can far outweigh this investment.
+Over the course of ten weeks, you’ll engage in five Sprints. This means you’re only dedicating half a day per week to the immersive class, just ten percent of your Sprint time. While it may seem like a loss of productive time, the potential gains in team effectiveness can far outweigh this investment.
 
 - **Five Retrospectives**: With each Sprint, you have the opportunity to reflect on the training’s impact. This regular check-in allows your team to assess progress and adapt the training to better suit your needs.
 - **Tailored Learning**: The trainer can adjust the content based on your feedback, ensuring that the learning experience is relevant and impactful.

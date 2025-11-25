@@ -51,8 +51,8 @@ duration: 407
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've encountered a recurring challenge: what to do when the [Product Owner]({{< ref "/tags/product-owner" >}}) is ineffective or, dare I say, incompetent. It’s a strong word, but I’ve met many Product Owners who fit this description, either because they lack the necessary skills or because their organisation doesn’t empower them to fulfil their role effectively. The outcomes are often the same: a team struggling to deliver value and a product that misses the mark.
 
 ### Understanding the Problem
@@ -66,11 +66,11 @@ Regardless of the cause, the [Scrum Master]({{< ref "/tags/scrum-master" >}}) an
 
 ### Steps to Support an Ineffective Product Owner
 
-1. **Engage as a Scrum Master**: If you’re a Scrum Master, it’s your responsibility to support the Product Owner. This might mean facilitating conversations with stakeholders or helping the Product Owner understand their role better. If your team lacks a Scrum Master, appoint someone who is willing to take on this responsibility. They don’t need special skills—just a good understanding of the organisation and a willingness to build relationships.
+1. **Engage as a Scrum Master**: If you’re a Scrum Master, it’s your responsibility to support the Product Owner. This might mean facilitating conversations with stakeholders or helping the Product Owner understand their role better. If your team lacks a Scrum Master, appoint someone who is willing to take on this responsibility. They don’t need special skills, just a good understanding of the organisation and a willingness to build relationships.
 
 2. **Build Relationships**: Start networking within your organisation. Who are the key players in [leadership]({{< ref "/categories/leadership" >}}), HR, or other departments? Take them out for coffee or lunch. Building these relationships can create back channels that help the Product Owner gain the support they need.
 
-3. **Practice Politics**: Yes, I said it—politics. Navigating organisational dynamics is a crucial skill for a Scrum Master. Engage in conversations that matter, and demonstrate your understanding of the product and the market. This can lead to invitations to important discussions where you can add value.
+3. **Practice Politics**: Yes, I said it, politics. Navigating organisational dynamics is a crucial skill for a Scrum Master. Engage in conversations that matter, and demonstrate your understanding of the product and the market. This can lead to invitations to important discussions where you can add value.
 
 4. **Educate the Organisation**: If the Product Owner is truly incompetent, it may be time to educate the organisation about the role of the Product Owner versus the team. Help stakeholders understand the responsibilities and expectations of each role. This can shine a light on the issues and potentially lead to changes.
 

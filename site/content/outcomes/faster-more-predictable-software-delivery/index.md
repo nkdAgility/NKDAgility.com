@@ -73,7 +73,7 @@ sections:
       - title: Shorter Lead Time from Idea to Release
         icon: fa-bolt
         content: |
-          Your business doesn’t wait months to see value. Ideas become features—fast.
+          Your business doesn’t wait months to see value. Ideas become features, fast.
       - title: High-Quality, Low-Risk Releases
         icon: fa-robot
         content: |
@@ -85,7 +85,7 @@ sections:
       - title: Predictable Delivery You Can Trust
         icon: fa-boxes-stacked
         content: |
-          Our systems support consistent delivery across sprints, releases, and teams—not by pushing harder, but by engineering smarter.
+          Our systems support consistent delivery across sprints, releases, and teams, not by pushing harder, but by engineering smarter.
   - title: A Calm, Predictable Delivery Rhythm
     type: content
     content: |
@@ -93,21 +93,21 @@ sections:
   - type: outcomeboxes
     title: Faster more predictable delivery ensures
     boxes:
-      - box: 
+      - box:
         items:
           - title: Release features quickly and safely
           - title: Improve delivery cadence and quality
           - title: Reduce bugs, rollbacks, and rework
           - title: Build a delivery pipeline that scales
           - title: Establish clear, data-driven predictability
-      - box: 
+      - box:
         items:
           - title: Eliminate delivery stress
           - title: Regain control over delivery timelines
           - title: Feel pride in consistent outcomes
           - title: Avoid burnout and team fatigue
           - title: Lead with clarity, not chaos
-      - box: 
+      - box:
         items:
           - title: Be seen as a reliable technology leader
           - title: Inspire trust across product, execs, and customers
@@ -123,7 +123,7 @@ sections:
       - box:
         title: Speed & Quality
         items:
-          - title: Shorter cycle times—ideas become features in days, not months
+          - title: Shorter cycle times, ideas become features in days, not months
           - title: 7× lower change failure rates (DORA elite performers)
           - title: Fewer production incidents, lower support costs
           - title: Higher customer trust through reliable delivery
@@ -132,7 +132,7 @@ sections:
         items:
           - title: Flow-based systems that reduce WIP and eliminate bottlenecks
           - title: Automated testing and progressive delivery remove fear from shipping
-          - title: Clear metrics—cycle time, throughput, deployment frequency
+          - title: Clear metrics, cycle time, throughput, deployment frequency
           - title: Recognition for platforms and developer experience tools
       - box:
         title: Strategic Impact
@@ -174,7 +174,7 @@ sections:
       Because chaos is not a strategy. And working harder isn’t the answer.
       We align Agile delivery and DevOps engineering into one smooth, scalable, value-stream.
 
-      With NKD Agility, you build a system that delivers—every sprint, every release, every time.
+      With NKD Agility, you build a system that delivers, every sprint, every release, every time.
   - type: sectioncta
     backgroundColor: primary
     cta:
@@ -195,6 +195,4 @@ creator: Martin Hinshelwood
 icon: fa-tachometer-alt
 ResourceId: ew25L-Aydmr
 ResourceType: outcomes
-
 ---
-

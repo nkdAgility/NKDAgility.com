@@ -63,13 +63,13 @@ duration: 1714
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In the fast-paced world of Agile, decision-making can often feel like a daunting task. How do you know if you're on the right track? How can you ensure that your product delivers value while staying competitive? This is where **Evidence-Based Management (EBM)** comes into play. By leveraging data to drive decisions, EBM helps organizations make informed choices that align with their goals.
 
 In this blog post, we'll explore the fundamentals of Evidence-Based Management, focusing on its four key value areas, how to collect and analyze data, and how this process leads to more successful outcomes. Whether you're a [Scrum]({{< ref "/categories/scrum" >}}) Master, [Product Owner]({{< ref "/tags/product-owner" >}}), or manager, this guide will show you how EBM can elevate your decision-making process.
 
-* * *
+---
 
 ## **Why Evidence-Based Management Matters**
 
@@ -81,15 +81,15 @@ In EBM, there are four key value areas that serve as the foundation for data col
 
 1. **[Current Value]({{< ref "/tags/current-value" >}}) (CV)**: How much value is your product delivering to customers today?
 
-3. **Unrealized Value (UV)**: What potential value can be unlocked by adding new features or improvements?
+2. **Unrealized Value (UV)**: What potential value can be unlocked by adding new features or improvements?
 
-5. **[Ability to Innovate]({{< ref "/tags/ability-to-innovate" >}}) (A2I)**: How effectively can your organization innovate and deliver new features?
+3. **[Ability to Innovate]({{< ref "/tags/ability-to-innovate" >}}) (A2I)**: How effectively can your organization innovate and deliver new features?
 
-7. **[Time to Market]({{< ref "/tags/time-to-market" >}}) (T2M)**: How quickly can you release new features or products to market?
+4. **[Time to Market]({{< ref "/tags/time-to-market" >}}) (T2M)**: How quickly can you release new features or products to market?
 
 For any team practicing Agile or Scrum, focusing on these value areas ensures that you’re continuously delivering the right value to your customers, while staying nimble enough to innovate and grow.
 
-* * *
+---
 
 ## **Gathering Data in the Four Key Value Areas** **📊**
 
@@ -137,7 +137,7 @@ Speed is often crucial in today’s market, so understanding how long it takes t
 
 Personal advice: In one organization, we focused heavily on reducing our cycle time by implementing [continuous integration]({{< ref "/tags/continuous-integration" >}}). This allowed us to identify bottlenecks and make process improvements, ultimately reducing our time to market by 40%.
 
-* * *
+---
 
 ## **Analyzing the Data** **🔍**
 
@@ -161,7 +161,7 @@ Real-time data, such as usage telemetry, can be a game-changer. Knowing how cust
 
 For instance, I worked with a car manufacturer that collected telemetry data from vehicles. When they saw how often a certain feature was being used, they were able to make rapid improvements based on actual user behavior. That’s the kind of agility Evidence-Based Management enables!
 
-* * *
+---
 
 ## **Tools for Data Collection and Analysis** **🛠️**
 
@@ -177,7 +177,7 @@ Here are some popular tools that can help you collect and analyze data effective
 
 Remember, data doesn’t have to be complex to be useful. Sometimes, tracking metrics in Excel or using lightweight tools can provide all the insights you need to make informed decisions.
 
-* * *
+---
 
 ## **Conclusion: Start Applying Evidence-Based Management Today** **🎯**
 
@@ -187,10 +187,10 @@ If you're not already using Evidence-Based Management in your organization, now 
 
 - **Use the right tools**: Power BI or even Excel can help you visualize your data.
 
-- **Make data-driven decisions**: Let the evidence guide your next steps, but remember that data informs—it doesn't control.
+- **Make data-driven decisions**: Let the evidence guide your next steps, but remember that data informs, it doesn't control.
 
 Evidence-Based Management isn’t just a methodology; it’s a powerful way to stay ahead of the competition and continuously improve. As a [Scrum Master]({{< ref "/tags/scrum-master" >}}) or Product Owner, embracing this approach will help you build better products, improve customer satisfaction, and ensure long-term success.
 
-* * *
+---
 
 Start gathering your data today, analyze it, and use it to propel your team towards success! 🚀

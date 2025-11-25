@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking Product Value: Why Real User Feedback is Your Best Asset'
+title: "Unlocking Product Value: Why Real User Feedback is Your Best Asset"
 short_title: Unlocking Product Value with User Feedback
 description: Real user feedback is essential in product development to validate assumptions, guide improvements, and ensure your product delivers real value to its target audience.
 tldr: Product value is only proven when real users interact with your product, so early and ongoing user feedback is essential to validate assumptions and guide development. Engaging users early, testing with prototypes or MVPs, and iterating based on feedback help ensure your product meets real needs and delivers genuine value. Prioritise getting your product in front of users quickly to maximise impact and avoid wasted effort.
@@ -51,13 +51,13 @@ resourceTypes:
 isShort: false
 ResourceId: rbEQRJrs4NY
 ResourceType: videos
-
 ---
+
 In my journey through the world of [product development]({{< ref "/categories/product-development" >}}), I've come to realise a fundamental truth: **value only happens when you get it in front of real users**. Everything that precedes this moment is merely an assumption. We can spend countless hours validating our ideas, trying to weed out the bad assumptions and features that seem promising on paper but may not resonate in reality. However, the crux of the matter is this: until we present something we believe will provide value to actual users, we remain in the dark about its true worth.
 
 ### The Renovation Analogy
 
-Let’s consider a relatable analogy: renovating a house. Imagine you’ve poured your heart and soul into redesigning a property, convinced that it will attract buyers at a premium price. But here’s the kicker—**are people actually going to buy it?** Will they be willing to pay what you think it’s worth?
+Let’s consider a relatable analogy: renovating a house. Imagine you’ve poured your heart and soul into redesigning a property, convinced that it will attract buyers at a premium price. But here’s the kicker, **are people actually going to buy it?** Will they be willing to pay what you think it’s worth?
 
 This scenario mirrors the product development process. If you possess a keen understanding of your target audience, their needs, and the market dynamics, you can tailor your product to meet those expectations. This insight allows you to create something that is not just functional but genuinely appealing to potential users.
 
@@ -75,6 +75,6 @@ This scenario mirrors the product development process. If you possess a keen und
 
 ### Conclusion
 
-In conclusion, the journey of product development is not just about building something you think is great; it’s about ensuring that what you build truly meets the needs of your users. By getting your product in front of real users early and often, you can validate your assumptions and create something that delivers genuine value. Remember, assumptions are just that—assumptions. It’s the feedback from real users that will ultimately guide you to success.
+In conclusion, the journey of product development is not just about building something you think is great; it’s about ensuring that what you build truly meets the needs of your users. By getting your product in front of real users early and often, you can validate your assumptions and create something that delivers genuine value. Remember, assumptions are just that, assumptions. It’s the feedback from real users that will ultimately guide you to success.
 
 So, as you embark on your next project, keep this principle at the forefront of your mind: **value only happens when you get it in front of real users**. Embrace the process, learn from your audience, and watch your ideas transform into something truly impactful.

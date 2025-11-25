@@ -41,14 +41,14 @@ Watermarks:
   tldr: 2025-08-07T12:33:21Z
 ResourceId: u-ACEx3Q01p
 ResourceType: signals
-
 ---
+
 Would your CFO sign off on misrepresenting corporate assets? Of course not. But that’s exactly what happens when technical debt is ignored.
 
-Product delivery is capital expenditure. The software your business builds is an asset—just like buildings and equipment. If that asset is full of technical debt, its value is compromised. And yet, most businesses don’t track this risk.
+Product delivery is capital expenditure. The software your business builds is an asset, just like buildings and equipment. If that asset is full of technical debt, its value is compromised. And yet, most businesses don’t track this risk.
 
 There’s a word for misrepresenting assets on a balance sheet: fraud.
 
-Technical debt is a risk, not a choice. If you’re building without addressing it, you’re setting up future losses—whether through slower delivery, higher maintenance costs, or outright failure to adapt.
+Technical debt is a risk, not a choice. If you’re building without addressing it, you’re setting up future losses, whether through slower delivery, higher maintenance costs, or outright failure to adapt.
 
 Is your organisation treating software as the asset it truly is?

@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking Human Potential: How Health and Perspective Fuel Innovation in Tech'
+title: "Unlocking Human Potential: How Health and Perspective Fuel Innovation in Tech"
 short_title: Health, Perspective, and Innovation in Tech
 description: Explores how health, mindset, and diverse perspectives drive innovation and effective leadership in tech, highlighting the link between well-being and creative problem-solving.
 tldr: Prioritising health and well-being boosts innovation and leadership in tech by improving perspective and fostering creativity. Supporting hands-on builders, embracing diverse viewpoints, and engaging with sceptics lead to stronger outcomes. Development managers should encourage healthy habits, value unique perspectives, and build deeper connections within their teams to drive better results.
@@ -42,8 +42,8 @@ duration: 85
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 As I reflect on my journey in the tech industry, I often find myself inspired by the stories and experiences of others. Recently, I had the pleasure of listening to Kathryn Maddox, a remarkable individual who embodies the essence of health and vitality. Her insights resonated deeply with me, particularly her perspective on the intersection of technology and human potential.
 
 Kathryn's enthusiasm for health is infectious. She shared her journey of embracing a lifestyle that prioritises well-being, and it got me thinking about how our physical and mental states can significantly impact our work in tech. Here are a few key takeaways from her experience that I believe are relevant to all of us in the industry:
@@ -54,7 +54,7 @@ Kathryn's enthusiasm for health is infectious. She shared her journey of embraci
 
 - **Embracing Skepticism**: One of the most compelling aspects of Kathryn’s talk was her ability to win over even the most sceptical individuals. In my experience, scepticism can be a powerful tool for growth. It encourages us to question our assumptions and seek out better solutions. When we engage with sceptics, we often uncover insights that can lead to more robust outcomes.
 
-- **The Importance of Details**: In the tech world, the devil is often in the details. Kathryn highlighted the significance of ensuring that the builders—those who are hands-on with the technology—are supported in their efforts. This aligns perfectly with my belief that successful projects hinge on meticulous attention to detail and a commitment to excellence.
+- **The Importance of Details**: In the tech world, the devil is often in the details. Kathryn highlighted the significance of ensuring that the builders, those who are hands-on with the technology, are supported in their efforts. This aligns perfectly with my belief that successful projects hinge on meticulous attention to detail and a commitment to excellence.
 
 As I continue to navigate the complexities of technology and leadership, I am reminded of the importance of health, perspective, and connection. Kathryn’s insights serve as a powerful reminder that our well-being directly influences our [ability to innovate]({{< ref "/tags/ability-to-innovate" >}}) and lead effectively.
 

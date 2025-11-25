@@ -1,5 +1,5 @@
 ---
-title: 'Mastering Your Kanban Board: A Practical Guide to Visualising and Optimising Your Workflow'
+title: "Mastering Your Kanban Board: A Practical Guide to Visualising and Optimising Your Workflow"
 short_title: Mastering Your Kanban Board
 description: Learn how to design, review, and adapt Kanban boards to accurately visualise workflows, identify bottlenecks, and support continuous improvement in team processes.
 tldr: A Kanban board should accurately reflect your real workflow, not an idealised version, so regularly review and adapt its columns to match how work actually moves through your team. Involve your team in these updates to spot bottlenecks and improve efficiency. The key takeaway is to use your board as a tool for ongoing improvement rather than aiming for perfection.
@@ -50,8 +50,8 @@ duration: 57
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 When it comes to visualising work in a [Kanban]({{< ref "/categories/kanban" >}}) system, one of the most crucial elements is the Kanban board itself. I can’t stress enough how important it is to have a clear representation of your workflow. It’s not just about aesthetics; it’s about understanding how your system operates and how work moves through it.
 
 ### Understanding Your Workflow
@@ -63,7 +63,7 @@ To start, you need to take a good, hard look at your current processes. Here’s
 
 ### Designing Your Kanban Board
 
-Now, ideally, we’d all love to operate in a perfect world of single piece flow—where we handle one item at a time, moving it from ‘To Do’ to ‘In Progress’ and finally to ‘Done’. However, let’s be real: none of us live in that utopia. 
+Now, ideally, we’d all love to operate in a perfect world of single piece flow, where we handle one item at a time, moving it from ‘To Do’ to ‘In Progress’ and finally to ‘Done’. However, let’s be real: none of us live in that utopia.
 
 Here’s what I recommend:
 

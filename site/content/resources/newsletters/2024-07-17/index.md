@@ -42,11 +42,11 @@ Watermarks:
 ResourceId: w5rxdL8YHNa
 ResourceType: newsletters
 resourceTypes: newsletter
-
 ---
+
 **Dear Innovators and Product Enthusiasts,**
 
-We are thrilled to announce the upcoming Professional [Product Validation]({{< ref "/tags/product-validation" >}}) and Discovery Workshop from [Scrum]({{< ref "/categories/scrum" >}}).org—a transformative experience designed to elevate your [product development]({{< ref "/categories/product-development" >}}) journey to new heights. If you are committed to developing products and features that resonate deeply with customers, this workshop is your gateway to achieving that goal.
+We are thrilled to announce the upcoming Professional [Product Validation]({{< ref "/tags/product-validation" >}}) and Discovery Workshop from [Scrum]({{< ref "/categories/scrum" >}}).org, a transformative experience designed to elevate your [product development]({{< ref "/categories/product-development" >}}) journey to new heights. If you are committed to developing products and features that resonate deeply with customers, this workshop is your gateway to achieving that goal.
 
 ### Why This Workshop?
 

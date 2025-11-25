@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking Success in Agile: Why Your Definition of Done is Essential for Quality Delivery'
+title: "Unlocking Success in Agile: Why Your Definition of Done is Essential for Quality Delivery"
 short_title: Definition of Done in Agile for Quality Delivery
 description: Explains why a clear Definition of Done is vital in Agile and Scrum for quality delivery, transparency, and risk mitigation, with tips for team alignment and improvement.
 tldr: A clear and shared Definition of Done is essential for delivering quality products in Agile and Scrum, as it sets the standard for what is considered complete and ensures transparency across the team. Without it, teams risk miscommunication, unfinished work, and features that do not meet user needs. Development managers should regularly review and reinforce the Definition of Done with their teams to improve quality and reduce risk.
@@ -56,13 +56,13 @@ duration: 360
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), one concept has consistently stood out as a cornerstone of success: the [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD). It’s not just a checklist; it’s a commitment to quality that shapes the very essence of our work. Today, I want to share my insights on why the Definition of Done is crucial and how it can transform your team's approach to delivering value.
 
 ### What is the Definition of Done?
 
-The Definition of Done represents the level of quality that your product must achieve before it can be considered complete. It’s that critical line we must cross to ensure we’re delivering a usable product at the end of every Sprint. According to the Agile Manifesto, we should aim for a working, usable product at least every few weeks. Scrum takes this a step further, insisting that we must have a usable working product at the end of every Sprint. 
+The Definition of Done represents the level of quality that your product must achieve before it can be considered complete. It’s that critical line we must cross to ensure we’re delivering a usable product at the end of every Sprint. According to the Agile Manifesto, we should aim for a working, usable product at least every few weeks. Scrum takes this a step further, insisting that we must have a usable working product at the end of every Sprint.
 
 - **Key Takeaway**: The DoD is not merely a formality; it’s the foundation of risk mitigation in Scrum and all Agile practices. Without it, we risk building features that may not work or meet user needs.
 
@@ -74,7 +74,7 @@ Transparency is a fundamental principle in Scrum, and the Definition of Done pla
 2. **Transparency of the Present**: The Sprint backlog shows us what we are currently working on.
 3. **Transparency of the Past**: The [increment]({{< ref "/tags/increment" >}}), enabled by our commitment to the Definition of Done, allows us to reflect on what we’ve accomplished.
 
-Without a clear DoD, the other two transparencies become irrelevant. If we cannot see what we’ve done, how can we understand where we are going? It’s essential to know the current state of our product—whether it’s finished or if more work is needed—before we can plan our next steps.
+Without a clear DoD, the other two transparencies become irrelevant. If we cannot see what we’ve done, how can we understand where we are going? It’s essential to know the current state of our product, whether it’s finished or if more work is needed, before we can plan our next steps.
 
 ### Risk Mitigation in Agile
 

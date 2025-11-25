@@ -58,8 +58,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:44Z
 ResourceId: JwMLCNODuls
 ResourceType: signals
-
 ---
+
 Fear is the real enemy of agility.
 
 Fear of raising an issue.  
@@ -76,4 +76,4 @@ It’s in systematically removing fear from the system.
 
 Courage is the first Scrum Value for a reason.
 
-Are you building a system where courage thrives—or where fear festers?
+Are you building a system where courage thrives, or where fear festers?

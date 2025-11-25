@@ -1,5 +1,5 @@
 ---
-title: 'The Art of Negotiation for Product Owners: Essential Skills to Master'
+title: "The Art of Negotiation for Product Owners: Essential Skills to Master"
 short_title: Negotiation Skills for Product Owners
 description: Learn key negotiation skills for Product Owners to manage stakeholders, balance priorities, and maximise product value through effective communication and decision-making.
 tldr: Strong negotiation skills are essential for Product Owners to balance stakeholder demands, technical realities, and leadership requests, ensuring the product delivers maximum value. Key techniques include active listening, asking probing questions, and guiding others to see the bigger picture, which helps avoid unnecessary features and maintain focus. Development managers should encourage Product Owners to build these skills through training, reflection, and coaching to improve outcomes and stakeholder relationships.
@@ -49,9 +49,9 @@ duration: 330
 resourceTypes:
   - video
 isShort: false
-
 ---
-One of the most vital skills for a [Product Owner]({{< ref "/tags/product-owner" >}}) is negotiation. Whether you’re a seasoned Product Owner or just starting out, mastering negotiation can be the key to delivering maximum value. It’s a skill that you’ll use constantly — with developers, stakeholders, and [leadership]({{< ref "/categories/leadership" >}}) within your organization. Let’s dive into how negotiation plays a role in the life of a Product Owner and how you can become a master negotiator.
+
+One of the most vital skills for a [Product Owner]({{< ref "/tags/product-owner" >}}) is negotiation. Whether you’re a seasoned Product Owner or just starting out, mastering negotiation can be the key to delivering maximum value. It’s a skill that you’ll use constantly , with developers, stakeholders, and [leadership]({{< ref "/categories/leadership" >}}) within your organization. Let’s dive into how negotiation plays a role in the life of a Product Owner and how you can become a master negotiator.
 
 ## **Why Negotiation Matters for Product Owners**
 
@@ -115,7 +115,7 @@ For instance:
 
 ### **3\. Practice Tactical Patience**
 
-Sometimes, the best response is no response at all — at least initially. **Patience** can be a powerful negotiation tool. By giving stakeholders time to reflect on their requests, you might find that they reconsider their position without you needing to intervene.
+Sometimes, the best response is no response at all , at least initially. **Patience** can be a powerful negotiation tool. By giving stakeholders time to reflect on their requests, you might find that they reconsider their position without you needing to intervene.
 
 ## **Building Long-Term Negotiation Skills**
 
@@ -145,7 +145,7 @@ At the end of the day, your role as a Product Owner is to maximize the value of 
 
 I once worked with a Product Owner who had trouble saying no to stakeholders. This led to feature creep, overwork, and missed deadlines. After working with them on their negotiation skills, they were able to push back tactfully by framing discussions around value and guiding stakeholders to the right decisions. The result? A streamlined [product backlog]({{< ref "/tags/product-backlog" >}}) and more focused, high-impact work.
 
-* * *
+---
 
 If you’re a Product Owner struggling with negotiation or just getting started, don’t wait. **Develop these skills now** to avoid being overwhelmed later. My team at Naked Agility can help you find the right training or coach to improve your negotiation skills. Check out the links in the description for more information!
 

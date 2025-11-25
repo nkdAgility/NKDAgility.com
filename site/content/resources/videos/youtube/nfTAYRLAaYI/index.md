@@ -1,7 +1,7 @@
 ---
-title: 'Mastering Kanban: A Simple Guide to Its Core Principles'
-short_title: 'Mastering Kanban: Core Principles Guide'
-description: Learn the three core Kanban principles—visualising workflow, actively managing tasks, and continuous improvement—to boost team efficiency, transparency, and collaboration.
+title: "Mastering Kanban: A Simple Guide to Its Core Principles"
+short_title: "Mastering Kanban: Core Principles Guide"
+description: Learn the three core Kanban principles, visualising workflow, actively managing tasks, and continuous improvement, to boost team efficiency, transparency, and collaboration.
 tldr: Kanban helps teams boost productivity by visualizing their workflow, actively managing tasks, and continuously improving processes. Key benefits include increased transparency, better communication, and faster delivery through proactive management and small, ongoing improvements. Start by mapping your workflow, then focus on daily task management and regular process reviews to drive efficiency.
 date: 2024-07-01T07:00:24Z
 lastmod: 2024-07-01T07:00:24Z
@@ -56,11 +56,11 @@ duration: 49
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 In the fast-paced world of Agile, many teams find themselves searching for frameworks that help them improve efficiency, [transparency]({{< ref "/tags/transparency" >}}), and collaboration. One such method that stands out is **[Kanban]({{< ref "/categories/kanban" >}})**. Known for its simplicity and effectiveness, Kanban helps teams visualize their work, manage their flow, and continuously improve. In this post, we’ll dive into the three core principles of Kanban and explore how you can implement them to boost your team’s productivity.
 
-* * *
+---
 
 ## **What is Kanban?**
 
@@ -76,13 +76,13 @@ At its core, Kanban is built around three key principles:
 
 Let’s break each of these down and discuss how they can enhance your team’s effectiveness.
 
-* * *
+---
 
 ## **1\. Defining and Visualizing Your Workflow**
 
 ### **Creating Your Team's Rulebook** **📜**
 
-The first principle of Kanban is to define and **visualize your workflow**. Imagine this as your team's rulebook—how are you going to function? What does your system look like? This step is crucial because it creates clarity for the team. You’re essentially answering the question, “How do we work together to get things done?”
+The first principle of Kanban is to define and **visualize your workflow**. Imagine this as your team's rulebook, how are you going to function? What does your system look like? This step is crucial because it creates clarity for the team. You’re essentially answering the question, “How do we work together to get things done?”
 
 ### **Why Visualization Matters** **🎯**
 
@@ -94,11 +94,11 @@ In my experience, I’ve seen teams drastically improve their communication just
 
 In one of my previous teams, we struggled with managing multiple projects at once. After implementing a Kanban board, we immediately saw where the bottlenecks were. The development team had too much work in progress, and that was slowing down the whole process. By visualizing the workflow, we were able to quickly shift tasks around, freeing up resources and improving delivery speed.
 
-* * *
+---
 
 ## **2\. Actively Manage the Items in Your Workflow**
 
-### **Don’t Just Watch—Take Action!** **🚀**
+### **Don’t Just Watch, Take Action!** **🚀**
 
 Now that your workflow is defined and visualized, you need to **actively manage** the items within it. This is the second core principle of Kanban. Many teams fall into the trap of just staring at their board. They have all this great visualization but fail to **actively manage** the tasks. This means you need to make decisions and take actions that help your work progress through the system.
 
@@ -118,7 +118,7 @@ From personal experience, I’ve learned that when teams actively manage their w
 
 - Be flexible and **adjust priorities** as new information comes in.
 
-* * *
+---
 
 ## **3\. Improving Your Workflow**
 
@@ -130,23 +130,23 @@ The third principle of Kanban is to always **improve your workflow**. Kanban is 
 
 Improvement doesn’t mean making huge changes overnight. Often, it’s about making **small, incremental changes** that lead to better outcomes over time. Start by identifying areas where work tends to slow down. Maybe you have too many tasks in progress, or perhaps certain types of work are always getting blocked.
 
-In one of my projects, we realized that tasks were constantly stuck in the “In Progress” column for too long. After a few discussions, we decided to implement a **WIP limit**—we capped the number of tasks a person could work on at any given time. This small change had a huge impact on our ability to get things done faster and with better quality.
+In one of my projects, we realized that tasks were constantly stuck in the “In Progress” column for too long. After a few discussions, we decided to implement a **WIP limit**, we capped the number of tasks a person could work on at any given time. This small change had a huge impact on our ability to get things done faster and with better quality.
 
 **Personal Recommendations for Improvement** **🛠️**
 
 - Regularly **review your workflow** and ask, “Where can we do better?”
 
-- Don’t be afraid to **experiment** with new ideas—Kanban is flexible!
+- Don’t be afraid to **experiment** with new ideas, Kanban is flexible!
 
 - Involve the entire team in identifying **areas for improvement**.
 
 - Use **metrics** like [cycle time]({{< ref "/tags/cycle-time" >}}) or [lead time]({{< ref "/tags/lead-time" >}}) to measure the impact of your changes.
 
-* * *
+---
 
 ## **Final Thoughts: Mastering Kanban**
 
-Mastering Kanban is about more than just setting up a board and moving tasks around. It’s about embracing a mindset of continuous improvement and **actively engaging** with the work. By following the three core principles—defining and visualizing your workflow, actively managing the items in the workflow, and improving your workflow—you’ll set your team up for success.
+Mastering Kanban is about more than just setting up a board and moving tasks around. It’s about embracing a mindset of continuous improvement and **actively engaging** with the work. By following the three core principles, defining and visualizing your workflow, actively managing the items in the workflow, and improving your workflow, you’ll set your team up for success.
 
 **Key Takeaways:**
 
@@ -158,7 +158,7 @@ Mastering Kanban is about more than just setting up a board and moving tasks aro
 
 By implementing these core principles, you’ll not only see improvements in your team’s productivity, but you’ll also foster a culture of [continuous learning]({{< ref "/tags/continuous-learning" >}}) and improvement. 🎉
 
-* * *
+---
 
 **Ready to Implement Kanban?**
 

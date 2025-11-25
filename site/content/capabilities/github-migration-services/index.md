@@ -24,7 +24,7 @@ sections:
       content: |
         Teams shipping from Team Foundation Server or Azure DevOps Server. Migration to GitHub requires careful handling of code history, permissions, workflows, and integrations.
 
-        We provide migration services from TFS and Azure DevOps Server to GitHub—covering repository migration, Actions configuration, security setup, and team onboarding.
+        We provide migration services from TFS and Azure DevOps Server to GitHub, covering repository migration, Actions configuration, security setup, and team onboarding.
   - type: outcomehero
     cta:
       content: Migration services from TFS and Azure DevOps to GitHub. **Book a migration consultation.**
@@ -96,7 +96,7 @@ sections:
   - type: textNlist
     title: Service Delivery
     sideContent: |
-      Migration services delivered through timeboxed retainer engagement. No hourly billing, no fixed deliverables, no change orders—capacity retained for migration completion.
+      Migration services delivered through timeboxed retainer engagement. No hourly billing, no fixed deliverables, no change orders, capacity retained for migration completion.
 
       Full risk reversal: satisfaction guaranteed with refund if service doesn't meet expectations.
     list:

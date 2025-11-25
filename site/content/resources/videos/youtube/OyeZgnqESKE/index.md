@@ -50,8 +50,8 @@ duration: 38
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 One of the main reasons I absolutely love the immersive learning experience for [Scrum]({{< ref "/categories/scrum" >}}) students is its ability to maintain a high level of **excitement** and **engagement**. It’s not just about passing knowledge from one person to another; it's about creating an atmosphere of **discovery**. Each session brings something fresh, something new, and that keeps people coming back for more. This blog post will delve into how immersive learning creates excitement, the importance of [continuous learning]({{< ref "/tags/continuous-learning" >}}), and how these principles can be applied in your own organization.
 
 ## **The Power of Immersive Learning in Scrum**
@@ -78,7 +78,7 @@ Imagine this:
 
 This **real-world application** of learning keeps the content fresh and ensures that it’s relevant to the student’s work environment.
 
-* * *
+---
 
 ## **Why Continuous Learning Matters in Scrum**
 
@@ -110,7 +110,7 @@ From my experience, students actually look forward to each new session.
 
 This creates a sense of **anticipation** and excitement that traditional, one-off courses simply can’t match.
 
-* * *
+---
 
 ## **Practical Tips for Creating an Immersive Learning Experience**
 
@@ -144,11 +144,11 @@ Make continuous feedback a core part of your team’s learning process.
 
 This mirrors the **collaborative learning** approach that makes immersive learning so engaging.
 
-* * *
+---
 
-## **Final Thoughts: Learning Should Be an Adventure, Not a Trial 🧗‍****♂️**
+## **Final Thoughts: Learning Should Be an Adventure, Not a Trial 🧗‍\*\***♂️\*\*
 
-At the end of the day, learning should be an **adventure**. It should feel like a process of **discovery**, not a grueling trial. That’s exactly what immersive learning does—it keeps people **engaged**, **excited**, and coming back for more.
+At the end of the day, learning should be an **adventure**. It should feel like a process of **discovery**, not a grueling trial. That’s exactly what immersive learning does, it keeps people **engaged**, **excited**, and coming back for more.
 
 Through immersive learning, Scrum students:
 

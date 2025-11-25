@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking Success: How Small Experiments Transformed Feature Delivery from 25 to 150 in Software Development'
+title: "Unlocking Success: How Small Experiments Transformed Feature Delivery from 25 to 150 in Software Development"
 short_title: Small Experiments Boost Feature Delivery
 description: Explores how breaking features into small experiments boosts software delivery, enabling teams to deliver more features, reduce risk, and improve customer-focused products.
 tldr: A team increased their annual feature delivery from 25 to 150 by breaking down work into smaller experiments, enabling faster feedback, reduced risk, and continuous learning without increasing headcount. This approach allowed them to quickly identify and focus on features that mattered most to customers, leading to better products. Development managers should consider adopting small, frequent experiments to drive both speed and quality in feature delivery.
@@ -61,16 +61,15 @@ resourceTypes:
 isShort: true
 ResourceId: WEYf9jWG9wk
 ResourceType: videos
-
 ---
-In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've witnessed a remarkable transformation in how teams approach feature delivery. A recent case study I came across highlighted a team that evolved from delivering a mere 25 features to production each year to an astonishing 150 features, all while maintaining the same headcount. This leap didn’t happen overnight; it took them four years to refine their processes and embrace a new mindset. But the results speak for themselves—who wouldn’t prefer 800 features over 25?
+
+In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've witnessed a remarkable transformation in how teams approach feature delivery. A recent case study I came across highlighted a team that evolved from delivering a mere 25 features to production each year to an astonishing 150 features, all while maintaining the same headcount. This leap didn’t happen overnight; it took them four years to refine their processes and embrace a new mindset. But the results speak for themselves, who wouldn’t prefer 800 features over 25?
 
 ### The Power of Small Experiments
 
 What’s fascinating about this shift is the emphasis on smaller features. While it may seem counterintuitive at first, breaking down larger features into smaller, more manageable experiments allows teams to test ideas more frequently. This approach not only increases the volume of features delivered but also enhances the quality of the product. Here’s why I believe this method is so effective:
 
 - **Increased Opportunities for Feedback**: By rolling out smaller features, teams can gather customer feedback more rapidly. This iterative process helps identify what resonates with users and what doesn’t, allowing for quicker pivots.
-  
 - **Reduced Risk**: Smaller experiments mean that if something doesn’t work out, the impact is limited. This mitigates the risk associated with larger, more complex features that may take months to develop.
 
 - **Enhanced Learning**: Each experiment provides valuable insights. Teams can learn what works and what doesn’t, leading to a more informed development process. This [continuous learning]({{< ref "/tags/continuous-learning" >}}) cycle is crucial for building a product that truly meets customer needs.

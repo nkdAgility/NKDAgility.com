@@ -1,5 +1,5 @@
 ---
-title: 'Unlock Your Potential in 2024: Master Scrum with NKDAgility - Exclusive 20% Discount!'
+title: "Unlock Your Potential in 2024: Master Scrum with NKDAgility - Exclusive 20% Discount!"
 short_title: Master Scrum in 2024 with NKDAgility – 20% Off
 description: Advance your Agile skills in 2024 with expert-led Scrum training, hands-on practice, and a 20% discount. Suitable for Product Owners, Scrum Masters, and Agile leaders.
 tldr: NKDAgility is offering a 20 percent discount on expert-led Scrum training courses until March 31, 2024, aimed at helping teams and leaders improve efficiency, adaptability, and leadership skills through hands-on, practical learning. Participants gain deep Scrum knowledge, personalized feedback, and access to a community of practitioners. Development managers should consider enrolling themselves or their teams soon to take advantage of the limited-time offer and boost project success in 2024.
@@ -38,8 +38,8 @@ ResourceId: Knb7n17SqYe
 ResourceType: newsletters
 preview: naked-agility-technically-agile-1280×720-January2024.jpg
 resourceTypes: newsletter
-
 ---
+
 As we enter the promising year of 2024, it's time to turn our aspirations into actions and truly master our craft. At NKDAgility, we're committed to fueling your journey toward excellence with our immersive learning [scrum]({{< ref "/categories/scrum" >}}) training courses. It's not just about learning; it's about transforming and leading in an agile world.
 
 **Why Master Scrum?**
@@ -52,7 +52,7 @@ Industry experts lead our immersive learning courses with years of practical exp
 
 **Exclusive 20% Discount - A New Year's Commitment to Excellence (on top of the 30% alumni discount)**
 
-As part of our dedication to your growth in 2024, we offer an exclusive 20% discount on all our Scrum training courses. This is more than a promotion—it's an investment in your potential. Enrol now to:
+As part of our dedication to your growth in 2024, we offer an exclusive 20% discount on all our Scrum training courses. This is more than a promotion, it's an investment in your potential. Enrol now to:
 
 1. **Gain In-Depth Understanding**: Dive deep into Scrum principles, roles, events, and artefacts.
 2. **Engage in Hands-On Practice**: Apply what you learn through practical exercises and collaborative sessions.

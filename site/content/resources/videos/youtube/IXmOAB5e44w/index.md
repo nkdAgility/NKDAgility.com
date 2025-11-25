@@ -1,5 +1,5 @@
 ---
-title: 'Unlock £20 Rewards: Join Our Exciting Referral Program for Collaborative Learning!'
+title: "Unlock £20 Rewards: Join Our Exciting Referral Program for Collaborative Learning!"
 short_title: £20 Referral Program for Collaborative Learning
 description: Earn £20 credit for each friend you refer to our classes. Both you and your referral get rewards, supporting collaborative learning and building a stronger community.
 tldr: A new referral program offers £20 rewards for both you and your colleagues when you invite them to join classes, encouraging collaborative learning and community building. By sharing a unique code, you both receive discounts or credits, making professional development more cost-effective. Visit the website to get your code and start inviting your team to enhance learning together.
@@ -47,13 +47,13 @@ duration: 147
 resourceTypes:
   - video
 isShort: false
-
 ---
-I’m excited to share with you a new initiative that I believe will not only enhance your learning experience but also foster a sense of community within our classes. Introducing the **£20 Referral Program**—a simple yet effective way to reward you for bringing your friends and colleagues along on this journey of growth and development.
+
+I’m excited to share with you a new initiative that I believe will not only enhance your learning experience but also foster a sense of community within our classes. Introducing the **£20 Referral Program**, a simple yet effective way to reward you for bringing your friends and colleagues along on this journey of growth and development.
 
 ### Why a Referral Program?
 
-Let’s face it: getting your friends or colleagues to join you in a class can sometimes feel like pulling teeth. We all know the benefits of learning together—sharing insights, collaborating on challenges, and ultimately moving forward as a cohesive unit within our organisations. That’s why I thought it was high time we created a system that encourages this collaborative spirit.
+Let’s face it: getting your friends or colleagues to join you in a class can sometimes feel like pulling teeth. We all know the benefits of learning together, sharing insights, collaborating on challenges, and ultimately moving forward as a cohesive unit within our organisations. That’s why I thought it was high time we created a system that encourages this collaborative spirit.
 
 ### How It Works
 
@@ -61,7 +61,7 @@ Here’s the lowdown on how the referral program operates:
 
 - **Get Your Code**: Head over to my website, where you can easily obtain your unique referral code.
 - **Share the Love**: Pass this code on to someone you think would benefit from attending a class. When they use it, they’ll receive a **£20 discount** on their class fee.
-- **Earn Rewards**: But it doesn’t stop there! For every person who signs up using your code, you’ll receive **£20 in store credit** towards future classes. 
+- **Earn Rewards**: But it doesn’t stop there! For every person who signs up using your code, you’ll receive **£20 in store credit** towards future classes.
 
 ### The Benefits
 

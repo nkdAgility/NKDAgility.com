@@ -46,7 +46,7 @@ sections:
       - title: Siloed Decision-Making
         icon: fa-gavel
         content: |
-          Tech, product, and business each optimizing for themselves—not the whole.
+          Tech, product, and business each optimizing for themselves, not the whole.
       - title: Broken Commitments & Conflicting Priorities
         icon: fa-calendar-xmark
         content: |
@@ -54,11 +54,11 @@ sections:
       - title: Inefficiencies & Duplication of Effort
         icon: fa-clone
         content: |
-          Two teams unknowingly solving the same problem—differently.
+          Two teams unknowingly solving the same problem, differently.
       - title: No Shared Definition of Success
         icon: fa-question
         content: |
-          Everyone’s busy—but no one agrees on what “done” looks like.
+          Everyone’s busy, but no one agrees on what “done” looks like.
   - type: quote
     backgroundColor: primary
     quote: |
@@ -117,19 +117,19 @@ sections:
     leftContent: |
       ### Timeboxed engagements
 
-      We work in fixed timeframes—weekly, monthly, or quarterly. No hourly billing. No scope creep. No change orders. You know the investment upfront. We adapt within the timebox based on what emerges.
+      We work in fixed timeframes, weekly, monthly, or quarterly. No hourly billing. No scope creep. No change orders. You know the investment upfront. We adapt within the timebox based on what emerges.
 
       ### Risk reversal
 
-      Full refund if standards aren't met. First-day cancellation for longer engagements—only expenses due. We carry the risk so you can engage with confidence.
+      Full refund if standards aren't met. First-day cancellation for longer engagements, only expenses due. We carry the risk so you can engage with confidence.
     rightContent: |
       ### Collaborative discovery
 
-      We don't fix deliverables upfront. We co-create outcomes within the retainer. Alignment work depends on what we discover together—dependencies, constraints, and opportunities you may not see yet.
+      We don't fix deliverables upfront. We co-create outcomes within the retainer. Alignment work depends on what we discover together, dependencies, constraints, and opportunities you may not see yet.
 
       ### Engineering economics lens
 
-      We help you see the cost of misalignment—rework, delays, conflicts—against the cost of creating shared visibility. Investment decisions become clearer when the economics are visible.
+      We help you see the cost of misalignment, rework, delays, conflicts, against the cost of creating shared visibility. Investment decisions become clearer when the economics are visible.
   - type: trustpilot
   - title: Related training
     type: courses

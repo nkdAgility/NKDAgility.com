@@ -28,7 +28,7 @@ Instructions: |-
   - Content that does not align with the philosophies of Agile, Lean, or Evidence-Based Management
 headline:
   cards: []
-  title: 'Continuous Improvement: Embedding Kaizen for Agile and Sustainable Success'
+  title: "Continuous Improvement: Embedding Kaizen for Agile and Sustainable Success"
   subtitle: Driving organisational resilience and innovation through empirical reflection, incremental experimentation, and data-informed decision-making.
   content: Continuous Improvement encompasses the ongoing discipline of inspecting outcomes, leveraging empirical evidence, and adapting organisational practices to enhance responsiveness, resilience, and value delivery. It includes incremental experimentation, data-informed decision-making, workflow optimisation, and fostering a culture of collective ownership and proactive learning to effectively navigate complex, evolving market conditions.
   updated: 2025-05-23T23:19:47Z
@@ -63,8 +63,8 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
+
 Continuous Improvement is a **first principle** of Business Agility, essential for any organisation seeking resilience and sustainable success in today's complex and rapidly evolving markets. It represents an ongoing commitment to reflecting on outcomes, evaluating performance through empirical evidence, and rapidly adapting strategies based on what is learned. Rather than being a one-time initiative, Continuous Improvement becomes part of the organisational ethos, guiding leaders and teams toward more effective, responsive, and adaptive ways of working.
 
 This principle underpins an organisation’s ability to respond swiftly to market shifts and customer needs. It encourages proactive experimentation and embraces a disciplined approach to decision-making grounded in real data and experiences. By embedding Continuous Improvement into their core culture, organisations foster environments that not only embrace change but leverage it as a competitive advantage, consistently driving greater value and innovation.
@@ -75,7 +75,7 @@ Lean thinking places Continuous Improvement at its core through the philosophy o
 
 ### Continuous Improvement in Scrum
 
-Scrum explicitly embeds Continuous Improvement as a foundational principle through its structured cycles of transparency, inspection, and adaptation. Every Sprint provides teams with the opportunity to reflect on outcomes and performance, using empirical evidence to inform their next steps. The Sprint Retrospective is a dedicated event specifically designed to foster continuous reflection, collaborative learning, and incremental enhancements. By making Continuous Improvement explicit, Scrum ensures that teams regularly pause, assess, and adapt—sustaining a disciplined focus on becoming progressively more effective.
+Scrum explicitly embeds Continuous Improvement as a foundational principle through its structured cycles of transparency, inspection, and adaptation. Every Sprint provides teams with the opportunity to reflect on outcomes and performance, using empirical evidence to inform their next steps. The Sprint Retrospective is a dedicated event specifically designed to foster continuous reflection, collaborative learning, and incremental enhancements. By making Continuous Improvement explicit, Scrum ensures that teams regularly pause, assess, and adapt, sustaining a disciplined focus on becoming progressively more effective.
 
 ### Continuous Improvement in Kanban
 

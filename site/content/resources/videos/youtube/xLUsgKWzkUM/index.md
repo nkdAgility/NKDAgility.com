@@ -1,5 +1,5 @@
 ---
-title: 'Mastering Prioritisation: How Product Owners Can Drive Value and Accountability'
+title: "Mastering Prioritisation: How Product Owners Can Drive Value and Accountability"
 short_title: Mastering Prioritisation for Product Owners
 description: Explains how Product Owners can use effective prioritisation to maximise value, manage budgets, and build accountability through clear communication and stakeholder engagement.
 tldr: Product Owners play a crucial role in ensuring resources are spent wisely by prioritising the most valuable work, aligning development with business goals, and maintaining stakeholder trust through clear communication. Effective prioritisation maximises value delivery, keeps teams focused, and adapts to changing needs. Development managers should support Product Owners in understanding users, collaborating closely, and staying flexible to drive successful outcomes.
@@ -51,16 +51,15 @@ duration: 36
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 As a [Product Owner]({{< ref "/tags/product-owner" >}}), I often find myself reflecting on the immense responsibility that comes with the role. It’s not just about managing a backlog or prioritising tasks; it’s about being accountable for spending the money wisely. This accountability is a cornerstone of effective product ownership, and it’s something I take very seriously.
 
 ### The Power of Prioritisation
 
-Even if your influence over the [product backlog]({{< ref "/tags/product-backlog" >}}) feels limited—perhaps you can’t delete items or add new ones—you still wield significant power through prioritisation. Here’s why this matters:
+Even if your influence over the [product backlog]({{< ref "/tags/product-backlog" >}}) feels limited, perhaps you can’t delete items or add new ones, you still wield significant power through prioritisation. Here’s why this matters:
 
 - **Budget Control**: By ordering the product backlog, you’re essentially controlling the budget. Each decision you make about what to deliver and when directly impacts the financial resources of the project. This means you need to be strategic and thoughtful about your choices.
-  
 - **[Value Delivery]({{< ref "/tags/value-delivery" >}})**: Your role is to ensure that the team delivers the most valuable features first. This requires a deep understanding of both the market and the needs of your stakeholders. It’s about aligning the product’s development with business goals and customer expectations.
 
 - **Stakeholder Engagement**: As a Product Owner, you are the bridge between the development team and stakeholders. Your ability to communicate the rationale behind prioritisation decisions is crucial. It fosters trust and ensures everyone is on the same page regarding the product’s direction.

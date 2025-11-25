@@ -1,7 +1,7 @@
 ---
-title: CTO Leadership Isn’t About Knowing Everything—It’s About Knowing What Matters Most
+title: CTO Leadership Isn’t About Knowing Everything, It’s About Knowing What Matters Most
 short_title: From FOMO to Focus for CTOs
-description: 'CTOs: Stop chasing every trend. Learn to filter noise, focus on what matters, and lead with clarity for real impact in your tech organization.'
+description: "CTOs: Stop chasing every trend. Learn to filter noise, focus on what matters, and lead with clarity for real impact in your tech organization."
 tldr: CTOs do not need to keep up with every new technology or trend; effective leadership is about identifying and focusing on what truly matters for your business and teams. By mapping how value flows through your organization and filtering out distractions, you can make better decisions and lead with clarity. Prioritize understanding your key constraints and empower your teams to deliver value rather than trying to know everything yourself.
 date: 2025-06-13T06:00:24Z
 lastmod: 2025-06-13T06:00:24Z
@@ -43,13 +43,13 @@ resourceTypes:
 isShort: false
 ResourceId: TKGVsfoz6jM
 ResourceType: videos
-
 ---
-You don’t need to know everything. You need to know what matters. That might sound obvious, but if you’re a CTO right now, it’s hard to believe. New frameworks, new tools, AI models dropping weekly—every conversation feels like a pop quiz you didn’t study for. And under it all, there’s that quiet fear: if you’re not on top of every trend, every shift, you’re falling behind.
+
+You don’t need to know everything. You need to know what matters. That might sound obvious, but if you’re a CTO right now, it’s hard to believe. New frameworks, new tools, AI models dropping weekly, every conversation feels like a pop quiz you didn’t study for. And under it all, there’s that quiet fear: if you’re not on top of every trend, every shift, you’re falling behind.
 
 Let’s be clear, that’s not leadership. That’s FOMO, and it’s exhausting.
 
-I’ve seen this play out time and again. I’ve sat with CTOs who are drowning in information, feeling the pressure to have an answer for everything. The reality is, you can’t—and you shouldn’t—try to keep up with every shiny new thing. The real skill is knowing what to ignore.
+I’ve seen this play out time and again. I’ve sat with CTOs who are drowning in information, feeling the pressure to have an answer for everything. The reality is, you can’t, and you shouldn’t, try to keep up with every shiny new thing. The real skill is knowing what to ignore.
 
 Here’s what I’ve learned working with technology leaders across industries:
 
@@ -83,7 +83,7 @@ Here’s my advice:
 
 - **Embrace not knowing.** It’s a sign of maturity, not weakness.
 - **Get clear on your constraints.** Focus your energy where it will have the most impact.
-- **Lead with purpose.** Your job isn’t to chase every trend—it’s to create an environment where your teams can deliver real value.
+- **Lead with purpose.** Your job isn’t to chase every trend, it’s to create an environment where your teams can deliver real value.
 
 In the end, staying relevant isn’t about knowing it all. It’s about knowing what matters, and having the courage to focus on it. That’s real leadership.
 

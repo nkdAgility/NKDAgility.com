@@ -51,9 +51,9 @@ Watermarks:
   tldr: 2025-08-07T12:34:03Z
 ResourceId: iEdzblomyOb
 ResourceType: signals
-
 ---
-If every release feels like a high-risk operation, you don’t have a Definition of Done—you have a definition of “we hope this works.”
+
+If every release feels like a high-risk operation, you don’t have a Definition of Done, you have a definition of “we hope this works.”
 
 Releasing software shouldn’t require a war room, late-night deployments, or a last-minute QA scramble. A strong DoD means every increment is ready for production the moment it’s complete, with security, compliance, and quality baked in.
 

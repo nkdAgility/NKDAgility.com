@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking Rapid Delivery: Overcoming Common DevOps Challenges for Agile Success'
+title: "Unlocking Rapid Delivery: Overcoming Common DevOps Challenges for Agile Success"
 short_title: Overcoming DevOps Challenges for Agile Delivery
 description: Explores common DevOps challenges to rapid delivery, highlighting automation, feedback loops, mindset shifts, and compliance for achieving agile, efficient software delivery.
 tldr: Many teams struggle to deliver products quickly due to slow feedback loops, limited automation, and resistance to change. Key improvements include automating processes, engaging compliance teams early to challenge assumptions, and fostering a culture open to experimentation. Development managers should review their delivery pipelines for bottlenecks and actively involve stakeholders to enable faster, more agile releases.
@@ -54,8 +54,8 @@ duration: 370
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In my journey as a [DevOps]({{< ref "/categories/devops" >}}) consultant, I often find myself facing a set of challenges that, while unique to each organisation, share a common thread. Much like my experiences in agile consulting, the primary issue I encounter is the struggle to deliver working products quickly. It’s a frustrating reality when teams are unable to see their ideas come to life in a timely manner, and it’s a problem that can stifle innovation and growth.
 
 ### The Challenge of Speed
@@ -64,19 +64,19 @@ One of the most pressing concerns I hear from clients is the lengthy process it 
 
 - **Automate Where Possible**: Many people equate DevOps with automation, and while that’s a significant aspect, it’s not the whole story. Automation can streamline processes, but it’s essential to also foster a mindset that embraces [lean]({{< ref "/categories/lean" >}}) and agile principles. This dual focus can lead to more effective decision-making and a deeper understanding of the delivery pipeline.
 
-- **Feedback Loops Matter**: Closing feedback loops is crucial. DevOps is fundamentally about enhancing the delivery process, ensuring that teams can quickly validate their work and iterate based on real user feedback. I often find that teams struggle with lengthy validation periods—sometimes up to 48 hours—due to inadequate testing infrastructure. This is an area ripe for improvement.
+- **Feedback Loops Matter**: Closing feedback loops is crucial. DevOps is fundamentally about enhancing the delivery process, ensuring that teams can quickly validate their work and iterate based on real user feedback. I often find that teams struggle with lengthy validation periods, sometimes up to 48 hours, due to inadequate testing infrastructure. This is an area ripe for improvement.
 
 ### The Mindset Shift
 
-A significant part of my role involves shifting mindsets. I frequently encounter the belief that certain industries or regulations prevent rapid delivery. For instance, I’ve heard clients say, “In our industry, we can’t do that.” This mindset can be a major roadblock. 
+A significant part of my role involves shifting mindsets. I frequently encounter the belief that certain industries or regulations prevent rapid delivery. For instance, I’ve heard clients say, “In our industry, we can’t do that.” This mindset can be a major roadblock.
 
-- **Challenge Assumptions**: It’s vital to question these assumptions. Often, when I engage with compliance teams or auditors, I discover that their understanding of [software development]({{< ref "/tags/software-development" >}}) is limited. By bringing them into the conversation and asking the right questions, we can often find that there are more flexible paths to compliance than initially thought. 
+- **Challenge Assumptions**: It’s vital to question these assumptions. Often, when I engage with compliance teams or auditors, I discover that their understanding of [software development]({{< ref "/tags/software-development" >}}) is limited. By bringing them into the conversation and asking the right questions, we can often find that there are more flexible paths to compliance than initially thought.
 
 - **Engage with Auditors**: I’ve had numerous experiences where simply asking an auditor if a proposed method meets compliance standards leads to surprising results. More often than not, they’re open to alternative approaches that still meet their requirements. This dialogue can open doors to faster delivery without compromising on compliance.
 
 ### The Bigger Picture
 
-Ultimately, whether I’m conducting a “State of Agile” report or a “State of DevOps” report, the narrative remains the same: it’s all about shortening feedback loops and getting products into the hands of customers more quickly. 
+Ultimately, whether I’m conducting a “State of Agile” report or a “State of DevOps” report, the narrative remains the same: it’s all about shortening feedback loops and getting products into the hands of customers more quickly.
 
 - **Look at the Entire Process**: Consider all the feedback loops in your organisation. How long does it take for developers to validate their code? What barriers exist that slow down this process? Identifying these pain points is the first step towards improvement.
 

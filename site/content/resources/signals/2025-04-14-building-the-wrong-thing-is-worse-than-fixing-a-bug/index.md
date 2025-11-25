@@ -55,11 +55,11 @@ Watermarks:
   tldr: 2025-08-07T12:33:41Z
 ResourceId: HvZvnbC68go
 ResourceType: signals
-
 ---
+
 Do you know what’s worse than fixing a bug? Building the wrong thing in the first place.
 
-The data is clear: Only 35% of features actually deliver value. That means 65% of what teams build is waste—work that never should have been done.
+The data is clear: Only 35% of features actually deliver value. That means 65% of what teams build is waste, work that never should have been done.
 
 The solution? Shorter feedback loops.
 

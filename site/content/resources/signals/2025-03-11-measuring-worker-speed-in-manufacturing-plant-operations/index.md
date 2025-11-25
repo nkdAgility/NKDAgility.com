@@ -44,14 +44,14 @@ Watermarks:
   tldr: 2025-08-07T12:34:58Z
 ResourceId: QnAOVFfFPpx
 ResourceType: signals
-
 ---
+
 Imagine a manufacturing plant where someone decides to measure how fast one worker moves a part from their station to the next.
 
 They speed up. They move parts as fast as possible. But downstream, the parts pile up because the system isn’t ready for them. The bottleneck isn’t fixed. Nothing actually gets delivered faster.
 
 This is exactly what happens when you measure individual cycle time in knowledge work. Someone finishing tasks quickly doesn’t mean anything if those tasks sit in queues, waiting on reviews, approvals, or handoffs.
 
-Speed comes from fixing the system—not from pushing people to move faster.
+Speed comes from fixing the system, not from pushing people to move faster.
 
 Who’s still measuring individual cycle time in 2025?

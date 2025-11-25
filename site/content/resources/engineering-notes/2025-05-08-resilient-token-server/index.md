@@ -1,5 +1,5 @@
 ---
-title: 'Building a Resilient Token Server: Engineering for Flow, Fault Tolerance, and Speed'
+title: "Building a Resilient Token Server: Engineering for Flow, Fault Tolerance, and Speed"
 short_title: Building a Resilient Token Server for Fault Tolerance
 description: Explains how to engineer a robust, fault-tolerant token counting server using FastAPI and PowerShell, covering error handling, retries, fallbacks, and resilient workflows.
 tldr: Aiming for a resilient, fast, and fault-tolerant token counting system, the author replaced fragile server restarts with a batch-wide server lifecycle, added retry logic for transient failures, and implemented a local fallback to ensure uninterrupted processing. These changes improved reliability, reduced downtime, and provided clear logs for troubleshooting. Development managers should focus on building systems that handle real-world failures gracefully, prioritize flow, and include observability and fallback mechanisms from the start.
@@ -40,13 +40,13 @@ Watermarks:
   tldr: 2025-08-07T12:32:42Z
 ResourceId: mjsboLP-N9P
 ResourceType: engineering-notes
-
 ---
+
 Modern engineering is about making sure systems keep running reliably under load, failure, and unpredictable conditions. When I set out to build a fast, dependable way to calculate OpenAI token counts for my batch classification pipeline, I didn’t want a quick script or a one-off tool. I wanted a **resilient, observable, fault-tolerant system** that fit tightly into my PowerShell-first workflow and could hold up in real conditions, not just lab tests.
 
-**Background:** Midway through last year, I finally accepted that WordPress was no longer the future for me. To be honest, I’d known it for a while, but the pain of migrating was bigger than the pain of sticking with it—until it wasn’t. I made the deliberate choice to rebuild a decade of Wordpress content into Hugo, Markdown, YAML, and a layer of PowerShell automation for bulk editing. As I ramped up automation for pre-processing and OpenAI-driven bulk edits, one bottleneck hit hard: counting tokens. I had an existing method calling out to Python from PowerShell, but it clocked in at around five minutes per thousand prompts. That was unacceptable for the scale I wanted.
+**Background:** Midway through last year, I finally accepted that WordPress was no longer the future for me. To be honest, I’d known it for a while, but the pain of migrating was bigger than the pain of sticking with it, until it wasn’t. I made the deliberate choice to rebuild a decade of Wordpress content into Hugo, Markdown, YAML, and a layer of PowerShell automation for bulk editing. As I ramped up automation for pre-processing and OpenAI-driven bulk edits, one bottleneck hit hard: counting tokens. I had an existing method calling out to Python from PowerShell, but it clocked in at around five minutes per thousand prompts. That was unacceptable for the scale I wanted.
 
-This post lays out exactly how I tackled that challenge—what worked, what fell apart, and how I hardened the system into something that performs reliably under real-world pressure, or at least "my world" pressure.
+This post lays out exactly how I tackled that challenge, what worked, what fell apart, and how I hardened the system into something that performs reliably under real-world pressure, or at least "my world" pressure.
 
 ## Starting Line: What I Set Out to Build
 
@@ -118,7 +118,7 @@ This worked, but all the restarts made it painfully slow. However, to be clear, 
 
 ## Refactoring for Resilience
 
-Here’s exactly how I hardened the system once it was working, keeping everything pragmatic, outcome-focused, and fully aligned to the engineering ethos I follow — minimising errors, maximising resilience, and ensuring flow without cutting corners or adding unnecessary complexity.
+Here’s exactly how I hardened the system once it was working, keeping everything pragmatic, outcome-focused, and fully aligned to the engineering ethos I follow , minimising errors, maximising resilience, and ensuring flow without cutting corners or adding unnecessary complexity.
 
 ### Start/Stop Once Per Batch
 
@@ -134,7 +134,7 @@ This reduced port churn, avoided TIME_WAIT issues, and drastically simplified or
 
 ### Add Retries Instead of Restarts
 
-From the log above, you can see I was trying to solve the fake-response problem by restarting the server — but that was the wrong approach. Restarting might hide symptoms, but it never fixes the underlying fragility. It always reminds me of that ridiculous video where someone rigged up a second server with a CD tray and taped a pencil to it so that when the first server stopped responding, the second one would eject its tray and physically press the reset button on the first. Sure, it technically works, but it’s the software equivalent of sweeping dirt under a rug. Engineering excellence means you address the real issues directly, not patch over them with hacks.
+From the log above, you can see I was trying to solve the fake-response problem by restarting the server , but that was the wrong approach. Restarting might hide symptoms, but it never fixes the underlying fragility. It always reminds me of that ridiculous video where someone rigged up a second server with a CD tray and taped a pencil to it so that when the first server stopped responding, the second one would eject its tray and physically press the reset button on the first. Sure, it technically works, but it’s the software equivalent of sweeping dirt under a rug. Engineering excellence means you address the real issues directly, not patch over them with hacks.
 
 Inside `Get-TokenCountFromServer`, we wrapped the REST call in a retry loop:
 
@@ -154,7 +154,7 @@ This change turned transient network failures from system-breaking to non-events
 
 ### Implement Local Fallback
 
-I already have logic to calculate the tokens locally and in isolation, which was the thing I wanted to refactor away. However, I realised that if the server was overloaded, I could either retry indefinitely, fail out, or regress to a local Python call. Sure, it was the slower path, but it acted as a deliberate, engineered fallback when the server stopped responding under load. This wasn’t just retries stacked on retries — it was a purposeful local option to guarantee the system would not fail completely and would keep moving, even if with a slight delay:
+I already have logic to calculate the tokens locally and in isolation, which was the thing I wanted to refactor away. However, I realised that if the server was overloaded, I could either retry indefinitely, fail out, or regress to a local Python call. Sure, it was the slower path, but it acted as a deliberate, engineered fallback when the server stopped responding under load. This wasn’t just retries stacked on retries , it was a purposeful local option to guarantee the system would not fail completely and would keep moving, even if with a slight delay:
 
 ```powershell
 function Get-TokenCountLocally {
@@ -185,19 +185,19 @@ By the end, we delivered a system that:
 - Handles high-volume batch loads without choking.
 - Provides clear, observable logs for troubleshooting and improvement.
 
-This is not just about counting tokens. It is about building resilient, fault-tolerant architectures that hold up under real-world use — and taking full ownership of the engineering outcome, even when the tool is 'just a script' for my own workflows. This reflects my principles as an engineer: if I touch it, I am accountable for its resilience, its clarity, and its long-term behaviour. And this is the work I put into a simple script that only I need to run. If this were going to be a production system, I'd have to take it to a whole other level, and I would expect engineering teams I work with to do the same.
+This is not just about counting tokens. It is about building resilient, fault-tolerant architectures that hold up under real-world use , and taking full ownership of the engineering outcome, even when the tool is 'just a script' for my own workflows. This reflects my principles as an engineer: if I touch it, I am accountable for its resilience, its clarity, and its long-term behaviour. And this is the work I put into a simple script that only I need to run. If this were going to be a production system, I'd have to take it to a whole other level, and I would expect engineering teams I work with to do the same.
 
 I'm certainly not done, and the scripts I use get continuous refinement and are adapted as I learn more and need more. Here are some ideas for improvements:
 
 Here’s what I’m noodling on next:
 
-- **Separate concerns in PowerShell** — I already have reusable modules, but I can sharpen this by splitting orchestration logic and reusable functions into clean, distinct scripts or modules.
-- **Use structured exceptions** — Plain error logs only get me so far; I want to move to proper PowerShell error records or thrown exceptions so failures are surfaced intentionally, not passively.
-- **Add FastAPI health and version endpoints** — Lightweight /health and /version routes will let me run fast checks and diagnostics without poking deep into the server.
-- **Introduce concurrency handling** — Adding PowerShell locking or a mutex will protect against race conditions if multiple scripts try to touch the server at once.
-- **Dockerize the Python token server** — Packaging the server into a Docker container will give me environment isolation and smoother deployment, especially when moving between local and cloud setups.
-- **Implement structured logging** — I want to replace Write-Host or Write-InfoLog with structured log outputs (like JSON or key-value pairs) so logs are machine-readable and easier to pipeline.
-- **Write automated tests** — Pester for PowerShell unit tests and pytest with httpx for FastAPI endpoint testing will give me confidence this system holds up, even as I evolve and extend it.
+- **Separate concerns in PowerShell** , I already have reusable modules, but I can sharpen this by splitting orchestration logic and reusable functions into clean, distinct scripts or modules.
+- **Use structured exceptions** , Plain error logs only get me so far; I want to move to proper PowerShell error records or thrown exceptions so failures are surfaced intentionally, not passively.
+- **Add FastAPI health and version endpoints** , Lightweight /health and /version routes will let me run fast checks and diagnostics without poking deep into the server.
+- **Introduce concurrency handling** , Adding PowerShell locking or a mutex will protect against race conditions if multiple scripts try to touch the server at once.
+- **Dockerize the Python token server** , Packaging the server into a Docker container will give me environment isolation and smoother deployment, especially when moving between local and cloud setups.
+- **Implement structured logging** , I want to replace Write-Host or Write-InfoLog with structured log outputs (like JSON or key-value pairs) so logs are machine-readable and easier to pipeline.
+- **Write automated tests** , Pester for PowerShell unit tests and pytest with httpx for FastAPI endpoint testing will give me confidence this system holds up, even as I evolve and extend it.
 
 But for now, I'm happy that it's executing and reasonably resilient. Next time I run it I might not feel the same and make more changes.
 

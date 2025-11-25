@@ -22,9 +22,9 @@ sections:
       title: Economic Returns from Engineering
       subtitle: Transform Engineering from Cost Center to Competitive Advantage
       content: |
-        Your engineering budget keeps growing, but delivery speed isn't keeping pace. You're spending millions on talent and tools—yet can't show the board clear ROI.
+        Your engineering budget keeps growing, but delivery speed isn't keeping pace. You're spending millions on talent and tools, yet can't show the board clear ROI.
 
-        **The opportunity:** DORA research shows elite engineering organizations deploy 208x more frequently and recover 2,604x faster than low performers. That's not incremental improvement—that's competitive advantage.
+        **The opportunity:** DORA research shows elite engineering organizations deploy 208x more frequently and recover 2,604x faster than low performers. That's not incremental improvement, that's competitive advantage.
   - content: |
       **NKD Agility helps you maximize the business value of your engineering investments.** We focus on flow economics, reduced waste, and evidence-based decision-making to ensure every engineering dollar drives measurable business outcomes.
     type: content
@@ -90,7 +90,7 @@ sections:
       - title: Better Resource Utilization
         icon: fa-users-gear
         content: |
-          **You'll see exactly where engineering capacity goes**—and which investments actually move the business forward.
+          **You'll see exactly where engineering capacity goes**, and which investments actually move the business forward.
       - title: Predictable Forecasting
         icon: fa-calendar-check
         content: |
@@ -129,21 +129,21 @@ sections:
   - type: outcomeboxes
     title: Better economic returns enable
     boxes:
-      - box: 
+      - box:
         items:
           - title: Demonstrate clear ROI from engineering
           - title: Reduce time-to-market significantly
           - title: Lower cost of poor quality
           - title: Improve resource efficiency
           - title: Scale delivery without scaling costs linearly
-      - box: 
+      - box:
         items:
           - title: Justify engineering investments confidently
           - title: Feel proud of engineering's business impact
           - title: Eliminate the stress of budget battles
           - title: Lead with data, not gut feelings
           - title: Prove technology's strategic value
-      - box: 
+      - box:
         items:
           - title: Be seen as a value driver, not a cost center
           - title: Earn board-level credibility
@@ -184,7 +184,7 @@ sections:
 
       **Why engineering leaders trust us:** We're not business consultants trying to understand code. We're engineers who've built production systems, led DevOps transformations, and presented ROI to boards. We speak both languages fluently.
 
-      **Our guarantee:** Timeboxed engagement with full refund if you're not satisfied. No hourly billing, no scope creep, no change orders—just measurable outcomes.
+      **Our guarantee:** Timeboxed engagement with full refund if you're not satisfied. No hourly billing, no scope creep, no change orders, just measurable outcomes.
 
       Led by Microsoft MVP Martin Hinshelwood, combining 20+ years of technical depth with flow economics and evidence-based management.
   - type: sectioncta
@@ -206,6 +206,4 @@ creator: Martin Hinshelwood
 icon: fa-chart-line
 ResourceType: outcomes
 ResourceId: hN1WwYuqPCl
-
 ---
-

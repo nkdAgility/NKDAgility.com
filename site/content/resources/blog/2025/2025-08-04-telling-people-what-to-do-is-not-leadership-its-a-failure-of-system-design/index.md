@@ -1,8 +1,8 @@
 ---
 title: Telling People What to Do Is Not Leadership. It’s a Failure of System Design
 short_title: Leadership Is System Design, Not Command
-description: Explores why real leadership means designing systems that enable team autonomy, flow, and accountability—rather than relying on command-and-control management.
-tldr: Telling people what to do is not leadership, it is a sign of poor system design that stifles autonomy and slows delivery. Effective leadership means creating systems where teams have clear goals, constraints, and feedback loops so they can self-manage, deliver value, and adapt without micromanagement. Focus on improving your delivery system—set meaningful goals, enable autonomy with clear boundaries, use evidence-based metrics, and empower teams to own outcomes—so you can step back and let professionals do their best work.
+description: Explores why real leadership means designing systems that enable team autonomy, flow, and accountability, rather than relying on command-and-control management.
+tldr: Telling people what to do is not leadership, it is a sign of poor system design that stifles autonomy and slows delivery. Effective leadership means creating systems where teams have clear goals, constraints, and feedback loops so they can self-manage, deliver value, and adapt without micromanagement. Focus on improving your delivery system, set meaningful goals, enable autonomy with clear boundaries, use evidence-based metrics, and empower teams to own outcomes, so you can step back and let professionals do their best work.
 date: 2025-08-04T09:00:00Z
 lastmod: 2025-08-04T09:00:00Z
 weight: 25
@@ -57,15 +57,15 @@ Watermarks:
 creator: Martin Hinshelwood
 ResourceId: W_KrTupmowf
 ResourceType: blog
-
 ---
+
 If your organisation still measures leadership by how many decisions a manager makes, you are not leading. You are leaking value.
 
-There is a stubborn, Taylorist holdover in many companies—the belief that work gets done when someone is told exactly what to do. The assumption is that certainty comes from control, clarity comes from instruction, and delivery comes from compliance.
+There is a stubborn, Taylorist holdover in many companies, the belief that work gets done when someone is told exactly what to do. The assumption is that certainty comes from control, clarity comes from instruction, and delivery comes from compliance.
 
 It doesn’t.
 
-In complex systems, command-and-control is not just ineffective—it’s a bottleneck. The moment you start “assigning tasks,” you’ve already failed to design a system that enables flow, autonomy, and accountability.
+In complex systems, command-and-control is not just ineffective, it’s a bottleneck. The moment you start “assigning tasks,” you’ve already failed to design a system that enables flow, autonomy, and accountability.
 
 ## You Don’t Need to Tell People What to Do in a Well-Designed System
 
@@ -73,9 +73,9 @@ In organisations grounded in empirical process control, leadership isn’t about
 
 Modern management is not about allocating tasks. It’s about removing the need for anyone to allocate tasks in the first place.
 
-When teams are working against clear goals, with shared understanding, visibility of work-in-progress, and constraints that enable—not restrict—decision-making, they don’t need instructions. They need clarity, context, and trust.
+When teams are working against clear goals, with shared understanding, visibility of work-in-progress, and constraints that enable, not restrict, decision-making, they don’t need instructions. They need clarity, context, and trust.
 
-Great systems aren’t static. They evolve through structured feedback loops—Sprint Reviews, Retrospectives, operational telemetry, and small experiments. Inspection and adaptation are what make systems empirical, not just idealistic.
+Great systems aren’t static. They evolve through structured feedback loops, Sprint Reviews, Retrospectives, operational telemetry, and small experiments. Inspection and adaptation are what make systems empirical, not just idealistic.
 
 ## Taylorism Is for Factories. You Run a Cognitive Organisation.
 
@@ -96,12 +96,12 @@ Real leadership isn’t about your presence. It’s about what happens in your a
 This is the ethos behind Scrum, Kanban, and DevOps:
 
 - **Scrum** gives you a social technology for solving complex problems adaptively.
-- **Kanban** gives you observability of the value stream and how work flows—or doesn’t.
+- **Kanban** gives you observability of the value stream and how work flows, or doesn’t.
 - **DevOps** ensures the loop from idea to value is short, safe, and inspectable.
 
 Together, they form a coherent strategy for managing systems of work without resorting to micromanagement. When teams understand their constraints, have the tools to respond to change, and are accountable for outcomes, not just activity, they no longer need to be told what to do.
 
-Speed is not the goal, but it is a critical capability. In a competitive environment, reducing time-to-market isn’t just about efficiency—it’s how organisations learn faster, respond sooner, and stay ahead of disruption. For a deeper dive into why frequent delivery is a competitive advantage, read [There Is No Place Like Production]({{< ref "/resources/blog/2020/2020-12-28-there-is-no-place-like-production" >}}).
+Speed is not the goal, but it is a critical capability. In a competitive environment, reducing time-to-market isn’t just about efficiency, it’s how organisations learn faster, respond sooner, and stay ahead of disruption. For a deeper dive into why frequent delivery is a competitive advantage, read [There Is No Place Like Production]({{< ref "/resources/blog/2020/2020-12-28-there-is-no-place-like-production" >}}).
 
 ## Telling People What to Do is an Expensive Workaround
 
@@ -116,7 +116,7 @@ Every time you assign a task manually, you’re compensating for a failure upstr
 
 You’re treating the symptom instead of fixing the system.
 
-And let’s be honest—if you have to tell people what to do, why did you hire professionals?
+And let’s be honest, if you have to tell people what to do, why did you hire professionals?
 
 ## Design the System. Get Out of the Way.
 
@@ -126,7 +126,7 @@ Stop focusing on the people. Start focusing on the system.
 
 Scrum is not about rituals. DevOps is not about pipelines. These are practices that expose the health of your system. And if your system requires constant intervention, it’s not a system. It’s a mess.
 
-So stop telling people what to do. Instead, design a system where people know what to do—and have the freedom, clarity, and support to do it. Here are 10 things that you can do to augment your system:
+So stop telling people what to do. Instead, design a system where people know what to do, and have the freedom, clarity, and support to do it. Here are 10 things that you can do to augment your system:
 
 ### 1. **Establish Intermediate & Tactical Goals**
 
@@ -148,19 +148,19 @@ Agency without boundaries is chaos. But command-and-control masquerading as clar
 
 - **Action**: Clarify and operationalise constraints through an explicit Definition of Workflow, and clear organisational boundaries of responsibility and accountability.
 - **How**: Codify these boundaries collaboratively with the team; it's their workflow. Then, create a Definition of Workflow that defines the way that work flows through their system. Don't worry about every edge case; create based on the common case of work. This DoW forms part of your Use Working Agreements that express how the team will self-manage within organisational expectations.
-- **Why**: Teams can’t be accountable for outcomes if they’re not authorised to choose how they deliver. But without boundaries, chaos replaces clarity. Autonomy is not abdication—it’s engineered through deliberate, negotiated constraints.
+- **Why**: Teams can’t be accountable for outcomes if they’re not authorised to choose how they deliver. But without boundaries, chaos replaces clarity. Autonomy is not abdication, it’s engineered through deliberate, negotiated constraints.
 
-Professionalism is rooted in clear, shared expectations, delivered through disapline. A team that understands how work flows, where decisions are made, and what quality signals readiness at each stage doesn't need micromanagement—they already operate within a system that tells them what excellence looks like.
+Professionalism is rooted in clear, shared expectations, delivered through disapline. A team that understands how work flows, where decisions are made, and what quality signals readiness at each stage doesn't need micromanagement, they already operate within a system that tells them what excellence looks like.
 
 ### 3. **Stop Misusing Estimation, Start Right-Sizing**
 
 Telling people what to build, in what order, and how long it should take kills creativity and accountability. It fragments ownership and encourages compliance over curiosity. Worse, it masks the real problem: your system doesn't support flow, so you fall back to control.
 
-- **Action**: Move away from abstract estimation rituals and fixed task assignments. Instead, introduce right-sizing practices—splitting work based on historical flow metrics like cycle time and throughput and Scatter Plot analysis.
+- **Action**: Move away from abstract estimation rituals and fixed task assignments. Instead, introduce right-sizing practices, splitting work based on historical flow metrics like cycle time and throughput and Scatter Plot analysis.
 - **How**: As a team, regularly review a scatter plot of your cycle times and investigate outliers to deepen your understanding of what 'small enough' looks like. Use that insight to reduce batch sizes where possible and provide stakeholder clarity where constraints exist. Visualise blocked or ageing work daily to keep flow visible, and use backlog refinement to slice work for predictability, not precision.&#x20;
-- **Why**: The issue isn't estimation itself—it's turning estimation into something it was never meant to be. Right-sizing is still estimation, just done in a simpler and more honest way. When teams right-size work to match their flow and capacity, they ship more consistently, adapt faster, and own their commitments.
+- **Why**: The issue isn't estimation itself, it's turning estimation into something it was never meant to be. Right-sizing is still estimation, just done in a simpler and more honest way. When teams right-size work to match their flow and capacity, they ship more consistently, adapt faster, and own their commitments.
 
-Traditional estimation is often misused as a proxy for distrust or certainty in uncertain domains. When you right-size instead—grounding delivery in data and observability—you shift from permission-based planning to capability-based planning. That's not just more efficient. It's fundamentally more respectful of the people doing the work.
+Traditional estimation is often misused as a proxy for distrust or certainty in uncertain domains. When you right-size instead, grounding delivery in data and observability, you shift from permission-based planning to capability-based planning. That's not just more efficient. It's fundamentally more respectful of the people doing the work.
 
 ### 4. **Introduce Pull Systems with WIP Limits**
 
@@ -174,23 +174,23 @@ In contrast, pull systems enhance accountability and ownership by starting with 
 - **How**: Regularly inspect cumulative flow diagrams, throughput run charts, and ageing WIP. Use these insights to identify bottlenecks and overloaded stages. Rising ageing WIP is your signal that the system has shifted back to push dynamics.
 - **Why**: Genuine ownership and accountability flourish when teams have autonomy over their workflow, responding to actual system conditions rather than artificial deadlines. This approach enhances predictability, reduces burnout, and creates sustainable delivery. Deadlines are met naturally as work is continuously delivered, not forced through the system.
 
-WIP limits are not about control—they are about providing meaningful feedback. They indicate when your system reaches capacity, signaling the team to focus and prioritise effectively. Pull-based systems are essential for sustainable, predictable value delivery. If your teams constantly feel overwhelmed and lack autonomy, it’s time to recognise this as a systemic issue: your organisation is pushing rather than enabling.
+WIP limits are not about control, they are about providing meaningful feedback. They indicate when your system reaches capacity, signaling the team to focus and prioritise effectively. Pull-based systems are essential for sustainable, predictable value delivery. If your teams constantly feel overwhelmed and lack autonomy, it’s time to recognise this as a systemic issue: your organisation is pushing rather than enabling.
 
 ### 5. **Use evidence-based management practices**
 
 Measuring hours worked or tasks completed tells you nothing about whether the work mattered. Effort is not value. Activity is not improvement. Velocity is not progress.
 
 - **Action**: Replace effort-based reporting with outcome-oriented metrics. Use the four key dimensions of Evidence-Based Management, [Time to Market (TTM)]({{< ref "/tags/time-to-market" >}}), Current Value (CV), [Ability to Innovate (A2I)]({{< ref "/tags/ability-to-innovate" >}}), and Unrealised Value (UV), to inspect delivery capability and guide improvement.
-- **How**: Start simple. Use your existing delivery tools (like Azure DevOps or Jira) to extract basic data—Cycle Time, Throughput, and Lead Time. These give you data for Time to Market (TTM). For Current Value (CV), talk to customer support, review NPS data, or run basic satisfaction surveys. To identify Unrealised Value (UV), review abandoned roadmap items, market research, or competitor offerings. For Ability to Innovate (A2I), look at how often your work is blocked, how long code sits before being merged, and how frequently you ship. Use this data in Sprint Reviews and Retrospectives to track system health, not individual effort. Bring these insights into planning conversations to anchor decisions in reality, not assumptions.
-- **Why**: Teams that understand the outcomes of their work—how long it takes, how it impacts customers, what’s left unrealised, and where they’re blocked—are far more likely to own both the delivery and the improvement. If you want teams to care about the product, show them how it performs. Without evidence, we fall back to opinion, status, and hierarchy. With evidence, we can act with purpose.
+- **How**: Start simple. Use your existing delivery tools (like Azure DevOps or Jira) to extract basic data, Cycle Time, Throughput, and Lead Time. These give you data for Time to Market (TTM). For Current Value (CV), talk to customer support, review NPS data, or run basic satisfaction surveys. To identify Unrealised Value (UV), review abandoned roadmap items, market research, or competitor offerings. For Ability to Innovate (A2I), look at how often your work is blocked, how long code sits before being merged, and how frequently you ship. Use this data in Sprint Reviews and Retrospectives to track system health, not individual effort. Bring these insights into planning conversations to anchor decisions in reality, not assumptions.
+- **Why**: Teams that understand the outcomes of their work, how long it takes, how it impacts customers, what’s left unrealised, and where they’re blocked, are far more likely to own both the delivery and the improvement. If you want teams to care about the product, show them how it performs. Without evidence, we fall back to opinion, status, and hierarchy. With evidence, we can act with purpose.
 
-Evidence-Based Management [replaces arbitrary judgement with actionable data]({{< ref "/resources/blog/2020/2020-12-30-evidence-based-management-gathering-metrics" >}}). It doesn’t just measure outcomes—it enables accountability for them.
+Evidence-Based Management [replaces arbitrary judgement with actionable data]({{< ref "/resources/blog/2020/2020-12-30-evidence-based-management-gathering-metrics" >}}). It doesn’t just measure outcomes, it enables accountability for them.
 
 ### 6. **Deploy Frequently to Production**
 
 Nothing signals trust like letting teams ship. But more than that, frequent delivery to production is the fastest path to feedback, accountability, and customer impact.
 
-- **Action**: Enable teams to release a usable, production-grade increment every Sprint, including the first. This doesn’t mean a perfect product—it means a valuable step forward, hardened enough to be used.
+- **Action**: Enable teams to release a usable, production-grade increment every Sprint, including the first. This doesn’t mean a perfect product, it means a valuable step forward, hardened enough to be used.
 - **How**: Establish CI/CD pipelines with automated quality gates (unit tests, integration checks, security scanning). Use feature toggles, dark launches, and audience-based rollout to mitigate risk. Set a working agreement that “done” means releasable. If it’s not going to production, it’s not done.
 - **Why**: When teams ship regularly, feedback cycles shorten, risk is reduced, and decision latency collapses. They see real impact and adapt quickly. You stop debating hypotheticals and start responding to evidence. Most importantly, you stop managing perception and start managing product.
 
@@ -198,13 +198,13 @@ There’s [no place like production]({{< ref "/resources/blog/2020/2020-12-28-th
 
 ### 7. **Invest in Professional Scrum Masters & Product Owners**
 
-Most Scrum Masters and Product Owners are either appointed without preparation or promoted into the role without development. The result? They don’t coach, guide, or lead—they coordinate. And when those roles fail to create clarity and enable delivery, managers step in to fill the vacuum with control.
+Most Scrum Masters and Product Owners are either appointed without preparation or promoted into the role without development. The result? They don’t coach, guide, or lead, they coordinate. And when those roles fail to create clarity and enable delivery, managers step in to fill the vacuum with control.
 
 - **Action**: Hire or develop Scrum Masters and Product Owners who demonstrate competence across three domains: technical fluency, business acumen, and organisational change leadership.
 - **How**: Provide structured learning journeys that combine high quality training with hands-on mentorship from experienced practitioners. Assess candidates or internal staff on their ability to enable delivery systems, not just facilitate meetings or write stories. Require evidence of contribution to system improvement, cross-team alignment, and customer impact.
-- **Why**: Competent SMs and POs anchor the Scrum Team in purpose and delivery. The Scrum Master builds capability, encourages flow, and fosters empiricism, and modern engineering practices. The [Product Owner sets the tone for product leadership]({{< ref "/resources/blog/2021/2021-05-17-hiring-a-professional-product-owner" >}}) and modern product development practices. When these roles function well, the team no longer needs daily direction from management—because the system is aligned, and delivery is deliberate.
+- **Why**: Competent SMs and POs anchor the Scrum Team in purpose and delivery. The Scrum Master builds capability, encourages flow, and fosters empiricism, and modern engineering practices. The [Product Owner sets the tone for product leadership]({{< ref "/resources/blog/2021/2021-05-17-hiring-a-professional-product-owner" >}}) and modern product development practices. When these roles function well, the team no longer needs daily direction from management, because the system is aligned, and delivery is deliberate.
 
-Scrum Masters are not passive facilitators. They are system stewards—accountable for enabling transparency, optimising flow, and coaching both teams and managers to operate within an empirical system. If they’re not improving the system, they’re part of the dysfunction. If you want to understand what separates a competent Scrum Master from a glorified coordinator, read [Why Most Scrum Masters Are Failing—and What They Should Know]({{< ref "/resources/blog/2024/2024-09-05-the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know" >}}).
+Scrum Masters are not passive facilitators. They are system stewards, accountable for enabling transparency, optimising flow, and coaching both teams and managers to operate within an empirical system. If they’re not improving the system, they’re part of the dysfunction. If you want to understand what separates a competent Scrum Master from a glorified coordinator, read [Why Most Scrum Masters Are Failing, and What They Should Know]({{< ref "/resources/blog/2024/2024-09-05-the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know" >}}).
 
 The problem isn’t Scrum. The problem is that [we keep filling these roles with people who aren’t ready]({{< ref "/resources/blog/2024/2024-09-05-the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know" >}}) or worse never will be. Raise the bar, or get out of the way.
 
@@ -214,24 +214,24 @@ Separate roles create handoffs, and [handoffs create dependency]({{< ref "/resou
 
 - **Action**: Form cross-functional, preferably longer-lived teams with full accountability for discovery, delivery, and validation.
 - **How**: Restructure teams so they include the skills necessary to take work from idea to production: business analysis, UX, engineering, QA, and operations. Co-locate (physically or virtually) these disciplines inside a single team and ensure they share the same Sprint cadence, goals, and delivery responsibility. Use the Definition of Workflow to clarify interaction points and shared responsibilities within the team and eliminate those outside it. Audit each department and reassign specialists to teams where they can contribute continuously, not sporadically.
-- **Why**: You can’t ask for autonomy while forcing work through stage-gated departments. Real teams don't wait for someone else to finish—they swarm. They co-create. They ship. When you eliminate silos, you eliminate the excuses that justify command-and-control. What’s left is a team that owns its outcomes.
+- **Why**: You can’t ask for autonomy while forcing work through stage-gated departments. Real teams don't wait for someone else to finish, they swarm. They co-create. They ship. When you eliminate silos, you eliminate the excuses that justify command-and-control. What’s left is a team that owns its outcomes.
 
 Structure should follow flow, not function. Organise around value creation, not roles. That’s how you collapse the gap between intent and impact.
 
 ### 9. **Use Sprint Reviews for Stakeholder Alignment**
 
-[Sprint Reviews]({{< ref "/tags/sprint-review" >}}) aren’t demos. They’re not a PowerPoint parade or a status update. They are working sessions with stakeholders—strategic checkpoints to make decisions based on what we’ve learned.
+[Sprint Reviews]({{< ref "/tags/sprint-review" >}}) aren’t demos. They’re not a PowerPoint parade or a status update. They are working sessions with stakeholders, strategic checkpoints to make decisions based on what we’ve learned.
 
 - **Action**: Use Sprint Reviews to inspect the working increment, review delivery data (T2M, CV), gather market feedback, and adapt the Product Backlog collaboratively with stakeholders present.
-- **How**: Set the expectation that each Sprint Review includes real stakeholders, not just internal roles. Open with a restatement of the Product Goal and the Sprint Goal. Show working software, not slides. Invite feedback that informs priority and scope decisions. Use evidence—customer feedback, analytics, cycle time charts—to frame the discussion. End with a shared agreement on what’s next and update the Product Backlog live.
-- **Why**: Involving stakeholders early and often surfaces assumptions, shortens feedback loops, and reduces the need for managers to chase status. It shifts product delivery from projection to inspection. When everyone sees the same data and the same increment, there’s no room for spin. There’s just the truth—and the next step.
+- **How**: Set the expectation that each Sprint Review includes real stakeholders, not just internal roles. Open with a restatement of the Product Goal and the Sprint Goal. Show working software, not slides. Invite feedback that informs priority and scope decisions. Use evidence, customer feedback, analytics, cycle time charts, to frame the discussion. End with a shared agreement on what’s next and update the Product Backlog live.
+- **Why**: Involving stakeholders early and often surfaces assumptions, shortens feedback loops, and reduces the need for managers to chase status. It shifts product delivery from projection to inspection. When everyone sees the same data and the same increment, there’s no room for spin. There’s just the truth, and the next step.
 
 ### 10. **Teach Managers to Serve Systems, Not Direct People**
 
-Managers clinging to authority are a bottleneck. They inject delay, decision paralysis, and unnecessary oversight. If you're telling people what to do every day, you're not leading—you're throttling flow.
+Managers clinging to authority are a bottleneck. They inject delay, decision paralysis, and unnecessary oversight. If you're telling people what to do every day, you're not leading, you're throttling flow.
 
 - **Action**: Shift managers away from individual oversight and toward system stewardship. Equip them to visualise flow, reduce friction, and amplify team autonomy.
-- **How**: Train managers to read and act on delivery metrics—cycle time scatterplots, cumulative flow, WIP ageing. Introduce them to the constraints that enable team performance: WIP limits, service-level expectations, clear definitions of workflow. Encourage regular system health checks—where are delays? What blockers repeat? Where are policies implicit when they should be explicit? In retrospectives, ask managers not "who failed?" but "what failed in the system?"
+- **How**: Train managers to read and act on delivery metrics, cycle time scatterplots, cumulative flow, WIP ageing. Introduce them to the constraints that enable team performance: WIP limits, service-level expectations, clear definitions of workflow. Encourage regular system health checks, where are delays? What blockers repeat? Where are policies implicit when they should be explicit? In retrospectives, ask managers not "who failed?" but "what failed in the system?"
 - **Why**: You don’t scale impact by managing more people. You scale it by creating an environment where people don’t need to be managed. When managers see themselves as designers of flow rather than allocators of effort, the entire system becomes more resilient, more responsive, and more humane.
 
 This isn’t about [abdicating control]({{< ref "/resources/blog/2025/2025-06-30-human-and-ai-agency-in-adaptive-systems" >}}). It’s about relocating it into the system where it belongs.

@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking the Power of Assumptions in Product Development: Why the PPDV Course is a Game-Changer'
+title: "Unlocking the Power of Assumptions in Product Development: Why the PPDV Course is a Game-Changer"
 short_title: Unlocking the Power of Assumptions in Product Development
 description: Learn to identify, challenge, and validate assumptions in product development, avoid the “Feature Factory” trap, and build products that truly meet user needs.
 tldr: The PPDV course helps product teams avoid the common pitfall of building features without understanding real user needs by teaching them to identify and challenge assumptions throughout the product development process. It emphasizes a cycle of discovery, delivery, and validation, encouraging evidence-based decisions and continuous learning. Development managers should consider this course to shift their teams from a feature factory mindset to one focused on delivering real value.
@@ -52,8 +52,8 @@ duration: 355
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ## **Why the PPDV Course Was Created**
 
 In the fast-paced world of [product development]({{< ref "/categories/product-development" >}}), there’s a strong emphasis on delivery. Teams are often laser-focused on producing product increments at the end of every sprint. However, this approach, while essential, is not enough. **Why?** Because we’re not just delivering products; we’re solving complex problems.
@@ -90,7 +90,7 @@ So, what can we do to avoid falling into these traps? The key is to **navigate a
 
 ### **The Course Approach: Discovery, Delivery, and Validation**
 
-Our new course is designed to help teams embrace the full **end-to-end empirical cycle**—Discovery, Delivery, and Validation. These three elements work together to help us navigate around assumptions and build products that truly matter.
+Our new course is designed to help teams embrace the full **end-to-end empirical cycle**, Discovery, Delivery, and Validation. These three elements work together to help us navigate around assumptions and build products that truly matter.
 
 - **Discovery:** This is where we uncover what users really need. It’s about exploring different ideas, gathering insights, and challenging our initial assumptions.
 
@@ -124,6 +124,6 @@ In this one-day course (which can also be split into two half-days or smaller ch
 
 By focusing on these elements, teams will not only build better products but also develop a deeper understanding of the problems they are solving. This conscious learning process is the cornerstone of the PPDV course, making it an essential tool for any team looking to excel in product development.
 
-* * *
+---
 
 **Ready to move beyond delivery and start creating real value?** Join us in the PPDV course and transform the way you approach product development. Let’s navigate the complexities together, challenge our assumptions, and build products that truly make a difference. 🚀

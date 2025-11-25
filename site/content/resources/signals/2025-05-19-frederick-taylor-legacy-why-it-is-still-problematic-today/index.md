@@ -1,5 +1,5 @@
 ---
-title: 'Frederick Taylor Legacy: Why it-is Still Problematic Today'
+title: "Frederick Taylor Legacy: Why it-is Still Problematic Today"
 short_title: Frederick Taylor’s Impact on Modern Work
 description: Examines how Frederick Taylor’s management ideas still shape workplaces today, highlighting their impact on motivation, job design, and the challenges posed by AI.
 tldr: Many organizations still follow Frederick Taylor’s outdated approach of breaking work into repetitive tasks, leading to meaningless titles, ineffective bonuses, and siloed knowledge. With AI and automation revealing how much work is based on repetition, leaders must choose between maintaining the status quo or shifting to a culture focused on mastery, autonomy, and real outcomes. Development managers should reconsider current structures and incentives to ensure their teams are prepared for a future where genuine skills and collaboration matter most.
@@ -42,9 +42,9 @@ Watermarks:
   tldr: 2025-08-07T12:32:01Z
 ResourceId: a8GPqn01alD
 ResourceType: signals
-
 ---
-Frederick Taylor’s legacy is still alive—and it’s not a flattering one.
+
+Frederick Taylor’s legacy is still alive, and it’s not a flattering one.
 
 He told the world that most people couldn’t think for themselves, so we had to break work into tiny, repeatable pieces. That’s why we have titles that mean nothing, bonuses that bribe instead of inspire, and departments that hoard knowledge instead of sharing it.
 

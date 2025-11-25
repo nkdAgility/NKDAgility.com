@@ -22,7 +22,7 @@ sections:
       title: Strategic Decision-Making
       subtitle: From Opinion to Evidence, From Guesswork to Clarity
       content: |
-        Approving engineering investments without seeing ROI. Strategy lost in translation between boardroom and delivery. Decisions taking weeks—and still not sticking.
+        Approving engineering investments without seeing ROI. Strategy lost in translation between boardroom and delivery. Decisions taking weeks, and still not sticking.
 
         Industry research (DORA) shows elite software organisations make strategic decisions 106× faster than low performers, with 2,604× faster recovery when things go wrong. That gap represents competitive advantage measured in quarters, not years.
   - type: textNlist
@@ -30,7 +30,7 @@ sections:
     sideContent: |
       Strategic decision-making grounded in evidence rather than opinion. Uncertainty becomes clarity. Reactive leadership becomes proactive strategy.
 
-      The systems, metrics, and visibility needed to make confident decisions already exist in your organisation—often just not connected or visible enough to inform leadership effectively.
+      The systems, metrics, and visibility needed to make confident decisions already exist in your organisation, often just not connected or visible enough to inform leadership effectively.
     list:
       - icon: fa-chart-line
         content: |
@@ -101,17 +101,17 @@ sections:
       - title: Aligned Leadership
         icon: fa-handshake
         content: |
-          The executive team speaks the same language—connecting board strategy to engineering reality with metrics everyone trusts.
+          The executive team speaks the same language, connecting board strategy to engineering reality with metrics everyone trusts.
       - title: Strategic Agility
         icon: fa-arrows-rotate
         content: |
-          Adaptation without chaos. When strategy shifts, teams know what changes—and what stays the same.
+          Adaptation without chaos. When strategy shifts, teams know what changes, and what stays the same.
   - type: textNlist
     title: The Condition You Get
     sideContent: |
       Teams stop second-guessing leadership. Leadership stops flying blind. Decisions stick.
 
-      This isn't guaranteed results—it's the condition that emerges when decision-making rests on evidence rather than opinion, and when operating models connect strategy to execution reality.
+      This isn't guaranteed results, it's the condition that emerges when decision-making rests on evidence rather than opinion, and when operating models connect strategy to execution reality.
     list:
       - icon: fa-check-circle
         content: |
@@ -166,7 +166,7 @@ sections:
         title: Operational Confidence
         items:
           - title: Faster strategic decisions through flow metrics that inform rather than confuse
-          - title: Fewer escalations when delivery is predictable—problems solved at team level
+          - title: Fewer escalations when delivery is predictable, problems solved at team level
           - title: Stronger leadership credibility at every level through evidence, not hope
           - title: Recognition for customer-facing products, platforms, and shared services
       - box:
@@ -175,7 +175,7 @@ sections:
           - title: No enterprise overhead or restructuring required
           - title: Works for 10-person teams and 500-engineer organisations
           - title: Strategic clarity emerges from better information
-          - title: Connect strategic intent to delivery reality within 30 days—not quarters
+          - title: Connect strategic intent to delivery reality within 30 days, not quarters
   - title: What This Looks Like
     type: casestudy
     list:
@@ -208,9 +208,9 @@ sections:
     sideContent: |
       **Because strategy without execution is hallucination. And execution without strategy is chaos.**
 
-      **Our unique advantage:** We're not typical consultants. We're deeply technical engineers who understand both code and business strategy. Engineering leaders trust us because we've lived their challenges—from DevOps pipelines to board presentations.
+      **Our unique advantage:** We're not typical consultants. We're deeply technical engineers who understand both code and business strategy. Engineering leaders trust us because we've lived their challenges, from DevOps pipelines to board presentations.
 
-      **How we engage:** Timeboxed retainer (not hourly). Satisfaction guaranteed—if we don't deliver value, we refund you. No risk, no change orders, just outcomes.
+      **How we engage:** Timeboxed retainer (not hourly). Satisfaction guaranteed, if we don't deliver value, we refund you. No risk, no change orders, just outcomes.
 
       Led by Microsoft MVP Martin Hinshelwood with 20+ years bridging technical excellence and strategic leadership.
   - type: sectioncta
