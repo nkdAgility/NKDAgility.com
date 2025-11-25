@@ -112,6 +112,4 @@ menus:
     parent: Consulting Services
 ResourceId: p7M4Bv_h_Pa
 ResourceType: capabilities
-
 ---
-

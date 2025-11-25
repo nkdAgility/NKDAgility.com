@@ -58,21 +58,21 @@ sections:
   - type: boxesrow
     title: Migration Service Components
     boxes:
-      - box: 
+      - box:
         title: Pre-Migration
         items:
           - title: Current-state assessment and risk analysis
           - title: Architecture design for Azure DevOps
           - title: Migration strategy and timeline planning
           - title: Downtime minimisation planning
-      - box: 
+      - box:
         title: Migration Execution
         items:
           - title: TFVC to Git transformation with complete history
           - title: Work item and pipeline migration
           - title: Classic to YAML pipeline conversion
           - title: Security and compliance configuration
-      - box: 
+      - box:
         title: Post-Migration
         items:
           - title: Pipeline optimisation and automation
@@ -86,34 +86,34 @@ sections:
     counters:
       - counter: "2"
         counterAfter: B+
-        content: '**Work Item Revisions Migrated**'
+        content: "**Work Item Revisions Migrated**"
       - counter: "2.5"
         counterAfter: TB
-        content: '**Largest Collection Migrated**'
+        content: "**Largest Collection Migrated**"
       - counter: "500"
         counterAfter: +
-        content: '**Successful Migrations Completed**'
+        content: "**Successful Migrations Completed**"
       - counter: "17"
         counterAfter: yrs
-        content: '**Microsoft MVP Experience**'
+        content: "**Microsoft MVP Experience**"
   - type: list
     listType: list
     title: Built for CTOs Who Want Strategic Advantage
-    content: 'This service isn’t just about migration—it’s about enabling you to:'
+    content: "This service isn’t just about migration—it’s about enabling you to:"
     list:
-      - title: 'Do your real job:'
+      - title: "Do your real job:"
         icon: fa-brain
         content: |
           Craft a compelling roadmap. Build strategic partnerships. Lead innovation.
 
           We’ll handle the infrastructure shift so you can focus on impact.
-      - title: 'Deliver business outcomes:'
+      - title: "Deliver business outcomes:"
         icon: fa-chart-line
         content: |
           Our migrations don’t disrupt delivery. They increase it.
 
           We build CI/CD pipelines that shorten cycle times and improve reliability.
-      - title: 'Build technical leadership from within:'
+      - title: "Build technical leadership from within:"
         icon: fa-rocket
         content: |
           Stop outsourcing transformation.
@@ -226,6 +226,4 @@ menus:
 icon: fa-cloud-arrow-up
 ResourceId: 9VervIsddUa
 ResourceType: capabilities
-
 ---
-

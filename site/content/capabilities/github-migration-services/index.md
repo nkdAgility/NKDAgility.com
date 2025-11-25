@@ -119,6 +119,4 @@ menus:
 icon: fa-cloud-arrow-up
 ResourceId: 6NS_E7j1pRu
 ResourceType: capabilities
-
 ---
-
