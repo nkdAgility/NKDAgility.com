@@ -1,8 +1,8 @@
 ---
 title: Cross functional alignment
 short_title: Cross Functional Alignment
-description: How teams from different functions work together to achieve shared goals, improve collaboration, and drive better business outcomes.
-tldr: Cross functional alignment helps teams work better together by clarifying shared goals and responsibilities. It reduces misunderstandings, speeds up decision making, and improves project outcomes. Development managers should regularly facilitate communication between teams to maintain alignment and keep projects on track.
+description: When departments speak the same language, your decisions can improve, forecasts gain credibility, and strategy can translate into execution with less distortion.
+tldr: Cross-functional alignment means shared understanding across departments. Trade-offs become visible. Adaptation becomes smoother. Stakeholder confidence can grow. Economic visibility can become more routine. Commitments gain credibility. Strategic clarity can reach execution.
 date: 2025-06-04
 weight: 500
 sitemap:
@@ -20,26 +20,23 @@ sections:
   - type: headline
     headline:
       title: Cross-Functional Alignment
-      subtitle: Aligning Strategy, Discovery, Delivery, and Operations.
+      subtitle: When strategy, delivery, and operations speak the same language
       content: |
-        You don’t have a tech problem. You have a _coordination_ problem. Product ships what sales promised. Engineering scrambles to deliver. Leadership wonders why timelines are slipping.
-  - content: |
-      **NKD Agility creates operating models that align strategy, discovery, delivery, and operations—turning fractured priorities and siloed teams into one unified system of work.** When teams move faster with greater clarity and accountability, you unlock measurable business outcomes.
-    type: content
+        Your organisation moves faster when departments understand each other. You make better decisions when everyone sees the same picture. You reduce risk when commitments are realistic and visible across functions.
   - type: outcomehero
     cta:
-      content: Time to Unite Your Org? **Let’s change the way your organization delivers—together.**
+      content: Ready to align your organisation?
       button:
-        text: Get Started
+        text: Book a call
         url: /company/book-online
     boxes:
       - content: |
-          Still battling internal turf wars?
+          Tired of discovering conflicts too late?
       - content: |
-          Still seeing product, tech, and business pull in opposite directions?
+          Want clearer visibility across departments?
       - content: |
-          Still struggling to deliver cohesive customer value?
-  - title: Pains We Help You Eliminate
+          Need confidence that your teams are aligned?
+  - title: What changes
     type: list
     list:
       - title: Miscommunication Between Teams
@@ -67,98 +64,98 @@ sections:
     quote: |
       "After a thorough evaluation ... we selected Martin because I felt he brings a perspective that’s very close to what I call the maker engineer - those who are deep in the code and often considered troublemakers in traditional structures. He brings a pragmatic point of view that really connects with the people building the product."
       - **CJ Singh | Healthgrades | CEO**
-  - title: Gains You Unlock With NKD Agility
+  - title: What improves for you
+    type: features
+    features:
+      - title: Trade-offs become visible
+        icon: fa-balance-scale
+        content: |
+          Cost and risk surface before decisions are made. You can weigh options with real information, not assumptions.
+      - title: Adaptation becomes smoother
+        icon: fa-forward
+        content: |
+          Changes in priority or market conditions can flow through the organisation more cleanly. Teams adjust with less confusion and delay.
+      - title: Stakeholder confidence grows
+        icon: fa-shield-check
+        content: |
+          Consistent communication and more predictable delivery can restore trust. Your board and investors begin to see coherence.
+  - type: symmetry
+    title: What becomes possible
+    leftContent: |
+      ### Operational confidence
+
+      Forecasts gain credibility as teams understand constraints and dependencies. Surprises decrease. Delivery becomes more predictable without micromanagement.
+
+      ### Strategic agility
+
+      Your organisation can respond to change with less chaos. New priorities flow through aligned functions more smoothly. You can innovate without destabilising delivery.
+    rightContent: |
+      ### Economic transparency
+
+      You can see where money is spent, where value is created, and where bottlenecks constrain throughput. Investment decisions become more data-informed, less political.
+
+      ### Reduced organisational risk
+
+      As functions align, dependencies become visible earlier. You can avoid more late-stage conflicts, wasted effort, and expensive rework.
+  - title: What this enables
     type: list
-    listType: boxed
     list:
-      - title: Common Language, Shared Understanding
-        icon: fa-comments
+      - title: Credible forecasting
+        icon: fa-calendar-check
         content: |
-          Agile product management + DevOps fluency = clear, connected conversations.
-      - title: Aligned Planning & Prioritization
-        icon: fa-bullseye
+          When functions align, your forecasts gain credibility. Commitments become realistic because they reflect shared understanding.
+      - title: Faster cycle time
+        icon: fa-gauge-high
         content: |
-          From quarterly planning to daily execution—everyone rows in the same direction.
-      - title: Increased Delivery Efficiency
-        icon: fa-bolt
+          Cross-functional synchronisation reduces handoff delays. Work flows more smoothly through the organisation.
+      - title: Strategic coherence
+        icon: fa-sitemap
         content: |
-          Cross-functional value streams replace handoffs and turf wars.
-      - title: Collaborative Problem-Solving Culture
-        icon: fa-lightbulb
-        content: |
-          Ideas flow freely. Solutions are co-created. Bottlenecks get unblocked fast.
-  - title: End-to-End Visibility Across the Org
-    type: content
-    content: |
-      From C-suite to teams, everyone sees how strategy turns into value.
-  - type: outcomeboxes
-    title: We can help you with
-    boxes:
-      - box: 
-        items:
-          - title: Break down silos between departments
-          - title: Align strategy with execution
-          - title: Improve communication between business, tech, and product
-          - title: Eliminate duplication of work and resource clashes
-          - title: Create a shared understanding of goals, metrics, and priorities
-      - box: 
-        items:
-          - title: Reduce frustration caused by misalignment
-          - title: Feel confident in what your teams are building
-          - title: Move from firefighting to forward planning
-          - title: Regain clarity and focus across teams
-          - title: Feel pride in leading a truly aligned org
-      - box: 
-        items:
-          - title: Be the catalyst that unifies your org around delivery
-          - title: Build a culture of shared ownership and trust
-          - title: Lead seamless planning conversations across functions
-          - title: Build stakeholder trust through organizational coherence
-          - title: Represent your function as a model for high-performing teamwork
-  - title: Results That Matter
-    type: casestudy
-    list:
-      - icon: fa-shield-check
-        content: |
-          Up to 40% faster cycle time due to cross-functional synchronization
-      - icon: fa-shield-check
-        content: |
-          Increased stakeholder satisfaction dramatically in just 90 days
-      - icon: fa-shield-check
-        content: |
-          Quarterly OKRs aligned across departments for the first time ever
-    cta:
-      content: Want to see it in action?
-      button:
-        text: Case Studies
-        url: /resources/case-studies
-  - title: Why NKDAgility?
-    type: textNlist
-    list:
-      - icon: fa-award
-        content: |
-          Product, tech, and business alignment by design
-      - icon: fa-award
-        content: |
-          Value stream thinking embedded in delivery
-      - icon: fa-award
-        content: |
-          Team-level practices backed by enterprise-wide clarity
-    sideContent: |
-      **Because high-functioning organizations don’t just have good teams—they have aligned ones.** We coach, facilitate, and enable collaboration where it matters most: between functions, not just within them. 
-      With NKD Agility, the “us vs them” dies—and “we deliver together” begins.
+          Objectives align across departments. Everyone understands how their work contributes to organisational goals.
+  - title: How we work
+    type: symmetry
+    leftContent: |
+      ### Timeboxed engagements
+
+      We work in fixed timeframes—weekly, monthly, or quarterly. No hourly billing. No scope creep. No change orders. You know the investment upfront. We adapt within the timebox based on what emerges.
+
+      ### Risk reversal
+
+      Full refund if standards aren't met. First-day cancellation for longer engagements—only expenses due. We carry the risk so you can engage with confidence.
+    rightContent: |
+      ### Collaborative discovery
+
+      We don't fix deliverables upfront. We co-create outcomes within the retainer. Alignment work depends on what we discover together—dependencies, constraints, and opportunities you may not see yet.
+
+      ### Engineering economics lens
+
+      We help you see the cost of misalignment—rework, delays, conflicts—against the cost of creating shared visibility. Investment decisions become clearer when the economics are visible.
+  - type: trustpilot
+  - title: Related training
+    type: courses
+    related:
+      - /capabilities/training-courses/scrumorg-professional-scrum-master-and-product-owner
+      - /capabilities/training-courses/scrumorg-professional-scrum-product-owner
+      - /capabilities/training-courses/scrumorg-professional-scrum-master
+  - title: Related outcomes and capabilities
+    type: otherpages
+    source:
+      - /outcomes/delivery-predictability
+      - /outcomes/strategic-clarity
+      - /capabilities/agile-coaching
+      - /capabilities/operating-model-design
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: One Vision. One Team. One Flow.
+      content: Ready to explore what alignment could enable?
       button:
-        text: Schedule a call
+        text: Book a call
         url: /company/book-online
 card:
   button:
-    content: Align Your Teams
+    content: Explore Alignment
   title: Cross Functional Alignment
-  content: Break down silos and unite departments around shared goals to deliver cohesive customer value and drive organizational success.
+  content: When departments speak the same language, your decisions can improve, forecasts gain credibility, and strategy can translate into execution with less distortion.
 Watermarks:
   description: 2025-10-31T14:01:06Z
   tldr: 2025-10-31T14:01:08Z
@@ -167,6 +164,4 @@ creator: Martin Hinshelwood
 icon: fa-project-diagram
 ResourceId: btO46GSjdqv
 ResourceType: outcomes
-
 ---
-
