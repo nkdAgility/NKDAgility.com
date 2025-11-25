@@ -137,13 +137,6 @@ sections:
       - /capabilities/training-courses/scrumorg-professional-scrum-master-and-product-owner
       - /capabilities/training-courses/scrumorg-professional-scrum-product-owner
       - /capabilities/training-courses/scrumorg-professional-scrum-master
-  - title: Related outcomes and capabilities
-    type: otherpages
-    related:
-      - /outcomes/delivery-predictability
-      - /outcomes/strategic-clarity
-      - /capabilities/agile-coaching
-      - /capabilities/operating-model-design
   - type: sectioncta
     backgroundColor: primary
     cta:

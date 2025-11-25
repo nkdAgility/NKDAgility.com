@@ -38,8 +38,8 @@ sections:
     content: |
       Martin Hinshelwood is a leading expert in Agile and DevOps, renowned for his ability to drive successful transformations in organizations of all sizes. With a wealth of experience in coaching, training, and consulting, Martin empowers teams to adopt modern software development practices, optimize processes, and achieve continuous improvement. His comprehensive approach integrates Agile methodologies, Scrum mastery, DevOps automation, certified training, change management, and Lean principles, making him a pivotal figure in advancing software delivery excellence.
     type: none
-  - title: 
-    content: 
+  - title:
+    content:
     type: videos
     related:
       - resources/videos/youtube/4kqM1U7y1ZM
@@ -55,7 +55,7 @@ sections:
       Specialists: DevOps, Lean and Agile Methodology, Organizational Transformation
     type: none
   - title: Courses that Martin Teaches
-    content: 
+    content:
     type: otherpages
     related:
       - /capabilities/training-courses/accentiant-practicing-kanban-using-azure-boards
@@ -106,6 +106,4 @@ ItemId: 1YewPlXmwpi
 ResourceId: 1YewPlXmwpi
 ResourceType: people
 ItemContentOrigin: human
-
 ---
-
