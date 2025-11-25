@@ -139,7 +139,7 @@ sections:
       - /capabilities/training-courses/scrumorg-professional-scrum-master
   - title: Related outcomes and capabilities
     type: otherpages
-    source:
+    related:
       - /outcomes/delivery-predictability
       - /outcomes/strategic-clarity
       - /capabilities/agile-coaching
