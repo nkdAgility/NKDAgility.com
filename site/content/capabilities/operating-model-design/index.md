@@ -75,19 +75,19 @@ sections:
   - type: boxesrow
     title: Service Components
     boxes:
-      - box: 
+      - box:
         title: Assessment & Design
         items:
           - title: Current-state operating model assessment
           - title: Evidence-based decision-making framework design
           - title: Operating model architecture tailored to your context
-      - box: 
+      - box:
         title: Integration & Mapping
         items:
           - title: Practice integration (Scrum, Kanban, DevOps) mapped to operating model needs
           - title: Flow design connecting discovery, delivery, and operations
           - title: Governance and feedback loop architecture
-      - box: 
+      - box:
         title: Enablement & Evolution
         items:
           - title: Leadership and team coaching on the operating model
@@ -136,7 +136,7 @@ sections:
   - type: symmetry
     title: From Fragmentation to Flow
     boxes:
-      - box: 
+      - box:
         title: Before
         items:
           - title: Strategy disconnected from delivery
@@ -147,7 +147,7 @@ sections:
             icon: fa-face-tired
           - title: Technology as a bottleneck
             icon: fa-face-anxious
-      - box: 
+      - box:
         title: After
         items:
           - title: Clear line of sight from strategy to execution
@@ -201,10 +201,4 @@ menus:
 icon: fa-diagram-project
 ResourceType: capabilities
 ResourceId: nwui0FU-QVV
-
 ---
-Organizations struggle not because they lack frameworks, but because they lack coherent operating models that connect strategy to execution.
-
-We help you design operating models where Scrum, Kanban, and DevOps work together as complementary practices—creating systems of work that deliver measurable business outcomes.
-
-Our approach combines deep technical expertise with organizational design, ensuring your operating model is grounded in solid engineering principles and evidence-based decision-making.

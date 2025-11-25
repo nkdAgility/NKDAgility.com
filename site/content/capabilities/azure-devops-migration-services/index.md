@@ -24,52 +24,61 @@ type: capabilities
 sections:
   - type: headline
     headline:
-      title: Azure DevOps Migration
-      subtitle: Seamless Migration. Engineering Excellence. Strategic Impact.
+      title: Azure DevOps Migration Services
+      subtitle: Migration Consulting for Azure DevOps Infrastructure
       content: |
-        You’ve got legacy systems, scattered pipelines, and a mandate to modernise.
+        Migration consulting services for organisations moving from legacy TFS, TFVC, or on-premise Azure DevOps Server to Azure DevOps Services.
 
-        We help you migrate to Azure DevOps—seamlessly, securely, and strategically—so you can lead with confidence, scale with speed, and finally deliver the outcomes your business expects.
+        Services include migration assessment, architecture design, data transfer execution, pipeline redesign, and team enablement. Complete history preservation with minimal downtime.
   - type: outcomehero
     cta:
       content: Modernise your delivery system. Enable your engineers. Lead with confidence. **Let's Talk.**
       button:
         text: Book a Strategy Call
         url: /company/book-online
-  - type: none
-    title: Why Most DevOps Migrations Fail
-    content: |
-      Most DevOps migrations stall because vendors focus on tools—not transformation.
+  - type: textNlist
+    title: Migration Service Scope
+    sideContent: |
+      Migration services covering TFS 2010-2018, TFVC repositories, Classic Build/Release pipelines, and Azure DevOps Server instances.
 
-      Leaders are left with:
-
-      - Half-baked pipelines they don’t own
-      - Vendor lock-in that drains budgets
-      - Teams untrained in the new toolchain
-      - Technical debt repackaged in a shinier wrapper
-
-      **We do it differently.**
-
-      We elevate your engineering culture while building scalable, secure, maintainable pipelines your team actually understands and owns.
+      Service deliverables include assessment reports, migration architecture design, automated migration execution, pipeline redesign, and team training materials.
+    list:
+      - icon: fa-diagram-project
+        content: |
+          **Migration assessment** – Current-state analysis, risk identification, and future-state architecture design
+      - icon: fa-code-branch
+        content: |
+          **Data migration** – Complete code history, work item revisions, attachments, and pipeline definitions
+      - icon: fa-shield-halved
+        content: |
+          **Security configuration** – DevSecOps practices and compliance framework setup
+      - icon: fa-graduation-cap
+        content: |
+          **Team training** – Migration process training and post-migration workflow coaching
   - type: boxesrow
-    title: What DevOps Migration Solves
+    title: Migration Service Components
     boxes:
       - box: 
-        title: Core Problems
+        title: Pre-Migration
         items:
-          - title: Legacy Systems Holding You Back
-          - title: Fear of Vendor Lock-In
-          - title: Skill Gaps in Your Teams
-          - title: Security & Compliance Concerns
-          - title: Resistance to Change
+          - title: Current-state assessment and risk analysis
+          - title: Architecture design for Azure DevOps
+          - title: Migration strategy and timeline planning
+          - title: Downtime minimisation planning
       - box: 
-        title: Our Solutions
+        title: Migration Execution
         items:
-          - title: We specialize in migrating from TFVC, Classic Pipelines, and outdated ADO Server instances. No headaches. Minimal downtime.
-          - title: Our architecture is agnostic and future-proof. We help you retain flexibility and control.
-          - title: We train your engineers as we go, no black boxes, just real capability uplift.
-          - title: Security, first DevOps pipelines with built-in governance and compliance.
-          - title: Change isn’t forced. It’s coached. We help you lead transformation with empathy and technical credibility.
+          - title: TFVC to Git transformation with complete history
+          - title: Work item and pipeline migration
+          - title: Classic to YAML pipeline conversion
+          - title: Security and compliance configuration
+      - box: 
+        title: Post-Migration
+        items:
+          - title: Pipeline optimisation and automation
+          - title: Team training and documentation
+          - title: Post-migration audit and validation
+          - title: Ongoing support and refinement
   - title: Migration Excellence by the Numbers
     backgroundColor: light-accent-alt
     content: Proven results from hundreds of successful Azure DevOps migrations worldwide
@@ -110,31 +119,28 @@ sections:
           Stop outsourcing transformation.
 
           Start leading it, with coaching and capability uplift tailored to your org.
-  - type: symmetry
-    title: From Overwhelm to Control
-    boxes:
-      - box: 
-        title: Before
-        items:
-          - title: Overwhelmed by legacy tech, resistance, and delivery delays
-            icon: fa-face-persevering
-          - title: Frustrated by technical debt and reactive firefighting
-            icon: fa-face-frown
-          - title: Tired of vendor dependence and team skill gaps
-            icon: fa-face-tired
-          - title: Anxious about security and compliance
-            icon: fa-face-anxious
-      - box: 
-        title: After
-        items:
-          - title: Confident in a modern, streamlined, scalable DevOps environment
-            icon: fa-square-check
-          - title: In control of engineering strategy, roadmap, and delivery
-            icon: fa-timeline
-          - title: Empowered with internal capability and resilient architecture
-            icon: fa-users-gear
-          - title: Reassured by proactive, embedded governance and security-first DevOps
-            icon: fa-shield-halved
+  - type: list
+    title: Migration Scope
+    listType: list
+    content: |
+      Services cover the full migration lifecycle from legacy TFS/TFVC to modern Azure DevOps with Git and YAML pipelines.
+    list:
+      - title: Source Systems Supported
+        icon: fa-server
+        content: |
+          TFS 2010-2018, Azure DevOps Server, TFVC, Classic Build/Release pipelines, and on-premise installations.
+      - title: Target Configuration
+        icon: fa-cloud
+        content: |
+          Azure DevOps Services with Git repositories, YAML pipelines, modern work item tracking, and integrated security.
+      - title: Data Preserved
+        icon: fa-database
+        content: |
+          Complete source history, work item revisions, attachments, links, and pipeline definitions.
+      - title: Service Delivery Model
+        icon: fa-handshake
+        content: |
+          Timeboxed retainer engagement with risk reversal. No hourly billing, no fixed scope, just capacity retained for migration delivery.
   - type: list
     listType: list
     title: DevOps Migration Services Include

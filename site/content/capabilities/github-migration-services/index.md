@@ -19,12 +19,12 @@ type: capabilities
 sections:
   - type: headline
     headline:
-      title: Azure DevOps (TFS) to Github Migration
-      subtitle: Unlock Modern Software Delivery. Ditch Legacy TFS. Move with Confidence.
+      title: GitHub Migration Services
+      subtitle: Migration from Azure DevOps and TFS to GitHub
       content: |
-        Your teams are still shipping from Team Foundation Server. You know it’s slowing you down. But the migration to GitHub feels risky, code history, permissions, workflows, integrations… it’s a lot.
+        Teams shipping from Team Foundation Server or Azure DevOps Server. Migration to GitHub requires careful handling of code history, permissions, workflows, and integrations.
 
-        **That’s where NKD Agility comes in.** We help engineering organizations migrate from TFS (or Azure DevOps Server) to GitHub with **clarity, control, and zero guesswork**, so you can future-proof your development pipeline without disrupting delivery.
+        We provide migration services from TFS and Azure DevOps Server to GitHub—covering repository migration, Actions configuration, security setup, and team onboarding.
   - type: outcomehero
     cta:
       content: Unlock Modern Software Delivery. Ditch Legacy Source Control. Move with Confidence. **Let's Talk.**
@@ -79,14 +79,22 @@ sections:
       - Carrying legacy friction and manual work
       - Struggling to onboard new developers
       - At risk of security gaps and operational blind spots
-  - type: none
-    title: The Outcome
-    content: |
-      After working with NKD Agility, you’ll have:
-      - Fully migrated, high-integrity GitHub repositories
-      - GitHub-native CI/CD pipelines up and running
-      - Developers empowered to move fast, commit safely, and collaborate effectively
-      - A confident, modern DevOps culture aligned with your engineering strategy
+  - type: textNlist
+    title: Service Delivery
+    sideContent: |
+      Migration services delivered through timeboxed retainer engagement. No hourly billing, no fixed deliverables, no change orders—capacity retained for migration completion.
+
+      Full risk reversal: satisfaction guaranteed with refund if service doesn't meet expectations.
+    list:
+      - icon: fa-calendar-check
+        content: |
+          **Flexible timeline** – Migration paced to minimise disruption while maintaining delivery momentum
+      - icon: fa-shield-check
+        content: |
+          **Risk management** – Validation at every stage, rollback planning, and downtime minimisation
+      - icon: fa-users-gear
+        content: |
+          **Team involvement** – Engineers participate throughout, building capability rather than dependency
   - type: outcomehero
     backgroundColor: primary
     cta:

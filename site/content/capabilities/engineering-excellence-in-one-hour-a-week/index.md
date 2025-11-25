@@ -20,55 +20,55 @@ type: capabilities
 sections:
   - type: headline
     headline:
-      title: "\U0001F680 1 Hour a Week to Engineering Excellence"
-      subtitle: Engineering Excellence. DevOps Mastery. Agile Evolution.
+      title: "Engineering Excellence in One Hour a Week"
+      subtitle: Weekly Engineering Coaching Services
       content: |
-        Your software development team doesn’t need another two-day workshop that gets forgotten by Monday morning.
+        Consulting service providing weekly engineering coaching focused on technical practices, bottleneck removal, and capability building.
 
-        What they need is a partner in the trenches who understands engineering, DevOps, and team dynamics, and who helps them eliminate bad practices, remove bottlenecks, and build momentum.
+        One hour per week of focused technical guidance addressing engineering practices, workflow improvements, and quality systems. Minimal disruption, sustained impact through consistent weekly engagement.
   - type: textNlist
-    title: What Your Team Gets
+    title: Services Provided
     sideContent: |
-      Imagine having direct access to Martin for just 1 hour a week.
+      Weekly engineering coaching delivered through one-hour focused sessions. Services address technical debt, engineering practices, workflow bottlenecks, and team capability.
 
-      This is minimal disruption with maximum impact: the butterfly effect of technical leadership.
+      Delivered through timeboxed retainer engagement with full risk reversal. No hourly billing, no fixed deliverables, just capacity retained for ongoing engineering guidance.
     list:
       - icon: fa-search
         content: |
-          **Diagnosis that matters** – Pinpointing the blockers, tech debt, and poor practices holding your team back.
+          **Problem diagnosis** – Identifying technical debt, bottlenecks, and practice gaps holding the team back.
       - icon: fa-route
         content: |
-          **Step‑by‑step guidance** – From mapping workflows and value streams to embedding CI/CD, DevOps practices, and engineering discipline.
+          **Engineering guidance** – CI/CD implementation, DevOps practices, workflow mapping, and engineering discipline.
       - icon: fa-sync-alt
         content: |
-          **Continuous improvement in motion** – Small, intentional changes every week that compound into major performance gains.
+          **Continuous improvement** – Small, intentional changes each week that compound into significant performance gains.
       - icon: fa-chalkboard-teacher
         content: |
-          **Coaching & mentoring that sticks** – Not theory, but practical solutions tailored to your environment, your team, your tools.
+          **Practical coaching** – Solutions tailored to your environment, team, and toolchain.
   - type: list
-    title: What CTOs and Engineering Leaders Want
+    title: Areas of Focus
     listType: boxed
     list:
       - title: Predictable Delivery
         icon: fa-calendar-check
         content: |
-          Deliver predictably without firefighting.
-      - title: Built‑in Quality
+          Engineering systems and practices supporting predictable delivery.
+      - title: Built-in Quality
         icon: fa-check-circle
         content: |
-          Build quality in from the start.
+          Quality systems embedded throughout the engineering process.
       - title: Scalable DevOps
         icon: fa-cubes
         content: |
-          Embrace DevOps practices that scale.
-      - title: Modernize Engineering
+          DevOps practices that scale with team and product growth.
+      - title: Technical Modernisation
         icon: fa-forward
         content: |
-          Shift from legacy technical debt to modern engineering excellence.
+          Strategies for addressing legacy technical debt and modernising engineering practices.
       - title: Continuous Improvement
         icon: fa-sync
         content: |
-          Continuously improve without losing momentum.
+          Improvement systems that maintain momentum without disrupting delivery.
   - type: cards
     title: Why Partner with Martin
     cards:

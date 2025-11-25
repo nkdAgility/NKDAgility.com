@@ -232,6 +232,4 @@ creator: Martin Hinshelwood
 icon: fa-lightbulb
 ResourceType: outcomes
 ResourceId: 1Pbl4bi_RU1
-
 ---
-
