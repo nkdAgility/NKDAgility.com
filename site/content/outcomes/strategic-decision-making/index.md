@@ -20,79 +20,108 @@ sections:
   - type: headline
     headline:
       title: Strategic Decision-Making
-      subtitle: From Opinion-Based to Evidence-Based Leadership
+      subtitle: From Opinion to Evidence, From Guesswork to Clarity
       content: |
-        You're approving engineering investments without seeing the ROI. Strategy gets lost in translation between the boardroom and delivery teams. Decisions take weeks—and still don't stick.
+        Approving engineering investments without seeing ROI. Strategy lost in translation between boardroom and delivery. Decisions taking weeks—and still not sticking.
 
-        **The cost?** Elite software organizations (per DORA research) make strategic decisions 106x faster than low performers, with 2,604x faster recovery when things go wrong.
-  - content: |
-      **NKD Agility enables strategic decision-making grounded in evidence, not opinion.** We help leaders build the systems, metrics, and operating models that turn uncertainty into clarity and reactive leadership into proactive strategy.
-    type: content
+        Industry research (DORA) shows elite software organisations make strategic decisions 106× faster than low performers, with 2,604× faster recovery when things go wrong. That gap represents competitive advantage measured in quarters, not years.
+  - type: textNlist
+    title: What Changes
+    sideContent: |
+      Strategic decision-making grounded in evidence rather than opinion. Uncertainty becomes clarity. Reactive leadership becomes proactive strategy.
+
+      The systems, metrics, and visibility needed to make confident decisions already exist in your organisation—often just not connected or visible enough to inform leadership effectively.
+    list:
+      - icon: fa-chart-line
+        content: |
+          **Evidence replaces guesswork** – Decisions based on flow metrics, delivery data, and economic visibility
+      - icon: fa-bolt
+        content: |
+          **Speed increases** – Decision cycles shorten when information is clear and trusted
+      - icon: fa-handshake
+        content: |
+          **Alignment emerges** – Leadership speaks the same language, reducing debate and rework
+      - icon: fa-arrows-rotate
+        content: |
+          **Adaptation becomes natural** – Strategy shifts are executed cleanly when operating models support change
   - type: outcomehero
     cta:
-      content: Ready to Make Decisions with Confidence? **Let's elevate your strategic clarity.**
+      content: Decisions with confidence. Strategy with clarity. **Let's talk.**
       button:
         text: Book a Strategy Session
         url: /company/book-online
     boxes:
       - content: |
-          Tired of making decisions without real data?
+          Making decisions without real data
       - content: |
-          Struggling to align leadership on the right direction?
+          Leadership misaligned on direction
       - content: |
-          Finding that good intentions don't translate to execution?
-  - title: Decision-Making Pain Points We Eliminate
-    type: list
+          Intentions not translating to execution
+  - type: list
+    title: The Shift in Decision-Making
+    listType: boxed
     list:
-      - title: Opinion-Based Decision-Making
+      - title: From Opinion to Evidence
         icon: fa-comments
         content: |
-          We replace "I think" with "we know" through evidence-based management and clear metrics.
-      - title: Disconnected Strategy and Execution
+          "I think" becomes "we know" when decisions rest on clear metrics and flow data rather than gut feeling.
+      - title: From Disconnection to Flow
         icon: fa-arrows-split-up-and-left
         content: |
-          We align operating models so strategy flows into delivery with clarity and accountability.
-      - title: Unclear Success Metrics
+          Strategy flows into delivery with clarity when operating models connect strategic intent to execution reality.
+      - title: From Confusion to Insight
         icon: fa-gauge
         content: |
-          We establish meaningful flow metrics that inform decisions rather than confuse them.
-      - title: Slow, Reactive Leadership
+          Success becomes visible when flow metrics inform rather than confuse, and economic visibility shows what drives value.
+      - title: From Reactive to Proactive
         icon: fa-hourglass-end
         content: |
-          We create feedback loops that enable proactive decisions before problems escalate.
-      - title: Lack of Cross-Functional Visibility
+          Leadership acts before problems escalate when feedback loops provide early signals.
+      - title: From Silos to Visibility
         icon: fa-eye-slash
         content: |
-          We break down silos so leaders see the full picture across strategy, discovery, delivery, and operations.
+          The full picture across strategy, discovery, delivery, and operations becomes visible to leadership.
   - type: quote
     backgroundColor: primary
     quote: |
       "Martin's depth and breadth of knowledge and experience of the world of Agile/DevOps is incredible. He will switch between hands on development to advanced consulting or training on process, practices and tools to help you in your own DevOps journey. When the going gets tough in challenging situations he is super responsive and goes the extra mile... He is passionate about what he does and is always trying to improve the way we work to build high value products and solutions... Down to earth and straight talking. Highly recommend!"
       - **Nancy Maher | Global Software Lifecycle Management Program Manager | SLB**
-  - title: What Strategic Decision-Making Unlocks
+  - title: What Becomes Possible
     type: list
     listType: boxed
     list:
       - title: Evidence-Based Confidence
         icon: fa-chart-line
         content: |
-          **You'll know** which initiatives drive revenue and which drain resources—within 30 days. Stop debating, start measuring.
+          Which initiatives drive revenue and which drain resources becomes visible. Debating gives way to measuring.
       - title: Faster Decision Cycles
         icon: fa-bolt
         content: |
-          **DORA research shows** elite performers make decisions 106x faster. We help you close that gap through aligned operating models.
+          DORA research shows elite performers make decisions 106× faster. That gap closes when operating models and metrics align.
       - title: Aligned Leadership
         icon: fa-handshake
         content: |
-          **Your exec team will finally speak the same language**—connecting board strategy to engineering reality with metrics everyone trusts.
+          The executive team speaks the same language—connecting board strategy to engineering reality with metrics everyone trusts.
       - title: Strategic Agility
         icon: fa-arrows-rotate
         content: |
-          **Adapt without chaos.** When strategy shifts, your teams know exactly what changes—and what doesn't.
-  - title: Clear, Trusted Direction
-    type: content
-    content: |
+          Adaptation without chaos. When strategy shifts, teams know what changes—and what stays the same.
+  - type: textNlist
+    title: The Condition You Get
+    sideContent: |
       Teams stop second-guessing leadership. Leadership stops flying blind. Decisions stick.
+
+      This isn't guaranteed results—it's the condition that emerges when decision-making rests on evidence rather than opinion, and when operating models connect strategy to execution reality.
+    list:
+      - icon: fa-check-circle
+        content: |
+          **Clarity on direction** – Strategic priorities are visible and understood across levels
+      - icon: fa-check-circle
+        content: |
+          **Confidence in decisions** – Leaders trust the data informing their choices
+      - icon: fa-check-circle
+        content: |
+          **Speed in execution** – Decision cycles shorten, enabling faster response to market changes
   - type: outcomeboxes
     title: Strategic decision-making enables
     boxes:
@@ -147,18 +176,18 @@ sections:
           - title: Works for 10-person teams and 500-engineer organisations
           - title: Strategic clarity emerges from better information
           - title: Connect strategic intent to delivery reality within 30 days—not quarters
-  - title: What Strategic Clarity Looks Like
+  - title: What This Looks Like
     type: casestudy
     list:
       - icon: fa-shield-check
         content: |
-          Leadership teams reported greater confidence in strategic direction after establishing evidence-based management practices and clear flow metrics.
+          Leadership teams have reported greater confidence in strategic direction when evidence-based management practices and clear flow metrics become available.
       - icon: fa-shield-check
         content: |
-          Decision cycles shortened significantly when strategy connected clearly to delivery through aligned operating models.
+          Decision cycles have shortened noticeably when strategy connects clearly to delivery through aligned operating models.
       - icon: fa-shield-check
         content: |
-          Cross-functional visibility improved, reducing time spent in meetings and increasing time executing on shared goals.
+          Cross-functional visibility has improved in organisations where strategy, discovery, delivery, and operations operate as one coherent system.
     cta:
       content: Want to see the evidence?
       button:
