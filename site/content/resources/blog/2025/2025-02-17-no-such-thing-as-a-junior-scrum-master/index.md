@@ -61,13 +61,13 @@ preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 marketing: []
 ResourceId: f2RQh2UCwqB
 ResourceType: blog
-
 ---
+
 Would you ever hire a **Junior CISO** or a **Junior Financial Director**? Of course not. These positions, by definition, require demonstrated mastery of their respective domains, alongside the authority and responsibility to enact meaningful change. The same should be true of a [Scrum]({{< ref "/categories/scrum" >}}) Master. The idea of a “junior” [Scrum Master]({{< ref "/tags/scrum-master" >}}) is a fallacy. The Scrum Master is not an entry-level position, nor is it something that should be handed out as a career stepping stone. A Scrum Master **should be born fully formed**, emerging from the [Scrum Team]({{< ref "/tags/scrum-team" >}}) as a practitioner who has already demonstrated [technical mastery]({{< ref "/tags/technical-mastery" >}}), business mastery, and organisational evolutionary mastery. They should be **elevated by the team, not assigned by management.**
 
 ## The Myth of the Junior Scrum Master
 
-Too often, organisations treat the Scrum Master role as a checkbox on a hiring matrix, assuming that anyone can step in and “facilitate” a few events. This mindset reduces the Scrum Master to a glorified meeting scheduler rather than the steward of effectiveness that they are meant to be. The reality is this: **Scrum Masters are not made in a two-day certification course**—they are forged in the crucible of real-world experience within high-performing Scrum Teams.
+Too often, organisations treat the Scrum Master role as a checkbox on a hiring matrix, assuming that anyone can step in and “facilitate” a few events. This mindset reduces the Scrum Master to a glorified meeting scheduler rather than the steward of effectiveness that they are meant to be. The reality is this: **Scrum Masters are not made in a two-day certification course**, they are forged in the crucible of real-world experience within high-performing Scrum Teams.
 
 This aligns with the points made in [The Incompetent Scrum Master]({{< ref "/resources/blog/2024/2024-09-05-the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know" >}}), which highlights that many Scrum Masters lack the depth of knowledge and experience necessary to be effective. The best Scrum Masters are not those who simply “get certified” but those who have lived and breathed Scrum within a team, demonstrating real-world [competence]({{< ref "/tags/competence" >}}) before stepping into the role.
 
@@ -79,11 +79,11 @@ The best Scrum Masters:
 
 - Have worked within a Scrum Team for years, developing their craft as a Developer, Product Owner, or another key role.
 - Have demonstrated their ability not just to deliver work but to enable agility through [lean]({{< ref "/categories/lean" >}}) thinking, [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), and servant [leadership]({{< ref "/categories/leadership" >}}).
-- Possess **technical mastery, business mastery, and organisational evolutionary mastery**—the three pillars of a truly competent Scrum Master.
+- Possess **technical mastery, business mastery, and organisational evolutionary mastery**, the three pillars of a truly competent Scrum Master.
 
 A person whose knowledge of Scrum is limited to a **two-day certification course** will struggle to land a real Scrum Master job; and rightly so. Just as a company wouldn’t trust its entire departmental finances to someone who just completed a “Financial Mastery in Two Days” course, they shouldn’t entrust the success of a multi-million-dollar project to someone whose entire experience is a “[Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Mastery” online session.
 
-Additionally, many organisations attempt to cut costs by hiring a “junior” Scrum Master at half the salary, while expecting full performance. The result? A Jira lackey and reporting serf, someone who is bullied into administrative tasks rather than empowered to drive agility. It’s the equivalent of hiring a “junior” chef at a discount and making them sweep the yard before every shift—then blaming the methodology when the food is awful.
+Additionally, many organisations attempt to cut costs by hiring a “junior” Scrum Master at half the salary, while expecting full performance. The result? A Jira lackey and reporting serf, someone who is bullied into administrative tasks rather than empowered to drive agility. It’s the equivalent of hiring a “junior” chef at a discount and making them sweep the yard before every shift, then blaming the methodology when the food is awful.
 
 ## Scrum Masters Are Chosen by the Team, Not Imposed by Management
 
@@ -91,15 +91,15 @@ A Scrum Master should **not** be an external hire brought in to “fix” a team
 
 This approach ensures:
 
-- The Scrum Master has credibility within the team—they have already **earned the respect** of their colleagues.
+- The Scrum Master has credibility within the team, they have already **earned the respect** of their colleagues.
 - They understand the organisation’s constraints, culture, and history, enabling **meaningful change** without naive disruption.
 - Their selection is based on demonstrated competence, not just theoretical knowledge or a certification.
 
 If a team does not trust or respect their Scrum Master, they won’t follow them. The Scrum Master must be someone who has already shown leadership, not someone who needs to “grow into the role.”
 
-## The Accountability of the Scrum Master Is Heavy—And It Requires Mastery
+## The Accountability of the Scrum Master Is Heavy, And It Requires Mastery
 
-Scrum Masters, as all leaders, **should not lead only through authority**—they should lead through influence. That influence comes from **mastery of three key domains**:
+Scrum Masters, as all leaders, **should not lead only through authority**, they should lead through influence. That influence comes from **mastery of three key domains**:
 
 1. **Technical Mastery** – A deep understanding of [software development]({{< ref "/tags/software-development" >}}), DevOps, modern [engineering practices]({{< ref "/tags/engineering-practices" >}}), and the realities of delivering high-quality products. This doesn’t mean they have to code daily, but they must understand how technical decisions impact agility.
 2. **Business Mastery** – The ability to align Scrum Teams with the broader business strategy, ensuring that the work they facilitate delivers real, measurable value. This does not take away from the Product Owner but instead supports it.
@@ -113,7 +113,7 @@ This concept is further reinforced in [The Scrum Master is Accountable for Deliv
 
 The idea that a Scrum Master should “learn on the job” is dangerous. A Scrum Master **should be able to step into the role with full competency from day one**, because they have already been functioning as a de facto Scrum Master within their team before ever taking on the title.
 
-This is not about gatekeeping—it’s about effectiveness. If a Scrum Master is learning the fundamentals while on the job, they are **not serving the team—they are hindering it**.
+This is not about gatekeeping, it’s about effectiveness. If a Scrum Master is learning the fundamentals while on the job, they are **not serving the team, they are hindering it**.
 
 This is also why hiring a Scrum Master should be an intentional and rigorous process. As outlined in [Hiring a Professional Scrum Master]({{< ref "/resources/blog/2021/2021-03-15-hiring-a-professional-scrum-master" >}}), organisations often make the mistake of prioritising certifications over experience, failing to assess whether a candidate truly embodies the role. A Scrum Master is not someone who simply “facilitates” but someone who **actively drives effectiveness, navigates complexity, and enables [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) of value**.
 
@@ -123,4 +123,4 @@ A Scrum Master is not a role that should be taken lightly. It is not a career la
 
 The Scrum Master role demands mastery across technical, business, and organisational domains. Anything less is inadequate and frankly does not fulfil their obligation to the Scrum Team, the Product Owner, or the business.
 
-If you are looking for a Scrum Master, don’t look at certifications or job titles. Look at the **people who have already been leading without the title**—those who have already demonstrated their competence in making the team more effective. That’s your Scrum Master.
+If you are looking for a Scrum Master, don’t look at certifications or job titles. Look at the **people who have already been leading without the title**, those who have already demonstrated their competence in making the team more effective. That’s your Scrum Master.

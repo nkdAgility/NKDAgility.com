@@ -1,5 +1,5 @@
 ---
-title: 'The Power of Metrics: Why PAL-EBM is Essential for Your Organization'
+title: "The Power of Metrics: Why PAL-EBM is Essential for Your Organization"
 short_title: Why PAL-EBM Metrics Matter for Organizations
 description: Learn how evidence-based metrics drive organisational success, avoid negative behaviours, and enable transparent, data-driven decisions for leaders and teams at all levels.
 tldr: The PAL-EBM class helps leaders and teams understand how to use metrics effectively to drive organizational success by focusing on real data, transparency, and the human impact of measurement. Participants learn through real-world stories why some metrics fail, how to avoid negative behaviors like those seen with Microsoft's stack ranking, and how to foster strategic conversations that lead to better outcomes. Leadership teams are encouraged to take the class together to align on measuring success, iteratively strategize, and make informed decisions that support long-term goals.
@@ -61,8 +61,8 @@ duration: 373
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In today's fast-paced world, organizations often struggle to find the right metrics that drive success. Whether you're a manager, [product owner]({{< ref "/tags/product-owner" >}}), [Scrum]({{< ref "/categories/scrum" >}}) Master, or CEO, the **Professional Agile [Leadership]({{< ref "/categories/leadership" >}}) - Evidence-Based Management (PAL-EBM)** class provides valuable insights into how to navigate this critical aspect of your leadership journey.
 
 From personal experience as a Scrum Trainer, I can wholeheartedly recommend the PAL-EBM class to anyone in a leadership role who is committed to steering their organization toward success. This class is not just for managers; it's for anyone in a position of influence who is seeking to understand how to use metrics effectively to foster growth and collaboration.
@@ -79,7 +79,7 @@ You might be wondering if the PAL-EBM class is for you. Here’s why it applies 
 
 - 🌟 **Leaders**: Influencing and driving change across organizations.
 
-No matter your role, the key takeaway from the PAL-EBM class is the importance of understanding metrics—beyond just numbers on a dashboard—and how they can shape the future of your company.
+No matter your role, the key takeaway from the PAL-EBM class is the importance of understanding metrics, beyond just numbers on a dashboard, and how they can shape the future of your company.
 
 ### Learning Through Stories and Experiences
 
@@ -107,11 +107,11 @@ Metrics can have unintended consequences. The PAL-EBM class provides plenty of e
 
 #### Microsoft’s Stack Ranking Example
 
-Microsoft used a metric called **stack ranking**. If you Google it, you’ll find plenty of other companies that also used this method, with equally poor results. Stack ranking required managers to rank their direct reports, with the bottom 10% being eliminated from the team—and after three strikes, from the company entirely.
+Microsoft used a metric called **stack ranking**. If you Google it, you’ll find plenty of other companies that also used this method, with equally poor results. Stack ranking required managers to rank their direct reports, with the bottom 10% being eliminated from the team, and after three strikes, from the company entirely.
 
 💡 **Impact on Behavior**: The problem with stack ranking was the negative behaviors it encouraged. Instead of fostering collaboration and teamwork, it led to an environment of fear and competition, where employees worked against each other rather than towards a shared goal.
 
-It’s easy to look back now and see the obvious flaws in this system. But at the time, it was policy for nearly a decade. The reason it took so long to change? Leaders were **clinging to beliefs** despite overwhelming evidence that it wasn’t working. This is where [transparency]({{< ref "/tags/transparency" >}}) and the ability to analyze empirical data comes into play—key elements of PAL-EBM.
+It’s easy to look back now and see the obvious flaws in this system. But at the time, it was policy for nearly a decade. The reason it took so long to change? Leaders were **clinging to beliefs** despite overwhelming evidence that it wasn’t working. This is where [transparency]({{< ref "/tags/transparency" >}}) and the ability to analyze empirical data comes into play, key elements of PAL-EBM.
 
 ### Transparency and Empirical Data
 

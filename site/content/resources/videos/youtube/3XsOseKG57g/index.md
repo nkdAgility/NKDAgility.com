@@ -5,7 +5,7 @@ description: The 4-day training format offers shorter, well-paced sessions with 
 tldr: The four-day training format, which spreads sessions over four half-days instead of two full days, is popular because it prevents exhaustion, allows time for reflection, and leads to deeper learning and better questions. Participants appreciate the breaks between sessions, which help them absorb and internalize content more effectively. Consider adopting this format to improve engagement and learning outcomes in your team's training programs.
 date: 2023-05-11T12:00:02Z
 lastmod: 2023-05-11T12:00:02Z
-weight: 1000
+weight: 920
 sitemap:
   filename: sitemap.xml
   priority: 0.1

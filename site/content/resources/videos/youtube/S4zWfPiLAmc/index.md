@@ -5,10 +5,10 @@ description: Learn how to avoid common Kanban mistakes by focusing on actionable
 tldr: Relying on vanity metrics like story points and velocity can undermine your Kanban strategy, as they do not provide actionable insights. Instead, focus on key metrics such as work in progress, cycle time, throughput, and work item age to identify bottlenecks, optimize flow, and improve predictability. Use data from your workflow tools to drive continuous improvement and make informed decisions for better team performance.
 date: 2024-02-29T07:00:09Z
 lastmod: 2024-02-29T07:00:09Z
-weight: 840
+weight: 525
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: S4zWfPiLAmc
 ItemType: videos

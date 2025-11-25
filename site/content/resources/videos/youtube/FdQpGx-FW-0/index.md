@@ -1,14 +1,14 @@
 ---
 title: 7 harbingers of the Agile apocalypse - Judgement
-short_title: 'Judgment in Agile: Rigid vs. Principle-Driven'
+short_title: "Judgment in Agile: Rigid vs. Principle-Driven"
 description: Explores how rigid, judgmental Agile practices stifle creativity and innovation, and advocates for principle-driven, adaptable approaches to foster true business agility.
 tldr: Rigid, judgmental application of Agile frameworks stifles creativity and innovation, turning teams into rule-followers instead of problem-solvers. True agility comes from empowering teams with autonomy, transparency, and principles rather than enforcing one-size-fits-all rules. Development managers should focus on fostering a culture of openness and continuous learning, allowing teams to adapt practices to their unique needs.
 date: 2023-10-20T11:00:13Z
 lastmod: 2023-10-20T11:00:13Z
-weight: 665
+weight: 360
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: FdQpGx-FW-0
 ItemType: videos
@@ -35,6 +35,7 @@ categories:
   - Leadership
   - Product Development
 tags:
+  - Agile Strategy
   - Agnostic Agile
   - Agile Transformation
   - Software Development
@@ -60,8 +61,8 @@ duration: 535
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 # Escaping the Judgment Trap in [Agile Transformation]({{< ref "/tags/agile-transformation" >}}) 🚀
 
 Hey there, Agile adventurers! Today, I'm tackling another harrowing harbinger of the agile apocalypse: **Judgment**. This formidable foe manifests through prescriptive, one-size-fits-all methodologies that strangle creativity and innovation. It's a world where “Thou shalt do [Scrum]({{< ref "/categories/scrum" >}})” becomes more of a commandment than a guideline, and where deviation from the prescribed path attracts criticism rather than curiosity. Let's dive into why this mindset is detrimental and how we can pivot towards a more principle-driven approach. 🌪️
@@ -72,7 +73,7 @@ In the realm of Agile transformations, **judgment** often rears its ugly head th
 
 ### My Encounter with Prescriptive Madness 📍
 
-I once navigated the stormy waters of an organization (somewhere between Seattle and Portland) that had just shown their [Scrum Master]({{< ref "/tags/scrum-master" >}}) the door. Why? Because this Scrum Master insisted on standing meetings as the _sine qua non_ of Scrum, despite a team member's disability that made this impractical. The team's choice to sit, out of respect for their colleague, embodied the true spirit of Scrum and Agile—adaptability, respect, and collaboration.
+I once navigated the stormy waters of an organization (somewhere between Seattle and Portland) that had just shown their [Scrum Master]({{< ref "/tags/scrum-master" >}}) the door. Why? Because this Scrum Master insisted on standing meetings as the _sine qua non_ of Scrum, despite a team member's disability that made this impractical. The team's choice to sit, out of respect for their colleague, embodied the true spirit of Scrum and Agile, adaptability, respect, and collaboration.
 
 ## The Fallout of One-Size-Fits-All Approaches 💣
 
@@ -80,7 +81,7 @@ This judgment-driven approach stifles the creative, collaborative essence of org
 
 ### Autonomy, Mastery, Purpose: The Lost Treasures 💎
 
-In the pursuit of [business agility]({{< ref "/tags/business-agility" >}}), we must remember that the goal is to deliver the highest possible value to our customers. Everything else—be it Scrum, [Kanban]({{< ref "/categories/kanban" >}}), or any other tool—is merely a means to that end. Prescribing methodologies without considering team dynamics, project specifics, or organizational culture is akin to putting the cart before the horse.
+In the pursuit of [business agility]({{< ref "/tags/business-agility" >}}), we must remember that the goal is to deliver the highest possible value to our customers. Everything else, be it Scrum, [Kanban]({{< ref "/categories/kanban" >}}), or any other tool, is merely a means to that end. Prescribing methodologies without considering team dynamics, project specifics, or organizational culture is akin to putting the cart before the horse.
 
 ## Principles Over Prescriptions: Charting a New Course 🧭
 

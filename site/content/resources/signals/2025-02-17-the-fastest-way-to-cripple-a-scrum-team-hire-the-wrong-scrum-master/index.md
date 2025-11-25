@@ -54,15 +54,15 @@ Watermarks:
   tldr: 2025-08-07T12:36:33Z
 ResourceId: 567GkDxvlbX
 ResourceType: signals
-
 ---
+
 The fastest way to cripple a Scrum Team? Hire the wrong Scrum Master.
 
 Too many companies mistake the Scrum Master for a process admin. Someone to book meetings, write Jira tickets, and make sure the team follows “the rules.”
 
 That’s not a Scrum Master. That’s an event planner.
 
-The real Scrum Master is a lean-agile practitioner—someone who understands product strategy, DevOps, modern engineering, and team dynamics. They’re a change agent, not a note-taker.
+The real Scrum Master is a lean-agile practitioner, someone who understands product strategy, DevOps, modern engineering, and team dynamics. They’re a change agent, not a note-taker.
 
 A strong Scrum Master:
 
@@ -73,6 +73,6 @@ A strong Scrum Master:
 
 A weak Scrum Master? They turn into a Scrum Secretary, maintaining the illusion of agility while the team stagnates.
 
-If you want Scrum to actually work, hire someone who sees Scrum as an enabler of high-performance teams—not just a set of meetings.
+If you want Scrum to actually work, hire someone who sees Scrum as an enabler of high-performance teams, not just a set of meetings.
 
 Seen this mistake before?

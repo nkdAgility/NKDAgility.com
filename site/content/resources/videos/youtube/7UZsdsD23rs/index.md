@@ -1,7 +1,7 @@
 ---
 title: What is empiricism and why is it so critical to great Agile?
-short_title: 'Empiricism in Agile: Why It Matters'
-description: Explains how empiricism—continuous observation, inspection, and adaptation—drives Agile success by enabling teams to respond effectively to real project data and feedback.
+short_title: "Empiricism in Agile: Why It Matters"
+description: Explains how empiricism, continuous observation, inspection, and adaptation, drives Agile success by enabling teams to respond effectively to real project data and feedback.
 tldr: Empiricism is essential to Agile because it drives teams to observe real project data, inspect outcomes, and adapt quickly, ensuring alignment with changing needs. Key practices like transparency, regular feedback loops, and continuous improvement help teams stay responsive and deliver real value. Development managers should foster a culture of inspection and adaptation, using data and feedback to guide decisions and refine both processes and product backlogs.
 date: 2023-08-30T07:00:05Z
 lastmod: 2023-08-30T07:00:05Z
@@ -58,8 +58,8 @@ duration: 330
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ## The Keystone of [Lean]({{< ref "/categories/lean" >}})-Agile: Empiricism Unravelled 🧬 
 
 Have you ever wondered what fuels the vigour of the agile framework? It's a concept that may seem shrouded in the enigma of scientific complexity – Empiricism.  

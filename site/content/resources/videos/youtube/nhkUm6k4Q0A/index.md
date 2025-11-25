@@ -1,5 +1,5 @@
 ---
-title: 'How to Be an Effective Agile Coach: Agnosticism in Practice'
+title: "How to Be an Effective Agile Coach: Agnosticism in Practice"
 short_title: Effective Agile Coaching with Framework Agnosticism
 description: Learn how Agile coaches can empower teams by staying framework-agnostic, focusing on core principles, and enabling teams to choose and adapt practices for their needs.
 tldr: Effective Agile coaching means being flexible and not pushing one framework; instead, help teams understand core Agile, Lean, and Scrum principles so they can choose what works best for their context. Encourage experimentation, educate teams on different approaches, and support their decision-making process. Focus on enabling teams to own their process and continuously improve rather than prescribing solutions.
@@ -54,9 +54,9 @@ duration: 61
 resourceTypes:
   - video
 isShort: false
-
 ---
-If you’re looking to become a great Agile coach, one of the most crucial qualities you need to cultivate is agnosticism in your practices. While you may have your own preferences—mine happens to be [Scrum]({{< ref "/categories/scrum" >}})—it’s important to ensure that the team you’re working with can choose the most effective practices that suit them. This may sometimes mean putting aside your favorite framework and helping the team make decisions that work best for their unique context.
+
+If you’re looking to become a great Agile coach, one of the most crucial qualities you need to cultivate is agnosticism in your practices. While you may have your own preferences, mine happens to be [Scrum]({{< ref "/categories/scrum" >}}), it’s important to ensure that the team you’re working with can choose the most effective practices that suit them. This may sometimes mean putting aside your favorite framework and helping the team make decisions that work best for their unique context.
 
 Let’s dive deeper into how you can be an effective Agile coach by becoming practice-agnostic and enabling your teams to make informed decisions.
 
@@ -94,7 +94,7 @@ Lean emphasizes the elimination of waste, [continuous improvement]({{< ref "/tag
 
 ### **Agile Principles**
 
-The Agile Manifesto’s key values—such as individuals and interactions over processes and tools, and responding to change over following a plan—are at the heart of Agile coaching. Help teams internalize these values, and they’ll:
+The Agile Manifesto’s key values, such as individuals and interactions over processes and tools, and responding to change over following a plan, are at the heart of Agile coaching. Help teams internalize these values, and they’ll:
 
 - Be more adaptable to change.
 
@@ -106,7 +106,7 @@ The Agile Manifesto’s key values—such as individuals and interactions over p
 
 ### **Scrum Principles**
 
-While Scrum is my personal favorite, it’s not always the right solution for every team or situation. What I emphasize with teams is the importance of **[transparency]({{< ref "/tags/transparency" >}}), inspection,** and **adaptation**—the pillars that Scrum is built upon. These can be applied in any framework, not just Scrum, and help foster continuous improvement.
+While Scrum is my personal favorite, it’s not always the right solution for every team or situation. What I emphasize with teams is the importance of **[transparency]({{< ref "/tags/transparency" >}}), inspection,** and **adaptation**, the pillars that Scrum is built upon. These can be applied in any framework, not just Scrum, and help foster continuous improvement.
 
 ### **Making Better Choices**
 
@@ -156,7 +156,7 @@ Once the team has experimented with different frameworks and practices, trust th
 
 ## **Conclusion: The Power of Agnostic Coaching**
 
-To be an effective Agile coach, you must embrace agnosticism in your coaching practices. By letting go of your attachment to a particular framework—whether it’s Scrum, Kanban, or Lean—you allow the team to explore what works best for them. Your focus should be on educating, enabling [experimentation]({{< ref "/tags/experimentation" >}}), and guiding the team to make decisions that lead to continuous improvement.
+To be an effective Agile coach, you must embrace agnosticism in your coaching practices. By letting go of your attachment to a particular framework, whether it’s Scrum, Kanban, or Lean, you allow the team to explore what works best for them. Your focus should be on educating, enabling [experimentation]({{< ref "/tags/experimentation" >}}), and guiding the team to make decisions that lead to continuous improvement.
 
 In summary:
 

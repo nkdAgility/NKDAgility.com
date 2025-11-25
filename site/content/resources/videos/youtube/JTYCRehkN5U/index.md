@@ -5,7 +5,7 @@ description: Explores how technical excellence in Agile development reduces risk
 tldr: Technical excellence is essential for delivering a usable, high-quality product at the end of every iteration, which reduces risk and enables faster, more valuable feature delivery. The Azure DevOps team at Microsoft dramatically increased their output by focusing on paying down technical debt and establishing a strong Definition of Done. Development managers should prioritize technical excellence, avoid sacrificing quality for speed, and ensure their teams have a clear Definition of Done to maximize value and stay competitive.
 date: 2024-06-27T06:45:00Z
 lastmod: 2024-06-27T06:45:00Z
-weight: 180
+weight: 160
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -35,13 +35,13 @@ categories:
   - Scrum
 tags:
   - Software Development
+  - Engineering Practices
   - Definition of Done
   - Product Delivery
   - Technical Debt
   - Technical Mastery
   - Value Delivery
   - Working Software
-  - Engineering Practices
   - Pragmatic Thinking
   - Operational Practices
   - Technical Excellence
@@ -60,15 +60,15 @@ duration: 1219
 resourceTypes:
   - video
 isShort: false
-
 ---
-In today's fast-paced development environment, the need for a usable, working product at the end of every iteration cannot be overstated. As [Scrum]({{< ref "/categories/scrum" >}}) and Agile practitioners, we often discuss the importance of [technical excellence]({{< ref "/tags/technical-excellence" >}}), but it's more than just a concept—it's the cornerstone of risk mitigation and successful [product delivery]({{< ref "/tags/product-delivery" >}}). Let's dive into why technical excellence is essential, how it mitigates risks, and the profound impact it can have on your product and team.
+
+In today's fast-paced development environment, the need for a usable, working product at the end of every iteration cannot be overstated. As [Scrum]({{< ref "/categories/scrum" >}}) and Agile practitioners, we often discuss the importance of [technical excellence]({{< ref "/tags/technical-excellence" >}}), but it's more than just a concept, it's the cornerstone of risk mitigation and successful [product delivery]({{< ref "/tags/product-delivery" >}}). Let's dive into why technical excellence is essential, how it mitigates risks, and the profound impact it can have on your product and team.
 
 ## **Why Technical Excellence Matters**
 
 ### **Usable Working Product Every Iteration**
 
-One of the key principles in Scrum and Agile is ensuring that we have a usable working product at the end of each iteration. This isn't just a nice-to-have—it's a necessity. In traditional, linear [project management]({{< ref "/tags/project-management" >}}) models, where we know most of the details upfront, risk is mitigated through extensive planning. However, in a high-variance environment, this approach simply doesn't work.
+One of the key principles in Scrum and Agile is ensuring that we have a usable working product at the end of each iteration. This isn't just a nice-to-have, it's a necessity. In traditional, linear [project management]({{< ref "/tags/project-management" >}}) models, where we know most of the details upfront, risk is mitigated through extensive planning. However, in a high-variance environment, this approach simply doesn't work.
 
 ### **Planning in Low-Variance vs. High-Variance Environments**
 
@@ -128,7 +128,7 @@ When technical debt is low and quality is high, teams can shift their focus from
 
 ## **Conclusion: Don’t Get Left Behind**
 
-In today's competitive market, technical excellence is not just an option—it's a necessity. Whether you're delivering software or building houses, the principles remain the same. Focus on quality, establish a solid Definition of Done, and deliver a usable working product every iteration.
+In today's competitive market, technical excellence is not just an option, it's a necessity. Whether you're delivering software or building houses, the principles remain the same. Focus on quality, establish a solid Definition of Done, and deliver a usable working product every iteration.
 
 **Final Recommendations**
 

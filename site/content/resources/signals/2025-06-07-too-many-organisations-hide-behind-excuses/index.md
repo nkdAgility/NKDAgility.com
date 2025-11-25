@@ -47,15 +47,15 @@ Watermarks:
   tldr: 2025-08-07T12:11:36Z
 ResourceId: RJFPfh1L3bJ
 ResourceType: signals
-
 ---
+
 Too many organisations hide behind excuses:
 
 "We can't do that here."  
 "We're not a software company."  
 "We're regulated."
 
-The DOD and FBI are proof that excuse is dead. You can be large, slow, and bureaucratic—and still move to iterative delivery.
+The DOD and FBI are proof that excuse is dead. You can be large, slow, and bureaucratic, and still move to iterative delivery.
 
 Agile is not about being cool or trendy. It's about reducing risk, increasing optionality, and delivering real value incrementally.
 

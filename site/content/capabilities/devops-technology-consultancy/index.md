@@ -23,11 +23,11 @@ sections:
   - type: headline
     headline:
       title: DevOps Technology Consultancy
-      subtitle: Design the Systems. Build the Pipelines. Empower the Teams.
+      subtitle: Operating Model Design, DevOps Architecture, and Technical Consulting
       content: |
-        You’ve got too many tools, too many silos, and a delivery pipeline that’s more duct tape than design.
+        Too many tools, too many silos, delivery pipelines held together by workarounds.
 
-        You don’t need another vendor pitching a silver bullet—you need a trusted partner who can help you build DevOps systems that scale, secure, and perform.
+        We provide DevOps technology consulting, operating model design, system architecture, pipeline engineering, and team capability building. Services focus on creating coherent DevOps systems rather than tool deployments.
   - type: outcomehero
     cta:
       content: Design the Systems. Build the Pipelines. Empower the Teams. **Let's Talk**
@@ -35,20 +35,51 @@ sections:
         text: Connect With Us
         url: /company/book-online
     boxes: []
-  - type: none
-    title: Why DevOps Initiatives Fail in the Real World
+  - type: textNlist
+    title: Consulting Services Provided
+    sideContent: |
+      DevOps consulting focused on system architecture and operating model design, not tool implementation alone.
+
+      Services include current-state assessment, architecture design, pipeline engineering, security integration, and ongoing team enablement.
+    list:
+      - icon: fa-diagram-project
+        content: |
+          **Operating model design** – Aligning strategy, discovery, delivery, and operations as one coherent system
+      - icon: fa-code
+        content: |
+          **Pipeline architecture** – CI/CD design, infrastructure as code, and deployment automation
+      - icon: fa-shield-halved
+        content: |
+          **DevSecOps integration** – Security embedded throughout the delivery pipeline
+      - icon: fa-chart-line
+        content: |
+          **Flow metrics design** – Visibility systems connecting technical work to business outcomes
+  - type: boxesrow
+    title: Consulting Scope and Scale
     content: |
-      Most DevOps initiatives stall because:
-
-      - Teams don’t own the pipelines
-      - Tools are deployed without architecture
-      - Security is bolted on, not baked in
-      - Delivery slows down instead of speeding up
-      - Leaders can’t see flow—or fix it
-
-      **We don’t start with tools. We start with outcomes.**
-
-      Then we architect, automate, and enable.
+      Industry research (DORA) shows elite engineering organisations deploy 208× more frequently than low performers. These consulting services address the technical and organisational systems that enable that performance.
+    boxes:
+      - box:
+        title: Small Teams (10-50)
+        items:
+          - title: Lightweight DevOps architecture without enterprise overhead
+          - title: Pipeline design tailored to team size and maturity
+          - title: Practical toolchain rationalisation
+          - title: Foundation for growth without premature complexity
+      - box:
+        title: Mid-Size (50-200)
+        items:
+          - title: Multi-team coordination and platform design
+          - title: Standardisation balanced with team autonomy
+          - title: Flow metrics and visibility systems
+          - title: DevSecOps integration at scale
+      - box:
+        title: Large Organisations (200+)
+        items:
+          - title: Enterprise DevOps architecture and governance
+          - title: Platform engineering and internal developer experience
+          - title: Cross-portfolio visibility and strategic metrics
+          - title: Transformation approach that maintains delivery continuity
   - type: quote
     backgroundColor: primary
     quote: |
@@ -59,7 +90,7 @@ sections:
   - type: boxesrow
     title: What DevOps Technology Consulting Solves
     boxes:
-      - box: 
+      - box:
         title: Core Problem
         items:
           - title: Inconsistent or unreliable pipelines
@@ -67,7 +98,7 @@ sections:
           - title: Lack of engineering standards
           - title: Manual, error-prone deployments
           - title: Unclear delivery metrics
-      - box: 
+      - box:
         title: Our Solutions
         items:
           - title: Design and implement CI/CD that delivers with confidence
@@ -75,20 +106,20 @@ sections:
           - title: Create shared DevOps principles across teams and products
           - title: Automate infrastructure, testing, and delivery workflows
           - title: Establish meaningful flow metrics and visibility dashboards
-  - title: We Build the DevOps Systems You Actually Need
+  - title: We Build the Operating Models and DevOps Systems You Actually Need
     content: |
-      This is **consulting in code** - not just strategy decks.
+      This is **operating model design and consulting in code** - not just strategy decks.
     type: list
     listType: list
     list:
       - title: Pipeline Architecture + CI/CD Design
         icon: fa-diagram-project
         content: |
-          From Git branching to artifact flow to environment promotion—we design for flow, not friction.
+          From Git branching to artifact flow to environment promotion, we design for flow, not friction.
       - title: Toolchain Integration + Rationalization
         icon: fa-plug
         content: |
-          Azure DevOps, GitHub, Terraform, Docker, Kubernetes, and more—integrated, automated, and streamlined.
+          Azure DevOps, GitHub, Terraform, Docker, Kubernetes, and more, integrated, automated, and streamlined.
       - title: Infrastructure as Code (IaC) Enablement
         icon: fa-code
         content: |
@@ -125,7 +156,7 @@ sections:
   - type: symmetry
     title: What you get with NKD Agility
     boxes:
-      - box: 
+      - box:
         title: Before
         items:
           - title: Frustrated by flaky pipelines and unowned tech debt
@@ -136,7 +167,7 @@ sections:
             icon: fa-face-nose-steam
           - title: Struggling to connect delivery speed with strategic goals
             icon: fa-face-tired
-      - box: 
+      - box:
         title: After
         items:
           - title: Confident in scalable, secure, team-owned delivery pipelines
@@ -153,7 +184,7 @@ sections:
     content: |
       - Pipelines you trust to ship fast and safely
       - Engineers who understand and own the delivery system
-      - Metrics that inform—not confuse
+      - Metrics that inform, not confuse
       - Cloud infrastructure that scales, flexes, and secures
       - DevOps practices that actually improve flow, quality, and resilience
   - type: none
@@ -166,6 +197,33 @@ sections:
       - Security and compliance automation
       - Flow metrics dashboard implementation
       - Embedded mentoring for DevOps and engineering teams
+  - type: list
+    backgroundColor: light-accent-alt
+    title: How We Work With You
+    content: |
+      Our engagement model is designed for speed, flexibility, and results, not hourly billing or scope negotiations.
+    listType: list
+    list:
+      - title: Week 1 - Discovery & Situational Appraisal
+        icon: fa-magnifying-glass
+        content: |
+          We assess your current DevOps maturity, toolchain architecture, delivery flow, and business objectives. Not selling, just listening and understanding your context.
+      - title: Weeks 2–4 - Evidence-Based Direction
+        icon: fa-chart-line
+        content: |
+          We establish baseline metrics (cycle time, deployment frequency, change failure rate), identify highest-value improvements, and co-create a pragmatic roadmap aligned to your strategic outcomes.
+      - title: Ongoing - Embedded Improvement
+        icon: fa-people-group
+        content: |
+          We work alongside your teams, designing pipelines, automating infrastructure, coaching engineers. No workshops in conference rooms while the backlog grows, real improvement in real work.
+      - title: Timeboxed Retainer Model
+        icon: fa-handshake
+        content: |
+          You retain a percentage of our capacity (not buying hours). No fixed deliverables, we co-create outcomes. No change orders, we adapt as context evolves. Satisfaction guaranteed, full refund if we don't deliver value.
+      - title: Scales From Small to Large
+        icon: fa-arrows-left-right-to-line
+        content: |
+          10-person startup or 500-engineer organisation, we tailor our approach. Lightweight for small teams, enterprise-ready for large teams, no unnecessary overhead for anyone.
   - title: Why NKD Agility?
     type: list
     listType: list
@@ -209,32 +267,4 @@ menus:
 icon: fa-diagram-project
 ResourceId: YYFs65WYwwO
 ResourceType: capabilities
-
 ---
-Our DevOps consultants work with organisations to help them get the most out of their DevOps strategy and maximise its effectiveness.
-
-We conduct health checks to assess your organisation’s current State of DevOps. We meld this discovery with our experience to advise changes to the existing ways of working, culture and tooling to achieve the objectives. We design training programs to educate teams and help them change. Following training, we can coach and mentor during the next evolution as everyone works towards achieving the outcomes.
-
-## Our DevOps Consultancy Approach
-
-Change is evolutionary, not transformational, and for that you and your people need to understand DevOps so that you and your people can continue to evolve your organisation.
-
-We use our knowledge and experience in evolutionary change, using the DevOps mindset and lean thinking, to help organisations achieve their outcomes. We work with leadership to identify the outcomes that they want to accomplish and train teams in the agile mindset and lean thinking. For any of the outcomes, we will work with you using [evidence-based management](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) techniques to define how we will measure success.
-
-Using an evidence-based mindset, along with this definition of success, we will examine the maturity and health of the organisation. This can have many different elements and almost always include Innovation Rate, On-Product Index, Usage Index, and Installed Version Index, as these key measures are known to be lacking in most organisations.
-
-We analyse the data to understand the current state and create and adapt any recommendations tailored to the organisation. These recommended changes may include processes, practices, tools, organisational dynamics and culture. We propose short, quick, incremental changes in the journey to achieving successful outcomes. Using an iterative approach allows us the flexibility to measure success continually and change direction if needed.
-
-Our approaches use the latest DevOps and lean practices to help you improve.
-
-#### [DevOps Evolution](https://nkdagility.com/agile-consultancy/)
-
-[Evolving your organisation](https://nkdagility.com/devops-consultancy/) requires a profound change to help you deeply understand your customers, radically improve your organisational health, and rapidly adapt to changing market demands.
-
-#### DevOps consulting Services
-
-Your transition to DevOps is augmented by our DevOps consultants, with their DevOps Consulting Services, who comprehensively analyse your needs and help you visualize the results. Our consultants guide you through the entire DevOps process through great collaboration, emerging practices, and state-of-the-art tools, helping your organization achieve increased frequency and reliability of software releases.
-
-#### Azure DevOps Migration Services
-
-We are the original creators and primary contributors to the [Azure DevOps Migration Tools](https://github.com/nkdAgility/azure-devops-migration-tools), and we can provide custom [Azure DevOps Migration Tools Consulting](https://nkdagility.com/global-devops-technology-consultancy-services/azure-devops-migration-tools-consulting/) services.

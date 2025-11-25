@@ -58,13 +58,13 @@ Watermarks:
   tldr: 2025-08-07T12:29:09Z
 ResourceId: _CXFN2swhdy
 ResourceType: signals
-
 ---
+
 You can’t deliver change through memos. Or tool rollouts. Or executive mandates. If people don’t understand the change, they’ll resist it. Silently. Subtly. And completely.
 
 Train everyone. Yes, everyone.
 
-When I run broad-based Scrum training—everyone from warehouse workers to execs in the same room—magic happens. People start to see the system. They name the blockers. They suggest real improvements.
+When I run broad-based Scrum training, everyone from warehouse workers to execs in the same room, magic happens. People start to see the system. They name the blockers. They suggest real improvements.
 
 You don’t need change managers whispering from the sidelines. You need forklift drivers pointing out waste in your value stream. You need product owners seeing dependencies they can cut. You need teams who actually understand why Scrum works.
 

@@ -4,4 +4,4 @@ That's not strategy. That's pure pressure.
 
 We help CTOs and tech leadership push back with evidence, not emotion. We work with you to make your current systems visible, identify what's actually slowing you down, and evaluate new tech based on fit, not hype. Is it aligned with your business goals? Will your teams thrive with it? Does it solve a real problem, or does it just look good in a pitch deck?
 
-When you've got that clarity, you can walk into any room and defend your decisions because they're not reactive—they're rooted in strategy. And that's how you lead confidently, deliberately, and on your terms.
+When you've got that clarity, you can walk into any room and defend your decisions because they're not reactive, they're rooted in strategy. And that's how you lead confidently, deliberately, and on your terms.

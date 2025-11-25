@@ -17,7 +17,7 @@ layout: informational
 headline:
   cards: []
   title: naked Agility Ltd. Terms of Business.
-  content: Real agility means evolving your system of work—not managing more tasks. With the right support, your teams adapt faster, deliver smarter, and create lasting value.
+  content: Real agility means evolving your system of work, not managing more tasks. With the right support, your teams adapt faster, deliver smarter, and create lasting value.
   buttons:
     - style: primary
       link: /company/book-online/
@@ -31,7 +31,7 @@ headline:
       text: Privacy Policy
 ---
 
-We offer outcome-focused consulting services delivered through a timeboxed retainer model. Rather than buying hours, you retain a percentage of our capacity to co-create meaningful outcomes. We focus on helping you evolve your system of work—not just deliver tasks. If you're not satisfied, we refund your fee.
+We offer outcome-focused consulting services delivered through a timeboxed retainer model. Rather than buying hours, you retain a percentage of our capacity to co-create meaningful outcomes. We focus on helping you evolve your system of work, not just deliver tasks. If you're not satisfied, we refund your fee.
 
 We are transparent, collaborative, and committed to protecting your confidentiality. We will sign any reasonable NDA, and any intellectual property created specifically for you remains yours.
 
@@ -39,15 +39,15 @@ Please refer to [working with us]({{< ref "/company/working-with-us" >}}) and [p
 
 ## Our business model
 
-We work on a **timeboxed retainer** basis. You retain a percentage of our working time—typically 10% or 25%—and we spend the time required within that limit to deliver valuable outcomes. There is **no fixed scope**, and **no change orders**—just a shared commitment to evolving your system of work.
+We work on a **timeboxed retainer** basis. You retain a percentage of our working time, typically 10% or 25%, and we spend the time required within that limit to deliver valuable outcomes. There is **no fixed scope**, and **no change orders**, just a shared commitment to evolving your system of work.
 
 - **You control the pace** and can reschedule within the agreed timeframe.
 - **We collaborate continuously**, providing as much or as little direction as needed.
-- If you’re not satisfied with our work, **we’ll refund you—no questions asked**.
+- If you’re not satisfied with our work, **we’ll refund you, no questions asked**.
 
 > **Our Ethos**: At NKDAgility, we believe in delivering measurable outcomes through transparency, flexibility, and collaboration. Our goal is to empower your teams to achieve sustainable improvements while aligning with your strategic objectives.
 
-You’re not buying hours. You’re retaining strategic capacity—continuous access to expert collaboration without transactional overhead. You shouldn’t need to make a financial decision every time you need support. These engagement levels reflect ongoing involvement and commitment, not time blocks. The hours are indicative only; we typically invest more time early in the engagement, which is why we don’t start more than one at a time.
+You’re not buying hours. You’re retaining strategic capacity, continuous access to expert collaboration without transactional overhead. You shouldn’t need to make a financial decision every time you need support. These engagement levels reflect ongoing involvement and commitment, not time blocks. The hours are indicative only; we typically invest more time early in the engagement, which is why we don’t start more than one at a time.
 
 ### Model Overview
 
@@ -88,7 +88,7 @@ We don’t fix scope up front. We work within the constraints of the retainer an
 
 You get flexibility without micromanagement. We get clarity without red tape.
 
-Our services are timeboxed, prepaid, and delivered collaboratively. We are not a body shop. We help you examine and evolve your systems—your ways of working—not just deliver tasks.
+Our services are timeboxed, prepaid, and delivered collaboratively. We are not a body shop. We help you examine and evolve your systems, your ways of working, not just deliver tasks.
 
 - **No fixed deliverables.** We co-create outcomes within the agreed timebox.
 - **Refund guarantee.** If you’re not satisfied, we refund you.
@@ -123,7 +123,7 @@ This clause applies **only to UK engagements**. It does not affect services deli
 - 50% due upon acceptance; 50% due 15 days after acceptance.
 - A 5% discount is available for full payment upon acceptance.
 - This project is non-cancellable but may be rescheduled without penalty.
-- Satisfaction guaranteed—if standards aren't met, we will refund your fee.
+- Satisfaction guaranteed, if standards aren't met, we will refund your fee.
 - Payment is accepted in GBP, USD, or EUR. [Bank details are provided here](/accounts).
 
 ## Intellectual Property & Confidentiality
@@ -251,7 +251,7 @@ We work securely, independently, and with only the access needed to deliver outc
 - **We clean up on exit** – credentials are deleted or returned at the end of the engagement.
 - **We don’t rely on client hardware or procurement** – unless agreed otherwise, which may affect estimates.
 
-This keeps delivery fast, secure, and focused—without unnecessary operational drag.
+This keeps delivery fast, secure, and focused, without unnecessary operational drag.
 
 ### Account Provisioning and Access
 
@@ -268,18 +268,18 @@ See instructions on [Communication & Security Setup Guide]({{< ref "/company/com
 
 ## Knowledge Sharing & Open Contribution
 
-We encourage our consultants to contribute back to the broader community through blog posts, talks, or open-source projects—especially when tackling real-world technical challenges during engagements. However, no client-specific or identifiable information will ever be shared.
+We encourage our consultants to contribute back to the broader community through blog posts, talks, or open-source projects, especially when tackling real-world technical challenges during engagements. However, no client-specific or identifiable information will ever be shared.
 
 This approach supports transparency, learning, and the evolution of better practices while fully respecting client confidentiality.
 
 ## Responsible AI & Agentic Systems
 
-We use AI tools responsibly to accelerate insight, explore ideas, and support co-creation—but always with human agency and judgment at the centre.
+We use AI tools responsibly to accelerate insight, explore ideas, and support co-creation, but always with human agency and judgment at the centre.
 
 - **Human-led, AI-supported** – Any AI used is there to support, not replace, our expertise and accountability.
 - **No client data is used for model training** – Client information is never shared with public AI systems.
 - **You define boundaries** – We follow your data, privacy, and security requirements.
-- **Agentic collaboration** – We use AI to augment sensemaking, decision framing, and option shaping—always under transparent, human control.
+- **Agentic collaboration** – We use AI to augment sensemaking, decision framing, and option shaping, always under transparent, human control.
 
 We are committed to ethically sound and practically grounded use of AI in every engagement.
 
@@ -304,7 +304,6 @@ Each engagement begins upon written acceptance and initial payment. Unless other
 ## Limitation of Liability
 
 We carry {{< currency 1000000 >}} professional indemnity insurance and operate under reasonable limits of liability. We are not liable for indirect or consequential loss. If there's a concern, we’ll address it directly and transparently.
-
 
 ## Warranties
 
@@ -335,9 +334,9 @@ naked Agility Ltd will indemnify and hold you harmless from any direct losses, c
 
 This indemnity is subject to the following limits and conditions:
 
-- It does not apply to claims arising from your data, systems, directions, or modifications.  
-- It does not cover indirect, consequential, or punitive damages.  
-- Our total liability under this indemnity will not exceed the fees paid for the engagement that gave rise to the claim or our professional indemnity insurance limit, whichever is higher.  
+- It does not apply to claims arising from your data, systems, directions, or modifications.
+- It does not cover indirect, consequential, or punitive damages.
+- Our total liability under this indemnity will not exceed the fees paid for the engagement that gave rise to the claim or our professional indemnity insurance limit, whichever is higher.
 - You must notify us promptly of any claim and allow us to manage the defence or settlement.
 
 ## Issue Resolution

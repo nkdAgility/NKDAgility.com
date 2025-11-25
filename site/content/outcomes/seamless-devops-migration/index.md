@@ -77,7 +77,7 @@ sections:
       - title: Future-Proof Infrastructure
         icon: fa-network-wired
         content: |
-          You don’t just migrate — you modernize. Seamless integration with CI/CD, IaC, and automated QA included.
+          You don’t just migrate ,  you modernize. Seamless integration with CI/CD, IaC, and automated QA included.
       - title: Increased Velocity, Reduced Waste
         icon: fa-gauge-high
         content: |
@@ -85,33 +85,33 @@ sections:
       - title: Confidence in Your Tech Strategy
         icon: fa-compass-drafting
         content: |
-          Make decisions that stick. With NKD Agility’s guidance, your tech roadmap becomes an asset — not a risk.
+          Make decisions that stick. With NKD Agility’s guidance, your tech roadmap becomes an asset ,  not a risk.
       - title: Strategic Authority
         icon: fa-chess-king
         content: |
-          Become the trusted tech leader your company needs — not just the person putting out fires.
+          Become the trusted tech leader your company needs ,  not just the person putting out fires.
   - title: Executive-Level Buy-In
     type: content
     content: |
-      We speak the language of the boardroom — and equip you to do the same.
+      We speak the language of the boardroom ,  and equip you to do the same.
   - type: outcomeboxes
     title: What we bring to your DevOps migration
     boxes:
-      - box: 
+      - box:
         items:
           - title: Migrate legacy systems to modern DevOps
           - title: Eliminate downtime during transformation
           - title: Implement secure, scalable infrastructure
           - title: Standardize CI/CD, IaC, monitoring, and QA
           - title: Enable faster, more predictable delivery
-      - box: 
+      - box:
         items:
           - title: Build trust in the migration strategy
           - title: Reduce anxiety and gain clarity in complex transitions
           - title: Feel in control of an overwhelming landscape
           - title: Reclaim confidence and reduce burnout
           - title: Manage risk while innovating
-      - box: 
+      - box:
         items:
           - title: Advocate confidently to execs and stakeholders
           - title: Mentor teams through change
@@ -148,7 +148,7 @@ sections:
         content: |
           Leadership without guesswork.
     sideContent: |
-      **We’ve seen migrations go wrong — and know how to get them right.**
+      **We’ve seen migrations go wrong ,  and know how to get them right.**
 
       Unlike traditional consultancies, we embed deep engineering expertise (backed by Martin Hinshelwood’s Microsoft MVP status) with Agile product development, delivering strategic outcomes that stick.
   - type: sectioncta
@@ -171,6 +171,4 @@ creator: Martin Hinshelwood
 icon: fa-cloud-upload-alt
 ResourceId: 3ZsP7HmazPs
 ResourceType: outcomes
-
 ---
-

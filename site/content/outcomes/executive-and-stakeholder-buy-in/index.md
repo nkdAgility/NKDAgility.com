@@ -30,11 +30,11 @@ sections:
 
         But without buy-in from the boardroom, nothing moves.
   - content: |
-      **NKD Agility helps technical leaders win trust, funding, and influence.** We give you the tools, metrics, and language to communicate value—and the confidence to lead with authority.
+      **NKD Agility helps technical leaders win trust, funding, and influence.** We give you the tools, metrics, and language to communicate value, and the confidence to lead with authority.
     type: content
   - type: outcomehero
     cta:
-      content: Ready to Lead With Authority?  **Let’s help you tell the right story—to the right people.**
+      content: Ready to Lead With Authority?  **Let’s help you tell the right story, to the right people.**
       button:
         text: Book an Executive Buy-In Strategy Session
         url: /company/book-online
@@ -63,7 +63,7 @@ sections:
       - title: Stalled Initiatives Due to Poor Buy-In
         icon: fa-chart-simple
         content: |
-          Great ideas die because stakeholders never felt the urgency—or understood the value.
+          Great ideas die because stakeholders never felt the urgency, or understood the value.
       - title: Lack of a Clear Narrative for Why Now
         icon: fa-bullseye-pointer
         content: |
@@ -80,7 +80,7 @@ sections:
       - title: Boardroom-Ready Business Cases
         icon: fa-chart-simple
         content: |
-          We help you map outcomes to metrics that matter—cost reduction, time-to-market, customer value.
+          We help you map outcomes to metrics that matter, cost reduction, time-to-market, customer value.
       - title: Confidence in Communicating Value
         icon: fa-bullseye-arrow
         content: |
@@ -92,7 +92,7 @@ sections:
       - title: Improved Funding Cycles & Resource Allocation
         icon: fa-chart-sine
         content: |
-          Stakeholders understand what they’re buying—and why it’s worth it.
+          Stakeholders understand what they’re buying, and why it’s worth it.
   - title: Influence & Strategic Credibility
     type: content
     content: |
@@ -100,21 +100,21 @@ sections:
   - type: outcomeboxes
     title: We help you
     boxes:
-      - box: 
+      - box:
         items:
           - title: Help stakeholders understand and support the case for investment
           - title: Translate technical vision into business outcomes
           - title: Build business cases aligned to measurable results
           - title: Unblock stalled transformations
           - title: Justify DevOps, Agile, and modernization programs
-      - box: 
+      - box:
         items:
           - title: Feel empowered to lead from the front
           - title: Reduce anxiety around presenting to execs
           - title: Gain respect from cross-functional stakeholders
           - title: Unblock progress with shared understanding and aligned priorities
           - title: Gain pride in leading change - not just suggesting it
-      - box: 
+      - box:
         items:
           - title: Be seen as a credible, strategic leader
           - title: Build influence with peers and senior decision-makers
@@ -152,7 +152,7 @@ sections:
           Real-world coaching from leaders who’ve been in your shoes
     sideContent: |
       **Real influence isn’t declared. It’s earned through clarity, context, and trust.**  
-      NKD Agility helps technical leaders bridge strategy and execution so that value becomes obvious—and decisions move faster.
+      NKD Agility helps technical leaders bridge strategy and execution so that value becomes obvious, and decisions move faster.
 
       Led by Microsoft MVP Martin Hinshelwood, we help you turn vision into alignment, and alignment into authority.
   - type: sectioncta
@@ -175,6 +175,4 @@ creator: Martin Hinshelwood
 icon: fa-handshake
 ResourceId: geznVaAkN1-
 ResourceType: outcomes
-
 ---
-

@@ -29,10 +29,11 @@ tags:
   - Frequent Releases
   - Software Development
   - Pragmatic Thinking
-  - Operational Practices
   - Team Performance
+  - Operational Practices
   - Market Adaptability
   - Deployment Frequency
+  - Metrics and Learning
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7293667330381787136

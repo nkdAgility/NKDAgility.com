@@ -27,7 +27,7 @@ headline:
       text: Privacy Policy
 ---
 
-We operate on a fixed-price model, removing the need for time tracking or seeking additional approvals to ask questions or engage for value. Fees are based on a defined time period. For example, if we agree to a 1-month engagement, the work begins on the agreed start date, and the 1-month period starts then. During this time, we can collaborate as much as needed on any topic within my expertise—whether technical, process-related, or otherwise.
+We operate on a fixed-price model, removing the need for time tracking or seeking additional approvals to ask questions or engage for value. Fees are based on a defined time period. For example, if we agree to a 1-month engagement, the work begins on the agreed start date, and the 1-month period starts then. During this time, we can collaborate as much as needed on any topic within my expertise, whether technical, process-related, or otherwise.
 
 > [!TIP]
 > Choose your engagement up front:
@@ -144,7 +144,7 @@ We don’t fix scope up front. We work within the constraints of the retainer an
 
 You get flexibility without micromanagement. We get clarity without red tape.
 
-Our services are timeboxed, prepaid, and delivered collaboratively. We are not a body shop. We help you examine and evolve your systems—your ways of working—not just deliver tasks.
+Our services are timeboxed, prepaid, and delivered collaboratively. We are not a body shop. We help you examine and evolve your systems, your ways of working, not just deliver tasks.
 
 - **No fixed deliverables.** We co-create outcomes within the agreed timebox.
 - **Refund guarantee.** If you’re not satisfied, we refund you.
@@ -167,7 +167,7 @@ When both sides are engaged, we make meaningful change happen.
 - _50%_ due upon acceptance; _50%_ due _15 days_ after acceptance.
 - _5% discount_ offered for full payment upon acceptance.
 - This project is _non-cancellable_ but may be _rescheduled without penalty_.
-- _Satisfaction guaranteed_ — if standards aren't met, I will _refund_ your fee.
+- _Satisfaction guaranteed_ , if standards aren't met, I will _refund_ your fee.
 - Detailed terms: [nkdagility.com/terms]({{< ref "/company/terms-of-business" >}})
 
 ## Acceptance

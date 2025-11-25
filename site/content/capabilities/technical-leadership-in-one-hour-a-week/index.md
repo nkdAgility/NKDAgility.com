@@ -20,13 +20,12 @@ type: capabilities
 sections:
   - type: headline
     headline:
-      title: "\U0001F680 1 Hour a Week to Thriving Leadership"
-      subtitle: Build Confidence. Drive Outcomes. Lead with Technical Clarity.
+      title: "Technical Leadership in One Hour a Week"
+      subtitle: Weekly Strategic Coaching for Technical Leaders
       content: |
-        Most managers are promoted into leadership without any training, coaching, or mentorship.  
-        According to **Gallup**, 65% of managers never receive formal training in their role, yet they’re expected to lead teams through complex engineering practices in fast‑moving, competitive environments.
+        Consulting service providing weekly strategic coaching for CTOs, engineering directors, and technical leaders.
 
-        That’s why Martin Hinshelwood created a simple but powerful solution: **one hour a week** of focused leadership transformation.
+        One hour per week of focused leadership guidance addressing strategy, architecture decisions, organisational design, stakeholder alignment, and engineering culture. Coaching integrates leadership development with ongoing operational responsibilities.
   - type: textNlist
     title: Transformative Coaching in One Hour a Week
     sideContent: |
@@ -104,6 +103,4 @@ menus:
     parent: Consulting Services
 ResourceId: U0akd22Voq8
 ResourceType: capabilities
-
 ---
-

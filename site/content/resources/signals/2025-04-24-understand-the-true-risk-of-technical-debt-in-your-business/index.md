@@ -42,11 +42,11 @@ Watermarks:
   tldr: 2025-08-07T12:33:15Z
 ResourceId: SLaqpu5BHH8
 ResourceType: signals
-
 ---
+
 If your business truly understood the risk of technical debt, you wouldn’t accept any of it.
 
-There’s a myth that "some level of technical debt is manageable." But let’s be clear—technical debt is 100% risk. It’s an unhedged fund with no asset securing it, no insurance to mitigate it. The cost isn’t just in future refactoring; it’s in lost time, lost agility, and lost opportunities.
+There’s a myth that "some level of technical debt is manageable." But let’s be clear, technical debt is 100% risk. It’s an unhedged fund with no asset securing it, no insurance to mitigate it. The cost isn’t just in future refactoring; it’s in lost time, lost agility, and lost opportunities.
 
 At Microsoft, TFS was delivered on a two-year cycle. By 2012, with 600 engineers, they were shipping just 24 features a year. Technical debt had turned a powerhouse into a bottleneck. It wasn’t until they embraced 3-week Sprints and tackled the underlying debt that they regained agility.
 

@@ -3,7 +3,7 @@ title: First Principal
 ClassificationType: concepts
 trustpilot: false
 description: Foundational, non-derivable truths that anchor strategy, guide system design, and define the boundaries of professional practice.
-abstract: A First Principle is an irreducible, self-evident truth that forms the foundation of a system of thought or action. In Lean-Agile, Scrum, and DevOps contexts, first principles guide decision-making by anchoring practices, strategies, and heuristics to immutable truths. Unlike derived principles, which are context-dependent and adaptive, first principles remain stable across domains and serve as the baseline for evaluating whether a system’s design, behaviour, or outcome is valid. First principles are not suggestions — they are non-negotiable constraints that define the boundary of professionalism.
+abstract: A First Principle is an irreducible, self-evident truth that forms the foundation of a system of thought or action. In Lean-Agile, Scrum, and DevOps contexts, first principles guide decision-making by anchoring practices, strategies, and heuristics to immutable truths. Unlike derived principles, which are context-dependent and adaptive, first principles remain stable across domains and serve as the baseline for evaluating whether a system’s design, behaviour, or outcome is valid. First principles are not suggestions ,  they are non-negotiable constraints that define the boundary of professionalism.
 date: 2025-05-13T09:00:00
 weight: 335
 icon: fa-dna
@@ -32,7 +32,7 @@ Instructions: |-
   Classify content here only if it directly addresses the identification, explanation, or application of first principles as foundational, immutable constraints in Lean-Agile, Scrum, or DevOps contexts. Exclude any content that treats principles as optional, flexible, or contextually negotiable.
 headline:
   cards: []
-  title: 'First Principal: Anchoring Agile Decisions in Immutable Truths'
+  title: "First Principal: Anchoring Agile Decisions in Immutable Truths"
   subtitle: Foundational truths that anchor decision-making, validate practices, and define professional boundaries across complexity, delivery, and organisational change.
   content: First Principal defines irreducible truths that underpin effective decision-making, organisational adaptability, and professional conduct. Posts categorised here clarify foundational constraints governing complexity, flow, continuous improvement, evidence-based decisions, and system validity, enabling teams and leaders to anchor strategies, practices, and metrics in stable, domain-independent realities rather than transient trends or dogma.
   updated: 2025-05-23T23:18:59Z
@@ -45,13 +45,13 @@ ItemType: concepts
 ResourceType: concepts
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
+
 A **First Principle** is an **irreducible truth**. It is not a heuristic, value, or belief. It is a foundational constraint on how complex systems behave, adapt, and deliver value.
 
-First principles are not negotiable. They define the baseline of professional conduct in software delivery, product development, and organisational agility. If a practice violates a first principle, it is not contextually inappropriate — it is fundamentally wrong.
+First principles are not negotiable. They define the baseline of professional conduct in software delivery, product development, and organisational agility. If a practice violates a first principle, it is not contextually inappropriate , it is fundamentally wrong.
 
-> First principles are not what you believe. They are what is true — whether you believe it or not.
+> First principles are not what you believe. They are what is true , whether you believe it or not.
 
 ## Why it Matters
 
@@ -59,7 +59,7 @@ Most Agile, Lean, and DevOps failures come from local optimisation, dogma, or bl
 
 - Test whether a system is valid or fragile.
 - Design strategies and practices that scale without collapsing under complexity.
-- Anchor coaching, leadership, and product delivery in reality — not fashion.
+- Anchor coaching, leadership, and product delivery in reality , not fashion.
 
 They enable coherence across roles, domains, and frameworks by framing what must be preserved regardless of tooling, domain, or context.
 
@@ -68,7 +68,7 @@ They enable coherence across roles, domains, and frameworks by framing what must
 | Attribute              | Description                                                              |
 | ---------------------- | ------------------------------------------------------------------------ |
 | **Non-Derivable**      | Cannot be deduced from other ideas. They stand on their own.             |
-| **Domain-Independent** | Apply across all disciplines of delivery — from code to culture.         |
+| **Domain-Independent** | Apply across all disciplines of delivery , from code to culture.         |
 | **Immutable**          | Do not change with trends, tools, or roles.                              |
 | **Constraining**       | Define the edge of professionalism; crossing them is not a style choice. |
 
@@ -79,7 +79,7 @@ These are not aspirational ideals. They are constraints you violate at your peri
 **Principles** are useful, contextual, and adaptable.
 **First Principles** are required, foundational, and absolute.
 
-If a principle is optional, flexible, or advisory — it’s not a first principle.
+If a principle is optional, flexible, or advisory , it’s not a first principle.
 
 ## Why This Is Useful for Teams
 

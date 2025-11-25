@@ -53,11 +53,11 @@ Watermarks:
   tldr: 2025-08-07T12:34:24Z
 ResourceId: xKiwFed7LSB
 ResourceType: signals
-
 ---
+
 The Product Owner is not a backlog manager.
 
-A great Product Owner is a product strategist, a market expert, and a value maximiser. They don’t just prioritise features—they ensure the team is building the right product in the right way to deliver real business impact.
+A great Product Owner is a product strategist, a market expert, and a value maximiser. They don’t just prioritise features, they ensure the team is building the right product in the right way to deliver real business impact.
 
 Yet, many organisations treat the Product Owner role as a glorified business analyst.
 

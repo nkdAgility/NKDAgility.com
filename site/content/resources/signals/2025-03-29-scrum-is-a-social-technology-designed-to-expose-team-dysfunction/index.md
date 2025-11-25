@@ -53,9 +53,9 @@ Watermarks:
   tldr: 2025-08-07T12:34:18Z
 ResourceId: CNqQyGHkbF3
 ResourceType: signals
-
 ---
-Scrum isn’t a process—it’s a social technology designed to expose dysfunction.
+
+Scrum isn’t a process, it’s a social technology designed to expose dysfunction.
 
 - The Scrum Master ensures Scrum is applied effectively.
 - The Product Owner maximises value.
@@ -63,11 +63,11 @@ Scrum isn’t a process—it’s a social technology designed to expose dysfunct
 
 If any of these accountabilities break down, Scrum falls apart.
 
-A Scrum Master who doesn’t challenge poor practices isn’t "servant-leading"—they’re letting teams fail slowly.
+A Scrum Master who doesn’t challenge poor practices isn’t "servant-leading", they’re letting teams fail slowly.
 
-A Product Owner who treats the backlog like a list of requirements isn’t "managing scope"—they’re avoiding accountability for value.
+A Product Owner who treats the backlog like a list of requirements isn’t "managing scope", they’re avoiding accountability for value.
 
-Developers that hide behind technical debt aren’t "moving fast"—they are digging a hole they’ll have to climb out of later.
+Developers that hide behind technical debt aren’t "moving fast", they are digging a hole they’ll have to climb out of later.
 
 Scrum is not about best practices. It’s about exposing the uncomfortable realities that stop teams from delivering value.
 

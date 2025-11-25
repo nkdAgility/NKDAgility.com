@@ -1,6 +1,6 @@
 ---
 title: Second blogger from my office
-description: A colleague has started blogging, sharing a useful SQL Server function to add working days to a date—helpful for support analysts and database professionals.
+description: A colleague has started blogging, sharing a useful SQL Server function to add working days to a date, helpful for support analysts and database professionals.
 date: 2009-08-21
 lastmod: 2009-08-21
 weight: 1000
@@ -32,8 +32,8 @@ ResourceImportId: 89
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: metro-aggreko-128-link-1-1.png
-
 ---
+
 One of my colleagues is facing the maelstrom that is corporate blogjection and has become [a geek with a blog](http://geekswithblogs.net/RoddyCrossan/archive/2009/08/21/sql-server-function-to-add-working-days-on-to-a.aspx). Have a heart as he is a poor under-paid support analyst who hits WAY above his pay grade.
 
 Welcome [Roddy](http://geekswithblogs.net/RoddyCrossan)… good first post on [SQL Server Function to add working days on to a date](http://geekswithblogs.net/RoddyCrossan/archive/2009/08/21/sql-server-function-to-add-working-days-on-to-a.aspx), I always wanted to know how to do that!

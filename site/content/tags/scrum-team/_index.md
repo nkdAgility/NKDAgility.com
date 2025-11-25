@@ -26,7 +26,7 @@ Instructions: |-
   - Discussions unrelated to the formal accountability defined in the Scrum Guide
 headline:
   cards: []
-  title: 'Scrum Team: Empowering Collective Accountability for Agile Delivery'
+  title: "Scrum Team: Empowering Collective Accountability for Agile Delivery"
   subtitle: Exploring team dynamics, accountabilities, and collaborative practices essential for delivering incremental value in complex, adaptive environments.
   content: A Scrum Team is a self-managing, cross-functional group collectively accountable for delivering incremental product value each Sprint. Posts cover team structure, collaboration dynamics, collective accountability, stakeholder engagement, continuous improvement practices, and team effectiveness within complex, adaptive environments, drawing insights from Scrum, Kanban, complexity theory, and evidence-based management.
   updated: 2025-05-23T23:31:23Z
@@ -54,12 +54,12 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
+
 A Scrum Team is the core accountability in Scrum, responsible for delivering value through iterative, incremental work. It consists of a Scrum Master, Product Owner, and Developers, working collaboratively toward a single Product Goal.
 
 The Scrum Team is self-managing and cross-functional. It has no sub-teams or hierarchies, and it is collectively accountable for creating a usable Increment every Sprint. Each member may hold a distinct accountability, but the team itself is responsible for the outcome.
 
 Unlike roles or practices, the Scrum Team is an entity defined in the Scrum framework, empowered by the organisation to manage its own work. Its accountability spans all aspects of product delivery, from stakeholder collaboration and development to validation and release.
 
-This tag is used to explore the nature, structure, and responsibilities of the Scrum Team as a whole—not just how the individuals interact, but what they are collectively accountable for in complex, adaptive environments.
+This tag is used to explore the nature, structure, and responsibilities of the Scrum Team as a whole, not just how the individuals interact, but what they are collectively accountable for in complex, adaptive environments.

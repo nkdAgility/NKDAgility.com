@@ -1,5 +1,5 @@
 ---
-title: 'Bridging the Gap: How to Align Your Organisation for Successful Agile Product Management'
+title: "Bridging the Gap: How to Align Your Organisation for Successful Agile Product Management"
 short_title: Aligning Organisations for Agile Product Management
 description: Learn how to align teams, stakeholders, and processes for effective agile product management by fostering shared goals, clear communication, and evidence-based practices.
 tldr: Successfully adopting agile product management requires more than dropping old project management methods; organisations must clearly define and communicate a shared vision, focus on delivering real value, and validate progress with the right metrics. Engaging all teams and stakeholders in the goal-setting process and using evidence-based and hypothesis-driven approaches are key to aligning efforts and maximising value. Development managers should prioritise cross-team collaboration and ensure everyone understands and is invested in the common objective to achieve better outcomes.
@@ -26,14 +26,15 @@ aliasesArchive:
   - bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
 source: youtube
 layout: video
-concepts: []
+concepts:
+  - Strategy
 categories:
   - Product Development
   - Product Management
 tags:
   - Common Goals
-  - Enterprise Agility
   - Agile Strategy
+  - Enterprise Agility
   - Product Strategy
   - Personal
   - Product Delivery
@@ -42,6 +43,8 @@ tags:
   - Agile Philosophy
   - Pragmatic Thinking
   - Software Development
+  - Agile Planning
+  - Decision Making
   - Customer Focus
 Watermarks:
   description: 2025-05-07T13:05:13Z
@@ -57,9 +60,9 @@ duration: 256
 resourceTypes:
   - video
 isShort: false
-
 ---
-In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've often encountered a significant gap in how organisations approach [product management]({{< ref "/categories/product-management" >}}). This gap becomes glaringly obvious when companies attempt to transition from traditional [project management]({{< ref "/tags/project-management" >}}) methods—think Gantt charts and rigid milestones—to a more agile mindset. The reality is that building software products is inherently complex and dynamic, and the old ways simply don’t cut it anymore.
+
+In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've often encountered a significant gap in how organisations approach [product management]({{< ref "/categories/product-management" >}}). This gap becomes glaringly obvious when companies attempt to transition from traditional [project management]({{< ref "/tags/project-management" >}}) methods, think Gantt charts and rigid milestones, to a more agile mindset. The reality is that building software products is inherently complex and dynamic, and the old ways simply don’t cut it anymore.
 
 ### The Challenge of Transitioning to Agile
 
@@ -73,11 +76,11 @@ These elements are crucial for fostering collaboration and ensuring that everyon
 
 ### The Importance of a Common Goal
 
-In my experience, one of the most significant oversights in many organisations is the failure to communicate a common goal effectively. It’s not enough to simply announce a directive; we need to engage everyone involved in the process. People don’t just follow goals; they follow their own. Therefore, it’s essential to create an environment where all team members—from software developers to legal and cybersecurity personnel—understand and are invested in the shared objective of delivering value to our customers.
+In my experience, one of the most significant oversights in many organisations is the failure to communicate a common goal effectively. It’s not enough to simply announce a directive; we need to engage everyone involved in the process. People don’t just follow goals; they follow their own. Therefore, it’s essential to create an environment where all team members, from software developers to legal and cybersecurity personnel, understand and are invested in the shared objective of delivering value to our customers.
 
 ### Engaging the Entire Organisation
 
-To truly engage everyone in the organisation, we must ensure that our goals are not only communicated but also understood and embraced by all. This means involving stakeholders and customers in the conversation, allowing them to contribute to the narrative of what we’re trying to achieve. 
+To truly engage everyone in the organisation, we must ensure that our goals are not only communicated but also understood and embraced by all. This means involving stakeholders and customers in the conversation, allowing them to contribute to the narrative of what we’re trying to achieve.
 
 - **Involve Stakeholders**: Regularly engage with those who have a stake in the product.
 - **Communicate Effectively**: Use clear and consistent messaging to ensure everyone is on the same page.

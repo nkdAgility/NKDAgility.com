@@ -8,33 +8,33 @@ sitemap:
   priority: 0.7
 headline:
   cards: []
-  subtitle: We empower organizations to achieve unparalleled success in today’s dynamic market.
+  subtitle: We help organizations improve the performance of their digital products through measurable business outcomes.
   title: Outcomes - What do you get?
-  content: Our proven strategies enhance Team Effectiveness, deliver Higher Quality Products, and foster a culture of Continuous Improvement. Discover how our tailored approaches can significantly reduce your Time to Market and boost Market Adaptability, setting your business apart. Explore the transformative outcomes we offer and see why companies trust NKDAgility to elevate their performance and thrive in competitive environments.
+  content: Our clients see faster delivery cycles, higher product quality, and better economic returns by focusing on evidence-based decisions and strong engineering leadership. We enable leaders to build empowered teams, clearer value flow, and measurable business outcomes. Discover how our operating model approach reduces delivery friction, strengthens decision-making, and provides organizations with a more resilient, adaptable, and effective system of work.
 sections:
   - type: headline
     headline:
       title: The Outcomes We Help You Achieve
-      subtitle: Culture. Capability. Clarity. Confidence.
+      subtitle: Speed. Quality. Economic Returns. Strategic Advantage.
       content: |
-        **We don’t lead with process. We lead with outcomes.**  
+        **We don't lead with process. We lead with measurable business outcomes.**  
 
-        Every engagement is designed to create lasting change: more aligned teams, higher quality delivery, faster flow, and executive-level credibility.  
+        Every engagement is designed to create lasting change: empowered teams, faster delivery cycles, higher quality products, and better economic returns through evidence-based decisions and strong engineering leadership.  
 
-        Explore the results we help our clients achieve — and see what’s possible in your organisation.
+        Explore the results we help our clients achieve ,  and see what's possible when technology becomes a strategic advantage in your organisation.
   - type: textNlist
     title: Start With Results, Not Methods
     sideContent: |
-      We’re here to make your teams faster, your systems more reliable, and your strategy deliverable.
+      We're here to improve the performance of your digital products by creating operating models that increase speed, strengthen decision-making, and reduce delivery friction.
 
-      That’s why we start with outcomes — and only apply methods that move the needle.
+      That's why we start with measurable business outcomes ,  and only apply methods that deliver real results.
 
-      From coaching CTOs to transforming legacy delivery pipelines, everything we do is aligned to _evidence of progress_.
+      From coaching CTOs to transforming delivery systems, everything we do aligns strategy, discovery, delivery, and operations to create _evidence of progress_.
 
     list:
       - icon: fa-arrow-trend-up
         content: |
-          From frameworks to flow
+          From frameworks to measurable flow
       - icon: fa-arrows-left-right-to-line
         content: |
           From busyness to predictability

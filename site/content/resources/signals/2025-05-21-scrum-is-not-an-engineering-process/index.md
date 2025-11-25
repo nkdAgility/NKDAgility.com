@@ -25,7 +25,6 @@ categories:
   - Scrum
   - Leadership
 tags:
-  - Organisational Agility
   - Social Technologies
   - Organisational Culture
   - Agile Philosophy
@@ -35,6 +34,7 @@ tags:
   - Sociotechnical Systems
   - Pragmatic Thinking
   - Agile Leadership
+  - Organisational Agility
   - Professional Scrum
 platform_signals:
   - platform: LinkedIn

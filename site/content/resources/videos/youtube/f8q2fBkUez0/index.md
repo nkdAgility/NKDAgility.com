@@ -1,5 +1,5 @@
 ---
-title: 'Empowering Employees: The Crucial Link Between Financial Awareness and Motivation'
+title: "Empowering Employees: The Crucial Link Between Financial Awareness and Motivation"
 short_title: Financial Awareness Drives Employee Motivation
 description: Explores how financial awareness boosts employee motivation, decision-making, and accountability, highlighting the impact of financial literacy on workplace culture and performance.
 tldr: Employees often lack awareness of the financial impact of their work, which can lead to missed opportunities and poor decisions. Promoting financial literacy and open discussions about costs helps teams make better choices, increases motivation, and drives accountability. Development managers should actively foster financial awareness to empower teams and improve business outcomes.
@@ -45,13 +45,13 @@ duration: 4859
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In the world of agile and organisational development, one topic that often surfaces is the relationship between financial awareness and employee motivation. Recently, I had the opportunity to engage in a thought-provoking discussion with my colleagues, Ryan and Michael, about whether companies should take money off the table when it comes to motivating their employees. This conversation sparked some reflections on my own experiences and the broader implications for businesses today.
 
 ### Understanding Financial Literacy in the Workplace
 
-One of the key points that emerged from our discussion was the alarming lack of financial literacy among employees. Many individuals within organisations are blissfully unaware of the costs associated with their work. For instance, consider a development team that releases software only three times a year. While they may feel content with their stable jobs and salaries, they are incurring significant costs—potentially hundreds of thousands of dollars—on [release management]({{< ref "/tags/release-management" >}}) alone. This lack of awareness can lead to poor decision-making and missed opportunities for improvement.
+One of the key points that emerged from our discussion was the alarming lack of financial literacy among employees. Many individuals within organisations are blissfully unaware of the costs associated with their work. For instance, consider a development team that releases software only three times a year. While they may feel content with their stable jobs and salaries, they are incurring significant costs, potentially hundreds of thousands of dollars, on [release management]({{< ref "/tags/release-management" >}}) alone. This lack of awareness can lead to poor decision-making and missed opportunities for improvement.
 
 - **The Cost of Inaction**: If a team spends 60 days on release management each quarter, that’s a staggering cost. For a team of ten developers, this could easily exceed $2 million annually. Yet, many employees do not grasp the financial implications of their processes, which can hinder their ability to advocate for necessary changes.
 
@@ -61,7 +61,7 @@ One of the key points that emerged from our discussion was the alarming lack of 
 
 As we delved deeper into the conversation, I found myself reflecting on the distinction between personal financial concerns and the financial realities of the business. While it’s essential for employees to feel secure in their personal finances, this should not come at the expense of understanding the business's financial landscape.
 
-- **Intrinsic vs. Extrinsic Motivation**: Dan Pink’s ideas about motivation suggest that when employees are not worried about their livelihoods, they can focus on intrinsic motivators like autonomy, mastery, and purpose. However, this does not negate the need for employees to understand the costs associated with their work. 
+- **Intrinsic vs. Extrinsic Motivation**: Dan Pink’s ideas about motivation suggest that when employees are not worried about their livelihoods, they can focus on intrinsic motivators like autonomy, mastery, and purpose. However, this does not negate the need for employees to understand the costs associated with their work.
 
 - **A Personal Anecdote**: In my own experience as a [Scrum]({{< ref "/categories/scrum" >}}) trainer, I worked with a consulting company where our team was charged $60,000 per Sprint. This financial context shaped our decisions and priorities. We constantly asked ourselves, "What value are we delivering for that investment?" This mindset is crucial for any team aiming to maximise their impact.
 
@@ -69,14 +69,14 @@ As we delved deeper into the conversation, I found myself reflecting on the dist
 
 The crux of our discussion revolved around the need for organisations to bridge the gap between employee awareness and business financials. It’s not just about taking money off the table; it’s about empowering employees with the knowledge they need to make informed decisions.
 
-- **Encouraging Open Dialogue**: Companies should foster an environment where financial discussions are encouraged. Employees should feel comfortable discussing their contributions and understanding how their roles impact the bottom line. 
+- **Encouraging Open Dialogue**: Companies should foster an environment where financial discussions are encouraged. Employees should feel comfortable discussing their contributions and understanding how their roles impact the bottom line.
 
 - **Learning from Others**: I shared an example from Jaguar Land Rover, where a simple change in policy allowed employees to approve spending decisions. This shift not only empowered individuals but also led to significant cost savings and improved operational efficiency.
 
 ### Conclusion: A Call to Action
 
-As we wrapped up our conversation, it became clear that the relationship between financial awareness and employee motivation is complex yet vital. Companies that shield their employees from financial realities may inadvertently stifle innovation and growth. 
+As we wrapped up our conversation, it became clear that the relationship between financial awareness and employee motivation is complex yet vital. Companies that shield their employees from financial realities may inadvertently stifle innovation and growth.
 
-- **Take Action**: I encourage leaders to promote financial literacy within their teams. By doing so, you not only enhance decision-making but also create a culture of accountability and ownership. 
+- **Take Action**: I encourage leaders to promote financial literacy within their teams. By doing so, you not only enhance decision-making but also create a culture of accountability and ownership.
 
 In the end, understanding the financial implications of our work is not just a business necessity; it’s a pathway to greater engagement and success for everyone involved. Let’s strive to create environments where financial awareness is the norm, not the exception.

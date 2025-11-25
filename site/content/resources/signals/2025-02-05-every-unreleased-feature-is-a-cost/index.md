@@ -55,12 +55,12 @@ Watermarks:
   tldr: 2025-08-07T12:40:17Z
 ResourceId: PNGuJocqSoD
 ResourceType: signals
-
 ---
+
 Every unreleased feature is a cost.
 
 Many teams treat software development like a factory, assuming that as long as work is being done, value is being created. But without delivery, all that effort is meaningless.
 
-The CHAOS Report proves that long-cycle projects are far more likely to fail, while DORA metrics show that frequent releases reduce risks and improve stability. If you are not shipping regularly, you are accumulating hidden costs—unvalidated work, increased rework, and lost opportunities.
+The CHAOS Report proves that long-cycle projects are far more likely to fail, while DORA metrics show that frequent releases reduce risks and improve stability. If you are not shipping regularly, you are accumulating hidden costs, unvalidated work, increased rework, and lost opportunities.
 
 Are you delivering value or just doing work?

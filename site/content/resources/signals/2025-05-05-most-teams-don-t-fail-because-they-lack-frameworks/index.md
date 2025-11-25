@@ -58,8 +58,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:49Z
 ResourceId: sX2UVhPk6cL
 ResourceType: signals
-
 ---
+
 Most teams don’t fail because they lack frameworks.  
 They fail because they don't act on the feedback those frameworks expose.
 
@@ -67,7 +67,7 @@ Agile and Scrum light up the broken parts of your system like a warning light on
 Ignoring them doesn't make the problems go away. It makes them worse.
 
 The hardest part of agility isn’t getting a team to do Sprints.  
-The hardest part is building an environment where it’s safe—and expected—to act on what you learn.
+The hardest part is building an environment where it’s safe, and expected, to act on what you learn.
 
 A team that delivers real change is a team that is listened to, respected, and empowered to make the hard calls.
 

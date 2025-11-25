@@ -99,11 +99,11 @@ foreach ($hugoMarkdown in $sortedList ) {
     Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter ('$($hugoMarkdown.FrontMatter.title)') of $TotalFiles" -PercentComplete $PercentComplete
 
         
-    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'trustpilot' -fieldValue $false -addAfter 'title' 
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'trustpilot' -fieldValue $false
 
     $ClassificationType = "Classification"
     $ClassificationType = Split-Path $hugoMarkdown.FolderPath -Parent | Split-Path -Leaf
-    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ClassificationType' -fieldValue $ClassificationType -addAfter 'title' -Overwrite
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ClassificationType' -fieldValue $ClassificationType -Overwrite
 
     #=================description=================
     if (-not $hugoMarkdown.FrontMatter.abstract) {
@@ -114,7 +114,7 @@ foreach ($hugoMarkdown in $sortedList ) {
         }
         $abstract = Get-OpenAIResponse -Prompt $prompt
         # Update the description in the front matter
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'abstract' -fieldValue $abstract -addAfter 'title' 
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'abstract' -fieldValue $abstract
     }
 
     if (-not $hugoMarkdown.FrontMatter.description -or $hugoMarkdown.FrontMatter.description -match "no specific details provided" -or $hugoMarkdown.FrontMatter.description.Length -gt 180) {
@@ -126,7 +126,7 @@ foreach ($hugoMarkdown in $sortedList ) {
         }
         $description = Get-OpenAIResponse -Prompt $prompt
         # Update the description in the front matter
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' 
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description
     }
 
     if (-not $hugoMarkdown.FrontMatter.icon -or $hugoMarkdown.FrontMatter.icon -match "none") {
@@ -139,7 +139,7 @@ foreach ($hugoMarkdown in $sortedList ) {
         }
         $icon = Get-OpenAIResponse -Prompt $iconprompt
         # Update the description in the front matter
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'icon' -fieldValue $icon -addAfter 'date' 
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'icon' -fieldValue $icon
     }
 
 
@@ -153,8 +153,8 @@ foreach ($hugoMarkdown in $sortedList ) {
         }
         $Instructions = Get-OpenAIResponse -Prompt $prompt
         # Update the description in the front matter
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Instructions' -fieldValue $Instructions -addAfter 'description' -Overwrite
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -addAfter 'title' 
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Instructions' -fieldValue $Instructions -Overwrite
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
     } 
 
     # // prettier-ignore
@@ -188,7 +188,7 @@ foreach ($hugoMarkdown in $sortedList ) {
             content  = $ClassificationDescription
             updated  = (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
         }
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'headline' -fieldValue  $headline -addAfter 'Instructions' -Overwrite
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'headline' -fieldValue  $headline -Overwrite
     }
 
     # =================CONTENT====================
@@ -211,7 +211,7 @@ foreach ($hugoMarkdown in $sortedList ) {
         $hugoMarkdown.BodyContent = $ClassificationContent
         $updateDate = Get-Date -Format "yyyy-MM-ddTHH:mm:ss"
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'BodyContentGenDate' -fieldValue $updateDate -Overwrite
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ClassificationContentOrigin' -fieldValue "AI" -addAfter 'ClassificationType'
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ClassificationContentOrigin' -fieldValue "AI"
     }
 
     if ($hugoMarkdown.BodyContent) {
@@ -251,7 +251,7 @@ foreach ($hugoMarkdown in $sortedList ) {
     if ($weight -eq 0) {
         $weight = 1000
     }
-    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'weight' -fieldValue $weight -addAfter 'date' -Overwrite
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'weight' -fieldValue $weight -Overwrite
 
     # =================COMPLETE===================
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile 

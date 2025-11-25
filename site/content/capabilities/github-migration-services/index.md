@@ -19,32 +19,32 @@ type: capabilities
 sections:
   - type: headline
     headline:
-      title: Azure DevOps (TFS) to Github Migration
-      subtitle: Unlock Modern Software Delivery. Ditch Legacy TFS. Move with Confidence.
+      title: GitHub Migration Services
+      subtitle: Migration from Azure DevOps and TFS to GitHub
       content: |
-        Your teams are still shipping from Team Foundation Server. You know it’s slowing you down. But the migration to GitHub feels risky, code history, permissions, workflows, integrations… it’s a lot.
+        Teams shipping from Team Foundation Server or Azure DevOps Server. Migration to GitHub requires careful handling of code history, permissions, workflows, and integrations.
 
-        **That’s where NKD Agility comes in.** We help engineering organizations migrate from TFS (or Azure DevOps Server) to GitHub with **clarity, control, and zero guesswork**, so you can future-proof your development pipeline without disrupting delivery.
+        We provide migration services from TFS and Azure DevOps Server to GitHub, covering repository migration, Actions configuration, security setup, and team onboarding.
   - type: outcomehero
     cta:
-      content: Unlock Modern Software Delivery. Ditch Legacy Source Control. Move with Confidence. **Let's Talk.**
+      content: Migration services from TFS and Azure DevOps to GitHub. **Book a migration consultation.**
       button:
-        text: Book a migration Call
+        text: Book a Migration Call
         url: /company/book-online
     boxes: []
-  - type: none
-    title: Why Migrate from TFS to GitHub?
+  - type: textNlist
+    title: GitHub Migration Context
+    sideContent: |
+      GitHub provides cloud-native CI/CD through Actions, integrated security and compliance features, modern collaboration tools, and AI-powered development capabilities.
+
+      Migration services cover repository structure transformation, workflow conversion, security configuration, and team enablement for GitHub-native development practices.
     content: |
-      **Staying on TFS means staying stuck.**
+      Migration from TFS or Azure DevOps Server to GitHub requires:
 
-      TFS is built for an era that no longer exists. In contrast, GitHub offers:
-
-      - Modern, cloud-native CI/CD pipelines
-      - Built-in security, secrets management, and compliance
-      -  Collaboration at scale with pull requests, issues, and GitHub Actions
-      - Integration with AI-powered developer tools like Copilot
-
-      But most importantly: **GitHub lets your teams move faster, safer, and smarter.**
+      - Complete history preservation during Git transformation
+      - Workflow conversion from Classic pipelines to GitHub Actions
+      - Security and access control configuration
+      - Team onboarding and GitHub workflow training
   - type: list
     title: Why NKD Agility?
     listType: list
@@ -71,26 +71,68 @@ sections:
         icon: fa-graduation-cap
         content: |
           Our embedded coaching builds real, long-term capability in your organisation.
-  - type: none
-    title: The Cost of Waiting
+  - type: list
+    title: Migration Service Scope
+    listType: list
     content: |
-      Every day on TFS is a day your team is:
-      - Missing out on modern DevOps capabilities
-      - Carrying legacy friction and manual work
-      - Struggling to onboard new developers
-      - At risk of security gaps and operational blind spots
-  - type: none
-    title: The Outcome
-    content: |
-      After working with NKD Agility, you’ll have:
-      - Fully migrated, high-integrity GitHub repositories
-      - GitHub-native CI/CD pipelines up and running
-      - Developers empowered to move fast, commit safely, and collaborate effectively
-      - A confident, modern DevOps culture aligned with your engineering strategy
+      Services designed for organisations requiring:
+    list:
+      - title: TFS to GitHub Migration
+        icon: fa-code-branch
+        content: |
+          Complete migration from Team Foundation Server to GitHub, preserving history and workflow.
+      - title: Azure DevOps to GitHub Migration
+        icon: fa-cloud
+        content: |
+          Migration from Azure DevOps Server to GitHub with Actions workflow conversion.
+      - title: Repository Modernisation
+        icon: fa-wrench
+        content: |
+          Git transformation, pipeline redesign, and modern development practice adoption.
+      - title: Team Enablement
+        icon: fa-users
+        content: |
+          GitHub workflow training, CI/CD configuration, and ongoing capability support.
+  - type: textNlist
+    title: Service Delivery
+    sideContent: |
+      Migration services delivered through timeboxed retainer engagement. No hourly billing, no fixed deliverables, no change orders, capacity retained for migration completion.
+
+      Full risk reversal: satisfaction guaranteed with refund if service doesn't meet expectations.
+    list:
+      - icon: fa-calendar-check
+        content: |
+          **Flexible timeline** – Migration paced to minimise disruption while maintaining delivery momentum
+      - icon: fa-shield-check
+        content: |
+          **Risk management** – Validation at every stage, rollback planning, and downtime minimisation
+      - icon: fa-users-gear
+        content: |
+          **Team involvement** – Engineers participate throughout, building capability rather than dependency
+  - type: list
+    title: Why NKD Agility?
+    listType: list
+    list:
+      - title: Microsoft MVP Expertise
+        icon: fa-award
+        content: |
+          Led by Martin Hinshelwood, Microsoft MVP with specialisation in DevOps migration.
+      - title: Complete History Preservation
+        icon: fa-database
+        content: |
+          Full Git transformation maintaining complete code history and metadata.
+      - title: Proven Migration Approach
+        icon: fa-bolt
+        content: |
+          Structured methodology minimising disruption whilst maintaining delivery continuity.
+      - title: Embedded Capability Building
+        icon: fa-graduation-cap
+        content: |
+          Team enablement integrated throughout migration engagement.
   - type: outcomehero
     backgroundColor: primary
     cta:
-      content: Book a Free Migration Strategy Session with Martin Hinshelwood **Let’s talk.**
+      content: GitHub migration services. **Book a consultation.**
       button:
         text: Book a Migration Call
         url: /company/book-online
@@ -111,6 +153,4 @@ menus:
 icon: fa-cloud-arrow-up
 ResourceId: 6NS_E7j1pRu
 ResourceType: capabilities
-
 ---
-

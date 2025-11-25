@@ -1,11 +1,11 @@
 ---
-title: 'Stop Starting and Start Finishing: The Key to Team Success'
+title: "Stop Starting and Start Finishing: The Key to Team Success"
 short_title: Stop Starting, Start Finishing for Teams
 description: Multitasking reduces team productivity. Learn how focusing on finishing tasks, limiting work in progress, and value-based prioritisation boosts efficiency and business value.
 tldr: Trying to do too many tasks at once reduces team productivity due to context switching and leads to slower delivery and burnout. Focusing on finishing work before starting new tasks, limiting work in progress, and prioritizing by business value helps teams deliver faster and more predictably. Development managers should ensure their teams complete current work before taking on new tasks to maximize efficiency and business impact.
 date: 2024-01-31T14:26:11Z
 lastmod: 2024-01-31T14:26:11Z
-weight: 440
+weight: 360
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -49,6 +49,7 @@ tags:
   - Social Technologies
   - Agile Product Management
   - Software Development
+  - Agile Strategy
 Watermarks:
   description: 2025-05-07T13:06:05Z
   short_title: 2025-07-07T17:50:02Z
@@ -63,8 +64,8 @@ duration: 496
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In today's fast-paced business environment, there's often a misconception that the more tasks we juggle, the more productive we are. However, as many successful teams have realized, this couldn't be further from the truth. A popular quote from [Lean]({{< ref "/categories/lean" >}}) methodology sums it up perfectly: **"Stop starting and start finishing."** This philosophy emphasizes the importance of focusing on completing work, rather than constantly starting new tasks.
 
 In this blog post, we’ll explore why this mindset is critical for [Scrum]({{< ref "/categories/scrum" >}}) teams and how implementing it can significantly improve efficiency, productivity, and overall business value.
@@ -73,7 +74,7 @@ In this blog post, we’ll explore why this mindset is critical for [Scrum]({{< 
 
 ### **More Work ≠ More Productivity**
 
-A common fallacy is that **the more work we have in progress, the more productive we are.** This mindset is particularly prevalent in teams where members are often juggling multiple tasks at once. However, this approach leads to reduced efficiency and an increase in **context switching**—the mental effort required to shift from one task to another.
+A common fallacy is that **the more work we have in progress, the more productive we are.** This mindset is particularly prevalent in teams where members are often juggling multiple tasks at once. However, this approach leads to reduced efficiency and an increase in **context switching**, the mental effort required to shift from one task to another.
 
 As explained by **Gerald Weinberg** in his book _Systems Thinking_, each additional task or project underway causes about a **20% loss in productivity**. For example:
 
@@ -87,7 +88,7 @@ This loss occurs because our brains waste cognitive energy switching between tas
 
 ### **The Impact of Context Switching**
 
-When you’re juggling too many tasks, your brain is constantly **context switching**. Instead of focusing on the problem at hand—one that could add significant value to the business—your mind is preoccupied with managing multiple priorities.
+When you’re juggling too many tasks, your brain is constantly **context switching**. Instead of focusing on the problem at hand, one that could add significant value to the business, your mind is preoccupied with managing multiple priorities.
 
 For instance, how often have you found yourself in the shower thinking, “How do I balance these three projects and keep all stakeholders happy?” When you’re stuck in this loop, you're not solving problems that directly benefit your business. Instead, you’re merely trying to keep multiple balls in the air, and that’s not where the real value lies.
 
@@ -117,7 +118,7 @@ While Lean doesn't necessarily assign this role to an individual, it does advoca
 
 ### **Limiting Work in Progress (WIP)**
 
-Both Scrum and Lean methodologies emphasize the importance of **limiting WIP**. When teams attempt to do too many things at once, they inadvertently extend their [cycle time]({{< ref "/tags/cycle-time" >}})—the total time it takes from starting a task to finishing it.
+Both Scrum and Lean methodologies emphasize the importance of **limiting WIP**. When teams attempt to do too many things at once, they inadvertently extend their [cycle time]({{< ref "/tags/cycle-time" >}}), the total time it takes from starting a task to finishing it.
 
 One way to visualize this is through a **Cumulative Flow Diagram** (CFD), which shows the difference between the amount of work started and the amount of work finished. When the gap between these two lines grows, it’s a clear indicator that too much work is being started and not enough is being completed.
 
@@ -127,7 +128,7 @@ One way to visualize this is through a **Cumulative Flow Diagram** (CFD), which 
 
 ### **Focus on Value, Not Age**
 
-A common mistake teams make is prioritizing tasks based on how long they’ve been sitting in the backlog. While this might seem like a fair approach, it’s not necessarily the best for delivering business value. Instead, focus on **value-based prioritization**—picking the tasks that will deliver the most value to the business and completing them first.
+A common mistake teams make is prioritizing tasks based on how long they’ve been sitting in the backlog. While this might seem like a fair approach, it’s not necessarily the best for delivering business value. Instead, focus on **value-based prioritization**, picking the tasks that will deliver the most value to the business and completing them first.
 
 When teams focus on value, they can:
 
@@ -161,4 +162,4 @@ At the end of the day, the key to high-performing teams is simple: **stop starti
 
 ## **Conclusion**
 
-The principle of **stop starting and start finishing** isn’t just a Lean idea—it’s a universal truth that applies to all teams, whether they’re practicing Scrum, Lean, or another framework. By focusing on finishing work before starting new tasks, teams can avoid the cognitive drain of multitasking, improve efficiency, and deliver greater value to the business. If you’d like to learn more about how to apply this principle in your team, feel free to **book a call** with us or visit our website for more insights and upcoming classes. We’d love to help your team **start finishing**!
+The principle of **stop starting and start finishing** isn’t just a Lean idea, it’s a universal truth that applies to all teams, whether they’re practicing Scrum, Lean, or another framework. By focusing on finishing work before starting new tasks, teams can avoid the cognitive drain of multitasking, improve efficiency, and deliver greater value to the business. If you’d like to learn more about how to apply this principle in your team, feel free to **book a call** with us or visit our website for more insights and upcoming classes. We’d love to help your team **start finishing**!

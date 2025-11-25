@@ -34,9 +34,9 @@ categories:
 tags:
   - Empirical Process Control
   - Agile Strategy
+  - Decision Making
   - Business Agility
   - Continuous Improvement
-  - Decision Making
   - Evidence Based Leadership
   - Organisational Agility
   - Hypothesis Driven Development

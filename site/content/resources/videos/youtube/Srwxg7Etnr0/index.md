@@ -53,8 +53,8 @@ duration: 152
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ## Deciphering the Sprint Goal Enigma **🎯**  
 
 The Sprint goal is the North Star for any [Scrum]({{< ref "/categories/scrum" >}}) team - a beacon that guides the team’s efforts throughout the Sprint. But the million-dollar question remains: How does one conjure this all-important goal?  
@@ -107,7 +107,7 @@ This democratic process ensures that the Sprint goal isn’t a top-down assignme
 
 ## Strategies for Success 
 
-To navigate the Sprint goal setting with finesse, teams need strategies as robust as their commitment. Early engagement in goal discussions ensures that when the time comes to formalise the goal, there are no surprises — just clarity and focus. Continuous communication means keeping all channels open so feedback can flow freely and inform adjustments to the goal.  
+To navigate the Sprint goal setting with finesse, teams need strategies as robust as their commitment. Early engagement in goal discussions ensures that when the time comes to formalise the goal, there are no surprises , just clarity and focus. Continuous communication means keeping all channels open so feedback can flow freely and inform adjustments to the goal.  
 
 Lastly, ensuring visibility and clarity of the Sprint goal keeps the entire team aligned, fostering a sense of shared purpose that drives them toward a common finish line. 
 

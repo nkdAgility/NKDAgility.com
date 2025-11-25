@@ -1,14 +1,14 @@
 ---
 title: When Heathrow went down, they blamed the power supplier
-short_title: 'Heathrow Outage: Disaster Recovery Failure'
+short_title: "Heathrow Outage: Disaster Recovery Failure"
 description: Heathrow’s outage was caused by an over-sensitive disaster recovery system, not a power loss, highlighting the risks of untested resilience and flawed infrastructure assumptions.
 tldr: Heathrow’s outage was not caused by a power loss but by an overly sensitive internal system that shut everything down in response to a minor fluctuation, revealing that their disaster recovery measures were untested for real-world chaos. Investing in infrastructure does not guarantee true resilience; resilience is proven only when systems are tested against unexpected failures. Development managers should regularly test and challenge their recovery processes to ensure they work under real conditions, not just ideal scenarios.
 date: 2025-05-15T15:30:30+01:00
 lastmod: 2025-05-15T15:30:30+01:00
-weight: 405
+weight: 515
 sitemap:
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.4
   changefreq: weekly
 ItemId: NpLk02WHeMe
 ItemType: signals
@@ -40,13 +40,13 @@ Watermarks:
   tldr: 2025-08-07T12:32:12Z
 ResourceId: NpLk02WHeMe
 ResourceType: signals
-
 ---
+
 When Heathrow went down, they blamed the power supplier.
 
 A fire at one substation, they said, caused the disruption. Convenient story. But it wasn't true.
 
-Heathrow gets power from three independent substations. Any one of them could run the airport solo. The real failure? Their internal "resilience" system kicked in when it saw a fluctuation—not a loss. And in its attempt to “protect” the infrastructure, it shut the entire thing down.
+Heathrow gets power from three independent substations. Any one of them could run the airport solo. The real failure? Their internal "resilience" system kicked in when it saw a fluctuation, not a loss. And in its attempt to “protect” the infrastructure, it shut the entire thing down.
 
 It took all day to reboot. Not because power was unavailable, but because their disaster recovery system was too sensitive to survive a real incident.
 

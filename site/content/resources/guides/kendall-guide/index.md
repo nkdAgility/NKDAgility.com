@@ -24,6 +24,7 @@ categories:
   - Product Development
 tags:
   - Decision Making
+  - AI Product Operating Model
   - Artificial Intelligence
   - Pragmatic Thinking
   - Social Technologies
@@ -37,7 +38,6 @@ tags:
   - Continuous Learning
   - Sensemaking
   - Coaching
-  - Continuous Improvement
 Watermarks:
   description: 2025-09-17T19:05:58Z
   tldr: 2025-09-17T19:06:01Z

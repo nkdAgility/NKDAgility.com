@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking Business Agility: Join Our Dynamic Monthly Discussions for Real-World Insights'
+title: "Unlocking Business Agility: Join Our Dynamic Monthly Discussions for Real-World Insights"
 short_title: Business Agility Monthly Discussion Sessions
 description: Join monthly interactive sessions to discuss real-world business agility challenges, share insights, and learn from diverse peers using a collaborative Lean Coffee format.
 tldr: Business Agility Raw is a monthly, participant-driven discussion forum where software development leaders can share real-world challenges and solutions related to business agility. The sessions use a collaborative format to ensure relevant, actionable insights and diverse perspectives, supporting continuous learning. Consider joining on the fourth Wednesday each month to connect with peers and gain practical ideas you can apply immediately.
@@ -48,13 +48,13 @@ duration: 21
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 As I sit down to write this post, I’m reminded of the vibrant discussions that take place during our monthly [Business Agility]({{< ref "/tags/business-agility" >}}) Raw sessions. If you haven’t joined us yet, I highly encourage you to mark your calendars for the fourth Wednesday of every month. It’s a fantastic opportunity to engage with like-minded individuals and explore the pressing topics that matter most to us in the realm of business agility.
 
 ### What is Business Agility Raw?
 
-Business Agility Raw is not just another meeting; it’s a dynamic forum where we embrace the [Lean]({{< ref "/categories/lean" >}}) Coffee format. This means that the agenda is driven by you—the participants. Each session is a melting pot of ideas, questions, and insights, allowing us to delve into the challenges and opportunities we face in our respective organisations.
+Business Agility Raw is not just another meeting; it’s a dynamic forum where we embrace the [Lean]({{< ref "/categories/lean" >}}) Coffee format. This means that the agenda is driven by you, the participants. Each session is a melting pot of ideas, questions, and insights, allowing us to delve into the challenges and opportunities we face in our respective organisations.
 
 ### How It Works
 
@@ -65,7 +65,6 @@ Business Agility Raw is not just another meeting; it’s a dynamic forum where w
 ### Why You Should Join
 
 1. **Community Engagement**: There’s something incredibly powerful about connecting with others who share your passion for agility. The insights and experiences shared during these sessions can be invaluable.
-   
 2. **Real-World Relevance**: The topics we discuss are not theoretical; they are grounded in the realities of our work environments. This means you’ll leave with actionable insights that you can apply immediately.
 
 3. **Diverse Perspectives**: Each participant brings their unique experiences and viewpoints, enriching our discussions. You’ll gain new perspectives that can challenge your thinking and inspire innovative solutions.

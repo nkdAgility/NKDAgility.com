@@ -57,8 +57,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:38Z
 ResourceId: FqiyqqNxjFS
 ResourceType: signals
-
 ---
+
 We hear “self-managing teams” so often it’s become a cliché.
 
 But here’s what gets missed:
@@ -73,6 +73,6 @@ This isn’t a passive concept.
 It’s active, adaptive, disciplined work.
 
 Scrum isn’t designed to be a loose, anything-goes framework.  
-It’s a social technology to deliver adaptive solutions — and that requires disciplined self-management across roles, grounded in clear alignment.
+It’s a social technology to deliver adaptive solutions , and that requires disciplined self-management across roles, grounded in clear alignment.
 
 Where are you mistaking “self-management” for chaos or neglect?

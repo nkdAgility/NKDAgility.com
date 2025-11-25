@@ -57,8 +57,8 @@ duration: 234
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 # [Scrum]({{< ref "/categories/scrum" >}}) and Micromanagement: Dispelling the Myth 🚀
 
 Hello, Agile advocates! Today, we're diving into a contentious topic that's sparked debate across many Scrum teams: **The Myth of Micromanagement in Scrum**. This myth perpetuates the notion that Scrum inherently fosters an environment ripe for micromanagement. However, is this truly an attribute of Scrum, or is it a manifestation of how some organizations misapply its principles? Let's unravel this myth and explore how we can cultivate genuine Agile environments that empower, rather than constrain, teams. 🌟
@@ -69,7 +69,7 @@ The myth posits that Scrum is a breeding ground for micromanagement, where every
 
 ### Reality Check: Scrum's Stance on Decision-Making 🛠️
 
-Scrum is unequivocal in its guidance: **The Developers** are the ones who decide **what work is undertaken in a Sprint** and **how it is to be accomplished**. This autonomy is central to Scrum's philosophy, recognizing that those who are closest to the work—the Developers—possess the nuanced understanding and technical expertise required to navigate the complexities of [product development]({{< ref "/categories/product-development" >}}) effectively.
+Scrum is unequivocal in its guidance: **The Developers** are the ones who decide **what work is undertaken in a Sprint** and **how it is to be accomplished**. This autonomy is central to Scrum's philosophy, recognizing that those who are closest to the work, the Developers, possess the nuanced understanding and technical expertise required to navigate the complexities of [product development]({{< ref "/categories/product-development" >}}) effectively.
 
 #### The Pitfall of Prescriptive Practices 🕳️
 

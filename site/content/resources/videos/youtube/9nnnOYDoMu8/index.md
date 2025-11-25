@@ -1,7 +1,7 @@
 ---
-title: 'Why “Done” Only Counts When It’s Live: Moving Beyond Fake Finishes to Real Value in Software Delivery'
-short_title: '“Done” Means Live: Real Value in Software Delivery'
-description: Discover why “done” means live in production—not just code complete. Learn to deliver real value, close feedback loops, and drive outcomes that matter.
+title: "Why “Done” Only Counts When It’s Live: Moving Beyond Fake Finishes to Real Value in Software Delivery"
+short_title: "“Done” Means Live: Real Value in Software Delivery"
+description: Discover why “done” means live in production, not just code complete. Learn to deliver real value, close feedback loops, and drive outcomes that matter.
 tldr: Work is only truly done when it is live in production and delivering value to users, not just when code is written, tested, or demoed. Teams often mistake internal milestones for real progress, which delays learning and frustrates stakeholders; real feedback and value come only from live usage and telemetry. Development managers should redefine “done” as live in production, invest in automation to shorten release cycles, and focus on measuring and celebrating actual user impact.
 date: 2025-05-07T11:46:58Z
 lastmod: 2025-05-07T11:46:58Z
@@ -35,8 +35,8 @@ categories:
   - Engineering Excellence
   - Product Development
 tags:
-  - Customer Focus
   - Value Delivery
+  - Customer Focus
   - Software Development
   - Professional Scrum
   - Team Performance
@@ -64,11 +64,11 @@ resourceTypes:
 isShort: true
 ResourceId: 9nnnOYDoMu8
 ResourceType: videos
-
 ---
+
 If it’s not in the hands of users, it’s not done. I’ve said this countless times in workshops, coaching sessions, and retrospectives, and yet it still bears repeating. Writing code isn’t done. Testing code isn’t done. Demoing something in a meeting isn’t done. Done means that the increment is live in production, gathering telemetry, and delivering real evidence against real goals.
 
-This is a lesson I’ve learned the hard way, both in my own practice and in helping teams across industries. There’s a persistent temptation to celebrate “fake finishes”—to pat ourselves on the back for code that’s merged, or features that pass QA, or stories that look good in a demo. But let’s be honest: none of that matters to your customers. They don’t care about completed tasks, tickets, or internal milestones. They care about what’s available to them right now, in their hands, making a difference.
+This is a lesson I’ve learned the hard way, both in my own practice and in helping teams across industries. There’s a persistent temptation to celebrate “fake finishes”, to pat ourselves on the back for code that’s merged, or features that pass QA, or stories that look good in a demo. But let’s be honest: none of that matters to your customers. They don’t care about completed tasks, tickets, or internal milestones. They care about what’s available to them right now, in their hands, making a difference.
 
 Here’s what I see time and again:
 
@@ -80,7 +80,7 @@ Let’s be clear: work that isn’t live isn’t learning. And if it isn’t lea
 
 ## Why “Done” Must Mean “In Production”
 
-When we talk about agility, we’re not just talking about moving faster or ticking boxes. We’re talking about creating a feedback loop between the team and the real world. That loop only closes when the increment is live, and we can see—through telemetry, usage data, and customer feedback—whether we’re actually achieving our goals.
+When we talk about agility, we’re not just talking about moving faster or ticking boxes. We’re talking about creating a feedback loop between the team and the real world. That loop only closes when the increment is live, and we can see, through telemetry, usage data, and customer feedback, whether we’re actually achieving our goals.
 
 - **Evidence over assumptions**: Until your work is in production, everything is a hypothesis. Only real usage provides evidence.
 - **Learning over guessing**: Shipping to production lets you learn what works and what doesn’t, so you can adapt quickly.
@@ -102,4 +102,4 @@ If you take one thing away from this, let it be this: “done” is not a matter
 
 So, the next time you’re tempted to celebrate a “done” story that isn’t in production, pause and ask: is this really done? Or are we just fooling ourselves?
 
-If you want to talk about shifting your teams from fake finishes to real value delivery, let’s have that conversation. Because in the end, only live work learns—and only learning delivers value.
+If you want to talk about shifting your teams from fake finishes to real value delivery, let’s have that conversation. Because in the end, only live work learns, and only learning delivers value.

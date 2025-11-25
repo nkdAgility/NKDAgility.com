@@ -52,9 +52,9 @@ Watermarks:
   tldr: 2025-08-07T12:36:25Z
 ResourceId: dqFTsIhZF_A
 ResourceType: signals
-
 ---
-The best Scrum Masters don’t apply for the role—they are chosen by their peers.
+
+The best Scrum Masters don’t apply for the role, they are chosen by their peers.
 
 They’ve earned trust, respect, and credibility through years of hands-on experience. They have seen the inner workings of Scrum Teams, understood the dynamics, and proven themselves as effective leaders.
 

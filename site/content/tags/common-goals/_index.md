@@ -1,6 +1,6 @@
 ---
 title: Common Goals
-description: Common Goals are a first principle of effective delivery. They align strategy with execution, enabling every decision, every Sprint, and every line of code to serve a shared purpose. Without them, you don’t have a system—you have disconnected activity.
+description: Common Goals are a first principle of effective delivery. They align strategy with execution, enabling every decision, every Sprint, and every line of code to serve a shared purpose. Without them, you don’t have a system, you have disconnected activity.
 ClassificationType: tags
 trustpilot: false
 abstract: Common Goals are a foundational principle for effective delivery within organisations, serving to align strategy with execution and ensuring that every decision, Sprint, and line of code contributes to a shared purpose. These goals are not mere aspirational statements; they represent the strategic objectives that unify efforts and connect individual contributions to meaningful outcomes. In the context of agile, DevOps, and product development, understanding and committing to common goals fosters ownership, clarity, and accountability among team members, enabling distributed decision-making and reducing friction in prioritisation. This alignment is crucial for creating adaptive and high-performing systems, as it allows teams to surface misalignments early and make informed trade-offs without waiting for permission. Furthermore, the integration of tactical commitments, such as Product Goals and Sprint Goals, ensures that strategic intent is operationalised at every level of delivery. By maintaining a focus on measurable outcomes and desired impacts, organisations can avoid the pitfalls of busywork and ensure that their efforts are directed towards achieving significant results. Ultimately, common goals provide the necessary framework for teams to understand their role in the larger organisational context, making it imperative for leaders to establish and communicate these objectives clearly.
@@ -22,7 +22,7 @@ Instructions: |-
   **Strictly exclude** discussions that deviate from the core concept of Common Goals, such as unrelated project management techniques, personal anecdotes, or vague motivational content that does not connect to the principles of Agile, Scrum, or DevOps.
 headline:
   cards: []
-  title: 'Common Goals: Aligning Strategic Intent with Tactical Commitment'
+  title: "Common Goals: Aligning Strategic Intent with Tactical Commitment"
   subtitle: Aligning strategy, execution, and measurable outcomes to unify teams, clarify decisions, and ensure every action contributes to shared organisational objectives.
   content: Common Goals establish clear, measurable objectives that unify strategy and execution, guiding prioritisation, decision-making, and tactical commitments. Posts categorised here explore goal-setting frameworks, outcome-oriented practices, strategic alignment, and methods for fostering accountability, ownership, and clarity across teams to ensure meaningful, value-driven outcomes.
   updated: 2025-05-23T23:19:57Z
@@ -60,17 +60,17 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
+
 Here’s a rewritten version of your text, reframed around **Common Goals** as the first principle:
 
 ---
 
-Common Goals are a first principle of effective delivery. They align strategy with execution, enabling every decision, every Sprint, and every line of code to serve a shared purpose. Without them, you don’t have a system—you have disconnected activity.
+Common Goals are a first principle of effective delivery. They align strategy with execution, enabling every decision, every Sprint, and every line of code to serve a shared purpose. Without them, you don’t have a system, you have disconnected activity.
 
 At the heart of any effective organisation lies a shared understanding of its **common goals**. These are not aspirational posters or vague mission statements. They are the unifying strategic objectives that guide decisions, focus effort, and connect the daily work of individuals to something that matters.
 
-When participants and stakeholders understand these goals—and more importantly, how their work contributes to achieving them—alignment happens. This is not a nice-to-have; it's the baseline for creating adaptive, responsive, and high-performing systems of work.
+When participants and stakeholders understand these goals, and more importantly, how their work contributes to achieving them, alignment happens. This is not a nice-to-have; it's the baseline for creating adaptive, responsive, and high-performing systems of work.
 
 ### Why Common Goals Matter
 
@@ -82,7 +82,7 @@ Common goals also reduce friction. They allow teams to prioritise without waitin
 
 ### Strategic Goals Require Tactical Commitment
 
-Strategic goals are meaningless without action. In effective organisations, strategic intent flows through every level of delivery. This demands **tactical commitment**—clear, observable goals at every level of the system of work.
+Strategic goals are meaningless without action. In effective organisations, strategic intent flows through every level of delivery. This demands **tactical commitment**, clear, observable goals at every level of the system of work.
 
 In Scrum, we operationalise this through:
 
@@ -103,7 +103,7 @@ For example:
 - _“Improve activation rate by 15% to increase first-week retention”_
 - _“Reduce cycle time from 12 to 5 days to improve delivery predictability”_
 
-This format keeps goals outcome-focused and value-oriented—avoiding the trap of turning goals into task lists.
+This format keeps goals outcome-focused and value-oriented, avoiding the trap of turning goals into task lists.
 
 Without tactical goals aligned to strategy, you end up with busy teams delivering work that doesn’t matter. Make sure every Sprint goal, product milestone, or OKR traces back to a common organisational purpose.
 

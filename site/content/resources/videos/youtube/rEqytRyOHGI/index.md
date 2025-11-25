@@ -1,5 +1,5 @@
 ---
-title: 'Special Sprints: Agile Banditry or Risk Management?'
+title: "Special Sprints: Agile Banditry or Risk Management?"
 short_title: Special Sprints Undermine Agile Delivery
 description: Explores why special sprints like Sprint Zero or hardening sprints undermine Agile by delaying work, increasing risk, and reducing continuous delivery of usable products.
 tldr: Special sprints like bug-fix or hardening sprints undermine Agile by encouraging teams to defer work and accumulate risk, rather than delivering usable products every sprint. The Azure DevOps team found that relying on a safety net led to overwhelming undone work, but shifting to shipping every sprint improved quality and reduced technical debt. Development managers should eliminate special sprints, ensure each sprint delivers a shippable product, and address issues as they arise to maintain true agility and reduce risk.
@@ -62,8 +62,8 @@ duration: 291
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 You can't spend much time in the Agile space without encountering teams doing some kind of special sprints. Whether it's Sprint Zero, refactoring sprints, bug-fix sprints, or hardening sprints, these so-called "special sprints" are quite common. However, let’s cut to the chase: **special sprints are agile banditry**, and those practicing them are bandits in disguise. Here's why they dilute your team's ability to deliver usable, working products, and how you can avoid falling into the same trap.
 
 ## **The Purpose of Agile: Delivering Usable, Working Products**
@@ -86,7 +86,7 @@ In traditional [project management]({{< ref "/tags/project-management" >}}), ris
 
 - Instead of relying on rigid, long-term plans, we adjust based on **what's actually happening** in real-time.
 
-That’s why **special sprints** (like bug-fix or hardening sprints) are problematic. They offer a false sense of security—a “safety net”—that undermines the core Agile principle of delivering usable work every sprint.
+That’s why **special sprints** (like bug-fix or hardening sprints) are problematic. They offer a false sense of security, a “safety net”, that undermines the core Agile principle of delivering usable work every sprint.
 
 ## **Case Study: The Azure [DevOps]({{< ref "/categories/devops" >}}) Team**
 
@@ -118,7 +118,7 @@ This approach led to a much healthier workflow and helped the team truly embrace
 
 ## **Why Special Sprints Are Agile Banditry**
 
-When teams rely on special sprints, they’re taking risks they shouldn’t be taking. They’re kicking the can down the road, hoping they’ll have time to clean up the mess later. But Agile isn’t about **delaying responsibility**—it’s about **[continuous improvement]({{< ref "/tags/continuous-improvement" >}})** and **delivering value** every single sprint.
+When teams rely on special sprints, they’re taking risks they shouldn’t be taking. They’re kicking the can down the road, hoping they’ll have time to clean up the mess later. But Agile isn’t about **delaying responsibility**, it’s about **[continuous improvement]({{< ref "/tags/continuous-improvement" >}})** and **delivering value** every single sprint.
 
 Here’s why **special sprints** are a problem:
 
@@ -132,7 +132,7 @@ Here’s why **special sprints** are a problem:
 
 As we saw with the Azure DevOps team, safety nets lead to reckless behavior. When teams know they have a chance to clean things up later, they tend to **cut corners** and **take more risks**. This isn’t just inefficient; it’s dangerous.
 
-Imagine a tightrope walker—if they know there’s a net below them, they might be tempted to take more chances. But if there's no net, they’ll walk with focus and precision, knowing that every step counts. The same goes for Agile teams. **When there’s no safety net, every sprint must be treated like it matters—because it does.**
+Imagine a tightrope walker, if they know there’s a net below them, they might be tempted to take more chances. But if there's no net, they’ll walk with focus and precision, knowing that every step counts. The same goes for Agile teams. **When there’s no safety net, every sprint must be treated like it matters, because it does.**
 
 ## **How to Avoid Agile Banditry in Your Team**
 
@@ -158,4 +158,4 @@ If you're noticing that your team is falling into the trap of special sprints or
 
 ## **Agile Bandits Beware!**
 
-If you’re being ambushed by agile bandits in your organization—those pushing for special sprints or other shortcuts—stand your ground. Agile isn’t about taking risks; it’s about **mitigating them** by delivering small, usable, and valuable products every sprint. If you need help eliminating these pitfalls, feel free to reach out to my team at **Naked Agility**, or contact a consultant who can guide your team towards true agility. Together, we can create real value, sprint by sprint—**without any safety nets**.
+If you’re being ambushed by agile bandits in your organization, those pushing for special sprints or other shortcuts, stand your ground. Agile isn’t about taking risks; it’s about **mitigating them** by delivering small, usable, and valuable products every sprint. If you need help eliminating these pitfalls, feel free to reach out to my team at **Naked Agility**, or contact a consultant who can guide your team towards true agility. Together, we can create real value, sprint by sprint, **without any safety nets**.

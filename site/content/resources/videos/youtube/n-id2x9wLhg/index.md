@@ -1,7 +1,7 @@
 ---
 title: Why a Shared Definition of Done Is the Secret to Consistent, Predictable Quality in Agile Teams
 short_title: Shared Definition of Done in Agile Teams
-description: Struggling with inconsistent delivery? Discover why a shared definition of done is key to predictable, high-quality results your teams—and stakeholders—can trust.
+description: Struggling with inconsistent delivery? Discover why a shared definition of done is key to predictable, high-quality results your teams, and stakeholders, can trust.
 tldr: When teams lack a shared definition of done, quality and predictability suffer, leading to confusion, hidden risks, and technical debt. Aligning on a clear, organisation-wide standard ensures consistent delivery, builds trust, and reduces production risks. Development managers should prioritise creating and enforcing a common definition of done to achieve reliable outcomes and true agility.
 date: 2025-05-14T07:00:00Z
 lastmod: 2025-05-14T07:00:00Z
@@ -35,8 +35,8 @@ categories:
   - Technical Leadership
 tags:
   - Definition of Done
-  - Software Development
   - Product Delivery
+  - Software Development
   - Pragmatic Thinking
   - Team Collaboration
   - Operational Practices
@@ -58,17 +58,17 @@ resourceTypes:
 isShort: true
 ResourceId: n-id2x9wLhg
 ResourceType: videos
-
 ---
-Without shared standards, quality is a coin toss. I’ve seen it time and again: when every team defines “done” in their own way, you don’t get value—you get uncertainty and risk. Different interpretations of what “done” means don’t just create confusion; they breed chaos, introduce production risks, and leave you with invisible liabilities lurking in your product. In short, you can’t trust the increment.
 
-Let’s be honest—if you can’t trust the increment, you can’t trust your process. And if you can’t trust your process, how can you possibly deliver value with any degree of predictability? This is not just a theoretical problem. I’ve worked with organisations where one team’s “done” meant “it compiles,” while another’s meant “it’s in production and monitored.” The result? A patchwork of half-finished work, missed expectations, and a backlog of technical debt that nobody wants to own.
+Without shared standards, quality is a coin toss. I’ve seen it time and again: when every team defines “done” in their own way, you don’t get value, you get uncertainty and risk. Different interpretations of what “done” means don’t just create confusion; they breed chaos, introduce production risks, and leave you with invisible liabilities lurking in your product. In short, you can’t trust the increment.
+
+Let’s be honest, if you can’t trust the increment, you can’t trust your process. And if you can’t trust your process, how can you possibly deliver value with any degree of predictability? This is not just a theoretical problem. I’ve worked with organisations where one team’s “done” meant “it compiles,” while another’s meant “it’s in production and monitored.” The result? A patchwork of half-finished work, missed expectations, and a backlog of technical debt that nobody wants to own.
 
 Why Shared Standards Matter
 
 - **Consistency**: When every team works to the same definition of done, you eliminate ambiguity. Everyone knows what’s expected, and there’s no room for shortcuts or misunderstandings.
 - **Predictability**: Predictable delivery doesn’t come from wishful thinking or heroic efforts. It comes from a shared standard that everyone honours, sprint after sprint.
-- **Quality**: A clear, organisation-wide definition of done ensures that every increment is truly usable and validated—not just “done” in name only.
+- **Quality**: A clear, organisation-wide definition of done ensures that every increment is truly usable and validated, not just “done” in name only.
 - **Trust**: Stakeholders can trust what’s delivered, and teams can trust each other. That trust is the foundation of agility.
 
 The Cost of Fragmentation
@@ -83,14 +83,14 @@ I’ve seen organisations try to paper over these cracks with more process, more
 
 How We Help
 
-This is where we come in. We help organisations define and align on a single, clear definition of done—a standard that every team understands and upholds. This isn’t about bureaucracy or slowing teams down. It’s about creating a foundation for real agility:
+This is where we come in. We help organisations define and align on a single, clear definition of done, a standard that every team understands and upholds. This isn’t about bureaucracy or slowing teams down. It’s about creating a foundation for real agility:
 
 - **Workshops to build consensus**: We bring teams together to surface assumptions and agree on what “done” really means.
-- **Practical, actionable standards**: No vague checklists—just clear, testable criteria that fit your context.
+- **Practical, actionable standards**: No vague checklists, just clear, testable criteria that fit your context.
 - **Ongoing support**: We help you embed these standards into your daily work, so they become second nature.
 
 My Advice
 
 If you want consistency and predictability across teams, don’t leave your definition of done to chance. Align on a shared standard. Make it visible. Make it non-negotiable. Because predictability doesn’t come from a fragmented process; it comes from a shared commitment to quality.
 
-Let’s stop tossing the coin on quality. Let’s align your definition of done—so every increment is something you can trust.
+Let’s stop tossing the coin on quality. Let’s align your definition of done, so every increment is something you can trust.

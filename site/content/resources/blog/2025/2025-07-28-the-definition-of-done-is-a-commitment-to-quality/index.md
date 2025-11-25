@@ -31,7 +31,6 @@ tags:
   - Empirical Process Control
   - Product Delivery
   - Agile Frameworks
-  - Agile Product Management
   - Engineering Practices
   - Operational Practices
   - Professional Scrum
@@ -39,6 +38,7 @@ tags:
   - Working Software
   - Social Technologies
   - Increment
+  - Team Performance
 Watermarks:
   description: 2025-05-07T12:48:53Z
   short_title: 2025-07-07T16:43:12Z
@@ -46,8 +46,8 @@ Watermarks:
 creator: Martin Hinshelwood
 ResourceId: TwYNSm1pZOS
 ResourceType: blog
-
 ---
+
 Every Scrum Team must explicitly define what “Done” means. Without it, you are not doing Scrum. Let’s be clear: if your product increment cannot be shipped, tested, and validated at least every 30 days, you’re missing the point. Scrum is a social technology for adaptive solutions, and the Definition of Done (DoD) is the core commitment to quality that enables reliable, transparent, and releasable increments.
 
 ## How Does the Agile Manifesto Relate?
@@ -58,12 +58,12 @@ In Agile, “Done” is characterised not by formal documents or bureaucratic si
 
 ## Why Define Done?
 
-The Definition of Done is not optional. It is the shared understanding that tells everyone — Developers, Product Owner, stakeholders — what quality bar each increment must meet to be considered usable, releasable, and valuable. Without it, you deliver chaos disguised as agility.
+The Definition of Done is not optional. It is the shared understanding that tells everyone , Developers, Product Owner, stakeholders , what quality bar each increment must meet to be considered usable, releasable, and valuable. Without it, you deliver chaos disguised as agility.
 
 If your organisation has no defined standards, your team must create its own. But let’s be blunt: if you have multiple teams on one product, they must align on a shared Definition of Done. No excuses, no fragmentation. Without this alignment, you jeopardise integration, delivery, and the product’s reputation.
 
 > “The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review.”
-> — Scrum Guide 2020
+> , Scrum Guide 2020
 
 ## Done Means Releasable
 
@@ -89,9 +89,9 @@ Without this clarity, you’re not managing risk; you’re just rolling dice.
 
 ## Characteristics of a Strong Definition of Done
 
-- **Short, measurable checklist** — automate verification wherever possible.
-- **Mirrors shippable** — the Product Owner should have the option to ship at the Sprint Review (if not doing continuous delivery).
-- **No further work required** — if additional work is needed, you weren’t Done.
+- **Short, measurable checklist** , automate verification wherever possible.
+- **Mirrors shippable** , the Product Owner should have the option to ship at the Sprint Review (if not doing continuous delivery).
+- **No further work required** , if additional work is needed, you weren’t Done.
 
 This is not subjective. “Approved by the Product Owner” is not a DoD item. The DoD is an objective, verifiable standard.
 
@@ -108,16 +108,16 @@ Here’s what good engineering practices might embed:
 
 ## Continuous Reflection and Improvement
 
-Your DoD is not static. You must review and improve it continuously — at least every Sprint Retrospective. When you uncover new failure points, you integrate them into your DoD.
+Your DoD is not static. You must review and improve it continuously , at least every Sprint Retrospective. When you uncover new failure points, you integrate them into your DoD.
 
-If your increment no longer meets the quality bar, stop Sprinting. Fix the foundation first — that’s called a **Scrumble**. It’s a deliberate pause to repair quality, not a failure. Once resolved, your DoD should evolve to prevent recurrence.
+If your increment no longer meets the quality bar, stop Sprinting. Fix the foundation first , that’s called a **Scrumble**. It’s a deliberate pause to repair quality, not a failure. Once resolved, your DoD should evolve to prevent recurrence.
 
 ## Practical Steps
 
-1. **Run a DoD Workshop** — include Developers, Product Owner, stakeholders, and relevant experts.
-2. **Document and Share** — make the DoD visible, accessible, and owned by the team.
-3. **Automate** — reduce human error by automating checks wherever feasible.
-4. **Review Regularly** — build DoD reviews into retrospectives.
+1. **Run a DoD Workshop** , include Developers, Product Owner, stakeholders, and relevant experts.
+2. **Document and Share** , make the DoD visible, accessible, and owned by the team.
+3. **Automate** , reduce human error by automating checks wherever feasible.
+4. **Review Regularly** , build DoD reviews into retrospectives.
 
 ## Final Word
 

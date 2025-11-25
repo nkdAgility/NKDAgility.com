@@ -5,10 +5,10 @@ description: Explore upcoming Agile and Scrum training covering Agile Kata, faci
 tldr: A range of immersive Agile and Scrum training classes are now open, covering Agile Kata, facilitation, evidence-based management, and backlog management, each designed to address common challenges and improve team performance. These courses offer practical skills for Scrum Masters, Product Owners, and Agile leaders, with a focus on real-world application and measurable outcomes. Managers should consider enrolling themselves or their teams soon to take advantage of a 20 percent discount and a buy-one-get-one-free offer available until the end of March.
 date: 2024-02-13
 lastmod: 2024-02-13
-weight: 665
+weight: 500
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: weekly
 author: MrHinsh
 ItemId: hz-iCoxHxxa

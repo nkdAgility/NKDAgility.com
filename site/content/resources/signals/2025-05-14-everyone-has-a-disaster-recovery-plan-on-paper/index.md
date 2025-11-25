@@ -1,5 +1,5 @@
 ---
-title: Everyone has a disaster recovery plan—on paper
+title: Everyone has a disaster recovery plan, on paper
 short_title: Disaster Recovery Plans vs Real Resilience
 description: Most disaster recovery plans fail in practice due to overlooked dependencies and lack of real-world testing, leaving organisations vulnerable when outages occur.
 tldr: Many organizations have disaster recovery plans, but these often fail in real situations because critical dependencies are overlooked and not tested end to end. Successful drills can give a false sense of security if they do not include all essential systems, like authentication services. To ensure true resilience, regularly test your recovery process under real conditions and verify that all dependencies are restored and functional.
@@ -19,8 +19,7 @@ aliases:
   - /resources/jgAmhaBbUlm
 source: LinkedIn
 layout: signal
-concepts:
-  - Ethos
+concepts: []
 categories:
   - Uncategorized
 tags:
@@ -43,13 +42,13 @@ Watermarks:
   tldr: 2025-08-07T12:32:20Z
 ResourceId: jgAmhaBbUlm
 ResourceType: signals
-
 ---
-Everyone has a disaster recovery plan—on paper.
+
+Everyone has a disaster recovery plan, on paper.
 
 But when the lights go out, very few organisations have systems that actually work. Spain, Portugal, Oracle, Heathrow... these weren’t random outages. They were textbook examples of systems that failed exactly as they were designed.
 
-At Merrill Lynch, I saw it firsthand. Twice. We ran full disaster recovery drills. Everything looked like a success—until we tried to use the restored systems. Nothing worked. Why? Because the one system that everything else relied on—Active Directory—was never restored.
+At Merrill Lynch, I saw it firsthand. Twice. We ran full disaster recovery drills. Everything looked like a success, until we tried to use the restored systems. Nothing worked. Why? Because the one system that everything else relied on, Active Directory, was never restored.
 
 So yes, my app was "restored" successfully. But without authentication, it was useless.
 

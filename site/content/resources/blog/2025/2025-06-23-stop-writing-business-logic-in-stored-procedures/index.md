@@ -35,8 +35,8 @@ Watermarks:
   tldr: 2025-08-07T12:10:54Z
 ResourceId: utAzlIGxj7O
 ResourceType: blog
-
 ---
+
 Over the years, I've encountered many companies that have maintained their business logic in stored procedures, but the practice of doing so has died out, for good reasons ill hilight below. However, many codebases have been around for 10+ years, and may still have large amounts of business logic in them.
 
 If you’re still writing business logic in SQL Stored Procedures, it’s time to stop. If you still have code that stores business login in  SQL Stored Procedures its time to refactor!
@@ -67,7 +67,7 @@ Let’s be clear: this isn’t an abstract architectural debate. The reasons sto
 
 Before you write the next line of business logic in a stored procedure, ask yourself: is this something I want to debug at 2am with no tests, no telemetry, and no rollback plan?
 
-That’s the reality of stored procedures. They make every part of your engineering practice harder. Get the logic out. Put it where it belongs—alongside the rest of your tested, observable, maintainable code.
+That’s the reality of stored procedures. They make every part of your engineering practice harder. Get the logic out. Put it where it belongs, alongside the rest of your tested, observable, maintainable code.
 
 ## The strategy: don’t rip, refactor
 

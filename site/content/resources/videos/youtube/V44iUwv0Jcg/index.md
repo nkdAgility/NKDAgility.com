@@ -1,5 +1,5 @@
 ---
-title: 'Embrace Kaizen: Unlocking Continuous Improvement for Personal and Team Success'
+title: "Embrace Kaizen: Unlocking Continuous Improvement for Personal and Team Success"
 short_title: Kaizen for Continuous Improvement Success
 description: Explains how adopting Kaizen’s continuous improvement approach can enhance personal growth, team collaboration, and process optimisation in work and daily life.
 tldr: Kaizen is a philosophy of making small, ongoing improvements that can lead to significant gains in team performance, collaboration, and personal growth. By regularly observing, measuring, and refining processes, teams can boost productivity and quality while fostering a culture where everyone feels empowered to suggest changes. Development managers should encourage open communication, celebrate small wins, and be patient as continuous improvement is a long-term journey.
@@ -51,9 +51,9 @@ duration: 56
 resourceTypes:
   - video
 isShort: true
-
 ---
-In the world of Agile methodologies, particularly within the [Kanban]({{< ref "/categories/kanban" >}}) community, there's a term that often gets thrown around: Kaizen. Now, I must admit, we have a tendency to take Japanese words and adapt them to fit our context, sometimes straying from their original meanings. However, the essence of Kaizen—[continuous improvement]({{< ref "/tags/continuous-improvement" >}})—is something that resonates deeply with me and is crucial for anyone looking to enhance their processes.
+
+In the world of Agile methodologies, particularly within the [Kanban]({{< ref "/categories/kanban" >}}) community, there's a term that often gets thrown around: Kaizen. Now, I must admit, we have a tendency to take Japanese words and adapt them to fit our context, sometimes straying from their original meanings. However, the essence of Kaizen, [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), is something that resonates deeply with me and is crucial for anyone looking to enhance their processes.
 
 ### What is Kaizen?
 
@@ -64,7 +64,7 @@ At its core, Kaizen is about making small, incremental changes that lead to sign
 
 ### Applying Kaizen Beyond Kanban
 
-While Kaizen is often associated with Kanban, its principles can—and should—be applied across various aspects of our lives and work. Here are a few areas where I’ve found Kaizen to be particularly impactful:
+While Kaizen is often associated with Kanban, its principles can, and should, be applied across various aspects of our lives and work. Here are a few areas where I’ve found Kaizen to be particularly impactful:
 
 - **[Team Collaboration]({{< ref "/tags/team-collaboration" >}})**: Regularly assessing how we work together can lead to better communication and efficiency. Small changes in our meeting structures or feedback loops can yield significant results.
 - **Personal Development**: I’ve always believed in the power of lifelong learning. By setting small, achievable goals for myself, I can continuously improve my skills and knowledge, which ultimately benefits my team and clients.

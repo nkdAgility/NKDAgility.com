@@ -1,6 +1,6 @@
 ---
 title: During a massive flood in London, nearly every datacentre went down."
-short_title: 'London Flood: Datacentre Resilience Lessons'
+short_title: "London Flood: Datacentre Resilience Lessons"
 description: A London flood shut down most datacentres, but Rackspace stayed online by regularly live-testing failures, proving true resilience comes from practising real-world recovery.
 tldr: Rackspace was the only London datacentre to stay online during a major flood because they regularly tested their backup systems by simulating real failures. Practising failure recovery under controlled but challenging conditions built true resilience in their operations. Development managers should regularly test their systems and teams under realistic failure scenarios to ensure they can recover when it matters most.
 date: 2025-05-16T15:30:31+01:00
@@ -42,8 +42,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:09Z
 ResourceId: 8SSU0fALhd8
 ResourceType: signals
-
 ---
+
 During a massive flood in London, nearly every datacentre went down.
 
 Except one: Rackspace.
@@ -54,7 +54,7 @@ Every month, he walked into the power room and pulled the main breaker. On purpo
 
 It was painful. Risky. Uncomfortable. And that’s exactly why it worked.
 
-You don’t build resilience by talking about it. You build it by living through the failure—on your terms, not the disaster’s.
+You don’t build resilience by talking about it. You build it by living through the failure, on your terms, not the disaster’s.
 
 If your systems only work when conditions are perfect, you’ve already lost. If your team has never practised failing safely, they won’t know how to recover when it’s real.
 

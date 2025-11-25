@@ -5,7 +5,7 @@ description: Explores how agile teams can balance flexibility and structure, man
 tldr: Balancing flexibility and structure in agile is key to project success; while agile enables teams to adapt quickly and reallocate resources as needed, it can also create challenges with data quality and decision-making. Clear goals and regular context evaluation help teams decide when to be flexible or structured. Development managers should focus on aligning team adjustments with business objectives and ensure data integrity to support informed decisions.
 date: 2024-09-19T11:05:27Z
 lastmod: 2024-09-19T11:05:27Z
-weight: 1000
+weight: 730
 sitemap:
   filename: sitemap.xml
   priority: 0.1

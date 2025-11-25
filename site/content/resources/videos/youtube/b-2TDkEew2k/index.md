@@ -53,8 +53,8 @@ duration: 59
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 I often find myself reflecting on a conversation I had with Ken Schwaber many years ago. He shared a simple yet profound mantra that has stuck with me ever since: "Just enough and no more." This phrase resonates deeply within the agile community, and I believe it holds the key to understanding how we can optimise our processes and deliver value effectively.
 
 ### The Essence of "Just Enough"
@@ -65,7 +65,7 @@ When I think about the various aspects of agile practices, this mantra applies u
 
 - **Team Composition**: How many developers do we need? Again, the answer is just enough and no more. Having too many developers can lead to communication overhead and inefficiencies, while too few can hinder progress. The key is to find the right balance that allows the team to function optimally.
 
-- **Refinement Time**: How much time should we dedicate to [backlog refinement]({{< ref "/tags/backlog-refinement" >}})? You guessed it—just enough and no more. Spending excessive time on refinement can lead to analysis paralysis, while insufficient time can result in poorly defined user stories. The goal is to strike a balance that keeps the team aligned and ready to deliver.
+- **Refinement Time**: How much time should we dedicate to [backlog refinement]({{< ref "/tags/backlog-refinement" >}})? You guessed it, just enough and no more. Spending excessive time on refinement can lead to analysis paralysis, while insufficient time can result in poorly defined user stories. The goal is to strike a balance that keeps the team aligned and ready to deliver.
 
 - **Upfront Planning**: How much planning should we do before starting a project? Just enough and no more. While planning is essential, over-planning can stifle creativity and adaptability. Agile encourages us to embrace change and be ready to pivot as needed.
 

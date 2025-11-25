@@ -5,7 +5,7 @@ description: Cutting costs during recessions can harm long-term business success
 tldr: Cutting costs during a recession, especially in areas like agile coaching and training, may offer short-term savings but undermines long-term business resilience and growth. Companies that invest in efficiency, team empowerment, and continuous improvement during downturns are better positioned to outperform competitors when the market recovers. Instead of layoffs and rigid controls, focus on building a culture of learning and value creation to ensure your organization thrives through uncertainty.
 date: 2024-07-04T06:45:04Z
 lastmod: 2024-07-04T06:45:04Z
-weight: 530
+weight: 480
 sitemap:
   filename: sitemap.xml
   priority: 0.3
@@ -33,6 +33,7 @@ categories:
   - Leadership
   - Product Development
 tags:
+  - Agile Strategy
   - Business Agility
   - Organisational Agility
   - Market Adaptability

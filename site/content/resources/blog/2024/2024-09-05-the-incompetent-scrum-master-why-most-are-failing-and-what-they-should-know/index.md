@@ -41,6 +41,7 @@ tags:
   - Technical Mastery
   - Market Adaptability
   - Operational Practices
+  - Product Delivery
   - Scrum Master
   - Professional Scrum
   - Team Performance
@@ -57,8 +58,8 @@ resourceTypes: blog
 sameAs:
   - https://www.reddit.com/r/scrum/comments/1f9jjqn/the_age_of_the_incompitent_scrum_master/
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
-
 ---
+
 As a [DevOps]({{< ref "/categories/devops" >}}) consultant, Agile consultant, and trainer, I’ve worked with hundreds of companies to improve their software [product development]({{< ref "/categories/product-development" >}}). It’s astonishing how many [Scrum]({{< ref "/categories/scrum" >}}) Masters lack even a basic understanding of Scrum, let alone the expertise required to support the teams they work with.
 
 A [significant portion of Scrum Masters (about 61%\*)]({{< ref "/resources/signals/2024-06-03-the-majority-of-scrum-masters-are-not-fit-for-their-position" >}}) have either never read the Scrum Guide, lack technical proficiency relevant to their teams, or have only a superficial grasp of how to apply Scrum principles.
@@ -75,9 +76,9 @@ Faced with increasing demand for teams and products, companies worldwide struggl
 
 **Thus, the position we found ourselves in pre-pandemic!**
 
-The recent challenges to economic stability have led most companies to "tighten their belts," prompting a closer evaluation of the value they receive for their spending. Agile Coaches and Scrum Masters have largely failed to make a measurable difference—or even to define metrics by which their impact could be assessed. After more than 20 years of agile methodologies, there are still no clear standards or ways to measure the effectiveness of Scrum Masters. Without measurable impact, companies are questioning the need for the expense.
+The recent challenges to economic stability have led most companies to "tighten their belts," prompting a closer evaluation of the value they receive for their spending. Agile Coaches and Scrum Masters have largely failed to make a measurable difference, or even to define metrics by which their impact could be assessed. After more than 20 years of agile methodologies, there are still no clear standards or ways to measure the effectiveness of Scrum Masters. Without measurable impact, companies are questioning the need for the expense.
 
-However, many companies that have reduced their number of Scrum Masters are still hiring—just with higher expectations. Now, they demand [competence]({{< ref "/tags/competence" >}}). They want to know exactly how a [Scrum Master]({{< ref "/tags/scrum-master" >}}) will contribute to the business’s success and how that impact will be measured.
+However, many companies that have reduced their number of Scrum Masters are still hiring, just with higher expectations. Now, they demand [competence]({{< ref "/tags/competence" >}}). They want to know exactly how a [Scrum Master]({{< ref "/tags/scrum-master" >}}) will contribute to the business’s success and how that impact will be measured.
 
 ## **What should a Scrum Master for a software team know?**
 
@@ -118,7 +119,7 @@ While the Scrum Master may not directly perform the tasks mentioned above, they 
 
 Some have pushed back, saying this list is too idealistic. However, I see it as the starting point for a Scrum Master, not the end goal. While someone is on their journey to becoming a Scrum Master, they should be working within a team and learning. All the foundational knowledge is covered, at least at a beginner level, in courses like APS, APS-SD, PSM, PSPO, and PSK. That’s roughly 90 hours of classroom time, or just over 11 days of learning.
 
-Does that make you an expert in all these areas? No, of course not—that would be unrealistic. But it’s a start. It’s about knowing these processes and practices exist and having the opportunity to try them out within a team.
+Does that make you an expert in all these areas? No, of course not, that would be unrealistic. But it’s a start. It’s about knowing these processes and practices exist and having the opportunity to try them out within a team.
 
 **_Theory and Practice...._**
 

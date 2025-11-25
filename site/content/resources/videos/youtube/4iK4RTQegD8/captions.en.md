@@ -4,7 +4,7 @@ The problem isn't just the technology. It's the way it's wired into everything: 
 
 That's why modernisation feels risky, because if you pull the wrong thread, everything unravels.
 
-We're not here to rip and replace. We help you understand your system—not just the code, but how work flows through it, where the bottlenecks are, what's worth fixing, what's holding you back.
+We're not here to rip and replace. We help you understand your system, not just the code, but how work flows through it, where the bottlenecks are, what's worth fixing, what's holding you back.
 
 Sometimes the right answer isn't a full rewrite. Maybe it's automation. Maybe it's incremental changes that reduce risk. Maybe it's rethinking how your teams operate so you're not constantly firefighting.
 

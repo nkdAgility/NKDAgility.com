@@ -45,8 +45,8 @@ Watermarks:
   tldr: 2025-08-07T12:40:06Z
 ResourceId: un1ZqM8aYng
 ResourceType: signals
-
 ---
+
 Supporting multiple versions in production is a hidden tax on engineering teams.
 
 Every version adds:
@@ -55,8 +55,8 @@ Every version adds:
 - More merge conflicts
 - More chances for bugs to slip through
 
-Reverse integration—back-porting fixes to older versions—is even worse. It creates instability, increases the risk of unintended regressions, and wastes engineering time.
+Reverse integration, back-porting fixes to older versions, is even worse. It creates instability, increases the risk of unintended regressions, and wastes engineering time.
 
-And then there's branch by customer—the absolute worst-case scenario. Maintaining separate branches for each client is a scaling disaster, guaranteeing technical debt and a painful development experience.
+And then there's branch by customer, the absolute worst-case scenario. Maintaining separate branches for each client is a scaling disaster, guaranteeing technical debt and a painful development experience.
 
-If a team is struggling to keep track of where changes are applied, it's already a sign that the branching strategy is broken. Standardise, simplify, and move forward—not backward.
+If a team is struggling to keep track of where changes are applied, it's already a sign that the branching strategy is broken. Standardise, simplify, and move forward, not backward.

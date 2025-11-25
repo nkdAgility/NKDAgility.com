@@ -29,7 +29,6 @@ tags:
   - Software Development
   - Agile Leadership
   - Scrum Master
-  - Agile Frameworks
   - Pragmatic Thinking
   - Agentic Agility
   - Organisational Agility

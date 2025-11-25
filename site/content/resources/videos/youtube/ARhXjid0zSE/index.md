@@ -1,5 +1,5 @@
 ---
-title: 'Combatting the Agile Apocalypse: How to Overcome the Famine of Feedback and Engagement'
+title: "Combatting the Agile Apocalypse: How to Overcome the Famine of Feedback and Engagement"
 short_title: Overcoming Feedback Gaps in Agile Teams
 description: Explores the impact of lacking feedback and engagement in Agile teams, highlighting risks and offering strategies to boost stakeholder involvement and team motivation.
 tldr: A lack of feedback and engagement from stakeholders, especially the product owner, leads to disengaged teams, poor product alignment, and increased risk of failure. Regular feedback sessions, open communication, and early stakeholder involvement are essential to keep teams motivated and ensure products meet business needs. Development managers should prioritise active stakeholder participation to maintain team morale and deliver better outcomes.
@@ -58,9 +58,9 @@ duration: 32
 resourceTypes:
   - video
 isShort: true
-
 ---
-In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've often encountered what I like to call the "seven signs of the agile apocalypse." One of the most alarming signs is famine. Now, you might be wondering how famine relates to Agile practices, but let me explain. In our context, this famine manifests as a significant lack of feedback and engagement—particularly with stakeholders and, crucially, with your [product owner]({{< ref "/tags/product-owner" >}}).
+
+In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've often encountered what I like to call the "seven signs of the agile apocalypse." One of the most alarming signs is famine. Now, you might be wondering how famine relates to Agile practices, but let me explain. In our context, this famine manifests as a significant lack of feedback and engagement, particularly with stakeholders and, crucially, with your [product owner]({{< ref "/tags/product-owner" >}}).
 
 When I think about this lack of engagement, I can't help but reflect on the times I've seen teams struggle because the business simply didn't show up. It’s disheartening, isn’t it? If the business doesn’t care enough to provide feedback, why should your team care? This lack of care and attention can lead to a downward spiral, where the team becomes disengaged, and the quality of the product suffers.
 
@@ -69,7 +69,6 @@ When I think about this lack of engagement, I can't help but reflect on the time
 Feedback is the lifeblood of any Agile process. It’s what keeps the team aligned with the business goals and ensures that the product being developed meets the needs of its users. Here are a few key points to consider:
 
 - **Engagement is Essential**: Regular feedback sessions with stakeholders are crucial. They provide the team with insights that can shape the product's direction and help avoid costly mistakes down the line.
-  
 - **Product Owner's Role**: The product owner acts as the bridge between the team and the stakeholders. If the product owner is not engaged, it can create a disconnect that hampers the team's ability to deliver value.
 
 - **Creating a Culture of Care**: When stakeholders actively participate in the process, it fosters a culture of care. Teams feel valued and motivated to produce their best work when they know their efforts are appreciated and that their work has a direct impact on the business.

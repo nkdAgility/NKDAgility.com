@@ -32,12 +32,13 @@ categories:
   - Scrum
   - Product Development
 tags:
+  - Transparency
   - Agile Frameworks
   - Software Development
-  - Transparency
   - Empirical Process Control
   - Agile Values and Principles
   - Agile Transformation
+  - Agile Strategy
 Watermarks:
   description: 2025-05-07T13:13:55Z
   short_title: 2025-07-07T17:56:37Z

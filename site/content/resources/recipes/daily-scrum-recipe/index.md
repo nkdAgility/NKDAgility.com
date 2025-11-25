@@ -73,8 +73,8 @@ references:
     url: https://www.scrum.org/resources/what-is-a-daily-scrum
   - title: Avoid the Bug as Task anti-pattern in Azure DevOps
     url: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops
-
 ---
+
 The Daily [Scrum]({{< ref "/categories/scrum" >}}) is an essential event in the Scrum framework. It offers the
 Developers an opportunity to reflect on their progress, and plan for the next 24
 hours. But it's essential to approach it with the right mindset and intent.
@@ -90,8 +90,8 @@ they are on the right track.
 
 ### Beyond the Three Questions
 
-While the three standard questions—What did I do yesterday? What will I do
-today? Are there any impediments in my way?—provide a structure, they shouldn't
+While the three standard questions, What did I do yesterday? What will I do
+today? Are there any impediments in my way?, provide a structure, they shouldn't
 become a monotonous routine. Developers should not feel compelled to answer
 these questions robotically or feel the unnecessary pressure for everyone to
 speak. The focus should be on meaningful conversation and collaboration.

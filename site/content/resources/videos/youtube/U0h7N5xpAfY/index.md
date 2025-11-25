@@ -57,13 +57,13 @@ duration: 233
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 Many [Scrum]({{< ref "/categories/scrum" >}}) Masters step into their role without fully understanding what it entails. Often, the title of [Scrum Master]({{< ref "/tags/scrum-master" >}}) is simply handed to them by their organization, and the expectations within the organization can be quite different from the true accountability of the role within the framework of Scrum.
 
 In this blog post, we'll explore what it means to be a Scrum Master, what key responsibilities you hold, and how to maximize your effectiveness, not just for your [Scrum team]({{< ref "/tags/scrum-team" >}}), but across the entire organization.
 
-* * *
+---
 
 ## **What Does It Mean to Be a Scrum Master?**
 
@@ -79,7 +79,7 @@ Many organizations have varying definitions of what a Scrum Master does. This mi
 
 That’s the foundation. From there, everything else follows.
 
-* * *
+---
 
 ## **Essential Tools and Practices for Scrum Masters**
 
@@ -87,13 +87,13 @@ Being an effective Scrum Master requires a deep understanding of not just Scrum,
 
 - **Empiricism**: Scrum is based on empiricism, which means your team works by building, measuring, and learning.
 
-- **[Scrum Values]({{< ref "/tags/scrum-values" >}})**: These are the core values—Commitment, Focus, Openness, Respect, and Courage—that every Scrum Master should instill in their team.
+- **[Scrum Values]({{< ref "/tags/scrum-values" >}})**: These are the core values, Commitment, Focus, Openness, Respect, and Courage, that every Scrum Master should instill in their team.
 
 - **Complementary Practices**: These can include [Lean]({{< ref "/categories/lean" >}}) practices, [Kanban]({{< ref "/categories/kanban" >}}), and other Agile methodologies that enhance Scrum’s efficiency.
 
 🔧 **Your toolbox** should be filled with practices and techniques that help guide your team toward continual improvement.
 
-* * *
+---
 
 ## **Teaching Scrum and Empiricism to Your Team**
 
@@ -109,7 +109,7 @@ If you’re working with a **new Scrum team**, your first priority is to ensure 
 
 📝 **Tip**: Take time to regularly reinforce these concepts with your team, particularly in the early stages. A solid foundation will lead to better outcomes as the team grows.
 
-* * *
+---
 
 ## **Engaging Beyond the Team: Building Organizational Relationships**
 
@@ -121,7 +121,7 @@ A Scrum Master’s responsibility doesn’t stop with the Scrum team. In fact, t
 
 ### **Organizational Impediments**
 
-One of the biggest challenges Scrum teams face is not internal but external. Often, **organizational impediments**—processes or systems that slow down or prevent progress—can significantly impact the team’s ability to deliver value.
+One of the biggest challenges Scrum teams face is not internal but external. Often, **organizational impediments**, processes or systems that slow down or prevent progress, can significantly impact the team’s ability to deliver value.
 
 To address this, you’ll need to:
 
@@ -133,7 +133,7 @@ To address this, you’ll need to:
 
 🌱 **Personal Advice**: In my experience, working to build relationships with key stakeholders early on makes it easier to address these impediments when they arise. By understanding the business’s needs and challenges, you can advocate for changes that benefit both the team and the organization.
 
-* * *
+---
 
 ## **Maximizing the Scrum Master's Effectiveness**
 
@@ -147,7 +147,7 @@ Being an effective Scrum Master requires ongoing learning and growth. While form
 
 📚 **Recommendation**: These classes are invaluable for broadening your understanding of the role and making you the most effective Scrum Master possible.
 
-* * *
+---
 
 ## **Navigating the Unique Needs of Your Team and Organization**
 
@@ -161,11 +161,11 @@ Every team is different, and every organization has unique challenges. This is w
 
 💡 **Personal Experience**: One of the most rewarding aspects of being a Scrum Master is seeing the team and organization evolve over time. In one instance, after months of advocating for process changes, the organization restructured its approval processes, leading to a 30% reduction in time-to-market for product features.
 
-* * *
+---
 
 ## **Conclusion: Becoming the Most Effective Scrum Master**
 
-To be an effective Scrum Master, you must go beyond the basics. It’s not just about running Scrum ceremonies or ensuring the team follows the framework—it’s about **maximizing the effectiveness** of both the team and the organization. This requires a deep understanding of Scrum, teaching your team the principles of empiricism, and building strong relationships within the organization to remove impediments.
+To be an effective Scrum Master, you must go beyond the basics. It’s not just about running Scrum ceremonies or ensuring the team follows the framework, it’s about **maximizing the effectiveness** of both the team and the organization. This requires a deep understanding of Scrum, teaching your team the principles of empiricism, and building strong relationships within the organization to remove impediments.
 
 🔑 **Key takeaways**:
 

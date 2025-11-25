@@ -1,5 +1,5 @@
 ---
-title: 'Guidance: A Branching strategy for Scrum Teams'
+title: "Guidance: A Branching strategy for Scrum Teams"
 description: Explains an effective branching strategy for Scrum teams, covering best practices, common pitfalls, and step-by-step guidance for managing code, releases, and bug fixes.
 date: 2010-04-14
 lastmod: 2010-04-14
@@ -38,8 +38,8 @@ ResourceImportId: 50
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: metro-visual-studio-2010-128-link-18-18.png
-
 ---
+
 ![vs2010alm](images/ABranchingstrategyfor_E931-vs2010alm_-16-16.png)![image](images/ABranchingstrategyfor_E931-image_-5-10.png)Having a good branching strategy will save your bacon, or at least your code. Be careful when deviating from your branching strategy because if you do, you may be worse off than when you started!
 { .post-img }
 
@@ -91,19 +91,19 @@ There are also a number of branching Anti-Patterns that should be avoided at all
 
 > You know you are on the wrong track if you experience one or more of the following symptoms in your development environment:
 >
-> - **Merge Paranoia**—avoiding merging at all cost, usually because of a fear of the consequences.
-> - **Merge Mania**—spending too much time merging software assets instead of developing them.
-> - **Big Bang Merge**—deferring branch merging to the end of the development effort and attempting to merge all branches simultaneously.
-> - **Never-Ending Merge**—continuous merging activity because there is always more to merge.
-> - **Wrong-Way Merge**—merging a software asset version with an earlier version.
-> - **Branch Mania**—creating many branches for no apparent reason.
-> - **Cascading Branches**—branching but never merging back to the main line.
-> - **Mysterious Branches**—branching for no apparent reason.
-> - **Temporary Branches**—branching for changing reasons, so the branch becomes a permanent temporary workspace.
-> - **Volatile Branches**—branching with unstable software assets shared by other branches or merged into another branch.  
+> - **Merge Paranoia**, avoiding merging at all cost, usually because of a fear of the consequences.
+> - **Merge Mania**, spending too much time merging software assets instead of developing them.
+> - **Big Bang Merge**, deferring branch merging to the end of the development effort and attempting to merge all branches simultaneously.
+> - **Never-Ending Merge**, continuous merging activity because there is always more to merge.
+> - **Wrong-Way Merge**, merging a software asset version with an earlier version.
+> - **Branch Mania**, creating many branches for no apparent reason.
+> - **Cascading Branches**, branching but never merging back to the main line.
+> - **Mysterious Branches**, branching for no apparent reason.
+> - **Temporary Branches**, branching for changing reasons, so the branch becomes a permanent temporary workspace.
+> - **Volatile Branches**, branching with unstable software assets shared by other branches or merged into another branch.  
 >    **Note**   Branches are volatile most of the time while they exist as independent branches. That is the point of having them. The difference is that you should not share or merge branches while they are in an unstable state.
-> - **Development Freeze**—stopping all development activities while branching, merging, and building new base lines.
-> - **Berlin Wall**—using branches to divide the development team members, instead of dividing the work they are performing.
+> - **Development Freeze**, stopping all development activities while branching, merging, and building new base lines.
+> - **Berlin Wall**, using branches to divide the development team members, instead of dividing the work they are performing.
 >
 > \-[Branching and Merging Primer](<http://msdn.microsoft.com/en-us/library/aa730834(VS.80).aspx>) by Chris Birmele - Developer Tools Technical Specialist at Microsoft Pty Ltd in Australia
 

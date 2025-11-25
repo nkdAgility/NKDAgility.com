@@ -53,9 +53,9 @@ resourceTypes:
 isShort: false
 ResourceId: sdIPSpbeA9w
 ResourceType: videos
-
 ---
-Automation is a game changer in the world of [software development]({{< ref "/tags/software-development" >}}). It’s not just about making things faster; it’s about creating a more standardised and efficient process. However, I must admit, I have a bit of a love-hate relationship with the term "efficiency." While it certainly fits the context, it can sometimes overshadow the human element that is so crucial in our field. 
+
+Automation is a game changer in the world of [software development]({{< ref "/tags/software-development" >}}). It’s not just about making things faster; it’s about creating a more standardised and efficient process. However, I must admit, I have a bit of a love-hate relationship with the term "efficiency." While it certainly fits the context, it can sometimes overshadow the human element that is so crucial in our field.
 
 Let me share a couple of stories that illustrate the importance of automation and the pitfalls of relying solely on human execution.
 
@@ -63,7 +63,7 @@ Let me share a couple of stories that illustrate the importance of automation an
 
 Years ago, I had the opportunity to teach a group of testers how to use the Azure [DevOps]({{< ref "/categories/devops" >}}) test tools. At that time, the tools were still quite new, and we had a series of workshops and labs designed to help them grasp the concepts. You’d think that testers, whose superpower is following test scripts, would excel at this. After all, they spend considerable time creating these scripts, right?
 
-However, I kept receiving feedback that the labs were faulty. Testers were adamant that they were following the steps correctly, yet the tests were failing. The reality? They were missing steps or clicking the wrong buttons. This wasn’t a reflection of their skills; it was simply a human error. 
+However, I kept receiving feedback that the labs were faulty. Testers were adamant that they were following the steps correctly, yet the tests were failing. The reality? They were missing steps or clicking the wrong buttons. This wasn’t a reflection of their skills; it was simply a human error.
 
 ### A Costly Mistake
 
@@ -75,18 +75,18 @@ These examples highlight a crucial point: when humans are involved, mistakes are
 
 I often say, "If it can be automated, it should be automated. If it can’t be automated, it should be rearchitected." This philosophy is about closing the feedback loop. Imagine writing a story and submitting it to a publisher, only to wait six months for feedback. By the time you receive it, you’ve moved on to other parts of the story, and now you have to revisit earlier sections with a different mindset. This cognitive load can be overwhelming, and it’s no different in software development.
 
-To mitigate this, we need automation that provides rapid feedback. Ideally, we want tests that run in minutes—if not seconds. The [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team faced a similar challenge. Their automated tests took 48 to 72 hours to run, which is far too long. They realised that their testing pyramid was inverted, with too many long-running system tests and not enough fast-running unit tests. 
+To mitigate this, we need automation that provides rapid feedback. Ideally, we want tests that run in minutes, if not seconds. The [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team faced a similar challenge. Their automated tests took 48 to 72 hours to run, which is far too long. They realised that their testing pyramid was inverted, with too many long-running system tests and not enough fast-running unit tests.
 
-By flipping that pyramid, they reduced their testing time from days to just three and a half minutes. This is the kind of efficiency we should strive for. 
+By flipping that pyramid, they reduced their testing time from days to just three and a half minutes. This is the kind of efficiency we should strive for.
 
 ### The Cost of Manual Processes
 
-Manual processes are the longest cycle in any development workflow. They are not only time-consuming but also prone to errors. I once worked with an organisation that had an astonishing ratio of testers to coders—600 testers for just 300 coders. Their quality was so poor that they required an excessive amount of manual QA hours to validate any changes. This is simply unsustainable.
+Manual processes are the longest cycle in any development workflow. They are not only time-consuming but also prone to errors. I once worked with an organisation that had an astonishing ratio of testers to coders, 600 testers for just 300 coders. Their quality was so poor that they required an excessive amount of manual QA hours to validate any changes. This is simply unsustainable.
 
 Imagine the cost of maintaining such a workforce versus investing in robust automation that can validate software changes quickly and accurately. By embracing automation, you can build more features with higher quality, leading to happier customers and ultimately, greater profitability.
 
 ### Conclusion
 
-In conclusion, the path to effective software development lies in embracing automation. It’s not just about speeding up processes; it’s about reducing human error and creating a more reliable workflow. By automating where possible, we can focus on what truly matters—delivering high-quality software that meets the needs of our customers. 
+In conclusion, the path to effective software development lies in embracing automation. It’s not just about speeding up processes; it’s about reducing human error and creating a more reliable workflow. By automating where possible, we can focus on what truly matters, delivering high-quality software that meets the needs of our customers.
 
 Let’s strive for a future where automation is at the forefront of our development practices, allowing us to innovate and grow without the burden of human error weighing us down.

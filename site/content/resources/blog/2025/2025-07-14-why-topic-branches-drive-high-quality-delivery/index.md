@@ -29,9 +29,9 @@ tags:
   - Technical Mastery
   - Operational Practices
   - Engineering Practices
+  - Value Delivery
   - Product Delivery
   - Continuous Delivery
-  - Deployment Frequency
   - Pragmatic Thinking
   - Team Collaboration
   - Team Performance
@@ -45,8 +45,8 @@ Watermarks:
   tldr: 2025-07-30T23:22:10Z
 ResourceId: O_VlmDj7n3V
 ResourceType: blog
-
 ---
+
 In modern [software development]({{< ref "/tags/software-development" >}}) the idea of the topic branch is an essecial one. It is your gatekeeper to preventing Conway's Law and an engineering structure that mirrors your organisational boundaries. Frequent integration through topic branches helps break down silos, encouraging cross-[team collaboration]({{< ref "/tags/team-collaboration" >}}) and reducing the tendency for the software architecture to reflect the organisation's communication paths.
 
 A topic branch is a short-lived, focused branch in your source control repository that isolates a **single unit of developer work**. This is not a month-long feature branch. This is not "we'll merge it someday" work. A topic branch is something you **code, test, and integrate in a few hours or, at most, a couple of days**.
@@ -66,11 +66,11 @@ We want to consistently emphasised the importance of technical practices that en
 
 From a **technical [leadership]({{< ref "/categories/leadership" >}})** perspective, topic branches are pivotal because they enable:
 
-- Modularity — you isolate changes to a narrow scope.
-- Continuous delivery — you keep the mainline ready for release.
-- Clear code reviews — you limit pull requests to atomic, understandable units.
-- Collaborative accountability — the team shares responsibility for integrating small changes frequently.
-- **Support for agile development practices** — you align technical work with the team’s tactical Sprint Goals and Product Goals.
+- Modularity , you isolate changes to a narrow scope.
+- Continuous delivery , you keep the mainline ready for release.
+- Clear code reviews , you limit pull requests to atomic, understandable units.
+- Collaborative accountability , the team shares responsibility for integrating small changes frequently.
+- **Support for agile development practices** , you align technical work with the team’s tactical Sprint Goals and Product Goals.
 
 Without topic branches, you create a fragile system of work. Without topic branches, you make integration harder. Without topic branches, you **slow down your delivery pipeline** and increase the chance of failure.
 
@@ -80,7 +80,7 @@ Building on the strategic importance we need actionable patterns that technical 
 
 ![GitHub Flow diagram](images/branchstrategy-trunkbased.png)
 
-You branch off `main`, do your small unit of work, push frequently, and merge back as soon as possible — ideally the same day, or next day at the latest. Your branch is:
+You branch off `main`, do your small unit of work, push frequently, and merge back as soon as possible , ideally the same day, or next day at the latest. Your branch is:
 
 - Focused on a single task or issue.
 - Continuously tested (locally and via CI).

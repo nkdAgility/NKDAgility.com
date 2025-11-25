@@ -1,14 +1,14 @@
 ---
-title: 'Story Points: A Ghost of Agile Past'
+title: "Story Points: A Ghost of Agile Past"
 short_title: Story Points vs Flow Metrics in Agile
 description: Explores the problems with story points in Agile, their impact on team behaviour, and why flow metrics offer a better way to measure progress and deliver real value.
 tldr: Story points have become a source of dysfunction in Agile teams, shifting focus from delivering value to hitting arbitrary targets and enabling misleading comparisons between teams. These issues are worsened when contracts tie performance to story point delivery, leading to counterproductive behaviors. Development managers should move away from story points and instead adopt flow metrics like cycle time and throughput, which provide more accurate, value-focused insights into team performance.
 date: 2023-12-29T07:00:14Z
 lastmod: 2023-12-29T07:00:14Z
-weight: 580
+weight: 295
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: monthly
 ItemId: beR21RHTUvo
 ItemType: videos
@@ -53,9 +53,9 @@ duration: 433
 resourceTypes:
   - video
 isShort: false
-
 ---
-In the world of Agile, there are many relics that still haunt teams today, and one of the most significant is **story points**. Ironically, the creator of story points has publicly apologized for their invention. Think about that for a moment—an apology from the creator of a concept that has deeply embedded itself into Agile practices. Let’s dig into why story points have become one of the most persistent, yet problematic, ghosts of Agile past.
+
+In the world of Agile, there are many relics that still haunt teams today, and one of the most significant is **story points**. Ironically, the creator of story points has publicly apologized for their invention. Think about that for a moment, an apology from the creator of a concept that has deeply embedded itself into Agile practices. Let’s dig into why story points have become one of the most persistent, yet problematic, ghosts of Agile past.
 
 ## **The Origins of Story Points**
 
@@ -95,7 +95,7 @@ This kind of thinking is complete nonsense. There’s no way to normalize story 
 
 - Story points aren’t standardized, so using them as a benchmark across teams creates false equivalencies.
 
-I’ve seen this kind of thinking in action. Recently, I worked with a customer who had multiple teams struggling to deliver on a product. They were hyper-focused on story points, believing that hitting a specific number was the key to success. This was further complicated by their contract, which included fiscal penalties if they deviated more than 15% from the story point target. You can imagine the dysfunctional behaviors that resulted from this—teams began focusing more on hitting their point targets rather than delivering real value.
+I’ve seen this kind of thinking in action. Recently, I worked with a customer who had multiple teams struggling to deliver on a product. They were hyper-focused on story points, believing that hitting a specific number was the key to success. This was further complicated by their contract, which included fiscal penalties if they deviated more than 15% from the story point target. You can imagine the dysfunctional behaviors that resulted from this, teams began focusing more on hitting their point targets rather than delivering real value.
 
 🚩 **Pro tip**: If your contract includes story points, you’re setting your team up for failure.
 
@@ -103,7 +103,7 @@ I’ve seen this kind of thinking in action. Recently, I worked with a customer 
 
 I used to think story points were a good thing. I used to believe they helped teams estimate work more effectively. But over the years, I’ve come to align more with people like Daniel Vacanti, a pro-[Kanban]({{< ref "/categories/kanban" >}}) advocate who argues that story points have set our industry back 20 years.
 
-Story points have locked teams into a cycle where the focus is on the numbers—on tracking work done—rather than the **value** being created. This fixation on points leads to:
+Story points have locked teams into a cycle where the focus is on the numbers, on tracking work done, rather than the **value** being created. This fixation on points leads to:
 
 - A focus on tasks rather than value.
 
@@ -147,4 +147,4 @@ Here are some signs your team might be haunted by the ghost of story points:
 
 ## **Moving Forward with Flow**
 
-The future is bright, but only if we’re willing to let go of outdated methods like story points and embrace more meaningful metrics. **Flow metrics** provide us with the tools we need to move forward and focus on what truly matters: delivering value. 💬 **Don’t let the past hold you back**—let’s move towards a future where we measure what really matters.
+The future is bright, but only if we’re willing to let go of outdated methods like story points and embrace more meaningful metrics. **Flow metrics** provide us with the tools we need to move forward and focus on what truly matters: delivering value. 💬 **Don’t let the past hold you back**, let’s move towards a future where we measure what really matters.

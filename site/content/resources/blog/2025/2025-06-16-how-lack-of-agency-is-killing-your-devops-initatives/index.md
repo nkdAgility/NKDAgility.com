@@ -48,17 +48,17 @@ Watermarks:
   tldr: 2025-08-07T12:11:05Z
 ResourceId: AgIU1SK-3pE
 ResourceType: blog
-
 ---
+
 [DevOps]({{< ref "/categories/devops" >}}) is not automation. It is not pipelines. It is not "shifting left" while locking decision-making into ancient [release management]({{< ref "/tags/release-management" >}}) bureaucracies.  
 **DevOps is agency.** It is the union of people, process, and products to enable continuous delivery of value to our end users.
 
-If your developers do not have operational agency—control over environments, deployments, telemetry, and remediation—you are not doing DevOps.  
+If your developers do not have operational agency, control over environments, deployments, telemetry, and remediation, you are not doing DevOps.  
 You are automating fragility.
 
 ## There Is No Place Like Production
 
-We have already established that [production is the only place real feedback happens]({{< ref "/resources/blog/2020/2020-12-28-there-is-no-place-like-production" >}}). UAT, staging, demo environments—none of these reveal how real users behave, where real bottlenecks emerge, or where real pain points lie.  
+We have already established that [production is the only place real feedback happens]({{< ref "/resources/blog/2020/2020-12-28-there-is-no-place-like-production" >}}). UAT, staging, demo environments, none of these reveal how real users behave, where real bottlenecks emerge, or where real pain points lie.  
 Real outcomes, real telemetry, and real consequences only happen in production.
 
 If developers do not have operational authority over production, they are blindfolded. They can build, but they cannot learn. They can deploy, but they cannot observe. They can script, but they cannot improve.

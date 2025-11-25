@@ -26,11 +26,9 @@ tags:
   - Pragmatic Thinking
   - Organisational Agility
   - Software Development
-  - Enterprise Agility
   - Organisational Change
   - Agile Strategy
   - Agile Transformation
-  - Product Delivery
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7337501265146355712

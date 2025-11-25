@@ -64,9 +64,9 @@ duration: 59
 resourceTypes:
   - video
 isShort: true
-
 ---
-In today’s fast-paced world, where user needs and market dynamics are constantly evolving, being agile is no longer a luxury—it’s a necessity. But what does it mean to truly be agile? At its core, agility is about responding to change over following a plan. This means that your teams need the freedom to adapt, especially when it comes to changing requirements based on user feedback.
+
+In today’s fast-paced world, where user needs and market dynamics are constantly evolving, being agile is no longer a luxury, it’s a necessity. But what does it mean to truly be agile? At its core, agility is about responding to change over following a plan. This means that your teams need the freedom to adapt, especially when it comes to changing requirements based on user feedback.
 
 ## **The Importance of Engaging with the [Product Development]({{< ref "/categories/product-development" >}}) Team**
 
@@ -116,7 +116,7 @@ In one of my past projects, we had a feature that the stakeholders were initiall
 
 ## **The Role of the Product Team in Agile**
 
-The people creating the product are not just executing a plan—they are an integral part of the product's story. Their input is just as important as that of the stakeholders.
+The people creating the product are not just executing a plan, they are an integral part of the product's story. Their input is just as important as that of the stakeholders.
 
 ### **Empowering the Product Team**
 

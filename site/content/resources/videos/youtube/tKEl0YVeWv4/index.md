@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking the Future of Software Development: Why Automation is Your Key to Success'
+title: "Unlocking the Future of Software Development: Why Automation is Your Key to Success"
 short_title: Automation in Software Development
 description: Explores how automation boosts software development by reducing errors, speeding up deployments, and ensuring consistent, high-quality releases in dynamic environments.
 tldr: Automation is essential for faster, more reliable software development, reducing human error and enabling consistent, rapid deployments. Real-world failures like Knight Capital show the high cost of manual processes, while leading teams achieve quick, high-quality releases by building automation into every step. Development managers should prioritize automating all possible tasks to improve quality, speed, and adaptability.
@@ -54,8 +54,8 @@ resourceTypes:
 isShort: false
 ResourceId: tKEl0YVeWv4
 ResourceType: videos
-
 ---
+
 Automation is a game changer in the world of [software development]({{< ref "/tags/software-development" >}}), and I can’t stress enough how crucial it is for enabling teams to develop faster and more effectively. If there’s one mantra I live by, it’s this: if it can be automated, it should be automated. And if it can’t be automated yet, then it’s time to invest in your product to make that automation possible.
 
 ### The Power of Automation
@@ -68,7 +68,7 @@ Let’s break down why automation is so vital:
 
 ### Real-World Consequences of Neglecting Automation
 
-Let me share a cautionary tale: the Knight Capital Group. They had $450 million in the bank at the start of the day, but due to a manual deployment error—where one out of seven servers was not updated—they lost thousands of dollars every second. By the end of the day, they filed for Chapter 11 bankruptcy. This disaster could have been entirely avoided with proper automation in place.
+Let me share a cautionary tale: the Knight Capital Group. They had $450 million in the bank at the start of the day, but due to a manual deployment error, where one out of seven servers was not updated, they lost thousands of dollars every second. By the end of the day, they filed for Chapter 11 bankruptcy. This disaster could have been entirely avoided with proper automation in place.
 
 Similarly, consider the global impact of incidents like the one involving CloudStrike. These situations highlight the necessity of automated checks and deployments. As the frequency of deployments increases, so does the need for robust automation to manage the complexities that arise.
 

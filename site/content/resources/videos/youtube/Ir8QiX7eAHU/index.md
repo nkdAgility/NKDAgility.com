@@ -1,6 +1,6 @@
 ---
-title: 'The Key to a Kanban Strategy: Understanding WIP Limits'
-short_title: 'Kanban WIP Limits: Managing Workflow Effectively'
+title: "The Key to a Kanban Strategy: Understanding WIP Limits"
+short_title: "Kanban WIP Limits: Managing Workflow Effectively"
 description: Explains how setting and adjusting Work-In-Progress (WIP) limits in Kanban helps teams manage workflow, prevent bottlenecks, and improve productivity and collaboration.
 tldr: Setting work-in-progress (WIP) limits is essential for an effective Kanban strategy because it prevents overload, exposes bottlenecks, and improves workflow. The optimal WIP limit for each stage should be found through experimentation and regular adjustment, aiming for a balance that maximizes flow without causing idle time or bottlenecks. Start small, monitor results, and adjust limits as needed to boost team productivity and collaboration.
 date: 2024-03-06T07:00:17Z
@@ -53,19 +53,19 @@ duration: 464
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 One of the most critical components of a successful **[Kanban]({{< ref "/categories/kanban" >}}) strategy** is setting **Work-In-Progress (WIP) limits**. Without WIP limits, you simply do not have a proper Kanban strategy. In this post, we'll explore the importance of WIP limits, how to determine the right limits for your team, and share some personal experiences and advice to help you optimize your workflow.
 
 ## **Why WIP Limits Matter in Kanban**
 
-When you visualize your work on a Kanban board, you're essentially mapping out the various **states** or **activities** that any given piece of work flows through. Each of these states represents a step in the process—whether it's development, testing, or deployment. But how do you prevent your workflow from becoming overloaded? This is where WIP limits come in.
+When you visualize your work on a Kanban board, you're essentially mapping out the various **states** or **activities** that any given piece of work flows through. Each of these states represents a step in the process, whether it's development, testing, or deployment. But how do you prevent your workflow from becoming overloaded? This is where WIP limits come in.
 
 Setting a WIP limit in each column (or stage) ensures that your team isn't overwhelmed and that work moves smoothly through the system. It's about maintaining balance. Too much work at once leads to bottlenecks, whereas too little work means you're not fully utilizing your team's capacity.
 
 ### **The Art of Finding the Right WIP Limit** **🎨**
 
-Figuring out the optimal WIP limit for each stage in your system is both a **science and an art**. Think of it as finding the "Goldilocks zone"—not too high, not too low, but just right.
+Figuring out the optimal WIP limit for each stage in your system is both a **science and an art**. Think of it as finding the "Goldilocks zone", not too high, not too low, but just right.
 
 I once believed the story of _Goldilocks and the Three Bears_ was universal, but I discovered during a workshop in Romania that they were unfamiliar with it! However, the concept of a "Goldilocks zone" resonated well when I explained it using planetary physics.
 
@@ -73,17 +73,17 @@ In planetary terms, the Goldilocks zone is where water isn't frozen or boiling, 
 
 ## **Setting WIP Limits at Each Stage**
 
-WIP limits aren't just for the overall system—they need to be set for each **individual stage**. These individual WIP limits will also inform the overall WIP limit for your entire system.
+WIP limits aren't just for the overall system, they need to be set for each **individual stage**. These individual WIP limits will also inform the overall WIP limit for your entire system.
 
 ### **Ideal WIP Limit: Striving for Perfection**
 
-In an ideal world, the optimal WIP limit is **one**—meaning single-piece flow, where only one item is being worked on at a time. This ensures maximum efficiency and the fastest possible delivery of work. Sounds perfect, right? But here’s the thing: **the world isn’t perfect**.
+In an ideal world, the optimal WIP limit is **one**, meaning single-piece flow, where only one item is being worked on at a time. This ensures maximum efficiency and the fastest possible delivery of work. Sounds perfect, right? But here’s the thing: **the world isn’t perfect**.
 
 The coin game exercise illustrates this well. If you haven’t tried it with your team, I highly recommend it. You take a group of people and give them 20 coins. Each person must flip all the coins to heads, then tails, before passing them to the next person. If you do this in batches of 20, only one person is working at any given time, and the rest are waiting.
 
 But when you reduce the batch size to one coin at a time, everyone is working simultaneously, resulting in faster delivery for all coins.
 
-💡 **Key takeaway**: The smaller your batch size, the quicker you can deliver individual pieces of work. But remember, we're not flipping coins in real life. We're dealing with complex tasks like coding, designing, and customer feedback—so things get a little more complicated.
+💡 **Key takeaway**: The smaller your batch size, the quicker you can deliver individual pieces of work. But remember, we're not flipping coins in real life. We're dealing with complex tasks like coding, designing, and customer feedback, so things get a little more complicated.
 
 ## **Balancing Real-World Complexity** **🌍**
 
@@ -93,9 +93,9 @@ In the real world, work isn't linear. We're not simply flipping coins. We're sol
 
 1. **Start with [experimentation]({{< ref "/tags/experimentation" >}})**: There is no magic formula. Begin by setting an initial WIP limit and observe how your system behaves.
 
-3. **Constrain work to create slack**: Setting WIP limits slightly below your team's full capacity creates slack in the system, allowing you to identify bottlenecks and opportunities for improvement.
+2. **Constrain work to create slack**: Setting WIP limits slightly below your team's full capacity creates slack in the system, allowing you to identify bottlenecks and opportunities for improvement.
 
-5. **Adjust based on feedback**: If your WIP limit is too high, you'll struggle to spot problems because the system never feels constrained. If it's too low, you'll notice inefficiencies from too much idle time. Adjust accordingly.
+3. **Adjust based on feedback**: If your WIP limit is too high, you'll struggle to spot problems because the system never feels constrained. If it's too low, you'll notice inefficiencies from too much idle time. Adjust accordingly.
 
 ### **Workshop Insights: Discussions on WIP Limits**
 
@@ -115,7 +115,7 @@ If you're unsure where to start, here's my advice:
 
 - **Use the "one less rule"**: If you're really stuck, a simple starting point is to set the WIP limit to **one less than the number of people** performing that activity. For example, if you have four people working on a task, set the WIP limit to three.
 
-These rules are not set in stone—they’re just a guide to help you get started.
+These rules are not set in stone, they’re just a guide to help you get started.
 
 ## **Implementing Kanban in a [Scrum]({{< ref "/categories/scrum" >}}) Team** **🛠️**
 

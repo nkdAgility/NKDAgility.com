@@ -5,10 +5,10 @@ description: Learn key steps, common pitfalls, and best practices for migrating 
 tldr: Migrating to Azure DevOps is complex, especially with legacy systems, but careful planning and attention to detail can prevent most issues. Key steps include importing legacy data before upgrades, aligning user identities to avoid workflow disruptions, cleaning up databases to meet size limits, and strictly following Microsoft’s backup procedures. Development managers should prioritize preparation and sequencing to ensure a smooth migration and minimize risks.
 date: 2024-07-31T12:00:49Z
 lastmod: 2024-07-31T12:00:49Z
-weight: 690
+weight: 550
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: 3jYFD-6_kZk
 ItemType: videos

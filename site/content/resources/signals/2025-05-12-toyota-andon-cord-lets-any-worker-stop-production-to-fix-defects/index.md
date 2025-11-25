@@ -1,6 +1,6 @@
 ---
 title: Toyota "andon" cord lets any worker stop production to fix defects
-short_title: 'Toyota Andon Cord: Empowering Quality Culture'
+short_title: "Toyota Andon Cord: Empowering Quality Culture"
 description: Explains how true quality improvement needs both tools and a culture of safety, using Toyota’s andon cord as a lesson for Agile and Scrum adoption in organisations.
 tldr: Giving teams tools like Scrum events or defect reporting only works if you also create a culture where people feel safe to speak up and address problems. Without psychological safety and genuine empowerment, process changes alone will not lead to real improvement. Development managers should focus on building trust and openness so teams feel comfortable raising issues.
 date: 2025-05-12T15:30:50+01:00
@@ -20,7 +20,7 @@ aliases:
 source: LinkedIn
 layout: signal
 concepts:
-  - Ethos
+  - Philosophy
 categories:
   - Product Development
   - Leadership
@@ -31,16 +31,16 @@ tags:
   - Team Collaboration
   - Social Technologies
   - Change Management
-  - Lean Thinking
+  - Psychological Safety
   - Software Development
   - Organisational Agility
   - Team Motivation
   - Pragmatic Thinking
-  - Psychological Safety
   - Lean Principles
   - Sociotechnical Systems
   - Professional Scrum
   - Self Organisation
+  - Market Adaptability
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7327716895598460928
@@ -58,9 +58,9 @@ Watermarks:
   tldr: 2025-08-07T12:32:27Z
 ResourceId: BIT0P3MRDj9
 ResourceType: signals
-
 ---
-In manufacturing, Toyota introduced the "andon" cord—a simple chain any worker could pull to stop the entire line if they saw a defect.
+
+In manufacturing, Toyota introduced the "andon" cord, a simple chain any worker could pull to stop the entire line if they saw a defect.
 
 When American car companies copied the idea, they installed the cord... but workers were too afraid to pull it.
 

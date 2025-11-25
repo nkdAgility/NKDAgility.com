@@ -49,8 +49,8 @@ Watermarks:
 creator: Martin Hinshelwood
 ResourceId: ABbVdMBZ5fI
 ResourceType: blog
-
 ---
+
 Let’s get one thing straight: **Agile is not a mindset.** And it’s certainly not just about behaviour. That lazy framing dilutes the discipline, ignores the engineering reality, and gives cover to incompetence.
 
 Agile for software development is a **delivery discipline grounded in technical leadership, empirical control, and engineering excellence**. If your so-called “Agile transformation” doesn’t touch your code, your infrastructure, your deployment pipelines, or your product strategy, then you’re not Agile, you’re just busy.
@@ -65,7 +65,7 @@ Instead of prescription, Agile encourages conditions that make learning and adap
 
 - Deliver working software frequently.
 - Reflect regularly on how to become more effective.
-- Embrace change—even late in development.
+- Embrace change, even late in development.
 
 This isn’t methodology. It’s operational discipline.
 
@@ -95,7 +95,7 @@ Here’s what engineering excellence looks like in Agile:
 - **Telemetry and Observability**: Insight into live systems for fast feedback and debugging.
 - **Design for Replaceability**: Modular, cohesive systems you can change without fear.
 
-These are not “nice-to-haves.” They are foundational. If your teams can’t ship to production at regular, sustainable intervals, you’re not Agile—you’re just going through the motions.
+These are not “nice-to-haves.” They are foundational. If your teams can’t ship to production at regular, sustainable intervals, you’re not Agile, you’re just going through the motions.
 
 ## Stop Outsourcing Agile to Coaches Who Don’t Code
 
@@ -103,15 +103,15 @@ A big part of the problem is that we’ve allowed Agile to be colonised by peopl
 
 This isn’t a personal attack. It’s a **call for accountability**.
 
-If you're coaching Agile teams and you don’t understand modern engineering practices—DevOps, CI/CD, telemetry, checkability, you’re not equipped to lead agility in software.
+If you're coaching Agile teams and you don’t understand modern engineering practices, DevOps, CI/CD, telemetry, checkability, you’re not equipped to lead agility in software.
 
 Agile is not a therapy session. It’s not a motivational poster. It is a **system of delivery** designed to maximise value under conditions of uncertainty. And if we want to keep calling it that, we’d better start treating it with the rigour it deserves.
 
 ## "A bad system will beat a good person every time."
 
-Deming’s insight isn’t a philosophical quip—it’s a brutal truth. In Agile environments, we often celebrate the heroics of individuals, when we should be interrogating the design of the system. Good people trapped in bad systems burn out, give up, or conform.
+Deming’s insight isn’t a philosophical quip, it’s a brutal truth. In Agile environments, we often celebrate the heroics of individuals, when we should be interrogating the design of the system. Good people trapped in bad systems burn out, give up, or conform.
 
-This is where **Larman’s Law** comes in: _“Organisations are implicitly optimised to avoid changing the status quo middle-management and specialist roles, power structures and political boundaries.”_ It explains why many Agile initiatives fail. Not because people resist Agile—but because the system resists accountability.
+This is where **Larman’s Law** comes in: _“Organisations are implicitly optimised to avoid changing the status quo middle-management and specialist roles, power structures and political boundaries.”_ It explains why many Agile initiatives fail. Not because people resist Agile, but because the system resists accountability.
 
 Agile invites change, but organisations repel it. Instead of redesigning systems of work, they repurpose Agile into just another management fad. Sticky notes go up. Certifications get handed out. But the constraints, silos, and dysfunction remain untouched.
 
@@ -119,7 +119,7 @@ If your structure still depends on project gates, command hierarchies, and stage
 
 **Systems produce outcomes. Not individuals.**
 
-Want to see agility? Look at the architecture. Look at how teams form, flow, and deliver. Look at what the system makes _easy_ and what it makes _hard_. If it’s easier to follow process than to deliver value, your system is broken—no matter how agile your people are.
+Want to see agility? Look at the architecture. Look at how teams form, flow, and deliver. Look at what the system makes _easy_ and what it makes _hard_. If it’s easier to follow process than to deliver value, your system is broken, no matter how agile your people are.
 
 ## Finally
 

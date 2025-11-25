@@ -1,5 +1,5 @@
 ---
-title: 'Streamline Your Release Management Setup: A Step-by-Step Guide to Simplifying Server, Client, and Agent Installation'
+title: "Streamline Your Release Management Setup: A Step-by-Step Guide to Simplifying Server, Client, and Agent Installation"
 description: Learn how to quickly install and configure release management server, client, and deployment agent, including TFS integration and permission setup, using simple default settings.
 date: 2014-01-21T16:36:55Z
 lastmod: 2014-01-21T16:36:55Z
@@ -43,8 +43,8 @@ duration: 438
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 As I sit down to share my latest experience with setting up release management tools on my server, I can't help but reflect on how straightforward the process has become over the years. Today, I’ll walk you through the steps I took to install the release management server, client, and deployment agent, all while keeping things simple and efficient.
 
 ### Getting Started with the Release Management Server
@@ -53,7 +53,7 @@ First things first, I kicked off the installation with the release management se
 
 - **Launch the Installer**: I initiated the server installation, and it completed in no time.
 - **Configuration Tool**: Once installed, I launched the configuration tool. I prefer to keep things simple, so I opted for the default settings, using the network service and leaving the web service port as the default (8080).
-- **Database Server**: Since I was working on a local server, I simply entered the server name and clicked ‘go’. 
+- **Database Server**: Since I was working on a local server, I simply entered the server name and clicked ‘go’.
 
 And just like that, I had my release management server set up and configured. It’s always satisfying to see things come together so smoothly.
 
@@ -71,11 +71,11 @@ With the client installed, I moved on to manage the Team Foundation Server (TFS)
 This part can sometimes be a bit tricky, but I’ve learned a few tricks along the way. Here’s what I did:
 
 - **Add TFS Server**: I navigated to the administration section and added the local TFS server. I had to ensure I was using the correct default collection.
-- **Service Account Permissions**: I encountered an access denied error when verifying the TFS service account. This was a reminder that the TFS service needs specific permissions, particularly the ability to make requests on behalf of others. 
+- **Service Account Permissions**: I encountered an access denied error when verifying the TFS service account. This was a reminder that the TFS service needs specific permissions, particularly the ability to make requests on behalf of others.
 
 To resolve this, I created a new group called **Release Management Service Accounts** at the collection level. This way, I could manage permissions more effectively without granting excessive power at the server level.
 
-- **Adding Users**: After setting up the group, I added the necessary accounts, including the TF service. A quick verification, and I was greeted with a green tick—always a good sign!
+- **Adding Users**: After setting up the group, I added the necessary accounts, including the TF service. A quick verification, and I was greeted with a green tick, always a good sign!
 
 ### Installing the Deployment Agent
 
@@ -90,7 +90,7 @@ After configuring the deployment agent, I opened the release management client t
 
 ### Conclusion
 
-Reflecting on this process, I’m reminded of how far we’ve come in terms of ease and efficiency in setting up release management tools. Each step was straightforward, and the ability to keep everything on one server simplified the entire experience. 
+Reflecting on this process, I’m reminded of how far we’ve come in terms of ease and efficiency in setting up release management tools. Each step was straightforward, and the ability to keep everything on one server simplified the entire experience.
 
 If you’re considering setting up your own release management environment, I encourage you to follow these steps. Keeping things simple and sticking to default settings can often lead to a smoother installation process. Remember, the goal is to create a system that works for you, allowing for flexibility and ease of use as your projects evolve.
 

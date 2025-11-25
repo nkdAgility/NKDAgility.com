@@ -56,16 +56,16 @@ Watermarks:
   tldr: 2025-08-07T12:33:03Z
 ResourceId: XYMN44lJp1n
 ResourceType: signals
-
 ---
+
 Let’s do the maths.
 
 If your product team delivers every two years, that means feature requests take four years to hit production.
 
 How many customer needs stay relevant over four years? How many competitors ship improvements while you’re still planning your release?
 
-This was Microsoft’s reality with TFS. They had a 2-year cycle, a growing feature backlog, and increasing customer dissatisfaction. The cost of slow delivery wasn’t just an engineering problem—it was a competitive disadvantage.
+This was Microsoft’s reality with TFS. They had a 2-year cycle, a growing feature backlog, and increasing customer dissatisfaction. The cost of slow delivery wasn’t just an engineering problem, it was a competitive disadvantage.
 
 When they switched to 3-week Sprints and decoupled release from deployment, everything changed. Features went live in days, not years.
 
-Speed matters. Your competitors aren’t waiting—why are you?
+Speed matters. Your competitors aren’t waiting, why are you?

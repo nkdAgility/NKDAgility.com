@@ -1,5 +1,5 @@
 ---
-title: 'Navigating Complexity: Why Agile Practices Are Essential for Modern Product Development'
+title: "Navigating Complexity: Why Agile Practices Are Essential for Modern Product Development"
 short_title: Why Agile Is Essential for Product Development
 description: Explains how agile practices help teams manage complexity, adapt to change, and deliver value faster in modern product development, compared to traditional methods.
 tldr: Agile practices are essential for modern product development because they help teams deliver value faster and adapt to constant change, unlike traditional methods that struggle with today’s complexity. Key insights include the unpredictability of requirements, technology, and people, and the importance of delivering working products regularly to reduce risk and waste. Development managers should focus on adopting agile approaches to improve responsiveness and ensure products better meet customer needs.
@@ -35,6 +35,7 @@ tags:
   - Agile Transformation
   - Product Delivery
   - Pragmatic Thinking
+  - Value Delivery
   - Increment
   - Market Adaptability
   - Agile Philosophy
@@ -56,15 +57,15 @@ duration: 1755
 resourceTypes:
   - video
 isShort: false
-
 ---
-Agile is fundamentally about shortening the time it takes to deliver products to users and learning from that process. As I reflect on my journey as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer with Scrum.org and a [Kanban]({{< ref "/categories/kanban" >}}) trainer with Pro Kanban, I can’t help but notice how traditional management practices, which were born during the Industrial Revolution, no longer fit the modern landscape of work. 
+
+Agile is fundamentally about shortening the time it takes to deliver products to users and learning from that process. As I reflect on my journey as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer with Scrum.org and a [Kanban]({{< ref "/categories/kanban" >}}) trainer with Pro Kanban, I can’t help but notice how traditional management practices, which were born during the Industrial Revolution, no longer fit the modern landscape of work.
 
 ### Understanding the Shift from Complicated to Complex
 
-In the past, we operated in a world where a largely uneducated workforce was managed by a hierarchy of knowledgeable leaders. This model worked well for producing goods quickly, but it was designed for a different type of work—complicated work that could be simplified through standard operating procedures. 
+In the past, we operated in a world where a largely uneducated workforce was managed by a hierarchy of knowledgeable leaders. This model worked well for producing goods quickly, but it was designed for a different type of work, complicated work that could be simplified through standard operating procedures.
 
-However, the reality we face today is that the work we do is complex. Complexity generates surprises, and no amount of standardisation can turn complex work into something simple. This shift means that the flow of information within organisations has become heavier and slower, making it increasingly difficult to respond to market changes. 
+However, the reality we face today is that the work we do is complex. Complexity generates surprises, and no amount of standardisation can turn complex work into something simple. This shift means that the flow of information within organisations has become heavier and slower, making it increasingly difficult to respond to market changes.
 
 ### The Need for Agile Practices
 
@@ -72,7 +73,7 @@ Traditional [project management]({{< ref "/tags/project-management" >}}) framewo
 
 ### The Importance of Predictability
 
-When I categorise the elements of [product development]({{< ref "/categories/product-development" >}})—requirements, technology, and people—it's clear that predictability is a significant challenge:
+When I categorise the elements of [product development]({{< ref "/categories/product-development" >}}), requirements, technology, and people, it's clear that predictability is a significant challenge:
 
 - **Requirements**: The Standish Group's Chaos Report reveals that 35% of requirements change over the life of a product, and 65% of what we build is rarely used. This highlights the waste in our processes. Customers often don’t know what they need until they see it, making upfront requirements gathering a flawed approach.
 

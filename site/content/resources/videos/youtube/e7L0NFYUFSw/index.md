@@ -48,17 +48,17 @@ duration: 205
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 [Scrum]({{< ref "/categories/scrum" >}}) and the Myth of "Twice the Work in Half the Time"
 
-I often find myself reflecting on the phrase, "Scrum allows you to do twice the work in half the time." It’s a catchy tagline, isn’t it? One that seems to promise a miraculous transformation in productivity. But let’s be honest—this is more of a marketing gimmick than a reality. 
+I often find myself reflecting on the phrase, "Scrum allows you to do twice the work in half the time." It’s a catchy tagline, isn’t it? One that seems to promise a miraculous transformation in productivity. But let’s be honest, this is more of a marketing gimmick than a reality.
 
 ### The Reality of Scrum
 
-When we talk about achieving "twice the features in half the time," we’re not just discussing a simple increase in output. In fact, if we were to break it down, we’re looking at a staggering 400% increase in output. But here’s the catch: Scrum is not about output; it’s about outcomes. 
+When we talk about achieving "twice the features in half the time," we’re not just discussing a simple increase in output. In fact, if we were to break it down, we’re looking at a staggering 400% increase in output. But here’s the catch: Scrum is not about output; it’s about outcomes.
 
-- **Output vs. Outcome**: 
+- **Output vs. Outcome**:
   - **Output** refers to the number of features or tasks completed.
   - **Outcome** focuses on the value delivered to the customer.
 
@@ -66,24 +66,24 @@ Imagine delivering ten features that provide a hundred times the value. That’s
 
 ### The Damage of Misleading Phrases
 
-This misleading phrase has, unfortunately, done a disservice to our industry. It creates unrealistic expectations and can lead to frustration when teams fail to meet these inflated promises. I’ve seen it time and again—teams under pressure to deliver more, faster, only to find themselves overwhelmed and disillusioned.
+This misleading phrase has, unfortunately, done a disservice to our industry. It creates unrealistic expectations and can lead to frustration when teams fail to meet these inflated promises. I’ve seen it time and again, teams under pressure to deliver more, faster, only to find themselves overwhelmed and disillusioned.
 
 Woody Zuill, in his insightful writings, touches on this very topic. He highlights the absurdity of Agile books touting "best practices." In the Agile world, there’s no such thing as a one-size-fits-all solution. What we have instead are emergent practices that evolve based on the unique context of each team and project.
 
 ### Marketing vs. Reality
 
-Let’s face it: publishers aren’t going to sell a book titled "Adequate Practices." They want something that grabs attention, something that promises results. So, we end up with titles that can mislead rather than inform. 
+Let’s face it: publishers aren’t going to sell a book titled "Adequate Practices." They want something that grabs attention, something that promises results. So, we end up with titles that can mislead rather than inform.
 
 Despite this, I’ve found value in leveraging these books, particularly when working with [leadership]({{< ref "/categories/leadership" >}}) teams who may be sceptical about Agile methodologies. The cover may be flashy, but the content often provides a gateway to deeper conversations about the principles of Scrum.
 
 ### A Personal Anecdote
 
-I’ve even taken it a step further. I keep a box of these books handy, and I’ve been known to leave them in strategic locations—like near executive bathrooms or in waiting areas. It’s a subtle nudge, encouraging leaders to pick them up and engage with the material. 
+I’ve even taken it a step further. I keep a box of these books handy, and I’ve been known to leave them in strategic locations, like near executive bathrooms or in waiting areas. It’s a subtle nudge, encouraging leaders to pick them up and engage with the material.
 
 One book that stands out is one that discusses the Udo Loop and shares compelling stories from Jeff Sutherland’s experiences as a fighter pilot. These narratives resonate and help bridge the gap between scepticism and understanding.
 
 ### Focus on Value, Not Volume
 
-At the end of the day, we need to shift our focus from output to outcome. It’s not about delivering twice the features; it’s about delivering twice the value, even if that means cutting down on the number of features we provide. 
+At the end of the day, we need to shift our focus from output to outcome. It’s not about delivering twice the features; it’s about delivering twice the value, even if that means cutting down on the number of features we provide.
 
 In conclusion, let’s move away from the myth of "twice the work in half the time." Instead, let’s embrace the true essence of Scrum: delivering value through collaboration, [transparency]({{< ref "/tags/transparency" >}}), and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). That’s where the real power of Agile lies.

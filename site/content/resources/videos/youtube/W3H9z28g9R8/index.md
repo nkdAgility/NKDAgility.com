@@ -1,8 +1,8 @@
 ---
 title: 7 Harbingers of the Agile Apocalypse - Famine
-short_title: 'Agile Famine: Overcoming Resource Scarcity'
-description: Explores how resource scarcity—like lack of trust, funding, tools, and training—undermines Agile teams, and offers strategies to empower and support organisational success.
-tldr: Resource scarcity in Agile organizations—such as lack of trust, funding, training, and tools—often stems from rigid, top-down management and can severely limit team performance and growth. Empowering teams with decision-making authority, flexible budgets, and a culture of trust and continuous learning leads to better outcomes and avoids costly mistakes. Development managers should prioritize investing in people and resources to enable agility and long-term success.
+short_title: "Agile Famine: Overcoming Resource Scarcity"
+description: Explores how resource scarcity, like lack of trust, funding, tools, and training, undermines Agile teams, and offers strategies to empower and support organisational success.
+tldr: Resource scarcity in Agile organizations, such as lack of trust, funding, training, and tools, often stems from rigid, top-down management and can severely limit team performance and growth. Empowering teams with decision-making authority, flexible budgets, and a culture of trust and continuous learning leads to better outcomes and avoids costly mistakes. Development managers should prioritize investing in people and resources to enable agility and long-term success.
 date: 2023-10-19T15:00:30Z
 lastmod: 2023-10-19T15:00:30Z
 weight: 375
@@ -52,11 +52,11 @@ duration: 448
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀
 
-Hello, Agile enthusiasts! Today, I'm diving into a topic that resonates deeply with many of us in the Agile world—famine. No, not the kind you're thinking of, but rather the scarcity of essential resources within organizations that hampers our journey to success. This famine manifests through a lack of tools, trust, training, and sometimes, the financial backing necessary to propel our teams and products forward. 🌪️
+Hello, Agile enthusiasts! Today, I'm diving into a topic that resonates deeply with many of us in the Agile world, famine. No, not the kind you're thinking of, but rather the scarcity of essential resources within organizations that hampers our journey to success. This famine manifests through a lack of tools, trust, training, and sometimes, the financial backing necessary to propel our teams and products forward. 🌪️
 
 ## The Roots of Famine in Agile Landscapes 🌵
 
@@ -78,7 +78,7 @@ The challenge often lies in bureaucracy and the "Bean Counters" who gatekeep the
 
 ### A Story of Transformation 🔄
 
-Consider the tale of a major car manufacturer grappling with an outdated machine that, despite constant repairs, couldn't meet the production line's evolving needs. The request for a new machine—a hefty $2 million investment—was denied due to budget constraints, leading to over a billion dollars in lost revenue and rework costs. It's a stark reminder that penny-wise can indeed be pound-foolish.
+Consider the tale of a major car manufacturer grappling with an outdated machine that, despite constant repairs, couldn't meet the production line's evolving needs. The request for a new machine, a hefty $2 million investment, was denied due to budget constraints, leading to over a billion dollars in lost revenue and rework costs. It's a stark reminder that penny-wise can indeed be pound-foolish.
 
 ## The Path Forward: Strategies for Overcoming Famine 🌟
 

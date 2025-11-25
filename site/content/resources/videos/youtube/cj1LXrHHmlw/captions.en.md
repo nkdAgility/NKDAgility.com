@@ -4,4 +4,4 @@ You see teams bragging about bleeding edge architectures, and it's tempting to f
 
 We help CTOs break out of trend chasing and into context-driven tech leadership. We look at your team's maturity, your delivery constraints, and your business goals, and then help you shape a tech strategy that fits. That could mean modernizing, simplifying, or doubling down on what's already working.
 
-Because real innovation isn't about being seen to move fast. It's about making the right moves for your system, your people, and your outcomes. That's what we help you do—stack included.
+Because real innovation isn't about being seen to move fast. It's about making the right moves for your system, your people, and your outcomes. That's what we help you do, stack included.

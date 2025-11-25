@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking TFS: Mastering Permissions for Seamless Team Collaboration'
+title: "Unlocking TFS: Mastering Permissions for Seamless Team Collaboration"
 description: Learn how to configure Team Foundation Server (TFS) permissions and access levels to enable full feature access and improve team collaboration and project management.
 date: 2014-01-15T14:55:37Z
 lastmod: 2014-01-15T14:55:37Z
@@ -39,16 +39,15 @@ duration: 164
 resourceTypes:
   - video
 isShort: false
-
 ---
-When I first opened Team Foundation Server (TFS), I encountered a common hurdle that many users face: a message indicating that some features of Team Web Access were not visible to me. Initially, I was directed to an MSDN article that promised a solution, but I quickly realised that the fix was much simpler than it seemed. The key? Having the right administrative access on the TFS server—not just on the collection, but on the entire server itself.
+
+When I first opened Team Foundation Server (TFS), I encountered a common hurdle that many users face: a message indicating that some features of Team Web Access were not visible to me. Initially, I was directed to an MSDN article that promised a solution, but I quickly realised that the fix was much simpler than it seemed. The key? Having the right administrative access on the TFS server, not just on the collection, but on the entire server itself.
 
 ### Navigating TFS Permissions
 
 To resolve this issue, I found that the first step was to access the administration settings. Here’s how you can do it:
 
 1. **Access the Admin Settings**: Click on the little cog icon in the top right corner of your TFS interface. This will take you to the administration section.
-   
 2. **Control Panel Navigation**: From there, navigate all the way up to the Control Panel view. Here, you’ll find an **Access Levels** tab.
 
 3. **Configure User Permissions**: In the Access Levels section, you can configure which users have permission to access various features based on their licensing level.

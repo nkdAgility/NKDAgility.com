@@ -5,10 +5,10 @@ description: Personal experiences and lessons on using Azure DevOps, covering it
 tldr: Azure DevOps has evolved from TFS to a powerful, flexible platform that can transform team workflows, but successful adoption and migration require careful planning and sometimes custom solutions. Key lessons include the importance of assessing your environment, choosing the right migration tools, and leveraging expert guidance for complex needs. Development managers should ensure their teams are trained and consider consulting support to maximize the benefits and scalability of Azure DevOps.
 date: 2024-07-31T09:21:03Z
 lastmod: 2024-07-31T09:21:03Z
-weight: 635
+weight: 320
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: monthly
 ItemId: isU2kPc5HFw
 ItemType: videos

@@ -1,6 +1,6 @@
 ---
 title: The FBI Sentinel project was textbook waterfall
-short_title: 'FBI Sentinel: Waterfall Failure, Agile Success'
+short_title: "FBI Sentinel: Waterfall Failure, Agile Success"
 description: The FBI Sentinel project failed with a waterfall approach, wasting years and budget, but succeeded rapidly after switching to Agile and iterative Scrum methods.
 tldr: The FBI's Sentinel project failed after years and massive spending using a traditional waterfall approach, delivering nothing. Switching to a small, focused Agile team produced a working product in a year at a fraction of the cost. Consider adopting iterative methods to avoid wasted time and resources and deliver real value sooner.
 date: 2025-06-11T15:30:44+01:00
@@ -48,15 +48,15 @@ Watermarks:
   tldr: 2025-08-07T12:11:19Z
 ResourceId: iXdW5l5qVvR
 ResourceType: signals
-
 ---
+
 The FBI's Sentinel project was textbook waterfall. Big budget. Big bang. Zero value delivered after four years and hundreds of millions spent.
 
 The solution? Throw it out. Build a basement Scrum Studio. Hand-pick 40 people. Give them space to work iteratively.
 
 Within a year: $30 million. Working product.
 
-Agile didn’t just save the project—it exposed the insanity of pretending waterfall ever worked at this scale.
+Agile didn’t just save the project, it exposed the insanity of pretending waterfall ever worked at this scale.
 
 If you're still defending your 18-month Gantt chart, ask yourself: what would your stakeholders say after four years and nothing in production?
 

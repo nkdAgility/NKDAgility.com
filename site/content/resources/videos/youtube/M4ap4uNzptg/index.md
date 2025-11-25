@@ -1,6 +1,6 @@
 ---
-title: 'Unlocking Agile’s Core: Questioning to Create Value'
-short_title: 'Unlocking Agile: Questioning to Create Value'
+title: "Unlocking Agile’s Core: Questioning to Create Value"
+short_title: "Unlocking Agile: Questioning to Create Value"
 description: Explores how questioning, continuous improvement, and team empowerment drive Agile success, helping organisations adapt quickly, spot inefficiencies, and create lasting value.
 tldr: Agile success depends on fostering a culture where everyone questions existing processes, seeks continuous improvement, and adapts quickly to change. Scrum helps teams identify inefficiencies and encourages regular reflection, while leadership must empower all employees to challenge the status quo and act on feedback. To stay ahead of competitors, create open forums for discussion, reward initiative, and ensure that improvement is a shared, ongoing effort across the organization.
 date: 2024-01-23T07:00:07Z
@@ -64,8 +64,8 @@ duration: 241
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In the ever-evolving world of business, staying ahead means adapting faster than your competitors. Being agile is not about following a set of rules but rather embracing a mindset of constant questioning and improvement. As Steve Denning wisely said:
 
 _"Being agile is about questioning what you do and continuously improving what you're doing."_
@@ -120,7 +120,7 @@ You can’t drive dynamic change from the top alone. To truly become agile, you 
 
 - **Empower teams**: Everyone, from entry-level employees to senior leadership, should be able to question processes and suggest improvements.
 
-- **Question the rules**: Don’t just follow the rules—challenge them.
+- **Question the rules**: Don’t just follow the rules, challenge them.
 
 - **Encourage innovation**: Constantly ask, “Is there a better way to do this?”
 
@@ -128,7 +128,7 @@ Agile is about breaking free from the mindset of rigid structures. It’s about 
 
 ## **Questioning Rules and Procedures: A Culture of Curiosity**
 
-In an Agile organization, questioning rules and procedures is not seen as disruptive—it’s encouraged. You need to cultivate a culture where employees are constantly looking for ways to improve.
+In an Agile organization, questioning rules and procedures is not seen as disruptive, it’s encouraged. You need to cultivate a culture where employees are constantly looking for ways to improve.
 
 - **Create open forums**: Establish spaces where your team can openly discuss what’s working and what isn’t.
 
@@ -158,7 +158,7 @@ Agile is all about continuous improvement, and that requires regular reflection 
 
 - **Host regular retrospectives**: Use Scrum’s retrospective meetings to reflect on what’s working and what’s not.
 
-- **Involve everyone**: Don’t limit these conversations to just the leadership team—every level of the organization should participate.
+- **Involve everyone**: Don’t limit these conversations to just the leadership team, every level of the organization should participate.
 
 - **Promote [experimentation]({{< ref "/tags/experimentation" >}})**: Give teams the freedom to experiment and try new approaches, even if it means occasional failure.
 
@@ -168,7 +168,7 @@ By fostering a culture of continuous improvement, you ensure that your organizat
 
 Every organization’s Agile journey is unique. If you’re ready to dive deeper into Agile or Scrum practices or need personalized advice on how to implement these principles in your organization, we’re here to help.
 
-By embracing the core principles of Agile—questioning, continuous improvement, and adaptability—you can transform your organization into a dynamic, responsive powerhouse.
+By embracing the core principles of Agile, questioning, continuous improvement, and adaptability, you can transform your organization into a dynamic, responsive powerhouse.
 
 ## **Final Thoughts** **💡**
 

@@ -62,8 +62,8 @@ duration: 53
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 When developing a product, it’s natural to focus on delivering value as efficiently as possible. But have you ever wondered what additional value you could be achieving but haven’t yet? How do you uncover those hidden opportunities to take your product to the next level? That’s where Evidence-Based Management (EBM) comes into play.
 
 In this post, we’ll explore how EBM can help you find unrealized value in your product, using key metrics and practical approaches to help you improve and deliver even more value to your customers.
@@ -100,7 +100,7 @@ These metrics can provide a concrete, data-driven understanding of the value you
 
 ## Turning Insights into Action: Your Product Backlog
 
-The purpose of uncovering unrealized value isn’t just to admire the potential—it’s to act on it! This is where your **product backlog** comes in. The gaps you identify through EBM metrics should guide your future [product development]({{< ref "/categories/product-development" >}}) efforts.
+The purpose of uncovering unrealized value isn’t just to admire the potential, it’s to act on it! This is where your **product backlog** comes in. The gaps you identify through EBM metrics should guide your future [product development]({{< ref "/categories/product-development" >}}) efforts.
 
 ### Building Your Backlog Based on Unrealized Value
 
@@ -108,19 +108,19 @@ The purpose of uncovering unrealized value isn’t just to admire the potential�
 
 1. 📋 Start by adding new features or improvements that address the most significant gaps to your backlog.
 
-3. 🧠 Think about what would deliver the most value to your customers and business. Could improving the user experience for a particular feature lead to higher satisfaction? Would developing a new product feature open up new market opportunities?
+1. 🧠 Think about what would deliver the most value to your customers and business. Could improving the user experience for a particular feature lead to higher satisfaction? Would developing a new product feature open up new market opportunities?
 
-5. **Involve Stakeholders**
+1. **Involve Stakeholders**
 
-2. 👥 Engage with your stakeholders, including customers, product owners, and business leaders, to get their input on which areas should be prioritized.
+1. 👥 Engage with your stakeholders, including customers, product owners, and business leaders, to get their input on which areas should be prioritized.
 
-4. ✨ Their insights can help you balance short-term needs with long-term growth potential.
+1. ✨ Their insights can help you balance short-term needs with long-term growth potential.
 
-6. **Focus on [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**
+1. **Focus on [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**
 
-3. 🚀 Embrace the Agile principle of continuous improvement. Keep reviewing your backlog, re-prioritizing tasks, and incorporating new metrics as they become available.
+1. 🚀 Embrace the Agile principle of continuous improvement. Keep reviewing your backlog, re-prioritizing tasks, and incorporating new metrics as they become available.
 
-5. 🔄 As you develop your product, new opportunities for unrealized value will emerge. Stay adaptable and ready to seize these chances.
+1. 🔄 As you develop your product, new opportunities for unrealized value will emerge. Stay adaptable and ready to seize these chances.
 
 ## Real-World Example: A Case Study in Discovering Unrealized Value
 

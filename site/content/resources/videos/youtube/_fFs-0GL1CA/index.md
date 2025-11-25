@@ -46,35 +46,35 @@ duration: 372
 resourceTypes:
   - video
 isShort: false
-
 ---
-When I reflect on my journey in the Agile and [Scrum]({{< ref "/categories/scrum" >}}) landscape, one question often arises: why should I encourage individuals to pursue a certification path in their careers? The answer is quite simple and resonates with the same rationale that drives people to attend university. Certifications, much like degrees, serve as a foot in the door. They provide a way to validate your knowledge, but let’s be clear—certifications themselves hold no intrinsic value. 
+
+When I reflect on my journey in the Agile and [Scrum]({{< ref "/categories/scrum" >}}) landscape, one question often arises: why should I encourage individuals to pursue a certification path in their careers? The answer is quite simple and resonates with the same rationale that drives people to attend university. Certifications, much like degrees, serve as a foot in the door. They provide a way to validate your knowledge, but let’s be clear, certifications themselves hold no intrinsic value.
 
 ### The Reality of Certifications
 
 Think back to your own experiences. How often have you had to pull out your university degree a decade after graduation? For me, it was only when I applied for my H-1B visa to work in the US that I needed to showcase my degree. Even then, it wasn’t enough on its own; I had to supplement it with two years of professional experience to meet the requirements. This illustrates a crucial point: while certifications can help validate your knowledge, they do not equate to actual skills or the ability to apply what you’ve learned.
 
-- **Knowledge vs. Skills**: It’s essential to differentiate between amassing knowledge and developing skills. For instance, if you’re part of a [Scrum team]({{< ref "/tags/scrum-team" >}}), it’s a given that you should have read the Scrum Guide. But how can an employer verify that you’ve done so? 
+- **Knowledge vs. Skills**: It’s essential to differentiate between amassing knowledge and developing skills. For instance, if you’re part of a [Scrum team]({{< ref "/tags/scrum-team" >}}), it’s a given that you should have read the Scrum Guide. But how can an employer verify that you’ve done so?
 
 ### The Litmus Test for Employers
 
-As an employer, I would want a straightforward way to assess whether candidates have the foundational knowledge necessary for the role. Instead of interviewing thousands of applicants and asking if they’ve read the Scrum Guide, I could simply require the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master I (PSM1) certification. Passing this assessment is a strong indicator that you’ve engaged with the Scrum Guide and understand its principles. 
+As an employer, I would want a straightforward way to assess whether candidates have the foundational knowledge necessary for the role. Instead of interviewing thousands of applicants and asking if they’ve read the Scrum Guide, I could simply require the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master I (PSM1) certification. Passing this assessment is a strong indicator that you’ve engaged with the Scrum Guide and understand its principles.
 
-This certification acts as a litmus test, helping employers narrow down candidates who are genuinely prepared to contribute to a Scrum team. 
+This certification acts as a litmus test, helping employers narrow down candidates who are genuinely prepared to contribute to a Scrum team.
 
 ### The Importance of Validated Learning
 
-Beyond the external validation that certifications provide, there’s an internal aspect that’s equally important: validated learning. If you complete a course without any assessment, how can you be sure you’ve grasped the material? You might think you understood everything, but our memories can be deceptive. 
+Beyond the external validation that certifications provide, there’s an internal aspect that’s equally important: validated learning. If you complete a course without any assessment, how can you be sure you’ve grasped the material? You might think you understood everything, but our memories can be deceptive.
 
-This is where Scrum.org excels. They offer a unique approach to validated learning. After completing a course, you receive a token to take the assessment, with the opportunity for a second attempt if needed. This structure not only encourages you to engage with the material but also provides feedback on your performance across various categories. 
+This is where Scrum.org excels. They offer a unique approach to validated learning. After completing a course, you receive a token to take the assessment, with the opportunity for a second attempt if needed. This structure not only encourages you to engage with the material but also provides feedback on your performance across various categories.
 
-- **Feedback and Growth**: If you pass but score low in a specific area, you’re given resources to study further. This targeted learning path is invaluable for your professional development. 
+- **Feedback and Growth**: If you pass but score low in a specific area, you’re given resources to study further. This targeted learning path is invaluable for your professional development.
 
 ### [Continuous Learning]({{< ref "/tags/continuous-learning" >}}) and Career Advancement
 
-Once you’ve secured that initial foot in the door, the real challenge begins: demonstrating your understanding during interviews. There’s a wealth of advice on LinkedIn about how to validate a candidate’s knowledge, often involving tricky questions. However, the best way to prepare is simply to know your stuff. 
+Once you’ve secured that initial foot in the door, the real challenge begins: demonstrating your understanding during interviews. There’s a wealth of advice on LinkedIn about how to validate a candidate’s knowledge, often involving tricky questions. However, the best way to prepare is simply to know your stuff.
 
-To truly understand the concepts, you must invest time in studying, whether through reading books, watching videos, or engaging with blog posts. Training courses can serve as a great starting point, but they should be viewed as just that—a starting point. 
+To truly understand the concepts, you must invest time in studying, whether through reading books, watching videos, or engaging with blog posts. Training courses can serve as a great starting point, but they should be viewed as just that, a starting point.
 
 ### What’s Next?
 

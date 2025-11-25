@@ -25,8 +25,8 @@ categories:
   - Product Development
   - Scrum
 tags:
-  - Competence
   - Scrum Master
+  - Competence
   - Organisational Agility
   - Agile Leadership
   - Pragmatic Thinking

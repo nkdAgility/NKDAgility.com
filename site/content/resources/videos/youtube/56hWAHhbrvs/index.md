@@ -1,14 +1,14 @@
 ---
 title: 7 Harbingers of the Agile apocalypse - Organizational Structure
-short_title: 'Agile Barriers: Overcoming Hierarchical Structures'
+short_title: "Agile Barriers: Overcoming Hierarchical Structures"
 description: Explores how rigid, hierarchical structures hinder organisational agility and offers practical strategies for shifting to decentralised, empowered, agile teams.
 tldr: Traditional top-down management structures block true agility by centralizing decision-making and limiting team empowerment, especially for key roles like Product Owner. To become more agile, organizations need to decentralize authority, promote transparency, and adopt servant leadership, allowing teams closer to the customer to make decisions. Leaders should drive this shift by supporting teams and gradually implementing changes that focus on delivering customer value.
 date: 2023-10-19T11:00:06Z
 lastmod: 2023-10-19T11:00:06Z
-weight: 860
+weight: 435
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: 56hWAHhbrvs
 ItemType: videos
@@ -33,12 +33,15 @@ concepts:
   - Strategy
 categories:
   - Leadership
+  - Technical Leadership
   - Product Development
 tags:
   - Enterprise Agility
   - Agile Transformation
   - Organisational Change
   - Agile Strategy
+  - Operating Model
+  - Product Operating Model
   - Agile Philosophy
   - Organisational Agility
   - Pragmatic Thinking
@@ -58,11 +61,11 @@ duration: 241
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure
 
-In the quest for agility within organizations, one formidable adversary stands out, often referred to as the "Antichrist of Agile." This adversary is none other than the Alpha organizational structure—the traditional, hierarchical management framework that stifles the very essence of agility. This piece delves into the challenges posed by such structures and outlines strategies for overcoming them, marking the first in a series dedicated to navigating the harbingers of the agile apocalypse.
+In the quest for agility within organizations, one formidable adversary stands out, often referred to as the "Antichrist of Agile." This adversary is none other than the Alpha organizational structure, the traditional, hierarchical management framework that stifles the very essence of agility. This piece delves into the challenges posed by such structures and outlines strategies for overcoming them, marking the first in a series dedicated to navigating the harbingers of the agile apocalypse.
 
 ## The Alpha Organizational Structure: A Barrier to Agility
 

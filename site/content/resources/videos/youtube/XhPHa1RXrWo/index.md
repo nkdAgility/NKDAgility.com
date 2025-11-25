@@ -1,6 +1,6 @@
 ---
-title: 'Agile is Not New: A Journey Back to the Basics'
-short_title: 'Agile’s Roots: Returning to Core Principles'
+title: "Agile is Not New: A Journey Back to the Basics"
+short_title: "Agile’s Roots: Returning to Core Principles"
 description: Explores Agile’s historical roots, the loss of human connection in business, the impact of competence gaps, and why a return to core Agile principles is needed today.
 tldr: Agile is rooted in centuries-old practices focused on human connection and adaptability, but mass production and Taylorism shifted work toward efficiency at the cost of empathy and craftsmanship. The Agile movement aimed to restore these values, yet many organizations now face a competence gap, hiring for Agile roles without ensuring the necessary skills, which leads to disappointing results. Development managers should prioritize building real competence and continuous learning in their teams to realize Agile’s true benefits and prepare for a coming reset that emphasizes value, empathy, and adaptability over rigid processes.
 date: 2024-10-10T15:48:56Z
@@ -53,9 +53,9 @@ resourceTypes:
 isShort: false
 ResourceId: XhPHa1RXrWo
 ResourceType: videos
-
 ---
-**Agile** isn't some trendy buzzword that just came out of nowhere. In fact, it's far from new. It's a concept that has roots stretching back centuries. Before the Industrial Revolution, small, local businesses—like your neighborhood cobbler—knew their customers on a personal level. They crafted products based on the unique needs and preferences of each individual. This personal connection, built on understanding and empathy, was central to how work got done.
+
+**Agile** isn't some trendy buzzword that just came out of nowhere. In fact, it's far from new. It's a concept that has roots stretching back centuries. Before the Industrial Revolution, small, local businesses, like your neighborhood cobbler, knew their customers on a personal level. They crafted products based on the unique needs and preferences of each individual. This personal connection, built on understanding and empathy, was central to how work got done.
 
 ## **The Loss of Human Connection in Business**
 
@@ -75,7 +75,7 @@ Many blame **Frederick Winslow Taylor** for this shift. He wasn't trying to stri
 
 - As companies adopted these principles, they moved further from the personalized, adaptive ways of working that had existed before.
 
-Agile, in many ways, is a return to those roots—a response to the rigidity that Taylorism brought. It's about figuring things out as you go, learning from mistakes, and adapting to change. This approach mirrors how humans have navigated challenges for centuries.
+Agile, in many ways, is a return to those roots, a response to the rigidity that Taylorism brought. It's about figuring things out as you go, learning from mistakes, and adapting to change. This approach mirrors how humans have navigated challenges for centuries.
 
 ### **The Evolutionary Story of Adaptation**
 
@@ -85,11 +85,11 @@ Agile, in many ways, is a return to those roots—a response to the rigidity tha
 
 - Those who resisted change struggled to survive.
 
-This idea of adapting and evolving isn’t just about survival; it’s the foundation of Agile. It’s how we’ve always gotten things done—experimenting, failing, learning, and improving. So, while Agile might sound like a modern trend, it's really just a new name for an age-old approach.
+This idea of adapting and evolving isn’t just about survival; it’s the foundation of Agile. It’s how we’ve always gotten things done, experimenting, failing, learning, and improving. So, while Agile might sound like a modern trend, it's really just a new name for an age-old approach.
 
 ## **Agile’s Resurgence in the '90s: The Birth of XP**
 
-The '90s marked a turning point for Agile, especially in the software industry. The traditional ways of building software were failing—teams were drowning in complexity, struggling with **waste**, and producing **low-quality products**. Enter **Extreme Programming (XP)**, which brought Agile principles into the spotlight.
+The '90s marked a turning point for Agile, especially in the software industry. The traditional ways of building software were failing, teams were drowning in complexity, struggling with **waste**, and producing **low-quality products**. Enter **Extreme Programming (XP)**, which brought Agile principles into the spotlight.
 
 ### **Why XP and Agile Gained Traction**
 
@@ -97,9 +97,9 @@ The '90s marked a turning point for Agile, especially in the software industry. 
 
 - **Hateful work environments**: Many, like **Ken Schwaber**, described it as "hateful work." Employees, managers, and even leaders were frustrated.
 
-- **Complexity was out of control**: Teams were trying to control chaos, often with disastrous results—like trying to tame a wild lion.
+- **Complexity was out of control**: Teams were trying to control chaos, often with disastrous results, like trying to tame a wild lion.
 
-I still remember starting out in the software industry, hearing about these so-called **Death March projects**. Everyone knew these projects were doomed from the start—yet we were expected to push through because "that's just how it is."
+I still remember starting out in the software industry, hearing about these so-called **Death March projects**. Everyone knew these projects were doomed from the start, yet we were expected to push through because "that's just how it is."
 
 ### **The Challenge of Death March Projects**
 
@@ -113,7 +113,7 @@ It was in this environment of frustration and failure that the **Agile Manifesto
 
 ## **The Agile Manifesto: A New Way of Working**
 
-The Agile Manifesto didn’t lay down strict rules. Instead, it suggested a new way of thinking—a shift from rigid processes to a focus on **human interactions** and **adapting to change**. It aimed to bring back the social aspects of work that **Mary Parker Follett** spoke about nearly a century earlier.
+The Agile Manifesto didn’t lay down strict rules. Instead, it suggested a new way of thinking, a shift from rigid processes to a focus on **human interactions** and **adapting to change**. It aimed to bring back the social aspects of work that **Mary Parker Follett** spoke about nearly a century earlier.
 
 ### **Key Principles of the Agile Manifesto**
 
@@ -155,7 +155,7 @@ This gap between expectation and reality is forcing many companies to rethink th
 
 ## **The Commercialization of Agile: A Reset is Coming**
 
-What started as a movement to bring back **humanity** and **adaptability** to work has, in many ways, become a commercialized, watered-down version of itself. But I believe a **reset** is on the horizon—a return to the original principles of Agile, where competence, empathy, and adaptability take center stage.
+What started as a movement to bring back **humanity** and **adaptability** to work has, in many ways, become a commercialized, watered-down version of itself. But I believe a **reset** is on the horizon, a return to the original principles of Agile, where competence, empathy, and adaptability take center stage.
 
 ### **Signs of the Reset**
 
@@ -165,7 +165,7 @@ What started as a movement to bring back **humanity** and **adaptability** to wo
 
 - **Back to basics**: A shift towards **pragmatic Agile** that focuses on what truly works rather than following a rigid framework.
 
-Agile isn’t just about ceremonies and rituals. It’s about creating environments where teams can experiment, learn, and adapt. It’s about bringing back that **human connection** that we lost in the drive for efficiency. And most importantly, it’s about being ready to evolve—because that’s what humans have always done.
+Agile isn’t just about ceremonies and rituals. It’s about creating environments where teams can experiment, learn, and adapt. It’s about bringing back that **human connection** that we lost in the drive for efficiency. And most importantly, it’s about being ready to evolve, because that’s what humans have always done.
 
 ## **Final Thoughts: Building a Competent Agile Future**
 

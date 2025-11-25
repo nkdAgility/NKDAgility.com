@@ -66,9 +66,9 @@ This one may be limited due to our home situation. If you're using a blur or vir
 
 ### Clothes
 
-Wear what you want! Got you! You might have expected me to say to wear a suit or shirt! No, wear what makes you comfortable. There’s no stigma here—jammies, dressing gowns, or anything else. I've seen it all, and as long as you're comfortable and not making others unreasonably uncomfortable, wear what you want.
+Wear what you want! Got you! You might have expected me to say to wear a suit or shirt! No, wear what makes you comfortable. There’s no stigma here, jammies, dressing gowns, or anything else. I've seen it all, and as long as you're comfortable and not making others unreasonably uncomfortable, wear what you want.
 
-> I’m a slacks and polo kind of guy. The last time I wore a tie was in 2010, except for a brief stint consulting for a company with a dress code in London. Lesson learned—if a company has a dress code... I'm out.
+> I’m a slacks and polo kind of guy. The last time I wore a tie was in 2010, except for a brief stint consulting for a company with a dress code in London. Lesson learned, if a company has a dress code... I'm out.
 
 ---
 

@@ -1,14 +1,14 @@
 ---
-title: 'The Antichrist of Agile: How Fake Agilists Are Undermining True Innovation'
-short_title: 'The Antichrist of Agile: Fake Agilists Undermining Innovation'
+title: "The Antichrist of Agile: How Fake Agilists Are Undermining True Innovation"
+short_title: "The Antichrist of Agile: Fake Agilists Undermining Innovation"
 description: Explores how unqualified Agile practitioners undermine genuine innovation, erode trust, and hinder software teams, stressing the need for real experience over certifications.
 tldr: Relying on certified but inexperienced Agile practitioners can harm teams by leading to poor leadership, stifled innovation, and loss of trust. Real-world experience and ongoing learning are more important than credentials alone. Development managers should prioritize hiring Agile coaches with proven practical backgrounds and foster open communication to maintain genuine Agile practices.
 date: 2023-10-30T07:00:13Z
 lastmod: 2023-10-30T07:00:13Z
-weight: 665
+weight: 280
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.5
   changefreq: monthly
 ItemId: XZ1Swam_Cx0
 ItemType: videos
@@ -31,6 +31,7 @@ layout: video
 concepts: []
 categories:
   - Leadership
+  - Technical Leadership
 tags:
   - Personal
 Watermarks:
@@ -47,9 +48,9 @@ duration: 59
 resourceTypes:
   - video
 isShort: true
-
 ---
-In the ever-evolving landscape of Agile methodologies, one of the most alarming signs of the impending Agile apocalypse is the emergence of what I like to call the "Antichrist" of Agile. Now, before you raise an eyebrow, let me clarify: this Antichrist isn't a figure shrouded in mystery or malevolence. Instead, it manifests in the form of fake agilists—individuals who, despite holding certifications, lack the fundamental understanding of what it truly means to be Agile.
+
+In the ever-evolving landscape of Agile methodologies, one of the most alarming signs of the impending Agile apocalypse is the emergence of what I like to call the "Antichrist" of Agile. Now, before you raise an eyebrow, let me clarify: this Antichrist isn't a figure shrouded in mystery or malevolence. Instead, it manifests in the form of fake agilists, individuals who, despite holding certifications, lack the fundamental understanding of what it truly means to be Agile.
 
 ### The Rise of the Fake Agilist
 
@@ -75,8 +76,8 @@ So, how do we combat this phenomenon? Here are a few strategies that I’ve foun
 
 ### Conclusion
 
-In conclusion, the presence of fake agilists is a significant threat to the integrity of Agile methodologies. As we navigate this complex landscape, it’s crucial to remain vigilant and prioritise genuine understanding and experience over superficial credentials. 
+In conclusion, the presence of fake agilists is a significant threat to the integrity of Agile methodologies. As we navigate this complex landscape, it’s crucial to remain vigilant and prioritise genuine understanding and experience over superficial credentials.
 
-If you found this discussion enlightening, I encourage you to engage with me further. Whether you want to chat about Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee with me through Naked Agility. Let’s work together to ensure that the true spirit of Agile thrives, free from the shadows of the Antichrist. 
+If you found this discussion enlightening, I encourage you to engage with me further. Whether you want to chat about Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee with me through Naked Agility. Let’s work together to ensure that the true spirit of Agile thrives, free from the shadows of the Antichrist.
 
 Thank you for reading, and as always, I welcome your thoughts and comments!

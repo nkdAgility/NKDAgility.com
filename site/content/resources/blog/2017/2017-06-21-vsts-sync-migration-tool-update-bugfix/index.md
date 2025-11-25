@@ -5,10 +5,10 @@ description: VSTS Sync Migration Tool adds new features and bug fixes for bulk w
 tldr: The VSTS Sync Migration Tool has been updated with new features like work item history and query migration, plus important bug fixes such as resolving closed date issues. Community contributions have improved bulk updates and project migrations, and users now receive update notifications automatically. Development managers should install the latest version to benefit from these enhancements and stay informed about future updates.
 date: 2017-06-21
 lastmod: 2017-06-21
-weight: 1000
+weight: 705
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: weekly
 ItemId: QO9MQIxxcoy
 ItemType: blog

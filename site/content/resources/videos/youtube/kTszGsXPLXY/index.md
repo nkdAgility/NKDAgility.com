@@ -5,10 +5,10 @@ description: Learn how to launch a Kanban pilot, define workflows, use metrics l
 tldr: Kanban helps teams improve workflow and productivity by visualizing work, setting clear processes, and using metrics like cycle time and throughput to drive continuous improvement. Start with a small, willing team, define and visualize your workflow, and use data to identify and address bottlenecks. Begin with a pilot, focus on collaboration and regular feedback, and use metrics to build credibility and guide ongoing enhancements.
 date: 2024-02-14T07:00:19Z
 lastmod: 2024-02-14T07:00:19Z
-weight: 615
+weight: 285
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.5
   changefreq: monthly
 ItemId: kTszGsXPLXY
 ItemType: videos

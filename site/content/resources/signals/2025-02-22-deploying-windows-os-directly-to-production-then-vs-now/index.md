@@ -32,15 +32,15 @@ tags:
   - Operational Practices
   - Continuous Delivery
   - Continuous Improvement
-  - Customer Focus
   - Software Development
   - Frequent Releases
   - Product Delivery
   - Metrics and Learning
   - Release Management
   - Deployment Frequency
+  - Customer Focus
+  - Value Delivery
   - Organisational Agility
-  - Trend Analysis
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7299103145975042048

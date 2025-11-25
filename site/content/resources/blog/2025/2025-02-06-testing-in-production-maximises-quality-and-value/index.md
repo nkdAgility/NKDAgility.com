@@ -32,11 +32,12 @@ concepts:
   - Tool
 categories:
   - Engineering Excellence
-  - Product Development
   - DevOps
+  - Product Development
 tags:
   - Software Development
   - Operational Practices
+  - Frequent Releases
   - Market Adaptability
   - Pragmatic Thinking
   - Customer Focus
@@ -49,7 +50,6 @@ tags:
   - Deployment Frequency
   - Experimentation
   - Technical Excellence
-  - Organisational Agility
 Watermarks:
   description: 2025-05-07T12:49:38Z
   short_title: 2025-07-07T17:46:34Z
@@ -61,8 +61,8 @@ preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 marketing: []
 ResourceId: _ncZFfeCrnS
 ResourceType: blog
-
 ---
+
 Testing in production, is about structured, observable releases that allow for fast feedback, controlled exposure, and rapid course correction, ensuring quality without sacrificing speed.
 
 One such paradigm shift in software delivery is audience-based deployment.
@@ -127,12 +127,10 @@ This strategy proved so effective that it became the foundation for deploying ch
 Windows took inspiration from Azure DevOps' success and implemented the ring-based model at an unprecedented scale:
 
 1. **Internal to Microsoft** - Im not necessarily privy to the details of this, but there have been hints and stories told by folks on the inside. (\~70,000 members)
-
    1. Internal Channel - Nightly changes tested internally by a small subset of engineers.
    2. Dogfooding Channel – Microsoft employees use new versions before external customers.
 
 2. **Windows Insider Program** - Anyone can join this just by opting in. (\~17m members)
-
    1. **Canary Channel** – This is for highly technical users who get builds from the dev branch every few days.
    2. **Dev Channel** – For enthusiasts; gets builds every few weeks from the dev branch
    3. **Beta Channel** - This is for early adopters and gets early builds every month or so from the release branch
@@ -152,7 +150,7 @@ For example, I am in the Insider group for Microsoft Teams, with my account in R
 
 ### Why You Should Ditch the Old Way
 
-Beyond the inefficiencies of traditional environments, the old way accumulates waste—relearning, duplicated effort, and maintaining outdated processes, all drain resources. Each additional environment introduces overhead in familiarization, regression testing, and upkeep, diverting attention from work that delivers actual value. The cost isn't just financial; it's an innovation tax.
+Beyond the inefficiencies of traditional environments, the old way accumulates waste, relearning, duplicated effort, and maintaining outdated processes, all drain resources. Each additional environment introduces overhead in familiarization, regression testing, and upkeep, diverting attention from work that delivers actual value. The cost isn't just financial; it's an innovation tax.
 
 Most organisations still cling to the traditional **Dev-Test-Staging-Production** model because it feels safe. But let’s be honest:
 

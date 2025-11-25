@@ -1,5 +1,5 @@
 ---
-title: 'Avoiding the Local Optimisation Trap: How to Ensure Your Governance Drives Organisational Success'
+title: "Avoiding the Local Optimisation Trap: How to Ensure Your Governance Drives Organisational Success"
 short_title: Avoiding the Local Optimisation Trap
 description: Explains how focusing on isolated improvements in governance can harm overall organisational success, and offers strategies for integrated, system-wide optimisation.
 tldr: Focusing on optimising individual teams or processes without considering their impact on the whole organisation can create inefficiencies and misalignment. Integrating governance into daily work and encouraging cross-team collaboration helps ensure decisions support overall business goals. Development managers should prioritise system-wide alignment over isolated improvements to drive lasting organisational success.
@@ -52,9 +52,9 @@ resourceTypes:
 isShort: true
 ResourceId: ACZWkkvKEnw
 ResourceType: videos
-
 ---
-In my journey through the realms of agile and organisational efficiency, I've often encountered a rather amusing yet telling analogy that perfectly encapsulates a common pitfall in our approach to governance and optimisation. Picture this: a cog in a machine, struggling to turn because it’s bogged down by the other cogs around it. Now, if we were to take a drastic step and remove all the teeth from this cog, it would spin freely, right? But here’s the catch—it would no longer serve its purpose in driving the entire system forward. 
+
+In my journey through the realms of agile and organisational efficiency, I've often encountered a rather amusing yet telling analogy that perfectly encapsulates a common pitfall in our approach to governance and optimisation. Picture this: a cog in a machine, struggling to turn because it’s bogged down by the other cogs around it. Now, if we were to take a drastic step and remove all the teeth from this cog, it would spin freely, right? But here’s the catch, it would no longer serve its purpose in driving the entire system forward.
 
 This scenario is a classic example of local optimisation gone awry. We’ve made the cog more efficient in isolation, but at the expense of the overall system’s functionality. This is a mistake I see far too often in organisations, especially when governance is treated as a separate entity rather than an integral part of the system.
 

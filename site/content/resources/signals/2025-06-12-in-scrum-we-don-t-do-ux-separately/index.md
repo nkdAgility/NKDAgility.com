@@ -47,12 +47,12 @@ Watermarks:
   tldr: 2025-08-07T12:11:14Z
 ResourceId: H1avNshoB3O
 ResourceType: signals
-
 ---
+
 In Scrum, we don’t do UX separately. We don’t have a “UX Sprint.” UX is part of the product. That means UX work is either:
 
-1. Needed to meet the Sprint Goal—so it’s done during the Sprint.
-2. Needed for future work—so it’s done as part of ongoing Product Backlog Refinement.
+1. Needed to meet the Sprint Goal, so it’s done during the Sprint.
+2. Needed for future work, so it’s done as part of ongoing Product Backlog Refinement.
 
 It’s that simple.
 

@@ -60,13 +60,13 @@ duration: 54
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 In today's fast-paced business environment, organizations are constantly seeking ways to improve the value they deliver. But how can you truly know if your organization is effective at doing so? The answer lies in understanding your **organizational capability** and, more specifically, your **[ability to innovate]({{< ref "/tags/ability-to-innovate" >}})**. In this blog post, we’ll explore how you can leverage evidence-based management to measure and improve your organization's capacity for innovation. We’ll also dive into some key metrics that can help you gauge your progress.
 
 ## What Is Organizational Capability?
 
-Organizational capability refers to the collective skills, processes, and resources that enable your organization to achieve its goals. One critical component of this capability is your ability to innovate—because without innovation, you're simply maintaining the status quo. But how can you assess something as broad as innovation? Enter **evidence-based management**.
+Organizational capability refers to the collective skills, processes, and resources that enable your organization to achieve its goals. One critical component of this capability is your ability to innovate, because without innovation, you're simply maintaining the status quo. But how can you assess something as broad as innovation? Enter **evidence-based management**.
 
 ### Evidence-Based Management: The Key to Measuring Innovation
 
@@ -74,7 +74,7 @@ Evidence-based management is an approach that uses data and metrics to make info
 
 ### Why Is Innovation Important?
 
-Innovation isn’t just about creating something new—it’s about solving problems in ways that add value to your customers and stakeholders. If your organization isn’t innovating, you’re likely spending too much time battling complexity or maintaining outdated systems, which stifles growth. By focusing on innovation, you’re investing in your organization's future success.
+Innovation isn’t just about creating something new, it’s about solving problems in ways that add value to your customers and stakeholders. If your organization isn’t innovating, you’re likely spending too much time battling complexity or maintaining outdated systems, which stifles growth. By focusing on innovation, you’re investing in your organization's future success.
 
 ## Key Metrics for Measuring Innovation
 
@@ -142,7 +142,7 @@ Encouraging a culture of **continuous improvement** is critical for innovation. 
 
 Innovation is essential for any organization looking to stay competitive in today’s market. By leveraging evidence-based management and focusing on key metrics like active branches, technical debt, innovation rate, and complexity overhead, you can gain valuable insights into your organization’s ability to innovate.
 
-Remember, it’s not just about tracking metrics—it’s about using them to make informed decisions that drive continuous improvement. The better you understand your organizational capability and your ability to innovate, the more effectively you can deliver value to your customers.
+Remember, it’s not just about tracking metrics, it’s about using them to make informed decisions that drive continuous improvement. The better you understand your organizational capability and your ability to innovate, the more effectively you can deliver value to your customers.
 
 ### Key Takeaways
 

@@ -45,8 +45,8 @@ duration: 55
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 ## The Double-Edged Sword of Consulting Contracts
 
 Hello, Agile and Consulting Community!  Today, we will discuss navigating the pitfalls of gaining traction for your consulting engagement.  ⚔️
@@ -75,7 +75,7 @@ The solution is to flip the script.  🎯
 
 You'll want to talk about the 'outcome'.  For example. - What is it that you're going to achieve?  What value are you going to deliver to the customer?
 
-By focusing on what matters—the actual value and end results—everything else is irrelevant.
+By focusing on what matters, the actual value and end results, everything else is irrelevant.
 
 ## Unlock Consulting Mastery with Agile and [Scrum]({{< ref "/categories/scrum" >}}) Courses
 

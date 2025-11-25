@@ -60,7 +60,7 @@ sections:
       - Are overloaded with theory, light on application  
       - Ignore engineering realities and delivery workflows  
       - Focus on badges, not capability  
-      - Leave participants inspired—but unsupported  
+      - Leave participants inspired, but unsupported  
 
       **Our training is different.**
 
@@ -72,7 +72,7 @@ sections:
   - type: boxesrow
     title: What NKD Agility Training Delivers
     boxes:
-      - box: 
+      - box:
         title: Typical Training Pitfall
         items:
           - title: Passive slide-deck lectures
@@ -80,7 +80,7 @@ sections:
           - title: Certification without impact
           - title: Disconnect between Agile & DevOps
           - title: Forgotten within a week
-      - box: 
+      - box:
         title: NKD Agility Approach
         items:
           - title: Interactive sessions grounded in real-world challenges
@@ -120,7 +120,7 @@ sections:
   - type: symmetry
     title: From Overwhelm to Control
     boxes:
-      - box: 
+      - box:
         title: From Uncertainty to Confidence
         items:
           - title: Overwhelmed by complexity
@@ -131,7 +131,7 @@ sections:
             icon: fa-face-tired
           - title: Not taken seriously as a Scrum Master or Product Owner
             icon: fa-face-anxious
-      - box: 
+      - box:
         title: What you feel after training
         items:
           - title: Equipped with models, tools, and a clear path forward
@@ -221,6 +221,6 @@ outputs:
 icon: fa-person-chalkboard
 ResourceId: TSbCL5T_4G9
 ResourceType: capabilities
-
 ---
+
 Our training courses are designed to empower software development leaders and teams with the skills and knowledge needed to drive technical excellence, effective collaboration, and impactful delivery. We offer a range of programs tailored to your organization's needs, focusing on modern engineering practices, leadership development, and hands-on tools training.

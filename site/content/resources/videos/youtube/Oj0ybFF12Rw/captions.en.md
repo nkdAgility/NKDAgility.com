@@ -1,3 +1,3 @@
-Don't scale Scrum is a phrase that I've heard quite a lot, and I think it's utter bollocks. It implies that there is no scaling within the context of Scrum, and while yes, Scrum explicitly focuses—the Scrum Guide focuses on one team building one product—we can use Scrum to scale Scrum and deliver more value at a higher scale. 
+Don't scale Scrum is a phrase that I've heard quite a lot, and I think it's utter bollocks. It implies that there is no scaling within the context of Scrum, and while yes, Scrum explicitly focuses, the Scrum Guide focuses on one team building one product, we can use Scrum to scale Scrum and deliver more value at a higher scale.
 
 If you look at Nexus, Nexus is a great example of using Scrum to scale Scrum. It is just Scrum, but it adds some additional things that you need to concern yourself with to scale. So, use Scrum to scale Scrum.

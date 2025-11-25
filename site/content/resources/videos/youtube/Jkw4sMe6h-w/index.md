@@ -1,5 +1,5 @@
 ---
-title: 'From Control to Empowerment: Embracing Agile Leadership in a Complex World'
+title: "From Control to Empowerment: Embracing Agile Leadership in a Complex World"
 short_title: From Control to Empowerment in Agile Leadership
 description: Explores the shift from traditional management to agile leadership, highlighting empowerment, adaptability, and collaboration as key to navigating complex modern challenges.
 tldr: Traditional management works well for predictable problems but falls short in today’s complex, fast-changing environment. Agile leadership empowers teams, encourages collaboration, and fosters innovation by shifting focus from control to enabling people. Development managers should move from directing every detail to creating environments where teams can adapt and thrive.
@@ -49,8 +49,8 @@ duration: 243
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 When I reflect on the evolution of management styles, I often find myself drawn to the stark contrast between traditional management and agile [leadership]({{< ref "/categories/leadership" >}}). This distinction is not merely academic; it’s deeply rooted in the context in which we operate. Context is king, and understanding it is crucial for navigating the complexities of today’s challenges.
 
 ### Traditional Management: A Defined Approach
@@ -71,7 +71,7 @@ As we advance, the landscape of challenges we face is shifting towards the compl
 - **Human-Centric Approach**: Agile leadership focuses on harnessing the creativity and potential of individuals. It’s about empowering teams to make decisions and adapt to changing circumstances.
 - **Cultural Transformation**: Leaders in an agile environment foster a culture of collaboration and innovation, rather than control and oversight.
 
-To illustrate this, I often use a metaphor that resonates with me: imagine walking into a restaurant where a waiter serves you a steaming bowl of soup alongside a sharp knife. The knife represents traditional management—potentially dangerous when faced with the complexities of the soup. In this scenario, the soup is akin to the multifaceted problems we encounter today. Just as the knife can lead to injury, traditional management can hinder progress when applied to complex challenges.
+To illustrate this, I often use a metaphor that resonates with me: imagine walking into a restaurant where a waiter serves you a steaming bowl of soup alongside a sharp knife. The knife represents traditional management, potentially dangerous when faced with the complexities of the soup. In this scenario, the soup is akin to the multifaceted problems we encounter today. Just as the knife can lead to injury, traditional management can hinder progress when applied to complex challenges.
 
 ### The Role of the Agile Leader
 

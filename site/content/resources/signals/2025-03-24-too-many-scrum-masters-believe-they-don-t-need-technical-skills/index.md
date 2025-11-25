@@ -44,14 +44,14 @@ Watermarks:
   tldr: 2025-08-07T12:34:27Z
 ResourceId: q_OupO_abR_
 ResourceType: signals
-
 ---
-Too many Scrum Masters believe they don’t need technical skills. The Scrum Guide doesn’t explicitly say they do—but let’s be real.
+
+Too many Scrum Masters believe they don’t need technical skills. The Scrum Guide doesn’t explicitly say they do, but let’s be real.
 
 If a Scrum Team is building software, a Scrum Master who doesn’t understand Test-Driven Development, Continuous Delivery, and DevOps is out of their depth. If the team is in finance, the Scrum Master should grasp financial modelling and compliance. If it’s an industrial design team, they should understand prototyping and material constraints.
 
 Scrum Masters don’t do the work, but they enable the work. And how can you enable what you don’t understand?
 
-Being a great Scrum Master isn’t about certification. It’s about mastery—of the technical, business, and organisational realities your team faces.
+Being a great Scrum Master isn’t about certification. It’s about mastery, of the technical, business, and organisational realities your team faces.
 
 Are we setting Scrum Masters up for success, or are we pushing them into roles where they lack the mastery to make a real impact?

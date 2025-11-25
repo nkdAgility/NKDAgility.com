@@ -5,10 +5,10 @@ description: Learn how to overcome scaling challenges in product development by 
 tldr: Scaling product development is complex and requires more than just adding people; it demands clear priorities, strong leadership, and systems designed for growth. Naked Agility helps organisations address common scaling challenges like alignment, technical debt, and slow feedback by eliminating bottlenecks, using data-driven decisions, and tailoring strategies to each team's needs. To scale effectively without sacrificing speed or quality, focus on building a culture and systems that support sustainable growth.
 date: 2025-02-28T06:00:27Z
 lastmod: 2025-02-28T06:00:27Z
-weight: 290
+weight: 185
 sitemap:
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.6
   changefreq: monthly
 ItemId: bYqzpA0697Y
 ItemType: videos
@@ -33,6 +33,7 @@ source: internal
 layout: video
 concepts: []
 categories:
+  - Engineering Excellence
   - Product Development
   - Technical Leadership
 tags:

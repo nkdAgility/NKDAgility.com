@@ -33,8 +33,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:03Z
 ResourceId: F0yVBj8Tx8H
 ResourceType: blog
-
 ---
+
 The future is not about humans fighting to keep soul-crushing work. It is about letting go of the roles we invented to dehumanise ourselves.
 
 We created jobs like scanning groceries, cleaning toilets, packing boxes, and driving taxis not because they were noble pursuits, but because we needed to systematise output. We shaped them at the height of industrialisation under the false assumption that most people were incapable of thinking critically or creatively. That assumption was, and remains, wrong.
@@ -45,7 +45,7 @@ Humans harnessed fire, developed tools, built cities, and explored space. Yet we
 
 ## Scientific Management: A Philosophy of Subjugation
 
-Frederick Taylor’s Scientific Management—better known as Taylorism—was never about human potential. It was about control and compliance. It engineered mediocrity, not mastery.
+Frederick Taylor’s Scientific Management, better known as Taylorism, was never about human potential. It was about control and compliance. It engineered mediocrity, not mastery.
 
 - **Task and Bonus Systems**: Set quotas just above sustainable capacity. Underpay unless "targets" are hit. Replace pride in craftsmanship with fear of poverty.
 - **Departments and Specialisation**: Teach people one sliver of a process. Reduce communication. Stifle systemic understanding. "Efficient," yes. Humane, absolutely not.
@@ -60,7 +60,7 @@ We industrialised people because it made them easier to control. Now, automation
 
 In a knowledge economy, compliance is worthless. We do not need more human robots performing repeatable tasks. We need humans solving problems, thinking critically, and delivering outcomes.
 
-The organisations that thrive are the ones that realise this. They pay people enough that food and shelter are no longer their motivators (re Daniel Pink). They create environments where autonomy, mastery, and purpose are what drive performance—not carrot-and-stick bonus schemes.
+The organisations that thrive are the ones that realise this. They pay people enough that food and shelter are no longer their motivators (re Daniel Pink). They create environments where autonomy, mastery, and purpose are what drive performance, not carrot-and-stick bonus schemes.
 
 If your workforce needs extrinsic rewards to perform, you have already failed them.
 
@@ -86,7 +86,7 @@ This is not a threat. It is a liberation.
 
 Every time AI replaces another mechanical task, it creates space for something better: creativity, strategy, empathy, innovation.
 
-It gives us the opportunity to do work that demands distinctly human qualities—qualities that no machine can replicate.
+It gives us the opportunity to do work that demands distinctly human qualities, qualities that no machine can replicate.
 
 If your organisation sees AI as a threat to its workforce, it is a sign you have industrialised your people. If you see AI as a tool for elevating humanity, you are building for the future.
 

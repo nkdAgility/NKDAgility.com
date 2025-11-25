@@ -24,7 +24,7 @@ Instructions: |-
   **Strictly exclude** content focused solely on certification prep, lightweight introductions, or misapplications of Scrum that omit professionalism, empiricism, or the pursuit of value.
 headline:
   cards: []
-  title: 'Professional Scrum: Elevating Agility Through Empiricism and Technical Excellence'
+  title: "Professional Scrum: Elevating Agility Through Empiricism and Technical Excellence"
   subtitle: A disciplined, empirical approach to delivering complex products through transparency, technical excellence, continuous improvement, and accountable teamwork.
   content: Professional Scrum embodies disciplined product delivery grounded in empiricism, technical excellence, and continuous value creation, emphasising transparency, clear accountability, rigorous engineering practices, strategic product leadership, responsiveness to complexity, evidence-based decision-making, and a commitment to continuous improvement and frequent delivery.
   updated: 2025-05-23T23:24:18Z
@@ -49,10 +49,10 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
-Professional Scrum is the disciplined expression of Scrum guided by empiricism, technical excellence, and continuous delivery of value. It transcends frameworks and rituals, focusing instead on how individuals, teams, and organisations choose to work—with intent, professionalism, and accountability.
 
-At its core, Professional Scrum reflects a philosophy: transparency is not a ceremony, Done is not a suggestion, and empiricism is not optional. This philosophy demands that Product Owners act as strategists, Scrum Masters as agents of change, and Developers as disciplined engineers. It embraces complexity not as a challenge to control, but as a condition to respond to—by learning fast, delivering often, and improving always.
+Professional Scrum is the disciplined expression of Scrum guided by empiricism, technical excellence, and continuous delivery of value. It transcends frameworks and rituals, focusing instead on how individuals, teams, and organisations choose to work, with intent, professionalism, and accountability.
+
+At its core, Professional Scrum reflects a philosophy: transparency is not a ceremony, Done is not a suggestion, and empiricism is not optional. This philosophy demands that Product Owners act as strategists, Scrum Masters as agents of change, and Developers as disciplined engineers. It embraces complexity not as a challenge to control, but as a condition to respond to, by learning fast, delivering often, and improving always.
 
 Professional Scrum is not a template. It is how you bring humanity, responsibility, and rigour to complex product delivery. It’s not just doing Scrum. It’s doing it professionally.

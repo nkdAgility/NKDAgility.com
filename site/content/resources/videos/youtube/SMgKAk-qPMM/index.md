@@ -1,7 +1,7 @@
 ---
-title: 'Temperance in Agile: Why Less is More'
-short_title: 'Temperance in Agile: Why Less is More'
-description: Explores how practising moderation in Agile—by keeping backlogs lean, limiting work in progress, and focusing on value—boosts team efficiency and reduces waste.
+title: "Temperance in Agile: Why Less is More"
+short_title: "Temperance in Agile: Why Less is More"
+description: Explores how practising moderation in Agile, by keeping backlogs lean, limiting work in progress, and focusing on value, boosts team efficiency and reduces waste.
 tldr: Focusing on just enough work and keeping your backlog, planning, and team size lean helps your team deliver more value and avoid waste or burnout. Prioritize only high-impact tasks, limit work in progress, and avoid over-refining or over-planning. Say no to non-essential work, balance short-term wins with long-term goals, and seek coaching if you struggle to maintain this balance.
 date: 2023-12-05T07:00:10Z
 lastmod: 2023-12-05T07:00:10Z
@@ -57,9 +57,9 @@ duration: 154
 resourceTypes:
   - video
 isShort: false
-
 ---
-In the fast-paced world of Agile, it's easy to fall into the trap of doing too much. Whether it's overloading your backlog, over-refining, or over-planning, too much of anything can be a bad thing. One of the key virtues that we embrace in Agile is **temperance**—the art of taking everything in moderation.
+
+In the fast-paced world of Agile, it's easy to fall into the trap of doing too much. Whether it's overloading your backlog, over-refining, or over-planning, too much of anything can be a bad thing. One of the key virtues that we embrace in Agile is **temperance**, the art of taking everything in moderation.
 
 The principle of temperance reminds us that we must balance our efforts, focus on what truly matters, and avoid overcomplicating processes. This is particularly relevant when it comes to managing our backlogs and planning our sprints. In this post, we’ll dive deeper into what it means to apply temperance in Agile and share practical insights on how to strike the perfect balance in your [Scrum]({{< ref "/categories/scrum" >}}) practices.
 
@@ -69,7 +69,7 @@ In Agile, the backlog is the heart of the project. It contains everything the te
 
 ### **How Much Backlog is Enough?**
 
-This concept of "just enough" is something I've personally taken to heart, having been taught it by none other than Ken Schwaber, one of the co-creators of Scrum. He often said to me, _“Just enough and no more.”_ It didn’t matter what the question was—whether it was about the size of the backlog, the number of developers, or the amount of time spent on refinement—the answer was always the same: **just enough and no more.**
+This concept of "just enough" is something I've personally taken to heart, having been taught it by none other than Ken Schwaber, one of the co-creators of Scrum. He often said to me, _“Just enough and no more.”_ It didn’t matter what the question was, whether it was about the size of the backlog, the number of developers, or the amount of time spent on refinement, the answer was always the same: **just enough and no more.**
 
 So, how much backlog should we have?
 
@@ -81,21 +81,21 @@ Having too much backlog can be as harmful as having too little. Too many items c
 
 ## **Maximizing Work Not Done: The Agile Mantra**
 
-One of the principles in the Agile Manifesto is to maximize the amount of work **not done**. This is the epitome of temperance in action—minimize effort for maximum gain. It's not about cutting corners but rather about focusing your energy on what will truly make a difference. When you spend too much time refining, planning, or perfecting, you’re taking away time and energy that could be used to create value.
+One of the principles in the Agile Manifesto is to maximize the amount of work **not done**. This is the epitome of temperance in action, minimize effort for maximum gain. It's not about cutting corners but rather about focusing your energy on what will truly make a difference. When you spend too much time refining, planning, or perfecting, you’re taking away time and energy that could be used to create value.
 
 ### **Practical Tips for Applying Temperance in Agile:**
 
 1. **Refinement: Just Enough and No More**
-    - Spend enough time refining backlog items so they’re ready for the next sprint but avoid over-refining. Too much refinement can lead to wasted effort on features that may never be prioritized.
+   - Spend enough time refining backlog items so they’re ready for the next sprint but avoid over-refining. Too much refinement can lead to wasted effort on features that may never be prioritized.
 
-3. **Planning: Keep It Lean**
-    - Sprint planning should focus on actionable, high-priority work. Avoid planning too far ahead or investing too much time in long-term speculation.
+2. **Planning: Keep It Lean**
+   - Sprint planning should focus on actionable, high-priority work. Avoid planning too far ahead or investing too much time in long-term speculation.
 
-5. **Development Team Size: Just Enough and No More**
-    - Agile teams should have enough developers to maintain momentum, but not so many that coordination becomes a bottleneck. Think lean and keep the team small enough to stay nimble.
+3. **Development Team Size: Just Enough and No More**
+   - Agile teams should have enough developers to maintain momentum, but not so many that coordination becomes a bottleneck. Think lean and keep the team small enough to stay nimble.
 
-7. **Work in Progress (WIP) Limits**
-    - Implement WIP limits to prevent overloading your team. Too much work in progress can reduce efficiency and lead to incomplete or poor-quality outcomes.
+4. **Work in Progress (WIP) Limits**
+   - Implement WIP limits to prevent overloading your team. Too much work in progress can reduce efficiency and lead to incomplete or poor-quality outcomes.
 
 ### **Real-World Example: Balancing Refinement and Innovation**
 
@@ -105,7 +105,7 @@ It wasn’t until we adopted the principle of **just enough and no more** that w
 
 ## **The Easy Path vs. The Hard Path**
 
-Temperance isn’t just about minimizing effort—sometimes, you’ll need to take the hard path to achieve the best results. The Agile mindset encourages us to maximize the easy path when possible, but it’s equally important to recognize when a more difficult route is necessary for long-term success.
+Temperance isn’t just about minimizing effort, sometimes, you’ll need to take the hard path to achieve the best results. The Agile mindset encourages us to maximize the easy path when possible, but it’s equally important to recognize when a more difficult route is necessary for long-term success.
 
 This balance is crucial for sustaining Agile practices:
 
@@ -131,7 +131,7 @@ If you're ready to elevate your Agile practices and apply temperance to your bac
 
 **Key Takeaways:**
 
-- **Less is more** in Agile—focus on what truly adds value.
+- **Less is more** in Agile, focus on what truly adds value.
 
 - **Just enough and no more** applies to everything, from your backlog to your development team size.
 
@@ -141,4 +141,4 @@ If you're ready to elevate your Agile practices and apply temperance to your bac
 
 - Seek help early if you struggle to find balance in your Agile processes.
 
-Agility isn’t just about moving fast—it’s about moving smart. 🌟 Find your balance, and your team will thank you for it.
+Agility isn’t just about moving fast, it’s about moving smart. 🌟 Find your balance, and your team will thank you for it.

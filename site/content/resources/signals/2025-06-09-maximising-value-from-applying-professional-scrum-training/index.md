@@ -57,11 +57,11 @@ Watermarks:
   tldr: 2025-08-07T12:11:27Z
 ResourceId: Db-LocFYG0R
 ResourceType: signals
-
 ---
+
 The best outcome of a Applying Professional Scrum class isn’t just better understanding of Scrum. It’s a backlog of change.
 
-At Healthgrades, 147 people left not just with insight, but with agency. They had identified the organisational impediments standing in their way—and started a backlog of what needed to shift.
+At Healthgrades, 147 people left not just with insight, but with agency. They had identified the organisational impediments standing in their way, and started a backlog of what needed to shift.
 
 That’s the real value: clarity about what’s slowing delivery and the collective power to fix it.
 

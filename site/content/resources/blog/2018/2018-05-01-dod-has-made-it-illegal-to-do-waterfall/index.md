@@ -5,10 +5,10 @@ description: The US Department of Defence now requires agile, iterative software
 tldr: The US Department of Defense has updated its procurement rules to require agile, iterative development instead of traditional waterfall methods, following high-profile failures like the FBI’s Sentinel project. Agile approaches have proven to deliver higher success rates, lower costs, and reduced risk, and these changes are now influencing government and vendor practices across the US and UK. Development managers working with government clients should adopt agile methods to align with new regulations and improve project outcomes.
 date: 2018-05-01
 lastmod: 2018-05-01
-weight: 320
+weight: 415
 sitemap:
   filename: sitemap.xml
-  priority: 0.6
+  priority: 0.5
   changefreq: weekly
 ItemId: dnmT3QDhGxx
 ItemType: blog
@@ -26,8 +26,8 @@ concepts:
   - Tenet
 categories:
   - Product Development
-  - Engineering Excellence
 tags:
+  - Agile Strategy
   - Value Delivery
   - Business Agility
   - Organisational Agility
@@ -42,7 +42,6 @@ tags:
   - Digital Transformation
   - Continuous Improvement
   - Agile Frameworks
-  - Agile Planning
 platform_signals:
   - platform: Scrumorg
     post_url: https://www.scrum.org/resources/blog/dod-has-made-it-illegal-do-waterfall
@@ -57,8 +56,8 @@ ResourceImportId: 10204
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
-
 ---
+
 Did you know that the DOD has made it illegal to do waterfall? Well, kind of... For the first time in many years, the Department of Defence (DOD) in the United States had made a major update to its procurement rules. They can no longer be held accountable for holding up our industry, and being culpable for its inability to move towards agility. The last vestiges of the old ways are gone.
 
 ## TL;DR;
@@ -86,7 +85,7 @@ You may be thinking “But who gives a crap what the DOD does?”. In the USA th
 
 The DOD has influenced Universities by requiring that they create engineers that work within their model and by providing and creating jobs that function this way. How can one learn to be agile in a world governed by waterfall. Indeed our own Ministry of Defence (MOD) has had the same influence, maybe from their own rules but also as a result of working with the Americans and within their rules; like how airports in Europe require you to take your shoes off or go through those big scanners even though you are not flying to the USA.
 
-> (2) be designed to include—
+> (2) be designed to include,
 >
 > (A) early and continual involvement of the user;
 >

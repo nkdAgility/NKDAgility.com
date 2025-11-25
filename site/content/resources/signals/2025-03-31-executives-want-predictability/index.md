@@ -54,15 +54,15 @@ Watermarks:
   tldr: 2025-08-07T12:34:15Z
 ResourceId: sJJYz51QG0O
 ResourceType: signals
-
 ---
+
 Executives want predictability. Stakeholders want transparency. Investors want confidence. But if your organisation treats “Done” as a moving target, all you’re really delivering is a well-packaged lie.
 
-Every time a team marks work as “done” without a concrete, enforced Definition of Done, they’re not shipping value—they’re accumulating hidden risk. Incomplete testing, unverified security, missing automation—all pushed downstream until the cost explodes at the worst possible moment. And then leadership wonders why deadlines slip, costs balloon, and customers get frustrated.
+Every time a team marks work as “done” without a concrete, enforced Definition of Done, they’re not shipping value, they’re accumulating hidden risk. Incomplete testing, unverified security, missing automation, all pushed downstream until the cost explodes at the worst possible moment. And then leadership wonders why deadlines slip, costs balloon, and customers get frustrated.
 
 If your DoD is vague, subjective, or varies sprint to sprint, your forecasts are fiction. You’re not managing an Agile organisation. You’re running a hope-based delivery model where quality is optional, and failure is inevitable.
 
-Done must be non-negotiable. A working increment must meet an objective, enforceable standard—automated testing, security, compliance, performance, deployment readiness. Anything less isn’t agility. It’s professional negligence.
+Done must be non-negotiable. A working increment must meet an objective, enforceable standard, automated testing, security, compliance, performance, deployment readiness. Anything less isn’t agility. It’s professional negligence.
 
 Stop reporting progress on half-baked work. If Done isn’t real, neither are your commitments.
 

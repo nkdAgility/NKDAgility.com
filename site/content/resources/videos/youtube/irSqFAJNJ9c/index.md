@@ -31,7 +31,6 @@ categories:
   - Scrum
 tags:
   - Software Development
-  - Scrum Team
   - Team Performance
   - Social Technologies
 Watermarks:

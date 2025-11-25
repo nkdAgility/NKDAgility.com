@@ -54,6 +54,7 @@ tags:
   - Agile Product Management
   - Software Development
   - Product Delivery
+  - Agile Strategy
   - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:14:56Z

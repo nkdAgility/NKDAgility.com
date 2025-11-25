@@ -1,5 +1,5 @@
 ---
-title: 'Navigating the Agile Landscape: Understanding the Key Differences Between Product Owners and Project Managers'
+title: "Navigating the Agile Landscape: Understanding the Key Differences Between Product Owners and Project Managers"
 short_title: Product Owner vs Project Manager in Agile
 description: Explains the key differences between Product Owners and Project Managers in Scrum, and how agile roles, team structures, and metrics impact organisational effectiveness.
 tldr: Product Owners focus on delivering product value and prioritising work based on user needs, while Project Managers concentrate on delivering projects on time and within budget; this distinction is key as organisations move to agile ways of working. Adopting Scrum impacts not just teams but also organisational structure, leadership style, and how value is delivered, requiring a shift from traditional hierarchies to empowered, cross-functional teams. As teams mature, they should move beyond story points to optimise flow and continuous delivery, so managers should support this evolution to improve agility and responsiveness.
@@ -53,8 +53,8 @@ duration: 2112
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 As I sit here reflecting on my journey as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and consultant, I can't help but think about the profound changes we've all experienced in recent times. The COVID-19 pandemic has forced many of us to adapt, and while I miss travelling the globe for training sessions, I've found new ways to connect and share knowledge online. Today, I want to dive into some pressing questions that have come up during my recent sessions, particularly around the roles within Scrum and how they impact organisations.
 
 ### The Distinction Between Product Owners and Project Managers
@@ -69,9 +69,9 @@ This distinction is crucial, especially as organisations transition from traditi
 
 ### The Broader Impact of Scrum on Organisations
 
-Another question that frequently arises is: apart from the [Scrum team]({{< ref "/tags/scrum-team" >}}), who else in the organisation does Scrum affect? The answer is quite comprehensive. 
+Another question that frequently arises is: apart from the [Scrum team]({{< ref "/tags/scrum-team" >}}), who else in the organisation does Scrum affect? The answer is quite comprehensive.
 
-- **Organisational Structure**: Scrum encourages a shift from traditional hierarchies to more autonomous, cross-functional teams. This change requires a rethinking of how teams are structured and how they interact with one another. 
+- **Organisational Structure**: Scrum encourages a shift from traditional hierarchies to more autonomous, cross-functional teams. This change requires a rethinking of how teams are structured and how they interact with one another.
 
 - **[Leadership]({{< ref "/categories/leadership" >}}) vs Management**: As organisations adopt Scrum, the focus shifts from management to leadership. Leaders set the direction and remove obstacles, allowing teams to self-organise and deliver value more effectively. This transition can significantly alter budgeting, project planning, and team dynamics.
 
@@ -79,7 +79,7 @@ Another question that frequently arises is: apart from the [Scrum team]({{< ref 
 
 ### Evolving Beyond Story Points
 
-Finally, I want to address a question that often comes up in discussions about Scrum practices: Should teams still be using story points after several sprints? My answer is a resounding no—if you're on sprint 22 and still relying on story points, it may be time to reassess your approach.
+Finally, I want to address a question that often comes up in discussions about Scrum practices: Should teams still be using story points after several sprints? My answer is a resounding no, if you're on sprint 22 and still relying on story points, it may be time to reassess your approach.
 
 - **Initial Learning Tool**: Story points can be a useful tool for teams just starting with Scrum, helping them to estimate and plan their work. However, as teams mature, they should shift their focus towards flow metrics and [Kanban]({{< ref "/categories/kanban" >}}) principles.
 
@@ -91,6 +91,6 @@ Finally, I want to address a question that often comes up in discussions about S
 
 As we navigate these challenging times, it's essential to remember that agility is not just about adopting new practices; it's about fostering a mindset that embraces change and values collaboration. Whether you're a Product Owner, Project Manager, or part of a Scrum team, understanding these distinctions and their implications can lead to more effective and responsive organisations.
 
-If you're interested in further exploring these concepts, I invite you to join my upcoming Professional [Agile Leadership]({{< ref "/tags/agile-leadership" >}}) class. Together, we can delve deeper into how to implement these practices effectively within your organisation. 
+If you're interested in further exploring these concepts, I invite you to join my upcoming Professional [Agile Leadership]({{< ref "/tags/agile-leadership" >}}) class. Together, we can delve deeper into how to implement these practices effectively within your organisation.
 
 Thank you for taking the time to read this, and I look forward to your questions and insights in the comments below!

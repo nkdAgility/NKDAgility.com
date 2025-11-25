@@ -5,10 +5,10 @@ description: Explains the differences between competence-based and control-based
 tldr: Traditional hierarchies based on control slow down decision-making and often promote people beyond their competence, while hierarchies based on competence allow the most capable individuals to lead in real time, enabling faster and more effective responses to market changes. Shifting to a competence-based structure can create a more agile, engaged, and market-responsive organisation. Development managers should consider moving away from rigid top-down models and foster dynamic leadership based on expertise to improve speed and adaptability.
 date: 2023-04-13T14:25:06Z
 lastmod: 2023-04-13T14:25:06Z
-weight: 740
+weight: 470
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: AaCM_pmZb4k
 ItemType: videos

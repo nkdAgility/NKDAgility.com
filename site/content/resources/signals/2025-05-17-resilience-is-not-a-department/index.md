@@ -44,15 +44,15 @@ Watermarks:
   tldr: 2025-08-07T12:32:07Z
 ResourceId: PWgzGL20QAo
 ResourceType: signals
-
 ---
+
 Resilience is not a department. It's not a project. It's not an afterthought.
 
 It is a product capability.
 
-If your product can’t survive failure—network loss, regional outage, DNS breakage—it is not a product. It is a liability with a pretty UI.
+If your product can’t survive failure, network loss, regional outage, DNS breakage, it is not a product. It is a liability with a pretty UI.
 
-Too many teams optimise for performance, cost, or velocity—until something goes wrong. Then they realise they optimised for fragility. Spain's blackout. Oracle’s healthcare cloud crash. Every one of these was built to succeed in PowerPoint, not in the real world.
+Too many teams optimise for performance, cost, or velocity, until something goes wrong. Then they realise they optimised for fragility. Spain's blackout. Oracle’s healthcare cloud crash. Every one of these was built to succeed in PowerPoint, not in the real world.
 
 If your disaster recovery plan has never been tested under load, with real users and real failover, then you don’t have a plan. You have a spreadsheet fantasy.
 

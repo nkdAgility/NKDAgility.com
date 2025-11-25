@@ -1,14 +1,14 @@
 ---
-title: 'The Crucible of Learning: Transforming Organizational Effectiveness Through DevOps'
+title: "The Crucible of Learning: Transforming Organizational Effectiveness Through DevOps"
 short_title: Transforming Organizational Effectiveness with DevOps
 description: Explores how DevOps transformation, refactoring, and ownership reduce technical debt, streamline development, and boost efficiency, team satisfaction, and business value.
 tldr: DevOps transformation delivers major benefits when organizations address technical debt, simplify systems, and empower teams to take ownership of change. Key outcomes include faster delivery, lower costs, and happier, more effective teams, but success requires upskilling and active participation rather than outsourcing the work. Development managers should prioritize regular refactoring and foster a culture of continuous improvement to achieve lasting results.
 date: 2024-08-21T07:00:19Z
 lastmod: 2024-08-21T07:00:19Z
-weight: 175
+weight: 150
 sitemap:
   filename: sitemap.xml
-  priority: 0.6
+  priority: 0.7
   changefreq: monthly
 ItemId: KXvd_oyLe3Q
 ItemType: videos
@@ -27,10 +27,11 @@ aliasesArchive:
   - the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
 source: internal
 layout: video
-concepts: []
+concepts:
+  - Strategy
 categories:
-  - DevOps
   - Engineering Excellence
+  - DevOps
   - Technical Leadership
 tags:
   - Technical Mastery
@@ -56,21 +57,21 @@ duration: 832
 resourceTypes:
   - video
 isShort: false
-
 ---
-When organizations engage with us for [DevOps]({{< ref "/categories/devops" >}}) consulting, it's rarely by chance. Typically, they've identified a problem—a problem that's grown too big to ignore, a problem that requires expertise beyond their current capabilities. As a DevOps consultant, I’ve seen this scenario play out many times. One of the most significant engagements I’ve experienced involved a large organization in the oil and gas industry. This case illustrates the complexity and challenges organizations face when they try to implement DevOps, and the transformational impact that a well-executed DevOps strategy can have.
+
+When organizations engage with us for [DevOps]({{< ref "/categories/devops" >}}) consulting, it's rarely by chance. Typically, they've identified a problem, a problem that's grown too big to ignore, a problem that requires expertise beyond their current capabilities. As a DevOps consultant, I’ve seen this scenario play out many times. One of the most significant engagements I’ve experienced involved a large organization in the oil and gas industry. This case illustrates the complexity and challenges organizations face when they try to implement DevOps, and the transformational impact that a well-executed DevOps strategy can have.
 
 ## **The Root Cause: [Technical Debt]({{< ref "/tags/technical-debt" >}}) in a Large-Scale System**
 
 ### **Identifying the Problem**
 
-The company I worked with had a product that sold for $50,000 per license—a desktop product with significant complexity. They had 90 teams spread across 13 locations in nine different countries, all working on this product. Each team had its own long-term branch, leading to divergent development paths that could last as long as a year. The organization attempted to mitigate these divergences by applying force—a common but flawed approach.
+The company I worked with had a product that sold for $50,000 per license, a desktop product with significant complexity. They had 90 teams spread across 13 locations in nine different countries, all working on this product. Each team had its own long-term branch, leading to divergent development paths that could last as long as a year. The organization attempted to mitigate these divergences by applying force, a common but flawed approach.
 
 They spun up a dedicated DevOps team, centralizing DevOps engineers in one area. However, this team faced a monumental challenge: they couldn’t directly influence what the 90 teams were doing but were responsible for ensuring [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) and daily builds of the product.
 
 ### **The Complexity of the System**
 
-To achieve their goal, the DevOps team built an infrastructure that facilitated about 11,000 build executions per day—1.2 million a year—just to keep the product functioning daily. The system had to manage code from 90 different teams using different source control systems, including Git, Team Foundation Version Control, Subversion, and even custom in-house systems. Each platform had its own branching and merging capabilities, which the DevOps system had to integrate and unify.
+To achieve their goal, the DevOps team built an infrastructure that facilitated about 11,000 build executions per day, 1.2 million a year, just to keep the product functioning daily. The system had to manage code from 90 different teams using different source control systems, including Git, Team Foundation Version Control, Subversion, and even custom in-house systems. Each platform had its own branching and merging capabilities, which the DevOps system had to integrate and unify.
 
 The complexity of the product was staggering. Developers needed workstations with 128GB of RAM and 24-core processors just to build the product. It was an obscene setup, but necessary due to the product’s massive and complicated architecture.
 
@@ -98,7 +99,7 @@ This process wasn't easy. It required patience, collaboration across different l
 
 A significant part of this transformation was helping the organization understand the importance of refactoring. Over time, they had accumulated technical debt by integrating new systems without proper refactoring. This debt had to be paid back to simplify the product and make future development more manageable.
 
-The organization had been integrating rather than refactoring—patching together systems rather than taking the time to rebuild them properly. This approach made the system increasingly unwieldy, obscuring the forest for the trees. The key lesson here is the importance of regular refactoring and simplifying as you go.
+The organization had been integrating rather than refactoring, patching together systems rather than taking the time to rebuild them properly. This approach made the system increasingly unwieldy, obscuring the forest for the trees. The key lesson here is the importance of regular refactoring and simplifying as you go.
 
 ## **The Outcome: Simplification, Efficiency, and Happiness**
 
@@ -112,13 +113,13 @@ The outcomes of a successful DevOps transformation are profound:
 
 - **Increased Capability:** With a focus on refactoring and clean code, teams become more effective and can deliver more value over time.
 
-A great example of this is the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team at Microsoft. Before they embraced DevOps, they delivered about 25 new features to production each year, with 600 people working on the product. After investing in reducing build times—from 72 hours to just 3.5 minutes—they scaled up to nearly 300 features per year with the same number of people.
+A great example of this is the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team at Microsoft. Before they embraced DevOps, they delivered about 25 new features to production each year, with 600 people working on the product. After investing in reducing build times, from 72 hours to just 3.5 minutes, they scaled up to nearly 300 features per year with the same number of people.
 
 ### **The Importance of Skill and Ownership**
 
 One critical point to understand is that DevOps is not something you can simply "install" in an organization. It requires skill, dedication, and a willingness to embrace change. If a consultancy promises to do all the work for you, your people won’t learn anything. They won’t go through the necessary pain of cleaning up their technical debt and will likely repeat the same mistakes.
 
-Think of it like cleaning your teenager’s room. If you do it for them, they won’t learn the importance of keeping their space tidy. But if they do it themselves—especially if they have to clean up a particularly nasty mess—they’re more likely to avoid making the same mess in the future. The same principle applies to DevOps and [engineering practices]({{< ref "/tags/engineering-practices" >}}).
+Think of it like cleaning your teenager’s room. If you do it for them, they won’t learn the importance of keeping their space tidy. But if they do it themselves, especially if they have to clean up a particularly nasty mess, they’re more likely to avoid making the same mess in the future. The same principle applies to DevOps and [engineering practices]({{< ref "/tags/engineering-practices" >}}).
 
 ### **A Final Thought**
 

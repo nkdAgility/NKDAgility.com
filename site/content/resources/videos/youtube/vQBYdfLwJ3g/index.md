@@ -1,6 +1,6 @@
 ---
-title: 'Unlocking the Product Owner Potential: Bridging Theory and Practice in Agile Leadership'
-short_title: 'Product Owner Role: Bridging Theory & Practice'
+title: "Unlocking the Product Owner Potential: Bridging Theory and Practice in Agile Leadership"
+short_title: "Product Owner Role: Bridging Theory & Practice"
 description: Explores the real-world challenges and expanded responsibilities of product owners, highlighting practical skills, agile leadership, and collaborative learning in organisations.
 tldr: The Product Owner role requires moving beyond theory to practical leadership, taking on broader responsibilities like marketing, sales, and contract negotiation, and influencing key business areas. An immersive, collaborative learning approach helps product owners apply new strategies, share real-world experiences, and learn from peers to drive better outcomes. Development managers should support ongoing learning and cross-functional engagement for their product owners to maximize their impact.
 date: 2023-06-09T07:00:27Z
@@ -50,29 +50,29 @@ duration: 268
 resourceTypes:
   - video
 isShort: false
-
 ---
-As I reflect on the immersive learning experience of the [Product Owner]({{< ref "/tags/product-owner" >}}) (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations. 
+
+As I reflect on the immersive learning experience of the [Product Owner]({{< ref "/tags/product-owner" >}}) (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations.
 
 ### Understanding the Product Owner Role
 
-When we talk about the product owner, we’re essentially discussing an agile product manager. This role encompasses all the tools and techniques of [product management]({{< ref "/categories/product-management" >}}), but it also requires a shift in mindset. The journey of a product owner can be likened to moving from being a mere scribe—the lowest form of product ownership—to becoming a mini CEO or entrepreneur of the product. 
+When we talk about the product owner, we’re essentially discussing an agile product manager. This role encompasses all the tools and techniques of [product management]({{< ref "/categories/product-management" >}}), but it also requires a shift in mindset. The journey of a product owner can be likened to moving from being a mere scribe, the lowest form of product ownership, to becoming a mini CEO or entrepreneur of the product.
 
 - **Ownership**: At the pinnacle of this totem pole, the product owner has full fiscal and commercial accountability for their product within the organisation. This level of ownership allows them to engage with various aspects of the business that they may not have had access to previously.
 
 ### Expanding Responsibilities
 
-As product owners, we need to consider how we can integrate marketing, sales, and even contract negotiations into our roles. For instance, if you’re drafting contracts with customers, your involvement is crucial. The way you write those contracts can significantly impact how the work is delivered. 
+As product owners, we need to consider how we can integrate marketing, sales, and even contract negotiations into our roles. For instance, if you’re drafting contracts with customers, your involvement is crucial. The way you write those contracts can significantly impact how the work is delivered.
 
-- **Control and Influence**: While you may not have direct control over branding and marketing—especially in larger organisations—you can still influence these areas. Your voice should be respected at the table, and your insights valued. 
+- **Control and Influence**: While you may not have direct control over branding and marketing, especially in larger organisations, you can still influence these areas. Your voice should be respected at the table, and your insights valued.
 
 ### The Immersive Learning Experience
 
-This immersive class is designed to bridge the gap between theoretical knowledge and practical application. It allows participants to connect the dots between what we discuss in class and what they need to implement in their organisations. 
+This immersive class is designed to bridge the gap between theoretical knowledge and practical application. It allows participants to connect the dots between what we discuss in class and what they need to implement in their organisations.
 
-- **Empirical Learning**: The iterative and incremental nature of this experience encourages you to bring empiricism into your practice. You can try out new strategies in your organisation and return to share your findings with your peers. 
+- **Empirical Learning**: The iterative and incremental nature of this experience encourages you to bring empiricism into your practice. You can try out new strategies in your organisation and return to share your findings with your peers.
 
-Imagine a group of product owners who have all attempted the same activity in their respective organisations. They can come back and share their experiences, offering help and advice based on real-world applications. 
+Imagine a group of product owners who have all attempted the same activity in their respective organisations. They can come back and share their experiences, offering help and advice based on real-world applications.
 
 - **Collaborative Insights**: For example, if one participant works at a bank and successfully navigates a conversation with their compliance director, they can share that insight with others facing similar challenges. This collaborative exchange of ideas can lead to innovative solutions and improved practices across the board.
 

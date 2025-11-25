@@ -5,7 +5,7 @@ description: Discover how immersive learning empowers experienced Agile professi
 tldr: Immersive learning helps experienced Agile practitioners deepen their expertise by connecting real-world challenges with advanced theory and practical assignments, leading to more meaningful breakthroughs. It leverages their existing knowledge, encourages nuanced questions, and tailors learning to specific needs. Development managers should consider immersive learning to accelerate team growth and address complex, real-world problems more effectively.
 date: 2023-08-01T07:00:19Z
 lastmod: 2023-08-01T07:00:19Z
-weight: 1000
+weight: 765
 sitemap:
   filename: sitemap.xml
   priority: 0.1

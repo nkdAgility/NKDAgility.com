@@ -57,11 +57,11 @@ Watermarks:
   tldr: 2025-08-07T12:29:19Z
 ResourceId: xUJ6VvudvJx
 ResourceType: signals
-
 ---
+
 If you're waiting for a framework to shift your culture, you're already on the wrong path.
 
-The biggest obstacle to change isn’t lack of knowledge—it’s inertia. The culture and process you already have are your biggest constraints.
+The biggest obstacle to change isn’t lack of knowledge, it’s inertia. The culture and process you already have are your biggest constraints.
 
 That’s why real change starts with a vision. Not just a buzzwordy slide deck. A vision that sets direction without prescribing how. One that empowers the people doing the work to identify what’s in the way of value delivery.
 

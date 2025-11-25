@@ -1,14 +1,14 @@
 ---
-title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
+title: "The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty"
 short_title: Evidence-Based Management Guide
 description: A practical guide to Evidence-Based Management, showing how organisations use experiments, feedback, and key value areas to improve value delivery amid uncertainty.
-tldr: Evidence-Based Management (EBM) is a framework that helps organizations deliver more value under uncertainty by setting measurable goals, running experiments, and adapting based on evidence. It emphasizes focusing on customer outcomes rather than just activities or outputs, using four key value areas—Current Value, Unrealized Value, Ability to Innovate, and Time-to-Market—to guide improvement. Development managers should ensure teams form explicit hypotheses, measure results, and iteratively adjust goals and approaches to maximize sustainable value delivery.
+tldr: Evidence-Based Management (EBM) is a framework that helps organizations deliver more value under uncertainty by setting measurable goals, running experiments, and adapting based on evidence. It emphasizes focusing on customer outcomes rather than just activities or outputs, using four key value areas, Current Value, Unrealized Value, Ability to Innovate, and Time-to-Market, to guide improvement. Development managers should ensure teams form explicit hypotheses, measure results, and iteratively adjust goals and approaches to maximize sustainable value delivery.
 date: 2024-05-01
 lastmod: 2024-05-01
-weight: 390
+weight: 470
 sitemap:
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.4
   changefreq: weekly
 author:
   - Scrum.org
@@ -33,19 +33,19 @@ categories:
 tags:
   - Value Delivery
   - Software Development
+  - Decision Making
   - Customer Focus
   - Empirical Process Control
   - Experimentation
   - Common Goals
   - Operational Practices
   - Strategic Goals
-  - Decision Making
   - Evidence Based Leadership
   - Evidence Based Management
   - Metrics and Learning
   - Social Technologies
+  - Agile Strategy
   - Product Validation
-  - Agile Product Management
 card:
   button:
     content: Learn More
@@ -58,8 +58,8 @@ Watermarks:
 ResourceId: ltc7lzhy14U
 ResourceType: guides
 resourceTypes: guide
-recommendedContent: 
-videos: 
+recommendedContent:
+videos:
 creator: Martin Hinshelwood
 build:
   list: true
@@ -68,8 +68,8 @@ cascade:
   build:
     list: false
     render: true
-
 ---
+
 ## The Evidence-Based Management Guide
 
 **Improving Value Delivery under Conditions of Uncertainty**

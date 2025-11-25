@@ -1,5 +1,5 @@
 ---
-title: 'Understanding Product Discovery: Why It Matters More Than Ever'
+title: "Understanding Product Discovery: Why It Matters More Than Ever"
 short_title: Understanding Product Discovery and Its Value
 description: Explains Product Discovery in product development, its role in setting strategy, uncovering opportunities, and aligning teams to build valuable, user-focused products.
 tldr: Product Discovery is a proactive process that helps teams identify what to build and why, ensuring alignment with business goals and user needs. It goes beyond backlog refinement by uncovering new opportunities, involving diverse perspectives, and driving strategic direction at both portfolio and team levels. To maximize product value and ROI, development managers should invest in deliberate discovery practices, involve their teams early, and continuously gather feedback to guide decisions.
@@ -54,8 +54,8 @@ duration: 711
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 [Product Discovery]({{< ref "/tags/product-discovery" >}}) is a term that's often used in the world of [product development]({{< ref "/categories/product-development" >}}), but what does it really mean? Is it something new, or is it just a different label for what we've always done? In this post, I'll delve into the nuances of Product Discovery, explain why it’s critical to your product’s success, and share some real-world examples to help you understand its scope and impact.
 
 ## **What is Product Discovery?**
@@ -66,11 +66,11 @@ Product Discovery encompasses all the work involved in planning for the future o
 
 - **Planning for the Future**: Product Discovery involves researching, designing, and understanding what needs to be done before a product can be delivered. This might include market research, user feedback, or technical feasibility studies.
 
-- **Uncovering the Unknown**: Unlike traditional planning, Product Discovery also focuses on the unknowns—the potential opportunities or problems that haven’t yet been identified. This proactive approach ensures that you’re not just reacting to current needs but are also anticipating future demands.
+- **Uncovering the Unknown**: Unlike traditional planning, Product Discovery also focuses on the unknowns, the potential opportunities or problems that haven’t yet been identified. This proactive approach ensures that you’re not just reacting to current needs but are also anticipating future demands.
 
 ### **Discovery vs. Refinement**
 
-In Scrum, we often talk about refinement, but Product Discovery is broader. While refinement is about breaking down and understanding specific items in the backlog, Product Discovery is about the bigger picture—identifying new opportunities, exploring uncharted territories, and setting strategic directions.
+In Scrum, we often talk about refinement, but Product Discovery is broader. While refinement is about breaking down and understanding specific items in the backlog, Product Discovery is about the bigger picture, identifying new opportunities, exploring uncharted territories, and setting strategic directions.
 
 ## **Why Product Discovery is Essential**
 
@@ -110,7 +110,7 @@ Another great example is Microsoft’s approach to product updates. They follow 
 
 ## **The Broader Impact of Product Discovery**
 
-Product Discovery isn’t just about making better products—it’s about making better decisions. It’s about aligning your entire organization, from the C-suite to the development teams, around a shared vision and goals.
+Product Discovery isn’t just about making better products, it’s about making better decisions. It’s about aligning your entire organization, from the C-suite to the development teams, around a shared vision and goals.
 
 ### **Expanding the Possibilities**
 
@@ -126,15 +126,12 @@ Despite its importance, Product Discovery is often underserved in organizations.
 
 ## **Final Thoughts**
 
-Product Discovery is not just a buzzword—it’s a critical process that can make or break your product’s success. Whether you’re working on a small team or a large organization, taking the time to engage in thorough Product Discovery will pay off in the long run.
+Product Discovery is not just a buzzword, it’s a critical process that can make or break your product’s success. Whether you’re working on a small team or a large organization, taking the time to engage in thorough Product Discovery will pay off in the long run.
 
 - **Remember**:
-    - Set clear strategic goals and align your teams around them.
-    
-    - Involve everyone in the discovery process to generate diverse ideas.
-    
-    - Keep an eye on the big picture, but don’t forget the details.
-    
-    - Continuously gather feedback and adjust your course as needed.
+  - Set clear strategic goals and align your teams around them.
+  - Involve everyone in the discovery process to generate diverse ideas.
+  - Keep an eye on the big picture, but don’t forget the details.
+  - Continuously gather feedback and adjust your course as needed.
 
-By embracing Product Discovery, you’re not just building a product—you’re building a future for your business. 🚀
+By embracing Product Discovery, you’re not just building a product, you’re building a future for your business. 🚀

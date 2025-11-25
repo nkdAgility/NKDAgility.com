@@ -26,7 +26,6 @@ categories:
   - Engineering Excellence
   - DevOps
 tags:
-  - Frequent Releases
   - Time to Market
   - Software Development
   - Product Delivery
@@ -35,6 +34,7 @@ tags:
   - Value Delivery
   - Pragmatic Thinking
   - Continuous Delivery
+  - Frequent Releases
   - Team Performance
   - Release Management
   - Metrics and Learning

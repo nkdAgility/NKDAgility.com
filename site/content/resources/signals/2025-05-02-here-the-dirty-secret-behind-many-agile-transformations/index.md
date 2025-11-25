@@ -58,8 +58,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:57Z
 ResourceId: 6Z5I3JPMECs
 ResourceType: signals
-
 ---
+
 Here’s the dirty secret behind many “agile transformations”:
 
 The organisation claims alignment, but what they deliver is control.
@@ -78,6 +78,6 @@ Teams stop thinking, stop improving, and stop caring.
 You get compliance, not commitment.
 
 If you want adaptive value delivery, you must let go of the how.  
-Align on goals — and then get out of the way.
+Align on goals , and then get out of the way.
 
 What parts of your system are still holding a death grip on the how?

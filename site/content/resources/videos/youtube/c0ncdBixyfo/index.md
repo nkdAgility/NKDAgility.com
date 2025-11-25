@@ -50,11 +50,11 @@ duration: 505
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 # Overcoming the Culture of Contempt in Agile Teams
 
-In the realm of [product development]({{< ref "/categories/product-development" >}}), especially within Agile and [Scrum]({{< ref "/categories/scrum" >}}) teams, a disturbing trend often emerges—a culture of contempt. This sentiment extends from [leadership]({{< ref "/categories/leadership" >}}) to the company, the product, and even the customers. It's a profound issue that goes beyond mere dissatisfaction; it represents an active disdain for decisions made, often without considering the team's insights or contributions.
+In the realm of [product development]({{< ref "/categories/product-development" >}}), especially within Agile and [Scrum]({{< ref "/categories/scrum" >}}) teams, a disturbing trend often emerges, a culture of contempt. This sentiment extends from [leadership]({{< ref "/categories/leadership" >}}) to the company, the product, and even the customers. It's a profound issue that goes beyond mere dissatisfaction; it represents an active disdain for decisions made, often without considering the team's insights or contributions.
 
 ## The Root of Contempt
 
@@ -70,7 +70,7 @@ Contempt within teams often stems from a perceived disconnect between the team's
 
 ## The Impact on Productivity and Morale
 
-This culture of contempt not only diminishes morale but also severely impacts productivity and the quality of work. When employees harbor negative feelings towards their organization, it reflects in their output—unhappy teams produce unhappy products.
+This culture of contempt not only diminishes morale but also severely impacts productivity and the quality of work. When employees harbor negative feelings towards their organization, it reflects in their output, unhappy teams produce unhappy products.
 
 ### Personal Experience: A Case Study of Contempt
 
@@ -84,9 +84,9 @@ The antidote to a culture of contempt lies in creating an environment where ever
 
 1. **Foster Open Communication:** Ensure that team members feel their opinions and insights are respected and considered.
 
-3. **Involve Teams in Decision-Making:** Make inclusivity a priority by involving team members in decisions that affect their work and the product's direction.
+2. **Involve Teams in Decision-Making:** Make inclusivity a priority by involving team members in decisions that affect their work and the product's direction.
 
-5. **Acknowledge and Address the Disconnect:** Recognize the signs of contempt and actively work to bridge the gap between leadership and teams.
+3. **Acknowledge and Address the Disconnect:** Recognize the signs of contempt and actively work to bridge the gap between leadership and teams.
 
 ### Personal Action: Change Your Company or Change Your Company
 

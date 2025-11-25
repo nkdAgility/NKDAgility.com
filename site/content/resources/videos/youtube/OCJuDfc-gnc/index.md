@@ -1,5 +1,5 @@
 ---
-title: 'Scaling Agility: Navigating the Dragons of Change in the Future of Work'
+title: "Scaling Agility: Navigating the Dragons of Change in the Future of Work"
 short_title: Scaling Agility in the Future of Work
 description: Explores practical strategies for scaling agile practices, key metrics, virtual training adaptations, and global insights to navigate change in the evolving future of work.
 tldr: Scaling agility is about more than just expanding frameworks like Scrum or Nexus; it requires focusing on core practices, using meaningful metrics, and adapting to new ways of working such as virtual training. Key insights include the importance of revisiting Scrum fundamentals, tailoring metrics to your context, and leveraging technology for effective remote collaboration. Development managers should prioritize continuous learning, experiment with virtual tools, and stay open to sharing experiences to navigate the challenges of scaling in today’s changing work environment.
@@ -46,17 +46,16 @@ duration: 592
 resourceTypes:
   - video
 isShort: false
-
 ---
-As I sit down to write this, I’m reminded of the ever-evolving landscape of work and how we, as agile practitioners, must adapt to the changes around us. Tonight, I’ll be hosting a meetup in collaboration with the British Computer Society, where I’ll delve into the intriguing topic of "[Scaling]({{< ref "/tags/scaling" >}}) Dragons." This isn’t just a whimsical title; it encapsulates the dual nature of scaling agility—what can propel us forward and what could potentially derail our efforts.
+
+As I sit down to write this, I’m reminded of the ever-evolving landscape of work and how we, as agile practitioners, must adapt to the changes around us. Tonight, I’ll be hosting a meetup in collaboration with the British Computer Society, where I’ll delve into the intriguing topic of "[Scaling]({{< ref "/tags/scaling" >}}) Dragons." This isn’t just a whimsical title; it encapsulates the dual nature of scaling agility, what can propel us forward and what could potentially derail our efforts.
 
 ### Scaling Agility: The Good and the Bad
 
 In my experience, scaling agility is not merely about expanding frameworks like [Scrum]({{< ref "/categories/scrum" >}}) or Nexus; it’s about understanding the practices that truly matter for large-scale teams. Here’s what I plan to cover:
 
 - **Scrum Fundamentals**: I’ll start with the core principles of Scrum, ensuring that everyone is on the same page. It’s essential to revisit these fundamentals, especially when scaling.
-  
-- **Diving into Nexus**: We’ll explore Nexus, but from a practical standpoint. What are the key practices that can make or break a large-scale [Scrum team]({{< ref "/tags/scrum-team" >}})? 
+- **Diving into Nexus**: We’ll explore Nexus, but from a practical standpoint. What are the key practices that can make or break a large-scale [Scrum team]({{< ref "/tags/scrum-team" >}})?
 
 - **Metrics that Matter**: Metrics can be a double-edged sword. I’ll share some starter metrics that may not be perfect for every organisation but can serve as a springboard for developing your own tailored metrics.
 
@@ -76,12 +75,12 @@ With the current climate, in-person events have taken a back seat. I’ve been w
 
 ### A Call to Connect
 
-I’m always open to discussions about agility and [DevOps]({{< ref "/categories/devops" >}}). If you have questions or need guidance, don’t hesitate to reach out. I’m more than happy to have a chat—no strings attached. Whether it’s a quick call or a more in-depth session, let’s make the most of this time we have.
+I’m always open to discussions about agility and [DevOps]({{< ref "/categories/devops" >}}). If you have questions or need guidance, don’t hesitate to reach out. I’m more than happy to have a chat, no strings attached. Whether it’s a quick call or a more in-depth session, let’s make the most of this time we have.
 
 ### Reflecting on Global Experiences
 
-As I reflect on my journey, I’m grateful for the opportunities I’ve had to train in various countries, from Saudi Arabia to Ghana and Azerbaijan. Each experience has enriched my understanding of agility and the unique challenges different cultures face. 
+As I reflect on my journey, I’m grateful for the opportunities I’ve had to train in various countries, from Saudi Arabia to Ghana and Azerbaijan. Each experience has enriched my understanding of agility and the unique challenges different cultures face.
 
-In closing, I look forward to experimenting, inspecting, and adapting our approaches to training and collaboration in this new virtual world. Join me tonight at the Future of Work meetup, and let’s explore the scaling dragons together! 
+In closing, I look forward to experimenting, inspecting, and adapting our approaches to training and collaboration in this new virtual world. Join me tonight at the Future of Work meetup, and let’s explore the scaling dragons together!
 
 Feel free to follow me on Twitter for updates and insights. I’m eager to hear from you and discuss how we can navigate this evolving landscape together.

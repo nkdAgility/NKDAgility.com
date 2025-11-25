@@ -20,52 +20,50 @@ type: capabilities
 sections:
   - type: headline
     headline:
-      title: "\U0001F680 Build an AI Roadmap Your Company Believes In"
-      subtitle: Solve the problems you have, not the ones you imagine.
+      title: "AI Opportunity Discovery & Context Sourcing"
+      subtitle: Problem-First AI Adoption Services
       content: |
-        **95% of generative AI pilot projects are failing**. The biggest reason? Teams jump to technology without first solving real problems.  
+        Consulting service focused on identifying high-impact AI opportunities through structured problem discovery and context sourcing.
 
-        Kendall’s **Opportunity & Context Sourcing Engagements** align leaders and teams around high-impact problems, capturing structured context that fuels smarter AI adoption and measurable ROI.
+        Services include collaborative workshops, problem curation sessions, team-driven prioritisation, and AI roadmap development. Built on the Kendall Framework, designed to help organisations adopt AI purposefully rather than reactively.
   - type: textNlist
-    title: Why The Kendall Framework
+    title: The Kendall Framework Approach
     sideContent: |
-      Our mission is clear: **empower teams to identify high-impact AI opportunities and build the skills to manage AI operations**.  
+      Services built on [The Kendall Framework]({{< ref "/resources/guides/kendall-guide" >}}), combining collaboration, prioritisation, and structured context building methods including Problem Curation and Context 360°.
 
-      [The Kendall Framework]({{< ref "/resources/guides/kendall-guide" >}}) combines collaboration, prioritisation, and structured context building methods (like Problem Curation and Context 360°). This creates a clear, repeatable path to AI value.
-
-      [The Kendall Framework]({{< ref "/resources/guides/kendall-guide" >}}) matters because it gives organisations a disciplined, problem-first way to adopt AI that avoids chasing trends and wasted investment. By focusing on real problems, clear context, and measurable outcomes, it ensures AI efforts stay aligned with business goals. Defined roles provide accountability, structured artefacts and events create transparency, and regular inspection fosters continuous learning. The result is AI adoption that is purposeful, trustworthy, and delivers sustained value.
+      Framework provides defined roles for accountability, structured artefacts and events for transparency, and regular inspection mechanisms. Designed for problem-first AI adoption rather than technology-first approaches.
     list:
       - icon: fa-bullseye
         content: |
-          **Clarity on Where AI Pays Off** – Our workshops cut through noise to reveal the highest-impact problems, so you invest in what matters.
+          **Problem identification workshops** – Structured sessions surfacing highest-impact problems
       - icon: fa-rocket
         content: |
-          **Smarter AI, Faster Returns** – Context captured during the process becomes fuel for better, more accurate AI performance.
+          **Context capture services** – Structured, real-world data collection powering AI performance
       - icon: fa-users
         content: |
-          **Alignment Across the Business** – Engaging your team builds buy-in and confidence, reducing resistance and speeding adoption.
+          **Team engagement facilitation** – Stakeholder alignment and buy-in building
       - icon: fa-database
         content: |
-          **Actionable, Data-Driven Outputs** – Walk away with a clear roadmap and structured data you can use immediately to guide decisions.
+          **Roadmap development** – Clear, prioritised AI roadmap with structured supporting data
       - icon: fa-shield-alt
         content: |
-          **Reduced Risk and Quick Wins** – By focusing on the right opportunities first, you save time, avoid missteps, and see results sooner.
+          **Prioritisation frameworks** – Focus on highest-value opportunities first
   - type: list
-    title: Team Alignment. AI Acceleration.
+    title: Service Components
     listType: default
     list:
-      - title: Align & Train Your Team
+      - title: Team Training
         icon: fa-chalkboard-teacher
-        content: Team trained on AI literacy and the Kendall Framework.
-      - title: Generate Strategic AI Context
+        content: AI literacy and Kendall Framework training sessions.
+      - title: Context Generation
         icon: fa-database
-        content: Create structured, real-world data from your team to power AI performance.
-      - title: Prioritise Use Cases
+        content: Structured, real-world data collection from your teams.
+      - title: Use Case Prioritisation
         icon: fa-tasks
-        content: Use problem curation to focus your AI roadmap on the areas where it will matter most.
-      - title: Execute with Confidence
+        content: Problem curation workshops focused on AI roadmap prioritisation.
+      - title: Implementation Guidance
         icon: fa-check-circle
-        content: Leave with a working AI model, skills to build more, and a roadmap tailored to your goals.
+        content: AI model development, team capability building, and tailored roadmap delivery.
   - type: cards
     title: What Customers Are Saying
     cards:
@@ -114,6 +112,4 @@ menus:
     parent: Consulting Services
 ResourceId: p7M4Bv_h_Pa
 ResourceType: capabilities
-
 ---
-

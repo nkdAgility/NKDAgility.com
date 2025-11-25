@@ -5,10 +5,10 @@ description: Explores why traditional hierarchical organisations struggle in fas
 tldr: Traditional hierarchical structures are holding back organisations from adapting to today’s fast-changing markets, leading to slow responses and missed opportunities. Superficial agile transformations fail because they do not address deep-rooted command-and-control habits, causing apathy and repeated failure. To stay competitive, leaders should drive genuine organisational change by adopting decentralised, network-based models and commit to ongoing organisational refactoring and hygiene.
 date: 2023-06-29
 lastmod: 2023-06-29
-weight: 830
+weight: 615
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: weekly
 ItemId: aeNTMpquEZ5
 ItemType: blog
@@ -34,6 +34,7 @@ concepts:
 categories:
   - Leadership
 tags:
+  - Operating Model
   - Social Technologies
   - Agile Transformation
   - Business Agility
@@ -48,7 +49,6 @@ tags:
   - Organisational Physics
   - Beta Codex
   - Agile Philosophy
-  - Agile Strategy
 Watermarks:
   description: 2025-05-07T13:11:07Z
   short_title: 2025-07-07T17:54:14Z

@@ -35,6 +35,7 @@ tags:
   - Definition of Workflow
   - Social Technologies
   - Service Level Expectation
+  - Agile Planning
   - Software Development
   - Flow Efficiency
   - Operational Practices
@@ -46,7 +47,6 @@ tags:
   - Throughput
   - Cycle Time
   - Lean Principles
-  - Scrum Team
 card:
   button:
     content: Learn More

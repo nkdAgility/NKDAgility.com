@@ -1,5 +1,5 @@
 ---
-title: 'Evidence-Based Management: The Key to Agile Success'
+title: "Evidence-Based Management: The Key to Agile Success"
 short_title: Evidence-Based Management for Agile Success
 description: Evidence-based management uses data-driven decisions to help organisations achieve business outcomes, adapt to market changes, and maximise value beyond agile processes.
 tldr: Focusing only on agile frameworks does not guarantee business success; organizations need to use evidence-based management to track real business outcomes and adapt based on data. Successful companies transform their leadership, processes, and decision-making using key metrics like current value, unrealized value, ability to innovate, and time to market. Development managers should prioritize data-driven decisions and organizational adaptability over simply following agile practices.
@@ -62,19 +62,19 @@ duration: 323
 resourceTypes:
   - video
 isShort: false
-
 ---
-In the world of [agile transformation]({{< ref "/tags/agile-transformation" >}}), it’s easy to get caught up in the methods, frameworks, and terminology. But the real question is: Are these changes actually making your organization more successful? That’s where evidence-based management (EBM) comes in. Instead of focusing on delivering agile for the sake of agile, we need to turn our attention to **achieving business success**—with agile as a tool to help us get there.
+
+In the world of [agile transformation]({{< ref "/tags/agile-transformation" >}}), it’s easy to get caught up in the methods, frameworks, and terminology. But the real question is: Are these changes actually making your organization more successful? That’s where evidence-based management (EBM) comes in. Instead of focusing on delivering agile for the sake of agile, we need to turn our attention to **achieving business success**, with agile as a tool to help us get there.
 
 ## **Focusing Beyond Agile Delivery**
 
-One of the core problems that organizations face is a lack of real metrics to monitor progress. Research shows that despite the implementation of popular [agile frameworks]({{< ref "/tags/agile-frameworks" >}})—whether it’s SAFe, LeSS, Nexus, or [Scrum]({{< ref "/categories/scrum" >}})—most organizations aren't seeing the success they hoped for. Why? Because they’re **focusing on delivering agile**, not on what really matters: **business outcomes**.
+One of the core problems that organizations face is a lack of real metrics to monitor progress. Research shows that despite the implementation of popular [agile frameworks]({{< ref "/tags/agile-frameworks" >}}), whether it’s SAFe, LeSS, Nexus, or [Scrum]({{< ref "/categories/scrum" >}}), most organizations aren't seeing the success they hoped for. Why? Because they’re **focusing on delivering agile**, not on what really matters: **business outcomes**.
 
 Instead of asking, “Are we doing agile right?” we should be asking, “Are we making the necessary changes in our organization to succeed in the market?”
 
 ### **Why Agile Frameworks Alone Aren’t Enough**
 
-Agile frameworks provide valuable tools and practices, but they won’t lead to success on their own. Agile isn’t the end goal—it’s a means to an end. The ultimate objective is to:
+Agile frameworks provide valuable tools and practices, but they won’t lead to success on their own. Agile isn’t the end goal, it’s a means to an end. The ultimate objective is to:
 
 - Deliver **real value** to the market
 
@@ -100,7 +100,7 @@ However, none of this will matter if your organization doesn’t **adapt** to th
 
 ### **Example of Successful Agile Implementation**
 
-Take a look at organizations that are thriving in the market using agile. These businesses aren’t just implementing agile practices—they’re **transforming their entire organization** based on the data they collect.
+Take a look at organizations that are thriving in the market using agile. These businesses aren’t just implementing agile practices, they’re **transforming their entire organization** based on the data they collect.
 
 For example:
 
@@ -156,7 +156,7 @@ When you understand these factors, you can make **informed decisions** that will
 
 ## **Adaptability Beyond Agile**
 
-The true power of evidence-based management lies in its ability to help organizations **adapt** to both good and bad surprises in the market. Things change—sometimes unexpectedly—and how quickly your organization can respond to those changes will determine your success.
+The true power of evidence-based management lies in its ability to help organizations **adapt** to both good and bad surprises in the market. Things change, sometimes unexpectedly, and how quickly your organization can respond to those changes will determine your success.
 
 EBM gives you the tools to:
 
@@ -164,7 +164,7 @@ EBM gives you the tools to:
 
 - **Take advantage of opportunities** when good surprises come along 🎉
 
-It’s this **agility**, the ability to adapt quickly and effectively, that businesses are truly striving for—not just the implementation of agile processes.
+It’s this **agility**, the ability to adapt quickly and effectively, that businesses are truly striving for, not just the implementation of agile processes.
 
 ### **Evidence-Based Management as a Success Tool**
 
@@ -178,10 +178,10 @@ EBM provides the **data** and **insights** needed to:
 
 - Make **data-driven decisions** that will enhance business outcomes
 
-Forget about just "doing agile"—focus on **adapting your organization** to be more successful in a changing market.
+Forget about just "doing agile", focus on **adapting your organization** to be more successful in a changing market.
 
 ## **Conclusion: Using EBM to Drive Success**
 
-At the end of the day, evidence-based management isn’t just a tool for tracking progress—it’s a **strategy for success**. By leveraging data, organizations can make smarter decisions, adapt to market changes, and drive real business value.
+At the end of the day, evidence-based management isn’t just a tool for tracking progress, it’s a **strategy for success**. By leveraging data, organizations can make smarter decisions, adapt to market changes, and drive real business value.
 
 If you're ready to start using EBM to transform your organization, don’t hesitate to get in touch. We offer both immersive and traditional public classes, where you can learn more about how to implement these principles effectively. Let’s stop focusing on "delivering agile" and start **delivering success**.

@@ -45,13 +45,13 @@ Watermarks:
   tldr: 2025-08-07T12:34:12Z
 ResourceId: 3YDTlhSlU4A
 ResourceType: signals
-
 ---
+
 Would your CFO sign off on a financial report that was “mostly accurate”? Would your legal team approve a contract that “should be enforceable”? No?
 
 Then why do organisations think it’s acceptable to compromise on software quality?
 
-A strong Definition of Done prevents cutting corners. It ensures every increment meets the same professional standard. Reducing quality to meet deadlines is a financial decision, not a team decision. If leadership wants to change the quality bar, they should sign off on the risks—not sneak it past teams under the banner of “Agile.”
+A strong Definition of Done prevents cutting corners. It ensures every increment meets the same professional standard. Reducing quality to meet deadlines is a financial decision, not a team decision. If leadership wants to change the quality bar, they should sign off on the risks, not sneak it past teams under the banner of “Agile.”
 
 Scrum teams don’t get to lower quality. And if your teams are being asked to, the real conversation should be happening in the boardroom.
 
