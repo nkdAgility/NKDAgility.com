@@ -5,10 +5,10 @@ description: Learn practical steps to help Scrum teams achieve continuous delive
 tldr: In the first 90 days, a Scrum team can move from limited delivery to continuous delivery by focusing on frequent releases, clarifying business value, integrating user feedback, and empowering team members to take ownership. Success depends on organisational support and team readiness. Managers should prioritise building a delivery culture and enabling the team to sustain progress independently.
 date: 2023-06-27T07:00:06Z
 lastmod: 2023-06-27T07:00:06Z
-weight: 300
+weight: 225
 sitemap:
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.6
   changefreq: monthly
 ItemId: 4kqM1U7y1ZM
 ItemType: videos

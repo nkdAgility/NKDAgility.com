@@ -23,9 +23,7 @@ concepts: []
 categories:
   - Product Development
 tags:
-  - Miscellaneous
   - Business Agility
-  - Value Delivery
   - Agile Philosophy
 platform_signals:
   - platform: LinkedIn

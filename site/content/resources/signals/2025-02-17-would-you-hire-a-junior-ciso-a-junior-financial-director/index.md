@@ -25,9 +25,9 @@ categories:
   - Technical Leadership
   - Leadership
 tags:
+  - Scrum Master
   - Competence
   - Software Development
-  - Scrum Master
   - Pragmatic Thinking
   - Agile Leadership
 platform_signals:

@@ -1,14 +1,14 @@
 ---
-title: 'Before You Call Yourself an Agile Coach: The Importance of Real Experience'
+title: "Before You Call Yourself an Agile Coach: The Importance of Real Experience"
 short_title: Real Experience Needed to Be an Agile Coach
 description: Real-world experience with teams is essential for Agile coaches, providing credibility, empathy, and practical insight needed to effectively guide and earn team trust.
 tldr: To be an effective Agile coach, you need real hands-on experience working with teams to build products, not just theoretical knowledge. Practical involvement helps you understand team dynamics, earn credibility, and offer advice that resonates with teams. If you aspire to coach, seek opportunities to join or volunteer with Agile teams so you can build the trust and insight needed to guide others successfully.
 date: 2023-11-13T11:00:29Z
 lastmod: 2023-11-13T11:00:29Z
-weight: 790
+weight: 565
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: Po58JnxjX7M
 ItemType: videos
@@ -52,9 +52,9 @@ duration: 62
 resourceTypes:
   - video
 isShort: false
-
 ---
-Being an Agile coach isn’t just about mastering theories and methodologies. To truly earn the title, you must **have real, hands-on experience working with teams**. This isn’t negotiable—it's an essential part of developing the credibility and knowledge needed to effectively guide teams in Agile practices.
+
+Being an Agile coach isn’t just about mastering theories and methodologies. To truly earn the title, you must **have real, hands-on experience working with teams**. This isn’t negotiable, it's an essential part of developing the credibility and knowledge needed to effectively guide teams in Agile practices.
 
 ## **Why Practical Experience Matters in Agile [Coaching]({{< ref "/tags/coaching" >}})**
 
@@ -110,7 +110,7 @@ If I had to offer advice to anyone looking to become a successful Agile coach, I
 
 - **Observe and absorb**: Working with teams allows you to observe their struggles and successes, which will inform your coaching.
 
-- **Be patient and open to learning**: As with any new role, coaching requires [continuous learning]({{< ref "/tags/continuous-learning" >}}). Don’t assume that your book knowledge is enough—teams will test your understanding, and you’ll grow with every experience.
+- **Be patient and open to learning**: As with any new role, coaching requires [continuous learning]({{< ref "/tags/continuous-learning" >}}). Don’t assume that your book knowledge is enough, teams will test your understanding, and you’ll grow with every experience.
 
 ## **Why Experience Is Essential for Credibility**
 
@@ -118,7 +118,7 @@ When teams trust you, they’re more likely to take your guidance seriously. You
 
 ### **How Teams Respond to Experienced Coaches**
 
-I’ve worked with teams where the initial response to my presence was one of skepticism. "Another coach who hasn’t been in the trenches," they’d think. But once they saw that I could speak to their specific challenges—because I’d been there—they began to trust my input. And that’s when real change happens.
+I’ve worked with teams where the initial response to my presence was one of skepticism. "Another coach who hasn’t been in the trenches," they’d think. But once they saw that I could speak to their specific challenges, because I’d been there, they began to trust my input. And that’s when real change happens.
 
 Here’s what teams appreciate:
 

@@ -5,7 +5,7 @@ description: Learn how involving, empowering, and communicating with your team d
 tldr: Successful organisational change depends on actively engaging your team by aligning their goals with the change, involving them in the process, and maintaining open communication. Empowering team members through participation and celebrating progress builds trust and motivation. To drive effective transformation, focus on shared purpose, regular updates, and continuous feedback so your team feels invested and valued.
 date: 2023-12-04T11:00:23Z
 lastmod: 2023-12-04T11:00:23Z
-weight: 905
+weight: 675
 sitemap:
   filename: sitemap.xml
   priority: 0.1

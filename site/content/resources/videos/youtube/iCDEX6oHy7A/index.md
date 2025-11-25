@@ -32,6 +32,7 @@ categories:
   - Product Development
 tags:
   - Software Development
+  - Continuous Learning
   - Agile Transformation
   - Organisational Change
   - Competence

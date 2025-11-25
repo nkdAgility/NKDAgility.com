@@ -37,9 +37,9 @@ tags:
   - Agile Frameworks
   - Professional Scrum
   - Software Development
+  - Agile Planning
   - Agile Product Management
   - Daily Scrum
-  - Agile Planning
   - Agile Transformation
   - Pragmatic Thinking
 platform_signals:

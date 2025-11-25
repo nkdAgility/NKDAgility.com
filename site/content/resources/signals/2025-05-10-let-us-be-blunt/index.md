@@ -28,7 +28,6 @@ categories:
 tags:
   - Agentic Agility
   - Professional Scrum
-  - Self Organisation
   - Team Motivation
   - Agile Product Management
   - Organisational Agility
@@ -40,7 +39,8 @@ tags:
   - Scrum Master
   - Value Delivery
   - Social Technologies
-  - Agile Strategy
+  - Self Organisation
+  - Product Owner
 platform_signals:
   - platform: LinkedIn
     post_url: https://www.linkedin.com/feed/update/urn:li:share:7326992004440072194
@@ -58,21 +58,21 @@ Watermarks:
   tldr: 2025-08-07T12:32:36Z
 ResourceId: 0A8ONYVbWlL
 ResourceType: signals
-
 ---
+
 Let’s be blunt:
 
 Those expected to deliver results must have control over what influences their delivery.
 
-In Scrum, the Product Owner is accountable for maximising value — but if they can’t reprioritise the backlog, they’re a backlog secretary.  
-The Scrum Master is accountable for team effectiveness — but if they can’t challenge organisational dysfunction, they’re a meeting host.  
-Developers are accountable for the Increment — but if they can’t decide how to build it, they’re just order-takers.
+In Scrum, the Product Owner is accountable for maximising value , but if they can’t reprioritise the backlog, they’re a backlog secretary.  
+The Scrum Master is accountable for team effectiveness , but if they can’t challenge organisational dysfunction, they’re a meeting host.  
+Developers are accountable for the Increment , but if they can’t decide how to build it, they’re just order-takers.
 
 This is why agency matters.  
 Without it, accountability is performative.  
 You are setting people up to fail.
 
-If you want real Scrum — not Scrum theatre — you must pair accountability with the agency to remove impediments, challenge dysfunction, and enforce realignment where necessary.
+If you want real Scrum , not Scrum theatre , you must pair accountability with the agency to remove impediments, challenge dysfunction, and enforce realignment where necessary.
 
 Stop pretending people are accountable when you’ve stripped away their ability to act.
 

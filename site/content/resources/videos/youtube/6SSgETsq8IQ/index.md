@@ -33,6 +33,7 @@ categories:
   - Product Development
   - Scrum
 tags:
+  - Personal
   - Agile Product Management
   - Product Owner
   - Professional Scrum

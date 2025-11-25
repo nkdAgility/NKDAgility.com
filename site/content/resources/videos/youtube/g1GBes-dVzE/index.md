@@ -46,8 +46,8 @@ duration: 53
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 ## Why a Deep Understanding is Non-Negotiable
 
 When I talk about the one thing that an Agile Coach must possess to truly excel, I always come back to one point: you must have a deep understanding of the processes, practices, and tools of the teams you work with.  🛠
@@ -66,7 +66,7 @@ Do you have to be an expert in them all? No. But you do need to have a bird's ey
 
 You must ask questions like, What tools and technologies are they using, and how are they using it? Are they using it well, or do they need help using it? Or do they need to be moved in a different direction?
 
-## Agile [Coaching]({{< ref "/tags/coaching" >}}) is Not Babysitting — It's Elevating Teams
+## Agile [Coaching]({{< ref "/tags/coaching" >}}) is Not Babysitting , It's Elevating Teams
 
 Let's set the record straight - Agile Coaching is not, and should never be considered, mere babysitting of the team.  🌟
 

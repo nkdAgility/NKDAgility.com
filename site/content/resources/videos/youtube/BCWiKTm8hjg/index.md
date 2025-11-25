@@ -1,7 +1,7 @@
 ---
-title: 'The Power of Charity in Agile: How Helping Others Elevates Teams and Organizations'
-short_title: 'Charity in Agile: Elevating Teams and Organizations'
-description: Explores how practising charity—helping others without expecting rewards—strengthens Agile teams, boosts collaboration, and drives organisational success and motivation.
+title: "The Power of Charity in Agile: How Helping Others Elevates Teams and Organizations"
+short_title: "Charity in Agile: Elevating Teams and Organizations"
+description: Explores how practising charity, helping others without expecting rewards, strengthens Agile teams, boosts collaboration, and drives organisational success and motivation.
 tldr: Charity, or helping others without expecting anything in return, is a key driver of Agile team and organizational success because it builds trust, collaboration, and a shared sense of purpose. Encouraging this behavior leads to higher motivation, better product quality, and long-term growth. Development managers should actively foster a culture of giving and collective achievement to unlock these benefits.
 date: 2023-12-06T07:00:08Z
 lastmod: 2023-12-06T07:00:08Z
@@ -50,11 +50,11 @@ duration: 162
 resourceTypes:
   - video
 isShort: false
+---
+
+One of the key virtues in Agile is **charity**, the act of helping others without expecting anything in return. This often goes unnoticed, yet it plays a crucial role in the success of teams, products, and organizations. As someone who has witnessed the transformative power of this virtue firsthand, I believe it’s time we shine a spotlight on how charity manifests in Agile environments and why it’s essential to embrace it fully.
 
 ---
-One of the key virtues in Agile is **charity**—the act of helping others without expecting anything in return. This often goes unnoticed, yet it plays a crucial role in the success of teams, products, and organizations. As someone who has witnessed the transformative power of this virtue firsthand, I believe it’s time we shine a spotlight on how charity manifests in Agile environments and why it’s essential to embrace it fully.
-
-* * *
 
 ## **What is Charity in Agile?**
 
@@ -68,7 +68,7 @@ Charity, in the Agile context, is more than just lending a hand. It’s about:
 
 Unlike traditional work environments where bonuses and rewards drive behavior, Agile encourages us to help each other because we’re part of something bigger. When you focus on the collective success rather than individual gain, the results are far more impactful. Charity becomes the glue that binds teams together, making them stronger and more resilient.
 
-* * *
+---
 
 ## **Dan Pink’s Autonomy, Mastery, and Purpose**
 
@@ -80,19 +80,19 @@ One of the most powerful frameworks in the Agile world is Dan Pink’s concept o
 
 - **Purpose**: The understanding that your work matters, and it contributes to something meaningful.
 
-Charity ties directly into this framework. When we help our teammates or the wider organization without expecting a direct reward, we are fulfilling a **purpose**—knowing that our efforts contribute to a larger success story. This sense of purpose is what drives true motivation and engagement within Agile teams.
+Charity ties directly into this framework. When we help our teammates or the wider organization without expecting a direct reward, we are fulfilling a **purpose**, knowing that our efforts contribute to a larger success story. This sense of purpose is what drives true motivation and engagement within Agile teams.
 
-* * *
+---
 
 ## **Personal Example: My Journey as a Microsoft MVP**
 
 Let me share a personal story. As a Microsoft MVP, I spend time helping the community, offering guidance and advice without receiving any direct compensation. My MVP status isn’t something I earn through paid work; it’s a recognition of my **charitable contributions** to the community. I extend the same ethos to my work in Agile.
 
-Whether it’s in the technical space or the Agile sphere, I offer my time and expertise to help others succeed. For example, I offer free consultations where we can have a coffee, chat about the challenges you’re facing in your organization, and if I can help solve your problem in half an hour—great! You leave with something actionable to try, and I’ve had the satisfaction of making a difference.
+Whether it’s in the technical space or the Agile sphere, I offer my time and expertise to help others succeed. For example, I offer free consultations where we can have a coffee, chat about the challenges you’re facing in your organization, and if I can help solve your problem in half an hour, great! You leave with something actionable to try, and I’ve had the satisfaction of making a difference.
 
-I don’t offer these conversations for financial gain. I do it because I enjoy seeing others succeed. When an organization becomes more successful in its Agile journey, it’s a win for everyone—not just the individuals but the entire company and ecosystem.
+I don’t offer these conversations for financial gain. I do it because I enjoy seeing others succeed. When an organization becomes more successful in its Agile journey, it’s a win for everyone, not just the individuals but the entire company and ecosystem.
 
-* * *
+---
 
 ## **Charity Helps Everyone, Not Just the Team**
 
@@ -104,7 +104,7 @@ When we talk about charity in Agile, it extends beyond just helping a teammate w
 
 - **It supports long-term success**: By helping your company succeed, you’re ensuring the long-term sustainability of your role and your organization. It’s not just about today’s project or release but building a foundation for future growth.
 
-* * *
+---
 
 ## **How to Cultivate Charity in Your Agile Teams**
 
@@ -134,13 +134,13 @@ Fostering a sense of charity within your Agile team requires intentional effort.
 
 - Hold informal “help sessions” where people can bring their problems to the group and work on solutions together.
 
-* * *
+---
 
 ## **Seeking Help? Don’t Wait!**
 
 If you’re struggling to tap into the full potential of the **Seven Virtues of Agility**, including charity, don’t wait to get support. My team at Naked Agility can help you uncover these virtues and apply them in your organization. Alternatively, seek out a **consultant**, **coach**, or **trainer** who can guide you through this journey. The sooner you do, the sooner your organization will begin to thrive.
 
-* * *
+---
 
 ## **Final Thoughts: Charity is Key to Agile Success**
 
@@ -152,12 +152,12 @@ To summarize:
 
 - Fostering a culture of charity enhances trust, collaboration, and product quality.
 
-- Seek help if you're struggling to apply these principles—don’t wait until it’s too late.
+- Seek help if you're struggling to apply these principles, don’t wait until it’s too late.
 
-By embracing charity, we create a healthier, more collaborative, and successful Agile environment where everyone thrives. So, whether you're a team member, a leader, or a coach, look for ways to help others, not because you have to, but because it makes your Agile team—and your organization—a better place to work.
+By embracing charity, we create a healthier, more collaborative, and successful Agile environment where everyone thrives. So, whether you're a team member, a leader, or a coach, look for ways to help others, not because you have to, but because it makes your Agile team, and your organization, a better place to work.
 
-💡 Remember, you don’t just need agility—you need **Naked Agility**!
+💡 Remember, you don’t just need agility, you need **Naked Agility**!
 
-* * *
+---
 
 **Ready to Elevate Your Agile Team?** Reach out today and let’s chat about how we can take your Agile journey to the next level. ☕ Let's have coffee and solve your challenges together.

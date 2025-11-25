@@ -51,9 +51,9 @@ duration: 203
 resourceTypes:
   - video
 isShort: false
-
 ---
-As a [product owner]({{< ref "/tags/product-owner" >}}), I often reflect on what failure truly looks like in our role. It’s a topic that resonates deeply with me, and I believe it’s essential for anyone in this position to understand the signs of a failing product owner. 
+
+As a [product owner]({{< ref "/tags/product-owner" >}}), I often reflect on what failure truly looks like in our role. It’s a topic that resonates deeply with me, and I believe it’s essential for anyone in this position to understand the signs of a failing product owner.
 
 ### Recognising the Signs of Failure
 
@@ -75,14 +75,14 @@ One of the most critical aspects of being a successful product owner is taking o
 
 - **Making Decisions**: We need to be the ones making decisions about the product, taking calculated risks, and managing the budget. It’s our responsibility to ensure that the product aligns with both user needs and business goals.
 
-- **Focusing on Reality Over Perception**: It’s easy to get caught up in vanity metrics—those numbers that look good on paper but don’t reflect the true state of the product. For instance, a burn down chart might show progress, but if the product is still lacking in quality, what does that really tell us? 
+- **Focusing on Reality Over Perception**: It’s easy to get caught up in vanity metrics, those numbers that look good on paper but don’t reflect the true state of the product. For instance, a burn down chart might show progress, but if the product is still lacking in quality, what does that really tell us?
 
 - **Understanding the Bigger Picture**: I often think of Satya Nadella’s decision to write down eight billion dollars for Nokia. That was a moment of clarity, recognising the reality of the situation rather than clinging to the hope of success. As product owners, we must be willing to make tough decisions when necessary.
 
 ### Conclusion
 
-In summary, a failing product owner can be identified by poor product quality, inconsistent delivery, a lack of vision, and an inability to take ownership. It’s vital that we focus on delivering real value rather than getting lost in metrics that merely serve to make us look good. 
+In summary, a failing product owner can be identified by poor product quality, inconsistent delivery, a lack of vision, and an inability to take ownership. It’s vital that we focus on delivering real value rather than getting lost in metrics that merely serve to make us look good.
 
-If you’re in a product owner role, I encourage you to reflect on these points. Are you truly owning your product? Are you delivering value? If you’d like to discuss this further or share your experiences, I’d love to chat. Feel free to book a coffee with me through Naked Agility. 
+If you’re in a product owner role, I encourage you to reflect on these points. Are you truly owning your product? Are you delivering value? If you’d like to discuss this further or share your experiences, I’d love to chat. Feel free to book a coffee with me through Naked Agility.
 
 Thank you for reading, and I look forward to your thoughts!

@@ -54,11 +54,11 @@ duration: 422
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 # Navigating the Plague of Incompetence in Agile [Coaching]({{< ref "/tags/coaching" >}}) 🚧
 
-Hey Agile warriors! Today, I’m diving into a topic that stirs up quite the storm in the Agile realm—the plague of incompetence among Agile coaches and [Scrum]({{< ref "/categories/scrum" >}}) Masters. Yes, you heard that right! It's a touchy subject, but someone's got to address the elephant in the room. 🐘
+Hey Agile warriors! Today, I’m diving into a topic that stirs up quite the storm in the Agile realm, the plague of incompetence among Agile coaches and [Scrum]({{< ref "/categories/scrum" >}}) Masters. Yes, you heard that right! It's a touchy subject, but someone's got to address the elephant in the room. 🐘
 
 ## The Incompetence Epidemic 🦠
 
@@ -66,7 +66,7 @@ In the vast landscape of [Agile transformation]({{< ref "/tags/agile-transformat
 
 ### A Real-World Horror Story 📍
 
-Let me share a tale from either Seattle or Portland (the specifics blur, but the lesson is crystal clear). A [Scrum Master]({{< ref "/tags/scrum-master" >}}) was axed for insisting that "if you're not standing up, you're not doing Scrum." This, despite a team member’s disability that made standing meetings not just impractical but insensitive. The team’s decision to sit, in respect for their colleague, showcased the true essence of [Scrum values]({{< ref "/tags/scrum-values" >}})—collaboration, respect, and adaptability. Yet, they were penalized for it by someone who clearly missed the point of Agile entirely.
+Let me share a tale from either Seattle or Portland (the specifics blur, but the lesson is crystal clear). A [Scrum Master]({{< ref "/tags/scrum-master" >}}) was axed for insisting that "if you're not standing up, you're not doing Scrum." This, despite a team member’s disability that made standing meetings not just impractical but insensitive. The team’s decision to sit, in respect for their colleague, showcased the true essence of [Scrum values]({{< ref "/tags/scrum-values" >}}), collaboration, respect, and adaptability. Yet, they were penalized for it by someone who clearly missed the point of Agile entirely.
 
 ## Unpacking the Damage 💥
 
@@ -84,7 +84,7 @@ These misguided practices are far from the agility and flexibility that Scrum an
 
 ## The Root of the Problem 🌱
 
-The core issue at hand is a fundamental misunderstanding—or, in some cases, a willful ignorance—of Agile principles and values. We're talking about individuals who've never cracked open the Scrum Guide, let alone kept abreast of evolving Agile methodologies. They operate on outdated or misconceived notions, often prioritizing form over function, to the detriment of the teams they're supposed to support. 📚
+The core issue at hand is a fundamental misunderstanding, or, in some cases, a willful ignorance, of Agile principles and values. We're talking about individuals who've never cracked open the Scrum Guide, let alone kept abreast of evolving Agile methodologies. They operate on outdated or misconceived notions, often prioritizing form over function, to the detriment of the teams they're supposed to support. 📚
 
 ### The Impact? Catastrophic 📉
 

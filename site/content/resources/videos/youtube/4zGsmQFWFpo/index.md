@@ -54,8 +54,8 @@ resourceTypes:
 isShort: false
 ResourceId: 4zGsmQFWFpo
 ResourceType: videos
-
 ---
+
 In today’s rapidly evolving landscape, focusing solely on _Agile_ as a label can be limiting. Instead, the goal should be to increase our organization’s **capability**, **maximize value**, and **enhance effectiveness**. It's not about the moniker; it’s about achieving outcomes that matter. 🏆
 
 ## **Why Agile Isn't the Focus**
@@ -68,7 +68,7 @@ In many organizations, the term _Agile_ has become synonymous with processes and
 
 This problem stems from a **misalignment** between the skills needed and the people hired for these roles. We need to shift our focus from simply filling positions to **building capabilities**.
 
-* * *
+---
 
 ## **The Problem with Incompetent Scrum Masters and Product Owners**
 
@@ -84,9 +84,9 @@ The demand for Scrum Masters and Product Owners has grown exponentially, but the
 
 ### **Where We Are Now**
 
-Right now, many organizations are struggling with teams led by people who are not equipped to fulfill their roles effectively. This is not necessarily the fault of the individuals—it’s a systemic issue that needs addressing at the **organizational level**.
+Right now, many organizations are struggling with teams led by people who are not equipped to fulfill their roles effectively. This is not necessarily the fault of the individuals, it’s a systemic issue that needs addressing at the **organizational level**.
 
-* * *
+---
 
 ## **Fixing Hiring Practices to Build [Competence]({{< ref "/tags/competence" >}})**
 
@@ -110,19 +110,19 @@ Think of leadership as two distinct roles:
 
 1. **Leading the Product**: This is about guiding [product development]({{< ref "/categories/product-development" >}}) to deliver maximum value.
 
-3. **Leading the People**: This involves [coaching]({{< ref "/tags/coaching" >}}) and [mentoring]({{< ref "/tags/mentoring" >}}) teams to be more effective.
+2. **Leading the People**: This involves [coaching]({{< ref "/tags/coaching" >}}) and [mentoring]({{< ref "/tags/mentoring" >}}) teams to be more effective.
 
 **Personal Insight: Why Context Matters in Leadership**
 
-I’ve had the pleasure of working with some great Scrum Masters—individuals who may not have come from a software engineering background but excel in **enabling their teams to succeed**. For example, I’ve seen former **business analysts** or **testers** rise to the role of [Scrum Master]({{< ref "/tags/scrum-master" >}}) because they understand the team’s challenges and can offer actionable solutions.
+I’ve had the pleasure of working with some great Scrum Masters, individuals who may not have come from a software engineering background but excel in **enabling their teams to succeed**. For example, I’ve seen former **business analysts** or **testers** rise to the role of [Scrum Master]({{< ref "/tags/scrum-master" >}}) because they understand the team’s challenges and can offer actionable solutions.
 
-* * *
+---
 
 ## **How Scrum Masters Should Emerge from Within the Team**
 
 ### **The Organic Path to Becoming a Scrum Master**
 
-A Scrum Master shouldn't just be hired into the role—they should _emerge_ from the team. Here’s why:
+A Scrum Master shouldn't just be hired into the role, they should _emerge_ from the team. Here’s why:
 
 - They already have **team respect** through their contributions.
 
@@ -132,7 +132,7 @@ A Scrum Master shouldn't just be hired into the role—they should _emerge_ from
 
 Imagine this scenario: a team member named Bob has consistently made suggestions that improve the team’s workflow. Over time, the team starts looking to Bob for guidance, eventually encouraging him to take on the Scrum Master role. This kind of organic transition leads to **greater respect** and **better results**.
 
-* * *
+---
 
 ## **Should Scrum Masters Know How to Code?**
 
@@ -150,13 +150,13 @@ This is a question I get often, and my answer is nuanced:
 
 This understanding helps Scrum Masters **participate in conversations** and contribute meaningfully to the team’s progress.
 
-* * *
+---
 
 ## **Moving Forward: Hiring Competent People & Promoting from Within**
 
 ### **1\. The Path to Competence**
 
-The journey from where we are—filled with roles occupied by those who aren’t fully equipped—to where we want to be is clear:
+The journey from where we are, filled with roles occupied by those who aren’t fully equipped, to where we want to be is clear:
 
 - **Stop hiring people** who lack the necessary skills.
 
@@ -176,7 +176,7 @@ Scrum Masters should not only facilitate team activities but also embody a **com
 
 When an organization promotes a capable person, it sends a **positive message** to others. Conversely, promoting someone who lacks competence can discourage those who are truly capable from stepping up. 📉
 
-* * *
+---
 
 ## **The Impact of Promoting Incompetence: Why It Hurts Organizations**
 
@@ -188,7 +188,7 @@ One of my favorite books, _The Ideal Team Player_, delves into the **qualities a
 
 - **Missing out on innovation** that comes from hiring and promoting the right people.
 
-* * *
+---
 
 ## **Building a Culture of Capability and [Value Delivery]({{< ref "/tags/value-delivery" >}})**
 
@@ -210,6 +210,6 @@ By shifting the focus beyond just "Agile" and prioritizing **capability, learnin
 
 Ready to build a team that thrives? Start with **competence**, **context**, and a **commitment to continuous improvement**. 🚀
 
-* * *
+---
 
-By focusing on the _how_ rather than just the _what_, we can create an environment where **Scrum Masters lead with insight**, **teams collaborate effectively**, and **businesses deliver true value**. That’s what agility is really about—being ready for anything, with the right people at the helm. 🌟
+By focusing on the _how_ rather than just the _what_, we can create an environment where **Scrum Masters lead with insight**, **teams collaborate effectively**, and **businesses deliver true value**. That’s what agility is really about, being ready for anything, with the right people at the helm. 🌟

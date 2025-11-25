@@ -5,7 +5,7 @@ description: Validating product value requires releasing features to real users 
 tldr: To deliver real value and reduce risk, teams must release features to production quickly so real users can provide feedback, since assumptions and testing environments cannot replace actual usage. Key measures like customer satisfaction, product usage, and employee satisfaction help validate value, and releasing early also offers financial benefits through capital expenditure write-downs. Prioritize getting small increments into production to maximize learning, value, and organizational savings.
 date: 2020-12-28
 lastmod: 2020-12-28
-weight: 440
+weight: 445
 sitemap:
   filename: sitemap.xml
   priority: 0.5

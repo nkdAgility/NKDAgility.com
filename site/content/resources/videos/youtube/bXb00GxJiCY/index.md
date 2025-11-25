@@ -5,10 +5,10 @@ description: Explores how immersive learning in Scrum training reduces cognitive
 tldr: Immersive learning in Scrum training uses shorter, interactive sessions that reduce fatigue and boost engagement, leading to better retention and collaboration compared to traditional long-format training. Key benefits include lower cognitive load, higher energy, and more meaningful participation. Development managers should break up training into focused, hands-on segments to improve learning outcomes and team performance.
 date: 2024-02-02T07:00:16Z
 lastmod: 2024-02-02T07:00:16Z
-weight: 1000
+weight: 495
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: bXb00GxJiCY
 ItemType: videos

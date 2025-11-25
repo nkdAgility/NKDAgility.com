@@ -41,13 +41,13 @@ Watermarks:
   tldr: 2025-08-07T12:29:34Z
 ResourceId: ZSKQQVwpp3M
 ResourceType: signals
-
 ---
+
 AI won’t replace humans. It will replace the work that should never have needed a human.
 
 Copy-pasting data between systems. Processing approval flows. Writing the same report for the fifth time. That’s not where human intelligence belongs.
 
-The companies that thrive will be the ones that let AI take the mechanical and elevate people to do the work only people can do—creative, strategic, empathetic, human work.
+The companies that thrive will be the ones that let AI take the mechanical and elevate people to do the work only people can do, creative, strategic, empathetic, human work.
 
 If your organisation is panicking about AI taking jobs, maybe the real issue is that it built its success on dehumanising work.
 

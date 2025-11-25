@@ -49,9 +49,9 @@ tags:
   - Product Delivery
   - Value Stream Management
   - Project Management
-  - Cycle Time
   - Lean Thinking
   - Continuous Improvement
+  - Market Adaptability
 platform_signals:
   - platform: Scrumorg
     post_url: https://www.scrum.org/resources/blog/why-measuring-individual-cycle-time-killing-your-flow-and-what-do-instead
@@ -70,13 +70,13 @@ creator: Martin Hinshelwood
 resourceTypes: blog
 ResourceId: KHEPBWiFDKJ
 ResourceType: blog
-
 ---
-Looking at [cycle time]({{< ref "/tags/cycle-time" >}}) for an individual is a fundamental misunderstanding of how flow works in a system—unless the individual is the system. And here is why!
+
+Looking at [cycle time]({{< ref "/tags/cycle-time" >}}) for an individual is a fundamental misunderstanding of how flow works in a system, unless the individual is the system. And here is why!
 
 ## Process Cycle Efficiency (PCE) Drives Flow, Not Individual Productivity
 
-[Kanban]({{< ref "/categories/kanban" >}}) isn’t about individual productivity; it’s about optimising the flow of work through a system. When you measure an individual’s cycle time, you ignore the real bottlenecks—queues, dependencies, and wait times that slow everything down. A person might complete tasks quickly, but if those tasks get stuck waiting for reviews, approvals, or other handoffs, the overall system remains inefficient. If you want faster delivery, fix the system, not the people.
+[Kanban]({{< ref "/categories/kanban" >}}) isn’t about individual productivity; it’s about optimising the flow of work through a system. When you measure an individual’s cycle time, you ignore the real bottlenecks, queues, dependencies, and wait times that slow everything down. A person might complete tasks quickly, but if those tasks get stuck waiting for reviews, approvals, or other handoffs, the overall system remains inefficient. If you want faster delivery, fix the system, not the people.
 
 As Nigel Thurlow puts it: _"You never measure a person, ever. You only ever measure a process. You improve the system, never the people within it. If you're measuring an individual person to try and blame them, then you're ignoring what's wrong with the process that's causing it."_
 
@@ -88,7 +88,7 @@ Measuring individual cycle time leads to bad incentives. If someone is judged on
 - Taking on work too early, creating unnecessary work in progress (WIP).
 - Cherry-picking simple tasks to appear fast rather than tackling what actually moves the system forward.
 
-Kanban is about improving the whole workflow. Look at Process Cycle Efficiency (PCE) and [Throughput]({{< ref "/tags/throughput" >}}) together—one improves the other.
+Kanban is about improving the whole workflow. Look at Process Cycle Efficiency (PCE) and [Throughput]({{< ref "/tags/throughput" >}}) together, one improves the other.
 
 ## Ignores Work in Progress (WIP) and Blockers
 
@@ -96,13 +96,13 @@ A fast-moving individual doesn’t mean fast-moving work. If the system is overl
 
 Instead, track:
 
-- **Total WIP**—to ensure the system isn’t overloaded.
-- **Time in queue vs. time in progress**—to identify bottlenecks.
-- **Blocked work items**—to find systemic delays.
+- **Total WIP**, to ensure the system isn’t overloaded.
+- **Time in queue vs. time in progress**, to identify bottlenecks.
+- **Blocked work items**, to find systemic delays.
 
 ## Misrepresents Collaboration and Dependencies
 
-Knowledge work isn’t assembly-line work. It requires handoffs, reviews, and collaboration. Measuring an individual’s cycle time isolates their part of the work but ignores the time it spends waiting on others. Worse, it discourages teamwork—if people are penalised for long cycle times, they’ll avoid collaborating because it slows them down.
+Knowledge work isn’t assembly-line work. It requires handoffs, reviews, and collaboration. Measuring an individual’s cycle time isolates their part of the work but ignores the time it spends waiting on others. Worse, it discourages teamwork, if people are penalised for long cycle times, they’ll avoid collaborating because it slows them down.
 
 Optimise for flow across the system, not just individual speed.
 

@@ -28,8 +28,8 @@ categories:
 tags:
   - Scrum Master
   - Organisational Agility
-  - Competence
   - Pragmatic Thinking
+  - Competence
   - Product Delivery
   - Professional Scrum
   - Software Development
@@ -51,9 +51,9 @@ Watermarks:
   tldr: 2025-08-07T12:39:27Z
 ResourceId: CHfV0DI2Plv
 ResourceType: signals
-
 ---
-Hiring a Scrum Master is hard. Not because the role is rare—there are plenty of CVs with “Scrum Master” slapped on them—but because too many organisations still don’t know what they actually need.
+
+Hiring a Scrum Master is hard. Not because the role is rare, there are plenty of CVs with “Scrum Master” slapped on them, but because too many organisations still don’t know what they actually need.
 
 A Scrum Master isn’t a project manager with a fancy title. They’re accountable for the effectiveness of the Scrum Team, which means they need a deep understanding of Scrum as a social technology and how it enables adaptive solutions.
 

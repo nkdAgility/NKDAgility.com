@@ -1,14 +1,14 @@
 ---
-title: 'The Power of Kindness in Agile: A Core Virtue for Success'
+title: "The Power of Kindness in Agile: A Core Virtue for Success"
 short_title: Kindness and Empathy in Agile Success
 description: Explores how kindness, empathy, and compassion in Agile foster trust, improve team collaboration, and enhance customer focus for long-term organisational success.
 tldr: Kindness is a strategic advantage in Agile, driving both customer loyalty and effective team collaboration by building trust through empathy and compassion. Focusing on employee well-being and understanding customer needs leads to better products and stronger relationships. Development managers should model kindness in daily interactions to foster a culture where teams and customers feel valued, directly impacting long-term success.
 date: 2023-12-11T07:00:01Z
 lastmod: 2023-12-11T07:00:01Z
-weight: 815
+weight: 470
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: 4nhKXAgutZw
 ItemType: videos
@@ -50,9 +50,9 @@ duration: 252
 resourceTypes:
   - video
 isShort: false
-
 ---
-When we talk about **kindness** in Agile, we're referring to something deeper than just being nice. Kindness can take many forms—**compassion, benevolence, empathy**—and it can be directed toward different parts of our organization. It’s about how we treat our customers, our teams, and even ourselves in the way we work. Agile isn't just about delivering software; it's about creating environments where people can thrive, feel valued, and succeed together.
+
+When we talk about **kindness** in Agile, we're referring to something deeper than just being nice. Kindness can take many forms, **compassion, benevolence, empathy**, and it can be directed toward different parts of our organization. It’s about how we treat our customers, our teams, and even ourselves in the way we work. Agile isn't just about delivering software; it's about creating environments where people can thrive, feel valued, and succeed together.
 
 In this post, we’ll explore kindness as one of the **Seven Virtues of Agility** and why it's essential for both **customer focus** and **[team collaboration]({{< ref "/tags/team-collaboration" >}})**.
 
@@ -62,7 +62,7 @@ In Agile, one of our primary goals is maintaining a **relentless customer focus*
 
 ### **Show Compassion for Your Customers**
 
-When interacting with customers—whether handling **bug reports** or discussing their needs—it’s important to approach them with **compassion**. Ask yourself:
+When interacting with customers, whether handling **bug reports** or discussing their needs, it’s important to approach them with **compassion**. Ask yourself:
 
 - What challenges are they facing?
 
@@ -74,7 +74,7 @@ By understanding and empathizing with their struggles, we become partners in the
 
 If your customers start viewing your product as a **burden** or a **cost center**, you’ve lost that empathy. They won’t think of your product with kindness, and likely, you’re not thinking of them with kindness either.
 
-A product that feels like a burden isn’t just a technical failure—it’s a failure of compassion. You’ve lost the connection between the **value** you bring and the **problems** they’re trying to solve. This is why empathy isn’t just a nice-to-have; it’s essential for creating products that customers love and depend on.
+A product that feels like a burden isn’t just a technical failure, it’s a failure of compassion. You’ve lost the connection between the **value** you bring and the **problems** they’re trying to solve. This is why empathy isn’t just a nice-to-have; it’s essential for creating products that customers love and depend on.
 
 ### **Empathy in Action: Learn from Apple**
 
@@ -88,7 +88,7 @@ But kindness doesn’t stop at customer interactions. It’s equally important w
 
 I recently listened to **Richard Branson** talk about how **employee happiness** is a **leading indicator** of customer happiness. If your employees are unhappy but your customers are happy, it won’t be long until your customers start feeling the effects of that dissatisfaction. On the flip side, if your employees are happy, they will find ways to improve customer experiences, even if those customers are initially unhappy.
 
-Kindness within your organization—towards your employees—will translate into **kindness towards your customers**.
+Kindness within your organization, towards your employees, will translate into **kindness towards your customers**.
 
 ### **Benevolence and Empathy for Your Team**
 
@@ -108,17 +108,17 @@ By demonstrating kindness internally, you create a culture where people are not 
 
 1. **Listen actively**: Truly listen to your customers' pain points.
 
-3. **Empathize deeply**: Put yourself in their shoes—how would you feel in their situation?
+2. **Empathize deeply**: Put yourself in their shoes, how would you feel in their situation?
 
-5. **Deliver value**: Ensure your product isn’t seen as a burden but as an enabler of their success.
+3. **Deliver value**: Ensure your product isn’t seen as a burden but as an enabler of their success.
 
 ### **For Teams**
 
 1. **Foster open communication**: Allow your team to voice concerns without fear of retribution.
 
-3. **Promote well-being**: Take steps to ensure that your team’s workload is manageable and that they have the support they need.
+2. **Promote well-being**: Take steps to ensure that your team’s workload is manageable and that they have the support they need.
 
-5. **Encourage kindness**: Lead by example. Demonstrate empathy and understanding in every interaction.
+3. **Encourage kindness**: Lead by example. Demonstrate empathy and understanding in every interaction.
 
 ## **Why Kindness Leads to Long-Term Success**
 
@@ -128,7 +128,7 @@ When we treat our customers and teams with kindness, they trust us to make the r
 
 ### **Advice for Leaders: Build a Culture of Kindness**
 
-As a leader, your role is to **model kindness**. Show your team what it looks like to treat both customers and colleagues with respect, compassion, and empathy. This doesn’t just make for a nicer workplace—it directly impacts the quality of your product and your company’s success.
+As a leader, your role is to **model kindness**. Show your team what it looks like to treat both customers and colleagues with respect, compassion, and empathy. This doesn’t just make for a nicer workplace, it directly impacts the quality of your product and your company’s success.
 
 If you’re struggling to integrate the **Seven Virtues of Agility** into your workflow, don’t hesitate to ask for help. Whether it's **[coaching]({{< ref "/tags/coaching" >}}), training, or consulting**, my team at **Naked Agility** can guide you in embedding kindness and other virtues into the DNA of your organization.
 
@@ -136,7 +136,7 @@ If you’re struggling to integrate the **Seven Virtues of Agility** into your w
 
 Kindness isn’t a soft skill; it’s a **strategic advantage**. When we build empathy and trust, both internally and externally, we lay the foundation for success. **Customers stay loyal**, teams feel valued, and your company thrives.
 
-If you’re ready to take the next step in your Agile journey, remember: **You don’t just need agility—you need Naked Agility.**
+If you’re ready to take the next step in your Agile journey, remember: **You don’t just need agility, you need Naked Agility.**
 
 🚀 **Quick Tips:**
 

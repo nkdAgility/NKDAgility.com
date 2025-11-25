@@ -174,16 +174,16 @@ We exist to help organisations understand and evolve their system of work. Throu
 ## Core Values
 
 1. **Radical Candour**
-   We speak with honesty, clarity, and respect—always direct, never evasive. Truth-telling is not optional; it’s how we earn trust, expose risk, and deliver real change.
+   We speak with honesty, clarity, and respect, always direct, never evasive. Truth-telling is not optional; it’s how we earn trust, expose risk, and deliver real change.
 
 2. **Systems Before Symptoms**
-   We focus on how people work, not just what they produce. Every challenge is an invitation to understand and evolve the system—not fix individuals.
+   We focus on how people work, not just what they produce. Every challenge is an invitation to understand and evolve the system, not fix individuals.
 
 3. **Continuous Improvement**
    We believe in progress over perfection. Every interaction, every engagement, every sprint is an opportunity to inspect, adapt, and raise the bar.
 
 4. **Professionalism by Default**
-   We expect competence and rigour. From modern engineering practices to facilitation and leadership, we don’t cut corners—we build mastery.
+   We expect competence and rigour. From modern engineering practices to facilitation and leadership, we don’t cut corners, we build mastery.
 
 5. **Evidence Over Opinion**
    We don’t chase trends or sell magic. We make decisions with data, measure what matters, and validate outcomes through real feedback and working product.
@@ -198,4 +198,4 @@ Here’s a vision statement that captures your ethos, ambition, and strategic cl
 
 ## Vision Statement
 
-We envision a world where every organisation understands its system of work, embraces empirical control, and delivers continuous value without compromise. Where teams are autonomous, leadership is accountable, and agility is the norm—not the exception. We are here to make professional delivery the standard, not the aspiration.
+We envision a world where every organisation understands its system of work, embraces empirical control, and delivers continuous value without compromise. Where teams are autonomous, leadership is accountable, and agility is the norm, not the exception. We are here to make professional delivery the standard, not the aspiration.

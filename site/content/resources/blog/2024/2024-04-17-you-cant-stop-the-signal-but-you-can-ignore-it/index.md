@@ -39,6 +39,7 @@ categories:
 tags:
   - Organisational Culture
   - Agile Values and Principles
+  - Psychological Safety
   - Agile Frameworks
   - Agile Philosophy
   - Organisational Agility
@@ -61,8 +62,8 @@ AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
-
 ---
+
 In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and [Scrum]({{< ref "/categories/scrum" >}}) (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!
 
 Yet, teams often overlook these clear signals. This raises the question: Why does such a disconnect exist between receiving these critical signals and acting on them? What barriers within teams and organizations prevent them from hearing and responding to these alerts?
@@ -73,7 +74,7 @@ When American car manufacturers adopted this concept, they installed the physica
 
 This analogy highlights the challenges of implementing Agile and Scrum within organizations. These philosophies act as the [software development]({{< ref "/tags/software-development" >}}) and [product management]({{< ref "/categories/product-management" >}})'s "andon" chain, signaling when something goes wrong and necessitating action. However, if an organization's culture or a team's mindset does not align with principles of [transparency]({{< ref "/tags/transparency" >}}), continuous improvement, and feedback responsiveness, these signals will remain ignored.
 
-The primary barrier often stems from fear—fear of repercussions, fear of change, or the inertia of existing practices that discourage deviation from the norm. A lack of understanding or commitment to Agile and Scrum's underlying philosophies may also contribute to a superficial implementation that fails to capitalize on these frameworks' full potential.
+The primary barrier often stems from fear, fear of repercussions, fear of change, or the inertia of existing practices that discourage deviation from the norm. A lack of understanding or commitment to Agile and Scrum's underlying philosophies may also contribute to a superficial implementation that fails to capitalize on these frameworks' full potential.
 
 To reap the benefits of Agile and Scrum, organizations must cultivate a culture that not only listens to but also values and acts upon the signals these philosophies provide. This involves creating an environment where halting the metaphorical production line to fix issues is celebrated rather than discouraged, embedding continuous improvement into the organization's DNA, and deeply understanding and practising the principles of the Agile Manifesto and the Scrum Guide.
 

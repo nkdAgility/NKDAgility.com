@@ -1,5 +1,5 @@
 ---
-title: 'Policing for the 21st Century: How NKD Agility Enabled Organisational Change in the Ghana Police Service'
+title: "Policing for the 21st Century: How NKD Agility Enabled Organisational Change in the Ghana Police Service"
 short_title: Organisational Change in the Ghana Police Service
 description: NKD Agility helped the Ghana Police Service drive organisational change using Scrum, enabling continuous improvement, transparency, and local ownership across all levels.
 tldr: The Ghana Police Service partnered with NKD Agility to drive real organisational change by embedding Scrum and evidence-based management, moving from rigid command structures to a system that enabled learning and adaptation at all levels. Key outcomes included new digital capabilities delivered every sprint, cross-functional teams taking ownership of change, and a national backlog created by officers themselves. The main takeaway is that transformation succeeded because change was practised through structured experimentation, not just planned or mandated, and development managers should focus on enabling systems that let teams drive and sustain their own improvements.
@@ -45,8 +45,8 @@ Watermarks:
   tldr: 2025-08-07T12:11:26Z
 ResourceId: br0iGV9tHS5
 ResourceType: case-studies
-
 ---
+
 ## Client Context
 
 The [Ghana Police Service (GPS)](https://police.gov.gh/), one of West Africa’s largest public institutions, faced entrenched structural challenges: rising crime, limited public trust, and decades of fragmented reform efforts. With over 33,000 officers and 14,000 support personnel, modernising such a vast and hierarchical system demanded more than surface-level change.
@@ -55,11 +55,11 @@ Under the leadership of Inspector General of Police (IGP) [David Asante-Apeatu](
 
 ## The Ask: Transformation Through Scrum
 
-The IGP had experienced Scrum firsthand during his time at Interpol. GPS didn’t ask for training. They committed to transformation. The objective: build an empirical, accountable, and transparent system of work that could enable change at every level—from headquarters to regional commands.
+The IGP had experienced Scrum firsthand during his time at Interpol. GPS didn’t ask for training. They committed to transformation. The objective: build an empirical, accountable, and transparent system of work that could enable change at every level, from headquarters to regional commands.
 
 ### Diagnosis: A System Built for Control, Not Adaptation
 
-NKD Agility, working with regional partner [Akaditi](https://akaditi.com/), quickly identified that the core dysfunction wasn’t knowledge or commitment—it was structural:
+NKD Agility, working with regional partner [Akaditi](https://akaditi.com/), quickly identified that the core dysfunction wasn’t knowledge or commitment, it was structural:
 
 - **Command-and-control practices** stifled initiative and learning.
 - **No empirical mechanism for change** meant reforms lacked follow-through.
@@ -70,14 +70,14 @@ GPS needed more than Agile practices. They needed a social technology for coordi
 
 ### Approach: Embedding Empirical Change Through Professional Scrum
 
-Martin Hinshelwood from NKD Agility delivered the first-ever [Applying Professional Scrum (APS)]({{< ref "/capabilities/training-courses/scrumorg-applying-professional-scrum" >}}) classes in West Africa—designed not as workshops, but as hands-on, full-sprint experiences.
+Martin Hinshelwood from NKD Agility delivered the first-ever [Applying Professional Scrum (APS)]({{< ref "/capabilities/training-courses/scrumorg-applying-professional-scrum" >}}) classes in West Africa, designed not as workshops, but as hands-on, full-sprint experiences.
 
-- **Rank-and-file officers built working software**—despite most having never written code. This forced practical, collaborative learning.
+- **Rank-and-file officers built working software**, despite most having never written code. This forced practical, collaborative learning.
 - **Scrum was introduced as a system for organisational change**, not just product delivery.
-- **Civilians and officers trained together**—reflecting the cross-functional nature of future transformation teams.
+- **Civilians and officers trained together**, reflecting the cross-functional nature of future transformation teams.
 - **Sprint Reviews and Retrospectives were used to reflect on their own institution**, not abstract examples.
 
-Meanwhile, at the leadership level, NKD Agility, **in collaboration with Akaditi**, supported the IGP in establishing the Transformation Programme Office (TPO)—a full Scrum implementation using the Evidence-Based Management (EBM) framework. The IGP acted as Product Owner, setting objectives for 28-day Sprints that drove transformation initiatives from drone squads to ePolicing rollouts.
+Meanwhile, at the leadership level, NKD Agility, **in collaboration with Akaditi**, supported the IGP in establishing the Transformation Programme Office (TPO), a full Scrum implementation using the Evidence-Based Management (EBM) framework. The IGP acted as Product Owner, setting objectives for 28-day Sprints that drove transformation initiatives from drone squads to ePolicing rollouts.
 
 ### Outcomes: Real Change, In Every Sprint
 

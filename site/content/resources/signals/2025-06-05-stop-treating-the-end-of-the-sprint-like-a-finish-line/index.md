@@ -31,8 +31,8 @@ tags:
   - Software Development
   - Empirical Process Control
   - Agile Philosophy
-  - Pragmatic Thinking
   - Agile Planning
+  - Pragmatic Thinking
   - Organisational Agility
 platform_signals:
   - platform: LinkedIn
@@ -51,11 +51,11 @@ Watermarks:
   tldr: 2025-08-07T12:11:42Z
 ResourceId: 3N_y67L5LD9
 ResourceType: signals
-
 ---
+
 Stop treating the end of the Sprint like a finish line. It’s not. It’s a checkpoint for planning, inspection, and adaptation. The Increment gives us a view of what’s Done. The Sprint Goal gives us focus. That’s it.
 
-If your team needs two Sprints to complete a large item—fine. That’s reality. Show the Increment, adapt the Product Backlog, and move on.
+If your team needs two Sprints to complete a large item, fine. That’s reality. Show the Increment, adapt the Product Backlog, and move on.
 
 Scrum is a social technology. It thrives in complexity, not control.
 

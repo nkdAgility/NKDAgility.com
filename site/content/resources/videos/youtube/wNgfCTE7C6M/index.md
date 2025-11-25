@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking Effective Product Development: How a Hypothesis-Driven Approach Transforms User Experience'
+title: "Unlocking Effective Product Development: How a Hypothesis-Driven Approach Transforms User Experience"
 short_title: Hypothesis-Driven Product Development for UX
 description: Explains how a hypothesis-driven approach, small experiments, and cross-team collaboration improve product development, user experience, and continuous delivery outcomes.
 tldr: A hypothesis-driven approach to product development helps teams make better decisions by focusing on user needs, testing ideas with small experiments, and measuring outcomes before committing to full features. Collaboration between design and engineering is essential to align daily decisions with long-term goals, and integrating these practices into continuous delivery ensures ongoing improvement. Development managers should encourage experimentation, cross-team collaboration, and data-driven feedback loops to build products that truly meet user needs.
@@ -34,6 +34,7 @@ categories:
   - Product Development
   - Product Management
 tags:
+  - Experimentation
   - Personal
   - Agile Product Management
   - Pragmatic Thinking
@@ -56,20 +57,20 @@ duration: 371
 resourceTypes:
   - video
 isShort: false
-
 ---
-In my journey through the world of [product development]({{< ref "/categories/product-development" >}}), I've often found myself reflecting on the importance of making informed decisions that truly benefit our users. Recently, I had the opportunity to delve into the Professional [Scrum]({{< ref "/categories/scrum" >}}) with User Experience (PSU) course, and I can confidently say that it has profoundly shaped my understanding of effective product development. 
+
+In my journey through the world of [product development]({{< ref "/categories/product-development" >}}), I've often found myself reflecting on the importance of making informed decisions that truly benefit our users. Recently, I had the opportunity to delve into the Professional [Scrum]({{< ref "/categories/scrum" >}}) with User Experience (PSU) course, and I can confidently say that it has profoundly shaped my understanding of effective product development.
 
 ### The Hypothesis-Driven Approach
 
-At the heart of the PSU course is a hypothesis-driven approach to software engineering. This methodology encourages us to ask the critical question: *Why are we adding this feature to our product?* 
+At the heart of the PSU course is a hypothesis-driven approach to software engineering. This methodology encourages us to ask the critical question: _Why are we adding this feature to our product?_
 
-- **Understanding User Needs**: It's not enough to add a feature simply because someone, like Bob from accounting, requests it. While Bob's needs are important, we must consider the broader user base—what about the 300 other users who might be affected? If we prioritise Bob's request at the expense of the majority, we risk alienating our core users, leading to a negative perception of our product over time.
+- **Understanding User Needs**: It's not enough to add a feature simply because someone, like Bob from accounting, requests it. While Bob's needs are important, we must consider the broader user base, what about the 300 other users who might be affected? If we prioritise Bob's request at the expense of the majority, we risk alienating our core users, leading to a negative perception of our product over time.
 
 - **Creating Hypotheses**: The PSU course emphasises the need to create hypotheses around new features. We should ask ourselves:
   - What value will this feature bring to the business?
   - How will we measure its success?
-  
+
   By framing our decisions as hypotheses, we can better evaluate the potential impact of our choices.
 
 ### Running Experiments
@@ -90,9 +91,9 @@ One of the most significant insights I gained from the PSU course is the importa
 
 ### Integrating Strategy and [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}})
 
-The PSU course also highlights the need to balance upfront work with continuous delivery. 
+The PSU course also highlights the need to balance upfront work with continuous delivery.
 
-- **Unified Strategy**: We must integrate our hypothesis-driven engineering into our regular delivery cadence. This means continuously running experiments—perhaps five or six each sprint—to see how our changes affect user behaviour.
+- **Unified Strategy**: We must integrate our hypothesis-driven engineering into our regular delivery cadence. This means continuously running experiments, perhaps five or six each sprint, to see how our changes affect user behaviour.
 
 - **Feedback Loops**: The data we gather from these experiments should feed back into our [product strategy]({{< ref "/tags/product-strategy" >}}). This iterative process allows us to shape our product in alignment with user needs and long-term goals.
 

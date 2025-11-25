@@ -1,7 +1,7 @@
 ---
-title: 'Navigating the Agile Apocalypse: How to Combat Judgment and Foster Team Growth'
+title: "Navigating the Agile Apocalypse: How to Combat Judgment and Foster Team Growth"
 short_title: Combating Judgment in Agile Teams
-description: Explores how judgment in Agile teams—via metrics like velocity and bug counts—can harm collaboration, and offers strategies to foster growth and psychological safety.
+description: Explores how judgment in Agile teams, via metrics like velocity and bug counts, can harm collaboration, and offers strategies to foster growth and psychological safety.
 tldr: Judging teams by metrics like velocity, bug counts, or code volume can create fear and stifle growth, undermining Agile principles. Instead, focus on goals that reflect real progress, encourage open discussion about challenges, and regularly review metrics to ensure they support a healthy team environment. Review your current metrics and team culture to ensure they foster collaboration and innovation rather than fear or competition.
 date: 2023-11-01T11:30:27Z
 lastmod: 2023-11-01T11:30:27Z
@@ -47,16 +47,15 @@ duration: 72
 resourceTypes:
   - video
 isShort: false
-
 ---
-In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call one of the seven signs of the Agile apocalypse: judgment. This isn't just a passing concern; it's a pervasive issue that can undermine the very principles of agility we strive to uphold. 
+
+In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call one of the seven signs of the Agile apocalypse: judgment. This isn't just a passing concern; it's a pervasive issue that can undermine the very principles of agility we strive to uphold.
 
 ### The Many Faces of Judgment
 
 Judgment can manifest in various forms, often cloaked in the guise of rules and metrics that teams feel compelled to follow. Here are some common examples:
 
 - **Velocity Metrics**: Teams are often judged based on their velocity, which can lead to unhealthy competition and stress. If your velocity doesn't meet someone else's expectations, it can create a sense of failure.
-  
 - **Bug Counts**: The number of bugs in your code can become a point of contention. Teams may feel judged for having too many bugs, which can stifle innovation and risk-taking.
 
 - **Code Volume**: Whether you’re writing too many or too few lines of code, there’s often someone ready to pass judgment. This can lead to a focus on quantity over quality, which is counterproductive.
@@ -65,7 +64,7 @@ These judgments can have a profound impact on team dynamics, fostering an enviro
 
 ### The Importance of Goals and Metrics
 
-To navigate this landscape, it’s crucial to set clear goals and create metrics that genuinely reflect progress towards those goals. However, we must remain vigilant. If the metrics we establish lead to negative behaviours—such as fear of failure or a lack of innovation—it's time to reassess and adapt them. 
+To navigate this landscape, it’s crucial to set clear goals and create metrics that genuinely reflect progress towards those goals. However, we must remain vigilant. If the metrics we establish lead to negative behaviours, such as fear of failure or a lack of innovation, it's time to reassess and adapt them.
 
 Here are some strategies to consider:
 
@@ -77,6 +76,6 @@ Here are some strategies to consider:
 
 ### Moving Forward
 
-As we continue to embrace Agile methodologies, let’s be mindful of the judgments we impose—both on ourselves and on our teams. By fostering a culture of support and understanding, we can mitigate the negative impacts of judgment and create an environment where agility can truly thrive.
+As we continue to embrace Agile methodologies, let’s be mindful of the judgments we impose, both on ourselves and on our teams. By fostering a culture of support and understanding, we can mitigate the negative impacts of judgment and create an environment where agility can truly thrive.
 
 If you found this discussion valuable, I encourage you to engage with me further. Whether you want to chat about Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee with me through Naked Agility. Your thoughts and comments are always welcome, and I look forward to hearing from you!

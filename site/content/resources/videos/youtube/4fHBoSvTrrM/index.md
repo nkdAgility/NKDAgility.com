@@ -51,8 +51,8 @@ duration: 383
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ## PSM II: The Game-Changer for [Scrum]({{< ref "/categories/scrum" >}}) Masters
 
 Today, I want to tackle an important question I often receive, "How will a PSM II course challenge your assumptions the most?
@@ -77,9 +77,9 @@ Let me break a few myths surrounding the PSM II course challenges down:
 
 - The Jira Admin Myth: Contrary to some beliefs, think again when it comes to Jira Admin.  Scrum Masters aren't merely Jira admins.  They're so much more.  It's a disservice to box them into such a limited category.
 
-- The Problem Solver Myth: A common misinterpretation is that Scrum Masters exist purely to solve the team's problems.  In reality, they catalyse the removal of impediments — not necessarily doing the work but empowering the team to do so.  Essentially, a Scrum Master aims to make their role almost redundant by fostering a self-sufficient team and pushing for self-reliance and reduced dependency.
+- The Problem Solver Myth: A common misinterpretation is that Scrum Masters exist purely to solve the team's problems.  In reality, they catalyse the removal of impediments , not necessarily doing the work but empowering the team to do so.  Essentially, a Scrum Master aims to make their role almost redundant by fostering a self-sufficient team and pushing for self-reliance and reduced dependency.
 
-- The "Invisibly Present" Paradigm: This is a concept I adore and one of my cherished takeaways from the PSM II course is the idea of being 'invisibly present'.  A Scrum Master's value isn't in their overt actions but in their nuanced guidance.  They shape and steer the way teams organise tasks.  Yet, if they were to be absent for a fortnight, the team's activities from retrospectives to daily scrums — would still proceed seamlessly.  This is because teams under a proficient Scrum Master recognise the intrinsic value of these processes rather than feeling compelled by external pressure.  That's the mark of true influence!
+- The "Invisibly Present" Paradigm: This is a concept I adore and one of my cherished takeaways from the PSM II course is the idea of being 'invisibly present'.  A Scrum Master's value isn't in their overt actions but in their nuanced guidance.  They shape and steer the way teams organise tasks.  Yet, if they were to be absent for a fortnight, the team's activities from retrospectives to daily scrums , would still proceed seamlessly.  This is because teams under a proficient Scrum Master recognise the intrinsic value of these processes rather than feeling compelled by external pressure.  That's the mark of true influence!
 
 ## Evolution from Scrum Master to Advanced Scrum Master
 

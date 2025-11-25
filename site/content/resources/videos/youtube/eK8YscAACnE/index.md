@@ -57,16 +57,15 @@ duration: 37
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 In my journey through the world of Agile, I've encountered a recurring theme that I can only describe as "agile banditry." This term might sound a bit dramatic, but it perfectly encapsulates the misuse of certain Agile practices that can undermine the very principles we strive to uphold. One of the most common culprits? The infamous story points and velocity metrics.
 
 ### The Misuse of Story Points and Velocity
 
-Let’s be clear: story points and velocity are often wielded like weapons against teams. I've seen it happen time and again—[leadership]({{< ref "/categories/leadership" >}}) or stakeholders will use these metrics to ambush teams, demanding predictability and performance based on subjective measures. This approach not only misrepresents the true nature of Agile but also creates an environment of mistrust and anxiety.
+Let’s be clear: story points and velocity are often wielded like weapons against teams. I've seen it happen time and again, [leadership]({{< ref "/categories/leadership" >}}) or stakeholders will use these metrics to ambush teams, demanding predictability and performance based on subjective measures. This approach not only misrepresents the true nature of Agile but also creates an environment of mistrust and anxiety.
 
 - **Subjectivity at Play**: Story points are inherently subjective. They rely on team members' perceptions and estimations, which can vary widely. When these points are used to evaluate performance, they can lead to misunderstandings and misaligned expectations.
-  
 - **Ambushing Teams and Leadership**: I've witnessed teams being pressured to justify their velocity, often leading to a toxic atmosphere where they feel they must "perform" rather than collaborate. This is not what Agile is about. It’s about fostering a culture of openness and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), not one of fear and defensiveness.
 
 ### A Call to Action: Ditch the Banditry
@@ -79,12 +78,12 @@ So, what can we do instead? I urge you to abandon the use of story points and ve
 
 ### Embracing Objective Measures
 
-By shifting our focus to cycle time and throughput, we can foster a more collaborative environment where teams feel empowered to share their challenges and successes without the fear of being judged by arbitrary numbers. This approach aligns with the core values of Agile—[transparency]({{< ref "/tags/transparency" >}}), collaboration, and continuous improvement.
+By shifting our focus to cycle time and throughput, we can foster a more collaborative environment where teams feel empowered to share their challenges and successes without the fear of being judged by arbitrary numbers. This approach aligns with the core values of Agile, [transparency]({{< ref "/tags/transparency" >}}), collaboration, and continuous improvement.
 
 In my experience, when teams are encouraged to engage in meaningful conversations about their work, rather than being pressured to meet specific metrics, they become more cohesive and productive. They start to understand their processes better and can adapt more effectively to changes.
 
 ### Conclusion
 
-Let’s put an end to agile banditry. By moving away from the misuse of story points and velocity, we can create a healthier Agile environment that prioritises genuine collaboration and improvement. Remember, Agile is not just about delivering software; it’s about delivering value through empowered teams. 
+Let’s put an end to agile banditry. By moving away from the misuse of story points and velocity, we can create a healthier Agile environment that prioritises genuine collaboration and improvement. Remember, Agile is not just about delivering software; it’s about delivering value through empowered teams.
 
 So, the next time you find yourself reaching for those story points, take a step back. Ask yourself: are these metrics helping my team, or are they just another form of ambush? Let’s choose wisely and embrace the true spirit of Agile.

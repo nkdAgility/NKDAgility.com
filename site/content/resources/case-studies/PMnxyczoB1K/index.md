@@ -1,5 +1,5 @@
 ---
-title: 'Engineering Excellence in Action: How NKD Agility Helped SLB Streamline Build and Release Across 90 Teams and 13 Countries'
+title: "Engineering Excellence in Action: How NKD Agility Helped SLB Streamline Build and Release Across 90 Teams and 13 Countries"
 short_title: Streamlining Build & Release Across 90 Teams
 description: NKD Agility helped SLB unify build and release processes across 90 teams in 13 countries, boosting team ownership, efficiency, and engineering accountability.
 tldr: NKD Agility helped SLB streamline build and release by guiding 90 teams across 13 countries to adopt a single source control system and consistent branching, shifting ownership of builds to the engineering teams. This reduced central build team size, improved developer autonomy, and made release management more predictable. Development managers should consider empowering teams with clear structure and shared responsibility to achieve faster, more reliable delivery at scale.
@@ -34,22 +34,22 @@ tags:
   - Team Collaboration
   - Team Performance
   - Modern Source Control
-  - Self Organisation
   - Operational Practices
   - Large Scale Agility
-  - Release Management
   - Technical Excellence
   - Product Delivery
   - Agentic Agility
   - One Engineering System
+  - Digital Transformation
+  - Self Organisation
 Watermarks:
   description: 2025-06-16T11:50:57Z
   short_title: 2025-07-07T16:43:48Z
   tldr: 2025-08-07T12:29:07Z
 ResourceId: PMnxyczoB1K
 ResourceType: case-studies
-
 ---
+
 ## Client Context
 
 [SLB](https://www.slb.com/) (formerly Schlumberger), a global energy technology company, had over 90 engineering teams in 13 locations across 9 countries contributing to a single product: Petrel. Each team operated independently, choosing its own source control system, build environment, and branching strategy. Some used Git, others Team Foundation Version Control (TFVC), SVN, or even in-house tools.
@@ -88,14 +88,14 @@ Martin didn’t implement the solution directly. Instead, he provided:
 
 This case represents a core NKD Agility principle:
 
-> Real engineering excellence isn’t about tighter control—it’s about giving teams the *right structure* so they can take responsibility for quality, speed, and stability.
+> Real engineering excellence isn’t about tighter control, it’s about giving teams the *right structure* so they can take responsibility for quality, speed, and stability.
 
 Martin’s advice helped SLB do just that: reframe build and release as team-owned practices rather than operational burdens.
 
 ### Why It Matters for CTOs and Tech Leaders
 
 - **Technical Leadership**: Empowering engineers to own build and release is a foundational move toward scalable, resilient development.
-- **Engineering Excellence**: This engagement demonstrates how structural advice—not new tooling alone—can unlock better results across distributed teams.
+- **Engineering Excellence**: This engagement demonstrates how structural advice, not new tooling alone, can unlock better results across distributed teams.
 - **Strategic Impact**: Simplification enabled better forecasting, reduced overhead, and made SLB’s engineering system more future-ready.
 
 ## Final Takeaway

@@ -33,11 +33,11 @@ categories:
   - Scrum
   - Product Development
 tags:
+  - Agile Planning
   - Software Development
   - Scrum Team
   - Azure DevOps
   - Pragmatic Thinking
-  - Agile Planning
   - Agile Product Management
   - Professional Scrum
   - Agile Frameworks

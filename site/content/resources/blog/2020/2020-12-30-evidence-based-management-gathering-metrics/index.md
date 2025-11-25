@@ -41,6 +41,7 @@ tags:
   - Social Technologies
   - Operational Practices
   - Customer Focus
+  - Agile Strategy
   - Evidence Based Management
   - Metrics and Learning
   - Organisational Change
@@ -50,7 +51,6 @@ tags:
   - Evidence Based Leadership
   - Software Development
   - Pragmatic Thinking
-  - Empirical Process Control
 Watermarks:
   description: 2025-05-07T13:15:07Z
   short_title: 2025-07-07T17:57:39Z

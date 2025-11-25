@@ -1,5 +1,5 @@
 ---
-title: 'The Ghosts of Agile Past: Why Burndown Charts Might Be Holding You Back'
+title: "The Ghosts of Agile Past: Why Burndown Charts Might Be Holding You Back"
 short_title: Burndown Charts Limit Agile Adaptability
 description: Explores why burndown charts can limit Agile teams, highlighting the drawbacks of fixed planning and advocating for adaptability, empirical work, and value flow.
 tldr: Burndown charts often hinder Agile teams by promoting rigid, upfront planning and fixed scopes, which do not reflect how real Agile work unfolds. Teams are more effective when they focus on delivering a steady flow of value, adapt plans as they learn, and make decisions based on actual progress rather than predictions. Consider moving away from burndown charts and instead prioritize flexibility, just-in-time planning, and empirical management to improve your team's outcomes.
@@ -53,8 +53,8 @@ duration: 419
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 Have you ever felt something was off with burndown charts? I know I have. There's always been this nagging feeling that something wasn't quite right. Over the years, people have revered these charts as the ultimate tool for monitoring a team’s progress. But I’ve come to realize that this couldn’t be further from the truth.
 
 ### Burndown Charts: The False Holy Grail
@@ -81,7 +81,7 @@ At the start of the sprint, teams often try to plan out every task, along with t
 
 - Even if you think you’re getting 90% of the way there, it’s still wrong.
 
-💬 **My advice?** Forget about trying to plan everything upfront. I’m not just saying that 90% is wrong—50% is probably wrong too. The reality is that we often don’t know what it will take to complete a task until we’re already knee-deep in it.
+💬 **My advice?** Forget about trying to plan everything upfront. I’m not just saying that 90% is wrong, 50% is probably wrong too. The reality is that we often don’t know what it will take to complete a task until we’re already knee-deep in it.
 
 ### Managing Work Empirically
 
@@ -99,7 +99,7 @@ Now, some teams attempt to improve burndowns by burning down _story points_ inst
 
 - If you're halfway through and have only delivered 30%, then it's time to reassess.
 
-But remember, these measurements are still based on the assumption that the tasks were properly scoped upfront—which, as we’ve discussed, is rarely the case.
+But remember, these measurements are still based on the assumption that the tasks were properly scoped upfront, which, as we’ve discussed, is rarely the case.
 
 ### Agile Teams Need Flexibility, Not Fixed Plans
 
@@ -119,7 +119,7 @@ The teams that excel in Agile are the ones that embrace adaptability. They're no
 
 ### Overcoming the Ghosts of Agile Past
 
-If you find yourself haunted by the ghosts of Agile past—like burndown charts—don’t worry. You’re not alone. Many teams still fall into the trap of relying on outdated tools and practices. But the good news is that you can overcome these challenges.
+If you find yourself haunted by the ghosts of Agile past, like burndown charts, don’t worry. You’re not alone. Many teams still fall into the trap of relying on outdated tools and practices. But the good news is that you can overcome these challenges.
 
 Here’s what you can do:
 
@@ -131,7 +131,7 @@ Here’s what you can do:
 
 📧 **Need help?** If you’re struggling with these issues, don’t hesitate to reach out. We can help you exorcise the ghosts of Agile past. Whether it’s through [coaching]({{< ref "/tags/coaching" >}}), consulting, or training, we’ll work with you to develop an approach that suits your team’s unique needs.
 
-* * *
+---
 
 ## Conclusion
 

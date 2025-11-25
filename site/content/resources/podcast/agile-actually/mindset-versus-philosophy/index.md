@@ -5,7 +5,7 @@ description: Explores how precise language and context shape transparency and un
 tldr: Simon Reindl and Martin Hinshelwood discuss how using precise and accurate language is crucial for transparency and effective communication in Agile environments. They emphasize that the words teams choose directly impact understanding and outcomes. Development managers should ensure their teams are clear and intentional with language to improve collaboration and results.
 date: 2024-02-22
 lastmod: 2024-02-22
-weight: 1000
+weight: 775
 sitemap:
   filename: sitemap.xml
   priority: 0.1

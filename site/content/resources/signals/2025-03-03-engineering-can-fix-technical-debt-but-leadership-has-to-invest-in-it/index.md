@@ -55,10 +55,10 @@ Watermarks:
   tldr: 2025-08-07T12:35:16Z
 ResourceId: XRePaJiX1kj
 ResourceType: signals
-
 ---
+
 Engineering can fix technical debt, but leadership has to invest in it. Without that investment, continuous delivery remains a pipe dream.
 
 Companies don't succeed by asking teams to “work harder.” They funded the work to automate pipelines, improve test coverage, and shift left on quality. They empowered engineers to fix bottlenecks without waiting for external approval.
 
-Continuous delivery isn’t just an engineering challenge—it’s a leadership decision. If your teams can’t deliver continuously, ask yourself: what’s leadership prioritising instead?
+Continuous delivery isn’t just an engineering challenge, it’s a leadership decision. If your teams can’t deliver continuously, ask yourself: what’s leadership prioritising instead?

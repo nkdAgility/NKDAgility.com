@@ -5,10 +5,10 @@ description: Compares Satya Nadella’s and Steve Jobs’s leadership, highlight
 tldr: Satya Nadella is a stronger example of agile leadership than Steve Jobs because he built a culture of innovation and empowered teams across Microsoft, rather than centralizing decision-making and innovation in one person. Nadella decentralized authority, focused on meaningful metrics that drive customer value, and fostered continuous improvement and collaboration throughout the organization. Development managers should consider enabling team autonomy and aligning incentives with customer outcomes to drive sustainable innovation.
 date: 2023-02-01T07:00:10Z
 lastmod: 2023-02-01T07:00:10Z
-weight: 465
+weight: 400
 sitemap:
   filename: sitemap.xml
-  priority: 0.3
+  priority: 0.4
   changefreq: monthly
 ItemId: HTv3NkNJovk
 ItemType: videos

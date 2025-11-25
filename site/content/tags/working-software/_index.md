@@ -26,7 +26,7 @@ Instructions: |-
   - Content that presents working software as a **principle**, rather than an output artifact.
 headline:
   cards: []
-  title: 'Working Software: Delivering Tangible Value Through Iterative Increments'
+  title: "Working Software: Delivering Tangible Value Through Iterative Increments"
   subtitle: Delivering tangible, high-quality increments that demonstrate progress, enable rapid feedback, and continuously align teams with customer value and expectations.
   content: Working Software represents tangible, functional deliverables produced iteratively by teams, demonstrating measurable progress, customer value, and readiness for release. It encompasses incremental delivery, continuous feedback, quality standards, adaptive planning, stakeholder alignment, and sustainable value creation, enabling transparency, responsiveness to evolving requirements, and ongoing improvement within complex environments.
   updated: 2025-05-23T23:24:34Z
@@ -57,9 +57,9 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
-**Working Software** is a core **artifact** in Agile, Scrum, and Lean frameworks, representing the **tangible output** of a team’s work. It is the product of iterative development, and it **demonstrates progress** and **value delivery**. Unlike methods or practices, which define **how** work is done, **working software** is the **concrete result**—the **increment** produced at the end of each Sprint or iteration.
+
+**Working Software** is a core **artifact** in Agile, Scrum, and Lean frameworks, representing the **tangible output** of a team’s work. It is the product of iterative development, and it **demonstrates progress** and **value delivery**. Unlike methods or practices, which define **how** work is done, **working software** is the **concrete result**, the **increment** produced at the end of each Sprint or iteration.
 
 In **Scrum**, **working software** is the primary measure of success for each Sprint, and it forms the **Increment** artifact. It is **inspectable**, **adaptable**, and directly informs decisions, allowing teams to adjust their efforts based on the feedback received. The **Definition of Done** ensures that the software meets predefined criteria of quality, ensuring that the Increment is **valuable**, **functional**, and ready for release.
 

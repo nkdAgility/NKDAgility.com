@@ -1,11 +1,11 @@
 ---
-title: 'Navigating the Unknown: How to Fund Your Product Like a Venture Capitalist'
+title: "Navigating the Unknown: How to Fund Your Product Like a Venture Capitalist"
 short_title: Fund Your Product Like a Venture Capitalist
-description: Learn how to fund product development by thinking like a venture capitalist—run small experiments, validate ideas, manage risk, and balance data with creative vision.
+description: Learn how to fund product development by thinking like a venture capitalist, run small experiments, validate ideas, manage risk, and balance data with creative vision.
 tldr: Treat product funding like a venture capitalist by running small, low-risk experiments to validate ideas before committing significant resources. Require clear business plans, proof of concept, and ongoing iteration based on real user feedback to manage risk and maximize learning. Balance data-driven decisions with vision and passion, and be prepared to discard failed experiments while investing further in those that show promise.
 date: 2024-12-10T06:30:00Z
 lastmod: 2024-12-10T06:30:00Z
-weight: 840
+weight: 715
 sitemap:
   filename: sitemap.xml
   priority: 0.1
@@ -50,13 +50,13 @@ resourceTypes:
 isShort: false
 ResourceId: vbY6LUq81uY
 ResourceType: videos
-
 ---
+
 Building products is an exhilarating journey into the unknown. Every time I sit down with a team to write code, I’m reminded that we’re embarking on a venture that has never been done before. If we weren’t, we wouldn’t be coding; we’d simply be purchasing a ready-made solution. This inherent uncertainty is what gives software engineering its unique character, and it’s also why we experience such a high degree of variance in our projects.
 
 ### The Entrepreneurial Mindset
 
-In the business realm, this concept mirrors the world of [entrepreneurship]({{< ref "/tags/entrepreneurship" >}}). When you have an idea that promises value—regardless of how that value is delivered—you need to seek investment to bring that idea to life. This process is akin to what I would do if I were to start a new business. I’d need to approach banks or venture capitalists, convincing them that my idea is worth their time and money.
+In the business realm, this concept mirrors the world of [entrepreneurship]({{< ref "/tags/entrepreneurship" >}}). When you have an idea that promises value, regardless of how that value is delivered, you need to seek investment to bring that idea to life. This process is akin to what I would do if I were to start a new business. I’d need to approach banks or venture capitalists, convincing them that my idea is worth their time and money.
 
 - **Convincing Stakeholders**: Whether it’s internal stakeholders or external investors, the challenge remains the same: you must articulate why your idea deserves funding.
 - **Risk and Reward**: New ideas are inherently risky. They don’t come with guarantees of success or a return on investment. In fact, statistics suggest that around 70% of new businesses fail within their first year, and a staggering 30% of those that survive the initial phase will falter within five years.

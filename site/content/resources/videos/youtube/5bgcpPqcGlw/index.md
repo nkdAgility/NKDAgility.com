@@ -1,7 +1,7 @@
 ---
-title: 'Mastering Site Reliability: Insights from Azure DevOps on Building a Resilient Live Site Culture'
+title: "Mastering Site Reliability: Insights from Azure DevOps on Building a Resilient Live Site Culture"
 short_title: Mastering Site Reliability with Azure DevOps
-description: Explore proven strategies from Azure DevOps for building resilient, reliable software systems—covering transparency, automation, telemetry, incident response, and team culture.
+description: Explore proven strategies from Azure DevOps for building resilient, reliable software systems, covering transparency, automation, telemetry, incident response, and team culture.
 tldr: The Azure DevOps team at Microsoft has built a resilient live site culture by prioritising transparency with customers, investing in comprehensive telemetry, and automating deployment processes. Cross-functional teams and structured incident response drive continuous improvement and reliability at scale. Development managers should focus on these practices to boost both agility and system robustness while maintaining customer trust.
 date: 2020-06-04T02:05:28Z
 lastmod: 2020-06-04T02:05:28Z
@@ -33,8 +33,8 @@ categories:
   - Technical Leadership
 tags:
   - Operational Practices
-  - Pragmatic Thinking
   - Site Reliability Engineering
+  - Pragmatic Thinking
   - Value Delivery
   - Azure DevOps
   - Software Development
@@ -42,11 +42,11 @@ tags:
   - Organisational Agility
   - Personal
   - Technical Mastery
+  - Engineering Practices
   - Cross Functional Teams
   - Deployment Frequency
   - Market Adaptability
   - Product Delivery
-  - Sociotechnical Systems
 Watermarks:
   description: 2025-05-07T13:15:41Z
   short_title: 2025-07-07T17:58:04Z
@@ -61,8 +61,8 @@ duration: 3386
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}) and [site reliability engineering]({{< ref "/tags/site-reliability-engineering" >}}), I've come to appreciate the delicate balance between engineering and operations. Today, I want to share insights from my experiences with the Azure [DevOps]({{< ref "/categories/devops" >}}) team at Microsoft, particularly how they foster a live site culture that prioritises reliability while delivering value to customers.
 
 ### The Importance of Site Reliability Engineering
@@ -71,16 +71,16 @@ Site reliability engineering (SRE) is not just a buzzword; it’s a critical dis
 
 #### Key Elements of a Successful Live Site Culture
 
-1. **[Transparency]({{< ref "/tags/transparency" >}}) Builds Trust**: 
+1. **[Transparency]({{< ref "/tags/transparency" >}}) Builds Trust**:
    - The Azure DevOps team prioritises transparency with their customers. They publish detailed post-mortems after outages, outlining what went wrong, the steps taken to resolve the issue, and how they plan to prevent it in the future. This level of openness fosters trust and reassures customers that their concerns are taken seriously.
 
-2. **Telemetry is Essential**: 
+2. **Telemetry is Essential**:
    - Collecting and organising telemetry data is crucial. The Azure DevOps team has developed a comprehensive telemetry pipeline that allows them to monitor system performance and user interactions. This data is invaluable for identifying trends and potential issues before they escalate.
 
-3. **Automation is Key**: 
+3. **Automation is Key**:
    - In an agile environment, automation is not just a luxury; it’s a necessity. The Azure DevOps team has embraced automation to ensure that their applications are always in a deployable state. This means that when the business decides to ship to production, the engineering team is not burdened with additional work. The [product owner]({{< ref "/tags/product-owner" >}}) can simply push a button.
 
-4. **Incident Response and [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: 
+4. **Incident Response and [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**:
    - When incidents occur, the Azure DevOps team is quick to respond. They have a structured approach to incident management, which includes creating incident bridges with all necessary stakeholders. This ensures that everyone is aligned and working towards a resolution. Post-incident reviews are conducted to identify root causes and implement improvements.
 
 ### Learning from Past Mistakes

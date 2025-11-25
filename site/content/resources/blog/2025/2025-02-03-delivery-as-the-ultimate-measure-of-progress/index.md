@@ -63,8 +63,8 @@ resourceTypes: blog
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 ResourceId: jBIyK6NW3ZB
 ResourceType: blog
-
 ---
+
 As a social technology, [Scrum]({{< ref "/categories/scrum" >}}) has remained steadfast in its ethos for over 32 years, enabling teams to generate value through adaptive solutions to complex problems. Yet, a subtle distinction in its guidance often trips up practitioners - Scrum **explicitly** mandates a **Done [Increment]({{< ref "/tags/increment" >}})** but **implicitly** mandates **Delivery**. This distinction, though subtle, holds profound implications in a modern context where [DevOps]({{< ref "/categories/devops" >}}) has reshaped the landscape of software delivery.
 
 ### TLDR;
@@ -81,20 +81,20 @@ At a very minimum, I expect them to deliver their increments to production at le
 
 Scrum Teams are measured not by what they start but by what they finish, and more importantly, by what they **deliver**. A Done Increment is only as valuable as its ability to drive change and provide feedback in the hands of real users. Anything less is just inventory.
 
-It’s time to shift the focus: delivery is not an afterthought, it is **the measure of progress**. In the 1990s, releasing software to production was a cumbersome, risky process, and the Scrum Guide was written in that world. Today, with modern DevOps capabilities, [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) is not just possible—it is expected.
+It’s time to shift the focus: delivery is not an afterthought, it is **the measure of progress**. In the 1990s, releasing software to production was a cumbersome, risky process, and the Scrum Guide was written in that world. Today, with modern DevOps capabilities, [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) is not just possible, it is expected.
 
-> **If a Scrum Team is producing Done Increments but not delivering them, they are not actually doing Scrum—they are simply simulating progress.**
+> **If a Scrum Team is producing Done Increments but not delivering them, they are not actually doing Scrum, they are simply simulating progress.**
 
 ### Done Is Not Enough
 
-A Done Increment, according to Scrum, meets the [Definition of Done]({{< ref "/tags/definition-of-done" >}}): it is properly tested, meets quality standards, and is potentially shippable. But potential is not value—realised value comes only from delivery.
+A Done Increment, according to Scrum, meets the [Definition of Done]({{< ref "/tags/definition-of-done" >}}): it is properly tested, meets quality standards, and is potentially shippable. But potential is not value, realised value comes only from delivery.
 
 The distinction between Done and Delivered is simple:
 
 - **Done means the work meets an internal quality standard.**
 - **Delivered means the work has been put into production and is creating impact.**
 
-If an Increment remains in staging or internal QA, it does not matter how refined or polished it is—it is not delivering value.
+If an Increment remains in staging or internal QA, it does not matter how refined or polished it is, it is not delivering value.
 
 ### Why This Matters
 
@@ -114,7 +114,7 @@ Scrum Teams must reframe their Definition of Done to include deployment while en
 
 2. **Treat Delivery as a First-Class Citizen**
 
-   The goal of every Sprint should not be to produce an increment—it should be to deliver value. A backlog item is not complete until users are benefiting from it.
+   The goal of every Sprint should not be to produce an increment, it should be to deliver value. A backlog item is not complete until users are benefiting from it.
 
 3. **Inspect User Impact, Not Just Internal Quality**
 
@@ -134,6 +134,6 @@ Remember [usable working product is how we manage risk and deliver value]({{< re
 
 In 2025, there is no reason why a Done Increment should not be delivered. The tools, practices, and knowledge exist. The only thing standing in the way is outdated ways of thinking.
 
-Delivery is no longer just an aspiration—it is the fundamental measure of progress. The ability to deliver frequently, safely, and reliably is what makes a Scrum Team truly professional.
+Delivery is no longer just an aspiration, it is the fundamental measure of progress. The ability to deliver frequently, safely, and reliably is what makes a Scrum Team truly professional.
 
 The question is no longer "Are we Done?" but **"Have we Delivered?"**

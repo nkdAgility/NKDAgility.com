@@ -1,5 +1,5 @@
 ---
-title: 'Transforming Scrum Training: How Real-World Insights Empower Agile Teams at Great Calm'
+title: "Transforming Scrum Training: How Real-World Insights Empower Agile Teams at Great Calm"
 short_title: Real-World Scrum Training at Great Calm
 description: Explores how practical, real-world Scrum training at Great Calm improved team collaboration, alignment, and continuous improvement across the organisation.
 tldr: Great Calm improved team alignment and agility by investing in Scrum training led by a trainer with real engineering experience, which fostered open dialogue and practical learning. The training is expected to enhance communication, align teams with business goals, and empower them to own their processes. Development managers should consider similar real-world-focused training to drive meaningful change and continuous improvement in their teams.
@@ -53,13 +53,13 @@ duration: 279
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 As the CTO at Great Calm, I’ve had the privilege of witnessing the transformative power of effective training in [Scrum]({{< ref "/categories/scrum" >}}). Recently, we undertook a significant initiative to baseline our understanding of Scrum across the organisation. This decision stemmed from a recognition that, in a rapidly evolving environment, everyone brings their own flavour and understanding of what Scrum and Agile mean. This diversity can create dissonance, which is why we chose to engage with Martin Hinshelwood for our training sessions.
 
 ### Why We Chose Martin
 
-I’ve always believed that the best training comes from someone who is not only knowledgeable but also deeply connected to the makers—the engineers and developers who are at the heart of our projects. Martin embodies this connection. His approach resonates with the team, as he brings a daily perspective that aligns closely with the challenges faced by our engineers. 
+I’ve always believed that the best training comes from someone who is not only knowledgeable but also deeply connected to the makers, the engineers and developers who are at the heart of our projects. Martin embodies this connection. His approach resonates with the team, as he brings a daily perspective that aligns closely with the challenges faced by our engineers.
 
 Here’s what I found particularly compelling about Martin’s training:
 
@@ -77,12 +77,12 @@ The training sessions were not just about learning the mechanics of Scrum; they 
 
 ### Personal Reflections
 
-Reflecting on my own journey, I remember the first time I took a Scrum training course. I was impressed by the depth of knowledge and the practical applications that were shared. It was a pivotal moment for me, reinforcing my belief in the importance of [continuous learning]({{< ref "/tags/continuous-learning" >}}) and adaptation. 
+Reflecting on my own journey, I remember the first time I took a Scrum training course. I was impressed by the depth of knowledge and the practical applications that were shared. It was a pivotal moment for me, reinforcing my belief in the importance of [continuous learning]({{< ref "/tags/continuous-learning" >}}) and adaptation.
 
 I’m thrilled to see that the feedback from our recent training sessions has been overwhelmingly positive. The team has expressed appreciation for Martin’s approach, and I’m confident that this will lead to meaningful changes in how we operate.
 
 ### Conclusion
 
-In conclusion, investing in training is not just about ticking a box; it’s about fostering a culture of agility and continuous improvement. As we move forward, I’m excited to see how the insights gained from Martin’s sessions will shape our organisation and enhance our ability to deliver value to our customers. 
+In conclusion, investing in training is not just about ticking a box; it’s about fostering a culture of agility and continuous improvement. As we move forward, I’m excited to see how the insights gained from Martin’s sessions will shape our organisation and enhance our ability to deliver value to our customers.
 
 Let’s embrace this journey together, ensuring that we not only understand Scrum but also live its principles in our daily work. After all, it’s not just about the framework; it’s about the people who make it come alive.

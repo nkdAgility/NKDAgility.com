@@ -5,7 +5,7 @@ description: Simon Reindl and Martin Hinshelwood discuss the role of precise lan
 tldr: The podcast highlights the critical role of clear and precise language in Agile environments, emphasizing that transparency and accuracy in communication directly impact team effectiveness. Hosts Simon Reindl and Martin Hinshelwood share practical insights on how word choice shapes understanding and outcomes. Development managers should ensure their teams use language carefully to avoid misunderstandings and improve collaboration.
 date: 2024-04-25
 lastmod: 2024-04-25
-weight: 1000
+weight: 775
 sitemap:
   filename: sitemap.xml
   priority: 0.1

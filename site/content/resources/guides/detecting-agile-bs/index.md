@@ -36,6 +36,7 @@ tags:
   - Agile Values and Principles
   - Operational Practices
   - Product Delivery
+  - Agile Planning
 card:
   button:
     content: Learn More

@@ -1,7 +1,7 @@
 ---
 title: Stop Hiding Behind Complexity and Start Delivering Continuously
 short_title: Continuous Delivery for Complex Software
-description: Continuous delivery is achievable for any software, regardless of complexity. Success depends on investment in automation, quality, and process improvement—not technical barriers.
+description: Continuous delivery is achievable for any software, regardless of complexity. Success depends on investment in automation, quality, and process improvement, not technical barriers.
 tldr: Complexity is not a valid reason to avoid continuous delivery; organisations like Azure DevOps and Starbucks have proven that even large, complex systems can achieve frequent, reliable releases with the right investment in automation, process improvement, and culture change. Key actions include automating everything, adopting trunk-based development, using feature flags, shifting quality left, and iterating on pain points. Development managers should focus on measuring and improving flow metrics and value delivery, prioritising organisational commitment to overcome resistance and realise the benefits of continuous delivery.
 date: 2025-02-24T09:00:00
 lastmod: 2025-02-24T09:00:00
@@ -65,8 +65,8 @@ resourceTypes: blog
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
 ResourceId: 7hEAycZIn8w
 ResourceType: blog
-
 ---
+
 Every organisation says their software is 'too complex' for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}). That's nonsense. Complexity is an excuse, not a blocker. [Azure DevOps]({{< ref "/tags/azure-devops" >}}), Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too; if you’re willing to put in the time, effort, and money.
 
 Continuous delivery is not a pipe dream. If the organisation is willing to invest, it’s achievable for every software product, regardless of complexity or legacy constraints. And that's the challenge.
@@ -77,7 +77,7 @@ This evolution was not the result of a silver bullet but a deliberate effort to 
 
 ### TLDR
 
-Every software system, no matter how complex or archaic, can be updated, tested, and deployed continuously—without delays, bottlenecks, or manual interventions. This is the core of Continuous Delivery (CD): software always in a deployable state, ready for frequent, reliable releases.
+Every software system, no matter how complex or archaic, can be updated, tested, and deployed continuously, without delays, bottlenecks, or manual interventions. This is the core of Continuous Delivery (CD): software always in a deployable state, ready for frequent, reliable releases.
 
 ## What is holding you back?
 
@@ -101,19 +101,19 @@ This is not a terminal condition but a challenge to manage and overcome. The key
 
 ### The Evolution of the Developer Division at Microsoft
 
-Like every other company that has built software at scale, Microsoft fell into the usual traps of long release cycles, single-pass coding, and poor testing quality. For the Developer Division—responsible for Visual Studio, Team Foundation Server, and other software engineering tools—this resulted in a two-year release cycle, a four-year customer feedback loop, and fixing 75,000 bugs to get Visual Studio 2010 out the door.
+Like every other company that has built software at scale, Microsoft fell into the usual traps of long release cycles, single-pass coding, and poor testing quality. For the Developer Division, responsible for Visual Studio, Team Foundation Server, and other software engineering tools, this resulted in a two-year release cycle, a four-year customer feedback loop, and fixing 75,000 bugs to get Visual Studio 2010 out the door.
 
-Market forces pushed them to evolve. They could no longer meet the demands of an increasingly dynamic market, and a four-year response time to customer needs was unsustainable. While laggards might remain, it's the early adopters who drive new business and shape emerging markets. Failing to keep them engaged signals a decline that, if left unchecked, can be fatal—but recovery is possible with decisive action.
+Market forces pushed them to evolve. They could no longer meet the demands of an increasingly dynamic market, and a four-year response time to customer needs was unsustainable. While laggards might remain, it's the early adopters who drive new business and shape emerging markets. Failing to keep them engaged signals a decline that, if left unchecked, can be fatal, but recovery is possible with decisive action.
 
-Azure DevOps emerged as the result of decisive action by Microsoft's Developer Division, triggered by an urgent need to break free from their two-year release cycle and four-year customer feedback loop. They didn't inherit perfection—they faced legacy code, fragmented processes, and a monolithic release cycle. Their transformation began with small, incremental changes, but success required deeper, systemic shifts:
+Azure DevOps emerged as the result of decisive action by Microsoft's Developer Division, triggered by an urgent need to break free from their two-year release cycle and four-year customer feedback loop. They didn't inherit perfection, they faced legacy code, fragmented processes, and a monolithic release cycle. Their transformation began with small, incremental changes, but success required deeper, systemic shifts:
 
-- **Automate Everything**: This cannot be emphasised enough. Automate every possible task. If something cannot be automated today, create a plan to rework the architecture until it can be. From testing and deployments to upgrades, certificates, passwords, and environments—automation should be the default, not the exception.
+- **Automate Everything**: This cannot be emphasised enough. Automate every possible task. If something cannot be automated today, create a plan to rework the architecture until it can be. From testing and deployments to upgrades, certificates, passwords, and environments, automation should be the default, not the exception.
 
 - **Trunk-Based Development**: The cognitive load and resulting complexity from supporting multiple versions of your product significantly increases complexity and risk. Long-running branches, especially when promoting by branch, slow the delivery of [working software]({{< ref "/tags/working-software" >}}) to real users. Adopting [Trunk-Based Development practices]({{< ref "/resources/blog/2025/2025-02-06-stop-promoting-branches" >}}) eliminates this risk by ensuring that all code integrates continuously into a single shared branch.
 
 - **Feature Flags**: To maximise both quality and value, it's essential to [test new capabilities in production]({{< ref "/resources/blog/2025/2025-02-06-testing-in-production-maximises-quality-and-value" >}}) while gradually exposing them to users, reducing risk. This approach shortens feedback loops and enables swift adaptation to emerging market opportunities. Since we can't predict which features will deliver the most value, we validate hypotheses by running small experiments with real data. Effective use of feature flags is crucial for these experiments, ensuring safe, controlled releases that drive continuous improvement.
 
-- **Shift-Left**: Shift from testing quality at the end (QA, Staging, UAT) to embedding it throughout the development process. Use hypothesis-driven practices and unit tests at every stage to ensure high quality from the start. Discovering a security vulnerability in staging often means the flaw is deeply embedded, leaving no time or budget for proper fixes—only quick patches that hackers easily exploit. Instead, conduct security tests, code reviews, and performance checks continuously, as close to code creation as possible.
+- **Shift-Left**: Shift from testing quality at the end (QA, Staging, UAT) to embedding it throughout the development process. Use hypothesis-driven practices and unit tests at every stage to ensure high quality from the start. Discovering a security vulnerability in staging often means the flaw is deeply embedded, leaving no time or budget for proper fixes, only quick patches that hackers easily exploit. Instead, conduct security tests, code reviews, and performance checks continuously, as close to code creation as possible.
 
 - **Iterate Over Pain**: If a task is hard or error-prone, you should do it more often. Any activity, like releasing, that feels difficult or frequently leads to errors deserves focused attention. Repeated practice exposes weak points, allowing you to refine the process and reduce risk. Avoiding the pain only ensures it remains a persistent threat.
 
@@ -127,7 +127,7 @@ How short your timeline needs to be is a question for your business... what is y
 
 ## Measuring your velocity
 
-Velocity isn't just about how much work gets done—it's about how fast you move from idea to outcome. It’s about closing feedback loops quickly, enabling continuous improvement, and delivering valuable increments faster.
+Velocity isn't just about how much work gets done, it's about how fast you move from idea to outcome. It’s about closing feedback loops quickly, enabling continuous improvement, and delivering valuable increments faster.
 
 In 2018, Buck Hodges from Microsoft's Azure DevOps/Team Foundation Server team introduced four key metrics to evaluate and enhance the [software development]({{< ref "/tags/software-development" >}}) and deployment process:
 
@@ -139,7 +139,7 @@ In 2018, Buck Hodges from Microsoft's Azure DevOps/Team Foundation Server team i
 
 - **Time to Learn:** This encompasses the period from deployment to collecting and analysing user feedback or telemetry data. Reducing Time to Learn ensures teams quickly understand user interactions and make informed decisions for future development. Faster learning cycles mean teams adapt quickly, prioritise effectively, and avoid wasting time on low-value features.
 
-These metrics represent stages in the flow of work from ideation to outcome. They are not the only metrics or stages, but they represent and expose significant bottlenecks in this case—and they are 100% within the control of engineering. Engineering did not require any outside approval to measure and optimise these stages. Accountability for improvement lies squarely within the team.
+These metrics represent stages in the flow of work from ideation to outcome. They are not the only metrics or stages, but they represent and expose significant bottlenecks in this case, and they are 100% within the control of engineering. Engineering did not require any outside approval to measure and optimise these stages. Accountability for improvement lies squarely within the team.
 
 By monitoring and optimising these metrics, development teams can achieve a more streamlined and responsive DevOps workflow, leading to faster delivery of high-quality software. However, these metrics are focused on the work of engineers building the product, and there may be other things in the application lifecycle that may have a bigger impact on you and your teams.
 

@@ -30,6 +30,7 @@ concepts: []
 categories:
   - Uncategorized
 tags:
+  - Personal
   - Team Motivation
   - Organisational Change
   - Operational Practices

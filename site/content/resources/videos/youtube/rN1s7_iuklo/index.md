@@ -64,15 +64,15 @@ duration: 56
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 In the fast-paced world of Agile, the key to success lies in the ability of teams to adapt and evolve. But are your teams truly empowered to change their processes based on what they learn? If they aren't, then they might not be as agile as you think. 🚀
 
 ## **The Importance of Empowerment in Agile Teams**
 
 ### **Why Empowerment Matters**
 
-Empowerment in Agile teams isn't just a buzzword—it's a fundamental principle that drives effectiveness and value. When teams have the autonomy to adjust their processes, they can better respond to the unique challenges and opportunities in their specific contexts.
+Empowerment in Agile teams isn't just a buzzword, it's a fundamental principle that drives effectiveness and value. When teams have the autonomy to adjust their processes, they can better respond to the unique challenges and opportunities in their specific contexts.
 
 - **Flexibility in Process**: Different teams, even within the same organization, may face varying challenges. What works for one team might not work for another. Empowering teams to tailor their processes allows them to optimize their workflow, tools, and practices to best fit their unique needs.
 
@@ -98,7 +98,7 @@ Empowering teams starts with fostering a culture of continuous improvement. Enco
 
 ### **Provide the Right Tools and Support**
 
-Empowerment isn't about leaving teams to figure it out on their own—it's about providing them with the tools, resources, and support they need to succeed.
+Empowerment isn't about leaving teams to figure it out on their own, it's about providing them with the tools, resources, and support they need to succeed.
 
 - **Access to Tools**: Ensure that teams have access to a variety of tools and resources that can help them optimize their processes. This might include software, training, or even just the freedom to rearrange their workspace to better suit their needs.
 

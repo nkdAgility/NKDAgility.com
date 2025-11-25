@@ -5,10 +5,10 @@ description: Explains how Scrum exposes hidden organisational problems through t
 tldr: Scrum does not fix problems but makes them visible, helping teams identify bottlenecks, communication gaps, and inefficient processes. This transparency enables continuous learning and improvement, encourages collaboration, and prompts organizations to address root causes. Development managers should use Scrum’s insights to drive real change and foster a culture of problem-solving and adaptation.
 date: 2023-09-27T07:00:29Z
 lastmod: 2023-09-27T07:00:29Z
-weight: 590
+weight: 410
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.4
   changefreq: monthly
 ItemId: Ys0dWfKVSeA
 ItemType: videos

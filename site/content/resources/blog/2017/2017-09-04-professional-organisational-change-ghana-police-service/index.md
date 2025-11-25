@@ -40,6 +40,7 @@ tags:
   - Digital Transformation
   - Organisational Culture
   - Organisational Physics
+  - Operating Model
 Watermarks:
   description: 2025-05-07T13:16:28Z
   short_title: 2025-07-07T17:58:42Z

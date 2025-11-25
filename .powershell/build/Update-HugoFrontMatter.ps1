@@ -264,10 +264,24 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     
     # =================weight===================
     switch ($ItemType) {
-        { $_ -in @("videos", "podcast", "blog", "signals", "newsletters", "guides", "engineering-notes", "workshops", "recipes", "principles", "case-studies") } { 
-            $eeResult = Get-Classification -hugoMarkdown $hugoMarkdown  -ClassificationName "Engineering Excellence"
-            $tlResult = Get-Classification -hugoMarkdown $hugoMarkdown  -ClassificationName "Technical Leadership"
-            $weight = [math]::Round(((1000 - ($eeResult.final_score * 10)) + (1000 - ($tlResult.final_score * 10))) / 2)
+        { $_ -in @("videos", "podcast", "blog", "signals", "newsletters", "guides", "engineering-notes", "workshops", "recipes", "principles", "case-studies", "outcomes", "course", "capabilities") } { 
+            # Define classification names to use for weight calculation
+            $classificationNames = @("Engineering Excellence", "Technical Leadership")
+            
+            # Get classification results for each name
+            $classificationResults = @()
+            foreach ($name in $classificationNames) {
+                $result = Get-Classification -hugoMarkdown $hugoMarkdown -ClassificationName $name
+                $classificationResults += $result
+            }
+            
+            # Calculate average weight from all classifications
+            $weightSum = 0
+            foreach ($result in $classificationResults) {
+                $weightSum += (1000 - ($result.final_score * 10))
+            }
+            $weight = [math]::Round($weightSum / $classificationResults.Count)
+            
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'weight' -fieldValue $weight -Overwrite
         }
         default { 

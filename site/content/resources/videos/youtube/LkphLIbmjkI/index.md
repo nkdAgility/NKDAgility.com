@@ -45,8 +45,8 @@ duration: 340
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ## Limits of Professional [Coaching]({{< ref "/tags/coaching" >}})
 
 I often come across a compelling question: "Why is a [Scrum]({{< ref "/categories/scrum" >}}) team better served by an Agile consultant rather than a professional coach?" 🤔
@@ -85,4 +85,4 @@ Sharpen Your Skills with Our Agile and Scrum Courses 🌟
 
 Want to delve deeper into the technical aspects that make Scrum and Agile successful?
 
-Our comprehensive range of courses is just what you need. Don't wait—enrol today!
+Our comprehensive range of courses is just what you need. Don't wait, enrol today!

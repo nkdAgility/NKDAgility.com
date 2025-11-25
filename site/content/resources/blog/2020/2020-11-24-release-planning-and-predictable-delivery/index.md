@@ -33,11 +33,12 @@ categories:
   - Scrum
 tags:
   - Software Development
+  - Agile Planning
   - Agile Strategy
   - Social Technologies
+  - Forecasting
   - Technical Debt
   - Increment
-  - Agile Planning
   - Pragmatic Thinking
   - Working Software
   - Product Delivery
@@ -46,7 +47,6 @@ tags:
   - Agile Product Management
   - Agile Frameworks
   - Empirical Process Control
-  - Professional Scrum
 Watermarks:
   description: 2025-05-07T13:15:21Z
   short_title: 2025-07-07T17:57:47Z

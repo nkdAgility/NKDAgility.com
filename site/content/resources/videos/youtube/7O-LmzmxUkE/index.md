@@ -1,6 +1,6 @@
 ---
 title: Scrum is like communism, it doesn't work. Myth 1
-short_title: 'Scrum Events: Myths vs. Meaningful Practice'
+short_title: "Scrum Events: Myths vs. Meaningful Practice"
 description: Explains why Scrum events are not pointless meetings but structured opportunities for inspection, adaptation, and progress, clarifying common misconceptions about Scrum.
 tldr: Scrum events are not just meetings but purposeful activities designed to drive inspection, adaptation, and real progress. Misunderstanding them as empty ceremonies leads to missed opportunities for team alignment, stakeholder engagement, and continuous improvement. Development managers should focus on using Scrum events to foster transparency and action, not just to fill calendars.
 date: 2023-10-24T06:50:42Z
@@ -60,19 +60,19 @@ duration: 255
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 # Demystifying [Scrum]({{< ref "/categories/scrum" >}}): Beyond Meetings to Meaningful Events 🚀
 
 Hey there, Agile enthusiasts! Today, I'm tackling a pervasive myth that's been haunting the corridors of Scrum practice: **the belief that Scrum equals endless talking and not enough doing.** It's a misconception that can turn teams away from the true essence and benefits of Scrum. Let's dive into why Scrum's so-called "ceremonies" are much more than just meetings, and how each event is designed to foster empiricism and action. 🌟
 
 ## The Ceremony Misconception: A Tale of Unproductive Gatherings 🎭
 
-Often, I encounter teams bogged down by the notion that Scrum's structured events are mere formalities—ceremonies devoid of tangible outcomes. This misconception stems from outdated terminology and a fundamental misunderstanding of Scrum's purpose. Let me set the record straight: Scrum's events are not ceremonies; they're **meaningful engagements** designed to spark inspection, adaptation, and meaningful progress. 🛠️
+Often, I encounter teams bogged down by the notion that Scrum's structured events are mere formalities, ceremonies devoid of tangible outcomes. This misconception stems from outdated terminology and a fundamental misunderstanding of Scrum's purpose. Let me set the record straight: Scrum's events are not ceremonies; they're **meaningful engagements** designed to spark inspection, adaptation, and meaningful progress. 🛠️
 
 ### Events, Not Ceremonies: The Heartbeat of Empiricism 💓
 
-Scrum deliberately labels its structured engagements as **events**—not ceremonies or meetings—to underscore their dynamic, outcome-oriented nature. Each event is crafted to serve empiricism, the core of Scrum's philosophy, by facilitating inspection and enabling necessary adaptations. If you're not adapting, you're missing the point.
+Scrum deliberately labels its structured engagements as **events**, not ceremonies or meetings, to underscore their dynamic, outcome-oriented nature. Each event is crafted to serve empiricism, the core of Scrum's philosophy, by facilitating inspection and enabling necessary adaptations. If you're not adapting, you're missing the point.
 
 #### Sprint Planning: The Launchpad 🚀
 
@@ -84,7 +84,7 @@ And what about the often-misunderstood **Daily Scrum**? Far from being a time-co
 
 ## Engaging Stakeholders: The [Sprint Review]({{< ref "/tags/sprint-review" >}}) Invitation 💌
 
-How do we ensure stakeholders show up engaged and ready to provide valuable feedback during the **Sprint Review**? By giving them something they care about to discuss. The Sprint Goal isn't just a target; it's an invitation to a dialogue—a chance to inspect the [increment]({{< ref "/tags/increment" >}}) and adapt based on stakeholder insights.
+How do we ensure stakeholders show up engaged and ready to provide valuable feedback during the **Sprint Review**? By giving them something they care about to discuss. The Sprint Goal isn't just a target; it's an invitation to a dialogue, a chance to inspect the [increment]({{< ref "/tags/increment" >}}) and adapt based on stakeholder insights.
 
 ### Empowering Teams: From Silence to Empiricism 🚣
 

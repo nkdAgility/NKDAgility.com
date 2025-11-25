@@ -1,5 +1,5 @@
 ---
-title: 'Mastering Remote Work: Key Insights for Agile Teams to Thrive in a Digital World'
+title: "Mastering Remote Work: Key Insights for Agile Teams to Thrive in a Digital World"
 short_title: Mastering Remote Work for Agile Teams
 description: Practical strategies for remote Agile teams, covering communication, tool selection, value delivery, team dynamics, gamification, and integrating UX into software development.
 tldr: Remote work requires strong communication, the right tools, and a focus on delivering value, even when teams are not co-located. Improving feedback loops, observing team dynamics through activities like games, and integrating UX early in Agile processes all help teams collaborate better and build the right products. Development managers should prioritize open communication, continuous process improvement, and shared accountability for user experience to help their teams thrive in a digital environment.
@@ -52,16 +52,15 @@ duration: 1506
 resourceTypes:
   - video
 isShort: false
-
 ---
-Hello, I’m Martin Hinshelwood, the owner of Naked Agility based in Glasgow, Scotland. Today, I want to share some insights and experiences that have come up in recent discussions, particularly around [remote working]({{< ref "/tags/remote-working" >}}), the integration of UX in Agile practices, and the importance of team dynamics. 
+
+Hello, I’m Martin Hinshelwood, the owner of Naked Agility based in Glasgow, Scotland. Today, I want to share some insights and experiences that have come up in recent discussions, particularly around [remote working]({{< ref "/tags/remote-working" >}}), the integration of UX in Agile practices, and the importance of team dynamics.
 
 ### Embracing Remote Work
 
 As many of us find ourselves navigating the complexities of remote work, it’s crucial to remember that while [Scrum]({{< ref "/categories/scrum" >}}) promotes co-located teams, the reality is often different. Here are some key points to consider:
 
 - **Communication is Key**: Are you regularly checking in with your teammates? It’s vital to maintain open lines of communication, even if it’s through video conferencing. Make sure everyone knows what others are working on to foster a sense of collaboration.
-  
 - **Adapt Your Tools**: Don’t get stuck using tools that aren’t serving your needs. I recently tried using Microsoft Teams for a web conference and found it lacking for my specific setup. Be willing to experiment with different technologies to find what works best for your team.
 
 - **Focus on [Value Delivery]({{< ref "/tags/value-delivery" >}})**: While remote work can sometimes lead to a lack of focus, it’s essential to keep delivering value. Remember, the work we do in Scrum is complex and requires a thoughtful approach to problem-solving.
@@ -94,8 +93,8 @@ A question I often receive is how to ensure that UX isn’t an afterthought in l
 
 ### Conclusion
 
-In summary, whether you’re navigating the challenges of remote work, striving for [engineering excellence]({{< ref "/categories/engineering-excellence" >}}), or integrating UX into your Agile practices, the core values of Scrum—[transparency]({{< ref "/tags/transparency" >}}), trust, and collaboration—should guide your efforts. 
+In summary, whether you’re navigating the challenges of remote work, striving for [engineering excellence]({{< ref "/categories/engineering-excellence" >}}), or integrating UX into your Agile practices, the core values of Scrum, [transparency]({{< ref "/tags/transparency" >}}), trust, and collaboration, should guide your efforts.
 
-As we continue to adapt to these changing circumstances, let’s remember to focus on our people and the value we deliver. If you have any questions or would like to discuss these topics further, please don’t hesitate to reach out. 
+As we continue to adapt to these changing circumstances, let’s remember to focus on our people and the value we deliver. If you have any questions or would like to discuss these topics further, please don’t hesitate to reach out.
 
 Thank you for taking the time to read this, and I hope you found these insights helpful. Let’s keep the conversation going!

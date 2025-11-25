@@ -52,9 +52,9 @@ Watermarks:
   tldr: 2025-08-07T12:34:44Z
 ResourceId: Rx4LP6ywHVh
 ResourceType: signals
-
 ---
-Scrum Masters and Product Owners are held accountable for results. But here’s the contradiction—how can you be accountable for something you have no control over?
+
+Scrum Masters and Product Owners are held accountable for results. But here’s the contradiction, how can you be accountable for something you have no control over?
 
 Too often, Scrum Masters are expected to ensure team effectiveness without the authority to remove impediments, challenge dysfunction, or enforce alignment. Influence is important, but it’s not enough. Leadership without control is just a suggestion.
 

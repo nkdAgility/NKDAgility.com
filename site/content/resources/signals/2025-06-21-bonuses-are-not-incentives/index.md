@@ -1,7 +1,7 @@
 ---
 title: Bonuses are not incentives
 short_title: Bonuses Are Not Incentives
-description: Bonuses reflect mistrust, not motivation. True engagement in knowledge work comes from purpose, autonomy, and meaningful challenges—not financial rewards.
+description: Bonuses reflect mistrust, not motivation. True engagement in knowledge work comes from purpose, autonomy, and meaningful challenges, not financial rewards.
 tldr: Bonuses do not truly motivate skilled software engineers; instead, purpose, autonomy, and meaningful challenges drive performance. Relying on traditional incentives signals a lack of trust and leads to outdated, compliance-focused cultures. Development managers should focus on empowering teams and aligning work with meaningful outcomes rather than using bonuses as motivation.
 date: 2025-06-21T08:30:44+01:00
 lastmod: 2025-06-21T08:30:44+01:00
@@ -46,8 +46,8 @@ Watermarks:
   tldr: 2025-08-07T12:10:56Z
 ResourceId: zy7JlL2SIY-
 ResourceType: signals
-
 ---
+
 Bonuses are not incentives. They’re symptoms of a system that doesn’t trust people to care about their work.
 
 In a knowledge economy, the best people are not motivated by a few extra pounds or dollars. They’re motivated by purpose, autonomy, and the chance to solve hard problems.
@@ -56,7 +56,7 @@ You don’t need to bribe great engineers to do their job. You just need to stop
 
 If your company still relies on carrots and sticks, it’s not agile. It’s not modern. It’s just Taylorism with a friendlier HR policy.
 
-The knowledge age demands agency—not compliance.
+The knowledge age demands agency, not compliance.
 
 If your performance systems are designed for factory work, don’t be surprised when your team acts like factory workers.
 

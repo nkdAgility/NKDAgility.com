@@ -5,7 +5,7 @@ description: The PSU course bridges the gap in product development by integratin
 tldr: The PSU course is popular because it fills a major gap in Scrum by teaching teams how to integrate user experience and design thinking into product development, not just how to execute work. It helps teams prioritize and validate the most valuable work, ensuring they build the right products for the right users rather than just delivering features efficiently. Development managers should consider this course to improve decision-making and deliver products that truly meet customer needs.
 date: 2023-02-21T07:00:07Z
 lastmod: 2023-02-21T07:00:07Z
-weight: 540
+weight: 525
 sitemap:
   filename: sitemap.xml
   priority: 0.3

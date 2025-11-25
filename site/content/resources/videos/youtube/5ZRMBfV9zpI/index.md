@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking Your Potential: Transformative Training for Aspiring Scrum Masters'
+title: "Unlocking Your Potential: Transformative Training for Aspiring Scrum Masters"
 short_title: Scrum Master Training for Aspiring Leaders
 description: Comprehensive Scrum Master training offering interactive workshops, practical activities, community support, and assessment to build Agile skills and foster continuous improvement.
 tldr: Effective Scrum Master training combines interactive workshops, supplementary learning, and ongoing community support to build deep understanding and practical skills. Participants benefit from hands-on activities, access to assessments, and regular engagement with peers and trainers, which helps them apply Scrum principles in real-world settings. Investing in such training empowers Scrum Masters to foster collaboration and continuous improvement, so consider supporting your team’s development through similar opportunities.
@@ -49,8 +49,8 @@ duration: 74
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 As I reflect on my journey in the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I often find myself drawn back to the transformative power of effective training. Recently, I had the pleasure of facilitating a workshop designed for those eager to embark on or enhance their careers as Scrum Masters. This experience reinforced my belief in the importance of a solid foundation in Scrum theory and principles.
 
 ### The Essence of the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master Workshop
@@ -77,6 +77,6 @@ As I guide participants through this workshop, I am continually reminded of the 
 
 In my experience, the role of a Scrum Master is not just about facilitating processes; it’s about nurturing a culture of collaboration, [transparency]({{< ref "/tags/transparency" >}}), and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). By investing in training and community, we equip Scrum Masters with the tools they need to thrive in their roles and drive meaningful change within their organisations.
 
-If you’re considering a career as a Scrum Master or looking to enhance your skills, I encourage you to seek out training opportunities that resonate with you. The journey may be challenging, but the rewards—both personal and professional—are well worth the effort. 
+If you’re considering a career as a Scrum Master or looking to enhance your skills, I encourage you to seek out training opportunities that resonate with you. The journey may be challenging, but the rewards, both personal and professional, are well worth the effort.
 
 Let’s continue to learn, grow, and embrace the Agile mindset together.

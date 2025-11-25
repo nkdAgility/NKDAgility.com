@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking Code Quality: The Transformative Power of Frequent Deployments'
+title: "Unlocking Code Quality: The Transformative Power of Frequent Deployments"
 short_title: Frequent Deployments Improve Code Quality
 description: Explores how frequent code deployments improve code quality, reduce technical debt, enable faster feedback, and support iterative, user-focused software development.
 tldr: Frequent deployments lead to higher code quality, faster feedback, and better alignment with user needs, while infrequent deployments cause larger, riskier changes and more technical debt. Breaking work into smaller pieces and deploying regularly encourages maintainable code and enables quick pivots based on real user data. Development managers should focus on reducing batch sizes, increasing deployment frequency, and investing in observability to improve both product quality and team performance.
@@ -62,9 +62,9 @@ resourceTypes:
 isShort: false
 ResourceId: D1wz-J1jklQ
 ResourceType: videos
-
 ---
-When it comes to deploying code, I've often found that the frequency of our deployments can significantly impact the quality of our work and the overall health of our codebase. In my experience, when we don't deploy very frequently, we inadvertently invite a host of dysfunctional behaviours that can be easily avoided. 
+
+When it comes to deploying code, I've often found that the frequency of our deployments can significantly impact the quality of our work and the overall health of our codebase. In my experience, when we don't deploy very frequently, we inadvertently invite a host of dysfunctional behaviours that can be easily avoided.
 
 ### The Pitfalls of Infrequent Deployments
 
@@ -78,16 +78,15 @@ One of the most common issues I’ve observed is the tendency to tackle larger c
 On the flip side, frequent deployments can transform our development process for the better. Here’s how:
 
 1. **Smaller, More Manageable Changes**: By breaking down our work into smaller, valuable increments, we can deploy more frequently. This not only makes our code easier to manage but also allows us to gather feedback sooner.
-   
 2. **Increased Maintainability**: When I know I’ll be editing my code again soon, I’m more inclined to write maintainable and adaptable code. The thought of my colleagues having to clean up after me adds a layer of accountability that encourages better practices.
 
 3. **Real-Time User Insights**: Frequent deployments allow us to observe how users interact with our features. This data is invaluable for making informed decisions about future development. If a feature isn’t resonating with users, we can pivot quickly rather than investing time and resources into something that may not be worthwhile.
 
-4. **Confidence in Delivery**: Regularly shipping code builds confidence—not just in our product but also in our team’s ability to deliver. When we see the impact of our changes in real-time, it reinforces our commitment to [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
+4. **Confidence in Delivery**: Regularly shipping code builds confidence, not just in our product but also in our team’s ability to deliver. When we see the impact of our changes in real-time, it reinforces our commitment to [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 ### Embracing Hypothesis-Driven Engineering
 
-Incorporating hypothesis-driven [engineering practices]({{< ref "/tags/engineering-practices" >}}) can further enhance our approach. By collecting telemetry and data, we can validate whether we’re building the right features. This means we might choose to incur some technical debt initially, knowing we’ll revisit the code based on user feedback. 
+Incorporating hypothesis-driven [engineering practices]({{< ref "/tags/engineering-practices" >}}) can further enhance our approach. By collecting telemetry and data, we can validate whether we’re building the right features. This means we might choose to incur some technical debt initially, knowing we’ll revisit the code based on user feedback.
 
 - **Iterative Development**: We can afford to do a quick job on the first slice of a feature, allowing us to test its viability before committing to further investment. This iterative approach not only reduces waste but also aligns our development efforts with actual user needs.
 
@@ -101,6 +100,6 @@ To truly reap the benefits of frequent deployments, consider these practical ste
 
 ### Conclusion
 
-In my journey as a developer, I’ve learned that frequent deployments not only improve the quality of our code but also enhance our understanding of user needs. By embracing smaller batch sizes and increasing our deployment frequency, we can tackle technical debt more effectively and ultimately create happier customers. 
+In my journey as a developer, I’ve learned that frequent deployments not only improve the quality of our code but also enhance our understanding of user needs. By embracing smaller batch sizes and increasing our deployment frequency, we can tackle technical debt more effectively and ultimately create happier customers.
 
 So, if you’re looking to improve your development process, I encourage you to take a hard look at your deployment practices. You might just find that the key to better code and a more successful product lies in how often you’re willing to ship.

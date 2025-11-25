@@ -63,8 +63,8 @@ duration: 56
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 In the ever-evolving world of Agile, the ability to deliver [working software]({{< ref "/tags/working-software" >}}) to real users every iteration, including the very first one, is crucial. If your team isn't doing that, you may not be as Agile as you think. The heart of Agile lies in closing feedback loops and fostering tight interactions with customers. In this blog post, we'll dive into why delivering working software early and often is essential for true agility, how it impacts your product's success, and practical advice to help your team excel in this area.
 
 ## **Why Delivering Working Software Matters**
@@ -82,7 +82,6 @@ One of the core principles of Agile is to **close feedback loops** as quickly as
 Until your product is in the hands of actual users, everything you've built is just a hypothesis. The sooner you can validate these hypotheses, the better.
 
 - **Real-World Testing:** Early delivery allows your team to test the product in real-world scenarios. This feedback is invaluable and helps you to:
-
   - Identify what works and what doesn't
   - Understand user behavior and preferences
   - Make data-driven decisions for future iterations
@@ -151,6 +150,6 @@ This experience reinforced the importance of delivering working software to real
 
 ## **Conclusion: Delivering Value, One Iteration at a Time**
 
-In Agile, delivering working software every iteration is not just a goal—it's a necessity. It ensures that you're validating your assumptions, gathering feedback, and continuously delivering value to your stakeholders. By focusing on this principle, you can steer your product in the right direction, avoid costly mistakes, and ultimately build something that your users love.
+In Agile, delivering working software every iteration is not just a goal, it's a necessity. It ensures that you're validating your assumptions, gathering feedback, and continuously delivering value to your stakeholders. By focusing on this principle, you can steer your product in the right direction, avoid costly mistakes, and ultimately build something that your users love.
 
 Remember, **Agile is about maximizing value, not just delivering software**. By getting your product in front of real users early and often, you're ensuring that every iteration brings you closer to that goal. 🚀 **Start delivering working software every iteration, gather feedback, and watch your product thrive!**

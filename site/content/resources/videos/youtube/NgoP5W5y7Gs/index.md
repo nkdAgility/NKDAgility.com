@@ -1,7 +1,7 @@
 ---
 title: Security by Design Building Secure Software
-short_title: 'Security by Design: Building Secure Software'
-description: Explains how integrating security and quality early in software development—using practices like TDD, pair programming, and continuous feedback—builds robust, reliable systems.
+short_title: "Security by Design: Building Secure Software"
+description: Explains how integrating security and quality early in software development, using practices like TDD, pair programming, and continuous feedback, builds robust, reliable systems.
 tldr: Shifting left means building quality and security into software from the start by making developers responsible for testing, integrating expertise early, and using practices like test-driven development and continuous feedback. Although it may feel slower at first, this approach reduces long-term costs, technical debt, and enables faster, higher-quality delivery as shown by Azure DevOps’ transformation. Development managers should invest in shift-left practices now to empower teams, improve products, and accelerate innovation.
 date: 2024-11-26T13:35:33Z
 lastmod: 2024-11-26T13:35:33Z
@@ -51,17 +51,15 @@ resourceTypes:
 isShort: false
 ResourceId: NgoP5W5y7Gs
 ResourceType: videos
-
 ---
+
 # Shift Left: Building Quality and Security From the Start
 
-Hi, I’m Martin Hinshelwood, and today I want to explore the concept of "shifting left" in modern software engineering—a principle that’s all about building quality, security, and reliability into your software from the very start. It’s a transformative approach that not only enhances your product but also revolutionizes how your team works. Let me share some insights, personal experiences, and practical advice to help you embrace this mindset.
-
-
+Hi, I’m Martin Hinshelwood, and today I want to explore the concept of "shifting left" in modern software engineering, a principle that’s all about building quality, security, and reliability into your software from the very start. It’s a transformative approach that not only enhances your product but also revolutionizes how your team works. Let me share some insights, personal experiences, and practical advice to help you embrace this mindset.
 
 ## **What Does “Shift Left” Mean?**
 
-At its core, shifting left means moving quality assurance (QA) earlier in the development cycle. Instead of testing quality or fixing security issues after the code is written—or worse, after it’s in production—you build it into your processes right from the beginning.
+At its core, shifting left means moving quality assurance (QA) earlier in the development cycle. Instead of testing quality or fixing security issues after the code is written, or worse, after it’s in production, you build it into your processes right from the beginning.
 
 ### **Why Shift Left?**
 
@@ -71,7 +69,7 @@ At its core, shifting left means moving quality assurance (QA) earlier in the de
 
 ## **How Far Left Should You Go?**
 
-This is a common question—and a point of debate. For me, it’s simple: shift _all the way_ to the left. Here’s what that looks like in practice:
+This is a common question, and a point of debate. For me, it’s simple: shift _all the way_ to the left. Here’s what that looks like in practice:
 
 ### **1. Developers Own the Process**
 
@@ -92,7 +90,7 @@ Adopting a shift-left mindset requires leveraging modern [engineering practices]
 
 ### **1. Test-Driven Development (TDD)**
 
-TDD isn’t just about writing better code—it’s about creating better architectures. By writing tests first:
+TDD isn’t just about writing better code, it’s about creating better architectures. By writing tests first:
 
 - You focus only on the features you need.
 - Future enhancements become easier to add.
@@ -113,10 +111,10 @@ Short feedback loops help teams:
 
 ## **Overcoming the Initial Pain**
 
-I won’t sugarcoat it—shifting left takes effort. The first time you implement these practices, things will seem slower. You might feel like you’re delivering less. But here’s the reality:
+I won’t sugarcoat it, shifting left takes effort. The first time you implement these practices, things will seem slower. You might feel like you’re delivering less. But here’s the reality:
 
 - **Long-term efficiency:** Each task done “right” the first time means fewer bugs, fewer reworks, and less wasted effort down the line.
-- **Reduced exponential costs:** Poor engineering practices don’t just create linear problems—they create exponential ones. Imagine building a skyscraper on shaky foundations. With software, at least, we can go back and strengthen those foundations. But wouldn’t it be better to build it right the first time?
+- **Reduced exponential costs:** Poor engineering practices don’t just create linear problems, they create exponential ones. Imagine building a skyscraper on shaky foundations. With software, at least, we can go back and strengthen those foundations. But wouldn’t it be better to build it right the first time?
 
 ## **A Real-World Example: Azure [DevOps]({{< ref "/categories/devops" >}})’ Transformation**
 
@@ -125,7 +123,7 @@ The [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team is a perfect case stud
 - **The challenge:** Moving from a waterfall model to [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) meant dealing with years of accumulated [technical debt]({{< ref "/tags/technical-debt" >}}).
 - **The investment:** It took four years to pay back that debt. But the results? Stunning.
 - **The results:**
-  - They went from delivering 25 features per year to nearly 150 features—with the same team size.
+  - They went from delivering 25 features per year to nearly 150 features, with the same team size.
   - Faster delivery cycles enabled more experiments, better customer feedback, and ultimately, a better product.
 
 The lesson? The initial cost of shifting left is irrelevant compared to the long-term value it delivers.
@@ -138,7 +136,7 @@ Unlike physical buildings, though, software gives us the unique opportunity to r
 
 ## **Shifting Left Enables [Engineering Excellence]({{< ref "/categories/engineering-excellence" >}})**
 
-When you embrace shift-left practices, you’re not just improving your product—you’re transforming your organization. Here’s how:
+When you embrace shift-left practices, you’re not just improving your product, you’re transforming your organization. Here’s how:
 
 - **Better products:** Quality and security are baked in from the start, reducing the chances of costly errors.
 - **Happier customers:** Faster feedback loops and iterative improvements lead to better experiences.
@@ -162,6 +160,6 @@ Implementing these practices can be daunting, especially if your organization ha
 - Continuous delivery practices
 - Agile engineering techniques
 
-Shifting left is about more than just fixing bugs early—it’s about creating a culture of excellence that empowers your team and delights your customers. Start your journey today and unlock your team’s full potential.
+Shifting left is about more than just fixing bugs early, it’s about creating a culture of excellence that empowers your team and delights your customers. Start your journey today and unlock your team’s full potential.
 
 [Watch on Youtube](https://www.youtube.com/watch?v=NgoP5W5y7Gs)

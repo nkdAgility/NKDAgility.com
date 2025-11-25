@@ -5,10 +5,10 @@ description: Explores how agile teams use DevOps and Site Reliability Engineerin
 tldr: To stay competitive in a fast-changing market, teams must adopt DevOps and continuous delivery, shifting from infrequent releases to deploying updates daily. This requires faster feedback, shared responsibility for quality and operations, and new ways of working, as shown by Microsoft's Azure DevOps team. Development managers should consider evolving their team structures and practices to support rapid, customer-focused delivery.
 date: 2020-06-17
 lastmod: 2020-06-17
-weight: 360
+weight: 335
 sitemap:
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.6
   changefreq: weekly
 ItemId: c_gS0nlQD9E
 ItemType: blog
@@ -26,8 +26,8 @@ aliasesArchive:
 layout: blog
 concepts: []
 categories:
-  - DevOps
   - Engineering Excellence
+  - DevOps
   - Product Development
 tags:
   - Frequent Releases

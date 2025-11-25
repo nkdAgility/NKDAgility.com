@@ -5,10 +5,10 @@ description: Explains why recessions are ideal for organisations to adopt agile,
 tldr: Recessions are an ideal time for organizations to consider agile because uncertainty highlights the need to adapt quickly, focus on customer value, and empower teams to make decisions. Agile enables rapid learning, continuous improvement, and faster response to market changes compared to traditional management. Development managers should pilot agile practices in small, iterative cycles to test their impact and build on what works.
 date: 2023-02-09T07:15:02Z
 lastmod: 2023-02-09T07:15:02Z
-weight: 590
+weight: 540
 sitemap:
   filename: sitemap.xml
-  priority: 0.2
+  priority: 0.3
   changefreq: monthly
 ItemId: Nw0bXiOqu0Q
 ItemType: videos

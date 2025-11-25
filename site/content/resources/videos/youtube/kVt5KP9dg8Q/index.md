@@ -1,11 +1,11 @@
 ---
-title: 'Detecting Agile BS: Lessons from the Department of Defense'
-short_title: 'Detecting Agile BS: Lessons from DoD'
+title: "Detecting Agile BS: Lessons from the Department of Defense"
+short_title: "Detecting Agile BS: Lessons from DoD"
 description: Explores why true organisational agility needs more than Agile development, highlighting the importance of continuous delivery, quality, and removing bureaucratic barriers.
 tldr: Adopting Agile development practices is not enough if the rest of your organization remains slow and bureaucratic; true agility requires continuous delivery, high product quality, and minimal manual or bureaucratic steps across the entire process. Use the Department of Defense's six-question test to assess your real agility, and focus on automating testing, streamlining deployment, and building quality in from the start. Regularly review and improve your processes to eliminate bottlenecks and ensure your whole ecosystem supports rapid, reliable delivery.
 date: 2024-08-02T06:45:02Z
 lastmod: 2024-08-02T06:45:02Z
-weight: 245
+weight: 180
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +31,8 @@ layout: video
 concepts:
   - Practice
 categories:
-  - Product Development
   - Engineering Excellence
+  - Product Development
 tags:
   - Agile Philosophy
   - Continuous Delivery
@@ -56,8 +56,8 @@ duration: 346
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In the realm of Agile, there's a common trap that many organizations fall into: the belief that implementing Agile development practices is enough to achieve true agility. However, as the Department of Defense's "Detecting Agile BS" guide reveals, Agile development alone isn't sufficient if the rest of the system operates in a traditional, bureaucratic manner. This blog post delves into the insights provided by the guide, exploring why a fully Agile ecosystem is essential and offering practical advice for organizations striving to eliminate Agile BS.
 
 ## **The Pitfall of Partial Agility**
@@ -86,7 +86,7 @@ If the answer to any of these questions is "no," then your organization may not 
 
 ### **Why Quality Matters More Than Ever**
 
-A critical aspect of achieving a fully Agile ecosystem is prioritizing quality at every stage of the development process. I once worked with a team responsible for developing firmware for pacemakers—a product where quality literally means life or death. Their software had to pass rigorous external tests and validations, but they expected every test to succeed because they had built quality into every step of their process.
+A critical aspect of achieving a fully Agile ecosystem is prioritizing quality at every stage of the development process. I once worked with a team responsible for developing firmware for pacemakers, a product where quality literally means life or death. Their software had to pass rigorous external tests and validations, but they expected every test to succeed because they had built quality into every step of their process.
 
 While most of us aren't developing life-saving devices, the principle remains the same: high-quality products reduce the need for extensive manual checks and validations. If your organization still relies heavily on UAT, it might indicate that your product's quality isn't meeting the expected standards.
 
@@ -112,17 +112,17 @@ Here are the six questions you should ask yourself:
 
 1. **Are your teams able to continuously deliver to production?**
 
-3. **Is there no human intervention required between code submission and deployment?**
+2. **Is there no human intervention required between code submission and deployment?**
 
-5. **Do you have automated checks and validations in place?**
+3. **Do you have automated checks and validations in place?**
 
-7. **Is UAT unnecessary because your product quality is consistently high?**
+4. **Is UAT unnecessary because your product quality is consistently high?**
 
-9. **Have you minimized bureaucratic barriers in your deployment process?**
+5. **Have you minimized bureaucratic barriers in your deployment process?**
 
-11. **Are your Agile practices truly integrated across the entire ecosystem?**
+6. **Are your Agile practices truly integrated across the entire ecosystem?**
 
-If you can't answer "yes" to all these questions, it's a sign that your organization still has work to do. But don't be discouraged—this isn't about pointing fingers or declaring failure. Instead, it's an opportunity for self-reflection and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
+If you can't answer "yes" to all these questions, it's a sign that your organization still has work to do. But don't be discouraged, this isn't about pointing fingers or declaring failure. Instead, it's an opportunity for self-reflection and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 ### **A Path Toward True Agility**
 
@@ -136,11 +136,11 @@ To move closer to true agility, consider the following steps:
 
 ## **Conclusion: Striving for True Agility**
 
-Achieving true agility requires more than just adopting Agile development practices—it's about creating an ecosystem where every aspect of the process supports continuous delivery and high-quality outputs. The Department of Defense's "Detecting Agile BS" guide offers a valuable framework for assessing your organization's agility and identifying areas for improvement.
+Achieving true agility requires more than just adopting Agile development practices, it's about creating an ecosystem where every aspect of the process supports continuous delivery and high-quality outputs. The Department of Defense's "Detecting Agile BS" guide offers a valuable framework for assessing your organization's agility and identifying areas for improvement.
 
-Remember, the journey to true agility is ongoing. By regularly evaluating your processes, prioritizing quality, and eliminating unnecessary bureaucratic steps, your organization can move closer to a fully Agile ecosystem—one where Agile BS has no place.
+Remember, the journey to true agility is ongoing. By regularly evaluating your processes, prioritizing quality, and eliminating unnecessary bureaucratic steps, your organization can move closer to a fully Agile ecosystem, one where Agile BS has no place.
 
-* * *
+---
 
 **Key Takeaways:**
 

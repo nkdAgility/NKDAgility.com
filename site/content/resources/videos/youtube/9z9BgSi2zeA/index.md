@@ -1,6 +1,6 @@
 ---
-title: 'Hiring an Agile Coach: What to Look For in Both Technical and Leadership Engagement'
-short_title: 'Hiring an Agile Coach: Key Qualities to Seek'
+title: "Hiring an Agile Coach: What to Look For in Both Technical and Leadership Engagement"
+short_title: "Hiring an Agile Coach: Key Qualities to Seek"
 description: Learn what qualities to seek in an Agile coach, including technical expertise, business acumen, and the ability to engage both technical teams and leadership for effective transformation.
 tldr: When hiring an Agile coach, prioritize candidates who can engage deeply with both technical teams and leadership, as this is key to a successful Agile transformation. Look for strong technical understanding relevant to your industry, business acumen to connect Agile practices to strategic goals, and excellent communication skills to influence at all levels. Choose a coach who fits your culture and can bridge gaps across the organization to drive real business outcomes.
 date: 2023-11-21T11:00:08Z
@@ -54,13 +54,13 @@ duration: 47
 resourceTypes:
   - video
 isShort: true
-
 ---
-Hiring the right Agile coach is one of the most critical decisions an organization can make on its journey to becoming more Agile. It's not just about their ability to understand [Scrum]({{< ref "/categories/scrum" >}}) or [Agile frameworks]({{< ref "/tags/agile-frameworks" >}})—it's about their ability to deeply engage with both the technical teams and [leadership]({{< ref "/categories/leadership" >}}). They must gain credibility in both arenas to effectively drive the transformation.
+
+Hiring the right Agile coach is one of the most critical decisions an organization can make on its journey to becoming more Agile. It's not just about their ability to understand [Scrum]({{< ref "/categories/scrum" >}}) or [Agile frameworks]({{< ref "/tags/agile-frameworks" >}}), it's about their ability to deeply engage with both the technical teams and [leadership]({{< ref "/categories/leadership" >}}). They must gain credibility in both arenas to effectively drive the transformation.
 
 In this post, we'll explore the key traits to look for when hiring an Agile coach, focusing on their ability to work with both technical staff and leadership. I'll share personal experiences, practical advice, and a few tips to help you make the right choice for your organization.
 
-* * *
+---
 
 ## **Why Technical and Leadership Engagement Matters**
 
@@ -90,7 +90,7 @@ A great Agile coach doesn't need to be an expert coder, but they should know eno
 
 For instance, in my experience working with a large financial organization, the technical teams initially resisted Agile practices. They saw them as more of a "management fad" than a practical solution. To win them over, I had to demonstrate a deep understanding of how Agile principles could improve the specific financial products they were working on. Only once I gained credibility with them did they start embracing the Agile mindset fully.
 
-* * *
+---
 
 ### **2\. Engaging Leadership and Management**
 
@@ -100,16 +100,14 @@ Here’s what makes a coach effective in this arena:
 
 - **Business Understanding**: They must understand the unique context of your business. If you're in **finance**, they need to know the financial ramifications of adopting Agile practices. For example, how will Agile impact **compliance**, **risk management**, or **regulatory requirements**?
 
-- **Effective Communication**: Leadership teams aren’t interested in technical jargon—they want to see results. A coach needs to articulate how Agile practices lead to tangible business outcomes, such as:
-    - Faster [time to market]({{< ref "/tags/time-to-market" >}}) ⏳
-    
-    - Increased innovation 🚀
-    
-    - Higher customer satisfaction ⭐
+- **Effective Communication**: Leadership teams aren’t interested in technical jargon, they want to see results. A coach needs to articulate how Agile practices lead to tangible business outcomes, such as:
+  - Faster [time to market]({{< ref "/tags/time-to-market" >}}) ⏳
+  - Increased innovation 🚀
+  - Higher customer satisfaction ⭐
 
-For example, in a tech startup where I once coached, the leadership was concerned about balancing rapid growth with product quality. I engaged with them by focusing on how Agile practices could align with their **business goals**—like speeding up [product delivery]({{< ref "/tags/product-delivery" >}}) without sacrificing quality. By doing this, I built trust with the leadership team, who then became enthusiastic supporters of Agile.
+For example, in a tech startup where I once coached, the leadership was concerned about balancing rapid growth with product quality. I engaged with them by focusing on how Agile practices could align with their **business goals**, like speeding up [product delivery]({{< ref "/tags/product-delivery" >}}) without sacrificing quality. By doing this, I built trust with the leadership team, who then became enthusiastic supporters of Agile.
 
-* * *
+---
 
 ## **What to Look For in an Agile Coach**
 
@@ -119,13 +117,13 @@ When you're hiring an Agile coach, you're not just hiring a consultant; you're b
 
 - Make sure they have experience in your industry (e.g., finance, tech) and can speak the language of your technical teams.
 
-- Ask about their technical background—what tools or methodologies have they worked with?
+- Ask about their technical background, what tools or methodologies have they worked with?
 
 - Test their ability to connect technical details to Agile principles.
 
 💡 _Pro tip_: During the interview, have them sit in on a technical meeting. How well do they understand and contribute to the conversation?
 
-* * *
+---
 
 ### **2\. Business Acumen**
 
@@ -137,7 +135,7 @@ An Agile coach needs to be able to connect agility to the broader business conte
 
 - Can they effectively communicate the long-term value of Agile to executives?
 
-* * *
+---
 
 ### **3\. Communication and Influence Skills**
 
@@ -149,11 +147,11 @@ Whether they’re talking to a developer or a CEO, an Agile coach needs to tailo
 
 📢 _Tip_: Look for someone who has experience facilitating discussions between cross-functional teams and leadership.
 
-* * *
+---
 
 ### **4\. Cultural Fit**
 
-Agile isn't just a set of practices—it's a cultural shift. Ensure your Agile coach is aligned with your company’s values and culture:
+Agile isn't just a set of practices, it's a cultural shift. Ensure your Agile coach is aligned with your company’s values and culture:
 
 - Do they understand your organization's **current culture** and where it needs to change?
 
@@ -163,7 +161,7 @@ Agile isn't just a set of practices—it's a cultural shift. Ensure your Agile c
 
 👥 _Advice_: A coach who mirrors your organization’s cultural values will be far more effective in building trust across the company.
 
-* * *
+---
 
 ## **Final Thoughts: Investing in the Right Coach**
 
@@ -171,8 +169,8 @@ Hiring an Agile coach is an investment in your organization's future. A coach wh
 
 Before you make your decision, ensure that the coach has both the technical chops and the business acumen necessary to succeed. They should be able to engage both groups and drive credibility, leading to a smoother, more successful [Agile transformation]({{< ref "/tags/agile-transformation" >}}).
 
-👨‍🏫 _Remember_: The right Agile coach is more than just a guide—they’re a partner in your journey toward true agility.
+👨‍🏫 _Remember_: The right Agile coach is more than just a guide, they’re a partner in your journey toward true agility.
 
-* * *
+---
 
 By carefully selecting an Agile coach who excels in both technical and leadership engagement, you’re setting your organization up for long-term success. You'll see not just improved processes, but stronger alignment between business goals and team execution, leading to tangible outcomes like higher innovation, faster delivery, and greater customer satisfaction.

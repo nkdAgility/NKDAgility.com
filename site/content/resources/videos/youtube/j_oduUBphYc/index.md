@@ -1,7 +1,7 @@
 ---
-title: 'Modernising Legacy Systems: How to Tackle Security Risks Without Breaking Your Business'
+title: "Modernising Legacy Systems: How to Tackle Security Risks Without Breaking Your Business"
 short_title: Modernising Legacy Systems Securely
-description: Struggling with legacy systems? Discover how to modernise securely, reduce risk, and build resilience—without trading old problems for new ones.
+description: Struggling with legacy systems? Discover how to modernise securely, reduce risk, and build resilience, without trading old problems for new ones.
 tldr: Modernising legacy systems is essential for security, but rushing the process can create new risks; instead, map your workflows, embed security throughout development, empower teams, and focus on maintainability and compliance. Treat security as an ongoing mindset, not a one-time task, and continuously adapt as threats evolve. Start by assessing how work and security practices flow in your organisation before making changes.
 date: 2025-05-12T06:00:00Z
 lastmod: 2025-05-12T06:00:00Z
@@ -48,17 +48,17 @@ resourceTypes:
 isShort: false
 ResourceId: j_oduUBphYc
 ResourceType: videos
-
 ---
+
 Legacy systems are a security nightmare. Let’s not sugar-coat it. I’ve seen it time and again: outdated protocols, compliance failures lurking in the shadows, and systems so fragile that nobody dares to touch them for fear of what might break next. If you’re reading this, you probably know exactly what I mean.
 
 The uncomfortable truth is that these systems were built in a different era, under assumptions that simply don’t hold up against today’s threat landscape. They weren’t designed for the relentless pace and sophistication of modern attacks. Yet, despite their age and fragility, businesses still depend on them. Modernisation, then, isn’t a nice-to-have. It’s inevitable.
 
-But here’s where I see organisations stumble: they rush into modernisation, treating it as a box-ticking exercise or a race to the latest technology. That’s a recipe for disaster. A hasty move can introduce new vulnerabilities—sometimes even more dangerous than the ones you were trying to fix.
+But here’s where I see organisations stumble: they rush into modernisation, treating it as a box-ticking exercise or a race to the latest technology. That’s a recipe for disaster. A hasty move can introduce new vulnerabilities, sometimes even more dangerous than the ones you were trying to fix.
 
 So, how do you modernise safely? How do you ensure that your efforts don’t just shift the risk, but actually reduce it?
 
-From my experience, the answer isn’t just about technology. It’s about understanding your system of work—how your teams plan, build, and deploy software. It’s about embedding security-first practices into the very fabric of your organisation, not bolting them on as an afterthought.
+From my experience, the answer isn’t just about technology. It’s about understanding your system of work, how your teams plan, build, and deploy software. It’s about embedding security-first practices into the very fabric of your organisation, not bolting them on as an afterthought.
 
 Here’s what I recommend:
 
@@ -68,8 +68,8 @@ Here’s what I recommend:
 - **Focus on Maintainability and Compliance**: Modernisation isn’t just about shiny new tech. It’s about making your systems easier to maintain and ensuring you’re not one audit away from disaster.
 - **Iterate and Learn**: No system is ever “done.” The threat landscape evolves, and so must your approach. Inspect, adapt, and keep moving forward.
 
-Security isn’t a checkbox. It’s a mindset—a way of working that’s woven into every decision, every collaboration, every line of code. When you treat it as a continuous discipline, you don’t just keep up with the competition. You get ahead.
+Security isn’t a checkbox. It’s a mindset, a way of working that’s woven into every decision, every collaboration, every line of code. When you treat it as a continuous discipline, you don’t just keep up with the competition. You get ahead.
 
-If your legacy systems are keeping you up at night, you’re not alone. But you don’t have to face the challenge alone, either. Let’s have a conversation about how you can modernise with confidence—so you’re not just reacting to threats, but proactively building a safer, more resilient future for your business.
+If your legacy systems are keeping you up at night, you’re not alone. But you don’t have to face the challenge alone, either. Let’s have a conversation about how you can modernise with confidence, so you’re not just reacting to threats, but proactively building a safer, more resilient future for your business.
 
 Because modernisation shouldn’t be about survival. It should be about leadership.

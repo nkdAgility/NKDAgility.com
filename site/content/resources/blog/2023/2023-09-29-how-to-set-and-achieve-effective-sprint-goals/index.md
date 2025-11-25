@@ -29,17 +29,17 @@ aliasesArchive:
   - /resources/blog/how-to-set-and-achieve-effective-sprint-goals
 layout: blog
 concepts:
-  - Practice
+  - Accountability
 categories:
   - Scrum
   - Product Development
   - Product Management
 tags:
+  - Agile Planning
   - Software Development
   - Scrum Team
   - Professional Scrum
   - Agile Product Management
-  - Agile Planning
   - Agile Frameworks
   - Product Delivery
   - Team Performance

@@ -48,11 +48,11 @@ Watermarks:
   tldr: 2025-08-07T12:29:25Z
 ResourceId: qpdjJhtaABE
 ResourceType: signals
-
 ---
+
 David thought he already knew Scrum. Four hours into the class, he realised he didn’t.
 
-This happens all the time. Eight years of doing "Scrum," but it’s actually a Frankenstein of old habits—command and control disguised in agile language.
+This happens all the time. Eight years of doing "Scrum," but it’s actually a Frankenstein of old habits, command and control disguised in agile language.
 
 The Applying Professional Scrum class is a reset. It’s not just about the mechanics of Scrum, but the why behind each element. The bounded environment. The transparency. The events that force inspection and adaptation.
 

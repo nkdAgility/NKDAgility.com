@@ -1,5 +1,5 @@
 ---
-title: 'Empathy in Agile: Building Trust and Stronger Relationships for Success'
+title: "Empathy in Agile: Building Trust and Stronger Relationships for Success"
 short_title: Empathy and Trust in Agile Teams
 description: Explores how empathy, trust, and respect strengthen agile teams, improve collaboration, reduce bias, and foster continuous improvement in organisations and with customers.
 tldr: Empathy, modesty, and respect are essential for building trust and strong relationships in agile teams, leadership, and with customers, leading to better collaboration and outcomes. Avoiding assumptions and seeking diverse perspectives through open questions and feedback helps prevent bias and supports continuous improvement. Development managers should prioritise empathy and active listening to create a culture where everyone feels valued and engaged.
@@ -55,9 +55,9 @@ duration: 53
 resourceTypes:
   - video
 isShort: true
-
 ---
-In my journey through the world of agility, I've come to realise that the foundation of successful agile practices lies not just in frameworks or methodologies, but in the relationships we cultivate. Bringing modesty and respect for others into our conversations is paramount. It’s about building trust—trust that extends beyond our immediate teams to encompass the entire organisation and even our customers.
+
+In my journey through the world of agility, I've come to realise that the foundation of successful agile practices lies not just in frameworks or methodologies, but in the relationships we cultivate. Bringing modesty and respect for others into our conversations is paramount. It’s about building trust, trust that extends beyond our immediate teams to encompass the entire organisation and even our customers.
 
 ### The Importance of Empathy in Agile
 

@@ -50,8 +50,8 @@ Watermarks:
   tldr: 2025-08-07T12:29:15Z
 ResourceId: jLgGAlKQ7-O
 ResourceType: signals
-
 ---
+
 Want to flow work across Sprints without compromising Scrum? Then your engineering practices must evolve. The difference between “Unfinished Backlog Items” and “Undone Work” is critical.
 
 If you’re shipping into production, you can’t afford brittle hacks or partial implementations. This is where Feature Flags, TDD, and refactoring come in. They’re not optional. They’re enablers of flow.
@@ -60,6 +60,6 @@ If you’re shipping into production, you can’t afford brittle hacks or partia
 - TDD proves your code does what you expect, even after refactoring.
 - Refactoring keeps your system healthy and maintainable.
 
-Scrum doesn’t require Continuous Delivery, but let’s be honest—if you want flow, CD isn’t optional. It’s the price of admission.
+Scrum doesn’t require Continuous Delivery, but let’s be honest, if you want flow, CD isn’t optional. It’s the price of admission.
 
 How confident are you that your unfinished work isn’t just technical debt in disguise?

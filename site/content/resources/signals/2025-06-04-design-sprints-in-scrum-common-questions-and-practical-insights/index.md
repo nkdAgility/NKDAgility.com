@@ -1,5 +1,5 @@
 ---
-title: 'Design Sprints in Scrum: Common Questions and Practical Insights'
+title: "Design Sprints in Scrum: Common Questions and Practical Insights"
 short_title: Design and UX Integration in Scrum Sprints
 description: Answers common questions about integrating design and UX work into Scrum Sprints, clarifying why dedicated Design Sprints aren’t needed and how to align with Scrum principles.
 tldr: There are no special Sprints in Scrum for design or other functions; all work needed to meet the Sprint Goal, including UX and design, should happen within the Sprint or during Refinement if it is for future preparation. Segmenting Sprints by function creates silos and goes against Scrum’s purpose of delivering high-quality working software. Development managers should focus on integrating design and architecture work into the regular Sprint flow rather than isolating it.
@@ -49,9 +49,9 @@ Watermarks:
   tldr: 2025-08-07T12:11:52Z
 ResourceId: 8mcd8y-jiFX
 ResourceType: signals
-
 ---
-I’m still surprised how often I get asked about “Design Sprints” in Scrum. Let’s be clear—there are no special Sprints. No Sprint 0. No release Sprint. No hardening Sprint. And definitely no Design Sprint.
+
+I’m still surprised how often I get asked about “Design Sprints” in Scrum. Let’s be clear, there are no special Sprints. No Sprint 0. No release Sprint. No hardening Sprint. And definitely no Design Sprint.
 
 Scrum is a social technology for solving complex problems. Trying to segment Sprints by function (design, test, build) reflects a Taylorist approach rooted in the Industrial Revolution, not the realities of modern product development.
 

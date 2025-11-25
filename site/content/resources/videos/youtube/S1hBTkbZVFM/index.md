@@ -1,6 +1,6 @@
 ---
-title: 'The Key to Hiring the Right Agile Coach: Building Credibility with Teams and Leadership'
-short_title: 'Hiring an Agile Coach: Building Credibility'
+title: "The Key to Hiring the Right Agile Coach: Building Credibility with Teams and Leadership"
+short_title: "Hiring an Agile Coach: Building Credibility"
 description: Learn how to choose an Agile coach who builds trust with teams and leadership, combining technical expertise, communication skills, and empathy for effective transformation.
 tldr: When hiring an Agile coach, prioritize candidates who can build credibility with both teams and leadership by demonstrating hands-on technical experience, strong communication skills, and emotional intelligence. Coaches who understand your tools and culture, and who can balance support across all levels, are more likely to drive real and lasting Agile transformation. Focus your search on those who have proven they can foster trust, adapt to your environment, and bridge gaps between teams and executives.
 date: 2023-11-20T11:00:30Z
@@ -52,8 +52,8 @@ duration: 43
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 Hiring an Agile coach can be a game changer for organizations striving to embrace agility. However, finding the right fit for your organization isn't just about credentials and buzzwords. One of the most critical factors when selecting an Agile coach is their ability to **engage and gain credibility with teams and [leadership]({{< ref "/categories/leadership" >}})**. Let's dive into why this is so essential and how you can make the best hiring decision.
 
 ## Why Credibility Matters for Agile Coaches
@@ -74,7 +74,7 @@ What made the difference this time? The coach had **first-hand experience** with
 
 ## The Balance Between Coaching Teams and Leadership
 
-Agile coaches wear many hats. While working with teams is often a primary focus, a good Agile coach also needs to engage leadership. This dual focus ensures that the entire organization—not just individual teams—benefits from Agile practices.
+Agile coaches wear many hats. While working with teams is often a primary focus, a good Agile coach also needs to engage leadership. This dual focus ensures that the entire organization, not just individual teams, benefits from Agile practices.
 
 ### Coaching Leadership: Driving Organizational Change
 
@@ -112,7 +112,7 @@ So, how do you evaluate an Agile coach's effectiveness before they even step int
 
 ### 4\. **Strong Communication Skills**
 
-- One of the key roles of an Agile coach is to **facilitate communication**—both within teams and across departments. A great coach knows how to ask the right questions, foster collaboration, and break down complex concepts into digestible, actionable steps.
+- One of the key roles of an Agile coach is to **facilitate communication**, both within teams and across departments. A great coach knows how to ask the right questions, foster collaboration, and break down complex concepts into digestible, actionable steps.
 
 💬 **Tip:** During the hiring process, ask Agile coaches about specific examples where they’ve helped bridge communication gaps within an organization. Their ability to communicate clearly is crucial for Agile success.
 
@@ -128,7 +128,7 @@ I once worked with an Agile coach who helped turn around a struggling team, not 
 
 ## Final Thoughts: Hiring the Right Agile Coach
 
-Hiring the right Agile coach can transform your organization—but only if they have the **credibility and experience** to engage both teams and leadership. Look for coaches with a blend of **technical expertise**, **strong communication skills**, and **emotional intelligence**. These traits ensure they can make meaningful, lasting impacts across your entire organization.
+Hiring the right Agile coach can transform your organization, but only if they have the **credibility and experience** to engage both teams and leadership. Look for coaches with a blend of **technical expertise**, **strong communication skills**, and **emotional intelligence**. These traits ensure they can make meaningful, lasting impacts across your entire organization.
 
 ### Key Takeaways When Hiring an Agile Coach:
 
@@ -140,6 +140,6 @@ Hiring the right Agile coach can transform your organization—but only if they 
 
 By focusing on these qualities, you’ll find an Agile coach who not only fits your organization's needs but also drives a successful and sustainable Agile transformation.
 
-* * *
+---
 
 If you're ready to hire an Agile coach, remember to ask the right questions and dig into their experience with both teams and leadership. It's about finding someone who can build trust, foster collaboration, and create lasting change. **Good luck with your Agile journey!**

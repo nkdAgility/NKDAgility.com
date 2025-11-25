@@ -39,13 +39,13 @@ Watermarks:
 ResourceId: bvPDNFJju4h
 ResourceType: newsletters
 resourceTypes: newsletter
-
 ---
+
 **Dear Innovators and Product Enthusiasts,**
 
 **Only 5 days left!** This is your last chance to join us for the Professional [Product Validation]({{< ref "/tags/product-validation" >}}) and Discovery Workshop from [Scrum]({{< ref "/categories/scrum" >}}).org!
 
-If you’ve been waiting for the perfect opportunity to elevate your [product development]({{< ref "/categories/product-development" >}}) skills, this is it—and we’re offering an exclusive **50% discount for our members** so you can invite a friend for the same price..
+If you’ve been waiting for the perfect opportunity to elevate your [product development]({{< ref "/categories/product-development" >}}) skills, this is it, and we’re offering an exclusive **50% discount for our members** so you can invite a friend for the same price..
 
 <table style="background-color: #6a0dad !important;" border="0" cellspacing="0" cellpadding="10" align="center" bgcolor="#6a0dad"><tbody><tr><td align="center"><p style="color: #ffffff; text-decoration: none; font-size: 16px; display: block;">Use code: <strong>yarnagile50-94qyfhqg</strong> in the cart!</p></td></tr></tbody></table>
 
@@ -72,7 +72,7 @@ With a background that blends deep technical expertise and agile mastery, Joanna
 - **Led High-Performing Teams:** She has a proven track record of leading cross-functional teams to success, ensuring that every member is engaged, motivated, and aligned with the product vision. Her approach fosters a collaborative environment where creativity and problem-solving flourish.
 - **Driven Customer-Centric Solutions:** Joanna's expertise in product validation and discovery is rooted in her commitment to understanding and addressing customer needs. She brings a wealth of knowledge on how to create products that not only meet but exceed customer expectations.
 
-### Join Us—It’s Now or Never!
+### Join Us, It’s Now or Never!
 
 Don’t miss this final opportunity to learn from a true expert in the field. By the end of the workshop, you will be equipped with actionable insights and strategies to develop products that your customers will love and that will stand out in the marketplace.
 
@@ -84,7 +84,7 @@ Don’t miss this final opportunity to learn from a true expert in the field. By
 - Immersive learning experiences
 - Comprehensive resources
 
-[Book Your Seat Now! Use **yarnagile50-94qyfhqg**](https://nkdagility.com/training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/) Invest in your future as a product developer and join us for the Professional Product Validation and Discovery Workshop. This is your last chance to secure your spot and take advantage of our exclusive discounts. Let’s create the next generation of products that captivate and delight customers—together.
+[Book Your Seat Now! Use **yarnagile50-94qyfhqg**](https://nkdagility.com/training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/) Invest in your future as a product developer and join us for the Professional Product Validation and Discovery Workshop. This is your last chance to secure your spot and take advantage of our exclusive discounts. Let’s create the next generation of products that captivate and delight customers, together.
 
 Warm regards,
 

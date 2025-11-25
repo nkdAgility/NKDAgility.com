@@ -5,10 +5,10 @@ description: Explains how close collaboration between product management and pro
 tldr: Product Management and Product Development must work closely together in agile environments to deliver products that meet current and future market needs. Product Management sets the vision and strategy, while Product Development brings these ideas to life through innovation, quality, and fast delivery, with both functions relying on continuous feedback and improvement. Development managers should ensure strong collaboration and feedback loops between these teams to maximize product value and long-term success.
 date: 2024-07-25T06:45:02Z
 lastmod: 2024-07-25T06:45:02Z
-weight: 690
+weight: 470
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: monthly
 ItemId: YGBrayIqm7k
 ItemType: videos

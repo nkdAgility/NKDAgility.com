@@ -20,7 +20,7 @@ I recommend two, there's two tools that I definitely recommend taking a look at.
 
 The other one is actionable agile metrics for predictability. So actionable agile is a plugin, an interactive JavaScript-based, no data goes anywhere but your system plugin, but it's $20 per user per month. I recommend that one, too. That's what I use because I just want an easy visual indication that I can just add a plugin to Azure DevOps and go spelunk people's data.
 
-So both of those tools give you much more accurate—accurate is probably the wrong word—but much better, much more features, many more features for lead time, cycle time, for percentiles, for seeing your work in process, seeing your flow. I particularly like in actionable agile it has a view which is work in progress and you can see the overlay of your percentiles on your work in process. So you can see the things that are most likely to be in danger within that context.
+So both of those tools give you much more accurate, accurate is probably the wrong word, but much better, much more features, many more features for lead time, cycle time, for percentiles, for seeing your work in process, seeing your flow. I particularly like in actionable agile it has a view which is work in progress and you can see the overlay of your percentiles on your work in process. So you can see the things that are most likely to be in danger within that context.
 
 So using Azure DevOps you get access to all of the data and some visualizations. Then bringing in some third party tools on top of that, you can make it really light up and create any sort of data visualizations you want.
 

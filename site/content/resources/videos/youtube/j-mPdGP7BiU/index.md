@@ -1,5 +1,5 @@
 ---
-title: 'Mastering Product Development: From Assumptions to Hypotheses'
+title: "Mastering Product Development: From Assumptions to Hypotheses"
 short_title: Mastering Product Development Hypotheses
 description: Learn to identify, prioritise, and test assumptions in product development by turning them into hypotheses, managing experimentation costs, and making data-driven decisions.
 tldr: This course teaches development managers how to identify, prioritize, and validate assumptions in product development by turning them into testable hypotheses, focusing on data-driven decision-making rather than gut feelings. Key insights include learning to distinguish critical assumptions from trivial ones, balancing the cost and confidence of experiments, and using experiment results to guide strategy. The main takeaway is to adopt a mindset that values learning and evidence, leading to more effective and efficient product development.
@@ -52,13 +52,13 @@ duration: 302
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In the fast-paced world of [product development]({{< ref "/categories/product-development" >}}), assumptions can often be our greatest blind spots. Yet, they are also essential stepping stones that guide our decisions and strategies. In our new class, we dive deep into the art of working with assumptions, transforming them from potential pitfalls into powerful tools for innovation.
 
 ## **Introducing Assumptions to Your Product Development Toolbox**
 
-One of the first and most critical lessons in our course is the introduction of assumptions into the product development dictionary. This might seem elementary, but it’s a game-changer. We often overlook the fact that assumptions are being made—sometimes subtly, sometimes blatantly—throughout the product development process.
+One of the first and most critical lessons in our course is the introduction of assumptions into the product development dictionary. This might seem elementary, but it’s a game-changer. We often overlook the fact that assumptions are being made, sometimes subtly, sometimes blatantly, throughout the product development process.
 
 ### **The Moment of Realization: We Are Making Assumptions**
 
@@ -126,7 +126,7 @@ We’ll teach you how to take the outcomes of your experiments and use them effe
 
 ## **🧠 Learning and Critical Thinking in Product Development**
 
-At the heart of this course is the development of a new way of thinking about product development—one that prioritizes learning and critical thinking over gut feelings and assumptions.
+At the heart of this course is the development of a new way of thinking about product development, one that prioritizes learning and critical thinking over gut feelings and assumptions.
 
 ### **Avoiding Toxic Love for Your Ideas**
 
@@ -138,7 +138,7 @@ By fostering this mindset, you’ll be better equipped to navigate the complexit
 
 ## **Conclusion: Mastering Assumptions for Successful Product Development**
 
-In summary, our course is designed to transform the way you approach product development by mastering the art of working with assumptions and hypotheses. From recognizing the assumptions you’re making to prioritizing and validating them, crafting and testing hypotheses, and finally, analyzing your experiments—this course covers it all.
+In summary, our course is designed to transform the way you approach product development by mastering the art of working with assumptions and hypotheses. From recognizing the assumptions you’re making to prioritizing and validating them, crafting and testing hypotheses, and finally, analyzing your experiments, this course covers it all.
 
 **Key Takeaways:**
 
@@ -152,4 +152,4 @@ In summary, our course is designed to transform the way you approach product dev
 
 - **Critical Thinking:** Develop a mindset that prioritizes learning and critical thinking over emotional attachment to ideas.
 
-Join us in this journey to revolutionize your product development process, making it more efficient, data-driven, and ultimately, more successful. 🚀 This course isn’t just about learning new techniques—it’s about changing the way you think and work. So, are you ready to take the next step? Let’s turn your assumptions into opportunities for growth!
+Join us in this journey to revolutionize your product development process, making it more efficient, data-driven, and ultimately, more successful. 🚀 This course isn’t just about learning new techniques, it’s about changing the way you think and work. So, are you ready to take the next step? Let’s turn your assumptions into opportunities for growth!

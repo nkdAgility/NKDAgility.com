@@ -45,8 +45,8 @@ duration: 264
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ## Synergy Between Consulting and Training
 
 Today's topic question is my personal favourite: "How does my consulting experience manifest in the training environment?"
@@ -57,7 +57,7 @@ For me, this is a subject that unearths the core of what effective training shou
 
 When I'm consulting and training, it manifests itself all over the place, to be honest.
 
-This synergy isn't just a coincidence—it's fundamental. Training is far more than lecturing on textbook solutions.
+This synergy isn't just a coincidence, it's fundamental. Training is far more than lecturing on textbook solutions.
 
 It's a unique space where particular instances, ideas, and solutions spring to life. 🎯
 

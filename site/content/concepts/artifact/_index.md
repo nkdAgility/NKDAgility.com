@@ -26,7 +26,7 @@ Instructions: |-
   - Cultural discussions about collaboration unrelated to artifact structure
 headline:
   cards: []
-  title: 'Artifact: Making Work Visible to Drive Empirical Decision-Making'
+  title: "Artifact: Making Work Visible to Drive Empirical Decision-Making"
   subtitle: Formal, inspectable constructs that reveal progress, enable transparency, support empirical decisions, and foster continuous improvement and alignment.
   content: Artifacts are formal, inspectable outputs that represent progress, quality, and value within a delivery system, enabling transparency, informed decision-making, and continuous improvement. Posts cover topics such as product backlogs, increments, visual management boards, deployment pipelines, flow metrics, delivery governance, empirical forecasting, and practices supporting inspection and adaptation.
   updated: 2025-05-23T23:22:10Z
@@ -39,12 +39,12 @@ ItemType: concepts
 ResourceType: concepts
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
+
 An **artifact** is a formal, inspectable output that represents work and progress in a system of delivery. In Agile, Lean, and DevOps contexts, artifacts provide a shared understanding of what is being worked on, what is Done, and what remains. They are not tools or documents, but defined constructs that exist to support transparency, inspection, and adaptation.
 
 In Scrum, there are three core artifacts: the **Product Backlog**, **Sprint Backlog**, and the **Increment**. Each artifact is designed to make key information visible and understandable. The **Definition of Done** further ensures that an Increment meets a standard of quality and completeness.
 
-Artifacts serve as reference points for empirical decision-making. They enable teams and stakeholders to inspect the current state of the work, identify risks, and adapt their approach. In Kanban and DevOps, similar constructs exist—such as visual work boards, flow diagrams, and deployment pipelines—that function as artifacts by exposing delivery progress and system behaviour.
+Artifacts serve as reference points for empirical decision-making. They enable teams and stakeholders to inspect the current state of the work, identify risks, and adapt their approach. In Kanban and DevOps, similar constructs exist, such as visual work boards, flow diagrams, and deployment pipelines, that function as artifacts by exposing delivery progress and system behaviour.
 
 Artifacts are not passive records. They are active instruments of delivery governance. When used effectively, they enhance alignment, support evidence-based forecasting, and reinforce trust between stakeholders and teams by making progress and value delivery visible.

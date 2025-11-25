@@ -32,10 +32,10 @@ tags:
   - Value Delivery
   - Frequent Releases
   - Deployment Strategies
-  - Technical Mastery
   - Market Adaptability
   - Continuous Delivery
   - Release Management
+  - Technical Mastery
   - Operational Practices
   - Product Validation
   - Engineering Practices

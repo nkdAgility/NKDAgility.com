@@ -1,6 +1,6 @@
 ---
 title: 7 harbingers of the Agile apocalypse- War
-short_title: 'Agile Conflict: From Debate to Destructive War'
+short_title: "Agile Conflict: From Debate to Destructive War"
 description: Explores how unmanaged conflict in agile teams can escalate from healthy debate to destructive division, and offers strategies for resolving disputes and fostering collaboration.
 tldr: Unchecked conflict in agile teams can escalate from healthy debate to destructive infighting, undermining collaboration and progress. Leaders must foster open communication, empathy, and clear conflict resolution processes to keep disagreements constructive and aligned with shared goals. Proactively managing conflict is essential to prevent team dysfunction and support ongoing innovation and growth.
 date: 2023-10-19T13:00:46Z
@@ -53,8 +53,8 @@ duration: 158
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse
 
 The agile journey, while transformative, is fraught with challenges, one of which is the specter of conflict. Dubbed the second harbinger of the agile apocalypse, conflict, if left unchecked, can escalate into a war-like state within organizations, undermining the very essence of agility. This exploration delves into the nature of conflict in agile environments, distinguishing between constructive disagreements that fuel innovation and destructive wars that thwart collaboration.
@@ -93,8 +93,8 @@ Leaders play a pivotal role in preventing the escalation of conflicts into full-
 
 ### The Path Forward: Embracing Conflict as a Catalyst for Growth
 
-The journey toward [agile transformation]({{< ref "/tags/agile-transformation" >}}) is complex and challenging, with conflict being an inevitable part of the process. Recognizing the dual nature of conflict—as both a potential source of innovation and a harbinger of dysfunction—is crucial. By managing conflicts constructively, organizations can harness their transformative power, fostering an environment where collaboration thrives, and innovation flourishes.
+The journey toward [agile transformation]({{< ref "/tags/agile-transformation" >}}) is complex and challenging, with conflict being an inevitable part of the process. Recognizing the dual nature of conflict, as both a potential source of innovation and a harbinger of dysfunction, is crucial. By managing conflicts constructively, organizations can harness their transformative power, fostering an environment where collaboration thrives, and innovation flourishes.
 
 ## Conclusion: Steering Agile Teams Away from War
 
-Conflict, when navigated wisely, can be a force for positive change. However, left unchecked, it can lead to the agile apocalypse—an environment where progress is halted, and collaboration is replaced by competition. Agile teams and leaders must be vigilant, fostering a culture that values constructive conflict and rejects the destructive patterns that lead to war. By doing so, they can ensure that their agile journey is marked not by conflict and division but by collaboration, innovation, and sustained growth.
+Conflict, when navigated wisely, can be a force for positive change. However, left unchecked, it can lead to the agile apocalypse, an environment where progress is halted, and collaboration is replaced by competition. Agile teams and leaders must be vigilant, fostering a culture that values constructive conflict and rejects the destructive patterns that lead to war. By doing so, they can ensure that their agile journey is marked not by conflict and division but by collaboration, innovation, and sustained growth.

@@ -5,10 +5,10 @@ description: Naked Agility selects associate Scrum Trainers based on real-world 
 tldr: Naked Agility selects associate Scrum Trainers based on real-world agile experience, proven problem-solving skills, and the ability to engage and inspire teams, not just theoretical knowledge. Trainers are evaluated through co-training and must demonstrate deep expertise as practitioners, coaches, or consultants who can address industry-specific challenges and empower teams to apply agile effectively. If you need agile training or coaching from experienced professionals who understand complex environments, consider reaching out to Naked Agility.
 date: 2023-01-04T14:35:57Z
 lastmod: 2023-01-04T14:35:57Z
-weight: 505
+weight: 395
 sitemap:
   filename: sitemap.xml
-  priority: 0.3
+  priority: 0.4
   changefreq: monthly
 ItemId: uJaBPyixNlc
 ItemType: videos

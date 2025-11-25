@@ -1,7 +1,7 @@
 ---
-title: 'Scaling Smart: How to Build Sustainable Growth Without the Chaos'
+title: "Scaling Smart: How to Build Sustainable Growth Without the Chaos"
 short_title: Scaling Smart for Sustainable Growth
-description: Learn how to achieve sustainable, resilient organisational growth by focusing on simplification, value delivery, and effective agile practices—avoiding chaos as you scale.
+description: Learn how to achieve sustainable, resilient organisational growth by focusing on simplification, value delivery, and effective agile practices, avoiding chaos as you scale.
 tldr: Scaling should focus on building sustainable value, not just growing quickly, and simply adopting frameworks without addressing underlying issues will only make problems worse. Effective scaling requires understanding constraints, simplifying processes, and ensuring teams are aligned to deliver value. Before scaling, assess whether your approach will truly improve outcomes and use agile methods to enable smarter, not just faster, growth.
 date: 2025-02-19T07:25:02Z
 lastmod: 2025-02-19T07:25:02Z
@@ -56,8 +56,8 @@ resourceTypes:
 isShort: false
 ResourceId: MwieMDwVuOg
 ResourceType: videos
-
 ---
+
 [Scaling]({{< ref "/tags/scaling" >}}) isn't just about moving fast; it's about moving smart and sustainably. I've seen it time and again: organisations rush to scale without laying the right foundations, and what do they end up with? A bigger mess. It’s crucial to understand that while agile methodologies provide a pathway to scale, simply picking a framework and running with it isn’t the answer.
 
 ### The Real Purpose of Scaling

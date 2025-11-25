@@ -56,8 +56,8 @@ Watermarks:
   tldr: 2025-08-07T12:29:11Z
 ResourceId: -FDdQXKH7zt
 ResourceType: signals
-
 ---
+
 Scrum isn’t limited to building features. It’s a social technology for solving complex problems. That includes your internal systems of work.
 
 We use Scrum to deliver product increments. Why not use it to deliver organisational change increments?
@@ -66,6 +66,6 @@ Form a change team. Create a change backlog. Make each improvement inspectable, 
 
 This isn’t transformation theatre. This is evidence-based change, one step at a time.
 
-If your change program doesn’t have a cadence, a backlog, and empirical feedback—it’s not agile. It’s just theatre in agile clothing.
+If your change program doesn’t have a cadence, a backlog, and empirical feedback, it’s not agile. It’s just theatre in agile clothing.
 
 Want real agility? Apply Scrum to the system, not just the software.

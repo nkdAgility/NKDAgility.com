@@ -1,5 +1,5 @@
 ---
-title: 'Cultivating Patience: The Secret Ingredient for Thriving Agile Teams'
+title: "Cultivating Patience: The Secret Ingredient for Thriving Agile Teams"
 short_title: Cultivating Patience in Agile Teams
 description: Explores how patience fosters trust, growth, and collaboration in agile teams, offering practical steps to build a supportive, blame-free, and productive team culture.
 tldr: Patience is essential for agile teams to build trust, avoid blame, and support growth, leading to better collaboration and outcomes. Leaders should set realistic expectations, encourage open communication, and model patient behavior to foster a healthy team environment. Take time to invest in team development and celebrate progress to enable long-term success.
@@ -51,17 +51,17 @@ duration: 39
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 In my journey through the world of agile practices, one lesson has consistently stood out: the importance of patience. It’s a simple yet profound concept that can make or break the success of any team or organisation. As I reflect on my experiences, I’ve come to realise that patience is not just a virtue; it’s a necessity in fostering a healthy, productive environment.
 
 ### The Role of Patience in Agile Teams
 
-When we think about agile methodologies, we often focus on speed and efficiency. However, I’ve learned that true agility requires a different kind of pace—one that allows for growth, learning, and adaptation. Here’s why patience is crucial:
+When we think about agile methodologies, we often focus on speed and efficiency. However, I’ve learned that true agility requires a different kind of pace, one that allows for growth, learning, and adaptation. Here’s why patience is crucial:
 
 - **Building Trust**: Trust is the bedrock of any successful team. When leaders and product owners exhibit patience, they create an atmosphere where team members feel safe to express their ideas and concerns. This trust is essential for effective collaboration and innovation.
 
-- **Avoiding Blame Culture**: Frustration can easily lead to a blame culture, which is detrimental to any organisation. When mistakes happen—and they will—it's vital to approach them with a mindset of learning rather than finger-pointing. A blame culture erodes trust and stifles creativity, making it nearly impossible to achieve our goals.
+- **Avoiding Blame Culture**: Frustration can easily lead to a blame culture, which is detrimental to any organisation. When mistakes happen, and they will, it's vital to approach them with a mindset of learning rather than finger-pointing. A blame culture erodes trust and stifles creativity, making it nearly impossible to achieve our goals.
 
 - **Supporting Growth**: Teams need time to develop their skills and processes. As a [product owner]({{< ref "/tags/product-owner" >}}), I’ve seen firsthand how rushing to meet deadlines can compromise quality and morale. By allowing teams the time they need to refine their work, we ultimately achieve better outcomes.
 

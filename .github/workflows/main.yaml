@@ -9,7 +9,7 @@ on:
     branches: ["main"]
     tags-ignore: ["v*-*"]
   pull_request:
-    branches: ["main"]
+    branches: ["*"]
   merge_group:
     branches: ["main"]
   workflow_dispatch:

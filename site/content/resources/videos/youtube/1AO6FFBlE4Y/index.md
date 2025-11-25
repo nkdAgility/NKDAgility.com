@@ -1,5 +1,5 @@
 ---
-title: The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower
+title: The Hidden Costs of Poor Quality Code, and How to Turn It Into a Superpower
 short_title: The Hidden Costs of Poor Quality Code
 description: Explores the financial, productivity, and reputational impacts of poor-quality code, and offers practical steps to turn code quality into a competitive advantage.
 tldr: Poor-quality code leads to escalating costs, lost productivity, and damage to team morale and brand reputation, while also causing missed opportunities for innovation. Simplifying branching, limiting supported versions, and investing in engineering excellence and security can dramatically boost productivity and customer satisfaction. Development managers should prioritize code quality improvements now to unlock greater efficiency and long-term organizational success.
@@ -56,16 +56,17 @@ resourceTypes:
 isShort: false
 ResourceId: 1AO6FFBlE4Y
 ResourceType: videos
-
 ---
-# The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower
 
-Hi, I’m Martin Hinshelwood, and today I want to dive into a topic that’s close to my heart: the true cost of poor-quality code. Over the years, I’ve seen countless organizations grapple with this issue, and the impacts aren’t just financial—they're deeply ingrained in productivity, team morale, and even brand reputation. Let’s unpack this and talk about how improving code quality can become your organization’s superpower.
+# The Hidden Costs of Poor Quality Code, and How to Turn It Into a Superpower
+
+Hi, I’m Martin Hinshelwood, and today I want to dive into a topic that’s close to my heart: the true cost of poor-quality code. Over the years, I’ve seen countless organizations grapple with this issue, and the impacts aren’t just financial, they're deeply ingrained in productivity, team morale, and even brand reputation. Let’s unpack this and talk about how improving code quality can become your organization’s superpower.
 
 ## The Obvious Costs of Poor-Quality Code
 
 When we talk about poor-quality code, the first thing that comes to mind is bugs. Fixing bugs is expensive, especially when they’re discovered late in the development process. Here’s why:
- - **Cost increases exponentially:** The closer you get to production, the more expensive it becomes to fix a bug. Once it’s in the hands of your customers, that cost skyrockets.
+
+- **Cost increases exponentially:** The closer you get to production, the more expensive it becomes to fix a bug. Once it’s in the hands of your customers, that cost skyrockets.
 - **Customer support strain:** Poor-quality code means more issues for your support team to handle, taking resources away from proactive tasks.
 
 ## The Hidden Costs You Might Be Overlooking
@@ -74,19 +75,20 @@ Beyond the obvious, there are hidden costs that many organizations don’t accou
 
 1. Brand Reputation
 
-    Your product’s quality reflects on your brand. A high-profile example is CrowdStrike, which faced massive global fallout due to poor [engineering practices]({{< ref "/tags/engineering-practices" >}}). Here’s what happens:
-    - Poor-quality products or processes damage trust.
-    - Customers notice when you cut corners, and your competitors will capitalize on that.
+   Your product’s quality reflects on your brand. A high-profile example is CrowdStrike, which faced massive global fallout due to poor [engineering practices]({{< ref "/tags/engineering-practices" >}}). Here’s what happens:
+   - Poor-quality products or processes damage trust.
+   - Customers notice when you cut corners, and your competitors will capitalize on that.
 
-3. Team Productivity
+2. Team Productivity
 
-    When teams spend hours firefighting instead of building, it drains morale and efficiency. Common culprits include:
-    - **Complex branching strategies:** I’ve worked with a company that had 96 teams and 96 long-running branches, each with its own sub-branches. The cost of maintaining and merging these was staggering.
-    - **Supporting multiple versions:** Supporting every customer’s version of a product not only increases costs but also cognitive load on engineers. Fixing the same bug across 10 different versions? It’s a nightmare.
+   When teams spend hours firefighting instead of building, it drains morale and efficiency. Common culprits include:
+   - **Complex branching strategies:** I’ve worked with a company that had 96 teams and 96 long-running branches, each with its own sub-branches. The cost of maintaining and merging these was staggering.
+   - **Supporting multiple versions:** Supporting every customer’s version of a product not only increases costs but also cognitive load on engineers. Fixing the same bug across 10 different versions? It’s a nightmare.
 
 ## Missed Opportunities: The Silent Killer
 
 Every hour your team spends fixing old problems is an hour they’re not innovating. Ask yourself:
+
 - What features are you not shipping because your team is buried in avoidable work?
 - What competitive edge are you losing because you can’t move quickly?
 
@@ -94,25 +96,25 @@ Let me share one of my favorite examples: the Azure [DevOps]({{< ref "/categorie
 
 ## The Technical Debt Trap
 
-Technical debt isn’t just about cost—it’s about missed opportunities. Think of it as money left on the table:
+Technical debt isn’t just about cost, it’s about missed opportunities. Think of it as money left on the table:
 
 - **Higher cognitive load:** Engineers waste mental energy juggling old and new systems.
-- **Security risks:** When security is an afterthought, it’s expensive—and risky—to fix foundational problems. Hackers love peeling back quick fixes.
+- **Security risks:** When security is an afterthought, it’s expensive, and risky, to fix foundational problems. Hackers love peeling back quick fixes.
 
 ## The Path to High-Quality Code
 
 Turning poor-quality code into a superpower isn’t easy, but it’s absolutely worth it. Here’s how to get started:
 
 1. Reduce Branching
-    Aim for a simpler branching strategy. Consolidate where possible and focus on [continuous integration]({{< ref "/tags/continuous-integration" >}}).
+   Aim for a simpler branching strategy. Consolidate where possible and focus on [continuous integration]({{< ref "/tags/continuous-integration" >}}).
 2. Limit Versions
-    Support only the latest version of your product (with rare exceptions). This minimizes backporting and reduces complexity.
+   Support only the latest version of your product (with rare exceptions). This minimizes backporting and reduces complexity.
 3. Invest in [Engineering Excellence]({{< ref "/categories/engineering-excellence" >}})
-    Prioritize refactoring and modern engineering practices, like:
-    - Small, discrete unit tests over long-running system tests.
-    - Reducing feedback loops to catch issues early.
+   Prioritize refactoring and modern engineering practices, like:
+   - Small, discrete unit tests over long-running system tests.
+   - Reducing feedback loops to catch issues early.
 4. Bake Security Into the Process
-    Security shouldn’t be an afterthought. Integrate it into your development process to avoid costly patches and breaches.
+   Security shouldn’t be an afterthought. Integrate it into your development process to avoid costly patches and breaches.
 
 ## A Superpower for Your Team and Organization
 
@@ -122,6 +124,6 @@ When you commit to high-quality code, the benefits are exponential:
 - **Happier customers:** Fewer bugs and more features lead to higher satisfaction.
 - **Stronger brand reputation:** Consistency builds trust.
 
-Investing in quality is like paying off a loan—you make small, consistent payments over time, but the payoff is enormous. With high-quality, [working software]({{< ref "/tags/working-software" >}}) delivered regularly, your organization can achieve its full potential.
+Investing in quality is like paying off a loan, you make small, consistent payments over time, but the payoff is enormous. With high-quality, [working software]({{< ref "/tags/working-software" >}}) delivered regularly, your organization can achieve its full potential.
 
 So, what’s holding you back? Start investing in your team’s engineering practices today, and watch as your organization transforms.

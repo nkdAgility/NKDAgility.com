@@ -1,5 +1,5 @@
 ---
-title: 'Empowering Teams with Financial Insights: The Key to Maximising ROI and Fostering Ownership'
+title: "Empowering Teams with Financial Insights: The Key to Maximising ROI and Fostering Ownership"
 short_title: Empowering Teams with Financial Insights
 description: Empowering teams with financial insights boosts ownership, informed decision-making, and ROI by aligning daily work with business goals through transparency and team-level P&L.
 tldr: Giving your teams clear financial insights and ownership over their work leads to better decision-making and higher returns. When teams understand both the value they create and the costs involved, they align their efforts with business goals and are more motivated to improve. Start sharing financial context and encourage team-level profit and loss analysis to drive accountability and smarter product decisions.
@@ -26,7 +26,8 @@ aliasesArchive:
   - empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
 source: youtube
 layout: video
-concepts: []
+concepts:
+  - Strategy
 categories:
   - Product Management
   - Leadership
@@ -48,8 +49,8 @@ resourceTypes:
 isShort: false
 ResourceId: uetzybp7bf4
 ResourceType: videos
-
 ---
+
 If you want to maximise your return on investment for the time and effort that people put into the products you're creating, fostering a culture where your team genuinely cares about the products and your customers is essential. When individuals feel ownership over what they create, they naturally invest more of themselves into their work. This sense of ownership is crucial; people care about things they have a stake in.
 
 ### Cultivating a Culture of [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})
@@ -60,7 +61,7 @@ To achieve this, we need to cultivate a culture of continuous improvement. Yes, 
 - **Test and Gather Feedback**: Implement a small-scale version of that idea and gather feedback from customers.
 - **Adapt and Improve**: Use the feedback to refine the idea, doubling down on what works.
 
-This iterative process allows us to pivot—changing our direction based on what we learn—or, in some cases, to kill an idea that isn’t gaining traction. Take a look at the infamous Google Graveyard; it’s a testament to how even the giants can make tough decisions about what to invest in.
+This iterative process allows us to pivot, changing our direction based on what we learn, or, in some cases, to kill an idea that isn’t gaining traction. Take a look at the infamous Google Graveyard; it’s a testament to how even the giants can make tough decisions about what to invest in.
 
 ### Understanding the Financial Context
 
@@ -84,10 +85,10 @@ As a business owner, CTO, or CEO, you’re likely focused on both short-term win
 - **Short-Term Wins**: Identify quick revenue-generating opportunities.
 - **Long-Term Objectives**: Consider how to build sustainable income over time.
 
-By integrating financial insights into the daily operations of your teams, you’ll foster a culture of accountability and informed decision-making. 
+By integrating financial insights into the daily operations of your teams, you’ll foster a culture of accountability and informed decision-making.
 
 ### Conclusion
 
-In summary, don’t shield your teams from financial realities. Instead, empower them with the information they need to make sound decisions. Implementing team-level P&L analyses can lead to higher returns on investment and greater [value delivery]({{< ref "/tags/value-delivery" >}}). When every member of your organisation understands the financial context of their work, they’ll be better equipped to contribute meaningfully to your business’s success. 
+In summary, don’t shield your teams from financial realities. Instead, empower them with the information they need to make sound decisions. Implementing team-level P&L analyses can lead to higher returns on investment and greater [value delivery]({{< ref "/tags/value-delivery" >}}). When every member of your organisation understands the financial context of their work, they’ll be better equipped to contribute meaningfully to your business’s success.
 
 Let’s embrace this shift together and watch as our teams thrive in an environment where they feel ownership and responsibility for their contributions.

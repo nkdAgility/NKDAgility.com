@@ -57,18 +57,19 @@ Watermarks:
   tldr: 2025-08-07T12:35:59Z
 ResourceId: uTkyoIh6f3c
 ResourceType: signals
-
 ---
+
 A great Scrum Master isn’t measured by how well they facilitate meetings. It’s not about whether the Daily Scrum starts on time or if they keep the Sprint Retrospective engaging.
 
-A successful Scrum Master leaves behind a self-sustaining team—one that delivers valuable, high-quality products with predictability.
+A successful Scrum Master leaves behind a self-sustaining team, one that delivers valuable, high-quality products with predictability.
 
 Their impact shows up in:
-- Empirical product planning—helping teams and stakeholders navigate uncertainty with real data.
-- Product Backlog management—supporting the Product Owner in defining goals that actually drive value.
-- Removing organisational barriers—not just within the team, but across the business.
-- Enabling cross-functional collaboration—making silos obsolete.
-- Helping the team deliver Done increments—not just finishing tasks, but delivering outcomes.
+
+- Empirical product planning, helping teams and stakeholders navigate uncertainty with real data.
+- Product Backlog management, supporting the Product Owner in defining goals that actually drive value.
+- Removing organisational barriers, not just within the team, but across the business.
+- Enabling cross-functional collaboration, making silos obsolete.
+- Helping the team deliver Done increments, not just finishing tasks, but delivering outcomes.
 
 If a Scrum Master disappears and the team falls apart, they weren’t coaching. They were hand-holding.
 

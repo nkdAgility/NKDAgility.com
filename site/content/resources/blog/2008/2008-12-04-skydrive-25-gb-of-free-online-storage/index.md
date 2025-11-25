@@ -1,5 +1,5 @@
 ---
-title: 'SkyDrive: 25 GB of free online storage'
+title: "SkyDrive: 25 GB of free online storage"
 description: Get 25GB of free online storage with SkyDrive, integrated with Windows Live services for easy file sharing, photo management, and contact connectivity.
 date: 2008-12-04
 lastmod: 2008-12-04
@@ -34,8 +34,8 @@ ResourceImportId: 157
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nakedalm-logo-128-link-1-1.png
-
 ---
+
 [![SkyDrive25](images/SkyDrive25GBoffreeonlinestorage_7F5A-SkyDrive25_3-6-6.png)](http://skydrive.live.com)
 { .post-img }
 
@@ -66,7 +66,7 @@ Here is a comprehensive list of all [Windows Live services](http://home.live.com
 #### Windows Live
 
 - [Home](http://g.live.com/9uxp9en-gb/hdr_main1??su=http://shared.live.com/)  
-   Get a quick view of your world—e-mail, invitations, and what’s new with your network.
+   Get a quick view of your world, e-mail, invitations, and what’s new with your network.
 - [Profile](http://g.live.com/9uxp9en-gb/hdr_main2??su=http://shared.live.com/)  
    Share your world online–your activities, your photos, and the people you know.
 - [People](http://g.live.com/9uxp9en-gb/hdr_main3??su=http://shared.live.com/)  
@@ -84,14 +84,14 @@ Here is a comprehensive list of all [Windows Live services](http://home.live.com
 - [Groups](http://g.live.com/9uxp9en-gb/hdr_more1??su=http://shared.live.com/)  
    Bring your team, club, or other group together with a webpage, calendar, and more.
 - [Spaces](http://g.live.com/9uxp9en-gb/hdr_more11??su=http://shared.live.com/)  
-   Express yourself with your own customized webpage—add a blog, photos, videos, and more.
+   Express yourself with your own customized webpage, add a blog, photos, videos, and more.
 - [Family Safety](http://g.live.com/9uxp9en-gb/hdr_more4??su=http://shared.live.com/)  
    Help protect your kids online, with customizable web filters and contact management.
 - [Mobile](http://g.live.com/9uxp9en-gb/hdr_more6??su=http://shared.live.com/)  
    Stay in sync from the road, with Windows Live on your web-enabled mobile device.
 - [Downloads](http://g.live.com/9uxp9en-gb/hdr_more5??su=http://shared.live.com/)  
-   Download Windows Live Essentials—free programs for your PC, including Messenger, Mail, Photo Gallery, Movie Maker, Writer, Toolbar, and Family Safety.
+   Download Windows Live Essentials, free programs for your PC, including Messenger, Mail, Photo Gallery, Movie Maker, Writer, Toolbar, and Family Safety.
 - [Office Live](http://g.live.com/9uxp9en-gb/hdr_more9??su=http://shared.live.com/)  
-   Store and share your business documents online—it’s quick, easy, and free.
+   Store and share your business documents online, it’s quick, easy, and free.
 
 Technorati Tags: [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)

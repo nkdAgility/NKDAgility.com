@@ -1,5 +1,5 @@
 ---
-title: 'Navigating Technical Debt: How to Transform Challenges into Opportunities for Quality and Efficiency'
+title: "Navigating Technical Debt: How to Transform Challenges into Opportunities for Quality and Efficiency"
 short_title: Navigating Technical Debt for Quality & Efficiency
 description: Explains how managing technical debt and distinguishing it from poor quality can boost product efficiency, reduce costs, and support sustainable software development.
 tldr: Technical debt is the cost of future rework from prioritising speed over good design, and it is distinct from poor quality, which often causes bigger productivity losses. Long release cycles and mislabeling poor quality as technical debt can lead to unsustainable practices and higher costs. Development managers should set clear quality standards, encourage regular refactoring, and adopt continuous improvement to reduce technical debt, improve efficiency, and deliver better products.
@@ -52,15 +52,15 @@ resourceTypes:
 isShort: false
 ResourceId: npnQtdLEwQY
 ResourceType: videos
-
 ---
-[Technical debt]({{< ref "/tags/technical-debt" >}}) is a term that often gets thrown around in our industry, but I want to clarify what it really means and how it impacts our products and processes. From my experience, technical debt is not just a buzzword; it represents a significant cost that can accumulate over time if not managed properly. 
+
+[Technical debt]({{< ref "/tags/technical-debt" >}}) is a term that often gets thrown around in our industry, but I want to clarify what it really means and how it impacts our products and processes. From my experience, technical debt is not just a buzzword; it represents a significant cost that can accumulate over time if not managed properly.
 
 ### Understanding Technical Debt
 
 At its core, technical debt refers to the implied cost of future rework that arises when we prioritise speed over long-term design. We often face a decision point when building a feature: do we take the fast route or the right route? Choosing the fast route is where we incur technical debt. This decision can be made deliberately by engineers, product [leadership]({{< ref "/categories/leadership" >}}), or even the organisation as a whole.
 
-However, it’s crucial to distinguish between technical debt and poor quality. While both can lead to rework and increased maintenance costs, they are not the same. Poor quality is simply that—poor quality. When teams say they have technical debt because of bugs, they might actually be referring to poor quality. This distinction is important because it affects how we address these issues.
+However, it’s crucial to distinguish between technical debt and poor quality. While both can lead to rework and increased maintenance costs, they are not the same. Poor quality is simply that, poor quality. When teams say they have technical debt because of bugs, they might actually be referring to poor quality. This distinction is important because it affects how we address these issues.
 
 ### The Cost of Poor Quality
 
@@ -82,6 +82,6 @@ By continuously addressing technical debt, teams can avoid the pitfalls of poor 
 
 ### The Benefits of Managing Technical Debt
 
-Paying back technical debt pays dividends. It makes it easier to add new features, reduces customer issues, and ultimately leads to happier users. When customers have a positive experience with your product, they are more likely to remain loyal and contribute to your bottom line. 
+Paying back technical debt pays dividends. It makes it easier to add new features, reduces customer issues, and ultimately leads to happier users. When customers have a positive experience with your product, they are more likely to remain loyal and contribute to your bottom line.
 
 In conclusion, managing technical debt is not just about fixing problems; it’s about creating a sustainable and efficient development process. By understanding the difference between technical debt and poor quality, and by committing to continuous improvement, we can minimise costs and maximise profits. Remember, the choices we make today will shape the quality of our products tomorrow. Let’s make those choices wisely.

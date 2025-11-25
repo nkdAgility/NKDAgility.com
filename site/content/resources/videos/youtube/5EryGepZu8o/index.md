@@ -1,7 +1,7 @@
 ---
 title: If you could teach just one thing about Scrum, what would it be?
-short_title: 'Empiricism: The Core of Scrum'
-description: The most important aspect of Scrum is empiricism—using transparency, inspection, and adaptation to navigate complexity and drive effective product development.
+short_title: "Empiricism: The Core of Scrum"
+description: The most important aspect of Scrum is empiricism, using transparency, inspection, and adaptation to navigate complexity and drive effective product development.
 tldr: The most important thing to teach about Scrum is the principle of empiricism, which means making work transparent, inspecting progress frequently, and adapting based on what is learned. This approach helps teams navigate complex, uncertain environments where traditional project management falls short. Focus on building your team's ability to learn and adapt quickly, as Scrum reveals problems but does not solve them for you.
 date: 2023-02-27T07:00:01Z
 lastmod: 2023-02-27T07:00:01Z
@@ -56,8 +56,8 @@ duration: 204
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 If you could teach just one thing about [Scrum]({{< ref "/categories/scrum" >}}), what would it be?
 
 I wouldn’t teach anything about **Scrum** if I only had one thing to teach, I would focus on the underlying principles that underpin scrum. **Empiricism** and navigating complexity effectively.

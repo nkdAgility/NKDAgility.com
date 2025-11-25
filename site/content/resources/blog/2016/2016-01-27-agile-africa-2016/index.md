@@ -5,7 +5,7 @@ description: Agile in Africa 2016 brought together experts in Accra, Ghana to pr
 tldr: Agile in Africa 2016 brought together genuine Agile experts to West Africa, moving beyond past efforts that focused on profit rather than real improvement. Speakers invested their own time and resources, and the event featured multiple days of sessions, strong community engagement, and positive social impact. Development managers interested in authentic Agile transformation and networking in Africa should consider attending or viewing the recorded sessions.
 date: 2016-01-27
 lastmod: 2016-01-27
-weight: 1000
+weight: 885
 sitemap:
   filename: sitemap.xml
   priority: 0.1

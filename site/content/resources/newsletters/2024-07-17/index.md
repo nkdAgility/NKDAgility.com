@@ -5,10 +5,10 @@ description: Learn practical skills in product validation, customer discovery, a
 tldr: Scrum.org is offering a workshop led by Dr. Joanna Plaskonka to help teams validate product ideas, discover real customer needs, and improve collaboration. Attendees will gain practical skills in customer-centric development, rapid prototyping, and market discovery to build products that truly resonate with users. Consider enrolling to equip your team with proven techniques for delivering successful, customer-focused products.
 date: 2024-07-17
 lastmod: 2024-07-17
-weight: 840
+weight: 650
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.3
   changefreq: weekly
 author: MrHinsh
 ItemId: w5rxdL8YHNa
@@ -42,11 +42,11 @@ Watermarks:
 ResourceId: w5rxdL8YHNa
 ResourceType: newsletters
 resourceTypes: newsletter
-
 ---
+
 **Dear Innovators and Product Enthusiasts,**
 
-We are thrilled to announce the upcoming Professional [Product Validation]({{< ref "/tags/product-validation" >}}) and Discovery Workshop from [Scrum]({{< ref "/categories/scrum" >}}).org—a transformative experience designed to elevate your [product development]({{< ref "/categories/product-development" >}}) journey to new heights. If you are committed to developing products and features that resonate deeply with customers, this workshop is your gateway to achieving that goal.
+We are thrilled to announce the upcoming Professional [Product Validation]({{< ref "/tags/product-validation" >}}) and Discovery Workshop from [Scrum]({{< ref "/categories/scrum" >}}).org, a transformative experience designed to elevate your [product development]({{< ref "/categories/product-development" >}}) journey to new heights. If you are committed to developing products and features that resonate deeply with customers, this workshop is your gateway to achieving that goal.
 
 ### Why This Workshop?
 

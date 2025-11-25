@@ -3,7 +3,7 @@ title: Agentic Engineering
 description: Agentic Engineering is the deliberate design and practice of software development that maximises the agency of both humans and intelligent systems. It integrates engineering excellence, DevOps ethos, and ethical autonomy to create environments where decisions are decentralised, feedback is fast, and value delivery is continuous.
 ClassificationType: tags
 trustpilot: false
-abstract: Agentic Engineering is the deliberate design and practice of software development that maximises the agency of both humans and intelligent systems. It integrates engineering excellence, DevOps ethos, and ethical autonomy to create environments where decisions are decentralised, feedback is fast, and value delivery is continuous. It's characterised by Developer Agency, Systemic Observability, DevOps-Infused Craft, Ethical AI Integration, and Feedback-Driven Adaptation. Agentic Engineering is not a job title, role, or method—it's a philosophy of engineering in which the ability to act with clarity, intent, and impact is engineered into the way we build, learn, and evolve.
+abstract: Agentic Engineering is the deliberate design and practice of software development that maximises the agency of both humans and intelligent systems. It integrates engineering excellence, DevOps ethos, and ethical autonomy to create environments where decisions are decentralised, feedback is fast, and value delivery is continuous. It's characterised by Developer Agency, Systemic Observability, DevOps-Infused Craft, Ethical AI Integration, and Feedback-Driven Adaptation. Agentic Engineering is not a job title, role, or method, it's a philosophy of engineering in which the ability to act with clarity, intent, and impact is engineered into the way we build, learn, and evolve.
 ClassificationContentOrigin: human
 date: 2025-07-22T15:58:00Z
 weight: 1000
@@ -27,7 +27,7 @@ Instructions: |-
   - General engineering discussions that don't address the maximisation of human and AI agency
 headline:
   cards: []
-  title: 'Agentic Engineering: Maximising Human and AI Agency in Software Development'
+  title: "Agentic Engineering: Maximising Human and AI Agency in Software Development"
   subtitle: Deliberate design and practice of software development that maximises agency of both humans and intelligent systems through engineering excellence and ethical autonomy.
   content: Agentic Engineering encompasses the deliberate design and practice of software development that maximises the agency of both humans and intelligent systems. It integrates engineering excellence, DevOps ethos, and ethical autonomy to create environments where decisions are decentralised, feedback is fast, and value delivery is continuous through systematic observability, craft mastery, and adaptive workflows.
   updated: 2025-07-22T15:58:00Z
@@ -44,8 +44,8 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
+
 **Agentic Engineering** is the deliberate design and practice of software development that maximises the agency of both humans and intelligent systems. It integrates engineering excellence, DevOps ethos, and ethical autonomy to create environments where decisions are decentralised, feedback is fast, and value delivery is continuous.
 
 It's characterised by:

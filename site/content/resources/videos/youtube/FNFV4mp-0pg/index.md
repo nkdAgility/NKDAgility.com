@@ -1,7 +1,7 @@
 ---
 title: Is a scrum master an agile micromanager?
 short_title: Is a Scrum Master an Agile Micromanager?
-description: A Scrum Master empowers teams by facilitating, mentoring, and supporting—not micromanaging—fostering trust, collaboration, and continuous improvement in Agile environments.
+description: A Scrum Master empowers teams by facilitating, mentoring, and supporting, not micromanaging, fostering trust, collaboration, and continuous improvement in Agile environments.
 tldr: A Scrum Master is not meant to micromanage but to facilitate, support, and empower the team to make decisions and own their work. When Scrum Masters focus on mentoring and creating a culture of trust and continuous improvement, teams become more effective and innovative. Development managers should ensure Scrum Masters act as catalysts for growth rather than as traditional project managers who direct every detail.
 date: 2023-04-25T07:00:06Z
 lastmod: 2023-04-25T07:00:06Z
@@ -57,8 +57,8 @@ duration: 41
 resourceTypes:
   - video
 isShort: true
-
 ---
+
 **Is a [scrum]({{< ref "/categories/scrum" >}}) master an agile micromanager?**
 
 Today, let's tackle a common misconception in the Agile world that crops up often:  is a [Scrum Master]({{< ref "/tags/scrum-master" >}}) an Agile micromanager? 🤔
@@ -89,7 +89,7 @@ As a Scrum Master:
 
 ✔️ You foster a culture of [continuous learning]({{< ref "/tags/continuous-learning" >}}) and improvement
 
-Remember, the key to an effective team lies in empowering them, not micromanaging every decision they make or every task they undertake—a Scrum Master who micromanages curbs the team's creativity and potential.
+Remember, the key to an effective team lies in empowering them, not micromanaging every decision they make or every task they undertake, a Scrum Master who micromanages curbs the team's creativity and potential.
 
 So, let's flip the script:
 

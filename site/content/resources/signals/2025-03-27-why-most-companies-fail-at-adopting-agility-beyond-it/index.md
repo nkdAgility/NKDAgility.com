@@ -53,8 +53,8 @@ Watermarks:
   tldr: 2025-08-07T12:34:22Z
 ResourceId: xdKHhjboUgT
 ResourceType: signals
-
 ---
+
 Most companies trying to "adopt agility" fail because they think it’s an IT problem.
 
 It’s not.
@@ -65,7 +65,7 @@ The biggest impediments to agility are organisational, not technical:
 - Annual budgeting cycles that resist adaptability.
 - Performance reviews that reward individual output over team outcomes.
 
-Scrum Masters must understand organisational transformation. They need to navigate politics, drive change, and push leadership to remove systemic blockers—not just “protect the team” from the dysfunction.
+Scrum Masters must understand organisational transformation. They need to navigate politics, drive change, and push leadership to remove systemic blockers, not just “protect the team” from the dysfunction.
 
 Agility doesn’t start with Daylies and retrospectives. It starts with how an organisation funds, measures, and enables work.
 

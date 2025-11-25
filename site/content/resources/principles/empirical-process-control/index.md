@@ -4,7 +4,7 @@ short_title: Empirical Process Control
 description: A method that uses transparency, regular inspection, and adaptation to guide teams and stakeholders in achieving goals and improving processes.
 tldr: Scrum uses empirical process control, which means teams and stakeholders need to be open about their work, check progress often, and adjust plans as needed. This approach helps ensure goals are met even as conditions change. Managers should encourage regular reviews and flexibility to improve results.
 date: 2024-09-17
-weight: 1000
+weight: 805
 sitemap:
   filename: sitemap.xml
   priority: 0.1

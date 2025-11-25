@@ -50,11 +50,11 @@ Watermarks:
   tldr: 2025-08-07T12:33:24Z
 ResourceId: CBIAsEX7a86
 ResourceType: signals
-
 ---
+
 Agile without a usable working product is just expensive theatre.
 
-Yet, so many teams get lost in rituals, Jira tickets, and endless documentation, completely missing the point. Agile is about delivering value continuously—not accumulating unfinished work, endless “technical discussions,” or chasing vanity metrics.
+Yet, so many teams get lost in rituals, Jira tickets, and endless documentation, completely missing the point. Agile is about delivering value continuously, not accumulating unfinished work, endless “technical discussions,” or chasing vanity metrics.
 
 A sprint that doesn’t produce a potentially shippable product is wasted time. A backlog filled with items that never see the light of day is a black hole. And don’t get me started on teams that celebrate velocity without considering whether they’re building anything worthwhile.
 

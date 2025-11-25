@@ -47,8 +47,8 @@ resourceTypes:
 isShort: false
 ResourceId: r2G-NrSIj2k
 ResourceType: videos
-
 ---
+
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence
 
 Hi, I’m Martin Hinshelwood, and today I want to discuss a topic that often sparks debate: **code reviews**. Traditionally, code reviews are seen as a way to improve quality and reduce defects by having multiple people review the code before it’s merged. While this has value, as we embrace shift-left practices, there’s a new perspective to consider: **pre-reviewed code**.
@@ -134,6 +134,6 @@ As engineering practices evolve, code reviews are becoming less about catching d
 
 - Accelerate delivery without compromising quality.
 - Empower developers with the tools and processes they need to write great code.
-- Focus manual reviews on what really matters—building better products.
+- Focus manual reviews on what really matters, building better products.
 
 [Watch on Youtube](https://www.youtube.com/watch?v=r2G-NrSIj2k)

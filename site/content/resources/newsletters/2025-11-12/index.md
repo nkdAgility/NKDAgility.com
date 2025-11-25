@@ -1,5 +1,5 @@
 ---
-title: 'Engineering Excellence: The Quiet Discipline Behind Great Teams'
+title: "Engineering Excellence: The Quiet Discipline Behind Great Teams"
 short_title: The Quiet Discipline Behind Great Team
 description: A weekly one-hour mentorship for engineering teams to improve code quality, delivery predictability, and team culture through practical, system-focused coaching.
 tldr: Engineering Excellence Mentorship offers a practical, one-hour-a-week program that helps teams fix systemic issues affecting delivery, quality, and burnout by improving engineering practices within real work. Teams see measurable results like faster, safer releases, reduced cycle times, and higher engagement within months. Book a session to quickly diagnose blockers and start building sustainable improvement without adding more frameworks or meetings.
@@ -47,8 +47,8 @@ Watermarks:
   short_title: 2025-11-10T10:29:21Z
 ResourceId: UNwJYTj5fV1
 ResourceType: newsletters
-
 ---
+
 ## Why Engineering Matters More Than Methodology
 
 When teams struggle to ship reliably or sustain quality, the instinct is to reach for a new framework or management model. But **engineering excellence isn’t a process problem, it’s a system problem**. Poor flow, brittle architecture, and invisible feedback loops can’t be fixed by reorganising teams or renaming roles.
@@ -66,7 +66,7 @@ It’s not perfectionism. It’s the steady pursuit of better:
 - **Make work visible.** Observability and flow metrics surface where value slows.
 - **Iterate deliberately.** Short feedback loops make improvement a habit, not a project.
 
-When teams apply these principles, they gain predictability and confidence — not by working harder, but by working with greater clarity.
+When teams apply these principles, they gain predictability and confidence , not by working harder, but by working with greater clarity.
 
 ## How to Build It – One Hour at a Time
 
@@ -74,9 +74,9 @@ Improving engineering capability doesn’t require grand transformation programm
 
 The **Engineering Excellence Mentorship** provides structure for that discipline:
 
-1. **Observe reality.** Examine how work actually flows through the system — from commit to customer.
+1. **Observe reality.** Examine how work actually flows through the system , from commit to customer.
 2. **Expose constraints.** Identify where technical debt, unclear ownership, or missing feedback loops block flow.
-3. **Experiment.** Introduce small, measurable changes in practice — from better branching to improved release automation.
+3. **Experiment.** Introduce small, measurable changes in practice , from better branching to improved release automation.
 4. **Reflect and adapt.** Review results, learn, and refine the system.
 
 One hour a week is enough to create continuous momentum when it’s focused on real work, not theory.

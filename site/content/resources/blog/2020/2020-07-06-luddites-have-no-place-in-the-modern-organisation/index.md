@@ -40,8 +40,8 @@ ResourceImportId: 44507
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: image-3-3-3.png
-
 ---
+
 In our [Professional Agile Leadership training](https://nkdagility.com/training/courses/professional-agile-leadership-essentials-training/), we talk about changing your organisations hiring practices to hire more of the right sort of people to create the company that you want, not the company that you have. Hire the right people also implies that you will have to, within your cultural constraints, de-hire the wrong people.
 
 <figure>
@@ -94,7 +94,7 @@ What changed at Microsoft as of 2017
 
 Microsoft is the poster-child of what can be accomplished with the judicious application of [leadership]({{< ref "/categories/leadership" >}}). With the servent-leadership and strategic vision of **Satya Nadella,** it has [evolved from a traditional organisational model 10 years ago (2010) towards independent delivery teams](https://www.forbes.com/sites/stevedenning/2015/10/27/surprise-microsoft-is-agile/) of today.
 
-> “Every person, organization, and even society reaches a point at which they owe it to themselves to hit refresh—to reenergize, renew, reframe, and rethink their purpose.”
+> “Every person, organization, and even society reaches a point at which they owe it to themselves to hit refresh, to reenergize, renew, reframe, and rethink their purpose.”
 >
 > ― **Satya Nadella,** [Hit Refresh](https://www.goodreads.com/work/quotes/51432387)
 

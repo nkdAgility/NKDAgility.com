@@ -60,8 +60,8 @@ resourceTypes: blog
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 ResourceId: pDvDdIEi9sj
 ResourceType: blog
-
 ---
+
 Many organisations attempt to adopt [Lean]({{< ref "/categories/lean" >}}) practices without fully understanding their implications in [software development]({{< ref "/tags/software-development" >}}). This often leads to excessive handoffs, which fragment communication and reduce agility.
 
 Here's the kicker: handoffs are _not_ Lean, Agile, or [DevOps]({{< ref "/categories/devops" >}}). They are an anti-pattern that introduces waste, increases [cycle time]({{< ref "/tags/cycle-time" >}}), and makes collaboration difficult.
@@ -82,7 +82,7 @@ Each of these transitions is a point of failure, introducing delays, miscommunic
 
 ### The Hidden Costs of Handoffs
 
-Handoffs come with a plethora of hidden costs that undermine agility and efficiency. Compounding these challenges is the build-up of organisational cruft—rules and processes that outlive their usefulness. This cruft can further slow progress and obscure [value delivery]({{< ref "/tags/value-delivery" >}}). Each of these costs impacts not only the immediate work but also the organisation's ability to deliver value quickly and sustainably.
+Handoffs come with a plethora of hidden costs that undermine agility and efficiency. Compounding these challenges is the build-up of organisational cruft, rules and processes that outlive their usefulness. This cruft can further slow progress and obscure [value delivery]({{< ref "/tags/value-delivery" >}}). Each of these costs impacts not only the immediate work but also the organisation's ability to deliver value quickly and sustainably.
 
 1. **Loss of Context**: Valuable information is lost when tasks move from one team to another. Teams waste time trying to re-establish the original intent. Moreover, the cost of context switching exacerbates this issue. When questions arise that cannot be answered immediately, team members often feel compelled to start new tasks, increasing work in progress (WIP) which in turn increases cycle time. This leads to further delays and amplifies the loss of context, making it even harder to regain clarity and focus on the original work.
 
@@ -96,7 +96,7 @@ Together, these hidden costs act as multipliers, compounding each other and magn
 
 ### Why Do Handoffs Persist?
 
-Handoffs are a symptom of functional silos. Organisations that structure themselves by discipline (e.g., separate teams for development, testing, and operations) create natural barriers to collaboration. This approach is a holdover from the "Scientific Management Method" developed during the Industrial Revolution when workers were mechanised to optimise for narrow, repetitive tasks rather than holistic, value-driven outcomes. Even well-meaning attempts to implement Agile often retain these silos, resulting in what I like to call "[hybrid Agile]({{< ref "/tags/hybrid-agile" >}})" — a mismatched combination of Agile practices and traditional command-and-control management. This ineffective blend perpetuates the very silos and inefficiencies that Agile aims to eliminate.
+Handoffs are a symptom of functional silos. Organisations that structure themselves by discipline (e.g., separate teams for development, testing, and operations) create natural barriers to collaboration. This approach is a holdover from the "Scientific Management Method" developed during the Industrial Revolution when workers were mechanised to optimise for narrow, repetitive tasks rather than holistic, value-driven outcomes. Even well-meaning attempts to implement Agile often retain these silos, resulting in what I like to call "[hybrid Agile]({{< ref "/tags/hybrid-agile" >}})" , a mismatched combination of Agile practices and traditional command-and-control management. This ineffective blend perpetuates the very silos and inefficiencies that Agile aims to eliminate.
 
 ## The Solution: Eliminate Handoffs
 
@@ -116,11 +116,11 @@ Continuous Delivery (CD) eliminates the need for separate testing or deployment 
 
 4. **Minimise Work in Progress (WIP)** - Limit WIP to reduce context switching and improve focus. A lower WIP means fewer handoffs and faster delivery cycles.
 
-5. **Invest in Collaborative Refinement** - [Backlog refinement]({{< ref "/tags/backlog-refinement" >}}) should be a team sport. The entire [Scrum]({{< ref "/categories/scrum" >}}) Team — including the [Product Owner]({{< ref "/tags/product-owner" >}}) and Developers — must collaborate to clarify and break down work items. See more in [If your backlog is not refined then you are doing it wrong](https://nkdagility.com/blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong/).
+5. **Invest in Collaborative Refinement** - [Backlog refinement]({{< ref "/tags/backlog-refinement" >}}) should be a team sport. The entire [Scrum]({{< ref "/categories/scrum" >}}) Team , including the [Product Owner]({{< ref "/tags/product-owner" >}}) and Developers , must collaborate to clarify and break down work items. See more in [If your backlog is not refined then you are doing it wrong](https://nkdagility.com/blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong/).
 
 6. **Shift Left and Own It** - All of these practices contribute to a "shift left" strategy, where quality, security, and deployment considerations are addressed earlier in the development lifecycle. Ultimately, the team that creates a feature should also own it in production, including gathering and acting on feedback. This end-to-end ownership fosters accountability, ensures quicker feedback loops, and allows teams to continuously improve based on real-world usage.
 
-Organisations inevitably accumulate cruft—unnecessary rules, outdated processes, and misaligned practices. These accumulate quietly over time and, if left unchecked, undermine agility and the ability to focus on value creation. To combat this, periodic acts of organisational hygiene are essential. These involve critically assessing and removing unnecessary constraints, ensuring the organisation maintains only the minimal set of rules and alignment required to deliver value effectively. When combined with a shift-left approach and a relentless focus on flow, these practices help organisations stay lean, adaptive, and aligned with their goals.
+Organisations inevitably accumulate cruft, unnecessary rules, outdated processes, and misaligned practices. These accumulate quietly over time and, if left unchecked, undermine agility and the ability to focus on value creation. To combat this, periodic acts of organisational hygiene are essential. These involve critically assessing and removing unnecessary constraints, ensuring the organisation maintains only the minimal set of rules and alignment required to deliver value effectively. When combined with a shift-left approach and a relentless focus on flow, these practices help organisations stay lean, adaptive, and aligned with their goals.
 
 Handoffs might seem inevitable in large organisations, but they are a choice. By reorganising your teams, adopting modern engineering practices, and embracing a Lean-Agile mindset, you can minimise handoffs and unlock true agility.
 

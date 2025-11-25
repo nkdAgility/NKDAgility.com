@@ -5,7 +5,7 @@ description: Martin Hinshelwood answers questions on integrating UX into Scrum t
 tldr: Martin Hinshelwood discusses how to effectively integrate user experience into Scrum teams, drawing on his experience teaching Professional Scrum with UX. He shares practical starting points for combining UX and Scrum practices. Development managers should consider watching the webcast for actionable guidance on improving team collaboration and product outcomes through better UX integration.
 date: 2020-03-27
 lastmod: 2020-03-27
-weight: 1000
+weight: 850
 sitemap:
   filename: sitemap.xml
   priority: 0.1

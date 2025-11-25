@@ -1,6 +1,6 @@
 ---
-title: 'Agentic Agility: Why You Need Both Human and AI Agency'
-short_title: 'Agentic Agility: Human and AI Collaboration'
+title: "Agentic Agility: Why You Need Both Human and AI Agency"
+short_title: "Agentic Agility: Human and AI Collaboration"
 description: Explore how combining human decision-making with AI-driven automation boosts team accountability, agility, and measurable value in modern organisations.
 tldr: To achieve real agility, you need both accountable human decision-making and effective use of AI and automation; focusing on only one leads to burnout or fragile systems. Teams that combine clear human ownership with AI-driven automation see up to 40 percent better throughput and quality. Review your workflows to clarify human accountability and identify where AI can add value, then design your system to integrate both for continuous delivery.
 date: 2025-05-15
@@ -31,11 +31,12 @@ tags:
   - Collective Intelligence
   - Pragmatic Thinking
   - Sociotechnical Systems
+  - Value Delivery
   - Product Delivery
   - Artificial Intelligence
   - Market Adaptability
   - Business Agility
-  - Value Delivery
+  - Organisational Agility
   - Digital Transformation
 Watermarks:
   description: 2025-05-07T12:49:07Z
@@ -44,9 +45,9 @@ Watermarks:
 resourceTypes: newsletter
 ResourceId: OQOqFl5-FAi
 ResourceType: newsletters
-
 ---
-Agility today is not about ceremonies or frameworks. It is about **agentic agility** — the deliberate interaction between human agency (people making meaningful, accountable decisions) and AI agency (systems that can act and adapt on their own).
+
+Agility today is not about ceremonies or frameworks. It is about **agentic agility** , the deliberate interaction between human agency (people making meaningful, accountable decisions) and AI agency (systems that can act and adapt on their own).
 
 Most organisations fail because they only get one side right:
 
@@ -59,7 +60,7 @@ Neither works. You need both.
 
 As a leader, you are **accountable** for outcomes. That means:
 
-- Ensuring your teams **self-manage** and own delivery — they are not process-followers.
+- Ensuring your teams **self-manage** and own delivery , they are not process-followers.
 - Leveraging **AI and automation** to extend human capability, not replace it.
 - Delivering **measurable value** by combining human feedback loops and adaptive systems.
 
@@ -71,7 +72,7 @@ From years of consulting, here’s what we know works:
 
 - Teams with clear **human accountability** (Product Owners, Scrum Masters, developers) outperform those stuck in roles without ownership.
 - Teams using **AI and automation** for telemetry, deployment, testing, and feedback loops reduce failure, cut cycle time, and build delivery confidence.
-- Organisations that combine both see **10–40% better throughput and quality** — not because of magic, but because they shape the system of work, not just the tools.
+- Organisations that combine both see **10–40% better throughput and quality** , not because of magic, but because they shape the system of work, not just the tools.
 
 ### What You Should Do Next
 

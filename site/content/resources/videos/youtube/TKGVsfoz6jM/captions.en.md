@@ -6,4 +6,4 @@ We help CTOs make peace with not knowing everything because we help you get clea
 
 We filter out the noise fast. Not every trend deserves your attention. Some things can wait; others are critical. We help you know the difference.
 
-So instead of reacting to everything, you focus on what drives outcomes. That's how you stay relevant—not by knowing it all, but by leading with clarity and intent.
+So instead of reacting to everything, you focus on what drives outcomes. That's how you stay relevant, not by knowing it all, but by leading with clarity and intent.

@@ -36,6 +36,7 @@ tags:
   - Value Delivery
   - Software Development
   - Team Collaboration
+  - Operational Practices
   - Scrum Master
   - Collaboration Tools
 Watermarks:

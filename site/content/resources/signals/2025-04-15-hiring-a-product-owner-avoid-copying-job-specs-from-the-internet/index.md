@@ -1,6 +1,6 @@
 ---
 title: Hiring a Product Owner? Avoid copying job specs from the internet
-short_title: 'Hiring a Product Owner: Key Skills & Pitfalls'
+short_title: "Hiring a Product Owner: Key Skills & Pitfalls"
 description: Learn what makes an effective Product Owner, why generic job specs fall short, and which key responsibilities and skills are essential for true product leadership and success.
 tldr: When hiring a Product Owner, do not rely on generic job descriptions; a true Product Owner drives product success by setting vision, prioritizing value, collaborating closely with teams, making data-driven decisions, and maintaining accountability. Delegation is necessary, but the PO must remain responsible for outcomes, not just manage tasks. Review your job specs to ensure they focus on leadership and product impact, not just administrative duties.
 date: 2025-04-15T15:30:50+01:00
@@ -47,9 +47,9 @@ Watermarks:
   tldr: 2025-08-07T12:33:39Z
 ResourceId: -p1bBjBS0bA
 ResourceType: signals
-
 ---
-Hiring a Product Owner? Don’t just copy-paste a job spec from the internet. A real PO isn’t just a requirements collector or project manager—they own product success.
+
+Hiring a Product Owner? Don’t just copy-paste a job spec from the internet. A real PO isn’t just a requirements collector or project manager, they own product success.
 
 Here’s what a strong Product Owner actually does:
 
@@ -59,7 +59,7 @@ Here’s what a strong Product Owner actually does:
 - Says no when necessary, even when it’s unpopular.
 - Orders the backlog strategically, not reactively.
 
-And here’s the hard truth: one person alone cannot do all of this at scale. POs delegate, but they remain accountable. If a PO is just taking orders, someone else is actually running the product—and that’s a problem.
+And here’s the hard truth: one person alone cannot do all of this at scale. POs delegate, but they remain accountable. If a PO is just taking orders, someone else is actually running the product, and that’s a problem.
 
 If your PO is buried in admin work instead of driving outcomes, you don’t have a real PO. You have a backlog secretary.
 

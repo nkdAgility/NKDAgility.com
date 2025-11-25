@@ -1,7 +1,7 @@
 ---
-title: 'Unlocking Sustainable Growth: Why Leadership is the Key to Successful Scaling'
+title: "Unlocking Sustainable Growth: Why Leadership is the Key to Successful Scaling"
 short_title: Leadership for Sustainable Organisational Growth
-description: Effective scaling depends on strong leadership—empowering teams, removing bottlenecks, and decentralising decisions to enable sustainable organisational growth.
+description: Effective scaling depends on strong leadership, empowering teams, removing bottlenecks, and decentralising decisions to enable sustainable organisational growth.
 tldr: Successful scaling in software development depends more on effective leadership than on technical solutions. Empowering teams, removing bottlenecks, and decentralising decision-making are key to sustainable growth. Development managers should focus on shaping leadership behaviours to create an environment where teams can scale effectively.
 date: 2025-02-24T10:12:43Z
 lastmod: 2025-02-24T10:12:43Z
@@ -55,8 +55,8 @@ resourceTypes:
 isShort: false
 ResourceId: ZVZEO1Ggihs
 ResourceType: videos
-
 ---
+
 [Scaling]({{< ref "/tags/scaling" >}}) isn't merely a technical challenge; it’s fundamentally a [leadership]({{< ref "/categories/leadership" >}}) challenge. Over the years, I’ve observed that when companies embark on the journey of scaling, their focus often narrows to architecture, infrastructure, and tools. While these elements are undeniably important, the real constraint lies in leadership. At scale, the way people think, collaborate, and make decisions has a far greater impact than any technology could.
 
 As I engage with CTOs, CIOs, and IT managers, I find it crucial to emphasise that scaling isn’t about simply funding more teams or throwing additional engineers at the problem. Instead, it’s about cultivating an environment where scaling is not just possible but sustainable. Here are some key aspects to consider:
@@ -67,8 +67,8 @@ As I engage with CTOs, CIOs, and IT managers, I find it crucial to emphasise tha
 
 - **Decentralise Decision-Making**: Ensure that decisions are made at the right level. This decentralisation allows for quicker responses to challenges and opportunities, enabling teams to adapt swiftly.
 
-This is where the concept of naked agility comes into play. In my experience, we work closely with leadership to coach, train, and embed the principles that make scaling effective. It’s not merely about frameworks or blueprints; it’s about shaping the leadership behaviours that allow organisations to grow without grinding to a halt. 
+This is where the concept of naked agility comes into play. In my experience, we work closely with leadership to coach, train, and embed the principles that make scaling effective. It’s not merely about frameworks or blueprints; it’s about shaping the leadership behaviours that allow organisations to grow without grinding to a halt.
 
-If your teams are struggling to scale, it’s likely not the technology that’s the issue; it’s the way the organisation is being led. Leadership plays a pivotal role in creating the conditions necessary for success. 
+If your teams are struggling to scale, it’s likely not the technology that’s the issue; it’s the way the organisation is being led. Leadership plays a pivotal role in creating the conditions necessary for success.
 
 So, what’s the next step? If you’re ready to explore how to foster an environment conducive to scaling, let’s have a conversation. Together, we can unlock the potential of your teams and drive meaningful change within your organisation.

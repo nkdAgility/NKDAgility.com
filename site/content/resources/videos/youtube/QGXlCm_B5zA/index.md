@@ -1,5 +1,5 @@
 ---
-title: 'Transform Your Scrum Master Journey: Key Insights from the Advanced PSM Course'
+title: "Transform Your Scrum Master Journey: Key Insights from the Advanced PSM Course"
 short_title: Advanced PSM Insights for Scrum Masters
 description: Discover how the Advanced PSM course helps Scrum Masters shift from admin tasks to empowering teams, supporting Product Owners, and tackling organisational challenges.
 tldr: Many Scrum Masters focus too much on administrative tasks like Jira management instead of empowering their teams and supporting the Product Owner and organization. The Advanced PSM course highlights the importance of enabling team accountability, facilitating value delivery, and addressing organizational barriers. Development managers should encourage Scrum Masters to move beyond admin work and focus on building team capability and organizational agility.
@@ -55,17 +55,17 @@ duration: 280
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 When I reflect on my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself revisiting the question: what will you truly learn on the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master (PSM) course? This is a question I get asked frequently, and I believe there are two main insights that emerge from the Advanced PSM course that can significantly reshape your understanding and practice of Scrum.
 
 ### The Realisation: You're Probably Doing It Wrong
 
-First and foremost, many Scrum Masters come to the realisation that they’ve been focusing on the wrong aspects of their role. It’s not uncommon for individuals to transition into the [Scrum Master]({{< ref "/tags/scrum-master" >}}) position from roles like Jira admin. While managing Jira can be enjoyable—let’s be honest, it can be quite satisfying to organise and streamline processes—this focus can lead to a default state where the Scrum Master becomes overly involved in administrative tasks rather than facilitating the team’s growth and effectiveness.
+First and foremost, many Scrum Masters come to the realisation that they’ve been focusing on the wrong aspects of their role. It’s not uncommon for individuals to transition into the [Scrum Master]({{< ref "/tags/scrum-master" >}}) position from roles like Jira admin. While managing Jira can be enjoyable, let’s be honest, it can be quite satisfying to organise and streamline processes, this focus can lead to a default state where the Scrum Master becomes overly involved in administrative tasks rather than facilitating the team’s growth and effectiveness.
 
-- **Shift Your Focus**: Instead of getting bogged down in the minutiae of ticket management, consider empowering your team. Give everyone admin rights to Jira. Yes, it sounds radical, but this approach encourages responsibility and autonomy within the team. 
+- **Shift Your Focus**: Instead of getting bogged down in the minutiae of ticket management, consider empowering your team. Give everyone admin rights to Jira. Yes, it sounds radical, but this approach encourages responsibility and autonomy within the team.
 
-- **Embrace the Bigger Picture**: As a Scrum Master, your role should extend beyond the confines of Jira. You need to provide valuable services not just to your team, but also to the [Product Owner]({{< ref "/tags/product-owner" >}}) and the organisation as a whole. 
+- **Embrace the Bigger Picture**: As a Scrum Master, your role should extend beyond the confines of Jira. You need to provide valuable services not just to your team, but also to the [Product Owner]({{< ref "/tags/product-owner" >}}) and the organisation as a whole.
 
 ### The Services You Provide
 

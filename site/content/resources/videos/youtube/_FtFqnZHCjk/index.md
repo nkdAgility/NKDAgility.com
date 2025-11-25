@@ -35,11 +35,10 @@ categories:
 tags:
   - Value Delivery
   - Agile Product Management
-  - Agile Product Operating Model
+  - Agile Strategy
   - Agile Transformation
   - Frequent Releases
   - Working Software
-  - Agile Strategy
   - Software Development
   - Product Delivery
   - Agile Philosophy

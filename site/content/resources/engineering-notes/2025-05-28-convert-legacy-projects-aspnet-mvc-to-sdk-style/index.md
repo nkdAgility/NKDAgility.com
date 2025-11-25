@@ -23,8 +23,8 @@ categories:
   - Engineering Excellence
 tags:
   - Software Development
-  - Install and Configuration
   - Pragmatic Thinking
+  - Install and Configuration
   - Technical Mastery
   - Engineering Practices
   - System Configuration

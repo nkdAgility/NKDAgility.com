@@ -5,7 +5,7 @@ description: Explores how clear, precise language and transparency help build po
 tldr: The podcast highlights how using precise and accurate language is crucial for effective communication and building trust during Agile transformations. Hosts Simon Reindl and Martin Hinshelwood share insights on why transparency in word choice impacts team alignment and organizational change. Development managers should focus on clear communication to support successful Agile adoption.
 date: 2024-06-04
 lastmod: 2024-06-04
-weight: 1000
+weight: 800
 sitemap:
   filename: sitemap.xml
   priority: 0.1

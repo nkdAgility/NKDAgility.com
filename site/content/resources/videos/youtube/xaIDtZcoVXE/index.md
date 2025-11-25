@@ -63,19 +63,19 @@ duration: 33
 resourceTypes:
   - video
 isShort: true
+---
+
+Delivering value to customers efficiently is a key goal for any Agile team. But how do you know how long it actually takes? That’s where **Evidence-Based Management (EBM)** comes into play. One of the key value areas in EBM is **[Time to Market]({{< ref "/tags/time-to-market" >}})**, a critical factor that helps organizations measure and improve how quickly they deliver valuable outcomes. This post dives into the importance of **Time to Market**, the metrics you can use to measure it, and why it’s crucial for business success. 🚀
 
 ---
-Delivering value to customers efficiently is a key goal for any Agile team. But how do you know how long it actually takes? That’s where **Evidence-Based Management (EBM)** comes into play. One of the key value areas in EBM is **[Time to Market]({{< ref "/tags/time-to-market" >}})**—a critical factor that helps organizations measure and improve how quickly they deliver valuable outcomes. This post dives into the importance of **Time to Market**, the metrics you can use to measure it, and why it’s crucial for business success. 🚀
-
-* * *
 
 ## **What Is Time to Market?**
 
-**Time to Market (TTM)** refers to the time it takes for a product or service to move from initial concept to being available to customers. In an Agile context, it's not just about delivering quickly—it's about delivering value quickly. TTM is one of the four key value areas in **Evidence-Based Management** and directly impacts a company's ability to adapt and compete.
+**Time to Market (TTM)** refers to the time it takes for a product or service to move from initial concept to being available to customers. In an Agile context, it's not just about delivering quickly, it's about delivering value quickly. TTM is one of the four key value areas in **Evidence-Based Management** and directly impacts a company's ability to adapt and compete.
 
 In today’s fast-paced world, being able to deliver value sooner than your competitors is a significant advantage. However, many teams struggle to understand their **organizational capability** in this area. That’s where tracking the right metrics comes in.
 
-* * *
+---
 
 ## **Metrics That Matter in Time to Market**
 
@@ -104,7 +104,7 @@ Focusing on reducing cycle time can lead to faster delivery, helping teams relea
 
 In Agile, flexibility is key. **Time to Pivot** refers to how quickly your organization can change direction when new information emerges or market conditions shift. The faster you can pivot, the better your chances of staying competitive.
 
-Pivoting quickly isn’t just about making fast decisions—it’s about having the right structures in place to support rapid changes. This might include having a flexible backlog, a cross-functional team, and a [leadership]({{< ref "/categories/leadership" >}}) team that embraces change.
+Pivoting quickly isn’t just about making fast decisions, it’s about having the right structures in place to support rapid changes. This might include having a flexible backlog, a cross-functional team, and a [leadership]({{< ref "/categories/leadership" >}}) team that embraces change.
 
 ### **4\. Time to Learn**
 
@@ -118,7 +118,7 @@ Nobody likes bugs. 🐛 But they happen, and when they do, fixing them fast is c
 
 In my experience, having a **dedicated focus on fixing issues quickly** can significantly reduce [technical debt]({{< ref "/tags/technical-debt" >}}) and ensure that your product maintains a high level of quality.
 
-* * *
+---
 
 ## **Why Are These Metrics Important?**
 
@@ -130,7 +130,7 @@ Understanding and tracking these metrics is crucial for multiple reasons:
 
 - **[Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: Agile is all about improving continuously. By monitoring these metrics, your team can identify areas for improvement and work towards delivering value more efficiently.
 
-* * *
+---
 
 ## **Recommendations for Improving Time to Market**
 
@@ -153,9 +153,9 @@ In one project, we set up a feedback system that allowed us to get real-time fee
 
 ### **4\. Build a Cross-Functional Team**
 
-Agile thrives on collaboration. Make sure your team has all the skills it needs—development, testing, design, and [product management]({{< ref "/categories/product-management" >}})—so that work can move forward without dependencies.
+Agile thrives on collaboration. Make sure your team has all the skills it needs, development, testing, design, and [product management]({{< ref "/categories/product-management" >}}), so that work can move forward without dependencies.
 
-* * *
+---
 
 ## **Final Thoughts: Speed is Valuable, But It’s All About Value**
 
@@ -163,7 +163,7 @@ Remember, delivering quickly is essential, but it’s not the only goal. It’s 
 
 By leveraging the principles of **Evidence-Based Management**, you can make informed decisions that drive continuous improvement, ensuring that your organization stays competitive and adaptive in today’s fast-changing world.
 
-* * *
+---
 
 **🚀** **Key Takeaways:**
 

@@ -1,6 +1,6 @@
 ---
 title: Not all delays are the same
-short_title: 'Types of Delays: Waiting vs Blocked Tasks'
+short_title: "Types of Delays: Waiting vs Blocked Tasks"
 description: Explains the difference between waiting and blocked tasks, why clear distinction matters in workflows, and how to track and address sources of delay for better optimisation.
 tldr: Not all delays are equal; waiting for approval is different from being blocked by missing dependencies. Treating all delays as blocks hides real workflow issues and reduces accountability. Make delay sources explicit, track idle time, and highlight true blockers to identify and fix underlying problems.
 date: 2025-02-15T16:30:01+00:00
@@ -47,14 +47,14 @@ Watermarks:
   tldr: 2025-08-07T12:39:29Z
 ResourceId: pgCUc2qV2_q
 ResourceType: signals
-
 ---
+
 Not all delays are the same.
 
-A task waiting on legal approval isn’t blocked—it’s in a waiting state. A task that needs a missing dependency to proceed is actually blocked. These distinctions matter.
+A task waiting on legal approval isn’t blocked, it’s in a waiting state. A task that needs a missing dependency to proceed is actually blocked. These distinctions matter.
 
-Why? Because treating “waiting” as “blocked” distorts your workflow. It hides the real problem areas and makes it harder to optimise the system. It also encourages teams to wash their hands of responsibility—“It’s in blocked, so it’s not on me.”
+Why? Because treating “waiting” as “blocked” distorts your workflow. It hides the real problem areas and makes it harder to optimise the system. It also encourages teams to wash their hands of responsibility, “It’s in blocked, so it’s not on me.”
 
-A better approach? Make the source of delay explicit. Use tags, highlight blockers visually, and—most importantly—track how long work sits idle. The goal isn’t just to know something is blocked; it’s to fix the systemic issue behind it.
+A better approach? Make the source of delay explicit. Use tags, highlight blockers visually, and, most importantly, track how long work sits idle. The goal isn’t just to know something is blocked; it’s to fix the systemic issue behind it.
 
 How does your team make these distinctions visible?

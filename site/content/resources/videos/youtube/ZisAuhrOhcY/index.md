@@ -54,13 +54,13 @@ duration: 321
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 ### Embracing [Kanban]({{< ref "/categories/kanban" >}}) for Enhanced Workflow and Predictability
 
 **Introduction**
 
-My journey with Kanban began with the guidance of Daniel Vacanti and Steve Porter during the first Professional [Scrum]({{< ref "/categories/scrum" >}}) with Kanban class back in late 2017 and early 2018. At that time, I didn't fully grasp the value of this unique approach—an observational tool that provides a different way of thinking about workflow. Understanding Kanban as a strategy, not a system, has been crucial in appreciating its full potential.
+My journey with Kanban began with the guidance of Daniel Vacanti and Steve Porter during the first Professional [Scrum]({{< ref "/categories/scrum" >}}) with Kanban class back in late 2017 and early 2018. At that time, I didn't fully grasp the value of this unique approach, an observational tool that provides a different way of thinking about workflow. Understanding Kanban as a strategy, not a system, has been crucial in appreciating its full potential.
 
 ---
 

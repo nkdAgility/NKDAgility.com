@@ -25,7 +25,7 @@ Instructions: |-
   **Strictly exclude*- any discussions that deviate from the core principles of metrics and learning, such as anecdotal evidence without data support, unrelated management theories, or practices that do not align with Agile, DevOps, or Lean philosophies.
 headline:
   cards: []
-  title: 'Metrics and Learning: Turning Data into Continuous Improvement'
+  title: "Metrics and Learning: Turning Data into Continuous Improvement"
   subtitle: Turning data and feedback into actionable insights for continuous improvement, informed decisions, and adaptive, high-performing teams.
   content: Metrics and Learning emphasises empirical decision-making by systematically capturing and analysing performance data to reveal constraints, optimise flow, and inform continuous improvement. It promotes transparency, evidence-based adaptation, and a culture of experimentation, enabling teams and leaders to enhance value delivery, responsiveness, and organisational resilience through informed, actionable insights.
   updated: 2025-05-23T23:12:22Z
@@ -70,13 +70,13 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
+
 Metrics and Learning is not about tracking velocity or producing dashboards to appease managers. It’s about creating the conditions for continuous improvement by making performance transparent, exposing constraints, and enabling teams and leaders to respond with evidence rather than assumption.
 
-This approach builds a culture of empiricism—where progress is inspected regularly, and data informs decisions. Metrics become a feedback loop, not a control mechanism. They allow teams to observe how value flows, understand where it's blocked, and adapt their systems of work accordingly. If you're not measuring flow, quality, and outcomes, you're not managing; you're guessing.
+This approach builds a culture of empiricism, where progress is inspected regularly, and data informs decisions. Metrics become a feedback loop, not a control mechanism. They allow teams to observe how value flows, understand where it's blocked, and adapt their systems of work accordingly. If you're not measuring flow, quality, and outcomes, you're not managing; you're guessing.
 
-Metrics are not just about operational tracking—they are a leadership tool for adaptation.
+Metrics are not just about operational tracking, they are a leadership tool for adaptation.
 
 To make this work across your company, we recommend metrics in two distinct but complementary domains: the _Product/Project/Organisation_- level and the _Team_- level.
 
@@ -100,7 +100,7 @@ These metrics help us understand the overall health of delivery, customer experi
   The time between “dev done” and “customer live.” Long stabilisation windows indicate brittle systems and poor engineering practices. This metric tells you how much of your time is spent undoing versus delivering.
 
 - **Deployment / Release Frequency**
-  Frequency reflects feedback speed. If you can’t release frequently, you can’t learn quickly. If you're not releasing frequently, you're not Agile—no matter what your board says.
+  Frequency reflects feedback speed. If you can’t release frequently, you can’t learn quickly. If you're not releasing frequently, you're not Agile, no matter what your board says.
 
 ## Team Metrics
 
@@ -126,7 +126,7 @@ Metrics are only useful when they're tied to learning and action. That means:
 
 - Teams inspect them regularly (e.g. during Sprint Reviews and Retrospectives).
 - Product Owners use them to inform forecasting and prioritisation.
-- Leaders use them to support, not control—enabling system-level improvement rather than micromanagement.
+- Leaders use them to support, not control, enabling system-level improvement rather than micromanagement.
 
 By embedding metrics in how we work, we move from anecdote to evidence, from hope to hypothesis, and from activity to outcomes.
 

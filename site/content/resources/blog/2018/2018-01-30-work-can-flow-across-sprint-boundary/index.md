@@ -42,10 +42,10 @@ tags:
   - Professional Scrum
   - Agile Planning
   - Throughput
+  - Continuous Improvement
   - Flow Efficiency
   - Market Adaptability
   - Agile Product Management
-  - Organisational Agility
 Watermarks:
   description: 2025-05-24T23:43:41Z
   short_title: 2025-07-07T17:58:36Z
@@ -57,9 +57,9 @@ AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nkdagility-cross-sprint-boundary-2-1.png
-
 ---
-There is nothing in the [Scrum]({{< ref "/categories/scrum" >}}) Guide that explicitly prevents work from flowing across the Sprint boundary. In fact, allowing flow across Sprints—without compromising the Sprint Goal—is a pragmatic strategy that enhances delivery, throughput, and responsiveness to customer feedback.
+
+There is nothing in the [Scrum]({{< ref "/categories/scrum" >}}) Guide that explicitly prevents work from flowing across the Sprint boundary. In fact, allowing flow across Sprints, without compromising the Sprint Goal, is a pragmatic strategy that enhances delivery, throughput, and responsiveness to customer feedback.
 
 **For practical guidance, explore the** **[Kanban Guide for Scrum Teams]({{< ref "/resources/guides/kanban-guide-for-scrum-teams" >}})**, and consider attending a **[Professional Scrum with Kanban]({{< ref "/capabilities/training-courses/scrumorg-professional-scrum-with-kanban" >}})** class.
 
@@ -79,7 +79,7 @@ My early scepticism around flowing work across Sprints shifted through deeper di
 
 Teams practicing Continuous Delivery (CD) inherently create working software incrementally and continuously. Such teams typically automate every aspect of their [Definition of Done]({{< ref "/tags/definition-of-done" >}}). Thus, by the [Sprint Review]({{< ref "/tags/sprint-review" >}}), presenting completed increments is straightforward and predictable.
 
-**For a professional Scrum Team, adopting CD is foundational—not optional.**
+**For a professional Scrum Team, adopting CD is foundational, not optional.**
 
 ## Strategic Sprint Goals and Continuous Value
 

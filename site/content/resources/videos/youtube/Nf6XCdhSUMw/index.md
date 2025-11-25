@@ -5,10 +5,10 @@ description: Learn how evidence-based management uses data and purposeful metric
 tldr: Evidence-based management helps you make better decisions by using data to inform, not control, your actions and team behaviours. Focus on choosing the right metrics that align with your business goals, understand the context behind the numbers, and engage with teams to uncover root causes. Use data as a guide for continuous improvement and be ready to adapt your strategies as new insights emerge.
 date: 2024-08-14T07:12:45Z
 lastmod: 2024-08-14T07:12:45Z
-weight: 710
+weight: 400
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: monthly
 ItemId: Nf6XCdhSUMw
 ItemType: videos

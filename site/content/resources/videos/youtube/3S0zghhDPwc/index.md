@@ -1,7 +1,7 @@
 ---
-title: 'The Overlooked Virtue of Agility: Diligence'
-short_title: 'The Overlooked Virtue of Agility: Diligence'
-description: Explores why diligence—consistent attention to quality and standards—is vital in Agile teams, how it’s often overlooked, and practical steps to foster it for lasting success.
+title: "The Overlooked Virtue of Agility: Diligence"
+short_title: "The Overlooked Virtue of Agility: Diligence"
+description: Explores why diligence, consistent attention to quality and standards, is vital in Agile teams, how it’s often overlooked, and practical steps to foster it for lasting success.
 tldr: Diligence, or consistently following through on quality standards like the definition of done, is often overlooked in Agile teams but is essential for reliable delivery and long-term success. Without diligence, teams risk inconsistent quality and increased rework, while a strong focus on it leads to better products and faster delivery over time. Development managers should ensure the definition of done is clear, visible, and enforced, and foster a culture of accountability and perseverance to make diligence a team habit.
 date: 2023-12-07T07:00:02Z
 lastmod: 2023-12-07T07:00:02Z
@@ -53,9 +53,9 @@ duration: 119
 resourceTypes:
   - video
 isShort: false
-
 ---
-When we talk about Agile practices, we often highlight flexibility, collaboration, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). However, one key Agile virtue that is often overlooked is _diligence_. Diligence, in its essence, is that unwavering attention to detail and the commitment to doing what needs to be done—no shortcuts, no compromises. It’s about ensuring quality at every step of the process, and in the world of Agile, this is where the definition of "done" becomes crucial.
+
+When we talk about Agile practices, we often highlight flexibility, collaboration, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). However, one key Agile virtue that is often overlooked is _diligence_. Diligence, in its essence, is that unwavering attention to detail and the commitment to doing what needs to be done, no shortcuts, no compromises. It’s about ensuring quality at every step of the process, and in the world of Agile, this is where the definition of "done" becomes crucial.
 
 ## **What is Diligence in Agile?**
 
@@ -63,11 +63,11 @@ In Agile teams, diligence is the commitment to following through on processes, m
 
 - **Definition of Done**: This is your compliance bar, your minimum standard for what qualifies as a completed piece of work.
 
-- **Following Through**: It's not enough to have a checklist—diligence demands that you follow it rigorously.
+- **Following Through**: It's not enough to have a checklist, diligence demands that you follow it rigorously.
 
 - **Team Accountability**: Everyone on the team must understand the definition of done and have the grit to see it through.
 
-When you operate with diligence, you're not just checking off boxes. You're actively contributing to the quality and reliability of your product. This virtue isn't optional—it’s a must-have for teams that aim for long-term success.
+When you operate with diligence, you're not just checking off boxes. You're actively contributing to the quality and reliability of your product. This virtue isn't optional, it’s a must-have for teams that aim for long-term success.
 
 ## **Why is Diligence Overlooked?**
 
@@ -79,7 +79,7 @@ Organizations might think:
 
 - "Quality should be automatic by now."
 
-- "We don’t need to focus on definitions—we need speed."
+- "We don’t need to focus on definitions, we need speed."
 
 Yet, without diligence, quality quickly becomes inconsistent, standards are forgotten, and processes are bypassed in the name of speed. The assumption that quality is a "default" is where many Agile teams go wrong.
 
@@ -111,7 +111,7 @@ In fast-paced environments, speed often takes precedence over quality. But dilig
 
 ### **3\. Encourage Grit and Perseverance**
 
-Agile isn't just about flexibility; it’s about grit—the ability to keep pushing through challenges and maintaining focus, even when the going gets tough. Teams that exhibit diligence are often:
+Agile isn't just about flexibility; it’s about grit, the ability to keep pushing through challenges and maintaining focus, even when the going gets tough. Teams that exhibit diligence are often:
 
 - **Resilient**: They don’t give up when the pressure mounts.
 
@@ -123,7 +123,7 @@ Agile isn't just about flexibility; it’s about grit—the ability to keep push
 
 In my early days working with Agile teams, I noticed a recurring issue: we would often rush to complete a sprint without fully adhering to our definition of done. It felt like we were moving fast, but in reality, we were constantly backtracking to fix issues that should have been caught earlier.
 
-One project in particular stands out. The team was building a new feature for a client, and we rushed it to completion. On the surface, everything seemed fine—we met the deadline, and the feature was live. But soon after, we started receiving feedback about bugs, missing functionality, and overall poor user experience.
+One project in particular stands out. The team was building a new feature for a client, and we rushed it to completion. On the surface, everything seemed fine, we met the deadline, and the feature was live. But soon after, we started receiving feedback about bugs, missing functionality, and overall poor user experience.
 
 Why? Because we had cut corners on our definition of done. We didn’t follow our checklist, we didn’t test thoroughly, and ultimately, we paid the price.
 
@@ -139,7 +139,7 @@ After that, I made it a point to instill a culture of diligence in every team I 
 
 ## **Conclusion: Make Diligence Your Competitive Advantage**
 
-If your team is struggling to consistently deliver high-quality work, it’s time to take a hard look at your definition of done and how well you’re following it. Diligence is not just a nice-to-have—it’s the key to unlocking true Agile success.
+If your team is struggling to consistently deliver high-quality work, it’s time to take a hard look at your definition of done and how well you’re following it. Diligence is not just a nice-to-have, it’s the key to unlocking true Agile success.
 
 Here’s how you can start cultivating diligence in your team:
 
@@ -149,4 +149,4 @@ Here’s how you can start cultivating diligence in your team:
 
 - **Prioritize Quality**: Don’t sacrifice long-term success for short-term speed.
 
-If you're finding it difficult to instill diligence in your team, don't hesitate to reach out for help. My team at NE Agility specializes in [coaching]({{< ref "/tags/coaching" >}}) teams to unlock the Seven Virtues of Agility, including diligence. Whether you need coaching, consulting, or training, we can help you get on the right track. Remember, it’s not just about being Agile—it’s about having naked agility. 🔥
+If you're finding it difficult to instill diligence in your team, don't hesitate to reach out for help. My team at NE Agility specializes in [coaching]({{< ref "/tags/coaching" >}}) teams to unlock the Seven Virtues of Agility, including diligence. Whether you need coaching, consulting, or training, we can help you get on the right track. Remember, it’s not just about being Agile, it’s about having naked agility. 🔥

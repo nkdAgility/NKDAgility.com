@@ -30,7 +30,7 @@ aliasesArchive:
   - /resources/blog/professional-scrum-teams-build-software-works
 layout: blog
 concepts:
-  - Ethos
+  - Accountability
 categories:
   - Engineering Excellence
   - Scrum
@@ -39,7 +39,6 @@ tags:
   - Product Developer
   - Working Software
   - Increment
-  - Pragmatic Thinking
   - Software Development
   - Technical Mastery
   - Agile Frameworks
@@ -48,8 +47,9 @@ tags:
   - Empirical Process Control
   - Product Delivery
   - Team Performance
-  - Competence
+  - Pragmatic Thinking
   - Engineering Practices
+  - Competence
   - Operational Practices
 Watermarks:
   description: 2025-05-07T13:15:18Z

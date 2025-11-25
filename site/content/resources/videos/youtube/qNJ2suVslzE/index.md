@@ -1,5 +1,5 @@
 ---
-title: 'Transforming Scope Creep into Success: Embrace Agility and Deliver Value in a Changing Market'
+title: "Transforming Scope Creep into Success: Embrace Agility and Deliver Value in a Changing Market"
 short_title: Transforming Scope Creep with Agile Value
 description: Learn how to turn scope creep into an advantage by adopting Agile methods, focusing on value delivery, and adapting to changing requirements in dynamic markets.
 tldr: Scope creep is often a sign that traditional fixed-scope approaches are failing in today’s fast-changing market. Focusing on delivering customer value, embracing flexible planning, and actively seeking feedback helps teams adapt and succeed. Development managers should shift from rigid scope management to Agile practices that prioritize value and responsiveness to change.
@@ -60,9 +60,9 @@ resourceTypes:
 isShort: false
 ResourceId: qNJ2suVslzE
 ResourceType: videos
-
 ---
-If you're grappling with scope creep, you're not alone. It's a common challenge that many teams face, and often, it stems from relying on outdated practices and philosophies that were designed for a world of low variance. In environments where change is minimal, creating a detailed plan or Gantt chart seems effective. You can run the plan, manage risks, and feel in control. However, when the variance—the gap between your expectations and reality—exceeds 50%, those traditional tools start to falter, leading to the dreaded scope creep.
+
+If you're grappling with scope creep, you're not alone. It's a common challenge that many teams face, and often, it stems from relying on outdated practices and philosophies that were designed for a world of low variance. In environments where change is minimal, creating a detailed plan or Gantt chart seems effective. You can run the plan, manage risks, and feel in control. However, when the variance, the gap between your expectations and reality, exceeds 50%, those traditional tools start to falter, leading to the dreaded scope creep.
 
 ### Understanding Scope Creep
 
@@ -74,7 +74,7 @@ Scope creep isn't just a buzzword; it's a symptom of a deeper issue. When we cli
 
 ### Shifting the Conversation
 
-If you're finding yourself in discussions about scope creep, it might be time to rethink the conversation. Instead of viewing scope as a fixed entity, we should embrace the idea that scope can—and should—change. Here are a few key points to consider:
+If you're finding yourself in discussions about scope creep, it might be time to rethink the conversation. Instead of viewing scope as a fixed entity, we should embrace the idea that scope can, and should, change. Here are a few key points to consider:
 
 - **Value Over Scope**: Our focus should shift from managing scope to delivering value. If we prioritise value, we can adapt our plans and resources to meet the evolving needs of our customers.
 
@@ -84,6 +84,6 @@ If you're finding yourself in discussions about scope creep, it might be time to
 
 ### Conclusion
 
-In conclusion, if you're struggling with scope creep, it may be a sign that you're still operating under outdated paradigms. Embrace the Agile mindset, where change is not only expected but welcomed. By focusing on delivering value and maintaining a flexible approach to planning, you can navigate the complexities of [product delivery]({{< ref "/tags/product-delivery" >}}) with confidence. Remember, the goal is not to stick to a predetermined scope but to ensure that what you deliver meets the needs of your customers in a rapidly changing environment. 
+In conclusion, if you're struggling with scope creep, it may be a sign that you're still operating under outdated paradigms. Embrace the Agile mindset, where change is not only expected but welcomed. By focusing on delivering value and maintaining a flexible approach to planning, you can navigate the complexities of [product delivery]({{< ref "/tags/product-delivery" >}}) with confidence. Remember, the goal is not to stick to a predetermined scope but to ensure that what you deliver meets the needs of your customers in a rapidly changing environment.
 
 Let’s shift our focus from scope to value, and in doing so, we can transform our approach to product delivery and ultimately achieve greater success.

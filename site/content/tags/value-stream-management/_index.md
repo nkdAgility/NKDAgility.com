@@ -25,7 +25,7 @@ Instructions: |-
   Discussions that do not directly relate to the flow of value, such as general project management practices, unrelated Agile or Scrum methodologies, or any content that misinterprets the core principles of Value Stream Management.
 headline:
   cards: []
-  title: 'Value Stream Management: Optimising Flow to Accelerate Customer Value Delivery'
+  title: "Value Stream Management: Optimising Flow to Accelerate Customer Value Delivery"
   subtitle: Optimising end-to-end processes, removing bottlenecks, and aligning workflows to maximise customer value and organisational performance.
   content: A strategic approach to visualising and optimising the end-to-end flow of work from concept to customer delivery, emphasising waste reduction, process efficiency, and alignment with customer outcomes. It integrates continuous improvement, cross-functional collaboration, flow metrics, and systems thinking to enhance organisational responsiveness, innovation, and adaptability in complex environments.
   updated: 2025-05-23T23:17:55Z
@@ -60,9 +60,9 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
-Value Stream Management is a strategic approach focused on enhancing the flow of value within an organisation by optimising processes, minimising waste, and ensuring alignment with customer outcomes. It involves mapping the entire value stream—from ideation to delivery—allowing teams to identify bottlenecks and inefficiencies that hinder performance. By visualising these flows, organisations can make informed decisions that lead to improved cycle times and increased throughput.
+
+Value Stream Management is a strategic approach focused on enhancing the flow of value within an organisation by optimising processes, minimising waste, and ensuring alignment with customer outcomes. It involves mapping the entire value stream, from ideation to delivery, allowing teams to identify bottlenecks and inefficiencies that hinder performance. By visualising these flows, organisations can make informed decisions that lead to improved cycle times and increased throughput.
 
 This concept is crucial for enabling teams to deliver value predictably and sustainably, as it fosters a culture of continuous improvement and responsiveness to changing market demands. Value Stream Management encourages collaboration across departments, breaking down silos and promoting a shared understanding of how work contributes to overall business objectives. It empowers teams to focus on delivering high-quality products that meet customer needs while maintaining a balance between speed and efficiency.
 

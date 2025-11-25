@@ -34,8 +34,8 @@ ResourceImportId: 4828
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nakedalm-experts-visual-studio-alm-3-3.png
-
 ---
+
 Are you a professional developer? Do you get an MSDN from your organisation? Did you know that you can use it at home on both commercial and open source projects of your own!
 
 > MSDN subscriptions are licensed on a **per-user basis**.  One person can use the software to design, develop, test, or demonstrate his or her programs on **any number of devices**.  Each person who uses the software this way needs a license.  
@@ -64,7 +64,7 @@ In most companies that I do work for the operations team hoards the MSDN’s so 
 
 Did you EVER have an MSDN? Another of those little known things about an MSDN is that it is perpetual. That is that you can use forever the software that became available when you received your MSDN.
 
-> In most cases, MSDN subscriptions come with **“perpetual” use rights**—the ability to continue using the software after the subscription has expired, even though the ability to download software and product keys ends when the subscription expires.  
+> In most cases, MSDN subscriptions come with **“perpetual” use rights**, the ability to continue using the software after the subscription has expired, even though the ability to download software and product keys ends when the subscription expires.  
 > \-[MSDN Licencing](http://msdn.microsoft.com/en-us/subscriptions/cc150618.aspx)
 
 You just don’t get anything new ![Smile](images/wlEmoticon-smile-4-4.png)

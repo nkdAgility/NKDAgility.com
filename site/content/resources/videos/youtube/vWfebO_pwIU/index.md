@@ -1,5 +1,5 @@
 ---
-title: 'Why Many Scrum Masters Stall at PSM1: The Crucial Role of Passion in Professional Growth'
+title: "Why Many Scrum Masters Stall at PSM1: The Crucial Role of Passion in Professional Growth"
 short_title: Why Scrum Masters Stall at PSM1
 description: Many Scrum Masters stop at PSM1 due to lack of passion. Ongoing learning, genuine interest, and active engagement are key to advancing and excelling in the Scrum Master role.
 tldr: Many Scrum Masters do not progress beyond the PSM1 certification because they lack genuine interest and focus only on obtaining the certificate rather than improving their skills. Those who advance are passionate, actively seek knowledge, and practice their craft, which leads to greater team effectiveness and value creation. Development managers should encourage ongoing learning and engagement to foster deeper expertise and professional growth in their Scrum Masters.
@@ -47,15 +47,15 @@ duration: 291
 resourceTypes:
   - video
 isShort: false
-
 ---
-As I reflect on the journey of [Scrum]({{< ref "/categories/scrum" >}}) Masters and their progression through the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master (PSM) certifications, I can't help but notice a troubling trend: many Scrum Masters never advance beyond the PSM1 level. This observation leads me to a crucial question: why is that? 
+
+As I reflect on the journey of [Scrum]({{< ref "/categories/scrum" >}}) Masters and their progression through the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master (PSM) certifications, I can't help but notice a troubling trend: many Scrum Masters never advance beyond the PSM1 level. This observation leads me to a crucial question: why is that?
 
 From my experience, the answer often boils down to a lack of genuine interest. Many individuals enter the certification process not out of a desire to deepen their understanding of Scrum or to enhance their skills, but rather because they’ve been instructed to do so by their organisations. They approach the training with a singular focus on obtaining the certificate, often asking questions like, “What happens with the exam?” or “How do I get the certificate?” This mindset reveals a fundamental disconnect; they are not truly invested in becoming better Scrum Masters.
 
 ### The Importance of Passion in Professional Growth
 
-I once came across a thought-provoking blog post that began with a striking statement: “If you’re reading this, you’re already in the top 10% of all software engineers.” The essence of this statement is that very few people are genuinely passionate about their work. Those who are willing to invest their time outside of work—whether by reading, listening to podcasts, or engaging with their professional community—are the ones who truly excel. 
+I once came across a thought-provoking blog post that began with a striking statement: “If you’re reading this, you’re already in the top 10% of all software engineers.” The essence of this statement is that very few people are genuinely passionate about their work. Those who are willing to invest their time outside of work, whether by reading, listening to podcasts, or engaging with their professional community, are the ones who truly excel.
 
 Here’s what I’ve observed about those who progress to PSM2 and PSM3:
 

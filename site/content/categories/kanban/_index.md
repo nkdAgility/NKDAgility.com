@@ -27,7 +27,7 @@ Instructions: |-
   - Content that does not align with the original theories and philosophies of Kanban as defined by key authors and practitioners in the field.
 headline:
   cards: []
-  title: 'Kanban: Optimising Flow for Sustainable Value Delivery'
+  title: "Kanban: Optimising Flow for Sustainable Value Delivery"
   subtitle: Optimise workflow, visualise system dynamics, manage flow, and drive evolutionary improvements for predictable, sustainable value delivery.
   content: A strategy for managing organisational change by visualising workflow, limiting work in progress, and optimising flow to enhance value delivery. Rooted in systems thinking, it promotes evolutionary improvement through explicit policies, measurement-driven decisions, and continuous adaptation, enabling predictable, sustainable outcomes in complex, rapidly evolving environments.
   updated: 2025-05-23T23:18:49Z
@@ -45,12 +45,12 @@ ItemType: categories
 ResourceType: categories
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
+
 Kanban is a strategy for change, not a tool or board. As defined in the Kanban Guide, it enables organisations to “start with what they do now,” understand their current system, and improve flow and value delivery through evolutionary change. It is rooted in Lean principles and systems thinking, focusing on how work flows rather than what work gets done.
 
 Unlike frameworks that prescribe roles or timeboxes, Kanban introduces observability: visualising work, limiting WIP, managing flow, and making policies explicit. This exposes bottlenecks and enables evidence-based improvement without disrupting existing structures.
 
 Kanban complements other approaches like Scrum and DevOps by improving transparency and decision-making. It does not require a reset or reorganisation. Instead, it guides teams to adapt their way of working over time, based on feedback and performance metrics such as lead time, throughput, and service-level expectations.
 
-Crucially, Kanban is often misunderstood as just visual task tracking. But its true power lies in creating a shared understanding of system behaviour and enabling strategic decisions about where and how to improve. It empowers teams to deliver value predictably, sustainably, and with greater resilience—making it an essential strategy for navigating complex, evolving environments.
+Crucially, Kanban is often misunderstood as just visual task tracking. But its true power lies in creating a shared understanding of system behaviour and enabling strategic decisions about where and how to improve. It empowers teams to deliver value predictably, sustainably, and with greater resilience, making it an essential strategy for navigating complex, evolving environments.

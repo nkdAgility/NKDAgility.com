@@ -1,5 +1,5 @@
 ---
-title: 'Transforming Organisational Culture: Unlocking Engineering Excellence Through System Optimisation'
+title: "Transforming Organisational Culture: Unlocking Engineering Excellence Through System Optimisation"
 short_title: Transforming Organisational Culture for Engineering Excellence
 description: Explores how understanding and optimising organisational systems can drive engineering excellence, improve value delivery, and foster a culture of technical leadership.
 tldr: To achieve engineering excellence, focus on understanding and measuring your current delivery system, then use those insights to optimise for maximum value rather than just cutting costs. Transparent metrics and iterative improvements help control costs and drive technical leadership. Start by assessing your workflows and processes to identify where changes will have the most impact.
@@ -44,8 +44,8 @@ resourceTypes:
 isShort: false
 ResourceId: KhKFVRcdbGo
 ResourceType: videos
-
 ---
+
 Creating a culture of [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) within an organisation is a topic that often stirs up a fair bit of debate. I find myself grappling with the concept of culture itself. After all, culture is essentially the embodiment of what exists within an organisation. It’s like the shadow on the wall; to change the shadow, we must first alter the shape of the object casting it. This is where Naked Agility comes into play.
 
 ### Understanding Your Current System
@@ -58,7 +58,7 @@ At Naked Agility, we focus on helping organisations understand their current sys
 
 ### Optimising for Value
 
-The ultimate aim of our work is to create the highest value optimisation within your specific context. Whether your goal is to reduce costs or, as I would advocate, to maximise value, we tailor our approach to meet your needs. 
+The ultimate aim of our work is to create the highest value optimisation within your specific context. Whether your goal is to reduce costs or, as I would advocate, to maximise value, we tailor our approach to meet your needs.
 
 - **Maximising Value**: In my experience, focusing on maximising value leads to more sustainable outcomes. It’s not just about cutting costs; it’s about enhancing the quality and impact of what you deliver.
 - **[Technical Leadership]({{< ref "/categories/technical-leadership" >}})**: Achieving engineering excellence requires a commitment to understanding your system. This means measuring its performance and making informed changes to optimise your goals.
@@ -72,6 +72,6 @@ Once we have a clear understanding of your system and the metrics that matter, w
 
 ### Let’s Get Started
 
-If you’re ready to embark on this journey towards engineering excellence, I invite you to contact me today. Together, we can transform your organisation’s culture and optimise your system for maximum value. 
+If you’re ready to embark on this journey towards engineering excellence, I invite you to contact me today. Together, we can transform your organisation’s culture and optimise your system for maximum value.
 
-In conclusion, remember that culture is not something we create in isolation; it’s a reflection of the systems and practices we put in place. By focusing on understanding and optimising these systems, we can cast a new shadow—one that reflects excellence and value in everything you do.
+In conclusion, remember that culture is not something we create in isolation; it’s a reflection of the systems and practices we put in place. By focusing on understanding and optimising these systems, we can cast a new shadow, one that reflects excellence and value in everything you do.

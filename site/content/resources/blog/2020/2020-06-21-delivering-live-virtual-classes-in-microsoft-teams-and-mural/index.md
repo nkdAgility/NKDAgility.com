@@ -47,8 +47,8 @@ ResourceImportId: 44432
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: class-colage-2-8-8.jpg
-
 ---
+
 With the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/), I have been delivering all of my [Professional Scrum classes](https://nkdagility.com/training/scrum-training/) and consulting online. I have tried many tools from Zoom and Webex to Miro and Word. The combination that I have found gives the most security, flexibility, and features are Microsoft Teams with Mural.
 
 <figure>
@@ -70,7 +70,7 @@ I have delivered six [training events in Team with Mural and 3 in Zoom with Mura
 
 - **General familiarisation** \- It surprising up much time is lost to fumbling on the first day when students can find the most basic of options.
 
-- **Setting expectations** - We can use a little bit of time to set the expectations that we, as trainers have of the students—pre-Reading, Engagement, & participation.
+- **Setting expectations** - We can use a little bit of time to set the expectations that we, as trainers have of the students, pre-Reading, Engagement, & participation.
 
 I recently live-streamed and example [Tech Check](https://youtu.be/_bjNHN4PI9s) that I use to give students the information that they need to have an excellent class, it's a little out of date as I have made my processes much slicker since then, but its an example. I'll do another one soon :) make sure that you subscribe on [http://nakedagility.tv](http://nakedagility.tv) for an updated one. I always add this to my event invitations, but I prefer the live tech-check.
 

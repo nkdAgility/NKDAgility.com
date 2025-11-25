@@ -31,6 +31,7 @@ categories:
   - Product Development
 tags:
   - Software Development
+  - Personal
 Watermarks:
   description: 2025-05-07T13:15:42Z
   short_title: 2025-07-07T17:58:05Z

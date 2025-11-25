@@ -1,6 +1,6 @@
 ---
-title: 'Beyond the Agile Illusion: Embracing True Agility in a World of Taylorism'
-short_title: 'Beyond the Agile Illusion: True Agility'
+title: "Beyond the Agile Illusion: Embracing True Agility in a World of Taylorism"
+short_title: "Beyond the Agile Illusion: True Agility"
 description: Explores the difference between true agility and superficial agile practices, highlighting the impact of Taylorism and offering steps to foster genuine agile culture.
 tldr: Many teams claim to be agile but still operate with outdated management mindsets that stifle autonomy and engagement, leading to low adoption of core agile practices like short iterations and retrospectives. True agility requires transparency, regular feedback, and a focus on delivering value rather than just completing tasks. Development managers should assess whether their teams meet these criteria and actively foster a culture that supports genuine agile principles.
 date: 2020-07-21T18:00:53Z
@@ -49,13 +49,13 @@ duration: 4809
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 As I reflect on my recent experiences with agile practices and the challenges that many organisations face, I find myself drawn to the concept of [transparency]({{< ref "/tags/transparency" >}}) and the importance of understanding what it truly means to be agile. In a world where 81% of development teams claim to be agile, it’s crucial to ask ourselves: are we genuinely embracing the principles of agility, or are we merely paying lip service to the idea?
 
 ### The Tyranny of Taylorism
 
-One of the key issues I see is the lingering influence of Taylorism—the management philosophy that prioritises efficiency and productivity over human connection and understanding. This approach, which dates back to the late 19th century, has led to a disconnect between workers and their tasks. In the past, craftsmen took pride in their work, understanding the needs of their customers intimately. However, the industrial revolution mechanised this process, reducing workers to mere cogs in a machine, devoid of autonomy and purpose.
+One of the key issues I see is the lingering influence of Taylorism, the management philosophy that prioritises efficiency and productivity over human connection and understanding. This approach, which dates back to the late 19th century, has led to a disconnect between workers and their tasks. In the past, craftsmen took pride in their work, understanding the needs of their customers intimately. However, the industrial revolution mechanised this process, reducing workers to mere cogs in a machine, devoid of autonomy and purpose.
 
 - **Craftsmanship vs. Mechanisation**: In the pre-industrial era, a cobbler would create shoes tailored to the specific needs of a customer. Today, many workers are simply following a set of instructions without understanding the broader context of their work.
 - **Disengagement**: This mechanisation has led to a phenomenon known as "soldiering," where workers intentionally slow down their pace to avoid overexertion. When people don’t care about their work, productivity suffers.

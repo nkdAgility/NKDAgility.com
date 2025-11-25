@@ -1,5 +1,5 @@
 ---
-title: 'Rethinking Agile: Why Story Points, Team Sizes, and Emergent Architecture Need a Fresh Perspective'
+title: "Rethinking Agile: Why Story Points, Team Sizes, and Emergent Architecture Need a Fresh Perspective"
 short_title: Rethinking Story Points, Team Size & Architecture
 description: Explores the limitations of story points, optimal team sizes, and the benefits of emergent architecture for improving agile practices and team performance.
 tldr: Story points often create confusion and unpredictability, so focusing on throughput and cycle time gives teams clearer insights and better delivery. Slightly larger teams with diverse roles can handle complex work and maintain quality more effectively. Embracing emergent architecture helps teams stay flexible and competitive, so consider shifting your metrics and team structures to support adaptability and faster value delivery.
@@ -48,8 +48,8 @@ duration: 1756
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 Welcome back to my blog! Today, I want to share some insights from my recent office hours, where I tackled a few pressing questions about agile practices, particularly around story points, team sizes, and emergent architecture. These topics are crucial for anyone looking to enhance their understanding of agile methodologies and improve their team's performance.
 
 ### The Evolution of Story Points
@@ -81,6 +81,6 @@ The final topic I want to address is the concept of emergent architecture. This 
 
 ### Conclusion
 
-In summary, my recent discussions have reinforced my belief that we need to evolve our practices to stay relevant in the agile landscape. Moving away from story points, re-evaluating team sizes, and embracing emergent architecture are all steps in the right direction. 
+In summary, my recent discussions have reinforced my belief that we need to evolve our practices to stay relevant in the agile landscape. Moving away from story points, re-evaluating team sizes, and embracing emergent architecture are all steps in the right direction.
 
-If you have any questions or want to dive deeper into these topics, feel free to reach out. I’m here to help you navigate your agile journey. And remember, Naked Agility is available for [DevOps]({{< ref "/categories/devops" >}}) and agile training and consulting—don’t hesitate to contact us for a free consultation!
+If you have any questions or want to dive deeper into these topics, feel free to reach out. I’m here to help you navigate your agile journey. And remember, Naked Agility is available for [DevOps]({{< ref "/categories/devops" >}}) and agile training and consulting, don’t hesitate to contact us for a free consultation!

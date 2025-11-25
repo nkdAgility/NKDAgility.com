@@ -47,8 +47,8 @@ duration: 371
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 In the world of Agile, certifications have long been a point of contention. Lately, there's been a growing trend of dismissiveness toward certifications, with many expressing skepticism about their value. As someone who has spent years in the Agile and [Scrum]({{< ref "/categories/scrum" >}}) space, I understand the frustration that certifications often evoke. While I agree with some of the criticism, I also see their value, but only when approached correctly.
 
 ## **The Impact of Certifications on Learning**
@@ -69,7 +69,7 @@ As Agile professionals, we must recognize this and steer the industry toward val
 
 ## **Certifications as a Starting Point**
 
-Let me be clear: there is no two-day course you can attend, pass a certification exam, and walk away as an expert. At best, a certification can be likened to passing your driving test. Think back to the time when you passed your driving test—were you the best driver on the road at that moment? Absolutely not. You had the _minimum_ knowledge required to avoid being a danger to those around you. And, if we’re honest, even that minimum wasn’t enough for some of us!
+Let me be clear: there is no two-day course you can attend, pass a certification exam, and walk away as an expert. At best, a certification can be likened to passing your driving test. Think back to the time when you passed your driving test, were you the best driver on the road at that moment? Absolutely not. You had the _minimum_ knowledge required to avoid being a danger to those around you. And, if we’re honest, even that minimum wasn’t enough for some of us!
 
 Here’s the key takeaway: **Certifications are just the beginning, not the end.** They represent a starting point in your journey, not the pinnacle of your expertise.
 
@@ -77,7 +77,7 @@ Here’s the key takeaway: **Certifications are just the beginning, not the end.
 
 - **Driving test ≠ expert driver** – Just because you passed your driving test doesn’t mean you can handle every vehicle or every road condition.
 
-- **Different licenses, different skills** – Passing a driving test doesn’t mean you can ride a motorbike or drive a 10-ton truck. The same applies to Agile certifications—one size does not fit all.
+- **Different licenses, different skills** – Passing a driving test doesn’t mean you can ride a motorbike or drive a 10-ton truck. The same applies to Agile certifications, one size does not fit all.
 
 If you’ve recently earned a certification, think of it as your learner’s permit in the Agile world. It’s the start of a long journey toward true mastery.
 
@@ -131,4 +131,4 @@ If you’re struggling with the role that certifications play in your Agile jour
 
 - **Join us** – We offer immersive training that goes beyond certifications, helping you build real-world expertise.
 
-Remember, the journey to becoming a true Agile professional is about more than just passing a test. It’s about [continuous learning]({{< ref "/tags/continuous-learning" >}}), hands-on experience, and making a real impact within your teams. 🛠️ **Certifications aren’t the destination—they’re just the start!**
+Remember, the journey to becoming a true Agile professional is about more than just passing a test. It’s about [continuous learning]({{< ref "/tags/continuous-learning" >}}), hands-on experience, and making a real impact within your teams. 🛠️ **Certifications aren’t the destination, they’re just the start!**

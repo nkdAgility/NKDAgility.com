@@ -1,7 +1,7 @@
 ---
 title: Why Resilience Demands More Than Survival
 short_title: Why Resilience Demands More Than Survival
-description: True organisational resilience means improving technical health—like testing, automation, and architecture—beyond just surviving incidents or following Agile rituals.
+description: True organisational resilience means improving technical health, like testing, automation, and architecture, beyond just surviving incidents or following Agile rituals.
 tldr: True resilience in software teams means improving technical health after setbacks, not just surviving them. Key practices include strengthening automated tests, CI/CD, observability, and architecture, while avoiding superficial Agile claims. Leaders should prioritize system health and sustainable delivery, making resilience a shared responsibility and ongoing investment.
 date: 2025-06-12
 lastmod: 2025-06-12
@@ -30,6 +30,7 @@ tags:
   - Software Development
   - Technical Excellence
   - Technical Mastery
+  - Competence
 Watermarks:
   description: 2025-05-07T12:49:02Z
   short_title: 2025-07-07T16:43:31Z
@@ -37,9 +38,9 @@ Watermarks:
 resourceTypes: newsletter
 ResourceId: X2BzJPMloRw
 ResourceType: newsletters
-
 ---
-In resilient organisations, resilience is not about bouncing back; it is about bouncing forward. Teams that survive chaos but leave behind technical debt are not resilient — they are brittle.
+
+In resilient organisations, resilience is not about bouncing back; it is about bouncing forward. Teams that survive chaos but leave behind technical debt are not resilient , they are brittle.
 
 Real resilience comes from embedding rigorous engineering discipline. Every time you patch a production issue, you must ask:
 
@@ -48,7 +49,7 @@ Real resilience comes from embedding rigorous engineering discipline. Every time
 - Did we strengthen observability and monitoring?
 - Did we reinforce the architecture or code quality?
 
-Without these, you are not resilient — you are hiding behind Agile theatre.
+Without these, you are not resilient , you are hiding behind Agile theatre.
 
 ### Detecting Agile Bullshit in Resilience Talk
 

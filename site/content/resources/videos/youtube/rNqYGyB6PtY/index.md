@@ -46,8 +46,8 @@ duration: 386
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 As a [product owner]({{< ref "/tags/product-owner" >}}), you might sometimes face the challenge of working with a team that isn't meeting expectations. Incompetence in a team can be frustrating, but it’s essential to approach the situation thoughtfully and strategically before taking any drastic steps. So, what should you do if you find yourself in this predicament? Let’s dive into it.
 
 ## **🧐 First Things First: Define “Incompetence”**
@@ -64,15 +64,15 @@ Before jumping to conclusions, it's critical to distinguish between **true incom
 
 ## **🔥** **When It’s Time to Let Go**
 
-If you’ve determined that the team is truly incompetent, or worse—intentionally harming the project—you need to act. A business cannot thrive with people who don't contribute positively to the team or the product. In my experience, **amazing teams build amazing products**, and amazing teams don’t come from incompetence. If a team member or an entire team is genuinely holding your product back, **don’t hesitate to let them go**.
+If you’ve determined that the team is truly incompetent, or worse, intentionally harming the project, you need to act. A business cannot thrive with people who don't contribute positively to the team or the product. In my experience, **amazing teams build amazing products**, and amazing teams don’t come from incompetence. If a team member or an entire team is genuinely holding your product back, **don’t hesitate to let them go**.
 
 ### **Steps Before Firing the Team:**
 
 1. **Engage and Support:** Ensure that you’ve provided every opportunity for the team to improve. Engage them in meaningful ways and offer clear feedback on what’s not working.
 
-3. **Provide Resources:** Offer them training, tools, and support. Sometimes, what seems like incompetence is just a lack of proper resources.
+2. **Provide Resources:** Offer them training, tools, and support. Sometimes, what seems like incompetence is just a lack of proper resources.
 
-5. **Evaluate Progress:** After giving them support, check their progress. If they still aren’t meeting expectations, it’s time to consider more drastic measures.
+3. **Evaluate Progress:** After giving them support, check their progress. If they still aren’t meeting expectations, it’s time to consider more drastic measures.
 
 ## **💡** **A Personal Story: Incompetence or Strategic Manipulation?**
 
@@ -82,31 +82,31 @@ I was consulting on a project, helping a team transition from their previous sys
 
 ### **The Real Horror Story: No Source Control**
 
-This team refused to use source control. They believed it would slow them down, preferring to log directly into their production servers and make changes live. Yep, you read that right—**straight into production**.
+This team refused to use source control. They believed it would slow them down, preferring to log directly into their production servers and make changes live. Yep, you read that right, **straight into production**.
 
 Even worse, each team member had their own server, and they would log in independently to make changes. You can imagine the chaos this caused. How did they synchronize across servers? They didn’t. Each person managed their own server, and the changes were not aligned.
 
-To make matters worse, these weren’t just any servers—**they handled real-time banking transactions for a multinational bank**. This realization horrified me, and I immediately raised the issue with [leadership]({{< ref "/categories/leadership" >}}).
+To make matters worse, these weren’t just any servers, **they handled real-time banking transactions for a multinational bank**. This realization horrified me, and I immediately raised the issue with [leadership]({{< ref "/categories/leadership" >}}).
 
 ### **Holding the Bank Hostage**
 
-Here’s where it gets interesting. The bank’s leadership knew about the situation but chose to stay silent. Why? Because these team members had essentially **held the bank hostage**. They knew that if leadership complained, they could leave, and the bank wouldn’t know how to fix the mess they left behind. This wasn’t just incompetence anymore—it was **strategic malevolence**.
+Here’s where it gets interesting. The bank’s leadership knew about the situation but chose to stay silent. Why? Because these team members had essentially **held the bank hostage**. They knew that if leadership complained, they could leave, and the bank wouldn’t know how to fix the mess they left behind. This wasn’t just incompetence anymore, it was **strategic malevolence**.
 
 ### **What Should Have Happened?**
 
 In this case, my recommendation was clear: **Fire the entire team**. The organization needed to take the hit, remove the team, and rebuild properly. Keeping such individuals around would only lead to more sabotage and risk for the business.
 
-## **👩****‍****🏫** **A Word on Training and Knowledge Gaps**
+## **👩\*\***‍\***\*🏫** **A Word on Training and Knowledge Gaps**
 
-Not every team that struggles is incompetent. Often, they simply don’t know better because no one has ever taught them. For example, I’ve worked with teams that didn’t understand basic concepts like source control or how to properly manage code branches. This isn’t malicious behavior or incompetence—it’s a gap in knowledge.
+Not every team that struggles is incompetent. Often, they simply don’t know better because no one has ever taught them. For example, I’ve worked with teams that didn’t understand basic concepts like source control or how to properly manage code branches. This isn’t malicious behavior or incompetence, it’s a gap in knowledge.
 
 ### **How to Address Knowledge Gaps**
 
 1. **Training:** Provide structured training sessions to fill those gaps.
 
-3. **[Mentoring]({{< ref "/tags/mentoring" >}}):** Pair inexperienced team members with seasoned veterans who can guide them.
+2. **[Mentoring]({{< ref "/tags/mentoring" >}}):** Pair inexperienced team members with seasoned veterans who can guide them.
 
-5. **Continuous Feedback:** Give them regular feedback so they know where to improve.
+3. **Continuous Feedback:** Give them regular feedback so they know where to improve.
 
 Teaching and nurturing your team can transform perceived incompetence into [competence]({{< ref "/tags/competence" >}}). However, if after extensive training, the team still doesn’t improve, it may be time to part ways.
 
@@ -132,4 +132,4 @@ So, when do you finally decide to fire the team?
 
 - **Act quickly when necessary**. Prolonging the inevitable only hurts the product, the organization, and ultimately, your customers.
 
-**🚀** **Moving Forward** At the end of the day, a successful product owner understands when to invest in their team and when to cut their losses. It’s not an easy decision, but it’s one that can save your product—and your organization. If you find yourself in a situation like this and need advice or [coaching]({{< ref "/tags/coaching" >}}), feel free to reach out. I’m always happy to chat about [Scrum]({{< ref "/categories/scrum" >}}), Agile, or DevOps. Let’s build amazing teams together!
+**🚀** **Moving Forward** At the end of the day, a successful product owner understands when to invest in their team and when to cut their losses. It’s not an easy decision, but it’s one that can save your product, and your organization. If you find yourself in a situation like this and need advice or [coaching]({{< ref "/tags/coaching" >}}), feel free to reach out. I’m always happy to chat about [Scrum]({{< ref "/categories/scrum" >}}), Agile, or DevOps. Let’s build amazing teams together!

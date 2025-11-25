@@ -1,5 +1,5 @@
 ---
-title: 'The Power of Humility in Agile: A Core Virtue for Success'
+title: "The Power of Humility in Agile: A Core Virtue for Success"
 short_title: Humility in Agile Teams for Success
 description: Explores how humility strengthens Agile teams by fostering trust, collaboration, openness to feedback, and better decision-making through reduced bias and data-driven insights.
 tldr: Humility is crucial for Agile teams because it enables better collaboration, trust, and openness to feedback, leading to stronger products and happier teams. Recognizing that not all ideas are right, listening to others, and being willing to change course based on data and feedback are key to success. Development managers should foster a culture where team members check their egos, seek diverse perspectives, and use data thoughtfully to continuously improve.
@@ -51,13 +51,13 @@ duration: 212
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 When we talk about the **Seven Virtues of Agility**, one that often stands out is humility. It's an essential ingredient for effective collaboration and success within Agile teams. Whether you're a [product owner]({{< ref "/tags/product-owner" >}}), product manager, or a developer, embracing humility can dramatically impact the quality of your work and the strength of your team.
 
 In this post, we’re diving deep into why humility matters in Agile and how it plays a crucial role in building trust, fostering collaboration, and creating products that truly meet customer needs.
 
-* * *
+---
 
 ## **Why Humility is Essential in Agile**
 
@@ -69,32 +69,30 @@ Humility helps us recognize that:
 
 - Our ideas might not always hit the mark.
 
-- We need to _listen_ to others—team members, stakeholders, and most importantly, customers.
+- We need to _listen_ to others, team members, stakeholders, and most importantly, customers.
 
 - Success often comes from the collective wisdom of the team, not just from individual brilliance.
 
-This humility extends beyond the product world. Developers, too, can fall into the trap of thinking their solutions or methods are the best. But Agile is all about **collaboration**, and that requires checking egos at the door. It's about saying, "Here’s my idea—let's discuss whether it works" instead of "I’m always right."
+This humility extends beyond the product world. Developers, too, can fall into the trap of thinking their solutions or methods are the best. But Agile is all about **collaboration**, and that requires checking egos at the door. It's about saying, "Here’s my idea, let's discuss whether it works" instead of "I’m always right."
 
-* * *
+---
 
 ## **Humility Builds Trust and Collaboration**
 
 So how do we cultivate humility in Agile teams?
 
 1. **Adopt a "Let's Discuss" Attitude**  
-    When we approach conversations with modesty, we’re more likely to have meaningful discussions. Instead of assuming we know the right answer, we open the door to other perspectives. This attitude fosters:
-    - Empathy 🧡
-    
-    - Trust 💡
-    
-    - Stronger relationships 🤝
+   When we approach conversations with modesty, we’re more likely to have meaningful discussions. Instead of assuming we know the right answer, we open the door to other perspectives. This attitude fosters:
+   - Empathy 🧡
+   - Trust 💡
+   - Stronger relationships 🤝
 
-3. **Be Open to Feedback**  
-    In Agile, feedback is a gift. It’s the key to [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). However, being receptive to feedback requires humility. We must listen not only to what our customers are saying but also to the feedback from our team.
+2. **Be Open to Feedback**  
+   In Agile, feedback is a gift. It’s the key to [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). However, being receptive to feedback requires humility. We must listen not only to what our customers are saying but also to the feedback from our team.
 
 **Key Tip:** Don't make assumptions! 🚫 This is one of the major risks in Agile. It's easy to assume that our understanding is always accurate, but in reality, our biases can cloud judgment. Often, we need someone else to point out those biases, but we must be willing to listen to their observations.
 
-* * *
+---
 
 ## **Humility in [Product Management]({{< ref "/categories/product-management" >}}): Listening to Data and People**
 
@@ -103,37 +101,37 @@ In the product world, humility goes hand in hand with **data-driven decision-mak
 Here’s how humility can guide your decision-making process:
 
 - **Look at how customers use your product**  
-    It's not enough to launch a feature and walk away. You need to see how people engage with it. Are they using it the way you expected? Or has their behavior surprised you? These insights will help you adapt and refine your product.
+   It's not enough to launch a feature and walk away. You need to see how people engage with it. Are they using it the way you expected? Or has their behavior surprised you? These insights will help you adapt and refine your product.
 
 - **Measure employee morale**  
-    Your team's happiness directly influences the success of your product. Low morale can lead to burnout, reduced creativity, and, ultimately, lower-quality work. So, ask yourself: How do my employees feel about our collaboration? What could we be doing differently to improve their experience? 📊
+   Your team's happiness directly influences the success of your product. Low morale can lead to burnout, reduced creativity, and, ultimately, lower-quality work. So, ask yourself: How do my employees feel about our collaboration? What could we be doing differently to improve their experience? 📊
 
 - **Don’t Be Afraid to Change Course**  
-    Humility means being willing to say, "We were wrong" and pivot when necessary. There’s no shame in adjusting your path based on new data, insights, or feedback. In fact, it's a sign of strength.
+   Humility means being willing to say, "We were wrong" and pivot when necessary. There’s no shame in adjusting your path based on new data, insights, or feedback. In fact, it's a sign of strength.
 
-* * *
+---
 
 ## **Cognitive Bias: The Silent Saboteur**
 
 A quick note on **cognitive bias**: It's something that affects everyone, and it can be challenging to detect in ourselves. That's why it’s crucial to have someone else provide an outside perspective.
 
 - **Listen to Other Perceptions**  
-    While you shouldn't blindly follow every piece of advice, it’s important to consider other viewpoints. Maybe your colleague sees something you missed. Or maybe your customers are giving you subtle feedback that you’re not catching.
+   While you shouldn't blindly follow every piece of advice, it’s important to consider other viewpoints. Maybe your colleague sees something you missed. Or maybe your customers are giving you subtle feedback that you’re not catching.
 
 - **Use the Data, But Interpret Carefully**  
-    As the saying goes, "There are lies, damn lies, and statistics." While facts are vital, they can be interpreted in multiple ways. Approach your data with humility, recognizing that even hard numbers may not always tell the full story.
+   As the saying goes, "There are lies, damn lies, and statistics." While facts are vital, they can be interpreted in multiple ways. Approach your data with humility, recognizing that even hard numbers may not always tell the full story.
 
-* * *
+---
 
 ## **Personal Experience: Humility in Action**
 
 In my experience, humility has been a game-changer when working with Agile teams. I've seen product owners who initially resisted feedback from their developers, only to realize later that the team’s insights led to a much stronger product.
 
-Similarly, developers who thought their technical approach was flawless learned through feedback from their peers that there were better, more efficient solutions. In both cases, embracing humility didn’t just lead to better outcomes—it also built a sense of camaraderie within the team.
+Similarly, developers who thought their technical approach was flawless learned through feedback from their peers that there were better, more efficient solutions. In both cases, embracing humility didn’t just lead to better outcomes, it also built a sense of camaraderie within the team.
 
 **My advice?** If you're having difficulty embracing humility or fully integrating the Seven Virtues of Agility into your team, don't hesitate to seek help. A consultant, coach, or trainer can offer the outside perspective you need to move forward. 🛠️
 
-* * *
+---
 
 ## **How Naked Agility Can Help**
 

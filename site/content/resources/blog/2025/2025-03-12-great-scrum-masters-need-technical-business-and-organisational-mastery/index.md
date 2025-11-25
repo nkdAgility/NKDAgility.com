@@ -1,6 +1,6 @@
 ---
 title: Great Scrum Masters Need Technical, Business, and Organisational Mastery
-short_title: 'Scrum Mastery: Technical, Business, Organisational'
+short_title: "Scrum Mastery: Technical, Business, Organisational"
 description: Scrum Masters are most effective when they combine leadership skills with technical, business, and organisational mastery to support teams, Product Owners, and change.
 tldr: Scrum Masters are most effective when they combine strong leadership skills with deep understanding of their team's technical, business, and organisational context. Mastery in these three areas enables them to better remove obstacles, coach both teams and Product Owners, and drive meaningful change across the organisation. Development managers should ensure their Scrum Masters are experienced professionals who continuously build expertise in these domains to maximise team performance and value delivery.
 date: 2025-03-24T09:00:00
@@ -57,11 +57,11 @@ creator: Martin Hinshelwood
 resourceTypes: blog
 ResourceId: dQjKsWR5qfn
 ResourceType: blog
-
 ---
+
 [Scrum Masters]({{< ref "/tags/scrum-master" >}}) don’t need to be subject-matter experts in the way traditional management once required. We’re no longer in an era where managers direct unskilled labour; modern teams are intelligent, capable, and cross-functional. The [Scrum]({{< ref "/categories/scrum" >}}) Master’s responsibility is not to do the work, but to enable others to do it better. They are leaders.
 
-[Leadership]({{< ref "/categories/leadership" >}}) requires a different kind of expertise—expertise in change, collaboration, [coaching]({{< ref "/tags/coaching" >}}), facilitation, conflict navigation, communication, team development, [personal]({{< ref "/tags/personal" >}}) growth, and a [ballance of leadership with control]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}). These are non-negotiable.
+[Leadership]({{< ref "/categories/leadership" >}}) requires a different kind of expertise, expertise in change, collaboration, [coaching]({{< ref "/tags/coaching" >}}), facilitation, conflict navigation, communication, team development, [personal]({{< ref "/tags/personal" >}}) growth, and a [ballance of leadership with control]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}). These are non-negotiable.
 
 But these skills alone are not enough; we should recognise that for leaders to be successful, domain-specific mastery matters too. A Scrum Master who understands the _technical, business, and organisational_ context their team operates in can better remove impediments, facilitate learning, and support adaptation.
 
@@ -104,7 +104,7 @@ In other contexts, like designing hardware, creating movies, or creating financi
 > - Causing the removal of impediments to the Scrum Team’s progress; and,
 > - Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
 >
->   — [The Scrum Master, Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}})
+>   , [The Scrum Master, Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}})
 
 Without technical mastery within the relevant domain, guiding a Scrum Team towards high-value [product delivery]({{< ref "/tags/product-delivery" >}}) is challenging.
 
@@ -128,7 +128,7 @@ This includes that the Product Owner is able to:
 > - Helping the Scrum Team understand the need for clear and concise Product Backlog items.
 > - Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value.
 >
-> — [The Scrum Master, Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}})
+> , [The Scrum Master, Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}})
 
 Without business mastery, a Scrum Master cannot effectively support the Product Owner or ensure the team's alignment with business goals.
 
@@ -152,13 +152,13 @@ Key aspects include:
 > - Helping employees and stakeholders understand Scrum and empirical [product development]({{< ref "/categories/product-development" >}}).
 > - Causing change that increases the productivity of the Scrum Team.
 >
-> — [The Scrum Master, Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}})
+> , [The Scrum Master, Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}})
 
 Without organisational mastery, a Scrum Master will struggle to drive lasting, meaningful change within the organisation.
 
 ## Conclusion: Can a Scrum Master Be Effective Without These Skills?
 
-While the entire Scrum Team is accountable for delivery, the Scrum Master ensures the conditions for success by addressing systemic issues and empowering the team to work efficiently. They do not execute the work themselves but are responsible for enabling outcomes—ensuring that the Scrum framework is effectively applied, fostering collaboration, and removing impediments that hinder progress.
+While the entire Scrum Team is accountable for delivery, the Scrum Master ensures the conditions for success by addressing systemic issues and empowering the team to work efficiently. They do not execute the work themselves but are responsible for enabling outcomes, ensuring that the Scrum framework is effectively applied, fostering collaboration, and removing impediments that hinder progress.
 
 A Scrum Master’s role is not passive; they actively influence the team’s ability to deliver by facilitating strategy, ensuring alignment with business goals, and advocating for [organisational change]({{< ref "/tags/organisational-change" >}}) where necessary. Without technical, business, and organisational mastery, they risk being ineffective in guiding the team towards high-value delivery.
 

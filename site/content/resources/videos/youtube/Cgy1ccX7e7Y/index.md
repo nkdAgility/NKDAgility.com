@@ -32,6 +32,7 @@ categories:
   - Uncategorized
 tags:
   - Social Technologies
+  - Agile Values and Principles
   - Agile Transformation
   - Organisational Agility
   - Change Management

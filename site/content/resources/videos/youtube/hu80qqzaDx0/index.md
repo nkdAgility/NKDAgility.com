@@ -5,10 +5,10 @@ description: Explores how performance metrics shape team engagement and collabor
 tldr: How you measure people shapes their behaviour, so focusing on individual output can reduce collaboration and engagement. Aligning metrics with team goals, encouraging open discussion about measures, and rewarding collective outcomes can boost teamwork and morale. Review your current metrics to ensure they promote the behaviours you want to see in your teams.
 date: 2024-09-11T13:45:58Z
 lastmod: 2024-09-11T13:45:58Z
-weight: 1000
+weight: 610
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.2
   changefreq: monthly
 ItemId: hu80qqzaDx0
 ItemType: videos
@@ -29,7 +29,7 @@ source: youtube
 layout: video
 concepts: []
 categories:
-  - Uncategorized
+  - Technical Leadership
 tags:
   - Team Motivation
   - Team Performance

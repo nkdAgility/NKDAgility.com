@@ -19,49 +19,49 @@ type: outcomes
 sections:
   - type: headline
     headline:
-      title: From Tech Debt to World-Class Delivery
-      subtitle: Most CTOs aren’t struggling with ideas.
+      title: Engineering Excellence
+      subtitle: From Execution Debt to Confident Delivery
       content: |
-        They’re drowning in execution debt — inconsistent delivery, brittle pipelines, burned-out teams, and quality failures that slip into production.
-  - content: |
-      **We help software organisations evolve their engineering culture by embedding modern practices, enabling flow, and removing systemic delivery friction.** The goal isn’t just better software, it’s a better way of building and sustaining it.
-    type: content
+        Inconsistent delivery. Brittle pipelines. Burned-out teams. Quality failures slipping into production.
+
+        Engineering excellence isn't about working harder, it's about the condition where modern practices, clear flow, and sustainable delivery become the norm rather than the exception.
   - type: outcomehero
     cta:
-      content: We've helped leaders like you. **Let's Talk.**
+      content: Confident delivery. Sustainable pace. **Let's talk.**
       button:
-        text: Get Started Now
+        text: Book a Call
         url: /company/book-online
     boxes:
       - content: |
-          Are you a CTO burried under tech debt with no clear way forward?
+          Buried under tech debt with no clear way forward
       - content: |
-          Are you a VP of Engineering tired of chasing broken delivery cycles?
+          Chasing broken delivery cycles
       - content: |
-          Are you a Founder ready to scale but lack confidence in your codebase?
-  - title: Pain Points We Eliminate
-    type: list
+          Ready to scale but lacking confidence in the codebase
+  - type: list
+    title: What Changes
+    listType: boxed
     list:
-      - title: Tech Debt That Slows You Down
+      - title: From Tech Debt to Clear Architecture
         icon: fa-code
         content: |
-          We help you refactor your architecture, modernize your pipelines, and erase years of shortcuts.
-      - title: Inconsistent Development Practices
+          Tech debt stops compounding. Architecture decisions create options instead of constraints.
+      - title: From Inconsistency to Discipline
         icon: fa-cogs
         content: |
-          We bring clarity, discipline, and automation to your engineering cycle.
-      - title: Slow, Unreliable Delivery
+          Engineering practices become consistent. Automation replaces manual toil.
+      - title: From Unreliable to Confident
         icon: fa-rocket
         content: |
-          Through CI/CD, test automation, and infrastructure as code, your team ships faster - with confidence.
-      - title: Developer Burnout & Team Frustration
+          Delivery becomes reliable. Deployments stop being high-wire acts.
+      - title: From Burnout to Sustainable Pace
         icon: fa-fire-extinguisher
         content: |
-          We help teams rebuild morale by removing systemic blockers, enabling focus, and creating conditions for sustainable engineering practices.
-      - title: Resistance to Change
+          Systemic blockers disappear. Teams gain focus. Work becomes sustainable.
+      - title: From Resistance to Ownership
         icon: fa-clipboard-question
         content: |
-          Our coaching brings technical leadership which makes new practices stick - turning your skeptics into your champions.
+          New practices stick. Sceptics become champions. Technical leadership emerges from within.
   - type: quote
     backgroundColor: primary
     quote: |
@@ -69,92 +69,102 @@ sections:
 
       I would recommend Martin to anyone, in fact I would insist they use him as he is the best DevOps consultant i've worked with."
       - **Paul Martin | IT Director**
-  - title: Engineering Excellence Delivers
+  - title: What Becomes Possible
     type: list
     listType: boxed
     list:
-      - title: Modern, Resilient Engineering Practices
+      - title: Modern Engineering Becomes Normal
         icon: fa-dna
         content: |
-          CI/CD, IaC, TDD, QA automation - fully integrated into your workflows.
-      - title: High-performance Delivery Teams
+          CI/CD, IaC, TDD, and QA automation integrate into daily workflows, not aspirational, just standard.
+      - title: Delivery Becomes Predictable
         icon: fa-cog
         content: |
-          We train, coach, and enable your people to ship reliably - with pride and predictability.
-      - title: Reduce Risk & Technical Overhead
+          Teams ship reliably, with pride and predictability, not by pushing harder, but by engineering smarter.
+      - title: Risk Decreases, Quality Increases
         icon: fa-bug
         content: |
-          Fewer Bugs. Cleaner Code. Lower rework costs. DevOps done right.
-      - title: Fast Innovation, Safer Deployment
+          Fewer bugs. Cleaner code. Lower rework costs. Confidence in what ships.
+      - title: Speed and Stability Coexist
         icon: fa-lightbulb
         content: |
-          You don't need to choose between speed and stability - we help you get both.
-  - title: Team Alignment & Ownership
-    type: content
-    content: |
-      Developers stop blaming process. They own it - and drive outcomes.
+          The false choice between speed and stability disappears. Both improve together.
+  - type: textNlist
+    title: The Condition You Experience
+    sideContent: |
+      Developers stop blaming process and start owning it. Technical leadership emerges. Engineering capability becomes competitive advantage.
+
+      This isn't about guarantees, it's about the condition that emerges when engineering practices align with business reality and teams have the capability to sustain them.
+    list:
+      - icon: fa-check-circle
+        content: |
+          **Delivery confidence** – Releases no longer terrify; they're routine
+      - icon: fa-check-circle
+        content: |
+          **Technical clarity** – Architecture decisions are visible and understood
+      - icon: fa-check-circle
+        content: |
+          **Team pride** – Engineers take ownership of systems they've built properly
   - type: outcomeboxes
     title: Engineering Excellence ensures
     boxes:
-      - box: 
-        content: 
+      - box:
+        content:
         items:
           - title: Standardise development practices
           - title: Implement CI/CD, IaC, test automation
           - title: Eliminate waste and drive continuous delivery
           - title: Build a learning scalable tech culture
           - title: Reduce release failure rates
-      - box: 
-        content: 
+      - box:
+        content:
         items:
           - title: Reclaim trust in your engineering culture
           - title: Reduce stress from firefighting releases
           - title: Feel pride in your product, not dread
           - title: Empower your teams to innovate without fear
           - title: Avoid burnout by building systems that work
-      - box: 
-        content: 
+      - box:
+        content:
         items:
           - title: Lead high-performing delivery teams
           - title: Mentor engineering managers and architects
           - title: Align business and technical teams on delivery
           - title: Represent your org as a hub of technical excellence
           - title: Advocate for tech investments with credibility
-  - title: Results From the Field
+  - title: What This Looks Like
     type: casestudy
     list:
       - icon: fa-shield-check
         content: |
-          One client saw a measurable drop in release failures within the first 3 months of implementing CI/CD and telemetry-based feedback loops
+          Organisations have observed measurable drops in release failures when CI/CD and telemetry-based feedback loops become embedded in daily work.
       - icon: fa-shield-check
         content: |
-          After introducing test automation and a robust CI/CD pipeline, teams reported greater confidence in delivering features consistently and observed significantly improved flow metrics.
+          Teams have reported greater confidence in delivering features consistently when test automation and robust pipelines are in place, with flow metrics showing the improvement.
       - icon: fa-shield-check
         content: |
-          By removing delivery friction and giving teams more autonomy over their work systems, multiple clients reported higher morale and better retention in team surveys conducted post-engagement.
+          Higher morale and better retention have been reported when delivery friction decreases and teams gain autonomy over their work systems.
     cta:
       content: Want the numbers?
       button:
         text: Read the Case Study
         url: /resources/case-studies/
-  - title: Why NKDAgility?
+  - title: Why This Matters
     type: textNlist
     list:
-      - icon: fa-award
+      - icon: fa-check-circle
         content: |
-          From chaos to clarity
-      - icon: fa-award
+          Chaos becomes clarity
+      - icon: fa-check-circle
         content: |
-          From technical debt to predictability
-      - icon: fa-award
+          Technical debt becomes predictability
+      - icon: fa-check-circle
         content: |
-          From overwhelmed to in control
+          Overwhelm becomes control
     sideContent: |
-      We don't just drop in DevOps tools and disapear.
+      Engineering excellence isn't about tools, it's about the condition where modern practices, technical capability, and business reality align.
 
-      We build excelance into your engineering DNA.
-
-      Backed by Martin Hinshelwood's Microsoft MVP status and deep DevOps expertese, NKD Agility delivers real world transformations - not theory.
+      When engineering culture shifts, delivery changes. When delivery changes, business options expand. The shift is observable, measurable, and sustainable.
   - type: sectioncta
     backgroundColor: primary
     cta:
@@ -176,6 +186,4 @@ creator: Martin Hinshelwood
 icon: fa-gear-code
 ResourceId: HHVaKkQviFN
 ResourceType: outcomes
-
 ---
-

@@ -5,10 +5,10 @@ description: Professional Scrum training introduced Ghana Police officers to Agi
 tldr: The Ghana Police Service began grassroots Scrum training with its first Professional Scrum Foundations classes, introducing officers with little IT experience to agile practices through hands-on software sprints. Key outcomes included increased engagement, practical understanding of Scrum, and improved alignment between training and police work after adjusting the approach based on feedback. For future success, ensure participants receive clear pre-class communication about objectives and context, especially when introducing agile methods to non-technical teams.
 date: 2017-10-30
 lastmod: 2017-10-30
-weight: 480
+weight: 405
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.5
   changefreq: weekly
 ItemId: ozXMaDX0lvp
 ItemType: blog
@@ -34,6 +34,7 @@ tags:
   - Professional Scrum
   - Software Development
   - Pragmatic Thinking
+  - Agile Planning
   - Agile Transformation
 Watermarks:
   description: 2025-05-07T13:16:27Z

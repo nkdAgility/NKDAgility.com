@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking Organisational Agility: How to Empower Your Team for Rapid Market Response'
+title: "Unlocking Organisational Agility: How to Empower Your Team for Rapid Market Response"
 short_title: Unlocking Organisational Agility
 description: Learn how empowering teams, streamlining communication, and providing context enable organisations to respond rapidly to market changes and gain a competitive edge.
 tldr: Organisational agility is about enabling your teams to respond quickly to market changes by empowering those closest to the customer to make decisions and reducing communication bottlenecks. Focusing on speed, clear context, and ownership helps capture opportunities faster than competitors. Review your decision-making processes and give teams the information and authority they need to act swiftly.
@@ -60,13 +60,13 @@ duration: 242
 resourceTypes:
   - video
 isShort: false
-
 ---
+
 [Organisational agility]({{< ref "/tags/organisational-agility" >}}) is not just a buzzword; it’s a competitive advantage that can make or break a business in today’s fast-paced market. I’ve seen firsthand how many agile transformations stumble because organisations mistakenly place agile itself at the centre of their focus, rather than using it as a tool to achieve a vital outcome: the ability to respond swiftly to market changes.
 
 ### The Real Purpose of Agile
 
-At its core, agile, along with practices like [DevOps]({{< ref "/categories/devops" >}}), [lean]({{< ref "/categories/lean" >}}), and [Kanban]({{< ref "/categories/kanban" >}}), is designed to enable organisations to react more quickly to shifts in the market. The faster you can respond to changes—whether they stem from customer feedback or broader market trends—the better positioned you are to seize opportunities before your competitors do. 
+At its core, agile, along with practices like [DevOps]({{< ref "/categories/devops" >}}), [lean]({{< ref "/categories/lean" >}}), and [Kanban]({{< ref "/categories/kanban" >}}), is designed to enable organisations to react more quickly to shifts in the market. The faster you can respond to changes, whether they stem from customer feedback or broader market trends, the better positioned you are to seize opportunities before your competitors do.
 
 Here’s what I’ve observed:
 
@@ -76,9 +76,9 @@ Here’s what I’ve observed:
 
 ### The Importance of Empowerment
 
-One of the key tenets of agile is pushing responsibility down the organisational hierarchy. This means empowering those closest to the market—those who have the most relevant information—to make decisions without needing to seek approval from higher-ups. 
+One of the key tenets of agile is pushing responsibility down the organisational hierarchy. This means empowering those closest to the market, those who have the most relevant information, to make decisions without needing to seek approval from higher-ups.
 
-To illustrate this, I often refer to David Marquet’s book, *Turn This Ship Around*. Marquet emphasises the need for contextual information to enable decision-making. When team members understand the broader context of their work, they can make informed choices that align with the organisation’s goals.
+To illustrate this, I often refer to David Marquet’s book, _Turn This Ship Around_. Marquet emphasises the need for contextual information to enable decision-making. When team members understand the broader context of their work, they can make informed choices that align with the organisation’s goals.
 
 ### Enabling Quick Responses
 

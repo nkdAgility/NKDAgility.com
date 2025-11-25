@@ -1,6 +1,6 @@
 ---
-title: 'Scrum Masters: Enabling Teams, Fostering Agility, Removing Blockers'
-short_title: 'Scrum Masters: Enabling Teams & Agility'
+title: "Scrum Masters: Enabling Teams, Fostering Agility, Removing Blockers"
+short_title: "Scrum Masters: Enabling Teams & Agility"
 description: Explains the Scrum Master's role in ensuring team delivery by fostering agility, removing blockers, and being accountable for improving team effectiveness each sprint.
 tldr: Scrum Masters are responsible for ensuring teams deliver effectively by creating the right conditions for success, not just facilitating meetings or shielding teams from pressure. Their accountability lies in identifying and addressing blockers, improving team effectiveness, and ensuring consistent delivery each sprint. Development managers should hold Scrum Masters accountable for team delivery outcomes, not just process adherence.
 date: 2025-03-05T16:30:00+00:00
@@ -53,18 +53,18 @@ Watermarks:
   tldr: 2025-08-07T12:35:12Z
 ResourceId: IrDYI5d-kXv
 ResourceType: signals
-
 ---
-Scrum Masters talk about enabling teams, fostering agility, and removing blockers. But here’s the real question—are you accountable for delivery?
+
+Scrum Masters talk about enabling teams, fostering agility, and removing blockers. But here’s the real question, are you accountable for delivery?
 
 Too many see Scrum Masters as facilitators, shielding teams from pressure. That’s missing the point. If a Scrum Team isn’t delivering, the Scrum Master is accountable for improving the effectiveness of the Scrum Team so that they can deliver.
 
-Not because they write code. Not because they own the backlog. But because it’s their job to create the conditions where delivery happens—every sprint.
+Not because they write code. Not because they own the backlog. But because it’s their job to create the conditions where delivery happens, every sprint.
 
 If the team is stuck, who fixes it?  
 If delivery is slow, who addresses the constraints?  
 If the system is broken, who makes it better?
 
-That’s the accountability of a Scrum Master. It’s not about doing the work—it’s about making sure the work gets done effectively.
+That’s the accountability of a Scrum Master. It’s not about doing the work, it’s about making sure the work gets done effectively.
 
 If your teams aren’t delivering, shouldn’t someone be accountable for that?

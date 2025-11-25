@@ -1,11 +1,11 @@
 ---
-title: 'Detecting Agile BS: Lessons from the US Department of Defense'
+title: "Detecting Agile BS: Lessons from the US Department of Defense"
 short_title: "Detecting Fake Agile: DoD's Six Key Questions"
 description: Learn how to spot fake Agile practices using six key questions from the US Department of Defense, and discover steps to assess and improve true Agile maturity in organisations.
 tldr: Many organizations claim to be Agile but often fall short of true Agile practices, as highlighted by the US Department of Defense's "Detecting Agile BS" guide. The guide recommends six key questions to assess real Agile maturity, focusing on frequent delivery to users, regular production releases, adapting to feedback, clear product vision, team empowerment, and a culture of continuous improvement. Development managers should honestly assess their teams against these criteria, start small with improvements, and foster a culture of feedback and learning to achieve genuine Agile transformation.
 date: 2024-06-28T06:45:01Z
 lastmod: 2024-06-28T06:45:01Z
-weight: 390
+weight: 355
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -32,11 +32,13 @@ concepts:
   - Principle
 categories:
   - Product Development
+  - Engineering Excellence
   - Scrum
 tags:
   - Agile Strategy
   - Agile Values and Principles
   - Customer Focus
+  - Agile Planning
   - Organisational Culture
   - Pragmatic Thinking
   - Agile Philosophy
@@ -46,7 +48,6 @@ tags:
   - Working Software
   - Agile Frameworks
   - Operational Practices
-  - Agile Planning
   - Product Delivery
 Watermarks:
   description: 2025-05-07T13:02:45Z
@@ -62,9 +63,9 @@ duration: 426
 resourceTypes:
   - video
 isShort: false
-
 ---
-The concept of Agile has taken the business world by storm, with organizations everywhere claiming to have adopted Agile methodologies. But are they truly practicing Agile, or is it just Agile in name only? One of the most eye-opening resources on this topic comes from an unexpected source—the US Department of Defense (DoD). Their guide, titled "Detecting Agile BS," was created to help procurement officers determine whether vendors were genuinely Agile or merely paying lip service to the methodology. This guide raises important questions that every organization claiming to be Agile should ask itself.
+
+The concept of Agile has taken the business world by storm, with organizations everywhere claiming to have adopted Agile methodologies. But are they truly practicing Agile, or is it just Agile in name only? One of the most eye-opening resources on this topic comes from an unexpected source, the US Department of Defense (DoD). Their guide, titled "Detecting Agile BS," was created to help procurement officers determine whether vendors were genuinely Agile or merely paying lip service to the methodology. This guide raises important questions that every organization claiming to be Agile should ask itself.
 
 ## **The Rise of Agile in Procurement**
 
@@ -82,7 +83,7 @@ The DoD’s guide provides six crucial questions that serve as a litmus test to 
 
 This is the first and arguably most important question. Are your teams delivering working software to at least some subset of users every iteration, including the first? And are they gathering feedback from those users?
 
-- **[Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}):** True Agile teams deliver working software frequently—every iteration. This means no User Acceptance Testing (UAT) or test environments—real, live production users.
+- **[Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}):** True Agile teams deliver working software frequently, every iteration. This means no User Acceptance Testing (UAT) or test environments, real, live production users.
 
 - **User Feedback:** Gathering feedback from these users is critical. Without it, you’re flying blind, unable to adapt to user needs and preferences.
 
@@ -144,7 +145,7 @@ It’s important to approach this process with humility and a genuine desire to 
 
 Adopting true Agile practices is challenging, but the rewards are well worth the effort. The US Department of Defense’s guide to detecting Agile BS is a powerful tool for any organization looking to assess and improve its Agile maturity. By asking the right questions and being honest about where you stand, you can begin to make the changes necessary to truly embrace Agile.
 
-Remember, Agile is not just a set of practices—it’s a mindset. It requires a commitment to continuous improvement, a willingness to adapt, and the courage to be honest about where you are on your Agile journey. So, take the time to reflect on these questions, and use them as a guide to help your organization grow and thrive in the world of Agile.
+Remember, Agile is not just a set of practices, it’s a mindset. It requires a commitment to continuous improvement, a willingness to adapt, and the courage to be honest about where you are on your Agile journey. So, take the time to reflect on these questions, and use them as a guide to help your organization grow and thrive in the world of Agile.
 
 - **🎯** **Pro tip:** Regularly revisit these questions as your organization evolves. Agile is a journey, and these questions can help you stay on the right path.
 

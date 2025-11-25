@@ -25,7 +25,7 @@ Instructions: |-
   - General Agile or DevOps principles that do not specifically address the Shift-Left Strategy.
 headline:
   cards: []
-  title: 'Shift Left Strategy: Building Quality and Security into Development from Day One'
+  title: "Shift Left Strategy: Building Quality and Security into Development from Day One"
   subtitle: Proactively integrating testing, security, and compliance early to reduce risk, accelerate feedback, and deliver reliable software faster.
   content: A proactive approach to software delivery that integrates testing, security, and compliance early in the development lifecycle, enabling rapid feedback, reduced rework, and improved product reliability. Posts explore automated testing, security as code, continuous integration, and practices that accelerate value delivery and enhance organisational responsiveness to complexity and change.
   updated: 2025-05-23T23:13:23Z
@@ -55,10 +55,10 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
-In modern software development, waiting until the end to test, secure, or review compliance is a costly mistake. The **Shift-Left Strategy** eliminates these risks by integrating critical activities—testing, security, and compliance—early in the development lifecycle.
+
+In modern software development, waiting until the end to test, secure, or review compliance is a costly mistake. The **Shift-Left Strategy** eliminates these risks by integrating critical activities, testing, security, and compliance, early in the development lifecycle.
 
 By shifting left, teams detect defects sooner, reduce rework, and accelerate feedback loops. This approach enhances software quality, speeds up delivery, and ensures reliability from day one. Whether through **automated testing, security as code, or continuous integration**, embracing a Shift-Left Strategy is a fundamental step towards high-performing, agile, and DevOps-driven teams.
 
-Don’t wait—**shift left and build quality in from the start**.
+Don’t wait, **shift left and build quality in from the start**.

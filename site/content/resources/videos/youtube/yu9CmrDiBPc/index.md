@@ -54,8 +54,8 @@ resourceTypes:
 isShort: false
 ResourceId: yu9CmrDiBPc
 ResourceType: videos
-
 ---
+
 Hex stacks can scale, but can your culture? This is a question that resonates deeply with me, and I believe it’s one of the most critical challenges we face in today’s fast-paced tech landscape. [Scaling]({{< ref "/tags/scaling" >}}) technology is often seen as the straightforward part of the equation. You simply add more servers, more clusters, and more automation, and voilà, you’re done. However, if your engineering culture doesn’t evolve alongside your technology, you’re setting yourself up for a fall.
 
 ### The Hidden Dangers of Ignoring Culture
@@ -63,14 +63,13 @@ Hex stacks can scale, but can your culture? This is a question that resonates de
 The harsh reality is that many organisations don’t recognise the impending issues until it’s too late. As your teams expand, complexity increases, and the pressure to deliver faster mounts, your culture can either become your greatest asset or your most significant liability. Here are some signs that your culture might be struggling to keep pace:
 
 - **Collaboration Breakdowns**: As teams grow, the natural flow of communication can falter. When collaboration becomes a chore rather than a natural part of your workflow, you’re in trouble.
-  
 - **[DevOps]({{< ref "/categories/devops" >}}) as a Buzzword**: If DevOps is merely a term thrown around in meetings rather than a genuine enabler of efficiency and innovation, it’s time to reassess your approach.
 
 - **[Continuous Learning]({{< ref "/tags/continuous-learning" >}}) as an Afterthought**: When learning is relegated to a one-off training session rather than an ongoing practice, you risk stagnation.
 
 ### The Tool Trap
 
-I’ve seen it time and again: organisations believe that throwing more tools at the problem will solve their cultural issues. More JIRA, more dashboards, more standups, more daily scrums—these are not the answers. Culture isn’t a tool problem; it’s an ethos problem, a philosophical challenge that requires a fundamental shift in how we operate.
+I’ve seen it time and again: organisations believe that throwing more tools at the problem will solve their cultural issues. More JIRA, more dashboards, more standups, more daily scrums, these are not the answers. Culture isn’t a tool problem; it’s an ethos problem, a philosophical challenge that requires a fundamental shift in how we operate.
 
 If you don’t cultivate a culture designed to scale, all the tools in the world won’t save you. You might find yourself in a cycle of frustration, where the very tools meant to enhance productivity become sources of confusion and inefficiency.
 

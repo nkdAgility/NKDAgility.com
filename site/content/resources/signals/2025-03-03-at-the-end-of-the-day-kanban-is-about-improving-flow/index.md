@@ -1,7 +1,7 @@
 ---
 title: At the end of the day, Kanban is about improving flow
 short_title: Kanban Is About Improving Flow
-description: Kanban focuses on improving workflow by removing bottlenecks and constraints, reducing work in progress, and increasing process efficiency—not by overworking people.
+description: Kanban focuses on improving workflow by removing bottlenecks and constraints, reducing work in progress, and increasing process efficiency, not by overworking people.
 tldr: Kanban focuses on improving workflow by removing constraints and bottlenecks, not by pushing people to work harder or longer. Key to better delivery is reducing work in progress and identifying blockers to increase efficiency. Managers should identify and address the biggest constraint in their current workflow to see meaningful improvements.
 date: 2025-03-03T15:46:26+00:00
 lastmod: 2025-03-03T15:46:26+00:00
@@ -49,8 +49,8 @@ Watermarks:
   tldr: 2025-08-07T12:35:17Z
 ResourceId: laeSXbgT7Hm
 ResourceType: signals
-
 ---
+
 At the end of the day, Kanban is about improving flow. Not micromanaging individuals. Not squeezing more hours out of people. Just removing the constraints that slow everything down.
 
 Nigel Thurlow 🇺🇸🇺🇦🇬🇧 nails it:
