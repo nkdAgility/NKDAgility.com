@@ -144,6 +144,8 @@ sections:
       The framework provides structure for problem-first AI adoption: defined accountabilities, structured artefacts, regular discovery events, and clear prioritisation methods.
 
       It emphasises context-driven AI, human agency, and empirical decision-making over technology trends.
+
+      This problem-first, facilitated discovery approach mirrors patterns we've used to help organisations [transform product management across borders](/resources/case-studies/mentorship-model-transformed-a-product-management-team) and [enable large-scale organisational change](/resources/case-studies/enabled-organisational-change-in-the-ghana-police-service)—building shared understanding and capability through structured practice.
     list:
       - icon: fa-lightbulb
         content: |
