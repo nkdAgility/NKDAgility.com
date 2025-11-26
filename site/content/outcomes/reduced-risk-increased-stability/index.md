@@ -1,5 +1,5 @@
 ---
-title: Reduced Risk, Increased Stability
+title: Reduced risk Increased Stability
 short_title: Reduced Risk, Increased Stability
 description: Deploy with confidence and sleep at night. Gain the stability and security that lets you move fast without breaking trust, reputation, or business continuity.
 tldr: Unstable systems and security failures undermine trust and credibility. By creating the conditions for safer delivery, clearer visibility, and proactive risk management, you gain the confidence to deploy reliably while maintaining momentum. Development managers can reduce operational anxiety and build systems where innovation and stability support each other.
