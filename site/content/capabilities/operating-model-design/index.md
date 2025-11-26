@@ -83,7 +83,7 @@ sections:
       - box:
         title: Integration & Mapping
         items:
-          - title: Scrum as social technology, Kanban as strategy, DevOps as ethos – mapped to operating model needs
+          - title: Scrum as social technology, Kanban as strategy for flow, DevOps as ethos – mapped to operating model needs
           - title: Flow design connecting discovery, delivery, and operations
           - title: Feedback loops and decision frameworks
       - box:
