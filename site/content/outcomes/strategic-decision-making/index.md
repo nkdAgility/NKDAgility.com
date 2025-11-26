@@ -168,7 +168,7 @@ sections:
           - title: Faster strategic decisions through flow metrics that inform rather than confuse
           - title: Fewer escalations when delivery becomes predictable and problems resolve at team level
           - title: Stronger leadership credibility through evidence, not hope
-          - title: Recognition for customer products, platforms, and shared services
+          - title: Recognition for customer-facing products, platforms, and shared services
       - box:
         title: Practical Implementation
         items:
