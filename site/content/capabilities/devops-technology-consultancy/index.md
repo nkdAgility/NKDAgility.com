@@ -54,6 +54,10 @@ sections:
       - icon: fa-chart-line
         content: |
           **Flow metrics design** – Visibility systems connecting technical work to business outcomes
+  - type: content
+    title: Proven at Enterprise Scale
+    content: |
+      These consulting approaches have been validated with organizations facing real complexity. A global energy technology company [consolidated 27 DevOps collections down to 7 and standardized processes across 800+ teams](/resources/case-studies/standardize-engineering-practice-across-800-teams), enabling better visibility, collaboration, and delivery confidence. The same organization also [streamlined build and release across 90 teams in 13 countries](/resources/case-studies/streamline-build-and-release-across-90-teams-and-13-countries), shifting ownership to engineering teams and dramatically improving efficiency.
   - type: boxesrow
     title: Consulting Scope and Scale
     content: |

@@ -69,6 +69,10 @@ sections:
         icon: fa-sync
         content: |
           Improvement systems that maintain momentum without disrupting delivery.
+  - type: content
+    title: Real-World Engineering Excellence
+    content: |
+      These principles have been proven at scale. A global energy technology company with 90 engineering teams across 13 countries [streamlined their build and release processes](/resources/case-studies/streamline-build-and-release-across-90-teams-and-13-countries), shifting build ownership to teams, improving autonomy, and achieving significant efficiency gains—all while maintaining delivery continuity.
   - type: cards
     title: Why Partner with Martin
     cards:

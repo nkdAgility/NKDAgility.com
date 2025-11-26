@@ -113,7 +113,8 @@ sections:
           As part of this phase, we use the accredited [Professional Agile Leadership – Evidence-Based Management (PAL-EBM)](/capabilities/training-courses/scrumorg-professional-agile-leadership-with-evidence-based-management) Course and all participants gain receive two attempts at the [Professional Agile Leadership™ – Evidence-Based Management™ Certification](https://www.scrum.org/assessments/professional-agile-leadership-evidence-based-management-certification).
         module: /capabilities/training-courses/scrumorg-professional-agile-leadership-with-evidence-based-management
   - title: Why NKD Agility?
-    content: 
+    content: |
+      Our mentorship model has driven real transformation. A mid-sized insurance software company with distributed teams across borders [overcame misalignment and role confusion through immersive mentorship](/resources/case-studies/mentorship-model-transformed-a-product-management-team), leading to improved collaboration, engineering engagement, and product outcomes—all within 8 weeks.
     type: cards
     cards:
       - title: Expert Guidance

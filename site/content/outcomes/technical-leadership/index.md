@@ -129,6 +129,12 @@ sections:
       - icon: fa-shield-check
         content: |
           Cross-functional collaboration becomes easier when shared goals and delivery constraints are made more visible and understood.
+      - icon: fa-shield-check
+        content: |
+          A [global public institution with 33,000+ officers](/resources/case-studies/enabled-organisational-change-in-the-ghana-police-service) embedded Scrum as a system for organizational change, enabling transformation from headquarters to regional commands.
+      - icon: fa-shield-check
+        content: |
+          A [global energy technology company consolidated DevOps systems across 800+ teams](/resources/case-studies/standardize-engineering-practice-across-800-teams), achieving better visibility, reduced costs, and improved delivery confidence through technical leadership.
     cta:
       content: Want the inside stories?
       button:
