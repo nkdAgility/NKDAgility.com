@@ -80,6 +80,9 @@ sections:
           
           Monitor trends, track improvement initiatives, and see when teams request help. Creates visibility into which factors affect team performance across your organisation, enabling you to address systemic issues.
     source: inline
+  - type: quote
+    content: |
+      Organisations with many teams face challenges creating visibility across their delivery systems. A [global energy technology company with over 800 engineering teams](/resources/case-studies/standardize-engineering-practice-across-800-teams) used similar assessment approaches to identify where fragmented systems and inconsistent processes were preventing collaboration and making reporting nearly impossible at the organisational level.
   - type: sectioncta
     backgroundColor: primary
     cta:
