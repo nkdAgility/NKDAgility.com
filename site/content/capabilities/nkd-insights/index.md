@@ -1,8 +1,8 @@
 ---
 title: NKD Insights™
 short_title: "NKD Insights: Team Performance Assessment"
-description: A tool that uses scientific insights to assess team performance, provide evidence-based feedback, and help resolve organizational teamwork challenges.
-tldr: Naked Insights is a tool that helps teams improve by providing ongoing, science-based feedback on teamwork quality. It enables you to diagnose issues across one or multiple teams and address wider organizational challenges. Consider using it to gain actionable insights and support team development.
+description: Evidence-based team assessment that provides clear visibility into collaboration patterns, teamwork quality, and improvement opportunities across one or many teams.
+tldr: NKD Insights provides evidence-based assessment of team effectiveness across one or multiple teams. It creates visibility into collaboration patterns and teamwork quality, helping you identify improvement opportunities grounded in research. Use it to see where teams need support and track progress over time.
 date: 2024-06-12
 weight: 700
 sitemap:
@@ -22,45 +22,74 @@ type: capabilities
 sections:
   - type: headline
     headline:
-      subtitle: Improve your team’s effectiveness continuously!
+      subtitle: Evidence-based team assessment and continuous improvement visibility
       title: NKD Insights™
-      content: Naked Insights™ is a pioneering tool that helps teams improve by continuously illuminating the quality of their teamwork based on scientific insights. It can diagnose one or many teams, receive evidence-based feedback, and resolve broader organizational issues.
-  - title: NKD Insights™ for your team!
+      content: Team assessment tool that creates visibility into collaboration quality and teamwork effectiveness. Provides evidence-based feedback to help you understand where teams are working well and where they need support.
+  - type: textNlist
+    title: What NKD Insights Provides
+    sideContent: |
+      Team performance assessment grounded in research on team effectiveness. Creates visibility across individual teams or your entire organisation.
+      
+      Helps you see collaboration patterns, identify improvement opportunities, and track progress over time.
+    list:
+      - icon: fa-microscope
+        content: |
+          **Evidence-based assessment** – Evaluation framework grounded in research on team effectiveness, covering collaboration patterns, communication quality, and teamwork dynamics.
+      - icon: fa-eye
+        content: |
+          **Clear visibility** – See collaboration quality across one team or many. Identify patterns, consensus areas, and divergence in team perspectives.
+      - icon: fa-compass
+        content: |
+          **Actionable feedback** – Specific guidance categorised by impact, from broad strategies to immediate improvements teams can implement.
+      - icon: fa-chart-line
+        content: |
+          **Progress tracking** – Monitor improvement over time, see trends, and respond when teams signal they need support.
+  - type: features
+    title: Team-Level Assessment
     content: |
-      **Optimize Team Performance with Evidence-Based Feedback**
-
-      Enhance your team’s effectiveness by diagnosing their performance, reviewing the results collaboratively, and implementing improvements based on our evidence-based feedback. Our approach helps streamline team assessments and fosters continuous development, ensuring your team always operates at its best.
-    type: features
+      Assess team effectiveness through multiple perspectives: team members, stakeholders who depend on the team's work, and supporters like coaches or managers.
     features:
       - media: images/nkd-insights-diagnose-your-team.png
-        title: Monitor and Evaluate Team Performance with Our 'Teams Dashboard'
+        title: Multi-Factor Team Effectiveness Model
         content: |
-          **Evidence-Based Model for Team Effectiveness**
-
-          Discover the impact of team-level processes on your performance with Columinity. Our evidence-based model provides in-depth analysis of five core factors and over two dozen detailed sub-factors (available in our demo). Track your team’s progress, celebrate achievements with badges, and explore score ranges to identify areas of consensus and dissent. Enhance your team’s effectiveness strategically.
+          Assessment framework examining five core factors of team effectiveness, broken into detailed sub-factors. Creates visibility into where the team is functioning well and where collaboration needs attention.
+          
+          Shows score ranges to identify consensus and disagreement, helping you see where perspectives align or diverge.
       - media: images/nkd-insights-improve-your-team-invite-participants.png
-        title: Engage Your Team, Stakeholders, and Supporters for Enhanced Insight
+        title: Multiple Perspectives on Team Performance
         content: |
-          Invite team members to gain a comprehensive understanding of your team’s dynamics. Bring in stakeholders to evaluate their satisfaction with your team’s outcomes. Additionally, encourage supporters, including managers, leaders, and coaches, to identify areas where your team requires additional support. These invitations help create a more complete and actionable picture of team performance.
+          Gather input from team members, stakeholders who receive the team's work, and supporters including managers and coaches.
+          
+          Different perspectives reveal different aspects of team effectiveness. Stakeholder views show delivery and value perception. Supporter input highlights where teams need organisational help.
       - media: images/nkd-insights-improve-your-team-detailed-report-588x720.png
-        title: Get Quick, Actionable Feedback with Columinity
+        title: Specific, Categorised Feedback
         content: |
-          NKD Insights delivers quick, actionable, evidence-based feedback across over 20 key areas, categorized by impact. For each area, we offer feedback in three categories: broad strategies to guide your team, facilitation guides to explore deeper solutions, and actionable ‘quick tips’ designed to inspire immediate improvement with 15% Solutions. Enhance your team’s performance effectively and efficiently.
+          Feedback across over 20 areas, organised by potential impact. Each area includes strategic approaches, facilitation guidance for deeper exploration, and quick practical improvements teams can try immediately.
+          
+          Enables you to prioritise where attention will have the most effect.
     source: inline
-  - title: NKD Insights™ for your organisation!
+  - type: features
+    title: Organisation-Level Visibility
     content: |
-      **Build High-Performing Teams Within Your Organization**
-
-      Elevate your company’s productivity by developing high-performing teams with our proven strategies.
-    type: features
+      When working across multiple teams, NKD Insights creates visibility into patterns across your organisation. See where teams are thriving and where they need support.
     features:
       - media: images/nkd-insights-support-teams-in-my-organisation-800x404.png
-        title: Monitor and Evaluate Team Performance with Our 'Teams Dashboard'
+        title: Organisation Dashboard
         content: |
-          Leverage our ‘Teams Dashboard’ to gain insights into the performance of various teams within your organization. Our tool is designed based on evidence-based models to help you identify the factors that can enhance team effectiveness. Engage collaboratively with team members, stakeholders, and supporters to address organizational challenges effectively.
-
-          Stay updated with the latest trends, monitor ongoing improvement initiatives, and respond promptly to ‘requests for help’ from teams. Our dashboard allows you to categorize teams into value streams, business units, or other specific groupings, enabling customized reporting and more targeted analyses.
+          View team effectiveness across your organisation. Group teams by value stream, business unit, or other structures relevant to how you work.
+          
+          Monitor trends, track improvement initiatives, and see when teams request help. Creates visibility into which factors affect team performance across your organisation, enabling you to address systemic issues.
     source: inline
+  - type: sectioncta
+    backgroundColor: primary
+    cta:
+      content: |
+        **Start creating visibility into team effectiveness.**
+        
+        NKD Insights assessment provides evidence-based feedback for one team or across your organisation.
+      button:
+        text: Get Started
+        url: https://questionnaire.nkdagility.com
   - title:
     content:
     type: videos
@@ -68,9 +97,9 @@ sections:
     source: data
 card:
   button:
-    content: Diagnose your team(s)
+    content: Assess your team(s)
   title: NKD Insights™
-  content: Naked Insights™ is a pioneering tool that helps teams improve by continuously illuminating the quality of their teamwork based on scientific insights. It can diagnose one or many teams, receive evidence-based feedback, and resolve broader organizational issues.
+  content: Evidence-based team assessment that creates visibility into collaboration quality and teamwork effectiveness. Provides actionable feedback to help teams improve continuously.
 Watermarks:
   description: 2025-10-02T13:53:08Z
   tldr: 2025-10-02T13:53:09Z
@@ -81,16 +110,12 @@ ResourceId: Rxy55R-qKnj
 ResourceType: capabilities
 ---
 
-Naked Insights™ is a pioneering tool to help teams improve by illuminating the quality of their teamwork continuously based on scientific insights. Diagnose one or many teams, receive evidence-based feedback and resolve broader organizational issues.
+Team assessment tool that creates visibility into collaboration quality and teamwork effectiveness based on research evidence. Assess one team or many, receive specific feedback, and track improvement over time.
 
-Get Started Now!
+**Assessment Tools:**
 
-[https://questionnaire.nkdagility.com](https://questionnaire.nkdagility.com)
+Questionnaire: [https://questionnaire.nkdagility.com](https://questionnaire.nkdagility.com)
 
-Team Dashboard
+Team Dashboard: [https://teamsdashboard.nkdagility.com](https://teamsdashboard.nkdagility.com)
 
-[https://teamsdashboard.nkdagility.com](https://teamsdashboard.nkdagility.com)
-
-Coaching Centre
-
-[https://coachingcenter.nkdagility.com](https://coachingcenter.nkdagility.com)
+Coaching Centre: [https://coachingcenter.nkdagility.com](https://coachingcenter.nkdagility.com)
