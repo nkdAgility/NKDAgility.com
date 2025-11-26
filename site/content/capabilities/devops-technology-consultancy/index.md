@@ -80,6 +80,11 @@ sections:
           - title: Platform engineering and developer experience
           - title: Cross-portfolio visibility and strategic metrics
           - title: Transformation maintaining delivery continuity
+  - type: none
+    backgroundColor: light-accent-alt
+    title: Proven at Scale
+    content: |
+      These capabilities have been validated in complex, multi-national environments. A global energy technology company consolidated [27 fragmented DevOps systems across 800+ teams](/resources/case-studies/standardize-engineering-practice-across-800-teams/), standardising processes and improving visibility without disrupting delivery. The transformation enabled coherent reporting, reduced costs, and created the foundation for engineering excellence at enterprise scale.
   - type: quote
     backgroundColor: primary
     quote: |
@@ -187,6 +192,8 @@ sections:
       - Metrics that inform decisions
       - Cloud infrastructure that scales and secures
       - DevOps practices improving flow, quality, and resilience
+      
+      Real-world example: A global engineering organisation [streamlined build and release across 90 teams in 13 countries](/resources/case-studies/streamline-build-and-release-across-90-teams-and-13-countries/), consolidating fragmented source control and branching strategies. The result: reduced central build team overhead, improved team ownership, and more predictable releases.
   - type: none
     title: Typical Deliverables
     content: |
