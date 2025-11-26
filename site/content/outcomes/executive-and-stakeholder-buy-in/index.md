@@ -20,7 +20,7 @@ sections:
   - type: headline
     headline:
       title: Executive and Stakeholder Alignment
-      subtitle: From Opinion to Evidence, From Friction to Clarity
+      subtitle: From Persuasion to Partnership, From Friction to Clarity
       content: |
         Engineering investments stalled in committee. Strategic initiatives delayed by misalignment. Technical vision disconnected from business priorities.
 
@@ -107,7 +107,7 @@ sections:
     sideContent: |
       Engineering initiatives move forward. Leadership makes confident decisions. Technical strategy aligns with business priorities.
 
-      This isn't guaranteed results, it's the condition that emerges when technical capability connects clearly to business outcomes through evidence, metrics, and coherent narrative.
+      This isn't guaranteed results—it's the condition that emerges when technical capability connects clearly to business outcomes through evidence, metrics, and coherent narrative.
     list:
       - icon: fa-check-circle
         content: |
