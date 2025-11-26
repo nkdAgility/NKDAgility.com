@@ -1,8 +1,8 @@
 ---
 title: Engineering Excellence in One Hour A Week
 short_title: Engineering Excellence
-description: A practical guide to improving engineering skills and team performance with focused, one-hour weekly sessions for continuous learning and growth.
-tldr: Dedicating just one hour each week to focused engineering improvement can lead to significant gains in code quality, team collaboration, and technical skills. Regular, small investments in learning and process refinement help teams deliver better software and adapt more quickly to change. Managers should schedule and protect this time to build a culture of continuous improvement.
+description: Weekly engineering support that provides clear visibility into delivery systems, technical debt, and flow constraints, enabling better decisions about modernisation, quality, and predictable delivery.
+tldr: One hour a week provides focused technical support to help you see where flow is blocked, where quality breaks down, and where engineering practices need strengthening. You gain the visibility and guidance to make informed decisions about CI/CD, DevOps adoption, technical debt, and team capability without the overhead of traditional consulting. Delivered through a timeboxed retainer with full risk reversal.
 date: 2025-09-23
 weight: 102
 sitemap:
@@ -21,78 +21,82 @@ sections:
   - type: headline
     headline:
       title: "Engineering Excellence in One Hour a Week"
-      subtitle: Weekly Engineering Coaching Services
+      subtitle: See what's blocking flow. Fix what matters.
       content: |
-        Consulting service providing weekly engineering coaching focused on technical practices, bottleneck removal, and capability building.
+        One hour a week gives you clear visibility into your engineering system: where delivery stalls, where quality breaks down, where technical debt constrains you.
 
-        One hour per week of focused technical guidance addressing engineering practices, workflow improvements, and quality systems. Minimal disruption, sustained impact through consistent weekly engagement.
+        You gain the insight to make better decisions about CI/CD, DevOps practices, workflow design, and team capability. Delivered through a timeboxed retainer—no hourly billing, no scope creep, full refund if you're not satisfied.
   - type: textNlist
-    title: Services Provided
+    title: What This Provides
     sideContent: |
-      Weekly engineering coaching delivered through one-hour focused sessions. Services address technical debt, engineering practices, workflow bottlenecks, and team capability.
+      One hour a week of focused technical support. You get visibility into engineering constraints, workflow bottlenecks, and quality gaps. You see what's holding you back and where improvement will have the most impact.
 
-      Delivered through timeboxed retainer engagement with full risk reversal. No hourly billing, no fixed deliverables, just capacity retained for ongoing engineering guidance.
+      This isn't traditional consulting. You're not buying hours or fixed deliverables. You're retaining strategic capacity to diagnose problems, clarify options, and support sustained improvement. Delivered through a timeboxed retainer with full risk reversal.
     list:
       - icon: fa-search
         content: |
-          **Problem diagnosis** – Identifying technical debt, bottlenecks, and practice gaps holding the team back.
+          **System visibility** – See where delivery flow breaks down, where technical debt creates drag, and where practices don't match your needs.
       - icon: fa-route
         content: |
-          **Engineering guidance** – CI/CD implementation, DevOps practices, workflow mapping, and engineering discipline.
-      - icon: fa-sync-alt
+          **Engineering clarity** – Understand what CI/CD, DevOps, and quality systems mean for your environment. Map workflow, identify constraints, and clarify improvement options.
+      - icon: fa-lightbulb
         content: |
-          **Continuous improvement** – Small, intentional changes each week that compound into significant performance gains.
-      - icon: fa-chalkboard-teacher
+          **Decision support** – Get grounded technical guidance so you can prioritise modernisation, address bottlenecks, and invest improvement effort where it matters.
+      - icon: fa-tools
         content: |
-          **Practical coaching** – Solutions tailored to your environment, team, and toolchain.
+          **Embedded capability** – Build engineering discipline into your teams. Strengthen practices around testing, deployment, observability, and continuous improvement without disrupting delivery.
   - type: list
-    title: Areas of Focus
+    title: Focus Areas
     listType: boxed
     list:
-      - title: Predictable Delivery
-        icon: fa-calendar-check
+      - title: Flow and Predictability
+        icon: fa-stream
         content: |
-          Engineering systems and practices supporting predictable delivery.
-      - title: Built-in Quality
-        icon: fa-check-circle
+          Helps you see where work stalls, where dependencies create drag, and where workflow design constrains throughput. Enables better decisions about flow improvement and delivery predictability.
+      - title: Quality Systems
+        icon: fa-shield-alt
         content: |
-          Quality systems embedded throughout the engineering process.
-      - title: Scalable DevOps
-        icon: fa-cubes
+          Provides visibility into where quality breaks down in your engineering process. Supports decisions about test automation, Definition of Done, and building quality in from the start.
+      - title: DevOps and CI/CD
+        icon: fa-code-branch
         content: |
-          DevOps practices that scale with team and product growth.
-      - title: Technical Modernisation
-        icon: fa-forward
+          Clarifies what DevOps means for your context: CI/CD pipelines, infrastructure as code, automated testing, monitoring, and security as code. Helps you see where to start and what to prioritise.
+      - title: Technical Debt and Modernisation
+        icon: fa-wrench
         content: |
-          Strategies for addressing legacy technical debt and modernising engineering practices.
-      - title: Continuous Improvement
-        icon: fa-sync
+          Maps technical debt, legacy constraints, and modernisation options. Creates the clarity you need to make strategic decisions about refactoring, platform evolution, and engineering investment.
+      - title: Capability Building
+        icon: fa-users-cog
         content: |
-          Improvement systems that maintain momentum without disrupting delivery.
-  - type: cards
-    title: Why Partner with Martin
-    cards:
-      - title: Trusted Expertise
+          Supports team development around engineering practices, technical discipline, and continuous improvement. Builds internal capability without the overhead of traditional training programmes.
+  - type: features
+    title: How This Works
+    features:
+      - icon: fa-clock
+        title: One Hour a Week
         content: |
-          Backed by Microsoft MVP status, Scrum.org accreditation, and 20+ years of engineering excellence.
-      - title: Continuous ROI
+          Timeboxed retainer, typically one hour per week. You retain strategic capacity without transactional overhead or financial decisions every time you need support.
+      - icon: fa-handshake
+        title: High Trust, Low Friction
         content: |
-          Just 1 hour per week yields measurable improvement without disrupting your delivery.
-      - title: Aligned to Your Goals
+          No hourly billing. No change orders. Upfront payment with full refund if you're not satisfied. You get flexibility without micromanagement; we get clarity without red tape.
+      - icon: fa-compass
+        title: Context-Driven, Not Framework-Driven
         content: |
-          From tech debt reduction to advanced OKRs, Martin helps your team design outcomes that matter.
-      - title: More Than Training
+          Engineering support tailored to your environment, toolchain, and constraints. No cookie-cutter processes. No framework evangelism. Just practical guidance grounded in your reality.
+      - icon: fa-sync
+        title: Sustained, Incremental Improvement
         content: |
-          Not another framework session. This is about embedding technical leadership.
+          Small, deliberate changes that compound over time. Maintains momentum without disrupting delivery. Builds lasting capability instead of short-term fixes.
   - type: sectioncta
     backgroundColor: primary
     cta:
       content: |
-        It only takes one step to get started. **Book a Free Consultation with Martin Hinshelwood today.**
+        Start with a conversation. **Book a free consultation with Martin Hinshelwood.**
 
-        See how one hour a week can change everything for your team.
+        See what one hour a week can clarify for your engineering system.
       button:
-        text: Schedule My Consultation
+        text: Book a Consultation
         url: /company/book-online
 Watermarks:
   description: 2025-09-23T10:46:42Z
