@@ -139,7 +139,7 @@ sections:
   - type: textNlist
     title: The Kendall Framework Foundation
     sideContent: |
-      This capability is built on the Kendall Framework - a system of work for thinking about AI.
+      This capability is built on the Kendall Framework—a system of work for thinking about AI.
 
       The framework provides structure for problem-first AI adoption: defined accountabilities, structured artefacts, regular discovery events, and clear prioritisation methods.
 
@@ -201,7 +201,7 @@ sections:
     content: |
       This capability suits organisations that:
 
-      - See AI everywhere but struggle to see where it creates value for them
+      - See AI everywhere but struggle to see where it creates value for you
       - Want disciplined AI adoption, not experimentation for its own sake
       - Need to align technical teams and business stakeholders on AI direction
       - Prefer evidence-based decisions over vendor promises
