@@ -69,6 +69,19 @@ sections:
         icon: fa-users-cog
         content: |
           Supports team development around engineering practices, technical discipline, and continuous improvement. Builds internal capability without the overhead of traditional training programmes.
+  - type: textNlist
+    title: Real-World Evidence
+    sideContent: |
+      These challenges aren't hypothetical. NKD has worked with organisations facing fragmented engineering systems, inconsistent practices, and workflow bottlenecks at scale.
+
+      The same diagnosis and clarity that enabled those transformations is available through weekly engineering support—without the overhead of large-scale programmes.
+    list:
+      - icon: fa-building
+        content: |
+          A global energy technology company consolidated [build and release processes across 90 teams in 13 countries](/resources/case-studies/streamline-build-and-release-across-90-teams-and-13-countries), shifting ownership of builds to engineering teams and reducing central build team size while improving autonomy and predictability.
+      - icon: fa-project-diagram
+        content: |
+          The same organisation unified [800+ engineering teams by consolidating DevOps systems](/resources/case-studies/standardize-engineering-practice-across-800-teams), standardising processes, and improving visibility and collaboration across the enterprise.
   - type: features
     title: How This Works
     features:
