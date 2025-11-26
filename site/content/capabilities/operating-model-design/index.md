@@ -157,6 +157,13 @@ sections:
             icon: fa-square-check
           - title: Technology as strategic enabler
             icon: fa-square-check
+  - type: list
+    title: Real-World Impact
+    listType: list
+    content: |
+      A global energy technology company had 27 separate DevOps systems, 800+ projects, and 900+ custom processes. Teams working on the same product used different tracking systems. Leadership had no coherent view of delivery, performance, or investment.
+      
+      [Operating model consolidation and standardization](/resources/case-studies/standardize-engineering-practice-across-800-teams) reduced collections from 27 to 7, unified work item tracking, enabled cross-team collaboration, and provided strategic visibility. Engineering teams could focus on delivery rather than wrestling with fragmented systems.
   - title: Why NKD Agility
     type: list
     listType: list
