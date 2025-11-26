@@ -143,7 +143,7 @@ sections:
 
       The condition we help create is one where you can move fast **because** your systems are stable, not in spite of stability. Where security strengthens delivery instead of slowing it. Where compliance integrates naturally rather than being bolted on.
 
-      This is not about guarantees. It is about the improved condition that emerges when engineering practices align with business reality and your teams have the capability to sustain them.
+      This is not about guarantees. It is about the improved condition that emerges when engineering practices align with business reality and your teams have the capability to sustain those practices.
   - type: sectioncta
     backgroundColor: primary
     cta:
