@@ -161,7 +161,7 @@ card:
   button:
     content: Gain Strategic Clarity
   title: Clarity in Technology Roadmaps
-  content: You gain strategic confidence in technical direction. Investment decisions become defensible. Align architecture, systems, and teams towards coherent growth without friction.
+  content: You gain strategic confidence in technical direction. Investment decisions become defensible. You align architecture, systems, and teams towards coherent growth without friction.
 Watermarks:
   description: 2025-10-31T14:01:11Z
   tldr: 2025-10-31T14:01:12Z
