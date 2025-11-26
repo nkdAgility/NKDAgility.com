@@ -206,7 +206,7 @@ sections:
 
       **Our unique advantage:** We're not typical consultants. We're deeply technical engineers who understand both code and business strategy. Engineering leaders trust us because we've lived their challenges, from DevOps pipelines to board presentations.
 
-      **How we engage:** Timeboxed retainer (not hourly). Satisfaction guaranteed, if we don't deliver value, we refund you. No risk, no change orders, just outcomes.
+      **How we engage:** Timeboxed retainer (not hourly). Satisfaction guaranteed. If we don't deliver value, we refund you. No risk, no change orders, just outcomes.
 
       Led by Microsoft MVP Martin Hinshelwood with 20+ years bridging technical excellence and strategic leadership.
   - type: sectioncta
