@@ -60,6 +60,20 @@ sections:
 
       I would recommend Martin to anyone, in fact I would insist they use him as he is the best DevOps consultant I've worked with."
       - **Paul Martin | IT Director**
+  - type: textNlist
+    title: Real-World Applications
+    sideContent: |
+      This consulting has helped organisations address the exact systemic constraints described above. A global energy technology company with 800+ teams consolidated fragmented DevOps systems and standardised engineering practices, creating visibility and collaboration where chaos had prevailed. A UK insurance software company overcame misalignment between UK product management and Polish engineering teams through immersive mentorship that clarified roles and built shared context. A national police service embedded evidence-based management to drive organisational change at scale, moving from rigid command structures to systems enabling learning at all levels.
+    list:
+      - icon: fa-industry
+        content: |
+          **[Large-scale standardisation](/resources/case-studies/standardize-engineering-practice-across-800-teams)** – From fragmentation to flow across hundreds of teams
+      - icon: fa-users-line
+        content: |
+          **[Cross-border team alignment](/resources/case-studies/mentorship-model-transformed-a-product-management-team)** – Building shared understanding and collaboration across geographies
+      - icon: fa-building
+        content: |
+          **[Enterprise transformation](/resources/case-studies/enabled-organisational-change-in-the-ghana-police-service)** – Evidence-based change in large hierarchical organisations
   - type: boxesrow
     title: Consulting Capabilities
     boxes:
