@@ -1,8 +1,8 @@
 ---
 title: Solving Real Problems
 short_title: Solving Real Problems
-description: Learn practical approaches and strategies to identify, analyze, and effectively solve real-world problems in various contexts and industries.
-tldr: Focusing on real user problems leads to better products and more satisfied customers. Teams should spend time understanding user needs, not just building features, and regularly validate solutions with actual users. Encourage your team to prioritize problem discovery and user feedback to ensure development efforts have real impact.
+description: Move from tool-centric thinking to problem-focused strategy. Understand what improves when organisations start with real problems rather than solutions, enabling better decisions, clearer priorities, and sustainable outcomes.
+tldr: Focusing on real problems leads to better decisions, clearer priorities, and sustainable outcomes. Teams that start with problem identification rather than tool selection report higher success rates and stronger stakeholder confidence. Encourage your team to prioritise problem discovery and validation before committing to solutions.
 date: 2025-10-20
 weight: 150
 sitemap:
@@ -19,150 +19,185 @@ type: outcomes
 sections:
   - type: headline
     headline:
-      title: Problem Before Solution
-      subtitle: Why 95% of AI Pilots Fail - And How to Avoid That Fate
+      title: Solving Real Problems
+      subtitle: From Tool Obsession to Problem Clarity
       content: |
-        Research suggests that **95% of generative AI pilot projects fail** because teams jump straight to technology without first solving real problems. This isn't just an AI issue; it's the danger of any tool-centric approach. Successful adoption begins with clearly defined problems, emphasising principles like **"Problem before solution,"** **"Context creates meaning,"** and **"Collaboration sustains value."**
-  - content: |
-      **NKD Agility helps organisations focus on outcomes by starting with real problems, not tools.** Our [AI Opportunity Discovery & Context Sourcing]({{< ref "/capabilities/ai-opportunity-discovery" >}}) service embeds a problem-first mindset and structured, team-driven prioritisation-ensuring that technology serves your business needs, not the other way around.
-    type: content
+        Chasing technology trends without clear problems to solve. Investing in solutions before understanding what needs to improve. Teams busy building things that don't address real business challenges.
+
+        Research shows 95% of generative AI pilots fail, not because the technology isn't powerful, but because organisations skip the hard work of defining the problem. The same pattern appears with DevOps, Scrum, Agile, OKRs, any tool-centric approach that starts with the solution rather than the problem.
   - type: outcomehero
     cta:
-      content: Ready to focus on real problems? **Let's identify what truly matters.**
+      content: Problem clarity before technology decisions. **Let's talk.**
       button:
         text: Book a Discovery Call
         url: /company/book-online
     boxes:
       - content: |
-          Are you chasing AI hype without clear problems to solve?
+          Investing in tools without understanding what improves
       - content: |
-          Are you investing in tools before understanding the outcomes you need?
+          Teams building solutions searching for problems
       - content: |
-          Are you building solutions in search of problems?
-  - title: Pain Points We Eliminate
-    type: list
+          Initiatives failing because the real problem was never clear
+  - type: textNlist
+    title: What Changes
+    sideContent: |
+      Tool obsession becomes problem clarity. Scattered efforts become aligned action. Technology-first thinking becomes outcome-focused strategy.
+
+      The capability to solve real problems already exists in your organisation. What's often missing is the discipline to identify and articulate problems before racing toward solutions.
     list:
-      - title: Technology-First Thinking
+      - icon: fa-lightbulb
+        content: |
+          **Clarity emerges** – What actually needs to improve becomes visible
+      - icon: fa-bullseye
+        content: |
+          **Focus sharpens** – Energy flows toward problems that matter, not vendor hype
+      - icon: fa-handshake
+        content: |
+          **Alignment follows** – Teams pull in the same direction when the problem is clear
+      - icon: fa-gauge
+        content: |
+          **Decisions accelerate** – Less debate, more progress when problems drive choices
+  - type: list
+    title: The Shift That Happens
+    listType: boxed
+    list:
+      - title: From Technology to Outcomes
         icon: fa-robot
         content: |
-          Jumping to AI or other tools without understanding the underlying problem leads to wasted investment and failed initiatives.
-      - title: Misaligned Teams & Unclear Priorities
-        icon: fa-people-arrows
+          "We need AI" becomes "How do we improve decision-making speed and quality?"
+      - title: From Scattered to Focused
+        icon: fa-compass
         content: |
-          When teams lack clarity on what problems they're solving, collaboration breaks down and efforts scatter.
-      - title: Vendor Hype & Tool Obsession
+          Multiple competing initiatives consolidate around a few high-impact problems.
+      - title: From Vendor Promises to Business Reality
         icon: fa-bullhorn
         content: |
-          Falling for marketing promises rather than focusing on your specific business challenges creates expensive distractions.
-      - title: Initiative Failure & Low ROI
-        icon: fa-chart-line-down
+          Marketing hype stops driving strategy. Your actual business challenges do.
+      - title: From Initiative Churn to Sustainable Progress
+        icon: fa-arrows-rotate
         content: |
-          Tool-centric mindsets, whether AI, DevOps, Scrum, or Agile, often deliver negative results because they skip the crucial step of problem definition.
-      - title: Lost Stakeholder Confidence
-        icon: fa-handshake-slash
+          Tool-hopping ends. Problem-focused work creates momentum that lasts.
+      - title: From Erosion to Confidence
+        icon: fa-handshake
         content: |
-          When projects fail to deliver meaningful outcomes, trust erodes and future initiatives become harder to fund.
+          Stakeholder trust rebuilds when initiatives deliver against clearly defined problems.
   - type: quote
     backgroundColor: primary
     quote: |
-      "95% of generative AI pilot projects fail because teams jump to technology without solving real problems. The same pattern repeats across all tool-centric initiatives-only a problem-first approach delivers sustainable success."
-  - title: Benefits of Focusing on Real Problems
+      "The same pattern repeats across tool-centric initiatives: AI, DevOps, Scrum, Agile, OKRs. Only problem-first thinking delivers sustainable success."
+  - title: What Becomes Possible
     type: list
     listType: boxed
     list:
-      - title: Aligned Teams & Clear Direction
-        icon: fa-compass
-        content: |
-          When everyone understands the problem, collaboration becomes purposeful and teams move in the same direction.
-      - title: Clarity on Investment Returns
+      - title: Better Investment Decisions
         icon: fa-money-bill-trend-up
         content: |
-          Problem-focused initiatives deliver measurable outcomes, making it easy to demonstrate ROI and secure ongoing support.
-      - title: Faster Learning & Delivery
+          Which initiatives solve real problems becomes clear. ROI discussions shift from hope to evidence.
+      - title: Aligned Teams
+        icon: fa-users
+        content: |
+          Collaboration becomes purposeful when everyone understands what problem they're solving.
+      - title: Faster Time to Value
         icon: fa-gauge-high
         content: |
-          By starting with the problem, you eliminate wasted effort on irrelevant solutions and accelerate time to value.
-      - title: Increased Stakeholder Confidence
-        icon: fa-handshake
-        content: |
-          Delivering solutions to real problems builds trust and credibility with leadership and customers.
-      - title: Reduced Risk & Better Outcomes
+          Eliminate months spent building the wrong thing. Start with the problem, reach value faster.
+      - title: Reduced Failure Rates
         icon: fa-shield-check
         content: |
-          Understanding the problem first ensures you invest in the right solutions, dramatically reducing failure rates.
-  - title: Purposeful and Trustworthy AI Adoption
-    type: content
-    content: |
-      Focusing on clear problems ensures that AI adoption remains purposeful and trustworthy. Rather than chasing technology trends, you build solutions that address genuine business needs and create lasting value.
+          Understanding the problem before choosing solutions dramatically increases success rates.
+      - title: Stakeholder Confidence
+        icon: fa-chart-line
+        content: |
+          Leadership trusts initiatives grounded in real problems, not tool trends.
+  - type: textNlist
+    title: The Condition You Get
+    sideContent: |
+      Teams stop asking "What tool should we use?" and start asking "What problem are we solving?"
+
+      This isn't about guarantees. It's the condition that emerges when problem identification becomes a discipline, not an afterthought.
+    list:
+      - icon: fa-check-circle
+        content: |
+          **Strategic clarity** – Business challenges drive technology choices
+      - icon: fa-check-circle
+        content: |
+          **Execution confidence** – Teams know why they're building what they're building
+      - icon: fa-check-circle
+        content: |
+          **Sustainable outcomes** – Solutions address real needs, creating lasting value
   - type: outcomeboxes
-    title: How NKD Agility Helps You Solve Real Problems
+    title: When you solve real problems
     boxes:
-      - box: 
+      - box:
         items:
-          - title: Identify and articulate real business problems
-          - title: Capture context to create shared understanding
-          - title: Prioritize problems based on business impact
-          - title: Create actionable roadmaps aligned to outcomes
-          - title: Apply problem-first principles to every initiative
-      - box: 
+          - title: Identify what actually needs to improve
+          - title: Articulate problems clearly across levels
+          - title: Prioritise based on business impact
+          - title: Make technology decisions grounded in reality
+          - title: Build solutions that address genuine needs
+      - box:
         items:
-          - title: Reduce anxiety from tool-centric chaos
-          - title: Feel confident you're solving the right problems
-          - title: Trust that investments align with business needs
-          - title: Experience clarity instead of confusion
-          - title: Build momentum through meaningful progress
-      - box: 
+          - title: Confidence replaces anxiety
+          - title: Clarity replaces confusion
+          - title: Purpose replaces activity
+          - title: Progress replaces churn
+          - title: Trust replaces scepticism
+      - box:
         items:
           - title: Lead with problem-focused strategy
-          - title: Champion outcome-oriented initiatives
-          - title: Secure stakeholder buy-in with clear problems
-          - title: Represent your organization as evidence-based
-          - title: Mentor teams on problem-first thinking
-  - title: Success Through Problem-First Thinking
+          - title: Champion outcome-oriented thinking
+          - title: Secure buy-in through problem clarity
+          - title: Represent your organisation as evidence-driven
+          - title: Model discipline before jumping to solutions
+  - title: What This Looks Like
     type: casestudy
     list:
       - icon: fa-shield-check
         content: |
-          Organizations that start with problem identification see dramatically higher success rates in their AI and digital transformation initiatives.
+          Organisations report dramatically higher success rates when initiatives begin with structured problem identification rather than solution selection.
       - icon: fa-shield-check
         content: |
-          Teams applying problem-first principles report better alignment, clearer priorities, and more sustainable outcomes.
+          Teams applying problem-first principles experience better alignment, clearer priorities, and more sustainable delivery.
       - icon: fa-shield-check
         content: |
-          Clients using our [AI Opportunity Discovery]({{< ref "/capabilities/ai-opportunity-discovery" >}})) approach successfully avoid the 95% failure rate by focusing on context and real business problems.
+          Leadership teams have observed improved stakeholder confidence when technology investments are grounded in clearly articulated business problems.
     cta:
-      content: Want to see real examples?
+      content: Want evidence?
       button:
         text: Explore Case Studies
         url: /resources/case-studies
-  - title: Why NKD Agility?
+  - title: Why NKDAgility?
     type: textNlist
     list:
       - icon: fa-award
         content: |
-          From tool obsession to problem clarity
+          From tool obsession → problem clarity
       - icon: fa-award
         content: |
-          From technology-first to outcome-focused
+          From technology-first → outcome-focused
       - icon: fa-award
         content: |
-          From scattered efforts to aligned action
+          From scattered effort → aligned action
     sideContent: |
-      We don't sell tools or chase trends. We help you solve real problems.
+      **We don't sell tools. We don't chase trends. We help you solve real problems.**
 
-      Our proven [AI Opportunity Discovery]({{< ref "/capabilities/ai-opportunity-discovery" >}}) capability ensures your initiatives start with clear problems-delivering sustainable success, not just temporary hype.
+      Whether it's AI adoption through our [AI Opportunity Discovery]({{< ref "/capabilities/ai-opportunity-discovery" >}}) capability, DevOps transformation, or operating model evolution, we start with the problem.
+
+      **How we engage:** Timeboxed retainer. Satisfaction guaranteed; if we don't deliver value, we refund you. No hourly billing, no scope creep, just problem-focused outcomes.
+
+      Led by Microsoft MVP Martin Hinshelwood with 20+ years solving real engineering and business challenges.
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: Ready to solve real problems instead of chasing tools?
+      content: Stop chasing tools. Start solving problems.
       button:
         text: Schedule a Call
         url: /company/book-online
 card:
   button:
-    content: Start with Problems
+    content: Solve Real Problems
   title: Solving Real Problems
-  content: Avoid the 95% failure rate of technology-first initiatives by focusing on real problems first, ensuring sustainable and purposeful outcomes.
+  content: Move from tool-centric thinking to problem-focused strategy, enabling better decisions, clearer priorities, and sustainable outcomes.
 Watermarks:
   description: 2025-10-31T14:00:51Z
   tldr: 2025-10-31T14:00:54Z
