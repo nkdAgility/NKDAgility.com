@@ -1,8 +1,8 @@
 ---
 title: Cross functional alignment
 short_title: Cross Functional Alignment
-description: When departments speak the same language, your decisions can improve, forecasts gain credibility, and strategy can translate into execution with less distortion.
-tldr: Cross-functional alignment means shared understanding across departments. Trade-offs become visible. Adaptation becomes smoother. Stakeholder confidence can grow. Economic visibility can become more routine. Commitments gain credibility. Strategic clarity can reach execution.
+description: When departments speak the same language, your decisions improve, forecasts gain credibility, and strategy translates into execution with less distortion.
+tldr: Cross-functional alignment means shared understanding across departments. Trade-offs become visible. Adaptation becomes smoother. Stakeholder confidence grows. Economic visibility becomes routine. Commitments gain credibility. Strategic clarity reaches execution.
 date: 2025-06-04
 weight: 500
 sitemap:
@@ -22,7 +22,7 @@ sections:
       title: Cross-Functional Alignment
       subtitle: When strategy, delivery, and operations speak the same language
       content: |
-        Your organisation moves faster when departments understand each other. You make better decisions when everyone sees the same picture. You reduce risk when commitments are realistic and visible across functions.
+        Your organisation moves faster when departments understand each other. Decisions improve when everyone sees the same picture. Risk reduces when commitments are realistic and visible across functions.
   - type: outcomehero
     cta:
       content: Ready to align your organisation?
@@ -31,11 +31,11 @@ sections:
         url: /company/book-online
     boxes:
       - content: |
-          Tired of discovering conflicts too late?
+          Discovering conflicts too late?
       - content: |
-          Want clearer visibility across departments?
+          Missing visibility across departments?
       - content: |
-          Need confidence that your teams are aligned?
+          Uncertain whether your teams are aligned?
   - title: What changes
     type: list
     list:
@@ -70,15 +70,15 @@ sections:
       - title: Trade-offs become visible
         icon: fa-balance-scale
         content: |
-          Cost and risk surface before decisions are made. You can weigh options with real information, not assumptions.
+          Cost and risk surface before decisions are made. You weigh options with real information, not assumptions.
       - title: Adaptation becomes smoother
         icon: fa-forward
         content: |
-          Changes in priority or market conditions can flow through the organisation more cleanly. Teams adjust with less confusion and delay.
+          Changes in priority or market conditions flow through the organisation more cleanly. Teams adjust with less confusion and delay.
       - title: Stakeholder confidence grows
         icon: fa-shield-check
         content: |
-          Consistent communication and more predictable delivery can restore trust. Your board and investors begin to see coherence.
+          Consistent communication and more predictable delivery restore trust. Your board and investors see coherence.
   - type: symmetry
     title: What becomes possible
     leftContent: |
@@ -88,22 +88,22 @@ sections:
 
       ### Strategic agility
 
-      Your organisation can respond to change with less chaos. New priorities flow through aligned functions more smoothly. You can innovate without destabilising delivery.
+      Your organisation responds to change with less chaos. New priorities flow through aligned functions more smoothly. You innovate without destabilising delivery.
     rightContent: |
       ### Economic transparency
 
-      You can see where money is spent, where value is created, and where bottlenecks constrain throughput. Investment decisions become more data-informed, less political.
+      You see where money is spent, where value is created, and where bottlenecks constrain throughput. Investment decisions become more data-informed, less political.
 
       ### Reduced organisational risk
 
-      As functions align, dependencies become visible earlier. You can avoid more late-stage conflicts, wasted effort, and expensive rework.
+      As functions align, dependencies become visible earlier. You avoid more late-stage conflicts, wasted effort, and expensive rework.
   - title: What this enables
     type: list
     list:
       - title: Credible forecasting
         icon: fa-calendar-check
         content: |
-          When functions align, your forecasts gain credibility. Commitments become realistic because they reflect shared understanding.
+          When functions align, forecasts gain credibility. Commitments become realistic because they reflect shared understanding.
       - title: Faster cycle time
         icon: fa-gauge-high
         content: |
@@ -117,19 +117,19 @@ sections:
     leftContent: |
       ### Timeboxed engagements
 
-      We work in fixed timeframes, weekly, monthly, or quarterly. No hourly billing. No scope creep. No change orders. You know the investment upfront. We adapt within the timebox based on what emerges.
+      We work in fixed timeframes—weekly, monthly, or quarterly. No hourly billing. No scope creep. No change orders. You know the investment upfront. We adapt within the timebox based on what emerges.
 
       ### Risk reversal
 
-      Full refund if standards aren't met. First-day cancellation for longer engagements, only expenses due. We carry the risk so you can engage with confidence.
+      Full refund if standards aren't met. First-day cancellation for longer engagements—only expenses due. We carry the risk so you engage with confidence.
     rightContent: |
       ### Collaborative discovery
 
-      We don't fix deliverables upfront. We co-create outcomes within the retainer. Alignment work depends on what we discover together, dependencies, constraints, and opportunities you may not see yet.
+      We don't fix deliverables upfront. We co-create outcomes within the retainer. Alignment work depends on what we discover together: dependencies, constraints, and opportunities you may not see yet.
 
       ### Engineering economics lens
 
-      We help you see the cost of misalignment, rework, delays, conflicts, against the cost of creating shared visibility. Investment decisions become clearer when the economics are visible.
+      We help you see the cost of misalignment—rework, delays, conflicts—against the cost of creating shared visibility. Investment decisions become clearer when the economics are visible.
   - type: trustpilot
   - title: Related training
     type: courses
@@ -148,7 +148,7 @@ card:
   button:
     content: Explore Alignment
   title: Cross Functional Alignment
-  content: When departments speak the same language, your decisions can improve, forecasts gain credibility, and strategy can translate into execution with less distortion.
+  content: When departments speak the same language, your decisions improve, forecasts gain credibility, and strategy translates into execution with less distortion.
 Watermarks:
   description: 2025-10-31T14:01:06Z
   tldr: 2025-10-31T14:01:08Z
