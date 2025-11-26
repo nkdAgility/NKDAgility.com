@@ -105,7 +105,7 @@ sections:
     content: |
       We don't run courses and hope practices stick. We embed directly with your teams, coaching modern engineering practices into the daily rhythm of delivery.
 
-      Scrum is a social technology, not a process. DevOps is an ethos, not a role. Kanban is a strategy for flow, not a methodology. We help teams understand these as systems of work, not frameworks to follow.
+      Scrum is a social technology, not a process. DevOps is an ethos, not a role. Kanban is a strategy for change, not a methodology. We help teams understand these as systems of work, not frameworks to follow.
 
       Led by Martin Hinshelwood (Microsoft MVP) and a team of technical coaches with deep engineering experience, we work alongside your teams to build the capability they need to sustain modern practices long after we're gone.
   - title: How Capability Builds
@@ -134,10 +134,10 @@ sections:
     list:
       - icon: fa-check-circle
         content: |
-          Teams established modern testing practices and CI/CD pipelines, significantly improving reliability and reducing release anxiety.
+          Teams established modern testing practices and CI/CD pipelines, [significantly improving reliability and reducing release anxiety](/resources/case-studies/streamline-build-and-release-across-90-teams-and-13-countries).
       - icon: fa-check-circle
         content: |
-          Senior engineers began mentoring others, creating distributed technical leadership and reducing knowledge concentration.
+          [Senior engineers began mentoring others](/resources/case-studies/mentorship-model-transformed-a-product-management-team), creating distributed technical leadership and reducing knowledge concentration.
       - icon: fa-check-circle
         content: |
           Teams reported higher morale and deeper engagement, with engineers describing it as the most meaningful growth period of their careers.
