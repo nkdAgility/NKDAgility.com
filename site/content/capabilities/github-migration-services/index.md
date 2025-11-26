@@ -114,6 +114,22 @@ sections:
         content: |
           Team enablement integrated throughout migration engagement. Engineers participate, learn, and build capability rather than watching consultants work.
   - type: textNlist
+    title: Migration at Scale
+    sideContent: |
+      NKD Agility has led DevOps migration and consolidation engagements for global organisations with hundreds of teams, thousands of repositories, and complex legacy structures.
+
+      Experience includes consolidating 27 Azure DevOps collections across 800+ teams, migrating 90 teams across 13 countries to unified source control, and handling custom processes at enterprise scale.
+    content: |
+      Real-world migration experience includes:
+
+      - Consolidating fragmented Azure DevOps and TFS environments at enterprise scale
+      - Preserving complete history whilst migrating complex repository structures
+      - Building custom migration tooling when standard approaches don't scale
+      - Maintaining delivery continuity throughout multi-year transformation programmes
+      - Building internal capability alongside technical migration
+
+      [See how NKD Agility helped a global energy technology company standardise engineering practice across 800+ teams](/resources/case-studies/standardize-engineering-practice-across-800-teams) and [streamline build and release across 90 teams in 13 countries](/resources/case-studies/streamline-build-and-release-across-90-teams-and-13-countries).
+  - type: textNlist
     title: Engagement Model
     sideContent: |
       Migration services delivered through timeboxed retainer engagement. You retain capacity, not hours. No hourly billing, no fixed deliverables, no change orders.
