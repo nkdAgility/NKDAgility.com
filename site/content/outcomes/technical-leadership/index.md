@@ -72,6 +72,8 @@ sections:
     title: What Better Technical Leadership Looks Like
     content: |
       DORA research shows elite engineering organisations deploy 208× more frequently and recover from incidents 2,604× faster than low performers. Technical leadership creates the conditions for that performance.
+
+      We've helped organisations like [SLB consolidate 800+ teams](/resources/case-studies/standardize-engineering-practice-across-800-teams/) and [streamline build processes across 90 teams in 13 countries](/resources/case-studies/streamline-build-and-release-across-90-teams-and-13-countries/), creating the visibility and alignment that technical leadership requires.
     boxes:
       - box:
         title: Strategic Clarity
@@ -123,17 +125,17 @@ sections:
     list:
       - icon: fa-shield-check
         content: |
-          Engineering leaders have reported greater confidence in strategic discussions when flow metrics and delivery patterns become visible to the business.
+          At SLB, consolidating 800+ teams across 27 collections into 7 enabled technical leaders to finally see delivery patterns, spot risks early, and make informed investment decisions. [Read the full case study](/resources/case-studies/standardize-engineering-practice-across-800-teams/).
       - icon: fa-shield-check
         content: |
-          Cross-functional alignment has improved in organisations where technical leadership bridges engineering capability and business strategy with clear evidence.
+          When SLB shifted build ownership from a central 8-person team to 90+ engineering teams, technical leadership became embedded at every level, improving autonomy, accountability, and delivery confidence. [See how it worked](/resources/case-studies/streamline-build-and-release-across-90-teams-and-13-countries/).
       - icon: fa-shield-check
         content: |
-          Delivery predictability has increased noticeably when technical leadership combines DevOps practices, engineering excellence, and evidence-based decision-making.
+          Cross-functional alignment improved dramatically when a UK insurance company's product management and Polish engineering teams adopted immersive mentorship, creating shared language and aligned priorities. [Explore the mentorship model](/resources/case-studies/mentorship-model-transformed-a-product-management-team/).
     cta:
-      content: Want the evidence?
+      content: Want more evidence?
       button:
-        text: Explore Case Studies
+        text: Explore All Case Studies
         url: /resources/case-studies
   - title: Why NKD Agility
     type: textNlist
