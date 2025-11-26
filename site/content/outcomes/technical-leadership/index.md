@@ -73,7 +73,7 @@ sections:
     content: |
       DORA research shows elite engineering organisations deploy 208× more frequently and recover from incidents 2,604× faster than low performers. Technical leadership creates the conditions for that performance.
 
-      We've helped organisations like [SLB consolidate 800+ teams](/resources/case-studies/standardize-engineering-practice-across-800-teams/) and [streamline build processes across 90 teams in 13 countries](/resources/case-studies/streamline-build-and-release-across-90-teams-and-13-countries/), creating the visibility and alignment that technical leadership requires.
+      We've helped organisations like [a global energy-technology and services company consolidate 800+ teams](/resources/case-studies/standardize-engineering-practice-across-800-teams/) and [streamline build processes across 90 teams in 13 countries](/resources/case-studies/streamline-build-and-release-across-90-teams-and-13-countries/), creating the visibility and alignment that technical leadership requires.
     boxes:
       - box:
         title: Strategic Clarity
@@ -125,10 +125,10 @@ sections:
     list:
       - icon: fa-shield-check
         content: |
-          At SLB, consolidating 800+ teams across 27 collections into 7 enabled technical leaders to finally see delivery patterns, spot risks early, and make informed investment decisions. [Read the full case study](/resources/case-studies/standardize-engineering-practice-across-800-teams/).
+          At a global energy-technology and services company, consolidating 800+ teams across 27 collections into 7 enabled technical leaders to finally see delivery patterns, spot risks early, and make informed investment decisions. [Read the full case study](/resources/case-studies/standardize-engineering-practice-across-800-teams/).
       - icon: fa-shield-check
         content: |
-          When SLB shifted build ownership from a central 8-person team to 90+ engineering teams, technical leadership became embedded at every level, improving autonomy, accountability, and delivery confidence. [See how it worked](/resources/case-studies/streamline-build-and-release-across-90-teams-and-13-countries/).
+          When a global energy-technology and services company shifted build ownership from a central 8-person team to 90+ engineering teams, technical leadership became embedded at every level, improving autonomy, accountability, and delivery confidence. [See how it worked](/resources/case-studies/streamline-build-and-release-across-90-teams-and-13-countries/).
       - icon: fa-shield-check
         content: |
           Cross-functional alignment improved dramatically when a UK insurance company's product management and Polish engineering teams adopted immersive mentorship, creating shared language and aligned priorities. [Explore the mentorship model](/resources/case-studies/mentorship-model-transformed-a-product-management-team/).
