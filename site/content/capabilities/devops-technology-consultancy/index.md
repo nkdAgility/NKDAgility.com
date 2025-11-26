@@ -231,7 +231,7 @@ sections:
       - title: Microsoft MVP-Level Expertise
         icon: fa-trophy
         content: |
-          Led by Martin Hinshelwood, globally recognised DevOps and Azure DevOps expert in Azure DevOps and engineering leadership since 2007.
+          Led by Martin Hinshelwood, globally recognised Azure DevOps and engineering leadership expert since 2007.
       - title: Engineers, Not Just Advisors
         icon: fa-gear-code
         content: |
