@@ -101,13 +101,13 @@ sections:
     sideContent: |
       NKD Agility has delivered migration services for organisations with thousands of engineers across multiple countries and regions.
       
-      One global energy technology company consolidated 27 separate Azure DevOps collections containing over 800 projects and 900+ custom processes into a unified, standardised environment. The migration included building custom automation tools to handle process standardisation and data migration at scale whilst maintaining delivery continuity across all teams.
+      One global energy technology company consolidated 27 separate Azure DevOps collections containing over 800 projects and 900+ custom processes into a unified, standardised environment. Custom automation tools were built to handle process standardisation and data migration at scale whilst maintaining delivery continuity across all teams.
       
       [Read how standardisation and consolidation enabled engineering excellence across 800+ teams](/resources/case-studies/standardize-engineering-practice-across-800-teams/)
     list:
       - icon: fa-layer-group
         content: |
-          **Large-scale consolidation** – 27 collections consolidated into unified environment with standardised processes
+          **Large-scale consolidation** – 27 collections consolidated into a unified environment with standardised processes
       - icon: fa-users
         content: |
           **Multi-team coordination** – Migration executed across 800+ projects without disrupting ongoing delivery
