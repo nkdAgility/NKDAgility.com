@@ -1,9 +1,15 @@
 {{- $sectionName := .SectionName }}
+{{- $maxItems := .MaxItems }}
 {{- $PagePermalink := .context.Page.Permalink }}
 {{- $section := .context.Site.GetPage "section" $sectionName }}
+{{- $pages := $section.Pages.ByWeight }}
+{{- $pageCount:= len $pages }}
+{{- if gt $maxItems 0 }}
+  {{- $pages = $pages | first $maxItems }}
+{{- end }}
 <div class="container">
   <div class="row">
-    {{- range $section.Pages.ByWeight }}
+    {{- range $pages }}
       {{- if not .Draft }}
         {{- if ne .Permalink $PagePermalink }}
           <div class="col-md-6 col-xl-6 d-flex">
@@ -14,4 +20,11 @@
       {{- end }}
     {{- end }}
   </div>
+  {{- if gt $pageCount $maxItems }}
+    <div class="row mt-5">
+      <div class="col-12 text-center">
+        <a href="{{ $section.Permalink }}" class="btn btn-outline-primary">Learn More About {{ $section.Title }}</a>
+      </div>
+    </div>
+  {{- end }}
 </div>

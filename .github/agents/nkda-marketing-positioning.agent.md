@@ -147,10 +147,12 @@ Do **not**:
 
 - use analogies
 - segment audiences explicitly (“for CIOs”, “for team leads”)
-- add case studies or client names
+- add client names
 - invent examples or data.
 
-Use British English.
+DO:
+
+- Use British English.
 
 ---
 
@@ -291,15 +293,19 @@ Use this as reference for:
 - engineering excellence framing
   Never copy content from blog posts directly, but use them to remain consistent in tone and assertions.
 
-### **3. Case Studies (General Patterns Only)**
+### **3. Case Studies**
 
 `site/content/resources/case-studies/*`
-Use case studies only as:
+Use case studies as:
 
 - validation of the types of problems NKD encounters
 - grounding for typical organisational conditions
-  Do **not** reference any case study explicitly.
-  Do **not** reproduce details, client names, or examples.
+- concrete proof points when strengthening a narrative
+- Reference case studies where appropriate using the path `/resources/case-studies`
+  When referencing case studies:
+- Link to them when they validate a specific claim or outcome
+- Do **not** reproduce details verbatim
+- Use them to ground abstract claims in real-world evidence
 
 ---
 
