@@ -92,7 +92,7 @@ This regression is predictable. The Industrial Operating Model is familiar. Most
 
 Organizations build up what we might call **operating-model cruft**—accumulated structures, processes, and behaviors that no longer serve the current context but resist removal. A new approval process gets added to prevent a single failure. It never gets removed when the risk passes. A management layer forms to coordinate between teams. It persists even after teams become more self-sufficient. Individual performance reviews drive behaviors that undermine team collaboration, but changing them feels too risky.
 
-Without deliberate **operating-model hygiene**, organisations inevitably regress. Hygiene means continuously examining structures and asking: Does this still serve us? Does this enable or impede fast feedback? Does this distribute authority or concentrate it? Does this build team capability or create dependencies?
+Without deliberate **operating-model hygiene**—the continuous practice of examining and removing organisational structures, processes, and behaviors that no longer serve their purpose—organisations inevitably regress. This hygiene means regularly asking: Does this still serve us? Does this enable or impede fast feedback? Does this distribute authority or concentrate it? Does this build team capability or create dependencies?
 
 Operating-model hygiene requires **refactoring organisational structures** just as we refactor code. Remove processes that no longer serve their purpose. Eliminate management layers that have become bottlenecks. Disband cross-functional coordinating bodies that exist only because teams lack necessary skills. Challenge individual metrics that undermine collaboration.
 
