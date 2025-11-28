@@ -2,7 +2,7 @@
 title: Why the Industrial Operating Model Fails in Dynamic Markets
 short_title: Industrial vs Product Operating Models
 description: Explains why traditional industrial management models fail in fast-changing markets and how product-focused, adaptive structures enable better value delivery.
-tldr: The Industrial Operating Model, built for stable and predictable markets, creates waste and frustration in today’s fast-changing environments because it relies on rigid planning, hierarchical decision-making, and output-focused measures. To succeed, organizations must shift to a Product Operating Model with persistent cross-functional teams, decentralized authority, outcome-based measurement, and continuous operating-model hygiene to remove outdated processes. Development managers should identify and eliminate structures that assume predictability and instead empower teams to adapt quickly to customer needs.
+tldr: The Industrial Operating Model's theory of the business—success through predictability and control—fails in dynamic markets where uncertainty dominates. Organizations clinging to this model generate waste through obsolete planning, delayed decisions, and output-focused metrics that ignore value. Success requires changing your theory of the business to the Product Operating Model with persistent cross-functional teams, distributed decision authority, outcome-based measurement, and continuous operating-model hygiene that pairs systematic abandonment with purposeful innovation. Without redefining management's role, organizations default to Industrial behaviors regardless of Agile intentions.
 date: 2025-11-28
 lastmod: 2025-11-28
 weight: 1000
@@ -72,15 +72,17 @@ This theory of the business is not wrong, it succeeds brilliantly when its assum
 
 **Customer and value assumptions:** The Product Operating Model assumes the customer's needs are diverse, evolving, and situational. Value comes from solving the customer's specific problems, not from generic output. The organization wins by learning faster than competitors, adapting its product, and delivering outcomes that matter to the customer in their current context. Where the Industrial Operating Model optimizes for volume and repeatability, the Product Operating Model optimizes for relevance and impact.
 
+**How organizations discover customer value:** Organizations discover what the customer values through direct observation, rapid experimentation, usage data, and continuous engagement with real customers. In dynamic markets, this discovery is ongoing, not episodic.
+
 **The model in practice:** The Product Operating Model is organized around continuous value delivery, empiricism, and outcome-based measurement. It structures persistent cross-functional teams around products or value streams. Decision-making authority is distributed to those closest to the work. Success is measured by outcomes and customer impact, not outputs and activity. The model relies on transparency, inspection, and adaptation, the three pillars of empirical process control, supported by fast feedback loops and technical excellence.
 
 This theory of the business succeeds when uncertainty is high, customer needs evolve rapidly, and competitive advantage comes from adaptation speed rather than operational efficiency.
 
 ### Why This Distinction Matters
 
-These are not simply different management styles, nor is this a story of "modern vs outdated" or "dynamic vs stagnant." The contrast is contextual, not moral. The Industrial Operating Model fails only when its assumptions stop matching reality, when the environment becomes too uncertain, too complex, and too fast-moving for prediction and control to work effectively.
+These are not simply different management styles, nor is this a story of "modern vs outdated" or "dynamic vs stagnant." The contrast is contextual, not moral. The Industrial Operating Model fails only when its assumptions stop matching reality—when the environment becomes too uncertain, too complex, and too fast-moving for prediction and control to work effectively.
 
-Understanding the theory of the business behind each model clarifies why transition is so difficult: you're not just changing processes, you're challenging fundamental assumptions about how success happens.
+Understanding the theory behind each model clarifies why transition is so difficult: you're not just changing processes, you're challenging fundamental assumptions about how success happens.
 
 ## The Industrial Operating Model Was Fit for Stable Markets
 
@@ -110,9 +112,7 @@ The environment has shifted, but the Industrial Operating Model's theory of the 
 
 **Market disconnect waste** grows as organisations become insulated from customer reality. Layers of management separate decision-makers from actual users. Success is measured by delivery of planned outputs, regardless of whether those outputs create value. Teams ship what was specified months ago, not what customers need today.
 
-The Industrial Operating Model operates at fundamentally the wrong speed for dynamic markets. While the market iterates daily, the organisation plans quarterly or annually. While customer needs evolve continuously, the organisation delivers in large batches after months of work. This speed mismatch is not a minor friction, it is a structural incompatibility rooted in an obsolete theory of the business.
-
-The model fails not because it is old or "stagnant," but because its core assumptions, predictability, stability, knowable work, no longer match the environment most organizations face.
+The Industrial Operating Model operates at fundamentally the wrong speed for dynamic markets. While the market iterates daily, the organisation plans quarterly or annually. While customer needs evolve continuously, the organisation delivers in large batches after months of work. This speed mismatch is not a minor friction—it is a structural incompatibility rooted in an obsolete theory of the business that no longer reflects how markets actually behave.
 
 ## The Product Operating Model Enables Success in Dynamic Markets
 
@@ -134,7 +134,7 @@ The Product Operating Model matches the speed and uncertainty of dynamic markets
 
 Many organisations transition away from hierarchical structures only to drift back over time. Start-ups begin as nimble network organisations with direct communication and fast decisions. As they grow, departments emerge. Managers accumulate authority. Planning processes formalize. Approval chains lengthen. Within a few years, the organisation has recreated the Industrial Operating Model.
 
-This regression is predictable. The Industrial Operating Model's theory of the business, control through prediction and standardization, is deeply familiar. Most leaders experienced it throughout their careers. Under pressure, people default to known patterns. When faced with coordination challenges, the instinct is to add management layers. When facing uncertainty, the reflex is to demand more detailed plans. The old theory of the business reasserts itself because it feels safer, even when it no longer matches reality.
+This regression is predictable. The Industrial Operating Model's theory of the business—control through prediction and standardization—is deeply familiar. Most leaders experienced it throughout their careers. Under pressure, people default to known patterns. When faced with coordination challenges, the instinct is to add management layers. When facing uncertainty, the reflex is to demand more detailed plans. The old theory reasserts itself because it feels safer, even when it has become obsolete.
 
 Organizations build up what we might call **operating-model cruft**, accumulated structures, processes, and behaviors that no longer serve the current context but resist removal. A new approval process gets added to prevent a single failure. It never gets removed when the risk passes. A management layer forms to coordinate between teams. It persists even after teams become more self-sufficient. Individual performance reviews drive behaviors that undermine team collaboration, but changing them feels too risky.
 
@@ -170,7 +170,7 @@ If your organisation competes in dynamic markets, and most do, the Industrial Op
 
 The question is not whether to change, but how quickly you can change.
 
-Start by acknowledging the mismatch. Your operating model embodies a theory of the business designed for different conditions. It is not bad, it is unfit for current context. The assumptions that underlie your structures, processes, and leadership behaviors no longer match the environment you face.
+Start by acknowledging the mismatch. Your operating model embodies a theory of the business designed for different conditions. It is not bad—it is unfit for current context. The assumptions embedded in your structures, processes, and leadership behaviors were built for a world that no longer exists.
 
 Commit to operating-model redesign built on the Product Operating Model. Structure persistent, cross-functional teams around value streams. Distribute decision-making authority to those teams. Measure outcomes and system capability, not outputs and individual activity. Develop leaders who design systems rather than control work.
 
