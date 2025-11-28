@@ -80,9 +80,9 @@ This theory of the business succeeds when uncertainty is high, customer needs ev
 
 ### Why This Distinction Matters
 
-These are not simply different management styles, nor is this a story of "modern vs outdated" or "dynamic vs stagnant." The contrast is contextual, not moral. The Industrial Operating Model fails only when its assumptions stop matching reality, when the environment becomes too uncertain, too complex, and too fast-moving for prediction and control to work effectively.
+These are not simply different management styles, nor is this a story of "modern vs traditional" or "agile vs waterfall" The contrast is contextual, not moral. The Industrial Operating Model fails only when its assumptions stop matching reality, when the environment becomes too uncertain, too complex, and too fast-moving for prediction and control to work effectively.
 
-Understanding the theory behind each model clarifies why transition is so difficult: you're not just changing processes, you're challenging fundamental assumptions about how success happens.
+Understanding the theory behind each model clarifies why transition is so difficult: you're not just changing processes, **you're challenging fundamental assumptions about how success happens**.
 
 ## The Industrial Operating Model Was Fit for Stable Markets
 
@@ -90,13 +90,13 @@ The Industrial Operating Model was not a mistake. It was brilliantly designed fo
 
 During the Industrial Age, markets were stable and predictable. Demand grew steadily over long periods. Competition was limited. Products had decades-long lifecycles. In textiles, steel production, and large-scale manufacturing, success came from optimizing efficiency and driving down costs through standardization and economies of scale. The assumptions underlying the Industrial Operating Model, predictability, stability, knowable work, matched reality.
 
-Frederick Winslow Taylor developed scientific management for exactly this environment. When work is repetitive and predictable, breaking it into specialized tasks and optimizing each step makes sense. When markets change slowly, detailed upfront planning works. When products remain unchanged for years, separation of planning from execution causes minimal waste. Variability could be treated as a problem to eliminate because the "right way" was relatively stable.
+Frederick Winslow Taylor developed scientific management for exactly this environment, and Henry Gantt popularised it. When work is repetitive and predictable, breaking it into specialized tasks and optimizing each step makes sense. When markets change slowly, detailed upfront planning works. When products remain unchanged for years, separation of planning from execution causes minimal waste. Variability could be treated as a problem to eliminate because the "right way" was relatively stable.
 
 The Industrial Operating Model delivered extraordinary results in stable markets. It built railways, scaled factories, and powered economic growth throughout the 20th century. The model succeeded because its theory of the business matched the actual environment: success truly did come through efficiency, standardization, and control in predictable work within predictable markets.
 
 ## Why the Industrial Operating Model Fails in Dynamic Markets
 
-Markets began shifting toward complexity and volatility in the mid-20th century. The pace accelerated dramatically in the 1970s with the microprocessor revolution. By the 1990s, the internet had fundamentally changed how quickly ideas spread and how rapidly markets evolve.
+Markets began shifting toward greater complexity and volatility in the early 20th century, and this exposed the limits of the Industrial Operating Model. By the mid-20th century, Toyota demonstrated a different way of working that reintroduced people into the centre of the production system, giving teams direct responsibility for quality, problem-solving, and continuous improvement. The pace of change accelerated again in the 1970s with the microprocessor revolution, and by the 1990s the internet had fundamentally changed how quickly ideas spread and how rapidly markets evolve.
 
 Today, most markets are dynamic. Customer needs change rapidly. Technology enables new competitors to emerge quickly. Product lifecycles measure in months, not decades. Uncertainty is the norm, not the exception.
 
