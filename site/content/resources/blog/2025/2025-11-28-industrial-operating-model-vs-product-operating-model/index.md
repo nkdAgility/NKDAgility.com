@@ -38,45 +38,54 @@ Every organization operates on a theory of the business [^Drucker-TOB]: a set of
 
 Each operating model embodies a fundamentally different theory of the business and makes fundamentally different assumptions about the customer and what they value.
 
-### The Industrial Operating Model , Theory of the Business
+### The Industrial Operating Model
 
-**Core assumption:** The environment is predictable enough that you can succeed through efficiency, standardization, and control.
+**Core assumption:**
+The environment is predictable enough that organisations succeed through efficiency, standardisation, and control.
 
-**Key beliefs:**
+**Underlying beliefs:**
 
-- Demand is relatively stable
-- Work is largely knowable upfront
-- Variability is a problem to eliminate
-- Planning is more reliable than adaptation
-- Performance comes from specialization and hierarchical coordination
-- Management's job is to optimize throughput and minimize deviation
+- Demand changes slowly.
+- Work can be understood and specified upfront.
+- Variability signals defects and should be minimised.
+- Planning provides more certainty than adaptation.
+- Performance improves through specialisation and hierarchical coordination.
+- Management’s role is to optimise throughput and control deviation.
 
-**Customer and value assumptions:** The Industrial Operating Model assumes the customer wants consistency, reliability, and quantity. Value is created through standardization, predictability, and efficiency of output. The organization wins by producing more, at lower cost, with minimal variation. This aligns with environments where customer needs change slowly and products remain stable for long periods.
+**Customer and value assumptions:**
+Customers primarily want consistency, reliability, and quantity. Value comes from standardised output delivered at lower cost and with minimal variation. This model fits environments with long product cycles, slow-changing needs, and stable demand.
 
-**The model in practice:** The Industrial Operating Model is rooted in Taylorism and scientific management principles. It emerged during the Industrial Age to optimize predictable, repetitive manufacturing work. This model is characterized by command-and-control structures, hierarchical decision-making, predictive planning with fixed scope and resources, and output-focused measurement. Work is separated into specialized functions, with planning happening separately from execution. Management controls through detailed processes, sign-offs, and individual accountability.
+**How the model operates:**
+The Industrial Operating Model is built on Taylorism and Scientific Management. It separates planning from execution, functions from one another, and thinking from doing. Decision-making flows vertically. Work is governed through predictive plans, fixed scope and resources, detailed procedures, stage gates, and individual accountability. Output is the dominant measure of performance.
 
-This theory of the business is not wrong, it succeeds brilliantly when its assumptions match reality: predictable environments, repeatable work, long product cycles, stable demand, and low uncertainty.
+**Where it works:**
+This theory of the business is not wrong. It performs exceptionally well when its assumptions hold—predictable environments, repetitive work, limited uncertainty, and markets where efficiency and consistency create advantage.
 
-### The Agile Product Operating Model , Theory of the Business
+### The Agile Product Operating Model
 
-**Core assumption:** The environment is dynamic enough that you can only succeed through continuous learning, rapid adaptation, and customer proximity.
+**Core assumption:**
+The environment is dynamic enough that organisations can only succeed through continuous learning, rapid adaptation, and proximity to customers.
 
-**Key beliefs:**
+**Underlying beliefs:**
 
-- Demand shifts frequently and unpredictably
-- Work emerges through discovery, not prediction
-- Variability is information, not noise
-- Fast feedback beats detailed planning
-- Performance comes from empowered, cross-functional teams
-- Management's job is to design systems that enable learning, innovation, and rapid adjustment
+- Demand shifts frequently and unpredictably.
+- Work cannot be fully known upfront; it emerges through discovery.
+- Variability provides information rather than noise.
+- Fast feedback is more reliable than detailed prediction.
+- Performance comes from empowered, cross-functional teams.
+- Management’s role is to design systems that enable learning, innovation, and quick adjustment.
 
-**Customer and value assumptions:** The Agile Product Operating Model assumes the customer's needs are diverse, evolving, and situational. Value comes from solving the customer's specific problems, not from generic output. The organization wins by learning faster than competitors, adapting its product, and delivering outcomes that matter to the customer in their current context. Where the Industrial Operating Model optimizes for volume and repeatability, the Agile Product Operating Model optimizes for relevance and impact.
+**Customer and value assumptions:**
+Customer needs are diverse, evolving, and context-dependent. Value is created by solving specific customer problems, not by producing generic output. Organisations win by learning faster than competitors, adapting their products continuously, and delivering outcomes that matter in the customer’s current context. Where the Industrial Operating Model optimises for volume and repeatability, the Agile Product Operating Model optimises for relevance, impact, and adaptability.
 
-**How organizations discover customer value:** Organizations discover what the customer values through direct observation, rapid experimentation, usage data, and continuous engagement with real customers. In dynamic markets, this discovery is ongoing, not episodic.
+**How organisations discover value:**
+Customer value is discovered through direct observation, rapid experimentation, real usage data, and continuous engagement with real users. In dynamic markets, discovery is an ongoing activity rather than an occasional research exercise.
 
-**The model in practice:** The Agile Product Operating Model is organized around continuous value delivery, empiricism, and outcome-based measurement. It structures persistent cross-functional teams around products or value streams. Decision-making authority is distributed to those closest to the work. Success is measured by outcomes and customer impact, not outputs and activity. The model relies on transparency, inspection, and adaptation, the three pillars of empirical process control, supported by fast feedback loops and technical excellence.
+**How the model operates:**
+The Agile Product Operating Model aligns with empiricism and continuous value delivery. It organises persistent cross-functional teams around products or value streams, decentralises decision-making to those closest to the work, and measures success through outcomes and customer impact. The model depends on transparency, inspection, and adaptation, supported by short feedback loops, modern engineering practices, and a commitment to technical excellence.
 
-This theory of the business succeeds when uncertainty is high, customer needs evolve rapidly, and competitive advantage comes from adaptation speed rather than operational efficiency.
+**Where it works:**
+This theory of the business succeeds when uncertainty is high, customer needs evolve rapidly, and competitive advantage comes from learning speed, responsiveness, and continuous alignment between the product and the market.
 
 ### Why This Distinction Matters
 
