@@ -1,8 +1,8 @@
 ---
 title: Why the Industrial Operating Model Fails in Dynamic Markets
-short_title: Industrial vs Product Operating Models
+short_title: Industrial vs Agile Product Operating Models
 description: Explains why traditional industrial management models fail in fast-changing markets and how product-focused, adaptive structures enable better value delivery.
-tldr: The Industrial Operating Model's theory of the business—success through predictability and control—fails in dynamic markets where uncertainty dominates. Organizations clinging to this model generate waste through obsolete planning, delayed decisions, and output-focused metrics that ignore value. Success requires changing your theory of the business to the Product Operating Model with persistent cross-functional teams, distributed decision authority, outcome-based measurement, and continuous operating-model hygiene that pairs systematic abandonment with purposeful innovation. Without redefining management's role, organizations default to Industrial behaviors regardless of Agile intentions.
+tldr: The Industrial Operating Model's theory of the business, success through predictability and control, fails in dynamic markets where uncertainty dominates. Organizations clinging to this model generate waste through obsolete planning, delayed decisions, and output-focused metrics that ignore value. Success requires changing your theory of the business to the Agile Product Operating Model with persistent cross-functional teams, distributed decision authority, outcome-based measurement, and continuous operating-model hygiene that pairs systematic abandonment with purposeful innovation. Without redefining management's role, organizations default to Industrial behaviors regardless of Agile intentions.
 date: 2025-11-28
 lastmod: 2025-11-28
 weight: 1000
@@ -28,13 +28,13 @@ ResourceId: 7nXTKmU_F04
 ResourceType: blog
 ---
 
-Most organisations today operate under an Industrial Operating Model while competing in dynamic markets. This fundamental mismatch creates enormous waste, missed opportunities, and frustrated teams. Understanding why this model fails, and what must replace it, is essential for any organisation seeking to deliver value effectively in the 21st century.
+Most organisations today operate under an Industrial Operating Model (IOM) while competing in dynamic markets. This fundamental mismatch creates enormous waste, missed opportunities, and frustrated teams. Understanding why this model fails, and what must replace it, is essential for any organisation seeking to deliver value effectively in the 21st century and beyond.
 
 ## Defining the Two Operating Models
 
 Before we explore why organisations struggle, we must clearly define the two operating models at the heart of this discussion, and more importantly, understand the **theory of the business** that underlies each one.
 
-Peter Drucker taught us that every organization operates on a theory of the business: a set of assumptions about the environment, the organization's mission, and what it must do to succeed. He also insisted we answer two fundamental questions: **Who is the customer, and what does the customer value?** Without explicit answers, "value delivery" becomes an empty phrase.
+Every organization operates on a theory of the business [^Drucker-TOB]: a set of assumptions about the environment, the organization's mission, and what it must do to succeed. To get to the theory of our business we need to ask two fundamental questions: **Who is the customer, and what does the customer value?** Without explicit answers, "value delivery" becomes an empty phrase.
 
 Each operating model embodies a fundamentally different theory of the business and makes fundamentally different assumptions about the customer and what they value.
 
@@ -57,7 +57,7 @@ Each operating model embodies a fundamentally different theory of the business a
 
 This theory of the business is not wrong, it succeeds brilliantly when its assumptions match reality: predictable environments, repeatable work, long product cycles, stable demand, and low uncertainty.
 
-### The Product Operating Model , Theory of the Business
+### The Agile Product Operating Model , Theory of the Business
 
 **Core assumption:** The environment is dynamic enough that you can only succeed through continuous learning, rapid adaptation, and customer proximity.
 
@@ -70,17 +70,17 @@ This theory of the business is not wrong, it succeeds brilliantly when its assum
 - Performance comes from empowered, cross-functional teams
 - Management's job is to design systems that enable learning, innovation, and rapid adjustment
 
-**Customer and value assumptions:** The Product Operating Model assumes the customer's needs are diverse, evolving, and situational. Value comes from solving the customer's specific problems, not from generic output. The organization wins by learning faster than competitors, adapting its product, and delivering outcomes that matter to the customer in their current context. Where the Industrial Operating Model optimizes for volume and repeatability, the Product Operating Model optimizes for relevance and impact.
+**Customer and value assumptions:** The Agile Product Operating Model assumes the customer's needs are diverse, evolving, and situational. Value comes from solving the customer's specific problems, not from generic output. The organization wins by learning faster than competitors, adapting its product, and delivering outcomes that matter to the customer in their current context. Where the Industrial Operating Model optimizes for volume and repeatability, the Agile Product Operating Model optimizes for relevance and impact.
 
 **How organizations discover customer value:** Organizations discover what the customer values through direct observation, rapid experimentation, usage data, and continuous engagement with real customers. In dynamic markets, this discovery is ongoing, not episodic.
 
-**The model in practice:** The Product Operating Model is organized around continuous value delivery, empiricism, and outcome-based measurement. It structures persistent cross-functional teams around products or value streams. Decision-making authority is distributed to those closest to the work. Success is measured by outcomes and customer impact, not outputs and activity. The model relies on transparency, inspection, and adaptation, the three pillars of empirical process control, supported by fast feedback loops and technical excellence.
+**The model in practice:** The Agile Product Operating Model is organized around continuous value delivery, empiricism, and outcome-based measurement. It structures persistent cross-functional teams around products or value streams. Decision-making authority is distributed to those closest to the work. Success is measured by outcomes and customer impact, not outputs and activity. The model relies on transparency, inspection, and adaptation, the three pillars of empirical process control, supported by fast feedback loops and technical excellence.
 
 This theory of the business succeeds when uncertainty is high, customer needs evolve rapidly, and competitive advantage comes from adaptation speed rather than operational efficiency.
 
 ### Why This Distinction Matters
 
-These are not simply different management styles, nor is this a story of "modern vs outdated" or "dynamic vs stagnant." The contrast is contextual, not moral. The Industrial Operating Model fails only when its assumptions stop matching reality—when the environment becomes too uncertain, too complex, and too fast-moving for prediction and control to work effectively.
+These are not simply different management styles, nor is this a story of "modern vs outdated" or "dynamic vs stagnant." The contrast is contextual, not moral. The Industrial Operating Model fails only when its assumptions stop matching reality, when the environment becomes too uncertain, too complex, and too fast-moving for prediction and control to work effectively.
 
 Understanding the theory behind each model clarifies why transition is so difficult: you're not just changing processes, you're challenging fundamental assumptions about how success happens.
 
@@ -112,11 +112,11 @@ The environment has shifted, but the Industrial Operating Model's theory of the 
 
 **Market disconnect waste** grows as organisations become insulated from customer reality. Layers of management separate decision-makers from actual users. Success is measured by delivery of planned outputs, regardless of whether those outputs create value. Teams ship what was specified months ago, not what customers need today.
 
-The Industrial Operating Model operates at fundamentally the wrong speed for dynamic markets. While the market iterates daily, the organisation plans quarterly or annually. While customer needs evolve continuously, the organisation delivers in large batches after months of work. This speed mismatch is not a minor friction—it is a structural incompatibility rooted in an obsolete theory of the business that no longer reflects how markets actually behave.
+The Industrial Operating Model operates at fundamentally the wrong speed for dynamic markets. While the market iterates daily, the organisation plans quarterly or annually. While customer needs evolve continuously, the organisation delivers in large batches after months of work. This speed mismatch is not a minor friction, it is a structural incompatibility rooted in an obsolete theory of the business that no longer reflects how markets actually behave.
 
-## The Product Operating Model Enables Success in Dynamic Markets
+## The Agile Product Operating Model Enables Success in Dynamic Markets
 
-The Product Operating Model structures organisations for speed, learning, and adaptation. Its theory of the business, that success comes through continuous learning and rapid adaptation in complex, changing environments, matches the reality most organizations face today.
+The Agile Product Operating Model structures organisations for speed, learning, and adaptation. Its theory of the business, that success comes through continuous learning and rapid adaptation in complex, changing environments, matches the reality most organizations face today.
 
 At its foundation lies **empiricism**: the practice of making decisions based on observation and experiment rather than prediction and assumption. Scrum, as a social technology, makes work transparent, creates regular inspection points, and enables rapid adaptation based on what is learned. Kanban, as an observability pattern, makes workflow visible and measures actual delivery performance, enabling teams to see and improve their systems.
 
@@ -128,13 +128,13 @@ At its foundation lies **empiricism**: the practice of making decisions based on
 
 **Technical excellence** is mandatory, not aspirational. Teams must practice Continuous Integration and Continuous Delivery as Kent Beck and Jez Humble have taught us. Automated testing provides the safety to move quickly. Infrastructure as Code enables rapid provisioning and recovery. Monitoring and observability reveal how systems behave in production. These practices are not tools or processes, they embody a DevOps ethos that breaks down barriers between building and operating software.
 
-The Product Operating Model matches the speed and uncertainty of dynamic markets. It structures organisations to learn and adapt continuously rather than predict and control.
+The Agile Product Operating Model matches the speed and uncertainty of dynamic markets. It structures organisations to learn and adapt continuously rather than predict and control.
 
 ## Operating-Model Hygiene: Why Organizations Regress
 
 Many organisations transition away from hierarchical structures only to drift back over time. Start-ups begin as nimble network organisations with direct communication and fast decisions. As they grow, departments emerge. Managers accumulate authority. Planning processes formalize. Approval chains lengthen. Within a few years, the organisation has recreated the Industrial Operating Model.
 
-This regression is predictable. The Industrial Operating Model's theory of the business—control through prediction and standardization—is deeply familiar. Most leaders experienced it throughout their careers. Under pressure, people default to known patterns. When faced with coordination challenges, the instinct is to add management layers. When facing uncertainty, the reflex is to demand more detailed plans. The old theory reasserts itself because it feels safer, even when it has become obsolete.
+This regression is predictable. The Industrial Operating Model's theory of the business, control through prediction and standardization, is deeply familiar. Most leaders experienced it throughout their careers. Under pressure, people default to known patterns. When faced with coordination challenges, the instinct is to add management layers. When facing uncertainty, the reflex is to demand more detailed plans. The old theory reasserts itself because it feels safer, even when it has become obsolete.
 
 Organizations build up what we might call **operating-model cruft**, accumulated structures, processes, and behaviors that no longer serve the current context but resist removal. A new approval process gets added to prevent a single failure. It never gets removed when the risk passes. A management layer forms to coordinate between teams. It persists even after teams become more self-sufficient. Individual performance reviews drive behaviors that undermine team collaboration, but changing them feels too risky.
 
@@ -142,19 +142,19 @@ Without deliberate **operating-model hygiene**, the continuous practice of exami
 
 Operating-model hygiene requires **refactoring organisational structures** just as we refactor code. Remove processes that no longer serve their purpose. Eliminate management layers that have become bottlenecks. Disband cross-functional coordinating bodies that exist only because teams lack necessary skills. Challenge individual metrics that undermine collaboration.
 
-But Drucker taught that abandonment alone is insufficient—it creates capacity, not capability. Organizations must pair **systematic abandonment** with **purposeful innovation**: the disciplined creation of new practices that support the current mission. This means building technical capabilities like Continuous Delivery and automated testing, establishing outcome-focused management practices, creating persistent cross-functional team structures, developing routines for empirical discovery and rapid experimentation, and investing in skills that enable adaptability. Without purposeful innovation to replace what is removed, organizations drift.
+But Drucker taught that abandonment alone is insufficient, it creates capacity, not capability. Organizations must pair **systematic abandonment** with **purposeful innovation**: the disciplined creation of new practices that support the current mission. This means building technical capabilities like Continuous Delivery and automated testing, establishing outcome-focused management practices, creating persistent cross-functional team structures, developing routines for empirical discovery and rapid experimentation, and investing in skills that enable adaptability. Without purposeful innovation to replace what is removed, organizations drift.
 
 This work never ends. Organizations exist in constant tension between forces that drive toward hierarchy and control and forces that enable distributed decision-making and adaptation. Effective operating models depend on continuously pruning what no longer works while intentionally building what the future requires. Without this dual discipline, the Industrial Operating Model reasserts itself.
 
 ## Making the Transition
 
-Transitioning from Industrial to Product Operating Model is not a simple process change. It requires fundamentally changing your organization's theory of the business, the core assumptions about how success happens. This demands shifts in structure, culture, measurement, and leadership that reflect the new theory.
+Transitioning from Industrial to Agile Product Operating Model is not a simple process change. It requires fundamentally changing your organization's theory of the business, the core assumptions about how success happens. This demands shifts in structure, culture, measurement, and leadership that reflect the new theory.
 
-**Structure must change** to persistent, cross-functional teams aligned to value streams or products. Functional departments become communities of practice rather than organisational silos. Project teams and resource pools must go, they are incompatible with the Product Operating Model.
+**Structure must change** to persistent, cross-functional teams aligned to value streams or products. Functional departments become communities of practice rather than organisational silos. Project teams and resource pools must go, they are incompatible with the Agile Product Operating Model.
 
 **Measurement must change** from output to outcome. Evidence-Based Management provides the framework: Current Value, Unrealized Value, Time to Market, and Ability to Innovate. These measures focus on value delivery and system capability, not individual productivity or task completion. Velocity, utilization rates, and other behaviors-distorting metrics must be abandoned.
 
-**Leadership must change** from command-and-control to system stewardship. Drucker defined management through five responsibilities: setting objectives, organizing work, motivating people, measuring performance, and developing people. Under the Industrial Operating Model, managers set objectives through prediction, organize work through functional silos, motivate through supervision and utilization targets, measure output and efficiency, and develop narrow specialization. The Product Operating Model requires different interpretations: managers define clear goals and constraints rather than detailed plans (Product Goals, Sprint Goals), design persistent cross-functional teams as the primary organizational structure, create conditions for mastery and autonomy by removing impediments, measure outcomes and system capability through Evidence-Based Management, and build broad adaptable capability through continuous development. Without explicitly redefining the manager's role, organizations default to Industrial-era behaviors regardless of their stated intentions.
+**Leadership must change** from command-and-control to system stewardship. Drucker defined management through five responsibilities: setting objectives, organizing work, motivating people, measuring performance, and developing people. Under the Industrial Operating Model, managers set objectives through prediction, organize work through functional silos, motivate through supervision and utilization targets, measure output and efficiency, and develop narrow specialization. The Agile Product Operating Model requires different interpretations: managers define clear goals and constraints rather than detailed plans (Product Goals, Sprint Goals), design persistent cross-functional teams as the primary organizational structure, create conditions for mastery and autonomy by removing impediments, measure outcomes and system capability through Evidence-Based Management, and build broad adaptable capability through continuous development. Without explicitly redefining the manager's role, organizations default to Industrial-era behaviors regardless of their stated intentions.
 
 **Culture must change** to support transparency, experimentation, and psychological safety. Teams must be able to surface problems without fear of blame. Failure in controlled experiments must be recognized as learning, not punished as incompetence. This cultural shift takes time and consistent leadership behaviors.
 
@@ -170,9 +170,9 @@ If your organisation competes in dynamic markets, and most do, the Industrial Op
 
 The question is not whether to change, but how quickly you can change.
 
-Start by acknowledging the mismatch. Your operating model embodies a theory of the business designed for different conditions. It is not bad—it is unfit for current context. The assumptions embedded in your structures, processes, and leadership behaviors were built for a world that no longer exists.
+Start by acknowledging the mismatch. Your operating model embodies a theory of the business designed for different conditions. It is not bad, it is unfit for current context. The assumptions embedded in your structures, processes, and leadership behaviors were built for a world that no longer exists.
 
-Commit to operating-model redesign built on the Product Operating Model. Structure persistent, cross-functional teams around value streams. Distribute decision-making authority to those teams. Measure outcomes and system capability, not outputs and individual activity. Develop leaders who design systems rather than control work.
+Commit to operating-model redesign built on the Agile Product Operating Model. Structure persistent, cross-functional teams around value streams. Distribute decision-making authority to those teams. Measure outcomes and system capability, not outputs and individual activity. Develop leaders who design systems rather than control work.
 
 Implement continuous operating-model hygiene. Regularly examine structures, processes, and behaviors. Remove what no longer serves. Challenge what creates dependencies or delays feedback. Resist the gravitational pull toward hierarchy and control.
 
@@ -188,7 +188,7 @@ The choice is yours: maintain an operating model built on assumptions about mark
 
 - The Practice of Management by Peter Drucker (1954) - introduces Management by Objectives and the theory of the business
 - Management: Tasks, Responsibilities, Practices by Peter Drucker (1973) - comprehensive framework for management functions and organizational design
-- The Essential Drucker by Peter Drucker (2001) - collection including "The Theory of the Business" essay
+- [^Drucker-TOB] The Essential Drucker by Peter Drucker (2001) - collection including "The Theory of the Business" essay
 - High Output Management by Andy Grove (1983) - on system thinking and management leverage
 - The Principles of Scientific Management by Frederick Winslow Taylor (1911) - foundational work on industrial management
 - Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization by Niels Pflaeging and Pia Steinmann
