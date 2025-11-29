@@ -48,8 +48,8 @@ resourceTypes: blog
 AudioNative: false
 ResourceId: 7nXTKmU_F04
 ResourceType: blog
-
 ---
+
 Most organisations today operate under an Industrial Operating Model (IOM) while competing in dynamic markets. This fundamental mismatch creates enormous waste, missed opportunities, and frustrated teams. Understanding why this model fails, and what must replace it, is essential for any organisation seeking to deliver value effectively in the 21st century and beyond.
 
 ## Defining the Two Operating Models
@@ -59,6 +59,8 @@ Before we explore why organisations struggle, we must clearly define the two ope
 Every organization operates on a theory of the business [^Drucker-TOB]: a set of assumptions about the environment, the organization's mission, and what it must do to succeed. To get to the theory of our business we need to ask two fundamental questions: **Who is the customer, and what does the customer value?** Without explicit answers, "value delivery" becomes an empty phrase.
 
 Each operating model embodies a fundamentally different theory of the business and makes fundamentally different assumptions about the customer and what they value.
+
+Im going to use "Industrial Operating Model (IOM)" to refer to what most companies do, and "Agile Product Operating Model (APOM)" to refer to what a few companies do.
 
 ### The Industrial Operating Model
 
@@ -217,15 +219,15 @@ The choice is yours: maintain an operating model built on assumptions about mark
 
 **References:**
 
-- The Practice of Management by Peter Drucker (1954) - introduces Management by Objectives and the theory of the business
-- Management: Tasks, Responsibilities, Practices by Peter Drucker (1973) - comprehensive framework for management functions and organizational design
-- [^Drucker-TOB] The Essential Drucker by Peter Drucker (2001) - collection including "The Theory of the Business" essay
-- High Output Management by Andy Grove (1983) - on system thinking and management leverage
-- The Principles of Scientific Management by Frederick Winslow Taylor (1911) - foundational work on industrial management
-- Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization by Niels Pflaeging and Pia Steinmann
-- Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness by Frédéric Laloux and Ken Wilber
-- This Is Beyond Budgeting: A Guide to More Adaptive and Human Organizations by Bjarte Bogsnes
-- The Scrum Guide by Ken Schwaber and Jeff Sutherland
-- Continuous Delivery by Jez Humble and David Farley
-- The New New Product Development Game by Hirotaka Takeuchi and Ikujiro Nonaka
-- Mary Parker Follett's work on organisational democracy and distributed authority
+he Practice of Management by Peter Drucker (1954) - introduces Management by Objectives and the theory of the business
+Management: Tasks, Responsibilities, Practices by Peter Drucker (1973) - comprehensive framework for management functions and organizational design
+[^Drucker-TOB] The Essential Drucker by Peter Drucker (2001) - collection including "The Theory of the Business" essay
+High Output Management by Andy Grove (1983) - on system thinking and management leverage
+The Principles of Scientific Management by Frederick Winslow Taylor (1911) - foundational work on industrial management
+Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization by Niels Pflaeging and Pia Steinmann
+Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness by Frédéric Laloux and Ken Wilber
+This Is Beyond Budgeting: A Guide to More Adaptive and Human Organizations by Bjarte Bogsnes
+The Scrum Guide by Ken Schwaber and Jeff Sutherland
+Continuous Delivery by Jez Humble and David Farley
+The New New Product Development Game by Hirotaka Takeuchi and Ikujiro Nonaka
+Mary Parker Follett's work on organisational democracy and distributed authority
