@@ -18,6 +18,8 @@ slug: why-most-companies-operating-models-fail-in-dynamic-markets
 aliases:
   - /resources/7nXTKmU_F04
   - /resources/blog/why-the-industrial-operating-model-fails-in-dynamic-markets
+aliasesArchive:
+  - /resources/blog/why-the-industrial-operating-model-fails-in-dynamic-markets
 layout: blog
 concepts:
   - Philosophy
@@ -49,8 +51,8 @@ resourceTypes: blog
 AudioNative: false
 ResourceId: 7nXTKmU_F04
 ResourceType: blog
----
 
+---
 Most organisations today operate under an X[Industrial Operating Model (IOM)]({{< ref "/tags/industrial-operating-model" >}}) while competing in dynamic markets. This fundamental mismatch creates enormous waste, missed opportunities, and frustrated teams. Understanding why this model fails, and what must replace it, is essential for any organisation seeking to deliver value effectively in the 21st century and beyond.
 
 ## Defining the Two Operating Models
