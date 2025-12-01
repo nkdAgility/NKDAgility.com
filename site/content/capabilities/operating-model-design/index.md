@@ -1,8 +1,8 @@
 ---
-title: Agile Product Operating Model Design
+title: Operating Model Design
 short_title: Operating Model Design
-description: Strategic consultation on transitioning from industrial-era structures to operating models fit for dynamic markets. Creates coherent systems of work built on empiricism, decentralization, and continuous adaptation, enabling predictable flow and confident decision-making.
-tldr: Most organisations operate under industrial-era assumptions while competing in dynamic markets. This fundamental mismatch creates waste, missed opportunities, and frustrated teams. Operating model design helps you transition to an Agile Product Operating Model grounded in empiricism, fast feedback, and cross-functional teams, matching the speed and uncertainty of modern markets.
+description: Strategic consultation on transitioning from industrial-era structures to operating models fit for dynamic markets. Creates coherent systems of work built on learning from real evidence, distributed decision-making, and continuous adaptation, enabling predictable flow and confident decision-making.
+tldr: Most organisations operate under industrial-era assumptions while competing in dynamic markets. This fundamental mismatch creates waste, missed opportunities, and frustrated teams. Operating model design helps you transition to an operating model grounded in learning from reality, fast feedback, and teams with complete capability, matching the speed and uncertainty of modern markets.
 date: 2025-11-24
 weight: 150
 sitemap:
@@ -19,33 +19,33 @@ type: capabilities
 sections:
   - type: headline
     headline:
-      title: Agile Product Operating Model Design
+      title: Operating Model Design
       subtitle: From Industrial-Era Control to Market-Speed Adaptation
       content: |
-        Your organisation operates under industrial-era assumptions while competing in dynamic markets. Predictive planning in unpredictable environments. Hierarchical control where learning speed matters. Functional silos when cross-functional flow wins.
+        Your organisation operates under industrial-era assumptions while competing in dynamic markets. Predictive planning in unpredictable environments. Hierarchical control where learning speed matters. Isolated departments when complete teams win.
 
-        You get an Agile Product Operating Model grounded in empiricism, decentralization, and continuous adaptation. Systems of work that match market speed. Clear visibility across discovery, delivery, and operations. Engineering economics you can see and act on. Decisions based on evidence and fast feedback, not prediction and hope.
+        You get an operating model grounded in learning from real evidence, decisions made by those closest to the work, and continuous adaptation. Systems of work that match market speed. Clear visibility across discovery, delivery, and operations. Engineering economics you can see and act on. Decisions based on what actually happens, not what you hoped would happen.
   - type: textNlist
     title: What This Provides
     sideContent: |
-      Strategic consultation on transitioning from Industrial Operating Model assumptions to an Agile Product Operating Model fit for dynamic markets.
+      Strategic consultation on transitioning from Industrial Operating Model assumptions to an operating model fit for dynamic markets.
 
-      Not frameworks imposed from the outside. Your operating model grounded in empiricism, designed for fast feedback, structured around persistent cross-functional teams, and built for continuous operating-model hygiene.
+      Not frameworks imposed from the outside. Your operating model grounded in learning from reality, designed for fast feedback, structured around complete teams, and built for continuous simplification.
 
-      Includes assessment of current theory of the business, model design, practice integration, and ongoing enablement as your context evolves.
+      Includes assessment of core business assumptions, model design, practice integration, and ongoing enablement as your context evolves.
     list:
       - icon: fa-microscope
         content: |
-          **Theory of business assessment** – Examining assumptions about markets, customers, and success. Where industrial-era prediction fails in dynamic environments
+          **Business assumptions assessment** – Examining assumptions about markets, customers, and success. Where industrial-era prediction fails in dynamic environments
       - icon: fa-diagram-project
         content: |
-          **Empirical operating model design** – Systems built on transparency, inspection, and adaptation rather than prediction and control
+          **Evidence-based operating model design** – Systems built on transparency, inspection, and adaptation rather than prediction and control
       - icon: fa-people-group
         content: |
-          **Cross-functional team structure** – Persistent teams with all skills needed to deliver value, eliminating dependencies and handoffs
+          **Complete team structure** – Teams with all skills needed to deliver value, eliminating dependencies and handoffs
       - icon: fa-arrows-rotate
         content: |
-          **Operating-model hygiene** – Continuous examination and removal of structures, processes, and behaviors that no longer serve their purpose
+          **Continuous simplification** – Ongoing removal of structures, processes, and behaviors that no longer serve their purpose
   - type: list
     title: The Fundamental Mismatch
     listType: boxed
@@ -67,40 +67,40 @@ sections:
       - title: Speed mismatch
         icon: fa-gauge-simple-low
         content: |
-          Markets iterate daily. Organisations plan quarterly. Customer needs evolve continuously. Organisations deliver in large batches after months. This structural incompatibility roots in obsolete theory of the business.
+          Markets iterate daily. Organisations plan quarterly. Customer needs evolve continuously. Organisations deliver in large batches after months. This structural incompatibility stems from outdated business assumptions.
   - type: quote
     backgroundColor: primary
     quote: |
       "Martin's depth and breadth of knowledge and experience of the world of Agile/DevOps is incredible. He will switch between hands on development to advanced consulting or training on process, practices and tools to help you in your own DevOps journey. When the going gets tough in challenging situations he is super responsive and goes the extra mile... He is passionate about what he does and is always trying to improve the way we work to build high value products and solutions... Down to earth and straight talking. Highly recommend!"
       - **Nancy Maher | Global Software Lifecycle Management Program Manager | SLB**
   - type: boxesrow
-    title: The Agile Product Operating Model
+    title: The New Operating Model
     boxes:
       - box:
-        title: Empiricism Over Prediction
+        title: Learning Over Prediction
         items:
-          - title: Decisions based on observation and experiment, not assumption
-          - title: Transparency, inspection, and adaptation as operating principles
+          - title: Decisions based on what you observe and test, not assumptions
+          - title: Transparency, regular inspection, and adaptation as operating principles
           - title: Fast feedback loops replace predictive planning
       - box:
-        title: Decentralization Over Control
+        title: Distributed Authority Over Central Control
         items:
-          - title: Authority distributed to where knowledge resides
+          - title: Authority sits with those who have the knowledge
           - title: Teams closest to customers and technology make decisions
-          - title: Fast decisions based on current information, no escalation delays
+          - title: Fast decisions based on current information, no approval delays
       - box:
-        title: Persistent Cross-Functional Teams
+        title: Complete Teams
         items:
           - title: All skills needed to deliver value without dependencies
           - title: Teams own outcomes—customer value and business impact
-          - title: Deep capability and psychological safety built over time
+          - title: Deep capability and trust built over time
   - title: How This Works
     content: |
-      Starts with your context, current operating model, and theory of the business. Examines where industrial-era assumptions create waste. Designs an Agile Product Operating Model grounded in empiricism and built for continuous hygiene. No frameworks imposed from the outside. Timeboxed retainer engagement with full transparency and risk reversal.
+      Starts with your context, current operating model, and core business assumptions. Examines where industrial-era assumptions create waste. Designs an operating model grounded in learning from reality and built for continuous simplification. No frameworks imposed from the outside. Timeboxed retainer engagement with full transparency and risk reversal.
     type: list
     listType: list
     list:
-      - title: Theory of Business Assessment
+      - title: Business Assumptions Assessment
         icon: fa-microscope
         content: |
           Examine core assumptions about markets, customers, and success. Identify where prediction-based structures fail in dynamic environments.
@@ -111,15 +111,15 @@ sections:
       - title: Operating Model Design
         icon: fa-pencil-ruler
         content: |
-          Co-create empirical operating model: persistent cross-functional teams, decentralized decision-making, fast feedback loops, technical excellence.
+          Co-create operating model: complete teams, decisions made by those who know, fast feedback loops, technical excellence.
       - title: Practice Integration
         icon: fa-diagram-project
         content: |
           Scrum as social technology, Kanban as strategy for flow, DevOps as ethos—integrated as coherent enablers of the operating model.
-      - title: Operating-Model Hygiene
+      - title: Continuous Simplification
         icon: fa-broom
         content: |
-          Establish continuous examination and removal of structures, processes, and behaviors that no longer serve their purpose. Prevent regression to industrial-era patterns.
+          Establish ongoing removal of structures, processes, and behaviors that no longer serve their purpose. Prevent drift back to industrial-era patterns.
   - title: Who This Serves
     content: |
       Small organisations need clarity without overhead. Larger organisations need visibility without bureaucracy. This works for both.
@@ -142,22 +142,22 @@ sections:
         items:
           - title: Predictive planning and hierarchical control
             icon: fa-face-persevering
-          - title: Functional silos and dependencies
+          - title: Isolated departments and dependencies
             icon: fa-face-frown
           - title: Slow feedback and delayed decisions
             icon: fa-face-tired
           - title: Output-focused metrics and individual utilization
             icon: fa-face-anxious
       - box:
-        title: Agile Product Operating Model
+        title: New Operating Model
         items:
-          - title: Empirical adaptation and decentralized decisions
+          - title: Learning-based adaptation and distributed decisions
             icon: fa-square-check
-          - title: Cross-functional teams owning outcomes
+          - title: Complete teams owning outcomes
             icon: fa-square-check
           - title: Fast feedback loops and evidence-based action
             icon: fa-square-check
-          - title: Outcome metrics and system capability
+          - title: Outcome metrics and organizational capability
             icon: fa-square-check
   - type: list
     title: Real-World Impact
@@ -173,7 +173,7 @@ sections:
       - title: Deep Understanding of Operating Model Theory
         icon: fa-book-open
         content: |
-          Grounded in Drucker's theory of the business, empiricism, and organizational design principles. Not framework evangelism.
+          Grounded in organizational design principles and how businesses adapt to change. Not framework evangelism.
       - title: Multi-Method Integration
         icon: fa-layer-group
         content: |
@@ -182,14 +182,14 @@ sections:
         icon: fa-code
         content: |
           Operating model design rooted in engineering practices, technical depth, and delivery reality. Not process theory disconnected from execution.
-      - title: Continuous Operating-Model Hygiene
+      - title: Continuous Simplification
         icon: fa-broom
         content: |
-          Designed for ongoing examination and removal of obsolete structures. Prevents regression to industrial-era patterns as organizations grow.
+          Designed for ongoing removal of obsolete structures. Prevents drift back to industrial-era patterns as organizations grow.
       - title: Engineering Economics and Evidence
         icon: fa-chart-line
         content: |
-          Visibility through flow metrics and Evidence-Based Management. DORA and EBM as industry context, not dogma.
+          Visibility through delivery metrics and outcome measurement. Industry frameworks as context, not dogma.
       - title: Timeboxed Retainer Model
         icon: fa-handshake
         content: |
@@ -197,7 +197,7 @@ sections:
   - type: outcomehero
     backgroundColor: primary
     cta:
-      content: Ready to Transition to an Agile Product Operating Model? **Let's Talk**
+      content: Ready to Transition to a Modern Operating Model? **Let's Talk**
       button:
         text: Book a Discovery Call
         url: /company/book-online
@@ -205,8 +205,8 @@ sections:
 card:
   button:
     content: Design Your Operating Model
-  title: Agile Product Operating Model Design
-  content: Transition from industrial-era structures to operating models fit for dynamic markets. Built on empiricism, decentralization, and continuous adaptation.
+  title: Operating Model Design
+  content: Transition from industrial-era structures to operating models fit for dynamic markets. Built on learning from reality, distributed authority, and continuous adaptation.
 Watermarks:
   description: 2025-11-24T17:39:41Z
   tldr: 2025-11-24T17:39:44Z
