@@ -2573,5 +2573,25 @@
     "reasoning": "The course is focused on DevOps, CI/CD, and Azure tooling for general software delivery, not on AI Product Operating Models. There are no direct mentions of AI, nor discussion of AI-specific governance, model lifecycle, or product management practices unique to AI. Audience and themes align with general DevOps professionals, not AI product strategists. No outdated or contradictory information is present, so no penalties applied. Any faint relevance would be by inference (e.g., continuous delivery could be relevant to AI ops), but the scope is thoroughly generic.",
     "reasoning_summary": "Content covers DevOps CI/CD practices using Azure for general software, not AI product operating models. No AI themes, governance, or lifecycle topics present. Fully outside scope except generically. Does not fit the assigned category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "cdads",
+    "itemId": "cdads",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:28:47",
+    "ai_confidence": 6.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.5,
+    "ai_intent": 0.3,
+    "ai_audience": 2.7,
+    "ai_signal": 1.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on DevOps, Continuous Integration/Delivery, and Agile practices using Azure DevOps tools. There is no mention of the Industrial Operating Model or any of its defining characteristics (hierarchy, standardization, centralized control, etc.). The content's audience, intent, and depth all revolve around modern adaptive practices, not IOM. There is a minimal chance that introducing scale or planning could touch on organizational models, but nothing in the description or outcomes signals a discussion of IOM mechanics or context.",
+    "reasoning_summary": "Content focuses on DevOps and agile delivery using Azure tools, with no substantive reference to the Industrial Operating Model. Intent, alignment, and discussion do not match the category—fit is essentially absent.",
+    "level": "Ignored"
   }
 }

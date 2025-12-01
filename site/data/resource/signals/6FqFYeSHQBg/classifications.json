@@ -3448,5 +3448,25 @@
     "reasoning": "The content provides a case study on how Microsoft improved Windows OS delivery using staged deployments and feedback loops. There is no explicit mention of AI products, AI-specific operating models, or their unique challenges. Key AI product concerns (e.g., model lifecycle, data governance, AI ethics) are entirely absent. While the workflow improvements (ring-based deployments, telemetry, gradual rollout) share a surface similarity with practices often found in AI product operating models, this is a general product/software delivery story, not specific to AI. Intent and audience are also not focused on organizational structures for AI productization.",
     "reasoning_summary": "This content discusses general product/software deployment improvements; it does not address AI or AI-specific operating models. It lacks alignment with the purpose and specifics of the AI Product Operating Model category. Fit is minimal.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "6FqFYeSHQBg",
+    "itemId": "6FqFYeSHQBg",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:38",
+    "ai_confidence": 18.87,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.3,
+    "ai_intent": 2.0,
+    "ai_audience": 6.2,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content briefly references 'the old way' of infrequent, monolithic Windows OS releases as 'slow, brittle, and disconnected,' but does not name or substantially discuss the Industrial Operating Model, its mechanics, or assumptions. There is some implicit context of how centralized, infrequent, waterfall-style deployment was replaced by adaptive, staged rollouts, but the main focus is on the modern adaptive approach with ring-based deployments and telemetry. Depth, alignment, and intent are low for the IOM category. There is minimal direct explanation of how or why the previous model worked, nor is there a supportive or descriptive framing of the Industrial Operating Model itself; it's only contrasted in passing. Most weight is on the adaptive, not industrial, mechanics.",
+    "reasoning_summary": "Mostly describes adaptive deployment improvements, with minor indirect references to old monolithic practices. Does not meaningfully discuss what IOM is or where it fits. Fit to the category is minimal and mostly implicit.",
+    "level": "Ignored"
   }
 }

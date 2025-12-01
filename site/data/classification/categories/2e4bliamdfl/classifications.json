@@ -3327,5 +3327,25 @@
     "reasoning": "The content exclusively discusses DevOps philosophy related to software delivery, collaboration, automation, and continuous improvement. There is no mention of AI, product operating models for AI, or any practices specific to the lifecycle or governance of AI products. The themes remain centered on traditional DevOps—not on MLOps, data governance, or AI operationalization. The audience, while adjacent (DevOps practitioners may be involved in AI product teams), is not targeted specifically or directly at those implementing AI Product Operating Models. There are no outdated practices or contradicting tones to merit penalties. The scores are low for all dimensions except audience and signal, which reflect moderate potential overlap for broader modern operating model practitioners.",
     "reasoning_summary": "This content focuses only on general DevOps philosophy for software delivery. There is no mention or discussion of AI, AI operating models, or any domain-specific practices. It does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "2e4bliamdfl",
+    "itemId": "2e4bliamdfl",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:22",
+    "ai_confidence": 7.25,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.5,
+    "ai_intent": 0.3,
+    "ai_audience": 3.0,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is entirely focused on explaining DevOps philosophy, principles, and practices. There are no direct or indirect references to the Industrial Operating Model, its assumptions, mechanics, theoretical underpinnings, or comparative discussion. While it briefly mentions concepts like silos and automation, these are positioned strictly in the context of DevOps, with no framing around hierarchical, stage-gated, or efficiency-focused organization. The intent, scope, and detail are all aligned with modern delivery and adaptive models—not IOM. All dimensions score near-minimal except 'audience', since technical/organizational audiences have slight overlap.",
+    "reasoning_summary": "Content is about DevOps philosophy and contains no substantive reference to the Industrial Operating Model or its mechanisms. It does not help readers understand what IOM is or where it succeeds. Total category fit is extremely low.",
+    "level": "Ignored"
   }
 }

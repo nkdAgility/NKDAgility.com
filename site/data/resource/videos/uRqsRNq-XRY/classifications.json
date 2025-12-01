@@ -2620,5 +2620,25 @@
     "reasoning": "The content focuses solely on cultural and process issues in Agile environments, such as judgment, goal setting, and team morale—none of which are discussed in AI context or linked to organizational operating models for AI products. There are no explicit or implicit references to AI, AI Product Lifecycle, model governance, MLOps, or any of the other distinguishing topics outlined for the AI Product Operating Model category. The primary audience appears to be Agile practitioners or coaches in software development generally, not those specifically concerned with the operationalization of AI product development. Thus, confidence in this being a match is extremely low, limited to only the most remote, conceptual overlap if one were to stretch the idea of team culture's general relevance.",
     "reasoning_summary": "This is Agile cultural/process content with no tie to AI or AI Product Operating Models. No relevant themes, intent, or framing connect it to the category; fit is extremely poor and outside defined scope.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "uRqsRNq-XRY",
+    "itemId": "uRqsRNq-XRY",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:26",
+    "ai_confidence": 7.75,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.5,
+    "ai_audience": 2.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is fully focused on challenges and practices within Agile teams, especially around morale, metrics, and judgment. There is no substantive mention or exploration of the Industrial Operating Model (IOM), its features, assumptions, or environments. Hierarchical structures, centralization, Taylorism, or Scientific Management are not discussed. While output metrics and rigid rules are mentioned, they are contextualized within Agile, not IOM. The audience is Agile practitioners, not those seeking to understand IOM, and the signal is only tangentially relevant since some issues (metrics, rigid rules) can be seen in IOM without being explained. No penalties apply. Confidence is extremely low.",
+    "reasoning_summary": "Content addresses Agile team culture and metrics but lacks substantial mention or explanation of the Industrial Operating Model. No core IOM concepts, history, or mechanics discussed. Fit with the category is very weak and only faintly tangential.",
+    "level": "Ignored"
   }
 }

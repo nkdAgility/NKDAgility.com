@@ -2590,5 +2590,25 @@
     "reasoning": "The content centers entirely on agile software project management with Azure Boards. It focuses on backlog management, sprint planning, team collaboration, and configuring Azure Boards—critical aspects for general product/project management in software and agile contexts, but totally decoupled from AI product requirements, model lifecycle, MLOps, ethical/AI governance, or any of the differentiating topics of the AI Product Operating Model. There are no direct or indirect mentions of AI, ML, model management, AI team roles, or unique organizational adjustments for AI delivery. The audience is software/agile professionals, not AI operating model stakeholders. Thus, it is fundamentally misaligned for the intended category.",
     "reasoning_summary": "This training is focused on agile project management with Azure Boards and contains no references to AI, model governance, or AI-specific product operating models. It fails to address or align with the scope of the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "A-MPAB",
+    "itemId": "A-MPAB",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:28:36",
+    "ai_confidence": 7.07,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.3,
+    "ai_audience": 1.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on Agile project management with Azure Boards, covering scrum, backlog, and sprints. There is no direct mention of Industrial Operating Model concepts (hierarchical structure, standardized processes, command-and-control, etc.), nor does it analyze or describe IOM mechanics, history, or its context. The focus is on team-level Agile practices and tools, which explicitly fall outside the inclusion criteria for IOM. Audiences are practitioners seeking hands-on Agile skills, not those concerned with operating model structures. No penalties were applied since the content is current and neutral.",
+    "reasoning_summary": "Content exclusively covers Agile project/team practices with Azure Boards and does not discuss IOM concepts, history, or domains. No substantive fit for the Industrial Operating Model category.",
+    "level": "Ignored"
   }
 }

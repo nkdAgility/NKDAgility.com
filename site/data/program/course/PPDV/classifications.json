@@ -2594,5 +2594,25 @@
     "reasoning": "The course focuses on general product discovery and validation techniques, including experimentation and hypothesis-driven development, but makes no explicit or implicit references to AI, AI product development, or organizational operating models unique to AI. Key topics such as MLOps, model governance, AI roles, or AI-specific lifecycle are absent. The audience and skills are relevant for product teams broadly—not specifically those working with AI products.",
     "reasoning_summary": "Content covers generic product discovery skills without mention of AI or operating models. It does not align with the AI Product Operating Model category or its unique requirements. Fit is weak and tangential at best.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "PPDV",
+    "itemId": "PPDV",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:28:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 1.8,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The course content is focused on product discovery, experimentation, and validation, aligning with Agile and evidence-based methods rather than the Industrial Operating Model. There is no direct mention or substantive discussion of IOM structures, assumptions, or mechanics. The course audience (Product Owners, Managers, Teams) and outcomes are aimed at adaptive, learning-oriented environments—not the stable, hierarchical settings characteristic of IOM. The signal-to-noise ratio is low for IOM: content is relevant to modern product development, but almost entirely off-topic for IOM understanding or application. There are no outdated concepts or penalties necessary—the misalignment is thematic, not temporal.",
+    "reasoning_summary": "Content focuses on adaptive, hypothesis-driven product discovery skills for Agile practitioners. No substantive engagement with the Industrial Operating Model’s assumptions, mechanics, or context; fit for the category is negligible and almost entirely absent.",
+    "level": "Ignored"
   }
 }

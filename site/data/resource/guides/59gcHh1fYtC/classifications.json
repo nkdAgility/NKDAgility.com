@@ -2627,5 +2627,25 @@
     "reasoning": "The content is a comprehensive explanation of the Scrum framework and its application in general product development and adaptive, complex environments. There are no direct mentions or references to AI product operating models, nor is there any discussion of AI-specific requirements, organizational constructs, model lifecycle, governance, or ethics. The audience is broadly those implementing Scrum, with no AI or MLOps focus. While the iterative and empirical approach outlined in Scrum is somewhat conceptually related to how AI products may be developed iteratively, the content remains domain-agnostic and does not address the unique requirements or challenges of operationalizing AI products within an organizational context. All dimensions receive very low scores as the fit is tangential at best, with no substantive overlap.",
     "reasoning_summary": "This content outlines Scrum principles generically, with no AI- or operating model-specific discussion. It does not address the unique requirements of operationalizing AI products. The fit with the 'AI Product Operating Model' category is negligible.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "59gcHh1fYtC",
+    "itemId": "59gcHh1fYtC",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:03",
+    "ai_confidence": 11.52,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.1,
+    "ai_intent": 1.6,
+    "ai_audience": 6.2,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is a comprehensive exposition of Scrum, thoroughly focusing on its framework, values, roles, and events. While it references empirical process control, adaptability, and team self-management—contrasting with the Industrial Operating Model—it does not substantively describe IOM's hierarchy, process standardization, or centralization. The only references to organizational standards are minor (e.g., Definition of Done) and not in an IOM context. The audience (practitioners, teams, and organizations using or considering Scrum) may overlap with those interested in operating models, but the content's purpose and core themes are unrelated to IOM mechanics, assumptions, or where IOM succeeds. There are no explicit comparisons between Scrum and IOM, nor does the guide analyze industrial-era organizational design. Any indirect contrasts are implicit and non-substantive. Thus, it almost entirely fails to meet the category definition, with only minute, tangential relevance.",
+    "reasoning_summary": "Content explains Scrum in depth but does not discuss the Industrial Operating Model, its assumptions, or where it works. No direct mentions or substantial thematic overlap; only minimal, indirect relevance.",
+    "level": "Ignored"
   }
 }

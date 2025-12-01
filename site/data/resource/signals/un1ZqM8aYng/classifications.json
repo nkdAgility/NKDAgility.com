@@ -3448,5 +3448,25 @@
     "reasoning": "The content is exclusively about the engineering challenges and inefficiencies of maintaining multiple software versions in production, primarily around version control, branching strategy, and technical debt for software development teams. There are no references to AI, AI products, AI-specific operating model concerns, nor any mention of AI product lifecycle, data/model governance, or AI organizational structure. The focus is strictly on general software engineering challenges, not the specialized requirements or governance models inherent to AI product operations. Thus, the alignment, depth, and mentions scores are very low. The only partial fit is that the audience may overlap slightly (engineering management, possibly relevant to AI), but the topic is wholly generic in nature.",
     "reasoning_summary": "This content focuses on general software version management and technical debt, with no explicit or implicit relevance to AI product operating models. It does not fit the category scope.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "un1ZqM8aYng",
+    "itemId": "un1ZqM8aYng",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:05",
+    "ai_confidence": 9.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.9,
+    "ai_intent": 0.8,
+    "ai_audience": 2.3,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses exclusively on engineering challenges of maintaining multiple versions in production, such as merge conflicts and technical debt. There are no explicit or implicit references to the Industrial Operating Model, its structures, foundational assumptions, or comparison with adaptive models. While it lightly hints at standardization, it is about version management and branching strategies—a technical issue—rather than organizational structures, centralization, or hierarchical decision-making. The alignment and depth scores are extremely low because discussion is specialized and not contextualized to IOM at all. Almost no relevance to the IOM category per the definition.",
+    "reasoning_summary": "Content addresses technical version-management pain points, not the Industrial Operating Model's assumptions, mechanics, or organizational context. Does not fit the IOM category. Very weak or nonexistent alignment.",
+    "level": "Ignored"
   }
 }

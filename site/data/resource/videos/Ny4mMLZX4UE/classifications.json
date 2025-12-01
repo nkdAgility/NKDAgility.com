@@ -3448,5 +3448,25 @@
     "reasoning": "The content discusses modern software engineering practices such as shifting left, automation, and shortening feedback loops, using Azure DevOps as a case study. Topics are focused on general quality engineering and DevOps, not on the operationalization, governance, or unique lifecycle of AI-powered products. The only faint connection is a brief mention of 'AI checks' in code review policies, but this is incidental and not elaborated within the framework of an AI product operating model. There's a lack of discussion on AI-specific issues such as model lifecycle management, data/model governance, ethical considerations, or organizational structures around AI products. Scoring reflects minimal conceptual alignment, shallow depth regarding the category, and near-zero direct mentions.",
     "reasoning_summary": "Content addresses general DevOps and QA practices—quality, automation, feedback loops—but does not cover AI Product Operating Models or AI-specific organizational/operational challenges. The fit is minimal and mostly incidental.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "Ny4mMLZX4UE",
+    "itemId": "Ny4mMLZX4UE",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:59",
+    "ai_confidence": 7.48,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.5,
+    "ai_intent": 1.0,
+    "ai_audience": 1.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is focused entirely on modern software engineering practices: shifting left, automation, and fast feedback loops. It critiques the 'test quality in' mindset but never explicitly or implicitly discusses the Industrial Operating Model (IOM), its structures, assumptions, or historical foundations. There is no analysis of hierarchy, functional silos, centralized decision-making, or industrial-era work organization. No substantive discussion serves to define or explain the IOM itself, its mechanics, or where it works best. At most, the critique of slow feedback and reliance on testers may tangentially reflect aspects of traditional approaches, but the content is not aimed at helping readers understand what IOM is; rather, it promotes adaptive, modern practices. Scores are set very low across all dimensions per rubric.",
+    "reasoning_summary": "Content does not discuss or explain the Industrial Operating Model. It solely promotes adaptive/DevOps practices and critiques outdated testing patterns, lacking any substantive IOM focus. Fit is minimal and purely incidental.",
+    "level": "Ignored"
   }
 }

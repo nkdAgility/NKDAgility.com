@@ -2622,5 +2622,25 @@
     "reasoning": "The content focuses on agile team dynamics, measurement, and systemic improvement in software development. There is no mention or exploration of AI, let alone the organizational operating models specific to AI products. The discussion centers on generic agile and measurement systems without reference to data governance, model lifecycle management, MLOps, or AI-specific roles/structures. The intent and examples are clearly not tied to AI product operating models, audiences, or delivery considerations. It is thus not a fit aside from some vague parallel with 'systemic solutions,' but even that is applied generically. Minimal to no alignment with the required concepts for this category.",
     "reasoning_summary": "Content discusses team dynamics and measurement systems in generic agile/software contexts, with no mention of AI or AI product operating models; not a fit for the category except in very superficial, abstract ways.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "LxM_F_JJLeg",
+    "itemId": "LxM_F_JJLeg",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:00",
+    "ai_confidence": 28.3,
+    "ai_mentions": 1.3,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.2,
+    "ai_intent": 4.4,
+    "ai_audience": 6.1,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content addresses issues like rigid measurement, systemic barriers, and traditional project mindsets (e.g., rigid change control), which are symptoms of the Industrial Operating Model. However, it focuses primarily on the problems IOM causes in agile/software contexts and on how to move beyond them, rather than directly explaining IOM's assumptions, mechanics, or strengths. It references 'traditional project mindset' and draws implicit contrasts to adaptive/agile models but stops short of an explicit or deep exploration of IOM as a model. Most readers would learn more about the need for transformation than about IOM itself; thus, mention and alignment are only mild, depth is light, and the primary audience is closer to agile practitioners than students of IOM. No penalties apply as the tone is not satirical or directly critical of IOM, but rather focused on improvement.",
+    "reasoning_summary": "Primarily about solving systemic issues and measurement flaws blocking agility, with only indirect connections to IOM concepts. Content does not explain what IOM is or where it works; fit is weak and partial.",
+    "level": "Ignored"
   }
 }

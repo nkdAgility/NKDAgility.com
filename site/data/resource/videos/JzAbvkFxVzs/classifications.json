@@ -2622,5 +2622,25 @@
     "reasoning": "There are no direct or indirect references to AI, artificial intelligence products, or the operating models for AI-powered products. The content focuses exclusively on Agile routines and meeting effectiveness within Scrum, specifically avoiding outdated practices and stressing value delivery in traditional Agile settings. No AI-specific governance, lifecycle, data/model governance, or any of the unique concerns outlined in the AI Product Operating Model definition are covered. The audience (Agile practitioners and coaches) could partially overlap with those concerned with operating models, but nothing is contextualized to AI products or their governance. The minimal points given are for a baseline overlap in operational improvement concepts and a practitioner audience.",
     "reasoning_summary": "The content is exclusively about Agile/Scrum meeting routines and value delivery, with no mention of AI, AI products, or their operating models. There is no alignment with the AI Product Operating Model category; fit is not present.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "JzAbvkFxVzs",
+    "itemId": "JzAbvkFxVzs",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:54",
+    "ai_confidence": 6.63,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 0.8,
+    "ai_audience": 1.3,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.5,
+    "ai_penalty_details": "Mentions penalized for total absence of IOM keywords (−0.6). Alignment and depth penalized (−0.4 each) because content assumes Agile context and never explains IOM mechanics or value. Intent penalized (−0.1) for not serving IOM audience.",
+    "final_score": 7.0,
+    "reasoning": "The content focuses exclusively on Agile routines (the 'three questions'), team ceremonies, and ways to improve current practices for value delivery and reduced bottlenecks. There is no reference to the Industrial Operating Model, its structure, principles, or strengths. Although the text mentions 'outdated practices' and alludes to rote procedures, these references do not explicitly or conceptually connect to IOM as defined. The purpose is to help Agile teams avoid ineffective routines, not to explain or analyze the IOM, its context, or its fit for organizations. The audience is Agile practitioners/teams, not those seeking to understand traditional hierarchical or IOM models. Some slight recognition that 'outdated' Agile routines mimic industrial repetition, but this is not developed or linked to IOM theory. Penalties applied for lack of mentions, superficial conceptual alignment, and audience/purpose misfit.",
+    "reasoning_summary": "Content does not fit 'Industrial Operating Model'—it addresses Agile team routines, avoiding past pitfalls, and focusing on value, without discussing IOM concepts, mechanics, structure, or context. Minimal-to-no alignment with the category’s core meaning.",
+    "level": "Ignored"
   }
 }

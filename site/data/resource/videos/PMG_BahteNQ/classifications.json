@@ -3448,5 +3448,25 @@
     "reasoning": "The content is a strong advocacy for automation in software engineering, emphasizing DevOps, CI/CD, and the dangers of manual deployments. There are no explicit references to AI, AI products, or organizational models tailored specifically to AI product delivery. Themes such as data/model governance, AI-specific lifecycle stages, or ethics are absent. Although the article aligns with general modern product/engineering practices and could apply to technical practitioners (including those building AI products), nothing in the text discusses or implies unique requirements or structures for AI product operating models. Content is focused, but the category fit is incidental at best.",
     "reasoning_summary": "This is a general call for automation and modern DevOps; it does not discuss unique aspects of the AI product operating model. There are no AI-specific references, so the fit is poor and incidental only.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "PMG_BahteNQ",
+    "itemId": "PMG_BahteNQ",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:04",
+    "ai_confidence": 8.25,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.9,
+    "ai_intent": 0.55,
+    "ai_audience": 1.15,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on the risks of manual deployment and advocates for automation as a baseline engineering standard. While there are implicit references to 'old' practices, these are not specifically framed in terms of the Industrial Operating Model. There is no substantive discussion of IOM's structure, theory, assumptions, or mechanics. Hierarchy, command-and-control, and functional silos are not addressed. Comparisons are made between manual and modern practices, but not through an IOM lens. The primary intent is process improvement for engineering teams, not description or analysis of the IOM.",
+    "reasoning_summary": "Content is focused on automation and modern engineering, only very indirectly touching on outdated manual approaches. It does not discuss the Industrial Operating Model’s structure, theory, or assumptions; fit is minimal and tangential.",
+    "level": "Ignored"
   }
 }

@@ -2597,5 +2597,25 @@
     "reasoning": "The content discusses Taylorism, modern management history, and superficial Agile adoption. There are no references to AI, AI products, or operating models. The focus is on management practice evolution and agile process rigor, with no conceptual or practical link to themes specific to the AI Product Operating Model as defined (such as lifecycle management, MLOps, data/model governance, or AI product roles). The audience is general practitioners seeking to improve Agile practice—not those explicitly concerned with AI product management/operations. Scores reflect negligible mention, weak alignment, superfluous fit, and absence of required depth; according to the strict definition and explicit exclusions, this content does not fit the assigned category.",
     "reasoning_summary": "The content critiques traditional management and agile practices but does not address AI, AI product lifecycle, or operating models. There is no meaningful fit with the AI Product Operating Model category as defined.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "IDMjGi5C8lS",
+    "itemId": "IDMjGi5C8lS",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:58",
+    "ai_confidence": 61.77,
+    "ai_mentions": 6.4,
+    "ai_alignment": 6.9,
+    "ai_depth": 6.8,
+    "ai_intent": 5.7,
+    "ai_audience": 7.0,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.2,
+    "ai_penalty_details": "Intent (-0.7): The tone is critical—'Tyranny of Taylorism'—undermining the neutral/explanatory framing required. Mentions (-0.5): While Taylorism/IOM is named, the focus is partly on its criticism, not pure definition. Alignment (-0.6): The piece mostly contrasts IOM as outdated vs. providing a neutral or supportive understanding. Depth (-0.4): Some surface-level explanation, but much extrapolation and critical comparison.",
+    "final_score": 62.0,
+    "reasoning": "The content directly mentions Taylorism and describes how its principles shaped contemporary management—linking to hierarchical, repetitive, efficiency-driven practices. It briefly describes the historical context of factory floors, the focus on mechanization, defined work, standardized processes, and lack of feedback loops, all hallmarks of the Industrial Operating Model. However, substantial framing is critical ('Tyranny'), focused on why these practices are no longer adequate and contrasting with Agile ideals. Much of the main intent is to critique IOM and demonstrate its inadequacies in modern, adaptive environments, not to neutrally explain or support IOM’s use or value. There is some explanation of foundational elements but the bulk of substantive discussion pivots to why this model fails now and ways to detect false Agile implementations—a partial fit for an explanation of IOM proper. Several points in the narrative help the reader understand what IOM was, but always in service of arguing for change. Therefore, while there are explicit references and some foundational context, penalties have been applied for intent, tone, and partial alignment. Scoring reflects that the piece does help a reader understand IOM's origins and mechanics, though mostly in a negative context and briefly.",
+    "reasoning_summary": "The content introduces and defines Taylorism/IOM but mainly to critique its continued use, not to support or neutrally explain it. Fit is partial: educational about IOM’s origins yet primarily framed as a warning against its flaws.",
+    "level": "Secondary"
   }
 }

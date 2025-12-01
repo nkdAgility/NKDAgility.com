@@ -3349,5 +3349,25 @@
     "reasoning": "The content focuses exclusively on DevOps practices for modernising legacy IT systems, with emphasis on automation, CI/CD, and observability. There are no references (explicit or implicit) to AI, AI-specific operating models, or distinctive requirements of AI product delivery. The discussion is entirely about general DevOps and system agility, not about how organizations structure or manage AI products, teams, data/model governance, or ethical/compliance aspects of AI. As such, there is almost no alignment or depth relevant to the 'AI Product Operating Model' category. The only partial audience fit and signal derive from the fact that transformation and operating model concepts may interest the same strategic or technical audience, but these are superficial connections.",
     "reasoning_summary": "Content is about DevOps for legacy system modernisation—not AI, AI products, or AI product operating models. No mention of AI-specific practices, governance, lifecycle, or challenges. Does not fit the category beyond very weak, tangential relevance.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "Tr1b0hru0zE",
+    "itemId": "Tr1b0hru0zE",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:37",
+    "ai_confidence": 14.02,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.1,
+    "ai_intent": 1.2,
+    "ai_audience": 2.8,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on DevOps as a solution for legacy system modernisation, discussing practices like automation, CI/CD, and observability. While it talks indirectly about challenges with slow, brittle, legacy systems, it does not explicitly analyze or describe the Industrial Operating Model, its assumptions, structure, or mechanics. There’s no discussion of IOM's foundations, where it works, or explicit contrasts with adaptive models. Minimal conceptual overlap comes from references to 'the status quo' and legacy inertia, but these aren't linked to IOM in a substantive way. The target audience (those managing legacy systems) slightly overlaps with IOM practitioners, but the content is fundamentally off-topic for the category definition.",
+    "reasoning_summary": "Content is focused on DevOps and legacy modernisation, lacking direct or substantive discussion of the Industrial Operating Model. There is no meaningful alignment with the category’s definition or primary intent; fit is minimal and indirect.",
+    "level": "Ignored"
   }
 }

@@ -3348,5 +3348,25 @@
     "reasoning": "The content focuses purely on agile team practices—specifically, the need for a shared definition of done to improve quality and predictability across teams. There is no explicit or implicit discussion of operating models tailored for AI product lifecycles, AI-specific governance, model management, data concerns, or end-to-end orchestration unique to AI-powered products. The scope, terminology, and examples remain generic to broader agile and software delivery practices without referencing AI or the specialized operational challenges addressed by an AI Product Operating Model. Thus, the content has virtually no conceptual, thematic, or audience fit for this category.",
     "reasoning_summary": "Content is generic agile advice about defining 'done'; no mention or application to AI products, lifecycle, or operating models. Does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "n-id2x9wLhg",
+    "itemId": "n-id2x9wLhg",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:42",
+    "ai_confidence": 11.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.9,
+    "ai_intent": 2.5,
+    "ai_audience": 3.5,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses on the importance of a shared Definition of Done to achieve consistency, predictability, and quality in Agile teams. It thoroughly discusses problems arising from uneven standards and advocates for unified criteria, but never directly references the Industrial Operating Model or its defining characteristics (hierarchy, scientific management, command and control, centralized planning, etc.). While there is some minor conceptual overlap regarding standardization and process uniformity, the discussion is specific to team-level Agile practices, not IOM's organizational structures, historical context, or fundamental assumptions. It does not help the reader understand what the Industrial Operating Model is or where it thrives, making category alignment low.",
+    "reasoning_summary": "This content is about Agile team practices, not the Industrial Operating Model. It doesn’t discuss IOM’s structure, history, or assumptions, making the category fit weak and only tangentially related due to mention of standardized processes.",
+    "level": "Ignored"
   }
 }

@@ -3448,5 +3448,25 @@
     "reasoning": "The content focuses exclusively on the business and technical implications of technical debt, using a Microsoft case study to underscore lost agility and innovation. There is no mention—direct, indirect, or implied—of AI products, AI-specific operating models, or the unique considerations inherent to the AI Product Operating Model as defined. It addresses technical debt within general software/product development, without reference to AI model governance, lifecycle, or practices distinctive to AI product delivery. The intended audience is organizational leaders and engineers dealing with technical debt, but not in an AI or AI product context. Thus, all category-relevant scoring dimensions are extremely low, and the confidence score proportionally reflects minimal overlap.",
     "reasoning_summary": "Content is about technical debt and organizational agility but has no reference to AI, AI products, or AI-specific operating models. It does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "SLaqpu5BHH8",
+    "itemId": "SLaqpu5BHH8",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:12",
+    "ai_confidence": 8.89,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.85,
+    "ai_intent": 1.1,
+    "ai_audience": 2.25,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses exclusively on the risks, consequences, and examples of technical debt in organizations, providing neither direct mention nor substantive discussion of the Industrial Operating Model (IOM). There is no reference to core IOM assumptions, mechanics, hierarchy, or historical context. The Microsoft example highlights a transition to Agile practices but does not analyze IOM structures or their effectiveness. While there is an indirect allusion to traditional release cycles, there is no real exploration or explanation of what IOM is, where it works, or its organizational principles. The main theme is technical debt and its impact on agility, making IOM only tangential, if at all, to the topic.",
+    "reasoning_summary": "The content does not discuss or explain the Industrial Operating Model; it focuses on technical debt risks. There are no references to IOM structure, mechanics, or where it works. Category fit is extremely low and indirect at best.",
+    "level": "Ignored"
   }
 }

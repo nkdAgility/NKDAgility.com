@@ -3448,5 +3448,25 @@
     "reasoning": "The content critiques reliance on staging environments, promoting incremental production releases—a concept relevant in general DevOps and product engineering. However, it makes no explicit or implicit reference to AI-specific operating models, governance, or lifecycle management. Important domain concepts such as data governance, AI ethics, or product operating frameworks are missing, and nothing indicates the discussion is tied to AI products. Target audience and themes are broadly technical and engineering-focused, but without AI context. Thus, only a minimal, theoretical bridge exists if extrapolating a DevOps principle to AI. Overall, there is negligible fit with the AI Product Operating Model category.",
     "reasoning_summary": "The content discusses DevOps and production reliability, with no reference to AI products, operating models, or lifecycle. It does not fit the AI Product Operating Model category; any tie would be highly speculative and indirect.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "syS5yJ_GthF",
+    "itemId": "syS5yJ_GthF",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:06",
+    "ai_confidence": 24.325,
+    "ai_mentions": 2.3,
+    "ai_alignment": 3.8,
+    "ai_depth": 2.1,
+    "ai_intent": 2.6,
+    "ai_audience": 7.2,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Penalty (-1) applied to 'intent': tone is critical of the IOM, undermining its fit to the category. Penalty (-1) applied to 'depth': content is focused on advocating for alternatives, brief in IOM discussion.",
+    "final_score": 24.0,
+    "reasoning": "The content references the Dev-Test-Staging-Production workflow, which aligns with processes typical of the Industrial Operating Model (IOM), mentioning it as 'the old way.' However, the text's focus is on criticizing IOM practices and recommending modern alternatives (incremental release, audience-based deployment). Discussion of IOM is shallow, with more emphasis on its problems than explaining its mechanics or context where it fits. The intent is not to inform or support IOM, but to argue against it. Penalties were applied for critical tone and lack of depth. Audience alignment is relatively high as it targets software/IT practitioners familiar with these debates.",
+    "reasoning_summary": "This content critiques the IOM's workflow and promotes adaptive alternatives. Its main focus is on IOM limitations, not explaining the model; thus, only marginal alignment with the category exists, leading to a low confidence score.",
+    "level": "Ignored"
   }
 }

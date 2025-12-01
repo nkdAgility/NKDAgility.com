@@ -2529,5 +2529,25 @@
     "reasoning": "The content does not mention AI or product operating models at all, nor does it address any of the key topics or unique requirements outlined in the category definition. It discusses emergent practices in generic terms, without specific reference to AI, governance, data, or lifecycle management. While the audience could conceivably include product practitioners, there is no evidence of targeting AI product leaders or strategists. The signal is marginally above zero only because the content is not off-topic or noisy; however, it is far too general and does not fit the specialized scope required by the AI Product Operating Model category.",
     "reasoning_summary": "Content is generic and discusses emergence of practices broadly, with no reference to AI, product operating models, or related governance, making it a poor fit for the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "_MbvqRG_XNM",
+    "itemId": "_MbvqRG_XNM",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:18",
+    "ai_confidence": 6.8,
+    "ai_mentions": 0.4,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.2,
+    "ai_audience": 0.6,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is entirely focused on emergent practices, emphasizing processes and tools that develop through iterative, collaborative work in evolving environments. It directly contrasts the core assumptions of the Industrial Operating Model (IOM), which relies on upfront planning, stable demand, standardized processes, hierarchical decision-making, and predictable, repetitive work. There are no explicit references or even allusions to IOM terminology, history, or mechanics. The intent, alignment, and depth ratings remain very low since the content actually signals adaptive, Agile-like thinking, not IOM. The only tenuous overlap might be for an audience interested in process development broadly, but nothing targets IOM practitioners or theorists. No penalties applied as there is neither obsolete nor critical tone; it is simply off-topic for IOM.",
+    "reasoning_summary": "Content is unrelated to the Industrial Operating Model; it advocates for emergent, adaptive practices, not hierarchical, planned, or standardized approaches. No substantive alignment with the category definition.",
+    "level": "Ignored"
   }
 }

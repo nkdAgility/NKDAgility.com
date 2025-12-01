@@ -2622,5 +2622,25 @@
     "reasoning": "The content comprehensively explores competence vs. control hierarchies in organizational structures but never directly addresses AI Product Operating Models or their AI-specific considerations (e.g., model governance, MLOps, ethical AI management). While the theme of shifting away from hierarchical control in favor of dynamic, competence-driven models aligns conceptually with adaptive operating models (potentially relevant for AI contexts), the discussion is entirely general—no mention of AI products, AI teams, or unique AI lifecycle, governance, or value stream challenges. Although Netflix is cited as an example of dynamic structure, there's no AI-specific context. The intended audience overlaps somewhat with those interested in operating models, but the signal-to-noise ratio is only moderate (the focus is on general organizational design, not AI product operationalization). No penalties are applied since there is no outdated information or contradiction.",
     "reasoning_summary": "This content focuses on general organizational hierarchies and agile thinking, not on AI product operating models or their unique requirements. Its fit to the category is incidental and lacks AI-specific operational discussion.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "AaCM_pmZb4k",
+    "itemId": "AaCM_pmZb4k",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:14",
+    "ai_confidence": 48.63,
+    "ai_mentions": 3.2,
+    "ai_alignment": 5.6,
+    "ai_depth": 4.9,
+    "ai_intent": 3.8,
+    "ai_audience": 6.1,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 3,
+    "ai_penalty_details": "Mentions (-0.8): Only implicit references to IOM, no explicit 'Industrial Operating Model' naming. Alignment (-0.5): Focus shifts to alternative models; less direct alignment. Depth (-0.6): more on contrasts than thorough IOM analysis. Intent (-0.6): Main focus is on moving away from IOM. Signal (-0.5): Significant attention given to alternatives and transition.",
+    "final_score": 49.0,
+    "reasoning": "The content discusses 'hierarchies of control' rooted in traditional organizational structures (control-based, pyramid, top-down) and links these to the industrial era. It explains such models worked when the market was stable and slow-moving, matching several IOM core assumptions (centralized authority, predictive planning, slow market change). However, the majority of the discussion is comparative, using the IOM mainly as a foil to introduce and advocate for the 'hierarchy of competence'—a more adaptive, dynamic alternative. While foundational concepts of IOM are outlined, they're largely presented as background to justify moving away from them. The content inclines towards transformation advice (why and how to shift), spends considerable time critiquing control-based hierarchies, and is more future-focused than descriptive/explanatory of IOM itself. Thus, confidence is moderate—partial fit, but the primary focus of the content is on comparison and transition, not deep understanding or explication of IOM's own mechanics or strengths.",
+    "reasoning_summary": "Mainly contrasts IOM-like control hierarchies with competence-based ones and advocates for transition. Provides some IOM background, but focus is on alternatives and change—making it only a partial, moderate fit for this category.",
+    "level": "Tertiary"
   }
 }

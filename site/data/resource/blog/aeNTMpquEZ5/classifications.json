@@ -2637,5 +2637,25 @@
     "reasoning": "The content thoroughly discusses organisational models, decentralised structures, and agile transformation but does not mention AI, machine learning, or any concepts unique to AI Product Operating Models. It focuses on traditional and modern network approaches at a generic, sector-agnostic level without reference to the challenges, frameworks, or governance structures needed for AI-driven product delivery. There are no explicit or implicit references to data/model governance, model lifecycle management, responsible AI, or any core dimension outlined in the category definition. The content is therefore almost wholly irrelevant to the AI Product Operating Model category.",
     "reasoning_summary": "Content is about agile and decentralised organisation models in general; there is no mention or discussion of AI, AI governance, or AI product operating models. Fit is negligible.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "aeNTMpquEZ5",
+    "itemId": "aeNTMpquEZ5",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:27:00",
+    "ai_confidence": 53.36,
+    "ai_mentions": 3.7,
+    "ai_alignment": 5.9,
+    "ai_depth": 6.2,
+    "ai_intent": 4.7,
+    "ai_audience": 6.8,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 3,
+    "ai_penalty_details": "Mentions (-0.5): Never names 'Industrial Operating Model' directly, but refers to 'classic hierarchical', 'command-and-control', and Taylor; Intent (-0.7): Strongly critical/transformational intent vs. explaining IOM; Alignment (-0.8): Focused more on arguing for change than IOM explication; Depth (-1): Depth given to weaknesses and alternatives rather than a deep dive into IOM's mechanisms/history.",
+    "final_score": 53.0,
+    "reasoning": "The content mentions many elements aligned with the IOM — hierarchy, command-and-control, bureaucracy, Taylorism, stable markets, and their historic context. It references the IOM's assumptions and gives examples of environments where it developed. However, its focus is on advocating for agile transformation and critiquing the classic model's limitations. The discussion of IOM's core features is instrumental, mostly setting up arguments for alternative models. While there is conceptual alignment (origin, market fit, structural features), discussion is neither deep nor neutral: the goal is to move beyond IOM, not help readers understand it in detail. The referential tone is negative/obsolete, so penalties are warranted. Final confidence is moderate, as there are accurate references but intent is critical and depth is diverted.",
+    "reasoning_summary": "Content references IOM's assumptions, structure, and history but mainly critiques its relevance and argues for transformation. Focus is more on alternatives than explicating the IOM itself. Fit is partial and indirect.",
+    "level": "Tertiary"
   }
 }

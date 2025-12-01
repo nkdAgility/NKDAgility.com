@@ -2592,5 +2592,25 @@
     "reasoning": "The content thoroughly discusses agile, Scrum, and general software product release planning for predictability, with focus on continuous quality and organizational practices. However, it contains no explicit or implicit references to AI, unique requirements of AI product operating models, MLOps, data/model governance, AI ethics, or issues unique to operationalizing AI-powered products. All examples, advice, and concepts are geared towards generic (non-AI-specific) software delivery. Audience targeting, terminology, and depth are all solid, but strictly in the traditional/agile software sense, not AI. Thus, both conceptual and direct alignment with the AI Product Operating Model category is essentially absent, with only the most generic overlap regarding product delivery models. No penalties applied.",
     "reasoning_summary": "This content addresses general software release and agile delivery, not AI product operating models. No evidence of AI-related themes, practices, or requirements. Fit for the selected category is extremely weak or absent.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "2cOXevMnGb_",
+    "itemId": "2cOXevMnGb_",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:44",
+    "ai_confidence": 18.14,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.4,
+    "ai_intent": 2.0,
+    "ai_audience": 5.8,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content chiefly discusses challenges in achieving predictable software delivery via Agile, with focus on release planning in the context of Scrum. While it briefly contrasts Agile's empirical approach with the 'predictive world' of manufacturing, there's no substantive treatment or exploration of the Industrial Operating Model itself—neither its mechanics, assumptions, theoretical foundation, nor where IOM excels. The mention of 'the old ways' and manufacturing predictability offers only a fleeting indirect reference, not enough to inform readers about the IOM. The main intent, scope, and recommendations throughout firmly center on Agile and modern practices, not on explaining or exploring the IOM.",
+    "reasoning_summary": "Only fleetingly contrasts Agile with manufacturing's predictability; lacks depth or substantive analysis of the Industrial Operating Model. Focuses on Agile best practices, not on explaining the IOM itself. Fit is minimal and mostly incidental.",
+    "level": "Ignored"
   }
 }

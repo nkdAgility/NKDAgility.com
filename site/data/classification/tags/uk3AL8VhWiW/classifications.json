@@ -3343,5 +3343,25 @@
     "reasoning": "The content is a general explanation of cycle time as a process efficiency metric and never references AI, machine learning, or product operating models unique to AI. Its alignment with the AI Product Operating Model category is weak: it doesn’t discuss data/model governance, AI-specific workflows, or lifecycle management, and offers no actionable guidance for AI product teams. The target audience is technically suitable, but all other dimensions score low due to lack of direct AI context or in-depth discussion of AI operations.",
     "reasoning_summary": "Content only covers generic cycle time, with no mention of AI or product operating models specific to AI. It does not fit the category definition beyond incidental relevance for process-focused teams.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "uk3AL8VhWiW",
+    "itemId": "uk3AL8VhWiW",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:27:18",
+    "ai_confidence": 18.145,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.5,
+    "ai_intent": 1.6,
+    "ai_audience": 4.7,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content discusses 'cycle time' as a metric for workflow efficiency and improvement, with an emphasis on adaptability, responsiveness, and continuous improvement. While it mentions process efficiency, it does not reference or explore the Industrial Operating Model, its mechanics, underlying assumptions, or historical context. The focus is on operational metrics and team-level practices, not on hierarchical structures, centralized decision-making, or the predictive, stable environment foundational to the IOM. The material does not introduce or clarify what the IOM is, where it excels, or its theoretical basis. Thus, alignment and depth scores are low, with only partial overlap where general efficiency concepts touch tangentially on IOM principles.",
+    "reasoning_summary": "This content does not explain or directly relate to the Industrial Operating Model; it centers on workflow metrics and continuous improvement, not on IOM structure, assumptions, or where IOM works well. Fit with the category is weak and mostly incidental.",
+    "level": "Ignored"
   }
 }

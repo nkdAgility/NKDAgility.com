@@ -3421,5 +3421,25 @@
     "reasoning": "The content focuses on software engineering excellence, technical leadership, estimation practices, and delivery metrics. No explicit or implicit discussion of AI, AI product operating models, MLOps, or any of the required AI-specific structures, governance, or lifecycle elements. Themes center on improving general engineering and delivery systems—relevant to general product/devops/engineering operating models but entirely outside the scope of AI product operating models. Audience is broadly technical but not targeted specifically to AI practitioners or strategists. No deductive penalties were needed as the tone and information are not outdated nor contradictory.",
     "reasoning_summary": "Content discusses delivery system improvements, estimation dysfunctions, and engineering leadership with no reference to AI, its unique challenges, or operating models. It does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "WEqwDQVsOIa",
+    "itemId": "WEqwDQVsOIa",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:42",
+    "ai_confidence": 16.818,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.5,
+    "ai_depth": 1.8,
+    "ai_intent": 2.3,
+    "ai_audience": 3.9,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on critiquing estimation accuracy tracking and related management practices but does not directly discuss the Industrial Operating Model (IOM). There is implicit criticism of command-and-control and compliance-driven practices, which are associated with IOM, but there is no substantive, explicit discussion of IOM’s structure, assumptions, or effective applications. The primary intent is to promote new delivery practices and dismantling traditional metrics, not to describe or explain IOM. While the issues discussed (estimation, compliance, metrics-as-theatre) can be symptoms of IOM, the text never places them in historical, theoretical, or structural context, nor does it clarify where IOM works well. Thus, the content only loosely, indirectly touches on IOM without making it the focus—leading to a low confidence fit.",
+    "reasoning_summary": "Content critiques legacy estimation and delivery management, loosely touching on IOM symptoms, but lacks substantive discussion of the Industrial Operating Model itself. Main intent is to promote new practices, not to explain or support IOM.",
+    "level": "Ignored"
   }
 }

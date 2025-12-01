@@ -3448,5 +3448,25 @@
     "reasoning": "There are fleeting references to AI altering software delivery, especially in coding, and brief allusions to delivery models and team practices. However, the content does not address AI product operating models, lifecycle management, organizational governance, or operationalizing AI products. It centers on system flow, DevOps areas, and general engineering practices (Test-First, QA as system responsibility), which—while tangentially relevant—are not contextualized within the distinct requirements, governance, or operational structures for AI products. Audience targeting is broad (delivery professionals, DevOps practitioners), and much discussion is surrounding legacy dysfunctions or team habits rather than integrated AI product development or delivery models.",
     "reasoning_summary": "Content mainly critiques software delivery bottlenecks via DevOps and team practices. It references AI tooling but does not explore or operationalize AI product operating models; fit is weak and superficial.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "IO5EHjiHhTf",
+    "itemId": "IO5EHjiHhTf",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:26",
+    "ai_confidence": 28.04,
+    "ai_mentions": 1.3,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.4,
+    "ai_intent": 2.7,
+    "ai_audience": 6.1,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content critiques legacy practices such as ticket handoffs, siloed QA, output measurement, and over-specialization—symptoms of the Industrial Operating Model (IOM)—but does not substantively define or discuss IOM itself. There are indirect references (e.g., managing by headcount, functional silos), but the main ideas focus on DevOps, systems thinking, autonomous teams, and modern engineering practices, emphasizing flaws and needed transformations rather than explaining or defending IOM. There is no explicit or detailed description of IOM's assumptions, mechanics, or contexts of success. The purpose is to highlight why legacy models fail—not to teach what the IOM is, where it works, or its value. Audience targeting and some signal are partially aligned, but overall fit to the category is weak and indirect.",
+    "reasoning_summary": "Content critiques legacy models and highlights dysfunctions of traditional structures but does not directly describe or explain the Industrial Operating Model. Fit is weak and mostly indirect; focus is on transformation, not on understanding IOM itself.",
+    "level": "Ignored"
   }
 }

@@ -2562,5 +2562,25 @@
     "reasoning": "The content is focused exclusively on Azure DevOps infrastructure/application migration, planning, and best practices. It does not mention, reference, or substantially address AI product lifecycles, operating models, or any of the AI-specific organizational structures and governance specified by the category definition. There are no direct or implied connections to AI-specific topics such as model lifecycle, MLOps, data/model governance, AI product teams, or ethical AI. The audience, purpose, and detail are aligned with DevOps and cloud migration practitioners, not AI product operating model strategists or leaders. All scoring dimensions are very low, strictly reflecting this misalignment.",
     "reasoning_summary": "This content does not fit the AI Product Operating Model category. It only covers Azure DevOps migrations—no AI lifecycle, governance, or product model content is present. Alignment is minimal and does not meet category requirements.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "_rJoehoYIVA",
+    "itemId": "_rJoehoYIVA",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:57",
+    "ai_confidence": 6.7,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.8,
+    "ai_intent": 0.7,
+    "ai_audience": 1.2,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content extensively discusses Azure DevOps migration—planning, best practices, challenges, and technical details. It does not directly mention or analyze the Industrial Operating Model, its hierarchy, standardization, or principles. No historical, structural, or comparative IOM context appears. The article focuses entirely on cloud migration, technical processes, and change management, rather than the IOM’s foundational concepts, strengths, or mechanics. There is minimal relevance to IOM’s assumptions or characteristics, aside from vague reference to legacy systems and traditional environments, and those are not linked to IOM. Audience and intent are not aligned with IOM analysis.",
+    "reasoning_summary": "This content does not fit the 'Industrial Operating Model' category. It discusses Azure DevOps migration without referencing IOM concepts, structure, or foundational themes. There is no substantive alignment with the category definition.",
+    "level": "Ignored"
   }
 }

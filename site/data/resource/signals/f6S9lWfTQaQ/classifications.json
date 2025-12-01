@@ -3448,5 +3448,25 @@
     "reasoning": "The content is focused on the benefits of automation over manual testing for improving software delivery speed and quality. There is no direct or indirect discussion of AI, AI product lifecycles, ML-specific challenges, or operating models. The content is generic about software testing—not even MLOps or data science. The audience is likely software delivery teams, but no reference is made to operating models, organizational structure, governance, or AI-specific requirements. Thus, alignment and depth scores are very low and most weightings reflect total lack of fit.",
     "reasoning_summary": "This content is unrelated to the AI Product Operating Model category, focusing only on generic software test automation. No mention or implication of AI, ML, or operating models. Fit is entirely absent.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "f6S9lWfTQaQ",
+    "itemId": "f6S9lWfTQaQ",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:13",
+    "ai_confidence": 6.08,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.2,
+    "ai_intent": 0.3,
+    "ai_audience": 2.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on the drawbacks of manual testing and the need for automation within a software team. It does not mention or describe the Industrial Operating Model, its foundational assumptions, or its structural hallmarks (e.g., hierarchy, silos). While manual testing sometimes occurs in IOM contexts, the post makes no reference to IOM, Taylorism, or scientific management, nor does it discuss centralized decision-making, standardized processes, or predictability as operative contexts. There is also no comparative analysis with adaptive models. The only possible point of connection is the implicit critique of older practices, but this is not framed in IOM terms and offers no substantive insight into what IOM is or where it succeeds. Therefore, confidence for correct tagging as 'Industrial Operating Model' is extremely low.",
+    "reasoning_summary": "The content is about manual vs. automated testing, with no discussion of the Industrial Operating Model or its core concepts. There is no substantive topic overlap; fit with this category is extremely weak.",
+    "level": "Ignored"
   }
 }

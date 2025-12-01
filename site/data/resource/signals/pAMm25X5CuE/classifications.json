@@ -3448,5 +3448,25 @@
     "reasoning": "The content critiques Git Flow versus modern continuous delivery practices, focusing narrowly on software branching workflows. There are no direct or indirect references to AI, product operating models, lifecycle management, or AI-specific governance or teams. The discussion is not contextualized in the domain of AI product development, nor does it explore unique challenges, roles, or practices relevant to AI products. The intent and examples are centered on general software delivery, not on how operating models govern or manage AI product delivery. As such, there is no substantive match with the scope of 'AI Product Operating Model', and scores reflect the absence of relevant content or audience fit.",
     "reasoning_summary": "The content discusses traditional vs. modern software delivery branching models, with no reference to AI, AI product operating models, or related themes—thus, it does not fit the assigned category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "pAMm25X5CuE",
+    "itemId": "pAMm25X5CuE",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:31",
+    "ai_confidence": 5.3,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 0.5,
+    "ai_audience": 1.8,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.5,
+    "ai_penalty_details": "All dimensions penalized 0.5 points each due to strong critical tone and focus on obsolescence, which undermines the IOM framing.",
+    "final_score": 5.0,
+    "reasoning": "The content criticizes Git Flow as outdated and promotes agile alternatives; it does not substantively explain the Industrial Operating Model, its structure, or context. Any IOM connection must be inferred (stage gates, predictability), but is not explicit or explored. The critical and dismissive tone towards old practices warrants penalties across all dimensions. The primary focus is on why to abandon established branching models, not on explaining or supporting IOM principles. Therefore, confidence is minimal.",
+    "reasoning_summary": "Content critiques obsolete Git Flow process without explaining IOM mechanics or value. No explicit or substantive discussion of Industrial Operating Model; intent is to argue for its replacement. Very low fit.",
+    "level": "Ignored"
   }
 }

@@ -3448,5 +3448,25 @@
     "reasoning": "The content strictly discusses branching strategy for code delivery, advocating feature flags over environment-based branches. There are no direct or indirect references to AI-specific operating models, product lifecycles, governance, or organizational alignment for AI products. The target audience is developers/engineering teams, not specifically teams working on AI products or operating models. No evidence ties the content to the unique needs or governance structures of AI products, so fit is extremely tenuous.",
     "reasoning_summary": "This content does not address AI product operating models and only covers generic development team branching strategies. It is outside the category’s intended scope.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "9EP_gF2nD19",
+    "itemId": "9EP_gF2nD19",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:01",
+    "ai_confidence": 9.28,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 0.6,
+    "ai_audience": 3.8,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses on technical branching practices, criticizing environment-based branching and recommending modern techniques like feature flags. Although it briefly references outdated, siloed practices, it does not discuss the Industrial Operating Model itself, its foundations, structures, or where it succeeds. There is no substantial analysis or explanation of IOM's principles, assumptions, or mechanics. Audience is technical (engineers/dev teams), which only partially overlaps with IOM's typical audience (often executive/organizational strategists). Signal is low as most content is about improving development workflow, not organizational models.",
+    "reasoning_summary": "Content is strictly about branching strategy, not about the Industrial Operating Model's structure, assumptions, or where it works. No substantive alignment with IOM category – only a fleeting, indirect fit due to brief mention of silos.",
+    "level": "Ignored"
   }
 }

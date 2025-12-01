@@ -3448,5 +3448,25 @@
     "reasoning": "The content focuses on deployment strategies (rollback vs roll-forward, progressive delivery) but in a general software context. It does not mention, align with, or discuss AI product operating models or their unique aspects. There's no reference to AI, model governance, or other category requirements. The audience is general software/devops practitioners, not those focused on operating AI products. The fit is poor and coverage is superficial regarding the category.",
     "reasoning_summary": "This content focuses on generic software deployment safety (rollback vs. roll-forward) and progressive delivery, without any mention or contextual alignment to AI product operating models or their unique requirements. No fit.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "3-BmsmOEWfJ",
+    "itemId": "3-BmsmOEWfJ",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:12",
+    "ai_confidence": 7.41,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 2.1,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content discusses software deployment practices, focusing on rollback versus roll-forward and modern progressive delivery. It offers no explicit or substantive references to the Industrial Operating Model, its mechanics, or its principles (such as hierarchy, command-and-control, or Taylorism). The audience seems practitioners interested in deployment safety, not specifically those studying the IOM. At best, some implicit assumption about risk-averse practices could tangentially relate to IOM thinking, but this is extremely indirect and not developed. Thus, the confidence in this fitting the IOM category is exceedingly low.",
+    "reasoning_summary": "Content covers deployment safety concepts (rollback, fail-forward), without referencing or discussing the Industrial Operating Model, its structure, or where it succeeds. Only the most indirect thematic connection exists.",
+    "level": "Ignored"
   }
 }

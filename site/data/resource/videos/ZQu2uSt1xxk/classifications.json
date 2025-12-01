@@ -2572,5 +2572,25 @@
     "reasoning": "The content exclusively describes implementing Kanban for general workflow and project management improvement. It doesn't mention or allude to AI-specific product operating models, governance, lifecycle, data/model management, or AI integration. Main themes focus on continuous improvement and Kanban fundamentals, without any reference to AI or unique AI product requirements. There's no conceptual alignment to the AI Product Operating Model category, nor is the audience matched (focus is agilists/project managers vs. AI product leaders/strategists). Thus, confidence is very low.",
     "reasoning_summary": "Content covers Kanban practices and workflow improvements with no references to AI or operating models for AI products. Does not fit the scope, intent, or topics of the AI Product Operating Model category. Fit is absent.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "ZQu2uSt1xxk",
+    "itemId": "ZQu2uSt1xxk",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:50",
+    "ai_confidence": 11.28,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.6,
+    "ai_intent": 2.3,
+    "ai_audience": 2.7,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is about implementing Kanban frameworks, integrating them into existing workflows like Scrum or Waterfall. While it mentions working with 'Waterfall'—a method associated with the Industrial Operating Model (IOM)—it does not substantively discuss IOM principles, structures, assumptions, or historical foundations. There is no deep exploration of hierarchical structures, centralized decision-making, scientific management, or Taylorism. The focus is entirely on Kanban, continuous improvement, workflows, and project management, without analyzing what the IOM is, how it operates, or where it succeeds. Any reference to IOM-related environments is brief and only as an example of potential Kanban application. The main intent is instructional for Kanban practitioners, not about the IOM itself.",
+    "reasoning_summary": "The content introduces Kanban and its benefits without explaining or analyzing the Industrial Operating Model. Mentions of Waterfall are incidental and lack substantive IOM context; thus, fit for the IOM category is very weak.",
+    "level": "Ignored"
   }
 }

@@ -2648,5 +2648,25 @@
     "reasoning": "The content focuses on general Agile principles—automation, CI/CD, and feedback loops—for software product delivery ecosystems. It does not mention, imply, or substantively discuss AI-specific operating model concerns (e.g., model lifecycle, data governance, AI roles, or ethical AI). All examples and recommendations are about generic agility and DevOps practices, without reference to AI products or related operating model challenges. The audience might overlap (product/tech leaders), but the content is not conceptually or practically aligned with the unique requirements, governance, or lifecycle management of AI-powered products as called for in the definition. There is negligible overlap.",
     "reasoning_summary": "Content discusses general Agile and automation practices in software ecosystems, with no explicit or implicit reference to AI product operating models. Does not fit category; only minimal generic overlap.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "cGOa0rg_L-8",
+    "itemId": "cGOa0rg_L-8",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:07",
+    "ai_confidence": 23.34,
+    "ai_mentions": 2.4,
+    "ai_alignment": 3.4,
+    "ai_depth": 2.7,
+    "ai_intent": 2.6,
+    "ai_audience": 5.1,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content does not directly mention the term 'Industrial Operating Model' or related core concepts such as hierarchical structures, stage gates, or functional silos. While it does reference 'bureaucratic, linear deployment processes' as a problem, these are not explored in a way that defines or explains the Industrial Operating Model. The main focus is on achieving end-to-end Agile practices, advocating for automation and short feedback loops. Any mention of traditional (i.e., IOM) mechanics is only in contrast or as a problem, with no substantive explanation of the IOM's theory, assumptions, or where it works. There's no historic, theoretical, or positive discussion of IOM; the intent is to move away from those features, not to explain or contextualize them. The audience is Agile practitioners interested in improvement, which only partially overlaps with IOM's primary audience. Most of the content is on actionable steps for modern Agile/DevOps practice, not IOM understanding.",
+    "reasoning_summary": "Content focuses on moving away from bureaucratic, linear processes (IOM traits) but doesn’t explain or contextualize the Industrial Operating Model itself. Mentions are superficial; fit with the category is poor and indirect.",
+    "level": "Ignored"
   }
 }

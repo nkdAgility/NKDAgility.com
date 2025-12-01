@@ -2590,5 +2590,25 @@
     "reasoning": "The content is about integrating security and quality practices (shift-left, TDD, pair programming, DevOps) into software engineering. It does not mention or address AI, AI products, AI lifecycle, AI-specific governance, or the operationalization of AI products. The examples, tools, and case studies focus on general modern software engineering and DevOps, not AI or ML. The intent, themes, and target audience do not align with the specific requirements, practices, or structures outlined in the AI Product Operating Model definition. The fit is negligible—there are no direct or indirect references to the unique dimensions or challenges of running AI products. Scores are kept above zero only for minimal methodological framework overlap (e.g., DevOps mentioned, which can occur in AI, but no AI focus provided). No penalty applied as the content is current, on-topic for software engineering, and not satirical or critical.",
     "reasoning_summary": "Content is about secure software engineering with shift-left, TDD, and DevOps practices; it does not discuss AI, ML, or their operating models. No substantive fit with the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "NgoP5W5y7Gs",
+    "itemId": "NgoP5W5y7Gs",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:43",
+    "ai_confidence": 10.54,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 1.2,
+    "ai_audience": 3.6,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "This content deeply explores modern, adaptive software engineering and DevOps practices focused on team empowerment, early quality, and continuous feedback, counter to the organizational, process, and intent characteristics of the Industrial Operating Model (IOM). There is no direct or indirect discussion of IOM's foundations, mechanics, or where it excels—only brief mention of moving away from 'waterfall' (which itself is not synonymous with IOM in the discussed context). The focus is on team-level practices (TDD, shifting QA left, pair programming, continuous delivery), which the IOM does not address. The only small overlap is the implied contrast to traditional methods (e.g., 'moving from waterfall'), but these are neither explicit nor substantive regarding IOM's actual meaning. Little relevance for an audience seeking to understand IOM itself.",
+    "reasoning_summary": "The content centers on modern engineering and Agile/DevOps practices, not the Industrial Operating Model. No meaningful IOM discussion or intent; the fit is weak and only marginally relevant via indirect comparison.",
+    "level": "Ignored"
   }
 }

@@ -3598,5 +3598,25 @@
     "reasoning": "Direct references to 'transition', 'transformation', and 'change' are frequent but not always using formal 'Change Management' language (mentions: 7.7). Conceptual alignment is exceptionally strong—the content thoroughly analyzes why major organizational change is required, the mindsets involved, and factors driving sustainable adaptation. Depth is high: the discussion goes well beyond superficial observations, includes detailed comparison of models, and explores both technical and human aspects. The intent is directly supportive of guiding real transformation efforts, with an implicit focus on Agile-aligned strategic change (intent: 9.3). The likely audience (leaders, change agents, strategists) is highly aligned (9.0). Signal is excellent: there's little digression or filler, and all discussion is relevant to structural, cultural, and leadership change. No outdated information or penalty triggers detected. Final confidence is high because nearly every section connects to the substance of sustainable organizational change, mapped to Agile and DevOps philosophies.",
     "reasoning_summary": "The content thoroughly examines organizational transformation from stable to adaptive models, focusing on the mindsets and practices required for meaningful, sustainable change. Its purpose, audience, and discussion depth strongly align with Change Management.",
     "level": "Primary"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "7nXTKmU_F04",
+    "itemId": "7nXTKmU_F04",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:37",
+    "ai_confidence": 77.37,
+    "ai_mentions": 9.5,
+    "ai_alignment": 8.9,
+    "ai_depth": 8.4,
+    "ai_intent": 7.5,
+    "ai_audience": 7.7,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.3,
+    "ai_penalty_details": "Intent (-0.5): Significant focus on failures of IOM and promotion of alternatives, tonally moving away from 'informative/supportive' intent; Alignment (-0.5): Core themes are IOM comparison and limitation, somewhat diluting inclusion guidance; Depth (-0.3): Depth on IOM itself is interrupted by refocus on transition/critique; Audience (-0.5): Leans to change/transformation audience vs. IOM practitioners; Signal (-0.5): About 20–30% of content is off-topic or focused on the successor model, not pure IOM understanding.",
+    "final_score": 77.0,
+    "reasoning": "This content provides highly detailed discussion of what the Industrial Operating Model is: its assumptions, mechanics, history, and the contexts where it works well. There are extensive, explicit references to Taylorism, hierarchy, control, functional silos, standardized work, etc. These definitions are well substantiated, grounded with historical context and clear linkages to the theory of the business. There is robust contrast with the adaptive (Agile Product Operating Model) approach. However, the central narrative is largely structured to emphasize IOM's limitations in dynamic markets, explaining its failure modes and advocating for alternatives. The focus is on why and how to transition away from IOM, with substantial space given to the critique, transformation process, and leadership/cultural change required to move to an adaptive model. Portions on 'operating-model hygiene' and transitional challenges veer into transformation/alternative territory, and the repeated call to action is to abandon the IOM for most modern organizations. Penalties were applied for this off-topic focus, diluted intent (since the main purpose is NOT about understanding IOM's sustained value), and partial shift in audience from practitioners/analysts to transformation/change agents.",
+    "reasoning_summary": "Content provides strong, explicit definition and context for the Industrial Operating Model, but with primary purpose to critique and drive transition towards alternatives; fit is high for understanding IOM's structure, less so for its strengths or sustained application.",
+    "level": "Secondary"
   }
 }

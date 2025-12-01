@@ -3448,5 +3448,25 @@
     "reasoning": "The content exclusively discusses disaster recovery failures and system resilience, with no mention or implication of AI product operating models, AI-specific governance, or AI product lifecycle. There is no alignment with the themes or intent of the AI Product Operating Model category, nor does the audience or purpose overlap with product operations for AI. No penalty is applied, as there are no outdated or contradictory statements—just complete topical misalignment.",
     "reasoning_summary": "Content is about disaster recovery, not AI product operating models; there are no references to AI, operating frameworks, or lifecycle management for AI solutions. No evidence of category fit.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "jgAmhaBbUlm",
+    "itemId": "jgAmhaBbUlm",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:16",
+    "ai_confidence": 18.145,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.2,
+    "ai_intent": 2.3,
+    "ai_audience": 5.1,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content critiques the false sense of security offered by formal disaster recovery plans that are untested or ignore real interdependencies. While this aligns partially with the Industrial Operating Model’s emphasis on standardized processes and documentation, the discussion focuses on the shortcomings and failures of such approaches rather than explaining the IOM itself, its core assumptions, strengths, operating mechanics, or where it works well. There are no explicit references to hierarchical structures, command-and-control, Scientific Management, or other core IOM features. The audience is technical/practitioner, potentially overlapping with IOM readers, but the content is primarily critical and focused on real-world failure, not on understanding or describing the IOM. No penalties for tone or obsolescence were necessary.",
+    "reasoning_summary": "Content critiques formal disaster recovery plans but does not explain or contextualize the Industrial Operating Model. Limited alignment: focuses on flaws and missing real resilience, not on what IOM is or where it works.",
+    "level": "Ignored"
   }
 }

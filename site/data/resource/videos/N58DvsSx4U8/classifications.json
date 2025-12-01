@@ -2606,5 +2606,25 @@
     "reasoning": "The content details a DevOps transformation for unifying software engineering processes and tools across many teams using Azure DevOps. It focuses on software process unification, DevOps, Agile, and Scrum but never mentions AI, machine learning, data, or any AI product specifics. There is no discussion or implication of practices unique to AI products (model governance, data management, MLOps, etc.), nor any reference to AI product operating models, teams, lifecycles, or organizational principles for AI. While the target audience overlaps (tech leadership, large org transformation), the core content is fully about general software/DevOps/Agile operating models, not AI product ones, and is not even partially focused on AI-specific requirements, governance, or delivery models.",
     "reasoning_summary": "This content does not cover AI Product Operating Model topics. It focuses entirely on DevOps and software process unification, with no references to AI, AI lifecycle, or AI-specific organizational structures or practices.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "N58DvsSx4U8",
+    "itemId": "N58DvsSx4U8",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:08",
+    "ai_confidence": 16.55,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.5,
+    "ai_intent": 2.1,
+    "ai_audience": 6.2,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on a DevOps transformation story—unifying teams across many countries with Azure DevOps. While it references prior fragmentation and drive toward unified processes, there is no substantive discussion of the Industrial Operating Model (IOM). The piece does not explain IOM’s assumptions or operations, nor does it explain hierarchical structures, command-and-control, or functional silos as core topics. Instead, it details how adaptive, modern practices (Agile, DevOps, One Engineering System) replaced former approaches. There is no explicit comparison with IOM or analysis of where IOM works well. Mentions of 'fragmented teams' or 'leadership' hiring more people are not developed as IOM themes. The audience (technical, transformation-oriented) partially overlaps, but the topic, intent, and discussion are not about what the IOM is or where it fits.",
+    "reasoning_summary": "This content revisits a DevOps transformation outcome, not the Industrial Operating Model itself. It neither explains IOM’s nature nor discusses where IOM succeeds, thus only marginally aligns with the category’s definition.",
+    "level": "Ignored"
   }
 }

@@ -3448,5 +3448,25 @@
     "reasoning": "The content focuses on reducing deployment risk via modern software engineering and continuous delivery practices. There is no mention or exploration of AI, AI operating models, or organization-wide governance approaches for AI product delivery. It does not discuss model lifecycle, AI-specific governance, or the integration of AI into business or technology strategies. All discussion centers around deployment strategies relevant for any software product, and not the AI-specific organizational, process, or governance structures the category defines. Audience may partially overlap (engineering leaders), but the topic and scope are not aligned.",
     "reasoning_summary": "Content does not address AI products or operating models. It focuses on modern deployment practices for general software, with no AI context. Fit is extremely low and tangential to the category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "6VmmXorMZZW",
+    "itemId": "6VmmXorMZZW",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:12",
+    "ai_confidence": 24.6,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.5,
+    "ai_intent": 2.8,
+    "ai_audience": 7.3,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Mentions (-0.5): The discussion of 'outdated practices' implicitly references IOM, but without explicit mention. Alignment (-0.5): Tone is critical of IOM-aligned methods (stage gates, gating), focusing on shortcomings.",
+    "final_score": 25.0,
+    "reasoning": "The content mainly argues against adding more staging environments, presenting modern engineering approaches as superior. While it references 'artificial gates' and 'outdated practices'—hallmarks of IOM—it does so only to contrast them unfavorably and does not explain what IOM is or present its strengths in stable environments. The audience (engineering/technical leaders) partially overlaps, but most of the content is oriented toward advocating against IOM-like practices in favor of modern alternatives. Penalties are applied for implicit, not explicit, mentions and the critical tone regarding IOM mechanics.",
+    "reasoning_summary": "Content criticizes IOM-aligned practices (stage gates, gating) but doesn’t explain or support the Industrial Operating Model itself. Focus is on alternatives, not on what IOM is or where it works. Fit is weak and indirect.",
+    "level": "Ignored"
   }
 }

@@ -3448,5 +3448,25 @@
     "reasoning": "The content focuses extensively on leadership, system design, and Agile/Scrum/DevOps-driven organizational models for software product teams, emphasizing autonomy, flow, and accountability. There is no mention of AI-specific product operating models, nor are there references to AI product lifecycle, model governance, or any of the unique practices, roles, or challenges associated with AI-powered product development. The text does use some vocabulary relevant in the context of AI product operations (like flow, value streams, evidence-based management), but always within the frame of generic software/product leadership and system design, never drawing any explicit or implicit linkage to AI. There are no mentions of AI data/model governance, MLOps, or other unique AI delivery requirements. Thus, there is very low confidence that this fits the 'AI Product Operating Model' category.",
     "reasoning_summary": "Content is about system design and Agile/DevOps/product team leadership, not AI-specific operating models. No mention of AI lifecycle, governance, or unique AI challenges. Category relevance is extremely weak.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "W_KrTupmowf",
+    "itemId": "W_KrTupmowf",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:09",
+    "ai_confidence": 34.88,
+    "ai_mentions": 2.4,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.2,
+    "ai_intent": 2.7,
+    "ai_audience": 6.5,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content references Taylorism, command-and-control, hierarchical decision-making, and the factory analogy as legacies of the Industrial Operating Model (IOM), making several explicit contrasts. However, its focus is overwhelmingly on critiquing IOM and promoting adaptive, empirical, team-centric approaches (Scrum, Kanban, DevOps). Discussion of IOM mechanics and assumptions serves mainly as a foil to argue for more modern, adaptive system design. While there are accurate references to IOM's operating principles—e.g. control, static process, job titles, handoffs—these are discussed to urge change, not to explore or illuminate IOM itself. Readers learn little about where or why IOM works well, nor about its theoretical foundations or strengths. The core purpose is to criticize historical, hierarchical models and advocate alternatives. Direct mentions are few and conceptual coverage of IOM is shallow, whereas adaptivity and system design dominate.",
+    "reasoning_summary": "Content uses IOM elements as contrast to advocate adaptive models. It critiques command-control structures but does not explain, inform, or support IOM use. Partial mention only; focus not aligned with the category’s definition.",
+    "level": "Ignored"
   }
 }

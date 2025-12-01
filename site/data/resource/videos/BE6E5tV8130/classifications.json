@@ -2645,5 +2645,25 @@
     "reasoning": "The content focuses exclusively on comparing agile product development with waterfall project management in general terms, discussing organizational decision-making, iteration, and collaboration. There are no direct or indirect references to AI, machine learning, MLOps, model governance, or any AI-specific product lifecycle or operating model considerations. Furthermore, the content’s intent, depth, and audience remain strictly within the scope of general product and project management, with a specific focus on agile vs waterfall philosophies. No aspects of the unique requirements for AI products or how organizations operationalize AI product delivery are mentioned anywhere in the content.",
     "reasoning_summary": "This content is strictly about agile vs. waterfall product management methods, with no mention or application to AI or its operating model. It does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "BE6E5tV8130",
+    "itemId": "BE6E5tV8130",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:13",
+    "ai_confidence": 67.71,
+    "ai_mentions": 4.5,
+    "ai_alignment": 7.6,
+    "ai_depth": 7.2,
+    "ai_intent": 6.7,
+    "ai_audience": 8.2,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.2,
+    "ai_penalty_details": "Depth (-0.5): Significant portions focus on agile and critique of IOM elements. Intent (-0.4): The tone is more comparative/critical than supportive or neutral to IOM. Mentions (-0.3): Does not name 'Industrial Operating Model' but refers obliquely to the concept (Taylorism, industrial era management, command-and-control, etc.).",
+    "final_score": 68.0,
+    "reasoning": "The content provides substantive discussion of the Industrial Operating Model (IOM) through in-depth explanation of Taylorism, command-and-control structures, management practices, and waterfall project management. Numerous explicit references to vertical decision-making, planning over adaptation, upfront scope, hierarchical structure, and functional specialization are present. The article describes historical roots, discusses where these practices originate, and examines how they operate—meeting the inclusion criteria. However, the primary intent is comparative (agile vs. waterfall/IOM) with some critical tone regarding the shortcomings of traditional practices. There is only limited explicit use of the 'Industrial Operating Model' term (using 'waterfall project management', 'traditional management', etc.), so the mentions score is mid-low. The depth and alignment are both strong, but penalties are applied because large sections pivot to advocating for agile, and the main thrust is not directly explaining or promoting IOM in its own right. Still, readers will understand IOM's core mechanics, origins, and where it works, so inclusion is justified.",
+    "reasoning_summary": "Content substantively explains IOM's structures, origins, and mechanics via waterfall/traditional management. Despite a comparative/critical approach, it strongly aligns with the category, though focus is not exclusively on IOM or its strengths.",
+    "level": "Secondary"
   }
 }

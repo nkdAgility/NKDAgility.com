@@ -2596,5 +2596,25 @@
     "reasoning": "The content focuses entirely on Scrum team practices, software quality, accountability, and engineering excellence using DevOps, but discusses no AI-specific product development, management, or operationalization. There is no mention or thematic development of AI, machine learning, data/model governance, MLOps, or organizational structures required for AI product operating models. While some practices (like automation, source control, and continuous improvement) are relevant generally to modern software practices—including those found in AI product operations—they are discussed here strictly in the context of general software/Scrum and not in relation to AI's unique requirements or lifecycle. No references are made to data governance, model management, AI roles, ethics, or continuous learning specific to AI. The target audience seems to be Scrum practitioners in general software, not AI-focused roles.",
     "reasoning_summary": "This article addresses only practices of professional Scrum teams and software quality in general terms, with no reference to AI product development or operating models. It does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "vCeqzJIgF1F",
+    "itemId": "vCeqzJIgF1F",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:33",
+    "ai_confidence": 16.65,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 1.8,
+    "ai_intent": 2.1,
+    "ai_audience": 3.4,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.2,
+    "ai_penalty_details": "mentions (-0.2, only brief critique of 'Taylorism'); alignment (-0.2, mostly contrasts with IOM rather than explains it); depth (-0.5, no substantive IOM exploration); intent (-0.5, primary aim is Agile professionalism, not IOM understanding); signal (-0.8, focus is on Scrum/Agile, IOM signals sparse and critical)",
+    "final_score": 17.0,
+    "reasoning": "The content centers on Scrum team professionalism, quality, and Agile techniques. References to 'traditional Taylorism-based management techniques' are tangential and only surface-level criticisms, not substantive explanation or support for the Industrial Operating Model (IOM) or its functioning. It does not attempt to clarify what IOM is, how it works, or its strengths. All coverage is in a negative or critical light, violating the category's intent. The overall purpose is to differentiate Professional Scrum from older models, not to inform about IOM structure or context. Brief mentions of centralization and executive decision-making serve mainly to contrast these practices with the purported benefits of Scrum, not to elucidate IOM. Little of the content would help the reader understand IOM in itself—its mechanics, context, or value—instead focusing on why Scrum/Agile are needed.",
+    "reasoning_summary": "The content only briefly and critically references Taylorism/IOM to highlight Agile/Scrum superiority, offering no meaningful explanation of IOM mechanics, structure, or where it succeeds. Its fit to this category is incidental, weak, and negative.",
+    "level": "Ignored"
   }
 }

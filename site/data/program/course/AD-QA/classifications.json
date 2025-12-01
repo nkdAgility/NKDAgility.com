@@ -2593,5 +2593,25 @@
     "reasoning": "The content is focused exclusively on quality assurance using Azure Test Plans within general agile and DevOps contexts. Nowhere does it reference AI, ML, model lifecycle, or operationalizing AI in product delivery. The course topics, learning outcomes, and described audience are all about traditional software testing for web and desktop apps, not AI-powered products or their operating models. There are no directly relevant concepts, roles, practices, or governance concerns specific to AI product operating models, nor is there context tying general testing practices to AI. The score reflects the near-absence of overlap: only the vaguest possible alignment (QA and agile concepts, which could—at extreme stretch—appear in AI product operating, but only tangentially and without explicit relevance in this content). No penalties applied since there are no signs of outdated information or counter-category tone.",
     "reasoning_summary": "The course focuses on software QA with Azure Test Plans, not on AI product operating models. No AI, model governance, or related themes are present, so there is virtually no fit to the category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "AD-QA",
+    "itemId": "AD-QA",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:29:47",
+    "ai_confidence": 10.1,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.15,
+    "ai_intent": 1.0,
+    "ai_audience": 1.9,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on quality assurance and Azure Test Plans in an Agile context. There are no explicit or implicit discussions about the Industrial Operating Model (IOM), its structures, principles, or applicability. The course targets QA professionals and covers team-level agile practices, not the operating or organizational models described in the IOM category definition. Its intent is skills training for tooling, not discussion of industrial-era models or mechanics.",
+    "reasoning_summary": "No substantive connection to the Industrial Operating Model; content is focused on team-level QA practices and agile tooling, not organizational models or IOM structures.",
+    "level": "Ignored"
   }
 }

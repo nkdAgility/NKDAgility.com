@@ -2645,5 +2645,25 @@
     "reasoning": "The content focuses on general Agile methods, value delivery, and adapting to market changes in product development. There is no mention of AI, AI-specific operating models, MLOps, or AI governance. All examples and guidance relate to product management and agility in a broad sense, with no explicit or implicit connection to organizational processes unique to AI products. The intent and audience are generalized for product and software professionals, not specialized for AI. There are no signals of data/model governance, ethical AI, or cross-functional operating models specific to AI products.",
     "reasoning_summary": "Content focuses on Agile product delivery and value in changing markets. It does not mention nor address unique aspects of AI product operating models, thus has minimal fit with the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "qNJ2suVslzE",
+    "itemId": "qNJ2suVslzE",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:35",
+    "ai_confidence": 23.67,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.7,
+    "ai_intent": 3.5,
+    "ai_audience": 5.2,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "mentions (-1): IOM is only indirectly referenced as 'outdated practices' and 'fixed scope' but never named. intent (-1): The main purpose is to promote Agile/adaptive models, not to inform or support IOM.",
+    "final_score": 24.0,
+    "reasoning": "The content references fixed scope, detailed planning, and outdated, control-focused approaches—traits of the IOM—but never explicitly uses 'Industrial Operating Model' or its synonyms. Conceptual alignment is partial; the IOM is portrayed as a background foil to contrast with Agile, not as a subject for deeper understanding. The discussion is focused on why Agile is superior in dynamic markets, only referencing IOM features to set up the case for switching away. The intent and audience are more aligned to Agile/product practitioners than those seeking to understand IOM’s strengths. Penalties applied for lack of direct mention and off-purpose intent, as the tone categorically urges leaving IOM for Agile without examining IOM on its own terms.",
+    "reasoning_summary": "Content references IOM features as flaws but does not explain or promote IOM. Its intent is to contrast Agile with 'outdated' approaches, not to clarify what IOM is or where it excels; fit with the category is partial, mostly indirect.",
+    "level": "Ignored"
   }
 }

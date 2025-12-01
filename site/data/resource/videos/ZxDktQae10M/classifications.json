@@ -2549,5 +2549,25 @@
     "reasoning": "The content is a practical guide about migrating from TFS to VSTS using specific tools. It does not address any aspect of an AI product operating model: there are no references to AI lifecycle, data/model governance, AI team roles, or the unique requirements for operationalizing AI in business. The depth, intent, and alignment are all unrelated to the governance or operationalization of AI-driven products, and the target audience is IT professionals focused on DevOps or product migration, not AI product strategists. None of the key topics outlined in the classification definition are discussed even tangentially.",
     "reasoning_summary": "Content is about DevOps tool migration for TFS/VSTS, not AI product operating models. No AI-specific governance, lifecycle, or organizational discussion present. Does not fit the category except perhaps in vague modernization terms.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "ZxDktQae10M",
+    "itemId": "ZxDktQae10M",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:19",
+    "ai_confidence": 6.9,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.4,
+    "ai_intent": 1.0,
+    "ai_audience": 1.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content exclusively discusses tools and techniques for migrating data from TFS to VSTS (and vice versa), including installation, configuration, and community support. There are no direct or indirect references to the Industrial Operating Model's assumptions, structure, history, or mechanics. The main intent is technical guidance for practitioners, with no substantial discussion of organizational models, hierarchy, standardization, or any of the IOM's defining features. As such, the content is almost entirely unrelated to the IOM as defined, except for a marginal overlap in that large tool-based migrations are sometimes present in organizations with legacy industrial-style operations. However, this is tangential and not the focus, so only minimal scores are assigned for alignment and audience.",
+    "reasoning_summary": "Content gives hands-on migration guidance between TFS and VSTS, without discussing the Industrial Operating Model’s theory, structure, or mechanics. No meaningful alignment with the category definition; fit is highly marginal and coincidental.",
+    "level": "Ignored"
   }
 }

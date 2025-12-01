@@ -3448,5 +3448,25 @@
     "reasoning": "The content discusses operating models within Azure DevOps with in-depth focus on organizational structuring, project boundaries, governance, flow, and reporting—but it is entirely about DevOps tooling, project configuration, and delivery structure at scale. There are no direct mentions or coverage of AI, machine learning, AI product development, MLOps, or AI-specific operating requirements, governance, lifecycle, or principles. While some high-level workflow and governance concepts might tangentially relate to operating models (and thus general product operating models), there is no conceptual or practical alignment with the unique needs, structures, or lifecycle considerations of AI products, as required by the 'AI Product Operating Model' category. The intended audience (delivery leads, DevOps practitioners, technical managers) partially aligns, but the topical fit is minimal.",
     "reasoning_summary": "Content thoroughly discusses project structuring and governance in Azure DevOps, but offers no AI product or AI operating model insights. Not a fit for the AI Product Operating Model category by scope, topics, or intent.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "k-kqjqSgdGx",
+    "itemId": "k-kqjqSgdGx",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:43",
+    "ai_confidence": 2.22,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.9,
+    "ai_intent": 0.5,
+    "ai_audience": 2.4,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses narrowly on Azure DevOps project configuration and the impact of different approaches on flow, governance, and scalability. It occasionally mentions organizational structure (e.g., silos, hierarchy, central decision-making), but only as consequences of Azure setup choices, and not with substantive exploration of the Industrial Operating Model (IOM) itself. There is no discussion of Taylorism, Scientific Management, or the foundational mechanics of IOM; the intent and detail target tooling/practical setup rather than educating about what the IOM is or where it excels. The organizational themes invoked (centralization, silos) are incidental, connected to Azure-specific design recommendations. Therefore, there is limited direct mention, weak conceptual fit, and shallow depth regarding the IOM category.",
+    "reasoning_summary": "Content is about Azure DevOps project/org structure, with incidental reference to silos or hierarchy but no substantive discussion of the Industrial Operating Model's concepts, assumptions, or mechanics. Not a fit for the category.",
+    "level": "Ignored"
   }
 }

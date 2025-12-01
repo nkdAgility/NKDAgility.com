@@ -2607,5 +2607,25 @@
     "reasoning": "The Kanban Guide focuses strictly on core Kanban principles, workflow optimization, and metrics in knowledge work. There is no mention or discussion of AI, AI product development, operating models specifically for AI, or organizational structures and governance for AI products. All commentary, guidance, and examples are generic and not contextualized to AI, model lifecycle, governance, or compliance aspects relevant to the AI Product Operating Model category. No dimensions warrant penalty deductions. The very low scores reflect a total lack of category alignment and only minimal overlap in audience (general product/knowledge work practitioners could overlap with AI teams in broad cases), and in signal (as some operating model concepts are generically described, but not for AI).",
     "reasoning_summary": "Content strictly covers generic Kanban workflow and improvement with no reference to AI products, governance, or operating models. It does not fit the AI Product Operating Model category beyond very broad workflow parallels.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "uD_5MdHKu1Q",
+    "itemId": "uD_5MdHKu1Q",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:11",
+    "ai_confidence": 7.43,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 0.4,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The 'Kanban Guide' content strongly focuses on Kanban principles, continuous improvement, and workflow optimization in knowledge work, referencing Lean and Toyota Production System. However, there are no direct mentions or explicit discussions of the Industrial Operating Model (IOM), nor of its core structures (hierarchy, command-and-control, functional specialization, etc.). The guide does not contrast Kanban with IOM or explain IOM's assumptions, nor does it discuss IOM's strengths or contexts. Its themes align instead with adaptive and flow-based work practices. Therefore, its fit to the Industrial Operating Model category is very weak and only marginally aligns by historical Lean production origin or through implicit reference to workflow approaches that contrast with IOM, but this is not explicit or substantive.",
+    "reasoning_summary": "Content is about Kanban, continuous improvement, and Lean; it does not discuss IOM's structures, assumptions, or strengths. No direct relevance to Industrial Operating Model beyond a brief nod to production history. Fit is negligible and indirect.",
+    "level": "Ignored"
   }
 }

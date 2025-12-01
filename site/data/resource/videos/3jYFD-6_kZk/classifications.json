@@ -2568,5 +2568,25 @@
     "reasoning": "The content thoroughly discusses the migration of data from legacy TFS systems to Azure DevOps, focusing on identity alignment, database cleanup, and backup best practices. It is deeply technical and operational but does not mention AI, machine learning, or the specific organizational structures, governance, or lifecycle management considerations of AI-powered products required by the AI Product Operating Model category. The main audience is DevOps engineers/IT practitioners rather than those concerned with AI operating models, and there is no conceptual or surface-level tie-in to AI product development or specialized lifecycle considerations for AI. None of the key topics—like model governance, data governance as it relates to AI, or organizational alignment for AI initiatives—are addressed. No penalties were applied, as the content is up-to-date and on-topic with respect to Azure DevOps practice, but it is not relevant to the requested category.",
     "reasoning_summary": "This is a technical guide on Azure DevOps and data migration, not AI product operating models. It lacks any discussion of AI-specific governance, lifecycle, roles, or structures, so is not a fit for this category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "3jYFD-6_kZk",
+    "itemId": "3jYFD-6_kZk",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:58",
+    "ai_confidence": 7.8,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 1.0,
+    "ai_audience": 2.1,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is highly specific to data migration between TFS and Azure DevOps, focusing on practical migration steps, technical risks, identity alignment, and backup practices. It does not substantively discuss the Industrial Operating Model, its premises, structures, or contrast to adaptive models. There are only vague, indirect connections such as mentions of 'legacy systems' or 'standardized backup tools,' but these are not discussed in an IOM context. No explicit or implicit themes (hierarchy, functional silos, Taylorism, etc.) are explored. The audience is technical practitioners, not those exploring operating models. No penalties applied as content is current and not satirical or critical about IOM.",
+    "reasoning_summary": "This content focuses on the technical process of Azure DevOps data migration, without discussing the Industrial Operating Model or its principles. It does not fit the assigned category; only tangential relevance at best.",
+    "level": "Ignored"
   }
 }

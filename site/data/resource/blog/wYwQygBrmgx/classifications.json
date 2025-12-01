@@ -2637,5 +2637,25 @@
     "reasoning": "The content is a critique of Taylorism and its legacy in shaping rigid hierarchical structures, best practices, incentives, and bureaucracy in modern management. While it references evolution from industrial-era approaches to more agile frameworks and briefly mentions software and product development (including a nod to cloud/DevOps at Microsoft), it does not discuss AI in any specific or meaningful way. There is no substantive engagement with AI product lifecycle management, unique model governance, data practices, or operating model nuances specific to AI. No audience alignment with leaders structuring AI product teams or managing organizational AI transformation. Nearly all discussion is confined to the general evolution of work and management, not AI or its distinct operating requirements, thus the relevance score is extremely low and only scores above zero because of passing mentions of 'product development' and an illustration of shifting from output to outcome (though not in an AI context).",
     "reasoning_summary": "This content focuses on Taylorism, organizational hierarchy, and agile evolution, not on AI or the specific challenges of AI product operating models. It lacks any meaningful discussion about AI or the management of AI-powered product lifecycles.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "wYwQygBrmgx",
+    "itemId": "wYwQygBrmgx",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:26",
+    "ai_confidence": 72.3,
+    "ai_mentions": 4.4,
+    "ai_alignment": 8.7,
+    "ai_depth": 7.9,
+    "ai_intent": 3.8,
+    "ai_audience": 8.0,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 3,
+    "ai_penalty_details": "Intent: -1 for critical, anti-IOM tone throughout; Mentions: -1 for use of 'Taylorism' and 'bureaucracy' more than 'IOM'; Signal: -1 for substantial focus on drawbacks/transition, some off-topic tangent near end.",
+    "final_score": 72.0,
+    "reasoning": "The content is highly aligned with the Industrial Operating Model definition, diving deeply into Taylorism, hierarchical structures, functional specialization, bureaucracy, standardization, output measurement, and historical origins. It explicitly traces the lineage from Taylor to modern management, with repeated direct mentions of Scientific Management Method and overt articulations of IOM practices (departments, incentive schemes, command-and-control). There is substantial depth explaining how and why these structures emerged and examples (e.g., Microsoft sales) that illustrate both mechanics and cultural entrenchment. However, the article is primarily critical of IOM, with a strong narrative emphasizing failures and human costs. While it provides a thorough understanding of what IOM is, the purpose is less about advocating for, or neutrally explaining, IOM and more about arguing for its obsolescence. A notable portion is devoted to why adaptive approaches are better—diluting pure category intent. Penalties have been deducted for critical tone (intent), relatively fewer literal 'IOM' occurrences versus Taylorism/bureaucracy (mentions), and non-trivial digressions into modern/alternative frameworks (signal). Still, the conceptual alignment, depth, and organizational context are strong, supporting a moderately high confidence score, factoring in the explicitly negative framing.",
+    "reasoning_summary": "Content offers in-depth, historically anchored analysis of Industrial Operating Model mechanics and roots, but with a critical, anti-IOM stance. Strongly illustrative, but focus is more on IOM's problems than on its value or purpose. Fit is partial due to intent.",
+    "level": "Secondary"
   }
 }

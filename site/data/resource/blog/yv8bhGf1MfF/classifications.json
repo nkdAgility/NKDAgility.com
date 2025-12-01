@@ -2655,5 +2655,25 @@
     "reasoning": "The content describes a transformation initiative within the Ghana Police Service using agile and servant leadership. There is a strong focus on organizational change frameworks and leadership models, with direct reference to Scrum, Kanban, empirical process control, and building a custom transformation methodology. However, there is no mention of AI, AI products, machine learning, model lifecycle, MLOps, AI-specific governance, or any topics relevant to the 'AI Product Operating Model' category. The main themes revolve around professional organizational change, not operationalizing AI solutions or productizing AI. All score dimensions are low due to this disconnect.",
     "reasoning_summary": "Content concerns agile-driven organizational change in a police service; there is no reference to AI, AI products, or the unique requirements of AI product operating models. The fit is not evident for this category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "yv8bhGf1MfF",
+    "itemId": "yv8bhGf1MfF",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:49",
+    "ai_confidence": 56.73,
+    "ai_mentions": 2.9,
+    "ai_alignment": 5.5,
+    "ai_depth": 5.8,
+    "ai_intent": 4.9,
+    "ai_audience": 6.7,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 3,
+    "ai_penalty_details": "Direct mentions (-1): No explicit usage of 'Industrial Operating Model', only indirect references (e.g., 'command and control', 'old ways'). Alignment (-1): Content skews critically and is transition-focused. Intent (-1): Main purpose is discussing moving away, with limited supportive context.",
+    "final_score": 57.0,
+    "reasoning": "The article provides some discussion around the characteristics of the Industrial Operating Model, describing the Ghana Police Service's use of hierarchy, command and control, and traditional mechanisms rooted in Taylorism. However, most references are critical and focused on failures, serving as a lead-in to justify adoption of agile/servant leadership frameworks. The content only partially explores what the IOM is, using it as negative contrast to highlight the need for transformation. Direct mentions are limited—no explicit 'Industrial Operating Model' label or in-depth theory, but terms like 'hierarchical', 'command and control', and linkage to Taylorism are present. The main audience is organizational leaders, aligned with category. Signal is moderately strong but diluted by transformation/critique focus. Penalties applied for obsolescence framing, critical tone, and purpose primarily about transitioning away.",
+    "reasoning_summary": "Content describes hierarchical, command-and-control traits of the old system (aligned with IOM), but focuses more on failure and transformation to modern models. Fit is partial and indirect; IOM is context, not the main subject.",
+    "level": "Tertiary"
   }
 }

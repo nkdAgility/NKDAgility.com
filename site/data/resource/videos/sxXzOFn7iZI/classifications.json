@@ -2582,5 +2582,25 @@
     "reasoning": "The content is entirely focused on hiring Agile coaches—their qualities, teaching, mentoring, and inspiring Agile teams. Nowhere does it address AI-specific product operating models, AI governance, unique AI lifecycle challenges, or the integration of AI within product teams. There are no explicit or implicit references to AI, data, MLOps, or any aspect unique to AI products or their operating models. The alignment score is low because the topic is only tangentially related (both address ways to build teams, but that's generic). Depth, intent, and signal are likewise low, as all discussion remains solidly within the Agile coaching/Agile transformation context, never extending its principles to AI or discussing the organizational operationalization of AI products. Audience overlap is possible (organizational leaders), but the focus here is only on Agile (not AI product delivery). No penalties were necessary.",
     "reasoning_summary": "Content centers exclusively on hiring Agile coaches and methods for Agile team improvement. It lacks any mention, theme, or framing relevant to AI Product Operating Models or AI-specific organizational structures. Fit with the category is negligible.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "sxXzOFn7iZI",
+    "itemId": "sxXzOFn7iZI",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:09",
+    "ai_confidence": 12.75,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 1.9,
+    "ai_intent": 0.7,
+    "ai_audience": 4.5,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on hiring Agile coaches, their skills, and their impact on team and organizational Agile transformation. There are no direct or indirect references to the Industrial Operating Model or its characteristics (hierarchy, Taylorism, functional silos, etc.), nor any analysis or explanation of IOM's assumptions, mechanics, or where it works. The only tangential connection is the implication that some organizations are undergoing Agile transformation (potentially from a traditional model), but this is not explored; there is no explanation or discussion of the IOM itself. Therefore, the content has almost no fit with the category, scoring minimally on direct mentions, conceptual alignment, depth, and intent, with slightly higher audience and signal scores as the audience (organizational leaders) might overlap. No penalties were applied as the content is neither outdated nor antagonistic.",
+    "reasoning_summary": "Content is about hiring and qualities of Agile coaches, not about the Industrial Operating Model. It does not explain, analyze, or describe the IOM itself. Fit with the category is minimal.",
+    "level": "Ignored"
   }
 }

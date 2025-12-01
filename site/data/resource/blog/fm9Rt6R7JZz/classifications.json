@@ -2635,5 +2635,25 @@
     "reasoning": "The content discusses forecasting in agile projects, focusing on flow-based metrics (cycle time, throughput, team-based budgeting, and transition from projects to product teams). While it references concepts used in product operating models, there is no explicit or implied discussion of AI products, model lifecycle management, data governance, or ethical or organizational structures unique to AI product operating models. The audience is agile practitioners; the topic is only tangential to product operating models (and not at all to AI-specific ones). All mentions of team, budget, and process are generic—neither specialized for AI nor connected to the distinct AI product operating model concerns from the category definition.",
     "reasoning_summary": "The content is about agile forecasting and budgeting, without reference to AI, model lifecycle, or operating models specific to AI products. There is no thematic, intentional, or conceptual fit to the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "fm9Rt6R7JZz",
+    "itemId": "fm9Rt6R7JZz",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:27:16",
+    "ai_confidence": 27.96,
+    "ai_mentions": 2.3,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.7,
+    "ai_intent": 2.6,
+    "ai_audience": 7.2,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Penalized Direct Mentions (-0.7) for only brief, indirect references to IOM. Penalized Intent (-1.0) as content is critical of IOM and mainly focused on moving away from it; not supportive or informative about IOM's core meaning.",
+    "final_score": 28.0,
+    "reasoning": "The only direct Industrial Operating Model touches are brief references to 'tayloristic ideas' and the 'budget cycle' as legacy practices, which are critiqued rather than described or explained. The main thrust is about Agile forecasting, metrics, and team-based budgeting—focused on moving away from IOM assumptions, not on helping the reader understand what IOM IS or where it succeeds. Discussion of IOM mechanics is fragmentary, present only as points of contrast. The intended audience is practitioners interested in agile and evidence-based management, somewhat aligned, but the content does not provide in-depth or positive analysis, instead using IOM as a 'problem to move on from.' Thus, fit for the category is partial, with major focus on adaptive models and transition challenges.",
+    "reasoning_summary": "Content mentions IOM (as 'tayloristic') mainly to critique/contrast it with agile, not to explain or support it. Depth and alignment are low since the main purpose is discussing forecasting in agile, not IOM fundamentals. Fit is partial and indirect.",
+    "level": "Ignored"
   }
 }

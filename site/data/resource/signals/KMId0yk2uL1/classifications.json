@@ -3448,5 +3448,25 @@
     "reasoning": "The content addresses general software delivery practices (iterative delivery, DORA, CHAOS Report references) but makes no mention of AI, AI-specific product operating models, or unique requirements related to AI products. There is no exploration of AI product lifecycle, governance, roles, model management, or ethical considerations described in the category definition. The core focus is on why delivering software frequently accelerates learning and reduces risk, which is relevant to general or agile product delivery, not AI product operating models. The audience and intent are partly aligned with those who work in iterative delivery, but no AI product focus is present.",
     "reasoning_summary": "This content discusses general software delivery value and iterative release, not AI Product Operating Models. No AI- or model-specific practices or lifecycle are addressed. Fit is highly marginal and indirect at best.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "KMId0yk2uL1",
+    "itemId": "KMId0yk2uL1",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:44",
+    "ai_confidence": 16.23,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.2,
+    "ai_intent": 2.5,
+    "ai_audience": 3.5,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content discusses the value of frequent delivery and iterative releases in software development, referencing CHAOS Report and DORA research. It criticizes long-cycle, non-delivered projects but does not substantively discuss the Industrial Operating Model's structure, assumptions, or strengths. While it implicitly references problems in traditional approaches (e.g., long delivery cycles), it neither explains nor analyzes the IOM itself or provides historical/theoretical context. There are no direct mentions of IOM or deep exploration of its core mechanics. The primary audience seems practitioners interested in modern software delivery, not those seeking to understand the IOM.",
+    "reasoning_summary": "Content focuses on the importance of frequent delivery and critiques long cycles but does not explain or analyze the Industrial Operating Model. Fit is weak; minimal alignment to IOM category intent.",
+    "level": "Ignored"
   }
 }

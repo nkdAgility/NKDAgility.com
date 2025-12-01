@@ -3448,5 +3448,25 @@
     "reasoning": "The content focuses on organizational change via Scrum within the Ghana Police Service, emphasizing empirical process control, team formation, and evidence-based management for transformation. Nowhere does it mention AI, ML, or AI product-specific operating models, nor does it cover AI product lifecycle, MLOps, data/model governance, AI ethics, or any referenced roles like data scientist or ML engineer. The purpose, outcomes, and strategic insights are strictly tied to agile transformation, not operationalizing AI or governing AI products, so conceptual alignment and intent are extremely low for the AI Product Operating Model category. The slight nonzero alignment/mentions ratings reflect terminology (e.g. 'product owner', 'backlog') that appears in both agile and AI product contexts, but their intent here is entirely non-AI. Audience overlap (change leaders) exists only at a generic level—not at the AI domain level.",
     "reasoning_summary": "This content describes an agile transformation of a national police service using Scrum; it does not address AI or AI product operating models. There is no alignment with the category definition, so confidence is very low.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "br0iGV9tHS5",
+    "itemId": "br0iGV9tHS5",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:26",
+    "ai_confidence": 30.56,
+    "ai_mentions": 2.1,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.7,
+    "ai_intent": 3.2,
+    "ai_audience": 5.8,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 31.0,
+    "reasoning": "The content describes a transformation effort within a highly hierarchical, command-and-control organization (the Ghana Police Service). It references command-and-control practices, lack of empirical feedback, and hierarchy, but these serve mainly as the 'problem' to be solved by Agile/Scrum. There are only indirect discussions of IOM elements as context, not as the main subject. The piece is focused on transformation towards empirical, adaptive practices rather than detailing the nature, strengths, or mechanics of the Industrial Operating Model itself. IOM is referenced mostly to highlight what is being changed or left behind, not to help readers understand what it is or where it succeeds. Therefore, scores remain low across mentions, alignment, depth, and intent.",
+    "reasoning_summary": "Content references command-and-control, hierarchy, and legacy structures as problems, but focuses on transformation to Agile/Scrum. It does not explain or highlight IOM as a model—fit is partial, only providing limited context on IOM.",
+    "level": "Ignored"
   }
 }

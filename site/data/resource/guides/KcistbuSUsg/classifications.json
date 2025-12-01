@@ -3448,5 +3448,25 @@
     "reasoning": "The content is a comprehensive guide on OKRs as a management discipline for strategic alignment, contribution, and learning within organizations, focusing on general principles, roles, and workflows. It addresses product operating model concerns but never references AI, ML, model governance, AI lifecycle, or any AI-specific operational need. All examples and frameworks are generic and do not specialize in or discuss any aspect of running AI-powered products, nor do they even tangentially mention integrating AI into product cycles. Mentions score is nearly zero as 'AI' never appears; alignment and depth are minimal since none of the category's distinctive themes (e.g., MLOps, data/model governance for AI, scaling AI delivery) are touched. Audience and signal scores reflect a business/leadership-oriented audience, but not one focused on AI-specific products. The content fits a general product operating model category or agile strategy, but not AI Product Operating Model.",
     "reasoning_summary": "Content is a generic OKR guide without AI focus; no AI product operating model topics or needs addressed. Barely any category alignment beyond universal management themes.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "KcistbuSUsg",
+    "itemId": "KcistbuSUsg",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:47",
+    "ai_confidence": 14.49,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.7,
+    "ai_intent": 0.9,
+    "ai_audience": 7.1,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "There is little explicit or substantive discussion of the Industrial Operating Model (IOM) as defined. The content focuses on OKRs, contribution-based management, and adaptive practices—repeatedly emphasizing agility, distributed ownership, and learning loops. Most references to organization structure are about decentralization, adaptive change, and team autonomy—contrasting with IOM's assumptions. While the guide briefly mentions top-down mandates and traditional strategic planning, it does not analyze or explicate the IOM, nor detail its mechanics, historical context, or intended use cases. The possible audience overlap is due to enterprise/leadership mentions, but actual content alignment with the IOM category is minimal.",
+    "reasoning_summary": "This content does not fit the Industrial Operating Model category—its focus is on adaptive, outcome-driven OKR practices rather than describing, explaining, or supporting the IOM. No substantive IOM analysis is provided.",
+    "level": "Ignored"
   }
 }

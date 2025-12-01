@@ -2625,5 +2625,25 @@
     "reasoning": "The content solely discusses code review practices, automation in pull requests, and early defect detection, focusing exclusively on general software development practices. There is no discussion or even implicit reference to AI-specific product operating models, AI model lifecycle considerations, data governance for AI, MLOps, or any of the dimensions outlined in the AI Product Operating Model category definition. The content targets general software developers, not teams, leaders, or practitioners specifically involved in operationalizing AI products. All scores are low, with the highest being for audience and signal due to the general relevance to software delivery practitioners, but even these do not align with the requirements of the AI Product Operating Model category.",
     "reasoning_summary": "Content is strictly about generic code review and QA in software delivery; it is not about AI Product Operating Models and lacks any relevant references, concepts, or intent.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "s4h2K62V_d0",
+    "itemId": "s4h2K62V_d0",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:59",
+    "ai_confidence": 4.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 1.2,
+    "ai_intent": 0.7,
+    "ai_audience": 0.7,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content focuses exclusively on code review automation and 'shift left' practices in software delivery. There are no direct or conceptual references to the Industrial Operating Model: no discussion of hierarchical structure, centralization, planning, or Taylorism. The themes are squarely modern Agile/DevOps, with zero substantive analysis of IOM foundations, assumptions, strengths, or contexts of applicability. Audience and intent are practitioner-focused for software quality, not organizational model theory. Minimal to none of relevant category content is present.",
+    "reasoning_summary": "No substantive discussion or mention of the Industrial Operating Model or its mechanics; content is fully focused on modern software quality and Agile/DevOps practices. Not a category fit.",
+    "level": "Ignored"
   }
 }

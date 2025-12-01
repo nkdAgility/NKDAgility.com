@@ -2580,5 +2580,25 @@
     "reasoning": "The course content focuses entirely on Scrum fundamentals for general product stakeholders without any reference to AI, AI products, or unique operating model considerations required for AI solutions. There is no mention or exploration of AI-specific product lifecycle management, cross-functional roles unique to AI (e.g., data scientists, ML engineers), data/model governance, MLOps, or ethical AI. All discussion centers around general Scrum roles and engagement, relevant for traditional or agile product management, but not for the specialized operational contexts described by the AI Product Operating Model category. No AI context, intent, audience targeting, or concepts are present.",
     "reasoning_summary": "This content is not relevant for the AI Product Operating Model category—it covers general Scrum stakeholder training without mention of AI, AI products, or AI-specific operational models. Fit is not present.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "S4S",
+    "itemId": "S4S",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:29:43",
+    "ai_confidence": 10.48,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.8,
+    "ai_intent": 2.4,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is a training outline for Scrum stakeholders, focusing on understanding Scrum, its roles, events, benefits over 'traditional approaches,' and how to interact effectively with Scrum teams. The only tangential reference to the Industrial Operating Model is the phrase 'benefits of Scrum over traditional approaches' and comparison to waterfall, which is not expanded upon. There are no substantive explanations of what the Industrial Operating Model is, its core assumptions, structures, or context where it works. The primary intent is to teach Scrum, not to explain or analyze IOM. The content does not help readers understand IOM — it presumes prior models without detail. There is minimal surface alignment (context of change from traditional), but depth and intent regarding IOM are very low, as required by the category definition.",
+    "reasoning_summary": "Content presents Scrum basics and benefits, with only minimal indirect references to traditional or waterfall models. It does not explain Industrial Operating Model concepts, assumptions, or context. Only slight, incidental category alignment.",
+    "level": "Ignored"
   }
 }

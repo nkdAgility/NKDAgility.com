@@ -2639,5 +2639,25 @@
     "reasoning": "The content focuses exclusively on DevOps adoption challenges within traditional and modern software development. There are no explicit or implied references to AI products, AI-specific operating models, or considerations such as model lifecycle, data governance, or AI team roles. The main concepts discussed (risk management, continuous improvement, feedback loops) are framed within a general DevOps/software context, not the operationalization of AI products as outlined in the classification definition. The intent and audience may partially overlap if the reader is interested in operating models, but there is no substantive connection to AI Product Operating Model topics.",
     "reasoning_summary": "Content covers DevOps adoption in software—not AI product operating models. No AI product lifecycle, roles, or governance discussed. Does not meet the category’s scope; fit is incidental and minimal.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "swHtVLD9690",
+    "itemId": "swHtVLD9690",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:49",
+    "ai_confidence": 16.75,
+    "ai_mentions": 1.1,
+    "ai_alignment": 3.8,
+    "ai_depth": 2.5,
+    "ai_intent": 2.2,
+    "ai_audience": 4.3,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content discusses traditional software delivery and risk management as a backdrop for justifying DevOps adoption, mentioning elements like extensive upfront planning, stage gates, and separated test and operations teams. However, it frames these primarily to contrast with modern DevOps, not to explain or analyze the Industrial Operating Model (IOM) itself. There is little depth about IOM assumptions, principles, or when IOM is effective. The intent remains fully focused on DevOps challenges, with only surface references to old models. The audience is practitioners interested in DevOps, not those studying IOM. There is some signal relevant to IOM (e.g., description of traditional sequential delivery models), but overall, the content does not provide substantive discussion or analysis of IOM per the classification definition.",
+    "reasoning_summary": "Content references traditional approaches (e.g., waterfall, handoffs) only as contrast points for DevOps. It doesn't explore IOM's core mechanics or effectiveness; focus and intent stay squarely on DevOps adoption challenges, not the IOM itself.",
+    "level": "Ignored"
   }
 }

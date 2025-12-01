@@ -2618,5 +2618,25 @@
     "reasoning": "This content focuses on Agile and Product Owner impact at Microsoft, especially relating to cultural transformation, feedback cycles, and agile methodology adoption. There is no reference to AI, AI-specific lifecycle management, data/model governance, or organizational models for AI productization. The core discussion is about generic agile product operating model evolution (with some DevOps elements), rather than AI or ML-based product practices. Although themes are relevant to operating models in general, there is zero explicit mention or implied focus on AI, and thus only a tiny overlap by broad process analogy. Audience is practitioners of product and agile, not AI operating model strategists.",
     "reasoning_summary": "Content is strictly about agile product ownership, not AI; no discussion of AI-specific practices, governance, or operating models. Overlap with category is extremely weak and only through very general operating model analogies.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "2IuL2Qvvbfk",
+    "itemId": "2IuL2Qvvbfk",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:54",
+    "ai_confidence": 6.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 1.0,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is centered on Agile transformation at Microsoft, highlighting how Product Owners accelerated feedback cycles, redefined culture, and drove adoption of Agile methods. There is no substantive discussion of the Industrial Operating Model's assumptions, mechanics, or structure; references to IOM-related features (such as rigid two-year cycles) are only in the context of departure from that model, without explicit analysis of the IOM itself. References to hierarchy and established practices are superficial and serve only to contrast them with Agile, not to discuss the IOM as a model in itself. The focus is entirely on adaptive/agile models and transformation leaders, not on defining, analyzing, or advocating for the IOM. Thus, the fit is extremely weak and scores are low across all dimensions, driven mainly by very minor implicit contrast.",
+    "reasoning_summary": "Content does not explain what the Industrial Operating Model is or where it succeeds. It discusses transformation away from older models, focusing entirely on Agile adoption. No substantive IOM alignment; confidence is very low.",
+    "level": "Ignored"
   }
 }

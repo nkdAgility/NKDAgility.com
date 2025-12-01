@@ -3448,5 +3448,25 @@
     "reasoning": "The content exclusively describes the FBI Sentinel project's failed waterfall approach and a successful pivot to Agile/Scrum. It contains no mention of AI, AI products, their operating models, or related governance, lifecycle, or organizational challenges. The focus is on methodology (Agile vs. Waterfall) for general software product delivery, not on AI product operationalization, lifecycles, or unique AI-specific aspects. The audience may overlap (product leaders, delivery managers), but the subject does not address the category's unique requirements. Minimal reference to any key or related AI Product Operating Model dimensions.",
     "reasoning_summary": "No fit: Content focuses solely on traditional project delivery approaches (waterfall vs. Agile) without any AI or operating model context. Does not address any unique aspects of AI product development or organizational operationalization.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "iXdW5l5qVvR",
+    "itemId": "iXdW5l5qVvR",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:37",
+    "ai_confidence": 22.22,
+    "ai_mentions": 2.2,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.7,
+    "ai_intent": 1.9,
+    "ai_audience": 5.2,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 4.2,
+    "ai_penalty_details": "Mentions (-0.5): Only indirect naming of IOM (refers to 'waterfall'), not explicit terminology. Alignment (-0.5): The main theme is critiquing waterfall, not explaining IOM. Depth (-0.7): Focuses on failure and alternative more than on IOM mechanics. Intent (-1.0): Intent is critical/contrasting, not explaining or supporting IOM. Audience (-0.5): General project managers/Agilists, not IOM practitioners. Signal (-1.0): Significant focus is on failure and Agile success rather than substantive IOM explanation.",
+    "final_score": 22.0,
+    "reasoning": "This content centers on the FBI Sentinel project's failure under a 'textbook waterfall' approach, emphasizing the subsequent success with Agile/Scrum. While it mentions waterfall (a common form of IOM), the piece is critical, focused on its failings in dynamic environments and the contrast with adaptive models. No significant exploration is given to IOM’s structures, assumptions, or where it works well. Explicit demerits are given across dimensions for its problem-focused, non-instructional tone. Its brief description of waterfall has little IOM explanation; most of the text serves as critique and argument for alternatives. Audience and relevancy further reduce confidence.",
+    "reasoning_summary": "The content critiques 'waterfall' in the FBI Sentinel project, mainly showing its failures, not explaining Industrial Operating Model principles or value. This makes it a poor overall fit for the category.",
+    "level": "Ignored"
   }
 }

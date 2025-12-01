@@ -2583,5 +2583,25 @@
     "reasoning": "The content is entirely focused on Scrum fundamentals for Product Owners—covering roles, backlog refinement, estimation, and team collaboration—with no mention or contextualization of AI, AI product development, operating models, data governance, or any AI-specific lifecycle, governance, or structure. All course topics are about traditional Scrum as applied to general software or product management. There's no evidence of conceptual or thematic overlap with the unique requirements, structures, or governance involved in operationalizing AI products. The target audience is Product Owners and stakeholders in generic Scrum contexts, not specific to AI products or organizations implementing AI product operating models. Scores are extremely low across all dimensions, reflecting a near-total misalignment, but not strictly zero since Scrum and product operating models are at least structurally related (hence nonzero audience and signal scores). No penalties were necessary as the material is not outdated or critical. Confidence score is extremely low (8.85/100) and proportionate to high irrelevance.",
     "reasoning_summary": "Completely focused on general Scrum and Product Owner training with no reference to AI or AI product operating models. No fit for the category either in topic, intent, or themes.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "S4PO",
+    "itemId": "S4PO",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:29:06",
+    "ai_confidence": 6.8,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.6,
+    "ai_audience": 0.8,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The course content is entirely focused on Scrum, Agile concepts, backlog refinement, and team collaboration within Product Teams. It does not mention or analyze the Industrial Operating Model, its mechanics, underlying principles, or assumptions. There is no explicit or implicit exploration of hierarchical structures, vertical decision-making, or other IOM features. While some references to 'traditional' practices exist, they are in the context of debunking myths or discussing Scrum roles—not to explain or contextualize IOM. The audience, topics, and intent are all aimed at Product Owners adopting Agile methodologies, not at understanding or applying the Industrial Operating Model.",
+    "reasoning_summary": "The content addresses Scrum and Agile training for Product Owners, with no substantive discussion or analysis of the Industrial Operating Model. It does not fit the category, and alignment is negligible.",
+    "level": "Ignored"
   }
 }

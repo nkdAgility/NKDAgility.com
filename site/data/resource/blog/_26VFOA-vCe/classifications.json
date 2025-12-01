@@ -2586,5 +2586,25 @@
     "reasoning": "The content is exclusively about branch policies in TFVC (Team Foundation Version Control), focusing on regular expressions, code review, work item requirements, and process automation within a traditional source control context. There is no mention, explicit or implicit, of AI, AI products, AI lifecycle, or any aspects aligned with AI Product Operating Models. No AI-specific roles, governance, ethical, or lifecycle topics are discussed. The target audience (technical practitioners managing source control) does not overlap with those interested in AI product operationalization. Content is entirely unrelated to the definition, intent, or examples provided for the category.",
     "reasoning_summary": "Content is about TFVC branch policies, not about AI or AI Product Operating Models. No conceptual, topical, or intent-based alignment exists. Not a fit for this category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "_26VFOA-vCe",
+    "itemId": "_26VFOA-vCe",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:27:23",
+    "ai_confidence": 7.82,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 0.8,
+    "ai_audience": 2.4,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on configuring branch policies in TFVC, a technical implementation detail within a specific source control tool. There are no direct or even indirect mentions of the Industrial Operating Model (IOM), nor does the discussion engage with IOM's core assumptions, operating mechanics, or historical context. The main theme is about process enforcement at the tool level, not the organizational structures, management style, or principles that define IOM. Its intended audience is technical practitioners interested in TFVC or TFS policies, not those seeking to understand or compare industrial-era operating models. Any connection to IOM is incidental at best—since TFVC usage might be more common in traditional/waterfall environments—but is never discussed or analyzed. Hence, the content is off-category.",
+    "reasoning_summary": "This content is strictly about TFVC branch policy configuration and does not substantively discuss the Industrial Operating Model, its mechanics, or context. There is no fit with the category definition.",
+    "level": "Ignored"
   }
 }

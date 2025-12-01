@@ -2626,5 +2626,25 @@
     "reasoning": "The content focuses on selecting process templates for team projects in TFS/VSTS, mainly evaluating Scrum, Agile, and CMMI templates for software development and agile process fit. There is no reference—explicit or implicit—to AI products, AI operating models, model governance, MLOps, or AI-specific concerns. The scope, depth, and audience are geared toward agile software/process practitioners, not organizations structuring AI product delivery. There is negligible conceptual match outside the surface-level operational discussion; even as a case study in operating models, it omits all AI context.",
     "reasoning_summary": "Content discusses software/agile process templates (Scrum, Agile, CMMI) in TFS/VSTS with no mention or alignment to AI Product Operating Models. No AI-specific governance, lifecycle, or organizational structures addressed. Poor fit.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "dGSGEOYRJAo",
+    "itemId": "dGSGEOYRJAo",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:33",
+    "ai_confidence": 13.195,
+    "ai_mentions": 0.6,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.2,
+    "ai_intent": 1.8,
+    "ai_audience": 3.0,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on process templates in TFS/VSTS and their fit for Agile/Scrum teams. The Industrial Operating Model (IOM) is not directly discussed, nor are its structures, assumptions, or mechanics. There is brief mention of CMMI and the legacy of MSF, but this is not elaborated to explain IOM's core principles or its context of success. The analysis centers on the friction between templates and Agile adoption, not on what IOM is, how it works, or when it's effective. There are no deep explorations of hierarchy, functional silos, centralized authority, or predictive planning. The few references to CMMI and template rigidity only tangentially touch on characteristics that can be associated with IOM, but these are not foregrounded, explained, or evaluated in the context of IOM as a model. Overall, the content neither explains nor substantiates IOM, making it a very weak fit for the category.",
+    "reasoning_summary": "Content is about picking Agile/Scrum/CMMI process templates for team projects in TFS/VSTS. It does not explain or analyze the Industrial Operating Model; mentions of CMMI and MSF are minor and not explored in IOM context. Very weak category fit.",
+    "level": "Ignored"
   }
 }

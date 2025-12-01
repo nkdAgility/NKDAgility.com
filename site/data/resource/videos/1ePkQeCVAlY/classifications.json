@@ -2615,5 +2615,25 @@
     "reasoning": "The content focuses entirely on differentiating resource efficiency versus flow efficiency within Agile and Lean/DevOps contexts. There is no mention—direct or indirect—of AI, operating models specific to AI products, or any unique considerations of AI Product Operating Models such as AI lifecycle, data/model governance, or scaling AI in organizations. The examples center on general Agile practices, organizational workflow, and human resource dynamics. The only remotely related terms are general product roles (Product Owner) and workflow concepts but not tied to AI. All six dimensions receive very low scores, mainly for faint overlap in audience or conceptual backdrop (Agile), without any direct, substantive, or intentional connection to the AI Product Operating Model category.",
     "reasoning_summary": "This content covers general workflow optimization in Agile/Lean, with no reference to AI or AI-specific product operating models. No relevant intent, themes, or alignment to the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "1ePkQeCVAlY",
+    "itemId": "1ePkQeCVAlY",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:32",
+    "ai_confidence": 41.6,
+    "ai_mentions": 2.1,
+    "ai_alignment": 4.3,
+    "ai_depth": 3.9,
+    "ai_intent": 3.5,
+    "ai_audience": 4.7,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content explains 'resource efficiency' (a core concept in the Industrial Operating Model) as focused on maximizing individual output, likening people to 'machines in a factory.' However, it only briefly and indirectly references IOM assumptions—the main focus is comparing resource efficiency (implicitly IOM-aligned) against flow efficiency (aligned with Lean/Agile). The content is not aimed at explaining or exploring the Industrial Operating Model itself: it does not reference the IOM directly, discuss its history, nor explore its mechanics, structure, or where it excels. Instead, it uses IOM’s mode of efficiency as a contrast, and discusses the drawbacks of excessive resource focus. The audience is Agile practitioners interested in modern, adaptive methods, not those seeking deep understanding of IOM per se. The fit is partial: the resource efficiency portion signals IOM, but the discussion is mostly present as a foil for flow/Agile methods.",
+    "reasoning_summary": "Resource efficiency is explained using IOM logic, but the main purpose is to contrast it with flow efficiency/Agile. Very limited, surface-level fit for the IOM category; the content is not about IOM itself, but about efficiency approaches in Agile.",
+    "level": "Tertiary"
   }
 }

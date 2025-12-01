@@ -3421,5 +3421,25 @@
     "reasoning": "The content is focused on general organizational design, workflow alignment, and dependency removal in large-scale delivery (primarily software). It references concepts relevant to agile, DevOps, and product operating models broadly. However, there is no direct or explicit discussion, example, or operationalization of AI product lifecycles, AI model governance, MLOps, data/ethical considerations related to AI, or other aspects specific to an AI Product Operating Model. References to frameworks like Nexus and Evidence-Based Management are made in the context of dependencies, not AI. The principles described could apply within an AI product context, but the article remains generic, making only tangential or indirect connections to topics relevant for the AI Product Operating Model category. Audience partially aligns, as both may be practitioners in complex product/system delivery, but the main thrust remains on general system design, not AI.",
     "reasoning_summary": "Content is about removing organizational dependencies and improving workflow alignment, but it is not specific to AI product operating models. Lacks discussion of AI lifecycle, data/model governance, or AI-specific structures. Only a partial, indirect fit.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "eBNUwJszXyE",
+    "itemId": "eBNUwJszXyE",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:49",
+    "ai_confidence": 3.958,
+    "ai_mentions": 0.8,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.6,
+    "ai_intent": 1.2,
+    "ai_audience": 2.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.9,
+    "ai_penalty_details": "Penalties applied to alignment (-0.5), depth (-0.7), intent (-0.5), signal (-0.4), and mentions (-0.8): The tone is critical of IOM, presenting its attributes as system deficiencies; IOM not explicitly named or neutrally described; focus is on solving IOM's weaknesses, not understanding or supporting IOM.",
+    "final_score": 4.0,
+    "reasoning": "The content critiques core elements of the Industrial Operating Model (dependencies from silos, functional ownership, handoffs), but never explicitly refers to 'Industrial Operating Model,' Nor does it explain its principles or merits. Instead, it targets IOM-related structures as problems to fix: silos, handoffs, unclear ownership, implicit contracts. The purpose is to advocate for redesigning away from IOM's default arrangements, not to describe, teach, or defend them. Examples cite IOM mechanics, but only as negative symptoms (siloed teams, stage gates, vertical alignment) and urge readers to remove them. Its intended audience are practitioners/transformers, not those seeking to understand IOM per se. The signal-to-noise ratio is modest as content is focused on anti-IOM reform. Multiple penalty points applied because the framework and tone are explicitly critical, not informative or neutral as the category requires.",
+    "reasoning_summary": "Content opposes IOM principles, presenting its structures as flaws to be eliminated. Lacks direct, neutral discussion or explanation of IOM itself—mostly critiques and remedies. Therefore, fit is minimal and confidence score is very low.",
+    "level": "Ignored"
   }
 }

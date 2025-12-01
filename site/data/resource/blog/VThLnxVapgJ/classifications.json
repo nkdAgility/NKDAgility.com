@@ -2971,5 +2971,25 @@
     "reasoning": "The content thoroughly discusses business resilience, continuity, and related modern engineering practices such as observability, decoupling, CI/CD, SRE, and EBM. However, it does not reference AI, machine learning, or AI-specific operating model challenges. The principles are applicable to software and digital product engineering broadly, but there are no mentions or conceptual alignment with the unique needs of AI-powered products—such as model lifecycle, AI data governance, ethical deployment, or cross-functional AI product teams. While some concepts (e.g., continuous delivery, evidence-based management) are foundational for robust AI operations, these are discussed generically, not in an AI context or with any operationalization of AI product delivery. Thus, the fit with the 'AI Product Operating Model' category is very weak.",
     "reasoning_summary": "Content focuses on general business resilience, DevOps, and SRE, with no mention of AI or model-specific operating structures. Lacks AI product lifecycle, governance, or organizational themes—so fit with AI Product Operating Model is very low.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "VThLnxVapgJ",
+    "itemId": "VThLnxVapgJ",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:30",
+    "ai_confidence": 8.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.2,
+    "ai_intent": 1.0,
+    "ai_audience": 1.7,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on modern strategies for business resilience—decentralised decision-making, empowerment, DevOps, SRE, observability, routine deployment, team autonomy. It contrasts (often implicitly) against hierarchical, centralized models but never defines, analyzes, or explicitly discusses the Industrial Operating Model (IOM) or its mechanics, assumptions, or context. The only IOM-relevant mention is a brief criticism of 'command-and-control' during crises. There is no direct explanation of what IOM is, when it works best, its structures, or its core ideas. The primary purpose and audience are strongly DevOps/modern engineering, not about understanding IOM. Thus, the content is almost entirely off-topic for this category.",
+    "reasoning_summary": "Content focuses on modern resilience tactics (DevOps, SRE, empowerment); it lacks substantive discussion of IOM’s structures, principles, or strengths. No IOM definition or analysis. Fit with category is negligible and mostly indirect.",
+    "level": "Ignored"
   }
 }

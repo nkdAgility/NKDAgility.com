@@ -2618,5 +2618,25 @@
     "reasoning": "The content focuses on critiques of the Scaled Agile Framework (SAFe) and its impact on organizational agility, contrasting prescriptive frameworks with genuine business evolution. Nowhere does it mention, address, or contextualize AI product operating models, their lifecycle, governance, or AI-specific team roles. There is no discussion of data/model governance, MLOps, AI-specific ethics, or integration of AI into operating models. Content is strictly about business agility and frameworks (SAFe, Taylorism) in a general technology/product context, with no reference to AI products, strategy, or delivery. No signals of the unique requirements, principles, or challenges involved in operationalizing AI solutions. All six dimensions score very low due to total lack of relevance to the requested category.",
     "reasoning_summary": "The content addresses general agile frameworks and business agility but does not mention or align with AI Product Operating Models or their unique requirements. No substantive relevance to the category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "kmQceaX7e-O",
+    "itemId": "kmQceaX7e-O",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:40",
+    "ai_confidence": 37.39,
+    "ai_mentions": 3.6,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.3,
+    "ai_intent": 3.1,
+    "ai_audience": 3.8,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.5,
+    "ai_penalty_details": "Intent (-0.8, critical and negative tone toward IOM); Alignment (-0.7, content more about criticizing rigidity and SAFe rather than explaining IOM principles); Mentions (-0.5, explicit link to Taylorism but little systematic IOM reference); Signal (-0.5, much content focuses on transitions, criticism, and alternative models);",
+    "final_score": 37.0,
+    "reasoning": "The content critiques SAFe as a rigid, pseudo-agile framework, arguing it perpetuates the same bureaucracy and Tayloristic traits as the Industrial Operating Model (IOM). It references Taylorism, bureaucracy, rigid practices, and the historical foundation of IOM. However, the main focus is not on informing about IOM or its effective application, but rather on warning against adopting prescriptive frameworks like SAFe. There's significant attention to transition, evolution, and modernization themes. Penalties were applied for the overtly critical framing (anti-IOM), weakly substantive coverage of IOM mechanics, and significant digressions toward modern alternatives and transformation. There are relevant IOM signals (Taylorism, command-and-control, rigidity), but the topic is predominantly a critique of SAFe and a push toward adaptive evolution, not an explanation of the Industrial Operating Model itself.",
+    "reasoning_summary": "Content references Taylorism and IOM traits but mainly as critique of SAFe. Focus is on the problems of rigidity and promoting adaptive change, not on explaining or supporting the Industrial Operating Model. Fit is partial and primarily critical.",
+    "level": "Ignored"
   }
 }

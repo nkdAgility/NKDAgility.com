@@ -2579,5 +2579,25 @@
     "reasoning": "The content is entirely focused on Kanban workflows, the dangers of ignoring problems, and best practices for transparency and issue resolution within team processes. Nowhere does it reference AI, AI products, operating models for AI, or anything specific to the lifecycle, governance, or unique challenges of operationalizing AI products. While some principles here (transparency, continuous improvement) are tangentially relevant to any modern operating model, the article strictly targets generic workflow/blockages and process issues in Kanban. There are no direct or implicit references to AI, AI-powered products, model management, data governance, or organizational AI strategy. Consequently, all scoring dims are minimal, adjusted slightly to avoid tie scores or zeros, and the confidence is extremely low.",
     "reasoning_summary": "This content covers Kanban workflow issues and process transparency but contains no specific or implicit discussion of AI product operating models. It is not relevant to the specialized category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "Xa_e2EnLEV4",
+    "itemId": "Xa_e2EnLEV4",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:50",
+    "ai_confidence": 6.52,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.4,
+    "ai_intent": 0.8,
+    "ai_audience": 1.0,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on common team-level problems with Kanban, emphasizing the pitfalls of ignoring issues such as technical debt or workflow blockages. It strictly discusses Kanban process discipline, transparency, and problem-solving. There is no substantive mention or exploration of Industrial Operating Model concepts: no references to hierarchy, command-and-control, standardized processes, or Taylorism. References to bureaucratic processes are used only as negative examples in Kanban, not as discussion of their origin or function in IOM. The intent is team-level Kanban improvement, not explaining or referencing IOM's structure, strengths, or mechanics. Thus, only a fractional alignment with the category exists (minor indirect references to bureaucracy), resulting in very low scores across all dimensions. No penalties applied.",
+    "reasoning_summary": "This content is about team-level Kanban practices, not explaining or focusing on the Industrial Operating Model. It lacks IOM definitions, context, or strengths, and only glancingly mentions bureaucratic processes as issues to fix.",
+    "level": "Ignored"
   }
 }

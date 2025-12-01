@@ -3448,5 +3448,25 @@
     "reasoning": "The content centers on technical debt and its implications for software as a business asset. There are no mentions or discussion of AI, AI product lifecycle, AI-specific organizational practices, or operating models. While it references product delivery and asset management, these are generic and not contextualized to the governance, structure, or end-to-end management of AI products per the category definition. The intent is more about general software and financial asset stewardship than the unique lifecycle, governance, or scaling challenges of AI products. Audience targeting and signal-to-noise are somewhat relevant since CFOs and product stakeholders overlap, but the piece does not address AI product operationalization or organization-wide models.",
     "reasoning_summary": "Content focuses on technical debt and misrepresentation of software as an asset, without reference to AI or operating models. It does not match the intent or topics of the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "u-ACEx3Q01p",
+    "itemId": "u-ACEx3Q01p",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:59",
+    "ai_confidence": 8.4,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.8,
+    "ai_audience": 2.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on technical debt and the accurate accounting of software as a business asset, referencing CFOs, capital expenditure, and the business implications of misrepresenting assets. However, there are no explicit mentions or substantive discussion of the Industrial Operating Model, its assumptions, structures, or mechanics. There’s no exploration of hierarchy, command-and-control, stage gating, or other IOM-specific features. The topic is asset governance and risk, which could tangentially relate to IOM's efficiency orientation, but is not positioned in that context. The target audience (financial/technology management) partially overlaps with IOM's likely readers, but the content does not illuminate, describe, or support understanding of the IOM itself.",
+    "reasoning_summary": "The content does not discuss the Industrial Operating Model or its features. It focuses on technical debt and asset value, lacking alignment or depth on IOM themes or structure. Fit is very minimal and tangential.",
+    "level": "Ignored"
   }
 }

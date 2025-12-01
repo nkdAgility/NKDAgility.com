@@ -2638,5 +2638,25 @@
     "reasoning": "The content exclusively discusses general benefits of frequent code deployments, code quality, and iterative engineering practices. There is no explicit mention or discussion of AI products, AI-specific lifecycle, data/model governance, or operating model structures unique to AI. The audience focus, themes, and examples remain generic to software engineering and DevOps, with no contextualization for AI product delivery or unique AI considerations. Consequently, the content is misaligned with the AI Product Operating Model category; scoring is low across all dimensions except for partial audience/signal relevance applicable to generic engineering teams.",
     "reasoning_summary": "The content addresses frequent deployments and software quality in general terms, with no focus on AI products, unique AI lifecycle, or operating model aspects. It does not fit the AI Product Operating Model category except in very broad, tangential ways.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "D1wz-J1jklQ",
+    "itemId": "D1wz-J1jklQ",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:17",
+    "ai_confidence": 8.26,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.32,
+    "ai_intent": 0.27,
+    "ai_audience": 3.8,
+    "ai_signal": 4.86,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content makes no explicit or implicit reference to the Industrial Operating Model (IOM), nor does it discuss IOM assumptions, structures, or context. Instead, it describes benefits of frequent deployments, iterative development, and feedback cycles—concepts typically associated with agile/adaptive models and DevOps. There is no discussion of hierarchy, stage gates, command-and-control, functional specialization, Taylorism, or where IOM works. The target audience is practitioners interested in modern engineering and software delivery, not those seeking IOM insights. Signal-to-noise is higher than other dimensions because most content is relevant to engineering process improvement, but relevance to IOM is virtually absent.",
+    "reasoning_summary": "Does not fit the category—no substantive mention or discussion of the Industrial Operating Model or its attributes. Content is focused on agile/devops practices, not IOM structure or mechanics.",
+    "level": "Ignored"
   }
 }

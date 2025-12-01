@@ -2699,5 +2699,25 @@
     "reasoning": "The content exclusively discusses strategies for modernising legacy systems, focusing on balancing stability and innovation, gradual improvement, and engineering best practices. There are no references—direct or indirect—to AI, AI product operating models, AI-specific governance, MLOps, or issues unique to deploying or managing AI solutions. The audience is organizational leaders or IT teams interested in modernization, but the advice is broad and agnostic of specific technology domains, especially AI. Since none of the core elements of the AI Product Operating Model are addressed—such as data/model governance, ethical deployment of AI, or cross-functional AI product teams—fit is minimal.",
     "reasoning_summary": "The content is about legacy system modernization in general, with no mention or exploration of AI or AI product operating models. It lacks alignment with the category’s scope, resulting in a very low confidence score.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "S-YSqmiQ8BE",
+    "itemId": "S-YSqmiQ8BE",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:52",
+    "ai_confidence": 22.15,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.7,
+    "ai_intent": 2.5,
+    "ai_audience": 7.1,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content focuses on strategies for modernizing legacy systems, specifically balancing stability and innovation. While it references stability and incremental change—concepts adjacent to the Industrial Operating Model (IOM)—it never explicitly discusses the IOM, its mechanics, structure, or theory. No clear mention of hierarchical models, standardized processes, or scientific management is made, nor is there a comparison with modern/adaptive models. Discussion is targeted at practitioners facing legacy modernization, not at understanding or applying the Industrial Operating Model itself. Thus, only weak conceptual alignment exists due to tangential associations with 'stability', but the main topic is unrelated to explaining or supporting the IOM.",
+    "reasoning_summary": "Content focuses on legacy system modernization and stability vs. innovation, not on explaining or exploring the Industrial Operating Model itself. Tangential thematic overlap yields only partial conceptual fit; category inclusion is not warranted.",
+    "level": "Ignored"
   }
 }

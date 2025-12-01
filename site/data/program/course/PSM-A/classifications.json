@@ -2577,5 +2577,25 @@
     "reasoning": "The content focuses entirely on advanced practices for Scrum Masters, with no references to AI, AI products, or operating models involving AI. Topics listed—servant leadership, facilitation, Scrum events, team conflict—are generic to software development agility. There are no discussions of AI model lifecycle, governance, MLOps, or AI-specific organizational operations. The audience is Scrum practitioners, not teams seeking to operationalize AI product lifecycles. The only potential overlap is indirect: process topics (like metrics, change agency) are tangentially relevant to operating models in general, but not the AI-specific context. No penalties were needed since the content is not outdated or critical, just unrelated. The very low confidence score reflects the almost total lack of relevance.",
     "reasoning_summary": "This is an advanced Scrum Master training with no mention or discussion of AI or AI product operating models. The content is entirely general to Agile/Scrum, providing zero alignment with the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "PSM-A",
+    "itemId": "PSM-A",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:29:48",
+    "ai_confidence": 8.9,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.5,
+    "ai_intent": 0.8,
+    "ai_audience": 1.2,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The PSM-A course content focuses on advanced Scrum Master practices—servant leadership, team dynamics, facilitation, and the practical application of Scrum. It does not mention, explain, or analyze the Industrial Operating Model (IOM), nor does it provide historical context, structural description, or comparisons to Taylorism, Scientific Management, or efficiency-driven hierarchies. The only tangential overlap is the mention of organizational change and middle management, which is not discussed in IOM terms. There are no direct or indirect IOM references. Audience and intent are tightly focused on Agile practitioners, not those studying or applying IOM. Content is highly specific to Agile/modern methods, not the established industrial model.",
+    "reasoning_summary": "This content has no substantive connection to the Industrial Operating Model. It centers on advanced Scrum practice, lacks any IOM references or conceptual overlap, and targets Agile practitioners. Fit is clearly not aligned with the category definition.",
+    "level": "Ignored"
   }
 }

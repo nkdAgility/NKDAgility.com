@@ -2632,5 +2632,25 @@
     "reasoning": "The content focuses on Agile practices (especially the pitfalls of 'special sprints'), risk management, and continuous delivery, using a DevOps case study. However, it does not explicitly discuss AI Product Operating Models or address unique AI governance, lifecycle, or organizational alignment concerns. There is no mention of AI, machine learning, data governance, or model lifecycle elements as required by the category definition. The Azure DevOps example relates to software delivery, not AI-specific product operations. The content is aimed at Agile practitioners and teams, not those managing the operational realities of AI products. Thus, the content is almost entirely out-of-scope for the intended category.",
     "reasoning_summary": "The content is about Agile anti-patterns and risk management in software teams, not about how organizations operate or govern AI products. No AI-specific operating model concepts or terminology are present.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "rEqytRyOHGI",
+    "itemId": "rEqytRyOHGI",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:50",
+    "ai_confidence": 12.475,
+    "ai_mentions": 0.7,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 1.0,
+    "ai_audience": 6.1,
+    "ai_signal": 9.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content centers on criticizing 'special sprints' in Agile and contrasts traditional project management risk mitigation (detailed planning, stable environments) briefly, but only in passing. It does not substantially describe or analyze the Industrial Operating Model's assumptions, mechanics, or historical foundations. The only relevant reference is to traditional planning methods as a foil for Agile's continuous delivery. The rest of the content is focused exclusively on Agile practices, practical advice for avoiding waterfall-like behaviors, and case studies from Agile transformations, rather than any deep dive into what the Industrial Operating Model IS or where it works. Audience is likely to overlap (practitioners, managers), and the writing is tightly focused (high signal), but fits the 'exclude' criteria: it does not help readers understand the IOM itself—only its perceived deficiencies as a contrast to Agile.",
+    "reasoning_summary": "Content briefly references traditional project management but focuses on Agile practice critiques and improvements. It lacks substantive discussion of the Industrial Operating Model's assumptions or structure; fit for this category is minimal and indirect.",
+    "level": "Ignored"
   }
 }

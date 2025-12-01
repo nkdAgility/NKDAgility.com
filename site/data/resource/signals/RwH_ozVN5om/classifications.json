@@ -3448,5 +3448,25 @@
     "reasoning": "The content exclusively discusses generic bug management in software teams with no explicit or implicit reference to AI Product Operating Models or their unique concerns. It lacks mention of AI lifecycle, model governance, or any AI-specific context in operating models. The audience may include product and engineering professionals but not specifically those focused on operationalizing AI products. Thus, scores are minimal across all dimensions, yielding an appropriately low confidence.",
     "reasoning_summary": "No relevance to AI Product Operating Model; solely about generic software bug management, not AI or its operating model. Does not fit the category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "RwH_ozVN5om",
+    "itemId": "RwH_ozVN5om",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:49",
+    "ai_confidence": 6.2,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.4,
+    "ai_audience": 1.5,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content discusses software bug handling, criticizing bug backlogs and promoting immediate resolution. It lacks direct reference to the Industrial Operating Model or its concepts (hierarchy, standardization, command-and-control). There is no discussion of IOM's assumptions, structures, or mechanisms. The only marginal alignment is the brief mention of 'QA' queues, which could be seen as a vestige of stage-gate or siloed thinking, but this is not explored or analyzed. The dominant focus is on Agile values and effective defect response, not the IOM. No audience, depth, or thematic connection to IOM principles is established.",
+    "reasoning_summary": "This content focuses on prompt bug fixing and Agile values with no substantive discussion of IOM concepts, intent, or themes. There is minimal overlap or explicit alignment with the category definition.",
+    "level": "Ignored"
   }
 }

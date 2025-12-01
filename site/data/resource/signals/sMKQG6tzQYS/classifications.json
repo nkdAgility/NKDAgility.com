@@ -3448,5 +3448,25 @@
     "reasoning": "The content discusses an outdated criminal records system and advocates for agile over waterfall approaches. There are no references to AI, AI product lifecycle, organizational operating models for AI, or any AI-specific governance, ethics, or model management frameworks. The example is general to software/IT and digital transformation, not connected to the unique aspects of AI products or their operating models. The audience is general technology or delivery practitioners, not specific to AI or those managing AI products. There is no mention or discussion of AI product operating models, and the themes do not align with the category definition.",
     "reasoning_summary": "This content is about general IT delivery (waterfall vs. agile) using a non-AI example. It does not discuss AI products or their operational models, so alignment with the 'AI Product Operating Model' category is extremely weak.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "sMKQG6tzQYS",
+    "itemId": "sMKQG6tzQYS",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:42",
+    "ai_confidence": 18.65,
+    "ai_mentions": 1.1,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.4,
+    "ai_intent": 2.7,
+    "ai_audience": 5.6,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 4,
+    "ai_penalty_details": "Mentions penalized (no direct IOM reference), Alignment penalized (focuses on downsides of IOM), Depth penalized (superficial IOM analysis), Signal penalized (emphasis is critique and Agile advocacy, not IOM structure itself)",
+    "final_score": 19.0,
+    "reasoning": "The content discusses a failed government IT project to criticize slow, waterfall approaches and advocate for Agile. It references characteristics of the Industrial Operating Model (e.g., long planning cycles, waterfall), but only by implication; the term is never mentioned. The main purpose is to highlight IOM's problems for modern tech, rather than to explain what IOM is or where it works. There is little substantive analysis of IOM mechanics, assumptions, or strengths—instead, the contrast is to Agile. The audience is technical or managerial, but the signal-to-noise ratio is low for the target category due to the content's focus on failure and transition.",
+    "reasoning_summary": "Content implicitly critiques IOM (waterfall), emphasizing its failures without substantive analysis of its nature or where it works. Fits category poorly: not explanatory or supportive; focus is on advocating Agile over IOM.",
+    "level": "Ignored"
   }
 }

@@ -3448,5 +3448,25 @@
     "reasoning": "The content is an in-depth critique of Agile as a delivery discipline, emphasizing engineering rigor, CI/CD, and organizational system design. However, there is no explicit or implicit focus on AI product operating models, unique AI lifecycle concerns, AI data/model governance, or organizational structures for AI products. Concepts such as MLOps, ethical AI, or scaling AI in organizational contexts are entirely absent. The discussion never references or contextualizes content specifically for AI products or their operating models; it instead critiques general Agile misconceptions and mispractices largely in the context of traditional software development. Thus, main ideas and intended audience do not correspond to AI Product Operating Model—including any mention of relevant frameworks, processes, or governance layers unique to AI. The very limited signals relevant to the evaluated category come only from a general overlap where systems thinking and delivery discipline are also relevant in AI, but this is indirect and insufficient for substantial alignment.",
     "reasoning_summary": "Content is focused exclusively on Agile as a system of work in software engineering, with no explicit or contextual discussion of AI product operating models or their unique requirements. Misaligned with the assigned category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "ABbVdMBZ5fI",
+    "itemId": "ABbVdMBZ5fI",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:37",
+    "ai_confidence": 11.69,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 1.4,
+    "ai_audience": 3.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is focused on defining Agile as a disciplined delivery system based on engineering and system design. It contrasts Agile with vague behavioural framings and briefly references legacy structures (project gates, command hierarchies, stage approvals, silos), but does not substantively explain the Industrial Operating Model (IOM), its underlying assumptions, or where it works. IOM is implied as what Agile is not, and is referenced obliquely through criticism of command-and-control structures and traditional management boundaries. No direct or detailed discussion of IOM mechanics, strengths, or history is present. The main purpose is clarifying Agile's system and engineering focus, not illustrating IOM.",
+    "reasoning_summary": "This content does not fit the 'Industrial Operating Model' category. While it mentions legacy structures (gates, hierarchies), it does not explain IOM, its assumptions, or functioning. Its focus is on Agile delivery, not on understanding IOM itself.",
+    "level": "Ignored"
   }
 }

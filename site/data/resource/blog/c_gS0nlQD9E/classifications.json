@@ -2631,5 +2631,25 @@
     "reasoning": "The content focuses on agile, DevOps, Site Reliability Engineering, and software delivery velocity, with an in-depth case study from Azure DevOps. Nowhere in the content are AI, ML, or unique AI product operating model considerations mentioned or implied; topics such as data/model governance, AI ethics, MLOps, or lifecycle management for AI products are absent. The operating model described refers to traditional software/DevOps product team workflows, not the unique governance or delivery structures for AI-driven products. An audience overlap exists for those interested in operating models, but content is not targeting AI product teams. Some signal overlaps due to general operating model themes, but all explicit AI context is missing. Penalties applied for misalignment, lack of AI-specific intent, and superficial thematic fit.",
     "reasoning_summary": "This content covers DevOps and SRE operating models for traditional software teams, not AI products. It does not discuss AI-specific operating model challenges or practices; fit with the category is marginal and largely coincidental.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "c_gS0nlQD9E",
+    "itemId": "c_gS0nlQD9E",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:27:07",
+    "ai_confidence": 10.85,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 0.2,
+    "ai_audience": 4.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 3.0,
+    "ai_penalty_details": "Mentions penalized (-0.9) for no explicit IOM references; Alignment (-0.9), Depth (-0.7), and Intent (-0.9) all penalized for critical framing and content focused on adaptive/DevOps models rather than IOM structure.",
+    "final_score": 11.0,
+    "reasoning": "The content focuses entirely on the move away from established, efficiency-focused practices, advocating for agile, DevOps, and rapid feedback. There are no direct or in-depth discussions of Industrial Operating Model mechanics, assumptions, strengths, or relevant organizational structures. The main theme is that previous models do not work in the current fast-changing environment, with strong emphasis on adaptation, not IOM practices. Penalties were applied for the critical, outdated framing of IOM, very limited or no direct mentions, and for intent misalignment. Audience partially aligns, as readers may be familiar with traditional models, but the focus is overwhelmingly on modern, adaptive practices.",
+    "reasoning_summary": "The content discusses evolving away from traditional models but does not explain IOM’s structure, strengths, or core concepts. Its primary focus is on agile/DevOps adoption and rapid change, not the Industrial Operating Model itself. Fit is very weak.",
+    "level": "Ignored"
   }
 }

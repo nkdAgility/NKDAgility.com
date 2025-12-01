@@ -2593,5 +2593,25 @@
     "reasoning": "No explicit or implicit mention of AI or AI product operating models occurs. The piece analyzes organizational structure problems of 'Alpha' organizations in volatile markets, with agile/decentralized (Beta) models vaguely promoted instead, but never in an AI-specific context. While the general themes of modern agile practice, organizational adaptability, and waste are discussed, these are not linked to AI or its operationalization in products. No key concepts (AI product lifecycle, roles, MLOps, model governance, ethical issues, etc.) appear. Audience and signal are a little higher, as process/management practitioners might be interested, but AI product context is fully missing.",
     "reasoning_summary": "Content addresses organizational agility vs. hierarchy in fast markets but never discusses AI, AI products, or their operating models. Thus, it does not fit the AI Product Operating Model category even in a partial way.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "jW4sFDdDkvn",
+    "itemId": "jW4sFDdDkvn",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:41",
+    "ai_confidence": 28.32,
+    "ai_mentions": 3.0,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.0,
+    "ai_intent": 2.8,
+    "ai_audience": 7.5,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 4,
+    "ai_penalty_details": "Mentions (-1): IOM is referenced primarily as 'Alpha' with implicit ties, not explicitly named; Alignment (-1): Framing is critical, focusing on IOM’s dysfunction; Depth (-1): Details focus on failure, not functional aspects; Intent (-1): Purpose is undermining, not explaining IOM's efficiency or operating mechanics.",
+    "final_score": 28.0,
+    "reasoning": "The content uses 'Alpha organisation' as a clear stand-in for the Industrial Operating Model, describing its features (hierarchy, bureaucracy, command and control, specialization). However, the discussion is critical, focusing mostly on Alpha's shortcomings in dynamic 'red markets,' with the aim of advocating for agile/decentralized models instead. While there are implicit descriptive elements (organization chart, decision centralization, process rigidity), these serve as setup for criticisms of inefficiency, stifled innovation, and poor market responsiveness. Substantive explanation of where and why IOM works (per the category definition) is minimal, with much of the content targeting limitations rather than informing the reader about IOM's intended strengths or operational context. The audience is likely executives or strategists, fitting partially, and the signal is diluted by negative framing and discussion of alternatives. Penalties are applied for the undermining tone, lack of explicit IOM mention, discussion focusing on faults rather than substantive mechanics, and an intent to argue against IOM rather than inform about it.",
+    "reasoning_summary": "The content critiques IOM ('Alpha') for its failures in dynamic markets, highlighting rigidity and waste. While IOM features are described, the primary intent is critical, not explanatory, so fit to the category is partial and weak.",
+    "level": "Ignored"
   }
 }

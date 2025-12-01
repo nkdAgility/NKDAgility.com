@@ -2625,5 +2625,25 @@
     "reasoning": "The content focuses exclusively on general agile delivery principles and the importance of shipping usable products every iteration, highlighting concepts like stakeholder trust, technical debt, adaptability, and feedback. There are no explicit or implicit references to any AI-specific product requirements, AI product operating models, or the unique lifecycle, governance, or scaling factors for AI products. No mention is made of data/model governance, MLOps, ethical AI, cross-functional roles specific to AI, or any business/tech structure unique to AI-enabled solutions. The target audience appears to be general agile practitioners, not those concerned with operationalizing AI products. The only minor overlap is the adaptability theme, but this is presented in the most general agile sense, without any tie-in to AI contexts.",
     "reasoning_summary": "Content addresses only generic agile delivery and does not mention or align with the AI Product Operating Model category. There are no AI- or operating model-specific references. Fit is extremely poor.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "G1N1dQ6DNEV",
+    "itemId": "G1N1dQ6DNEV",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:49",
+    "ai_confidence": 7.66,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.2,
+    "ai_intent": 0.8,
+    "ai_audience": 2.7,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content does not mention the Industrial Operating Model (IOM) directly nor discuss its core mechanics, assumptions, or structures. Instead, it focuses on agile failure modes when not delivering usable increments, with no exploration of hierarchy, command-and-control, standardization, or Taylorism. There is only an indirect alignment in the sense that failing to deliver working products can happen in predictive, non-adaptive (IOM-like) environments, but this is implied and very tangential. There are no explicit comparisons, no conceptual themes focusing on IOM, and the entire discussion is framed around what is required for professional Agile practice—entirely outside the IOM category definition. The audience is likely Agile practitioners, not those seeking understanding of industrial-era work organization.",
+    "reasoning_summary": "Content is about agile iteration failures—not IOM principles, mechanics, or purpose. Provides no substantive information to help readers understand what IOM is or where it applies. Fit is highly tangential; virtually no evidence for category relevance.",
+    "level": "Ignored"
   }
 }

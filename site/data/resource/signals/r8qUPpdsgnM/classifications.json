@@ -3448,5 +3448,25 @@
     "reasoning": "The content strictly addresses traditional software engineering practices (staging environments, feature flags, progressive rollouts) for risk reduction. There are no direct or indirect references to operating models for AI products, nor does it discuss challenges unique to AI (such as data/model governance, MLOps, ethical considerations, or organizational alignment for AI lifecycle management). While intended for engineering/product teams, the subject matter is too generic, with zero alignment to the AI Product Operating Model category.",
     "reasoning_summary": "This content discusses general engineering and deployment tactics, not AI Product Operating Models. There are no AI-specific operating structures, governance, or lifecycle elements discussed. Fit is minimal to nonexistent.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "r8qUPpdsgnM",
+    "itemId": "r8qUPpdsgnM",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:07",
+    "ai_confidence": 19.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.1,
+    "ai_intent": 1.5,
+    "ai_audience": 5.3,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 3,
+    "ai_penalty_details": "Mentions (-0.8): Does not reference the Industrial Operating Model explicitly or conceptually; Alignment (-0.7): Content concerns technical practices, not organizational model; Depth (-0.5): Surface-level allusions to traditional practices, without IOM exploration.",
+    "final_score": 20.0,
+    "reasoning": "The content does not substantively discuss the Industrial Operating Model, its structures, or theoretical foundations. It is focused on engineering practices (staging environments, feature flags) and critiques traditional quality/risk mitigation, which may be artifacts of process-heavy environments, but it never connects these to IOM, Scientific Management, or discusses hierarchies, predictive planning, or similar. There is no explanation of what IOM is, where it excels, or the rationale for such models. The only slight fit is that using staging environments may be considered an efficiency-oriented, traditional practice, but this is inferred rather than stated or explored, and the piece is more about alternatives than about the operating model itself. Penalty deductions reflect the lack of explicit discussion and alignment.",
+    "reasoning_summary": "The content critiques staging environments in engineering teams, focusing on risk, cost, and modern alternatives. It does not discuss, explain, or substantively link to the Industrial Operating Model. Any overlap is indirect and inferred.",
+    "level": "Ignored"
   }
 }

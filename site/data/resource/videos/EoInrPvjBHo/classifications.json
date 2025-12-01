@@ -2617,5 +2617,25 @@
     "reasoning": "The content focuses exclusively on Agile product ownership practices, team empowerment, and avoiding micromanagement—topics central to Agile and general product management but with no reference to AI, model lifecycle, data governance, or any aspect unique to AI product operating models. None of the key dimensions of AI Product Operating Model (model lifecycle, MLOps, AI-specific governance, data/model management, or ethical AI) is discussed or even implied. There is no mention of AI, ML, data science, or operating models contextualized for AI. The audience (product owners/team leaders) is tangential since this role may exist in AI teams, but the discussion here is generic and not tailored to AI product delivery. Thus, fit is almost nonexistent, with high signal/noise for its actual topic, but not for this category.",
     "reasoning_summary": "This content is strictly about Agile product ownership—not AI, ML, or any AI-specific operating model. There is no alignment with the AI Product Operating Model category beyond generic process roles or themes.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "EoInrPvjBHo",
+    "itemId": "EoInrPvjBHo",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:40",
+    "ai_confidence": 15.22,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 1.4,
+    "ai_audience": 4.7,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content does not explicitly mention the 'Industrial Operating Model' or engage in any substantive discussion of its core concepts. While it references rigid planning, micromanagement, and Gantt charts—elements common in IOM contexts—these are used as negative examples and are only implied as 'old habits' in contrast to modern Agile practices. There is no direct discussion of Taylorism, Scientific Management, organizational hierarchy, or where IOM works well. The focus is on helping Product Owners avoid micromanagement and shift to Agile mindsets, not on helping readers understand what the Industrial Operating Model is. Audience is Agile practitioners, not those studying or deploying IOM.",
+    "reasoning_summary": "Content focuses on avoiding micromanagement in Agile and does not explain or explore the Industrial Operating Model itself. Mentions related practices only as negative contrasts, lacking IOM depth or intent. Fit is tangential and minimal.",
+    "level": "Ignored"
   }
 }

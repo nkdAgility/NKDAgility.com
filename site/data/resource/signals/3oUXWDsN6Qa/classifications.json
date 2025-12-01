@@ -3448,5 +3448,25 @@
     "reasoning": "The content critiques traditional Dev-Test-Staging-Production pipelines and advocates audience-based, real-production feedback. It is relevant to general software delivery and modern DevOps, but it does not mention or discuss AI, AI-specific operating models, model management, data governance, or lifecycle considerations unique to AI products. There are no direct or indirect references to organizational structures, roles, or frameworks governing AI product delivery. The intent is to challenge established deployment practices, but it is positioned generically toward software delivery rather than the operationalization of AI products. Audience alignment is moderate, as practitioners interested in DevOps may overlap with those exploring AI product delivery, but no explicit targeting to AI product leads/managers is evident. No dimension is penalized, as there are no outdated practices or antagonistic tones.",
     "reasoning_summary": "The content focuses on modern deployment strategies in general software delivery, not on AI-specific product operating models. It lacks direct references to AI and does not address the unique challenges or structures of AI product lifecycles.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "3oUXWDsN6Qa",
+    "itemId": "3oUXWDsN6Qa",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:14",
+    "ai_confidence": 20.2,
+    "ai_mentions": 1.6,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.2,
+    "ai_intent": 2.8,
+    "ai_audience": 5.8,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Mentions (-0.4): No direct category reference; only indirect allusion to IOM practices. Alignment (-0.6): Tone is critical/satirical against traditional model, not explanatory.",
+    "final_score": 20.0,
+    "reasoning": "The content discusses the shortcomings of Dev-Test-Staging-Production pipelines—an artifact of efficiency and gating in the Industrial Operating Model—but frames them critically, focusing on their inadequacy in dynamic, real-world contexts. There is an implicit reference to characteristics of the IOM (pre-production gates, belief in safety from layered validation), but the main thrust is a critique and a push toward adaptive/modern practices (audience-based deployment). The tone undermines the typical IOM framing and does not inform about where the IOM works, its strengths, or core theoretical foundations. Depth and alignment are low, as the content addresses IOM mechanisms only as failed or obsolete without substantive exploration or support. Two penalties applied: one for indirect, negative references instead of neutral/explanatory mentions; another for oppositional tone.",
+    "reasoning_summary": "Content critiques traditional pipeline practices (an IOM aspect) but focuses on their failures, not on explaining IOM itself. Its main topic is adaptive/modern approaches, giving only negative allusion to IOM. Fit to category definition is weak and indirect.",
+    "level": "Ignored"
   }
 }

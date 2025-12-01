@@ -2648,5 +2648,25 @@
     "reasoning": "This content strongly focuses on test-first and TDD practices, quality, and continuous delivery in general software development—without any mention or discussion of AI products, AI model lifecycle, AI-specific teams, data/model governance, or operational practices unique to AI. Its themes, examples, and advice are generic and not targeted at the operating model for AI products or teams. The only slight alignment is indirect: test-first can be a practice relevant to any software, but this is not explored in an AI context. Every scoring dimension is minimal, as there is no substantive overlap with the AI Product Operating Model category definition or scope.",
     "reasoning_summary": "This content is not about the AI Product Operating Model—it covers generic test-first practices in software development, with no discussion of AI-specific lifecycles, roles, data, or governance.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "yqHaiUlMNTP",
+    "itemId": "yqHaiUlMNTP",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:27",
+    "ai_confidence": 2.05,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.6,
+    "ai_intent": 0.5,
+    "ai_audience": 0.1,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is fully focused on test-first practices, TDD, and their benefits for software quality and delivery. There are no mentions or substantive discussion of the Industrial Operating Model, its structures, assumptions, mechanics, or purpose. There is no historical context on Taylorism, Scientific Management, or functional silos, nor any contrasts with IOM. The main audience is practitioners focused on Agile/Scrum/DevOps, not those seeking to understand centralized, hierarchical operating models. Thus, the content scores near zero on all dimensions except for very minor alignment (indirect reference to traditional separation of development and testing responsibilities, but not in the context of IOM). No penalties are applied as the tone is not satirical or contradictory to IOM, just unrelated.",
+    "reasoning_summary": "Content is exclusively about test-first/TDD practices, not the Industrial Operating Model. No relevant discussion, context, or purpose for IOM. Fit is almost entirely absent; category is irrelevant here.",
+    "level": "Ignored"
   }
 }

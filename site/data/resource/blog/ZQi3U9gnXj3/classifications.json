@@ -2577,5 +2577,25 @@
     "reasoning": "The content is tightly focused on professional Kanban training, course outlines, certification paths, and principles for workflow management, with no explicit discussion of AI, AI-specific operating models, or any AI product lifecycle topics. Although it targets practitioners interested in organizational workflow and product delivery improvements (hence relatively higher audience/signal scores), there is no mention or meaningful alignment with themes specific to managing, governing, or scaling AI products. The very minimal score in Direct Mentions reflects the total absence of the category term, and the alignment, depth, and intent scores remain low as none of the required AI context is present.",
     "reasoning_summary": "This content does not fit the AI Product Operating Model category. It only discusses Kanban training, principles, and certification, with no reference to AI products, lifecycles, or operating models. Alignment is superficial and coincidental.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "ZQi3U9gnXj3",
+    "itemId": "ZQi3U9gnXj3",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:21",
+    "ai_confidence": 6.24,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.5,
+    "ai_audience": 2.3,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on becoming a Professional Kanban Trainer, Kanban principles, and training details. While it references concepts that contrast with traditional Industrial Operating Model (IOM) practices—such as empirical process control and flow optimization—it does not discuss IOM itself, its organizational structure, mechanics, or core assumptions. There are no explicit or substantive references to IOM, Taylorism, hierarchy, or Scientific Management. The main themes instead address Kanban and Agile practices, with no intent to explain, support, or even contrast with the IOM. The audience is Agile practitioners or trainers, not those seeking to understand or implement the IOM. Thus, only the faintest indirect association exists through implication of what Kanban seeks to improve (which in some contexts would be the limitations of IOM), but such context is almost entirely absent here.",
+    "reasoning_summary": "Content centers on Kanban training, not the Industrial Operating Model. Does not explain, analyze, or mention IOM, nor explore its structures or assumptions. Only passing, indirect relevance. Not a fit for this category.",
+    "level": "Ignored"
   }
 }

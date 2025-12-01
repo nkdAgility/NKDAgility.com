@@ -3,7 +3,7 @@ $batchesInProgress = $null;
 $batchesInProgressMax = 40;
 $watermarkAgeLimit = (New-TimeSpan -Start (Get-Date "2025-08-06T09:00:00") -End (Get-Date)).Days # Wattermark for calculation algorythem Change.
 $watermarkScoreLimit = 30
-$watermarkCount = 10
+$watermarkCount = 1
 
 function Get-CatalogHashtable {
     param (
@@ -453,8 +453,15 @@ function Get-PromptsForHugoMarkdown {
     $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
 
     $CatalogFromCache = @{}
-    $cachedData.Keys | Where-Object { $catalog.ContainsKey($_) } |
-    ForEach-Object { $CatalogFromCache[$_] = $cachedData[$_] }
+    try {
+        $cachedData.Keys | Where-Object { $catalog.ContainsKey($_) } |
+        ForEach-Object { $CatalogFromCache[$_] = $cachedData[$_] }
+    }
+    catch {
+        Write-ErrorLog "Error processing cached data: {message}" -PropertyValues $_.Message
+        throw
+    }
+
 
     $CatalogItemsToRefreshOrGet = Get-CatalogItemsToRefreshOrGet -cachedData $cachedData -Catalog $catalog -CatalogFromCache $CatalogFromCache
     $prompts = @()
@@ -845,6 +852,9 @@ function Get-ClassificationsFromCache {
             Write-WarningLog "Warning: Cache file corrupted. Resetting cache."
             $cachedData = @{}
         }
+        if ([string]::IsNullOrWhiteSpace($cachedData)) {
+            $cachedData = @{}
+        }
         Write-DebugLog "Cache Contains: $($cachedData.count) items"
         # Remove items that are not in catalogue            
         $keysToRemove = $cachedData.keys | Where-Object { $_ -notin $catalog_full.Keys }
@@ -883,7 +893,6 @@ function Get-ClassificationsFromCache {
             Set-ClassificationsFromCache -hugoMarkdown $hugoMarkdown -cachedData $cachedData            
         }
     }
-
     return $cachedData
     #==========================================
 }

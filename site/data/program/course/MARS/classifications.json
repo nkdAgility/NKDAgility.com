@@ -2580,5 +2580,25 @@
     "reasoning": "The content focuses entirely on Azure Repos—a Git version control tool in Azure DevOps—teaching software developers code management, collaboration, and integration with IDEs. There is no mention of AI, product operating models, or organizational AI-specific processes. While it could be a technical prerequisite for AI teams, the materials are not contextualized within AI product operationalization as required by the category definition. There is no substantial alignment with AI-specific roles, governance, lifecycle, ethics, or integration; thus, category fit is almost nonexistent.",
     "reasoning_summary": "Content is strictly about Git workflows in Azure Repos for software developers, without mention of AI or operating models—no fit with AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "MARS",
+    "itemId": "MARS",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:28:54",
+    "ai_confidence": 3.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 0.2,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content is narrowly focused on hands-on usage and configuration of Azure Repos/Git in Azure DevOps environments. There is no discussion of organizational structure, the Industrial Operating Model, or its defining mechanics, assumptions, or context. No element of the course targets IOM as a system, historical model, or as an organizing operating approach. The course addresses version control skills, not organizational models, hierarchies, or vertical decision-making. There are no direct mentions of IOM, its concepts, or comparisons. Audience is technical practitioners, not those interested in model-level organizational theory.",
+    "reasoning_summary": "This content entirely focuses on Azure Repos technical practices with no reference to the Industrial Operating Model. There is no conceptual, thematic, or audience fit with the IOM category—any connection would be extremely indirect or coincidental.",
+    "level": "Ignored"
   }
 }

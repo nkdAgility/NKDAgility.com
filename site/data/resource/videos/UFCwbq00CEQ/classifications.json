@@ -2610,5 +2610,25 @@
     "reasoning": "No direct mention of AI or operating models for AI products appears in the content. The focus is exclusively on general Agile team culture, estimation, outcome versus output, and psychological safety, without any reference to AI-specific product management, governance, lifecycle, or organizational integration. While the audience (Agile practitioners, team leads) partially overlaps with audiences for operating model discussions, the content does not address any AI elements, making its alignment and depth for this category extremely weak and minimal. All themes and examples are grounded in traditional Agile practice with no reference to AI, MLOps, or domain-specific adaptations that would be required for classification under AI Product Operating Model.",
     "reasoning_summary": "The content is about Agile team practices and value focus, with no mention or discussion of AI, operating models, or organizational AI delivery. It does not fit the AI Product Operating Model category in scope, intent, or substance.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "UFCwbq00CEQ",
+    "itemId": "UFCwbq00CEQ",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:58",
+    "ai_confidence": 23.58,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.1,
+    "ai_intent": 1.8,
+    "ai_audience": 8.1,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.4,
+    "ai_penalty_details": "Alignment penalized (-1) for tone and framing: content actively critiques IOM-style metrics and mindset, not explaining or supporting IOM; Mentions penalized (-0.4) for no explicit references to IOM.",
+    "final_score": 24.0,
+    "reasoning": "The content strongly critiques estimation-driven, output-focused cultures, which are hallmarks of the Industrial Operating Model (IOM), but does not explain, contextualize, or describe the IOM itself. Instead, it urges readers to abandon 'outdated metrics' associated with IOM in favor of value-focused Agile practices. There are no explicit IOM mentions, little descriptive content about the model's structures or mechanics, and the main intent is to advocate for Agile/modern alternatives, not to understand or support IOM where it is effective. Thus, it does not align deeply or directly with the Industrial Operating Model category, except by indirect reference as a foil.",
+    "reasoning_summary": "This content critiques estimation and output-focused mindsets tied to IOM but does not explain the Industrial Operating Model itself. Its intent is to promote Agile values, not IOM understanding, so fit with the category is weak and indirect.",
+    "level": "Ignored"
   }
 }
