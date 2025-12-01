@@ -10,6 +10,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
   changefreq: weekly
+contributors:
+  - name: David West
+    external: https://www.scrum.org/team/dave-west
 ItemId: 7nXTKmU_F04
 ItemType: blog
 ItemKind: resource
@@ -51,17 +54,17 @@ resourceTypes: blog
 AudioNative: false
 ResourceId: 7nXTKmU_F04
 ResourceType: blog
-
 ---
-Most organisations today operate under an X[Industrial Operating Model (IOM)]({{< ref "/tags/industrial-operating-model" >}}) while competing in dynamic markets. This fundamental mismatch creates enormous waste, missed opportunities, and frustrated teams. Understanding why this model fails, and what must replace it, is essential for any organisation seeking to deliver value effectively in the 21st century and beyond.
+
+Most organisations today operate under an [Industrial Operating Model (IOM)]({{< ref "/tags/industrial-operating-model" >}}) while competing in dynamic markets. This fundamental mismatch creates enormous waste, missed opportunities, and frustrated teams. Understanding why this model fails, and what must replace it, is essential for any organisation seeking to deliver value effectively in the 21st century and beyond.
 
 ## Defining the Two Operating Models
 
 Before we explore why organisations struggle, we must clearly define the two operating models at the heart of this discussion, and more importantly, understand the **theory of the business** that underlies each one.
 
-Every organization operates on a theory of the business [^Drucker-TOB]: a set of assumptions about the environment, the organization's mission, and what it must do to succeed. To get to the theory of our business we need to ask two fundamental questions: **Who is the customer, and what does the customer value?** Without explicit answers, "value delivery" becomes an empty phrase.
+Every organization operates on a theory of the business [^Drucker-TOB]: a set of assumptions about the environment, the organization's mission, and what it must do to succeed. Understanding the theory of our business begins with two foundational questions: **Who is the customer, and what does the customer value?** But it doesn't end there. We must also understand the constraints we operate within, technological, regulatory, resource, competitive, and environmental factors that shape what's possible. Without explicit answers to these questions, "value delivery" becomes an empty phrase.
 
-Each operating model embodies a fundamentally different theory of the business and makes fundamentally different assumptions about the customer and what they value.
+Each operating model embodies a fundamentally different theory of the business and makes fundamentally different assumptions about the customer, what they value, and the constraints within which value must be delivered.
 
 Im going to use "Industrial Operating Model (IOM)" to refer to what most companies do, and "Agile Product Operating Model (APOM)" to refer to what a few companies do.
 
@@ -100,7 +103,8 @@ The environment is dynamic enough that organisations can only succeed through co
 - Variability provides information rather than noise.
 - Fast feedback is more reliable than detailed prediction.
 - Performance comes from empowered, cross-functional teams.
-- Management’s role is to design systems that enable learning, innovation, and quick adjustment.
+- Success requires continuous alignment to customers, stakeholders, and the environment.
+- Management's role is to design systems that enable learning, innovation, and quick adjustment.
 
 **Customer and value assumptions:**
 Customer needs are diverse, evolving, and context-dependent. Value is created by solving specific customer problems, not by producing generic output. Organisations win by learning faster than competitors, adapting their products continuously, and delivering outcomes that matter in the customer’s current context. Where the Industrial Operating Model optimises for volume and repeatability, the Agile Product Operating Model optimises for relevance, impact, and adaptability.
@@ -136,7 +140,9 @@ Markets began shifting toward greater complexity and volatility in the early 20t
 
 Today, most markets are dynamic. Customer needs change rapidly. Technology enables new competitors to emerge quickly. Product lifecycles measure in months, not decades. Uncertainty is the norm, not the exception.
 
-The environment has shifted, but the Industrial Operating Model's theory of the business has not. Organizations continue operating on assumptions of predictability in environments characterized by uncertainty. This mismatch between theory and reality generates massive waste.
+But it's not just market volatility that challenges the Industrial Operating Model. The broader **environment** in which organizations operate has become fundamentally unstable. Regulatory changes like tariffs reshape entire supply chains overnight. Social movements like the remote work revolution force companies to reconsider workplace models, productivity assumptions, and organizational structures. Political shifts, elections, policy reversals, create cascading effects across industries. Economic shocks, pandemics, financial crises, disrupt assumptions that seemed solid months earlier. These environmental forces don't just affect markets; they affect an organization's **ability to respond** to markets. The confluence of market dynamics and environmental volatility creates both the challenge and the opportunity: organizations that can sense and respond rapidly gain advantage, while those locked into rigid structures fall behind.
+
+The environment has shifted, but the Industrial Operating Model's theory of the business has not. Organizations continue operating on assumptions of predictability in environments characterized by uncertainty, where both what customers need and how organizations can respond change continuously. This mismatch between theory and reality generates massive waste.
 
 **Planning waste** emerges when organisations invest months creating detailed plans that become obsolete within weeks. Requirements gathered at the start of a project no longer reflect market reality by the time delivery begins. Change control boards slow response to learning, turning agility into a bureaucratic exercise.
 
@@ -222,15 +228,26 @@ The choice is yours: maintain an operating model built on assumptions about mark
 
 **References:**
 
-he Practice of Management by Peter Drucker (1954) - introduces Management by Objectives and the theory of the business
-Management: Tasks, Responsibilities, Practices by Peter Drucker (1973) - comprehensive framework for management functions and organizational design
-[^Drucker-TOB] The Essential Drucker by Peter Drucker (2001) - collection including "The Theory of the Business" essay
-High Output Management by Andy Grove (1983) - on system thinking and management leverage
-The Principles of Scientific Management by Frederick Winslow Taylor (1911) - foundational work on industrial management
-Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization by Niels Pflaeging and Pia Steinmann
-Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness by Frédéric Laloux and Ken Wilber
-This Is Beyond Budgeting: A Guide to More Adaptive and Human Organizations by Bjarte Bogsnes
-The Scrum Guide by Ken Schwaber and Jeff Sutherland
-Continuous Delivery by Jez Humble and David Farley
-The New New Product Development Game by Hirotaka Takeuchi and Ikujiro Nonaka
-Mary Parker Follett's work on organisational democracy and distributed authority
+[^Drucker-POM]: The Practice of Management by Peter Drucker (1954) - introduces Management by Objectives and the theory of the business
+
+[^Drucker-TRP]: Management: Tasks, Responsibilities, Practices by Peter Drucker (1973) - comprehensive framework for management functions and organizational design
+
+[^Drucker-TOB]: The Essential Drucker by Peter Drucker (2001) - collection including "The Theory of the Business" essay
+
+[^Grove]: High Output Management by Andy Grove (1983) - on system thinking and management leverage
+
+[^Taylor]: The Principles of Scientific Management by Frederick Winslow Taylor (1911) - foundational work on industrial management
+
+[^Pflaeging]: Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization by Niels Pflaeging and Pia Steinmann
+
+[^Laloux]: Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness by Frédéric Laloux and Ken Wilber
+
+[^Bogsnes]: This Is Beyond Budgeting: A Guide to More Adaptive and Human Organizations by Bjarte Bogsnes
+
+[^ScrumGuide]: The Scrum Guide by Ken Schwaber and Jeff Sutherland
+
+[^Humble]: Continuous Delivery by Jez Humble and David Farley
+
+[^Takeuchi]: The New New Product Development Game by Hirotaka Takeuchi and Ikujiro Nonaka
+
+[^Follett]: Mary Parker Follett's work on organisational democracy and distributed authority
