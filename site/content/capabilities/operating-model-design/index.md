@@ -50,7 +50,7 @@ sections:
     title: The Fundamental Mismatch
     listType: boxed
     content: |
-      Most organisations operate under an Industrial Operating Model built for predictable markets: efficiency, standardization, control. This worked brilliantly when demand changed slowly and product lifecycles measured in decades. Today, markets are dynamic. Customer needs evolve rapidly. Competitors emerge quickly. The mismatch between industrial-era assumptions and market reality generates massive waste.
+      Most organisations operate under an Industrial Operating Model built for predictable markets: efficiency, standardisation, control. This worked brilliantly when demand changed slowly and product lifecycles measured in decades. Today, markets are dynamic. Customer needs evolve rapidly. Competitors emerge quickly. The mismatch between industrial-era assumptions and market reality generates massive waste.
     list:
       - title: Planning waste
         icon: fa-calendar-xmark
@@ -157,7 +157,7 @@ sections:
             icon: fa-square-check
           - title: Fast feedback loops and evidence-based action
             icon: fa-square-check
-          - title: Outcome metrics and organizational capability
+          - title: Outcome metrics and organisational capability
             icon: fa-square-check
   - type: list
     title: Real-World Impact
@@ -173,7 +173,7 @@ sections:
       - title: Deep Understanding of Operating Model Theory
         icon: fa-book-open
         content: |
-          Grounded in organizational design principles and how businesses adapt to change. Not framework evangelism.
+          Grounded in organisational design principles and how businesses adapt to change. Not framework evangelism.
       - title: Multi-Method Integration
         icon: fa-layer-group
         content: |
@@ -185,7 +185,7 @@ sections:
       - title: Continuous Simplification
         icon: fa-broom
         content: |
-          Designed for ongoing removal of obsolete structures. Prevents drift back to industrial-era patterns as organizations grow.
+          Designed for ongoing removal of obsolete structures. Prevents drift back to industrial-era patterns as organisations grow.
       - title: Engineering Economics and Evidence
         icon: fa-chart-line
         content: |
