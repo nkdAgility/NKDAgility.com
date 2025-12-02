@@ -626,6 +626,7 @@ Always maintain these front matter fields:
 - `course_learning_experiences` (e.g., ["Immersive", "Traditional"])
 - `delivery_audiences` (e.g., ["Scrum Masters", "Developers"])
 - `code` and `programCode` (course identifier)
+- `trainers` (list of trainer page paths, e.g., ["/company/people/martin-hinshelwood/"])
 
 **Optional but recommended:**
 
@@ -633,6 +634,7 @@ Always maintain these front matter fields:
 - `carousel` (images and videos)
 - `preview` (card image)
 - `aliases` (manual URL redirects)
+- `roadmap` (structured learning path with `next`, `previous` arrays of course paths)
 
 ---
 

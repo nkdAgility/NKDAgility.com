@@ -14,9 +14,9 @@
   <div class="row">
     {{/* Get syllabus data from file or front matter */}}
     {{ $syllabusData := dict }}
-    {{ $programCode := .Params.programCode }}
+    {{ $programCode := .Params.ItemId }}
     {{ if $programCode }}
-      {{ $programData := index site.Data.programs (lower $programCode) }}
+      {{ $programData := index site.Data.program.course ($programCode) }}
       {{ if $programData }}
         {{ $syllabusData = $programData.syllabus }}
       {{ end }}

@@ -1,3 +1,8 @@
+---
+description: Implementing sections for the NKDAgility.com website using Hugo page sections
+applyTo: "site/layouts/_partials/page-sections/**"
+---
+
 # Page Sections Copilot Instructions
 
 This document provides comprehensive guidance for working with Hugo page sections in the NKDAgility.com website. Each section type has specific functionality and configuration options.
@@ -91,6 +96,65 @@ When documenting sections, include:
 5. **Examples**: Multiple use cases with complete YAML
 6. **Styling**: CSS classes and customization options
 7. **Best Practices**: Recommendations and common patterns
+
+## ⚠️ CRITICAL: Property Name Validation Rules
+
+**ALWAYS verify property names against the actual template implementation before making changes.**
+
+### Common Property Mistakes to Avoid
+
+| Section Type | ❌ WRONG Property         | ✅ CORRECT Property     | Notes                                                      |
+| ------------ | ------------------------- | ----------------------- | ---------------------------------------------------------- |
+| `headline`   | `heading.text`            | `headline.title`        | Uses `headline` object with `title`, `subtitle`, `content` |
+| `headline`   | `heading.content`         | `headline.content`      | Content goes in headline object                            |
+| `features`   | `items`                   | `features`              | Array of feature objects                                   |
+| `features`   | `name`                    | `title`                 | Each feature item uses `title` not `name`                  |
+| `textNlist`  | Direct string array       | Objects with `content:` | List items MUST be `{content: "text"}` objects             |
+| `textNlist`  | `content` (section level) | `sideContent`           | Left column content uses `sideContent`                     |
+| `sectioncta` | `text` (in cta)           | `content`               | CTA text uses `content` property                           |
+| `sectioncta` | `link` (in button)        | `url`                   | Button link uses `url` not `link`                          |
+| `otherpages` | `source`                  | `related`               | Array of page paths uses `related`                         |
+| `casestudy`  | Direct string array       | Objects with `content:` | List items MUST be objects                                 |
+| `list`       | -                         | -                       | Items use `title`, `icon`, `content` properties            |
+| `cards`      | -                         | -                       | Items use `title`, `content`, `button` properties          |
+
+### Property Verification Process
+
+Before making any changes to section structures:
+
+1. **Read the template file** in `site/layouts/_partials/page-sections/sections-{type}.html`
+2. **Identify the exact property names** used in the template (e.g., `$section.related`, `$item.content`)
+3. **Match the documentation** to use those exact property names
+4. **Never assume** property names based on similar sections - always verify
+5. **Test with a build** to ensure the section renders correctly
+
+### Template Property Patterns
+
+Templates access properties in these patterns:
+
+```go
+{{- $section.propertyName }}           // Section-level property
+{{- range $section.arrayName }}        // Loop through array
+  {{- .itemProperty }}                 // Item-level property
+{{- end }}
+```
+
+Example from `textNlist`:
+
+```go
+{{- $section.sideContent }}            // NOT $section.content!
+{{- range $section.list }}
+  {{- $item.content }}                 // NOT just the string!
+  {{- $item.icon }}
+{{- end }}
+```
+
+Example from `otherpages`:
+
+```go
+{{- $filteredItems := index .context .context.source }}  // This line is broken!
+// Should actually use: $section.related directly
+```
 
 ## Adding New Sections
 
