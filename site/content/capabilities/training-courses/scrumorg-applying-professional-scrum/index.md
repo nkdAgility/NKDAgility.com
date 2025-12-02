@@ -136,9 +136,9 @@ sections:
           - title: Available for time-constrained situations
   - type: sectioncta
     id: format-cta
-    backgroundColor: secondary
+    backgroundColor: primary
     cta:
-      content: "**Public classes**: [View the schedule](/company/upcoming-training-courses/) and join upcoming sessions. **Private training**: [Contact us](/company/contact-us/) to arrange tailored delivery for your team or organisation."
+      content: "**Public classes**: [View the schedule](https://www.scrum.org/classes?uid=184) and join upcoming sessions. **Private training**: [Contact us](/company/contact-us/) to arrange tailored delivery for your team or organisation."
       button:
         text: ""
         url: ""
