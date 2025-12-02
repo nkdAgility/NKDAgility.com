@@ -20,7 +20,11 @@ $ResourceAliasExpiryDate = (Get-Date).Date.AddYears(-5)
 Start-TokenServer
 
 $hugoMarkdownObjects = @()
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\training-courses\scrumorg-pspo-ai" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\training-courses" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\mentor-programs" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\outcomes\" -YearsBack 100
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
