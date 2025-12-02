@@ -19,35 +19,107 @@ The page section system uses a router-based approach:
 
 ## Available Section Types
 
-| Section Type      | Template File                      | Documentation                                                      | Description                                       |
-| ----------------- | ---------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------- |
-| `audiences`       | `sections-audiences.html`          | [📖 Documented](../../../../docs/audiences-section-usage.md)       | Target audience displays                          |
-| `boxesrow`        | `sections-boxesrow.html`           | [📖 Documented](../../../../docs/boxesrow-section-usage.md)        | Flexible box row layout with items                |
-| `cards`           | `sections-cards.html`              | [📖 Documented](../../../../docs/cards-section-usage.md)           | Dynamic card layout with responsive columns       |
-| `casestudy`       | `sections-casestudy.html`          | [📖 Documented](../../../../docs/casestudy-section-usage.md)       | Results and achievements with icons               |
-| `content`         | Built-in                           | N/A                                                                | Basic content type (title only)                   |
-| `counters`        | `sections-counters.html`           | [📖 Documented](../../../../docs/counters-section-usage.md)        | Animated counters and statistics                  |
-| `courses`         | `sections-courses.html`            | [📖 Documented](../../../../docs/courses-section-usage.md)         | Course listings and information                   |
-| `features`        | `sections-features.html`           | [📖 Documented](../../../../docs/features-section-usage.md)        | Feature showcase with icons and descriptions      |
-| `headline`        | `sections-headline.html`           | [📖 Documented](../../../../docs/headline-section-usage.md)        | Hero headlines with images and buttons            |
-| `list`            | `sections-list.html`               | [📖 Documented](../../../../docs/list-section-usage.md)            | Styled list with icons, titles, and content       |
-| `none`            | Built-in                           | N/A                                                                | No custom content rendered only title and content |
-| `options`         | `sections-consulting-options.html` | [📖 Documented](../../../../docs/options-section-usage.md)         | Consulting service options                        |
-| `otherpages`      | `sections-otherpages.html`         | [📖 Documented](../../../../docs/otherpages-section-usage.md)      | Related or other page listings                    |
-| `outcomeboxes`    | `sections-boxesrow.html`           | [📖 Documented](../../../../docs/outcomeboxes-section-usage.md)    | Outcome display in box format                     |
-| `outcomehero`     | `sections-outcomehero.html`        | [📖 Documented](../../../../docs/outcomehero-section-usage.md)     | Hero-style outcome presentations                  |
-| `phases`          | `sections-phases.html`             | [📖 Documented](../../../../docs/phases-section-usage.md)          | Project or process phases                         |
-| `quote`           | `sections-quote.html`              | [📖 Documented](../../../../docs/quote-section-usage.md)           | Large stylized quotes and testimonials            |
-| `sectioncta`      | `sections-sectioncta.html`         | [📖 Documented](../../../../docs/sectioncta-section-usage.md)      | Call-to-action sections                           |
-| `symmetry`        | `sections-symmetry.html`           | [📖 Documented](../../../../docs/symmetry-section-usage.md)        | Symmetric table comparison layout                 |
-| `taxonomies`      | `sections-taxonomies.html`         | [📖 Documented](../../../../docs/taxonomies-section-usage.md)      | Display of taxonomy terms and categories          |
-| `taxonomies-card` | `sections-taxonomies-card.html`    | [📖 Documented](../../../../docs/taxonomies-card-section-usage.md) | Card-based taxonomy display                       |
-| `taxonomies-list` | `sections-taxonomies-list.html`    | [📖 Documented](../../../../docs/taxonomies-list-section-usage.md) | List-style taxonomy display with badges           |
-| `textNlist`       | `sections-textnlist.html`          | [📖 Documented](../../../../docs/textnlist-section-usage.md)       | Text content with accompanying list               |
-| `trustpilot`      | `sections-trustpilot.html`         | [📖 Documented](../../../../docs/trustpilot-section-usage.md)      | Trustpilot review integration                     |
-| `types`           | `sections-types.html`              | [📖 Documented](../../../../docs/types-section-usage.md)           | Type categorizations                              |
-| `unknown`         | `section-unknown.html`             | N/A                                                                | Fallback for unrecognized types                   |
-| `videos`          | `sections-videos.html`             | [📖 Documented](../../../../docs/videos-section-usage.md)          | Video content display and embedding               |
+**📋 Section Registry**: See `.github/sections-registry.json` for the complete, machine-readable list of all section types.
+
+The registry contains:
+
+- Section type identifier and name
+- Template filename
+- Documentation links
+- Description and when to use guidance
+- Category classification
+- Usage restrictions and common mistakes
+
+### Quick Reference by Category
+
+**Outcome & Transformation:**
+`outcomehero`, `outcomeboxes`, `casestudy`
+
+**Feature & Benefit:**
+`features`, `list`, `textNlist`
+
+**Comparison:**
+`boxesrow`, `symmetry`, `options`
+
+**Social Proof:**
+`quote`, `trustpilot`, `cards`
+
+**Statistics:**
+`counters`
+
+**Action & Navigation:**
+`sectioncta`, `otherpages`
+
+**Specialized:**
+`audiences`, `phases`, `courses`, `taxonomies`, `taxonomies-card`, `taxonomies-list`, `types`, `videos`
+
+**Hero:**
+`headline` (only ONE per page)
+
+**System:**
+`content`, `none`, `unknown` (avoid intentional use)
+
+## Section Selection Guidelines
+
+### Marketing Pages vs Content Pages
+
+**Marketing pages** (course pages, service pages, landing pages):
+
+- Need **visual variety** - use 6-10 different section types per page
+- Break content into **shorter blocks** (2-4 paragraphs maximum per section)
+- Focus on **buyer outcomes** not methodology or teaching content
+- Use **outcomehero** for key messages, not quote sections
+- Avoid repeated section types - vary the presentation
+
+**Content pages** (blog posts, resources, documentation):
+
+- Can use longer text blocks
+- Fewer section types needed
+- Educational content appropriate
+
+### Common Section Type Mistakes
+
+| ❌ Wrong Choice              | ✅ Correct Choice        | Why                                                         |
+| ---------------------------- | ------------------------ | ----------------------------------------------------------- |
+| Multiple `headline` sections | ONE headline only        | Headline creates H1 - only one per page for SEO             |
+| `quote` for non-quotes       | `outcomehero`            | Quote only for actual attributed quotations                 |
+| `symmetry` for simple text   | `boxesrow` or `features` | Symmetry only for structured comparison tables              |
+| `content` on marketing pages | `outcomehero` or `list`  | Content sections are visually boring                        |
+| All text in one section      | Multiple varied sections | Break long text into 6-10 visually distinct section types   |
+| Generic stats irrelevant     | Outcome-focused counters | Counters must relate to buyer's pain or desired improvement |
+
+### Section Selection Decision Tree
+
+**To display a key outcome or transformation:**
+
+- Single critical message with prominence → `outcomehero`
+- 2-3 outcomes in boxes → `outcomeboxes` or `boxesrow`
+- Quantified results with icons → `casestudy`
+
+**To list benefits or features:**
+
+- 3-7 items with icons → `features`
+- More detailed items with icons and longer text → `list`
+- Side-by-side text + bullets → `textNlist`
+
+**To compare options:**
+
+- 2-3 options side-by-side → `boxesrow`
+- Structured feature comparison table → `symmetry` (rarely needed)
+
+**To display social proof:**
+
+- Actual customer quote → `quote` (with attribution)
+- Review widget → `trustpilot`
+- Multiple testimonials → `cards`
+
+**To show statistics:**
+
+- 2-4 pain or outcome metrics → `counters`
+
+**To prompt action:**
+
+- Enrol, contact, view schedule → `sectioncta`
 
 ## Usage Guidelines
 
