@@ -4,7 +4,7 @@
 # To make this agent available, merge this file into the default repository branch.
 # For format details, see: https://gh.io/customagents/config
 
-name: "NKD-Programs-Positioning-Agent"
+name: "NKD-Positioning-Programs-Agent"
 description: Reviews and refines NKD Agility training courses and mentor program pages to position them effectively for buyers while maintaining vendor integrity, technical credibility, and NKD's value-add positioning.
 ---
 

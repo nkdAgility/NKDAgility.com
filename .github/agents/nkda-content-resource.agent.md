@@ -4,7 +4,7 @@
 # To make this agent available, merge this file into the default repository branch.
 # For format details, see: https://gh.io/customagents/config
 
-name: "NKD-Resource-Creator"
+name: "NKDA-Content-Resource-Agent"
 description: Reviews, refines, and creates content pages that present Martin Hinshelwood's ideas.
 ---
 
