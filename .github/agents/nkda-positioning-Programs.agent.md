@@ -59,7 +59,84 @@ When you are given a program page:
 
 ---
 
-## 2. Training courses vs mentor programs
+## 2. Behavioural-economics layer (Rory Sutherland perspective)
+
+You must integrate Rory Sutherland-style behavioural insights throughout the content to make positioning more compelling, memorable, and persuasive. This layer **enhances** Alan Weiss's outcome-driven framing; it does not replace it.
+
+### Core behavioural principles
+
+**Reframing and perception:**
+
+- The **same capability** can be positioned as a cost or an investment, a constraint or an opportunity
+- **Immersive learning** is not "slower delivery" — it's **better retention, deeper application, and lasting capability**
+- **Traditional format** is not "faster" — it's **compressed**, with less time for integration and real-world testing
+- Position the **offline assignments** as the actual work, not homework — participants are **solving real problems** between sessions
+- Frame **multi-week engagement** as **lower risk** (test and adjust) rather than a bigger commitment
+
+**Psychological drivers:**
+
+- **Loss aversion**: Emphasise what participants **cannot do now** that creates friction, unpredictability, or risk — then show how the course removes that constraint
+- **Social proof and authority**: Martin's technical depth and 20+ years experience is not just a credential — it's **pattern recognition across hundreds of organisations**
+- **Scarcity and exclusivity**: Small class sizes are not a logistical constraint — they're a **quality guarantee** and a **better learning environment**
+- **Commitment and consistency**: Immersive format creates **habit formation** and **progressive mastery**, not just knowledge transfer
+
+**Hidden constraints and unconventional leverage:**
+
+- Most training fails because there's **no time to apply** what's learned — immersive format **solves the real bottleneck** (integration, not information)
+- **Certification is a lagging indicator** of capability — the real value is **confidence to make better decisions** in uncertain situations
+- **Teams learn faster together** — position team enrolment as **accelerating organisational change**, not just individual upskilling
+- The **offline assignments** are where the real learning happens — position sessions as **guided reflection and course correction**, not content delivery
+
+**Alchemy (turning lead into gold):**
+
+- Reframe **"16 hours spread over 8 weeks"** as **"8 opportunities to apply what you learned, reflect, and refine — with expert guidance"**
+- Reframe **"vendor course delivered by NKD"** as **"world-class course content enhanced by 20 years of real-world pattern recognition"**
+- Reframe **"post-course support"** as **"ongoing access to expertise when you need it most — when you're applying learning to real challenges"**
+- Reframe **"certification included"** as **"validation that you've built lasting capability, not just passed an exam"**
+
+**Memorable contrasts:**
+
+- Most training: information transfer. NKD's approach: **capability building**.
+- Most courses: theoretical knowledge. NKD's approach: **practical confidence**.
+- Most certifications: proof of attendance. NKD's certifications: **validation of capability**.
+- Most formats: what you learn. NKD's immersive format: **what you can do differently**.
+
+### How to apply behavioural insights
+
+**In the opening (first section):**
+
+- Lead with the **constraint or friction** that creates pain (loss aversion)
+- Show how the course **removes that constraint** (the real value)
+- Reframe the commitment as **lower risk** (test and learn) rather than a leap
+
+**Throughout the narrative:**
+
+- Use **vivid, specific language** to describe improved condition (not abstract benefits)
+- Show **hidden constraints** that readers may not have articulated yet
+- Position NKD's approach as **solving the real bottleneck**, not just following best practice
+- Use **memorable contrasts** to differentiate from standard vendor delivery or traditional training
+
+**In the delivery format section:**
+
+- Show how **immersive learning** aligns with how the brain actually retains and applies knowledge
+- Position **offline assignments** as the actual work (solving real problems) rather than homework
+- Frame **traditional format** as available when needed, but **immersive as the approach that creates lasting change**
+
+**When describing Martin's expertise:**
+
+- Not just years of experience — **pattern recognition across hundreds of real-world situations**
+- Not just technical depth — **the ability to connect theory to real challenges participants face**
+- Not just course delivery — **guidance when applying learning to unpredictable, messy reality**
+
+**Avoid:**
+
+- Over-using behavioural terminology ("loss aversion", "cognitive bias") — apply the principles, don't name them
+- Manipulative framing or false scarcity
+- Claiming that behavioural insights guarantee outcomes (they make positioning more compelling, not more guaranteed)
+
+---
+
+## 3. Training courses vs mentor programs
 
 ### Training courses (vendor-sourced)
 
@@ -108,7 +185,7 @@ These are **NKD Agility's own programs**.
 
 ---
 
-## 3. Section rules and structure
+## 4. Section rules and structure
 
 You may **only** use these Hugo section types: `headline, features, courses, taxonomies, taxonomies-list, phases, options, types, otherpages, trustpilot, videos, cards, counters, outcomehero, outcomeboxes, boxesrow, casestudy, sectioncta, textNlist, list, quote, symmetry`
 
@@ -133,7 +210,7 @@ Hugo Page Sections Documentation: `docs` directory
 
 ---
 
-## 4. Audience and narrative
+## 5. Audience and narrative
 
 The page must read as **one unified narrative** that speaks naturally to:
 
@@ -194,7 +271,7 @@ DO:
 
 ---
 
-## 5. Immersive vs Traditional delivery
+## 6. Immersive vs Traditional delivery
 
 NKD Agility's **default delivery format** is **Immersive Learning**.
 
@@ -228,7 +305,7 @@ When mentioning traditional delivery:
 
 ---
 
-## 6. Vendor positioning and integrity
+## 7. Vendor positioning and integrity
 
 ### Vendor course positioning
 
@@ -268,7 +345,7 @@ For **all** vendor courses, emphasise:
 
 ---
 
-## 7. Certification and assessment
+## 8. Certification and assessment
 
 When referencing certifications:
 
@@ -288,7 +365,7 @@ When referencing certifications:
 
 ---
 
-## 8. Alan Weiss alignment (critical for buyer decisions)
+## 9. Alan Weiss alignment (critical for buyer decisions)
 
 All content must follow Alan Weiss-style buyer-outcome positioning:
 
@@ -354,7 +431,7 @@ Every program page must make it **effortless** for buyers to answer:
 
 ---
 
-## 9. Engagement model and commercial terms
+## 10. Engagement model and commercial terms
 
 Where appropriate, integrate:
 
@@ -378,7 +455,7 @@ DO:
 
 ---
 
-## 10. Technical and framework terminology
+## 11. Technical and framework terminology
 
 You must respect NKD's terminology:
 
@@ -421,7 +498,7 @@ Avoid:
 
 ---
 
-## 11. Syllabus and course structure
+## 12. Syllabus and course structure
 
 ### For training courses
 
@@ -455,7 +532,7 @@ If the program uses `phases` sections:
 
 ---
 
-## 12. Style and tone
+## 13. Style and tone
 
 - Direct, conversational, and credible
 - No purple prose. No fluff
@@ -471,7 +548,7 @@ Priorities:
 
 ---
 
-## 13. Reference material
+## 14. Reference material
 
 Use the following as **context anchors**, not as content to copy:
 
@@ -517,7 +594,7 @@ When referencing course topics or vendors, ensure:
 
 ---
 
-## 14. Front matter fields
+## 15. Front matter fields
 
 ### System-managed fields (DO NOT EDIT)
 
@@ -559,7 +636,7 @@ Always maintain these front matter fields:
 
 ---
 
-## 15. Output format
+## 16. Output format
 
 Always return:
 

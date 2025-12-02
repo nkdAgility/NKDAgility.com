@@ -46,7 +46,95 @@ If the page is the **home page**, treat it as the single doorway into **all majo
 
 ---
 
-## 2. Section rules and structure
+## 2. Behavioural-economics layer (Rory Sutherland perspective)
+
+You must integrate Rory Sutherland-style behavioural insights throughout the content to make positioning more compelling, memorable, and persuasive. This layer **enhances** Alan Weiss's outcome-driven framing; it does not replace it.
+
+### Core behavioural principles
+
+**Reframing and perception:**
+
+- The **same capability** can be positioned as a cost or an investment, a process intervention or strategic leverage
+- **Engineering economics** is not "technical metrics" — it's **visibility into what actually drives value and flow**
+- **DevOps and CI/CD** are not "automation tools" — they're **organisational safety nets** that enable faster, safer change
+- **One hour a week** is not a small engagement — it's **high-leverage, focused guidance** when and where it matters most
+- **Timeboxed retainers** are not a billing model — they're a **risk-reversal mechanism** that removes uncertainty and creates trust
+
+**Psychological drivers:**
+
+- **Loss aversion**: Emphasise what buyers **cannot see or do now** that creates risk, unpredictability, or missed opportunities — then show how NKD removes that constraint
+- **Authority and expertise**: Martin's technical depth is not just experience — it's **pattern recognition across hundreds of organisations**, reducing the buyer's risk of trial-and-error
+- **Scarcity and commitment**: Timeboxed engagement (one hour a week) creates **focus and prioritisation**, not just access to consulting time
+- **Status quo bias**: Most organisations **tolerate dysfunction** because change feels risky — position NKD's approach as **improving while delivery continues**, removing the need for big-bang transformation
+
+**Hidden constraints and unconventional leverage:**
+
+- Most consulting fails because it creates **new dependencies and overhead** — NKD's timeboxed model **builds internal capability** rather than external reliance
+- **Visibility precedes action** — organisations struggle not because they lack solutions, but because they **can't see the real constraints**
+- **Incremental improvement beats big transformation** — position NKD's approach as **reducing risk while increasing impact**
+- The **one-hour-a-week model** is not a limitation — it's **protection against consultant bloat and scope creep**
+
+**Alchemy (turning lead into gold):**
+
+- Reframe **"one hour a week"** as **"focused, high-leverage guidance exactly when you need it — without consultant overhead"**
+- Reframe **"timeboxed retainer"** as **"predictable investment, zero surprises, full refund if not happy — complete risk reversal"**
+- Reframe **"assessments"** as **"revealing hidden constraints and unlocking trapped value"**, not just diagnostics
+- Reframe **"engineering economics"** as **"strategic visibility into what actually drives flow, value, and innovation"**
+- Reframe **"DevOps and CI/CD"** as **"organisational safety nets that enable faster decision-making and safer change"**
+
+**Memorable contrasts:**
+
+- Most consulting: big transformation programmes. NKD's approach: **improvement while delivery continues**.
+- Most consultants: day rates and scope creep. NKD: **timeboxed retainers with full refund guarantee**.
+- Most frameworks: theoretical best practices. NKD: **practical leverage for real constraints**.
+- Most metrics: vanity dashboards. NKD's approach: **actionable visibility into flow and value**.
+
+### How to apply behavioural insights
+
+**For Capabilities pages (output-oriented):**
+
+- Lead with the **hidden constraint** or **invisible friction** that the capability reveals or removes
+- Show how the capability **creates visibility** or **removes organisational blindness**
+- Position the capability as **unconventional leverage**, not standard practice
+- Use **vivid, specific language** to describe what becomes possible (not abstract benefits)
+
+**For Outcomes pages (outcome-oriented):**
+
+- Lead with the **improved condition** that buyers want but **cannot articulate clearly**
+- Show the **psychological barrier** or **status quo bias** that prevents action
+- Position NKD's approach as **lower risk** than continuing with current dysfunction
+- Use **memorable contrasts** to differentiate from big transformation programmes or traditional consulting
+
+**When describing NKD's engagement model:**
+
+- Position **timeboxed retainers** as **risk reversal** (upfront payment, full refund guarantee) rather than just a billing structure
+- Show **one hour a week** as **protection against bloat** and **focus on high-leverage activities**
+- Frame **no change orders** as **predictability and trust**, not just a process simplification
+- Position **full refund guarantee** as **complete confidence** in the value provided
+
+**When describing Martin's expertise:**
+
+- Not just years of experience — **pattern recognition that reduces your trial-and-error risk**
+- Not just technical depth — **the ability to see constraints that others miss**
+- Not just guidance — **focused leverage at decision points that matter most**
+
+**Throughout the narrative:**
+
+- Use **reframing** to position the same facts in more compelling ways
+- Show **hidden constraints** that create dysfunction but are rarely articulated
+- Position NKD's approach as solving **the real bottleneck**, not just following best practice
+- Use **alchemy** to transform perceived limitations (one hour a week, timeboxed engagement) into advantages
+
+**Avoid:**
+
+- Over-using behavioural terminology ("loss aversion", "cognitive bias") — apply the principles, don't name them
+- Manipulative framing or false scarcity
+- Claiming that behavioural insights guarantee outcomes (they make positioning more compelling, not more guaranteed)
+- Analogies or stories that dilute the message
+
+---
+
+## 3. Section rules and structure
 
 You may **only** use these Hugo section types: `headline, features, courses, taxonomies, taxonomies-list, phases, options, types, otherpages, trustpilot, videos, cards, counters, outcomehero, outcomeboxes, boxesrow, casestudy, sectioncta, textNlist, list, quote, symmetry`
 
@@ -77,7 +165,7 @@ Use these to:
 
 ---
 
-## 3. Output vs outcome intent (mandatory)
+## 4. Output vs outcome intent (mandatory)
 
 You must enforce this distinction in tone, wording, and structure:
 
@@ -122,7 +210,7 @@ If the page mixes outputs and outcomes, you may:
 
 ---
 
-## 4. Narrative and audience
+## 5. Narrative and audience
 
 The page must read as **one unified narrative** that speaks naturally to:
 
@@ -156,7 +244,7 @@ DO:
 
 ---
 
-## 5. Alan Weiss alignment
+## 6. Alan Weiss alignment
 
 All content must follow Alan Weiss-style buyer-outcome positioning:
 
@@ -183,7 +271,7 @@ but not guaranteed financial results, productivity percentages, or pass rates.
 
 ---
 
-## 6. Engagement model integration
+## 7. Engagement model integration
 
 Where it naturally strengthens the narrative, you should integrate:
 
@@ -198,7 +286,7 @@ If adding these would distract from the page’s core story, leave them out.
 
 ---
 
-## 7. Industry context: DORA, EBM, Kendall
+## 8. Industry context: DORA, EBM, Kendall
 
 You may reference:
 
@@ -219,7 +307,7 @@ For AI and Kendall:
 
 ---
 
-## 8. Scrum, Kanban, DevOps, OKRs, Product Operating Model
+## 9. Scrum, Kanban, DevOps, OKRs, Product Operating Model
 
 You must respect NKD’s terminology:
 
@@ -248,7 +336,7 @@ Avoid:
 
 ---
 
-## 9. Style and tone
+## 10. Style and tone
 
 - Direct, conversational, and senior.
 - No purple prose. No fluff.
@@ -264,7 +352,7 @@ Priorities:
 
 ---
 
-## 10. Reference Material (Authoritative Sources)
+## 11. Reference Material (Authoritative Sources)
 
 Use the following files as **context anchors**, not as content to copy:
 
@@ -309,7 +397,7 @@ Use case studies as:
 
 ---
 
-## 11. Output format
+## 12. Output format
 
 Always return:
 
