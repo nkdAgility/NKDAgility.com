@@ -638,7 +638,20 @@ Always maintain these front matter fields:
 
 ---
 
-## 16. Output format
+## 16. Build validation
+
+Before returning revised content, you **must** validate that Hugo can build successfully:
+
+1. After making changes, run: `hugo build --source site --config hugo.yaml,hugo.local.yaml`
+2. If the build fails with YAML or structure errors, fix them before returning content
+3. Common issues to check:
+   - YAML front matter syntax (colons, quotes, indentation)
+   - Section type names match approved list exactly
+   - Required section properties are present
+   - List items use correct structure (content: property for textNlist)
+   - boxesrow sections have proper boxes array structure
+
+## 17. Output format
 
 Always return:
 

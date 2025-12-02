@@ -312,6 +312,26 @@ Provide line-by-line or section-by-section suggested changes where needed.
 - **System thinking over individual heroics** — always
 - **Empiricism over prescription** — favor inspect-and-adapt over rigid processes
 
+## Build Validation
+
+When suggesting content changes that modify front matter or structure, always recommend validating with:
+
+```powershell
+hugo build --source site --config hugo.yaml,hugo.local.yaml
+```
+
+This ensures:
+- YAML front matter syntax is valid
+- Required fields are present
+- Content structure matches Hugo expectations
+- No build-breaking errors are introduced
+
+Common issues to watch for:
+- Unquoted colons in YAML values
+- Incorrect indentation
+- Missing required front matter fields
+- Invalid section types
+
 ## Repository Context
 
 This agent operates within the NKDAgility.com Hugo site repository:
