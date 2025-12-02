@@ -4,7 +4,7 @@ short_title: PSPO with AI Essentials
 description: Learn how to apply AI in Scrum product ownership, enhance decision-making, and earn a PSPO-AI certification to advance your agile and product management skills.
 tldr: The Professional Scrum Product Owner with AI (PSPO-AI) course teaches product owners how to use AI tools to improve product decisions and outcomes. Participants learn practical ways to integrate AI into their workflows, leading to better prioritization and faster delivery. Development managers should consider this course to help their teams leverage AI for more effective product management.
 date: 2025-01-01
-weight: 1000
+weight: 840
 sitemap:
   filename: sitemap.xml
   priority: 0.8
