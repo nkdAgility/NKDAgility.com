@@ -16,6 +16,11 @@ ItemContentOrigin: human
 slug: professional-scrum-product-owner-with-ai-pspo-ai-course-with-certification
 aliases: []
 type: course
+concepts: []
+categories:
+  - Uncategorized
+tags:
+  - Artificial Intelligence
 sections:
   - type: headline
     id: opening
