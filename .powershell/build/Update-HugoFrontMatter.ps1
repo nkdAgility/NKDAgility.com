@@ -229,7 +229,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
 
     # =================CLASSIFICATION===================
     switch ($ItemType) {
-        { $_ -in @("videos", "podcast", "blog", "signals", "newsletters", "guides", "engineering-notes", "workshops", "recipes", "principles", "case-studies") } { 
+        { $_ -in @("videos", "podcast", "blog", "signals", "newsletters", "guides", "engineering-notes", "workshops", "recipes", "principles", "case-studies", "course") } { 
             #-----------------Concepts-------------------
             $conceptsClassification = Get-ClassificationsForType -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
             $conceptsClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -classifications $conceptsClassification | Select-Object -First 1

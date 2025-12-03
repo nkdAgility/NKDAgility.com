@@ -2,6 +2,8 @@
 
 The `textNlist` section type displays content with a two-column layout: sideContent on the left and a list of items with icons on the right. The list area has a light background to distinguish it from the main content.
 
+> ⚠️ **CRITICAL**: List items MUST be objects with `content:` property (and optionally `icon:`). Do NOT use direct strings.
+
 ## Basic Structure
 
 ```yaml
@@ -133,6 +135,26 @@ The section uses these CSS classes:
       content: "Measurable improvements in key performance metrics"
 ```
 
+## ❌ Common Mistakes
+
+### WRONG - Direct Strings (This Will NOT Work)
+
+```yaml
+list:
+  - "Some text here" # ❌ WRONG - Missing content property
+  - "Another item" # ❌ WRONG - This will break!
+```
+
+### ✅ CORRECT - Objects with content Property
+
+```yaml
+list:
+  - content: "Some text here" # ✅ CORRECT
+  - content: "Another item" # ✅ CORRECT
+  - icon: "fa-check" # Optional icon
+    content: "Item with icon" # ✅ CORRECT
+```
+
 ## Best Practices
 
 1. **Balance Content**: Keep left and right content roughly balanced in length
@@ -141,6 +163,7 @@ The section uses these CSS classes:
 4. **Logical Flow**: Order list items in a logical sequence
 5. **Consistent Structure**: Use similar formatting for all list items
 6. **Mobile-Friendly**: Remember content stacks on mobile devices
+7. **Always Use content Property**: Every list item must have `content:` - never use direct strings
 
 ## Visual Design
 

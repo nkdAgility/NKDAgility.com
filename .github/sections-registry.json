@@ -1,0 +1,265 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-02",
+  "sections": [
+    {
+      "type": "audiences",
+      "name": "Audiences",
+      "template": "sections-audiences.html",
+      "documentation": "docs/audiences-section-usage.md",
+      "description": "Target audience displays",
+      "whenToUse": "Show who the service/course is for with role-specific messaging",
+      "category": "specialized"
+    },
+    {
+      "type": "boxesrow",
+      "name": "Boxes Row",
+      "template": "sections-boxesrow.html",
+      "documentation": "docs/boxesrow-section-usage.md",
+      "description": "Flexible box row layout with items",
+      "whenToUse": "Compare 2-3 options side-by-side (pricing tiers, formats, packages)",
+      "category": "comparison"
+    },
+    {
+      "type": "cards",
+      "name": "Cards",
+      "template": "sections-cards.html",
+      "documentation": "docs/cards-section-usage.md",
+      "description": "Dynamic card layout with responsive columns",
+      "whenToUse": "Display multiple items in grid (testimonials, case studies, team members)",
+      "category": "social-proof"
+    },
+    {
+      "type": "casestudy",
+      "name": "Case Study",
+      "template": "sections-casestudy.html",
+      "documentation": "docs/casestudy-section-usage.md",
+      "description": "Results and achievements with icons",
+      "whenToUse": "Showcase quantified results and achievements with visual impact",
+      "category": "outcome-transformation"
+    },
+    {
+      "type": "content",
+      "name": "Content",
+      "template": "Built-in",
+      "documentation": null,
+      "description": "Basic content type (title only)",
+      "whenToUse": "Simple text block with title (avoid on marketing pages)",
+      "category": "system"
+    },
+    {
+      "type": "counters",
+      "name": "Counters",
+      "template": "sections-counters.html",
+      "documentation": "docs/counters-section-usage.md",
+      "description": "Animated counters and statistics",
+      "whenToUse": "Display 2-4 pain-focused or outcome-focused metrics with visual impact",
+      "category": "statistics"
+    },
+    {
+      "type": "courses",
+      "name": "Courses",
+      "template": "sections-courses.html",
+      "documentation": "docs/courses-section-usage.md",
+      "description": "Course listings and information",
+      "whenToUse": "List multiple course offerings with metadata",
+      "category": "specialized"
+    },
+    {
+      "type": "features",
+      "name": "Features",
+      "template": "sections-features.html",
+      "documentation": "docs/features-section-usage.md",
+      "description": "Feature showcase with icons and descriptions",
+      "whenToUse": "List 3-7 capabilities, benefits, or constraints removed (marketing focus)",
+      "category": "feature-benefit"
+    },
+    {
+      "type": "headline",
+      "name": "Headline",
+      "template": "sections-headline.html",
+      "documentation": "docs/headline-section-usage.md",
+      "description": "Hero headlines with images and buttons",
+      "whenToUse": "Page opening only (H1 rule: only ONE per page), sets competitive context",
+      "category": "hero",
+      "restrictions": ["Only ONE per page", "Creates H1 tag"]
+    },
+    {
+      "type": "list",
+      "name": "List",
+      "template": "sections-list.html",
+      "documentation": "docs/list-section-usage.md",
+      "description": "Styled list with icons, titles, and content",
+      "whenToUse": "Display detailed list items with icons and longer explanations",
+      "category": "feature-benefit"
+    },
+    {
+      "type": "none",
+      "name": "None",
+      "template": "Built-in",
+      "documentation": null,
+      "description": "No custom content rendered only title and content",
+      "whenToUse": "Fallback only - avoid intentional use",
+      "category": "system"
+    },
+    {
+      "type": "options",
+      "name": "Options",
+      "template": "sections-consulting-options.html",
+      "documentation": "docs/options-section-usage.md",
+      "description": "Consulting service options",
+      "whenToUse": "Display service packages or consulting engagement types",
+      "category": "comparison"
+    },
+    {
+      "type": "otherpages",
+      "name": "Other Pages",
+      "template": "sections-otherpages.html",
+      "documentation": "docs/otherpages-section-usage.md",
+      "description": "Related or other page listings",
+      "whenToUse": "Link to related courses, resources, or next steps in learning journey",
+      "category": "action-navigation"
+    },
+    {
+      "type": "outcomeboxes",
+      "name": "Outcome Boxes",
+      "template": "sections-boxesrow.html",
+      "documentation": "docs/outcomeboxes-section-usage.md",
+      "description": "Outcome display in box format",
+      "whenToUse": "Display 2-3 key outcomes or transformations in box layout",
+      "category": "outcome-transformation"
+    },
+    {
+      "type": "outcomehero",
+      "name": "Outcome Hero",
+      "template": "sections-outcomehero.html",
+      "documentation": "docs/outcomehero-section-usage.md",
+      "description": "Hero-style outcome presentations",
+      "whenToUse": "Highlight single critical outcome/message with visual prominence (marketing)",
+      "category": "outcome-transformation",
+      "requiredProperties": ["boxes", "cta"],
+      "commonMistakes": [
+        {
+          "wrong": "Using outcomehero without boxes or cta",
+          "correct": "Use 'content' section type instead"
+        }
+      ]
+    },
+    {
+      "type": "phases",
+      "name": "Phases",
+      "template": "sections-phases.html",
+      "documentation": "docs/phases-section-usage.md",
+      "description": "Project or process phases",
+      "whenToUse": "Show sequential steps or timeline-based progression",
+      "category": "specialized"
+    },
+    {
+      "type": "quote",
+      "name": "Quote",
+      "template": "sections-quote.html",
+      "documentation": "docs/quote-section-usage.md",
+      "description": "Large stylized quotes and testimonials",
+      "whenToUse": "ONLY for actual quotations - attributed statements, testimonials, course quotes",
+      "category": "social-proof",
+      "restrictions": ["Only for actual quotations with attribution"],
+      "commonMistakes": [
+        {
+          "wrong": "Using quote for key messages or outcomes",
+          "correct": "Use 'outcomehero' instead"
+        }
+      ]
+    },
+    {
+      "type": "sectioncta",
+      "name": "Section CTA",
+      "template": "sections-sectioncta.html",
+      "documentation": "docs/sectioncta-section-usage.md",
+      "description": "Call-to-action sections",
+      "whenToUse": "Prompt user action (enrol, contact, view schedule) with prominent button",
+      "category": "action-navigation"
+    },
+    {
+      "type": "symmetry",
+      "name": "Symmetry",
+      "template": "sections-symmetry.html",
+      "documentation": "docs/symmetry-section-usage.md",
+      "description": "Symmetric table comparison layout",
+      "whenToUse": "ONLY for structured comparison tables (pricing tiers, feature matrices)",
+      "category": "comparison",
+      "restrictions": ["Only for structured comparison tables"]
+    },
+    {
+      "type": "taxonomies",
+      "name": "Taxonomies",
+      "template": "sections-taxonomies.html",
+      "documentation": "docs/taxonomies-section-usage.md",
+      "description": "Display of taxonomy terms and categories",
+      "whenToUse": "Show related tags, categories, or classification terms",
+      "category": "specialized"
+    },
+    {
+      "type": "taxonomies-card",
+      "name": "Taxonomies Card",
+      "template": "sections-taxonomies-card.html",
+      "documentation": "docs/taxonomies-card-section-usage.md",
+      "description": "Card-based taxonomy display",
+      "whenToUse": "Display taxonomy terms as clickable cards",
+      "category": "specialized"
+    },
+    {
+      "type": "taxonomies-list",
+      "name": "Taxonomies List",
+      "template": "sections-taxonomies-list.html",
+      "documentation": "docs/taxonomies-list-section-usage.md",
+      "description": "List-style taxonomy display with badges",
+      "whenToUse": "Display taxonomy terms as compact badge list",
+      "category": "specialized"
+    },
+    {
+      "type": "textNlist",
+      "name": "Text and List",
+      "template": "sections-textnlist.html",
+      "documentation": "docs/textnlist-section-usage.md",
+      "description": "Text content with accompanying list",
+      "whenToUse": "Side-by-side text explanation with supporting bullet points",
+      "category": "feature-benefit"
+    },
+    {
+      "type": "trustpilot",
+      "name": "Trustpilot",
+      "template": "sections-trustpilot.html",
+      "documentation": "docs/trustpilot-section-usage.md",
+      "description": "Trustpilot review integration",
+      "whenToUse": "Display social proof via Trustpilot reviews widget",
+      "category": "social-proof"
+    },
+    {
+      "type": "types",
+      "name": "Types",
+      "template": "sections-types.html",
+      "documentation": "docs/types-section-usage.md",
+      "description": "Type categorizations",
+      "whenToUse": "Display content type classifications",
+      "category": "specialized"
+    },
+    {
+      "type": "unknown",
+      "name": "Unknown",
+      "template": "section-unknown.html",
+      "documentation": null,
+      "description": "Fallback for unrecognized types",
+      "whenToUse": "System error handler - never use intentionally",
+      "category": "system"
+    },
+    {
+      "type": "videos",
+      "name": "Videos",
+      "template": "sections-videos.html",
+      "documentation": "docs/videos-section-usage.md",
+      "description": "Video content display and embedding",
+      "whenToUse": "Embed YouTube videos or video content",
+      "category": "specialized"
+    }
+  ]
+}

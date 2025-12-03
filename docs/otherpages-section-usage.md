@@ -2,12 +2,20 @@
 
 The `otherpages` section provides a flexible way to display a collection of pages as cards with dynamic column layout based on the number of items. It's designed to showcase various pages from your site in an organized, responsive grid format.
 
+> ⚠️ **CRITICAL**: This section requires TWO properties: `source:` (must be set to `"related"`) AND `related:` (the array of page paths).
+
 ## Basic Structure
 
 ```yaml
 sections:
-  - name: otherpages
-    source: array_of_page_paths
+  - type: otherpages
+    title: "Section Title"
+    content: "Optional description"
+    source: related # Required - tells template which property contains the pages
+    related: # Required - array of page paths
+      - /path/to/page1
+      - /path/to/page2
+      - /path/to/page3
 ```
 
 ## Features
@@ -25,9 +33,17 @@ sections:
 
 ### Required Parameters
 
-- **source**: Array of page paths to display
+- **type**: Must be "otherpages"
+- **source**: Must be set to `"related"` (tells the template which property to use)
+- **related**: Array of page paths to display
   - Type: Array
   - Description: List of page paths that should be displayed as cards
+
+### Optional Parameters
+
+- **title**: Section title
+- **content**: Section description (supports Markdown)
+- **id**: Optional section identifier
 
 ## Examples
 
@@ -35,40 +51,67 @@ sections:
 
 ```yaml
 sections:
-  - name: otherpages
-    source:
-      - "/resources/whitepaper-1"
-      - "/resources/whitepaper-2"
-      - "/resources/whitepaper-3"
+  - type: otherpages
+    title: "Related Resources"
+    source: related
+    related:
+      - /resources/whitepaper-1
+      - /resources/whitepaper-2
+      - /resources/whitepaper-3
 ```
 
 ### Multiple Pages Display
 
 ```yaml
 sections:
-  - name: otherpages
-    source:
-      - "/blog/post-1"
-      - "/blog/post-2"
-      - "/blog/post-3"
-      - "/blog/post-4"
-      - "/blog/post-5"
-      - "/blog/post-6"
+  - type: otherpages
+    title: "Continue Learning"
+    content: "Explore these related courses"
+    source: related
+    related:
+      - /training/course-a
+      - /training/course-b
+      - /training/course-c
+      - /training/course-d
 ```
 
-### Related Resources
+## ❌ Common Mistakes
+
+### WRONG - Missing source Property
 
 ```yaml
 sections:
-  - name: otherpages
-    source:
-      - "/training/course-a"
-      - "/training/course-b"
+  - type: otherpages
+    related: # ❌ WRONG - Missing source property
+      - /page1
+      - /page2
+```
+
+### WRONG - Wrong source Value
+
+```yaml
+sections:
+  - type: otherpages
+    source: pages # ❌ WRONG - Must be "related"
+    pages:
+      - /page1
+      - /page2
+```
+
+### ✅ CORRECT - Both source and related
+
+```yaml
+sections:
+  - type: otherpages
+    source: related # ✅ CORRECT
+    related: # ✅ CORRECT
+      - /page1
+      - /page2
 ```
 
 ## Page Requirements
 
-Each page referenced in the `source` array should have the following frontmatter structure:
+Each page referenced in the `related` array should have the following frontmatter structure:
 
 ```yaml
 ---

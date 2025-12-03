@@ -11,101 +11,76 @@ The page section system uses a router-based approach where:
 - `section-wrapper.html` - Provides consistent wrapping and styling
 - `sections.html` - Main entry point for processing page sections
 
+## Section Registry
+
+**📋 Complete Section Registry**: See [`../.github/sections-registry.json`](../.github/sections-registry.json) for the machine-readable registry of all section types.
+
+The registry contains:
+
+- Section type identifiers and names
+- Template filenames
+- Documentation links
+- Descriptions and "when to use" guidance
+- Category classifications
+- Usage restrictions and common mistakes
+
 ## Available Section Types
 
-### Content Display Sections
+### Hero Sections
 
-| Section Type | Template File             | Documentation                               | Description                                  |
-| ------------ | ------------------------- | ------------------------------------------- | -------------------------------------------- |
-| `list`       | `sections-list.html`      | [✅ Documented](list-section-usage.md)      | Styled list with icons, titles, and content  |
-| `textNlist`  | `sections-textnlist.html` | [✅ Documented](textnlist-section-usage.md) | Text content with accompanying list          |
-| `cards`      | `sections-cards.html`     | [✅ Documented](cards-section-usage.md)     | Dynamic card layout with responsive columns  |
-| `features`   | `sections-features.html`  | [✅ Documented](features-section-usage.md)  | Feature showcase with icons and descriptions |
+- **[headline](headline-section-usage.md)** - Hero headlines with images and buttons
+  - ⚠️ **Page opening only** (H1 rule: only ONE per page)
 
-### Interactive & Media Sections
+### Outcome & Transformation Sections
 
-| Section Type | Template File              | Documentation                                | Description                            |
-| ------------ | -------------------------- | -------------------------------------------- | -------------------------------------- |
-| `quote`      | `sections-quote.html`      | [✅ Documented](quote-section-usage.md)      | Large stylized quotes and testimonials |
-| `videos`     | `sections-videos.html`     | [✅ Documented](videos-section-usage.md)     | Video content display and embedding    |
-| `trustpilot` | `sections-trustpilot.html` | [✅ Documented](trustpilot-section-usage.md) | Trustpilot review integration          |
-| `counters`   | `sections-counters.html`   | [✅ Documented](counters-section-usage.md)   | Animated counters and statistics       |
+- **[outcomehero](outcomehero-section-usage.md)** - Hero-style outcome presentations with boxes and CTA
+- **[outcomeboxes](outcomeboxes-section-usage.md)** - Outcome display in box format
+- **[casestudy](casestudy-section-usage.md)** - Results and achievements with icons
 
-### Outcome & Results Sections
+### Feature & Benefit Sections
 
-| Section Type   | Template File                | Documentation                                  | Description                         |
-| -------------- | ---------------------------- | ---------------------------------------------- | ----------------------------------- |
-| `casestudy`    | `sections-casestudy.html`    | [✅ Documented](casestudy-section-usage.md)    | Results and achievements with icons |
-| `outcomehero`  | `sections-outcomehero.html`  | [✅ Documented](outcomehero-section-usage.md)  | Hero-style outcome presentations    |
-| `outcomeboxes` | `sections-outcomeboxes.html` | [✅ Documented](outcomeboxes-section-usage.md) | Outcome display in box format       |
+- **[features](features-section-usage.md)** - Feature showcase with icons and descriptions
+- **[list](list-section-usage.md)** - Styled list with icons, titles, and content
+- **[textNlist](textnlist-section-usage.md)** - Text content with accompanying list
 
-### Navigation & Organization Sections
+### Comparison Sections
 
-| Section Type | Template File              | Documentation                                | Description                              |
-| ------------ | -------------------------- | -------------------------------------------- | ---------------------------------------- |
-| `sectioncta` | `sections-sectioncta.html` | [✅ Documented](sectioncta-section-usage.md) | Call-to-action sections                  |
-| `taxonomies` | `sections-taxonomies.html` | [✅ Documented](taxonomies-section-usage.md) | Display of taxonomy terms and categories |
-| `otherpages` | `sections-otherpages.html` | [✅ Documented](otherpages-section-usage.md) | Related or other page listings           |
+- **[boxesrow](boxesrow-section-usage.md)** - Flexible box row layout for comparing options
+- **[symmetry](symmetry-section-usage.md)** - Symmetric table comparison layout
+- **[options](options-section-usage.md)** - Consulting service options
 
-### Business & Course Sections
+### Social Proof Sections
 
-| Section Type | Template File                      | Documentation                               | Description                     |
-| ------------ | ---------------------------------- | ------------------------------------------- | ------------------------------- |
-| `courses`    | `sections-courses.html`            | [✅ Documented](courses-section-usage.md)   | Course listings and information |
-| `audiences`  | `sections-audiences.html`          | [✅ Documented](audiences-section-usage.md) | Target audience displays        |
-| `options`    | `sections-consulting-options.html` | [✅ Documented](options-section-usage.md)   | Consulting service options      |
-| `phases`     | `sections-phases.html`             | [✅ Documented](phases-section-usage.md)    | Project or process phases       |
-| `types`      | `sections-types.html`              | [✅ Documented](types-section-usage.md)     | Type categorizations            |
+- **[quote](quote-section-usage.md)** - Large stylized quotes and testimonials
+  - ⚠️ **Only for actual quotations** with attribution
+- **[trustpilot](trustpilot-section-usage.md)** - Trustpilot review integration
+- **[cards](cards-section-usage.md)** - Dynamic card layout with responsive columns
+
+### Statistics Sections
+
+- **[counters](counters-section-usage.md)** - Animated counters and statistics
+
+### Action & Navigation Sections
+
+- **[sectioncta](sectioncta-section-usage.md)** - Call-to-action sections
+- **[otherpages](otherpages-section-usage.md)** - Related or other page listings
 
 ### Specialized Sections
 
-| Section Type      | Template File                   | Documentation                                     | Description                 |
-| ----------------- | ------------------------------- | ------------------------------------------------- | --------------------------- |
-| `taxonomies-card` | `sections-taxonomies-card.html` | [✅ Documented](taxonomies-card-section-usage.md) | Card-based taxonomy display |
+- **[audiences](audiences-section-usage.md)** - Target audience displays
+- **[phases](phases-section-usage.md)** - Project or process phases
+- **[courses](courses-section-usage.md)** - Course listings and information
+- **[taxonomies](taxonomies-section-usage.md)** - Display of taxonomy terms and categories
+- **[taxonomies-card](taxonomies-card-section-usage.md)** - Card-based taxonomy display
+- **[taxonomies-list](taxonomies-list-section-usage.md)** - List-style taxonomy display with badges
+- **[types](types-section-usage.md)** - Type categorizations
+- **[videos](videos-section-usage.md)** - Video content display and embedding
 
 ### System Sections
 
-| Section Type | Template File          | Documentation | Description                     |
-| ------------ | ---------------------- | ------------- | ------------------------------- |
-| `content`    | Built-in               | N/A           | Basic content type (title only) |
-| `none`       | Built-in               | N/A           | No content rendered             |
-| `unknown`    | `section-unknown.html` | N/A           | Fallback for unrecognized types |
-
-## Documentation Status
-
-### ✅ Fully Documented (23 sections)
-
-- [audiences](audiences-section-usage.md)
-- [boxesrow](boxesrow-section-usage.md)
-- [cards](cards-section-usage.md)
-- [casestudy](casestudy-section-usage.md)
-- [counters](counters-section-usage.md)
-- [courses](courses-section-usage.md)
-- [features](features-section-usage.md)
-- [headline](headline-section-usage.md)
-- [list](list-section-usage.md)
-- [options](options-section-usage.md)
-- [otherpages](otherpages-section-usage.md)
-- [outcomeboxes](outcomeboxes-section-usage.md)
-- [outcomehero](outcomehero-section-usage.md)
-- [phases](phases-section-usage.md)
-- [quote](quote-section-usage.md)
-- [sectioncta](sectioncta-section-usage.md)
-- [symmetry](symmetry-section-usage.md)
-- [taxonomies](taxonomies-section-usage.md)
-- [taxonomies-card](taxonomies-card-section-usage.md)
-- [taxonomies-list](taxonomies-list-section-usage.md)
-- [textnlist](textnlist-section-usage.md)
-- [trustpilot](trustpilot-section-usage.md)
-- [types](types-section-usage.md)
-- [videos](videos-section-usage.md)
-
-### 📝 System Components (No documentation needed)
-
-- content (Built-in basic content type)
-- none (Built-in no content type)
-- unknown (System fallback)
-- router (Section routing logic)
+- **content** - Built-in basic content type (avoid on marketing pages)
+- **none** - Built-in fallback (no content rendered)
+- **unknown** - System error handler (never use intentionally)
 
 ## Common Configuration Patterns
 
