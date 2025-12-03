@@ -66,133 +66,127 @@ preview: naked-agility-Professional-Scrum-PALE-1600x900-2.jpg
 previewIcon: Scrumorg-Course-PALE-400x.png
 brandColour: 
 code: PAL-e
+programCode: PAL-e
 course_proficiencies:
   - intermediate
-introduction: |2
+sections:
+  - type: headline
+    headline:
+      title: "Transform Your Organisation Through Agile Leadership"
+      content: |
+        You're responsible for leading agile adoption, but you're facing resistance, confusion about roles, and teams that aren't delivering the value you need. You need the confidence to guide your organisation through transformation, make strategic decisions about agility investments, and create conditions where teams can thrive. This course gives you deep understanding of how agility works, practical leadership techniques you can apply immediately, and the ability to measure and communicate the impact of your agile initiatives — not just theory, but capability you'll use from day one.
+  - type: symmetry
+    title: "Course Details"
+    boxes:
+      - title: "Duration"
+        items:
+          - title: "14 hours total"
+          - title: "Immersive: 7 weekly 2-hour sessions"
+          - title: "Traditional: 2 full days"
+      - title: "What You'll Gain"
+        items:
+          - title: "Strategic agility leadership"
+          - title: "Value delivery improvement"
+          - title: "Culture transformation skills"
+          - title: "Scaling approaches"
+      - title: "Certification"
+        items:
+          - title: "Professional Agile Leadership I (PAL I)"
+          - title: "Two free exam attempts included"
+  - type: list
+    title: "What You'll Be Able to Do After This Course"
+    listType: default
+    list:
+      - icon: "fa-compass"
+        title: "Lead Agile Transformation with Confidence"
+        content: |
+          Understand where and how agility helps your organisation improve by addressing challenges you can solve in no other way. You'll know which agile approaches work for your context and how to introduce them effectively.
+      - icon: "fa-users"
+        title: "Support Agile Teams to Deliver Value"
+        content: |
+          Understand how agile teams work and what you, as a leader, can do to help them improve. You'll create the right conditions for teams to succeed rather than directing their every move.
+      - icon: "fa-chart-line"
+        title: "Measure and Communicate Agility Impact"
+        content: |
+          Quantify the benefits of improving your organisation's agility through concrete measures. You'll speak the language of value delivery and make data-informed decisions about agility investments.
+      - icon: "fa-building"
+        title: "Shape Organisational Culture for Agility"
+        content: |
+          Understand how culture and values influence organisational agility. You'll know how to shift mindsets, remove impediments, and foster the professionalism teams need to deliver.
+      - icon: "fa-sitemap"
+        title: "Scale Agile Across Your Organisation"
+        content: |
+          Learn practical approaches to scaling agile practices beyond single teams. You'll understand the theory and principles behind scaling and avoid common pitfalls.
+  - type: list
+    title: "Who This Course Is For"
+    listType: boxed
+    list:
+      - icon: "fa-user-tie"
+        title: "Senior Leaders and Executives"
+        content: |
+          You're accountable for organisational agility and need to understand how to lead transformation, measure success, and create conditions for agile teams to thrive.
+      - icon: "fa-users-cog"
+        title: "Product Owners and Managers"
+        content: |
+          You're responsible for value delivery and need to understand how leadership practices enable or constrain your teams' ability to deliver.
+      - icon: "fa-hands-helping"
+        title: "Agile Champions and Change Agents"
+        content: |
+          You're driving agile adoption in your organisation and need practical leadership techniques and the ability to communicate value to executives and stakeholders.
+  - type: list
+    title: "Course Learning Journey"
+    listType: default
+    list:
+      - icon: "fa-lightbulb"
+        title: "Theory and Principles"
+        content: |
+          Build deep understanding of agility as a strategic capability, not just a methodology. Learn how empiricism, complexity thinking, and lean principles inform leadership decisions.
+      - icon: "fa-bullseye"
+        title: "Value - The 'What'"
+        content: |
+          Focus on improving value delivery within your organisation. Understand how to identify what creates value, measure it, and make strategic decisions that increase it.
+      - icon: "fa-heart"
+        title: "Culture - The 'Who'"
+        content: |
+          Understand how culture, mindset, and organisational values enable or constrain agility. Learn practical approaches to shaping culture for better outcomes.
+      - icon: "fa-tools"
+        title: "Professionalism - The 'How'"
+        content: |
+          Develop technical excellence, engineering practices, and professional standards that enable sustainable agility. Understand what 'good' looks like and how to support teams in achieving it.
+      - icon: "fa-expand-arrows-alt"
+        title: "Scaling Agility"
+        content: |
+          Learn approaches to scaling agile practices across multiple teams and divisions. Understand coordination patterns, dependency management, and enterprise agility principles.
+  - type: none
+    title: "Why Learn with NKD Agility"
+    content: |
+      Martin Hinshelwood brings over 20 years of technical and organisational transformation experience to this Scrum.org course. You'll benefit from real-world stories, practical examples from actual engagements, and technical depth that goes beyond generic agile theory.
+      
+      **Immersive Learning Format**: Our default delivery is 7 weekly 2-hour sessions with offline assignments between sessions. You'll apply concepts to your real organisational challenges, bring results back for discussion, and build lasting capability through spaced repetition and practical application. This format creates better outcomes than traditional 2-day intensives.
+      
+      **Traditional Format Available**: For organisations requiring faster delivery, we offer a condensed 2-day format. While less time for real-world application between sessions, it still includes hands-on exercises and Martin's practical insights.
+      
+      **Small Class Sizes**: Better interaction, personalisation, and opportunity to discuss your specific challenges.
+      
+      **Post-Course Support**: Access to ongoing learning resources and community.
+  - type: trustpilot
+    title: "What Professional Agile Leadership Essentials Students Say"
+    content: |
+      <iframe title="Customer reviews powered by Trustpilot" src="https://widget.trustpilot.com/trustboxes/53aa8912dec7e10d38f59f36/index.html?businessunitId=5c12d8d7393a0100015d1c3e&amp;templateId=53aa8912dec7e10d38f59f36#locale=en-US&amp;stars=4%2C5&amp;styleHeight=140px&amp;styleWidth=250%25&amp;tags=classtype%3Apal-e&amp;theme=light" data-mce-fragment="1"></iframe>
 
-  ### Expected Outcomes After Attending the Workshop
-
-  You will understand where and how agility can help your organization improve, by addressing challenges you can solve in no other way. You will also understand how agile teams work and what you, as a manager or leader, can do to help them to improve. You will also be able to quantify the benefits of improving the agility of your organization through concrete measures. This class can be delivered on-site, in a specific organization, to help its leaders understand their important role in transforming their organization, or in a public class setting.
-
-  ### What Professional Agile Leadership Essentials Students Say
-
-
-
-  <iframe title="Customer reviews powered by Trustpilot" src="https://widget.trustpilot.com/trustboxes/53aa8912dec7e10d38f59f36/index.html?businessunitId=5c12d8d7393a0100015d1c3e&amp;templateId=53aa8912dec7e10d38f59f36#locale=en-US&amp;stars=4%2C5&amp;styleHeight=140px&amp;styleWidth=250%25&amp;tags=classtype%3Apal-e&amp;theme=light" data-mce-fragment="1"></iframe>
-
-  [Read more](https://www.scrum.org/scrumorg-professional-agile-leadership-essentials-training-student-reviews-and-feedback "Scrum.org Professional Agile Leadership-Essentials Training Student Reviews and Feedback") about our PAL-E student surveys and their feedback
-overview: |2
-
-  The Professional Agile Leadership Essentials course is designed for managers and those in leadership roles who are responsible for the introduction and establishment of Agile methods and techniques in an IT organization/division.
-outcomes: |2+
-
-  - Theory and Principles
-  - Improving Value Delivery
-  - Value - The "What"
-  - Culture - The "Who"
-  - Professionalism - The "How"
-  - Scaling
-
-assessment: 
-objectives: |2+
-
-  - Development of a common language
-  - Understanding of core problems in Product Development
-  - Professional introduction and establishment of Agile techniques
-  - Role management plays in the Agile change of an organization
-
-prerequisites: 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
+      [Read more](https://www.scrum.org/scrumorg-professional-agile-leadership-essentials-training-student-reviews-and-feedback "Scrum.org Professional Agile Leadership-Essentials Training Student Reviews and Feedback") about our PAL-E student surveys and their feedback
+  - type: sectioncta
+    title: "Ready to Lead Your Agile Transformation?"
+    content: |
+      Join our next Professional Agile Leadership Essentials course and gain the confidence, capability, and credibility to drive lasting organisational change.
+    buttons:
+      - content: "View Upcoming Classes"
+        link: "/capabilities/training-courses/"
+      - content: "Book a Private Course"
+        link: "/contact/"
+trainers:
+  - /company/people/martin-hinshelwood/
 ResourceId: PAL-e
 ResourceType: course
-
----
-# Professional Agile Leadership Essentials (PAL-e) with Certification
-
-**Course Code:** PAL-e
-
----
-
-## Overview
-
-Professional Agile Leadership Essentials (PAL-e) is a workshop designed for leaders and managers responsible for introducing and establishing Agile methods in their organizations. The course provides foundational knowledge and practical skills to drive successful agile transformation and support agile teams.
-
----
-
-## Target Audience
-
-- Product Owners
-- Lean Agile Practitioners
-- Managers
-- Entrepreneurs
-- Leaders responsible for Agile transformation
-
----
-
-## Learning Outcomes
-
-- Understand the theory and principles of Agile leadership
-- Improve value delivery within the organization
-- Distinguish between value ("What"), culture ("Who"), and professionalism ("How") in Agile contexts
-- Recognize the role of leadership in Agile change and transformation
-- Develop a common language for Agile adoption
-- Identify and address core problems in product development
-- Guide and coach Agile teams to remove impediments
-- Measure and quantify the benefits and impacts of agility
-- Understand how culture and values influence organizational agility
-- Learn approaches to scaling Agile practices
-
----
-
-## Course Topics
-
-- Agile Frameworks and Leadership
-- Value Delivery
-- Organizational Culture and Change
-- Professionalism in Agile Teams
-- Scaling Agile
-- Social Technologies in Agile Organizations
-
----
-
-## Delivery Format
-
-- Immersive: 7 weekly 4-hour sessions (with practice and debrief)
-- Flipped Learning: 4 consecutive 4-hour sessions (with self-paced reading and exercises)
-- Traditional: 2 full-day class
-
----
-
-## Proficiency Level
-
-- Intermediate
-
----
-
-## Course Length
-
-- 14 hours (delivered over four half-days, or as per selected format)
-
----
-
-## Trainer/Designer
-
-- Martin Hinshelwood
-
----
-
-## Vendor
-
-- Scrum.org
-
----
-
-## Certification
-
-- Includes two attempts at the Professional Agile Leadership I (PAL I) certification exam
 
 ---
