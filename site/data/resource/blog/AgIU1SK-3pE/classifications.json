@@ -2984,5 +2984,25 @@
     "reasoning": "The content focuses exclusively on DevOps, developer operational agency, and the failures of insufficient developer control in delivery pipelines. It does not mention or address AI, AI products, nor organizational models specific to AI-powered product delivery. There are no direct references to AI Product Operating Models or any AI-centric practices, principles, or considerations (e.g., model lifecycle, data governance, ethics) that distinguish the category. While there is a very thin link to general product strategy and operating realities, nothing in the text is specific or applicable to the unique requirements or structures described under the AI Product Operating Model category. Audience overlap exists only at a broad technical/organizational level, but all substance is outside the defined scope.",
     "reasoning_summary": "Content is narrowly focused on DevOps operational agency and fragility, with no reference or relevance to AI Product Operating Models. Lacks AI context, concepts, or lifecycle management. No clear fit to the category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "AgIU1SK-3pE",
+    "itemId": "AgIU1SK-3pE",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:15",
+    "ai_confidence": 12.16,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.8,
+    "ai_intent": 1.2,
+    "ai_audience": 2.4,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content critiques organizational practices that limit developer agency, specifically those involving bureaucratic release management, ticket-based ops, and stage-gated processes—elements reminiscent of the Industrial Operating Model (IOM). However, the main focus is on advocating for DevOps and developer empowerment, not on explaining what the IOM is, its core assumptions, mechanisms, or where it succeeds. IOM characteristics are implied as constraints but are not explored in depth, named directly, or positioned in a historical/theoretical context. The lack of explicit analysis or educational intent regarding IOM and its effective use results in minimal alignment with the category.",
+    "reasoning_summary": "Content is focused on the need for developer agency in DevOps, critiquing restrictive, hierarchical release practices. While it hints at IOM limitations, it does not explain or explore what the Industrial Operating Model is.",
+    "level": "Ignored"
   }
 }

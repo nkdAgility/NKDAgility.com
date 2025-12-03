@@ -3356,5 +3356,25 @@
     "reasoning": "The content exclusively discusses topic branches and branching strategies in modern software engineering (GitHub Flow, Release Flow, Git Flow) with strong emphasis on agile practices, modularity, and continuous delivery. There are no direct mentions or meaningful discussion of AI-specific product operational issues, MLOps, data/model governance, or any of the unique governance or lifecycle challenges tied to AI solutions. There is limited overlap between general software delivery practices (e.g., trunk-based development, agile) and some approaches needed in AI teams, but the text never acknowledges AI product development as a distinct domain nor addresses any AI-specific practices or roles. The audience and intent stay focused on software engineering leadership and team practice improvement, without referencing AI-powered products, model lifecycle management, responsible AI, or anything meeting the category’s definition. Any conceptual alignment is coincidental and extremely superficial.",
     "reasoning_summary": "The content focuses exclusively on topic branch strategies and continuous delivery for general software development, with no reference to AI products, models, or lifecycle management. It does not fit the 'AI Product Operating Model' category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "O_VlmDj7n3V",
+    "itemId": "O_VlmDj7n3V",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:38",
+    "ai_confidence": 5.9,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.2,
+    "ai_intent": 1.8,
+    "ai_audience": 0.5,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content centers on software engineering practices (topic branching), agility, and continuous delivery. There is no explicit mention or substantive discussion of the Industrial Operating Model, its mechanics, theoretical roots, or environment fit. References to silos and legacy branching strategies briefly (and only implicitly) hint at older models, but the emphasis is modern, adaptive, and technical, not about IOM's nature or strengths. The purpose and audience target practitioners seeking agile and technical delivery practices, not those aiming to understand the Industrial Operating Model itself.",
+    "reasoning_summary": "The content does not substantively discuss the Industrial Operating Model, its assumptions, structures, or use cases. It focuses on agile, adaptive practices and modern software delivery, so fit with the category is minimal.",
+    "level": "Ignored"
   }
 }

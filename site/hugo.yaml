@@ -150,7 +150,12 @@ markup:
       table: true
       linkify: true
       typographer: true
+      footnote: true
+      taskList: true
+      definitionList: true
     parser:
+      autoHeadingID: true
+      autoHeadingIDType: github
       attribute:
         block: true
         title: true

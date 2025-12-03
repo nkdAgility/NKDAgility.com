@@ -3448,5 +3448,25 @@
     "reasoning": "The content discusses engineering excellence in the context of modern Agile and DevOps practices, focusing on continuous improvement, feedback loops, code quality, automation, and overcoming legacy software constraints. While these are key topics for software delivery, the article never mentions AI, nor does it discuss how AI-specific products are operationalized or managed from an operating model perspective. There is no content about roles, governance, model lifecycle, MLOps, data/model governance, or AI ethics as operating model concerns. The Azure DevOps example is software engineering-focused, not about AI product development. Therefore, the content does not fit the AI Product Operating Model category.",
     "reasoning_summary": "Content focuses on Agile/DevOps excellence and continuous improvement within software engineering, with no AI context or AI product operating model discussion. Not a fit for the category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "gDzw-Qe_Js8",
+    "itemId": "gDzw-Qe_Js8",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:56",
+    "ai_confidence": 13.63,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.2,
+    "ai_intent": 0.9,
+    "ai_audience": 5.2,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.7,
+    "ai_penalty_details": "Mentions: -0.5 for no direct or implicit references to IOM. Alignment: -0.7 for exclusively focusing on modern/agile models. Depth: -0.7 for no substantive IOM discussion. Intent: -0.5 for addressing only adaptive practices and not IOM explanation.",
+    "final_score": 14.0,
+    "reasoning": "The content focuses exclusively on the value of continuous improvement, feedback loops, clean code, and agility via modern Agile and DevOps practices. It contrasts these approaches to perfectionism and rigid planning, but only in the context of advocating for adaptability, not by explicating or analyzing the Industrial Operating Model. There is no discussion of IOM’s structures, assumptions, mechanics, or contexts where it works; instead, IOM ideas (such as upfront planning or manual processes) are mentioned only fleetingly and are quickly critiqued as barriers to improvement. The main intent is to explain adaptive operating models, without meaningful explanation of IOM itself, violating the strict inclusion/exclusion criteria. Heavy penalties are applied especially for mentions, alignment, depth, and intent, as all focus sits outside the IOM classification.",
+    "reasoning_summary": "Content advocates Agile/DevOps and continuous improvement, barely referencing IOM only to contrast with adaptability. It lacks direct or substantive discussion of IOM’s principles, mechanics, or where it excels, so does not fit this category.",
+    "level": "Ignored"
   }
 }

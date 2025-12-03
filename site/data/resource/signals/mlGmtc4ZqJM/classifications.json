@@ -3448,5 +3448,25 @@
     "reasoning": "The content discusses the US Department of Defence's transition from waterfall to agile methods and related procurement changes but does not reference AI, AI product operating models, or any AI-specific governance, lifecycle, or structural themes. It focuses on general organizational agility in delivery. There are no explicit or implied connections to the unique needs, principles, or lifecycle management of AI products, nor are AI governance, data/model considerations, or role alignments mentioned. While the audience (organizational delivery/change leaders) could overlap with AI product model stakeholders, the content itself addresses general software/product development operating models only.",
     "reasoning_summary": "This content focuses on general agile transformation in government, lacking AI- or AI product operating model-specific themes. Its topic/intent do not match the category. Fit is minimal and incidental.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "mlGmtc4ZqJM",
+    "itemId": "mlGmtc4ZqJM",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:51",
+    "ai_confidence": 34.6,
+    "ai_mentions": 3.2,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.2,
+    "ai_intent": 2.9,
+    "ai_audience": 8.1,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Intent (-1): The tone is critical and focused on the DOD's move away from the IOM rather than explaining it. Alignment (-1): The content uses IOM features as a foil to spotlight their obsolescence.",
+    "final_score": 35.0,
+    "reasoning": "This content focuses on the Department of Defence's historical use of waterfall (a hallmark of IOM: stage gates, approvals, fixed plans), mentioning specific IOM mechanics. However, its main aim is to discuss the transition *away* from IOM, not to inform readers about what the IOM is or where it succeeds; the IOM's principles are described only briefly to highlight the rationale for leaving them behind. While audience and signal remain relatively high due to clarity and targeting change agents, low depth and intent scores reflect the mainly critical framing and lack of substantive explanation of IOM fundamentals. Penalties were applied for intent (critical/undermining) and alignment (using IOM as the contrast, not the subject).",
+    "reasoning_summary": "Content mentions Industrial Operating Model features but mainly to critique and contrast them with modern approaches. The focus is on leaving IOM, not understanding or advocating for it, so fit is partial and mainly as negative context.",
+    "level": "Ignored"
   }
 }

@@ -2943,5 +2943,25 @@
     "reasoning": "The content exclusively analyzes software branching strategies (Dev/Test/Staging/Prod, GitHub Flow, Release Flow, Git Flow) with a focus on CI/CD, value delivery, and modern DevOps-based delivery flows. It does not address the unique requirements, governance, model lifecycle, ethics, or organizational considerations specific to AI product operating models. Mentions of continuous delivery and DevOps are generic and not contextualized to AI. No references to AI model management, data governance, ML roles/responsibilities, or operating model components associated with AI products. The intent, depth, key themes, and intended audience reflect general software delivery and branching, not the specialized scope in the definition for AI Product Operating Model.",
     "reasoning_summary": "Content is unrelated to AI Product Operating Model; it discusses general branching and delivery flows, with no AI-specific themes, operating model, or organizational considerations for AI productization. Not a conceptual or practical fit.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "x7ra7pQCDX5",
+    "itemId": "x7ra7pQCDX5",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:11",
+    "ai_confidence": 19.42,
+    "ai_mentions": 0.8,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.2,
+    "ai_intent": 1.7,
+    "ai_audience": 6.2,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 4.0,
+    "ai_penalty_details": "1 point each deducted from mentions, alignment, depth, and intent for sections that criticize and reject IOM practices as outdated or failed, with tone focused on promoting alternatives rather than analyzing IOM itself.",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on criticizing the 'branch promotion model' (Dev → Test → Staging → Production) as outdated, advocating for modern flows (GitHub Flow, Release Flow) and denigrating traditional methods as unfit for contemporary needs. There is only indirect, negative reference to the Industrial Operating Model (IOM) via critiques of hierarchical, stage-gated workflows associated with 'waterfall' software delivery. The main ideas do not explain or analyze the IOM’s principles, context, or success factors—instead, they present IOM-aligned practices as failures and promote adaptive methods as superior. Depth is low regarding IOM itself; intent is to convince readers to abandon the model, not understand or apply it. Audience alignment is moderate due to overlap with practitioners familiar with IOM, but the main focus is on alternatives. Significant penalty (1 point each for mentions, alignment, depth, intent) is applied for negative framing and lack of IOM explanatory substance.",
+    "reasoning_summary": "Content critiques legacy branch promotion (an IOM pattern) but focuses on its failure and the superiority of adaptive branching models, not on explaining or supporting IOM itself. Fit to category is weak and primarily indirect or adversarial.",
+    "level": "Ignored"
   }
 }

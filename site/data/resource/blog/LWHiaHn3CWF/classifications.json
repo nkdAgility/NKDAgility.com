@@ -2602,5 +2602,25 @@
     "reasoning": "The content is an in-depth technical tutorial demonstrating how to automate code synchronisation between VSTS/TFS and GitHub, specifically for open-source and DevOps workflows. It explains configuration options and the step-by-step deployment for developers and DevOps practitioners, targeting those working on code repositories, CI/CD, and cloud-based automation. However, it never discusses how AI products are operated, lifecycle-managed, or governed in an organization. There is no reference to organizational operating models, cross-functional roles, MLOps, data/model governance, or ethical/legal/AI-specific concerns. The content does not explicitly or implicitly address AI or AI product operationalization—the scope is general DevOps automation for source control and build pipelines.",
     "reasoning_summary": "Content is solely about DevOps code synchronisation between VSTS/TFS and GitHub for open-source; does not mention or address any AI Product Operating Model concepts. No AI-specific operating, governance, or lifecycle themes present.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "LWHiaHn3CWF",
+    "itemId": "LWHiaHn3CWF",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:58",
+    "ai_confidence": 2.518,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 4.1,
+    "ai_signal": 3.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "This content directly addresses technical instructions for syncing VSTS/TFS and GitHub for DevOps workflows, focusing on automation and tool configuration. There is no mention, explicit or conceptual, of the Industrial Operating Model (IOM), its assumptions, structures, or foundational concepts. No discussion relates to hierarchical models, scientific management, or comparative analysis versus adaptive systems. The only moderate audience fit is that both the content and IOM occasionally address organizational process tools, but the overall alignment is extremely weak.",
+    "reasoning_summary": "This content has almost no alignment with the Industrial Operating Model category, lacking direct, conceptual, or in-depth discussion of IOM themes or structures. Its technical, DevOps focus is unrelated to the IOM definition.",
+    "level": "Ignored"
   }
 }

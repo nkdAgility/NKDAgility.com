@@ -2625,5 +2625,25 @@
     "reasoning": "The content focuses on Lean and Scrum practices, particularly limiting work in progress, value-based prioritization, and reducing multitasking to boost team efficiency and business value. It provides actionable insights for product teams but does not once reference AI, AI-specific principles, or the unique operating models required for AI product development, deployment, or governance. There are no mentions of MLOps, data/model governance, responsible AI, or lifecycle management of AI solutions. Its entire framing, examples, and intent are relevant only to general software/product teams, not AI-specific contexts. Therefore, all scoring dimensions are extremely low and confidence in this content fitting the 'AI Product Operating Model' category is very weak.",
     "reasoning_summary": "Content is about Lean/Scrum workflow management and team productivity—not about AI or AI product operating models. No AI reference, concept, or intent. Content is unrelated to the assigned category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "8aIUldVDtGw",
+    "itemId": "8aIUldVDtGw",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:11",
+    "ai_confidence": 13.92,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.7,
+    "ai_intent": 1.2,
+    "ai_audience": 3.7,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses almost exclusively on Lean and Scrum methods for limiting multitasking and improving throughput. It does not discuss the Industrial Operating Model, its principles, history, or contexts where IOM is effective. There are some brief references to middle management pushing multitasking, which could arguably be loosely linked to IOM practices, but these aren't deeply explored or contextualized within IOM. There is no mention of hierarchies, Taylorism, or the orientation of IOM, nor is there any comparison or direct analysis of the established model. The audience and signal scores are somewhat higher as the content is geared toward teams and practitioners, which could intersect IOM audiences, but the overwhelming focus is on adaptive practices, not IOM. Fit is very weak and largely absent.",
+    "reasoning_summary": "This content does not meaningfully discuss the Industrial Operating Model. It is focused on Lean and Scrum team practices, with no substantive reference to IOM concepts, mechanics, or contexts. Fit to IOM category is minimal to none.",
+    "level": "Ignored"
   }
 }

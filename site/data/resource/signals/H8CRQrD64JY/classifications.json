@@ -3448,5 +3448,25 @@
     "reasoning": "The content exclusively discusses workflow management practices in Azure DevOps, specifically discouraging the use of a Blocked column and recommending tags for visible tracking. There is no mention of AI, AI products, operating models, or any element of end-to-end lifecycle management or organizational structuring around AI solutions. The entire post is generic advice applicable to any software team using Azure DevOps; it does not address AI-specific challenges, governance, roles, or model lifecycle. It lacks any explicit or implicit alignment to the scope or requirements of the AI Product Operating Model category.",
     "reasoning_summary": "This content addresses generic workflow advice in Azure DevOps, with no mention or relevance to AI products or operating models; there is no fit with the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "H8CRQrD64JY",
+    "itemId": "H8CRQrD64JY",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:20",
+    "ai_confidence": 7.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.7,
+    "ai_intent": 0.8,
+    "ai_audience": 2.1,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is focused on a specific Azure DevOps workflow practice at the team level—how to handle 'blocked' work. It makes no mention of the Industrial Operating Model (IOM) or its core assumptions, mechanics, or structures. The discussion centers on Kanban board design and actionable practices for team productivity, which are not synonymous with IOM nor provide insight into its operating model, history, or where and why IOM works. No explicit or implicit conceptual alignment with IOM is found. The intended audience appears to be Agile teams using Azure DevOps, not those interested in IOM theory or practice. Thus, confidence is extremely low.",
+    "reasoning_summary": "This content is unrelated to the Industrial Operating Model. It addresses practical team-level workflow tactics in Azure DevOps, without discussing IOM structures, mechanisms, or assumptions.",
+    "level": "Ignored"
   }
 }

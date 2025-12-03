@@ -2997,5 +2997,25 @@
     "reasoning": "The content focuses heavily on DevOps, platform engineering, and unified delivery systems (One Engineering System), but it makes no mention or implication of AI, AI product development, or unique AI lifecycle/governance requirements. It addresses general product delivery and internal developer platforms, but doesn't discuss model lifecycle, data governance, model monitoring, or the other AI-specific themes that define the category. Its main audience is software/platform engineers and DevOps practitioners, not those responsible for AI products. There are no outdated recommendations or critical/satirical tones, so no penalties apply, but the content does not match the AI Product Operating Model definition beyond superficial potential overlap in operating model language. For alignment, depth, and mentions, only token scores are assigned to reflect the faint possibility of indirect applicability (e.g., some platform engineering concepts may be reused in AI, but the text doesn't acknowledge this or address AI at all).",
     "reasoning_summary": "Content focuses on DevOps, platform engineering, and delivery system unification but lacks any AI-specific themes, intent, or references. Does not fit the AI Product Operating Model category. Overlap is superficial and indirect at best.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "zLhc3UKUWOj",
+    "itemId": "zLhc3UKUWOj",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:47",
+    "ai_confidence": 8.32,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.7,
+    "ai_intent": 0.9,
+    "ai_audience": 1.1,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on problems caused by siloed engineering systems, advocating for unified DevOps platforms and platform engineering. There is no explicit reference to the Industrial Operating Model (IOM), nor does it discuss IOM mechanics, assumptions, or where it succeeds. Mentions of fragmentation and silos are used primarily as negative contrasts but are not connected to IOM's historical context or theoretical roots. The aim is to promote modern DevOps/platform approaches, not to explain or analyze IOM. Thus, the fit to 'Industrial Operating Model' is extremely tenuous; at best, it only indirectly relates by criticizing features (silos, manual gates) sometimes associated with the IOM, but without any substantive framing or educational content about what IOM is or how/where it works.",
+    "reasoning_summary": "Content does not substantively discuss the Industrial Operating Model; it advocates modern DevOps and platform engineering, only critiquing features sometimes associated with IOM. Category fit is minimal and indirect.",
+    "level": "Ignored"
   }
 }

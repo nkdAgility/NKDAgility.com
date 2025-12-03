@@ -2579,5 +2579,25 @@
     "reasoning": "The content focuses on site reliability engineering and DevOps practices within the Azure DevOps team, addressing themes like automation, telemetry, transparency, and incident response. While it discusses operating models (e.g., cross-functional teams, continuous delivery) and value-stream integration, these are presented in the context of general software reliability—not AI product development or unique AI operating model challenges. There are no direct or indirect references to AI, machine learning, or AI-specific governance, lifecycle, or ethical considerations. The content is highly relevant to DevOps and SRE practitioners interested in resilient live-site culture, but entirely lacks AI alignment. Scores reflect near-zero direct mentions, weak conceptual/depth fit, but decent audience/signal relevance due to operational focus.",
     "reasoning_summary": "The content is about DevOps, SRE, and site reliability in software—not AI. It lacks any reference to AI product practices, governance, or challenges, so it does not fit the AI Product Operating Model category except for some general operating model overlap.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "5bgcpPqcGlw",
+    "itemId": "5bgcpPqcGlw",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:35",
+    "ai_confidence": 7.6,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.0,
+    "ai_audience": 2.1,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused on site reliability engineering, agile practices, automation, cross-functional teams, and cultural aspects of Microsoft Azure DevOps. There is no substantive discussion or direct mention of the Industrial Operating Model, its mechanics, assumptions, or theoretical roots. Instead, the article implicitly advocates for adaptive approaches, emphasizing agility, cross-functionality, and rapid change—contrasting with, but not analyzing, IOM. There are some allusions (e.g., mention of Microsoft's transition from waterfall), but these are not framed as explorations of what IOM is or where it applies. The main audience is practitioners interested in modern DevOps, not those seeking understanding of IOM.",
+    "reasoning_summary": "Content does not explore or explain the Industrial Operating Model; it focuses on modern adaptive practices, SRE, and DevOps, without substantive IOM discussion. Fit is incidental at best.",
+    "level": "Ignored"
   }
 }

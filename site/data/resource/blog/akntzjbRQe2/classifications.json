@@ -2603,5 +2603,25 @@
     "reasoning": "The content focuses on Microsoft's Release Management tools for DevOps pipelines in VSTS/TFS. It discusses deployment automation, flexibility, and integration with various tools but does not mention or contextualize AI, AI products, or any element particular to AI Product Operating Models (lifecycle, roles, governance, model operations, etc.). There is no reference to AI-specific considerations like data/model governance, continuous learning, or ethical AI. The content aligns solely with general software or DevOps release management, not with the AI Product Operating Model category. The minimal scores reflect only broad methodological overlaps (e.g., release pipelines are a part of operating models, but not AI-specific in this context).",
     "reasoning_summary": "Content is about DevOps release pipeline tools in traditional software contexts, with no discussion of AI product operations, governance, or lifecycle. Not relevant to AI Product Operating Model.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "akntzjbRQe2",
+    "itemId": "akntzjbRQe2",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:27:37",
+    "ai_confidence": 7.77,
+    "ai_mentions": 0.4,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 1.2,
+    "ai_audience": 2.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "This content is an overview of Microsoft's web-based Release Management tools for DevOps in VSTS/TFS. It focuses on tooling, pipeline automation, and flexibility in deployment. There are no direct references to the Industrial Operating Model (IOM) or its core assumptions, structures, or mechanics. The underlying context is modern DevOps practices, which aim to support adaptive methodologies rather than the hierarchical, efficiency-driven, command-and-control structure of IOM. No historical, theoretical, or comparative discussion of IOM is present. The content aims at practitioners using modern tools, not those interested in IOM theory or practice.",
+    "reasoning_summary": "The content is centered on new DevOps tooling and automation, with no substantive link to the Industrial Operating Model or its organizational assumptions. Fit with the IOM category is extremely low and essentially accidental.",
+    "level": "Ignored"
   }
 }

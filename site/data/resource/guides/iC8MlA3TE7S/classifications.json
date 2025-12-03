@@ -2624,5 +2624,25 @@
     "reasoning": "The Nexus Guide details a scaling framework for Scrum focused on product delivery with multiple teams, defining roles, events, and artifacts. However, it does not mention AI, nor address unique organizational, process, or governance needs for AI products. There's no coverage of MLOps, model lifecycle, AI data governance, or practices that specifically differentiate an AI Product Operating Model from a general (software) product model. Intent is for scaling Scrum in general product development, not the operationalization of AI-based products.",
     "reasoning_summary": "This content is about general scaled agile (Nexus/Scrum) frameworks with no explicit or implicit reference to AI product operating models, unique AI practices, or lifecycles. Fit is extremely weak.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "iC8MlA3TE7S",
+    "itemId": "iC8MlA3TE7S",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:08",
+    "ai_confidence": 6.39,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.5,
+    "ai_audience": 0.8,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The Nexus Guide exclusively addresses how to scale Scrum using empiricism, cross-team collaboration, and self-organization. It does not mention or explain the Industrial Operating Model by name or by concept. Its themes (empirical process, adaptation, self-management) are fundamentally misaligned with IOM’s core assumptions (hierarchy, centralized control, standardization, predictive planning). There is no discussion of Taylorism, industrial roots, or where IOM works; in fact, the entire text is focused on Agile/empirical product delivery in complex environments — the opposite of IOM. The only minor alignment could be inferred if someone contrasted scaling frameworks with traditional models, but the Guide itself does not do this; it is not intended to educate the reader on the IOM at all. Surface-level resemblance exists in the presence of some structure (events, roles, artifacts), but these are not representative of IOM's central mechanics, purpose, or history.",
+    "reasoning_summary": "Content explains an Agile scaling framework (Nexus), focusing on empiricism and cross-team collaboration, with no substantive reference to the Industrial Operating Model’s structures, principles, or applicability. Fit is minimal and indirect at best.",
+    "level": "Ignored"
   }
 }

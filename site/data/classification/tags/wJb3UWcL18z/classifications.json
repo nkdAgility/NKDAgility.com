@@ -3327,5 +3327,25 @@
     "reasoning": "The content focuses strictly on agile/Scrum artifacts like Definition of Ready (DoR) and techniques for backlog item clarity and team readiness. Nowhere are AI products, AI-specific product governance, data/model lifecycle, or organizational models for AI operationalization mentioned or implied. The INVEST mnemonic and references to Sprint, DoR, and DoD are all standard Agile/Scrum topics without any connection to AI, MLOps, or operating model complexity related to AI. The audience is agile practitioners, but there is no explicit or implicit consideration of AI product team structure, governance, data/model management, or continuous learning related to AI. No penalty was applied, as the content isn't outdated or satirical; it's simply not relevant to the AI Product Operating Model category.",
     "reasoning_summary": "This content is strictly about Scrum's Definition of Ready; no link to AI product operating models, governance, or lifecycle. It doesn't mention or address the unique requirements of AI, MLOps, or organizational alignment for AI products.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "wJb3UWcL18z",
+    "itemId": "wJb3UWcL18z",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:27:40",
+    "ai_confidence": 7.28,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.4,
+    "ai_intent": 0.5,
+    "ai_audience": 2.1,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content discusses Scrum team practices related to readiness for backlog items, emphasizing concepts like Definition of Ready, refinement, and INVEST. It does not mention or explore Industrial Operating Model concepts: no references to hierarchy, stage gates, functional silos, or Taylorism. The focus is on Agile sprint planning and team-level clarity—not on discussing or explaining the IOM itself. Only a remote indirect mention could be made if one tries to map false gating to stage gates, but this is neither explicit nor in depth. Audience aligns with Agile practitioners, not those studying/using the IOM.",
+    "reasoning_summary": "Content explains backlog readiness, DoR, and refinement in Scrum/agile settings. It does not cover Industrial Operating Model mechanics, assumptions, or organization; fit is extremely weak and mostly unrelated.",
+    "level": "Ignored"
   }
 }

@@ -3326,5 +3326,25 @@
     "reasoning": "The content critiques 'Hybrid Agile'—the mixing of traditional project management and agile methodologies—without referencing AI, AI products, or their unique operating model considerations. It lacks discussion of AI lifecycle, model governance, or ethical deployment. The intent is to examine challenges in hybrid agile frameworks, not to address operating models for AI products. The intended audience is teams and leaders dealing with general software or organizational agility, not those focused on structuring, governing, or managing AI product delivery. The low signal-to-noise ratio is due to the absence of AI-relevant material and a focus on the critical analysis of delivery methods in a generic sense. Thus, significant penalties are applied for all dimensions.",
     "reasoning_summary": "Content focuses on general critiques of hybrid agile/project approaches, not on operating models for AI products. No mention of AI, model governance, or lifecycle. Does not fit the 'AI Product Operating Model' category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "3ck2NcPNirJ",
+    "itemId": "3ck2NcPNirJ",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:28:01",
+    "ai_confidence": 32.75,
+    "ai_mentions": 2.1,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.9,
+    "ai_intent": 2.6,
+    "ai_audience": 8.1,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 4.5,
+    "ai_penalty_details": "Penalties: -1 mention (no direct IOM naming, only indirectly referenced), -1 alignment (content focuses on criticism of hybrid, not IOM per se), -1 depth (little substantive IOM discussion), -1 intent (more critique than informative about IOM), -0.5 signal (some references to IOM features, but focus is elsewhere).",
+    "final_score": 33.0,
+    "reasoning": "The content centers on criticizing 'Hybrid Agile,' describing how organizations try to combine agile delivery with traditional project structures. While aspects of the Industrial Operating Model (IOM) are indirectly referenced (e.g., command-and-control, fixed plans, rigid governance), there is no substantive or direct exploration of IOM's theory, mechanics, or where it works. The primary intent is critique of hybrid models, not to inform about or advocate for the IOM itself. Thus, direct mentions and alignment with the IOM definition are low. Penalties applied due to indirect references, limited depth, and a critical, off-purpose intent relative to the IOM category.",
+    "reasoning_summary": "Fit is tangential; the content critiques Hybrid Agile, mentioning elements of IOM only in passing. It does not explain what the Industrial Operating Model is or where it works, so category alignment is low and confidence is limited.",
+    "level": "Ignored"
   }
 }

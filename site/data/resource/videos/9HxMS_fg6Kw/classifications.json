@@ -2645,5 +2645,25 @@
     "reasoning": "The content is about red flags in hiring agile consultants, with deep focus on agile community involvement, core agile knowledge, and consultancy practices. There is no mention of AI, product operating models, or any of the AI-specific operating model concerns outlined in the category definition (e.g., MLOps, model governance, AI lifecycle). The intent, alignment, and depth are all clearly focused on generic agile consultancy, not AI product operationalization. Audience could be tangentially similar (organizational leaders), but the thematic and conceptual overlap with the AI Product Operating Model category is negligible.",
     "reasoning_summary": "Content is about general agile consultancy, not about operating models for AI products. No mention of AI, model lifecycle, or any category-relevant themes. Not a fit for 'AI Product Operating Model.'",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "9HxMS_fg6Kw",
+    "itemId": "9HxMS_fg6Kw",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:32",
+    "ai_confidence": 7.61,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.6,
+    "ai_audience": 0.7,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses entirely on red flags when hiring agile consultants and the desirable qualities in agile professionals. It centers on practitioner competence, community involvement, and expertise in Agile—not on the structure, mechanics, or principles of the Industrial Operating Model (IOM). There is only one indirect reference to 'the past' and generic mentions of established practices which, per definition, do not suffice for inclusion. No substantive discussion of hierarchical structures, scientific management, or the organizational assumptions of IOM is present. There is no explicit comparison to IOM nor in-depth analysis of its strengths or mechanisms. The audience is aligned with agile practitioners, not with those seeking to understand IOM. Very little of the content could even obliquely be interpreted as about IOM, leading to a very low confidence score.",
+    "reasoning_summary": "Content does not discuss or explain the Industrial Operating Model. Focus is on agile consultant selection and expertise, not on IOM's assumptions, structures, or effectiveness. Not a fit for the IOM category.",
+    "level": "Ignored"
   }
 }

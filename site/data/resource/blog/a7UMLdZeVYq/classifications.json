@@ -3448,5 +3448,25 @@
     "reasoning": "The content discusses cross-Sprint work in Scrum and Kanban, continuous delivery, engineering practices (CI/CD, TDD, feature toggles), and agile delivery, but makes no explicit or implicit reference to AI, machine learning, or operating models for AI products. Concepts such as MLOps, data/model governance, AI-specific roles, or ethical AI product lifecycle are absent. Audience and workflow topics are aligned with product and engineering teams, but with zero direct mention and only generic alignment, the depth and signal scores are minimal for this category.",
     "reasoning_summary": "The content covers Scrum, Kanban, and continuous delivery but never references AI, ML, or organizational models for AI product delivery. It is not a fit for the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "a7UMLdZeVYq",
+    "itemId": "a7UMLdZeVYq",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:27:50",
+    "ai_confidence": 5.9,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 1.9,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content centers on Scrum practices, specifically allowing unfinished work to flow across Sprint boundaries, and discusses continuous delivery and empirical control. There is virtually no direct reference or substantive discussion of the Industrial Operating Model (IOM), its assumptions, mechanics, structures, or historical context. No contrasts are drawn with IOM; instead, the focus is on modern agile methods and properly using Scrum and Kanban. As such, conceptual alignment, depth, and intent with the IOM category are extremely weak and incidental, scoring very low. There are no outdated or critical tones present, so no penalties were applied. The intended audience is practitioners interested in Scrum/Kanban, not IOM topics. Signal is mildly positive because the content is on topic for Scrum/Kanban but does not relate to IOM.",
+    "reasoning_summary": "Content is focused on agile Scrum practices, not the Industrial Operating Model; no substantive mention, analysis, or comparison occurs. The content does not inform readers about what the IOM is or where it applies. Fit is negligible.",
+    "level": "Ignored"
   }
 }

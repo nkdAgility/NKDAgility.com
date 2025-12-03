@@ -3352,5 +3352,25 @@
     "reasoning": "The content describes an individual system that leverages generative AI and scripting for automated tagging, focusing on technical integration, human oversight, and transparent audit trails for a personal blog. It mentions architectural and workflow considerations and references concepts such as blending human and AI agency, auditability, and penalty/validation layers. However, it does not discuss organization-wide operating models, team structures, cross-functional roles, end-to-end lifecycle management, or scaling AI product practices—the core of the AI Product Operating Model category. The focus remains personal, technical, and implementation-centric rather than on organizational governance, lifecycle, or model operationalization across a business ecosystem. Mentions of AI agency vs. human agency are thoughtful, but not situated in the context of organizational practices.",
     "reasoning_summary": "Content details a personal, technical system using AI for content tagging with strong process control, but lacks discussion of organizational operating models or lifecycle management of AI products; partial fit at best.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "oRStCAqLAY4",
+    "itemId": "oRStCAqLAY4",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:11",
+    "ai_confidence": 5.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.6,
+    "ai_intent": 0.4,
+    "ai_audience": 0.7,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on the use of generative AI and PowerShell for automating tagging and categorisation within a personal blog site using Hugo. It discusses the technical, editorial, and process facets of classification, describing a multilayer taxonomy involving concepts, categories, and tags. Nowhere is the Industrial Operating Model (IOM) referenced or meaningfully evoked. There is no discussion of hierarchical structures, standard operating processes, centralisation, Taylorism, command-and-control, or stable/efficiency-driven organizational paradigms, nor any explicit or implicit comparison to IOM principles. The references to taxonomies, traceability, and human-in-the-loop validation all pertain specifically to content management and AI integration within that context, and the intent is practical/technical, not organizational/theoretical. None of the audience, signal, or supporting details overlap with the IOM category definition. Scores are low across all dimensions as the relevance is negligible, with only trivial surface alignment (the word 'categories' and 'classification' are used, but not in an IOM context).",
+    "reasoning_summary": "This content does not fit the Industrial Operating Model category; it discusses AI-driven blog tagging and classification, with no reference to IOM structures, mechanics, or theory. Overlap with the IOM definition is negligible.",
+    "level": "Ignored"
   }
 }

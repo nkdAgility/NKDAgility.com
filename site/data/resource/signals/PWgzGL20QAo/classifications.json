@@ -3448,5 +3448,25 @@
     "reasoning": "The content focuses on resilience as an essential product capability and critiques superficial disaster recovery planning, but it does not reference AI, AI product operating models, or the specific organizational frameworks and governance challenges that define this category. There are no direct or indirect mentions of AI lifecycle, data/model governance, MLOps, or integration within AI-specific product teams. The discussion is general enough to apply to traditional software products and does not address AI-driven considerations in any form.",
     "reasoning_summary": "The content addresses generic product resilience, not AI operationalization. It lacks discussion of AI, model governance, or lifecycle and does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "PWgzGL20QAo",
+    "itemId": "PWgzGL20QAo",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:49",
+    "ai_confidence": 9.67,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.2,
+    "ai_intent": 1.8,
+    "ai_audience": 2.5,
+    "ai_signal": 2.17,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is focused on resilience as a product capability, criticizing practices where resilience is externally bolted on or deprioritized. It references failures built to 'succeed in PowerPoint' and untested disaster recovery, implicitly critiquing traditional models but does not explain, name, or explore Industrial Operating Model concepts or mechanics. There is no discussion of IOM assumptions, structure, or context; any alignment is indirect. The audience overlaps somewhat (product/engineering leaders), but the relevance to IOM is tangential at best. No penalties are needed, as the tone is not overtly satirical and content is not outdated.",
+    "reasoning_summary": "Content does not discuss Industrial Operating Model concepts, structure, or context. It focuses on resilience in product design, with only indirect critique of traditional planning, with no substantive IOM alignment. Very low fit.",
+    "level": "Ignored"
   }
 }

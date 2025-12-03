@@ -2620,5 +2620,25 @@
     "reasoning": "The content centers on transitioning US Department of Defence (DOD) IT projects from waterfall to agile delivery methods at scale, with examples such as the FBI Sentinel project. Although it provides deep discussion about operating model transitions in large organizations, it focuses only on general software delivery approaches (agile vs. waterfall), principles of iterative IT, and lessons from government projects. There is no reference to AI product lifecycles, AI-specific governance, data/model management, model deployment, or AI-centric organizational structures. Topics like MLOps, data governance for AI, AI ethics, or continuous learning in AI product management are absent. The scope, examples, and advice target general IT and software product practices, not the unique requirements or end-to-end operationalization of AI products. Thus, scores reflect minimal conceptual or direct fit with the AI Product Operating Model category.",
     "reasoning_summary": "Content discusses government agile transformation and software project delivery models but does not mention AI, AI product lifecycle, or AI-specific operating models. It only aligns with general product/IT operating model topics, so fit is minimal.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "dnmT3QDhGxx",
+    "itemId": "dnmT3QDhGxx",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:27:40",
+    "ai_confidence": 22.07,
+    "ai_mentions": 1.1,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.3,
+    "ai_intent": 2.8,
+    "ai_audience": 5.2,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.0,
+    "ai_penalty_details": "Mentions: -0.3 for outdated/obsolete framing in references to 'the last vestiges of old ways'. Alignment: -0.4 for mostly focusing on criticizing IOM and advocating for agile. Depth: -0.5 for very little substantive discussion of IOM itself; content is largely transition/critique. Intent: -0.8 for tone strongly critical of IOM and focused on its failures.",
+    "final_score": 22.0,
+    "reasoning": "The content focuses almost entirely on the transition away from waterfall/IOM methods in the DOD and other government agencies, extolling agile and iterative approaches. While there are brief references to stage-gated, waterfall, or old procurement practices (e.g., 'stage-gated and distinctly waterfall manner'), the core and depth of discussion are about IOM's problems and its failures in dynamic government IT environments rather than helping readers understand what the IOM is or where it works. There is little explanation of IOM mechanistics, assumptions, or historical context, and virtually all substantive commentary is critical or transition-focused. The audience is somewhat aligned (those interested in operating models for government/large orgs) but the signal to noise is low for the IOM category itself. Multiple penalties were applied across several criteria for outdated framing, off-purpose focus, and strong negative/transition tone.",
+    "reasoning_summary": "This content is mainly about abolishing IOM/waterfall in government technology and promoting agile methods. There is almost no substantive explanation of the Industrial Operating Model itself. The fit for this category is minimal and mostly incidental.",
+    "level": "Ignored"
   }
 }

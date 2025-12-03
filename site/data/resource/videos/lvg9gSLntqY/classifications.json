@@ -2564,5 +2564,25 @@
     "reasoning": "The content focuses solely on the shortcomings of traditional project management in complex environments, advocating for agile/scrum methods instead. There is no discussion or mention of AI, product operating models, or the distinctive characteristics of AI product delivery. No topics outlined in the AI Product Operating Model definition (lifecycle, roles, governance, MLOps, scaling, data, ethical AI, etc.) are referenced or explored. The audience is practitioners interested in general agile practices for complexity, not AI product leaders. Scoring reflects only a minuscule alignment due to fleeting thematic overlap (complexity, need for adaptation), but there is no substantial or explicit linkage.",
     "reasoning_summary": "Content focuses on general project management and Agile in complex environments, with no mention or exploration of AI product operating models. Does not fit the category. Intent, topic, and themes are unrelated to AI Product Operating Model.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "lvg9gSLntqY",
+    "itemId": "lvg9gSLntqY",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:46",
+    "ai_confidence": 31.05,
+    "ai_mentions": 2.6,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.3,
+    "ai_intent": 2.3,
+    "ai_audience": 7.9,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.2,
+    "ai_penalty_details": "Penalties applied to intent (-0.7 for critical/negative framing), mentions (-0.5 for lack of explicit IOM references), and depth (-1.0 for focusing on limitations and insufficient core explanation).",
+    "final_score": 31.0,
+    "reasoning": "The content primarily critiques traditional project management in complex environments, mentioning its original fit for predictable, low-variance scenarios, which overlaps the assumptions of the Industrial Operating Model (IOM). However, it does not substantively explain IOM's structures, theory, or where it works best. The intent is to help readers move away from traditional approaches (implied to be IOM-aligned), not to inform about IOM itself. There is minimal explicit reference or conceptual depth on IOM beyond surface statements about predictability and variance. Although the target audience overlaps (practitioners and those considering org design), most of the content focuses on promoting Agile and critiquing traditional methods rather than exploring or clarifying the IOM. Penalties deducted for negative/critical intent, lack of explicit mention, and insufficient depth.",
+    "reasoning_summary": "Focuses on limitations of traditional project management in complexity but gives little substantive detail about the Industrial Operating Model itself. Fit is partial and indirect, with critical rather than explanatory intent.",
+    "level": "Ignored"
   }
 }

@@ -2622,5 +2622,25 @@
     "reasoning": "The content centers entirely on Agile principles and product development but makes no reference to AI, AI-specific governance, lifecycle, model management, or operating models for AI products. There are no direct mentions of the AI Product Operating Model or any of its unique dimensions (such as data/model governance, ethical AI concerns, MLOps, or integrated AI product teams). While the audience (organizational leaders and practitioners) and focus on value delivery loosely overlap, the alignment and depth relative to the AI Product Operating Model are negligible. Topics like automation or complex systems are discussed only in generic terms, with no tie-in to AI or its operationalization. The confidence score is therefore very low, reflecting that the content is not a fit for this category.",
     "reasoning_summary": "Does not fit: Content is solely about Agile product practices, with no coverage of AI or AI Product Operating Models. No relevant concepts or operational AI structures discussed. Very low alignment with category requirements.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "XZVixdVy-PQ",
+    "itemId": "XZVixdVy-PQ",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:33",
+    "ai_confidence": 10.06,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.7,
+    "ai_intent": 0.8,
+    "ai_audience": 2.1,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is about Agile's essence versus ritualistic practice. It only indirectly references concepts tangential to the Industrial Operating Model (IOM), such as mechanical process-following and automation vs. human judgment. However, it never explicitly explains what IOM is, never uses that term, and only briefly alludes to ritualistic/bureaucratic practices as counterpoints to Agile, without a systemic or structural discussion. There is no substantive focus on IOM's assumptions, mechanics, historical foundation, or operating context. The intent and audience are fully Agile-focused and use IOM concepts only as background contrast. No penalties were applied as the tone is not critical of IOM itself, but it does not address the IOM's substance either.",
+    "reasoning_summary": "The content is focused on Agile mindsets and outcomes, not the Industrial Operating Model’s structure or strengths. It only makes indirect references to mechanical processes, lacking substantive IOM discussion. Fit with this category is extremely weak.",
+    "level": "Ignored"
   }
 }

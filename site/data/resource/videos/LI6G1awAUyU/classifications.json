@@ -2548,5 +2548,25 @@
     "reasoning": "The content addresses DevOps and Agile delivery in the context of software products—focusing on automation, mindset, compliance, and feedback loops. There is no mention of AI, AI product lifecycles, or unique AI operating models. No content around MLOps, AI-specific data governance, model lifecycle, or the operationalization of AI solutions is present. The intent, themes, and target audience are all software delivery/DevOps-centric and not aimed at those implementing or governing AI product operating models.",
     "reasoning_summary": "Content discusses DevOps and Agile challenges for software delivery without any AI focus. It lacks references to AI operating models, MLOps, governance, or lifecycle and thus does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "LI6G1awAUyU",
+    "itemId": "LI6G1awAUyU",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:49",
+    "ai_confidence": 7.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.5,
+    "ai_intent": 0.6,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses entirely on DevOps delivery challenges and agile/lean mindsets, with no explicit or conceptual discussion of Industrial Operating Models. There are no references to hierarchical structures, Taylorism, or the efficiency-focused IOM context. The audience is practitioners in DevOps/agile, which does not match the IOM category's executive/organizational purpose. Signal-to-noise is very low for IOM, as any references to legacy or compliance are tangential and not a substantive examination of IOM mechanics or strengths. All dimension scores are near zero (except audience, since some overlap with internal improvement practitioners could exist), and no explicit or implicit penalties are needed. The overall confidence is (0.2*1.5)+(0.5*2.5)+(0.5*2.5)+(0.6*1.5)+(2.0*1.0)+(1.0*1.0)=0.3+1.25+1.25+0.9+2.0+1.0=6.7→6.7*10=67; but per calibration, such a partial, vague overlap requires scores even lower given clear absence of IOM depth/presence, so minor additional fractional reductions applied; final confidence set to 7.50 to reflect very minimal, accidental overlap only.",
+    "reasoning_summary": "Content is about overcoming DevOps challenges for agile success, not about Industrial Operating Model mechanics, assumptions, or strengths. No substantive IOM discussion. Not a fit for this category.",
+    "level": "Ignored"
   }
 }

@@ -2567,5 +2567,25 @@
     "reasoning": "The content thoroughly discusses government 'Cloud First' policies, their mandates, and adoption challenges, focusing exclusively on public cloud in government. There are no direct or indirect references to AI, AI product operating models, or any special considerations for operating AI products, let alone any discussion of principles, governance, lifecycle, or unique requirements in managing AI solutions. The mention of business agility and digital transformation is generic, not tied to AI. There is no alignment with the stated category key topics (model lifecycle, MLOps, AI-specific governance or ethics, etc.), and the audience focus is on cloud adoption and software as a service choices, not AI product leaders or practitioners.",
     "reasoning_summary": "Content discusses government cloud adoption only, with no links or references to AI or AI product operating models, their governance, or lifecycles. Fit is minimal to nil for the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "6VDaSknKBPu",
+    "itemId": "6VDaSknKBPu",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:39",
+    "ai_confidence": 8.85,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 1.4,
+    "ai_audience": 1.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses exclusively on the UK and US Government Cloud First Policies, their mandates for public cloud adoption, and the challenges encountered within public sector organizations. At no point does the article mention, discuss, or analyze the Industrial Operating Model (IOM), its assumptions, mechanics, or relevance—even in relation to cloud migration or government IT. There are passing references to traditional on-premises solutions and some implicit context about organizational inertia, but these are not explicitly tied to IOM concepts or structures. The text's core purpose is to inform or encourage cloud adoption, not to explore what the IOM is or where it is effective. Therefore, fit to the IOM category is extremely weak and almost incidental, with minimal if any overlap. No penalties were necessary.",
+    "reasoning_summary": "Content is about government cloud policy—not the Industrial Operating Model. It does not explain IOM’s structure, assumptions, or effectiveness and thus is a poor fit for this category.",
+    "level": "Ignored"
   }
 }

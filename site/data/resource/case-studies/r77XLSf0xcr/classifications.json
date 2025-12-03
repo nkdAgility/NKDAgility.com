@@ -3448,5 +3448,25 @@
     "reasoning": "The content describes an enterprise transformation consolidating DevOps systems, processes, and governance across 800+ teams, but never mentions AI, ML, or the unique requirements of AI product operating models. The focus is on standardization, reporting, and flow for general engineering and software delivery. There is no discussion of AI product lifecycle, model governance, ethical considerations for AI, nor of roles/responsibilities unique to AI product teams. Thus, conceptual alignment and depth scores are minimal; relevance to the intended audience is higher since technical/product leaders might also be interested in AI operation, yet all specifics discussed are generic DevOps and process improvement, not AI. No penalties are applied since the tone and currency are appropriate.",
     "reasoning_summary": "Content is focused on general DevOps and engineering process consolidation—not AI. No mention or discussion of AI product operating models, unique governance, or lifecycle needs. Not a fit for the 'AI Product Operating Model' category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "r77XLSf0xcr",
+    "itemId": "r77XLSf0xcr",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:42",
+    "ai_confidence": 47.94,
+    "ai_mentions": 1.2,
+    "ai_alignment": 5.2,
+    "ai_depth": 4.6,
+    "ai_intent": 4.0,
+    "ai_audience": 8.1,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 48.0,
+    "reasoning": "The content focuses on a large-scale standardization effort, discussing consolidation, centralized governance, and the creation of standardized processes, which align with Industrial Operating Model themes (hierarchy, centralization, standardization). However, it does not explicitly reference the IOM or its foundational theory, nor does it analyze the IOM contextually. The discussion is detailed about organizational standardization and the benefits of system-wide structure, but the intent is practical transformation, not explanation or advocacy of the IOM itself. Some IOM-related mechanisms (e.g., silos, centralized authority, standardized work) are referenced, but primarily as problems to be solved through consolidation, not as attributes to be understood. The target audience (CTOs, engineering leaders) matches, and the discussion is focused (good signal). However, the content falls short on direct mention, conceptual alignment, and depth strictly about the IOM (as a model) per se.",
+    "reasoning_summary": "Content covers standardization and centralized practices echoing IOM mechanics, but lacks direct reference or deep discussion of the Industrial Operating Model itself; practical transformation focus with only partial conceptual fit.",
+    "level": "Tertiary"
   }
 }

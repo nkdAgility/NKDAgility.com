@@ -3448,5 +3448,25 @@
     "reasoning": "The content focuses on a technical implementation of using AI embeddings for improving related content classification on a personal website. It describes building and integrating an embeddings pipeline (using OpenAI's API), technical cost/efficiency, and impact on user and AI agent navigation. However, it lacks any meaningful discussion of the organizational structures, governance, cross-functional roles, comprehensive lifecycle management, or value stream integration that define an AI Product Operating Model. There are references to concepts like content discoverability for AI agents and Generative Experience Optimisation, but these are not contextualized in terms of organizational operating models—rather, they're individual technical optimizations. No explicit mentions or in-depth exploration of operating model topics such as MLOps integration into product teams, role alignment, compliance, or scaling AI in an organizational setting occur. The audience is mainly technical implementers, not those shaping enterprise AI product operating models. The relatively high audience and signal scores reflect the content's technical focus and relevance to practitioners but not to operating model theorists.",
     "reasoning_summary": "Content delivers a technical how-to for AI embeddings in related content on a website. It does not address AI Product Operating Models, lacking discussion of governance, organizational workflows, team roles, or lifecycle management typical of the category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "OUeioY0BIV-",
+    "itemId": "OUeioY0BIV-",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:42",
+    "ai_confidence": 1.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 3.6,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content exclusively discusses leveraging AI embeddings, semantic similarity, and related content recommendations in a technical web context. It does not reference the Industrial Operating Model, its principles, mechanics, history, or organizational structure directly or indirectly. There is no substantive connection to hierarchical, standardized, or efficiency-focused processes outside of a brief mention of efficiency in technical computation—unrelated to IOM themes. The target audience is technical/content practitioners, not those interested in industrial models. Scores are low across all dimensions due to lack of fit.",
+    "reasoning_summary": "This content does not fit the Industrial Operating Model category; it focuses on AI-based content classification and does not discuss IOM assumptions, structures, or context. No substantive alignment with the category definition.",
+    "level": "Ignored"
   }
 }

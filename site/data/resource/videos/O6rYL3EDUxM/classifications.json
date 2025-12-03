@@ -2612,5 +2612,25 @@
     "reasoning": "The content is solely focused on generic Agile maturity, the risk of 'fake Agile', and self-assessment using the DoD's six questions. Topics center on continuous delivery, team empowerment, feedback, etc., but there is no reference to AI, model lifecycle management, data governance, or any organizational model specific to AI products. All discussion is rooted in broad Agile/product delivery practices and principles—not AI product operating models, nor practices unique to AI-powered products. The target audience is practitioners and leaders seeking improved Agile practice, not those operationalizing AI product delivery or lifecycle. Minor overlap could occur if someone applied these principles within an AI project context, but no statements or examples relate to AI, MLOps, AI governance, or operationalization of AI solutions.",
     "reasoning_summary": "This content discusses generic Agile organizational maturity and is not specific to AI product operating models. It lacks any AI or ML context, governance, or operating model detail and does not fit the 'AI Product Operating Model' category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "O6rYL3EDUxM",
+    "itemId": "O6rYL3EDUxM",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:23",
+    "ai_confidence": 11.79,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 1.0,
+    "ai_audience": 3.3,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses heavily on identifying and improving authentic Agile practice, specifically targeting organizations attempting 'fake' Agile. The Industrial Operating Model is neither defined, explored, nor used for comparison except via indirect implication (e.g., mention of hierarchical decision-making and transformation is absent). Most discussion revolves around Agile values, continuous delivery, and building Agile maturity rather than outlining core IOM principles or organizational structures. There are no substantive historical, mechanical, or comparative explanations about IOM. The audience is executives and practitioners looking to mature their organization's Agile approach, not those studying or implementing IOM as defined. Signal/noise is moderate: it is focused, but not on the target topic. The fit is poor but not completely zero due to fleeting implied contrast between old and new ways.",
+    "reasoning_summary": "The content is about detecting and preventing superficial Agile adoption, not explaining the Industrial Operating Model. It does not define, analyze, or substantively discuss IOM's core structures, assumptions, or where it works. Minimal fit.",
+    "level": "Ignored"
   }
 }

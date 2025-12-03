@@ -3348,5 +3348,25 @@
     "reasoning": "The content is a general discussion on shifting left—embedding quality and security early in the development cycle. It does not mention AI, ML, or organizational operating models for AI product delivery. While relevant to software product development, none of the defining AI Product Operating Model dimensions are present. The target audience overlaps (e.g., product, engineering, delivery) but the focus is generalized, with no reference to model lifecycle, MLOps, cross-functional AI teams, responsible AI practices, or AI-specific governance. Thus, the fit is minimal, with only incidental overlap in delivery improvement themes.",
     "reasoning_summary": "Content discusses quality and shifting left in general software delivery. No mention or focus on AI or AI Product Operating Models. Overlap is incidental only via delivery best practices; content does not fit the assigned category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "cgZVYLmyyH0",
+    "itemId": "cgZVYLmyyH0",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:58",
+    "ai_confidence": 17.25,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.5,
+    "ai_intent": 2.5,
+    "ai_audience": 5.6,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content does not explicitly mention the Industrial Operating Model (IOM) or its core concepts such as hierarchy, scientific management, or functional silos. It is centered on the concept of 'shift left' in software quality—moving quality and testing earlier in the process. While this implicitly critiques late-stage quality gates, which are associated with traditional/waterfall/IOM practices, the discussion is entirely about the advantages of proactive quality (an adaptive/agile perspective) and not about what IOM is, its mechanics, or where it succeeds. The main purpose and intent are not to explain, support, or contrast the IOM, but rather to advocate for a modern practice. Thus, only a vague, indirect conceptual relation exists and little substantive content aligns with the category. No penalties applied as the tone is not critical of IOM as a model per se, nor is the content outdated.",
+    "reasoning_summary": "Content advocates modern 'shift left' practices, only indirectly referencing late-stage processes related to IOM. It does not explain or support the Industrial Operating Model itself. Fit with category is minimal, confidence is low.",
+    "level": "Ignored"
   }
 }

@@ -3348,5 +3348,25 @@
     "reasoning": "The content focuses on embedding telemetry in software delivery, emphasizing feedback loops, learning from usage data, and improving delivery processes. However, it makes no direct or indirect mention of AI, model lifecycle, AI governance, AI-specific roles, or the organizational and operational topics unique to an AI Product Operating Model. Telemetry and automated feedback are vital in AI contexts (e.g., MLOps), but the article does not specify any AI-product relevance or discuss challenges specific to AI-powered products. It is broadly relevant to any software product development, making its audience and purpose partially aligned, but stops short of the conceptual and operational depth needed for the AI Product Operating Model category.",
     "reasoning_summary": "Content is about general telemetry and feedback loops in software delivery, not about AI product operating models or their unique needs. No AI-specific themes or operational topics are covered. Weak fit for this category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "Nj4BIom2Jeg",
+    "itemId": "Nj4BIom2Jeg",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:14",
+    "ai_confidence": 3.25,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 1.0,
+    "ai_intent": 0.5,
+    "ai_audience": 2.0,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses exclusively on integrating telemetry into Agile and DevOps practices, urging teams to collect operational feedback and make learning part of their Definition of Done. There are no direct references or conceptual alignment to the Industrial Operating Model (IOM)'s core principles—such as hierarchy, standardization, centralization, or Taylorism. The topic presumes a need for real-time learning and adaptation, reflecting values antithetical to IOM's planning-driven, efficiency-first, command-and-control frameworks. The audience is Agile practitioners, not those interested in understanding IOM. There is zero mention and only a stray, indirect fit (e.g., 'ticking boxes'), but it is not analyzed in IOM terms, nor does it explicate IOM mechanics, context, or application.",
+    "reasoning_summary": "Content centers solely on modern Agile/DevOps feedback loops with no direct or substantial linkage to the Industrial Operating Model; intent and themes do not match the IOM category definition.",
+    "level": "Ignored"
   }
 }

@@ -2512,5 +2512,25 @@
     "reasoning": "The content extensively discusses technical debt, sustainable architecture, DevOps, and automation as strategies for scalable growth. It is focused on general technical product scaling and operational practices, not AI-specific operating models. There are no explicit or implicit mentions of AI, AI products, or AI-driven challenges (e.g., model lifecycle, MLOps, data/model governance, or ethical/continuous learning specific to AI). The intent is to guide teams on handling technical debt for better scaling, which applies to any software product, not AI products specifically. The audience targeted is engineering/Product/DevOps professionals, not those dealing with organizational structures for AI product delivery. Nearly all content is outside the defined AI Product Operating Model scope.",
     "reasoning_summary": "This content addresses product scalability, technical debt, and DevOps practices in general software engineering, without any focus on AI product operations. It does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "PfZU13BEwiY",
+    "itemId": "PfZU13BEwiY",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:02",
+    "ai_confidence": 7.45,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.6,
+    "ai_intent": 0.9,
+    "ai_audience": 1.5,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses exclusively on strategies to address technical debt for sustainable scaling, such as architecture, DevOps, and automation. It does not discuss the Industrial Operating Model’s structures, processes, assumptions, or history. There are no direct or even implicit references to hierarchical structures, command-and-control, functional silos, stage-gate approaches, or efficiency in the context of traditional industrial models. The text does not help the reader understand what the IOM is, how it operates, or where it succeeds. Instead, it describes modern engineering practices and team agility, which are unrelated to the IOM category. Scores are very low across all dimensions, with virtually no conceptual or explicit overlap.",
+    "reasoning_summary": "This content does not address the Industrial Operating Model at all—there are no references or alignments to IOM concepts, structure, or history. Its exclusive focus is on technical debt and growth strategies, making this a poor fit for the category.",
+    "level": "Ignored"
   }
 }

@@ -2647,5 +2647,25 @@
     "reasoning": "The content focuses on common pitfalls and corrective strategies in Agile environments, notably around the theme of 'greed' and value-centric delivery within Agile teams. No part of the text references AI, artificial intelligence, or any of the specific operating model practices, lifecycles, or governance unique to AI product development. The content is highly aligned with general Agile and product delivery principles, team roles, and organizational culture, but entirely lacks discussion of data/model governance, MLOps, AI ethics, or anything AI specific. Consequently, there is extremely low conceptual alignment and almost no direct overlap; scores reflect very minimal relevance, given only the possible general parallel in operating models (which is insufficient by category scope). No penalty deductions are warranted.",
     "reasoning_summary": "Content is strictly about Agile antipatterns, value delivery, and team leadership—none of which is contextualized for AI or AI products. It is wholly unrelated to AI Product Operating Model beyond general product or team operations.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "fZLGlqMdejA",
+    "itemId": "fZLGlqMdejA",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:41",
+    "ai_confidence": 19.53,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 2.5,
+    "ai_audience": 5.1,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content references traditional, resource-utilization-centric models as roots of 'greed' in Agile, briefly attributing them to 'industrial models.' However, there is no substantive exploration of the Industrial Operating Model's (IOM) mechanics, strengths, assumptions, or history. The article is overwhelmingly focused on Agile team-level practices, contrasting those with only a vague notion of 'traditional' or 'industrial' models. The IOM is not directly named, and the discussion is not informative about its structure or effectiveness but rather uses it as a strawman for what Agile teams should avoid. A few passing contrasts exist (e.g., resource utilization, viewing people as resources), justifying a partial score on alignment and mentions, but depth and intent are strongly Agile-centric, not about understanding IOM itself.",
+    "reasoning_summary": "Content tangentially references 'industrial models' as outdated, focusing instead on Agile practices and pitfalls. There’s no substantive exploration or explanation of the Industrial Operating Model; the fit is marginal and mostly implicit.",
+    "level": "Ignored"
   }
 }

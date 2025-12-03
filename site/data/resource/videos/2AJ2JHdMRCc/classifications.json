@@ -2606,5 +2606,25 @@
     "reasoning": "The content focuses entirely on DevOps within software engineering and discusses continuous delivery, Agile, and Scrum, but makes no reference to AI, AI products, or operating models tailored for AI. There are no direct mentions of AI-specific life cycles, governance, or processes that would signify fit to the AI Product Operating Model category. The audience is general software engineers or agile practitioners, not those specifically structuring AI product delivery. Therefore, scores are low across all dimensions, reflecting a lack of both direct category alignment and depth. No penalties were needed as the content is not outdated or negative.",
     "reasoning_summary": "Content is limited to general DevOps in software engineering, lacking any AI-specific context or operating model themes. It does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "2AJ2JHdMRCc",
+    "itemId": "2AJ2JHdMRCc",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:49",
+    "ai_confidence": 6.92,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.2,
+    "ai_intent": 0.3,
+    "ai_audience": 1.0,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses entirely on DevOps as a modern practice enabling continuous delivery, faster feedback, and innovation in software engineering. It makes no direct or indirect references to the Industrial Operating Model (IOM), its mechanics, assumptions, history, or comparative strengths. There is no discussion of hierarchy, standardized processes, command-and-control decision-making, or stable/predictive planning. The article targets practitioners interested in Agile, Scrum, and DevOps, without exploring or explaining IOM concepts. Thus, there is only a negligible accidental overlap: efficiency is mentioned, but solely as an attribute of DevOps, not IOM. All scoring dimensions are very low to reflect the near-complete mismatch; slight variation acknowledges a remote audience overlap. No penalties are necessary as the content does not mention obsolete practices or satirize IOM.",
+    "reasoning_summary": "Content exclusively covers DevOps as a modern software practice. No substantive links to the Industrial Operating Model’s structure, assumptions, or success context. Strong category mismatch with only negligible incidental overlap.",
+    "level": "Ignored"
   }
 }

@@ -2983,5 +2983,25 @@
     "reasoning": "This content does not discuss AI product operating models in any meaningful way. It is strongly focused on continuous delivery and DevOps for software engineering, using Azure DevOps and Starbucks as case studies. There is no mention of AI, ML, MLOps, or AI-specific lifecycle, governance, data/model management, or cross-functional product teaming addressed in the definition. The intent is to convince organizations to modernize software delivery, but not in the context of AI product delivery. Audience alignment is somewhat relevant as leaders/teams in tech, but otherwise signal and conceptual alignment are lacking.",
     "reasoning_summary": "Content centers on continuous delivery and DevOps, lacking any reference to AI product lifecycle, governance, or operational models; therefore, it does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "7hEAycZIn8w",
+    "itemId": "7hEAycZIn8w",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:06",
+    "ai_confidence": 6.16,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.8,
+    "ai_intent": 2.1,
+    "ai_audience": 0.9,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on strategies and examples supporting continuous delivery, automation, DevOps, and process improvement. It does not explicitly mention the Industrial Operating Model (IOM) or substantively discuss its mechanics, assumptions, or context. While there are indirect references to traditional practices like long release cycles, these are presented as problems to overcome, not as an exploration or informative discussion of IOM itself. There is no direct explanation of vertical decision-making, hierarchy, Taylorism, or other foundational aspects of IOM. The main audience is modern software engineering teams seeking transformation, rather than readers looking to understand or analyze IOM. The signal for IOM is weak and only tangentially present via critical references to older practices.",
+    "reasoning_summary": "Content is focused on DevOps/continuous delivery transformation, not on explaining IOM or its context. IOM is at best implied as a problem to move beyond, not discussed as a valid or effective model. Very weak fit for the IOM category.",
+    "level": "Ignored"
   }
 }

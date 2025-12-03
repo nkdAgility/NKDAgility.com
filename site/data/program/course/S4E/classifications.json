@@ -2583,5 +2583,25 @@
     "reasoning": "The content focuses strictly on executive-level Scrum adoption, the Scrum framework, Agile metrics, and general product/organizational transformation through Scrum. There is no mention of artificial intelligence, AI product operating models, MLOps, unique lifecycle, roles, or governance specific to AI products. All content, learning goals, and audience alignment are centered on general Agile/Scrum implementation for companies, not on operationalizing AI product delivery. There are no direct or indirect references to any of the core topics or intent outlined for the AI Product Operating Model category, nor are adjacent areas (e.g., data governance or responsible AI) discussed in any context. The justification for the low, nonzero audience/signal scores is that, in principle, executives as an audience could overlap if AI topics were actually present, but they are not in this course.",
     "reasoning_summary": "The content covers executive adoption of Scrum and Agile, with no discussion or mention of AI, AI product operating models, or associated practices. It does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "S4E",
+    "itemId": "S4E",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:28:46",
+    "ai_confidence": 9.74,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 2.3,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The course focuses on teaching executives Scrum: its benefits, metrics, adoption, and roles. There's no substantive discussion or definition of the Industrial Operating Model (IOM), its mechanics, or strengths. Occasional implied contrast ('Where Scrum Fits and Where It Doesn’t') stops short of explaining what IOM is, how it works, or its underlying principles. No historical context, direct mentions, or depth about IOM’s structure, assumptions, or settings where it succeeds. The main topic serves Agile/modern practices, not IOM understanding.",
+    "reasoning_summary": "Content is about Scrum adoption for executives, not about the Industrial Operating Model. No substantive IOM explanation, comparison, or operating principles provided. Fit for the category is extremely low.",
+    "level": "Ignored"
   }
 }

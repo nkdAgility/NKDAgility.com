@@ -2978,5 +2978,25 @@
     "reasoning": "This content focuses on the drawbacks of implementing business logic in stored procedures within traditional software development. It advocates for refactoring toward modern engineering practices but makes no mention of AI, AI product development, organizational operating models for AI, or their unique governance, lifecycle, or ethical requirements. While topics like CI/CD, testing, and incremental refactoring are discussed, these are in the generic context of software engineering and DevOps, not specialized or even tangentially aligned to the AI Product Operating Model. There is no direct or conceptual overlap with outlined key topics (AI lifecycle, MLOps, data/model governance, etc.), nor is the intended audience or scope related to AI product operationalization or structure.",
     "reasoning_summary": "Content does not address AI Product Operating Model topics, intent, or audience. It discusses generic software engineering best practices, not AI-specific operating models. No meaningful alignment to the assigned category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "utAzlIGxj7O",
+    "itemId": "utAzlIGxj7O",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:06",
+    "ai_confidence": 9.42,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 0.7,
+    "ai_audience": 4.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content does not mention the Industrial Operating Model (IOM) explicitly or implicitly. It focuses on technical arguments for moving business logic out of stored procedures into maintainable code, with no reference to IOM's structures, historical foundations, assumptions, or typical organizational context. Although some legacy practices are described (e.g., embedded logic, manual deployments), they are not framed as IOM mechanisms. There is no discussion of hierarchical decision-making, planning models, command-and-control, or comparisons to adaptive operating models. The main audience is engineering practitioners, not those seeking understanding of organizational models. Any extremely minor overlap, such as references to historical practices or technical legacy, is insufficient for meaningful category fit.",
+    "reasoning_summary": "Content is technical, arguing for refactoring business logic from stored procedures. It lacks discussion or analysis of the Industrial Operating Model and does not match the category's purpose or themes. Fit is extremely poor and essentially absent.",
+    "level": "Ignored"
   }
 }

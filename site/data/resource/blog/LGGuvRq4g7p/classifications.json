@@ -2974,5 +2974,25 @@
     "reasoning": "The content focuses on systemic fragility and the need for rigorous, tested resilience in engineered systems, using case studies from energy grids, cloud infrastructure, and airport IT. While it discusses resilience as a product capability and critiques organizational approaches, it does not address AI products or operational models, nor does it reference AI-specific considerations such as data/model governance, MLOps, AI roles, or lifecycle management. The discussion remains general to engineering, product resilience, and organizational culture. There are no explicit or implicit references to AI, machine learning, or how organizations operate AI-driven products; as such, only the most general principles of operational discipline and testing could be distantly mapped to the AI Product Operating Model category, and even that is quite a stretch. Scoring reflects minimal direct or conceptual alignment with the intended category.",
     "reasoning_summary": "Does not fit the AI Product Operating Model category: focused on resilience in general engineered and product systems, lacking any AI context, operating model specifics, or relevant governance/lifecycle topics.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "LGGuvRq4g7p",
+    "itemId": "LGGuvRq4g7p",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:47",
+    "ai_confidence": 19.29,
+    "ai_mentions": 0.9,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.7,
+    "ai_intent": 2.3,
+    "ai_audience": 5.1,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content critiques system fragility and ineffective resilience strategies—pointing to leadership and organizational denial—but never directly discusses the Industrial Operating Model (IOM) by name or in theory. While it criticizes efficiency-oriented thinking and reactive leadership (e.g., Spain's grid optimized for efficiency, hierarchy-blind decisionmaking), these are only adjacent to IOM themes. There's no substantial or explicit discussion of IOM assumptions, mechanics, or history, nor does it inform readers what IOM is or where it works. Depth and alignment are limited to partial overlaps (efficiency, denial, vertical blame-shifting) but not to an IOM exploration. The primary focus is on failures of resilience rather than on the IOM itself.",
+    "reasoning_summary": "Content focuses on engineering and organizational failures in resilience, referencing efficiency and denial, but does not discuss the Industrial Operating Model directly or explain its structure, assumptions, or context. Fit is minimal and only tangential.",
+    "level": "Ignored"
   }
 }

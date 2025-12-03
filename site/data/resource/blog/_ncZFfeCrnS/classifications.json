@@ -2955,5 +2955,25 @@
     "reasoning": "The content focuses on audience-based deployment, testing in production, and DevOps practices, using examples from Microsoft and Azure DevOps. While these themes are tangentially relevant to operational models and continuous delivery, there is no substantive discussion of AI product lifecycles, model governance, or organizational structures specific to AI. The arguments, terminology, and case studies, though sophisticated, remain squarely in the realm of general software engineering and DevOps—not AI product operating models. No direct or indirect references to the unique characteristics, challenges, or governance structures needed for AI-powered products are present. Audience alignment is moderate, as technical leaders interested in advanced deployment may overlap with those in the AI space, but the content itself does not target the AI product operating model context.",
     "reasoning_summary": "Content does not address AI product operating models. It is focused on general software deployment, DevOps, and audience-based rollouts, lacking the AI-specific context, structures, or governance required for this category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "_ncZFfeCrnS",
+    "itemId": "_ncZFfeCrnS",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:43",
+    "ai_confidence": 5.44,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 0.9,
+    "ai_audience": 1.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content is a thorough analysis of modern software practices—testing in production, audience-based deployment, and progressive delivery. While it contrasts these modern approaches against 'traditional' models (e.g., Dev-Test-Staging, functional silos), it never explicitly discusses the Industrial Operating Model by name or its core assumptions, mechanics, or historical context. There are implicit critiques of hierarchical, environment-based models, but these are used mainly to advocate for new methods, not to directly explain or examine the IOM's organizational structures, decision-making logic, or success conditions. The main audience is technical engineering practitioners, not leaders seeking to understand the established industrial model. Accordingly, the content provides only minimal direct relevance to the IOM category.",
+    "reasoning_summary": "The content compares audience-based deployment to traditional staged environments, implicitly critiquing old approaches, but does not substantively discuss the Industrial Operating Model's principles, mechanics, or history. Fit is quite weak and indirect.",
+    "level": "Ignored"
   }
 }

@@ -2704,5 +2704,25 @@
     "reasoning": "The content details Azure DevOps' move to high-frequency deployment, emphasizing agile and DevOps product delivery. However, AI-specific operating model themes (e.g., model lifecycle, ML roles, data governance for AI, AI ethics) are absent. The main focus is on traditional software agility, with only generalized mentions of continuous delivery and feedback, not tailored to AI product development and operations. There is no explicit or implicit discussion of AI products, their unique lifecycle management, or organizational structures for AI. Audience partially aligns, but the topic and themes do not match the category definition.",
     "reasoning_summary": "Content is focused on general DevOps and agile transformation, lacking any substantive AI Product Operating Model relevance. No mention of AI-specific governance, practices, or lifecycle. Fit for this category is weak and mostly indirect.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "_gyzx59-AJk",
+    "itemId": "_gyzx59-AJk",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:44",
+    "ai_confidence": 17.84,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.2,
+    "ai_intent": 2.1,
+    "ai_audience": 6.5,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content quickly references the old Azure DevOps (TFS) 'two-year release cycle', hinting at stage-gated, slow, hierarchical processes typical of the Industrial Operating Model (IOM), but focuses almost exclusively on the transformation away from this model. There is no substantive discussion about IOM's mechanics, its theoretical underpinnings, or scenarios in which the IOM is optimal. Virtually all attention is on why fast release/adaptive models are superior, offering only a brief look at the limitations of the old approach. No direct mention of IOM terminology, nor any attempt to explain or explore the strengths of such a model. Thus, partial indirect fit via example, but minimal conceptual alignment, depth, or intent for this category.",
+    "reasoning_summary": "Content refers to former slow release cycles (IOM-like), but solely to contrast and promote adaptive models. It lacks depth, alignment, and intent to explain or support the Industrial Operating Model. Fit is weak and indirect.",
+    "level": "Ignored"
   }
 }

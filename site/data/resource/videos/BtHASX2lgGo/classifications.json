@@ -2604,5 +2604,25 @@
     "reasoning": "The content explicitly discusses agile practices (burndown charts, Sprint planning, continuous flow) but never references AI, AI products, or operating models specific to AI. Concepts mentioned are general Agile/Product Operating Model practices without connection to AI-specific requirements, governance, roles, or lifecycle. The audience may overlap with those interested in AI operating models, but there is no substantive linkage to AI Product Operating Model themes. No outdated or contradictory practices were noted, so no penalties applied. Overall, the fit is extremely weak and only gets minimal points for faint indirect relevance to operating models in a generic sense.",
     "reasoning_summary": "Content solely discusses general agile team planning, not AI products or operating models. Does not fit the AI Product Operating Model category—no AI-specific content or context present.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "BtHASX2lgGo",
+    "itemId": "BtHASX2lgGo",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:43",
+    "ai_confidence": 14.168,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.2,
+    "ai_intent": 0.7,
+    "ai_audience": 5.9,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.1,
+    "ai_penalty_details": "mentions (-0.4): No direct reference to Industrial Operating Model. alignment (-0.3): The theme is largely critical of IOM assumptions rather than explanatory. depth (-0.4): Discussion centers on critiquing predictive planning without offering substantive IOM insights. intent (-0.3): The intent is to advocate for adaptive approaches, not to explain IOM.",
+    "final_score": 14.0,
+    "reasoning": "The content critiques detailed upfront planning and burndown charts, which are features associated with the Industrial Operating Model (IOM), but it does so to promote agile, adaptive methods. There is no direct or in-depth discussion of what IOM is, its structure, mechanics, or strengths, and the IOM is only implicitly referenced as 'outdated practices.' The audience comprises agile practitioners, not executives or strategists needing to understand IOM itself. The main intent is to persuade readers to abandon IOM-like practices, not inform about IOM’s meaning or utility. The only (indirect) relevance is in how the problems with upfront planning and burndowns echo IOM assumptions, but this is used as a springboard to advocate for their rejection.",
+    "reasoning_summary": "This content criticizes Industrial Operating Model features to advocate for agile methods, without directly explaining IOM or its strengths. The fit is minimal, as it’s focused on alternatives, not understanding the IOM itself.",
+    "level": "Ignored"
   }
 }

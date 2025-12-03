@@ -2990,5 +2990,25 @@
     "reasoning": "The content robustly discusses resilience as a fundamental product characteristic, making the case for integrating resilience into system design, measurement, and culture. However, it never references AI products, operating models, or unique AI challenges such as data/model governance, MLOps, or ethical/continuous learning themes poignant to AI. The Microsoft Azure case is cited as an example of DevOps-driven resilience and product engineering, but the scenario pertains to conventional software/platform engineering with no AI-specific context. There is no explicit or implicit connection to operating models for AI products, nor is there mention of roles, data/model lifecycle, or scaling/organizational alignment for AI solutions. Thus, while thorough and valuable for general product or DevOps discussions, the content is not aligned with the 'AI Product Operating Model' category and only fits peripherally if at all.",
     "reasoning_summary": "Content focuses on resilience as core to software product design, with DevOps examples, but does not address AI products, AI operating models, or AI-specific practices. Insufficient alignment with 'AI Product Operating Model'—not a fit.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "EtzHUfsWjsD",
+    "itemId": "EtzHUfsWjsD",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:42",
+    "ai_confidence": 7.55,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.5,
+    "ai_intent": 1.5,
+    "ai_audience": 2.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "This content focuses exclusively on integrating resilience into modern product development, discussing engineering practices, telemetry, incident response, and DevOps culture. There is no substantive mention or exploration of the Industrial Operating Model (IOM), its structures, mechanics, or core assumptions. The text does not describe hierarchy, silos, predictive plans, or Taylorism. While a passing reference could be made about older approaches (like offloading resilience to Ops), it is not explored as IOM nor named. The audience is clearly modern engineering/product teams, not those seeking to understand or apply IOM. Overall, the content does NOT help readers understand what the IOM IS or its strengths in stable environments; instead, it promotes adaptive, integrated approaches, so the fit is very poor.",
+    "reasoning_summary": "The content does not address or explain the Industrial Operating Model. It focuses on modern resilience practices for product teams, with no substantive IOM discussion or structure, so alignment is very weak.",
+    "level": "Ignored"
   }
 }

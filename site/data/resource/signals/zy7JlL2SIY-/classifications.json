@@ -3448,5 +3448,25 @@
     "reasoning": "The content critiques the use of bonuses as motivators in knowledge work, advocating for purpose, autonomy, and meaningful challenges. There is no reference to AI, product operating models, or organizational structures connected to AI product lifecycles. The content does discuss work culture and motivation, which are tangentially relevant to how teams might operate, but it does not address any of the category's key themes (AI-specific lifecycle, governance, roles, etc.). There are no explicit or implicit connections to AI Product Operating Models, processes, or unique AI challenges—the discussion could apply to any modern knowledge work domain.",
     "reasoning_summary": "Content does not address AI Product Operating Models—focuses solely on motivation and incentives in knowledge work, with no reference to AI, product lifecycle, or operating models. Fit is extremely low.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "zy7JlL2SIY-",
+    "itemId": "zy7JlL2SIY-",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:52",
+    "ai_confidence": 36.25,
+    "ai_mentions": 2.2,
+    "ai_alignment": 4.0,
+    "ai_depth": 3.6,
+    "ai_intent": 3.7,
+    "ai_audience": 5.0,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.0,
+    "ai_penalty_details": "Penalty of 1 applied to 'intent' for a tone that is critical/satirical and undermining IOM; penalty of 1 to 'mentions' for indirect, mostly critical references rather than substantive naming.",
+    "final_score": 36.0,
+    "reasoning": "The content references Taylorism, output orientation, compliance, and factory-like performance systems—all core IOM attributes. However, the piece is primarily an argument against the effectiveness of these practices for knowledge work and advocates for their abandonment, using the IOM and its attributes mainly as a critical foil. There is little direct or neutral exploration of what IOM is or where it works; instead, the focus is strongly on why bonuses (an element of IOM) are misapplied in the current context. Thus, depth and alignment with IOM as an object of understanding are limited, and the critical tone triggers intent and mention penalties. The audience (leaders designing incentive systems) and some terminology match, but the main goal is not to explain or support IOM.",
+    "reasoning_summary": "Content references IOM concepts (Taylorism, output focus) but uses them mainly to criticize outdated practices. Its intent is to challenge, not explain, the IOM; thus, it only partially aligns with the category.",
+    "level": "Ignored"
   }
 }

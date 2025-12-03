@@ -3329,5 +3329,25 @@
     "reasoning": "The content focuses exclusively on estimation practices in Agile and Scrum, with no reference to AI, product operating models, or the unique processes of developing or managing AI products. There is no mention of AI lifecycle, MLOps, governance, or continuous learning mechanisms specific to AI products. The intended audience and intent are general Agile/Scrum practitioners and not targeted at organizational leaders or practitioners involved with AI product operating models. All dimensions are minimal or near zero, resulting in an extremely low confidence score for this category.",
     "reasoning_summary": "This content discusses Agile estimation practices only, with no connection to AI Product Operating Models. None of the themes, topics, or intent overlap with the category definition. Fit is not present.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "BI93bciX5O1",
+    "itemId": "BI93bciX5O1",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:27:30",
+    "ai_confidence": 2.34,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.5,
+    "ai_intent": 0.7,
+    "ai_audience": 0.1,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content specifically focuses on estimation practices within Agile and Scrum frameworks, emphasizing empirical forecasting, team collaboration, and adapting to change—characteristics opposed to the Industrial Operating Model's predictable, hierarchical, and standardized process assumptions. There is no discussion of IOM structure, mechanics, or its context, nor are its foundational concepts (e.g., command-and-control, Taylorism) mentioned, directly or indirectly. The intent and audience align with modern Agile teams, not those concerned with industrial-era operating models. Any conceptual overlap (such as planning or forecasting) is coincidental and contextually distinct from IOM. This results in extremely low confidence for inclusion in the 'Industrial Operating Model' category.",
+    "reasoning_summary": "Content is about estimation in Agile/Scrum, with no reference or alignment to the Industrial Operating Model. It fails to explain, discuss, or contextualize IOM, so confidence is extremely low.",
+    "level": "Ignored"
   }
 }

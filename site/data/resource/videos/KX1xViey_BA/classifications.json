@@ -2541,5 +2541,25 @@
     "reasoning": "The content is a reflection on historical shifts from people to systems in work, tying those lessons to modern Agile. There is no mention of AI, AI product operating models, or any practices, governance, lifecycle management, or structures specific to AI. The focus remains on general systems vs. people balance in work and Agile spaces. Key category elements—like AI-specific operating model challenges, data/model governance, or scaling AI within organizations—are not referenced or explored. The alignment with the targeted category is extremely weak and only very marginally relevant (as a general system-related anecdote) but does not match intent, topic, or depth requirements.",
     "reasoning_summary": "Content focuses on historical and Agile perspectives about systems vs. people, with no discussion of AI product operating models, governance, or any AI-specific content. Does not fit the category beyond superficial alignment to 'systems.'",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "KX1xViey_BA",
+    "itemId": "KX1xViey_BA",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:36",
+    "ai_confidence": 52.67,
+    "ai_mentions": 6.2,
+    "ai_alignment": 6.7,
+    "ai_depth": 5.8,
+    "ai_intent": 5.9,
+    "ai_audience": 6.3,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Penalty on 'intent' (-1) and 'depth' (-1) as the content historicizes IOM but frames it primarily as a contrast to Agile and highlights its limitations, not its strengths or core mechanics.",
+    "final_score": 53.0,
+    "reasoning": "The content directly references Frederick Winslow Taylor and the shift to system-first thinking, aligning with the Industrial Operating Model's origins. However, the discussion quickly pivots to Agile responses and critiques of how systems can stifle rather than enable, making the focus more about IOM's shortcomings than an exploration of what it is or where it excels. There is some explanation of the historical principles underlying IOM, but the overall depth is limited, and the intent is to frame IOM in contrast to Agile rather than elucidate IOM's mechanics or strengths. Penalties are applied for this partial, contrast-oriented approach.",
+    "reasoning_summary": "Content references IOM origins and Taylor but mostly contrasts IOM with Agile, stressing its limits. Discussion of IOM's actual mechanics and effective contexts is brief; intent is more critical than explanatory. Only moderate fit for category.",
+    "level": "Tertiary"
   }
 }

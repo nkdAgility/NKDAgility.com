@@ -2633,5 +2633,25 @@
     "reasoning": "The content focuses exclusively on the Definition of Done in Scrum teams, software quality, and delivery practices. There is no direct or indirect mention of AI, AI products, AI-specific operating models, or their unique governance, lifecycle, or roles. The discussion is rooted in traditional software product practices and Scrum team workflows. It does reference DevOps and mentions practices that could be relevant to modern product delivery but lacks any AI context. This makes the fit to the AI Product Operating Model category highly tenuous, with only the most general and tangential relevance via shared terminology (such as 'product', 'quality', or 'DevOps'). All scoring dimensions are extremely low, reflecting the absence of category-relevant substance.",
     "reasoning_summary": "Content addresses Scrum's Definition of Done for general software, not AI product operating models. No AI-specific content, roles, or governance are discussed. Fit is extremely weak and only very indirectly relevant at best.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "z18IcQhlD7I",
+    "itemId": "z18IcQhlD7I",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:57",
+    "ai_confidence": 3.45,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.3,
+    "ai_audience": 2.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is heavily focused on Agile/Scrum practices, specifically the Definition of Done, continuous improvement, and team-level empowerment. There are extremely sparse indirect references to concepts that the Industrial Operating Model might address (such as stage gates or specialists outside the team), but these are not positioned as core discussions of Industrial Operating Model mechanics, assumptions, structure, or strengths. There is no substantive explanation or endorsement of hierarchical, standardized, centralized, or Taylorist work structures; rather, the piece advocates adaptive, cross-functional, and iterative ways of working. There is one mention of 'Stage Gates,' but this is referenced in passing as something teams might need to account for, not as part of explaining or supporting the Industrial Operating Model. Overall, the content does not help the reader understand what the Industrial Operating Model IS or where it works effectively, thus scoring extremely low (but not zero due to brief mentions such as 'Stage Gates' and organizational context). Penalties were not applied, as the content doesn't actively criticize the IOM, but it simply doesn't fit.",
+    "reasoning_summary": "Content is focused on Scrum's Definition of Done, agile practices, and team-level improvement—nearly no coverage of Industrial Operating Model structure, mechanics, or strengths. Fit is extremely weak; only a negligible indirect connection.",
+    "level": "Ignored"
   }
 }

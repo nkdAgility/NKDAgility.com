@@ -3448,5 +3448,25 @@
     "reasoning": "The content focuses strictly on Scrum, continuous delivery, and optimizing team flow—general agile and DevOps practices. There are no direct or indirect references to AI, machine learning, MLOps, model lifecycle, or any element unique to the operationalization of AI products. It discusses professional Scrum improvements, CI/CD, and TDD, but does not touch on AI product structures, governance, or any requirements that would signal relevance to an AI Product Operating Model. Even concepts like data governance or ethical considerations are absent; there is no attempt to address AI-specific challenges. The slight non-zero scores reflect that, while tangentially related to operating models in a generic sense, the content is not aligned with the category's unique AI context.",
     "reasoning_summary": "Content is focused on Scrum and general product flow, not on AI Product Operating Models. No mention of AI, model lifecycle, or specific operational challenges addressed by the category. Fit is negligible to none.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "BD9f00po0V6",
+    "itemId": "BD9f00po0V6",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:40",
+    "ai_confidence": 16.3,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.9,
+    "ai_intent": 2.6,
+    "ai_audience": 3.1,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content does not mention the Industrial Operating Model directly but implicitly contrasts Scrum's flow-optimized, agile approach against more rigid, calendar-based delivery, which can hint at some IOM characteristics (e.g., fixed scope, stage gates). However, the main focus is modern Agile/Scrum practices, not a substantive exploration of IOM's structure, foundations, or where it works. No historic or conceptual discussion of IOM is offered, and the intent is about advocating adaptive patterns. The audience is agile practitioners rather than those learning about traditional industrial models. Thus, content alignment and depth are very low for this category, resulting in a minimal confidence score.",
+    "reasoning_summary": "Content focuses on Agile/Scrum benefits, not on explaining or supporting the Industrial Operating Model itself. There is only mild, implicit contrast—no direct discussion of IOM or its core mechanics. Fit is weak and indirect.",
+    "level": "Ignored"
   }
 }

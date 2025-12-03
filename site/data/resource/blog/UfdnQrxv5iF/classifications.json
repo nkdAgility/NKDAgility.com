@@ -2987,5 +2987,25 @@
     "reasoning": "The content thoroughly discusses the necessity and value of frequent software delivery, referencing Agile, Scrum, DORA metrics, and case studies like Windows 8. However, it never addresses AI products, AI-specific operating models, AI lifecycle, data/model governance, or unique organizational structures for AI-powered products. The article is focused on general software delivery best practices, value realization, and product validation through frequent releases. No link is made to AI governance, ethics, MLOps, or the complexities of operationalizing AI within organizations. Its intent and scope remain within general software/agile product delivery, not AI Product Operating Models.",
     "reasoning_summary": "Content focuses on general software delivery and agile principles, not on AI product operating models. No explicit or implicit connection to AI-specific operating model topics. Fit is negligible.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "UfdnQrxv5iF",
+    "itemId": "UfdnQrxv5iF",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:21",
+    "ai_confidence": 11.7,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.2,
+    "ai_intent": 1.6,
+    "ai_audience": 2.1,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is focused almost entirely on the Agile/Product Operating Model and the critical value of frequent delivery, feedback loops, and empirical validation. There are references contrasting frequent delivery with long, waterfall-style cycles, as in the Standish CHAOS Report stats and the Windows 8 example, as well as an allusion to 'traditional projects.' However, there is no substantive discussion of the Industrial Operating Model's (IOM) core mechanics, historical context, or strengths—just indirect references implying its inefficiency. No explicit explanation is offered of what the IOM is or where it works best. Thus, alignment, depth, and intent scores are very low, with a slightly stronger signal and audience fit since it relates to organizational delivery practices in software. No penalties were applied as the content does not contradict IOM but rather ignores it.",
+    "reasoning_summary": "Content argues for frequent delivery (Agile) and only indirectly references traditional, waterfall approaches. Lacks explanation of IOM mechanics or context—fit for IOM category is minimal and mostly implicit.",
+    "level": "Ignored"
   }
 }

@@ -2567,5 +2567,25 @@
     "reasoning": "The content focuses strictly on traditional Agile and Scrum Product Ownership with no mention or exploration of AI, MLOps, or AI-specific operating models. All concepts, audiences, and learning outcomes are rooted in general product management within Agile/Scrum frameworks, not addressing the creation or operationalization of AI-powered products. There is no reference to model lifecycle, AI governance, data science, or any unique aspect of AI product delivery. Thus, both conceptual alignment and depth are extremely low, and direct mentions are absent.",
     "reasoning_summary": "Content solely covers traditional Agile/Scrum Product Owner training and certification, with no references to AI, data, or model-driven products. No alignment to AI Product Operating Model scope or intent; not a match.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "PSPO",
+    "itemId": "PSPO",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:29:15",
+    "ai_confidence": 8.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.2,
+    "ai_audience": 1.2,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses exclusively on Agile, Scrum, and product ownership. It neither discusses the Industrial Operating Model by name nor covers concepts such as Taylorism, hierarchical structures, predictive planning, or command-and-control. There are no explicit or implicit explanations of IOM assumptions, mechanics, or its fit in specific environments. No theoretical context or historical notes are given about industrial-era operating models. The only indirect relevance is through the possible implication that Agile is an alternative to traditional models, but the course content stays strictly within Agile/Scrum principles, without contrasting with or explaining the IOM. The audience is modern product practitioners, not those interested in understanding the IOM. All scoring dimensions are low but nonzero for minimal incidental indirect relation.",
+    "reasoning_summary": "This content does not fit the Industrial Operating Model category. It fully focuses on Agile and Scrum, without discussing IOM concepts, theories, structure, strengths, or mechanics.",
+    "level": "Ignored"
   }
 }

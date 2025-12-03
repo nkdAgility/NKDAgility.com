@@ -2544,5 +2544,25 @@
     "reasoning": "This content is focused entirely on traditional Scrum practices, such as Definition of Done, spikes, ad hoc work, team productivity, and refinement. There is no explicit or implicit discussion of AI, let alone AI Product Operating Models, model governance, or AI-specific organizational practices. The examples and guidance pertain only to generic agile/Scrum concerns. There are no references to MLOps, model lifecycle, data governance, ethical deployment, or organizational scaling of AI products. Scores are very low across all dimensions for direct relevance to the requested category.",
     "reasoning_summary": "The content is limited to Scrum practices and does not mention or address AI Product Operating Models, AI lifecycle, or organizational AI delivery structures. There is no fit with the specified category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "gc8Pq_5CepY",
+    "itemId": "gc8Pq_5CepY",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:29",
+    "ai_confidence": 2.05,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.9,
+    "ai_intent": 0.7,
+    "ai_audience": 2.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content exclusively discusses modern Scrum practices—definitions and application of Definition of Done, spikes, refinement, ad hoc work, and productivity in Agile teams—without any explicit or substantive reference to the Industrial Operating Model (IOM), its mechanics, or context. There are no mentions of hierarchy, predictive planning, functional silos, centralized authority, or historical IOM context like Taylorism or Scientific Management. The audience is Agile practitioners, not those interested in IOM. Relevance to IOM is only as a distant background since Scrum arose as a response to IOM's limitations; this is not addressed here. The content neither explains IOM nor compares Scrum to it.",
+    "reasoning_summary": "This content focuses on Scrum and Agile practices without addressing the Industrial Operating Model, its assumptions, mechanics, or context. It does not fit the category definition except as implicit contrast, which is not discussed.",
+    "level": "Ignored"
   }
 }

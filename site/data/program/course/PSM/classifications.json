@@ -2571,5 +2571,25 @@
     "reasoning": "The content is a course description for the Professional Scrum Master (PSM) certification, focusing exclusively on agile, Scrum, and team leadership practices for software development. There are no references (direct or indirect) to AI, machine learning, or any AI-specific operating models, product lifecycle management, governance, or ethical considerations unique to AI. The purpose, themes, and learning outcomes do not discuss organizational practices specific to AI product development, model lifecycle management, or MLOps. The intended audience is general Scrum/Agile practitioners, not those focused on AI product management or operating models. Signal-to-noise is low for the AI Product Operating Model category, and the discussion does not even tangentially allude to AI topics.",
     "reasoning_summary": "This content does not fit the AI Product Operating Model category—there is no mention or discussion of AI, AI operating models, or any AI-specific organizational practices. Its focus is strictly on Scrum for general software development.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "PSM",
+    "itemId": "PSM",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:29:04",
+    "ai_confidence": 3.42,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.4,
+    "ai_audience": 5.0,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The course content is highly focused on Scrum principles, agile methods, and the Scrum Master role. It does not directly or indirectly reference the Industrial Operating Model or its concepts—such as hierarchies, functional silos, or Taylorist management. The text exclusively centers on adaptive, empirical, and agile approaches, with no explanation of IOM structure or mechanics, no contrast with IOM, and no coverage of IOM's relevant audience or context. Mentions and alignment are extremely low, with minimal if any overlap in intent or discussion. Audience and signal scores are slightly higher since the audience (managers, practitioners) may intersect with those interested in IOM theory, but the content itself remains far off-topic.",
+    "reasoning_summary": "This course content is about Scrum and agile practices, not the Industrial Operating Model. It does not describe or reference IOM structure, mechanics, or theory. The match is extremely weak and almost entirely absent.",
+    "level": "Ignored"
   }
 }

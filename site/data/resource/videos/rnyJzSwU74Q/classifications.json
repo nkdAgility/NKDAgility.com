@@ -2628,5 +2628,25 @@
     "reasoning": "The content discusses empirical models and Agile practices for improving project outcomes but never mentions AI, machine learning, data governance, or any AI product-specific operating practices. It is focused on general project and product management approaches such as Agile and Scrum. There is no reference to model lifecycle, MLOps, governance, or ethics specific to AI, and all guidance is presented at a generic software/product delivery level. The audience is practitioners or executives interested in Agile, but not specifically in AI product operating models. Minimal conceptual overlap exists only via 'operating model' language, but nothing material relates to the specialized requirements of AI productization. Scoring is extremely low for all dimensions, with non-zero audience and signal scores only because of the general relevance to operating models in a broad sense.",
     "reasoning_summary": "The content focuses on Agile and empirical models for software projects, with no mention of AI or AI product operating models. It lacks any AI-specific themes, lifecycle, or governance. Fit is extremely weak and only tangential at best.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "rnyJzSwU74Q",
+    "itemId": "rnyJzSwU74Q",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:58",
+    "ai_confidence": 41.98,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.6,
+    "ai_depth": 4.0,
+    "ai_intent": 3.2,
+    "ai_audience": 7.6,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content contrasts traditional and empirical models in the context of Agile but does not explicitly mention the Industrial Operating Model, Taylorism, or core historical/structural tenets. While it discusses some IOM mechanisms in passing (planning, documentation, limited feedback), it uses them primarily as a foil for improving Agile results, not to analyze or explain IOM itself. The intent is to promote Agile success by highlighting the problems of traditional models, with only indirect engagement with the IOM's assumptions or where it is effective. As such, depth and alignment are modest, with some discussion of hierarchical or stage-gate approaches implied but not substantively explored.",
+    "reasoning_summary": "Focus is on empirical/Agile advantages; traditional models are discussed mainly as contrast. Minimal direct IOM analysis. Only partial fit with the category definition; not intended to explain or explore the IOM itself.",
+    "level": "Tertiary"
   }
 }

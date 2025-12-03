@@ -2613,5 +2613,25 @@
     "reasoning": "The content is a discussion about Scrum, governance, and regulatory compliance in Agile product development. There are zero direct mentions or in-depth exploration of AI product operating models, MLOps, data/model governance, or AI-specific lifecycles. The intent is to address misconceptions about governance in Scrum, targeting general Agile practitioners rather than those operating in the AI product space. The audience alignment is weak, as the focus is on Agile/Scrum governance, and the few references to regulatory compliance are in a general product development context. There is no evidence of AI, machine learning, model management, or the unique governance/operational challenges of AI products. Signal is low, as nearly all content is out-of-scope for the assigned category.",
     "reasoning_summary": "Content is unrelated to AI Product Operating Model: it discusses Scrum governance generally, with no mention or exploration of AI, AI-specific workflows, or organizational models for AI product delivery.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "kORUKHu-64A",
+    "itemId": "kORUKHu-64A",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:12",
+    "ai_confidence": 18.78,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.2,
+    "ai_intent": 2.3,
+    "ai_audience": 5.4,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content centers on dispelling the myth that Scrum equates to no governance, highlighting the need for regulatory and organizational standards within Agile practices. While it briefly references hierarchical structures and legacy governance in large organizations, it does not explicitly define, discuss, or explain the Industrial Operating Model (IOM), its core assumptions, mechanics, or areas of strength. Comparisons to IOM are vague or implied at most. The focus is on adapting governance for Scrum rather than describing what IOM is or where it works effectively. Audience and signal scores are moderate because the content targets practitioners who may interact with IOM-adjacent issues, but the overall fit to IOM, as per the strict inclusion criteria, is weak, resulting in low confidence.",
+    "reasoning_summary": "Content discusses governance in Scrum but does not meaningfully describe, analyze, or explain the Industrial Operating Model. References to hierarchy and legacy governance are superficial and not aligned with category definition. Fit is minimal and indirect.",
+    "level": "Ignored"
   }
 }

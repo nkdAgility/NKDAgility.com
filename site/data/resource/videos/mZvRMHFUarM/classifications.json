@@ -2618,5 +2618,25 @@
     "reasoning": "The content focuses exclusively on software estimation methods—specifically probabilistic forecasting—for improving agile delivery. It does not mention AI, AI products, operating models, or organizational structures/processes specific to AI product management. All discussion is at a general software project/team level. No evidence is present for AI lifecycle, model governance, or any unique requirements for AI as a product type. While some underlying principles (like forecasting under uncertainty) are potentially applicable to AI projects, none are tied explicitly or implicitly to the category scope. The intended audience is agile practitioners or software leaders, but not framed toward AI product contexts.",
     "reasoning_summary": "No evidence of AI Product Operating Model relevance; discussion is limited to general software estimation and agile forecasting, with no reference to AI products, models, or organizational practices for AI.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "mZvRMHFUarM",
+    "itemId": "mZvRMHFUarM",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:55",
+    "ai_confidence": 9.58,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.0,
+    "ai_intent": 1.3,
+    "ai_audience": 2.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on probabilistic forecasting and its advantages over traditional estimation in software projects, especially under high uncertainty, arguing against fixed estimation methods without exploring or explaining the Industrial Operating Model itself. There are indirect references to 'traditional estimation' being replaced, implicitly contrasting adaptive methods (probabilistic forecasting) to established practices, but no direct or substantive discussion of IOM assumptions, mechanics, or organizational structure. The main topic is Agile/adaptive project planning rather than what the IOM is or where it works. Only a surface implication regarding previous estimation models, not a focused or thorough treatment of IOM, nor does it help readers understand the IOM's nature or strengths.",
+    "reasoning_summary": "Content argues for probabilistic forecasting in Agile, not for or about the Industrial Operating Model. Only incidental or implied contrast with tradition; does not describe IOM's structure, assumptions, or successes. Fit is negligible.",
+    "level": "Ignored"
   }
 }

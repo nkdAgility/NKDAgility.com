@@ -2603,5 +2603,25 @@
     "reasoning": "The content focuses exclusively on estimation practices within Scrum teams, moderate references to uncertainty and creative work in product development, but nowhere discusses AI products, operating models, or any unique AI considerations (e.g., governance, MLOps, lifecycle, ethics). Direct mentions are absent. The main ideas align only in the most generic sense with product operating models through discussion of iterative delivery and agile uncertainty—not specifically for AI. There is no in-depth exploration of organizational structures, roles, AI product lifecycle, data/model governance, or ethical AI deployment. The intent targets agile/Scrum practitioners rather than those structuring or operating AI product teams. Audience and signal scores reflect this misalignment. No penalties were applied, as the content is not outdated nor critical, but the confidence is extremely low due to total lack of relevant coverage.",
     "reasoning_summary": "Content is about Scrum estimation and agile uncertainty, not about AI Product Operating Models or AI-specific practices. No alignment in topic, scope, or intent. Does not fit the category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "pyk0CfSobzM",
+    "itemId": "pyk0CfSobzM",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:13",
+    "ai_confidence": 8.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.2,
+    "ai_intent": 1.0,
+    "ai_audience": 2.5,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "This content is exclusively focused on Scrum team estimation in Sprints, highlighting the challenges of sizing and forecasting creative work in an unpredictable Agile context. There is no substantive discussion or even mention of the Industrial Operating Model or its core assumptions (hierarchy, centralization, predictive planning, efficiency orientation, etc.). The closest it gets is indirectly referencing that prediction is challenging, a point which is anti-IOM in implication, but there is neither an explicit nor implicit framing of what the Industrial Operating Model is, how it works, or where it is effective. There is no comparison to IOM or critique of its style. Audience and signal scores are slightly higher since the content's focus is on work management—which could be of adjacent interest—but the discussion is not about the IOM itself.",
+    "reasoning_summary": "Content focuses on Scrum estimation and Agile unpredictability, with no substantive discussion or mention of the Industrial Operating Model. Does not fit the category under the definition, offering no helpful understanding of IOM.",
+    "level": "Ignored"
   }
 }

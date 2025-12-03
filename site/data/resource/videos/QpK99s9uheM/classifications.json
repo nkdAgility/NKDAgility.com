@@ -2581,5 +2581,25 @@
     "reasoning": "The content exclusively focuses on project management roles transitioning to agile mindsets, empowerment, and collaboration. There are direct, in-depth discussions of agility but no explicit or implicit reference to AI, AI operating models, AI-specific governance, data/model lifecycle, or organizational structures tailored for AI products. The themes and recommendations are generic to agile product/project management and do not address any unique requirements or operationalization practices of AI product delivery. There are no references to MLOps, data governance, responsible AI, or enterprise AI scaling. The alignment, depth, and intent scores are very low per the exclusion criteria. No penalties were applied as the information is current and neutrally presented.",
     "reasoning_summary": "This content is purely about transitioning from traditional project management to agile practices. It does not mention or address AI products or operating models, so it does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "QpK99s9uheM",
+    "itemId": "QpK99s9uheM",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:40",
+    "ai_confidence": 19.44,
+    "ai_mentions": 1.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.2,
+    "ai_intent": 2.4,
+    "ai_audience": 6.3,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.0,
+    "ai_penalty_details": "Mentions (-0.2): No direct mention of 'Industrial Operating Model', only broad references to control and traditional practices. Alignment (-0.5): Content emphasizes agile transition, not IOM mechanics. Depth (-0.5): Limited discussion of IOM beyond broad contrasts. Intent (-0.5): Focus is on moving away from IOM, slightly critical.",
+    "final_score": 19.0,
+    "reasoning": "The content does not directly discuss the 'Industrial Operating Model' by name. It references 'traditional project management mindsets' such as control, predictability, top-down management, and output focus, which are IOM characteristics, but these are mentioned only in contrast to the desired agile mindset, not analyzed in detail. The bulk of the content focuses on how project managers should change behaviors and mindsets to align with agility, rather than explaining what the IOM is or its strengths. There are no explicit references to the IOM's theoretical or historical background (e.g., Taylorism, Ford, scientific management). The purpose is to advocate for transition away from control-oriented management, with a slightly critical tone towards traditional practices. Some relevant audience overlap exists (project managers, transformation leads), but the content's main themes are off-purpose for this tag. Thus, several penalty points are applied for emphasis on agile adoption, critical tone regarding IOM, and only surface-level treatment of IOM attributes.",
+    "reasoning_summary": "Content contrasts agile with control-focused tradition, indirectly referencing IOM, but lacks direct mentions, depth, or supportive intent. Focus is on moving away from IOM, making fit with this category weak and tangential.",
+    "level": "Ignored"
   }
 }

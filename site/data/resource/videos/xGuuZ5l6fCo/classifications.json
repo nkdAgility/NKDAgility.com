@@ -2626,5 +2626,25 @@
     "reasoning": "The content is focused on Agile team empowerment, rapid requirement changes, and overcoming process rigidity to support continuous improvement. However, it does not mention or address AI, AI-specific operating model concerns, or the unique lifecycle/governance/data/model issues outlined in the AI Product Operating Model category. There are no explicit or implicit references to AI productization, ML model management, or organizational structures unique to AI. The alignment is low, with only a general overlap on continuous improvement and team empowerment, common to both general Agile and AI operating models, but lacking any AI-specific context, intent, or actionable insight relevant to the category definition.",
     "reasoning_summary": "This content is focused on general Agile requirement management and empowerment, without discussing AI, ML, or any aspect unique to AI Product Operating Models. There is no fit to the assigned category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "xGuuZ5l6fCo",
+    "itemId": "xGuuZ5l6fCo",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:40",
+    "ai_confidence": 16.24,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.4,
+    "ai_intent": 1.8,
+    "ai_audience": 5.7,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses almost entirely on empowering Agile teams to adapt requirements and respond to user feedback, portraying these as positive, necessary attributes. While it indirectly references barriers (like rigid contracts and locked-in requirements) which are characteristic of the Industrial Operating Model (IOM), it does so only to contrast them with Agile's strengths, not to substantively discuss IOM itself. There are no explicit mentions of IOM or its foundations; hierarchical structures and process rigidity are only alluded to as obstacles, not as an operating model being explained or understood. There is minimal exploration of IOM's core assumptions or effective contexts. The piece does not help readers understand what the Industrial Operating Model IS or where it works; rather, it assumes IOM-style bureaucracy exists and argues for its removal in favor of Agile approaches. Audience and signal scores are moderate since leaders facing such challenges are within the IOM's likely audience, but the focus is not educational about IOM. No penalties are applied as the content is not outdated or satirical.",
+    "reasoning_summary": "Does not fit: The content targets improving Agile adaptability, referencing IOM-like barriers only as negatives to overcome. It lacks explicit IOM explanation or substantive exploration, so confidence in this category is very low.",
+    "level": "Ignored"
   }
 }

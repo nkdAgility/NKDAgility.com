@@ -2575,5 +2575,25 @@
     "reasoning": "The content focuses on technical debt in software product delivery, using Microsoft Team Foundation Server as a case study. There are no direct or indirect references to AI, AI-specific governance, MLOps, data/model management, or ethical AI—core elements of the AI Product Operating Model category. The audience and purpose are more generic, applying to traditional software rather than AI product development. No score dimension reflects significant alignment due to lack of AI relevance per the explicit exclusions in the category definition.",
     "reasoning_summary": "Content is about software technical debt, not about AI product operating models. No mention or discussion of AI, AI lifecycle, or operating models for AI products. Does not fit the category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "ZSqNF7v9vSR",
+    "itemId": "ZSqNF7v9vSR",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:16",
+    "ai_confidence": 17.736,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 1.8,
+    "ai_intent": 2.5,
+    "ai_audience": 6.1,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses almost exclusively on technical debt and its risks to product and business value. While there is a brief description of traditional project management and a reference to two-year release cycles (as part of a TFS case study), it lacks substantive discussion of the Industrial Operating Model's principles, assumptions, or mechanics (e.g., hierarchy, stage gates, command-and-control, functional silos). The historical TFS example hints at older operating methods but does not explicitly define, analyze, or contrast the IOM. Instead, the focus shifts to the benefits realized after moving away from those practices (i.e., to sprints, agility). Thus, the alignment and depth with the IOM category remain very low; only minimal tangential overlap exists. No penalties were necessary.",
+    "reasoning_summary": "The text is mainly about technical debt, not about explaining or analyzing the Industrial Operating Model. It briefly references traditional project management but does not provide real insight into IOM itself or its core features.",
+    "level": "Ignored"
   }
 }

@@ -3448,5 +3448,25 @@
     "reasoning": "The content focuses entirely on flow metrics and visibility for generic product (and software) development using Azure DevOps. It discusses tools, telemetry, metrics (lead time, cycle time), and dashboards to make work visible and delivery predictable. At no point does it mention AI, ML, model governance, ethical considerations, or any other domain-specific aspects of AI product operating models. The recommendations and discussion apply to any delivery team using Azure DevOps, not specifically to teams building AI products. There is no exploration of organizational alignment, lifecycle management, or the unique requirements for AI-powered products. The direct mention score is zero and the alignment/depth scores are extremely low as the theme is DevOps metrics in general, not operationalizing AI product development.",
     "reasoning_summary": "The content focuses on generic DevOps flow metrics and visibility, not AI product operating models. It contains no reference to AI-specific structures, governance, or unique operational requirements. Fit is very low and mostly unrelated.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "fvSZSSSjnyI",
+    "itemId": "fvSZSSSjnyI",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:48",
+    "ai_confidence": 13.98,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.1,
+    "ai_intent": 0.7,
+    "ai_audience": 4.6,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on making work visible, data-driven improvement, and flow metrics in Azure DevOps, targeting practitioners seeking better delivery practices. It doesn't discuss or describe the Industrial Operating Model (IOM)’s assumptions, structure, or mechanics. There are no direct mentions or substantive exploration of IOM themes (hierarchy, scientific management, command-and-control, or functional silos), nor does it compare or anchor suggested practices to the IOM. The alignment, depth, and intent scores are very low because the content's purpose and examples are about modern, adaptive delivery (flow, Agile metrics) rather than explaining the established IOM. Signal and audience are a bit higher due to specificity for DevOps/engineering audiences, but this does not connect to IOM foundational concepts.",
+    "reasoning_summary": "Content does not describe or analyze the Industrial Operating Model. It covers modern visibility and flow practices in DevOps, which are unrelated to IOM’s assumptions or mechanics. Fit with the category is minimal and indirect.",
+    "level": "Ignored"
   }
 }

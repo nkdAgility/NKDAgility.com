@@ -2633,5 +2633,25 @@
     "reasoning": "The content exclusively discusses Sprints vs. continuous delivery in the context of Scrum for general software development. Nowhere does it mention AI, AI-specific product practices, operationalization of AI products, or roles and governance distinctive to AI. The audience is software delivery practitioners, not AI product model stakeholders. While continuous delivery can be relevant to AI products, no connections to the unique aspects of AI product operating models—like model governance, MLOps, AI ethics, or lifecycle management—are made. Therefore, both conceptual alignment and category mentions are nearly absent, with all relevant discussion focused on generic Agile/Scrum frameworks.",
     "reasoning_summary": "This content focuses solely on Scrum Sprints and continuous delivery for general software, without reference to AI or AI-specific operating models. It does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "nIIA3IUtX_z",
+    "itemId": "nIIA3IUtX_z",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:28",
+    "ai_confidence": 7.54,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.7,
+    "ai_intent": 0.7,
+    "ai_audience": 2.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on explaining the value of Sprints in the context of Scrum and continuous delivery, emphasizing planning, feedback, and cadence. There are no substantive mentions of the Industrial Operating Model, its mechanics, assumptions, or theoretical basis. While there are passing mentions of predictability and batch size, these are discussed in the context of Agile practice rather than IOM. The discussion centers on Scrum team practices, not hierarchical or efficiency-focused structures characteristic of IOM. Neither the audience nor the intent aligns to informing on IOM: it's targeted at Scrum practitioners and not about established industrial structures.",
+    "reasoning_summary": "Content discusses Scrum Sprints and continuous delivery, not the Industrial Operating Model. Little to no conceptual or topical overlap with IOM, so fit is minimal and confidence is very low.",
+    "level": "Ignored"
   }
 }

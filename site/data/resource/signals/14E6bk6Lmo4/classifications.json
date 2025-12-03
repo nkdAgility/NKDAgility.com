@@ -3448,5 +3448,25 @@
     "reasoning": "The content discusses velocity metrics (build, test, deploy, feedback) as measures of engineering performance, focusing on delivery flow and continuous delivery. While relevant to product and DevOps, there are no references—direct or indirect—to AI, AI product operating models, AI-specific lifecycles, data/model governance, or AI team structures. The scope is strictly limited to general software/DevOps concepts, not operationalizing AI solutions or addressing their unique requirements. The audience could overlap with AI teams, but the content does not target or mention them specifically. Scores reflect the lack of conceptual and topical overlap with the category.",
     "reasoning_summary": "This content covers general DevOps/product velocity metrics and continuous delivery, with no explicit or implicit relevance to AI Product Operating Models. It does not address AI lifecycles, governance, or unique requirements, so fit is minimal.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "14E6bk6Lmo4",
+    "itemId": "14E6bk6Lmo4",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:14",
+    "ai_confidence": 7.225,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.4,
+    "ai_intent": 0.7,
+    "ai_audience": 1.2,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "This content focuses exclusively on modern software delivery velocity metrics (build, test, deploy, feedback) and defining velocity beyond story points. It does not mention Industrial Operating Model terminology, its structural mechanics (hierarchy, centralization), or theoretical foundations. There’s no discussion or analysis of IOM, its core assumptions, or where it fits. Audience focus is practitioners interested in DevOps and Agile metrics, not those seeking to understand or apply IOM. No scores were penalized since nothing is outdated, but all dimensions score extremely low due to almost total lack of category relevance.",
+    "reasoning_summary": "Content describes modern velocity metrics in Agile/DevOps contexts, with no discussion of the Industrial Operating Model. It is not relevant to IOM’s structure, assumptions, or practice, so fit is extremely low.",
+    "level": "Ignored"
   }
 }

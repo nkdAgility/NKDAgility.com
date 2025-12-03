@@ -2604,5 +2604,25 @@
     "reasoning": "The content exclusively discusses Kanban as a workflow and process management method for general teams (including some references to Scrum), with no explicit or implicit discussion of AI, AI products, or organizational models for AI delivery. There is no mention of AI product lifecycles, MLOps, data/model governance, or any of the practices unique to AI product operating models. The article focuses on visualizing workflow, limiting WIP, addressing bottlenecks, and process improvement in generic product or IT settings. It lacks conceptual or operational alignment with the definition provided for an AI Product Operating Model.",
     "reasoning_summary": "Content is about Kanban’s pull-based workflow for general process improvement, without references to AI product operating models, AI-specific lifecycle, governance, or org structures. No meaningful fit with the assigned category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "hXieCawt-XE",
+    "itemId": "hXieCawt-XE",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:46",
+    "ai_confidence": 6.07,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 0.5,
+    "ai_audience": 2.0,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on Kanban—a lean, pull-based system designed to improve workflow efficiency and adaptability. There are no direct or indirect mentions of the Industrial Operating Model (IOM), nor of its tenets (hierarchy, Taylorism, command-and-control, predictive plans, fixed scope, etc.). The narrative addresses team-level process improvements, contrasts pull vs push systems (but not in an IOM context), and is geared toward practitioners implementing Kanban, not those seeking to understand or execute IOM. The only tangential overlap is a passing mention of efficiency-oriented work and references to 'lean' manufacturing, but this never rises to substantive IOM analysis or explanation.",
+    "reasoning_summary": "This content is about Kanban systems and workflow efficiency, not the Industrial Operating Model. It neither explains IOM’s characteristics nor explores its relevance, fit, or foundations, so category fit is extremely low.",
+    "level": "Ignored"
   }
 }

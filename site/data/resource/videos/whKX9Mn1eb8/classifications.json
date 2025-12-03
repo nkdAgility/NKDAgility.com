@@ -2568,5 +2568,25 @@
     "reasoning": "The article is focused on the 'shift left' approach in general software development and quality assurance, with no explicit or implicit reference to AI Product Operating Models or their unique challenges. The core topics discussed—such as early QA involvement, automation, and continuous improvement—are aligned with general software or product operating models, not specifically AI-powered products. There are no discussions of model lifecycle, AI-specific governance, responsible AI practices, or integrating ML roles or data practices. The intended audience (software teams) partially overlaps, but the content is too generic and never broaches AI or MLOps. Therefore, very low confidence for this category.",
     "reasoning_summary": "Content is about software QA and the shift-left approach, without reference to AI, AI products, or operating models unique to AI. Does not align with category definition; fit is superficial or absent.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "whKX9Mn1eb8",
+    "itemId": "whKX9Mn1eb8",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:45",
+    "ai_confidence": 7.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 0.7,
+    "ai_intent": 0.7,
+    "ai_audience": 2.0,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses exclusively on the shift-left approach in software development, advocating for early integration of QA and collaboration. There are no explicit or implicit discussions of the Industrial Operating Model (IOM)—no mention of hierarchy, command-and-control, Taylorism, standardization, or efficiency-focused operating models as foundational concepts. The narrative centers on adaptive, team-level practices and process improvement, which are characteristic of modern or agile practices rather than IOM. There is no comparison made to IOM nor a discussion of where IOM succeeds. Any conceptual overlap is incidental and not substantive. The content does not help readers understand what the Industrial Operating Model is or where it works effectively.",
+    "reasoning_summary": "Content does not fit the Industrial Operating Model category; it covers shift-left QA practices, not IOM structure, mechanics, history, or core assumptions. No substantive IOM discussion or direct/indirect alignment is present.",
+    "level": "Ignored"
   }
 }

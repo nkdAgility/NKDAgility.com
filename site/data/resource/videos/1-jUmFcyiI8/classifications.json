@@ -2683,5 +2683,25 @@
     "reasoning": "The content focuses strictly on software deployment frequency, time to market, and continuous delivery. There is no reference to AI, ML, data, model governance, ethical AI, or any of the unique challenges in the AI Product Operating Model. Concepts like feedback loops and delivery pipelines match general (software) product operating models rather than those required for AI products. Audience and signal are moderately aligned as software practitioners could also be interested in AI, but no AI-specific substance, structure, or lifecycle considerations are presented. No penalties, as the content is neither outdated nor overtly critical or satirical.",
     "reasoning_summary": "Content focuses on general software delivery, not AI-specific models. No mention of AI lifecycle, governance, or organizational structure for AI products; thus, it does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "1-jUmFcyiI8",
+    "itemId": "1-jUmFcyiI8",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:44",
+    "ai_confidence": 8.85,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.5,
+    "ai_intent": 1.2,
+    "ai_audience": 2.0,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses on deployment frequency, fast feedback loops, and aligning software delivery with business goals. While it tangentially references 'stable environments', there are no direct mentions or in-depth discussions of the Industrial Operating Model's assumptions, mechanics, or theoretical foundations. The piece centers on improvement in adaptive/digital delivery, not IOM structures (hierarchy, stage gates, planning over adaptation, etc.), and contains no reference to IOM's historical context or operational specifics. The intended audience is likely practitioners aiming for modern/agile efficiencies, not those seeking to understand the basis or strengths of IOM. Little of the content would help readers understand what IOM is or where it is effective.",
+    "reasoning_summary": "Content does not discuss the Industrial Operating Model, its mechanics, or context. Focus is on adaptive practices (deployment frequency, fast feedback), not on what IOM is or where it fits. No substantive match to category intent.",
+    "level": "Ignored"
   }
 }

@@ -2633,5 +2633,25 @@
     "reasoning": "The content is centered on agile transformation, system-level organizational change, and meaningful metrics, focusing entirely on the challenges of implementing Agile practices and improvement at an enterprise level. There is no reference—direct, implicit, or otherwise—to AI, AI product development, model governance, MLOps, or the unique operating model challenges and lifecycle of AI-powered products. While it discusses product and organizational effectiveness broadly, this is within a generic Agile framework, not an AI context. No topics mapped to the key AI-related criteria in the category definition. The audience may occasionally overlap (execs, coaches), but the themes, intent, and vocabulary are not AI-specific.",
     "reasoning_summary": "Content is about agile system change, not AI. It lacks any mention or exploration of AI product operating models, so alignment with the category is minimal. Does not fit the intended purpose.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "QBX7dnUBzo8",
+    "itemId": "QBX7dnUBzo8",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:38",
+    "ai_confidence": 24.85,
+    "ai_mentions": 1.3,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.2,
+    "ai_intent": 3.0,
+    "ai_audience": 6.1,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.2,
+    "ai_penalty_details": "Mentions: -0.7 (IOM not directly referenced, only implicitly critiqued through discussion of silos and hierarchy). Alignment: -0.5 (focus is on how IOM fails, not on what it is). Depth: -0.7 (very limited exploration of IOM structure or assumptions, focus is on reasons to move away).",
+    "final_score": 25.0,
+    "reasoning": "The content overwhelmingly focuses on Agile transformation, systemic impediments to agility, and critiques of hierarchical or siloed structures without presenting a substantive or neutral exploration of the Industrial Operating Model (IOM). While it references elements like hierarchy and silos, these are framed as obstacles, and the core discussion is about why established models inhibit Agile, not about what the IOM is or where it succeeds. There are minimal direct or substantive explanations of IOM's mechanics, assumptions, or theory; most references to IOM-aligned concepts serve only as context for why they should be changed. The one example of a CEO's reorganization into silos is mentioned briefly but only in the context of recommending abandonment. No attempt is made to inform the reader about IOM principles, operating logic, historical context, or strengths in stable environments. Audience may overlap (organizational decision-makers), but the purpose is about change/transformation, not understanding IOM. Penalties are applied for lack of direct mention and for tone that actively critiques rather than describes the IOM.",
+    "reasoning_summary": "Content critiques hierarchical/siloed (IOM-like) systems as barriers to Agile, but does not explain what the Industrial Operating Model is or where it works. Purpose is transformation away from IOM, not understanding it. Only partial, indirect fit.",
+    "level": "Ignored"
   }
 }

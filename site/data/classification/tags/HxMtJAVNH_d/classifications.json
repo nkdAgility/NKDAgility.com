@@ -3341,5 +3341,25 @@
     "reasoning": "The content focuses narrowly on general deployment strategies for software, referencing blue-green deployments, canary releases, and related practices. It discusses risk, speed, and the value of deployment techniques within Agile/DevOps, but offers no mention or discussion of AI-specific product operating models, governance, or lifecycle. There is no reference to data/model governance, MLOps, AI roles, or AI ethics, nor does the content address organizational structures or practices unique to AI products. While the intent is relevant to product and engineering teams, the content is not targeted at those operationalizing AI solutions or addressing their unique governance or lifecycle requirements. The match to 'AI Product Operating Model' is therefore highly tangential and very weak.",
     "reasoning_summary": "Content is about general deployment strategies in software delivery, without addressing AI-specific operating models, governance, or lifecycle. No substantial fit for AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "HxMtJAVNH_d",
+    "itemId": "HxMtJAVNH_d",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:27:02",
+    "ai_confidence": 11.17,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.0,
+    "ai_intent": 0.8,
+    "ai_audience": 2.8,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content discusses deployment strategies in the context of Agile and DevOps, focusing on risk, speed, continuous improvement, and adaptability. There is no mention of Industrial Operating Model (IOM) terminology, assumptions, or structure. The focus is on iterative, adaptive methods and team-level practices, which run counter to IOM’s core principles (hierarchical command-and-control, predictability, and standardization). No explicit or substantive analysis of IOM is present, nor any direct contrast or historical framing. Any faint references to ‘efficiency’ and ‘organisational structure’ are generic and unspecific to IOM.",
+    "reasoning_summary": "The content is about Agile/DevOps deployment practices and continuous delivery, not the Industrial Operating Model. It lacks IOM concepts, context, and audience; confidence for fit is extremely low.",
+    "level": "Ignored"
   }
 }

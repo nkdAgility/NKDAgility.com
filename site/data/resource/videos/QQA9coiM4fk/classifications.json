@@ -2581,5 +2581,25 @@
     "reasoning": "The content strictly covers DevOps consulting and does not mention or discuss AI, AI products, or operating models for AI products. No references to model lifecycle, data governance, AI ethics, or supporting structures specific to AI productization are present. The work is focused on generic DevOps culture change and technical support, which is explicitly excluded by the category definition. Minimal to no overlap exists with the goals, practices, or concerns of an AI Product Operating Model.",
     "reasoning_summary": "Content focuses entirely on DevOps consulting and software delivery practices, with no discussion of AI, AI product operating models, or related governance, lifecycle, or organizational integration. No fit for this category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "QQA9coiM4fk",
+    "itemId": "QQA9coiM4fk",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:44",
+    "ai_confidence": 6.23,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.6,
+    "ai_intent": 0.3,
+    "ai_audience": 2.1,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is a personal narrative and promotional overview of DevOps consulting. There is no mention or substantive discussion of the Industrial Operating Model (IOM): no reference to its core assumptions, mechanics, or historical foundations. The focus is on consultative DevOps transformation, culture, tooling, leadership engagement, and process improvements. While terms like efficiency or process are used, they do not provide insight into what IOM is, its structure, or where it is effective. The intended audience is looking for DevOps guidance, not IOM understanding. Given the total absence of IOM content, only minimal token scores were provided for relevance and signal (to account for generic overlap around process and improvement language), but scoring remains extremely low.",
+    "reasoning_summary": "Content is about DevOps consulting, not the Industrial Operating Model. No IOM-specific discussion or comparison is present. Intent and theme do not fit; only generic process improvement terms overlap. Fit is extremely weak and indirect.",
+    "level": "Ignored"
   }
 }

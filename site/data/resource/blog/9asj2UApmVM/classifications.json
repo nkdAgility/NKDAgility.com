@@ -3448,5 +3448,25 @@
     "reasoning": "This content focuses exclusively on delivery practices (WIP limits, estimation, flow) applicable in general software or product development contexts with no mention of AI, machine learning, MLOps, data/model governance, or AI-specific lifecycle. There are no explicit references or integrations with AI operating models, and none of the illustrations or case studies pertain to AI product delivery or its distinct requirements. The audience and themes remain general to product/dev teams, with missing conceptual, structural, or operational framing relevant to building or governing AI-powered products. Scored low across Direct Mentions, Alignment, Depth, and Intent due to complete lack of AI context; signal is modest as the topic is focused on product/delivery practice, not outright off-topic.",
     "reasoning_summary": "Content discusses WIP and estimation in general delivery systems, not AI product operating models. No AI elements, models, or lifecycle processes—does not fit the category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "9asj2UApmVM",
+    "itemId": "9asj2UApmVM",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:15",
+    "ai_confidence": 22.98,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.6,
+    "ai_intent": 2.0,
+    "ai_audience": 3.1,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "This content critiques high WIP and argues that estimation improvements do not address unpredictability or delay. Its focus is on flow, WIP limits, queue management, and modern work system dynamics (flow-based systems, Scrum, Kanban). There is no substantive discussion of the Industrial Operating Model's assumptions, mechanics, or context; the content does not analyze traditional IOM structures (hierarchy, functional silos, command-and-control, Taylorism, etc.). Hierarchies, functional specialization, or centralized authority are not addressed, nor is there any comparison with or explanation of IOM principles. The audience is practitioners interested in delivery and flow, not those wanting to understand IOM. Although there are references to batch-and-queue systems and traditional planning, these are only mentioned in passing and used to highlight their inadequacy, not to explain or analyze the IOM itself.",
+    "reasoning_summary": "Content focuses on modern flow and WIP management, with minimal or no direct coverage of Industrial Operating Model assumptions, structures, or strengths. It does not help readers understand what IOM is or where it works. Fit with IOM category is weak.",
+    "level": "Ignored"
   }
 }

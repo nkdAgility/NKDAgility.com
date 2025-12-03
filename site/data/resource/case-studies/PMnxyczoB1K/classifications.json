@@ -3448,5 +3448,25 @@
     "reasoning": "The content primarily describes the streamlining of build and release engineering processes across distributed teams for a large software product. It details how consolidating source control, aligning branching strategies, and promoting engineering ownership led to improved outcomes. However, it does not mention AI, AI-specific product lifecycle challenges, or any operating model considerations unique to AI products (e.g., data/model governance, MLOps, ethical deployment). The focus is on traditional engineering excellence and product operating models, not on AI Product Operating Models. There's no reference to unique AI requirements, and all recommendations could apply to non-AI software products.",
     "reasoning_summary": "This content centers on general engineering and product operating model improvements, without any AI context. It does not address unique AI product operating model requirements. Fit is minimal to none.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "PMnxyczoB1K",
+    "itemId": "PMnxyczoB1K",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:47",
+    "ai_confidence": 36.11,
+    "ai_mentions": 0.6,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.4,
+    "ai_intent": 5.2,
+    "ai_audience": 7.7,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content focuses on engineering process consolidation, team accountability, and ownership within a multinational organization, which tangentially relates to some IOM mechanics (standardization, centralization vs. decentralization). However, it does not directly discuss IOM's theoretical foundations, core principles (e.g., hierarchical command, centralized authority), or explicitly position the described situation as an Industrial Operating Model or contrast it with alternatives. Most discussion is around technical project-level transformation, not the IOM as a structural, organizational concept. Some aspects (initial centralization, tooling inconsistency) faintly echo IOM characteristics, but the substance is about decentralizing ownership—a move away from traditional IOM. There is little explicit content to inform a reader about what IOM IS or why it works, though some technical/engineering leaders may be interested. Thus, a low but nonzero confidence is warranted.",
+    "reasoning_summary": "Content focuses on process unification and team empowerment, with only limited indirect overlap with IOM themes. Does not explain or promote IOM structures, assumptions, or context; fit is partial and mostly tangential.",
+    "level": "Ignored"
   }
 }

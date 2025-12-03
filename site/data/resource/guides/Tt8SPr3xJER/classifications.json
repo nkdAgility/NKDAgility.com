@@ -2629,5 +2629,25 @@
     "reasoning": "The document focuses on detecting genuine agile processes in DoD software development projects. There are no mentions of AI, machine learning, or AI-specific operating models, lifecycle management, or governance. The discussion is strictly about agile software delivery, team practices, tooling, and questions for various stakeholders in the context of software (not AI product) development. The audience overlaps slightly with those interested in product operating models (executives, program managers), but without AI focus or context, the fit is highly tangential and does not address any of the unique aspects called out in the AI Product Operating Model category definition.",
     "reasoning_summary": "Content is entirely about agile software practices and governance in DoD, without any reference or relevance to AI or AI product operating models; scope and intent do not fit the category. Confidence is extremely low.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "Tt8SPr3xJER",
+    "itemId": "Tt8SPr3xJER",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:54",
+    "ai_confidence": 14.46,
+    "ai_mentions": 0.8,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.6,
+    "ai_intent": 2.4,
+    "ai_audience": 3.8,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on detecting false claims of Agile practices and contrasts 'true' Agile with 'waterfall or spiral development in agile clothing.' While there are passing references to traditional models (e.g., 'waterfall,' 'silos,' and bureaucratic behaviors), these are not substantively explored as the main topic. The Industrial Operating Model is not directly named, nor are its theoretical roots, strengths, or assumptions in stable/predictable work discussed in detail. Discussion is often implicit and narrowly functional (e.g., 'focus on meeting requirements,' 'working in silos') rather than analytical about IOM itself. Intent is mainly to enable DoD personnel to detect pseudo-Agile, not to explain, support, or deeply analyze IOM's nature or where it is effective. Audience is moderately aligned (executives, practitioners in government), but primary topic is Agile adoption, not IOM. The content's signal-to-noise is moderate: there are scattered, indirect cues about IOM, but substantial focus is on evaluating Agile practice, questions for teams, and tool usage.",
+    "reasoning_summary": "Content is about detecting 'Agile BS,' with only indirect, critical references to traditional models like waterfall or silos. It does not substantively explore or explain the Industrial Operating Model's principles or context.",
+    "level": "Ignored"
   }
 }

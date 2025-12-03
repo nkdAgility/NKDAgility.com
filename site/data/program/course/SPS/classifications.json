@@ -2567,5 +2567,25 @@
     "reasoning": "The SPS course content is focused exclusively on scaling Scrum using the Nexus Framework for software product development. There is no mention of AI products, AI operating models, or unique aspects of AI lifecycle, model governance, or ethics. The target audience is Scrum practitioners and Agile professionals, not specifically those managing AI product operating models. None of the listed learning outcomes or topics address AI product integration, MLOps, model governance, or responsible AI practices as required by the category definition. The signal-to-noise ratio is low for the category with only general references to product operating models through scaling Scrum, but not to AI specifics. Partial conceptual alignment exists only in the sense of operating models for scaled product teams, but not in an AI context.",
     "reasoning_summary": "This content is about scaling Scrum for general software/product development using Nexus and does not address AI product operating models, governance, or lifecycle. Fit for the AI Product Operating Model category is minimal and indirect.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "SPS",
+    "itemId": "SPS",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:29:28",
+    "ai_confidence": 7.85,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 2.5,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses entirely on scaling Scrum using the Nexus Framework, targeting practitioners implementing Agile at scale. There is no explicit or implicit reference to the Industrial Operating Model, its foundations, structure, or where it excels. The course instead centers on adaptive models and practical modern approaches, rather than the traditional, hierarchical, efficiency-driven methods characteristic of IOM. The audience is technical/practitioner, but the intent, themes, and depth are misaligned with the IOM category. No penalties are applied as the content is current and not critical/satirical toward IOM.",
+    "reasoning_summary": "Content is about scaling agile with Nexus, not about the Industrial Operating Model. No substantive discussion or example related to IOM appears; main focus is adaptive/agile practices. Not a category fit.",
+    "level": "Ignored"
   }
 }

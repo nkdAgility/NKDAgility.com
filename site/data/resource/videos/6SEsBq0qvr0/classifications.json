@@ -3353,5 +3353,25 @@
     "reasoning": "The content solely addresses agile delivery practices, specifically the distinction between acceptance criteria and definition of done. It doesn't discuss AI product operating models, nor does it mention AI, data, model lifecycle, or organizational design for AI products. Themes and intent are tightly scoped to general agile/DevOps concepts, with no reference to the unique requirements, governance, or lifecycle management of AI solutions. The audience is agile practitioners, not leaders or strategists focused on AI products. There is no surface or deep conceptual match to the target category.",
     "reasoning_summary": "Content focuses on agile delivery (acceptance criteria vs. definition of done) with no reference to AI, model lifecycle, or product operating models for AI. It does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "6SEsBq0qvr0",
+    "itemId": "6SEsBq0qvr0",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:57",
+    "ai_confidence": 6.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.7,
+    "ai_intent": 0.3,
+    "ai_audience": 2.5,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses entirely on distinguishing Acceptance Criteria from Definition of Done in agile teams—a modern, team-level delivery practice. There are no explicit or implicit references to the core concepts of the Industrial Operating Model (hierarchy, standardization, Taylorism, etc.), nor does it analyze IOM's strengths, structures, or historical context. Instead, the discussion is actionable and relevant for practitioners in adaptive or agile environments, with organizational quality policies only briefly touched as context for Definition of Done. The content does not attempt to explain, justify, or explore the Industrial Operating Model, so direct and conceptual fit are extremely weak. The audience is practitioners, which only very partially overlaps. No penalties were necessary.",
+    "reasoning_summary": "This content does not discuss the Industrial Operating Model; it focuses on agile team practices (acceptance criteria, definition of done), with no substantive IOM context. Fit is extremely limited and coincidental.",
+    "level": "Ignored"
   }
 }

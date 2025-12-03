@@ -3448,5 +3448,25 @@
     "reasoning": "The content focuses extensively on estimation, metrics, Evidence-Based Management, and value flow in software delivery, notably within agile and DevOps contexts. However, it never references or addresses AI product operating models, nor does it incorporate AI-specific governance, lifecycle, or organizational alignment as required by the category. While some practices (like EBM or value stream focus) could overlap with aspects of AI product delivery, the treatment is general and software-centric—not specific to the needs, challenges, or operationalization of AI products. No key topics like MLOps, data/model governance, ethical/AI compliance, or model lifecycle are discussed in an organizational context. The intent, depth, and alignment are only weakly relevant and tangential at best, without any explicit or substantial ties to AI product operating models. Therefore, the fit is highly limited and confidence is very low.",
     "reasoning_summary": "Content does not address AI Product Operating Models—it is about estimation, metrics, and EBM in software delivery generally, without AI focus, governance, or lifecycle concerns. Any alignment is vague and non-specific; fit is minimal.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "rE-_hlb3Y34",
+    "itemId": "rE-_hlb3Y34",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:55",
+    "ai_confidence": 21.63,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.8,
+    "ai_intent": 1.4,
+    "ai_audience": 8.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.0,
+    "ai_penalty_details": "Penalties applied to alignment (-1) for focus on IOM negatives/transition, and intent (-1) for strongly critical, anti-IOM framing.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily criticizes estimation accuracy tracking, micromanagement, and compliance cultures associated with traditional, Taylorist operating models, but does so to promote adaptive, value-oriented alternatives. While there are explicit references to top-down control, hierarchy, and efficiency—traits of the Industrial Operating Model (IOM)—these are mostly discussed as problems to be overcome, not as characteristics to be understood or supported. There is little direct or neutral explanation of IOM or its successes; instead, IOM attributes are framed as harmful to trust, value delivery, and innovation. The content's in-depth descriptions center on the failures and harms of IOM mechanics in knowledge work environments, not on understanding IOM's strengths or mechanisms in their own right. Its main advice and orientation are towards outcome-focused, adaptive management (EBM, flow, empiricism), implying a critical stance against the IOM paradigm. The audience is practitioners and leaders interested in new ways of working, not those seeking to understand or reinforce the Industrial Operating Model. Penalties are taken for negative/critical intent and alignment mismatch.",
+    "reasoning_summary": "This content critiques the Industrial Operating Model's practices and focuses on why adaptive alternatives are better. It does not explain or support the IOM itself, so fit for the category is very low.",
+    "level": "Ignored"
   }
 }

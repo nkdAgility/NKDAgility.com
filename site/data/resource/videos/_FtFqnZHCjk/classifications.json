@@ -2623,5 +2623,25 @@
     "reasoning": "The content focuses exclusively on the transformation of general product management practices in the Agile era, using Azure DevOps as the main case study. It discusses concepts such as shorter release cycles, continuous delivery, feedback loops, and built-in quality—all as applied to generic software product management and DevOps contexts. There is no mention or implication of AI, artificial intelligence models, MLOps, data/model governance, AI-specific roles, or any of the unique requirements or operating model considerations for AI products. No topics directly reference or contextually align with the AI Product Operating Model as defined. The overall purpose, themes, and audience clearly address general product operating model adaptation for Agile, not for AI-powered products.",
     "reasoning_summary": "Content discusses general Agile product management—not AI product operating models. No direct or indirect references to AI-specific operating models, roles, or challenges. Does not fit the category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "_FtFqnZHCjk",
+    "itemId": "_FtFqnZHCjk",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:59",
+    "ai_confidence": 23.37,
+    "ai_mentions": 1.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.6,
+    "ai_intent": 2.5,
+    "ai_audience": 7.0,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.7,
+    "ai_penalty_details": "mentions penalized (-0.8) for not naming IOM or its core terms; alignment penalized (-0.5) for framing mainly as critique and transition away from IOM; depth penalized (-0.4) for limited exploration of IOM mechanics beyond cycle length.",
+    "final_score": 23.0,
+    "reasoning": "The content primarily discusses the evolution to Agile product management, describing traditional long release cycles and some practices (change request systems, UAT, major releases) reminiscent of IOM processes. However, it uses these only as a setup to highlight Agile’s benefits; it does not explain what the Industrial Operating Model is, its theoretical underpinnings, or its core assumptions and does not name or define IOM. There are implicit references (e.g., long cycles, complexity of changes, high reliance on plans), but the focus lies on why these practices were problematic and what replaces them, rather than elucidating IOM itself. The main audience is practitioners and product leaders, aligned with organizational operations, but the material is transitional/critical about traditional models and very light on expository content about IOM. Penalties applied for lack of explicit mention, thin depth on IOM itself, and focus on deprecation of IOM features.",
+    "reasoning_summary": "The content indirectly references IOM-era practices but mainly to highlight their shortcomings versus Agile methods. It lacks explicit IOM discussion, serving more as a critique and transition narrative than an explanation of IOM itself. Fit is weak/partial.",
+    "level": "Ignored"
   }
 }

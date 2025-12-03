@@ -3329,5 +3329,25 @@
     "reasoning": "The content exclusively discusses Service Level Expectation in the context of Scrum Teams, focusing on workflow predictability and cycle time, with no reference (direct or indirect) to AI, operating models for AI products, MLOps, or AI-specific organizational practices. There is a negligible conceptual overlap: while SLEs might be relevant in some product operating models, this piece neither calls out AI nor situates SLEs in an AI-specific organizational or operational context. The audience is likely practitioners of Scrum or Kanban, not those specifically focused on AI product operations. There is no material relevance to the core concerns of the AI Product Operating Model category.",
     "reasoning_summary": "Content is strictly about workflow measurement in Scrum; contains zero references or alignment with AI Product Operating Models. Does not fit the category. Any relation is generic and coincidental.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "r1lSFWkEwZM",
+    "itemId": "r1lSFWkEwZM",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:27:02",
+    "ai_confidence": 5.85,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.4,
+    "ai_depth": 0.9,
+    "ai_intent": 0.6,
+    "ai_audience": 1.2,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is strictly about Service Level Expectations within Scrum Teams, focusing on Agile practices (SLE, Cycle Time, inspection/adaptation) rather than discussing the Industrial Operating Model (IOM). There are no direct or indirect references to IOM's principles, organizational structures, or historical context; the topic stays within agile flow metrics and team-level process improvement. The audience and examples are those relevant to Scrum practitioners, not those looking to understand efficiency-driven, hierarchical models such as IOM. Minimal, if any, conceptual overlap exists between SLE and IOM beyond generalized workflow predictability. Thus, the fit is marginal and confidence is very low.",
+    "reasoning_summary": "Content focuses on Scrum-level flow metrics (SLE) with no substantive discussion of Industrial Operating Model structures, mechanics, or foundations. Does not help readers understand IOM, making category fit very weak and confidence low.",
+    "level": "Ignored"
   }
 }

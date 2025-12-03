@@ -3438,5 +3438,25 @@
     "reasoning": "The content describes a mentoring program focusing on Agile, DevOps, Kanban, and evidence-based practices for product development teams, without direct or indirect reference to AI, machine learning, or AI-specific operating models. Key topics and outcomes are centered on general software and engineering excellence, team dynamics, and modern product delivery—none of which address the unique governance, lifecycle, ethical, or scaling requirements of AI product operating models. No mention is made of MLOps, model governance, AI ethics, or other differentiators listed in the category definition. Audience (software teams, practitioners) partially overlaps with that of AI product operating models, but the program is not positioned for AI-specific contexts.",
     "reasoning_summary": "Content is about mentoring in Agile, DevOps, and modern product development, without AI-specific operating model content or concepts. Does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "NKD-PDMP",
+    "itemId": "NKD-PDMP",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:29:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.5,
+    "ai_intent": 0.5,
+    "ai_audience": 2.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The mentoring program content is focused entirely on Agile, DevOps, Kanban, and modern product development practices. There is no mention—direct or conceptual—of the Industrial Operating Model's structure, mechanics, or theory. Topics such as hierarchy, command-and-control, scientific management, predictive planning, or functional silos are wholly absent. The course is designed for practitioners looking to adopt adaptive methods, and even where organization-wide scaling is referenced, the emphasis is on modern, flexible approaches. There are no contrasts with IOM, no discussion of its merits, nor is the target audience aligned with leaders or teams structured under an IOM. As such, there is almost no alignment, depth, or direct intent supporting the IOM category. Minimal scores are given for faint, indirect relevance, i.e., that scaling Agile might, in rare cases, touch on legacy structures, but this is highly inferential and unsubstantiated in the content.",
+    "reasoning_summary": "This content does not fit the Industrial Operating Model category. It exclusively covers Agile, DevOps, and adaptive methods without discussing IOM structures, principles, or context. Any fit is negligible and highly inferential.",
+    "level": "Ignored"
   }
 }

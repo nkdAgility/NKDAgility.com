@@ -2537,5 +2537,25 @@
     "reasoning": "The content focuses on agile practices—story points, team size, emergent architecture—with no mention or discussion of AI, AI product operating models, or related governance, lifecycle, or roles. The themes match agile and DevOps operating models but are not contextualized around AI, MLOps, data/model governance, or unique AI product requirements. No penalty was needed, as the content is not outdated or actively critical, just irrelevant for the specified category except in its general concern for operating models, which is a stretch. The only minor relation is the tangential reference to team roles and DevOps, which might apply in some AI contexts, but there is no explicit or implicit link to the specifics of AI product delivery or management.",
     "reasoning_summary": "Content strictly covers agile/DevOps concepts—story points, team size, emergent architecture—with no mention or exploration of AI product operating models. No substantive fit with the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "jCqRHt8LLgw",
+    "itemId": "jCqRHt8LLgw",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:29",
+    "ai_confidence": 8.22,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.7,
+    "ai_intent": 0.9,
+    "ai_audience": 2.5,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content exclusively discusses agile practices (story points, team size, emergent architecture) and improvement thereof. It neither names nor describes the Industrial Operating Model. There is no analysis of IOM's mechanics, assumptions, or historical context. At best, the post implicitly contrasts agile with traditional methods via stakeholder references, but fails the 'Quick Test'—it doesn't help readers understand what IOM is or where it thrives. Most points and advice are directly about adapting, rethinking, or modernising agile, so minimal relevance. Audience is practitioners interested in agile improvement, not those seeking insight into IOM structure.",
+    "reasoning_summary": "Content is about agile practices, not the Industrial Operating Model. No direct or substantial discussion of IOM structure, mechanics, or context. Very little alignment—does not fit the category except by weak implied contrast.",
+    "level": "Ignored"
   }
 }

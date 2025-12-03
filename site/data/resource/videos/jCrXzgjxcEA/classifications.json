@@ -2606,5 +2606,25 @@
     "reasoning": "The content focuses entirely on work visualization and workflow management in hybrid environments using Azure DevOps, specifically around a 'Caman' strategy. It delves into customizing boards, establishing shared rules, visualizing work, and managing WIP—all within the context of non-AI software teams using Kanban/Scrum methods. There are no direct or indirect references, themes, or operational structures related to AI product development, model management, data/model governance, or any AI-specific product operating model considerations as defined in the classification. The discussion is strictly about traditional workflow management and does not mention AI people, processes, data/model life cycle, ethical deployment, or any other aspect unique to AI products. All depth is on workflow visualization, not AI or AI product delivery specifics.",
     "reasoning_summary": "Content is unrelated to AI Product Operating Model; it covers workflow visualization in Azure DevOps for general/Agile teams, not AI product teams or the unique structures/processes of AI product operations.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "jCrXzgjxcEA",
+    "itemId": "jCrXzgjxcEA",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:12",
+    "ai_confidence": 8.59,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 1.2,
+    "ai_intent": 0.7,
+    "ai_audience": 2.5,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content describes strategies for visualizing workflow using Azure DevOps and focuses on board configuration, shared rules, and collaboration in hybrid environments. There is no substantive discussion of the Industrial Operating Model, no exploration of hierarchy, command and control, Taylorism, or other IOM-defining features. The closest touchpoint is the brief mention of 'stable systems' and 'shared rules,' but these are situated in the context of Kanban/Caman practices, not as analysis or description of the IOM. The main themes relate to modern DevOps/Agile practices, not IOM. The content intent is practical guidance for current software teams, with nothing about the history, assumptions, strengths, or operating mechanics of IOM.",
+    "reasoning_summary": "Content is focused on Kanban and Azure DevOps in hybrid work, not IOM. Lacks substantive discussion or exploration of the Industrial Operating Model’s structure, assumptions, or context—virtually no fit for the IOM category.",
+    "level": "Ignored"
   }
 }

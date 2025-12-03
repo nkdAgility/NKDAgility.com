@@ -2570,5 +2570,25 @@
     "reasoning": "The content exclusively focuses on data migration strategies to minimize downtime and maintain engineering productivity. While it discusses team productivity, collaboration (via Git), planning, and minimizing disruption, it does not mention AI, machine learning, or any concepts unique to the operationalization of AI products. There is no reference to AI models, MLOps, AI-specific governance, ethical issues, or lifecycle management as outlined in the AI Product Operating Model category. The intended audience appears to be IT leaders or software engineering teams facing migration, not those focused on AI product delivery. All mentions and themes are generic to software engineering, with no alignment to the category's core definition. Therefore, scores are near zero across all dimensions.",
     "reasoning_summary": "The content is about general data migration and software engineering productivity, without any reference to AI products, operating models, or practices unique to AI. It does not fit the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "tzmbqdEULUY",
+    "itemId": "tzmbqdEULUY",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:04",
+    "ai_confidence": 11.57,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.9,
+    "ai_intent": 2.2,
+    "ai_audience": 2.0,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses on practical data migration tips (planning, downtime minimization, use of Git) and project management for large engineering teams. There is no substantive discussion of the Industrial Operating Model, its structures, assumptions, or mechanics. The only remote alignment comes from a fleeting implication of scale and planning, which are generic to many operating models. No terminology or concepts specific to IOM are present, and the content does not analyze or elucidate IOM characteristics, assumptions, or contexts where it works. The purpose is technical/practical guidance rather than informing about IOM.",
+    "reasoning_summary": "Content does not discuss the Industrial Operating Model, its assumptions, or mechanics. It is a technical guide on migration planning, not an exploration of IOM structure or applicability. Fit is very low and mostly accidental.",
+    "level": "Ignored"
   }
 }

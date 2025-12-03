@@ -2625,5 +2625,25 @@
     "reasoning": "The content has no explicit mention or discussion of AI or AI product operating models. It focuses exclusively on general product backlog management for Product Owners in agile/Scrum contexts, discussing risk, value, size, refinement, learning, and associated practices, but these are framed for classic software/product delivery. There are no references to AI-specific topics such as MLOps, data/model governance, AI product life cycle, or organizational operating models for AI. All techniques and advice are applicable to traditional product management and agile roles. The minor nonzero scores in 'mentions', 'alignment', and 'depth' reflect some universal relevance of operating models and lifecycle thinking, but no actual alignment with AI Product Operating Model content or audience intent.",
     "reasoning_summary": "This content discusses general agile product backlog management—not AI or AI product operating models. No AI-specific practices, governance, or lifecycle topics are addressed. It does not fit the assigned category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "il1GdfG7rWk",
+    "itemId": "il1GdfG7rWk",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:26:05",
+    "ai_confidence": 11.25,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.0,
+    "ai_intent": 2.0,
+    "ai_audience": 1.8,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses entirely on product backlog management within Agile/Scrum contexts, aimed at product owners. Nowhere does it discuss or reference the Industrial Operating Model, its mechanics, assumptions, or strengths. There are no direct or indirect comparisons with IOM, nor is there analysis of hierarchical structures, standardized processes, or centralized planning. The concepts and practices are centered on adaptive product delivery and continuous improvement—characteristics of non-IOM models. The intended audience is Agile practitioners rather than executives seeking to understand IOM. There is no surface or in-depth discussion of IOM; even mentions of process or flow are within a Scrum/Kanban/Agile setting, not an industrial or Taylorist one. Scores are minimal across all dimensions, reflecting very weak fit.",
+    "reasoning_summary": "Content is unrelated to Industrial Operating Model; it discusses Agile backlog management, not IOM structures, assumptions, or practices. No alignment or relevant mention of IOM.",
+    "level": "Ignored"
   }
 }

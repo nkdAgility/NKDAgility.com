@@ -2625,5 +2625,25 @@
     "reasoning": "The content exclusively discusses organizational structures that support agility, with a strong focus on decentralization, empowerment, and the shift away from traditional hierarchies. Despite detailed insight on agile transformation, there is zero reference to AI, AI-specific roles, data/model governance, or the operationalization of AI products. All key topics and language are about general agile or product operating models, not AI Product Operating Models. Audience focus is relevant (leaders, strategists), but the subject matter is not. No penalties were required as the content is not outdated or critical, just out-of-scope.",
     "reasoning_summary": "This content fits general agile/product operating models, not AI Product Operating Models. It lacks any AI context, governance, or lifecycle discussion, making it out-of-scope. Intent, depth, and focus are not relevant to the assigned category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "56hWAHhbrvs",
+    "itemId": "56hWAHhbrvs",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:50",
+    "ai_confidence": 42.85,
+    "ai_mentions": 3.7,
+    "ai_alignment": 5.3,
+    "ai_depth": 5.1,
+    "ai_intent": 4.4,
+    "ai_audience": 6.2,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.5,
+    "ai_penalty_details": "Intent (-0.6): Content tone is critical/satirical, framing IOM as a barrier and 'Antichrist of Agile'. Alignment (-0.9): Focus is more on transition away from IOM than explaining its mechanics. Depth (-1.0): Surface mention of IOM aspects with minimal detailed exploration.",
+    "final_score": 43.0,
+    "reasoning": "The content discusses hierarchical structures and command-and-control mechanics characteristic of the Industrial Operating Model (IOM), explicitly describing them as the 'Alpha' organizational model. It references IOM markers such as centralized decision-making, vertical authority, and functional silos. However, its primary focus is highly critical, centering on why these structures are problematic for agility and advocating for their abandonment. There is little substantive exploration of IOM's inner logic or where it is effective; instead, the model is positioned as an obsolete adversary rather than explained for its own sake. Frequent negative descriptors undermine the category's framing. Therefore, scores for conceptual alignment, depth, and intent are notably reduced due to the content’s satirical/critical tone and transformation/transition theme.",
+    "reasoning_summary": "This content superficially references IOM (as 'Alpha'), but mainly critiques and contrasts it with Agile models. Its intent is to prompt departure from IOM, not to explain or contextualize it, so fit with the category is partial and indirect.",
+    "level": "Tertiary"
   }
 }

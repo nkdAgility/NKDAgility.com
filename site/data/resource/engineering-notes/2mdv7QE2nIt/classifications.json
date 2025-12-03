@@ -3353,5 +3353,25 @@
     "reasoning": "The content discusses technical approaches to migrating .NET and ASP.NET MVC projects to SDK-style format for modernization, build simplicity, and maintainability. Nowhere does it reference AI product operating models, nor does it address any of the category-specific themes such as AI product lifecycle, MLOps, data/model governance, AI-specific organizational roles, ethics, or scaling AI solutions. The target audience is .NET engineers dealing with legacy conversion—not those responsible for operationalizing AI product delivery. Any minimal conceptual overlap (e.g., improving CI/CD or future readiness) is general and not contextualized to AI product challenges, governance, or strategy. No relevant mentions or in-depth alignment with the AI Product Operating Model category.",
     "reasoning_summary": "Content is solely about .NET/ASP.NET project modernization—not about AI product operating models, governance, lifecycle, or AI-specific practices. No alignment with AI Product Operating Model intent, themes, or audience.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "2mdv7QE2nIt",
+    "itemId": "2mdv7QE2nIt",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:16",
+    "ai_confidence": 6.0875,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.7,
+    "ai_intent": 0.6,
+    "ai_audience": 1,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is highly technical, focused on modernizing .NET and ASP.NET MVC projects from legacy formats to SDK-style projects. It discusses engineering practices, tooling migration, and developer productivity, but does not cover the Industrial Operating Model (IOM), its structures, assumptions, or where it works. There are no explicit or conceptual references to organizational hierarchy, Taylorism, process control, or IOM mechanics; the closest overlap is the use of terms like 'legacy' and 'old formats', but these are technical, not structural. The discussion is at the project and tool level, not at the operating model or organizational structure level. No penalties were needed, as there is no outdatedness or critical tone regarding IOM; it is simply off-topic.",
+    "reasoning_summary": "Content is a technical guide on migrating .NET projects and does not address the Industrial Operating Model. No structural, theoretical, or managerial aspects of IOM are discussed; the fit is almost nonexistent.",
+    "level": "Ignored"
   }
 }

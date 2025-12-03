@@ -2597,5 +2597,25 @@
     "reasoning": "The content exclusively addresses metric pitfalls in Agile product teams—story points, velocity, throughput, cycle time, and customer value—but does not mention, discuss, or analyze AI-specific operating models, requirements, roles, or lifecycle. There is no reference to data, modeling, ethics, AI team structure, governance, or MLOps. All examples and guidance address generic Agile product contexts without any AI focus or specialized organizational approaches for operationalizing AI. Thus, there is no substantive alignment with the AI Product Operating Model category, only a very faint general product-operating-model relevancy.",
     "reasoning_summary": "The content does not address AI Product Operating Models, AI-specific requirements, or organizational approaches to AI products. It is focused entirely on general Agile team metrics and practices, making it a non-fit for this category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "EfogGslFkBQ",
+    "itemId": "EfogGslFkBQ",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:45",
+    "ai_confidence": 8.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.8,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses squarely on Agile metrics and team-level practices, critiquing the misuse of story points and velocity while advocating for flow-based metrics like throughput and cycle time. It never mentions the Industrial Operating Model (IOM) by name or concept. There are no substantive discussions of IOM's assumptions, mechanics, or historical foundations (e.g., hierarchy, Taylorism, command-and-control, silos, centralized planning, or stage gates). The content is exclusively concerned with Agile team performance and process improvement, without any organizational or structural framing relevant to IOM. The only tangential connection is the criticism of pseudo-predictive planning (e.g., story points in contracts), but this is not framed in terms of IOM mechanics—rather, it argues against bad Agile practices. There are no penalties, as the content is not outdated nor satirical or critical of IOM (it's simply outside of scope). The overall confidence score is extremely low due to nearly nonexistent relevance.",
+    "reasoning_summary": "This content does not fit the Industrial Operating Model category. It addresses Agile metrics and team practices, without referencing IOM concepts, assumptions, structure, or historical context.",
+    "level": "Ignored"
   }
 }

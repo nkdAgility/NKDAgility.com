@@ -3339,5 +3339,25 @@
     "reasoning": "The content focuses on deployment frequency as a general software and DevOps practice, emphasizing feedback loops and value delivery. There is no direct mention of AI product operating models, AI-specific governance, MLOps, or product lifecycle aspects unique to AI. While continuous delivery and feedback loops are relevant processes in both general and AI-specific product contexts, the discussion here does not tie those concepts to the unique requirements, roles, or challenges of operationalizing AI products. The intent is not focused on AI product management, governance, or lifecycle, but rather general deployment culture and outcomes. The audience is broadly product/DevOps oriented, not explicitly aligned with AI product strategists or practitioners.",
     "reasoning_summary": "Content discusses deployment frequency in general DevOps/product terms with no explicit AI context, operating model structures, or discussion of AI-specific challenges. It does not satisfy the scope or depth for the AI Product Operating Model category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "bzePYp2QIsI",
+    "itemId": "bzePYp2QIsI",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:27:11",
+    "ai_confidence": 8.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.8,
+    "ai_intent": 0.6,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses solely on deployment frequency—a metric associated with modern DevOps and agile practices, emphasizing rapid delivery, feedback loops, and adaptability. There is no explicit or implicit discussion of the Industrial Operating Model's structure, assumptions, or conceptual underpinnings. IOM's traits—hierarchy, stable environment, planning over adaptation—are not referenced, contrasted, or explained. The content is instead about continuous improvement and adaptability, which runs counter to IOM's predictive, stability-oriented approach. Audience alignment is low as the focus is on modern teams rather than IOM practitioners. No penalties, as the content is current and not critical of IOM.",
+    "reasoning_summary": "Content discusses modern deployment approaches, not the Industrial Operating Model. No direct or substantial conceptual overlap with IOM, making alignment very low and fit minimal; content is about adaptive, not industrial, paradigms.",
+    "level": "Ignored"
   }
 }

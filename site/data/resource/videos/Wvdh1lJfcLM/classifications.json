@@ -2562,5 +2562,25 @@
     "reasoning": "The content exclusively addresses the migration process from Team Foundation Server (TFS) to Azure DevOps, with no references to AI, machine learning, or product operating models for AI specifically. It focuses on tools, technical procedures, validation, and account alignment—topics strictly within DevOps/tooling, not the organizational or lifecycle operationalization of AI products. There are no conceptual alignments or mentions of AI, model governance, cross-functional roles relevant to AI, or continuous learning/ethical AI considerations. The audience is technical, but intent/purpose do not serve the category's definition. All scores are low, with no deduction necessary.",
     "reasoning_summary": "Content is a technical guide for migration from TFS to Azure DevOps. No discussion of AI, AI-specific governance, or operating models. It does not fit the AI Product Operating Model category in topic, intent, or theme.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "Wvdh1lJfcLM",
+    "itemId": "Wvdh1lJfcLM",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:52",
+    "ai_confidence": 7.15,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.7,
+    "ai_intent": 0.7,
+    "ai_audience": 2.3,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is a technical step-by-step guide for migrating from TFS to Azure DevOps and does not mention the Industrial Operating Model or its principles. It focuses entirely on migration mechanics, tools, and practical troubleshooting, without discussing organizational structure, hierarchy, functional silos, command-and-control, or any historical context tied to Taylorism or Scientific Management. There is no substantive discussion of what the Industrial Operating Model is, where it succeeds, or how it differs from adaptive models; nor are there explicit or implicit references to its assumptions, mechanics, or structures. The intended audience is technical practitioners executing migrations, not those seeking insight into organizational operating models. Thus, alignment, depth, and intent scores are minimal, as almost all content is off-category.",
+    "reasoning_summary": "Content is strictly a migration guide (TFS to Azure DevOps) with no mention or discussion of the Industrial Operating Model or its attributes. Intent and topics are unrelated to the category. Confidence in category fit is extremely low.",
+    "level": "Ignored"
   }
 }

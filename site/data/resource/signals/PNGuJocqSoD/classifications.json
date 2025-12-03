@@ -3448,5 +3448,25 @@
     "reasoning": "The content discusses the cost of unreleased software features and advocates for frequent delivery, referencing the CHAOS Report and DORA metrics. Nowhere does it mention AI, MLOps, or any unique aspects of an AI Product Operating Model. Its concepts align generally with continuous delivery practice but lack any reference to AI-specific products, operating models, data/model governance, or role structures unique to the AI domain. The focus remains on generic software delivery, making alignment and depth scores low. No explicit or substantial connection to the AI Product Operating Model category exists.",
     "reasoning_summary": "Content discusses generic software delivery and hidden costs of unreleased features, with no mention or exploration of AI product operating models. It lacks category fit except in superficial process alignment.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "PNGuJocqSoD",
+    "itemId": "PNGuJocqSoD",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:24:53",
+    "ai_confidence": 24.85,
+    "ai_mentions": 2.0,
+    "ai_alignment": 3.6,
+    "ai_depth": 2.2,
+    "ai_intent": 2.5,
+    "ai_audience": 6.7,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content briefly alludes to treating development 'like a factory,' hinting at work as output (a core IOM concept), but its primary intent is to critique this mindset and encourage frequent delivery. It does not substantively describe IOM mechanics, assumptions, or value; IOM is mentioned mostly as a foil. Depth, conceptual alignment, and intent are limited as the focus shifts quickly to agile/continuous delivery metrics and outcomes. There is little explicit discussion of IOM’s features or contexts where it works. The audience is relevant (possibly engineering leads), but the content is off-purpose for deep IOM understanding.",
+    "reasoning_summary": "Content references factory-like thinking as a problem but focuses on agile benefits. It lacks substantive discussion of IOM structure, intent, or value. Fit to the IOM category is minimal and mostly indirect or critical.",
+    "level": "Ignored"
   }
 }

@@ -2615,5 +2615,25 @@
     "reasoning": "The content focuses extensively on business predictability using agile principles and case studies like Microsoft's agile transformation, but there are no direct or indirect mentions of AI, AI product operating models, or any AI-specific governance, lifecycle, or organizational issues as outlined in the category definition. There is no discussion relating to data governance, model lifecycle, or unique challenges of AI-powered products. Thus, the fit is extremely weak on every dimension.",
     "reasoning_summary": "No reference to AI or AI product operating models. Content strictly addresses agile principles for predictability, not the unique operationalization, governance, or lifecycle of AI products. Does not fit the assigned category.",
     "level": "Ignored"
+  },
+  "Industrial Operating Model": {
+    "resourceId": "G1BQG2tsbYg",
+    "itemId": "G1BQG2tsbYg",
+    "category": "Industrial Operating Model",
+    "calculated_at": "2025-12-01T13:25:33",
+    "ai_confidence": 13.95,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.4,
+    "ai_intent": 1.7,
+    "ai_audience": 3.1,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses entirely on achieving predictability through Agile and adaptation. There are no direct mentions or substantive exploration of the Industrial Operating Model (IOM), its mechanics, core assumptions, or contexts where it excels. The only indirect relevance is the implicit contrast: it positions Agile principles as preferable or superior for achieving predictability. However, the post never defines IOM, describes its structure (hierarchy, standardization), its historic basis, or even uses related terminology (e.g., Taylorism, command-and-control, silos, output measurement, etc). The audience is business practitioners or leaders interested in agility, not specifically those seeking to understand the IOM. The signal is focused on how to achieve predictability in dynamic environments—not on explaining or supporting IOM. This results in extremely low scores across all dimensions, well below any threshold for confident category assignment.",
+    "reasoning_summary": "The content does not discuss or define the Industrial Operating Model and is focused on Agile as the preferred solution. It fails to meet the category inclusion definition in topic, intent, or audience.",
+    "level": "Ignored"
   }
 }
