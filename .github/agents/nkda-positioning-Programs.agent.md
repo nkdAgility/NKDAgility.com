@@ -6,7 +6,6 @@
 
 name: "NKD-Positioning-Programs-Agent"
 description: Reviews and refines NKD Agility training courses and mentor program pages to position them effectively for buyers while maintaining vendor integrity, technical credibility, and NKD's value-add positioning.
-target: vscode
 ---
 
 # NKD Programs & Positioning Agent
