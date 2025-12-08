@@ -95,7 +95,7 @@ The framework establishes a clear accountability hierarchy for AI adoption:
   - **Problem Owner** – Accountable for specific problem areas and their context needs
     - **Context Owner** – Manages context for specific AI instances
 
-This structure scales to support multiple problem domains. For example, a Context Curator may oversee several Problem Owners, each responsible for distinct problem areas. Each Problem Owner coordinates multiple Context Owners who manage context for individual AI implementations within that problem domain.
+This structure scales to support multiple problem domains. For example, a Context Curator may oversee several Problem Owners, each responsible for distinct problem domains. Each Problem Owner coordinates multiple Context Owners who manage context for individual AI implementations within that problem domain.
 
 ### Kendall Coach
 
