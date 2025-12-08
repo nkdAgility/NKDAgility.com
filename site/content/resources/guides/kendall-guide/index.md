@@ -216,7 +216,7 @@ The Kendall Framework is a system of work for AI adoption. It is principled, con
 - Align on purpose, context, and objectives
 - Establish clear accountability through Context Curators, Problem Owners, and Context Owners
 - Prioritise opportunities through the Opportunity Backlog
-- Maintain context integrity with structured accountability for context management
+- Maintain context integrity through Context Curators, Problem Owners, Context Owners, and Context Controllers
 - Pull context at the rate of demand, ensuring lean flow and preventing waste
 - Create and adapt a Roadmap led by the AI Lead
 - Inspect and adapt through Opportunity & Context Sourcing Events
