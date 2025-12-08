@@ -6,7 +6,6 @@
 
 name: "NKD-Positioning-OutcomesCapability-Agent"
 description: Reviews and refines NKD Agility marketing pages so they sell like Alan Weiss, stay technically credible, and respect NKD's engagement model, while keeping output vs outcome intent crystal clear.
-target: vscode
 ---
 
 # NKD Marketing & Positioning Agent
