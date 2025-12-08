@@ -64,12 +64,13 @@ The first principles of the Kendall Framework are foundational truths:
 
 1. **Problem Before Solution** – AI begins by addressing real, observable problems rather than chasing technology.
 2. **Context Creates Meaning** – Defined context turns generic intelligence into purposeful outcomes.
-3. **Clarity of Language** – Precise language is the raw material of AI and management alike.
-4. **Accountability Anchored in Stakeholders** – AI must serve clearly identified stakeholders.
-5. **Boundaries Enable Trust** – Values and constraints ensure dependable and ethical AI use.
-6. **Structure Builds Reliability** – Structured inputs form the basis for sustainable outcomes.
-7. **Collaboration Sustains Value** – Collective ownership and knowledge flows enable value delivery.
-8. **Continuous Improvement** – The inspect‑and‑adapt habit that ensures learning, flow, and resilience.
+3. **Pull Context at the Rate of Demand** – Context flows into AI systems as needed, driven by actual demand rather than anticipatory accumulation.
+4. **Clarity of Language** – Precise language is the raw material of AI and management alike.
+5. **Accountability Anchored in Stakeholders** – AI must serve clearly identified stakeholders.
+6. **Boundaries Enable Trust** – Values and constraints ensure dependable and ethical AI use.
+7. **Structure Builds Reliability** – Structured inputs form the basis for sustainable outcomes.
+8. **Collaboration Sustains Value** – Collective ownership and knowledge flows enable value delivery.
+9. **Continuous Improvement** – The inspect‑and‑adapt habit that ensures learning, flow, and resilience.
 
 ## How It Works
 
@@ -77,6 +78,7 @@ The Kendall Framework applies a problem‑first approach to AI. It integrates ma
 
 - **Problem‑First**: Focus on the most pressing problems, not technology.
 - **Role of Context**: Define purpose, scope, and constraints so solutions align with organisational goals.
+- **Pull‑Based Context Flow**: Context is pulled into AI systems at the rate of actual demand, avoiding waste from excessive accumulation and ensuring relevance.
 - **Collaboration**: Build shared understanding and collective ownership across disciplines.
 - **Iteration**: Govern adoption by empirical inspection and adaptation.
 - **Discovery Cadence**: Hold regular sessions (quarterly or half‑yearly) to surface problems, adapt, and rebalance flow of priorities.
@@ -113,26 +115,28 @@ They make happen:
 
 ### Context Controller
 
-The **Context Controller** is accountable for the disciplined assembly, traceability, and publishing of context for AI. A dedicated Context Controller is required for each instance of AI usage. They ensure that context is collected, structured, and versioned so it remains accurate, auditable, and valuable throughout its lifecycle.
+The **Context Controller** is accountable for the disciplined assembly, traceability, and publishing of context for AI. A dedicated Context Controller is required for each instance of AI usage. They ensure that context is collected, structured, and versioned so it remains accurate, auditable, and valuable throughout its lifecycle. They apply lean principles by enabling pull‑based context flow, delivering context as demand emerges rather than accumulating speculatively.
 
 They create impact by:
 
-- Assembling and curating context into coherent and usable blocks
+- Assembling and curating context into coherent and usable blocks on demand
 - Maintaining traceability of context sources, changes, and dependencies
 - Publishing updated context on a clear cadence for inspection and alignment
 - Supporting teams in refining and validating context contributions
+- Ensuring context flows at the rate of actual demand, limiting work in progress to maintain focus and relevance
 - Escalating unresolved inconsistencies or context gaps
 - Coaching teams to use context as a shared reference point for decisions and focus
 
 ### Context Owner(s)
 
-The **Context Owner(s)** are accountable for lean management of context for AI. A Context Owner is needed for each instance of AI usage. They facilitate capture, refinement, and maintenance of context, ensuring it remains relevant and valuable. Owners promote transparency, enable engagement, escalate blockers, and coach teams to apply context principles without excess ceremony.
+The **Context Owner(s)** are accountable for lean management of context for AI. A Context Owner is needed for each instance of AI usage. They facilitate capture, refinement, and maintenance of context, ensuring it remains relevant and valuable. Owners promote transparency, enable engagement, escalate blockers, and coach teams to apply context principles without excess ceremony. They embody pull‑based thinking by ensuring context is drawn from sources only when needed, maintaining flow and avoiding waste.
 
 They create impact by:
 
 - Enabling inspection of context, learning, and alignment on cadence
-- Supporting teams in writing and refining context blocks
+- Supporting teams in writing and refining context blocks as demand signals emerge
 - Helping teams use context to guide decisions and focus
+- Limiting context work in progress to what is immediately valuable, preventing speculative accumulation
 - Escalating unresolved impediments or misalignments
 - Supporting teams in interpreting context as shared direction
 
@@ -140,7 +144,7 @@ They create impact by:
 
 ### Opportunity & Context Sourcing Event
 
-This event aligns leaders and teams on the most effective problems to solve with AI. It functions as a feedback loop in the system of work, closing the gap between strategy, evidence, and adaptation. It emphasises clarity, discovery, and evidence‑informed prioritisation.
+This event aligns leaders and teams on the most effective problems to solve with AI. It functions as a feedback loop in the system of work, closing the gap between strategy, evidence, and adaptation. It emphasises clarity, discovery, and evidence‑informed prioritisation. By surfacing demand signals, this event enables pull‑based context flow and ensures context development remains aligned with actual needs.
 
 Outcomes include:
 
@@ -149,6 +153,7 @@ Outcomes include:
 - Clear direction for an AI roadmap
 - Evidence review of outcomes against intent
 - Learning orientation, treating surprises as signals for adaptation
+- Identification of demand signals that trigger context creation or refinement
 - Feedback loops into the Opportunity Backlog, Context Repository, and Roadmap
 
 The Kendall Coach and AI Lead co‑facilitate to ensure balance and discipline. Held on a regular cadence (quarterly or half‑yearly), it inspects and adapts objectives based on evidence and rebalances flow of priorities.
@@ -161,7 +166,7 @@ The **Opportunity Backlog** is an ordered list of potential AI opportunities. It
 
 ### Context Repository
 
-The **Context Repository** is a structured collection of validated contexts used by AI systems. It ensures consistency, relevance, and availability. The Context Owner(s) maintain the repository to prevent duplication, reduce noise, and preserve clarity.
+The **Context Repository** is a structured collection of validated contexts used by AI systems. It ensures consistency, relevance, and availability. The Context Owner(s) maintain the repository to prevent duplication, reduce noise, and preserve clarity. Following lean principles, the repository grows organically in response to demand rather than speculative accumulation. Context is pulled into the repository as needed, ensuring flow efficiency and maintaining focus on what delivers value now.
 
 ### Roadmap
 
@@ -174,6 +179,7 @@ The Kendall Framework is a system of work for AI adoption. It is principled, con
 - Align on purpose, context, and objectives
 - Prioritise opportunities through the Opportunity Backlog
 - Maintain context integrity with Context Owners and Context Controllers
+- Pull context at the rate of demand, ensuring lean flow and preventing waste
 - Create and adapt a Roadmap led by the AI Lead
 - Inspect and adapt through Opportunity & Context Sourcing Events
 - Rely on the Kendall Coach to uphold principles, expose constraints, and enable organisational learning
