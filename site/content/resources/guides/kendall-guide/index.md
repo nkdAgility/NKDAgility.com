@@ -85,11 +85,21 @@ The Kendall Framework applies a problem‑first approach to AI. It integrates ma
 
 ## Kendall Accountabilities
 
-The Kendall Framework defines accountabilities. Each may be fulfilled by one person or many, provided leadership and responsibility are clear.
+The Kendall Framework defines accountabilities. Each may be fulfilled by one person or many, provided leadership and responsibility are clear. These are accountabilities, not job titles or roles. They represent areas of responsibility that enable the framework to function effectively.
+
+### AI Leadership Accountability Structure
+
+The framework establishes a clear accountability hierarchy for AI adoption:
+
+- **Context Curator** – Provides strategic oversight across multiple problem domains
+  - **Problem Owner** – Accountable for specific problem areas and their context needs
+    - **Context Owner** – Manages context for specific AI instances
+
+This structure scales to support multiple problem domains. For example, a Context Curator may oversee several Problem Owners, each responsible for distinct problem areas. Each Problem Owner coordinates multiple Context Owners who manage context for individual AI implementations within that problem domain.
 
 ### Kendall Coach
 
-The **Kendall Coach** is accountable for helping the organisation understand and apply the framework. They mentor Context Owners and AI Leads, ensure consistency, and promote discipline in defining and refining opportunities and context. They do not manage day‑to‑day AI work but steward coherence and learning across teams.
+The **Kendall Coach** is accountable for helping the organisation understand and apply the framework. They mentor Context Curators, Problem Owners, Context Owners, and AI Leads, ensure consistency, and promote discipline in defining and refining opportunities and context. They do not manage day‑to‑day AI work but steward coherence and learning across teams.
 
 They enable:
 
@@ -100,6 +110,33 @@ They enable:
 - Surfacing systemic constraints and impediments to flow
 - Cultivating feedback loops for organisational learning
 
+### Context Curator
+
+The **Context Curator** holds strategic accountability for context coherence across multiple problem domains. They ensure that context developed for different AI implementations remains aligned with organisational strategy and maintains consistency. Rather than managing operational details, they provide oversight that enables Problem Owners to work effectively within a coherent context landscape.
+
+They enable:
+
+- Strategic alignment of context across problem domains
+- Oversight of Problem Owners and their context strategies
+- Identification of cross-domain patterns and reusable context
+- Resolution of conflicts or overlaps between problem domains
+- Connection between strategic intent and context development
+- Escalation of systemic context challenges to leadership
+
+### Problem Owner
+
+The **Problem Owner** is accountable for a specific problem domain and the context strategy required to address it effectively with AI. They coordinate Context Owners working on related AI implementations within their domain, ensuring context development remains focused on solving the identified problem. They maintain clarity on problem definition, stakeholder needs, and outcome measures.
+
+They make happen:
+
+- Clear articulation of the problem and its boundaries
+- Coordination of Context Owners within their problem domain
+- Alignment of context work with problem-solving goals
+- Visibility into progress and impediments across their domain
+- Prioritisation of context needs based on problem urgency
+- Translation of problem insights into context requirements
+- Feedback to Context Curator on strategic patterns and needs
+
 ### AI Lead
 
 The **AI Lead** drives disciplined use of the Opportunity Backlog as a tool for strategic clarity and adaptive alignment. They support expressing intent through opportunities, uncover systemic barriers, and enable outcome‑oriented decisions. They maintain rhythm around review cycles, help interpret learning, and connect strategic direction to measurable initiatives.
@@ -108,7 +145,7 @@ They make happen:
 
 - Cross‑team and executive alignment of strategic themes
 - Predictable rhythm for clarity, accountability, and feedback
-- Enabling Context Owners through guidance and coaching
+- Enabling Context Curators, Problem Owners, and Context Owners through guidance and coaching
 - Visibility into whether opportunities align with strategy
 - Identification of systemic misalignments using opportunities as signals
 - Turning opportunity results into strategy‑shaping insight through deliberate feedback
@@ -129,7 +166,7 @@ They create impact by:
 
 ### Context Owner(s)
 
-The **Context Owner(s)** are accountable for lean management of context for AI. A Context Owner is needed for each instance of AI usage. They facilitate capture, refinement, and maintenance of context, ensuring it remains relevant and valuable. Owners promote transparency, enable engagement, escalate blockers, and coach teams to apply context principles without excess ceremony. They embody pull‑based thinking by ensuring context is drawn from sources only when needed, maintaining flow and avoiding waste.
+The **Context Owner(s)** are accountable for lean management of context for specific AI instances within a problem domain. A Context Owner is needed for each instance of AI usage. Working under the coordination of a Problem Owner, they facilitate capture, refinement, and maintenance of context, ensuring it remains relevant and valuable. Owners promote transparency, enable engagement, escalate blockers, and coach teams to apply context principles without excess ceremony. They embody pull‑based thinking by ensuring context is drawn from sources only when needed, maintaining flow and avoiding waste.
 
 They create impact by:
 
@@ -177,8 +214,9 @@ The **Roadmap** is a high‑level view of prioritised AI initiatives derived fro
 The Kendall Framework is a system of work for AI adoption. It is principled, concise, and evidence‑based. By applying it, organisations:
 
 - Align on purpose, context, and objectives
+- Establish clear accountability through Context Curators, Problem Owners, and Context Owners
 - Prioritise opportunities through the Opportunity Backlog
-- Maintain context integrity with Context Owners and Context Controllers
+- Maintain context integrity with structured accountability for context management
 - Pull context at the rate of demand, ensuring lean flow and preventing waste
 - Create and adapt a Roadmap led by the AI Lead
 - Inspect and adapt through Opportunity & Context Sourcing Events
