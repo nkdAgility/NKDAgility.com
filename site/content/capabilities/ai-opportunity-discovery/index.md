@@ -40,7 +40,7 @@ sections:
 
       We help you surface your highest-impact problems, capture structured context from your teams, and build a prioritised AI roadmap that reflects real conditions and constraints.
 
-      Built on [The Kendall Framework]({{< ref "/resources/guides/kendall-guide" >}}) - a problem-first system of work for AI adoption.
+      Built on [The Kendall Framework]({{< ref "/resources/guides/kendall-guide" >}}) - a structured, data-driven methodology for problem-first AI adoption.
     list:
       - icon: fa-bullseye
         content: |
@@ -139,7 +139,7 @@ sections:
   - type: textNlist
     title: The Kendall Framework Foundation
     sideContent: |
-      This capability is built on the Kendall Framework—a system of work for thinking about AI.
+      This capability is built on the Kendall Framework—a structured, data-driven methodology designed to help organisations identify and prioritise AI opportunities effectively.
 
       The framework provides structure for problem-first AI adoption: defined accountabilities, structured artefacts, regular discovery events, and clear prioritisation methods.
 

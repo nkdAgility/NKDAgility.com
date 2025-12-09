@@ -50,7 +50,7 @@ ResourceType: guides
 
 ## Kendall Framework Purpose & Definition
 
-The Kendall Framework is a system of work for thinking about AI. Its single purpose is to answer: **“Where do we start with AI?”** It provides clarity and discipline in approaching AI adoption, ensuring organisations focus on problems and outcomes rather than technology trends. It does not prescribe specific tools or architectures. Instead, it directs organisations to identify, articulate, and prioritise AI opportunities through problem‑first, context‑driven, and collaborative practices. It emphasises flow of information, decisions, and value, guided by empirical inspection and adaptation.
+The Kendall Framework is a structured, data-driven methodology designed to help organisations identify and prioritise AI opportunities effectively. Its single purpose is to answer: **“Where do we start with AI?”** It provides clarity and discipline in approaching AI adoption, ensuring organisations focus on problems and outcomes rather than technology trends. It does not prescribe specific tools or architectures. Instead, it directs organisations to identify, articulate, and prioritise AI opportunities through problem‑first, context‑driven, and collaborative practices. It emphasises flow of information, decisions, and value, guided by empirical inspection and adaptation.
 
 The Kendall Framework is not intended to represent a complete system. It defines boundaries and focus, and it expects to be complemented by other practices that ensure delivery discipline, modern engineering, effective team collaboration, and observability.
 
@@ -181,7 +181,7 @@ They create impact by:
 
 ### Opportunity & Context Sourcing Event
 
-This event aligns leaders and teams on the most effective problems to solve with AI. It functions as a feedback loop in the system of work, closing the gap between strategy, evidence, and adaptation. It emphasises clarity, discovery, and evidence‑informed prioritisation. By surfacing demand signals, this event enables pull‑based context flow and ensures context development remains aligned with actual needs.
+This event aligns leaders and teams on the most effective problems to solve with AI. It functions as a feedback loop in the methodology, closing the gap between strategy, evidence, and adaptation. It emphasises clarity, discovery, and evidence‑informed prioritisation. By surfacing demand signals, this event enables pull‑based context flow and ensures context development remains aligned with actual needs.
 
 Outcomes include:
 
@@ -211,7 +211,7 @@ The **Roadmap** is a high‑level view of prioritised AI initiatives derived fro
 
 ## Summary
 
-The Kendall Framework is a system of work for AI adoption. It is principled, concise, and evidence‑based. By applying it, organisations:
+The Kendall Framework is a structured, data-driven methodology for AI adoption. It is principled, concise, and evidence‑based. By applying it, organisations:
 
 - Align on purpose, context, and objectives
 - Establish clear accountability through Context Curators, Problem Owners, and Context Owners
