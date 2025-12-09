@@ -139,7 +139,7 @@ sections:
   - type: textNlist
     title: The Kendall Framework Foundation
     sideContent: |
-      This capability is built on the Kendall Framework—a system of work for thinking about AI.
+      This capability is built on the Kendall Framework—a structured, data-driven methodology designed to help organisations identify and prioritise AI opportunities effectively.
 
       The framework provides structure for problem-first AI adoption: defined accountabilities, structured artefacts, regular discovery events, and clear prioritisation methods.
 
