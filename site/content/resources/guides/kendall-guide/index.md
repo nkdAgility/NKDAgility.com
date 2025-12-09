@@ -246,6 +246,24 @@ Outcomes include:
 
 The Kendall Coach and AI Lead co‑facilitate to ensure balance and discipline. Held on a regular cadence (quarterly or half‑yearly), it inspects and adapts objectives based on evidence and rebalances flow of priorities.
 
+### Context 360 Workshop
+
+The Context 360 workshop is the structured discovery session inside the Kendall Framework. Its purpose is to capture the operational reality of the organisation so AI can perform reliably in that environment. It brings together the people who understand how work actually flows and guides them through a fast, disciplined process for surfacing the context that any AI solution needs.
+
+Across the session, participants identify the real problems worth solving, map the roles involved, and expose the rules, policies, workflows, and constraints that shape daily operations. By the end, the team has a clear and shared understanding of how the work works, what outcomes matter, and what information AI must be grounded in to be safe, accurate, and useful.
+
+The output of the workshop is a structured "Context Bill of Materials." This becomes the foundation for AI Operations, ensuring that any future AI solution is built on clarity instead of assumptions.
+
+Outcomes include:
+
+- A prioritised list of meaningful problems worth addressing with AI
+- A shared operational picture across roles and functions
+- Clear articulation of policies, rules, boundaries, and exceptions
+- A well-structured context package ready for AI Operations
+- Confidence that any AI solution will be embedded in real organisational reality
+
+Context 360 ensures that organisations do not jump to building agents prematurely. It anchors AI work in the environment it must operate within, which is the heart of reliable and repeatable AI outcomes.
+
 ## Artifacts
 
 ### Opportunity Backlog
