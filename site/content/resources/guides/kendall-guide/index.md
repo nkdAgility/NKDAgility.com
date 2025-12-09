@@ -181,7 +181,7 @@ They create impact by:
 
 ### Opportunity & Context Sourcing Event
 
-This event aligns leaders and teams on the most effective problems to solve with AI. It functions as a feedback loop in the system of work, closing the gap between strategy, evidence, and adaptation. It emphasises clarity, discovery, and evidence‑informed prioritisation. By surfacing demand signals, this event enables pull‑based context flow and ensures context development remains aligned with actual needs.
+This event aligns leaders and teams on the most effective problems to solve with AI. It functions as a feedback loop in the methodology, closing the gap between strategy, evidence, and adaptation. It emphasises clarity, discovery, and evidence‑informed prioritisation. By surfacing demand signals, this event enables pull‑based context flow and ensures context development remains aligned with actual needs.
 
 Outcomes include:
 
