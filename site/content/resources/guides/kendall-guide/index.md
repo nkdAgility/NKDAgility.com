@@ -50,6 +50,9 @@ ResourceType: guides
 
 ## Kendall Framework Purpose & Definition
 
+AI adoption is no longer an option but a necessity. The Kendall Framework solves the "Where to Start?" challenge by enabling teams to align on AI opportunities, prioritise their most impactful problems, and create a clear roadmap for AI deployment.
+
+
 The Kendall Framework is a structured, data-driven methodology designed to help organisations identify and prioritise AI opportunities effectively. Its single purpose is to answer: **“Where do we start with AI?”** It provides clarity and discipline in approaching AI adoption, ensuring organisations focus on problems and outcomes rather than technology trends. It does not prescribe specific tools or architectures. Instead, it directs organisations to identify, articulate, and prioritise AI opportunities through problem‑first, context‑driven, and collaborative practices. It emphasises flow of information, decisions, and value, guided by empirical inspection and adaptation.
 
 The Kendall Framework is not intended to represent a complete system. It defines boundaries and focus, and it expects to be complemented by other practices that ensure delivery discipline, modern engineering, effective team collaboration, and observability.
@@ -58,30 +61,78 @@ The Kendall Framework is not intended to represent a complete system. It defines
 
 The Kendall Framework can be applied by organisations, teams, entrepreneurs, and governments seeking clarity on how to approach AI adoption. It is suitable for any domain where complex challenges require principled prioritisation, flow‑based thinking, and structured learning.
 
-## First Principles of the Kendall Framework
+## Seven Principles (and One Habit) of AI Leadership
 
-The first principles of the Kendall Framework are foundational truths:
+A practical framework for building high-performance AI systems, through clarity, context, collaboration, and a culture that never stops evolving.
 
-1. **Problem Before Solution** – AI begins by addressing real, observable problems rather than chasing technology.
-2. **Context Creates Meaning** – Defined context turns generic intelligence into purposeful outcomes.
-3. **Pull Context at the Rate of Demand** – Context flows into AI systems as needed, driven by actual demand rather than anticipatory accumulation.
-4. **Clarity of Language** – Precise language is the raw material of AI and management alike.
-5. **Accountability Anchored in Stakeholders** – AI must serve clearly identified stakeholders.
-6. **Boundaries Enable Trust** – Values and constraints ensure dependable and ethical AI use.
-7. **Structure Builds Reliability** – Structured inputs form the basis for sustainable outcomes.
-8. **Collaboration Sustains Value** – Collective ownership and knowledge flows enable value delivery.
-9. **Continuous Improvement** – The inspect‑and‑adapt habit that ensures learning, flow, and resilience.
+### 1. Context is King
+
+AI only becomes truly useful when it understands you. Structured context turns generic intelligence into tailored performance. Defined context transforms broad capability into purposeful outcomes that serve your organisation's specific needs.
+
+**Application:** Define purpose, scope, and constraints so solutions align with organisational goals. Pull context into AI systems at the rate of actual demand, avoiding waste from excessive accumulation and ensuring relevance.
+
+### 2. Language is the Raw Material of AI
+
+In AI, language isn't just how you communicate—it's the material you build with. The sharper it is, the stronger your results. Precise language is the raw material of AI and management alike. Clarity of expression creates clarity of outcomes.
+
+**Application:** Use precise, unambiguous language when defining problems, context, and requirements. Invest in articulating constraints, boundaries, and success criteria clearly.
+
+### 3. Problems Fuel AI
+
+AI isn't magic; it's momentum. Give it a real problem, and it turns complexity into breakthroughs. AI begins by addressing real, observable problems rather than chasing technology for its own sake.
+
+**Application:** Start with the problem, not the solution. Focus on the most pressing challenges, not technology trends. Let demand signal where AI creates value.
+
+### 4. "Who" Anchors AI
+
+AI gets sharper, faster, and more useful when you start with who it's speaking for. AI must serve clearly identified stakeholders with specific needs and contexts. Accountability must be anchored in those who benefit from and guide the AI's work.
+
+**Application:** Identify stakeholders explicitly. Define their needs, perspectives, and success measures. Ensure AI systems are accountable to those they serve.
+
+### 5. AI Needs to Know Your Rules to Play Your Game
+
+AI can't follow your rules until you teach it the playbook. Your policies, values, and boundaries turn it from a wildcard into a trusted teammate. Values and constraints ensure dependable and ethical AI use.
+
+**Application:** Make organisational policies, values, and constraints explicit. Build them into the context AI uses. Establish boundaries that ensure trust and compliance.
+
+### 6. Assemble AI Like a Truck
+
+AI thrives not on scattered insights but on well-structured inputs. The path from prototype to performance is built block by block. Structured inputs form the basis for sustainable outcomes and reliable systems.
+
+**Application:** Collect, structure, and version context systematically. Build context repositories that are coherent, traceable, and maintainable. Limit work in progress to maintain focus and relevance.
+
+### 7. AI is a Team Sport
+
+The smartest AI comes from shared intelligence. When teams align, structure their knowledge, and build context together, everyone wins. Collective ownership and knowledge flows enable sustained value delivery.
+
+**Application:** Foster collaboration across disciplines. Build shared understanding and collective ownership. Enable cross-functional teams to contribute to context and problem definition.
+
+### The One Habit: Continuous Improvement is Non-Negotiable
+
+AI excellence isn't a one-time win—it's a habit, built through constant learning, iteration, and a culture that never stops evolving. The inspect‑and‑adapt habit ensures learning, flow, and resilience.
+
+**Application:** Establish regular discovery cadences. Hold Opportunity & Context Sourcing Events quarterly or half-yearly. Inspect outcomes against intent. Treat surprises as signals for adaptation. Maintain rhythm around review cycles to ensure continuous learning and adaptive alignment.
 
 ## How It Works
 
-The Kendall Framework applies a problem‑first approach to AI. It integrates management clarity, systems thinking, and iterative improvement to ensure adoption creates measurable value.
+The Kendall Framework adapts the best of Lean manufacturing, design thinking, and Agile philosophy for today's AI challenges. It applies a problem‑first approach through a team-based methodology that integrates management clarity, systems thinking, and iterative improvement to ensure adoption creates measurable value.
 
-- **Problem‑First**: Focus on the most pressing problems, not technology.
-- **Role of Context**: Define purpose, scope, and constraints so solutions align with organisational goals.
+### Team-Based Approach
+
+The framework thrives on collaboration and shared intelligence:
+
+- **Problem‑First Focus**: Workshops concentrate on defining and prioritising problems, ensuring that AI investments align with real needs, reducing waste, and maximising returns.
+- **AI Roles and Problem Identification**: Participants define their roles and articulate problems from their unique perspectives. This data-driven approach ensures all voices are heard and key issues are accurately captured.
+- **Team Collaborative Scoring**: Participants vote on which problems should be solved first, resulting in clear, shared understanding of priorities.
+- **Human-in-the-Loop AI Training**: Data generated through workshops is used to train AI models, create high-fidelity datasets, and improve AI solutions in real-time.
+
+### Core Mechanisms
+
+- **Context as Foundation**: Define purpose, scope, and constraints so solutions align with organisational goals.
 - **Pull‑Based Context Flow**: Context is pulled into AI systems at the rate of actual demand, avoiding waste from excessive accumulation and ensuring relevance.
-- **Collaboration**: Build shared understanding and collective ownership across disciplines.
-- **Iteration**: Govern adoption by empirical inspection and adaptation.
-- **Discovery Cadence**: Hold regular sessions (quarterly or half‑yearly) to surface problems, adapt, and rebalance flow of priorities.
+- **Structured Collaboration**: Build shared understanding and collective ownership across disciplines.
+- **Empirical Governance**: Guide adoption through inspection and adaptation, not prediction.
+- **Discovery Cadence**: Hold regular Opportunity & Context Sourcing Events (quarterly or half‑yearly) to surface problems, adapt, and rebalance flow of priorities.
 
 ## Kendall Accountabilities
 
