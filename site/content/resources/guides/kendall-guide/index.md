@@ -150,7 +150,7 @@ This structure scales to support multiple problem domains. For example, a Contex
 
 ### Kendall Coach
 
-The **Kendall Coach** is accountable for helping the organisation understand and apply the framework. They mentor Context Curators, Problem Owners, Context Owners, and AI Leads, ensure consistency, and promote discipline in defining and refining opportunities and context. They do not manage day‑to‑day AI work but steward coherence and learning across teams.
+The **Kendall Coach** is accountable for helping the organisation understand and apply the framework. They mentor Context Curators, Problem Owners, Context Owners, and Opportunity Owners, ensure consistency, and promote discipline in defining and refining opportunities and context. They do not manage day‑to‑day AI work but steward coherence and learning across teams.
 
 They enable:
 
@@ -163,7 +163,7 @@ They enable:
 
 ### Context Curator
 
-The **Context Curator** holds strategic accountability for context coherence across multiple problem domains. They ensure that context developed for different AI implementations remains aligned with organisational strategy and maintains consistency. Rather than managing operational details, they provide oversight that enables Problem Owners to work effectively within a coherent context landscape.
+The **Context Curator** holds strategic accountability for context coherence across multiple problem domains. They ensure that context developed for different AI implementations remains aligned with organisational strategy and maintains consistency. Rather than managing operational details, they provide oversight that enables Problem Owners to work effectively within a coherent context landscape. They are also accountable for the disciplined assembly, traceability, and publishing of context for AI, ensuring that context is collected, structured, and versioned so it remains accurate, auditable, and valuable throughout its lifecycle. They apply lean principles by enabling pull‑based context flow, delivering context as demand emerges rather than accumulating speculatively.
 
 They enable:
 
@@ -173,6 +173,13 @@ They enable:
 - Resolution of conflicts or overlaps between problem domains
 - Connection between strategic intent and context development
 - Escalation of systemic context challenges to leadership
+- Assembling and curating context into coherent and usable blocks on demand
+- Maintaining traceability of context sources, changes, and dependencies
+- Publishing updated context on a clear cadence for inspection and alignment
+- Supporting teams in refining and validating context contributions
+- Ensuring context flows at the rate of actual demand, limiting work in progress to maintain focus and relevance
+- Escalating unresolved inconsistencies or context gaps
+- Coaching teams to use context as a shared reference point for decisions and focus
 
 ### Problem Owner
 
@@ -188,9 +195,9 @@ They make happen:
 - Translation of problem insights into context requirements
 - Feedback to Context Curator on strategic patterns and needs
 
-### AI Lead
+### Opportunity Owner
 
-The **AI Lead** drives disciplined use of the Opportunity Backlog as a tool for strategic clarity and adaptive alignment. They support expressing intent through opportunities, uncover systemic barriers, and enable outcome‑oriented decisions. They maintain rhythm around review cycles, help interpret learning, and connect strategic direction to measurable initiatives.
+The **Opportunity Owner** drives disciplined use of the Opportunity Backlog as a tool for strategic clarity and adaptive alignment. They support expressing intent through opportunities, uncover systemic barriers, and enable outcome‑oriented decisions. They maintain rhythm around review cycles, help interpret learning, and connect strategic direction to measurable initiatives.
 
 They make happen:
 
@@ -200,20 +207,6 @@ They make happen:
 - Visibility into whether opportunities align with strategy
 - Identification of systemic misalignments using opportunities as signals
 - Turning opportunity results into strategy‑shaping insight through deliberate feedback
-
-### Context Controller
-
-The **Context Controller** is accountable for the disciplined assembly, traceability, and publishing of context for AI. A dedicated Context Controller is required for each instance of AI usage. They ensure that context is collected, structured, and versioned so it remains accurate, auditable, and valuable throughout its lifecycle. They apply lean principles by enabling pull‑based context flow, delivering context as demand emerges rather than accumulating speculatively.
-
-They create impact by:
-
-- Assembling and curating context into coherent and usable blocks on demand
-- Maintaining traceability of context sources, changes, and dependencies
-- Publishing updated context on a clear cadence for inspection and alignment
-- Supporting teams in refining and validating context contributions
-- Ensuring context flows at the rate of actual demand, limiting work in progress to maintain focus and relevance
-- Escalating unresolved inconsistencies or context gaps
-- Coaching teams to use context as a shared reference point for decisions and focus
 
 ### Context Owner(s)
 
@@ -244,7 +237,7 @@ Outcomes include:
 - Identification of demand signals that trigger context creation or refinement
 - Feedback loops into the Opportunity Backlog, Context Repository, and Roadmap
 
-The Kendall Coach and AI Lead co‑facilitate to ensure balance and discipline. Held on a regular cadence (quarterly or half‑yearly), it inspects and adapts objectives based on evidence and rebalances flow of priorities.
+The Kendall Coach and Opportunity Owner co‑facilitate to ensure balance and discipline. Held on a regular cadence (quarterly or half‑yearly), it inspects and adapts objectives based on evidence and rebalances flow of priorities.
 
 ### Context 360 Workshop
 
@@ -268,15 +261,15 @@ Context 360 ensures that organisations do not jump to building agents prematurel
 
 ### Opportunity Backlog
 
-The **Opportunity Backlog** is an ordered list of potential AI opportunities. It is refined through discovery events and maintained by the AI Lead to ensure relevance and clarity. It provides visibility, supports prioritisation, and informs where to apply AI.
+The **Opportunity Backlog** is an ordered list of potential AI opportunities. It is refined through discovery events and maintained by the Opportunity Owner to ensure relevance and clarity. It provides visibility, supports prioritisation, and informs where to apply AI.
 
 ### Context Repository
 
-The **Context Repository** is a structured collection of validated contexts used by AI systems. It ensures consistency, relevance, and availability. The Context Owner(s) maintain the repository to prevent duplication, reduce noise, and preserve clarity. Following lean principles, the repository grows organically in response to demand rather than speculative accumulation. Context is pulled into the repository as needed, ensuring flow efficiency and maintaining focus on what delivers value now.
+The **Context Repository** is a structured collection of validated contexts used by AI systems. It ensures consistency, relevance, and availability. The Context Curator maintains the repository to prevent duplication, reduce noise, and preserve clarity. Following lean principles, the repository grows organically in response to demand rather than speculative accumulation. Context is pulled into the repository as needed, ensuring flow efficiency and maintaining focus on what delivers value now.
 
 ### Roadmap
 
-The **Roadmap** is a high‑level view of prioritised AI initiatives derived from the Opportunity Backlog. It communicates intent, sequence, and focus areas without prescribing detailed implementation. The AI Lead owns the Roadmap, ensuring it reflects priorities and remains evidence‑based and adaptive.
+The **Roadmap** is a high‑level view of prioritised AI initiatives derived from the Opportunity Backlog. It communicates intent, sequence, and focus areas without prescribing detailed implementation. The Opportunity Owner owns the Roadmap, ensuring it reflects priorities and remains evidence‑based and adaptive.
 
 ## Summary
 
@@ -285,9 +278,9 @@ The Kendall Framework is a structured, data-driven framework for AI adoption. It
 - Align on purpose, context, and objectives
 - Establish clear accountability through Context Curators, Problem Owners, and Context Owners
 - Prioritise opportunities through the Opportunity Backlog
-- Maintain context integrity through Context Curators, Problem Owners, Context Owners, and Context Controllers
+- Maintain context integrity through Context Curators, Problem Owners, and Context Owners
 - Pull context at the rate of demand, ensuring lean flow and preventing waste
-- Create and adapt a Roadmap led by the AI Lead
+- Create and adapt a Roadmap led by the Opportunity Owner
 - Inspect and adapt through Opportunity & Context Sourcing Events
 - Rely on the Kendall Coach to uphold principles, expose constraints, and enable organisational learning
 
