@@ -150,7 +150,7 @@ This structure scales to support multiple problem domains. For example, a Contex
 
 ### Kendall Coach
 
-The **Kendall Coach** is accountable for helping the organisation understand and apply the framework. They mentor Context Curators, Problem Owners, Context Owners, and Opportunity Owners, ensure consistency, and promote discipline in defining and refining opportunities and context. They do not manage day‑to‑day AI work but steward coherence and learning across teams.
+The **Kendall Coach** is accountable for helping the organisation understand and apply the framework. They mentor Context Curators, Problem Owners, Context Owners, and the Opportunity Owner, ensure consistency, and promote discipline in defining and refining opportunities and context. At scale, where multiple Opportunity Backlogs exist, the Kendall Coach may work with multiple Opportunity Owners, each accountable for their specific backlog. They do not manage day‑to‑day AI work but steward coherence and learning across teams.
 
 They enable:
 
@@ -197,9 +197,9 @@ They make happen:
 
 ### Opportunity Owner
 
-The **Opportunity Owner** drives disciplined use of the Opportunity Backlog as a tool for strategic clarity and adaptive alignment. They support expressing intent through opportunities, uncover systemic barriers, and enable outcome‑oriented decisions. They maintain rhythm around review cycles, help interpret learning, and connect strategic direction to measurable initiatives.
+The **Opportunity Owner** drives disciplined use of the Opportunity Backlog as a tool for strategic clarity and adaptive alignment. A single Opportunity Owner is accountable for each Opportunity Backlog, ensuring clear ownership and ordering of priorities. The Opportunity Owner supports expressing intent through opportunities, uncovers systemic barriers, and enables outcome‑oriented decisions. They maintain rhythm around review cycles, help interpret learning, and connect strategic direction to measurable initiatives.
 
-They make happen:
+The Opportunity Owner makes happen:
 
 - Cross‑team and executive alignment of strategic themes
 - Predictable rhythm for clarity, accountability, and feedback
