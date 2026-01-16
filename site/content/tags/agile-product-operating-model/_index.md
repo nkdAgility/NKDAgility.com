@@ -89,11 +89,12 @@ The Agile Product Operating Model (APOM) is an operating model that combines con
 
 ## Hierarchy
 
-- **Parent**: [Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}}) - The foundational structure for organizations operating in uncertainty and complexity
-- **Grandparent**: [Operating Model]({{< ref "/tags/operating-model" >}}) - The fundamental "way we work" across the organization
-- **Siblings** (at the same level):
-  - [Product Operating Model]({{< ref "/tags/product-operating-model" >}}) - Specialization for product-centric organizations
-  - [AI Product Operating Model]({{< ref "/tags/ai-product-operating-model" >}}) - Specialization for AI-powered product delivery
+- [Operating Model]({{< ref "/tags/operating-model" >}})
+  - [Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}}) - Designed for environments with uncertainty, complexity, and continuous change
+    - [Product Operating Model]({{< ref "/tags/product-operating-model" >}}) - Specialization for organizations delivering value through products
+    - **Agile Product Operating Model**
+    - [AI Product Operating Model]({{< ref "/tags/ai-product-operating-model" >}}) - For AI-powered product delivery
+  - [Predictive Operating Model]({{< ref "/tags/predictive-operating-model" >}}) - Built on hierarchical structures, standardized processes, and efficiency optimization
 
 ## Shifting from Project to Product Ethos
 

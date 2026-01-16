@@ -56,8 +56,12 @@ The Predictive Operating Model represents the established approach to organizing
 
 ## Hierarchy
 
-- **Parent**: [Operating Model]({{< ref "/tags/operating-model" >}}) - The fundamental "way we work" across the organization
-- **Historical Roots**: This model emerged from the **Industrial Revolution** and **Scientific Management Method** (Taylorism), which established the foundations for hierarchical structures, functional specialization, and efficiency-focused work organization.
+- [Operating Model]({{< ref "/tags/operating-model" >}})
+  - [Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}}) - Designed for environments with uncertainty, complexity, and continuous change
+    - [Product Operating Model]({{< ref "/tags/product-operating-model" >}}) - Specialization for organizations delivering value through products
+    - [Agile Product Operating Model]({{< ref "/tags/agile-product-operating-model" >}}) - Integrating agile methodologies with product management
+    - [AI Product Operating Model]({{< ref "/tags/ai-product-operating-model" >}}) - For AI-powered product delivery
+  - **Predictive Operating Model** - Historical foundation: Industrial Revolution and Scientific Management Method (Taylorism)
 
 ## Core Assumptions and Underlying Beliefs
 

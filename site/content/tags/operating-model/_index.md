@@ -60,14 +60,12 @@ An operating model defines the essential structure and mechanisms by which an or
 
 ## Operating Model Hierarchy
 
-Operating models can be categorized based on their core assumptions about how organizations create and deliver value:
-
-- **[Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}})**: Designed for environments characterized by uncertainty, complexity, and continuous change. Built around learning, fast feedback, and decentralized decision-making.
-  - **[Product Operating Model]({{< ref "/tags/product-operating-model" >}})**: A specialization of the adaptive approach for organizations delivering value through products.
-  - **[Agile Product Operating Model]({{< ref "/tags/agile-product-operating-model" >}})**: A specialization integrating agile methodologies with product management principles for iterative value delivery.
-  - **[AI Product Operating Model]({{< ref "/tags/ai-product-operating-model" >}})**: A specialization for organizations delivering value through AI-powered products, addressing unique AI-specific concerns.
-
-- **[Predictive Operating Model]({{< ref "/tags/predictive-operating-model" >}})**: The established approach built on hierarchical structures, standardized processes, and efficiency optimization. Assumes stable, predictable environments where demand changes slowly and work can be specified upfront. Rooted in Industrial Revolution manufacturing principles and Scientific Management methodology.
+- **Operating Model**
+  - **[Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}})** - Designed for environments with uncertainty, complexity, and continuous change
+    - [Product Operating Model]({{< ref "/tags/product-operating-model" >}}) - Specialization for organizations delivering value through products
+    - [Agile Product Operating Model]({{< ref "/tags/agile-product-operating-model" >}}) - Integrating agile methodologies with product management
+    - [AI Product Operating Model]({{< ref "/tags/ai-product-operating-model" >}}) - For AI-powered product delivery
+  - **[Predictive Operating Model]({{< ref "/tags/predictive-operating-model" >}})** - Built on hierarchical structures, standardized processes, and efficiency optimization
 
 ## Understanding Operating Models
 

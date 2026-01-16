@@ -80,11 +80,12 @@ A product operating model defines the foundational structure for how an organiza
 
 ## Hierarchy
 
-- **Parent**: [Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}}) - The foundational structure for organizations operating in uncertainty and complexity
-- **Grandparent**: [Operating Model]({{< ref "/tags/operating-model" >}}) - The fundamental "way we work" across the organization
-- **Siblings** (at the same level):
-  - [Agile Product Operating Model]({{< ref "/tags/agile-product-operating-model" >}}) - Specialization integrating agile methodologies with product management
-  - [AI Product Operating Model]({{< ref "/tags/ai-product-operating-model" >}}) - Specialization for AI-powered product delivery
+- [Operating Model]({{< ref "/tags/operating-model" >}})
+  - [Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}}) - Designed for environments with uncertainty, complexity, and continuous change
+    - **Product Operating Model**
+    - [Agile Product Operating Model]({{< ref "/tags/agile-product-operating-model" >}}) - Integrating agile methodologies with product management
+    - [AI Product Operating Model]({{< ref "/tags/ai-product-operating-model" >}}) - For AI-powered product delivery
+  - [Predictive Operating Model]({{< ref "/tags/predictive-operating-model" >}}) - Built on hierarchical structures, standardized processes, and efficiency optimization
 
 ## The Purpose of a Product Operating Model
 

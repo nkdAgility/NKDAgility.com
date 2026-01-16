@@ -27,11 +27,12 @@ An adaptive operating model is not a set of practices or a delivery framework. I
 
 ## Hierarchy
 
-- **Parent**: [Operating Model]({{< ref "/tags/operating-model" >}}) - The fundamental "way we work" across the organization
-- **Children** (all at the same level):
-  - [Product Operating Model]({{< ref "/tags/product-operating-model" >}}) - Specialization for product-centric organizations
-  - [Agile Product Operating Model]({{< ref "/tags/agile-product-operating-model" >}}) - Specialization integrating agile methodologies with product management
-  - [AI Product Operating Model]({{< ref "/tags/ai-product-operating-model" >}}) - Specialization for AI-powered product delivery
+- [Operating Model]({{< ref "/tags/operating-model" >}})
+  - **Adaptive Operating Model**
+    - [Product Operating Model]({{< ref "/tags/product-operating-model" >}}) - Specialization for organizations delivering value through products
+    - [Agile Product Operating Model]({{< ref "/tags/agile-product-operating-model" >}}) - Integrating agile methodologies with product management
+    - [AI Product Operating Model]({{< ref "/tags/ai-product-operating-model" >}}) - For AI-powered product delivery
+  - [Predictive Operating Model]({{< ref "/tags/predictive-operating-model" >}}) - Built on hierarchical structures, standardized processes, and efficiency optimization
 
 ## Core Characteristics
 
