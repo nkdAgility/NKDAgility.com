@@ -43,7 +43,7 @@ Instructions: |-
   Classify content here only if it provides substantive insight into how organizations design, implement, and evolve their Agile Product Operating Model as a specialized approach to product-centric value delivery, integrating agile methodologies with product management principles, in alignment with recognized agile and product management authorities. For general product operating model discussions that don't specifically emphasize agile integration, use the Product Operating Model tag instead.
 headline:
   cards: []
-  title: 'Agile Product Operating Model (APOM): Aligning Teams for Continuous Value Delivery'
+  title: "Agile Product Operating Model (APOM): Aligning Teams for Continuous Value Delivery"
   subtitle: An operating model aligning product strategy, continuous value delivery, evidence-based decisions, and organisational responsiveness to customer and market dynamics through agile principles
   content: A structured approach that integrates contemporary product management practices with iterative delivery methods, enabling organisations to continuously deliver customer value. It emphasises outcome-driven decision-making, clear governance, adaptive roadmaps, operational transparency, and measurable performance, fostering responsiveness to market dynamics and alignment with strategic business objectives.
   updated: 2025-05-23T23:21:11Z
@@ -83,11 +83,11 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
-
 ---
+
 The Agile Product Operating Model (APOM) is an operating model that combines contemporary product management strategies with agile ways of working, providing organisations with a solid basis for consistently delivering value. As a specialization of the [Product Operating Model]({{< ref "/tags/product-operating-model" >}}), APOM is specifically designed for organizations adopting agile methodologies. It embodies a product ethos, aligning the entire organisation around well-defined and measurable outcomes.
 
-## Hierarchy
+## Operating Model Etymology
 
 - [Operating Model]({{< ref "/tags/operating-model" >}})
   - [Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}}) - Designed for environments with uncertainty, complexity, and continuous change

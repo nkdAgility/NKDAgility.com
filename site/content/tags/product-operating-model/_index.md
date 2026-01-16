@@ -78,7 +78,7 @@ weight: 1000
 
 A product operating model defines the foundational structure for how an organization consistently delivers value through its products. It sets out the roles, responsibilities, processes, and enabling technologies that connect product strategy to execution, ensuring teams have the clarity and autonomy needed to make decisions and adapt quickly.
 
-## Hierarchy
+## Operating Model Etymology
 
 - [Operating Model]({{< ref "/tags/operating-model" >}})
   - [Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}}) - Designed for environments with uncertainty, complexity, and continuous change

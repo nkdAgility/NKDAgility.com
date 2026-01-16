@@ -54,7 +54,7 @@ weight: 1000
 
 The Predictive Operating Model represents the established approach to organizing work that emerged from the industrial revolution and scientific management principles. It is the model that most companies still use today, built on the core assumption that the environment is predictable enough that organizations succeed through efficiency, standardization, and control. This model has proven highly effective in stable, predictable environments where the goal is to optimize repeatable processes at scale.
 
-## Hierarchy
+## Operating Model Etymology
 
 - [Operating Model]({{< ref "/tags/operating-model" >}})
   - [Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}}) - Designed for environments with uncertainty, complexity, and continuous change

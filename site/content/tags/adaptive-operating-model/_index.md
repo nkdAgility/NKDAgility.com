@@ -24,7 +24,7 @@ The core premise is simple: when outcomes cannot be reliably known in advance, t
 
 An adaptive operating model is not a set of practices or a delivery framework. It is the structural foundation that makes adaptation possible at scale.
 
-## Hierarchy
+## Operating Model Etymology
 
 - [Operating Model]({{< ref "/tags/operating-model" >}})
   - **Adaptive Operating Model**
