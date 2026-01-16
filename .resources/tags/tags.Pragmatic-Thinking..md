@@ -36,11 +36,19 @@ sitemap:
 BodyContentGenDate: 2025-04-09T14:49:14
 icon: fa-lightbulb-on
 concepts:
-- Capability
-categories: []
+  - Principle
+categories:
+  - Product Development
 tags:
-- Continuous Learning
-- Miscellaneous
+  - Miscellaneous
+  - Continuous Improvement
+  - Continuous Learning
+ItemId: c1US5zvP1Mb
+ResourceId: c1US5zvP1Mb
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Pragmatic Thinking is the application of practical, experience-based problem-solving in complex environments, enabling teams to navigate challenges effectively. This approach prioritises actionable insights over theoretical constructs, fostering a mindset that values real-world applicability. By focusing on what works in practice, teams can adapt their strategies to deliver value predictably and sustainably.

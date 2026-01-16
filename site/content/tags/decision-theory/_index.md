@@ -35,7 +35,7 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:03:52
 icon: fa-dice-six
 concepts:
-  - Strategy
+  - Philosophy
 categories: []
 tags:
   - Decision Making

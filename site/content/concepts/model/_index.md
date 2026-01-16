@@ -26,7 +26,7 @@ Instructions: |-
   - Misinterpretations of their application or relevance in Agile, DevOps, or Lean philosophies.
 headline:
   cards: []
-  title: "Model: Simplifying Complexity to Enhance Agile Decision-Making"
+  title: 'Model: Simplifying Complexity to Enhance Agile Decision-Making'
   subtitle: Conceptual representations that simplify complexity, clarify system dynamics, inform decisions, and enable effective collaboration and continuous improvement.
   content: A model provides a simplified conceptual representation of complex systems or problems, enabling teams to visualise relationships, processes, and outcomes clearly. It supports informed decision-making, effective communication, systems thinking, and continuous improvement by highlighting underlying dynamics, structural relationships, and opportunities for optimising value delivery and organisational adaptability.
   updated: 2025-05-23T23:27:29Z
@@ -40,8 +40,8 @@ ItemType: concepts
 ResourceType: concepts
 ItemKind: classification
 ItemContentOrigin: human
----
 
+---
 A **model** serves as a **conceptual representation** that helps teams understand and analyse complex systems or problems. By distilling intricate dynamics into simpler, more manageable forms, models provide clarity, enabling teams to visualise relationships, processes, and outcomes. This clarity fosters **effective communication** and **collaboration**, offering a shared framework for discussing challenges and opportunities.
 
 Models are particularly significant in **Agile**, **Lean**, and **DevOps** environments, where change is rapid and adaptability is crucial. For instance, frameworks like the **Cynefin Framework** help teams identify the complexity of problems and determine the most appropriate response, whether simple, complicated, complex, or chaotic. Similarly, the **Three Ways of DevOps** model optimises software delivery by visualising flow and enabling feedback loops.

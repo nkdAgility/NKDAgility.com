@@ -38,7 +38,6 @@ categories: []
 tags:
   - Miscellaneous
   - Organisational Culture
-  - Continuous Learning
   - Business Agility
 ItemId: ZUarhFM5MT3
 ResourceId: ZUarhFM5MT3

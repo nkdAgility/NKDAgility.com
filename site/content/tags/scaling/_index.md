@@ -34,26 +34,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-  - Strategy
+  - Capability
 categories:
   - Product Development
-  - Product Management
   - Lean
+  - Product Management
 tags:
-  - Market Adaptability
   - Lean Principles
+  - Market Adaptability
   - Value Delivery
   - Large Scale Agility
   - Agile Strategy
-  - Organisational Agility
   - Enterprise Agility
   - Business Agility
   - Lean Thinking
+  - Organisational Agility
   - Organisational Change
-  - Operational Practices
   - Social Technologies
-  - Pragmatic Thinking
+  - Operational Practices
   - Organisational Physics
+  - Lean Product Development
 ItemId: OVCwAvo-uiQ
 ResourceId: OVCwAvo-uiQ
 ItemType: tags

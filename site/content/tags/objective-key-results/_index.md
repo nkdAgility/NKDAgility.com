@@ -4,7 +4,7 @@ description: Learn how to use Objectives and Key Results (OKRs) to clarify strat
 ClassificationType: tags
 trustpilot: false
 date: 2025-06-03T09:00:00Z
-weight: 1000
+weight: 665
 Instructions: |-
   Use this category only for discussions on Objective Key Results.
 
@@ -38,7 +38,7 @@ Instructions: |-
   Use this structured definition to ensure precise, consistent, and actionable classification of content related explicitly to Objective Key Results.
 headline:
   cards: []
-  title: "Objective & Key Results (OKRs): Turning Strategic Goals into Measurable Outcomes"
+  title: 'Objective & Key Results (OKRs): Turning Strategic Goals into Measurable Outcomes'
   subtitle: Turn strategic intent into measurable outcomes, driving clarity, alignment, accountability, and continuous improvement across teams and organizations.
   content: A structured method for translating strategic intent into measurable outcomes, enabling teams to clarify priorities, align transparently, and regularly inspect progress. Posts explore defining meaningful objectives, selecting outcome-oriented measures, fostering accountability, and creating a culture of continuous improvement through iterative learning, evidence-based decision-making, and adaptive organizational practices.
   updated: 2025-06-03T14:07:37Z
@@ -48,17 +48,24 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-  - Principle
-categories: []
-tags: []
+  - Strategy
+categories:
+  - Product Management
+  - Product Development
+tags:
+  - Common Goals
+  - Strategic Goals
+  - Social Technologies
+  - Product Strategy
+  - Agile Strategy
 ItemId: 75SCgnYwEsI
 ResourceId: 75SCgnYwEsI
 ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
----
 
+---
 OKRs are a way to make your strategy actionable. You don’t get alignment by telling people what to do. You get it by being crystal clear on what matters , and how you’ll know if it’s working.
 
 John Doerr’s _Measure What Matters_ defines OKRs as two things: an **Objective**, which is the meaningful goal you're aiming for, and **Key Results**, which are how you’ll measure success. The Objective gives you direction. The Key Results define outcomes. Not tasks. Not effort. Just proof that you’re moving the needle.

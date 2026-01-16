@@ -35,7 +35,7 @@ icon: fa-chart-pie
 concepts:
   - Strategy
 categories:
-  - Product Management
+  - Product Development
 tags:
   - Product Strategy
   - Strategic Goals

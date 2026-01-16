@@ -38,17 +38,16 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:50:17
 icon: fa-ruler-combined
 concepts:
-  - Method
+  - Practice
 categories:
   - Product Development
 tags:
   - Software Development
   - Operational Practices
   - Market Adaptability
-  - Pragmatic Thinking
-  - Team Collaboration
   - Forecasting
   - Social Technologies
+  - Pragmatic Thinking
   - Organisational Agility
   - Agile Product Management
   - Service Level Expectation

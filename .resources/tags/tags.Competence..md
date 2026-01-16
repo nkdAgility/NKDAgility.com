@@ -1,6 +1,6 @@
 ---
 title: Competence
-description: Competence is a first principle that demands continuous development and demonstrable capability. It is the foundation of professionalism—without it, there can be no trust, no quality, and no real progress.
+description: Competence is a first principle that demands continuous development and demonstrable capability. It is the foundation of professionalism, without it, there can be no trust, no quality, and no real progress.
 ClassificationType: tags
 trustpilot: false
 abstract: Competence is a critical element of professional effectiveness, encompassing the development, demonstration, and application of essential skills, knowledge, and judgement to achieve quality outcomes. It is derived from a commitment to continuous learning and deliberate practice, requiring individuals and organisations to earn and adapt their capabilities over time. In the context of agile methodologies, DevOps practices, product development, and organisational design, competence is vital as it underpins the successful execution of frameworks, processes, and tools. Without a foundation of competence, efforts may devolve into performative activities that fail to yield meaningful progress, jeopardising quality, trust, and value delivery. Therefore, every decision and action taken within an organisation must be rooted in the ability to execute with professionalism and expertise, ensuring that the outcomes align with the intended goals and standards.
@@ -29,17 +29,21 @@ headline:
   updated: 2025-05-23T23:30:35Z
 ResourceId: I3eGjbYOnzu
 aliases:
-- /resources/I3eGjbYOnzu
+  - /resources/I3eGjbYOnzu
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 icon: fa-user-ninja
 concepts:
-- First Principal
+  - First Principal
 categories: []
 tags:
-- Miscellaneous
-- Continuous Learning
+  - Miscellaneous
+ItemId: I3eGjbYOnzu
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Competence is the foundation for professional effectiveness. It requires individuals and organisations to actively develop, demonstrate, and apply the skills, knowledge, and judgement necessary to deliver quality outcomes. Without competence, no framework, process, or tool can succeed.

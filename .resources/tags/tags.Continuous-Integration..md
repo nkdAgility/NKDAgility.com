@@ -34,20 +34,26 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:11:43
 icon: fa-arrows-spin
 concepts:
-- Practice
+  - Practice
 categories:
-- Engineering Excellence
-- Product Development
+  - Engineering Excellence
+  - Product Development
 tags:
-- Software Development
-- Engineering Practices
-- Technical Mastery
-- Operational Practices
-- Market Adaptability
-- Value Delivery
-- Technical Excellence
-- Product Delivery
-- Pragmatic Thinking
+  - Software Development
+  - Engineering Practices
+  - Technical Mastery
+  - Operational Practices
+  - Market Adaptability
+  - Value Delivery
+  - Technical Excellence
+  - Product Delivery
+  - Pragmatic Thinking
+ItemId: j-z_OZ3DFDC
+ResourceId: j-z_OZ3DFDC
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Continuous Integration (CI) is a software development practice that emphasises the frequent merging of code changes into a shared repository. This approach allows teams to detect errors early, ensuring that integration issues are identified and resolved promptly. By automating the build and testing processes, CI fosters a healthy codebase, enabling developers to focus on delivering value rather than troubleshooting integration problems.

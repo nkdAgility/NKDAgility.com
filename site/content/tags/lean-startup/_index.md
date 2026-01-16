@@ -33,9 +33,10 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:36:34
 icon: fa-flask-vial
 concepts:
-  - Method
+  - Model
 categories:
   - Product Development
+  - Product Management
   - Lean
 tags:
   - Entrepreneurship
@@ -44,7 +45,6 @@ tags:
   - Ability to Innovate
   - Lean Principles
   - Product Discovery
-  - Social Technologies
   - Pragmatic Thinking
   - Hypothesis Driven Development
   - Continuous Improvement
@@ -52,6 +52,7 @@ tags:
   - Experimentation
   - Organisational Agility
   - Minimum Viable Product
+  - Time to Market
 ItemId: AHge1e_KSIl
 ResourceId: AHge1e_KSIl
 ItemType: tags

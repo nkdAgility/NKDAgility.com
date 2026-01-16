@@ -36,14 +36,15 @@ sitemap:
 BodyContentGenDate: 2025-04-09T15:09:02
 icon: fa-people-roof
 concepts:
-  - Capability
+  - Philosophy
 categories: []
 tags:
   - Organisational Psychology
   - Organisational Agility
+  - Social Technologies
   - Agile Philosophy
   - Business Agility
-  - Social Technologies
+  - Team Collaboration
 ItemId: hCgDl11FRjF
 ResourceId: hCgDl11FRjF
 ItemType: tags

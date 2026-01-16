@@ -43,11 +43,11 @@ tags:
   - Lean Product Development
   - Continuous Improvement
   - Lean Thinking
-  - Market Adaptability
   - Value Delivery
   - Operational Practices
-  - Continuous Learning
   - Organisational Culture
+  - Continuous Learning
+  - Market Adaptability
   - Pragmatic Thinking
   - Organisational Agility
   - Social Technologies

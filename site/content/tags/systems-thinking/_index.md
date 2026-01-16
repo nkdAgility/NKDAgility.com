@@ -33,11 +33,11 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:07:30
 icon: fa-network-wired
 concepts:
-  - Model
+  - Principle
 categories: []
 tags:
-  - Organisational Change
   - Social Technologies
+  - Organisational Change
   - Organisational Physics
   - Continuous Learning
   - Organisational Culture

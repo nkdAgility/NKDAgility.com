@@ -36,13 +36,19 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
 ClassificationContentOrigin: AI
+ItemId: SEXmmhgRw2Q
+ResourceId: SEXmmhgRw2Q
+ItemType: concepts
+ResourceType: concepts
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 **Method** refers to a structured, step-by-step approach used to achieve specific goals within a system. Unlike **frameworks**, which offer broader structures and guidelines, methods are focused on **detailed procedures** and **actions** that enable teams to implement solutions or solve problems.
 
 In **Agile**, **Lean**, and **DevOps** environments, methods play a crucial role in **guiding** teams through systematic steps that support **collaborative work**, **value delivery**, and **continuous improvement**. Methods are often employed to **optimise workflows**, **manage iterative development**, and **measure progress**.
 
-For instance, in the **Scrum** method, teams follow a set sequence of events—**Sprint Planning**, **Daily Scrum**, **Sprint Review**, and **Sprint Retrospective**—to manage work in short, repeatable cycles, continuously adapting to changing requirements. Similarly, the **Kanban** method helps teams visualise their workflow, limit work in progress, and ensure that work is completed efficiently.
+For instance, in the **Scrum** method, teams follow a set sequence of events, **Sprint Planning**, **Daily Scrum**, **Sprint Review**, and **Sprint Retrospective**, to manage work in short, repeatable cycles, continuously adapting to changing requirements. Similarly, the **Kanban** method helps teams visualise their workflow, limit work in progress, and ensure that work is completed efficiently.
 
 Methods are essential for ensuring **consistency and predictability** in outcomes. They break down complex processes into manageable tasks, allowing teams to execute with precision and adapt in real-time to feedback.
 

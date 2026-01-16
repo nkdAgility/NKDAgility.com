@@ -38,20 +38,20 @@ categories:
   - Leadership
   - Product Development
 tags:
+  - Social Technologies
   - Organisational Culture
   - Self Organisation
-  - Social Technologies
+  - Continuous Improvement
   - Agile Strategy
   - Organisational Agility
   - Organisational Change
-  - Market Adaptability
   - Agile Leadership
+  - Operating Model
   - Team Collaboration
+  - Market Adaptability
   - Team Motivation
   - Business Agility
   - Enterprise Agility
-  - Agentic Agility
-  - Agile Philosophy
 ItemId: ED8JJ5RqjiO
 ResourceId: ED8JJ5RqjiO
 ItemType: tags

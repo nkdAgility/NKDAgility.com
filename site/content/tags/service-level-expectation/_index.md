@@ -46,19 +46,19 @@ icon: fa-hourglass-half
 concepts:
   - Method
 categories:
-  - Product Development
   - Scrum
+  - Product Development
 tags:
-  - Metrics and Learning
   - Forecasting
   - Software Development
   - Estimation
-  - Team Performance
   - Pragmatic Thinking
-  - Agile Frameworks
-  - Empirical Process Control
+  - Metrics and Learning
+  - Team Performance
+  - Flow Efficiency
   - Agile Planning
   - Operational Practices
+  - Empirical Process Control
 ItemId: r1lSFWkEwZM
 ResourceId: r1lSFWkEwZM
 ItemType: tags

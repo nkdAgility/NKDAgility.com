@@ -9,9 +9,9 @@ date: 2025-05-05T10:17:24Z
 weight: 175
 description: Applying software engineering principles to ensure scalable and reliable systems.
 aliases:
-- /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
-- /resources/practices/site-reliability-engineering-sre/
-- /resources/K0i7PIZARDw
+  - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
+  - /resources/practices/site-reliability-engineering-sre/
+  - /resources/K0i7PIZARDw
 Instructions: |-
   **Use this category only for discussions on Site Reliability Engineering.**  
   The purpose of this category is to explore the application of software engineering principles to enhance the reliability, scalability, and performance of systems in production environments. It focuses on the integration of development and operations to create resilient systems that can withstand failures and maintain service quality.
@@ -39,32 +39,36 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:12:47
 icon: fa-shield-alt
 concepts:
-- Ethos
+  - Ethos
 categories:
-- DevOps
-- Engineering Excellence
+  - DevOps
+  - Engineering Excellence
 tags:
-- Software Development
-- Operational Practices
-- Metrics and Learning
-- Technical Mastery
-- Pragmatic Thinking
-- Team Performance
-- Product Delivery
-- Customer Focus
-- Engineering Practices
-- Market Adaptability
-- Continuous Improvement
-- Service Level Expectation
-- Value Delivery
-- Technical Excellence
+  - Software Development
+  - Operational Practices
+  - Metrics and Learning
+  - Technical Mastery
+  - Pragmatic Thinking
+  - Team Performance
+  - Product Delivery
+  - Customer Focus
+  - Engineering Practices
+  - Continuous Improvement
+  - Service Level Expectation
+  - Value Delivery
+  - Technical Excellence
+ItemId: K0i7PIZARDw
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Site Reliability Engineering (SRE) is not a job title; it is an ethos. It is the disciplined application of software engineering principles to design, build, and operate reliable, scalable systems. And it is essential if you want to survive modern software delivery.
 
-SRE builds resilience by design, not by accident. It makes reliability a first-class product feature: measured, automated, and continuously improved. This ethos aligns perfectly with the Azure DevOps journey — moving from on-premises to SaaS, from two-year release cycles to daily deployments, and from siloed development to integrated, accountable delivery.
+SRE builds resilience by design, not by accident. It makes reliability a first-class product feature: measured, automated, and continuously improved. This ethos aligns perfectly with the Azure DevOps journey , moving from on-premises to SaaS, from two-year release cycles to daily deployments, and from siloed development to integrated, accountable delivery.
 
-With the shift-left movement pushing more operational accountability onto engineering teams, the old excuses no longer work. Feature teams can no longer shrug and say, “Ops will handle it.” They own their live site experience end-to-end — from ideation to validation, from code to customer.
+With the shift-left movement pushing more operational accountability onto engineering teams, the old excuses no longer work. Feature teams can no longer shrug and say, “Ops will handle it.” They own their live site experience end-to-end , from ideation to validation, from code to customer.
 
 Here’s what that demands:
 
@@ -77,12 +81,12 @@ The Azure DevOps Services team learned this the hard way. Moving from a monolith
 
 Their key lessons:
 
-- **Automate everything**: Deployments, rollbacks, recoveries — no heroics, just engineering.
+- **Automate everything**: Deployments, rollbacks, recoveries , no heroics, just engineering.
 - **Iterate over pain**: If something hurts, do it more often until it stops hurting.
-- **Build for failure**: Circuit breakers, graceful degradation, progressive delivery — resilience by design, not by wish.
+- **Build for failure**: Circuit breakers, graceful degradation, progressive delivery , resilience by design, not by wish.
 - **Treat resilience as an investment**: Downtime kills trust. Outages cost revenue. Slow recovery erodes morale. Resilience pays for itself.
 
-SRE and DevOps together deliver continuous value. DevOps brings the union of people, process, and products; SRE ensures that union runs reliably under real-world stress. This is not about vanity metrics or theatre. It is about evidence-based management — metrics like Mean Time to Recovery (MTTR), deployment frequency, and customer satisfaction that tell you whether your resilience investments are delivering.
+SRE and DevOps together deliver continuous value. DevOps brings the union of people, process, and products; SRE ensures that union runs reliably under real-world stress. This is not about vanity metrics or theatre. It is about evidence-based management , metrics like Mean Time to Recovery (MTTR), deployment frequency, and customer satisfaction that tell you whether your resilience investments are delivering.
 
 Bottom line: if your teams are not actively designing, measuring, and improving resilience, you are not running a serious engineering organisation. You are just hoping you survive the next failure.
 

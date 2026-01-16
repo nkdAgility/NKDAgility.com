@@ -26,7 +26,7 @@ Instructions: |-
   - General Agile content that does not reference use or impact of Liberating Structures
 headline:
   cards: []
-  title: "Liberating Structures: Facilitation Patterns for Inclusive Team Collaboration"
+  title: 'Liberating Structures: Facilitation Patterns for Inclusive Team Collaboration'
   subtitle: Facilitation techniques that unlock team collaboration, foster psychological safety, and enable inclusive decision-making and rapid idea generation.
   content: Liberating Structures offer practical facilitation techniques designed to improve group interactions, foster inclusive participation, and enhance collective decision-making. Applicable across team events, workshops, and retrospectives, these structured methods encourage psychological safety, rapid idea generation, and collaborative problem-solving, enabling teams to navigate complexity and continuously adapt without hierarchical facilitation.
   updated: 2025-05-23T23:26:31Z
@@ -41,27 +41,25 @@ sitemap:
   priority: 0.7
 icon: fa-object-group
 concepts:
-  - Principle
-categories:
-  - Product Development
+  - Practice
+categories: []
 tags:
   - Social Technologies
   - Team Collaboration
-  - Self Organisation
   - Team Motivation
-  - Market Adaptability
   - Continuous Learning
   - Organisational Agility
   - Operational Practices
   - Pragmatic Thinking
+  - Self Organisation
   - Organisational Culture
 ItemId: -Gso-hQgUca
 ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
----
 
+---
 Liberating Structures are a set of easy-to-learn facilitation methods that enhance how groups interact, make decisions, and co-create solutions. Unlike traditional meeting formats, such as open discussion or presentations, each structure provides a repeatable pattern for participation that distributes control and encourages contribution from everyone.
 
 These tools are particularly valuable in Agile, Lean, and DevOps environments where team engagement, psychological safety, and continuous adaptation are essential. Whether used in Sprint Reviews, Retrospectives, product discovery, or stakeholder workshops, Liberating Structures enable fast learning and meaningful collaboration without needing a designated facilitator or top-down authority.

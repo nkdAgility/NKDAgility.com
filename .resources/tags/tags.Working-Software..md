@@ -36,24 +36,29 @@ sitemap:
 BodyContentGenDate: 2025-04-09T12:55:25
 icon: fa-laptop-code
 concepts:
-- Principle
+  - Artifact
 categories:
-- Product Development
-- Scrum
+  - Product Development
+  - Scrum
 tags:
-- Value Delivery
-- Increment
-- Software Development
-- Product Delivery
-- Organisational Agility
-- Empirical Process Control
-- Continuous Improvement
-- Operational Practices
-- Agile Philosophy
-- Pragmatic Thinking
+  - Value Delivery
+  - Increment
+  - Software Development
+  - Product Delivery
+  - Organisational Agility
+  - Agile Philosophy
+  - Continuous Improvement
+  - Operational Practices
+  - Pragmatic Thinking
+ItemId: TkiYgsiMRLH
+ResourceId: TkiYgsiMRLH
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
-**Working Software** is a core **artifact** in Agile, Scrum, and Lean frameworks, representing the **tangible output** of a team’s work. It is the product of iterative development, and it **demonstrates progress** and **value delivery**. Unlike methods or practices, which define **how** work is done, **working software** is the **concrete result**—the **increment** produced at the end of each Sprint or iteration.
+**Working Software** is a core **artifact** in Agile, Scrum, and Lean frameworks, representing the **tangible output** of a team’s work. It is the product of iterative development, and it **demonstrates progress** and **value delivery**. Unlike methods or practices, which define **how** work is done, **working software** is the **concrete result**, the **increment** produced at the end of each Sprint or iteration.
 
 In **Scrum**, **working software** is the primary measure of success for each Sprint, and it forms the **Increment** artifact. It is **inspectable**, **adaptable**, and directly informs decisions, allowing teams to adjust their efforts based on the feedback received. The **Definition of Done** ensures that the software meets predefined criteria of quality, ensuring that the Increment is **valuable**, **functional**, and ready for release.
 

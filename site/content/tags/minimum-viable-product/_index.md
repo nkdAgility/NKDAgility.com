@@ -37,11 +37,12 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:28:36
 icon: fa-seedling
 concepts:
-  - Capability
+  - Model
 categories:
   - Product Development
   - Product Management
 tags:
+  - Continuous Improvement
   - Value Delivery
   - Ability to Innovate
   - Product Validation
@@ -51,7 +52,6 @@ tags:
   - Lean Startup
   - Organisational Agility
   - Hypothesis Driven Development
-  - Continuous Improvement
 ItemId: TmdOLmrFdRH
 ResourceId: TmdOLmrFdRH
 ItemType: tags

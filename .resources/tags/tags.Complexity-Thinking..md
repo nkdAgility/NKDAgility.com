@@ -37,19 +37,25 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:14:08
 icon: fa-circle-nodes
 concepts:
-- Model
+  - Model
 categories:
-- Product Development
+  - Product Development
 tags:
-- Organisational Physics
-- Sensemaking
-- Systems Thinking
-- Sociotechnical Systems
-- Market Adaptability
-- Organisational Change
-- Organisational Agility
-- Value Delivery
-- Continuous Learning
+  - Organisational Physics
+  - Sensemaking
+  - Systems Thinking
+  - Sociotechnical Systems
+  - Market Adaptability
+  - Organisational Change
+  - Organisational Agility
+  - Value Delivery
+  - Continuous Learning
+ItemId: NgEhqF57glO
+ResourceId: NgEhqF57glO
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Complexity Thinking is an approach that leverages principles from complexity science to navigate the intricate dynamics of organisations and systems. It recognises that many organisational challenges are not merely complicated but complex, characterised by unpredictable interactions and emergent behaviours. This perspective is crucial for teams aiming to deliver value predictably and sustainably, as it encourages a deeper understanding of the interdependencies within systems.

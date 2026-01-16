@@ -6,7 +6,7 @@ trustpilot: false
 abstract: Product Management is a strategic discipline focused on aligning customer needs, business objectives, and technical feasibility to maximise value delivery in product development. Originating from Agile methodologies, particularly within the Scrum framework, the role of the Product Owner is central to this discipline, emphasising accountability for value rather than mere output. This approach is crucial in ensuring that product teams prioritise impactful features over an extensive list of functionalities, thereby avoiding the pitfalls of feature bloat. Effective Product Management operates within a social system, requiring collaboration with stakeholders, executives, and developers while continuously engaging with users to maintain a compelling product vision. The use of evidence-based management is vital, as it allows Product Managers to make informed decisions based on measurable metrics rather than vanity metrics. Customer feedback is treated as a strategic asset, necessitating discernment in its application to avoid misalignment with product goals. Additionally, technical empathy is essential for understanding the feasibility and risks associated with product strategies, ensuring that desirability, viability, and feasibility are balanced. Clear boundaries of authority and accountability are necessary for effective collaboration, with Product Managers defining the 'what' and 'why', while developers focus on the 'how'. Ultimately, Product Management is about optimising value through informed decision-making, fostering a culture of learning, and prioritising outcomes over outputs, making it a critical function in Agile and DevOps environments.
 ClassificationContentOrigin: human
 date: 2025-02-11T10:17:24Z
-weight: 495
+weight: 550
 icon: fa-box-open
 Instructions: |-
   **Use this category only for discussions on Product Management.**  
@@ -33,7 +33,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Ethos
+  - Strategy
+ItemId: XIThPpc-pCX
+ResourceId: XIThPpc-pCX
+ItemType: categories
+ResourceType: categories
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 **Product Management: Balancing Vision, Value, and Viability**
@@ -46,7 +52,7 @@ Effective Product Managers work **within a social system**, not just a technical
 
 A modern Product Manager uses **evidence-based management** to guide decisions. You cannot optimise what you don’t measure. Use metrics like Time to Market, Current Value, and Ability to Innovate to inspect and adapt both strategy and execution. Avoid vanity metrics. Focus on evidence that enables learning and guides investment.
 
-Customer feedback isn’t a suggestion box—it’s a strategic asset. Gather it continuously, synthesise it relentlessly, and prioritise it objectively. Use techniques like Opportunity Solution Trees, Jobs-to-be-Done interviews, or user story mapping. But don’t confuse listening with appeasement. Not all feedback should be actioned. Product Management is about **discernment**, not consensus.
+Customer feedback isn’t a suggestion box, it’s a strategic asset. Gather it continuously, synthesise it relentlessly, and prioritise it objectively. Use techniques like Opportunity Solution Trees, Jobs-to-be-Done interviews, or user story mapping. But don’t confuse listening with appeasement. Not all feedback should be actioned. Product Management is about **discernment**, not consensus.
 
 Successful product strategies also demand **technical empathy**. Product Managers don’t need to write code, but they must understand what’s possible, what’s costly, and what’s risky. This is how you balance desirability, viability, and feasibility. You can’t decouple product strategy from technical architecture or delivery capability.
 

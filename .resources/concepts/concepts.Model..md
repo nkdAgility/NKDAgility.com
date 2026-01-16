@@ -34,6 +34,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T12:38:50
+ItemId: Fbb6vLeveq8
+ResourceId: Fbb6vLeveq8
+ItemType: concepts
+ResourceType: concepts
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 A **model** serves as a **conceptual representation** that helps teams understand and analyse complex systems or problems. By distilling intricate dynamics into simpler, more manageable forms, models provide clarity, enabling teams to visualise relationships, processes, and outcomes. This clarity fosters **effective communication** and **collaboration**, offering a shared framework for discussing challenges and opportunities.
@@ -42,6 +48,6 @@ Models are particularly significant in **Agile**, **Lean**, and **DevOps** envir
 
 Unlike frameworks or methodologies, which provide structured approaches for implementing practices, **models** represent the underlying dynamics at play. They are essential tools for **decision-making** and **systems thinking**. For example, **Lean Startup** principles focus on iterative product development and innovation, while **Kanban** helps manage flow and optimise value delivery in the context of operational processes.
 
-A model is **foundational**—it provides insight into the structural relationships that govern a system. Unlike **tools**, which help teams perform specific tasks, models are about understanding the **system** itself. They give teams the ability to see beyond immediate tasks, encouraging reflection and a broader view of **long-term improvement**.
+A model is **foundational**, it provides insight into the structural relationships that govern a system. Unlike **tools**, which help teams perform specific tasks, models are about understanding the **system** itself. They give teams the ability to see beyond immediate tasks, encouraging reflection and a broader view of **long-term improvement**.
 
 Models allow organisations to navigate complexity with confidence. They help teams make **informed decisions**, align with **organisational goals**, and improve **agility** and **resilience**. By leveraging models effectively, teams can optimise their responses to challenges, ensure that value is consistently delivered, and drive sustainable organisational growth.

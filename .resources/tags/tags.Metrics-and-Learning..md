@@ -6,7 +6,7 @@ abstract: Metrics and Learning is a fundamental concept that centres on the util
 ResourceId: 26FWeqJuu0P
 ClassificationContentOrigin: Hybrid
 date: 2025-02-11T10:16:54Z
-weight: 110
+weight: 75
 description: Using data, metrics, and feedback to drive continuous improvement in teams and processes.
 Instructions: |-
   **Use this category only for discussions on Metrics and Learning.**
@@ -33,45 +33,50 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 aliases:
-- /learn/agile-delivery-kit/practices/metrics-reports
-- /resources/26FWeqJuu0P
+  - /learn/agile-delivery-kit/practices/metrics-reports
+  - /resources/26FWeqJuu0P
 aliasesArchive:
-- /learn/agile-delivery-kit/practices/metrics-reports
+  - /learn/agile-delivery-kit/practices/metrics-reports
 recommendedContent:
-- practices/Metrics-Reports/
-- practices/Metrics-Reports.html
-- metrics-reports
-- metrics-reports.html
+  - practices/Metrics-Reports/
+  - practices/Metrics-Reports.html
+  - metrics-reports
+  - metrics-reports.html
 BodyContentGenDate: 2025-04-09T16:31:19
 icon: fa-chart-bar
 concepts:
-- Principle
+  - Practice
 categories:
-- Technical Leadership
-- DevOps
-- Product Development
+  - Technical Leadership
+  - Product Development
+  - Engineering Excellence
 tags:
-- Project Management
-- Pragmatic Thinking
-- Organisational Agility
-- Continuous Improvement
-- Operational Practices
-- Evidence Based Leadership
-- Decision Making
-- Lean Product Development
-- Continuous Learning
-- Agile Transformation
-- Self Organisation
-- Agile Philosophy
-- Agile Product Operating Model
-- Team Performance
+  - Project Management
+  - Pragmatic Thinking
+  - Organisational Agility
+  - Operational Practices
+  - Continuous Improvement
+  - Evidence Based Leadership
+  - Decision Making
+  - Social Technologies
+  - Continuous Learning
+  - Market Adaptability
+  - Evidence Based Management
+  - Lean Product Development
+  - Agile Transformation
+  - Self Organisation
+ItemId: 26FWeqJuu0P
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Metrics and Learning is not about tracking velocity or producing dashboards to appease managers. It’s about creating the conditions for continuous improvement by making performance transparent, exposing constraints, and enabling teams and leaders to respond with evidence rather than assumption.
 
-This approach builds a culture of empiricism—where progress is inspected regularly, and data informs decisions. Metrics become a feedback loop, not a control mechanism. They allow teams to observe how value flows, understand where it's blocked, and adapt their systems of work accordingly. If you're not measuring flow, quality, and outcomes, you're not managing; you're guessing.
+This approach builds a culture of empiricism, where progress is inspected regularly, and data informs decisions. Metrics become a feedback loop, not a control mechanism. They allow teams to observe how value flows, understand where it's blocked, and adapt their systems of work accordingly. If you're not measuring flow, quality, and outcomes, you're not managing; you're guessing.
 
-Metrics are not just about operational tracking—they are a leadership tool for adaptation.
+Metrics are not just about operational tracking, they are a leadership tool for adaptation.
 
 To make this work across your company, we recommend metrics in two distinct but complementary domains: the _Product/Project/Organisation_- level and the _Team_- level.
 
@@ -95,7 +100,7 @@ These metrics help us understand the overall health of delivery, customer experi
   The time between “dev done” and “customer live.” Long stabilisation windows indicate brittle systems and poor engineering practices. This metric tells you how much of your time is spent undoing versus delivering.
 
 - **Deployment / Release Frequency**
-  Frequency reflects feedback speed. If you can’t release frequently, you can’t learn quickly. If you're not releasing frequently, you're not Agile—no matter what your board says.
+  Frequency reflects feedback speed. If you can’t release frequently, you can’t learn quickly. If you're not releasing frequently, you're not Agile, no matter what your board says.
 
 ## Team Metrics
 
@@ -121,7 +126,7 @@ Metrics are only useful when they're tied to learning and action. That means:
 
 - Teams inspect them regularly (e.g. during Sprint Reviews and Retrospectives).
 - Product Owners use them to inform forecasting and prioritisation.
-- Leaders use them to support, not control—enabling system-level improvement rather than micromanagement.
+- Leaders use them to support, not control, enabling system-level improvement rather than micromanagement.
 
 By embedding metrics in how we work, we move from anecdote to evidence, from hope to hypothesis, and from activity to outcomes.
 

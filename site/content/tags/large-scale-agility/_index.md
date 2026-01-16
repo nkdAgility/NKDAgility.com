@@ -35,22 +35,22 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:40:17
 icon: fa-building-columns
 concepts:
-  - Framework
+  - Capability
 categories:
   - Product Development
 tags:
   - Organisational Agility
   - Enterprise Agility
   - Business Agility
-  - Scaling
   - Market Adaptability
   - Agile Strategy
   - Social Technologies
+  - Scaling
   - Organisational Change
   - Agile Transformation
+  - Agile Philosophy
   - Agile Frameworks
   - Organisational Culture
-  - Agile Philosophy
   - Strategic Goals
   - Change Management
 ItemId: uhX1tzMqqxu

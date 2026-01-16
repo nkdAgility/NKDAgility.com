@@ -35,13 +35,19 @@ sitemap:
 BodyContentGenDate: 2025-04-10T09:52:00Z
 icon: fa-tasks
 concepts:
-- Discipline
+  - Discipline
 categories: []
 tags: []
+ItemId: L1kM9g2I-2v
+ResourceId: L1kM9g2I-2v
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Project Management is the discipline of planning, executing, and overseeing projects to meet defined goals within constraints such as time, cost, and scope. It involves coordinating people, processes, and technologies to achieve successful outcomes in a structured and repeatable manner.
 
-Modern project management integrates a range of methodologies—from traditional approaches like Waterfall and PRINCE2 to more adaptive frameworks such as Agile and hybrid models—tailored to the project’s complexity and context. Effective project managers align teams around shared objectives, manage risk proactively, and ensure that stakeholders are informed and engaged throughout the lifecycle.
+Modern project management integrates a range of methodologies, from traditional approaches like Waterfall and PRINCE2 to more adaptive frameworks such as Agile and hybrid models, tailored to the project’s complexity and context. Effective project managers align teams around shared objectives, manage risk proactively, and ensure that stakeholders are informed and engaged throughout the lifecycle.
 
 Project Management also promotes continuous improvement through lessons learned and regular review of performance metrics. Regardless of the approach used, it aims to deliver value predictably while managing change, uncertainty, and complexity.

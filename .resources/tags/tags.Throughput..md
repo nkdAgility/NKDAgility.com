@@ -4,7 +4,7 @@ ClassificationType: tags
 trustpilot: false
 abstract: Throughput is a critical observability metric that quantifies the volume of work completed by a system within a defined timeframe, serving as an indicator of the flow of value delivered by teams. Originating from Agile and Lean methodologies, throughput is utilised to assess system performance holistically rather than focusing on individual contributions. By monitoring throughput, teams can uncover trends, pinpoint bottlenecks, and evaluate the impact of workflow modifications on overall efficiency. Visualisation tools such as cumulative flow diagrams and flow analytics facilitate real-time tracking of throughput data, enabling teams to inspect flow health alongside other metrics like lead time and cycle time. This empirical approach fosters informed decision-making, guiding adjustments in work-in-progress limits, team structures, and planning processes. Ultimately, throughput enhances transparency and supports a culture of continuous improvement, allowing organisations to optimise their processes without relying on subjective evaluations of performance.
 date: 2025-04-09T14:41:23Z
-weight: 315
+weight: 330
 ClassificationContentOrigin: AI
 description: Throughput is a delivery metric used to inspect how much work is completed per unit of time, enabling analysis of flow efficiency and system constraints.
 Instructions: |-
@@ -35,23 +35,29 @@ sitemap:
   priority: 0.7
 icon: fa-tachometer-alt
 concepts:
-- Observability
+  - Observability
 categories:
-- Product Development
-- Kanban
-- Lean
+  - Product Development
+  - Kanban
+  - Lean
 tags:
-- Team Performance
-- Flow Efficiency
-- Metrics and Learning
-- Software Development
-- Continuous Improvement
-- Empirical Process Control
-- Evidence Based Leadership
-- Operational Practices
-- Product Delivery
-- Forecasting
-- Project Management
+  - Team Performance
+  - Flow Efficiency
+  - Metrics and Learning
+  - Software Development
+  - Continuous Improvement
+  - Evidence Based Leadership
+  - Operational Practices
+  - Lean Principles
+  - Product Delivery
+  - Forecasting
+  - Project Management
+ItemId: -OIIzYxzBnS
+ResourceId: -OIIzYxzBnS
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Throughput is a key observability metric used to quantify the amount of work a system completes over a specific time period. It reflects the flow of value and helps teams inspect how effectively their system delivers completed work items. Unlike productivity measures, throughput captures system performance as a whole, not individual contribution.

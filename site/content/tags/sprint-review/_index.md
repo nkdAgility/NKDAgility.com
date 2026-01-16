@@ -38,25 +38,21 @@ aliasesArchive:
   - /learn/agile-delivery-kit/practices/sprint-planning-event
 icon: fa-chalkboard-user
 concepts:
-  - Framework
+  - Method
 categories:
   - Scrum
   - Product Development
   - Product Management
 tags:
-  - Continuous Learning
-  - Empirical Process Control
+  - Agile Planning
   - Agile Frameworks
   - Social Technologies
-  - Agile Planning
   - Software Development
   - Pragmatic Thinking
-  - Team Collaboration
   - Team Performance
   - Operational Practices
   - Product Delivery
   - Professional Scrum
-  - Metrics and Learning
   - Agile Product Management
   - Organisational Agility
 ItemId: wHms4qkD1aE

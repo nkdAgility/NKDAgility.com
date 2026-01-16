@@ -34,19 +34,16 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T17:20:01
 concepts:
-  - Capability
-categories:
-  - Product Development
+  - Strategy
+categories: []
 tags:
   - Organisational Agility
   - Market Adaptability
   - Organisational Culture
   - Value Delivery
-  - Social Technologies
   - Agile Strategy
   - Organisational Change
   - Continuous Improvement
-  - Continuous Learning
   - Operational Practices
   - Strategic Goals
   - Agile Philosophy

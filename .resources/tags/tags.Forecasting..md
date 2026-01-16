@@ -26,7 +26,7 @@ headline:
   cards: []
   title: 'Forecasting: Leveraging Data to Predict Timelines and Optimise Agile Delivery'
   subtitle: Using empirical data and flow metrics to predict timelines, manage risks, improve predictability, and enable informed, transparent decision-making.
-  content: Forecasting involves leveraging empirical data and metrics—such as cycle time, lead time, throughput, and historical performance—to anticipate delivery timelines, manage risks, and optimise value delivery. It promotes transparency, informed decision-making, proactive adaptation, and continuous improvement, enabling teams to consistently meet stakeholder expectations and respond effectively to evolving market conditions.
+  content: Forecasting involves leveraging empirical data and metrics, such as cycle time, lead time, throughput, and historical performance, to anticipate delivery timelines, manage risks, and optimise value delivery. It promotes transparency, informed decision-making, proactive adaptation, and continuous improvement, enabling teams to consistently meet stakeholder expectations and respond effectively to evolving market conditions.
   updated: 2025-05-23T23:14:11Z
 sitemap:
   filename: sitemap.xml
@@ -34,26 +34,32 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:45:41
 icon: fa-chart-line-up
 concepts:
-- Discipline
+  - Practice
 categories:
-- Product Development
-- Product Management
-- Engineering Excellence
+  - Product Development
+  - Product Management
+  - Engineering Excellence
 tags:
-- Organisational Agility
-- Agile Planning
-- Metrics and Learning
-- Operational Practices
-- Team Performance
-- Product Delivery
-- Software Development
-- Market Adaptability
-- Empirical Process Control
-- Pragmatic Thinking
-- Value Delivery
-- Social Technologies
-- Agile Product Management
-- Project Management
+  - Organisational Agility
+  - Agile Planning
+  - Pragmatic Thinking
+  - Operational Practices
+  - Team Performance
+  - Metrics and Learning
+  - Product Delivery
+  - Software Development
+  - Market Adaptability
+  - Value Delivery
+  - Empirical Process Control
+  - Social Technologies
+  - Agile Product Management
+  - Project Management
+ItemId: mYA37keluQY
+ResourceId: mYA37keluQY
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Forecasting is the practice of using empirical data to predict delivery timelines, manage risks, and optimise value delivery within Agile and Scrum frameworks. It enables teams to make informed decisions based on historical performance and current capacity, allowing for a more predictable and sustainable approach to product development. By analysing metrics such as cycle time, lead time, and throughput, teams can identify trends and adjust their strategies accordingly, ensuring that they meet stakeholder expectations and deliver value consistently.

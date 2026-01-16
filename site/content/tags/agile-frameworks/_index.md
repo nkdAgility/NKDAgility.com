@@ -41,17 +41,17 @@ categories:
   - Product Development
 tags:
   - Organisational Agility
-  - Social Technologies
-  - Software Development
   - Market Adaptability
-  - Agile Strategy
+  - Software Development
+  - Social Technologies
   - Organisational Change
+  - Team Collaboration
   - Value Delivery
   - Operational Practices
   - Business Agility
-  - Continuous Improvement
   - Agile Transformation
   - Team Performance
+  - Agile Strategy
   - Product Delivery
 ItemId: 4gFW5SVPWfd
 ResourceId: 4gFW5SVPWfd

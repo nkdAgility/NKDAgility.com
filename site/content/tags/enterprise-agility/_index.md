@@ -37,22 +37,23 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:51:54
 icon: fa-building-flag
 concepts:
-  - Capability
+  - Strategy
 categories:
   - Product Development
 tags:
   - Business Agility
-  - Market Adaptability
   - Organisational Agility
-  - Agile Philosophy
   - Large Scale Agility
+  - Market Adaptability
   - Agile Strategy
-  - Organisational Change
+  - Agile Philosophy
   - Change Management
+  - Organisational Change
   - Social Technologies
   - Organisational Culture
   - Agile Transformation
   - Agile Values and Principles
+  - Continuous Improvement
 ItemId: oc9MtHVCSoB
 ResourceId: oc9MtHVCSoB
 ItemType: tags

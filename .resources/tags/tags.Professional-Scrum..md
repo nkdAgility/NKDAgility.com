@@ -34,19 +34,25 @@ sitemap:
 concept: Philosophy
 icon: fa-user-graduate
 concepts:
-- Ethos
+  - Ethos
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Philosophy
-- Empirical Process Control
-- Continuous Improvement
-- Social Technologies
+  - Agile Philosophy
+  - Social Technologies
+  - Empirical Process Control
+  - Continuous Improvement
+ItemId: X0PXgaUZz6S
+ResourceId: X0PXgaUZz6S
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
-Professional Scrum is the disciplined expression of Scrum guided by empiricism, technical excellence, and continuous delivery of value. It transcends frameworks and rituals, focusing instead on how individuals, teams, and organisations choose to work—with intent, professionalism, and accountability.
+Professional Scrum is the disciplined expression of Scrum guided by empiricism, technical excellence, and continuous delivery of value. It transcends frameworks and rituals, focusing instead on how individuals, teams, and organisations choose to work, with intent, professionalism, and accountability.
 
-At its core, Professional Scrum reflects a philosophy: transparency is not a ceremony, Done is not a suggestion, and empiricism is not optional. This philosophy demands that Product Owners act as strategists, Scrum Masters as agents of change, and Developers as disciplined engineers. It embraces complexity not as a challenge to control, but as a condition to respond to—by learning fast, delivering often, and improving always.
+At its core, Professional Scrum reflects a philosophy: transparency is not a ceremony, Done is not a suggestion, and empiricism is not optional. This philosophy demands that Product Owners act as strategists, Scrum Masters as agents of change, and Developers as disciplined engineers. It embraces complexity not as a challenge to control, but as a condition to respond to, by learning fast, delivering often, and improving always.
 
 Professional Scrum is not a template. It is how you bring humanity, responsibility, and rigour to complex product delivery. It’s not just doing Scrum. It’s doing it professionally.

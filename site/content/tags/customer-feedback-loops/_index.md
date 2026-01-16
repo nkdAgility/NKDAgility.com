@@ -43,10 +43,9 @@ tags:
   - Continuous Learning
   - Value Delivery
   - Continuous Improvement
-  - Product Discovery
   - Product Validation
   - Customer Satisfaction
-  - Market Adaptability
+  - Product Discovery
   - Metrics and Learning
   - Agile Philosophy
   - Business Agility

@@ -49,11 +49,11 @@ tags:
   - Business Agility
   - Change Management
   - Agile Values and Principles
-  - Continuous Learning
   - Sociotechnical Systems
   - Enterprise Agility
   - Market Adaptability
-  - Strategic Goals
+  - Continuous Improvement
+  - Large Scale Agility
 ItemId: UT2QLI1iptr
 ResourceId: UT2QLI1iptr
 ItemType: tags

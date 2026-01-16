@@ -41,7 +41,6 @@ categories:
 tags:
   - Customer Focus
   - Customer Satisfaction
-  - Business Agility
   - Value Delivery
   - Agile Strategy
 ItemId: mn6Ofyx94MP

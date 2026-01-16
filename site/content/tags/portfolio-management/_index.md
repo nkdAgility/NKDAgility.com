@@ -36,8 +36,7 @@ BodyContentGenDate: 2025-04-09T14:50:53
 icon: fa-briefcase
 concepts:
   - Strategy
-categories:
-  - Product Development
+categories: []
 tags:
   - Strategic Goals
   - Organisational Culture
@@ -45,9 +44,7 @@ tags:
   - Agile Strategy
   - Business Agility
   - Organisational Change
-  - Decision Making
   - Organisational Agility
-  - Social Technologies
   - Continuous Improvement
   - Enterprise Agility
 ItemId: kAEJI5HVFMc
