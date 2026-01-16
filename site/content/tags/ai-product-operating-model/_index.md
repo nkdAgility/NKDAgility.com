@@ -72,6 +72,14 @@ weight: 1000
 
 An AI Product Operating Model defines the systemic approach for building, deploying, and evolving AI-powered products at scale, ensuring that teams can deliver value predictably and sustainably. As a specialization of the [Product Operating Model]({{< ref "/tags/product-operating-model" >}}), it addresses the unique demands of AI, such as data sourcing, model training, ethical risk management, and continuous learning, by embedding these concerns into roles, workflows, and governance.
 
+## Hierarchy
+
+- **Parent**: [Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}}) - The foundational structure for organizations operating in uncertainty and complexity
+- **Grandparent**: [Operating Model]({{< ref "/tags/operating-model" >}}) - The fundamental "way we work" across the organization
+- **Siblings** (at the same level):
+  - [Product Operating Model]({{< ref "/tags/product-operating-model" >}}) - Specialization for product-centric organizations
+  - [Agile Product Operating Model]({{< ref "/tags/agile-product-operating-model" >}}) - Specialization integrating agile methodologies with product management
+
 ## Why AI Products Need a Specialized Operating Model
 
 Unlike traditional software products, AI products introduce distinct challenges that require specialized approaches:

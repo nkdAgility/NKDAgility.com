@@ -58,6 +58,17 @@ weight: 1000
 
 An operating model defines the essential structure and mechanisms by which an organization consistently delivers value, translating strategy into actionable workflows, roles, and decision rights. It represents the fundamental "way we work" across the organization, the enduring backbone that shapes how teams, technology, governance, and processes interact to achieve outcomes at scale. Unlike specific frameworks, methodologies, or practices, the operating model transcends any particular approach to define how the organization functions as a whole.
 
+## Operating Model Hierarchy
+
+Operating models can be categorized based on their core assumptions about how organizations create and deliver value:
+
+- **[Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}})**: Designed for environments characterized by uncertainty, complexity, and continuous change. Built around learning, fast feedback, and decentralized decision-making.
+  - **[Product Operating Model]({{< ref "/tags/product-operating-model" >}})**: A specialization of the adaptive approach for organizations delivering value through products.
+  - **[Agile Product Operating Model]({{< ref "/tags/agile-product-operating-model" >}})**: A specialization integrating agile methodologies with product management principles for iterative value delivery.
+  - **[AI Product Operating Model]({{< ref "/tags/ai-product-operating-model" >}})**: A specialization for organizations delivering value through AI-powered products, addressing unique AI-specific concerns.
+
+- **[Predictive Operating Model]({{< ref "/tags/predictive-operating-model" >}})**: The established approach built on hierarchical structures, standardized processes, and efficiency optimization. Assumes stable, predictable environments where demand changes slowly and work can be specified upfront. Rooted in Industrial Revolution manufacturing principles and Scientific Management methodology.
+
 ## Understanding Operating Models
 
 At its core, an operating model clarifies how work flows from idea to customer, how responsibilities are distributed, and how coordination happens across the organization. This systemic clarity enables teams to deliver predictably and adapt to change without constant reorganization or ad hoc fixes. A robust operating model supports sustainable delivery by making dependencies, handoffs, and value streams explicit, reducing friction and enabling effective execution.

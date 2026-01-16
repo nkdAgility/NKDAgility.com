@@ -78,6 +78,14 @@ weight: 1000
 
 A product operating model defines the foundational structure for how an organization consistently delivers value through its products. It sets out the roles, responsibilities, processes, and enabling technologies that connect product strategy to execution, ensuring teams have the clarity and autonomy needed to make decisions and adapt quickly.
 
+## Hierarchy
+
+- **Parent**: [Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}}) - The foundational structure for organizations operating in uncertainty and complexity
+- **Grandparent**: [Operating Model]({{< ref "/tags/operating-model" >}}) - The fundamental "way we work" across the organization
+- **Siblings** (at the same level):
+  - [Agile Product Operating Model]({{< ref "/tags/agile-product-operating-model" >}}) - Specialization integrating agile methodologies with product management
+  - [AI Product Operating Model]({{< ref "/tags/ai-product-operating-model" >}}) - Specialization for AI-powered product delivery
+
 ## The Purpose of a Product Operating Model
 
 Unlike frameworks or methodologies such as Scrum or Kanban, which focus on team-level practices, the product operating model addresses the broader, systemic enablers, governance, funding, cross-team alignment, and lifecycle management, that underpin sustainable product delivery. It clarifies how priorities are set, how work flows from idea to customer, and how feedback loops drive continuous improvement.
