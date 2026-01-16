@@ -91,7 +91,7 @@ The Predictive Operating Model is built on Taylorism and Scientific Management [
 **Where it works:**
 This theory of the business is not wrong. It performs exceptionally well when its assumptions hold, predictable environments, repetitive work, limited uncertainty, and markets where efficiency and consistency create advantage.
 
-### The Agile Product Operating Model
+### The Adaptive Operating Model
 
 **Core assumption:**
 The environment is dynamic enough that organisations can only succeed through continuous learning, rapid adaptation, and proximity to customers.
@@ -108,7 +108,7 @@ The environment is dynamic enough that organisations can only succeed through co
 - Management's role is to design systems that enable learning, innovation, and quick adjustment.
 
 **Customer and value assumptions:**
-Customer needs are diverse, evolving, and context-dependent. Value is created by solving specific customer problems, not by producing generic output. Organisations win by learning faster than competitors, adapting their products continuously, and delivering outcomes that matter in the customer’s current context. Where the Predictive Operating Model optimises for volume and repeatability, the Agile Product Operating Model optimises for relevance, impact, and adaptability.
+Customer needs are diverse, evolving, and context-dependent. Value is created by solving specific customer problems, not by producing generic output. Organisations win by learning faster than competitors, adapting continuously, and delivering outcomes that matter in the customer's current context. Where the Predictive Operating Model optimises for volume and repeatability, the Adaptive Operating Model optimises for relevance, impact, and adaptability.
 
 **How organisations discover value:**
 Customer value is discovered through direct observation, rapid experimentation, real usage data, and continuous engagement with real users. In dynamic markets, discovery is an ongoing activity rather than an occasional research exercise.
@@ -117,11 +117,11 @@ Customer value is discovered through direct observation, rapid experimentation, 
 The Agile Product Operating Model aligns with empiricism and continuous value delivery. It organises persistent cross-functional teams around products or value streams, decentralises decision-making to those closest to the work, and measures success through outcomes and customer impact. The model depends on transparency, inspection, and adaptation, supported by short feedback loops, modern engineering practices, and a commitment to technical excellence.
 
 **Where it works:**
-This theory of the business succeeds when uncertainty is high, customer needs evolve rapidly, and competitive advantage comes from learning speed, responsiveness, and continuous alignment between the product and the market.
+This theory of the business succeeds when uncertainty is high, customer needs evolve rapidly, and competitive advantage comes from learning speed, responsiveness, and continuous alignment between what the organization delivers and what the market needs.
 
 ### Why This Distinction Matters
 
-These are not simply different management styles, nor is this a story of "modern vs traditional" or "agile vs waterfall" The contrast is contextual, not moral. The Predictive Operating Model fails only when its assumptions stop matching reality, when the environment becomes too uncertain, too complex, and too fast-moving for prediction and control to work effectively.
+These are not simply different management styles, nor is this a story of "modern vs traditional" or "agile vs waterfall." The contrast is contextual, not moral. The Predictive Operating Model fails only when its assumptions stop matching reality, when the environment becomes too uncertain, too complex, and too fast-moving for prediction and control to work effectively.
 
 Understanding the theory behind each model clarifies why transition is so difficult: you're not just changing processes, **you're challenging fundamental assumptions about how success happens**.
 
