@@ -26,7 +26,7 @@ Instructions: |-
   - Topics unrelated to organisational agility or collaborative change processes
 headline:
   cards: []
-  title: "Open Space Agile: Empowering Teams Through Collaborative Self-Organisation"
+  title: 'Open Space Agile: Empowering Teams Through Collaborative Self-Organisation'
   subtitle: Empowering self-organisation and collaborative decision-making to unlock innovation, adaptability, and continuous improvement in complex environments.
   content: A collaborative, self-organising approach rooted in Open Space Technology principles, enabling large groups to actively shape organisational transformation through authentic dialogue, psychological safety, and collective decision-making. It emphasises emergent practices, continuous improvement, and responsiveness, empowering teams to define priorities and actions suited to complex, adaptive environments.
   updated: 2025-05-23T23:21:35Z
@@ -41,23 +41,23 @@ sitemap:
   priority: 0.7
 icon: fa-circle-nodes
 concepts:
-  - Ethos
+  - Principle
 categories:
   - Product Development
   - Leadership
 tags:
+  - Team Collaboration
   - Social Technologies
   - Organisational Change
   - Self Organisation
   - Organisational Culture
   - Organisational Agility
   - Business Agility
-  - Agile Transformation
-  - Team Collaboration
   - Agile Leadership
   - Team Motivation
-  - Agile Strategy
+  - Agile Transformation
   - Change Management
+  - Agile Strategy
   - Market Adaptability
   - Agile Philosophy
 ItemId: U-6FN9nj1fM
@@ -65,8 +65,8 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
----
 
+---
 Open Space Agile is an innovative approach to organisational agility that leverages the principles of Open Space Technology, allowing for self-organisation and collaborative engagement across large groups. This method, championed by Daniel Mezick and the Open Leadership Network, empowers all members of an organisation to actively participate in shaping the transformation process. By fostering an environment of psychological safety and shared ownership, Open Space Agile encourages authentic dialogue and collective decision-making, moving away from traditional top-down strategies.
 
 This approach is particularly effective in complex environments where adaptability is crucial. It aligns with the Agile ethos by promoting emergent practices that respond to the actual needs of teams rather than adhering to predetermined plans. Teams are encouraged to define their own priorities and actions, which enhances their ability to deliver value predictably and sustainably. Open Space Agile not only facilitates immediate collaboration but also cultivates a long-term culture of continuous improvement and innovation, making it a vital component of modern organisational frameworks. By honouring the voices of those closest to the work, it ensures that transformation is not just a process but a shared journey towards greater agility and responsiveness.

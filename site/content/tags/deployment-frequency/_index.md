@@ -33,7 +33,7 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:01:09
 icon: fa-calendar-arrow-up
 concepts:
-  - Practice
+  - Principle
 categories:
   - Product Development
   - Engineering Excellence
@@ -42,17 +42,17 @@ tags:
   - Value Delivery
   - Frequent Releases
   - Metrics and Learning
+  - Market Adaptability
   - Software Development
   - Continuous Improvement
-  - Team Performance
-  - Organisational Agility
-  - Market Adaptability
   - Operational Practices
-  - Product Delivery
-  - Release Management
+  - Team Performance
   - Pragmatic Thinking
+  - Product Delivery
   - Time to Market
+  - Release Management
   - Customer Focus
+  - Social Technologies
 ItemId: bzePYp2QIsI
 ResourceId: bzePYp2QIsI
 ItemType: tags

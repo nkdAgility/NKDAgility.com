@@ -40,10 +40,10 @@ categories:
   - Product Development
 tags:
   - Social Technologies
+  - Team Collaboration
   - Organisational Culture
   - Team Motivation
   - Agile Philosophy
-  - Team Collaboration
   - Organisational Agility
   - Organisational Psychology
   - Team Performance

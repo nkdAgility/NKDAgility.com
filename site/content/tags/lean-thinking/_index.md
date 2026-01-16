@@ -42,10 +42,9 @@ tags:
   - Operational Practices
   - Value Delivery
   - Continuous Improvement
-  - Market Adaptability
   - Social Technologies
   - Organisational Agility
-  - Continuous Learning
+  - Market Adaptability
   - Organisational Change
   - Pragmatic Thinking
 ItemId: MYfQZupJiVl

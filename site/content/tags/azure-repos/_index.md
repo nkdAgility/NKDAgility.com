@@ -41,6 +41,7 @@ tags:
   - Software Development
   - Modern Source Control
   - Azure DevOps
+  - Technical Mastery
   - Team Collaboration
 ItemId: 22D441vkNb6
 ResourceId: 22D441vkNb6

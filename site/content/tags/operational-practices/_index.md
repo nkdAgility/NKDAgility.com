@@ -34,15 +34,15 @@ sitemap:
 BodyContentGenDate: 2025-04-09T15:11:46
 icon: fa-gears
 concepts:
-  - Practice
+  - Capability
 categories:
   - Product Development
 tags:
   - Organisational Agility
   - Value Delivery
   - Continuous Improvement
-  - Team Performance
   - Market Adaptability
+  - Team Performance
   - Business Agility
 ItemId: f2SPknWizFW
 ResourceId: f2SPknWizFW

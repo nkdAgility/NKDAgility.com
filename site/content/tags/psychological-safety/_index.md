@@ -33,16 +33,16 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:24:18
 icon: fa-user-shield
 concepts:
-  - Capability
+  - Philosophy
 categories:
   - Product Development
 tags:
+  - Team Collaboration
   - Organisational Psychology
   - Team Motivation
-  - Team Collaboration
+  - Continuous Learning
   - Employee Engagement
   - Organisational Culture
-  - Continuous Learning
   - Social Technologies
   - Coaching
   - Ability to Innovate

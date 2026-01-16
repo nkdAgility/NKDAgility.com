@@ -54,8 +54,8 @@ tags:
   - Organisational Agility
   - Value Delivery
   - Pragmatic Thinking
-  - Team Collaboration
   - Market Adaptability
+  - Agile Planning Tools
 ItemId: 0iF2-4Pcoiu
 ResourceId: 0iF2-4Pcoiu
 ItemType: tags

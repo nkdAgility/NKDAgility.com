@@ -1,55 +1,14 @@
 {
-  "Philosophy": {
-    "categories": [],
-    "tags": []
-  },
-  "Practice": {
+  "Framework": {
     "tags": [
-      "Value Stream Mapping",
-      "Test First Development",
-      "Test Driven Development",
-      "Test Automation",
-      "Technical Excellence",
-      "Team Collaboration",
-      "Shift Left Strategy",
-      "Remote Working",
-      "Operational Practices",
-      "Modern Source Control",
-      "Frequent Releases",
-      "Experimentation",
-      "Engineering Practices",
-      "Deployment Frequency",
-      "Daily Scrum",
-      "Cycle Time",
-      "Continuous Integration",
-      "Continuous Delivery",
-      "Behaviour Driven Development",
-      "Backlog Refinement",
-      "Automated Testing",
-      "Acceptance Test Driven Development"
+      "Sprint Review",
+      "Scrum Values",
+      "Large Scale Agility",
+      "Agile Frameworks"
     ],
     "categories": [
-      "Kanban"
+      "Scrum"
     ]
-  },
-  "Method": {
-    "tags": [
-      "Service Level Expectation",
-      "Release Management",
-      "Lean Startup",
-      "Lean Product Development",
-      "Hypothesis Driven Development",
-      "Estimation"
-    ],
-    "categories": []
-  },
-  "Observability": {
-    "tags": [
-      "Throughput",
-      "Revenue per Employee",
-      "Lead Time"
-    ],
-    "categories": []
   },
   "Artifact": {
     "tags": [
@@ -58,49 +17,6 @@
       "Definition of Workflow",
       "Definition of Ready",
       "Definition of Done"
-    ],
-    "categories": []
-  },
-  "Accountability": {
-    "tags": [
-      "Scrum Team",
-      "Product Owner"
-    ],
-    "categories": []
-  },
-  "Principle": {
-    "tags": [
-      "Working Software",
-      "Value Delivery",
-      "Troubleshooting",
-      "Transparency",
-      "Self Organisation",
-      "Personal",
-      "Objective Key Results",
-      "Metrics and Learning",
-      "Liberating Structures",
-      "Lean Thinking",
-      "Lean Principles",
-      "Evidence Based Management",
-      "Empirical Process Control",
-      "Customer Satisfaction",
-      "Customer Retention",
-      "Customer Focus",
-      "Customer Feedback Loops",
-      "Continuous Improvement",
-      "Common Goals",
-      "Asynchronous Development",
-      "Agnostic Agile",
-      "Agile Planning",
-      "Agile Leadership"
-    ],
-    "categories": [
-      "Lean"
-    ]
-  },
-  "First Principal": {
-    "tags": [
-      "Competence"
     ],
     "categories": []
   },
@@ -120,15 +36,16 @@
     ],
     "categories": []
   },
-  "Framework": {
+  "Discipline": {
     "tags": [
-      "Sprint Review",
-      "Scrum Values",
-      "Large Scale Agility",
-      "Agile Frameworks"
+      "Working Agreements",
+      "Scrum Master",
+      "Project Management",
+      "Organisational Psychology",
+      "Forecasting"
     ],
     "categories": [
-      "Scrum"
+      "Engineering Excellence"
     ]
   },
   "Strategy": {
@@ -145,7 +62,9 @@
       "Digital Transformation",
       "Decision Theory",
       "Company as a Product",
-      "Agile Product Management"
+      "Agile Product Operating Model",
+      "Agile Product Management",
+      "Agentic Software Delivery"
     ],
     "categories": [
       "Product Development"
@@ -154,27 +73,6 @@
   "Tenet": {
     "categories": [],
     "tags": []
-  },
-  "Model": {
-    "tags": [
-      "Systems Thinking",
-      "Organisational Physics",
-      "Complexity Thinking",
-      "Cell Structure Design"
-    ],
-    "categories": []
-  },
-  "Discipline": {
-    "tags": [
-      "Working Agreements",
-      "Scrum Master",
-      "Project Management",
-      "Organisational Psychology",
-      "Forecasting"
-    ],
-    "categories": [
-      "Engineering Excellence"
-    ]
   },
   "Capability": {
     "tags": [
@@ -224,6 +122,103 @@
       "Leadership"
     ]
   },
+  "Method": {
+    "tags": [
+      "Service Level Expectation",
+      "Release Management",
+      "Lean Startup",
+      "Lean Product Development",
+      "Hypothesis Driven Development",
+      "Estimation"
+    ],
+    "categories": []
+  },
+  "Philosophy": {
+    "categories": [],
+    "tags": []
+  },
+  "Practice": {
+    "tags": [
+      "Value Stream Mapping",
+      "Test First Development",
+      "Test Driven Development",
+      "Test Automation",
+      "Technical Excellence",
+      "Team Collaboration",
+      "Shift Left Strategy",
+      "Remote Working",
+      "Operational Practices",
+      "Modern Source Control",
+      "Frequent Releases",
+      "Experimentation",
+      "Engineering Practices",
+      "Deployment Frequency",
+      "Daily Scrum",
+      "Cycle Time",
+      "Continuous Integration",
+      "Continuous Delivery",
+      "Behaviour Driven Development",
+      "Backlog Refinement",
+      "Automated Testing",
+      "Acceptance Test Driven Development"
+    ],
+    "categories": [
+      "Kanban"
+    ]
+  },
+  "Model": {
+    "tags": [
+      "Systems Thinking",
+      "Organisational Physics",
+      "Complexity Thinking",
+      "Cell Structure Design"
+    ],
+    "categories": []
+  },
+  "First Principal": {
+    "tags": [
+      "Competence"
+    ],
+    "categories": []
+  },
+  "Observability": {
+    "tags": [
+      "Throughput",
+      "Revenue per Employee",
+      "Lead Time"
+    ],
+    "categories": []
+  },
+  "Principle": {
+    "tags": [
+      "Working Software",
+      "Value Delivery",
+      "Troubleshooting",
+      "Transparency",
+      "Self Organisation",
+      "Personal",
+      "Objective Key Results",
+      "Metrics and Learning",
+      "Liberating Structures",
+      "Lean Thinking",
+      "Lean Principles",
+      "Evidence Based Management",
+      "Empirical Process Control",
+      "Customer Satisfaction",
+      "Customer Retention",
+      "Customer Focus",
+      "Customer Feedback Loops",
+      "Continuous Improvement",
+      "Common Goals",
+      "Asynchronous Development",
+      "Agnostic Agile",
+      "Agile Planning",
+      "Agile Leadership"
+    ],
+    "categories": [
+      "Lean"
+    ]
+  },
   "Ethos": {
     "tags": [
       "Social Technologies",
@@ -232,7 +227,6 @@
       "Open Space Agile",
       "Hybrid Agile",
       "Beta Codex",
-      "Agile Product Operating Model",
       "Agile Philosophy",
       "Agentic Agility"
     ],
@@ -240,5 +234,12 @@
       "Product Management",
       "DevOps"
     ]
+  },
+  "Accountability": {
+    "tags": [
+      "Scrum Team",
+      "Product Owner"
+    ],
+    "categories": []
   }
 }

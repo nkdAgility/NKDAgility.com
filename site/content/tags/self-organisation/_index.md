@@ -33,7 +33,7 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:14:25
 icon: fa-sitemap
 concepts:
-  - Principle
+  - Capability
 categories:
   - Product Development
   - Technical Leadership
@@ -49,9 +49,9 @@ tags:
   - Team Motivation
   - Value Delivery
   - Agentic Agility
-  - Lean Principles
   - Continuous Learning
   - Team Performance
+  - Agile Strategy
 ItemId: fpCQh1KmLc2
 ResourceId: fpCQh1KmLc2
 ItemType: tags

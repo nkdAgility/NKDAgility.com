@@ -34,24 +34,22 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:46:33
 icon: fa-arrows-left-right-to-line
 concepts:
-  - Capability
+  - Tenet
 categories:
   - Lean
   - Product Development
   - DevOps
 tags:
-  - Lean Principles
   - Operational Practices
-  - Value Stream Management
+  - Lean Principles
   - Pragmatic Thinking
   - Value Delivery
   - Lean Thinking
+  - Value Stream Management
   - Team Performance
   - Lean Product Development
   - Continuous Improvement
   - Market Adaptability
-  - Social Technologies
-  - Metrics and Learning
   - Organisational Agility
   - Product Delivery
 ItemId: gX5e5N058qw

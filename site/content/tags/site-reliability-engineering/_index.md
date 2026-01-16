@@ -29,7 +29,7 @@ Instructions: |-
   **Strictly exclude** any discussions that do not directly relate to the principles and practices of Site Reliability Engineering, such as general software development practices, unrelated DevOps topics, or Agile methodologies that do not specifically address reliability in production systems.
 headline:
   cards: []
-  title: "Site Reliability Engineering (SRE): Engineering Resilience into Continuous Delivery"
+  title: 'Site Reliability Engineering (SRE): Engineering Resilience into Continuous Delivery'
   subtitle: Engineering resilient, scalable systems through automation, measurement, and continuous improvement to ensure reliability and customer-centric performance.
   content: Site Reliability Engineering applies disciplined software engineering principles to design, measure, and continuously improve system reliability and resilience. Posts explore practices including telemetry, incident response, automation, progressive delivery, and establishing clear service-level metrics, enabling teams to proactively manage operational complexity, enhance customer experience, and deliver sustainable business outcomes.
   updated: 2025-05-23T23:13:32Z
@@ -53,7 +53,6 @@ tags:
   - Product Delivery
   - Customer Focus
   - Engineering Practices
-  - Market Adaptability
   - Continuous Improvement
   - Service Level Expectation
   - Value Delivery
@@ -63,8 +62,8 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
----
 
+---
 Site Reliability Engineering (SRE) is not a job title; it is an ethos. It is the disciplined application of software engineering principles to design, build, and operate reliable, scalable systems. And it is essential if you want to survive modern software delivery.
 
 SRE builds resilience by design, not by accident. It makes reliability a first-class product feature: measured, automated, and continuously improved. This ethos aligns perfectly with the Azure DevOps journey , moving from on-premises to SaaS, from two-year release cycles to daily deployments, and from siloed development to integrated, accountable delivery.

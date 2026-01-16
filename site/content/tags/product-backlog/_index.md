@@ -49,11 +49,10 @@ tags:
   - Agile Planning
   - Operational Practices
   - Organisational Agility
-  - Social Technologies
   - Value Delivery
   - Product Delivery
+  - Social Technologies
   - Market Adaptability
-  - Continuous Improvement
   - Agile Planning Tools
   - Pragmatic Thinking
   - Software Development

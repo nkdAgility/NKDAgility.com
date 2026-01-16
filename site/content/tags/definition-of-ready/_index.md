@@ -42,18 +42,18 @@ sitemap:
   priority: 0.7
 icon: fa-clipboard-question
 concepts:
-  - Artifact
+  - Practice
 categories:
   - Product Development
   - Scrum
   - Technical Leadership
 tags:
   - Software Development
-  - Agile Planning
   - Backlog Refinement
+  - Agile Planning
+  - Product Backlog
   - Agile Product Management
   - Operational Practices
-  - Product Backlog
 ItemId: wJb3UWcL18z
 ResourceId: wJb3UWcL18z
 ItemType: tags

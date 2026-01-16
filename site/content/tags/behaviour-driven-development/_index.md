@@ -42,7 +42,6 @@ tags:
   - Social Technologies
   - Team Collaboration
   - Value Delivery
-  - Organisational Agility
   - Engineering Practices
   - Pragmatic Thinking
   - Product Delivery

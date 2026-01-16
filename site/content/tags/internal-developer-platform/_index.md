@@ -34,11 +34,11 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T16:41:07
 concepts:
-  - Tool
+  - Capability
 categories:
   - Engineering Excellence
-  - DevOps
   - Product Development
+  - DevOps
 tags:
   - Software Development
   - Platform Engineering
@@ -47,6 +47,8 @@ tags:
   - Digital Transformation
   - Engineering Practices
   - Value Delivery
+  - Continuous Improvement
+  - Technical Mastery
   - Sociotechnical Systems
   - Frequent Releases
 ItemId: 93_WMR8pQcd

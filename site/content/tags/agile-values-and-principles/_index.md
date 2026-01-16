@@ -37,7 +37,7 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:32:01
 icon: fa-scroll
 concepts:
-  - Capability
+  - Philosophy
 categories:
   - Product Development
   - Technical Leadership
@@ -48,9 +48,9 @@ tags:
   - Agile Transformation
   - Social Technologies
   - Software Development
-  - Continuous Improvement
   - Organisational Culture
   - Value Delivery
+  - Continuous Improvement
   - Organisational Change
   - Business Agility
   - Sociotechnical Systems

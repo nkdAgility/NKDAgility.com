@@ -38,22 +38,21 @@ concepts:
   - Principle
 categories:
   - Product Development
-  - Product Management
   - Lean
+  - Product Management
 tags:
   - Organisational Agility
   - Social Technologies
   - Agile Product Management
-  - Lean Principles
   - Operational Practices
+  - Lean Principles
   - Lean Product Development
-  - Market Adaptability
-  - Customer Satisfaction
   - Continuous Improvement
   - Lean Thinking
   - Software Development
   - Agile Philosophy
   - Business Agility
+  - Market Adaptability
 ItemId: lzpnGH-4vEi
 ResourceId: lzpnGH-4vEi
 ItemType: tags

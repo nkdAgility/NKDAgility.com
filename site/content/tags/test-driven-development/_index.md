@@ -39,12 +39,13 @@ categories:
   - Engineering Excellence
 tags:
   - Software Development
+  - Technical Mastery
   - Engineering Practices
   - Technical Excellence
-  - Technical Mastery
   - Automated Testing
   - Operational Practices
   - Test First Development
+  - Test Automation
   - Team Performance
 ItemId: _fJ65HAhnqC
 ResourceId: _fJ65HAhnqC

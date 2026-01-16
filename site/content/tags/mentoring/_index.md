@@ -39,11 +39,12 @@ categories:
   - Technical Leadership
   - Leadership
 tags:
+  - Continuous Learning
   - Competence
   - Organisational Agility
   - Social Technologies
   - Organisational Culture
-  - Continuous Learning
+  - Continuous Improvement
   - Organisational Psychology
   - Pragmatic Thinking
   - Business Agility

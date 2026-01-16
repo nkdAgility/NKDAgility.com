@@ -39,13 +39,13 @@ categories:
 tags:
   - Azure DevOps
   - Agile Planning Tools
+  - Collaboration Tools
   - Operational Practices
   - Continuous Improvement
-  - Product Delivery
   - Software Development
   - Agile Planning
+  - Product Delivery
   - Organisational Agility
-  - Collaboration Tools
   - Project Management
   - Transparency
   - Pragmatic Thinking

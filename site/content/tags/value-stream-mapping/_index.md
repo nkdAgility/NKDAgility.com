@@ -37,21 +37,21 @@ icon: fa-route
 concepts:
   - Practice
 categories:
-  - Product Development
   - Lean
+  - Product Development
   - Technical Leadership
 tags:
-  - Operational Practices
-  - Continuous Improvement
   - Lean Principles
+  - Operational Practices
+  - Value Stream Management
+  - Continuous Improvement
   - Value Delivery
   - Lean Product Development
   - Lean Thinking
   - Pragmatic Thinking
   - Team Performance
-  - Value Stream Management
+  - Market Adaptability
   - Business Agility
-  - Metrics and Learning
   - Organisational Agility
   - Project Management
   - Product Delivery

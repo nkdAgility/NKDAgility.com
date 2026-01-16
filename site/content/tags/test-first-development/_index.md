@@ -24,7 +24,7 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the principles of Test First Development, such as unrelated software engineering practices, general testing methodologies without a focus on the Test First approach, or misinterpretations of the core concepts.
 headline:
   cards: []
-  title: "Test First Development: Defining Success Criteria to Drive Quality and Collaboration"
+  title: 'Test First Development: Defining Success Criteria to Drive Quality and Collaboration'
   subtitle: Define clear success criteria upfront to drive design decisions, accelerate feedback loops, reduce ambiguity, and align teams on customer outcomes.
   content: A contemporary engineering practice that emphasises defining clear success criteria through examples, scenarios, or executable tests before implementation begins, enabling rapid feedback, reducing ambiguity, improving collaboration among developers, testers, designers, and product owners, and ensuring software design aligns closely with customer outcomes and quality standards.
   updated: 2025-05-23T23:15:37Z
@@ -40,10 +40,10 @@ categories:
 tags:
   - Engineering Practices
   - Software Development
-  - Technical Mastery
+  - Shift Left Strategy
   - Technical Excellence
   - Operational Practices
-  - Shift Left Strategy
+  - Technical Mastery
   - Pragmatic Thinking
 ItemId: 9ARau6V0dYr
 ResourceId: 9ARau6V0dYr
@@ -51,8 +51,8 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
----
 
+---
 **Test First** is a modern engineering practice that anchors the delivery of working software in clarity, confidence, and quality. It is a shift-left strategy where tests are defined _before_ implementation begins, guiding design and enabling faster feedback loops.
 
 At its core, Test First, as a practice, promotes defining success criteria upfront, whether through examples, scenarios, specifications, or executable tests. This clarity ensures that teams understand what “good” looks like before they write any code or build any components.

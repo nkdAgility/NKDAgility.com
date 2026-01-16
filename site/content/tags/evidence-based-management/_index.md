@@ -3,10 +3,10 @@ title: Evidence Based Management
 description: Evidence-Based Management (EBM) is a strategy for improving an organisation’s ability to deliver value by making decisions based on evidence, not opinion. It enables data-informed investment in agility, innovation, and outcomes rather than output.
 ClassificationType: tags
 trustpilot: false
-abstract: "Evidence-Based Management (EBM) is a strategic approach designed to enhance organisational agility by providing a framework for assessing and improving value delivery. Unlike traditional frameworks or methodologies, EBM focuses on empirical data to inform decision-making, enabling organisations to move beyond superficial metrics and truly understand their performance. It centres on four critical areas: Current Value, which evaluates immediate value delivery; Time to Market, which measures responsiveness and speed; Ability to Innovate, which assesses the capacity for creating new value amidst existing challenges; and Unrealised Value, which identifies potential opportunities for growth. By utilising these metrics, leaders can make informed decisions about resource allocation and prioritisation, ultimately fostering a culture of continuous improvement. EBM is particularly valuable in the contexts of agile, DevOps, and product development, as it encourages a shift from output-focused practices to outcome-driven strategies. This empirical approach not only clarifies organisational goals but also provides the necessary feedback to adapt and evolve, ensuring that efforts are aligned with delivering real value rather than merely maintaining the status quo. In a landscape where many organisations struggle with agility, EBM offers a practical solution for those seeking to enhance their effectiveness and responsiveness in a complex and dynamic environment."
+abstract: 'Evidence-Based Management (EBM) is a strategic approach designed to enhance organisational agility by providing a framework for assessing and improving value delivery. Unlike traditional frameworks or methodologies, EBM focuses on empirical data to inform decision-making, enabling organisations to move beyond superficial metrics and truly understand their performance. It centres on four critical areas: Current Value, which evaluates immediate value delivery; Time to Market, which measures responsiveness and speed; Ability to Innovate, which assesses the capacity for creating new value amidst existing challenges; and Unrealised Value, which identifies potential opportunities for growth. By utilising these metrics, leaders can make informed decisions about resource allocation and prioritisation, ultimately fostering a culture of continuous improvement. EBM is particularly valuable in the contexts of agile, DevOps, and product development, as it encourages a shift from output-focused practices to outcome-driven strategies. This empirical approach not only clarifies organisational goals but also provides the necessary feedback to adapt and evolve, ensuring that efforts are aligned with delivering real value rather than merely maintaining the status quo. In a landscape where many organisations struggle with agility, EBM offers a practical solution for those seeking to enhance their effectiveness and responsiveness in a complex and dynamic environment.'
 ClassificationContentOrigin: human
 date: 2025-03-21T14:44:46Z
-weight: 255
+weight: 250
 ResourceId: dN0v6E1KsNd
 Instructions: |-
   **Use this category only for discussions on Evidence-Based Management.**  
@@ -26,7 +26,7 @@ Instructions: |-
   - Any content that promotes frameworks or tools without grounding in empirical evidence or metrics.
 headline:
   cards: []
-  title: "Evidence-Based Management (EBM): Turning Data into Strategic Agility"
+  title: 'Evidence-Based Management (EBM): Turning Data into Strategic Agility'
   subtitle: Measure what matters, inform strategic decisions, and continuously improve outcomes by focusing on value, responsiveness, innovation, and untapped opportunities.
   content: Evidence-Based Management provides organisations with empirical methods and meaningful metrics to evaluate value delivery, responsiveness, innovation capacity, and untapped opportunities. It emphasises outcome-driven decisions, informed prioritisation, and continuous improvement, enabling leaders to replace assumptions and superficial measures with actionable insights and measurable progress in complex, dynamic environments.
   updated: 2025-05-23T23:15:56Z
@@ -39,21 +39,21 @@ sitemap:
   priority: 0.7
 icon: fa-magnifying-glass-chart
 concepts:
-  - Principle
+  - Strategy
 categories:
-  - Product Management
   - Product Development
+  - Product Management
   - Technical Leadership
 tags:
-  - Decision Making
-  - Evidence Based Leadership
   - Metrics and Learning
+  - Evidence Based Leadership
+  - Decision Making
   - Customer Focus
   - Empirical Process Control
   - Pragmatic Thinking
+  - Organisational Agility
   - Value Delivery
   - Operational Practices
-  - Organisational Agility
   - Market Adaptability
   - Professional Scrum
   - Strategic Goals
@@ -64,8 +64,8 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
----
 
+---
 Too many organisations talk about being agile, but they’re still flying blind. Evidence-Based Management (EBM) is a strategy to fix that. It’s not a framework, a methodology, or a tool. It’s a way to stop pretending we’re improving and start proving it.
 
 EBM gives us a structure for inspecting how well we're delivering value and where to invest next. It’s built around four key areas:

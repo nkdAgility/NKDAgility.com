@@ -41,7 +41,6 @@ concepts:
   - Capability
 categories:
   - Technical Leadership
-  - Product Development
 tags:
   - Social Technologies
   - Employee Engagement

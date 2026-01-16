@@ -34,21 +34,20 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:38:00
 icon: fa-calendar-check
 concepts:
-  - Principle
+  - Strategy
 categories:
   - Product Development
   - Product Management
 tags:
   - Software Development
   - Agile Strategy
+  - Market Adaptability
   - Social Technologies
   - Operational Practices
   - Value Delivery
-  - Market Adaptability
   - Organisational Agility
-  - Strategic Goals
   - Agile Philosophy
-  - Pragmatic Thinking
+  - Strategic Goals
   - Agile Frameworks
 ItemId: Qi4MehbXyxw
 ResourceId: Qi4MehbXyxw
