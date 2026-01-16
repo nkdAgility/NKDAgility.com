@@ -65,7 +65,7 @@ delivery_audiences:
   - Scrum Masters
   - Lean Agile Practitioners
   - Entrepreneurs
-preview: naked-agility-Professional-Scrum-PSPO-I-1600x900-1.jpg
+preview: naked-agility-Professional-Scrum-PSPO-I-1600x900-1.webp
 code: PSPO
 programCode: PSPO
 course_proficiencies:
@@ -106,7 +106,7 @@ objectives: |
   - Track value creation with meaningful metrics.
   - Engage stakeholders, customers, and team members effectively.
 previewIcon: PSPO-400x.png
-brandColour: '#749335'
+brandColour: "#749335"
 prerequisites: |
   Participants will benefit most from the course if they:
   - Have studied the [Scrum Guide](https://www.scrumguides.org/).
@@ -119,11 +119,11 @@ audience:
     - capabilities/training-courses/audiences/product-owners.md
 trainers:
   - /company/people/martin-hinshelwood/
-roadmap: 
+roadmap:
 ResourceId: PSPO
 ResourceType: course
-
 ---
+
 # Professional Scrum Product Owner (PSPO) Course Datasheet
 
 **Course Code:** PSPO
