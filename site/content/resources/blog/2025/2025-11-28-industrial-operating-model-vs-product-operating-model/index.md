@@ -1,8 +1,8 @@
 ---
 title: Why Most Companies Operating Models Fail in Dynamic Markets
 short_title: Why Most Operating Models Fail
-description: A concise comparison of the Industrial and Agile Product Operating Models, explaining why traditional structures fail in dynamic markets and how organisations can shift to a faster, outcome-driven, adaptive way of working.
-tldr: Most organisations still use an Industrial Operating Model built for stable, predictable markets, which now creates massive waste, slow decisions, and disengaged teams in today’s dynamic environment. An Agile Product Operating Model, built on empiricism, rapid learning, decentralised decision-making, and persistent cross-functional teams, is a better fit because it focuses on outcomes, adaptability, and continuous alignment with customers. The real work is redesigning structures, measures, and leadership, not just adopting new processes.
+description: A concise comparison of Predictive and Adaptive Operating Models, explaining why traditional structures fail in dynamic markets and how organisations can shift to a faster, outcome-driven, adaptive way of working.
+tldr: Most organisations still use a Predictive Operating Model built for stable, predictable markets, which now creates massive waste, slow decisions, and disengaged teams in today's dynamic environment. An Adaptive Operating Model, built on empiricism, rapid learning, decentralised decision-making, and persistent cross-functional teams, is a better fit because it focuses on outcomes, adaptability, and continuous alignment with customers. The real work is redesigning structures, measures, and leadership, not just adopting new processes.
 date: 2025-12-04
 lastmod: 2025-12-03
 weight: 270
@@ -32,6 +32,8 @@ categories:
   - Leadership
 tags:
   - Operating Model
+  - Adaptive Operating Model
+  - Predictive Operating Model
   - Value Delivery
   - Agile Philosophy
   - Organisational Agility
@@ -56,7 +58,7 @@ ResourceId: 7nXTKmU_F04
 ResourceType: blog
 ---
 
-Most organisations today operate under an [Predictive Operating Model]({{< ref "/tags/predictive-operating-model" >}}) while competing in dynamic markets. This fundamental mismatch creates enormous waste, missed opportunities, and frustrated teams. Understanding why this model fails, and what must replace it, is essential for any organisation seeking to deliver value effectively in the 21st century and beyond.
+Most organisations today operate under a [Predictive Operating Model]({{< ref "/tags/predictive-operating-model" >}}) while competing in dynamic markets. This fundamental mismatch creates enormous waste, missed opportunities, and frustrated teams. Understanding why this model fails, and how an [Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}}) can replace it, is essential for any organisation seeking to deliver value effectively in the 21st century and beyond.
 
 ## Defining the Two Operating Models
 
@@ -65,8 +67,6 @@ Before we explore why organisations struggle, we must clearly define the two ope
 Every organization operates on a theory of the business [^Drucker-TOB]: a set of assumptions about the environment, the organization's mission, and what it must do to succeed. Understanding the theory of our business begins with two foundational questions: **Who is the customer, and what does the customer value?** But it doesn't end there. We must also understand the constraints we operate within, technological, regulatory, resource, competitive, and environmental factors that shape what's possible. Without explicit answers to these questions, "value delivery" becomes an empty phrase.
 
 Each operating model embodies a fundamentally different theory of the business and makes fundamentally different assumptions about the customer, what they value, and the constraints within which value must be delivered.
-
-Im going to use "[Predictive Operating Model]({{< ref "/tags/predictive-operating-model" >}})" to refer to what most companies do, and "[Agile Product Operating Model (APOM)]({{< ref "/tags/agile-product-operating-model" >}})" to refer to what a few companies do.
 
 ### The Predictive Operating Model
 
@@ -153,9 +153,9 @@ The environment has shifted, but the Predictive Operating Model's theory of the 
 
 The Predictive Operating Model operates at fundamentally the wrong speed for dynamic markets. While the market iterates daily, the organisation plans annually or bi-annually. While customer needs evolve continuously, the organisation delivers in large batches after months of work. This speed mismatch is not a minor friction, it is a structural incompatibility rooted in an obsolete theory of the business that no longer reflects how markets actually behave.
 
-## The Agile Product Operating Model Enables Success in Dynamic Markets
+## The Adaptive Operating Model Enables Success in Dynamic Markets
 
-The Agile Product Operating Model structures organisations for speed, learning, and adaptation. Its theory of the business, that success comes through continuous learning and rapid adaptation in complex, changing environments, matches the reality most organizations face today.
+The [Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}}) structures organisations for speed, learning, and adaptation. Its theory of the business, that success comes through continuous learning and rapid adaptation in complex, changing environments, matches the reality most organizations face today.
 
 At its foundation lies **empiricism**: the practice of making decisions based on observation and experiment rather than prediction and assumption. [Scrum]({{< ref "/categories/scrum" >}}), as a social technology, makes work transparent, creates regular inspection points, and enables rapid adaptation based on what is learned [^ScrumGuide]. [Kanban]({{< ref "/categories/kanban" >}}), as an observability pattern, makes workflow visible and measures actual delivery performance, enabling teams to see and improve their systems.
 
@@ -167,7 +167,7 @@ At its foundation lies **empiricism**: the practice of making decisions based on
 
 **Technical excellence** is mandatory, not aspirational. Teams must practice Continuous Integration and Continuous Delivery as Kent Beck and Jez Humble have taught us [^Humble]. Automated testing provides the safety to move quickly. Infrastructure as Code enables rapid provisioning and recovery. Monitoring and observability reveal how systems behave in production. AI-assisted development accelerates capability building while maintaining quality and enabling teams to focus on higher-value problem-solving. These practices are not tools or processes, they embody a DevOps ethos that breaks down barriers between building and operating software.
 
-The Agile Product Operating Model matches the speed and uncertainty of dynamic markets. It structures organisations to learn and adapt continuously rather than predict and control.
+The Adaptive Operating Model matches the speed and uncertainty of dynamic markets. It structures organisations to learn and adapt continuously rather than predict and control.
 
 ## Operating-Model Hygiene: Why Organizations Regress
 
@@ -187,13 +187,13 @@ This work never ends. Organizations exist in constant tension between forces tha
 
 ## Making the Transition
 
-Transitioning from Predictive to Agile Product Operating Model is not a simple process change. It requires fundamentally changing your organization's theory of the business, the core assumptions about how success happens. This demands shifts in structure, culture, measurement, and leadership that reflect the new theory.
+Transitioning from a [Predictive Operating Model]({{< ref "/tags/predictive-operating-model" >}}) to an [Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}}) is not a simple process change. It requires fundamentally changing your organization's theory of the business, the core assumptions about how success happens. This demands shifts in structure, culture, measurement, and leadership that reflect the new theory.
 
 **Structure must change** to persistent, cross-functional teams aligned to value streams or products. Functional departments become communities of practice rather than organisational silos. Project teams and resource pools must go, they are incompatible with the Agile Product Operating Model.
 
 **Measurement must change** from output to outcome. Evidence-Based Management provides the framework: Current Value, Unrealized Value, Time to Market, and Ability to Innovate. These measures focus on value delivery and system capability, not individual productivity or task completion. Velocity, utilization rates, and other behaviors-distorting metrics must be abandoned [^Bogsnes].
 
-**Leadership must change** from command-and-control to system stewardship. Drucker defined management through five responsibilities: setting objectives, organizing work, motivating people, measuring performance, and developing people [^Drucker-POM]. Under the Predictive Operating Model, managers set objectives through prediction, organize work through functional silos, motivate through supervision and utilization targets, measure output and efficiency, and develop narrow specialization. The Agile Product Operating Model requires different interpretations: managers define clear goals and constraints rather than detailed plans (Product Goals, Sprint Goals), design persistent cross-functional teams as the primary organizational structure, create conditions for mastery and autonomy by removing impediments, measure outcomes and system capability through Evidence-Based Management, and build broad adaptable capability through continuous development [^Grove]. Critically, leaders must maintain goal clarity throughout the organization while allowing those goals to evolve with learning, a discipline most companies find difficult because it requires balancing stability of direction with flexibility of approach. Without explicitly redefining the manager's role, organizations default to Industrial-era behaviors regardless of their stated intentions.
+**Leadership must change** from command-and-control to system stewardship. Drucker defined management through five responsibilities: setting objectives, organizing work, motivating people, measuring performance, and developing people [^Drucker-POM]. Under the Predictive Operating Model, managers set objectives through prediction, organize work through functional silos, motivate through supervision and utilization targets, measure output and efficiency, and develop narrow specialization. The Adaptive Operating Model requires different interpretations: managers define clear goals and constraints rather than detailed plans, design persistent cross-functional teams as the primary organizational structure, create conditions for mastery and autonomy by removing impediments, measure outcomes and system capability through Evidence-Based Management, and build broad adaptable capability through continuous development [^Grove]. Critically, leaders must maintain goal clarity throughout the organization while allowing those goals to evolve with learning, a discipline most companies find difficult because it requires balancing stability of direction with flexibility of approach. Without explicitly redefining the manager's role, organizations default to Predictive Operating Model behaviors regardless of their stated intentions.
 
 **Culture must change** to support transparency, experimentation, and psychological safety. Teams must be able to surface problems without fear of blame. Failure in controlled experiments must be recognized as learning, not punished as incompetence. This cultural shift takes time and consistent leadership behaviors.
 
@@ -215,7 +215,7 @@ The question is not whether to change, but how quickly you can change.
 
 Start by acknowledging the mismatch. Your operating model embodies a theory of the business designed for different conditions. It is not bad, it is unfit for current context. The assumptions embedded in your structures, processes, and leadership behaviors were built for a world that no longer exists.
 
-Commit to operating-model redesign built on the Agile Product Operating Model. Establish clear, adaptive goals at every level that provide direction without constraining discovery. Structure persistent, cross-functional teams around value streams. Distribute decision-making authority to those teams. Measure outcomes and system capability, not outputs and individual activity. Develop leaders who design systems rather than control work.
+Commit to operating-model redesign built on the [Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}}). Establish clear, adaptive goals at every level that provide direction without constraining discovery. Structure persistent, cross-functional teams around value streams. Distribute decision-making authority to those teams. Measure outcomes and system capability, not outputs and individual activity. Develop leaders who design systems rather than control work. Organizations delivering value through products can implement this through specialized approaches like the [Product Operating Model]({{< ref "/tags/product-operating-model" >}}) or [Agile Product Operating Model]({{< ref "/tags/agile-product-operating-model" >}}).
 
 Let the organisation shape its own transition. OpenSpace Agile provides the structure: you set the direction, your people design the path through rapid experiments and continuous learning [^OpenSpaceAgile]. This creates change in months, not years.
 
