@@ -5,7 +5,7 @@ trustpilot: false
 abstract: A principle is a fundamental, actionable belief or guiding rule that shapes decision-making and behaviour within an organisation, serving as a framework for action that aligns teams with broader organisational goals and values. Originating from the need for clarity in dynamic environments, principles are not abstract ideals but practical guides that help teams navigate complexity and uncertainty. For instance, the principle of Empiricism promotes decision-making based on evidence and experience, while Self-Management empowers teams to organise themselves and make autonomous decisions. Unlike values, which express an organisation's core beliefs, principles directly influence behaviour and execution, as seen in the Continuous Improvement principle that encourages ongoing reflection and enhancement of processes. Principles also differ from tenets, as they are not rigid doctrines but adaptable guidelines that foster flexibility and resilience, exemplified by the principle of Adaptability. Their long-term value lies in their systemic nature, providing a stable foundation for decision-making across all organisational levels. By embedding principles into the organisational culture, teams can ensure alignment, drive continuous improvement, and effectively respond to challenges, ultimately delivering sustainable value to customers and fostering a culture of learning and innovation.
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
-weight: 565
+weight: 550
 icon: fa-balance-scale
 description: A principle is a fundamental, actionable belief or guiding rule that shapes decision-making and team behaviour in an organisation.
 Instructions: |-
@@ -35,6 +35,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
+ItemId: 0xDxjVuNxZj
+ResourceId: 0xDxjVuNxZj
+ItemType: concepts
+ResourceType: concepts
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 A **principle** is a **fundamental, actionable belief** or **guiding rule** that shapes decision-making and behaviour within an organisation. It serves as a **framework for action**, ensuring that teams know **how to approach** their work in alignment with the organisation’s broader goals and values.

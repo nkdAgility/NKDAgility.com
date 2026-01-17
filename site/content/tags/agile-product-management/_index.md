@@ -34,7 +34,7 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:37:09
 icon: fa-diagram-successor
 concepts:
-  - Strategy
+  - Capability
 categories:
   - Product Development
   - Product Management
@@ -47,7 +47,6 @@ tags:
   - Customer Focus
   - Product Strategy
   - Social Technologies
-  - Agile Philosophy
   - Business Agility
   - Agile Product Operating Model
   - Strategic Goals

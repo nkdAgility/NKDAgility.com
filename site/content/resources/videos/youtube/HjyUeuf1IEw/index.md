@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Agile Success: Embrace Continuous Forecasting and Transform Your Training Experience"
+title: 'Unlocking Agile Success: Embrace Continuous Forecasting and Transform Your Training Experience'
 short_title: Agile Training & Continuous Forecasting Strategies
 description: Explore practical strategies for Agile training, including virtual class setups, continuous forecasting, and using metrics to improve planning, learning, and team outcomes.
 tldr: Continuous forecasting in Agile, supported by metrics and tools like Monte Carlo simulations, enables teams to plan flexibly and adapt quickly rather than committing to a full sprint plan upfront. Virtual training with interactive tools and follow-up sessions has improved learning and engagement. Development managers should consider adopting continuous forecasting and leveraging available training resources to enhance team performance and responsiveness.
@@ -47,8 +47,8 @@ duration: 1331
 resourceTypes:
   - video
 isShort: false
----
 
+---
 As I sit here in my office, I’m excited to share some insights from my recent experiences in the world of Agile training and the innovative approaches we’re adopting to enhance our learning environments. This week, I want to delve into a couple of key topics: the new training programme I’ve launched and the concept of continuous [forecasting]({{< ref "/tags/forecasting" >}}), which I discussed with Daniel Vacanti during our recent Professional [Scrum]({{< ref "/categories/scrum" >}}) with [Kanban]({{< ref "/categories/kanban" >}}) class.
 
 ### Office Hours and Engagement

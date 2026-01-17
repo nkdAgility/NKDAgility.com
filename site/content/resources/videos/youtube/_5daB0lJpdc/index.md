@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Agility’s Ghosts: Shedding Dogma and Embracing Pragmatism"
+title: 'Introduction to Agility’s Ghosts: Shedding Dogma and Embracing Pragmatism'
 short_title: Pragmatism Over Dogma in Agile Teams
 description: Explores the dangers of dogmatism in Agile, highlighting the need for flexibility, pragmatism, and people-focused adaptation over rigid rule-following in teams.
 tldr: Rigid adherence to Agile rules can harm teams and stifle progress; true agility means adapting processes to fit the team’s needs and focusing on delivering value. Flexibility and pragmatism are essential for creating inclusive, effective environments, while dogmatic approaches undermine collaboration and innovation. Development managers should prioritize outcomes and continuous improvement over strict rule-following to support team success.
@@ -54,8 +54,8 @@ duration: 372
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the world of Agile, one ghost that haunts us is dogma. If you've been in Agile long enough, you've probably encountered those dogmatic individuals who cling to a rigid set of beliefs, refusing to adapt or consider the actual data, feedback, or experiences of the people around them. These folks? They need to be shown the door 🚪. Agile is about flexibility, adaptation, and collaboration, dogma has no place here.
 
 ## **Pragmatism vs Dogmatism in Agile**

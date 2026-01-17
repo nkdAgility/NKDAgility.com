@@ -37,7 +37,13 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T16:34:47
 concepts:
-- Principle
+  - Principle
+ItemId: NQau8GBIkR9
+ResourceId: NQau8GBIkR9
+ItemType: categories
+ResourceType: categories
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Lean is a strategic approach that centres on maximising value while minimising waste, rooted in the principles of the Toyota Production System. It emphasises the importance of delivering customer value through efficient processes, fostering a culture of continuous improvement and respect for people. By systematically identifying and eliminating non-value-adding activities, Lean enables teams to streamline workflows, enhance productivity, and respond swiftly to changing market demands.

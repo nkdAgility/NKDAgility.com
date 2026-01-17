@@ -4,7 +4,7 @@ short_title: Culture Transformation & Team Enablement
 description: Teams that own outcomes, adapt to change, and deliver predictably, without burning out or disengaging.
 tldr: You gain clarity on what blocks team effectiveness, confidence that cultural change will stick, and visible improvements in ownership, collaboration, and delivery flow. Teams become resilient, leadership becomes strategic rather than reactive, and your organisation becomes capable of sustained innovation.
 date: 2025-06-04
-weight: 500
+weight: 765
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -159,4 +159,6 @@ creator: Martin Hinshelwood
 icon: fa-people-arrows
 ResourceId: Do4uZk5AUJe
 ResourceType: outcomes
+
 ---
+

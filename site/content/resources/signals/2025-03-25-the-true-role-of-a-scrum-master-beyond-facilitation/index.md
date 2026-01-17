@@ -55,8 +55,8 @@ Watermarks:
   tldr: 2025-08-07T12:34:26Z
 ResourceId: ZqDRLw5mPc-
 ResourceType: signals
----
 
+---
 If you think a Scrum Master is just a facilitator, you’re missing the point.
 
 A Scrum Master is accountable for enabling outcomes, not just running meetings. That means teaching, coaching, and challenging teams to work better. It means removing systemic impediments, shaping organisational change, and ensuring Scrum is applied effectively.

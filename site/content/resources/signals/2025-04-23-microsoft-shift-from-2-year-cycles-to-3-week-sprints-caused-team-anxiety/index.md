@@ -51,8 +51,8 @@ Watermarks:
   tldr: 2025-08-07T12:33:18Z
 ResourceId: AW5GP1Vnnp5
 ResourceType: signals
----
 
+---
 When Microsoft moved from a two-year delivery cycle to 3-week Sprints, something unexpected happened, teams became terrified.
 
 Not of the work itself, but of the transparency.

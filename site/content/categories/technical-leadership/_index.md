@@ -35,7 +35,7 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T13:03:30
 concepts:
-  - Capability
+  - Discipline
 ItemId: GGiTeL_w6n1
 ResourceId: GGiTeL_w6n1
 ItemType: categories

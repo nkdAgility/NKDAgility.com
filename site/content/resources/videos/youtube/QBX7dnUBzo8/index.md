@@ -42,12 +42,12 @@ tags:
   - Change Management
   - Organisational Agility
   - Organisational Physics
+  - Adaptive Operating Model
   - Software Development
   - Enterprise Agility
   - Sociotechnical Systems
   - Systems Thinking
   - Agile Strategy
-  - Operational Practices
 Watermarks:
   description: 2025-05-07T13:06:18Z
   short_title: 2025-07-07T17:50:10Z
@@ -62,8 +62,8 @@ duration: 349
 resourceTypes:
   - video
 isShort: false
----
 
+---
 Organizations often struggle to address the root causes of inefficiencies, particularly when adopting Agile practices. Instead of tackling the core issues within their systems, they focus on surface-level problems. This blog post will explore these systemic issues and provide insights on how to make meaningful changes that lead to greater effectiveness and agility.
 
 ## **Facing the Real Problems**

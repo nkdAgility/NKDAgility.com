@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Code Quality: The Transformative Power of Frequent Deployments"
+title: 'Unlocking Code Quality: The Transformative Power of Frequent Deployments'
 short_title: Frequent Deployments Improve Code Quality
 description: Explores how frequent code deployments improve code quality, reduce technical debt, enable faster feedback, and support iterative, user-focused software development.
 tldr: Frequent deployments lead to higher code quality, faster feedback, and better alignment with user needs, while infrequent deployments cause larger, riskier changes and more technical debt. Breaking work into smaller pieces and deploying regularly encourages maintainable code and enables quick pivots based on real user data. Development managers should focus on reducing batch sizes, increasing deployment frequency, and investing in observability to improve both product quality and team performance.
@@ -62,8 +62,8 @@ resourceTypes:
 isShort: false
 ResourceId: D1wz-J1jklQ
 ResourceType: videos
----
 
+---
 When it comes to deploying code, I've often found that the frequency of our deployments can significantly impact the quality of our work and the overall health of our codebase. In my experience, when we don't deploy very frequently, we inadvertently invite a host of dysfunctional behaviours that can be easily avoided.
 
 ### The Pitfalls of Infrequent Deployments

@@ -46,8 +46,8 @@ Watermarks:
   tldr: 2025-08-07T12:10:56Z
 ResourceId: zy7JlL2SIY-
 ResourceType: signals
----
 
+---
 Bonuses are not incentives. They’re symptoms of a system that doesn’t trust people to care about their work.
 
 In a knowledge economy, the best people are not motivated by a few extra pounds or dollars. They’re motivated by purpose, autonomy, and the chance to solve hard problems.

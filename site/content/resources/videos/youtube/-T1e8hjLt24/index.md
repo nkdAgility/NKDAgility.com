@@ -1,5 +1,5 @@
 ---
-title: "Stay Ahead of the Curve: How Continuous Learning Keeps You in the Top 10%"
+title: 'Stay Ahead of the Curve: How Continuous Learning Keeps You in the Top 10%'
 short_title: Continuous Learning for Top 10% Success
 description: Explains how continuous learning helps you stay relevant, seize new opportunities, and grow personally and professionally through reading, community, and experimentation.
 tldr: Continuous learning is essential for staying relevant and competitive in software development, as it helps you adapt to rapid changes, seize new opportunities, and grow personally. Regular reading, exploring diverse topics, engaging with the community, experimenting with new tools, and reflecting on what you learn are key habits. Make time for ongoing learning to maintain your edge and open up more opportunities for your team and yourself.
@@ -48,8 +48,8 @@ duration: 58
 resourceTypes:
   - video
 isShort: true
----
 
+---
 If you're reading this, congratulations! You’re already part of the top 10%. It’s a bold statement, but one I firmly believe in. The reality is that only a small fraction of people actively engage in [continuous learning]({{< ref "/tags/continuous-learning" >}}), exploring new techniques, and diving into various topics. Whether it’s something cutting-edge or a classic like "Crossing the Chasm," the key is to keep your mind open and your curiosity alive.
 
 ### The Importance of Continuous Learning

@@ -4,7 +4,7 @@ short_title: Engineering Excellence
 description: Engineering excellence enables you to deliver reliably at pace with confidence, reduced risk, and sustainable flow. Modern practices become standard, technical debt stops compounding, and delivery becomes predictable.
 tldr: Engineering excellence creates the condition where modern practices, clear flow, and sustainable delivery become standard. You gain delivery confidence, technical clarity, and the ability to scale without sacrificing quality. Teams take ownership, technical leadership emerges, and engineering capability becomes competitive advantage.
 date: 2025-05-30T09:00:00Z
-weight: 100
+weight: 800
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -108,24 +108,24 @@ sections:
   - type: outcomeboxes
     title: Engineering Excellence Enables You To
     boxes:
-      - box:
-        content:
+      - box: 
+        content: 
         items:
           - title: Standardise development practices across teams
           - title: Implement CI/CD, infrastructure as code, and test automation
           - title: Eliminate waste and enable continuous delivery
           - title: Build a learning culture that scales with engineering capability
           - title: Reduce release failure rates and improve flow
-      - box:
-        content:
+      - box: 
+        content: 
         items:
           - title: Reclaim trust in your engineering culture
           - title: Reduce stress from firefighting and last-minute scrambles
           - title: Feel pride in your product, not dread
           - title: Enable teams to innovate without fear of breaking things
           - title: Avoid burnout by building systems that work sustainably
-      - box:
-        content:
+      - box: 
+        content: 
         items:
           - title: Lead high-performing delivery teams
           - title: Mentor engineering managers and architects
@@ -186,4 +186,6 @@ creator: Martin Hinshelwood
 icon: fa-gear-code
 ResourceId: HHVaKkQviFN
 ResourceType: outcomes
+
 ---
+

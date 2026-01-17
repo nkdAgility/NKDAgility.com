@@ -1,6 +1,6 @@
 ---
-title: "Unlocking Agile’s Core: Questioning to Create Value"
-short_title: "Unlocking Agile: Questioning to Create Value"
+title: 'Unlocking Agile’s Core: Questioning to Create Value'
+short_title: 'Unlocking Agile: Questioning to Create Value'
 description: Explores how questioning, continuous improvement, and team empowerment drive Agile success, helping organisations adapt quickly, spot inefficiencies, and create lasting value.
 tldr: Agile success depends on fostering a culture where everyone questions existing processes, seeks continuous improvement, and adapts quickly to change. Scrum helps teams identify inefficiencies and encourages regular reflection, while leadership must empower all employees to challenge the status quo and act on feedback. To stay ahead of competitors, create open forums for discussion, reward initiative, and ensure that improvement is a shared, ongoing effort across the organization.
 date: 2024-01-23T07:00:07Z
@@ -64,8 +64,8 @@ duration: 241
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the ever-evolving world of business, staying ahead means adapting faster than your competitors. Being agile is not about following a set of rules but rather embracing a mindset of constant questioning and improvement. As Steve Denning wisely said:
 
 _"Being agile is about questioning what you do and continuously improving what you're doing."_

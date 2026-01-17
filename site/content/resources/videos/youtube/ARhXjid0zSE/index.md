@@ -1,5 +1,5 @@
 ---
-title: "Combatting the Agile Apocalypse: How to Overcome the Famine of Feedback and Engagement"
+title: 'Combatting the Agile Apocalypse: How to Overcome the Famine of Feedback and Engagement'
 short_title: Overcoming Feedback Gaps in Agile Teams
 description: Explores the impact of lacking feedback and engagement in Agile teams, highlighting risks and offering strategies to boost stakeholder involvement and team motivation.
 tldr: A lack of feedback and engagement from stakeholders, especially the product owner, leads to disengaged teams, poor product alignment, and increased risk of failure. Regular feedback sessions, open communication, and early stakeholder involvement are essential to keep teams motivated and ensure products meet business needs. Development managers should prioritise active stakeholder participation to maintain team morale and deliver better outcomes.
@@ -58,8 +58,8 @@ duration: 32
 resourceTypes:
   - video
 isShort: true
----
 
+---
 In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've often encountered what I like to call the "seven signs of the agile apocalypse." One of the most alarming signs is famine. Now, you might be wondering how famine relates to Agile practices, but let me explain. In our context, this famine manifests as a significant lack of feedback and engagement, particularly with stakeholders and, crucially, with your [product owner]({{< ref "/tags/product-owner" >}}).
 
 When I think about this lack of engagement, I can't help but reflect on the times I've seen teams struggle because the business simply didn't show up. It’s disheartening, isn’t it? If the business doesn’t care enough to provide feedback, why should your team care? This lack of care and attention can lead to a downward spiral, where the team becomes disengaged, and the quality of the product suffers.

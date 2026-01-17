@@ -1,5 +1,5 @@
 ---
-title: "Avoiding the Seven Deadly Sins of Agile: Transform Your Organisation for True Agility"
+title: 'Avoiding the Seven Deadly Sins of Agile: Transform Your Organisation for True Agility'
 short_title: Seven Deadly Sins of Agile and Solutions
 description: Identifies seven common Agile pitfalls, quick fixes, backlog overload, resource focus, lack of accountability, blame, imitation, and pride, and offers practical solutions for true agility.
 tldr: Achieving true agility requires more than adopting Agile practices; organisations often fall into seven common traps such as seeking quick fixes, overloading backlogs, focusing on resource utilisation over value, lacking accountability, fostering blame, copying others blindly, and letting pride block learning. These behaviours hinder innovation, value delivery, and team effectiveness. Development managers should regularly assess and address these pitfalls, tailor Agile to their context, and foster a culture of continuous improvement and honest reflection.
@@ -58,8 +58,8 @@ duration: 2299
 resourceTypes:
   - video
 isShort: false
----
 
+---
 Agile is hard, and it’s designed for complex environments. Over the years, I’ve encountered numerous behaviours in organisations that can only be described as suboptimal. Today, I want to share my insights on what I call the "Seven Deadly Sins of Agile." These are pitfalls that can hinder your [Agile transformation]({{< ref "/tags/agile-transformation" >}}) and prevent you from achieving true agility.
 
 ### Lust: The Desire for Quick Fixes

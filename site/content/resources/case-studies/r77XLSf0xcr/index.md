@@ -1,5 +1,5 @@
 ---
-title: "From Fragmentation to Flow: How NKD Agility Helped SLB Consolidate Systems and Standardize Engineering Practice Across 800+ Teams"
+title: 'From Fragmentation to Flow: How NKD Agility Helped SLB Consolidate Systems and Standardize Engineering Practice Across 800+ Teams'
 short_title: Standardize Engineering Practice Across 800 Teams
 description: NKD Agility helped SLB unify 800+ engineering teams by consolidating DevOps systems, standardizing processes, and improving visibility, collaboration, and delivery.
 tldr: SLB, a global energy tech company, faced chaos from fragmented DevOps systems and inconsistent processes across 800+ teams, making reporting and collaboration nearly impossible. NKD Agility led a multi-year transformation to standardize workflows, consolidate 27 DevOps collections into 7, automate migrations, and build internal coaching capacity, resulting in better visibility, reduced costs, and improved delivery confidence. For development managers, the key takeaway is that consolidating and standardizing systems is essential to enable effective leadership, collaboration, and engineering excellence at scale.
@@ -46,8 +46,8 @@ Watermarks:
 draft: false
 ResourceId: r77XLSf0xcr
 ResourceType: case-studies
----
 
+---
 ## Client Context
 
 [SLB](https://www.slb.com/), a global energy technology company with thousands of engineers and product teams worldwide, had grown through decades of decentralized decision-making. The result? Chaos.

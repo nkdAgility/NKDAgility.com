@@ -50,8 +50,8 @@ Watermarks:
   tldr: 2025-08-07T12:33:06Z
 ResourceId: 3R0CYmaHd63
 ResourceType: signals
----
 
+---
 Not all surprises in product development are true unknowns. Many are just the result of bad backlog management.
 
 Teams often get blindsided by last-minute changes, unexpected dependencies, or hidden complexities. But here’s the reality: Most of these “surprises” could have been anticipated with better refinement.

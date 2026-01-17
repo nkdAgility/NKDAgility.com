@@ -49,8 +49,8 @@ Watermarks:
   tldr: 2025-08-07T12:35:01Z
 ResourceId: ASC0IjY5nKr
 ResourceType: signals
----
 
+---
 Scrum Masters are not glorified meeting schedulers.
 
 They are technical and business leaders who ensure that teams deliver continuous value. A Scrum Master for a team that delivers software that can’t critique code quality or understand DevOps practices is a Scrum Master in title only. For software teams, coding knowledge isn’t optional, it’s essential.

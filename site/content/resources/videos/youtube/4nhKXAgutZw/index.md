@@ -1,5 +1,5 @@
 ---
-title: "The Power of Kindness in Agile: A Core Virtue for Success"
+title: 'The Power of Kindness in Agile: A Core Virtue for Success'
 short_title: Kindness and Empathy in Agile Success
 description: Explores how kindness, empathy, and compassion in Agile foster trust, improve team collaboration, and enhance customer focus for long-term organisational success.
 tldr: Kindness is a strategic advantage in Agile, driving both customer loyalty and effective team collaboration by building trust through empathy and compassion. Focusing on employee well-being and understanding customer needs leads to better products and stronger relationships. Development managers should model kindness in daily interactions to foster a culture where teams and customers feel valued, directly impacting long-term success.
@@ -50,8 +50,8 @@ duration: 252
 resourceTypes:
   - video
 isShort: false
----
 
+---
 When we talk about **kindness** in Agile, we're referring to something deeper than just being nice. Kindness can take many forms, **compassion, benevolence, empathy**, and it can be directed toward different parts of our organization. It’s about how we treat our customers, our teams, and even ourselves in the way we work. Agile isn't just about delivering software; it's about creating environments where people can thrive, feel valued, and succeed together.
 
 In this post, we’ll explore kindness as one of the **Seven Virtues of Agility** and why it's essential for both **customer focus** and **[team collaboration]({{< ref "/tags/team-collaboration" >}})**.

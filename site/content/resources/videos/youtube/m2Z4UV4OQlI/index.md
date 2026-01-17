@@ -1,5 +1,5 @@
 ---
-title: "The Power of Metrics: Why PAL-EBM is Essential for Your Organization"
+title: 'The Power of Metrics: Why PAL-EBM is Essential for Your Organization'
 short_title: Why PAL-EBM Metrics Matter for Organizations
 description: Learn how evidence-based metrics drive organisational success, avoid negative behaviours, and enable transparent, data-driven decisions for leaders and teams at all levels.
 tldr: The PAL-EBM class helps leaders and teams understand how to use metrics effectively to drive organizational success by focusing on real data, transparency, and the human impact of measurement. Participants learn through real-world stories why some metrics fail, how to avoid negative behaviors like those seen with Microsoft's stack ranking, and how to foster strategic conversations that lead to better outcomes. Leadership teams are encouraged to take the class together to align on measuring success, iteratively strategize, and make informed decisions that support long-term goals.
@@ -61,8 +61,8 @@ duration: 373
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In today's fast-paced world, organizations often struggle to find the right metrics that drive success. Whether you're a manager, [product owner]({{< ref "/tags/product-owner" >}}), [Scrum]({{< ref "/categories/scrum" >}}) Master, or CEO, the **Professional Agile [Leadership]({{< ref "/categories/leadership" >}}) - Evidence-Based Management (PAL-EBM)** class provides valuable insights into how to navigate this critical aspect of your leadership journey.
 
 From personal experience as a Scrum Trainer, I can wholeheartedly recommend the PAL-EBM class to anyone in a leadership role who is committed to steering their organization toward success. This class is not just for managers; it's for anyone in a position of influence who is seeking to understand how to use metrics effectively to foster growth and collaboration.

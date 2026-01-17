@@ -1,5 +1,5 @@
 ---
-title: "From Software Engineer to Scrum Trainer: How My Journey Shapes Effective DevOps Training"
+title: 'From Software Engineer to Scrum Trainer: How My Journey Shapes Effective DevOps Training'
 short_title: From Engineer to Scrum Trainer in DevOps
 description: Explores how hands-on software engineering and DevOps experience informs practical, relatable Scrum training, emphasising real-world lessons and continuous improvement.
 tldr: The author’s journey from software engineer to Scrum trainer, including recognition as a Microsoft MVP and extensive DevOps consulting across multiple industries, shapes a practical and relatable training style. Key insights include the value of learning from both successes and failures, the motivational power of real-world stories, and the belief that any team can move toward continuous delivery. Development managers should consider leveraging trainers with hands-on experience to inspire teams and drive meaningful change.
@@ -49,8 +49,8 @@ duration: 423
 resourceTypes:
   - video
 isShort: false
----
 
+---
 When I reflect on how my real-world experience shapes my training style, I realise just how pivotal my journey has been. I began my career as a software engineer, diving into the world of coding just before .NET emerged. My first year was spent with ASP, but once .NET came along, I found my sweet spot. This foundation has been instrumental in my understanding of [software development]({{< ref "/tags/software-development" >}}) and the intricacies of the industry.
 
 In 2008, I was honoured to be recognised as a Microsoft MVP for my work with Team Foundation Server (TFS). This accolade opened doors to a wealth of resources and connections, particularly the annual MVP Summit in Redmond, Washington. Imagine three and a half thousand MVPs from around the globe converging in one place! It was an incredible opportunity to network and learn from some of the brightest minds in technology.

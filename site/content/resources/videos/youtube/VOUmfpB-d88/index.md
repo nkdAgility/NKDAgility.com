@@ -1,5 +1,5 @@
 ---
-title: "Transforming Training: The Power of Immersive Learning in Scrum"
+title: 'Transforming Training: The Power of Immersive Learning in Scrum'
 short_title: Immersive Learning in Scrum Training
 description: Explores how immersive, hands-on learning in Scrum boosts knowledge retention, practical skills, and continuous improvement compared to traditional training methods.
 tldr: Traditional two-day Scrum training is ineffective for lasting change because participants retain little and struggle to apply what they learn. Immersive learning, with shorter sessions spread over time, hands-on assignments, and ongoing feedback, leads to better retention, practical application, and continuous improvement. Development managers should consider adopting immersive training formats to drive real, sustainable transformation in their teams and organizations.
@@ -57,8 +57,8 @@ duration: 430
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ## **The Shift from Traditional to Immersive Learning**
 
 In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), training is not just about passing on knowledge, it's about creating real, actionable change in organizations. Our approach has evolved significantly, from traditional two-day workshops to a more engaging and practical immersive learning format. This shift is crucial for achieving lasting transformation in organizations.

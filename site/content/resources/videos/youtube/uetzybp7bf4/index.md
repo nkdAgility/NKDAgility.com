@@ -1,5 +1,5 @@
 ---
-title: "Empowering Teams with Financial Insights: The Key to Maximising ROI and Fostering Ownership"
+title: 'Empowering Teams with Financial Insights: The Key to Maximising ROI and Fostering Ownership'
 short_title: Empowering Teams with Financial Insights
 description: Empowering teams with financial insights boosts ownership, informed decision-making, and ROI by aligning daily work with business goals through transparency and team-level P&L.
 tldr: Giving your teams clear financial insights and ownership over their work leads to better decision-making and higher returns. When teams understand both the value they create and the costs involved, they align their efforts with business goals and are more motivated to improve. Start sharing financial context and encourage team-level profit and loss analysis to drive accountability and smarter product decisions.
@@ -49,8 +49,8 @@ resourceTypes:
 isShort: false
 ResourceId: uetzybp7bf4
 ResourceType: videos
----
 
+---
 If you want to maximise your return on investment for the time and effort that people put into the products you're creating, fostering a culture where your team genuinely cares about the products and your customers is essential. When individuals feel ownership over what they create, they naturally invest more of themselves into their work. This sense of ownership is crucial; people care about things they have a stake in.
 
 ### Cultivating a Culture of [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})

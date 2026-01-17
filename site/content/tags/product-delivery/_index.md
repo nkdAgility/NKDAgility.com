@@ -35,7 +35,7 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:30:55
 icon: fa-truck-fast
 concepts:
-  - Capability
+  - Principle
 categories:
   - Product Development
 tags:

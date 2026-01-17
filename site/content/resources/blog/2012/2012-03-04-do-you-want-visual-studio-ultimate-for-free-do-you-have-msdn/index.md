@@ -34,8 +34,8 @@ ResourceImportId: 4828
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nakedalm-experts-visual-studio-alm-3-3.png
----
 
+---
 Are you a professional developer? Do you get an MSDN from your organisation? Did you know that you can use it at home on both commercial and open source projects of your own!
 
 > MSDN subscriptions are licensed on a **per-user basis**.  One person can use the software to design, develop, test, or demonstrate his or her programs on **any number of devices**.  Each person who uses the software this way needs a license.  

@@ -1,5 +1,5 @@
 ---
-title: "The Power of Humility in Agile: A Core Virtue for Success"
+title: 'The Power of Humility in Agile: A Core Virtue for Success'
 short_title: Humility in Agile Teams for Success
 description: Explores how humility strengthens Agile teams by fostering trust, collaboration, openness to feedback, and better decision-making through reduced bias and data-driven insights.
 tldr: Humility is crucial for Agile teams because it enables better collaboration, trust, and openness to feedback, leading to stronger products and happier teams. Recognizing that not all ideas are right, listening to others, and being willing to change course based on data and feedback are key to success. Development managers should foster a culture where team members check their egos, seek diverse perspectives, and use data thoughtfully to continuously improve.
@@ -51,8 +51,8 @@ duration: 212
 resourceTypes:
   - video
 isShort: false
----
 
+---
 When we talk about the **Seven Virtues of Agility**, one that often stands out is humility. It's an essential ingredient for effective collaboration and success within Agile teams. Whether you're a [product owner]({{< ref "/tags/product-owner" >}}), product manager, or a developer, embracing humility can dramatically impact the quality of your work and the strength of your team.
 
 In this post, we’re diving deep into why humility matters in Agile and how it plays a crucial role in building trust, fostering collaboration, and creating products that truly meet customer needs.

@@ -49,8 +49,8 @@ Watermarks:
 creator: Martin Hinshelwood
 ResourceId: ABbVdMBZ5fI
 ResourceType: blog
----
 
+---
 Let’s get one thing straight: **Agile is not a mindset.** And it’s certainly not just about behaviour. That lazy framing dilutes the discipline, ignores the engineering reality, and gives cover to incompetence.
 
 Agile for software development is a **delivery discipline grounded in technical leadership, empirical control, and engineering excellence**. If your so-called “Agile transformation” doesn’t touch your code, your infrastructure, your deployment pipelines, or your product strategy, then you’re not Agile, you’re just busy.

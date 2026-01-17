@@ -1,5 +1,5 @@
 ---
-title: "How to Tackle Technical Debt Without Halting Progress: Smarter Ways to Keep Your Team Moving Forward"
+title: 'How to Tackle Technical Debt Without Halting Progress: Smarter Ways to Keep Your Team Moving Forward'
 short_title: Tackling Technical Debt Without Halting Progress
 description: Struggling with technical debt? Discover practical ways to tackle legacy systems, boost team morale, and deliver value, without grinding to a halt.
 tldr: Technical debt slows teams down and hurts morale, but stopping all work to fix it is unrealistic. The most effective approach is to make technical debt visible, prioritize high-impact improvements, and embed continuous improvement into daily workflows. Development managers should focus on changing team practices and decision-making so that managing technical debt becomes a natural, ongoing part of delivering value.
@@ -55,8 +55,8 @@ resourceTypes:
 isShort: false
 ResourceId: p3Agu-9sZnA
 ResourceType: videos
----
 
+---
 Technical debt. It’s one of those insidious things that creeps up on you, quietly, almost politely, until one day you realise you’re spending more time firefighting than actually delivering anything new. At that point, it’s not just slowing you down; it’s actively standing in your way, blocking progress, and sapping morale.
 
 How does it get to this point? Well, legacy systems rarely start out as a problem. In fact, they’re often a source of pride at first, familiar, reliable, and built up over years of hard work. But over time, layer upon layer of quick fixes and workarounds accumulate. Each one makes sense in the moment, but together they form a tangled web. Eventually, making even the smallest change feels risky. Everything is interconnected, nothing is well documented, and nobody really wants to be the one to poke the bear.

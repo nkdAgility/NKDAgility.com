@@ -37,16 +37,19 @@ icon: fa-user-crown
 concepts:
   - Accountability
 categories:
-  - Product Development
-  - Scrum
   - Product Management
+  - Scrum
+  - Product Development
 tags:
   - Agile Product Management
   - Value Delivery
   - Product Strategy
+  - Agile Frameworks
   - Social Technologies
   - Organisational Agility
+  - Agile Strategy
   - Professional Scrum
+  - Pragmatic Thinking
   - Market Adaptability
   - Decision Making
   - Customer Focus

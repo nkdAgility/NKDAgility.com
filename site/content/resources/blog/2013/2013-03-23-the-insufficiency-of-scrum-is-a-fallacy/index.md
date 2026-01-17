@@ -39,8 +39,8 @@ ResourceImportId: 9338
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nakedalm-experts-professional-scrum-3-3.png
----
 
+---
 The insufficiency of Scrum is a fallacy perpetrated by teams that don’t step up their practices in concert with their planning and don't really want to make it work anyway. You can fail doing Kanban, XP, Merise and SSADM just as easily unless you have good engineering practices as well.
 
 The goal of Agile it to have you fail sooner and for it to cost less. So what happens when you try to make your management practices more agile but forget about your engineers practices?

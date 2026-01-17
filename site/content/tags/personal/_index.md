@@ -36,7 +36,7 @@ sitemap:
 BodyContentGenDate: 2025-04-09T14:52:11
 icon: fa-user-pen
 concepts:
-  - Principle
+  - Capability
 categories: []
 tags:
   - Psychological Safety

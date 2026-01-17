@@ -1,5 +1,5 @@
 ---
-title: "Transforming Training: How Immersive Learning and DevOps Drive Real Value in Organisations"
+title: 'Transforming Training: How Immersive Learning and DevOps Drive Real Value in Organisations'
 short_title: Immersive Learning and DevOps in Training
 description: Explores how immersive learning and DevOps practices improve training effectiveness, boost knowledge retention, and deliver real value for individuals and organisations.
 tldr: Shifting to immersive, hands-on training and spreading sessions over a longer period leads to better knowledge retention and practical application for teams, even if it means fewer classes and less immediate revenue. Prioritising value creation over short-term gains results in more satisfied clients and stronger organisational outcomes. Development managers should consider adopting training approaches that focus on real learning impact rather than volume.
@@ -48,8 +48,8 @@ duration: 287
 resourceTypes:
   - video
 isShort: false
----
 
+---
 As I embark on the immersive trading route, I find myself reflecting on the core reasons behind this shift. My journey into training began with a desire to address the struggles faced by individuals and organisations alike. Back in 2010, when I first delved into [DevOps]({{< ref "/categories/devops" >}}), I witnessed firsthand the challenges people encountered and the disconnect between their needs and what organisations were providing. This disconnect often led to a vicious cycle where organisations blamed their people for failures, rather than addressing the root causes.
 
 ### The Role of DevOps in [Value Delivery]({{< ref "/tags/value-delivery" >}})

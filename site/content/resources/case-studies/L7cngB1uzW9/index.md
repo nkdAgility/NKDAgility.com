@@ -1,5 +1,5 @@
 ---
-title: "Beyond Training: How NKD Agility’s Mentorship Model Transformed a Product Management Team Across Borders"
+title: 'Beyond Training: How NKD Agility’s Mentorship Model Transformed a Product Management Team Across Borders'
 short_title: Mentorship Model Transformed Product Team
 description: A cross-border product team overcame misalignment and role confusion through immersive mentorship, boosting collaboration, engineering engagement, and agile delivery.
 tldr: A UK insurance software company overcame misalignment between UK product managers and Polish engineers by adopting NKD Agility’s mentorship model instead of standard training. Through hands-on coaching, clearer roles, and real-world practice, teams improved collaboration, decision-making, and problem-solving, leading to higher engagement and better product outcomes. Development managers should consider immersive mentorship to drive lasting change and agility across distributed teams.
@@ -46,8 +46,8 @@ Watermarks:
 draft: false
 ResourceId: L7cngB1uzW9
 ResourceType: case-studies
----
 
+---
 ## Client Context
 
 A mid-sized UK-based insurance software company serving platforms like *ComparetheMarket* found themselves at a critical inflection point. Product management teams in the UK and engineering teams in Poland struggled to align. The challenge? Building products for a UK market that Polish engineers had no context for, combined with a broader confusion around roles, strategy, and delivery.

@@ -6,7 +6,7 @@ trustpilot: false
 abstract: Product Developer is a role and an accountability within Scrum and product development frameworks. All Product Developers together should possess all the skills needed to create Increments, with their combined skill set often referred to as cross-functional. Product Developers may be human or automated, committed to creating, researching, inspecting, and adapting any aspect of a releasable Increment each Sprint. Their primary focus is on the current Sprint, with some capacity invested in future-looking refinement and examining result feedback. Product Developers adhere to the Definition of Output Done and strive for net improvement, achieving the best results when they focus solely on one Product. They should adopt appropriate behaviors including collaborator, creator, and champion of technical quality, discovery, delivery, and value validation. Product Developers are collectively accountable for creating an emergent plan in the Sprint Backlog, instilling quality, creating usable Increments, learning through data, adapting their plan toward the Sprint Goal, holding each other accountable as professionals, and driving net improvement.
 ClassificationContentOrigin: Human
 date: 2025-01-20T10:00:00Z
-weight: 1000
+weight: 500
 Instructions: |-
   **Use this tag only for content specifically about Product Developers as a role and accountability in product development.**  
   Product Developer encompasses both human and automated contributors who collectively possess all skills needed to create Increments. This tag applies to posts that describe the purpose, structure, and responsibilities of Product Developers as defined in modern product development frameworks.
@@ -40,9 +40,19 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-01-20T10:00:00Z
 icon: fa-code-commit
-concepts: []
-categories: []
-tags: []
+concepts:
+  - Accountability
+categories:
+  - Product Development
+  - Scrum
+tags:
+  - Professional Scrum
+  - Team Collaboration
+  - Competence
+  - Increment
+  - Software Development
+  - Value Delivery
+  - Cross Functional Teams
 ItemId: bD178zm1yUs
 ResourceId: bD178zm1yUs
 ItemType: tags

@@ -40,15 +40,15 @@ concepts:
 categories:
   - Technical Leadership
   - Leadership
-  - Product Development
 tags:
+  - Continuous Learning
   - Social Technologies
   - Pragmatic Thinking
   - Team Collaboration
+  - Continuous Improvement
   - Organisational Agility
-  - Market Adaptability
   - Team Motivation
-  - Continuous Learning
+  - Self Organisation
   - Psychological Safety
   - Operational Practices
   - Organisational Culture

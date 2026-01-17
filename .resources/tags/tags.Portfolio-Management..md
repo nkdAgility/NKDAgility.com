@@ -35,21 +35,24 @@ sitemap:
 BodyContentGenDate: 2025-04-09T14:50:53
 icon: fa-briefcase
 concepts:
-- Strategy
-categories:
-- Product Development
+  - Strategy
+categories: []
 tags:
-- Strategic Goals
-- Organisational Culture
-- Value Delivery
-- Agile Strategy
-- Business Agility
-- Organisational Change
-- Decision Making
-- Organisational Agility
-- Social Technologies
-- Continuous Improvement
-- Enterprise Agility
+  - Strategic Goals
+  - Organisational Culture
+  - Value Delivery
+  - Agile Strategy
+  - Business Agility
+  - Organisational Change
+  - Organisational Agility
+  - Continuous Improvement
+  - Enterprise Agility
+ItemId: kAEJI5HVFMc
+ResourceId: kAEJI5HVFMc
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Portfolio Management is a strategic approach that aligns an organisation's investments with its overarching goals, ensuring that resources are allocated effectively to maximise value delivery. It involves the continuous assessment and prioritisation of projects and initiatives, enabling teams to focus on the most impactful work. By optimising value streams, organisations can enhance their agility, responding swiftly to market changes and customer needs.

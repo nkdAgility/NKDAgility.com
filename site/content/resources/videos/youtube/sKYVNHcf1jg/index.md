@@ -1,5 +1,5 @@
 ---
-title: "Navigating My Most Memorable Challenge as an Agile Consultant: Lessons in Readiness and Engagement"
+title: 'Navigating My Most Memorable Challenge as an Agile Consultant: Lessons in Readiness and Engagement'
 short_title: Lessons in Agile Consulting Readiness
 description: A personal account highlighting the importance of organisational readiness, engagement, and listening for successful agile consulting and meaningful change in teams.
 tldr: Organisations must be ready and willing to engage for agile consulting to be effective; without this, even the best advice will be ignored and no real progress will happen. Repeated experiences showed that lack of readiness and follow-through leads to wasted effort and stagnation. Development managers should ensure their teams are prepared to listen and act before bringing in external help.
@@ -47,8 +47,8 @@ duration: 280
 resourceTypes:
   - video
 isShort: false
----
 
+---
 Reflecting on My Worst Day as an Agile Consultant
 
 As an agile consultant, I’ve had my fair share of challenging days, but one experience stands out as particularly memorable, though perhaps not in the way you might expect. It raises an important question: was it my worst day, or was it the customer's?

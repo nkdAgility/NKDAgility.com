@@ -51,8 +51,8 @@ duration: 383
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ## PSM II: The Game-Changer for [Scrum]({{< ref "/categories/scrum" >}}) Masters
 
 Today, I want to tackle an important question I often receive, "How will a PSM II course challenge your assumptions the most?

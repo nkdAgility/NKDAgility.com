@@ -1,5 +1,5 @@
 ---
-title: "Transforming Engineering Excellence: The Power of Naked Agility in Quality and Leadership"
+title: 'Transforming Engineering Excellence: The Power of Naked Agility in Quality and Leadership'
 short_title: Naked Agility for Engineering Excellence
 description: Explores how adopting naked agility boosts engineering excellence, quality, and leadership by addressing technical debt, shifting left, and fostering a culture of improvement.
 tldr: Prioritising quality from the start is essential to protect your brand and build customer trust, and this requires empowering engineering teams to take ownership, address technical debt openly, and integrate practices like continuous integration, user experience, and security early in development. Fostering a culture of transparency, collaboration, and continuous improvement leads to better products and stronger technical leadership. Invest in your teams’ skills and encourage shared responsibility for quality to drive lasting value for your customers and organisation.
@@ -49,8 +49,8 @@ resourceTypes:
 isShort: false
 ResourceId: tdOSrPOlyAI
 ResourceType: videos
----
 
+---
 Naked agility can be a transformative partner in fostering [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) and cultivating [technical leadership]({{< ref "/categories/technical-leadership" >}}) within your organisation. Over the past few videos, I’ve delved into various aspects of this journey, and today, I want to share some insights that I believe are crucial for anyone looking to elevate their [engineering practices]({{< ref "/tags/engineering-practices" >}}).
 
 ### The Cost of Poor Quality

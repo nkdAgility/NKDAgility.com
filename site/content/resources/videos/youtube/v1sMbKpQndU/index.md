@@ -1,7 +1,7 @@
 ---
 title: What are the top 3 things a Scrum Master needs to bear in mind when adopting the coaching stance?
 short_title: Top 3 Considerations for Scrum Master Coaching
-description: "Summarises the top considerations for Scrum Masters adopting a coaching stance: building trust, understanding team context, and leading through influence, not authority."
+description: 'Summarises the top considerations for Scrum Masters adopting a coaching stance: building trust, understanding team context, and leading through influence, not authority.'
 tldr: A Scrum Master adopting a coaching stance should focus on guiding teams toward self-organisation, building trust and influence through expertise and empathy, and adapting their approach to the team’s unique context and culture. Key outcomes include stronger collaboration, empowered decision-making, and higher team satisfaction. To be effective, Scrum Masters should actively listen, foster a positive environment, and continuously develop their own skills.
 date: 2023-09-18T07:00:32Z
 lastmod: 2023-09-18T07:00:32Z
@@ -62,8 +62,8 @@ duration: 164
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ## The Agile Landscape: A Guide to Effective [Coaching]({{< ref "/tags/coaching" >}}) and [Leadership]({{< ref "/categories/leadership" >}}) 
 
 Agile methodologies have transformed the landscape of [project management]({{< ref "/tags/project-management" >}}) and team dynamics, emphasising adaptability, collaboration, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).  

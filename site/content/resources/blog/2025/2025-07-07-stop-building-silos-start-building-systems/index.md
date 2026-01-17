@@ -50,8 +50,8 @@ Watermarks:
   tldr: 2025-07-30T23:22:19Z
 ResourceId: zLhc3UKUWOj
 ResourceType: blog
----
 
+---
 You can’t deliver quality at speed when your automation is duct-taped together. If your pipelines are stitched across multiple systems, your deployments depend on human rituals, and your tests run in the shadows, you don’t have a delivery system, you have a liability.
 
 If your automation strategy looks something like this:

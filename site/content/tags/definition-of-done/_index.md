@@ -25,7 +25,7 @@ Instructions: |-
   **Strictly exclude** any discussions that deviate from the core principles of the Definition of Done, such as unrelated project management practices, non-Agile methodologies, or personal opinions on team dynamics that do not directly relate to the DoD.
 headline:
   cards: []
-  title: "Definition of Done (DoD): Setting Clear Standards for Releasable Quality"
+  title: 'Definition of Done (DoD): Setting Clear Standards for Releasable Quality'
   subtitle: Establishing clear, measurable criteria for completed work to ensure transparency, quality, and readiness for real-world use.
   content: A shared, explicit agreement outlining the criteria required for work to be considered complete, usable, and ready for release. It establishes clear quality standards, ensures transparency, reduces ambiguity, and supports continuous improvement, enabling teams to deliver reliable increments and make informed decisions based on measurable outcomes and real-world feedback.
   updated: 2025-05-23T23:12:35Z
@@ -56,12 +56,11 @@ concepts:
   - Artifact
 categories:
   - Scrum
-  - Product Development
   - Engineering Excellence
+  - Product Development
 tags:
   - Software Development
   - Professional Scrum
-  - Transparency
   - Technical Mastery
   - Increment
   - Product Delivery
@@ -69,17 +68,18 @@ tags:
   - Operational Practices
   - Competence
   - Team Performance
-  - Social Technologies
   - Pragmatic Thinking
   - Engineering Practices
+  - Transparency
+  - Agile Frameworks
   - Value Delivery
 ItemId: mAZrKmLwc3L
 ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
----
 
+---
 Every team should define what is required, what criteria must be met, for a product [increment]({{< ref "/tags/increment" >}}) to be considered releasable. A [definition of done]({{< ref "/tags/definition-of-done" >}}). If the organization has not articulated a specific standard, or set of criteria, then the team should create a definition of done that is appropriate for the product. The work produced must comply with the definition of done for it to be considered usable, and if there are multiple teams working on a single product, then those teams must agree on a definition of done and ensure that all teams honour that standard.
 {: .lead}
 

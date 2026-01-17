@@ -2,7 +2,7 @@
 title: Scrum Master
 ClassificationType: tags
 trustpilot: false
-abstract: "The Scrum Master is an accountability within Scrum, serving as a change agent who enables team effectiveness and organizational transformation. Far from a passive facilitator, they are accountable for creating conditions where delivery becomes inevitable through technical, business, and organizational mastery. They teach, coach, mentor, and facilitate while ensuring teams consistently deliver valuable increments every Sprint."
+abstract: The Scrum Master is an accountability within Scrum, serving as a change agent who enables team effectiveness and organizational transformation. Far from a passive facilitator, they are accountable for creating conditions where delivery becomes inevitable through technical, business, and organizational mastery. They teach, coach, mentor, and facilitate while ensuring teams consistently deliver valuable increments every Sprint.
 ClassificationContentOrigin: human
 date: 2025-03-25T07:35:53Z
 lastmod: 2025-10-10T09:09:00Z
@@ -25,7 +25,7 @@ Instructions: |-
   - Role comparisons that do not clarify accountability
 headline:
   cards: []
-  title: "Scrum Master: Catalysing Agile Excellence and Continuous Improvement"
+  title: 'Scrum Master: Catalysing Agile Excellence and Continuous Improvement'
   subtitle: Empowering teams and organisations through coaching, facilitation, and mastery in technical excellence, business value, and organisational effectiveness.
   content: The Scrum Master serves as a change agent who empowers teams and organisations to continuously improve their systems of work, enabling empirical decision-making, self-management, and sustainable value delivery. Posts explore technical excellence, product strategy, organisational transformation, coaching techniques, complexity navigation, and evidence-based approaches to enhancing team effectiveness and outcomes.
   updated: 2025-05-23T23:12:49Z
@@ -34,34 +34,34 @@ sitemap:
   priority: 0.7
 icon: fa-user-tie
 concepts:
-  - Discipline
+  - Accountability
 categories:
   - Product Development
   - Scrum
   - Technical Leadership
 tags:
   - Professional Scrum
+  - Continuous Improvement
+  - Social Technologies
   - Software Development
   - Pragmatic Thinking
-  - Social Technologies
   - Competence
   - Organisational Agility
-  - Operational Practices
-  - Team Performance
-  - Market Adaptability
   - Agile Frameworks
+  - Operational Practices
+  - Agentic Agility
+  - Team Performance
   - Agile Transformation
   - Agile Leadership
   - Value Delivery
-  - Change Management
 ItemId: Pa7bB2NZGdm
 ResourceId: Pa7bB2NZGdm
 ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
----
 
+---
 The Scrum Master is an accountability in Scrum.
 
 A **Scrum Master** is a **change agent** who enables a Scrum Team and its surrounding organisation to improve their system of work and deliver value professionally. Far from a passive facilitator, the Scrum Master is accountable for the **effectiveness of the Scrum Team**, actively shaping the conditions that enable empiricism, self-management, and sustainable delivery.

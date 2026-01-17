@@ -33,24 +33,24 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:37:30
 icon: fa-lightbulb-gear
 concepts:
-  - Method
+  - Principle
 categories:
   - Product Development
   - Lean
   - Product Management
 tags:
+  - Lean Principles
   - Lean Thinking
   - Operational Practices
   - Value Delivery
   - Pragmatic Thinking
-  - Lean Principles
-  - Market Adaptability
   - Continuous Improvement
+  - Market Adaptability
   - Business Agility
   - Product Strategy
+  - Continuous Learning
   - Product Delivery
   - Organisational Agility
-  - Social Technologies
   - Organisational Culture
   - Experimentation
 ItemId: xD3HhEA2Wh7

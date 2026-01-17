@@ -47,8 +47,8 @@ Watermarks:
   tldr: 2025-08-07T12:11:36Z
 ResourceId: RJFPfh1L3bJ
 ResourceType: signals
----
 
+---
 Too many organisations hide behind excuses:
 
 "We can't do that here."  

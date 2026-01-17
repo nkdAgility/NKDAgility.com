@@ -4,7 +4,7 @@ ClassificationType: tags
 trustpilot: false
 slug: definition-of-workflow
 date: 2025-05-05T09:00:00Z
-weight: 400
+weight: 480
 description: A Definition of Workflow explains how work moves through each stage, using clear rules and limits to make progress visible and support team collaboration and improvement.
 Instructions: |-
   Use this category only for discussions on Definition of Workflow.
@@ -45,15 +45,13 @@ concepts:
 categories:
   - Kanban
   - Product Development
-  - Engineering Excellence
 tags:
   - Transparency
   - Operational Practices
+  - Social Technologies
   - Agile Frameworks
-  - Lean Thinking
   - Value Delivery
   - Team Performance
-  - Social Technologies
   - Agile Planning
   - Lean Principles
   - Software Development

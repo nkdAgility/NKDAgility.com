@@ -41,8 +41,8 @@ Watermarks:
   tldr: 2025-08-07T12:11:09Z
 ResourceId: Gp4e7gPmb-Q
 ResourceType: signals
----
 
+---
 When we invented jobs like scanning groceries, packing boxes, or cleaning toilets, we weren’t aiming for dignity. We were optimising output. We engineered these roles to be mindless, repeatable, and replaceable.
 
 That’s not work. That’s industrial subjugation.

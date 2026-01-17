@@ -40,7 +40,7 @@ tags:
   - Business Agility
   - Agile Philosophy
   - Organisational Culture
-  - Market Adaptability
+  - Social Technologies
   - Miscellaneous
 ItemId: bZu9I9fyy6g
 ResourceId: bZu9I9fyy6g

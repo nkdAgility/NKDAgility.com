@@ -53,8 +53,8 @@ Watermarks:
   tldr: 2025-08-07T12:34:41Z
 ResourceId: UUh2trdq4D1
 ResourceType: signals
----
 
+---
 Some teams love to wave the "we’re self-managing" flag whenever alignment is discussed. But let’s be real, autonomy doesn’t mean doing whatever you want, whenever you want. It means taking ownership within a shared framework.
 
 Scrum provides a system where teams have the freedom to decide how they deliver, but that doesn’t mean they can ignore Scrum events, commitments, or organisational goals. The Product Owner ensures alignment to business value. The Scrum Master ensures alignment to agility. The team ensures alignment to delivery.

@@ -1,5 +1,5 @@
 ---
-title: "Mastering Remote Work: Key Insights for Agile Teams to Thrive in a Digital World"
+title: 'Mastering Remote Work: Key Insights for Agile Teams to Thrive in a Digital World'
 short_title: Mastering Remote Work for Agile Teams
 description: Practical strategies for remote Agile teams, covering communication, tool selection, value delivery, team dynamics, gamification, and integrating UX into software development.
 tldr: Remote work requires strong communication, the right tools, and a focus on delivering value, even when teams are not co-located. Improving feedback loops, observing team dynamics through activities like games, and integrating UX early in Agile processes all help teams collaborate better and build the right products. Development managers should prioritize open communication, continuous process improvement, and shared accountability for user experience to help their teams thrive in a digital environment.
@@ -52,8 +52,8 @@ duration: 1506
 resourceTypes:
   - video
 isShort: false
----
 
+---
 Hello, I’m Martin Hinshelwood, the owner of Naked Agility based in Glasgow, Scotland. Today, I want to share some insights and experiences that have come up in recent discussions, particularly around [remote working]({{< ref "/tags/remote-working" >}}), the integration of UX in Agile practices, and the importance of team dynamics.
 
 ### Embracing Remote Work

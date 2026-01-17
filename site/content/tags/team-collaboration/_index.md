@@ -33,7 +33,7 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:06:47
 icon: fa-comments
 concepts:
-  - Practice
+  - Capability
 categories:
   - Product Development
 tags:

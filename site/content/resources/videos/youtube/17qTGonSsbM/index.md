@@ -1,5 +1,5 @@
 ---
-title: "The Importance of Evaluating Direction: Are You Heading the Right Way?"
+title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
 short_title: Evaluating and Adjusting Direction in Agile Teams
 description: Learn why regularly evaluating your direction is vital for developers, product owners, and organisations to ensure goals, features, and strategies truly meet user and business needs.
 tldr: Regularly evaluating your direction at every level, developer, product owner, and organization, is essential to avoid wasted effort and ensure you are building the right things for your users. Key insights include aligning work with the product vision, listening to feedback, and being willing to pivot based on data rather than sticking to outdated plans. Make time for honest retrospectives and be ready to change course when needed to achieve better outcomes.
@@ -51,8 +51,8 @@ duration: 312
 resourceTypes:
   - video
 isShort: false
----
 
+---
 As Lao Tzu wisely said, _“If you do not change direction, you may end up where you are heading.”_ This quote resonates deeply with me, both as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and a practitioner. Whether you're a developer writing code or an organization strategizing for the future, it's vital to continuously ask yourself: **Are we heading in the right direction?** 🛤️
 
 In this post, we’ll explore why it’s crucial to evaluate your direction regularly at different levels, individual, team, and organizational, and how you can pivot when necessary to achieve better outcomes.

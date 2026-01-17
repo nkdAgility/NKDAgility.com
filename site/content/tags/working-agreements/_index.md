@@ -32,18 +32,17 @@ sitemap:
 BodyContentGenDate: 2025-04-09T12:55:36
 icon: fa-handshake
 concepts:
-  - Discipline
+  - Practice
 categories:
   - Product Development
 tags:
   - Team Collaboration
-  - Self Organisation
   - Social Technologies
   - Organisational Culture
   - Team Motivation
+  - Self Organisation
   - Pragmatic Thinking
   - Organisational Agility
-  - Agile Philosophy
 ItemId: h7LBpdEzg1g
 ResourceId: h7LBpdEzg1g
 ItemType: tags

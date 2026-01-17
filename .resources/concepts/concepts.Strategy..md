@@ -5,7 +5,7 @@ trustpilot: false
 abstract: Strategy is a high-level approach that directs an organisation towards its long-term objectives, distinguishing itself from methods and practices that focus on execution. It serves as an overarching framework that integrates various methods, practices, and decision-making processes, ensuring that daily activities and tactical choices contribute to the organisation's broader goals. In Agile and DevOps contexts, strategy aligns teams and technologies with business aims, exemplified by approaches like Lean Product Development, which prioritises value delivery and waste reduction. Leadership plays a crucial role in strategy by establishing vision and direction while empowering teams to operate within this framework. Strategic planning in Agile organisations incorporates evidence-based management to inform decisions and maintain alignment with customer needs and market dynamics. Unlike methods that prescribe specific procedures, strategy offers a flexible guiding framework that can adapt to changing circumstances, fostering resilience and responsiveness to both internal and external challenges. Ultimately, strategy provides clarity, focus, and adaptability, enabling organisations to navigate complexity and achieve sustained success in a dynamic environment.
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
-weight: 560
+weight: 620
 icon: fa-chess-knight
 description: Strategy is a high-level approach that defines how an organisation will achieve its goals, aligning resources, methods, and actions to achieve a shared vision.
 Instructions: |-
@@ -36,6 +36,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
+ItemId: iA5Aa00m1eA
+ResourceId: iA5Aa00m1eA
+ItemType: concepts
+ResourceType: concepts
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 **Strategy** is a **high-level approach** that guides an organisation towards achieving its long-term goals. Unlike **methods** or **practices**, which provide the **how** of execution, **strategy** defines the **direction** and **purpose** of those actions. It is about ensuring that resources, teams, and methods are **aligned** with the organisation's overall vision and mission.

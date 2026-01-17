@@ -1,5 +1,5 @@
 ---
-title: "Engineering Culture That Thrives: How to Build Teams Ready for Change, Not Just the Next Fire Drill"
+title: 'Engineering Culture That Thrives: How to Build Teams Ready for Change, Not Just the Next Fire Drill'
 short_title: Building a Culture That Adapts to Change
 description: Is your engineering culture built to thrive on change? Discover how to create resilient, adaptive teams that stay ahead in a fast-moving tech world.
 tldr: Engineering teams need a culture that embraces and adapts to change, not just one that reacts to emergencies or chases trends. The most effective teams learn quickly, reflect on their practices, and align with business goals, making continuous improvement and evidence-based decisions part of their routine. Development managers should focus on building a learning culture that expects and measures adaptation, ensuring teams remain resilient and relevant as technology evolves.
@@ -59,8 +59,8 @@ resourceTypes:
 isShort: false
 ResourceId: y_dQnO-a8zA
 ResourceType: videos
----
 
+---
 Change is the Only Constant: Why Your Engineering Culture Must Evolve
 
 If there’s one thing I’ve learned over the years, it’s that technology is a moving target. New frameworks appear, platforms rise and fall, and what’s cutting-edge today is legacy tomorrow. But here’s the uncomfortable truth: if your engineering culture can’t adapt, every shift in the tech landscape feels like a fire drill. You’re not building resilience, you’re just bracing for the next emergency.

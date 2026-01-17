@@ -1,5 +1,5 @@
 ---
-title: "Embracing Automation: The Key to Transforming Your Development Process and Boosting Confidence"
+title: 'Embracing Automation: The Key to Transforming Your Development Process and Boosting Confidence'
 short_title: Embracing Automation in Software Development
 description: Explores how automation in testing, deployment, and validation streamlines development, reduces technical debt, and builds confidence for teams and customers alike.
 tldr: Embracing automation in testing, deployment, and validation is essential for faster, more reliable software delivery and increased team confidence. The Azure DevOps team drastically reduced feedback loops and technical debt by shifting to automated, efficient testing and empowering developers with local testing tools. Prioritizing automation and quality builds trust both within teams and with customers, so development managers should focus on automating as much as possible to enable continuous delivery and rapid improvement.
@@ -61,8 +61,8 @@ resourceTypes:
 isShort: false
 ResourceId: VkhIXCsoSJw
 ResourceType: videos
----
 
+---
 When it comes to developing complex products, one of the most significant steps we can take as developers and engineering teams is to embrace automation. In my experience, this is not just a best practice; it’s essential for success. Alongside reducing the size of our backlog, essentially making our deliverables smaller so we can iterate more frequently, automation becomes a cornerstone of our development process.
 
 ### The Power of Automation

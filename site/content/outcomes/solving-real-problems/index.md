@@ -4,7 +4,7 @@ short_title: Solving Real Problems
 description: Move from tool-centric thinking to problem-focused strategy. Understand what improves when organisations start with real problems rather than solutions, enabling better decisions, clearer priorities, and sustainable outcomes.
 tldr: Focusing on real problems leads to better decisions, clearer priorities, and sustainable outcomes. Teams that start with problem identification rather than tool selection report higher success rates and stronger stakeholder confidence. Encourage your team to prioritise problem discovery and validation before committing to solutions.
 date: 2025-10-20
-weight: 150
+weight: 890
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -128,21 +128,21 @@ sections:
   - type: outcomeboxes
     title: When you solve real problems
     boxes:
-      - box:
+      - box: 
         items:
           - title: Identify what actually needs to improve
           - title: Articulate problems clearly across levels
           - title: Prioritise based on business impact
           - title: Make technology decisions grounded in reality
           - title: Build solutions that address genuine needs
-      - box:
+      - box: 
         items:
           - title: Confidence replaces anxiety
           - title: Clarity replaces confusion
           - title: Purpose replaces activity
           - title: Progress replaces churn
           - title: Trust replaces scepticism
-      - box:
+      - box: 
         items:
           - title: Lead with problem-focused strategy
           - title: Champion outcome-oriented thinking

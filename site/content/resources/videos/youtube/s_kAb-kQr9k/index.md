@@ -1,5 +1,5 @@
 ---
-title: "From Burnout to Breakthrough: How CTOs Can Lead with Clarity, Resilience, and Real Innovation"
+title: 'From Burnout to Breakthrough: How CTOs Can Lead with Clarity, Resilience, and Real Innovation'
 short_title: Staying Competitive Without CTO Burnout
 description: Feeling overwhelmed as a tech leader? Discover how to shift from chaos to clarity and build resilient, future-ready teams, without burning out.
 tldr: CTOs and tech leaders cannot drive innovation if they are overwhelmed and constantly reacting to demands. Sustainable leadership requires stepping back to gain clarity, focusing on what truly matters, and building deliberate strategies that align with business goals. To move from burnout to breakthrough, prioritise reflection, consistent decision-making, and resilience rather than simply doing more.
@@ -45,8 +45,8 @@ resourceTypes:
 isShort: false
 ResourceId: s_kAb-kQr9k
 ResourceType: videos
----
 
+---
 If there’s one thing I see time and again in my work with technology leaders, it’s this: you can’t lead innovation if you’re overwhelmed and burned out. Yet, that’s precisely where so many CTOs and tech leaders find themselves. The expectation is relentless, be across every trend, make a hundred decisions a day, modernise the architecture, support the teams, deliver faster, and somehow still get a decent night’s sleep. It’s no wonder so many are running on empty.
 
 Let’s be clear: reacting to everything isn’t leadership. It’s survival. And survival mode is not where innovation thrives.

@@ -37,18 +37,17 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:39:34
 icon: fa-feather
 concepts:
-  - Ethos
+  - Philosophy
 categories:
   - Product Development
 tags:
   - Agile Values and Principles
-  - Social Technologies
-  - Value Delivery
-  - Market Adaptability
   - Organisational Agility
+  - Value Delivery
+  - Social Technologies
+  - Market Adaptability
   - Continuous Improvement
   - Software Development
-  - Agile Strategy
   - Business Agility
   - Organisational Culture
   - Continuous Learning

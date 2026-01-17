@@ -58,8 +58,8 @@ Watermarks:
   tldr: 2025-08-07T12:29:31Z
 ResourceId: BD9f00po0V6
 ResourceType: signals
----
 
+---
 Scrum doesn’t stop you from optimising flow. It just demands accountability: a Sprint Goal and a Done Increment.
 
 If your system of work already delivers high-quality software continuously, why impose hard delivery cuts every two weeks? Let work flow, sustainably, across Sprint boundaries.

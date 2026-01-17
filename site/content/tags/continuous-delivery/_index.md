@@ -24,7 +24,7 @@ Instructions: |-
   **Strictly exclude** unrelated content such as general software development practices that do not specifically address Continuous Delivery, discussions on unrelated methodologies (e.g., Agile without a focus on delivery), or misinterpretations of Continuous Delivery principles.
 headline:
   cards: []
-  title: "Continuous Delivery: Accelerating Value Through Rapid, Reliable Releases"
+  title: 'Continuous Delivery: Accelerating Value Through Rapid, Reliable Releases'
   subtitle: Accelerating software releases through automation, rapid feedback loops, and reliable incremental improvements to maximise user value and responsiveness.
   content: A software delivery approach enabling teams to rapidly and reliably release incremental improvements to users through automation of integration, testing, and deployment processes, facilitating quick validation of assumptions, responsiveness to user feedback, reduced risk, enhanced quality, and accelerated value delivery, thereby promoting continuous learning, adaptability, and innovation.
   updated: 2025-05-23T23:17:12Z
@@ -43,23 +43,22 @@ categories:
 tags:
   - Frequent Releases
   - Software Development
+  - Engineering Practices
   - Product Delivery
   - Value Delivery
   - Operational Practices
-  - Engineering Practices
   - Market Adaptability
   - Deployment Strategies
   - Pragmatic Thinking
   - Release Management
-  - Time to Market
 ItemId: gzUIBdIPGik
 ResourceId: gzUIBdIPGik
 ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
----
 
+---
 Continuous Delivery is a disciplined software delivery practice aimed at producing software in short, reliable cycles, ensuring that it can be released at any moment. It involves consistently delivering small, incremental improvements directly into the hands of real users, from the very first iteration.
 
 According to Jez Humble, Continuous Delivery is:

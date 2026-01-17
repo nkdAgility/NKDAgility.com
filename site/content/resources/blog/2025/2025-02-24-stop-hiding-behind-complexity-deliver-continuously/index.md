@@ -65,8 +65,8 @@ resourceTypes: blog
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
 ResourceId: 7hEAycZIn8w
 ResourceType: blog
----
 
+---
 Every organisation says their software is 'too complex' for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}). That's nonsense. Complexity is an excuse, not a blocker. [Azure DevOps]({{< ref "/tags/azure-devops" >}}), Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too; if you’re willing to put in the time, effort, and money.
 
 Continuous delivery is not a pipe dream. If the organisation is willing to invest, it’s achievable for every software product, regardless of complexity or legacy constraints. And that's the challenge.

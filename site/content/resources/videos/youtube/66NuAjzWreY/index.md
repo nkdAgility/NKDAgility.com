@@ -1,5 +1,5 @@
 ---
-title: "Mastering Evidence-Based Management in Agile: Inform, Don’t Control"
+title: 'Mastering Evidence-Based Management in Agile: Inform, Don’t Control'
 short_title: Evidence-Based Management in Agile
 description: Explains how to use data in Agile management to guide decisions and behaviours, focusing on informed outcomes without letting metrics control teams or stifle value delivery.
 tldr: Evidence-Based Management helps you use data to guide decisions and understand team behaviors, but it should inform rather than control actions. Define clear outcomes, choose metrics that align with those goals, and use data as a conversation starter to uncover challenges and drive improvement. Regularly review metrics with your teams to stay aligned and focus on delivering real value, not just hitting targets.
@@ -58,8 +58,8 @@ duration: 414
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ## **What is Evidence-Based Management?**
 
 **Evidence-Based Management (EBM)** is the strategic use of data to inform decision-making processes at both the strategic and tactical levels of an organization. It’s about using data as a guide, not a dictator, to shape behaviors and drive outcomes that benefit your business.

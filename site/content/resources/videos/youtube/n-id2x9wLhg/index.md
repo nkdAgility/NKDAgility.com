@@ -58,8 +58,8 @@ resourceTypes:
 isShort: true
 ResourceId: n-id2x9wLhg
 ResourceType: videos
----
 
+---
 Without shared standards, quality is a coin toss. I’ve seen it time and again: when every team defines “done” in their own way, you don’t get value, you get uncertainty and risk. Different interpretations of what “done” means don’t just create confusion; they breed chaos, introduce production risks, and leave you with invisible liabilities lurking in your product. In short, you can’t trust the increment.
 
 Let’s be honest, if you can’t trust the increment, you can’t trust your process. And if you can’t trust your process, how can you possibly deliver value with any degree of predictability? This is not just a theoretical problem. I’ve worked with organisations where one team’s “done” meant “it compiles,” while another’s meant “it’s in production and monitored.” The result? A patchwork of half-finished work, missed expectations, and a backlog of technical debt that nobody wants to own.

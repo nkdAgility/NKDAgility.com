@@ -1,5 +1,5 @@
 ---
-title: "Mastering Scrum: Effective Planning and Prioritisation for Agile Success"
+title: 'Mastering Scrum: Effective Planning and Prioritisation for Agile Success'
 short_title: Scrum Planning and Prioritisation Guide
 description: Learn how to plan and prioritise effectively in Scrum by aligning with business goals, assessing value and risk, and keeping a lean, focused product backlog.
 tldr: Effective Scrum planning and prioritisation require aligning work with business goals, regularly communicating with stakeholders, and keeping the product backlog lean and focused on near-term priorities. Use a simple value, risk, and size formula to help order backlog items, and continuously adjust based on customer data and outcomes. Keep your backlog manageable and iterate often to ensure your team delivers meaningful results that support business objectives.
@@ -56,8 +56,8 @@ duration: 312
 resourceTypes:
   - video
 isShort: false
----
 
+---
 When it comes to effective planning and prioritisation within a [Scrum]({{< ref "/categories/scrum" >}}) team, the question often arises: how do we navigate this complex landscape? It’s a challenge that many teams face, and I can assure you, it’s not a one-size-fits-all solution. The intricacies of planning and prioritisation hinge significantly on the specific business context and its overarching goals.
 
 ### Understanding Business Goals

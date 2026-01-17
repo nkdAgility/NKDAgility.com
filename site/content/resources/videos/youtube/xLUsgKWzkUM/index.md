@@ -1,5 +1,5 @@
 ---
-title: "Mastering Prioritisation: How Product Owners Can Drive Value and Accountability"
+title: 'Mastering Prioritisation: How Product Owners Can Drive Value and Accountability'
 short_title: Mastering Prioritisation for Product Owners
 description: Explains how Product Owners can use effective prioritisation to maximise value, manage budgets, and build accountability through clear communication and stakeholder engagement.
 tldr: Product Owners play a crucial role in ensuring resources are spent wisely by prioritising the most valuable work, aligning development with business goals, and maintaining stakeholder trust through clear communication. Effective prioritisation maximises value delivery, keeps teams focused, and adapts to changing needs. Development managers should support Product Owners in understanding users, collaborating closely, and staying flexible to drive successful outcomes.
@@ -51,8 +51,8 @@ duration: 36
 resourceTypes:
   - video
 isShort: true
----
 
+---
 As a [Product Owner]({{< ref "/tags/product-owner" >}}), I often find myself reflecting on the immense responsibility that comes with the role. It’s not just about managing a backlog or prioritising tasks; it’s about being accountable for spending the money wisely. This accountability is a cornerstone of effective product ownership, and it’s something I take very seriously.
 
 ### The Power of Prioritisation

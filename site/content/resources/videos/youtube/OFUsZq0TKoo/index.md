@@ -1,5 +1,5 @@
 ---
-title: "Transform Your Product Development: Unlock User Value, Reduce Waste, and Enhance Collaboration with Structured Learning"
+title: 'Transform Your Product Development: Unlock User Value, Reduce Waste, and Enhance Collaboration with Structured Learning'
 short_title: Transform Your Product Development with Structured Learning
 description: Learn how structured learning in product development boosts user value, reduces waste, fosters collaboration, and encourages creativity through evidence-based practices.
 tldr: A structured learning course in product development can help your teams better understand user needs through experimentation, reduce waste by making evidence-based decisions, and improve collaboration with stakeholders using data-driven discussions. The course also encourages creative problem-solving and provides practical tools you can apply immediately. Consider investing in this training to boost user value, efficiency, and team alignment.
@@ -49,8 +49,8 @@ duration: 269
 resourceTypes:
   - video
 isShort: false
----
 
+---
 As I reflect on my journey in [product development]({{< ref "/categories/product-development" >}}), I can’t help but think about the transformative power of structured learning. Recently, I had the opportunity to delve into a course that promises to change the game for anyone involved in product development. I want to share my insights on how this course can significantly enhance your approach to creating user value, reducing waste, and fostering collaboration.
 
 ### Increasing User Value

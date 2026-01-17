@@ -39,14 +39,14 @@ categories:
   - Product Development
 tags:
   - Pragmatic Thinking
+  - Social Technologies
   - Team Collaboration
   - Operational Practices
-  - Social Technologies
   - Team Performance
-  - Organisational Agility
   - Value Delivery
-  - Self Organisation
+  - Market Adaptability
   - Organisational Culture
+  - Organisational Agility
 ItemId: Yap-cYvT5FW
 ResourceId: Yap-cYvT5FW
 ItemType: tags

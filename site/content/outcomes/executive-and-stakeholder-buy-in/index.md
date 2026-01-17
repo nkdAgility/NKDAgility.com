@@ -4,7 +4,7 @@ short_title: Executive and Stakeholder Alignment
 description: Create the conditions for strategic clarity, confident decisions, and aligned investment in engineering initiatives through evidence and shared understanding.
 tldr: Alignment emerges when technical strategy connects clearly to business outcomes through evidence rather than opinion. Clear metrics, economic visibility, and coherent narratives enable stakeholders to make confident decisions about engineering investments.
 date: 2025-06-02
-weight: 500
+weight: 800
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -13,7 +13,7 @@ ItemId: geznVaAkN1-
 ItemType: outcomes
 ItemKind: marketing
 ItemContentOrigin: human
-slug: executive-and-stakeholder-buy-in
+slug: executive-and-stakeholder-alignment
 aliases: []
 type: outcomes
 sections:
@@ -121,7 +121,7 @@ sections:
   - type: outcomeboxes
     title: Alignment enables you to
     boxes:
-      - box:
+      - box: 
         title: What You Can Do
         items:
           - title: Connect technical strategy to business outcomes
@@ -129,7 +129,7 @@ sections:
           - title: Make engineering investments visible and defensible
           - title: Accelerate decision cycles through evidence
           - title: Reduce friction between technical and business leadership
-      - box:
+      - box: 
         title: How You'll Feel
         items:
           - title: Feel confident presenting to executives
@@ -137,7 +137,7 @@ sections:
           - title: Gain trust from stakeholders across functions
           - title: Move from requestor to trusted advisor
           - title: Sleep better knowing decisions rest on evidence
-      - box:
+      - box: 
         title: How You'll Be Seen
         items:
           - title: Be seen as a strategic, credible leader
@@ -151,21 +151,21 @@ sections:
     content: |
       Industry research (DORA) shows elite organisations make strategic decisions 106× faster than low performers. We help you close that gap through clear metrics, economic visibility, and coherent narrative that connects technical capability to business outcomes.
     boxes:
-      - box:
+      - box: 
         title: Economic Visibility
         items:
           - title: See which engineering investments contribute to Current Value (revenue today)
           - title: Identify which unlock Ability to Innovate (capability for tomorrow)
           - title: Understand flow metrics that connect delivery to business outcomes
           - title: Know what's working before committing significant resources
-      - box:
+      - box: 
         title: Strategic Clarity
         items:
           - title: Technical roadmaps connect clearly to business priorities
           - title: Engineering economics make investment cases defensible
           - title: Delivery metrics inform rather than confuse stakeholders
           - title: Shared language across technical and business leadership
-      - box:
+      - box: 
         title: Practical Implementation
         items:
           - title: No enterprise overhead or restructuring required
@@ -229,4 +229,6 @@ creator: Martin Hinshelwood
 icon: fa-handshake
 ResourceId: geznVaAkN1-
 ResourceType: outcomes
+
 ---
+

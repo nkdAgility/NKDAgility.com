@@ -1,5 +1,5 @@
 ---
-title: "Unpacking Assumptions: How to Elevate Your Product Development Beyond the Feature Factory"
+title: 'Unpacking Assumptions: How to Elevate Your Product Development Beyond the Feature Factory'
 short_title: Unpacking Assumptions in Product Development
 description: Learn how to identify and challenge assumptions in product development, avoid the feature factory trap, and use discovery, experimentation, and validation to meet real user needs.
 tldr: Many teams focus on delivering features quickly but often overlook the assumptions behind what users truly need, leading to wasted effort and misaligned products. The PPD V course helps product teams identify and challenge these assumptions through structured discovery, experimentation, and validation, fostering better collaboration and evidence-based decisions. Consider investing in approaches that prioritise learning and user value over simply shipping features.
@@ -49,8 +49,8 @@ duration: 355
 resourceTypes:
   - video
 isShort: false
----
 
+---
 Let’s dive into a topic that’s been on my mind lately: the importance of addressing assumptions in [product development]({{< ref "/categories/product-development" >}}). As I’ve observed in various organisations, there’s often a heavy focus on delivery, specifically, the creation of product increments. While this is undoubtedly a crucial goal, I believe we’re missing a vital piece of the puzzle: the complex problems we’re trying to solve along the way.
 
 ### The Assumption Trap

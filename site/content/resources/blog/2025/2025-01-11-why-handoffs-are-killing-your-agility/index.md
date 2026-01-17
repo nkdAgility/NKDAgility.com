@@ -60,8 +60,8 @@ resourceTypes: blog
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 ResourceId: pDvDdIEi9sj
 ResourceType: blog
----
 
+---
 Many organisations attempt to adopt [Lean]({{< ref "/categories/lean" >}}) practices without fully understanding their implications in [software development]({{< ref "/tags/software-development" >}}). This often leads to excessive handoffs, which fragment communication and reduce agility.
 
 Here's the kicker: handoffs are _not_ Lean, Agile, or [DevOps]({{< ref "/categories/devops" >}}). They are an anti-pattern that introduces waste, increases [cycle time]({{< ref "/tags/cycle-time" >}}), and makes collaboration difficult.

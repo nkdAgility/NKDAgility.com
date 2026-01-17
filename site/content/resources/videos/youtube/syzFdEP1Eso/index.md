@@ -1,6 +1,6 @@
 ---
 title: Why 'Definition of Done' is Crucial for Success in Scrum
-short_title: "Definition of Done in Scrum: Importance & Benefits"
+short_title: 'Definition of Done in Scrum: Importance & Benefits'
 description: Explains how a clear Definition of Done in Scrum ensures consistent quality, team alignment, and customer satisfaction across all projects, regardless of the solution.
 tldr: The Definition of Done sets clear quality standards for all work, ensuring every deliverable meets your organization's expectations regardless of the specific feature or project. It aligns teams, reduces defects, and protects your brand by making sure nothing is released before it is truly ready. Regularly review and adapt your Definition of Done with your team to maintain high quality and customer satisfaction.
 date: 2023-11-14T07:00:30Z
@@ -52,8 +52,8 @@ duration: 352
 resourceTypes:
   - video
 isShort: false
----
 
+---
 When we talk about [Scrum]({{< ref "/categories/scrum" >}}), one of the most critical elements that often gets overlooked is the **[Definition of Done]({{< ref "/tags/definition-of-done" >}})**. It's one of those terms that seem straightforward on the surface, but once you dig into it, there's a lot more than meets the eye. Today, we’ll explore why the Definition of Done is crucial, how it’s independent of the solution you're working on, and how it can be applied universally to different projects, whether you're developing software or running a bakery!
 
 ## **What is the Definition of Done?**

@@ -26,7 +26,7 @@ Instructions: |-
   - Content that focuses solely on technical tools without addressing the underlying social frameworks.
 headline:
   cards: []
-  title: "Social Technologies: Unlocking Adaptability Through Collective Intelligence"
+  title: 'Social Technologies: Unlocking Adaptability Through Collective Intelligence'
   subtitle: Foundational philosophies enabling self-organisation, empirical inquiry, and collective intelligence to navigate complexity, uncertainty, and continuous change.
   content: Social technologies provide foundational philosophies that enable organisations to navigate complexity through decentralised decision-making, iterative experimentation, and collective intelligence. Emphasising self-organisation, empirical inquiry, and participatory governance, these principles foster adaptability, resilience, and continuous learning, empowering teams to effectively respond to uncertainty and drive meaningful innovation.
   updated: 2025-05-23T23:29:57Z
@@ -35,18 +35,18 @@ sitemap:
   priority: 0.7
 icon: fa-share-nodes
 concepts:
-  - Ethos
+  - Philosophy
 categories:
   - Leadership
 tags:
   - Miscellaneous
-  - Self Organisation
   - Sensemaking
-  - Organisational Agility
   - Continuous Learning
+  - Organisational Agility
+  - Self Organisation
   - Complexity Thinking
-  - Agile Philosophy
   - Organisational Change
+  - Decision Making
   - Organisational Culture
   - Ability to Innovate
   - Pragmatic Thinking
@@ -59,8 +59,8 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
----
 
+---
 In complex environments where variance is high, methodologies fall short. In order to guide our ways of working we need foundational philosophies that foster adaptability, emergent coordination, and collective intelligence. Social technologies provide this foundation, shaping interactions, decision-making, and value creation.
 
 Social technologies are not methodologies, they dont tell you how to do the work, but they do provide a structure within which decisions are made. They focus on the underlying principals of continuous learning, self-management, and decentralised decision-making. This enabled organisations to navigate uncertainty with intent, rather than rigid processes. They thrive on:

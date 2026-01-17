@@ -1,6 +1,6 @@
 ---
 title: 7 harbingers of the Agile apocalypse- War
-short_title: "Agile Conflict: From Debate to Destructive War"
+short_title: 'Agile Conflict: From Debate to Destructive War'
 description: Explores how unmanaged conflict in agile teams can escalate from healthy debate to destructive division, and offers strategies for resolving disputes and fostering collaboration.
 tldr: Unchecked conflict in agile teams can escalate from healthy debate to destructive infighting, undermining collaboration and progress. Leaders must foster open communication, empathy, and clear conflict resolution processes to keep disagreements constructive and aligned with shared goals. Proactively managing conflict is essential to prevent team dysfunction and support ongoing innovation and growth.
 date: 2023-10-19T13:00:46Z
@@ -53,8 +53,8 @@ duration: 158
 resourceTypes:
   - video
 isShort: false
----
 
+---
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse
 
 The agile journey, while transformative, is fraught with challenges, one of which is the specter of conflict. Dubbed the second harbinger of the agile apocalypse, conflict, if left unchecked, can escalate into a war-like state within organizations, undermining the very essence of agility. This exploration delves into the nature of conflict in agile environments, distinguishing between constructive disagreements that fuel innovation and destructive wars that thwart collaboration.

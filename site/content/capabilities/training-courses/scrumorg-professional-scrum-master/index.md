@@ -4,7 +4,7 @@ short_title: Professional Scrum Master
 description: Learn Scrum principles, the Scrum Master role, and agile team leadership through hands-on training, with certification and practical skills for effective Scrum implementation.
 tldr: This two-day course prepares participants to effectively lead Scrum teams and drive agile practices by covering Scrum principles, the Scrum Master role, and practical skills like backlog management, stakeholder engagement, and scaling Scrum. It uses hands-on, activity-based learning and includes a free attempt at the PSM I certification exam. Development managers can use this course to upskill team leaders and improve agile delivery across their organisation.
 date: 2017-01-01
-weight: 350
+weight: 325
 sitemap:
   filename: sitemap.xml
   priority: 0.8
@@ -30,7 +30,12 @@ categories:
   - Scrum
   - Leadership
 tags:
+  - Social Technologies
   - Scrum Master
+  - Professional Scrum
+  - Value Delivery
+  - Empirical Process Control
+  - Team Performance
   - Agile Frameworks
   - Agile Leadership
   - Agile Planning
@@ -39,12 +44,7 @@ tags:
   - Coaching
   - Complexity Thinking
   - Continuous Learning
-  - Empirical Process Control
   - Operational Practices
-  - Organisational Agility
-  - Pragmatic Thinking
-  - Product Delivery
-  - Professional Scrum
 card:
   title: Professional Scrum Master
   content: Our **Professional Scrum Master Training Program** features **PSM Training** from Scrum.org, delivered as an **Immersive Learning Experience**. It combines live, instructor-led sessions with additional offline exercises, covering the principles of the Scrum framework and the Scrum Master role. This multi-week format integrates real-world applications, encouraging continuous improvement through practical assignments.

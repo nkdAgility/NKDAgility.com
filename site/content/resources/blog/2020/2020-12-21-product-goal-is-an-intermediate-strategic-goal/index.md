@@ -35,6 +35,7 @@ tags:
   - Empirical Process Control
   - Agile Strategy
   - Decision Making
+  - Adaptive Operating Model
   - Business Agility
   - Continuous Improvement
   - Evidence Based Leadership
@@ -46,7 +47,6 @@ tags:
   - Value Delivery
   - Customer Focus
   - Enterprise Agility
-  - Ability to Innovate
 Watermarks:
   description: 2025-05-07T13:15:10Z
   short_title: 2025-07-07T17:57:41Z

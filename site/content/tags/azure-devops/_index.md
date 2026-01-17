@@ -45,11 +45,10 @@ categories:
 tags:
   - Product Delivery
   - Software Development
+  - Collaboration Tools
   - Application Lifecycle Management
   - Operational Practices
   - Value Delivery
-  - Collaboration Tools
-  - Social Technologies
   - Market Adaptability
   - Organisational Agility
 ItemId: IIKvwtLpLJ4

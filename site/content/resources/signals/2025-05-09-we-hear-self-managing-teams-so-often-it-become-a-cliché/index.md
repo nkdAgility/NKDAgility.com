@@ -57,8 +57,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:38Z
 ResourceId: FqiyqqNxjFS
 ResourceType: signals
----
 
+---
 We hear “self-managing teams” so often it’s become a cliché.
 
 But here’s what gets missed:

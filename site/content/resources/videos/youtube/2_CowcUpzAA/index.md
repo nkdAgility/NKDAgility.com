@@ -1,5 +1,5 @@
 ---
-title: "The Real Scope of a Product Owner: Beyond the Backlog"
+title: 'The Real Scope of a Product Owner: Beyond the Backlog'
 short_title: The Real Scope of a Product Owner
 description: Explores the full responsibilities of a Product Owner in Agile, highlighting strategic decision-making, value maximisation, and the importance of market insight and relationships.
 tldr: The Product Owner role goes far beyond managing the backlog, requiring strategic decision-making, budget accountability, and proactive leadership to maximize product value and stay ahead of the market. Success depends on strong relationships, deep market understanding, and continuous learning, not just training. Development managers should ensure Product Owners have the authority, information, and support needed to drive product direction and deliver real business impact.
@@ -52,8 +52,8 @@ duration: 317
 resourceTypes:
   - video
 isShort: false
----
 
+---
 When most people hear the term "[Product Owner]({{< ref "/tags/product-owner" >}})," they typically think about managing a [product backlog]({{< ref "/tags/product-backlog" >}}) and making sure the team works through it. While this is part of the job, it’s a very small piece of the puzzle. In reality, the Product Owner role is far more significant, with broader responsibilities and accountability. Let’s dive deeper into what it means to be a true Product Owner in an Agile environment, and why many who take on the role often find themselves surprised by its complexity.
 
 ## Understanding the Breadth of the Product Owner Role

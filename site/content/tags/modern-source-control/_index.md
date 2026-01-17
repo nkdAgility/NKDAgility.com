@@ -40,7 +40,6 @@ categories:
 tags:
   - Software Development
   - Technical Mastery
-  - Market Adaptability
 ItemId: 0KU63FroXXb
 ResourceId: 0KU63FroXXb
 ItemType: tags

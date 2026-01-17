@@ -1,5 +1,5 @@
 ---
-title: "The Agile Bandit: How to Spot and Combat Project Management Mindsets in Product Owners"
+title: 'The Agile Bandit: How to Spot and Combat Project Management Mindsets in Product Owners'
 short_title: Spotting Project Management Mindsets in Product Owners
 description: Explains how project management mindsets in Product Owners can harm Agile teams, and offers practical strategies to promote value-driven, collaborative team environments.
 tldr: Product Owners who act like project managers and focus on tasks and control rather than value and collaboration can harm team morale, stifle innovation, and lead to ineffective products. To avoid these issues, encourage Product Owners to prioritize user value, foster close team collaboration, and empower teams to take ownership. Development managers should watch for these behaviors and actively support a shift toward a more value-driven and collaborative approach.
@@ -60,8 +60,8 @@ duration: 38
 resourceTypes:
   - video
 isShort: true
----
 
+---
 I’ve often found myself reflecting on the dynamics within Agile teams, particularly when it comes to the role of the [Product Owner]({{< ref "/tags/product-owner" >}}). Have you ever worked with a Product Owner who seemed more like a project manager? You know the type, fixated on work breakdown structures, timelines, and Gantt charts. If you have, then you’ve likely encountered what I like to call an “agile bandit” Product Owner.
 
 ### The Agile Bandit: A Disconnection from True Agility

@@ -16,7 +16,8 @@ aliases: []
 aliasesArchive:
   - /training-courses/engineering-practices-workshop/
 type: course
-concepts: []
+concepts:
+  - Practice
 categories:
   - Uncategorized
 tags:

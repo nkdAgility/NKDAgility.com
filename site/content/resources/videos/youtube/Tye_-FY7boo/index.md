@@ -1,5 +1,5 @@
 ---
-title: "Vision, Value, and Validation: The Keys to Successful Product Management"
+title: 'Vision, Value, and Validation: The Keys to Successful Product Management'
 short_title: Vision, Value & Validation in Product Management
 description: Explains how Product Owners can replace traditional project management with vision, value, and validation to guide teams, deliver real value, and ensure product success.
 tldr: When moving from project management to product management, it is essential for Product Owners to fill the gap left by traditional planning tools by focusing on vision, value, and validation. Clearly define and communicate the product vision, ensure all work aligns with delivering real value, and continuously validate progress through feedback and measurement. Prioritize these pillars to keep teams aligned and maximize product impact; consider seeking support if challenges arise.
@@ -55,8 +55,8 @@ duration: 293
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the world of Agile, transitioning from traditional [project management]({{< ref "/tags/project-management" >}}) to [product management]({{< ref "/categories/product-management" >}}) is an exciting but often challenging journey. For new Product Owners, one of the most crucial lessons to learn is the importance of **Vision, Value, and Validation**. These three pillars fill the vacuum left when we move away from project management frameworks, such as Gantt charts and milestones, that may no longer serve a product-focused organization.
 
 If you’re a new [Product Owner]({{< ref "/tags/product-owner" >}}), understanding these concepts and how to implement them will set the foundation for success. Let's break it down.

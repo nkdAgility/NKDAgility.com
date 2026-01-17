@@ -4,7 +4,7 @@ short_title: Operating Model Design
 description: Strategic consultation on transitioning from industrial-era structures to operating models fit for dynamic markets. Creates coherent systems of work built on learning from real evidence, distributed decision-making, and continuous adaptation, enabling predictable flow and confident decision-making.
 tldr: Most organisations operate under industrial-era assumptions while competing in dynamic markets. This fundamental mismatch creates waste, missed opportunities, and frustrated teams. Operating model design helps you transition to an operating model grounded in learning from reality, fast feedback, and teams with complete capability, matching the speed and uncertainty of modern markets.
 date: 2025-11-24
-weight: 150
+weight: 770
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -76,19 +76,19 @@ sections:
   - type: boxesrow
     title: The New Operating Model
     boxes:
-      - box:
+      - box: 
         title: Learning Over Prediction
         items:
           - title: Decisions based on what you observe and test, not assumptions
           - title: Transparency, regular inspection, and adaptation as operating principles
           - title: Fast feedback loops replace predictive planning
-      - box:
+      - box: 
         title: Distributed Authority Over Central Control
         items:
           - title: Authority sits with those who have the knowledge
           - title: Teams closest to customers and technology make decisions
           - title: Fast decisions based on current information, no approval delays
-      - box:
+      - box: 
         title: Complete Teams
         items:
           - title: All skills needed to deliver value without dependencies
@@ -137,7 +137,7 @@ sections:
   - type: symmetry
     title: What Changes
     boxes:
-      - box:
+      - box: 
         title: Industrial Operating Model
         items:
           - title: Predictive planning and hierarchical control
@@ -148,7 +148,7 @@ sections:
             icon: fa-face-tired
           - title: Output-focused metrics and individual utilization
             icon: fa-face-anxious
-      - box:
+      - box: 
         title: New Operating Model
         items:
           - title: Learning-based adaptation and distributed decisions
@@ -164,7 +164,7 @@ sections:
     listType: list
     content: |
       A global energy technology company had 27 separate DevOps systems, 800+ projects, and 900+ custom processes. Teams working on the same product used different tracking systems. Leadership had no coherent view of delivery, performance, or investment.
-      
+
       [Operating model consolidation and standardization](/resources/case-studies/standardize-engineering-practice-across-800-teams) reduced collections from 27 to 7, unified work item tracking, enabled cross-team collaboration, and provided strategic visibility. Engineering teams could focus on delivery rather than wrestling with fragmented systems.
   - title: Why NKD Agility
     type: list
@@ -217,4 +217,6 @@ menus:
 icon: fa-diagram-project
 ResourceType: capabilities
 ResourceId: nwui0FU-QVV
+
 ---
+

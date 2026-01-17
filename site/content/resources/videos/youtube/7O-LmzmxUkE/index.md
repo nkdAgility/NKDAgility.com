@@ -1,6 +1,6 @@
 ---
 title: Scrum is like communism, it doesn't work. Myth 1
-short_title: "Scrum Events: Myths vs. Meaningful Practice"
+short_title: 'Scrum Events: Myths vs. Meaningful Practice'
 description: Explains why Scrum events are not pointless meetings but structured opportunities for inspection, adaptation, and progress, clarifying common misconceptions about Scrum.
 tldr: Scrum events are not just meetings but purposeful activities designed to drive inspection, adaptation, and real progress. Misunderstanding them as empty ceremonies leads to missed opportunities for team alignment, stakeholder engagement, and continuous improvement. Development managers should focus on using Scrum events to foster transparency and action, not just to fill calendars.
 date: 2023-10-24T06:50:42Z
@@ -60,8 +60,8 @@ duration: 255
 resourceTypes:
   - video
 isShort: false
----
 
+---
 # Demystifying [Scrum]({{< ref "/categories/scrum" >}}): Beyond Meetings to Meaningful Events 🚀
 
 Hey there, Agile enthusiasts! Today, I'm tackling a pervasive myth that's been haunting the corridors of Scrum practice: **the belief that Scrum equals endless talking and not enough doing.** It's a misconception that can turn teams away from the true essence and benefits of Scrum. Let's dive into why Scrum's so-called "ceremonies" are much more than just meetings, and how each event is designed to foster empiricism and action. 🌟

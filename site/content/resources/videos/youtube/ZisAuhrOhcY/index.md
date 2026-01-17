@@ -54,8 +54,8 @@ duration: 321
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ### Embracing [Kanban]({{< ref "/categories/kanban" >}}) for Enhanced Workflow and Predictability
 
 **Introduction**

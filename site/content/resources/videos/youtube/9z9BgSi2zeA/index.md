@@ -1,6 +1,6 @@
 ---
-title: "Hiring an Agile Coach: What to Look For in Both Technical and Leadership Engagement"
-short_title: "Hiring an Agile Coach: Key Qualities to Seek"
+title: 'Hiring an Agile Coach: What to Look For in Both Technical and Leadership Engagement'
+short_title: 'Hiring an Agile Coach: Key Qualities to Seek'
 description: Learn what qualities to seek in an Agile coach, including technical expertise, business acumen, and the ability to engage both technical teams and leadership for effective transformation.
 tldr: When hiring an Agile coach, prioritize candidates who can engage deeply with both technical teams and leadership, as this is key to a successful Agile transformation. Look for strong technical understanding relevant to your industry, business acumen to connect Agile practices to strategic goals, and excellent communication skills to influence at all levels. Choose a coach who fits your culture and can bridge gaps across the organization to drive real business outcomes.
 date: 2023-11-21T11:00:08Z
@@ -54,8 +54,8 @@ duration: 47
 resourceTypes:
   - video
 isShort: true
----
 
+---
 Hiring the right Agile coach is one of the most critical decisions an organization can make on its journey to becoming more Agile. It's not just about their ability to understand [Scrum]({{< ref "/categories/scrum" >}}) or [Agile frameworks]({{< ref "/tags/agile-frameworks" >}}), it's about their ability to deeply engage with both the technical teams and [leadership]({{< ref "/categories/leadership" >}}). They must gain credibility in both arenas to effectively drive the transformation.
 
 In this post, we'll explore the key traits to look for when hiring an Agile coach, focusing on their ability to work with both technical staff and leadership. I'll share personal experiences, practical advice, and a few tips to help you make the right choice for your organization.

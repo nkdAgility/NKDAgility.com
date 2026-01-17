@@ -45,8 +45,8 @@ Watermarks:
   tldr: 2025-08-07T12:35:10Z
 ResourceId: KWm8S39saqg
 ResourceType: signals
----
 
+---
 Scrum Masters love to talk about effectiveness, but here’s a reality check, effectiveness starts with delivery.
 
 A team that delivers something of low value can still inspect, adapt, and improve. A team that delivers nothing has nothing to improve.

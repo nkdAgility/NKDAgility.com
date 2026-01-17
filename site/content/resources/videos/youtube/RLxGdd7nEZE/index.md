@@ -30,6 +30,7 @@ concepts: []
 categories:
   - Uncategorized
 tags:
+  - Adaptive Operating Model
   - Social Technologies
 Watermarks:
   description: 2025-05-07T13:11:28Z
@@ -45,8 +46,8 @@ duration: 134
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ## Exploring the Apex of Consulting Engagements: Unlocking Systemic Change
 
 In my recent ponderings, I found myself entrenched in an intricate query. At first glance, this question seems almost elusive: "What is the single most valuable outcome that a consulting engagement can produce?"

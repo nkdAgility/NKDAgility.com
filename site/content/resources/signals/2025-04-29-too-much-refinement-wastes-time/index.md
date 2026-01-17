@@ -50,8 +50,8 @@ Watermarks:
   tldr: 2025-08-07T12:33:05Z
 ResourceId: 2GV6voRFhjH
 ResourceType: signals
----
 
+---
 Too much refinement wastes time. Too little refinement leads to chaos. The key is knowing where to draw the line.
 
 Scrum teams often fall into one of two traps:

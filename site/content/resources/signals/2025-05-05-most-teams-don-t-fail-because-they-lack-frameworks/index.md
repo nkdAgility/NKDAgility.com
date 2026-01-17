@@ -58,8 +58,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:49Z
 ResourceId: sX2UVhPk6cL
 ResourceType: signals
----
 
+---
 Most teams don’t fail because they lack frameworks.  
 They fail because they don't act on the feedback those frameworks expose.
 

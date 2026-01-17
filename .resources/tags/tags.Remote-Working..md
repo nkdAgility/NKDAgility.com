@@ -33,20 +33,26 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:22:41
 icon: fa-house-laptop
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
+  - Product Development
 tags:
-- Team Collaboration
-- Market Adaptability
-- Social Technologies
-- Pragmatic Thinking
-- Operational Practices
-- Business Agility
-- Team Motivation
-- Organisational Agility
-- Value Delivery
-- Sociotechnical Systems
+  - Team Collaboration
+  - Market Adaptability
+  - Social Technologies
+  - Pragmatic Thinking
+  - Operational Practices
+  - Business Agility
+  - Team Motivation
+  - Organisational Agility
+  - Value Delivery
+  - Sociotechnical Systems
+ItemId: DncWKRskcpE
+ResourceId: DncWKRskcpE
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Remote Working is a Practice.

@@ -77,21 +77,21 @@ sections:
   - type: boxesrow
     title: Consulting Capabilities
     boxes:
-      - box:
+      - box: 
         title: Assessment & Design
         items:
           - title: Business agility assessment at team and enterprise level
           - title: Evidence-based management framework design
           - title: Operating model design that connects strategy to delivery
           - title: Flow and value stream analysis
-      - box:
+      - box: 
         title: Practice Integration
         items:
           - title: Scrum, Kanban, and Lean implementation
           - title: Product operating model design
           - title: Metrics and visibility systems
           - title: OKR integration and strategic alignment
-      - box:
+      - box: 
         title: Capability Building
         items:
           - title: Leadership coaching and workshops
@@ -139,21 +139,21 @@ sections:
     content: |
       Evidence-Based Management connects strategic intent to delivery reality. DORA research identifies the practices that distinguish elite from low-performing organisations. This consulting helps you close that gap.
     boxes:
-      - box:
+      - box: 
         title: Strategic Alignment
         items:
           - title: Mission, metrics, and execution connected across all levels
           - title: Strategy, discovery, delivery, and operations as one system
           - title: Decision latency measured and reduced
           - title: Visibility into Current Value and Ability to Innovate
-      - box:
+      - box: 
         title: Flow & Throughput
         items:
           - title: Product-based flow instead of project chaos
           - title: WIP limits, bottleneck identification, faster delivery
           - title: Metrics that inform decisions
           - title: Customer-facing and platform work both visible
-      - box:
+      - box: 
         title: Practical Implementation
         items:
           - title: Context-driven, not framework dogma
@@ -166,16 +166,16 @@ sections:
     counters:
       - counter: "350"
         counterAfter: +
-        content: "**Professional Scrum Trainers**"
+        content: '**Professional Scrum Trainers**'
       - counter: "60"
         counterAfter: +
-        content: "**Professional Kanban Trainers**"
+        content: '**Professional Kanban Trainers**'
       - counter: "60"
         counterAfter: +
-        content: "**DevOps Specialists**"
+        content: '**DevOps Specialists**'
       - counter: "25"
         counterAfter: +
-        content: "**Countries with active consultants**"
+        content: '**Countries with active consultants**'
   - title: Why NKD Agility
     type: list
     listType: list
@@ -233,4 +233,6 @@ menus:
 icon: fa-rocket-launch
 ResourceId: vBfMbM9n2lk
 ResourceType: capabilities
+
 ---
+

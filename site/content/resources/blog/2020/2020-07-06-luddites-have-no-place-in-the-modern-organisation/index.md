@@ -30,6 +30,7 @@ tags:
   - Organisational Agility
   - Organisational Culture
   - Enterprise Agility
+  - Adaptive Operating Model
 Watermarks:
   description: 2025-05-07T13:15:31Z
   short_title: 2025-07-07T17:57:55Z
@@ -40,8 +41,8 @@ ResourceImportId: 44507
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: image-3-3-3.png
----
 
+---
 In our [Professional Agile Leadership training](https://nkdagility.com/training/courses/professional-agile-leadership-essentials-training/), we talk about changing your organisations hiring practices to hire more of the right sort of people to create the company that you want, not the company that you have. Hire the right people also implies that you will have to, within your cultural constraints, de-hire the wrong people.
 
 <figure>

@@ -54,8 +54,8 @@ duration: 422
 resourceTypes:
   - video
 isShort: false
----
 
+---
 # Navigating the Plague of Incompetence in Agile [Coaching]({{< ref "/tags/coaching" >}}) 🚧
 
 Hey Agile warriors! Today, I’m diving into a topic that stirs up quite the storm in the Agile realm, the plague of incompetence among Agile coaches and [Scrum]({{< ref "/categories/scrum" >}}) Masters. Yes, you heard that right! It's a touchy subject, but someone's got to address the elephant in the room. 🐘

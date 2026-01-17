@@ -1,5 +1,5 @@
 ---
-title: "Maximising Deployment Frequency: The Key to Faster Time to Market and Business Success"
+title: 'Maximising Deployment Frequency: The Key to Faster Time to Market and Business Success'
 short_title: Maximising Deployment Frequency for Faster Delivery
 description: Explores how increasing deployment frequency, stable environments, and fast feedback loops improve software delivery, reduce time to market, and align with business goals.
 tldr: Increasing deployment frequency is key to reducing time to market and driving business success, but it only adds value if deployments reach production and enable fast learning from real user feedback. Focus on stable environments, end-to-end pipeline analysis, and shortening the time to learn so you can iterate quickly and align with business needs. Prioritise building trust with stakeholders, collecting actionable data, and enabling continuous delivery to respond rapidly to opportunities and deliver the right features at the right time.
@@ -61,8 +61,8 @@ resourceTypes:
 isShort: false
 ResourceId: 1-jUmFcyiI8
 ResourceType: videos
----
 
+---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've come to realise that [deployment frequency]({{< ref "/tags/deployment-frequency" >}}) is a crucial leading indicator of a company's ability to reduce [time to market]({{< ref "/tags/time-to-market" >}}). It’s a metric that, when understood correctly, can illuminate the path to more efficient delivery. However, it’s essential to remember that deploying frequently to a test environment doesn’t necessarily translate to success in production. I've seen teams that deploy to test environments with alarming regularity, yet their production deployments remain a struggle. This disconnect can be misleading.
 
 ### Understanding Deployment Metrics

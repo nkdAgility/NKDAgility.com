@@ -48,8 +48,8 @@ resourceTypes:
 isShort: false
 ResourceId: WnRIGIGnlbo
 ResourceType: videos
----
 
+---
 Not every shiny object deserves your attention or your budget. Yet, if you’re anything like me, you know the feeling when the next big thing is lighting up your inbox. The industry chatter is relentless. Your team is eager to experiment. A competitor just shipped something with it, and suddenly, you’re left holding the bag, wondering if you’re risking irrelevance by not jumping in.
 
 Let’s be honest: the pressure to chase hype is real. But here’s the hard truth I’ve learned, often the hard way, chasing hype without rigor drains more than just your time. It burns through your team’s energy, clutters your architecture with half-baked experiments, and, perhaps most damaging of all, erodes trust when the new shiny thing doesn’t pan out. I’ve seen teams demoralised, stakeholders frustrated, and technical debt pile up, all because we mistook novelty for necessity.

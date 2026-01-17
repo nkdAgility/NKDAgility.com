@@ -25,7 +25,7 @@ Instructions: |-
   - Content that focuses on theoretical concepts without practical application or measurement of Current Value
 headline:
   cards: []
-  title: "Current Value: Measuring Real-Time Impact to Drive Continuous Improvement"
+  title: 'Current Value: Measuring Real-Time Impact to Drive Continuous Improvement'
   subtitle: Measuring real-time customer impact and performance to guide responsive, data-driven decisions and maximise delivered value.
   content: Current Value measures the tangible outcomes and immediate benefits delivered to users, capturing customer satisfaction, revenue impact, user engagement, and performance feedback. It enables teams to continuously assess actual product performance, adapt responsively to evolving customer expectations, and make informed decisions to enhance user experience and sustain long-term customer loyalty.
   updated: 2025-05-23T23:31:47Z
@@ -35,7 +35,7 @@ sitemap:
   priority: 0.7
 icon: fa-gauge-high
 concepts:
-  - Capability
+  - Model
 categories:
   - Product Development
   - Product Management
@@ -44,15 +44,15 @@ tags:
   - Value Delivery
   - Metrics and Learning
   - Customer Focus
+  - Decision Making
   - Evidence Based Leadership
   - Professional Scrum
-  - Decision Making
+  - Organisational Agility
   - Agile Product Management
   - Software Development
   - Market Adaptability
   - Agile Philosophy
   - Pragmatic Thinking
-  - Agile Strategy
   - Operational Practices
 ItemId: E6-pMtcf7IL
 ResourceId: E6-pMtcf7IL
@@ -60,8 +60,8 @@ ItemType: tags
 ResourceType: tags
 ItemKind: classification
 ItemContentOrigin: human
----
 
+---
 Current Value represents a critical measure within Evidence-Based Management, focusing on the tangible, real-time value a product or service delivers to its users. It encompasses a range of indicators, such as customer satisfaction, revenue impact, and performance feedback, which collectively provide insights into the value being realised at any given moment. This concept is essential for teams aiming to deliver value predictably and sustainably, as it allows for continuous assessment and adjustment based on actual performance rather than assumptions.
 
 By monitoring Current Value, organisations can make informed decisions that enhance their offerings and align them more closely with customer needs. This ongoing evaluation fosters a culture of responsiveness and adaptability, enabling teams to pivot quickly in response to feedback and changing market conditions. Unlike static measures, Current Value is dynamic and systemic, reflecting the evolving nature of customer expectations and business environments. It empowers teams to focus on delivering meaningful outcomes, ensuring that their efforts contribute to long-term success and customer loyalty. This focus on real-time value delivery is what differentiates Current Value from other concepts like Value Stream Management or Customer Satisfaction, which may not capture the immediacy and breadth of value being generated.

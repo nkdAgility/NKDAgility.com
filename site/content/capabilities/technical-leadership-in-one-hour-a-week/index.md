@@ -4,7 +4,7 @@ short_title: Technical Leadership
 description: Weekly strategic coaching for CTOs, engineering directors, and technical leaders addressing strategy, architecture, organisational design, stakeholder alignment, and engineering culture through focused one-hour sessions.
 tldr: Technical leaders working with Martin gain access to focused weekly coaching that provides clarity on strategy, architecture decisions, and organisational design. One hour a week creates space for evidence-based decision-making and leadership development without disrupting delivery. This timeboxed engagement builds internal capability while maintaining momentum on operational responsibilities.
 date: 2025-09-23
-weight: 101
+weight: 950
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -20,7 +20,7 @@ type: capabilities
 sections:
   - type: headline
     headline:
-      title: "Technical Leadership in One Hour a Week"
+      title: Technical Leadership in One Hour a Week
       subtitle: Weekly Strategic Coaching for CTOs and Engineering Leaders
       content: |
         One hour per week of focused leadership coaching for CTOs, engineering directors, and technical leaders navigating strategy, architecture, organisational design, and engineering culture.
@@ -119,4 +119,6 @@ menus:
     parent: Consulting Services
 ResourceId: U0akd22Voq8
 ResourceType: capabilities
+
 ---
+

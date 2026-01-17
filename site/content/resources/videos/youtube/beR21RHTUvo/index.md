@@ -1,5 +1,5 @@
 ---
-title: "Story Points: A Ghost of Agile Past"
+title: 'Story Points: A Ghost of Agile Past'
 short_title: Story Points vs Flow Metrics in Agile
 description: Explores the problems with story points in Agile, their impact on team behaviour, and why flow metrics offer a better way to measure progress and deliver real value.
 tldr: Story points have become a source of dysfunction in Agile teams, shifting focus from delivering value to hitting arbitrary targets and enabling misleading comparisons between teams. These issues are worsened when contracts tie performance to story point delivery, leading to counterproductive behaviors. Development managers should move away from story points and instead adopt flow metrics like cycle time and throughput, which provide more accurate, value-focused insights into team performance.
@@ -53,8 +53,8 @@ duration: 433
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the world of Agile, there are many relics that still haunt teams today, and one of the most significant is **story points**. Ironically, the creator of story points has publicly apologized for their invention. Think about that for a moment, an apology from the creator of a concept that has deeply embedded itself into Agile practices. Let’s dig into why story points have become one of the most persistent, yet problematic, ghosts of Agile past.
 
 ## **The Origins of Story Points**

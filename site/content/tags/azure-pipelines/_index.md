@@ -48,10 +48,11 @@ tags:
   - Product Delivery
   - Continuous Delivery
   - Release Management
-  - Market Adaptability
   - Engineering Practices
   - Value Delivery
   - Continuous Integration
+  - Market Adaptability
+  - Technical Mastery
   - Technical Excellence
   - Deployment Frequency
 ItemId: HbmCVgxmrjh

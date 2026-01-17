@@ -49,15 +49,15 @@ categories:
 tags:
   - Working Software
   - Software Development
-  - Value Delivery
   - Agile Frameworks
+  - Empirical Process Control
+  - Value Delivery
   - Organisational Agility
   - Operational Practices
   - Product Delivery
-  - Social Technologies
-  - Market Adaptability
-  - Empirical Process Control
   - Transparency
+  - Agile Product Management
+  - Social Technologies
 ItemId: 8f7mkHfT7Ha
 ResourceId: 8f7mkHfT7Ha
 ItemType: tags

@@ -1,5 +1,5 @@
 ---
-title: "Transforming Agile: How to Shift from Blame to Systemic Solutions for Better Team Dynamics"
+title: 'Transforming Agile: How to Shift from Blame to Systemic Solutions for Better Team Dynamics'
 short_title: Shifting from Blame to Systemic Solutions in Agile
 description: Explores how shifting from blame to addressing systemic issues and measurement systems can improve team dynamics, collaboration, and agility in software development.
 tldr: Problems in agile teams are usually caused by flawed measurement systems and processes, not individual intent. Metrics drive behavior, so focusing on changing how people are evaluated and incentivized is more effective than trying to change culture directly. Review your team’s metrics and processes to remove barriers and foster adaptability, which will lead to better collaboration and innovation.
@@ -58,8 +58,8 @@ duration: 338
 resourceTypes:
   - video
 isShort: false
----
 
+---
 I often find myself reflecting on a saying that resonates deeply with my experiences in the agile world: "Don't attribute to malevolence what can be explained by incompetence." This phrase has become a guiding principle for me, especially when navigating the complexities of organisational dynamics as an agile coach, [Scrum]({{< ref "/categories/scrum" >}}) Master, or [product owner]({{< ref "/tags/product-owner" >}}).
 
 ### Understanding Behaviour in Agile Environments

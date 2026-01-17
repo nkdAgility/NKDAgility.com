@@ -57,8 +57,8 @@ AudioNative: true
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nkdagility-cross-sprint-boundary-2-1.png
----
 
+---
 There is nothing in the [Scrum]({{< ref "/categories/scrum" >}}) Guide that explicitly prevents work from flowing across the Sprint boundary. In fact, allowing flow across Sprints, without compromising the Sprint Goal, is a pragmatic strategy that enhances delivery, throughput, and responsiveness to customer feedback.
 
 **For practical guidance, explore the** **[Kanban Guide for Scrum Teams]({{< ref "/resources/guides/kanban-guide-for-scrum-teams" >}})**, and consider attending a **[Professional Scrum with Kanban]({{< ref "/capabilities/training-courses/scrumorg-professional-scrum-with-kanban" >}})** class.

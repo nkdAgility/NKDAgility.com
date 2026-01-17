@@ -4,7 +4,7 @@ short_title: Cross Functional Alignment
 description: When departments speak the same language, your decisions improve, forecasts gain credibility, and strategy translates into execution with less distortion.
 tldr: Cross-functional alignment means shared understanding across departments. Trade-offs become visible. Adaptation becomes smoother. Stakeholder confidence grows. Economic visibility becomes routine. Commitments gain credibility. Strategic clarity reaches execution.
 date: 2025-06-04
-weight: 500
+weight: 780
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -157,4 +157,6 @@ creator: Martin Hinshelwood
 icon: fa-project-diagram
 ResourceId: btO46GSjdqv
 ResourceType: outcomes
+
 ---
+

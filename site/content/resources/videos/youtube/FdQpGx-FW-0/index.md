@@ -1,6 +1,6 @@
 ---
 title: 7 harbingers of the Agile apocalypse - Judgement
-short_title: "Judgment in Agile: Rigid vs. Principle-Driven"
+short_title: 'Judgment in Agile: Rigid vs. Principle-Driven'
 description: Explores how rigid, judgmental Agile practices stifle creativity and innovation, and advocates for principle-driven, adaptable approaches to foster true business agility.
 tldr: Rigid, judgmental application of Agile frameworks stifles creativity and innovation, turning teams into rule-followers instead of problem-solvers. True agility comes from empowering teams with autonomy, transparency, and principles rather than enforcing one-size-fits-all rules. Development managers should focus on fostering a culture of openness and continuous learning, allowing teams to adapt practices to their unique needs.
 date: 2023-10-20T11:00:13Z
@@ -41,6 +41,7 @@ tags:
   - Software Development
   - Agile Philosophy
   - Agile Values and Principles
+  - Adaptive Operating Model
   - Business Agility
   - Pragmatic Thinking
   - Organisational Agility
@@ -61,8 +62,8 @@ duration: 535
 resourceTypes:
   - video
 isShort: false
----
 
+---
 # Escaping the Judgment Trap in [Agile Transformation]({{< ref "/tags/agile-transformation" >}}) 🚀
 
 Hey there, Agile adventurers! Today, I'm tackling another harrowing harbinger of the agile apocalypse: **Judgment**. This formidable foe manifests through prescriptive, one-size-fits-all methodologies that strangle creativity and innovation. It's a world where “Thou shalt do [Scrum]({{< ref "/categories/scrum" >}})” becomes more of a commandment than a guideline, and where deviation from the prescribed path attracts criticism rather than curiosity. Let's dive into why this mindset is detrimental and how we can pivot towards a more principle-driven approach. 🌪️

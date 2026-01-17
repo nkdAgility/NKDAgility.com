@@ -5,6 +5,7 @@ subtitle: Strategic Advantage Through Engineering Excellence
 description: Achieve faster delivery and predictable flow through engineering practices that improve lead times, reduce risk, and maintain quality at scale. Gain delivery confidence and the ability to move fast safely.
 tldr: Faster, predictable software delivery creates strategic advantage by enabling you to respond to market changes, innovate safely, and deliver value continuously. Engineering excellence, flow-based systems, and evidence-based forecasting give you delivery confidence without sacrificing quality or stability.
 date: 2025-05-31T09:00:00Z
+weight: 870
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -93,21 +94,21 @@ sections:
   - type: outcomeboxes
     title: Faster more predictable delivery means you can
     boxes:
-      - box:
+      - box: 
         items:
           - title: Release value continuously and safely
           - title: Improve delivery cadence without quality trade-offs
           - title: Reduce change failure rates and rework
           - title: Build delivery capability that scales with growth
           - title: Make decisions based on flow data, not guesswork
-      - box:
+      - box: 
         items:
           - title: Reduce delivery anxiety and crisis management
           - title: Regain control over engineering timelines
           - title: Build confidence through consistent outcomes
           - title: Sustain pace without team burnout
           - title: Lead with evidence, not heroics
-      - box:
+      - box: 
         items:
           - title: Be seen as a reliable technology leader
           - title: Create trust across product, engineering, and business
@@ -120,21 +121,21 @@ sections:
     content: |
       Industry research shows elite teams deploy on demand with lead times under one hour. Even closing half that gap changes your strategic options fundamentally. You gain the ability to respond, not just react.
     boxes:
-      - box:
+      - box: 
         title: Speed and Quality Together
         items:
           - title: Cycle times measured in days, enabling rapid value delivery
           - title: Lower change failure rates through smaller, safer changes
           - title: Reduced production incidents and support costs
           - title: Higher customer trust through reliable delivery
-      - box:
+      - box: 
         title: Engineering Confidence
         items:
           - title: Flow-based systems that reduce work in progress
           - title: Automated testing and progressive delivery patterns
           - title: Clear metrics on cycle time, throughput, and deployment frequency
           - title: Recognition for platform and developer experience improvements
-      - box:
+      - box: 
         title: Strategic Impact
         items:
           - title: Commit to market windows with evidence, not hope
@@ -196,4 +197,6 @@ creator: Martin Hinshelwood
 icon: fa-tachometer-alt
 ResourceId: ew25L-Aydmr
 ResourceType: outcomes
+
 ---
+

@@ -34,8 +34,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:16Z
 ResourceId: oRStCAqLAY4
 ResourceType: engineering-notes
----
 
+---
 I moved my blog to Hugo in mid-2024 to regain control over my content and workflow. This proved to be a great decision as it gave me the ability to really focus on content for my site.
 
 My site has been around since 2006 and was originally on GeeksWithBlogs, then Blogger, and then WordPress. As it moved, it grew in complexity, but updating legacy things like "old posts" and "categories" became painful in WordPress when you have 800+ posts. If you have tried to use the WordPress API, you will understand the pain.

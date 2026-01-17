@@ -48,8 +48,8 @@ Watermarks:
   tldr: 2025-08-07T12:28:58Z
 ResourceId: RevK05qtZD7
 ResourceType: blog
----
 
+---
 Most agile transformations fail not because they get the ceremonies wrong, but because they misunderstand the real point: **cultivating agency** in people and systems.
 
 You can install all the stand-ups, backlogs, retrospectives, and planning sessions you want. Without genuine agency, you're not transforming. You're decorating.

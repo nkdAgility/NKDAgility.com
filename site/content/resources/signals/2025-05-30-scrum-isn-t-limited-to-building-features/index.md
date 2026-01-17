@@ -56,8 +56,8 @@ Watermarks:
   tldr: 2025-08-07T12:29:11Z
 ResourceId: -FDdQXKH7zt
 ResourceType: signals
----
 
+---
 Scrum isn’t limited to building features. It’s a social technology for solving complex problems. That includes your internal systems of work.
 
 We use Scrum to deliver product increments. Why not use it to deliver organisational change increments?

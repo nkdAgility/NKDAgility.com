@@ -1,5 +1,5 @@
 ---
-title: "Mastering Product Development: From Assumptions to Hypotheses"
+title: 'Mastering Product Development: From Assumptions to Hypotheses'
 short_title: Mastering Product Development Hypotheses
 description: Learn to identify, prioritise, and test assumptions in product development by turning them into hypotheses, managing experimentation costs, and making data-driven decisions.
 tldr: This course teaches development managers how to identify, prioritize, and validate assumptions in product development by turning them into testable hypotheses, focusing on data-driven decision-making rather than gut feelings. Key insights include learning to distinguish critical assumptions from trivial ones, balancing the cost and confidence of experiments, and using experiment results to guide strategy. The main takeaway is to adopt a mindset that values learning and evidence, leading to more effective and efficient product development.
@@ -52,8 +52,8 @@ duration: 302
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the fast-paced world of [product development]({{< ref "/categories/product-development" >}}), assumptions can often be our greatest blind spots. Yet, they are also essential stepping stones that guide our decisions and strategies. In our new class, we dive deep into the art of working with assumptions, transforming them from potential pitfalls into powerful tools for innovation.
 
 ## **Introducing Assumptions to Your Product Development Toolbox**

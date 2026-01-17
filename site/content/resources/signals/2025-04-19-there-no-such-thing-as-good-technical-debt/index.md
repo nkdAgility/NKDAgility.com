@@ -45,8 +45,8 @@ Watermarks:
   tldr: 2025-08-07T12:33:26Z
 ResourceId: lLNjkL_zGQa
 ResourceType: signals
----
 
+---
 Let’s put this to rest: there’s no such thing as "good" technical debt.
 
 If new engineers take weeks to become productive, your system is unreadable. If every change introduces faults, your architecture is fragile. If you’re manually handling tasks that should be automated, you’re building inefficiency into your process.

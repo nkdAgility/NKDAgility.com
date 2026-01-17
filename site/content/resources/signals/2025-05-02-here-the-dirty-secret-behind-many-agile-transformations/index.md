@@ -58,8 +58,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:57Z
 ResourceId: 6Z5I3JPMECs
 ResourceType: signals
----
 
+---
 Here’s the dirty secret behind many “agile transformations”:
 
 The organisation claims alignment, but what they deliver is control.

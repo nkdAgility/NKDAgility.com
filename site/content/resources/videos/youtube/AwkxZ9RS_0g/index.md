@@ -45,8 +45,8 @@ duration: 264
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ## Synergy Between Consulting and Training
 
 Today's topic question is my personal favourite: "How does my consulting experience manifest in the training environment?"

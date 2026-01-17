@@ -61,8 +61,8 @@ preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 marketing: []
 ResourceId: _ncZFfeCrnS
 ResourceType: blog
----
 
+---
 Testing in production, is about structured, observable releases that allow for fast feedback, controlled exposure, and rapid course correction, ensuring quality without sacrificing speed.
 
 One such paradigm shift in software delivery is audience-based deployment.

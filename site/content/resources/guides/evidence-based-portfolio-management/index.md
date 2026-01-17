@@ -5,10 +5,10 @@ description: Explains how evidence-based portfolio management helps organisation
 tldr: Evidence-Based Portfolio Management helps organizations achieve true business agility by linking investments directly to measurable goals, running small experiments to validate ideas, and frequently adapting based on real feedback. Key benefits include reducing waste from traditional planning, improving alignment between work and business objectives, and empowering teams to focus on high-value outcomes. To get started, select a complex area of your business and apply these iterative, evidence-driven investment practices.
 date: 2020-03-01
 lastmod: 2020-03-01
-weight: 1000
+weight: 510
 sitemap:
   filename: sitemap.xml
-  priority: 0.1
+  priority: 0.4
   changefreq: weekly
 author:
   - Scrum.org
@@ -23,10 +23,28 @@ aliasesArchive:
   - /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
   - /resources/guides/investing-for-business-agility-using-evidence-based-portfolio-management-to-achieve-better-business-outcomes
 layout: guide
-concepts: []
+concepts:
+  - Principle
 categories:
-  - Uncategorized
-tags: []
+  - Product Development
+  - Product Management
+  - Scrum
+tags:
+  - Portfolio Management
+  - Decision Making
+  - Evidence Based Management
+  - Experimentation
+  - Metrics and Learning
+  - Strategic Goals
+  - Pragmatic Thinking
+  - Business Agility
+  - Enterprise Agility
+  - Value Delivery
+  - Common Goals
+  - Agile Strategy
+  - Evidence Based Leadership
+  - Organisational Agility
+  - Project Management
 card:
   button:
     content: Learn More

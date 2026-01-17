@@ -49,8 +49,8 @@ Watermarks:
   tldr: 2025-08-07T12:35:17Z
 ResourceId: laeSXbgT7Hm
 ResourceType: signals
----
 
+---
 At the end of the day, Kanban is about improving flow. Not micromanaging individuals. Not squeezing more hours out of people. Just removing the constraints that slow everything down.
 
 Nigel Thurlow 🇺🇸🇺🇦🇬🇧 nails it:

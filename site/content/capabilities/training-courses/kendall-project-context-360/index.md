@@ -1,11 +1,41 @@
 ---
 title: Context 360 Workshop
+short_title: 'Context 360 Workshop: AI-Ready Ops Blueprint'
+description: A structured workshop to map real workflows, rules, and decision points, creating an AI-ready operational blueprint for safer, more effective AI deployment and alignment.
+tldr: The Context 360 Workshop helps teams avoid failed AI projects by capturing how work really happens, aligning cross-functional teams, and documenting policies and workflows in an AI-ready format. It delivers a prioritised list of real business problems for AI, a shared operational understanding, and a clear foundation for safe, effective AI deployment. Development managers should use this workshop before starting AI initiatives to ensure reliable results and faster progress.
 date: 2025-12-09
-creator: Martin Hinshelwood
-ItemContentOrigin: Human
-type: course
+weight: 530
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
+ItemId: KP-C360
 ItemType: course
 ItemKind: program
+ItemContentOrigin: Human
+aliases: []
+type: course
+concepts:
+  - Method
+categories:
+  - Uncategorized
+tags:
+  - Team Collaboration
+  - Operational Practices
+  - Pragmatic Thinking
+  - Artificial Intelligence
+  - Operating Model
+  - Adaptive Operating Model
+  - AI Product Operating Model
+  - Social Technologies
+  - Collective Intelligence
+  - Agentic Engineering
+  - Value Delivery
+Watermarks:
+  description: 2026-01-16T19:18:26Z
+  tldr: 2026-01-16T19:18:28Z
+  short_title: 2026-01-16T19:18:29Z
+creator: Martin Hinshelwood
 code: KP-C360
 course_topics:
   - AI Training Programs
@@ -20,8 +50,10 @@ delivery_audiences:
 course_proficiencies:
   - intermediate
   - advanced
----
+ResourceId: KP-C360
+ResourceType: course
 
+---
 Organisations fail with AI because they jump into solutions without understanding the environment those solutions must operate in. You're trying to deploy AI agents or automation, but they produce inconsistent, inaccurate, or unsafe results because they lack operational context. Teams disagree on how work actually flows, policies are poorly documented, and AI initiatives stall without a clear foundation. You need a structured way to capture how your organisation really works so AI can deliver reliable outcomes.
 
 The **Context 360 Workshop** fixes that. It's the discovery engine of the Kendall Framework, translating your operations, rules, workflows, and decision patterns into an AI-ready format. Through structured facilitation and cross-functional collaboration, you'll surface high-value problems, align teams around how work really happens, and build the complete operational blueprint that gives AI the context it needs to succeed.

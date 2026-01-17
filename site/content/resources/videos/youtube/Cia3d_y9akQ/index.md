@@ -1,6 +1,6 @@
 ---
-title: "Unpacking the Scrum Master Role: Moving Beyond Misconceptions to True Accountability"
-short_title: "Scrum Master Role: Misconceptions & Accountability"
+title: 'Unpacking the Scrum Master Role: Moving Beyond Misconceptions to True Accountability'
+short_title: 'Scrum Master Role: Misconceptions & Accountability'
 description: Explores common misconceptions about Scrum Masters, clarifies their true accountabilities, and highlights the importance of principles, competence, and organisational impact.
 tldr: Many Scrum Masters misunderstand their true responsibilities, focusing on tools and rituals instead of the core principles and accountabilities defined by Scrum. Effective Scrum Masters balance support for the team, Product Owner, and organisation, acting as coaches and mentors rather than process enforcers. Development managers should ensure Scrum Masters are competent in Scrum’s philosophies and adapt practices to fit their context, not just follow common routines.
 date: 2024-10-25T07:02:17Z
@@ -55,8 +55,8 @@ resourceTypes:
 isShort: false
 ResourceId: Cia3d_y9akQ
 ResourceType: videos
----
 
+---
 When it comes to the role of a [Scrum]({{< ref "/categories/scrum" >}}) Master, there are a plethora of misconceptions that can cloud our understanding of what this position truly entails. Having navigated the complexities of Scrum and Agile for many years, I’ve seen firsthand how these misunderstandings can lead to dysfunction within teams and organisations. Today, I want to share my insights on the true accountabilities of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) and how we can move beyond the common pitfalls.
 
 ### Understanding the Role of the Scrum Master

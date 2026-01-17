@@ -52,8 +52,8 @@ Watermarks:
   tldr: 2025-08-07T12:34:01Z
 ResourceId: 5lIasyqT9Rm
 ResourceType: signals
----
 
+---
 Scrum Teams don’t set the bar for quality, they meet it. The Definition of Done (DoD) isn’t a wishlist or a stretch goal. It’s a hard line that determines what is releasable. And if your DoD isn’t improving Sprint over Sprint, you’re accumulating risk and technical debt.
 
 Too many teams treat DoD as negotiable. It’s not. It’s governance. It ensures predictability, manages risk, and protects revenue. A weak or fluctuating DoD means your organisation has no real control over quality.

@@ -36,20 +36,20 @@ tags:
   - Evidence Based Management
   - Metrics and Learning
   - Evidence Based Leadership
+  - Adaptive Operating Model
   - Social Technologies
   - Technical Excellence
   - Software Development
   - Deployment Strategies
   - Technical Mastery
-  - Digital Transformation
 Watermarks:
   description: 2025-05-07T12:49:05Z
   short_title: 2025-07-07T16:43:58Z
   tldr: 2025-08-07T12:29:27Z
 ResourceId: VThLnxVapgJ
 ResourceType: blog
----
 
+---
 Business resilience is not an accident. It is the deliberate outcome of intelligent systems design, pragmatic decision-making, and organisational discipline. If you want resilience, you must build for it, **upfront, consistently, and aggressively**.
 
 Here is a pragmatic checklist for engineering true business resilience and continuity:

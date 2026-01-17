@@ -64,8 +64,8 @@ duration: 411
 resourceTypes:
   - video
 isShort: false
----
 
+---
 When it comes to [Agile transformation]({{< ref "/tags/agile-transformation" >}}), one of the most crucial aspects often overlooked is the shared understanding of the product vision and [strategic goals]({{< ref "/tags/strategic-goals" >}}) within the team. It’s not enough to have a beautifully crafted vision statement or a set of strategic goals pinned to the office wall; every team member needs to internalize these concepts and understand how their daily work contributes to achieving them. This understanding forms the foundation of true agility within an organization.
 
 ## **The Second Agile Litmus Test: Is Your Product Vision Truly Understood?**

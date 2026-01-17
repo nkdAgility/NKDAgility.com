@@ -63,8 +63,8 @@ resourceTypes:
 isShort: true
 ResourceId: V8Qpo-Gh6CE
 ResourceType: videos
----
 
+---
 Your definition of done affects your bottom line. I’ve seen this time and again in organisations that treat “done” as a mere checklist item, a technical standard, or a box to tick at the end of a sprint. But let’s be clear: done is strategic. It’s not just about getting through the work; it’s about making the work matter.
 
 A strong definition of done is the difference between teams that are simply busy and teams that are truly delivering value. When your definition of done is robust, when it means that every increment is live, usable, gathering telemetry, and validating outcomes, you’re not just moving faster. You’re making smarter bets. You’re adapting quicker. You’re building resilience into your organisation.

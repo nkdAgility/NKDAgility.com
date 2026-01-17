@@ -1,5 +1,5 @@
 ---
-title: "Maximising ROI in Software Development: Unlocking Value Through Quality and Expertise"
+title: 'Maximising ROI in Software Development: Unlocking Value Through Quality and Expertise'
 short_title: Maximising ROI in Software Development
 description: Learn how quality, technical expertise, and regular reviews in software development can maximise ROI and ensure your organisation delivers lasting business value.
 tldr: Maximising ROI in software development requires treating code as a valuable asset, investing in quality, and ensuring regular reviews to maintain standards. Bridging the gap between business and technical expertise is essential, so equip your leadership with the right knowledge and consider external coaching if needed. Prioritise quality, technical skill, and hypothesis-driven practices to ensure your teams deliver the most value for your investment.
@@ -46,8 +46,8 @@ resourceTypes:
 isShort: false
 ResourceId: jKXc6hByR_k
 ResourceType: videos
----
 
+---
 If you’re looking to build teams and an organisation that can deliver the highest possible value for your investment, then Naked Agility is here to help. Whether you’re a team member immersed in [engineering practices]({{< ref "/tags/engineering-practices" >}}) or a CTO or CEO grappling with hypothesis-driven methodologies, we can provide the [coaching]({{< ref "/tags/coaching" >}}) and advice you need to maximise your return on investment.
 
 ### Understanding the Context

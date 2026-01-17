@@ -44,8 +44,8 @@ Watermarks:
   tldr: 2025-08-07T12:33:45Z
 ResourceId: y8KN3uMGjey
 ResourceType: signals
----
 
+---
 A great backlog isn’t just a list of tasks. It’s a strategic tool for delivering value.
 
 Too many teams treat the backlog as a never-ending to-do list, filling it with requests, features, and ideas without considering their impact. The result? A mountain of work that grows endlessly, losing focus and clarity.

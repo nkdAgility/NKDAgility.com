@@ -1,5 +1,5 @@
 ---
-title: "Mastering Complexity in Scrum: Transform Your Team with Agile Product Strategy Insights"
+title: 'Mastering Complexity in Scrum: Transform Your Team with Agile Product Strategy Insights'
 short_title: Mastering Complexity in Scrum and Agile Strategy
 description: Learn how understanding complexity, empiricism, and key Scrum principles like transparency, inspection, and adaptation can boost Agile team effectiveness and product strategy.
 tldr: Understanding and managing complexity is essential for Scrum teams to plan and execute effectively, especially as unpredictability increases. Emphasizing transparency, inspection, and adaptation helps teams navigate complex work, improve processes, and foster continuous improvement. Consider investing in training or discussions that deepen your team's grasp of these principles to boost effectiveness.
@@ -54,8 +54,8 @@ duration: 219
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), one of the most enlightening experiences has been teaching the Agile [Product Strategy]({{< ref "/tags/product-strategy" >}}) (APS) class to beginner Scrum teams. The most valuable takeaway for these teams is undoubtedly the grounding in understanding complexity and empiricism. Today, I want to share my insights on why these concepts are crucial and how they can transform your approach to Scrum.
 
 ### Understanding Complexity

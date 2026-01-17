@@ -44,17 +44,17 @@ tags:
   - Product Discovery
   - Experimentation
   - Ability to Innovate
+  - Continuous Improvement
   - Customer Focus
+  - Organisational Agility
   - Continuous Learning
   - Value Delivery
   - Lean Product Development
   - Business Agility
-  - Decision Making
   - Product Validation
   - Market Adaptability
-  - Continuous Improvement
-  - Organisational Agility
-  - Product Delivery
+  - Agile Product Management
+  - Decision Making
 ItemId: 7MBWqo7xrkc
 ResourceId: 7MBWqo7xrkc
 ItemType: tags

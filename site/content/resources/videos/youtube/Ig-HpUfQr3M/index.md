@@ -1,5 +1,5 @@
 ---
-title: "Maximising Product Value: The Power of Hypothesis-Driven Engineering"
+title: 'Maximising Product Value: The Power of Hypothesis-Driven Engineering'
 short_title: Maximising Product Value with Hypothesis-Driven Engineering
 description: Explores how hypothesis-driven engineering helps teams maximise product value by testing ideas, measuring outcomes, and learning from failure to guide investment decisions.
 tldr: Focusing on hypothesis-driven engineering helps teams maximise product value by testing ideas with small experiments, measuring outcomes, and quickly adapting based on real customer feedback. The Azure DevOps team’s experience showed that even costly initiatives can provide critical learning, allowing resources to be redirected before larger losses occur. Development managers should encourage rapid experimentation and validation at all levels to ensure investments deliver real value and support agility.
@@ -62,8 +62,8 @@ resourceTypes:
 isShort: false
 ResourceId: Ig-HpUfQr3M
 ResourceType: videos
----
 
+---
 When it comes to managing product investments, I’ve shifted my perspective significantly over the years. The phrase "stay within budget" doesn’t resonate with me anymore. Instead, I view it as having a pool of money that I can allocate strategically to maximise value. This approach requires a solid understanding of the data at hand and a clear vision of what we aim to achieve.
 
 ### Embracing Hypothesis-Driven Engineering

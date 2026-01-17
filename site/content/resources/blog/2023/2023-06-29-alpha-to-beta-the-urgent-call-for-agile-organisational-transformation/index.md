@@ -47,8 +47,8 @@ tags:
   - Organisational Agility
   - Organisational Culture
   - Organisational Physics
+  - Adaptive Operating Model
   - Beta Codex
-  - Agile Philosophy
 Watermarks:
   description: 2025-05-07T13:11:07Z
   short_title: 2025-07-07T17:54:14Z

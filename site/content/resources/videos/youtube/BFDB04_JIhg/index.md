@@ -1,5 +1,5 @@
 ---
-title: "Understanding Kanban: A Tool for Transparency and Continuous Improvement"
+title: 'Understanding Kanban: A Tool for Transparency and Continuous Improvement'
 short_title: Understanding Kanban for Transparency & Improvement
 description: Explains how Kanban visualises workflows, tracks metrics, and supports continuous improvement, helping teams identify bottlenecks and enhance transparency and efficiency.
 tldr: Kanban is a tool that helps teams visualize their workflow, track key metrics, and identify bottlenecks, leading to greater transparency and continuous improvement without changing existing processes. By starting with a simple board, setting work-in-progress limits, and regularly reviewing metrics, teams can quickly spot issues and make data-driven improvements. Development managers should consider implementing Kanban to gain clearer insights into team performance and drive ongoing process enhancements.
@@ -59,8 +59,8 @@ duration: 37
 resourceTypes:
   - video
 isShort: true
----
 
+---
 In the world of Agile, we often hear about different tools and frameworks that help teams optimize their processes. One such tool is **[Kanban]({{< ref "/categories/kanban" >}})**. Often misunderstood as a process in itself, Kanban is not a process but rather a powerful tool that provides clarity and insight into whatever process you're already using.
 
 In this blog post, we’ll dive into what Kanban really is, how it works, and why it’s such a valuable tool for [Scrum]({{< ref "/categories/scrum" >}}) Masters, Agile Coaches, and teams looking to enhance their workflows. Let's explore the key points with real-world examples and actionable advice to help you implement Kanban effectively.

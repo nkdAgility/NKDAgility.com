@@ -51,7 +51,7 @@ tags:
   - Continuous Delivery
   - Technical Excellence
   - Product Delivery
-  - Frequent Releases
+  - Metrics and Learning
 ItemId: 1QPvazN7DqM
 ResourceId: 1QPvazN7DqM
 ItemType: tags

@@ -42,8 +42,8 @@ Watermarks:
   tldr: 2025-08-07T12:33:47Z
 ResourceId: hXwfpdteI-Q
 ResourceType: signals
----
 
+---
 Most organisations waste their smartest people. Not because they lack skill, but because their environment makes thinking a liability.
 
 - Decisions are made at the top, leaving those closest to the work powerless.

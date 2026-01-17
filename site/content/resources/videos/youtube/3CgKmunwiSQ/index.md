@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Difference: Traditional Management vs. Evidence-Based Management"
+title: 'Understanding the Difference: Traditional Management vs. Evidence-Based Management'
 short_title: Traditional vs. Evidence-Based Management
 description: Explains how traditional management relies on authority and intuition, while evidence-based management uses data, analysis, and meaningful metrics for better decisions.
 tldr: Traditional management relies on experience and authority, often leading to decisions based on intuition or hierarchy rather than data. Evidence-based management uses data collection, team analysis, and outcome validation to drive better decisions and avoid misleading metrics like story points or velocity. Development managers should shift focus from vanity metrics to meaningful data that aligns with organizational goals and encourages continuous improvement.
@@ -51,8 +51,8 @@ duration: 395
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ## **What Is Traditional Management?**
 
 Traditional management is a term often used to describe the approach many managers have used for decades, if not centuries. While the term "traditional" might seem outdated, it's a method that many still rely on. In essence, traditional management practices are:

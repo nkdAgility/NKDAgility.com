@@ -43,8 +43,8 @@ Watermarks:
   tldr: 2025-08-07T12:35:22Z
 ResourceId: lm-SKQuLcVd
 ResourceType: signals
----
 
+---
 Hiring a junior Scrum Master at half the salary and expecting full performance is like hiring a junior chef and expecting a Michelin star!
 
 When the food is bad, it’s not the framework's fault. Scrum doesn’t fail, people do. Pay for expertise. Hire Scrum Masters who can lead, challenge, and deliver from day one.

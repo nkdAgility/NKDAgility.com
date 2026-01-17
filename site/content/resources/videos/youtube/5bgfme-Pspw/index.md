@@ -44,8 +44,8 @@ duration: 59
 resourceTypes:
   - video
 isShort: true
----
 
+---
 **Momentum**
 
 Driving Force Behind Every Successful Team 🚀

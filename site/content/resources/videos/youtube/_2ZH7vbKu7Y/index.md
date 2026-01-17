@@ -1,5 +1,5 @@
 ---
-title: "Training: A Bridge to Knowledge and Growth"
+title: 'Training: A Bridge to Knowledge and Growth'
 short_title: Training and Continuous Learning for Teams
 description: Explores how effective training, continuous learning, and a supportive culture help teams grow, adapt to change, and overcome skill gaps in modern organisations.
 tldr: Investing in training and continuous learning is key to team growth and long-term success, helping teams stay relevant and engaged while demonstrating organizational commitment. Leaders should focus on creating a supportive environment that encourages experimentation, celebrates small wins, and addresses systemic barriers to learning. Prioritize ongoing development and adapt to new technologies to boost morale, performance, and retention.
@@ -52,8 +52,8 @@ duration: 412
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In any organization, the skills and knowledge of a team can determine its success or failure. But what happens when a team is identified as deficient? How do you as a leader address the issue before resorting to drastic measures like firing? The answer lies in training and fostering a [continuous learning]({{< ref "/tags/continuous-learning" >}}) environment.
 
 ## **The Power of Training** **💡**

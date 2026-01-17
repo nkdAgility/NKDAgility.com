@@ -1,6 +1,6 @@
 ---
 title: OKR Guide - A Social Discipline for Shared Focus, Measurable Contribution, and Strategic Learning
-short_title: "OKR Guide: Shared Focus, Measurable Outcomes"
+short_title: 'OKR Guide: Shared Focus, Measurable Outcomes'
 description: Comprehensive guide to using OKRs for shared focus, measurable outcomes, and strategic learning, including roles, events, best practices, and common pitfalls.
 tldr: OKRs are a practical system for aligning teams around shared goals, measuring real progress, and learning from results, provided they are supported by clear vision, leadership, and a culture of feedback and adaptability. Effective OKR practice requires well-defined roles, regular events for definition, check-in, review, and reflection, and a focus on measurable outcomes rather than tasks or top-down mandates. To get value, involve teams in crafting OKRs, keep them focused and measurable, and use frequent feedback to adapt both goals and ways of working.
 date: 2025-06-26
@@ -47,8 +47,8 @@ Watermarks:
   tldr: 2025-08-07T12:10:49Z
 ResourceId: KcistbuSUsg
 ResourceType: guides
----
 
+---
 # OKR Guide
 
 A Social Discipline for Shared Focus, Measurable Contribution, and Strategic Learning

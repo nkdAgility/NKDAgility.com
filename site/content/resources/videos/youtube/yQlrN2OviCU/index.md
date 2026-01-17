@@ -54,8 +54,8 @@ duration: 47
 resourceTypes:
   - video
 isShort: true
----
 
+---
 In the world of [Scrum]({{< ref "/categories/scrum" >}}) and Agile training, **immersive learning** is a game-changer. It transforms the way we absorb information, moving away from traditional lecture-based approaches to more practical, hands-on experiences. One of the standout aspects of this learning style is the **peer feedback** loop, which not only accelerates learning but also encourages real-world application.
 
 As a Scrum Trainer, I’ve seen firsthand the benefits of peer feedback in training sessions. It fosters a deeper connection to the material and drives tangible improvements in how participants implement Scrum techniques in their organizations. Let’s explore how peer feedback within immersive learning can supercharge your journey to becoming an effective [Scrum Master]({{< ref "/tags/scrum-master" >}}).

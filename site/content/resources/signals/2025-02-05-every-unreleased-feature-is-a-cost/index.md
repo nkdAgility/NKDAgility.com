@@ -55,8 +55,8 @@ Watermarks:
   tldr: 2025-08-07T12:40:17Z
 ResourceId: PNGuJocqSoD
 ResourceType: signals
----
 
+---
 Every unreleased feature is a cost.
 
 Many teams treat software development like a factory, assuming that as long as work is being done, value is being created. But without delivery, all that effort is meaningless.

@@ -34,7 +34,7 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:04:16
 icon: fa-flask
 concepts:
-  - Practice
+  - Capability
 categories:
   - Engineering Excellence
   - Product Development

@@ -36,24 +36,24 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:54:26
 icon: fa-microscope
 concepts:
-  - Principle
+  - Capability
 categories:
   - Product Development
 tags:
-  - Pragmatic Thinking
+  - Agile Philosophy
   - Decision Making
   - Organisational Agility
   - Continuous Improvement
   - Social Technologies
-  - Metrics and Learning
   - Continuous Learning
+  - Metrics and Learning
   - Operational Practices
-  - Agile Philosophy
+  - Pragmatic Thinking
   - Agile Strategy
   - Agile Values and Principles
   - Organisational Change
   - Value Delivery
-  - Agile Transformation
+  - Market Adaptability
 ItemId: rvkDj1GRUjd
 ResourceId: rvkDj1GRUjd
 ItemType: tags

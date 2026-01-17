@@ -45,8 +45,8 @@ Watermarks:
   tldr: 2025-07-30T23:12:35Z
 ResourceId: IO5EHjiHhTf
 ResourceType: blog
----
 
+---
 AI has changed a lot of things in software development. But if you're shocked that it can write code, you’ve probably misunderstood where the real constraints are.
 
 Let’s be clear: **coding was never the bottleneck**.

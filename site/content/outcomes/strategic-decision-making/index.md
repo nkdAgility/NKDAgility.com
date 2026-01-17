@@ -4,7 +4,7 @@ short_title: Strategic Decision-Making
 description: Move from opinion-based decisions to evidence-driven strategy. Connect board-level intent to delivery reality through clear metrics, aligned operating models, and systems that create confidence rather than debate.
 tldr: Strategic decisions based on evidence rather than opinion. Clear metrics that inform rather than confuse. Leadership aligned on direction. Operating models that connect strategy to execution. The gap between elite and low performers narrows when decision-making rests on clarity rather than guesswork.
 date: 2025-11-24
-weight: 250
+weight: 715
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -125,7 +125,7 @@ sections:
   - type: outcomeboxes
     title: Strategic decision-making enables
     boxes:
-      - box:
+      - box: 
         title: What You Can Do
         items:
           - title: Make faster, more confident decisions
@@ -133,7 +133,7 @@ sections:
           - title: Establish clear success metrics
           - title: Build evidence-based operating models
           - title: Reduce decision paralysis and rework
-      - box:
+      - box: 
         title: How You'll Feel
         items:
           - title: Feel confident in your strategic direction
@@ -141,7 +141,7 @@ sections:
           - title: Lead with clarity instead of confusion
           - title: Gain trust from teams and stakeholders
           - title: Sleep better knowing decisions are sound
-      - box:
+      - box: 
         title: How You'll Be Seen
         items:
           - title: Be seen as a decisive, data-driven leader
@@ -155,21 +155,21 @@ sections:
     content: |
       Elite organisations make strategic decisions and deploy changes 106× faster than low performers (DORA). We help you close that gap through clear metrics and aligned operating models.
     boxes:
-      - box:
+      - box: 
         title: Economic Clarity
         items:
           - title: See which initiatives contribute to Current Value (revenue today)
           - title: Identify which unlock Ability to Innovate (capability for tomorrow)
           - title: Understand where team time goes and what creates bottlenecks
           - title: Know what's working before committing significant resources
-      - box:
+      - box: 
         title: Operational Confidence
         items:
           - title: Faster strategic decisions through flow metrics that inform rather than confuse
           - title: Fewer escalations when delivery becomes predictable and problems resolve at team level
           - title: Stronger leadership credibility through evidence, not hope
           - title: Recognition for customer-facing products, platforms, and shared services
-      - box:
+      - box: 
         title: Practical Implementation
         items:
           - title: No enterprise overhead or restructuring required
@@ -232,4 +232,6 @@ creator: Martin Hinshelwood
 icon: fa-lightbulb
 ResourceType: outcomes
 ResourceId: 1Pbl4bi_RU1
+
 ---
+

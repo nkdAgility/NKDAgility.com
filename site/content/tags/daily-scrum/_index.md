@@ -45,14 +45,13 @@ tags:
   - Social Technologies
   - Team Collaboration
   - Software Development
-  - Organisational Agility
   - Agile Frameworks
   - Operational Practices
+  - Team Performance
   - Self Organisation
   - Empirical Process Control
   - Pragmatic Thinking
   - Transparency
-  - Team Performance
   - Agile Planning
   - Common Goals
   - Professional Scrum

@@ -1,6 +1,6 @@
 ---
-title: "The Overlooked Virtue of Agility: Diligence"
-short_title: "The Overlooked Virtue of Agility: Diligence"
+title: 'The Overlooked Virtue of Agility: Diligence'
+short_title: 'The Overlooked Virtue of Agility: Diligence'
 description: Explores why diligence, consistent attention to quality and standards, is vital in Agile teams, how it’s often overlooked, and practical steps to foster it for lasting success.
 tldr: Diligence, or consistently following through on quality standards like the definition of done, is often overlooked in Agile teams but is essential for reliable delivery and long-term success. Without diligence, teams risk inconsistent quality and increased rework, while a strong focus on it leads to better products and faster delivery over time. Development managers should ensure the definition of done is clear, visible, and enforced, and foster a culture of accountability and perseverance to make diligence a team habit.
 date: 2023-12-07T07:00:02Z
@@ -53,8 +53,8 @@ duration: 119
 resourceTypes:
   - video
 isShort: false
----
 
+---
 When we talk about Agile practices, we often highlight flexibility, collaboration, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). However, one key Agile virtue that is often overlooked is _diligence_. Diligence, in its essence, is that unwavering attention to detail and the commitment to doing what needs to be done, no shortcuts, no compromises. It’s about ensuring quality at every step of the process, and in the world of Agile, this is where the definition of "done" becomes crucial.
 
 ## **What is Diligence in Agile?**

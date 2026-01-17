@@ -41,8 +41,8 @@ Watermarks:
   tldr: 2025-08-07T12:11:07Z
 ResourceId: 9nMNRf64yp5
 ResourceType: signals
----
 
+---
 AI isn’t coming for your job. It’s coming for the work that never deserved a human to begin with.
 
 Filling in forms. Copying data between systems. Generating routine reports. That’s not what people are here for.

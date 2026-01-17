@@ -42,6 +42,7 @@ categories:
   - Engineering Excellence
 tags:
   - Pragmatic Thinking
+  - Market Adaptability
   - Value Delivery
   - Organisational Agility
 ItemId: W8W67IGO0UU

@@ -53,8 +53,8 @@ Watermarks:
   tldr: 2025-08-07T12:11:00Z
 ResourceId: No4y9TWFkAF
 ResourceType: signals
----
 
+---
 Most transformation efforts fail because the hard conversations never happen.
 
 In every Applying Professional Scrum class I run, the magic is in the room, not the slides. We create a space where people speak plainly, about friction, confusion, blockers, and bad assumptions.

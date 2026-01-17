@@ -1,5 +1,5 @@
 ---
-title: "The Limits of Self-Taught Learning: Why External Perspectives Matter"
+title: 'The Limits of Self-Taught Learning: Why External Perspectives Matter'
 short_title: Limits of Self-Taught Learning in Tech
 description: Explores the limits of self-taught learning in tech, highlighting how external expertise and diverse perspectives drive better solutions, growth, and organisational success.
 tldr: Relying only on self-taught learning limits your team’s growth because people tend to stop searching for better solutions once they find one that works. Bringing in external expertise exposes your organization to new perspectives, tools, and methods, helping you identify hidden problems and explore more effective approaches. To drive innovation and align progress with your goals, balance internal learning with outside guidance and encourage your team to keep exploring beyond their current knowledge.
@@ -46,8 +46,8 @@ duration: 339
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In today’s fast-paced digital landscape, the concept of self-taught learning is more prevalent than ever. However, as we dive deeper into the realms of [software development]({{< ref "/tags/software-development" >}}), [DevOps]({{< ref "/categories/devops" >}}), and organizational transformation, it's crucial to recognize the limitations that come with learning in isolation. While self-taught knowledge has its merits, there are significant benefits to bringing in external expertise. This post explores the importance of diverse knowledge and how it can help organizations break through the barriers that self-taught learning often creates.
 
 ## The Reality of Self-Taught Knowledge

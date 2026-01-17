@@ -49,8 +49,8 @@ Watermarks:
   tldr: 2025-08-07T12:33:55Z
 ResourceId: FiPINXQNDQu
 ResourceType: signals
----
 
+---
 A great Product Owner doesn’t just manage a backlog, they drive the entire product strategy. If you’re looking for a simple litmus test for what makes a strong PO, Jim Sammons’ Five A’s of Product Ownership is a great framework:
 
 1. Accountability – Owning the product vision and backlog, not just maintaining it.

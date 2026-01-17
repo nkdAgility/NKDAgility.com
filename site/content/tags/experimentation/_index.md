@@ -36,7 +36,7 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:47:25
 icon: fa-flask
 concepts:
-  - Practice
+  - Principle
 categories:
   - Product Development
   - Product Management
@@ -45,16 +45,16 @@ tags:
   - Continuous Improvement
   - Organisational Culture
   - Organisational Agility
-  - Continuous Learning
+  - Social Technologies
   - Decision Making
   - Ability to Innovate
+  - Continuous Learning
   - Pragmatic Thinking
   - Team Performance
   - Product Discovery
   - Operational Practices
   - Value Delivery
   - Organisational Change
-  - Agile Philosophy
 ItemId: csu-x7cQ3Pl
 ResourceId: csu-x7cQ3Pl
 ItemType: tags

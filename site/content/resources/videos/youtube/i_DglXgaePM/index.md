@@ -1,5 +1,5 @@
 ---
-title: "Mastering Agility: Balancing Engineering Excellence and Effective Processes in a Rapidly Changing Business Landscape"
+title: 'Mastering Agility: Balancing Engineering Excellence and Effective Processes in a Rapidly Changing Business Landscape'
 short_title: Balancing Engineering Excellence and Agile
 description: Explores how to balance engineering excellence and effective Agile processes, highlighting the need for technical skills, continuous improvement, and outcome-focused metrics.
 tldr: Balancing strong engineering practices with effective processes is essential for thriving in today’s fast-changing business environment; neglecting either can lead to costly failures or products that miss user needs. Success with Agile requires more than process changes, it demands a culture of transparency, collaboration, and continuous learning, along with well-trained product owners and meaningful outcome-focused metrics. Development managers should invest in engineering excellence, support ongoing training, and adopt an experimental, evidence-based approach to drive real agility and business value.
@@ -48,8 +48,8 @@ duration: 5631
 resourceTypes:
   - video
 isShort: false
----
 
+---
 As I sit down to reflect on my recent experiences in the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I can't help but think about the rapid changes we are witnessing in the business landscape. The velocity of change is staggering, and it’s not just about adopting new processes; it’s about mastering the balance between [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) and effective processes.
 
 ### The Importance of Engineering Excellence

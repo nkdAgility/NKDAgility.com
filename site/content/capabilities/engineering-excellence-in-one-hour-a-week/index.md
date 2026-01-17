@@ -4,7 +4,7 @@ short_title: Engineering Excellence
 description: Weekly engineering support that provides clear visibility into delivery systems, technical debt, and flow constraints, enabling better decisions about modernisation, quality, and predictable delivery.
 tldr: One hour a week provides focused technical support to help you see where flow is blocked, where quality breaks down, and where engineering practices need strengthening. You gain the visibility and guidance to make informed decisions about CI/CD, DevOps adoption, technical debt, and team capability without the overhead of traditional consulting. Delivered through a timeboxed retainer with full risk reversal.
 date: 2025-09-23
-weight: 102
+weight: 575
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -20,7 +20,7 @@ type: capabilities
 sections:
   - type: headline
     headline:
-      title: "Engineering Excellence in One Hour a Week"
+      title: Engineering Excellence in One Hour a Week
       subtitle: See what's blocking flow. Fix what matters.
       content: |
         One hour a week gives you clear visibility into your engineering system: where delivery stalls, where quality breaks down, where technical debt constrains you.
@@ -120,4 +120,6 @@ menus:
     parent: Consulting Services
 ResourceId: CwlqQrHDnTD
 ResourceType: capabilities
+
 ---
+

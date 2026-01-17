@@ -1,6 +1,6 @@
 ---
 title: Not all delays are the same
-short_title: "Types of Delays: Waiting vs Blocked Tasks"
+short_title: 'Types of Delays: Waiting vs Blocked Tasks'
 description: Explains the difference between waiting and blocked tasks, why clear distinction matters in workflows, and how to track and address sources of delay for better optimisation.
 tldr: Not all delays are equal; waiting for approval is different from being blocked by missing dependencies. Treating all delays as blocks hides real workflow issues and reduces accountability. Make delay sources explicit, track idle time, and highlight true blockers to identify and fix underlying problems.
 date: 2025-02-15T16:30:01+00:00
@@ -47,8 +47,8 @@ Watermarks:
   tldr: 2025-08-07T12:39:29Z
 ResourceId: pgCUc2qV2_q
 ResourceType: signals
----
 
+---
 Not all delays are the same.
 
 A task waiting on legal approval isn’t blocked, it’s in a waiting state. A task that needs a missing dependency to proceed is actually blocked. These distinctions matter.

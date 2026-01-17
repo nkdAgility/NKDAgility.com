@@ -17,7 +17,8 @@ aliasesArchive:
   - agile-requirements-workshop-1-day
   - /training-courses/agile-requirements-workshop/
 type: course
-concepts: []
+concepts:
+  - Practice
 categories:
   - Uncategorized
 tags:

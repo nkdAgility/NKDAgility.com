@@ -31,7 +31,7 @@ Instructions: |-
   - Any content not directly addressing the foundational, system-level convictions that drive sustainable delivery and authentic transformation
 headline:
   cards: []
-  title: "Ethos: Building Systems That Reflect What You Truly Value"
+  title: 'Ethos: Building Systems That Reflect What You Truly Value'
   subtitle: The disciplined stance that shapes leadership, informs decisions, guides system evolution, and ensures meaningful outcomes over empty rituals.
   content: Ethos defines the underlying beliefs and disciplined stance that shape leadership, coaching, decision-making, and system evolution. It emphasises value delivery, accountability, evidence-based decisions, and continuous improvement, ensuring practices remain purposeful and coherent rather than drifting into empty rituals, superficial compliance, or ineffective automation.
   updated: 2025-05-23T23:25:25Z
@@ -44,8 +44,8 @@ ItemType: concepts
 ResourceType: concepts
 ItemKind: classification
 ItemContentOrigin: human
----
 
+---
 Ethos is not what you say you value, it’s what your system proves you believe.
 
 Everything on this site reflects a consistent ethos: value delivery over activity, accountability over role-playing, system evolution over compliance, evidence over opinion. This ethos drives how we apply Scrum as a social technology, how we use Kanban as an observability pattern, and how we treat DevOps as a delivery enabler, not a toolchain.

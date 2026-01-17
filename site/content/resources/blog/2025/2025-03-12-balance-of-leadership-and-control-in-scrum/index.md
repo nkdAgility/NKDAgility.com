@@ -10,7 +10,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
   changefreq: weekly
-contributors:
+contributors: 
 ItemId: UH6M7ujV-kB
 ItemType: blog
 ItemKind: resource
@@ -58,8 +58,8 @@ creator: Martin Hinshelwood
 resourceTypes: blog
 ResourceId: UH6M7ujV-kB
 ResourceType: blog
----
 
+---
 [Scrum]({{< ref "/categories/scrum" >}}) is built on self-management, yet accountability cannot exist without authority. If Scrum Masters and Product Owners are held responsible for outcomes, how much control should they have? Too much, and teams lose autonomy. Too little, and they become ineffective. This article explores the nuanced balance of [leadership]({{< ref "/categories/leadership" >}}), authority, and control in Scrum, how influence must be complemented by decisive action to enable true agility.
 
 **Can One Be Held Accountable for What One Has No Control Over?**

@@ -36,18 +36,23 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:16:05
 icon: fa-users
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Agile Frameworks
-- Social Technologies
-- Team Collaboration
-- Self Organisation
-- Cross Functional Teams
-- Product Delivery
+  - Agile Frameworks
+  - Software Development
+  - Social Technologies
+  - Self Organisation
+  - Cross Functional Teams
+  - Product Delivery
+ItemId: y6x3IBDp9bo
+ResourceId: y6x3IBDp9bo
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 A Scrum Team is the core accountability in Scrum, responsible for delivering value through iterative, incremental work. It consists of a Scrum Master, Product Owner, and Developers, working collaboratively toward a single Product Goal.
@@ -56,4 +61,4 @@ The Scrum Team is self-managing and cross-functional. It has no sub-teams or hie
 
 Unlike roles or practices, the Scrum Team is an entity defined in the Scrum framework, empowered by the organisation to manage its own work. Its accountability spans all aspects of product delivery, from stakeholder collaboration and development to validation and release.
 
-This tag is used to explore the nature, structure, and responsibilities of the Scrum Team as a whole—not just how the individuals interact, but what they are collectively accountable for in complex, adaptive environments.
+This tag is used to explore the nature, structure, and responsibilities of the Scrum Team as a whole, not just how the individuals interact, but what they are collectively accountable for in complex, adaptive environments.

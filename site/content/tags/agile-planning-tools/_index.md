@@ -45,7 +45,6 @@ tags:
   - Value Delivery
   - Social Technologies
   - Pragmatic Thinking
-  - Collaboration Tools
 ItemId: cNlax4DCuqw
 ResourceId: cNlax4DCuqw
 ItemType: tags

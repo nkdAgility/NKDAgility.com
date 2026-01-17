@@ -49,8 +49,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:53Z
 ResourceId: Oi_yiyEHZbM
 ResourceType: signals
----
 
+---
 Agile and Scrum are often misunderstood.
 
 They don't fix your problems.  

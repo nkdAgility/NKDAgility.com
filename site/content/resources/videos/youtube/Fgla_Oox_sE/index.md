@@ -1,6 +1,6 @@
 ---
-title: "Mastering the Art of Product Ownership: The Power of Marketing Your Vision"
-short_title: "Product Ownership: Marketing Your Vision"
+title: 'Mastering the Art of Product Ownership: The Power of Marketing Your Vision'
+short_title: 'Product Ownership: Marketing Your Vision'
 description: Explores how Product Owners can use marketing skills to communicate vision, boost team and stakeholder engagement, and align feedback for successful product delivery.
 tldr: Product Owners need to actively market their product vision to engage teams, stakeholders, and customers, not just manage backlogs. Consistent, emotionally resonant communication boosts participation in Sprint Reviews, improves feedback, and aligns everyone around shared goals. Development managers should encourage Product Owners to treat vision-sharing as an ongoing marketing effort to drive engagement and maximize product value.
 date: 2023-12-15T07:00:05Z
@@ -49,8 +49,8 @@ duration: 227
 resourceTypes:
   - video
 isShort: false
----
 
+---
 As a [Product Owner]({{< ref "/tags/product-owner" >}}), one of the most crucial yet often overlooked aspects of your role is marketing. Yes, you read that right. You’re not just managing a [product backlog]({{< ref "/tags/product-backlog" >}}) or guiding a development team, you’re marketing a vision. Whether you're a new Product Owner or seasoned in the role, this skill is vital for success. You need to effectively communicate that vision to various audiences: the team building the product, the stakeholders consuming it, and the customers paying for it. Each group may have different priorities, but they all need to be aligned and engaged with your story.
 
 In this blog post, we’ll dive into how you can become an effective "Product Marketer" and how mastering this can lead to more successful Sprint Reviews, better feedback loops, and ultimately, a product that resonates with your stakeholders and customers.

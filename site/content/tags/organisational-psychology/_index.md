@@ -34,7 +34,7 @@ sitemap:
 BodyContentGenDate: 2025-04-09T15:07:08
 icon: fa-people-carry
 concepts:
-  - Discipline
+  - Capability
 categories:
   - Leadership
 tags:

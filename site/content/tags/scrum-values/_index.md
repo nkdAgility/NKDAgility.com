@@ -31,19 +31,20 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:15:15
 icon: fa-gem
 concepts:
-  - Framework
+  - Philosophy
 categories:
   - Scrum
   - Product Development
   - Technical Leadership
 tags:
   - Team Collaboration
+  - Agile Frameworks
   - Team Motivation
   - Social Technologies
   - Organisational Culture
   - Software Development
   - Professional Scrum
-  - Agile Frameworks
+  - Agile Philosophy
   - Organisational Agility
   - Agile Values and Principles
 ItemId: 54mAOuDn9gl

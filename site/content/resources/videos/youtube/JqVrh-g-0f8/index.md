@@ -47,8 +47,8 @@ duration: 42
 resourceTypes:
   - video
 isShort: true
----
 
+---
 ## The Order of Product Backlogs
 
 In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), a question I often encounter is, "What does a poor [product backlog]({{< ref "/tags/product-backlog" >}}) look like?"

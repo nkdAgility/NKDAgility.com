@@ -53,8 +53,8 @@ duration: 152
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ## Deciphering the Sprint Goal Enigma **🎯**  
 
 The Sprint goal is the North Star for any [Scrum]({{< ref "/categories/scrum" >}}) team - a beacon that guides the team’s efforts throughout the Sprint. But the million-dollar question remains: How does one conjure this all-important goal?  

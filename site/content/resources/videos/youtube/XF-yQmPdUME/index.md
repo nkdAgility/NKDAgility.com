@@ -63,8 +63,8 @@ duration: 601
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), there’s often a misconception that product ownership and [product management]({{< ref "/categories/product-management" >}}) are two distinct roles. This idea couldn’t be further from the truth. In reality, effective product ownership is fundamentally a form of product management. Let’s dive deeper into why these roles are intertwined and how understanding this can maximize the value delivered by your Scrum teams.
 
 ## The Core of Product Ownership: It’s All About Product Management

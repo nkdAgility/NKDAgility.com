@@ -61,8 +61,8 @@ resourceTypes:
 isShort: false
 ResourceId: LHqjlId0SiU
 ResourceType: videos
----
 
+---
 Most teams don’t fail because they can’t build. They fail because they don’t finish the right way. This is something I’ve seen time and again, whether I’m working with a start-up finding its feet or a global enterprise wrestling with legacy systems. The technical ability to build is rarely the problem. The real challenge is in finishing, properly, consistently, and in a way that actually moves the needle for the business.
 
 Let’s talk about the definition of done. Too often, it’s treated as a technical checklist, a box-ticking exercise to satisfy process or compliance. But in reality, defining done is a strategic advantage. It’s the difference between products that merely function and products that truly win in the market. It’s the gap between features that exist and features that deliver genuine value. And, crucially, it’s what separates teams that simply complete tasks from those that drive the business forward.

@@ -1,6 +1,6 @@
 ---
-title: "Temperance in Agile: Why Less is More"
-short_title: "Temperance in Agile: Why Less is More"
+title: 'Temperance in Agile: Why Less is More'
+short_title: 'Temperance in Agile: Why Less is More'
 description: Explores how practising moderation in Agile, by keeping backlogs lean, limiting work in progress, and focusing on value, boosts team efficiency and reduces waste.
 tldr: Focusing on just enough work and keeping your backlog, planning, and team size lean helps your team deliver more value and avoid waste or burnout. Prioritize only high-impact tasks, limit work in progress, and avoid over-refining or over-planning. Say no to non-essential work, balance short-term wins with long-term goals, and seek coaching if you struggle to maintain this balance.
 date: 2023-12-05T07:00:10Z
@@ -57,8 +57,8 @@ duration: 154
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the fast-paced world of Agile, it's easy to fall into the trap of doing too much. Whether it's overloading your backlog, over-refining, or over-planning, too much of anything can be a bad thing. One of the key virtues that we embrace in Agile is **temperance**, the art of taking everything in moderation.
 
 The principle of temperance reminds us that we must balance our efforts, focus on what truly matters, and avoid overcomplicating processes. This is particularly relevant when it comes to managing our backlogs and planning our sprints. In this post, we’ll dive deeper into what it means to apply temperance in Agile and share practical insights on how to strike the perfect balance in your [Scrum]({{< ref "/categories/scrum" >}}) practices.

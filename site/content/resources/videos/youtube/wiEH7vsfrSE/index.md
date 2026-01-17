@@ -37,6 +37,7 @@ tags:
   - Business Agility
   - Organisational Agility
   - Market Adaptability
+  - Adaptive Operating Model
   - Continuous Improvement
   - Enterprise Agility
   - Sociotechnical Systems

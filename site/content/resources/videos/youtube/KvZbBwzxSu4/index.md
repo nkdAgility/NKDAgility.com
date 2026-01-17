@@ -1,5 +1,5 @@
 ---
-title: "The Strategic Imperative: Empowering Teams with Vision, Goals, and Direction"
+title: 'The Strategic Imperative: Empowering Teams with Vision, Goals, and Direction'
 short_title: Empowering Teams with Vision and Goals
 description: Explores how clear vision, goals, and evidence-based management empower teams, improve alignment, and foster autonomy, engagement, and effective decision-making in organisations.
 tldr: Many teams lack clarity on their organization’s vision, goals, and value, leading to inefficiency and misaligned efforts. To address this, leaders should clearly communicate strategic direction, empower teams with autonomy through intent-based leadership, and move beyond rigid procedures to foster engagement and continuous improvement. Ensure everyone understands how their work contributes to broader objectives so teams can make informed decisions and drive meaningful results.
@@ -62,8 +62,8 @@ duration: 591
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In today's fast-paced, complex business environment, many organizations struggle with a fundamental issue: a widespread lack of understanding regarding value, strategic direction, and current goals. This problem isn't just theoretical; it's a reality I've witnessed firsthand across numerous organizations.
 
 ## **The Challenge: Navigating Without a Compass**

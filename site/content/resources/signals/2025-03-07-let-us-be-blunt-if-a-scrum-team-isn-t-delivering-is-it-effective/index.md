@@ -48,8 +48,8 @@ Watermarks:
   tldr: 2025-08-07T12:35:09Z
 ResourceId: CB56pgg1LmZ
 ResourceType: signals
----
 
+---
 Let’s be blunt, if a Scrum Team isn’t delivering, is it effective?
 
 Scrum exists to deliver usable increments. Without that, everything else, standups, retros, sprints, is just theatre.

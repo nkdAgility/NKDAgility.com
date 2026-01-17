@@ -47,8 +47,8 @@ duration: 371
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the world of Agile, certifications have long been a point of contention. Lately, there's been a growing trend of dismissiveness toward certifications, with many expressing skepticism about their value. As someone who has spent years in the Agile and [Scrum]({{< ref "/categories/scrum" >}}) space, I understand the frustration that certifications often evoke. While I agree with some of the criticism, I also see their value, but only when approached correctly.
 
 ## **The Impact of Certifications on Learning**

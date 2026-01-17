@@ -1,5 +1,5 @@
 ---
-title: "Mastering Site Reliability: Insights from Azure DevOps on Building a Resilient Live Site Culture"
+title: 'Mastering Site Reliability: Insights from Azure DevOps on Building a Resilient Live Site Culture'
 short_title: Mastering Site Reliability with Azure DevOps
 description: Explore proven strategies from Azure DevOps for building resilient, reliable software systems, covering transparency, automation, telemetry, incident response, and team culture.
 tldr: The Azure DevOps team at Microsoft has built a resilient live site culture by prioritising transparency with customers, investing in comprehensive telemetry, and automating deployment processes. Cross-functional teams and structured incident response drive continuous improvement and reliability at scale. Development managers should focus on these practices to boost both agility and system robustness while maintaining customer trust.
@@ -61,8 +61,8 @@ duration: 3386
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}) and [site reliability engineering]({{< ref "/tags/site-reliability-engineering" >}}), I've come to appreciate the delicate balance between engineering and operations. Today, I want to share insights from my experiences with the Azure [DevOps]({{< ref "/categories/devops" >}}) team at Microsoft, particularly how they foster a live site culture that prioritises reliability while delivering value to customers.
 
 ### The Importance of Site Reliability Engineering

@@ -1,5 +1,5 @@
 ---
-title: "Before You Call Yourself an Agile Coach: The Importance of Real Experience"
+title: 'Before You Call Yourself an Agile Coach: The Importance of Real Experience'
 short_title: Real Experience Needed to Be an Agile Coach
 description: Real-world experience with teams is essential for Agile coaches, providing credibility, empathy, and practical insight needed to effectively guide and earn team trust.
 tldr: To be an effective Agile coach, you need real hands-on experience working with teams to build products, not just theoretical knowledge. Practical involvement helps you understand team dynamics, earn credibility, and offer advice that resonates with teams. If you aspire to coach, seek opportunities to join or volunteer with Agile teams so you can build the trust and insight needed to guide others successfully.
@@ -52,8 +52,8 @@ duration: 62
 resourceTypes:
   - video
 isShort: false
----
 
+---
 Being an Agile coach isn’t just about mastering theories and methodologies. To truly earn the title, you must **have real, hands-on experience working with teams**. This isn’t negotiable, it's an essential part of developing the credibility and knowledge needed to effectively guide teams in Agile practices.
 
 ## **Why Practical Experience Matters in Agile [Coaching]({{< ref "/tags/coaching" >}})**

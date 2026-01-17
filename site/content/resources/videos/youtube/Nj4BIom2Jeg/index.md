@@ -1,5 +1,5 @@
 ---
-title: "Stop Flying Blind: Why Telemetry Belongs in Your Definition of Done"
+title: 'Stop Flying Blind: Why Telemetry Belongs in Your Definition of Done'
 short_title: Telemetry in the Definition of Done
 description: Stop flying blind after release, learn why telemetry is vital to your Definition of Done and how real feedback drives better software, value, and team success.
 tldr: Shipping software without telemetry leaves teams guessing about usage, performance, and user behavior, which prevents learning and improvement. Teams that make telemetry a core part of their Definition of Done catch issues early, validate outcomes with real data, and make better decisions. To deliver real value, define telemetry needs upfront, automate data collection, review feedback regularly, and act on what you learn.
@@ -59,8 +59,8 @@ resourceTypes:
 isShort: true
 ResourceId: Nj4BIom2Jeg
 ResourceType: videos
----
 
+---
 There’s a phrase I keep coming back to: shipping without telemetry is flying blind. It’s astonishing how often I see teams pour their energy into building and releasing features, only to have no idea what happens next. Did it work? Did it break? Is anyone even using it? Without logs, metrics, or any meaningful feedback, you’re left guessing. And guessing is not a strategy.
 
 At Naked Agility, we’ve made it our mission to help teams embed telemetry into their very definition of Done. Not as an afterthought. Not as a “nice to have.” Telemetry is a core requirement, an essential ingredient for any team that wants to deliver real value, not just working software.

@@ -1,5 +1,5 @@
 ---
-title: "Mastering VSTS Sync Migration Tools: Your Ultimate Guide to Seamless TFS to VSTS Transitions"
+title: 'Mastering VSTS Sync Migration Tools: Your Ultimate Guide to Seamless TFS to VSTS Transitions'
 short_title: VSTS Sync Migration Tools for TFS to VSTS
 description: Learn how to use VSTS sync migration tools for flexible, selective TFS to VSTS migrations, including setup, configuration, field mapping, and community support.
 tldr: When migrating from TFS to VSTS, use Microsoft's migration service for full database moves, but choose VSTS sync migration tools if you need flexibility to migrate or restructure specific projects. The sync tools allow selective migration, field mapping, and bulk updates, and are supported by a strong community; install them via Chocolatey and always test with a small dataset first. Decide which approach fits your needs, and leverage available documentation and community support for a smooth migration.
@@ -47,8 +47,8 @@ duration: 1977
 resourceTypes:
   - video
 isShort: false
----
 
+---
 My name is Martin Hinshelwood, and I work for Naked Agility in Scotland, where we specialise in digital transformations, [DevOps]({{< ref "/categories/devops" >}}), and agile methodologies for a variety of clients. Today, I want to share my insights on the VSTS sync migration tools, a topic that has garnered much interest in our community.
 
 ### Understanding Your Migration Options

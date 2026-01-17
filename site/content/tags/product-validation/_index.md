@@ -33,16 +33,16 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:27:33
 icon: fa-vote-yea
 concepts:
-  - Capability
+  - Principle
 categories:
-  - Product Development
   - Product Management
+  - Product Development
 tags:
   - Pragmatic Thinking
   - Customer Focus
   - Product Discovery
-  - Continuous Learning
   - Business Agility
+  - Continuous Learning
   - Market Adaptability
   - Agile Product Management
   - Organisational Agility
@@ -50,8 +50,8 @@ tags:
   - Continuous Improvement
   - Lean Product Development
   - Social Technologies
+  - Ability to Innovate
   - Experimentation
-  - Metrics and Learning
 ItemId: yY8UAK0HiYG
 ResourceId: yY8UAK0HiYG
 ItemType: tags

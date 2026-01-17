@@ -1,5 +1,5 @@
 ---
-title: "Taming the Chaos: How to Align Your Agile Team for Success"
+title: 'Taming the Chaos: How to Align Your Agile Team for Success'
 short_title: Aligning Agile Teams for Success
 description: Learn how to reduce chaos in Agile teams by improving alignment, setting clear goals, fostering open communication, and using visual tools for better collaboration and efficiency.
 tldr: Chaos in Agile teams is usually caused by unclear goals, lack of direction, and poor communication, which leads to inefficiency and confusion. Aligning teams through clear goals, regular check-ins, open communication, and visualising progress increases motivation, collaboration, and productivity. Development managers should prioritise establishing and communicating shared objectives to reduce chaos and drive team success.
@@ -54,8 +54,8 @@ duration: 66
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the world of Agile, chaos is an all-too-familiar spectre that haunts many teams. I often find myself reflecting on the sheer magnitude of this chaos, which can manifest in various ways, most notably, a lack of direction and clarity. When teams are not aligned, when they don’t share a common goal, it’s no surprise that confusion reigns.
 
 ### The Roots of Chaos

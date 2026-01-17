@@ -38,8 +38,8 @@ Watermarks:
 resourceTypes: newsletter
 ResourceId: X2BzJPMloRw
 ResourceType: newsletters
----
 
+---
 In resilient organisations, resilience is not about bouncing back; it is about bouncing forward. Teams that survive chaos but leave behind technical debt are not resilient , they are brittle.
 
 Real resilience comes from embedding rigorous engineering discipline. Every time you patch a production issue, you must ask:

@@ -1,5 +1,5 @@
 ---
-title: "The Future of Scrum Training: Immersive Learning for Lasting Change"
+title: 'The Future of Scrum Training: Immersive Learning for Lasting Change'
 short_title: Immersive Learning in Scrum Training
 description: Explores how immersive, collaborative learning methods in Scrum training enable ongoing support, real-world application, and lasting organisational change over traditional courses.
 tldr: Immersive learning is more effective than traditional Scrum training because it provides ongoing support, real-time problem solving, and peer collaboration over several weeks, helping participants apply new skills in real situations. This approach leads to gradual, sustainable change and builds confidence through shared learning and continuous improvement. Development managers should consider immersive learning to achieve lasting transformation in their teams and organizations.
@@ -52,8 +52,8 @@ duration: 134
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In today’s fast-paced world, learning and development have to adapt to the complexity and speed at which things are changing, especially in the realms of [Scrum]({{< ref "/categories/scrum" >}}), [Kanban]({{< ref "/categories/kanban" >}}), and Agile practices. Traditional training methods, while useful, often fall short of equipping participants with the skills and insights needed to drive real, lasting change in their organizations. This is where immersive learning comes in.
 
 ## **Why Immersive Learning is the Future**

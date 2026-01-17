@@ -33,20 +33,19 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:48:15
 icon: fa-file-code
 concepts:
-  - Capability
+  - Principle
 categories:
   - Engineering Excellence
-  - Product Development
   - Technical Leadership
 tags:
   - Software Development
   - Technical Mastery
-  - Continuous Improvement
   - Team Performance
   - Product Delivery
   - Operational Practices
+  - Continuous Improvement
   - Organisational Agility
-  - Pragmatic Thinking
+  - Engineering Practices
 ItemId: 9bEv9zktXBb
 ResourceId: 9bEv9zktXBb
 ItemType: tags

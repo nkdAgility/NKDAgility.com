@@ -4,7 +4,7 @@ short_title: DevOps Technology
 description: DevOps consulting that creates coherent delivery systems, not tool sprawl. We provide operating model design, pipeline architecture, DevSecOps integration, and team enablement for organisations serious about flow, quality, and engineering economics.
 tldr: DevOps is an ethos, not a toolchain. We help you design delivery systems that create safe, fast change. Services include operating model design, CI/CD architecture, DevSecOps integration, flow metrics, and team capability building. Delivered through timeboxed retainers with full risk reversal, focusing on coherent systems rather than tool implementations.
 date: 2025-07-18
-weight: 200
+weight: 250
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -59,21 +59,21 @@ sections:
     content: |
       DORA research shows elite engineering organisations deploy 208× more frequently than low performers. These capabilities address the technical and organisational systems that enable that performance, without enterprise overhead for small teams or bureaucracy for large organisations.
     boxes:
-      - box:
+      - box: 
         title: Small Teams (10-50)
         items:
           - title: DevOps architecture without enterprise overhead
           - title: Pipeline design tailored to team maturity
           - title: Toolchain rationalisation
           - title: Foundation for growth without premature complexity
-      - box:
+      - box: 
         title: Mid-Size (50-200)
         items:
           - title: Multi-team coordination and platform design
           - title: Standardisation balanced with autonomy
           - title: Flow metrics and visibility systems
           - title: DevSecOps integration at scale
-      - box:
+      - box: 
         title: Large Organisations (200+)
         items:
           - title: Enterprise architecture and governance
@@ -95,7 +95,7 @@ sections:
   - type: boxesrow
     title: Capabilities Address These Problems
     boxes:
-      - box:
+      - box: 
         title: Common Conditions
         items:
           - title: Inconsistent or unreliable pipelines
@@ -103,7 +103,7 @@ sections:
           - title: Lack of engineering standards
           - title: Manual, error-prone deployments
           - title: Unclear delivery visibility
-      - box:
+      - box: 
         title: What We Provide
         items:
           - title: CI/CD architecture for confident delivery
@@ -161,7 +161,7 @@ sections:
   - type: symmetry
     title: What This Provides
     boxes:
-      - box:
+      - box: 
         title: Before
         items:
           - title: Flaky pipelines and unowned technical debt
@@ -172,7 +172,7 @@ sections:
             icon: fa-face-nose-steam
           - title: Delivery speed disconnected from strategic visibility
             icon: fa-face-tired
-      - box:
+      - box: 
         title: After
         items:
           - title: Scalable, secure, team-owned delivery pipelines
@@ -192,7 +192,7 @@ sections:
       - Metrics that inform decisions
       - Cloud infrastructure that scales and secures
       - DevOps practices improving flow, quality, and resilience
-      
+
       Real-world example: A global engineering organisation [streamlined build and release across 90 teams in 13 countries](/resources/case-studies/streamline-build-and-release-across-90-teams-and-13-countries/), consolidating fragmented source control and branching strategies. The result: reduced central build team overhead, improved team ownership, and more predictable releases.
   - type: none
     title: Typical Deliverables
@@ -274,4 +274,6 @@ menus:
 icon: fa-diagram-project
 ResourceId: YYFs65WYwwO
 ResourceType: capabilities
+
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Business Agility: Join Our Dynamic Monthly Discussions for Real-World Insights"
+title: 'Unlocking Business Agility: Join Our Dynamic Monthly Discussions for Real-World Insights'
 short_title: Business Agility Monthly Discussion Sessions
 description: Join monthly interactive sessions to discuss real-world business agility challenges, share insights, and learn from diverse peers using a collaborative Lean Coffee format.
 tldr: Business Agility Raw is a monthly, participant-driven discussion forum where software development leaders can share real-world challenges and solutions related to business agility. The sessions use a collaborative format to ensure relevant, actionable insights and diverse perspectives, supporting continuous learning. Consider joining on the fourth Wednesday each month to connect with peers and gain practical ideas you can apply immediately.
@@ -48,8 +48,8 @@ duration: 21
 resourceTypes:
   - video
 isShort: true
----
 
+---
 As I sit down to write this post, I’m reminded of the vibrant discussions that take place during our monthly [Business Agility]({{< ref "/tags/business-agility" >}}) Raw sessions. If you haven’t joined us yet, I highly encourage you to mark your calendars for the fourth Wednesday of every month. It’s a fantastic opportunity to engage with like-minded individuals and explore the pressing topics that matter most to us in the realm of business agility.
 
 ### What is Business Agility Raw?

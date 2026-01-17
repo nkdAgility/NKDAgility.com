@@ -35,6 +35,7 @@ tags:
   - Agile Philosophy
   - Organisational Agility
   - Empirical Process Control
+  - Adaptive Operating Model
 Watermarks:
   description: 2025-05-07T13:08:11Z
   short_title: 2025-07-07T17:51:59Z

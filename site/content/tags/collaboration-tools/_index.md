@@ -37,14 +37,13 @@ concepts:
 categories:
   - Product Development
 tags:
-  - Social Technologies
   - Team Collaboration
+  - Social Technologies
   - Sociotechnical Systems
   - Business Agility
-  - Transparency
+  - Market Adaptability
   - Pragmatic Thinking
   - Organisational Agility
-  - Market Adaptability
   - Value Delivery
   - Continuous Learning
 ItemId: mZse3CBH4Yw

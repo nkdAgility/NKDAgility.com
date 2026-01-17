@@ -1,5 +1,5 @@
 ---
-title: "Navigating Complexity: How to Foster Agility and Innovation in Business Decision-Making"
+title: 'Navigating Complexity: How to Foster Agility and Innovation in Business Decision-Making'
 short_title: Fostering Agility and Innovation in Business
 description: Explores how businesses can boost agility and innovation by adapting decision-making, avoiding bureaucracy, and fostering continuous learning in complex environments.
 tldr: There are no universal rules for making good business decisions in complex environments, so teams must focus on adaptability, creativity, and continuous learning to stay competitive. Relying on standard tools or processes can lead to bureaucracy and stifle innovation, so regularly reassess what adds value and be ready to change approaches as needed. Encourage a culture that questions the status quo and adapts quickly to new information or challenges.
@@ -55,8 +55,8 @@ resourceTypes:
 isShort: false
 ResourceId: RnMOINwjO84
 ResourceType: videos
----
 
+---
 In the ever-evolving landscape of business, one thing has become abundantly clear: there are no universal rules for making informed decisions based on the data we collect. Whether it’s evidence-based management, telemetry data, or any other form of data, the reality is that what works in one context may not work in another. This is particularly true as we navigate a world that is increasingly complex rather than merely complicated.
 
 ### Understanding Complexity

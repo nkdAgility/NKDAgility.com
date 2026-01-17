@@ -1,5 +1,5 @@
 ---
-title: "Mastering Sprint Planning: Key Principles for Agile Success"
+title: 'Mastering Sprint Planning: Key Principles for Agile Success'
 short_title: Mastering Sprint Planning in Agile Teams
 description: Learn essential principles for effective Sprint planning in Agile, including understanding the product backlog, setting clear goals, and fostering true team collaboration.
 tldr: Effective Sprint planning depends on everyone understanding the product backlog and having a clear product goal, which ensures alignment, informed decisions, and true teamwork. Without these, teams risk misalignment and reduced collaboration. Make sure your team is prepared and focused on shared objectives to achieve better outcomes.
@@ -61,8 +61,8 @@ duration: 246
 resourceTypes:
   - video
 isShort: false
----
 
+---
 When it comes to effective Sprint planning, I’ve learned that there are a couple of key principles that can make all the difference. Drawing from my experiences, I want to share my top tips to help you and your team navigate this crucial phase of the Agile process.
 
 ### Understand the [Product Backlog]({{< ref "/tags/product-backlog" >}})

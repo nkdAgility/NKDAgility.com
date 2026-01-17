@@ -4,7 +4,7 @@ short_title: Applying Scaled Portfolio Kanban
 description: Learn to design and operate Portfolio Kanban boards, align work with strategy, manage dependencies, and improve transparency in large-scale portfolio management.
 tldr: This one-day intermediate course teaches development leaders how to design and operate a Portfolio Kanban board, align work with strategy, and manage dependencies for better forecasting and transparency. Participants will learn to use data for organization-wide improvements and can earn Scaled Portfolio Kanban certification. Consider this course to improve portfolio management and strategic alignment in your teams.
 date: 2024-01-12
-weight: 765
+weight: 485
 sitemap:
   filename: sitemap.xml
   priority: 0.8
@@ -22,15 +22,25 @@ aliasesArchive:
   - /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
 type: course
 concepts:
-  - Method
+  - Practice
 categories:
   - Kanban
+  - Product Development
+  - Lean
 tags:
-  - Agile Frameworks
-  - Operational Practices
   - Portfolio Management
-  - Pragmatic Thinking
+  - Operational Practices
+  - Scaling
   - Transparency
+  - Project Management
+  - Large Scale Agility
+  - Pragmatic Thinking
+  - Social Technologies
+  - Agile Strategy
+  - Organisational Agility
+  - Enterprise Agility
+  - Software Development
+  - Agile Frameworks
 card:
   button:
     content: ""

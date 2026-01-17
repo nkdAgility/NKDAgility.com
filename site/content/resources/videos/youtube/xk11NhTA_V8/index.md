@@ -1,5 +1,5 @@
 ---
-title: "Navigating the Agile Apocalypse: How to Combat Judgment and Foster Team Growth"
+title: 'Navigating the Agile Apocalypse: How to Combat Judgment and Foster Team Growth'
 short_title: Combating Judgment in Agile Teams
 description: Explores how judgment in Agile teams, via metrics like velocity and bug counts, can harm collaboration, and offers strategies to foster growth and psychological safety.
 tldr: Judging teams by metrics like velocity, bug counts, or code volume can create fear and stifle growth, undermining Agile principles. Instead, focus on goals that reflect real progress, encourage open discussion about challenges, and regularly review metrics to ensure they support a healthy team environment. Review your current metrics and team culture to ensure they foster collaboration and innovation rather than fear or competition.
@@ -47,8 +47,8 @@ duration: 72
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call one of the seven signs of the Agile apocalypse: judgment. This isn't just a passing concern; it's a pervasive issue that can undermine the very principles of agility we strive to uphold.
 
 ### The Many Faces of Judgment

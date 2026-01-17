@@ -45,9 +45,10 @@ concepts:
   - Model
 categories: []
 tags:
+  - Operating Model
   - Organisational Agility
-  - Social Technologies
   - Beta Codex
+  - Social Technologies
   - Self Organisation
   - Organisational Physics
   - Organisational Change
@@ -57,8 +58,7 @@ tags:
   - Complexity Thinking
   - Business Agility
   - Market Adaptability
-  - Sensemaking
-  - Agentic Agility
+  - Team Collaboration
 ItemId: 5KmsJtm570B
 ItemType: tags
 ResourceType: tags

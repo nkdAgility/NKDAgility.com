@@ -1,8 +1,8 @@
 ---
-title: "From Chaos to Clarity: My Journey Through DevOps and the Three Key Challenges to Overcome"
-short_title: "DevOps Journey: Overcoming Key Adoption Challenges"
-description: "Explores a developer’s transition to DevOps, highlighting key challenges: cultural change, toolchain automation, and continuous learning for effective software delivery."
-tldr: "The author describes moving from chaotic, manual development practices to adopting DevOps, highlighting three main challenges: shifting culture and collaboration, integrating and automating toolchains, and fostering continuous learning. Success requires systems thinking, strong feedback loops, and a culture of experimentation. Development managers should focus on supporting people, streamlining processes, and encouraging ongoing learning to deliver better products faster."
+title: 'From Chaos to Clarity: My Journey Through DevOps and the Three Key Challenges to Overcome'
+short_title: 'DevOps Journey: Overcoming Key Adoption Challenges'
+description: 'Explores a developer’s transition to DevOps, highlighting key challenges: cultural change, toolchain automation, and continuous learning for effective software delivery.'
+tldr: 'The author describes moving from chaotic, manual development practices to adopting DevOps, highlighting three main challenges: shifting culture and collaboration, integrating and automating toolchains, and fostering continuous learning. Success requires systems thinking, strong feedback loops, and a culture of experimentation. Development managers should focus on supporting people, streamlining processes, and encouraging ongoing learning to deliver better products faster.'
 date: 2024-04-04T11:34:59Z
 lastmod: 2024-04-04T11:34:59Z
 weight: 315
@@ -61,8 +61,8 @@ duration: 2018
 resourceTypes:
   - video
 isShort: false
----
 
+---
 When I first encountered [DevOps]({{< ref "/categories/devops" >}}) as a developer at Merrill Lynch, I was already well-acquainted with the frustrations that led to its creation. My journey began in the early 2000s, working for what were then called New Media agencies, essentially web development companies. Back then, we were doing everything wrong. We deployed directly from our local machines and edited in production. [Continuous integration]({{< ref "/tags/continuous-integration" >}}) was a concept that was just beginning to gain traction, but most of us were blissfully unaware of its potential.
 
 ### The Early Days of Development

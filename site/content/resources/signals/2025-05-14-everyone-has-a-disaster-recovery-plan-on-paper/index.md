@@ -42,8 +42,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:20Z
 ResourceId: jgAmhaBbUlm
 ResourceType: signals
----
 
+---
 Everyone has a disaster recovery plan, on paper.
 
 But when the lights go out, very few organisations have systems that actually work. Spain, Portugal, Oracle, Heathrow... these weren’t random outages. They were textbook examples of systems that failed exactly as they were designed.

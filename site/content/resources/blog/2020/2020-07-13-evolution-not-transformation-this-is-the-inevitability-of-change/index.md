@@ -34,6 +34,7 @@ tags:
   - Agile Strategy
   - Organisational Culture
   - Empirical Process Control
+  - Adaptive Operating Model
   - Agile Philosophy
   - Business Agility
   - Change Management
@@ -45,7 +46,6 @@ tags:
   - Continuous Learning
   - Agile Leadership
   - Pragmatic Thinking
-  - Agile Values and Principles
 Watermarks:
   description: 2025-05-07T13:15:28Z
   short_title: 2025-07-07T17:57:53Z

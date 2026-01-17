@@ -1,5 +1,5 @@
 ---
-title: "The Fallacy of Equating Agility with Speed: What Agile Really Means"
+title: 'The Fallacy of Equating Agility with Speed: What Agile Really Means'
 short_title: Agility Is About Value, Not Speed
 description: Explains why Agile is not about speed but about prioritising valuable work, adapting to feedback, and avoiding wasted effort to deliver products that truly meet user needs.
 tldr: Agile is not about working faster but about focusing on delivering the most valuable outcomes by prioritizing, experimenting, and adapting based on real customer needs. Speed alone can lead to building the wrong product, while Agile helps teams avoid wasted effort by eliminating unnecessary work and bureaucracy. Development managers should ensure their teams use Agile to maximize value, not just to increase velocity.
@@ -57,8 +57,8 @@ duration: 494
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the world of Agile, there’s a common misconception that agility equals speed. However, this idea is as much of an oxymoron as the concept of an "agile project manager." The truth is, Agile isn’t about rushing through tasks or speeding up processes; it's about spending your time wisely on valuable endeavors. Let’s dive deeper into what agility truly means and why it’s not about doing things faster, but doing the right things.
 
 ## **Agility is About Spending Time Wisely**

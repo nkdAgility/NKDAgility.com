@@ -1,5 +1,5 @@
 ---
-title: "Building a Resilient Token Server: Engineering for Flow, Fault Tolerance, and Speed"
+title: 'Building a Resilient Token Server: Engineering for Flow, Fault Tolerance, and Speed'
 short_title: Building a Resilient Token Server for Fault Tolerance
 description: Explains how to engineer a robust, fault-tolerant token counting server using FastAPI and PowerShell, covering error handling, retries, fallbacks, and resilient workflows.
 tldr: Aiming for a resilient, fast, and fault-tolerant token counting system, the author replaced fragile server restarts with a batch-wide server lifecycle, added retry logic for transient failures, and implemented a local fallback to ensure uninterrupted processing. These changes improved reliability, reduced downtime, and provided clear logs for troubleshooting. Development managers should focus on building systems that handle real-world failures gracefully, prioritize flow, and include observability and fallback mechanisms from the start.
@@ -40,8 +40,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:42Z
 ResourceId: mjsboLP-N9P
 ResourceType: engineering-notes
----
 
+---
 Modern engineering is about making sure systems keep running reliably under load, failure, and unpredictable conditions. When I set out to build a fast, dependable way to calculate OpenAI token counts for my batch classification pipeline, I didn’t want a quick script or a one-off tool. I wanted a **resilient, observable, fault-tolerant system** that fit tightly into my PowerShell-first workflow and could hold up in real conditions, not just lab tests.
 
 **Background:** Midway through last year, I finally accepted that WordPress was no longer the future for me. To be honest, I’d known it for a while, but the pain of migrating was bigger than the pain of sticking with it, until it wasn’t. I made the deliberate choice to rebuild a decade of Wordpress content into Hugo, Markdown, YAML, and a layer of PowerShell automation for bulk editing. As I ramped up automation for pre-processing and OpenAI-driven bulk edits, one bottleneck hit hard: counting tokens. I had an existing method calling out to Python from PowerShell, but it clocked in at around five minutes per thousand prompts. That was unacceptable for the scale I wanted.

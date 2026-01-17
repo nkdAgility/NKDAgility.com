@@ -1,5 +1,5 @@
 ---
-title: "How AI is Revolutionising Our Work: Embrace the Future of Productivity and Creativity"
+title: 'How AI is Revolutionising Our Work: Embrace the Future of Productivity and Creativity'
 short_title: How AI Is Revolutionising Our Work
 description: Explores how AI boosts workplace productivity and creativity by automating tasks, aiding idea generation, and empowering professionals to work more efficiently.
 tldr: AI is rapidly transforming work by boosting productivity and creativity, acting as a supportive tool for idea generation, content creation, and automating repetitive tasks. Teams that adopt AI can work more efficiently and gain a competitive advantage. Development managers should start exploring and integrating AI tools now to stay ahead in a changing landscape.
@@ -46,8 +46,8 @@ duration: 263
 resourceTypes:
   - video
 isShort: false
----
 
+---
 The question on everyone’s lips these days is: how is technology, particularly AI, changing the world we work in? I genuinely believe we are on the cusp of a significant revolutionary shift rather than just an evolutionary one. AI isn’t here to take your job; rather, it’s a powerful tool that acts as a sidekick or co-pilot, enhancing our capabilities as we navigate our daily tasks.
 
 ### My Personal Experience with AI

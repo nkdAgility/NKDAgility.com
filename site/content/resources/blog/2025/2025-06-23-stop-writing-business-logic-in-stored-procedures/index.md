@@ -35,8 +35,8 @@ Watermarks:
   tldr: 2025-08-07T12:10:54Z
 ResourceId: utAzlIGxj7O
 ResourceType: blog
----
 
+---
 Over the years, I've encountered many companies that have maintained their business logic in stored procedures, but the practice of doing so has died out, for good reasons ill hilight below. However, many codebases have been around for 10+ years, and may still have large amounts of business logic in them.
 
 If you’re still writing business logic in SQL Stored Procedures, it’s time to stop. If you still have code that stores business login in  SQL Stored Procedures its time to refactor!

@@ -1,5 +1,5 @@
 ---
-title: "Cultivating Patience: The Secret Ingredient for Thriving Agile Teams"
+title: 'Cultivating Patience: The Secret Ingredient for Thriving Agile Teams'
 short_title: Cultivating Patience in Agile Teams
 description: Explores how patience fosters trust, growth, and collaboration in agile teams, offering practical steps to build a supportive, blame-free, and productive team culture.
 tldr: Patience is essential for agile teams to build trust, avoid blame, and support growth, leading to better collaboration and outcomes. Leaders should set realistic expectations, encourage open communication, and model patient behavior to foster a healthy team environment. Take time to invest in team development and celebrate progress to enable long-term success.
@@ -51,8 +51,8 @@ duration: 39
 resourceTypes:
   - video
 isShort: true
----
 
+---
 In my journey through the world of agile practices, one lesson has consistently stood out: the importance of patience. It’s a simple yet profound concept that can make or break the success of any team or organisation. As I reflect on my experiences, I’ve come to realise that patience is not just a virtue; it’s a necessity in fostering a healthy, productive environment.
 
 ### The Role of Patience in Agile Teams

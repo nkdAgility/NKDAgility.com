@@ -1,6 +1,6 @@
 ---
-title: "Detecting Agile BS: Lessons from the Department of Defense"
-short_title: "Detecting Agile BS: Lessons from DoD"
+title: 'Detecting Agile BS: Lessons from the Department of Defense'
+short_title: 'Detecting Agile BS: Lessons from DoD'
 description: Explores why true organisational agility needs more than Agile development, highlighting the importance of continuous delivery, quality, and removing bureaucratic barriers.
 tldr: Adopting Agile development practices is not enough if the rest of your organization remains slow and bureaucratic; true agility requires continuous delivery, high product quality, and minimal manual or bureaucratic steps across the entire process. Use the Department of Defense's six-question test to assess your real agility, and focus on automating testing, streamlining deployment, and building quality in from the start. Regularly review and improve your processes to eliminate bottlenecks and ensure your whole ecosystem supports rapid, reliable delivery.
 date: 2024-08-02T06:45:02Z
@@ -56,8 +56,8 @@ duration: 346
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the realm of Agile, there's a common trap that many organizations fall into: the belief that implementing Agile development practices is enough to achieve true agility. However, as the Department of Defense's "Detecting Agile BS" guide reveals, Agile development alone isn't sufficient if the rest of the system operates in a traditional, bureaucratic manner. This blog post delves into the insights provided by the guide, exploring why a fully Agile ecosystem is essential and offering practical advice for organizations striving to eliminate Agile BS.
 
 ## **The Pitfall of Partial Agility**

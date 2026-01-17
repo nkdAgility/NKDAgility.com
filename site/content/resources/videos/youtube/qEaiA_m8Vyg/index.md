@@ -1,6 +1,6 @@
 ---
 title: Why have you decided to go all in on immersive learning experiences?
-short_title: "Immersive Learning: Benefits and Best Practices"
+short_title: 'Immersive Learning: Benefits and Best Practices'
 description: Explores how immersive learning boosts engagement, retention, and understanding through hands-on practice, community support, and continuous, interactive learning.
 tldr: Immersive learning experiences lead to deeper understanding, better retention, and stronger engagement than traditional methods by providing hands-on practice, ongoing support, and a collaborative community. This approach encourages continuous growth and adaptation, making learning a sustained journey rather than a one-time event. Development managers should consider adopting immersive learning to build resilient, high-performing teams and ensure lasting knowledge transfer.
 date: 2023-07-10T07:00:18Z
@@ -43,8 +43,8 @@ duration: 345
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 
 
 In an era where knowledge is abundant, yet attention is scarce, traditional learning methods are losing their edge. I've taken a deep dive into the realm of immersive learning experiences because I've seen firsthand how they cultivate profound understanding and retention.  

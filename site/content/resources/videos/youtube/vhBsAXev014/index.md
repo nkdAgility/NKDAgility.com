@@ -1,6 +1,6 @@
 ---
 title: 7 Harbingers of the Agile apocalypse - Chaos
-short_title: "Agile Chaos: Causes and Solutions"
+short_title: 'Agile Chaos: Causes and Solutions'
 description: Explores how chaos arises in agile transformations due to unclear vision and poor communication, and offers strategies for restoring alignment, clarity, and effective teamwork.
 tldr: Chaos in agile transformations often arises from unclear product vision and poor communication, leading to misalignment and confusion. To overcome this, development managers should establish a clear strategic direction, break it down into actionable goals, and reinforce it through ongoing communication and feedback. Focus on principles that empower teams and ensure everyone understands how their work contributes to shared objectives.
 date: 2023-10-23T07:00:21Z
@@ -56,8 +56,8 @@ duration: 525
 resourceTypes:
   - video
 isShort: false
----
 
+---
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️
 
 Hello, Agile navigators! Today, I dive deep into the tempest that is chaos, one of the seven ominous signs of the agile apocalypse. It’s a storm that brews in the midst of digital and agile transformations, threatening to engulf organizations in confusion and disarray. Let’s unpack this chaos, its origins, and chart a course towards clarity and coherence. ⛵

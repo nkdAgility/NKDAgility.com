@@ -35,23 +35,21 @@ sitemap:
   priority: 0.7
 icon: fa-seedling
 concepts:
-  - Capability
+  - Strategy
 categories:
   - Product Management
   - Product Development
 tags:
-  - Evidence Based Management
   - Metrics and Learning
-  - Evidence Based Leadership
+  - Evidence Based Management
   - Continuous Improvement
   - Value Delivery
+  - Evidence Based Leadership
   - Strategic Goals
   - Product Strategy
   - Business Agility
   - Decision Making
   - Agile Strategy
-  - Operational Practices
-  - Social Technologies
   - Professional Scrum
   - Organisational Agility
 ItemId: 4kYNkl7BMxU

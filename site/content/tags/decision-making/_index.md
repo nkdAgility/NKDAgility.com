@@ -33,14 +33,12 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:04:41
 icon: fa-scale-balanced
 concepts:
-  - Capability
+  - Philosophy
 categories: []
 tags:
   - Pragmatic Thinking
   - Social Technologies
   - Business Agility
-  - Evidence Based Management
-  - Continuous Improvement
 ItemId: qS5JzpcfrFA
 ResourceId: qS5JzpcfrFA
 ItemType: tags

@@ -36,11 +36,13 @@ sitemap:
 BodyContentGenDate: 2025-04-09T14:49:14
 icon: fa-lightbulb-on
 concepts:
-  - Capability
-categories: []
+  - Principle
+categories:
+  - Product Development
 tags:
-  - Continuous Learning
   - Miscellaneous
+  - Continuous Improvement
+  - Continuous Learning
 ItemId: c1US5zvP1Mb
 ResourceId: c1US5zvP1Mb
 ItemType: tags

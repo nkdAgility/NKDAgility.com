@@ -1,5 +1,5 @@
 ---
-title: "Embrace Simplicity: How to Transform Complexity into Continuous Delivery Success"
+title: 'Embrace Simplicity: How to Transform Complexity into Continuous Delivery Success'
 short_title: Embrace Simplicity for Continuous Delivery
 description: Explains how simplifying complex software and committing to change enables continuous delivery, highlighting the need for cultural shift, resilience, and ongoing improvement.
 tldr: Complexity is not a valid excuse for avoiding continuous delivery; with organisational commitment and a willingness to modernise, even legacy systems can be transformed for faster, more reliable releases. Key steps include honestly assessing your product, investing in ongoing improvement, and addressing technical debt rather than ignoring warning signs. Leaders should prioritise resources and foster a culture that values continuous improvement to avoid costly failures and achieve lasting delivery success.
@@ -56,8 +56,8 @@ resourceTypes:
 isShort: false
 ResourceId: DsvMKLto30o
 ResourceType: videos
----
 
+---
 I recently penned a post titled "Stop Hiding Behind Complexity and Start Delivering Continuously," and I want to expand on that idea here. The crux of my argument is straightforward: if anyone in your organisation claims that your software is too big or too complex for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), they are either lying, being lazy, or simply don’t know how to make it happen. More often than not, it’s the latter, they just don’t understand how to transition from their outdated, cumbersome systems to a more agile, continuous delivery model.
 
 ### The Path to Continuous Delivery

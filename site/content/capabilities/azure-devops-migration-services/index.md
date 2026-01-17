@@ -4,7 +4,7 @@ short_title: DevOps Migration
 description: Migration services for organisations moving from TFS, TFVC, or Azure DevOps Server to Azure DevOps Services. Assessment, architecture design, execution, and team enablement.
 tldr: Azure DevOps Migration Services provide assessment, planning, execution, and enablement for organisations moving from legacy TFS, TFVC, or Azure DevOps Server to modern Azure DevOps Services. Services include current-state analysis, architecture design, automated migration execution with complete history preservation, pipeline redesign, and team coaching. Development managers should consider this service when modernising legacy DevOps infrastructure whilst maintaining delivery continuity.
 date: 2025-07-19
-weight: 400
+weight: 725
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -58,21 +58,21 @@ sections:
   - type: boxesrow
     title: Migration Service Phases
     boxes:
-      - box:
+      - box: 
         title: Assessment & Planning
         items:
           - title: Current-state assessment and risk mapping
           - title: Target architecture design
           - title: Migration strategy and execution plan
           - title: Downtime and risk mitigation approach
-      - box:
+      - box: 
         title: Execution
         items:
           - title: TFVC to Git transformation with complete history
           - title: Work item and attachment migration
           - title: Classic to YAML pipeline conversion
           - title: Security and compliance configuration
-      - box:
+      - box: 
         title: Enablement & Support
         items:
           - title: Git workflow and YAML pipeline coaching
@@ -86,23 +86,23 @@ sections:
     counters:
       - counter: "2"
         counterAfter: B+
-        content: "**Work Item Revisions Migrated**"
+        content: '**Work Item Revisions Migrated**'
       - counter: "2.5"
         counterAfter: TB
-        content: "**Largest Collection Migrated**"
+        content: '**Largest Collection Migrated**'
       - counter: "500"
         counterAfter: +
-        content: "**Migrations Completed**"
+        content: '**Migrations Completed**'
       - counter: "17"
         counterAfter: yrs
-        content: "**Microsoft MVP Experience**"
+        content: '**Microsoft MVP Experience**'
   - type: textNlist
     title: Migration at Scale
     sideContent: |
       NKD Agility has delivered migration services for organisations with thousands of engineers across multiple countries and regions.
-      
+
       One global energy technology company consolidated 27 separate Azure DevOps collections containing over 800 projects and 900+ custom processes into a unified, standardised environment. Custom automation tools were built to handle process standardisation and data migration at scale whilst maintaining delivery continuity across all teams.
-      
+
       [Read how standardisation and consolidation enabled engineering excellence across 800+ teams](/resources/case-studies/standardize-engineering-practice-across-800-teams/)
     list:
       - icon: fa-layer-group
@@ -120,21 +120,21 @@ sections:
   - type: list
     listType: list
     title: What the Service Provides
-    content: "Migration services provide:"
+    content: 'Migration services provide:'
     list:
-      - title: "Migration Planning and Architecture"
+      - title: Migration Planning and Architecture
         icon: fa-brain
         content: |
           Assessment of current state, architecture design for Azure DevOps Services, migration strategy aligned with delivery roadmap.
-      - title: "Automated Migration Execution"
+      - title: Automated Migration Execution
         icon: fa-code-branch
         content: |
           TFVC to Git transformation with complete history, work item and pipeline migration, automated execution with minimal downtime.
-      - title: "Pipeline Modernisation"
+      - title: Pipeline Modernisation
         icon: fa-chart-line
         content: |
           Classic Build/Release to YAML pipeline conversion, CI/CD redesign for modern DevOps practices, security and governance integration.
-      - title: "Team Coaching and Enablement"
+      - title: Team Coaching and Enablement
         icon: fa-rocket
         content: |
           Git workflow training, YAML pipeline coaching, DevOps practice guidance, documentation and knowledge transfer.
@@ -245,4 +245,6 @@ menus:
 icon: fa-cloud-arrow-up
 ResourceId: 9VervIsddUa
 ResourceType: capabilities
+
 ---
+

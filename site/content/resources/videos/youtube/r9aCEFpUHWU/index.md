@@ -1,5 +1,5 @@
 ---
-title: "The Crucial Role of Competence: How Knowledgeable Scrum Masters Drive Team Success"
+title: 'The Crucial Role of Competence: How Knowledgeable Scrum Masters Drive Team Success'
 short_title: Competence in Scrum Masters Drives Team Success
 description: Scrum Masters with deep knowledge and competence enable teams to deliver better products, drive business outcomes, and foster real improvement in software development.
 tldr: Scrum Masters need deep knowledge of both agile practices and the technical work of their teams to drive real improvement in product delivery. Without this competence, teams stagnate and fail to deliver business value, while skilled Scrum Masters elevate team capabilities and outcomes. Development managers should ensure their Scrum Masters have practical expertise, not just facilitation skills, to maximize team impact.
@@ -54,8 +54,8 @@ resourceTypes:
 isShort: false
 ResourceId: r9aCEFpUHWU
 ResourceType: videos
----
 
+---
 When I reflect on my experiences as a [Scrum]({{< ref "/categories/scrum" >}}) Master, one thing becomes abundantly clear: the effectiveness of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) hinges on their understanding of the philosophies, theories, and practices relevant to the team they support. Without this foundational knowledge, the impact on both the team and the organisation can be profound.
 
 Imagine a soccer team being coached by someone who has never played the game. How effective would that coach be? The answer is simple: not very. Yet, I often hear the argument, “But Ted Lasso did it!” Let’s be real, Ted Lasso is a fictional character, and his success is scripted. In the real world, successful coaches possess a deep understanding of their sport, including training techniques and the physical demands placed on their players.

@@ -48,8 +48,8 @@ Watermarks:
   tldr: 2025-08-07T12:34:38Z
 ResourceId: T6lSCdR9SCa
 ResourceType: signals
----
 
+---
 No one questions a Product Owner’s authority. They decide priorities, manage stakeholders, and ensure the team works on the most valuable outcomes. Their ability to make tough calls is what drives product success.
 
 But when we talk about the Scrum Master’s authority, the conversation changes. Why?

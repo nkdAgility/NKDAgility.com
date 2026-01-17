@@ -42,6 +42,7 @@ tags:
   - Business Agility
   - Change Management
   - Value Delivery
+  - Adaptive Operating Model
 Watermarks:
   description: 2025-05-07T13:15:47Z
   short_title: 2025-07-07T17:58:09Z

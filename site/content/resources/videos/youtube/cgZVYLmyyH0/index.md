@@ -1,5 +1,5 @@
 ---
-title: "Stop Firefighting Bugs: Why Shifting Left Saves Time, Money, and Your Reputation"
+title: 'Stop Firefighting Bugs: Why Shifting Left Saves Time, Money, and Your Reputation'
 short_title: Shift Left to Prevent Costly Late-Stage Bugs
 description: Stop firefighting late-stage bugs, discover how shifting left saves time, money, and reputation by building quality in from the start. Learn the smarter way.
 tldr: Catching bugs late in the process wastes time, increases costs, and damages your reputation, while most issues could be prevented much earlier. Shifting left by embedding quality checks, early validation, and security into every stage of development leads to faster fixes, fewer production surprises, and greater stakeholder trust. Start building quality in from the beginning to avoid last-minute firefighting and deliver more reliable software.
@@ -58,8 +58,8 @@ resourceTypes:
 isShort: true
 ResourceId: cgZVYLmyyH0
 ResourceType: videos
----
 
+---
 Patching Defects at the End? You’re Already Too Late
 
 Let’s be honest: if you’re finding problems during UAT, staging, or, worse still, after release, you’ve already lost. Every defect that slips through to the latest stages of your process costs you more time, more money, and more reputation than it ever should. And here’s the kicker: most of these issues could have been caught much, much earlier.

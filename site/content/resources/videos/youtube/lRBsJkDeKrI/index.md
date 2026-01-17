@@ -1,6 +1,6 @@
 ---
 title: Why Your Definition of “Done” Is Holding Back Quality, Agility, and Trust, And How to Raise the Bar
-short_title: "Definition of Done: Boosting Quality and Trust"
+short_title: 'Definition of Done: Boosting Quality and Trust'
 description: Is your team’s “done” really done? Discover how a clear, objective definition of done boosts quality, agility, and trust in product delivery.
 tldr: Treating “done” as a vague checklist limits quality, agility, and stakeholder trust; instead, teams should define “done” as delivering thoroughly tested, production-ready, and valuable increments that work in the real world. Clear, objective standards for “done” reduce defects, speed up learning, and build confidence with stakeholders. Development managers should work with their teams to set and uphold a robust definition of “done” to drive better outcomes and long-term success.
 date: 2025-07-09T06:45:00Z
@@ -61,8 +61,8 @@ resourceTypes:
 isShort: true
 ResourceId: lRBsJkDeKrI
 ResourceType: videos
----
 
+---
 Can Your Product Pass the Done Test?
 
 Over the years, I’ve seen teams fall into the trap of treating “done” as a vague aspiration rather than a concrete, objective standard. Too often, “done” is little more than a checklist of completed tasks, a box-ticking exercise that says nothing about whether we’ve actually delivered value. But here’s the hard truth: good done isn’t aspirational. It’s objective. It’s measurable. And it’s the foundation upon which real agility and trust are built.

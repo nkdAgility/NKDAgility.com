@@ -1,5 +1,5 @@
 ---
-title: "Stop Chasing Trends: How Real Agility and DevOps Build Resilient, Adaptable Teams"
+title: 'Stop Chasing Trends: How Real Agility and DevOps Build Resilient, Adaptable Teams'
 short_title: DevOps and Agile for Sustainable Adaptability
 description: Stop chasing trends, build real agility. Discover how DevOps and agile create resilient teams, smoother delivery, and sustainable adaptability.
 tldr: Focusing on real agility and DevOps means building adaptable teams and resilient systems, not just adopting the latest tools or trends. Key outcomes include smoother delivery, better feedback, and teams that can handle change without disruption. Prioritise embedding adaptability into your culture and processes so your teams can lead rather than react to change.
@@ -32,6 +32,7 @@ categories:
 tags:
   - Market Adaptability
   - Pragmatic Thinking
+  - Adaptive Operating Model
   - Organisational Agility
   - Product Delivery
   - Software Development
@@ -55,8 +56,8 @@ resourceTypes:
 isShort: false
 ResourceId: RGSGuURMqA0
 ResourceType: videos
----
 
+---
 You don’t have to chase every new trend if you’ve built agility into your core. I see so many organisations scrambling to keep up with the latest frameworks, tools, or buzzwords, believing that if they just adopt the next big thing, they’ll finally be “agile.” But here’s the truth: when your systems are genuinely adaptable and your teams know how to respond to change, you’re not playing catch-up. You’re ready. You’re leading.
 
 This is the heart of what DevOps and agile are really about. Not velocity for its own sake, not just moving faster for the sake of a number on a dashboard, but reducing the friction that holds you back when change inevitably comes knocking. Because change will come, whether it’s a new market demand, a disruptive competitor, or simply the need to try a different architecture or delivery approach.

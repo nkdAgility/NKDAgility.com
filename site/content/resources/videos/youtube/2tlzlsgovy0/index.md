@@ -1,5 +1,5 @@
 ---
-title: "Empowering Agile Teams: Why Understanding Product Vision is Key to Success"
+title: 'Empowering Agile Teams: Why Understanding Product Vision is Key to Success'
 short_title: Empowering Agile Teams Through Product Vision
 description: Explains why agile teams need a clear understanding of product vision and strategic goals to boost alignment, ownership, decision-making, and adaptability.
 tldr: Teams that clearly understand the product vision and strategic goals are more aligned, empowered, and able to make decisions that deliver greater value. Regularly communicating the vision, involving the team in its development, and providing context and feedback opportunities foster ownership and agility. Development managers should ensure their teams know and connect with the product vision to maximize effectiveness and adaptability.
@@ -60,8 +60,8 @@ duration: 56
 resourceTypes:
   - video
 isShort: true
----
 
+---
 In my journey through the world of Agile, one question consistently arises: **Does your team truly understand the product vision and [strategic goals]({{< ref "/tags/strategic-goals" >}})?** This isn't just a rhetorical question; it's a fundamental aspect of fostering an agile mindset within any organisation.
 
 When I engage with teams, I often ask them to articulate the product vision and strategic objectives. If I see puzzled faces or hear responses that indicate they need to look something up, it’s a clear sign that we have a disconnect. Without a shared understanding of these elements, we risk undermining our agility.

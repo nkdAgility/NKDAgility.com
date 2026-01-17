@@ -35,6 +35,7 @@ categories:
 tags:
   - Organisational Agility
   - Business Agility
+  - Adaptive Operating Model
   - Enterprise Agility
   - Market Adaptability
   - Organisational Change

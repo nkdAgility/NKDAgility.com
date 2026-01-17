@@ -58,8 +58,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:44Z
 ResourceId: JwMLCNODuls
 ResourceType: signals
----
 
+---
 Fear is the real enemy of agility.
 
 Fear of raising an issue.  

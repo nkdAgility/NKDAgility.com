@@ -58,8 +58,8 @@ resourceTypes:
 isShort: false
 ResourceId: PMG_BahteNQ
 ResourceType: videos
----
 
+---
 If you’re still deploying manually, you’re not just behind the curve, you’re actively putting your business at risk. I’ve seen this play out time and again, and the consequences can be catastrophic. Let me be clear: manual deployments are not a sign of professionalism or diligence. They’re a sign that your engineering practices are stuck in the past, and the risks you’re taking are simply unacceptable.
 
 Let’s talk about real-world consequences. If you want a cautionary tale, look no further than the Night Capital Group. This was a company that went out of business in a single day due to a failed manual deployment. Yes, you read that right, one day. They had eight production servers, and because someone was following a manual script, they missed updating one server. A feature flag, originally used for a training scenario, was left enabled on that server. The result? Their trading software started buying high and selling low. By lunchtime, they’d burned through $450 million. Gone. All because of a manual deployment process.

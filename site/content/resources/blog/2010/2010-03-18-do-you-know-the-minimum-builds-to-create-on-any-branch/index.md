@@ -36,8 +36,8 @@ ResourceImportId: 60
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: metro-visual-studio-2010-128-link-6-6.png
----
 
+---
 ![BuildIcon_Large](images/Doyouknowtheminimumbuildstocreate_CABD-BuildIcon_Large_-1-1.png)
 { .post-img }
 

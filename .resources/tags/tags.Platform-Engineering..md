@@ -36,21 +36,28 @@ sitemap:
   priority: 0.7
 icon: fa-server
 concepts:
-- Capability
+  - Capability
 categories:
-- Product Development
-- Engineering Excellence
+  - Product Development
+  - Engineering Excellence
 tags:
-- Value Delivery
-- Software Development
-- Operational Practices
-- Internal Developer Platform
+  - Value Delivery
+  - Software Development
+  - Operational Practices
+  - Internal Developer Platform
+  - Technical Mastery
+ItemId: EiFac70NFI2
+ResourceId: EiFac70NFI2
+ItemType: tags
+ResourceType: tags
+ItemKind: classification
+ItemContentOrigin: human
 
 ---
 Platform Engineering is the practice of designing, building, and maintaining internal platforms that enable developers to deliver value independently, reliably, and at pace.
 
 It focuses on reducing cognitive load by abstracting infrastructure and operational complexity behind well-designed interfaces, tools, and APIs. These platforms are treated as products, with clear ownership, feedback loops, and continuous improvement driven by developer needs.
 
-A well-functioning platform engineering capability provides paved paths and self-service tooling that support secure, observable, and resilient software delivery—without enforcing constraints that limit innovation. It creates the conditions for fast feedback, safe experimentation, and autonomous delivery across teams.
+A well-functioning platform engineering capability provides paved paths and self-service tooling that support secure, observable, and resilient software delivery, without enforcing constraints that limit innovation. It creates the conditions for fast feedback, safe experimentation, and autonomous delivery across teams.
 
 The outcome of Platform Engineering is not simply tools, but a coherent developer experience that aligns with organisational strategy and enables continuous value delivery at scale.

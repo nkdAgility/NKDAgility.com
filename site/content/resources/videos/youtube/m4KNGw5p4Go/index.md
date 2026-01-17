@@ -1,5 +1,5 @@
 ---
-title: "Transform Your Product Development: Unleash the Power of Experimentation and Collaboration"
+title: 'Transform Your Product Development: Unleash the Power of Experimentation and Collaboration'
 short_title: Transform Your Product Development
 description: Learn practical strategies to boost product development by using experimentation, agile methods, and collaboration to increase user value, reduce waste, and improve ROI.
 tldr: This course teaches development managers how to boost user value and ROI by using experimentation, agile practices, and better collaboration with stakeholders. Key outcomes include reducing waste, speeding up time-to-market, and unlocking creative solutions by focusing on real problems. Consider applying these methods to streamline your process, make data-driven decisions, and deliver higher-impact products.
@@ -55,8 +55,8 @@ duration: 269
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In today’s fast-paced, ever-evolving market, understanding user needs and maximizing value are crucial for successful [product development]({{< ref "/categories/product-development" >}}). The right approach can not only boost user satisfaction but also significantly improve your return on investment (ROI). This course is designed to equip you with the tools, techniques, and mindset needed to revolutionize your product development process.
 
 Here’s how this course will change the game for you:

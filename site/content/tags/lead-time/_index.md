@@ -39,6 +39,7 @@ categories:
   - Product Development
   - Lean
 tags:
+  - Metrics and Learning
   - Team Performance
   - Flow Efficiency
   - Operational Practices
@@ -46,7 +47,6 @@ tags:
   - Software Development
   - Value Delivery
   - Market Adaptability
-  - Metrics and Learning
   - Pragmatic Thinking
   - Lean Thinking
   - Time to Market
