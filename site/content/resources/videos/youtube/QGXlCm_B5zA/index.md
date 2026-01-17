@@ -1,5 +1,5 @@
 ---
-title: "Transform Your Scrum Master Journey: Key Insights from the Advanced PSM Course"
+title: 'Transform Your Scrum Master Journey: Key Insights from the Advanced PSM Course'
 short_title: Advanced PSM Insights for Scrum Masters
 description: Discover how the Advanced PSM course helps Scrum Masters shift from admin tasks to empowering teams, supporting Product Owners, and tackling organisational challenges.
 tldr: Many Scrum Masters focus too much on administrative tasks like Jira management instead of empowering their teams and supporting the Product Owner and organization. The Advanced PSM course highlights the importance of enabling team accountability, facilitating value delivery, and addressing organizational barriers. Development managers should encourage Scrum Masters to move beyond admin work and focus on building team capability and organizational agility.
@@ -55,8 +55,8 @@ duration: 280
 resourceTypes:
   - video
 isShort: false
----
 
+---
 When I reflect on my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself revisiting the question: what will you truly learn on the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master (PSM) course? This is a question I get asked frequently, and I believe there are two main insights that emerge from the Advanced PSM course that can significantly reshape your understanding and practice of Scrum.
 
 ### The Realisation: You're Probably Doing It Wrong

@@ -58,8 +58,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:40Z
 ResourceId: 5nkzevV2xKG
 ResourceType: signals
----
 
+---
 Everyone loves to shout “give teams autonomy.”
 
 What they forget is that autonomy without alignment is just local chaos.

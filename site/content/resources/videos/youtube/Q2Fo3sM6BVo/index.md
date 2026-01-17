@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Scrum Success: A Comprehensive Guide to Values, Roles, Artifacts, and Events"
+title: 'Unlocking Scrum Success: A Comprehensive Guide to Values, Roles, Artifacts, and Events'
 short_title: Scrum Values, Roles, Artifacts, and Events
 description: Explains Scrum’s core values, roles, artifacts, and events, highlighting how they support teamwork, transparency, and adaptability in managing complex projects.
 tldr: Scrum is a flexible framework that helps teams deliver value through transparency, clear roles, and structured events, all grounded in trust and five core values. Key elements include defined accountabilities, essential artifacts for decision-making, and regular events to inspect and adapt work. To get the most from Scrum, focus on building trust, maintaining transparency, and continuously improving team processes.
@@ -54,8 +54,8 @@ duration: 891
 resourceTypes:
   - video
 isShort: false
----
 
+---
 [Scrum]({{< ref "/categories/scrum" >}}) is a lightweight framework that empowers teams and organisations to generate value through adaptive solutions for complex problems. Over my 12 years as a [professional Scrum]({{< ref "/tags/professional-scrum" >}}) trainer, I’ve seen firsthand how this framework can transform the way we work. Today, I want to share an overview of Scrum, breaking down its core components: five values, three accountabilities, three artifacts, and five events.
 
 ### The Foundation of Scrum: Empiricism

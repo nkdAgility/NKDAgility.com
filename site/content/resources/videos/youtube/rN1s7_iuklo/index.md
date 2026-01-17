@@ -48,8 +48,8 @@ tags:
   - Agile Leadership
   - Continuous Learning
   - Team Performance
+  - Adaptive Operating Model
   - Organisational Culture
-  - Social Technologies
 Watermarks:
   description: 2025-05-07T13:02:30Z
   short_title: 2025-07-07T17:48:55Z
@@ -64,8 +64,8 @@ duration: 56
 resourceTypes:
   - video
 isShort: true
----
 
+---
 In the fast-paced world of Agile, the key to success lies in the ability of teams to adapt and evolve. But are your teams truly empowered to change their processes based on what they learn? If they aren't, then they might not be as agile as you think. 🚀
 
 ## **The Importance of Empowerment in Agile Teams**

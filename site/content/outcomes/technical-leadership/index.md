@@ -4,7 +4,7 @@ short_title: Technical Leadership
 description: Technical leadership capability that connects engineering excellence to strategic direction, enabling better decisions, clearer visibility, and confident execution at every level.
 tldr: Technical leadership becomes strategic advantage when engineering capability connects to business direction. Clear visibility into delivery, confident decision-making, and the ability to innovate while maintaining stability create the condition where technical excellence drives competitive advantage.
 date: 2025-06-03
-weight: 200
+weight: 820
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -75,21 +75,21 @@ sections:
 
       We've helped organisations like [a global energy-technology and services company consolidate 800+ teams](/resources/case-studies/standardize-engineering-practice-across-800-teams/) and [streamline build processes across 90 teams in 13 countries](/resources/case-studies/streamline-build-and-release-across-90-teams-and-13-countries/), creating the visibility and alignment that technical leadership requires.
     boxes:
-      - box:
+      - box: 
         title: Strategic Clarity
         items:
           - title: Technical direction connected to business outcomes
           - title: Engineering economics visible to leadership
           - title: Resource decisions informed by flow data, not politics
           - title: Technology investments justified with evidence
-      - box:
+      - box: 
         title: Delivery Confidence
         items:
           - title: Predictable flow enables confident commitments
           - title: Safe, frequent releases reduce delivery risk
           - title: Engineering excellence built-in, not bolted-on
           - title: Ability to move fast without breaking things
-      - box:
+      - box: 
         title: Leadership Credibility
         items:
           - title: Technical capability recognised as competitive advantage
@@ -99,21 +99,21 @@ sections:
   - type: outcomeboxes
     title: Technical leadership enables
     boxes:
-      - box:
+      - box: 
         items:
           - title: Connect engineering work to business outcomes
           - title: Make technical decisions with strategic clarity
           - title: Build delivery predictability and flow
           - title: Scale engineering capability efficiently
           - title: Lead transformation with confidence
-      - box:
+      - box: 
         items:
           - title: Lead with data, not gut feelings
           - title: Take pride in engineering's business impact
           - title: Eliminate the stress of constant firefighting
           - title: Build credibility across functions
           - title: Shape technical direction with confidence
-      - box:
+      - box: 
         items:
           - title: Be recognised as strategic thinker, not just technologist
           - title: Represent engineering as value driver
@@ -177,4 +177,6 @@ creator: Martin Hinshelwood
 icon: fa-users-cog
 ResourceId: wJMDXD_JAJt
 ResourceType: outcomes
+
 ---
+

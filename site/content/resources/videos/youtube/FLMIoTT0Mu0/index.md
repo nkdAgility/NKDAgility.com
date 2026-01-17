@@ -1,5 +1,5 @@
 ---
-title: "Stop Hoping for Quality: Why Automated Pipelines Are the Only Way to Deliver with Confidence"
+title: 'Stop Hoping for Quality: Why Automated Pipelines Are the Only Way to Deliver with Confidence'
 short_title: Automated Pipelines for Reliable Quality
 description: Stop relying on memory for quality. Discover why automated pipelines beat manual checks, and how embedding quality gates ensures trust, speed, and consistency.
 tldr: Relying on manual quality checks leads to inconsistency and risk because people inevitably forget or make mistakes, no matter their intentions. Embedding automated quality gates like security scans, static analysis, linting, and automated tests directly into your delivery pipeline ensures that nothing is missed and quality becomes the default. To deliver reliably and protect your team and customers, make all critical checks automatic and non-optional in your pipeline.
@@ -59,8 +59,8 @@ resourceTypes:
 isShort: true
 ResourceId: FLMIoTT0Mu0
 ResourceType: videos
----
 
+---
 If it’s not in the pipeline, it’s not in your process. I’ve seen this time and again, organisations with the best intentions, armed with standards, checklists, and policies, but still falling short when it comes to real, consistent quality. Why? Because if you rely on people to remember, to manually tick the boxes, you’re building your process on hope rather than certainty.
 
 Let’s be honest: manual quality gates fail because people are human. We forget. We get distracted. We’re under pressure to deliver, and sometimes, things slip through the cracks. It’s not a question of professionalism or intent, it’s simply the reality of being human in a complex environment.

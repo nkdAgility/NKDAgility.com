@@ -1,6 +1,6 @@
 ---
-title: "Agile is Not New: A Journey Back to the Basics"
-short_title: "Agile’s Roots: Returning to Core Principles"
+title: 'Agile is Not New: A Journey Back to the Basics'
+short_title: 'Agile’s Roots: Returning to Core Principles'
 description: Explores Agile’s historical roots, the loss of human connection in business, the impact of competence gaps, and why a return to core Agile principles is needed today.
 tldr: Agile is rooted in centuries-old practices focused on human connection and adaptability, but mass production and Taylorism shifted work toward efficiency at the cost of empathy and craftsmanship. The Agile movement aimed to restore these values, yet many organizations now face a competence gap, hiring for Agile roles without ensuring the necessary skills, which leads to disappointing results. Development managers should prioritize building real competence and continuous learning in their teams to realize Agile’s true benefits and prepare for a coming reset that emphasizes value, empathy, and adaptability over rigid processes.
 date: 2024-10-10T15:48:56Z
@@ -53,8 +53,8 @@ resourceTypes:
 isShort: false
 ResourceId: XhPHa1RXrWo
 ResourceType: videos
----
 
+---
 **Agile** isn't some trendy buzzword that just came out of nowhere. In fact, it's far from new. It's a concept that has roots stretching back centuries. Before the Industrial Revolution, small, local businesses, like your neighborhood cobbler, knew their customers on a personal level. They crafted products based on the unique needs and preferences of each individual. This personal connection, built on understanding and empathy, was central to how work got done.
 
 ## **The Loss of Human Connection in Business**

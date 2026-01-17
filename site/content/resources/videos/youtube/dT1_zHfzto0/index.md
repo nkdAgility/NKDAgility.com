@@ -38,6 +38,7 @@ tags:
   - Agile Frameworks
   - Software Development
   - Agile Transformation
+  - Adaptive Operating Model
 Watermarks:
   description: 2025-05-07T13:09:00Z
   short_title: 2025-07-07T17:52:35Z

@@ -37,6 +37,7 @@ tags:
   - Agile Values and Principles
   - Agile Philosophy
   - Agile Transformation
+  - Adaptive Operating Model
 Watermarks:
   description: 2025-05-07T13:08:51Z
   short_title: 2025-07-07T17:52:29Z

@@ -1,6 +1,6 @@
 ---
-title: "Modernising Legacy Systems: A Practical, Low-Risk Strategy for Real Business Transformation"
-short_title: "Modernising Legacy Systems: Low-Risk Strategy"
+title: 'Modernising Legacy Systems: A Practical, Low-Risk Strategy for Real Business Transformation'
+short_title: 'Modernising Legacy Systems: Low-Risk Strategy'
 description: Struggling with legacy systems? Discover why modernisation is a strategy, not a gamble, reduce risk, boost efficiency, and future-proof your business today.
 tldr: Modernising legacy systems should be a strategic, low-risk process focused on understanding both technical and workflow bottlenecks, not a risky full replacement. Incremental changes, targeted automation, and addressing process issues often deliver the best results while minimising disruption. Development managers should map how work flows through their systems, prioritise fixes that offer the most value, and shift from reactive firefighting to proactive improvement.
 date: 2025-06-09T06:00:00Z
@@ -50,8 +50,8 @@ resourceTypes:
 isShort: false
 ResourceId: 4iK4RTQegD8
 ResourceType: videos
----
 
+---
 Legacy Systems: Why Modernisation Should Be a Strategy, Not a Gamble
 
 If you’re reading this, chances are you’ve got legacy systems lurking in the background. They’re the backbone of your business, reliable, familiar, and, let’s be honest, a bit of a pain. They mostly work, but they’re slow, expensive, and increasingly at odds with where you need to go. I’ve seen this story play out time and again: organisations pouring money into keeping the lights on, all the while knowing that something has to change.

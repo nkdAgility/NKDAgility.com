@@ -1,5 +1,5 @@
 ---
-title: "Futureproof Leadership: How CTOs Can Cut Through the Noise and Lead with Clarity, Confidence, and Culture"
+title: 'Futureproof Leadership: How CTOs Can Cut Through the Noise and Lead with Clarity, Confidence, and Culture'
 short_title: How NKD Agility Helps CTOs Lead Change
 description: Struggling with tech change? Discover how clarity, evidence, and culture can futureproof your team, no chasing trends, just smart leadership.
 tldr: CTOs should focus on what matters by making work systems visible, using evidence to guide decisions, and fostering a resilient, adaptable culture rather than chasing every new trend. Building clarity, confidence, and the right team habits enables better alignment with business goals and reduces stress. Consider partnering with an experienced coach to help navigate change and build a system that evolves with your needs.
@@ -30,6 +30,7 @@ categories:
   - Technical Leadership
 tags:
   - Digital Transformation
+  - Adaptive Operating Model
   - Organisational Culture
   - Sociotechnical Systems
   - Business Agility
@@ -48,8 +49,8 @@ resourceTypes:
 isShort: false
 ResourceId: qhb8uB5HUSo
 ResourceType: videos
----
 
+---
 You don’t have to chase change. You just need the right guide.
 
 If you’re a CTO today, you know exactly what I mean when I say the noise is deafening. AI disruption, new frameworks popping up like mushrooms after rain, platforms evolving faster than you can say “legacy system,” and the ever-present boardroom pressure to deliver more, faster, better. Add to that the expectations of your teams, hungry for clarity, autonomy, and purpose, and it’s no wonder there’s that quiet, persistent question at the back of your mind: am I doing enough?

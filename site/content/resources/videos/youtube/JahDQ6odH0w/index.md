@@ -1,5 +1,5 @@
 ---
-title: "How CTOs Can Cut Through the Noise: Building Real Clarity and Confidence in a World of AI Hype and Microservices Madness"
+title: 'How CTOs Can Cut Through the Noise: Building Real Clarity and Confidence in a World of AI Hype and Microservices Madness'
 short_title: Why CTOs Feel Like They’re Always Behind
 description: Overwhelmed by tech trends? Learn how CTOs can cut through the noise, gain clarity, and lead with confidence, without chasing every shiny object.
 tldr: CTOs face constant pressure to adopt new technologies like AI and microservices, but chasing every trend often leads to confusion and technical debt. The key is to focus on understanding your organisation’s real challenges, build decision-making capability at all levels, and invest in clarity rather than hype. Partnering with experts who help you see your true constraints and strengths can enable you to set your own pace and lead with confidence.
@@ -47,8 +47,8 @@ resourceTypes:
 isShort: false
 ResourceId: JahDQ6odH0w
 ResourceType: videos
----
 
+---
 AI, microservices, new frameworks every month. If you’re a CTO or technical leader right now, it probably feels like you’re drowning in decisions. I see it everywhere I go, every time you turn around, there’s a new tool, a new practice, a new expectation. And everyone’s looking at you to make the right call. Not just technically, but strategically. The pressure is relentless.
 
 Let’s be honest: you’re expected to modernise, scale, innovate, and somehow not break everything in the process. But here’s the reality, no one can research every trend, test every idea, or carry the weight of every technical decision on their own. The myth of the all-knowing CTO is just that, a myth. I’ve seen too many leaders burn out trying to live up to it.

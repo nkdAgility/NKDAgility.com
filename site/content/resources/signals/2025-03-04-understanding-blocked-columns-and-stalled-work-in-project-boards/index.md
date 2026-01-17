@@ -48,8 +48,8 @@ Watermarks:
   tldr: 2025-08-07T12:35:14Z
 ResourceId: 6K6oGV9pRbC
 ResourceType: signals
----
 
+---
 Blocked columns seem harmless, just another column to keep track of stalled work. But they aren’t harmless. They’re workflow kryptonite.
 
 Here’s the problem: A column should represent a state that work naturally flows through. But if your team is routinely moving work into “Blocked,” it means getting stuck has become part of the process. That’s a serious issue.

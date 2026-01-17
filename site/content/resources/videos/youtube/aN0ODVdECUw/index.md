@@ -1,5 +1,5 @@
 ---
-title: "Legacy Systems Aren’t the Enemy, Friction Is: How to Unblock Innovation and Accelerate Agile Delivery"
+title: 'Legacy Systems Aren’t the Enemy, Friction Is: How to Unblock Innovation and Accelerate Agile Delivery'
 short_title: Legacy Systems Are Holding You Back
 description: Is legacy tech slowing your team? Discover how removing friction unlocks agility, innovation, and faster delivery in your organisation.
 tldr: Legacy systems are only a problem when they create friction that slows delivery, increases fragility, and blocks innovation. The real issue is not system age but lack of ongoing maintenance and improvement, which leads to bottlenecks for both engineers and management. To accelerate agile delivery, focus on identifying and removing friction points, prioritising continuous improvement, and communicating the value of these efforts to the business.
@@ -46,8 +46,8 @@ resourceTypes:
 isShort: false
 ResourceId: aN0ODVdECUw
 ResourceType: videos
----
 
+---
 If there’s one thing I see time and again in organisations striving for agility, it’s the silent anchor of legacy systems. These are the old, creaking platforms and applications that, while once the backbone of the business, now act as a brake on innovation. I’ve worked with countless teams who are desperate to move forward, to deliver new features, to delight their customers, only to find themselves tripping over the same old obstacles, time and again.
 
 Let’s be clear: legacy systems aren’t inherently bad. In fact, the very word “legacy” is a bit of a misnomer. A system that’s been around for decades isn’t a problem in itself, look at Windows, for example. It’s been with us since 1985, and yet nobody in their right mind would call it a “legacy system” in the pejorative sense. Why? Because it’s continually updated, maintained, and improved. The friction is managed, the rough edges are sanded down, and the system evolves.

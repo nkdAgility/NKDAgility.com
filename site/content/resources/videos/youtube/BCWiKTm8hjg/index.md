@@ -1,6 +1,6 @@
 ---
-title: "The Power of Charity in Agile: How Helping Others Elevates Teams and Organizations"
-short_title: "Charity in Agile: Elevating Teams and Organizations"
+title: 'The Power of Charity in Agile: How Helping Others Elevates Teams and Organizations'
+short_title: 'Charity in Agile: Elevating Teams and Organizations'
 description: Explores how practising charity, helping others without expecting rewards, strengthens Agile teams, boosts collaboration, and drives organisational success and motivation.
 tldr: Charity, or helping others without expecting anything in return, is a key driver of Agile team and organizational success because it builds trust, collaboration, and a shared sense of purpose. Encouraging this behavior leads to higher motivation, better product quality, and long-term growth. Development managers should actively foster a culture of giving and collective achievement to unlock these benefits.
 date: 2023-12-06T07:00:08Z
@@ -50,8 +50,8 @@ duration: 162
 resourceTypes:
   - video
 isShort: false
----
 
+---
 One of the key virtues in Agile is **charity**, the act of helping others without expecting anything in return. This often goes unnoticed, yet it plays a crucial role in the success of teams, products, and organizations. As someone who has witnessed the transformative power of this virtue firsthand, I believe it’s time we shine a spotlight on how charity manifests in Agile environments and why it’s essential to embrace it fully.
 
 ---

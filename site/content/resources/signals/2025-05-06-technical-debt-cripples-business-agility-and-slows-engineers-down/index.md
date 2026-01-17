@@ -45,8 +45,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:48Z
 ResourceId: 4kBTeJ1TmsW
 ResourceType: signals
----
 
+---
 Technical debt doesn’t just slow engineers down, it cripples business agility.
 
 When software becomes too fragile to change quickly, every product decision takes longer. Every market opportunity is harder to seize. And suddenly, you're not competing on innovation anymore, you’re just trying to keep up.

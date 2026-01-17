@@ -1,5 +1,5 @@
 ---
-title: "Unlocking the Power of Assumptions in Product Development: Why the PPDV Course is a Game-Changer"
+title: 'Unlocking the Power of Assumptions in Product Development: Why the PPDV Course is a Game-Changer'
 short_title: Unlocking the Power of Assumptions in Product Development
 description: Learn to identify, challenge, and validate assumptions in product development, avoid the “Feature Factory” trap, and build products that truly meet user needs.
 tldr: The PPDV course helps product teams avoid the common pitfall of building features without understanding real user needs by teaching them to identify and challenge assumptions throughout the product development process. It emphasizes a cycle of discovery, delivery, and validation, encouraging evidence-based decisions and continuous learning. Development managers should consider this course to shift their teams from a feature factory mindset to one focused on delivering real value.
@@ -52,8 +52,8 @@ duration: 355
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ## **Why the PPDV Course Was Created**
 
 In the fast-paced world of [product development]({{< ref "/categories/product-development" >}}), there’s a strong emphasis on delivery. Teams are often laser-focused on producing product increments at the end of every sprint. However, this approach, while essential, is not enough. **Why?** Because we’re not just delivering products; we’re solving complex problems.

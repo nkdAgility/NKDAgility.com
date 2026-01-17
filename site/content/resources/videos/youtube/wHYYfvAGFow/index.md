@@ -29,7 +29,8 @@ layout: video
 concepts: []
 categories:
   - Uncategorized
-tags: []
+tags:
+  - Predictive Operating Model
 Watermarks:
   description: 2025-05-07T13:14:00Z
   short_title: 2025-07-07T17:56:41Z

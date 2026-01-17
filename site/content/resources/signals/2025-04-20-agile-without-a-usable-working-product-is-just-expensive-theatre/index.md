@@ -50,8 +50,8 @@ Watermarks:
   tldr: 2025-08-07T12:33:24Z
 ResourceId: CBIAsEX7a86
 ResourceType: signals
----
 
+---
 Agile without a usable working product is just expensive theatre.
 
 Yet, so many teams get lost in rituals, Jira tickets, and endless documentation, completely missing the point. Agile is about delivering value continuously, not accumulating unfinished work, endless “technical discussions,” or chasing vanity metrics.

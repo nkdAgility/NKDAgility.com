@@ -1,5 +1,5 @@
 ---
-title: "Stop Paying the Hidden Costs of Weak Delivery: Why a Strong Definition of Done Transforms Your Team’s Results"
+title: 'Stop Paying the Hidden Costs of Weak Delivery: Why a Strong Definition of Done Transforms Your Team’s Results'
 short_title: Hidden Costs of Weak Delivery & Definition of Done
 description: Stop paying the hidden costs of weak delivery. Discover how a strong, shared definition of done builds trust, quality, and real agility in your team.
 tldr: Cutting corners on quality and having a weak definition of done leads to hidden costs like rework, production risks, and lost trust. A clear, shared, and enforceable definition of done ensures every increment is truly usable, reliable, and aligned with business goals. Make your definition of done visible, evidence-based, and strictly enforced to improve delivery outcomes and build stakeholder confidence.
@@ -64,8 +64,8 @@ resourceTypes:
 isShort: true
 ResourceId: xxdg6WPNcDc
 ResourceType: videos
----
 
+---
 Every shortcut adds to your technical debt. I see it time and again: teams under pressure, deadlines looming, and the temptation to cut corners becomes almost irresistible. But let me be clear, every time you skip quality standards, every time you fudge what “done” means, you’re not saving time. You’re simply deferring the pain. You’re creating future rework, and that bill always comes due.
 
 A weak definition of done is a silent saboteur. It lulls us into a false sense of progress. When your “done” is ambiguous, your increment isn’t truly usable. It’s not just about a feature being present; it’s about it being reliable, maintainable, and genuinely valuable. A weak definition of done means:

@@ -4,6 +4,7 @@ short_title: Seamless DevOps Migration
 description: Modernise legacy infrastructure with confidence. Move to automated, secure delivery systems that improve flow, reduce risk, and enable faster innovation without business disruption.
 tldr: Migrating to modern DevOps infrastructure creates the conditions for faster, safer change while delivery continues. Success depends on technical depth, phased evolution of your delivery system, and embedding automation, security, and observability from the start—not treating them as separate initiatives.
 date: 2025-06-03
+weight: 765
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -27,7 +28,7 @@ sections:
     type: content
   - type: outcomehero
     cta:
-      content: "**Migration is strategic capability, not project risk.** Gain clarity, reduce friction, and modernise with confidence."
+      content: '**Migration is strategic capability, not project risk.** Gain clarity, reduce friction, and modernise with confidence.'
       button:
         text: Explore migration support
         url: /company/book-online
@@ -93,21 +94,21 @@ sections:
   - type: outcomeboxes
     title: Migration creates the conditions for
     boxes:
-      - box:
+      - box: 
         items:
           - title: Move from legacy systems to automated infrastructure
           - title: Reduce migration downtime and business disruption
           - title: Embed security, observability, and testing from day one
           - title: Enable CI/CD, infrastructure as code, and reliable deployments
           - title: Improve deployment frequency and reduce change failure rate
-      - box:
+      - box: 
         items:
           - title: Gain clarity in complex technical transitions
           - title: Reduce anxiety and increase confidence in technical strategy
           - title: Create the conditions for safer, faster change
           - title: Build internal capability that outlasts the migration
           - title: Innovate without losing control
-      - box:
+      - box: 
         items:
           - title: Lead confidently through technical transformation
           - title: Speak with authority to executives and stakeholders
@@ -154,4 +155,6 @@ creator: Martin Hinshelwood
 icon: fa-cloud-upload-alt
 ResourceId: 3ZsP7HmazPs
 ResourceType: outcomes
+
 ---
+

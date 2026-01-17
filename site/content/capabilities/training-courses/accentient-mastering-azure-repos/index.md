@@ -4,7 +4,7 @@ short_title: Mastering Azure Repos Training
 description: Learn to configure and use Azure Repos for Git version control, collaborate with branching and pull requests, and integrate with Visual Studio and GitHub in Azure DevOps.
 tldr: This one-day intermediate course teaches developers how to configure and use Azure Repos for Git version control, focusing on collaboration, code quality, and integration with Visual Studio tools. Participants will learn core Git workflows, advanced Azure Repos features, and best practices for team collaboration. Consider enrolling your team to improve version control skills and streamline development processes in Azure DevOps.
 date: 2020-08-31
-weight: 600
+weight: 445
 sitemap:
   filename: sitemap.xml
   priority: 0.8

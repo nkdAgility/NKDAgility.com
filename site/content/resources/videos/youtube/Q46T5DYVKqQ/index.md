@@ -1,5 +1,5 @@
 ---
-title: "Harnessing the Power of Empiricism: Transform Your Decision-Making with Data-Driven Insights"
+title: 'Harnessing the Power of Empiricism: Transform Your Decision-Making with Data-Driven Insights'
 short_title: Data-Driven Decision Making with Empiricism
 description: Learn how using empirical, data-driven methods can improve decision-making, foster continuous improvement, and build trust through transparent, evidence-based actions.
 tldr: Using data to guide decisions helps teams make better choices, improve continuously, and build trust with stakeholders. The key is to ensure access to relevant data, act deliberately, and monitor results in a cycle of experimentation and learning. Development managers should foster a culture where decisions are based on evidence, not assumptions, and regularly review outcomes to adapt and improve.
@@ -55,8 +55,8 @@ duration: 54
 resourceTypes:
   - video
 isShort: true
----
 
+---
 Empiricism is an interesting beast, isn’t it? At its core, empiricism is the idea that all knowledge stems from observable data. This principle is the foundation of science, and it has found a comfortable home within the agile way of working, as well as in various other business methodologies.
 
 In my experience, embracing empiricism can transform how we approach our work. Here’s how I see it:

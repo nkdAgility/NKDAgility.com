@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Greatness: How the Right Scrum Master Transforms Teams and Organisations"
+title: 'Unlocking Greatness: How the Right Scrum Master Transforms Teams and Organisations'
 short_title: How the Right Scrum Master Transforms Teams
 description: Explores how an effective Scrum Master drives team success by fostering team fit, addressing organisational barriers, and building relationships to enable lasting change.
 tldr: A great Scrum Master is defined by their fit with the team and their ability to build trust, which is best achieved when teams help select their own Scrum Master. Beyond supporting the team, the most effective Scrum Masters build relationships across the organisation to identify and address broader obstacles, empowering others to drive change. Development managers should involve teams in Scrum Master selection and support their efforts to connect with stakeholders for greater organisational impact.
@@ -57,8 +57,8 @@ duration: 237
 resourceTypes:
   - video
 isShort: false
----
 
+---
 When it comes to defining what makes a truly great [Scrum]({{< ref "/categories/scrum" >}}) Master, I find myself grappling with a rather complex question. The answer is not straightforward; it’s deeply circumstantial. The effectiveness of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) can vary significantly depending on the organisation and the team dynamics. You might have an individual who excels in one environment but struggles in another simply because the fit isn’t right.
 
 ### The Importance of Team Fit

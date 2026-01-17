@@ -57,8 +57,8 @@ duration: 41
 resourceTypes:
   - video
 isShort: true
----
 
+---
 **Is a [scrum]({{< ref "/categories/scrum" >}}) master an agile micromanager?**
 
 Today, let's tackle a common misconception in the Agile world that crops up often:  is a [Scrum Master]({{< ref "/tags/scrum-master" >}}) an Agile micromanager? 🤔

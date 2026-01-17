@@ -1,5 +1,5 @@
 ---
-title: "The Pitfalls of Agile Burndowns: Stop Being Agile Bandits"
+title: 'The Pitfalls of Agile Burndowns: Stop Being Agile Bandits'
 short_title: Pitfalls of Agile Burndown Charts
 description: Explains why relying on Agile burndown charts leads to over-planning and false progress, and advocates for minimal, adaptive planning and continuous value delivery.
 tldr: Relying on burndown charts leads to excessive upfront planning, false confidence, and wasted effort, as most plans quickly become outdated and only a fraction of features are actually used. Instead, focus on minimal, just-in-time planning and continuous flow to adapt quickly, reduce overhead, and deliver real value. Encourage your teams to plan only what is needed for the next day, adjust daily, and prioritize delivering value over maintaining detailed charts.
@@ -43,6 +43,7 @@ tags:
   - Agile Values and Principles
   - Continuous Improvement
   - Market Adaptability
+  - Adaptive Operating Model
 Watermarks:
   description: 2025-05-07T13:06:31Z
   short_title: 2025-07-07T17:50:21Z
@@ -57,8 +58,8 @@ duration: 46
 resourceTypes:
   - video
 isShort: true
----
 
+---
 Agile teams often use burndown charts to track progress throughout a sprint. It seems like a solid approach, after all, it’s a visual indicator of how much work remains. But let me be clear: **burndowns are Agile banditry**! In fact, relying too heavily on burndowns could lead your team down a treacherous path of excessive upfront planning and false security. Let’s explore why burndowns aren’t the hero of Agile, and how embracing a continuous flow mindset can lead to real value.
 
 ## **The Reality of [Agile Planning]({{< ref "/tags/agile-planning" >}})**

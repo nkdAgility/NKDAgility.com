@@ -1,5 +1,5 @@
 ---
-title: "Empowering Agile Teams: The Critical Role of User Feedback in Requirement Changes"
+title: 'Empowering Agile Teams: The Critical Role of User Feedback in Requirement Changes'
 short_title: Empowering Agile Teams with User Feedback
 description: Explains how empowering Agile teams to act on user feedback enables rapid requirement changes, improves product relevance, and overcomes barriers like rigid contracts.
 tldr: Empowering teams to change requirements based on real user feedback is essential for true agility, yet many organizations are held back by rigid contracts, complex change processes, and lack of team autonomy. Teams must be able to quickly adapt, discard outdated features, and act on feedback to keep products relevant and valuable. Development managers should streamline change processes, build flexibility into contracts, and foster a culture of trust so teams can respond rapidly to evolving business needs.
@@ -63,8 +63,8 @@ duration: 412
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the world of Agile, the ability to adapt and evolve based on real-time user feedback is a cornerstone of success. Yet, many organizations miss the mark when it comes to empowering their teams to make meaningful changes to requirements based on this feedback. In this post, we'll explore why this is a crucial aspect of Agile that often gets overlooked, and how you can ensure your teams are truly Agile by enabling them to close feedback loops and adjust requirements as needed.
 
 ## **The Missing Piece in Agile Organizations**

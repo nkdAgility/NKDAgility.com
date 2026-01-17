@@ -1,5 +1,5 @@
 ---
-title: "Where Agile Went Wrong: Understanding the Competence Crisis"
+title: 'Where Agile Went Wrong: Understanding the Competence Crisis'
 short_title: Agile’s Competence Crisis and Skills Gap
 description: Explores how early assumptions about competence led to Agile’s current skills gap, highlighting the need for continuous learning, better hiring, and deeper expertise in teams.
 tldr: Agile has struggled because its founders assumed widespread competence and commitment to continuous learning, but most organizations lack enough skilled practitioners, especially in key roles like Scrum Master. This competence gap is worsened by low hiring standards and overreliance on basic certifications, leading to ineffective teams and missed opportunities for improvement. Development managers should prioritize hiring and promoting individuals with proven learning habits, deep contextual understanding, and advanced expertise to build high-performing Agile teams.
@@ -59,8 +59,8 @@ resourceTypes:
 isShort: false
 ResourceId: txN41c6znbE
 ResourceType: videos
----
 
+---
 Agile was supposed to revolutionize the way we build and deliver products, but it veered off track surprisingly early. The seeds of these challenges were planted during the creation of the Agile Manifesto itself. At Snowbird, a group of experienced and capable practitioners crafted a vision for agility in [software development]({{< ref "/tags/software-development" >}}). However, they made some assumptions that have come to haunt us.
 
 Let’s dive into where these assumptions came from, how they shaped Agile’s early days, and why today’s landscape demands a more rigorous focus on [competence]({{< ref "/tags/competence" >}}) and [continuous learning]({{< ref "/tags/continuous-learning" >}}). 🌱

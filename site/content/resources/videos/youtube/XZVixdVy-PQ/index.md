@@ -1,6 +1,6 @@
 ---
-title: "Redefining Agile’s Core: Beyond Rituals and Procedures"
-short_title: "Agile Beyond Rituals: Focus on Outcomes"
+title: 'Redefining Agile’s Core: Beyond Rituals and Procedures'
+short_title: 'Agile Beyond Rituals: Focus on Outcomes'
 description: Explores how Agile’s true value lies in delivering outcomes and adapting to change, not just following rituals or procedures, and highlights the need for human judgement in complex systems.
 tldr: Agile is not about following rituals or procedures but about delivering value and adapting to change to maximize business outcomes. Teams that focus only on rituals risk losing sight of continuous improvement and ownership, while over-automation can miss the need for human judgment in complex situations. Development managers should prioritize outcomes, encourage critical thinking about processes, and adapt Agile practices to their unique context rather than just checking boxes.
 date: 2024-01-22T07:00:11Z
@@ -56,8 +56,8 @@ duration: 223
 resourceTypes:
   - video
 isShort: false
----
 
+---
 There’s a quote from Ken Schwaber, one of the co-creators of [Scrum]({{< ref "/categories/scrum" >}}), that goes:
 
 “Agile is not about rituals; it’s about developing software in a different way.”

@@ -1,6 +1,6 @@
 ---
 title: "Mastering Scrum: Essential Insights for New Teams from a Scrum Master's Journey"
-short_title: "Mastering Scrum: Insights for New Teams"
+short_title: 'Mastering Scrum: Insights for New Teams'
 description: Guidance for new Scrum teams on building strong foundations, embracing empiricism, Scrum values, continuous learning, and the Scrum Master's role in fostering team growth.
 tldr: New Scrum teams succeed when they deeply understand Scrum principles, empiricism, and core values, which the Scrum Master should actively teach and reinforce. Practical workshops, real-world examples, and a focus on continuous learning help teams build trust, adapt to change, and improve over time. Development managers should ensure their teams have ongoing support and a safe environment to foster growth and agility.
 date: 2023-11-28T11:00:49Z
@@ -62,8 +62,8 @@ duration: 30
 resourceTypes:
   - video
 isShort: true
----
 
+---
 As I reflect on my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself returning to the foundational elements that are crucial for any new [Scrum team]({{< ref "/tags/scrum-team" >}}). When a team is just starting out, it’s essential to recognise that their understanding of Scrum, empiricism, and the [Scrum values]({{< ref "/tags/scrum-values" >}}) will significantly influence their effectiveness.
 
 ### The Role of the [Scrum Master]({{< ref "/tags/scrum-master" >}})

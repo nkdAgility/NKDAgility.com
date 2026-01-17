@@ -1,5 +1,5 @@
 ---
-title: "Human and AI Agency in Adaptive Systems: Strategy Before Optimisation"
+title: 'Human and AI Agency in Adaptive Systems: Strategy Before Optimisation'
 short_title: Human vs AI Agency in Adaptive Systems
 description: Explores the distinct roles of human and AI agency in adaptive systems, emphasising human-led strategy and accountability versus AI-driven tactical optimisation.
 tldr: Human decision-making is essential for setting strategy, purpose, and adapting to change, while AI should be used for tactical optimisation within clear human-defined boundaries. Over-relying on AI for adaptation leads to fragile systems, loss of accountability, and strategic obsolescence. Development managers should ensure humans remain responsible for strategic direction and adaptation, using AI only to optimise within those parameters.
@@ -32,6 +32,7 @@ tags:
   - Strategic Goals
   - Complexity Thinking
   - Agentic Engineering
+  - Adaptive Operating Model
   - Pragmatic Thinking
   - Decision Making
 Watermarks:
@@ -41,8 +42,8 @@ Watermarks:
 mermaid: true
 ResourceId: ffJaR9AaTl7
 ResourceType: blog
----
 
+---
 Human agency is not optional in adaptive systems. It is not something to "blend" with AI or to automate away. It is the only thing that defines strategy, sets purpose, and drives meaningful adaptation. AI has a role, but that role is tactical optimisation within boundaries defined by humans.
 
 Treating these two forms of agency as equivalent is not just careless; it is dangerous. It leads to brittle systems that optimise yesterday’s decisions while failing to recognise when the game has changed.

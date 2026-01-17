@@ -1,5 +1,5 @@
 ---
-title: "Navigating the Unpredictability of Software Development: Embrace Agile for Success"
+title: 'Navigating the Unpredictability of Software Development: Embrace Agile for Success'
 short_title: Navigating Software Unpredictability with Agile
 description: Explores how Agile principles, technical leadership, and engineering excellence help teams manage unpredictability, adapt to change, and deliver quality software projects.
 tldr: Software development is inherently unpredictable, often leading to missed deadlines and budget overruns, but this can be managed by focusing on strong technical leadership and engineering excellence. Relying on a single best practice is a mistake; instead, adopting Agile principles like iterative development, continuous delivery, feedback, and testing helps teams adapt and deliver value. Development managers should foster these capabilities to navigate complexity and drive better project outcomes.
@@ -49,8 +49,8 @@ resourceTypes:
 isShort: false
 ResourceId: h3J11t10A0g
 ResourceType: videos
----
 
+---
 In my experience working with various organisations, one of the most prevalent issues I encounter is the struggle with missed deadlines and budget overruns in software projects. It’s a challenge that seems to plague many, and it often feels like you’re holding onto a bag that’s slowly melting away, spilling its contents all over the street. This unpredictability is a fundamental reality of navigating complexity in [software development]({{< ref "/tags/software-development" >}}).
 
 ### Understanding Complexity in Software Development

@@ -1,5 +1,5 @@
 ---
-title: "Stop Testing Quality In: How Shifting Left Builds Better Software, Faster"
+title: 'Stop Testing Quality In: How Shifting Left Builds Better Software, Faster'
 short_title: Building Quality In with TDD and Automation
 description: Stop testing quality in, start building it in. Learn how shifting left, automation, and fast feedback loops drive engineering excellence in modern teams.
 tldr: Relying on testers to catch issues late in the process increases costs, slows feedback, and undermines product trust; instead, quality should be built in from the start by moving tests and feedback as close to the engineer as possible. Key practices include automating builds and tests, adopting continuous integration and delivery, using test-driven development, and incrementally improving code quality. Development managers should focus on empowering engineers to own quality, relentlessly shortening feedback loops, and making incremental improvements to achieve faster, more reliable releases.
@@ -59,8 +59,8 @@ resourceTypes:
 isShort: false
 ResourceId: Ny4mMLZX4UE
 ResourceType: videos
----
 
+---
 In my experience working with organisations of all shapes and sizes, I see a recurring pattern that undermines engineering excellence: teams are still testing quality in, rather than building it in from the start. This isn’t just a technical quirk, it’s a fundamental flaw that ripples through your entire delivery process, inflating costs, slowing feedback, and eroding trust in your product.
 
 Let’s be clear: when you rely on testers to catch issues after the fact, you’re effectively giving engineers permission to say, “It’s fine, QA will catch it.” But the further a defect travels from the engineer’s keyboard, the more expensive and disruptive it becomes to fix. Finding a bug in production is the worst-case scenario, but even waiting until QA validation, after code has already polluted your main branch, means you’re introducing unnecessary friction and risk.

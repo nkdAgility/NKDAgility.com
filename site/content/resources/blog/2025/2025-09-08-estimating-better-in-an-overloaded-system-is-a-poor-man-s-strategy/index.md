@@ -45,8 +45,8 @@ Watermarks:
   tldr: 2025-07-30T23:12:31Z
 ResourceId: 9asj2UApmVM
 ResourceType: blog
----
 
+---
 Just a regular reminder that predictability and the accuracy of any estimate deteriorate rapidly as you increase the amount of Work in Progress (WIP) in the system. And yet, most teams still try to compensate for unpredictability by estimating better, rather than addressing the actual problem: the system is overloaded and cannot flow.
 
 This isn’t a theoretical issue. It’s not about mindset. It’s a systemic constraint. The more you load a delivery system, the slower and more unpredictable it becomes. The more you try to force progress by starting new work, the less likely it is that anything will finish.

@@ -1,5 +1,5 @@
 ---
-title: "From Firefighting to Focus: How CTOs Can Lead with Clarity Instead of Chasing the Next Big Thing"
+title: 'From Firefighting to Focus: How CTOs Can Lead with Clarity Instead of Chasing the Next Big Thing'
 short_title: Sustainable Tech Strategy for CTOs
 description: Stop chasing tech hype. Discover how CTOs can cut through noise, build real strategy, and lead with clarity, no more firefighting, just sustainable progress.
 tldr: CTOs should stop chasing every new technology and instead focus on making their systems and decision-making processes visible to identify real improvement opportunities. Effective leadership means building a clear, context-driven strategy and fostering sustainable innovation by investing in team learning and system evolution. Take action by stepping back from survival mode, clarifying how work happens, and leading with intention for long-term value.
@@ -32,6 +32,7 @@ tags:
   - Continuous Improvement
   - Pragmatic Thinking
   - Strategic Goals
+  - Adaptive Operating Model
   - Software Development
   - Sensemaking
   - Social Technologies
@@ -49,8 +50,8 @@ resourceTypes:
 isShort: false
 ResourceId: 8zfmAp6Ljwk
 ResourceType: videos
----
 
+---
 Chasing every new tool isn’t strategy, it’s survival mode. And yet, I see this pattern time and again with CTOs and technology leaders: one eye glued to the roadmap, the other darting between LinkedIn, vendor pitches, and the latest conference decks, all in a desperate attempt not to miss the next big thing. It’s exhausting, and frankly, it’s not leadership. It’s firefighting.
 
 Let’s be honest: technology isn’t slowing down for anyone. Every month, there’s a shiny new framework, a hyped-up AI model, or the latest architectural fad. Your teams are looking to you for direction. Your executives are demanding results. The pressure is relentless. So, how do you cut through the noise and lead with confidence?

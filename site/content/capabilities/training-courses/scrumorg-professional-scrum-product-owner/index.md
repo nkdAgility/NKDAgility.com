@@ -31,9 +31,7 @@ categories:
 tags:
   - Product Owner
   - Agile Frameworks
-  - Agile Planning
   - Agile Product Management
-  - Agile Strategy
   - Agile Transformation
   - Business Agility
   - Continuous Learning
@@ -41,9 +39,9 @@ tags:
   - Organisational Agility
   - Pragmatic Thinking
   - Product Delivery
-  - Professional Scrum
   - Scrum Team
   - Software Development
+  - Value Delivery
 card:
   title: Professional Scrum Product Owner
   content: Our Professional Scrum Product Owner course helps students master the Product Owner role with real-world scenarios and practical exercises, enabling participants to drive product success using Agile principles and Scrum.
@@ -106,7 +104,7 @@ objectives: |
   - Track value creation with meaningful metrics.
   - Engage stakeholders, customers, and team members effectively.
 previewIcon: PSPO-400x.png
-brandColour: "#749335"
+brandColour: '#749335'
 prerequisites: |
   Participants will benefit most from the course if they:
   - Have studied the [Scrum Guide](https://www.scrumguides.org/).
@@ -119,11 +117,11 @@ audience:
     - capabilities/training-courses/audiences/product-owners.md
 trainers:
   - /company/people/martin-hinshelwood/
-roadmap:
+roadmap: 
 ResourceId: PSPO
 ResourceType: course
----
 
+---
 # Professional Scrum Product Owner (PSPO) Course Datasheet
 
 **Course Code:** PSPO

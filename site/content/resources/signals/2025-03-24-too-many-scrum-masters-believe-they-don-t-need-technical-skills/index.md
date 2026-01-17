@@ -44,8 +44,8 @@ Watermarks:
   tldr: 2025-08-07T12:34:27Z
 ResourceId: q_OupO_abR_
 ResourceType: signals
----
 
+---
 Too many Scrum Masters believe they don’t need technical skills. The Scrum Guide doesn’t explicitly say they do, but let’s be real.
 
 If a Scrum Team is building software, a Scrum Master who doesn’t understand Test-Driven Development, Continuous Delivery, and DevOps is out of their depth. If the team is in finance, the Scrum Master should grasp financial modelling and compliance. If it’s an industrial design team, they should understand prototyping and material constraints.

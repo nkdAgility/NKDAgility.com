@@ -36,6 +36,7 @@ tags:
   - Agile Transformation
   - Organisational Agility
   - Change Management
+  - Adaptive Operating Model
   - Agile Philosophy
   - Agile Strategy
   - Pragmatic Thinking

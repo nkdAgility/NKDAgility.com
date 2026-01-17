@@ -52,8 +52,8 @@ duration: 353
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In my opinion, it’s the whole ball game.
 
 <figure>

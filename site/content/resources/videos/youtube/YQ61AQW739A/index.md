@@ -1,6 +1,6 @@
 ---
-title: "From Legacy Pain to Modern DevOps: My Proven Roadmap for Real Engineering Transformation"
-short_title: "Transition Roadmap: Legacy to Modern Systems"
+title: 'From Legacy Pain to Modern DevOps: My Proven Roadmap for Real Engineering Transformation'
+short_title: 'Transition Roadmap: Legacy to Modern Systems'
 description: Transform legacy engineering with a proven, step-by-step approach, learn how to automate, adapt, and build a resilient, modern DevOps culture.
 tldr: Transforming legacy engineering to modern DevOps requires a flexible, evidence-based approach focused on testing hypotheses, starting with the most challenging products, and automating every step from code commit to production. Involve all stakeholders to define essential requirements, automate approvals and deployments, and use phased rollouts with real-time feedback to minimize risk. Focus on one improvement at a time, build a culture of continuous learning, and scale successful practices across the organization.
 date: 2025-08-04T07:00:00Z
@@ -43,8 +43,8 @@ tags:
   - Product Delivery
   - Application Lifecycle Management
   - Organisational Change
+  - Adaptive Operating Model
   - Digital Transformation
-  - Metrics and Learning
 Watermarks:
   description: 2025-07-24T15:10:36Z
   short_title: 2025-07-24T15:10:37Z
@@ -59,8 +59,8 @@ resourceTypes:
 isShort: false
 ResourceId: YQ61AQW739A
 ResourceType: videos
----
 
+---
 Building a Roadmap from Legacy to Modern Engineering: My Approach
 
 When I’m asked how to move from legacy engineering practices or products to something modern, something that embodies engineering excellence, I have to admit, there’s no neat, one-size-fits-all answer. It’s not a simple checklist or a Gantt chart you can pin to the wall. Changing culture and systems is more art than science. But that doesn’t mean we abandon science altogether. Quite the opposite: we bring in data, telemetry, and evidence-based approaches to guide our journey.

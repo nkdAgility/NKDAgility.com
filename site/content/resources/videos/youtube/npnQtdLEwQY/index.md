@@ -1,5 +1,5 @@
 ---
-title: "Navigating Technical Debt: How to Transform Challenges into Opportunities for Quality and Efficiency"
+title: 'Navigating Technical Debt: How to Transform Challenges into Opportunities for Quality and Efficiency'
 short_title: Navigating Technical Debt for Quality & Efficiency
 description: Explains how managing technical debt and distinguishing it from poor quality can boost product efficiency, reduce costs, and support sustainable software development.
 tldr: Technical debt is the cost of future rework from prioritising speed over good design, and it is distinct from poor quality, which often causes bigger productivity losses. Long release cycles and mislabeling poor quality as technical debt can lead to unsustainable practices and higher costs. Development managers should set clear quality standards, encourage regular refactoring, and adopt continuous improvement to reduce technical debt, improve efficiency, and deliver better products.
@@ -52,8 +52,8 @@ resourceTypes:
 isShort: false
 ResourceId: npnQtdLEwQY
 ResourceType: videos
----
 
+---
 [Technical debt]({{< ref "/tags/technical-debt" >}}) is a term that often gets thrown around in our industry, but I want to clarify what it really means and how it impacts our products and processes. From my experience, technical debt is not just a buzzword; it represents a significant cost that can accumulate over time if not managed properly.
 
 ### Understanding Technical Debt

@@ -4,7 +4,7 @@ short_title: Github Migration Services
 description: Move from Azure DevOps or TFS to GitHub with full history preservation, workflow modernisation, and team capability building. Migration services that improve how you ship, not just where.
 tldr: Migrating from Azure DevOps or TFS to GitHub enables better integration with modern tooling, enhanced security, and clearer delivery visibility. Services focus on complete history preservation, workflow transformation to GitHub Actions, and building team capability for GitHub-native development whilst maintaining delivery continuity.
 date: 2025-07-20
-weight: 300
+weight: 735
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -56,21 +56,21 @@ sections:
     content: |
       Migration services cover the technical transformation and the organisational capability needed to ship effectively on GitHub.
     boxes:
-      - box:
+      - box: 
         title: Platform Migration
         items:
           - title: TFS or Azure DevOps Server to GitHub repository migration
           - title: Complete history and metadata preservation
           - title: Repository structure transformation for GitHub patterns
           - title: Security and access control configuration
-      - box:
+      - box: 
         title: Workflow Modernisation
         items:
           - title: Classic pipeline analysis and conversion strategy
           - title: GitHub Actions workflow design and implementation
           - title: CI/CD modernisation aligned to current practice
           - title: Integration with GitHub security and compliance features
-      - box:
+      - box: 
         title: Team Enablement
         items:
           - title: GitHub workflow and collaboration patterns
@@ -174,4 +174,6 @@ menus:
 icon: fa-cloud-arrow-up
 ResourceId: 6NS_E7j1pRu
 ResourceType: capabilities
+
 ---
+

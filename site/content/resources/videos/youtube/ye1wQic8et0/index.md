@@ -1,5 +1,5 @@
 ---
-title: "Cutting Through the Red Tape: How Eliminating Committees Can Boost Your Time to Market"
+title: 'Cutting Through the Red Tape: How Eliminating Committees Can Boost Your Time to Market'
 short_title: Eliminating Committees to Speed Time to Market
 description: Explores how committees can delay decision-making, reduce agility, and increase time to market, highlighting the benefits of empowering teams and streamlining processes.
 tldr: Committees often slow down decision-making and stall teams, leading to missed business opportunities and delayed time to market. Empowering teams to make decisions and adopting modern collaboration tools can significantly improve speed, accountability, and innovation. Review your current processes and consider reducing committee involvement to stay competitive and agile.
@@ -51,8 +51,8 @@ duration: 408
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the world of agile methodologies, one question that often arises is whether removing committees can significantly reduce [time to market]({{< ref "/tags/time-to-market" >}}). Some claim that this can lead to a reduction of up to 50%. But is that really true? My experience suggests that while the figure may be exaggerated, the impact of committees on decision-making and agility is profound.
 
 ### The Myth of the 50% Reduction

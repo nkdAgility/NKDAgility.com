@@ -4,7 +4,7 @@ short_title: Clarity in Technology Roadmaps
 description: You gain strategic confidence in technical direction. Investment decisions become defensible. Architecture, systems, and teams align towards coherent growth without friction or second-guessing.
 tldr: Strategic clarity transforms how you lead technology. You make confident long-term decisions, eliminate reactive drift, and align your organisation around a coherent technical direction that enables sustainable growth and innovation.
 date: 2025-06-04
-weight: 500
+weight: 780
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -91,7 +91,7 @@ sections:
   - type: outcomeboxes
     title: The Improved Condition You Experience
     boxes:
-      - box:
+      - box: 
         title: Strategic Confidence
         items:
           - title: Your technical direction is clear and defensible
@@ -99,7 +99,7 @@ sections:
           - title: Architecture decisions align with business intent
           - title: System complexity becomes manageable
           - title: Departmental understanding is shared and cohesive
-      - box:
+      - box: 
         title: Operational Stability
         items:
           - title: Anxiety from strategic ambiguity dissolves
@@ -107,7 +107,7 @@ sections:
           - title: Your decisions withstand scrutiny
           - title: System evolution feels controlled and purposeful
           - title: Energy returns as clarity replaces chaos
-      - box:
+      - box: 
         title: Leadership Authority
         items:
           - title: Executive conversations feel confident and grounded
@@ -170,4 +170,6 @@ creator: Martin Hinshelwood
 icon: fa-map-signs
 ResourceId: wTrT0eqFtmY
 ResourceType: outcomes
+
 ---
+

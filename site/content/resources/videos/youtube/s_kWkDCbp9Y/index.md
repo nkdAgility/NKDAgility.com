@@ -1,5 +1,5 @@
 ---
-title: "The Key to Being an Effective Agile Coach: Understanding the Team’s Context"
+title: 'The Key to Being an Effective Agile Coach: Understanding the Team’s Context'
 short_title: Effective Agile Coaching Through Team Context
 description: Effective Agile coaching relies on understanding your team's unique context and domain, enabling tailored guidance, empathy, and practical solutions for real-world challenges.
 tldr: Effective Agile coaching requires understanding your team's specific work and context, not just Agile frameworks. Coaches with domain experience or those who actively learn about their team's challenges can offer more relevant, practical advice and build trust. Development managers should ensure their coaches engage deeply with teams' day-to-day realities to maximize impact.
@@ -48,8 +48,8 @@ duration: 69
 resourceTypes:
   - video
 isShort: false
----
 
+---
 Becoming an Agile coach isn’t just about knowing Agile practices. It’s about understanding the context in which your team operates and having the experience to back it up. In this post, I’ll explore why having domain knowledge is essential for Agile coaches, how it impacts your effectiveness, and what you can do to deepen your understanding. Let's dive into it! 🚀
 
 ## Why Domain Knowledge Matters for Agile Coaches

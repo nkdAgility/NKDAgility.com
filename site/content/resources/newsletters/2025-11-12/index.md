@@ -1,5 +1,5 @@
 ---
-title: "Engineering Excellence: The Quiet Discipline Behind Great Teams"
+title: 'Engineering Excellence: The Quiet Discipline Behind Great Teams'
 short_title: The Quiet Discipline Behind Great Team
 description: A weekly one-hour mentorship for engineering teams to improve code quality, delivery predictability, and team culture through practical, system-focused coaching.
 tldr: Engineering Excellence Mentorship offers a practical, one-hour-a-week program that helps teams fix systemic issues affecting delivery, quality, and burnout by improving engineering practices within real work. Teams see measurable results like faster, safer releases, reduced cycle times, and higher engagement within months. Book a session to quickly diagnose blockers and start building sustainable improvement without adding more frameworks or meetings.
@@ -47,8 +47,8 @@ Watermarks:
   short_title: 2025-11-10T10:29:21Z
 ResourceId: UNwJYTj5fV1
 ResourceType: newsletters
----
 
+---
 ## Why Engineering Matters More Than Methodology
 
 When teams struggle to ship reliably or sustain quality, the instinct is to reach for a new framework or management model. But **engineering excellence isn’t a process problem, it’s a system problem**. Poor flow, brittle architecture, and invisible feedback loops can’t be fixed by reorganising teams or renaming roles.

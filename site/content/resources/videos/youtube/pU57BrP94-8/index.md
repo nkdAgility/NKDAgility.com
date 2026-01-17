@@ -46,8 +46,8 @@ duration: 133
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning
 
 In my many years in the Agile landscape, I've keenly observed and deeply felt the power of immersive learning.  🚀 

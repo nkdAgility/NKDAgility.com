@@ -1,5 +1,5 @@
 ---
-title: "SkyDrive: 25 GB of free online storage"
+title: 'SkyDrive: 25 GB of free online storage'
 description: Get 25GB of free online storage with SkyDrive, integrated with Windows Live services for easy file sharing, photo management, and contact connectivity.
 date: 2008-12-04
 lastmod: 2008-12-04
@@ -34,8 +34,8 @@ ResourceImportId: 157
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 [![SkyDrive25](images/SkyDrive25GBoffreeonlinestorage_7F5A-SkyDrive25_3-6-6.png)](http://skydrive.live.com)
 { .post-img }
 

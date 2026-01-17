@@ -1,5 +1,5 @@
 ---
-title: "Stop Chasing the Hottest Tech Stack: Why Context-Driven Choices Win Every Time"
+title: 'Stop Chasing the Hottest Tech Stack: Why Context-Driven Choices Win Every Time'
 short_title: Avoiding the Trap of the Cool Stack
 description: Stop chasing hype. Discover why context-driven tech choices, not the latest stack, lead to real, sustainable value for your team and business.
 tldr: Choosing technology based on trends rather than your team’s needs often leads to wasted effort and complexity. Focus on your business goals, team maturity, and constraints to shape a tech strategy that truly fits. Prioritise what delivers value for your context instead of chasing the latest tools.
@@ -44,8 +44,8 @@ resourceTypes:
 isShort: false
 ResourceId: cj1LXrHHmlw
 ResourceType: videos
----
 
+---
 Everywhere I look these days, conferences, job boards, blog posts, there’s a relentless drumbeat for the “hottest stack.” It’s as if the only way to be relevant is to chase whatever shiny new tool or architecture is trending this week. I see teams boasting about their bleeding-edge setups, and I get it. The temptation to follow suit is strong. No one wants to be left behind, or worse, seen as old-fashioned.
 
 But here’s the hard truth: the hottest stack won’t help if it’s wrong for your team. I’ve seen it time and again, organisations lured by the promise of speed, scalability, or “future-proofing,” only to find themselves tangled in complexity, bottlenecks, and wasted effort. Context matters more than cool. What works for a unicorn startup with a greenfield product and a team of polyglot engineers can fall flat in a large enterprise with legacy systems, regulatory constraints, and a different pace of change.

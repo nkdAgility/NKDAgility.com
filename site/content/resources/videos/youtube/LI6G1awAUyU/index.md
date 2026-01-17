@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Rapid Delivery: Overcoming Common DevOps Challenges for Agile Success"
+title: 'Unlocking Rapid Delivery: Overcoming Common DevOps Challenges for Agile Success'
 short_title: Overcoming DevOps Challenges for Agile Delivery
 description: Explores common DevOps challenges to rapid delivery, highlighting automation, feedback loops, mindset shifts, and compliance for achieving agile, efficient software delivery.
 tldr: Many teams struggle to deliver products quickly due to slow feedback loops, limited automation, and resistance to change. Key improvements include automating processes, engaging compliance teams early to challenge assumptions, and fostering a culture open to experimentation. Development managers should review their delivery pipelines for bottlenecks and actively involve stakeholders to enable faster, more agile releases.
@@ -54,8 +54,8 @@ duration: 370
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In my journey as a [DevOps]({{< ref "/categories/devops" >}}) consultant, I often find myself facing a set of challenges that, while unique to each organisation, share a common thread. Much like my experiences in agile consulting, the primary issue I encounter is the struggle to deliver working products quickly. It’s a frustrating reality when teams are unable to see their ideas come to life in a timely manner, and it’s a problem that can stifle innovation and growth.
 
 ### The Challenge of Speed

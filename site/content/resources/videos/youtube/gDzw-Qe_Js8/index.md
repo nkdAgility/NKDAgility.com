@@ -1,5 +1,5 @@
 ---
-title: "Engineering Excellence Isn’t Perfection: How Continuous Improvement and Fast Feedback Drive Real Agile and DevOps Success"
+title: 'Engineering Excellence Isn’t Perfection: How Continuous Improvement and Fast Feedback Drive Real Agile and DevOps Success'
 short_title: What Engineering Excellence Really Means
 description: Engineering excellence isn’t perfection, it’s continuous improvement, clean code, and fast feedback. Unlock true agility with modern Agile and DevOps practices.
 tldr: Engineering excellence is not about achieving perfection or creating exhaustive plans, but about building systems that continuously adapt and improve through fast feedback and incremental change. Key practices include clean code, observability, automated testing, and CI/CD, which together enable teams to deliver high-quality software quickly and respond to real-world needs. Development managers should focus on removing manual bottlenecks and technical debt to shorten feedback loops, as this is the foundation of true Agile and DevOps success.
@@ -58,8 +58,8 @@ resourceTypes:
 isShort: false
 ResourceId: gDzw-Qe_Js8
 ResourceType: videos
----
 
+---
 Engineering Excellence: Why Perfection Is the Wrong Goal
 
 Engineering excellence isn’t about perfection. I see this misconception time and again, especially in larger organisations with multiple teams. There’s this persistent belief that before we can move to a new way of working, we must understand every facet, every choice, every possible outcome. The urge is to make a big, detailed plan, one that covers all the bases before we even take the first step.

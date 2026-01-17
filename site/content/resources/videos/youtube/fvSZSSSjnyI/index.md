@@ -1,5 +1,5 @@
 ---
-title: "Stop Guessing: How to Make Work Visible and Drive Real Improvement with Azure DevOps Flow Metrics"
+title: 'Stop Guessing: How to Make Work Visible and Drive Real Improvement with Azure DevOps Flow Metrics'
 short_title: Visibility, Metrics, and Flow in DevOps
 description: Stop guessing, start making data-driven decisions in Azure DevOps. Discover tools, tips, and insights to make your work visible and your delivery predictable.
 tldr: Relying on gut feeling leads to mediocre results, so making work visible with real data is essential for improvement. Azure DevOps provides a strong data foundation but its built-in metrics and visualisations are basic; using tools like Flow Viz or Actionable Agile Metrics gives deeper insights and actionable flow data. To drive better outcomes, move from guesswork to evidence-based decisions by leveraging these tools to make your team’s work and bottlenecks visible.
@@ -59,8 +59,8 @@ resourceTypes:
 isShort: false
 ResourceId: fvSZSSSjnyI
 ResourceType: videos
----
 
+---
 If you’re building products at any scale, whether you’re a small startup or a sprawling enterprise, one thing has become abundantly clear to me over the years: you simply cannot make good decisions without evidence. I’ve seen too many teams, and too many organisations, fall into the trap of “gut feel” decision-making. It’s seductive, but it’s also a fast track to mediocrity. Evidence-based management isn’t just a buzzword; it’s the foundation for real, sustainable improvement.
 
 Now, evidence can take many forms. At the business level, it might be hypothesis-driven experiments. At the delivery level, it’s all about flow metrics, lead time, cycle time, work in progress, and so on. The challenge is always the same: how do we get the right data, and how do we make it visible in a way that actually helps us improve?

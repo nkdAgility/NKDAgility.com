@@ -1,5 +1,5 @@
 ---
-title: "Breaking Free from Vendor Lock-In: How to Regain Control and Future-Proof Your Business"
+title: 'Breaking Free from Vendor Lock-In: How to Regain Control and Future-Proof Your Business'
 short_title: Breaking Free from Vendor Lock-In
 description: Struggling with vendor lock-in? Discover practical steps to break free from legacy contracts and regain control of your business’s systems of work.
 tldr: Vendor lock-in from legacy contracts and proprietary systems limits your team’s ability to adapt, often forcing you to work around outdated decisions and maintain inflexible vendor models. To regain control, identify your real constraints, map dependencies, and enable transparent decision-making that prioritises your business needs. Focus on building flexibility into your systems and processes rather than simply replacing tools, and start by challenging existing assumptions and mapping where you are truly locked in.
@@ -46,8 +46,8 @@ resourceTypes:
 isShort: false
 ResourceId: V2TRsAFaSgo
 ResourceType: videos
----
 
+---
 Are legacy contracts keeping you stuck with the wrong vendors? If so, you’re certainly not alone. Vendor lock-in is a persistent, often invisible, barrier for organisations striving to modernise their systems of work. I see it time and again: outdated contracts, proprietary platforms, and deeply embedded dependencies that make it nearly impossible to shift direction. Instead of focusing on what’s best for your business, you end up maintaining someone else’s business model, at your own expense.
 
 Why does this matter so much? Because sticking with the wrong vendors doesn’t just slow you down; it actively limits your ability to adapt. You’re forced to operate within their constraints, whether that’s rigid licensing, glacial innovation cycles, or overpriced services that no longer fit your needs. I’ve watched teams pour energy into workarounds and firefighting, all because the real decisions were made years ago, often with little thought for future flexibility.

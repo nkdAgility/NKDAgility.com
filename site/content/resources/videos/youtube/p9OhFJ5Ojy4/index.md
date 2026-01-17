@@ -34,6 +34,7 @@ tags:
   - Personal
   - Organisational Change
   - Pragmatic Thinking
+  - Adaptive Operating Model
   - Business Agility
   - Change Management
   - Empirical Process Control

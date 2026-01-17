@@ -1,6 +1,6 @@
 ---
-title: "Mastering Azure DevOps Migration: Expert Insights for a Seamless Transition"
-short_title: "Azure DevOps Migration: Expert Strategies"
+title: 'Mastering Azure DevOps Migration: Expert Insights for a Seamless Transition'
+short_title: 'Azure DevOps Migration: Expert Strategies'
 description: Learn key strategies and expert advice for migrating to Azure DevOps, including handling database complexities, validation, and when to seek external expertise for success.
 tldr: Migrating to Azure DevOps is complex and often a one-time event, so most teams lack the necessary in-house expertise. Key challenges include database validation, unexpected data issues, and the need for deep tool knowledge, making external experts or targeted training highly valuable. To ensure a smooth and successful migration, consider bringing in specialists or upskilling your team with expert support.
 date: 2024-11-08T05:45:01Z
@@ -46,8 +46,8 @@ resourceTypes:
 isShort: false
 ResourceId: 4Tjc5uEtM7M
 ResourceType: videos
----
 
+---
 Migrating to Azure [DevOps]({{< ref "/categories/devops" >}}) can feel like a daunting task, especially when you consider that for many organisations, it’s a one-time event. This singularity often means that the necessary skills for a successful migration may not exist in-house. From my experience, it rarely makes sense to build and maintain these skills internally, particularly when the migration is something you’re likely to do just once.
 
 ### The Complexity of Database Migration

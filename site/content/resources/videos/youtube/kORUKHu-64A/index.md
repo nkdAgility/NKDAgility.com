@@ -1,6 +1,6 @@
 ---
 title: Scrum is like communism, it doesn't work. Myth 5
-short_title: "Scrum and Governance: Debunking the Myth"
+short_title: 'Scrum and Governance: Debunking the Myth'
 description: Explains why Scrum does not mean a lack of governance, highlighting the need for regulatory compliance and internal standards while maintaining Agile flexibility.
 tldr: Scrum does not mean abandoning governance; instead, it requires teams to balance agility with necessary regulatory and organizational standards. Applying "just enough governance" ensures compliance and quality without stifling innovation, especially in regulated or complex environments. Development managers should regularly review and adapt governance practices to support both compliance and Agile delivery.
 date: 2023-10-26T07:00:29Z
@@ -52,8 +52,8 @@ duration: 235
 resourceTypes:
   - video
 isShort: false
----
 
+---
 # [Scrum]({{< ref "/categories/scrum" >}}) and Governance: Navigating the Balance for Agile Success 🚀
 
 Hello, Agile aficionados! Today, let's debunk a common myth that often surfaces in discussions around Scrum: **the belief that Scrum equates to a lack of governance**. This misconception suggests that embracing Scrum means throwing all forms of planning, compliance, and organizational standards out the window. However, this view couldn't be further from the truth. Let's explore the nuanced relationship between Scrum and governance and how striking the right balance can propel your Agile journey forward. 🌟

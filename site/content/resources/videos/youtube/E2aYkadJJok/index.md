@@ -1,6 +1,6 @@
 ---
-title: "Mastering Your Kanban Board: A Practical Guide to Visualising Workflows for Maximum Efficiency"
-short_title: "Mastering Your Kanban Board: Practical Guide"
+title: 'Mastering Your Kanban Board: A Practical Guide to Visualising Workflows for Maximum Efficiency'
+short_title: 'Mastering Your Kanban Board: Practical Guide'
 description: Learn how to design and customise Kanban boards to visualise workflows, identify bottlenecks, and boost team efficiency through clear, practical process mapping.
 tldr: A clear and accurate Kanban board is essential for understanding and improving your team's workflow. Map your actual process, adjust columns to reflect real work stages, and use visual cues to highlight priorities and bottlenecks. Regularly review and adapt your board to boost team collaboration, identify issues early, and drive continuous improvement.
 date: 2024-07-08T06:00:07Z
@@ -51,8 +51,8 @@ duration: 57
 resourceTypes:
   - video
 isShort: true
----
 
+---
 When it comes to visualising work in a [Kanban]({{< ref "/categories/kanban" >}}) system, one of the most crucial elements is the Kanban board itself. I can’t stress enough how important it is to have a clear representation of your workflow. It’s not just about aesthetics; it’s about understanding how your system operates and how work moves through it.
 
 ### Understanding Your Workflow

@@ -58,8 +58,8 @@ Watermarks:
   tldr: 2025-08-07T12:34:56Z
 ResourceId: cbyRy2IJmM0
 ResourceType: signals
----
 
+---
 When you track individual's cycle time, you aren’t just measuring the wrong thing, you’re actively distorting behaviour.
 
 People will start working in ways that make them look good instead of making the system better. They’ll cherry-pick the easiest tasks. They’ll rush work at the expense of quality. They’ll avoid collaborating because waiting on someone else makes their numbers worse.

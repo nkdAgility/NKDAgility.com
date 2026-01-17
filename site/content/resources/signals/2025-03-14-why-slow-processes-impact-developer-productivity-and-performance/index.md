@@ -45,8 +45,8 @@ Watermarks:
   tldr: 2025-08-07T12:34:52Z
 ResourceId: CkgnD5GYbI8
 ResourceType: signals
----
 
+---
 I once heard a leader say, “This developer is too slow.” No, the process was slow.
 
 If someone on your team is struggling, it’s not a personal failing, it’s a system failure. Maybe they weren’t given the right training. Maybe work sits in review for weeks. Maybe the handoffs between teams are a mess.

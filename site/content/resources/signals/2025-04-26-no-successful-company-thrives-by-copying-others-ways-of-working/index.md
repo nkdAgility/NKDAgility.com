@@ -27,6 +27,7 @@ categories:
 tags:
   - Agile Philosophy
   - Agile Strategy
+  - Adaptive Operating Model
   - Organisational Agility
   - Agnostic Agile
   - Organisational Change
@@ -47,8 +48,8 @@ Watermarks:
   tldr: 2025-08-07T12:33:12Z
 ResourceId: GcanwqIp5ok
 ResourceType: signals
----
 
+---
 No successful company got where they are by copy-pasting someone else’s way of working.
 
 Yet, so many businesses fall into the trap of adopting SAFe, the Spotify Model, or some other packaged framework, thinking it will magically solve their scaling challenges.

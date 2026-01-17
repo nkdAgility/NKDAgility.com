@@ -1,6 +1,6 @@
 ---
 title: "DevOps Demystified: Why It's More Than Just Tools and How to Embrace Its True Value"
-short_title: "DevOps Is More Than Tools: Embracing Its Value"
+short_title: 'DevOps Is More Than Tools: Embracing Its Value'
 description: Explains why DevOps is a mindset focused on collaboration and continuous improvement, not just tools, and highlights its true value in modern software development practices.
 tldr: DevOps is not just about tools like Azure DevOps but is a broader idea focused on improving engineering systems through collaboration, agility, and continuous improvement. Shifting your team's mindset from tool selection to embracing DevOps principles will lead to better performance and product quality. Focus on how DevOps concepts can enhance your processes rather than relying solely on specific tools.
 date: 2023-06-07T07:00:02Z
@@ -49,8 +49,8 @@ duration: 243
 resourceTypes:
   - video
 isShort: false
----
 
+---
 When I think about [DevOps]({{< ref "/categories/devops" >}}), I often find myself reflecting on the misconceptions that surround it. As someone who has been a Microsoft MVP in [Azure DevOps]({{< ref "/tags/azure-devops" >}}) for 14 years, I’ve seen firsthand how the term "DevOps" can be misinterpreted. Many people, when they mention DevOps in my presence, are actually referring to Azure DevOps, the tools that come with it. But let me be clear: the tool is not the value. The tool is merely a means to surface or leverage the value that comes from the underlying idea of DevOps.
 
 ### Understanding DevOps: More Than Just Tools

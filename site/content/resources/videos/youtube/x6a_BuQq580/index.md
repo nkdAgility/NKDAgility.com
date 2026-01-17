@@ -1,5 +1,5 @@
 ---
-title: "Mastering Cloud Migration: Overcoming the Fear of Incomplete Data Transfers"
+title: 'Mastering Cloud Migration: Overcoming the Fear of Incomplete Data Transfers'
 short_title: Mastering Cloud Migration & Data Transfer Risks
 description: Learn how to address concerns about incomplete data transfers during cloud migration, with practical steps for planning, risk mitigation, and using Microsoft tools.
 tldr: Concerns about incomplete data transfers during cloud migration are often overstated; with proper planning, use of Microsoft’s migration tools, and clear communication about limitations, data loss is highly unlikely. Key steps include assessing your data, understanding cloud constraints like attachment size, and engaging Microsoft support for complex cases. To ensure a smooth migration, involve stakeholders early, plan for contingencies, and address potential issues before starting the move.
@@ -45,8 +45,8 @@ resourceTypes:
 isShort: false
 ResourceId: x6a_BuQq580
 ResourceType: videos
----
 
+---
 When it comes to migrating to the cloud, I often encounter a common concern: the fear of incomplete migrations. Many people worry that essential data will be lost or unavailable during the transition. However, having conducted hundreds of migrations using Microsoft's database import tool, I can confidently say that I have never experienced any data loss that wasn't already known beforehand.
 
 ### Understanding the Migration Landscape

@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Product Value: Why Real User Feedback is Your Best Asset"
+title: 'Unlocking Product Value: Why Real User Feedback is Your Best Asset'
 short_title: Unlocking Product Value with User Feedback
 description: Real user feedback is essential in product development to validate assumptions, guide improvements, and ensure your product delivers real value to its target audience.
 tldr: Product value is only proven when real users interact with your product, so early and ongoing user feedback is essential to validate assumptions and guide development. Engaging users early, testing with prototypes or MVPs, and iterating based on feedback help ensure your product meets real needs and delivers genuine value. Prioritise getting your product in front of users quickly to maximise impact and avoid wasted effort.
@@ -51,8 +51,8 @@ resourceTypes:
 isShort: false
 ResourceId: rbEQRJrs4NY
 ResourceType: videos
----
 
+---
 In my journey through the world of [product development]({{< ref "/categories/product-development" >}}), I've come to realise a fundamental truth: **value only happens when you get it in front of real users**. Everything that precedes this moment is merely an assumption. We can spend countless hours validating our ideas, trying to weed out the bad assumptions and features that seem promising on paper but may not resonate in reality. However, the crux of the matter is this: until we present something we believe will provide value to actual users, we remain in the dark about its true worth.
 
 ### The Renovation Analogy

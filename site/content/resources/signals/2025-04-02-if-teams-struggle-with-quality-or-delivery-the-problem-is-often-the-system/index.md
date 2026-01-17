@@ -45,8 +45,8 @@ Watermarks:
   tldr: 2025-08-07T12:34:10Z
 ResourceId: cXJnv3y4sb7
 ResourceType: signals
----
 
+---
 If teams are struggling with quality, technical debt, or inconsistent delivery, the issue isn’t just the team, it’s the system they’re operating in.
 
 A strong Definition of Done isn’t something teams “figure out.” It requires engineering standards, automation, and organisational commitment. If leadership isn’t providing that foundation, don’t be surprised when teams cut corners under pressure.

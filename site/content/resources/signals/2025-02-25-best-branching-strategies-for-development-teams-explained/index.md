@@ -49,8 +49,8 @@ Watermarks:
   tldr: 2025-08-07T12:35:44Z
 ResourceId: 9EP_gF2nD19
 ResourceType: signals
----
 
+---
 I see it all the time: teams structuring their branching strategy to mirror their environments. A dev branch for Dev, a staging branch for Staging, a release branch for Production.
 
 It feels logical. It’s also a huge mistake.

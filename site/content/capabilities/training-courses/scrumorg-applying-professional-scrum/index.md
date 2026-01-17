@@ -44,36 +44,6 @@ tags:
   - Software Development
   - Team Collaboration
   - Team Performance
-card:
-  button:
-    content: ""
-  title: Applying Professional Scrum (APS) Course with Certification
-  content: Enables all members of the Scrum Team to learn Scrum while doing it, experiencing what it is like to deliver products using the Scrum framework
-Watermarks:
-  description: 2025-07-29T15:01:55Z
-  tldr: 2025-08-08T11:40:31Z
-creator: Martin Hinshelwood
-url: /capabilities/training-courses/scrum-training-courses/:slug/
-cascade:
-  - url: /capabilities/training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/:slug/
-course_topics:
-  - Scrum Training Courses
-course_vendors:
-  - Scrumorg
-course_learning_experiences:
-  - Immersive
-  - Traditional
-delivery_audiences:
-  - Teams
-preview: naked-agility-Professional-Scrum-APS-Minecraft-1600x900-1.jpg
-previewIcon: Scrumorg-Course-APS 400x.png
-brandColour: "#c75129"
-code: APS
-programCode: APS
-course_proficiencies:
-  - beginner
-course_length: 16
-course_sessions: 8
 sections:
   - type: headline
     id: opening
@@ -83,7 +53,6 @@ sections:
         You're leading teams through complex product development. Priorities shift. Stakeholders want predictability you can't give. Teams struggle with unclear direction, delivery friction, and disconnected work. You need more than Scrum theory—you need the confidence to make better decisions under pressure, the capability to guide teams through ambiguity, and practical techniques that work in real organisations.
 
         This course builds that capability. You'll learn Scrum by doing it—working in Scrum Teams across multiple Sprints, experiencing firsthand how empiricism, transparency, and collaboration create better outcomes than traditional planning. You'll discover what works, what doesn't, and why—through hands-on exercises, real team challenges, and reflection on your own work context. You'll leave with techniques you can apply immediately, the ability to identify and avoid common pitfalls, and validation through the globally recognised Professional Scrum Master I certification.
-
   - type: features
     id: what-improves
     title: What you'll be able to do differently
@@ -100,7 +69,6 @@ sections:
         content: Shift from output-focused delivery to outcome-focused experimentation and learning
       - title: Support or join Scrum Teams effectively
         content: Contribute meaningfully whether you're a team member, new joiner, or working alongside Scrum Teams
-
   - type: textNlist
     id: delivery-approach
     title: How NKD Agility makes this different
@@ -110,11 +78,10 @@ sections:
       Most Scrum training fails because participants return to work and can't apply what they learned. They have information but not integration. NKD's immersive format solves the real bottleneck: **time to apply, reflect, and refine**. You'll experience Scrum across multiple Sprints during the course itself, work through real team dynamics, and learn by doing—not just by listening.
     list:
       - content: "**Hands-on Scrum experience**: Work in Scrum Teams over a series of Sprints, experiencing what it's like to deliver using Scrum"
-      - content: "**Real challenges, not theory**: Interactive exercises including Minecraft simulations that surface real collaboration, planning, and delivery challenges"
+      - content: '**Real challenges, not theory**: Interactive exercises including Minecraft simulations that surface real collaboration, planning, and delivery challenges'
       - content: "**Pattern recognition from 20+ years**: Martin Hinshelwood's technical depth and organisational experience means you get context and insight beyond the Scrum Guide"
-      - content: "**Practical techniques you can use immediately**: Leave with a set of proven practices that enhance your application of Scrum in your organisation"
-      - content: "**Foundation for deeper learning**: Establishes the Scrum knowledge needed for advanced role-focused training (Scrum Master, Product Owner, Developer)"
-
+      - content: '**Practical techniques you can use immediately**: Leave with a set of proven practices that enhance your application of Scrum in your organisation'
+      - content: '**Foundation for deeper learning**: Establishes the Scrum knowledge needed for advanced role-focused training (Scrum Master, Product Owner, Developer)'
   - type: boxesrow
     id: format-options
     title: Choose the format that works for you
@@ -138,11 +105,10 @@ sections:
     id: format-cta
     backgroundColor: primary
     cta:
-      content: "**Public classes**: [View the schedule](https://www.scrum.org/classes?uid=184) and join upcoming sessions. **Private training**: [Contact us](/company/contact-us/) to arrange tailored delivery for your team or organisation."
+      content: '**Public classes**: [View the schedule](https://www.scrum.org/classes?uid=184) and join upcoming sessions. **Private training**: [Contact us](/company/contact-us/) to arrange tailored delivery for your team or organisation.'
       button:
         text: ""
         url: ""
-
   - type: list
     id: course-content
     title: What the course covers
@@ -166,24 +132,22 @@ sections:
       - title: Professional Scrum principles in practice
         icon: fa-award
         content: Build professionalism, experimentation, and outcome-focus into how you work
-
   - type: textNlist
     id: who-this-is-for
     title: Is this course for you?
     sideContent: |
       This course is designed for anyone involved in or curious about using Scrum. It's particularly valuable for:
     list:
-      - content: "**Professionals currently using Scrum** who need a refresher to get the most out of their practice"
-      - content: "**New team members joining Scrum Teams** who need foundational knowledge quickly"
-      - content: "**Individuals working alongside Scrum Teams** who want to collaborate more effectively"
-      - content: "**Professionals evaluating Scrum** to see if it makes sense for them and their colleagues"
-      - content: "**Organisations adopting Scrum** who want teams to learn together and align on approach"
-      - content: "**Anyone building foundational knowledge** before continuing with role-focused training (Scrum Master, Product Owner, Developer, Leader)"
+      - content: '**Professionals currently using Scrum** who need a refresher to get the most out of their practice'
+      - content: '**New team members joining Scrum Teams** who need foundational knowledge quickly'
+      - content: '**Individuals working alongside Scrum Teams** who want to collaborate more effectively'
+      - content: '**Professionals evaluating Scrum** to see if it makes sense for them and their colleagues'
+      - content: '**Organisations adopting Scrum** who want teams to learn together and align on approach'
+      - content: '**Anyone building foundational knowledge** before continuing with role-focused training (Scrum Master, Product Owner, Developer, Leader)'
     secondarycontent: |
       **Not recommended for**: Advanced Scrum professionals—consider role-focused courses like Professional Scrum Master or Professional Scrum Product Owner for deeper capability building.
 
       **Software development teams**: Consider the domain-specific **Applying Professional Scrum for Software Development** course, which includes engineering practices and technical excellence.
-
   - type: list
     id: certification
     title: Certification and validation
@@ -204,22 +168,20 @@ sections:
       - title: No pass-rate guarantees
         icon: fa-handshake
         content: We focus on building capability, not exam coaching—but participants typically perform well because they've applied the learning
-
   - type: list
     id: prerequisites
     title: Before you join
-    content: "To make the most of the course, please complete these preparation steps:"
+    content: 'To make the most of the course, please complete these preparation steps:'
     list:
       - title: Study the Scrum Guide
         icon: fa-book
-        content: "[Read the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) (required)"
+        content: '[Read the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) (required)'
       - title: Pass the Scrum Open assessment
         icon: fa-clipboard-check
-        content: "[Take the Scrum Open assessment](https://www.scrum.org/Assessments/Open-Assessments/Scrum-Open-Assessment) (recommended)"
+        content: '[Take the Scrum Open assessment](https://www.scrum.org/Assessments/Open-Assessments/Scrum-Open-Assessment) (recommended)'
       - title: Bring real work challenges
         icon: fa-briefcase
         content: The course works best when you can connect learning to your actual context
-
   - type: sectioncta
     id: next-steps
     backgroundColor: primary
@@ -228,7 +190,6 @@ sections:
       button:
         text: View upcoming classes and enrol
         url: /capabilities/training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/#classes
-
   - type: otherpages
     id: roadmap
     title: Continue your Scrum learning journey
@@ -239,6 +200,36 @@ sections:
       - /capabilities/training-courses/scrum-training-courses/professional-scrum-master/
       - /capabilities/training-courses/scrum-training-courses/professional-scrum-product-owner/
       - /capabilities/training-courses/scrum-training-courses/scrumorg-applying-professional-scrum-for-software-development/
+card:
+  button:
+    content: ""
+  title: Applying Professional Scrum (APS) Course with Certification
+  content: Enables all members of the Scrum Team to learn Scrum while doing it, experiencing what it is like to deliver products using the Scrum framework
+Watermarks:
+  description: 2025-07-29T15:01:55Z
+  tldr: 2025-08-08T11:40:31Z
+creator: Martin Hinshelwood
+url: /capabilities/training-courses/scrum-training-courses/:slug/
+cascade:
+  - url: /capabilities/training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/:slug/
+course_topics:
+  - Scrum Training Courses
+course_vendors:
+  - Scrumorg
+course_learning_experiences:
+  - Immersive
+  - Traditional
+delivery_audiences:
+  - Teams
+preview: naked-agility-Professional-Scrum-APS-Minecraft-1600x900-1.jpg
+previewIcon: Scrumorg-Course-APS 400x.png
+brandColour: '#c75129'
+code: APS
+programCode: APS
+course_proficiencies:
+  - beginner
+course_length: 16
+course_sessions: 8
 trainers:
   - /company/people/martin-hinshelwood/
 roadmap:
@@ -246,7 +237,9 @@ roadmap:
     - /capabilities/training-courses/scrum-training-courses/professional-scrum-master/
     - /capabilities/training-courses/scrum-training-courses/professional-scrum-product-owner/
     - /capabilities/training-courses/scrum-training-courses/scrumorg-applying-professional-scrum-for-software-development/
-events:
+events: 
 ResourceId: APS
 ResourceType: course
+
 ---
+

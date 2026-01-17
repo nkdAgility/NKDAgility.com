@@ -1,5 +1,5 @@
 ---
-title: "Cultivating a Culture of Quality: Lessons from Boeing and Volkswagen for Engineering Excellence"
+title: 'Cultivating a Culture of Quality: Lessons from Boeing and Volkswagen for Engineering Excellence'
 short_title: Building a Culture of Quality in Engineering
 description: Explores how fostering a culture of quality and engineering excellence prevents failures, using Boeing and Volkswagen as examples, and highlights the impact on software development.
 tldr: A strong culture of quality and technical excellence is essential for building reliable and valuable software products, as shown by the negative consequences at Boeing and Volkswagen when profit was prioritised over quality. Relying solely on frameworks like Agile is not enough; the real difference comes from collective commitment to quality, ethical leadership, and applying sound engineering principles. Development managers should focus on fostering this culture within their teams to ensure long-term success and avoid costly mistakes.
@@ -46,8 +46,8 @@ resourceTypes:
 isShort: false
 ResourceId: HmAIUiR8QSo
 ResourceType: videos
----
 
+---
 Building a culture of quality within your organisation is not a solo endeavour; it requires a collective commitment from every individual involved. Each person must demonstrate their own [technical excellence]({{< ref "/tags/technical-excellence" >}}), [leadership]({{< ref "/categories/leadership" >}}), and engineering capability. When individuals embody these qualities, they set a standard that others are likely to emulate. The more people in your organisation adopt this mindset, the quicker it becomes the norm.
 
 Reflecting on this, I often think about the Boeing story, which serves as a cautionary tale. For years, Boeing was synonymous with [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) and [technical leadership]({{< ref "/categories/technical-leadership" >}}). Their mantra, "if it's not Boeing, I'm not going," epitomised their commitment to quality. They were the gold standard in the aviation industry, known for their superior build quality and safety.

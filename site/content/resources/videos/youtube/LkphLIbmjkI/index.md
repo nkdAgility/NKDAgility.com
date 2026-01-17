@@ -45,8 +45,8 @@ duration: 340
 resourceTypes:
   - video
 isShort: false
----
 
+---
 ## Limits of Professional [Coaching]({{< ref "/tags/coaching" >}})
 
 I often come across a compelling question: "Why is a [Scrum]({{< ref "/categories/scrum" >}}) team better served by an Agile consultant rather than a professional coach?" 🤔

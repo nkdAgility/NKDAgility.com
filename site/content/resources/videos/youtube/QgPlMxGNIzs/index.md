@@ -38,6 +38,7 @@ tags:
   - Organisational Agility
   - Agile Philosophy
   - Agile Values and Principles
+  - Adaptive Operating Model
 Watermarks:
   description: 2025-05-07T13:14:05Z
   short_title: 2025-07-07T17:56:46Z

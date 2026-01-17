@@ -45,8 +45,8 @@ Watermarks:
   tldr: 2025-07-30T23:22:10Z
 ResourceId: O_VlmDj7n3V
 ResourceType: blog
----
 
+---
 In modern [software development]({{< ref "/tags/software-development" >}}) the idea of the topic branch is an essecial one. It is your gatekeeper to preventing Conway's Law and an engineering structure that mirrors your organisational boundaries. Frequent integration through topic branches helps break down silos, encouraging cross-[team collaboration]({{< ref "/tags/team-collaboration" >}}) and reducing the tendency for the software architecture to reflect the organisation's communication paths.
 
 A topic branch is a short-lived, focused branch in your source control repository that isolates a **single unit of developer work**. This is not a month-long feature branch. This is not "we'll merge it someday" work. A topic branch is something you **code, test, and integrate in a few hours or, at most, a couple of days**.

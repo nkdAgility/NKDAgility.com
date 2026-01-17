@@ -57,8 +57,8 @@ Watermarks:
 creator: Martin Hinshelwood
 ResourceId: W_KrTupmowf
 ResourceType: blog
----
 
+---
 If your organisation still measures leadership by how many decisions a manager makes, you are not leading. You are leaking value.
 
 There is a stubborn, Taylorist holdover in many companies, the belief that work gets done when someone is told exactly what to do. The assumption is that certainty comes from control, clarity comes from instruction, and delivery comes from compliance.

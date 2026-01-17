@@ -1,5 +1,5 @@
 ---
-title: "Sprint Review #1"
+title: 'Sprint Review #1'
 short_title: Sprint Review Workshop with Liberating Structures
 description: Guides a 160-minute Sprint Review workshop using Liberating Structures to inspect product progress, gather feedback, and plan next steps for Scrum teams and stakeholders.
 tldr: This Sprint Review workshop uses interactive methods to help teams and stakeholders inspect the product increment, gather feedback, and identify next steps based on recent changes and business needs. Key activities include networking to clarify expectations, hands-on product inspection, structured group reflection, and personal action planning. Development managers should ensure active participation, update the Product Backlog with new insights, and encourage team members to define concrete actions for the next Sprint.
@@ -50,7 +50,7 @@ card:
   button:
     content: Learn More
   content: Discover more about "Sprint Review
-  title: "Sprint Review #1"
+  title: 'Sprint Review #1'
 Watermarks:
   description: 2025-05-07T12:57:58Z
   short_title: 2025-07-07T17:48:11Z
@@ -59,7 +59,7 @@ ResourceId: 8gWwC3tvV_f
 ResourceType: workshops
 resourceTypes: workshop
 creator: Martin Hinshelwood
-references:
+references: 
 recommendedContent:
   - collection: guides
     path: _guides/scrum-guide.md
@@ -76,8 +76,8 @@ videos:
     embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
   - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
     embed: https://www.youtube.com/embed/1-W64WdSbF4
----
 
+---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).
 
 # Duration

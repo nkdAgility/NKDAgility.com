@@ -1,11 +1,41 @@
 ---
 title: AI Literacy Workshop
+short_title: AI Literacy Workshop
+description: Practical workshop teaching teams how AI works, how to use it safely, write effective prompts, manage context, and assess risks—no technical background required.
+tldr: The AI Literacy Workshop gives your teams a clear, practical understanding of how AI works, why most AI projects fail, and how to use AI safely and effectively in daily work. Participants learn a standard prompt template, context identification techniques, and risk awareness, enabling immediate improvements in AI use and collaboration across roles. Book the workshop to equip your teams with shared language, practical tools, and the confidence to apply AI to real business problems right away.
 date: 2025-12-09
-creator: Martin Hinshelwood
-ItemContentOrigin: Human
-type: course
+weight: 530
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
+  changefreq: weekly
+ItemId: KP-AIL
 ItemType: course
 ItemKind: program
+ItemContentOrigin: Human
+aliases: []
+type: course
+concepts:
+  - Method
+categories:
+  - Uncategorized
+tags:
+  - Team Collaboration
+  - Operational Practices
+  - Pragmatic Thinking
+  - Artificial Intelligence
+  - Operating Model
+  - Adaptive Operating Model
+  - AI Product Operating Model
+  - Social Technologies
+  - Collective Intelligence
+  - Agentic Engineering
+  - Value Delivery
+Watermarks:
+  description: 2026-01-16T19:18:19Z
+  tldr: 2026-01-16T19:18:22Z
+  short_title: 2026-01-16T19:18:24Z
+creator: Martin Hinshelwood
 code: KP-AIL
 course_topics:
   - AI Training Programs
@@ -21,8 +51,10 @@ delivery_audiences:
 course_proficiencies:
   - beginner
   - intermediate
----
+ResourceId: KP-AIL
+ResourceType: course
 
+---
 You're under pressure to use AI, but you're drowning in hype, vendor pitches, and failed pilot projects. Your teams need to use AI safely and effectively in their actual work, but they don't need to become data scientists. You need a shared language for AI that cuts through the noise, shows how it really works, and gives your people the confidence to use it reliably without creating new risks.
 
 The **AI Literacy Workshop** delivers exactly that. In one focused session, your team learns how modern AI actually works, why most initiatives fail, and how to use AI safely and effectively using proven Kendall prompt and context tools. This is not theory or vendor marketing—it's practical literacy that your teams can apply immediately to real work challenges.

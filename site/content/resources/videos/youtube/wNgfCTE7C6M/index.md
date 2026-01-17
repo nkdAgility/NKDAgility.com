@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Effective Product Development: How a Hypothesis-Driven Approach Transforms User Experience"
+title: 'Unlocking Effective Product Development: How a Hypothesis-Driven Approach Transforms User Experience'
 short_title: Hypothesis-Driven Product Development for UX
 description: Explains how a hypothesis-driven approach, small experiments, and cross-team collaboration improve product development, user experience, and continuous delivery outcomes.
 tldr: A hypothesis-driven approach to product development helps teams make better decisions by focusing on user needs, testing ideas with small experiments, and measuring outcomes before committing to full features. Collaboration between design and engineering is essential to align daily decisions with long-term goals, and integrating these practices into continuous delivery ensures ongoing improvement. Development managers should encourage experimentation, cross-team collaboration, and data-driven feedback loops to build products that truly meet user needs.
@@ -57,8 +57,8 @@ duration: 371
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In my journey through the world of [product development]({{< ref "/categories/product-development" >}}), I've often found myself reflecting on the importance of making informed decisions that truly benefit our users. Recently, I had the opportunity to delve into the Professional [Scrum]({{< ref "/categories/scrum" >}}) with User Experience (PSU) course, and I can confidently say that it has profoundly shaped my understanding of effective product development.
 
 ### The Hypothesis-Driven Approach

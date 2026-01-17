@@ -48,8 +48,8 @@ Watermarks:
   tldr: 2025-08-07T12:11:05Z
 ResourceId: AgIU1SK-3pE
 ResourceType: blog
----
 
+---
 [DevOps]({{< ref "/categories/devops" >}}) is not automation. It is not pipelines. It is not "shifting left" while locking decision-making into ancient [release management]({{< ref "/tags/release-management" >}}) bureaucracies.  
 **DevOps is agency.** It is the union of people, process, and products to enable continuous delivery of value to our end users.
 

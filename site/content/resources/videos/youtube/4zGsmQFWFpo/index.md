@@ -40,6 +40,7 @@ tags:
   - Organisational Culture
   - Pragmatic Thinking
   - Sociotechnical Systems
+  - Adaptive Operating Model
 Watermarks:
   description: 2025-05-07T12:57:33Z
   short_title: 2025-07-07T17:47:50Z
@@ -54,8 +55,8 @@ resourceTypes:
 isShort: false
 ResourceId: 4zGsmQFWFpo
 ResourceType: videos
----
 
+---
 In today’s rapidly evolving landscape, focusing solely on _Agile_ as a label can be limiting. Instead, the goal should be to increase our organization’s **capability**, **maximize value**, and **enhance effectiveness**. It's not about the moniker; it’s about achieving outcomes that matter. 🏆
 
 ## **Why Agile Isn't the Focus**

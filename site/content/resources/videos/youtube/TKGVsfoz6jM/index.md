@@ -1,7 +1,7 @@
 ---
 title: CTO Leadership Isn’t About Knowing Everything, It’s About Knowing What Matters Most
 short_title: From FOMO to Focus for CTOs
-description: "CTOs: Stop chasing every trend. Learn to filter noise, focus on what matters, and lead with clarity for real impact in your tech organization."
+description: 'CTOs: Stop chasing every trend. Learn to filter noise, focus on what matters, and lead with clarity for real impact in your tech organization.'
 tldr: CTOs do not need to keep up with every new technology or trend; effective leadership is about identifying and focusing on what truly matters for your business and teams. By mapping how value flows through your organization and filtering out distractions, you can make better decisions and lead with clarity. Prioritize understanding your key constraints and empower your teams to deliver value rather than trying to know everything yourself.
 date: 2025-06-13T06:00:24Z
 lastmod: 2025-06-13T06:00:24Z
@@ -43,8 +43,8 @@ resourceTypes:
 isShort: false
 ResourceId: TKGVsfoz6jM
 ResourceType: videos
----
 
+---
 You don’t need to know everything. You need to know what matters. That might sound obvious, but if you’re a CTO right now, it’s hard to believe. New frameworks, new tools, AI models dropping weekly, every conversation feels like a pop quiz you didn’t study for. And under it all, there’s that quiet fear: if you’re not on top of every trend, every shift, you’re falling behind.
 
 Let’s be clear, that’s not leadership. That’s FOMO, and it’s exhausting.

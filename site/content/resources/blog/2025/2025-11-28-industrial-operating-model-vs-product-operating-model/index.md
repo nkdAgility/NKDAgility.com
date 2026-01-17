@@ -31,9 +31,8 @@ categories:
   - Product Management
   - Leadership
 tags:
-  - Operating Model
   - Adaptive Operating Model
-  - Predictive Operating Model
+  - Operating Model
   - Value Delivery
   - Agile Philosophy
   - Organisational Agility
@@ -47,7 +46,6 @@ tags:
   - Agile Product Management
   - Agile Product Operating Model
   - Organisational Physics
-  - Market Adaptability
 Watermarks:
   description: 2025-11-28T17:32:50Z
   tldr: 2025-11-28T17:32:54Z
@@ -56,8 +54,8 @@ resourceTypes: blog
 AudioNative: false
 ResourceId: 7nXTKmU_F04
 ResourceType: blog
----
 
+---
 Most organisations today operate under a [Predictive Operating Model]({{< ref "/tags/predictive-operating-model" >}}) while competing in dynamic markets. This fundamental mismatch creates enormous waste, missed opportunities, and frustrated teams. Understanding why this model fails, and how an [Adaptive Operating Model]({{< ref "/tags/adaptive-operating-model" >}}) can replace it, is essential for any organisation seeking to deliver value effectively in the 21st century and beyond.
 
 ## Defining the Two Operating Models

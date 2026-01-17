@@ -42,8 +42,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:55Z
 ResourceId: 5fShT9wNqFg
 ResourceType: signals
----
 
+---
 A certification proves you’ve passed a test. It does not mean you can define a product vision, align stakeholders, or make tough trade-offs.
 
 Hiring managers often use certifications as a filter, and while they serve as a minimum competency bar, they don’t guarantee expertise. I’ve met certified POs who struggle to influence stakeholders and uncertified POs who run circles around them.

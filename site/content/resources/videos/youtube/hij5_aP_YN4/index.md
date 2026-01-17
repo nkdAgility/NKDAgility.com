@@ -1,5 +1,5 @@
 ---
-title: "The Power of Community: Becoming an Awesome Agile Coach"
+title: 'The Power of Community: Becoming an Awesome Agile Coach'
 short_title: The Power of Community for Agile Coaches
 description: Explores how Agile coaches grow by engaging with diverse communities, embracing feedback, and challenging assumptions to deliver greater value to teams and customers.
 tldr: To be an effective Agile coach, it is essential to engage with a diverse community that challenges your thinking and provides honest feedback, rather than staying in a comfortable echo chamber. Growth comes from seeking out different perspectives, embracing critique, and continuously evolving your approach, which ultimately leads to delivering greater value to your teams and customers. Development managers should encourage their coaches to actively participate in varied Agile communities and prioritize learning and feedback to drive continuous improvement.
@@ -51,8 +51,8 @@ duration: 55
 resourceTypes:
   - video
 isShort: true
----
 
+---
 Being an effective Agile coach requires more than just mastering the frameworks and processes of Agile. It’s about continual growth, pushing your boundaries, and being part of a community that challenges you, not one that simply agrees with everything you say. If you're aiming to elevate your [coaching]({{< ref "/tags/coaching" >}}) game, the key lies in surrounding yourself with diverse perspectives that question, refine, and enhance your approach.
 
 In this post, we'll explore the significance of community, how it fosters your growth, and why it's essential for delivering the most value to your customers.

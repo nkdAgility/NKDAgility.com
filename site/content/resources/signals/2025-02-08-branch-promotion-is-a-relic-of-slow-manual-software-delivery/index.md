@@ -57,8 +57,8 @@ Watermarks:
   tldr: 2025-08-07T12:39:53Z
 ResourceId: xLVnF1dEnfO
 ResourceType: signals
----
 
+---
 Branch promotion is a relic of slow, manual software delivery.
 
 Modern teams integrate continuously:

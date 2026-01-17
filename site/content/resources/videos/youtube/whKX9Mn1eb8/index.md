@@ -1,5 +1,5 @@
 ---
-title: "Unlocking the Superpower of Software Development: How Shifting Left Transforms Quality Assurance"
+title: 'Unlocking the Superpower of Software Development: How Shifting Left Transforms Quality Assurance'
 short_title: How Shifting Left Improves Software Quality
 description: Explains how adopting a shift-left approach in software development improves quality, speeds up delivery, reduces costs, and fosters collaboration by involving QA early.
 tldr: Shifting quality assurance to the start of the development process leads to higher product quality, faster delivery, and lower costs by catching issues early and fostering better collaboration. Teams that adopt this approach see improved morale and stakeholder confidence. To get started, educate your team, involve QA early, encourage collaboration, use automation, and focus on continuous improvement.
@@ -53,8 +53,8 @@ resourceTypes:
 isShort: true
 ResourceId: whKX9Mn1eb8
 ResourceType: videos
----
 
+---
 In my journey through the world of software engineering, I've come to realise that having a high-quality, usable, and working product delivered on a regular cadence is nothing short of a superpower for both teams and organisations. This principle is at the heart of delivering real value, and it’s something I’m passionate about sharing.
 
 One of the key concepts that has emerged in modern software engineering is the idea of "shift left." This approach fundamentally changes how we think about quality assurance and [product development]({{< ref "/categories/product-development" >}}). Instead of treating quality as a final checkpoint, something we test in at the end of the development cycle, we need to build it in from the very beginning.

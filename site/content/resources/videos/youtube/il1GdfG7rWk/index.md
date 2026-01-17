@@ -1,5 +1,5 @@
 ---
-title: "Mastering Product Backlog Management: Essential Skills for Product Owners"
+title: 'Mastering Product Backlog Management: Essential Skills for Product Owners'
 short_title: Mastering Product Backlog Management
 description: Learn the core skills and best practices for effective product backlog management, including risk, value, sizing, learning, and refinement to maximise product delivery.
 tldr: Effective product backlog management is critical for delivering value, and product owners remain accountable even when delegating tasks. Focus on managing risk, maximizing value, sizing items for quick delivery, and embracing learning through iteration; regular refinement and clear communication with the team and stakeholders are essential. Review your backlog often, break down large or risky items, and seek help if needed to ensure your team delivers the right outcomes efficiently.
@@ -58,8 +58,8 @@ duration: 387
 resourceTypes:
   - video
 isShort: false
----
 
+---
 As a new [product owner]({{< ref "/tags/product-owner" >}}), one of the most crucial responsibilities you'll face is managing your [product backlog]({{< ref "/tags/product-backlog" >}}). It’s the backbone of successful [product delivery]({{< ref "/tags/product-delivery" >}}). The product backlog is more than a to-do list, it's the foundation for delivering maximum value. In this post, we'll walk you through the key elements of product backlog management, provide actionable insights, and share practical tips for mastering this essential skill.
 
 ## **What Is Product Backlog Management?**

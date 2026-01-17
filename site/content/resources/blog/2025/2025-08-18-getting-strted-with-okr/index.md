@@ -46,8 +46,8 @@ Watermarks:
 mermaid: true
 ResourceId: bpRR4ieKvr3
 ResourceType: blog
----
 
+---
 OKRs are not plug-and-play. They’re not a magic framework you sprinkle on top of chaos and suddenly get strategy, alignment, and velocity. They are a **discipline**. A **set of practices**. And they only work when the foundations are in place.
 
 So what do you need?

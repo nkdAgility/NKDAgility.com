@@ -4,7 +4,7 @@ short_title: Economic Returns
 description: Transform engineering from cost centre to competitive advantage through flow economics, strategic visibility, and evidence-based decision-making that connects technical work to business outcomes.
 tldr: Engineering capability becomes competitive advantage when flow economics and strategic visibility replace budget anxiety. Clear metrics, reduced waste, and evidence-based decisions create the condition where engineering investments compound rather than drain resources.
 date: 2025-11-24
-weight: 300
+weight: 525
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -75,21 +75,21 @@ sections:
     content: |
       DORA research shows elite engineering teams deploy far more frequently and recover from incidents far faster than low performers. The gap represents competitive advantage.
     boxes:
-      - box:
+      - box: 
         title: Faster Time-to-Value
         items:
           - title: Capture revenue weeks or months earlier
           - title: Lower change failure rates mean fewer production incidents
           - title: Reduced support costs and higher customer retention
           - title: Market opportunities seized, not missed
-      - box:
+      - box: 
         title: Reduced Waste
         items:
           - title: Reclaim capacity lost to rework, waiting, and context switching
           - title: Flow metrics show cycle time trends and delivery patterns
           - title: Engineering capacity directed at highest-value work
           - title: Customer-facing products and internal platforms treated with equal rigour
-      - box:
+      - box: 
         title: Leadership Credibility
         items:
           - title: Board presentations backed by evidence, not gut feelings
@@ -99,21 +99,21 @@ sections:
   - type: outcomeboxes
     title: Better economic returns enable
     boxes:
-      - box:
+      - box: 
         items:
           - title: Demonstrate clear ROI from engineering
           - title: Reduce time-to-market significantly
           - title: Lower cost of poor quality
           - title: Improve resource efficiency
           - title: Scale delivery without scaling costs linearly
-      - box:
+      - box: 
         items:
           - title: Justify engineering investments confidently
           - title: Take pride in engineering's business impact
           - title: Eliminate budget-battle stress
           - title: Lead with data, not gut feelings
           - title: Prove engineering's strategic value
-      - box:
+      - box: 
         items:
           - title: Be recognised as value driver, not cost centre
           - title: Earn board-level credibility
@@ -176,4 +176,6 @@ creator: Martin Hinshelwood
 icon: fa-chart-line
 ResourceType: outcomes
 ResourceId: hN1WwYuqPCl
+
 ---
+

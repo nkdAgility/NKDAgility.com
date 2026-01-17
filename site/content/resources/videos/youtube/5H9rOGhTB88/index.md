@@ -1,5 +1,5 @@
 ---
-title: "Empowering Teams to Tailor Their Processes: A Path to True Agility"
+title: 'Empowering Teams to Tailor Their Processes: A Path to True Agility'
 short_title: Empowering Teams to Tailor Processes
 description: Explains why empowering teams to adapt their processes boosts agility, reduces waste, and fosters innovation, using real-world examples and practical steps for organisations.
 tldr: Empowering teams to adapt their processes to their specific needs leads to greater value, less waste, and more innovation, while rigid, one-size-fits-all processes can cause delays, unnecessary costs, and frustration. Development managers should assess whether their teams have the freedom to experiment, minimize bureaucracy, and focus on delivering customer value rather than just following procedures. To achieve true agility, encourage teams to tailor their ways of working and continuously improve based on what they learn.
@@ -48,8 +48,8 @@ tags:
   - Operational Practices
   - Organisational Culture
   - Team Performance
+  - Adaptive Operating Model
   - Change Management
-  - Business Agility
 Watermarks:
   description: 2025-05-07T13:02:28Z
   short_title: 2025-07-07T17:48:53Z
@@ -64,8 +64,8 @@ duration: 488
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In today's fast-paced and ever-changing business environment, agility is more than just a buzzword, it's a necessity. Yet, many organizations fall into the trap of enforcing rigid, one-size-fits-all processes that stifle creativity, innovation, and efficiency. Let's explore why it's crucial to empower teams to tailor their processes to their unique contexts, even if it means deviating from company-wide standards.
 
 ## **The Power of Tailoring Processes**

@@ -1,5 +1,5 @@
 ---
-title: "Empowering Employees: The Crucial Link Between Financial Awareness and Motivation"
+title: 'Empowering Employees: The Crucial Link Between Financial Awareness and Motivation'
 short_title: Financial Awareness Drives Employee Motivation
 description: Explores how financial awareness boosts employee motivation, decision-making, and accountability, highlighting the impact of financial literacy on workplace culture and performance.
 tldr: Employees often lack awareness of the financial impact of their work, which can lead to missed opportunities and poor decisions. Promoting financial literacy and open discussions about costs helps teams make better choices, increases motivation, and drives accountability. Development managers should actively foster financial awareness to empower teams and improve business outcomes.
@@ -45,8 +45,8 @@ duration: 4859
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the world of agile and organisational development, one topic that often surfaces is the relationship between financial awareness and employee motivation. Recently, I had the opportunity to engage in a thought-provoking discussion with my colleagues, Ryan and Michael, about whether companies should take money off the table when it comes to motivating their employees. This conversation sparked some reflections on my own experiences and the broader implications for businesses today.
 
 ### Understanding Financial Literacy in the Workplace

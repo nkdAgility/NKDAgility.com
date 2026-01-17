@@ -1,5 +1,5 @@
 ---
-title: "Why Agile Success Relies on Effective Planning: Debunking the Myths of Scrum"
+title: 'Why Agile Success Relies on Effective Planning: Debunking the Myths of Scrum'
 short_title: Agile Success Depends on Effective Planning
 description: Explains why effective planning is essential in Agile and Scrum, debunking myths about planning, and highlights strategies for teams of all sizes to achieve project success.
 tldr: Effective planning is essential for Agile and Scrum teams, not something to skip; key Scrum events like sprint planning, backlog refinement, and daily standups all revolve around planning. The goal is to find the right balance, plan enough to provide direction and coordination, especially in large teams, but avoid over-planning that wastes resources. Development managers should ensure their teams have clear goals, roadmaps, and themes to align efforts and adapt as needed.
@@ -56,8 +56,8 @@ duration: 436
 resourceTypes:
   - video
 isShort: false
----
 
+---
 One of the most pervasive myths I encounter in the world of [Scrum]({{< ref "/categories/scrum" >}}) is the notion that Agile means we can forgo planning altogether. This idea is not just misguided; it’s downright detrimental to the success of any Agile team. Let me clarify: Scrum is fundamentally about planning.
 
 ### The Importance of Planning in Scrum

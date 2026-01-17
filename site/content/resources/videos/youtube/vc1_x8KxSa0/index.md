@@ -1,6 +1,6 @@
 ---
-title: "Why Big Bang Rewrites Fail: How Sustainable Change and Engineering Excellence Transform Legacy Systems"
-short_title: "Culture Shift: Legacy Mindset to Modern Practice"
+title: 'Why Big Bang Rewrites Fail: How Sustainable Change and Engineering Excellence Transform Legacy Systems'
+short_title: 'Culture Shift: Legacy Mindset to Modern Practice'
 description: Ditch the Big Bang rewrite. Discover why sustainable, in-place change drives true engineering excellence and lasting transformation in your teams.
 tldr: Big Bang rewrites of legacy systems usually fail due to high costs, delays, and unchanged team mindsets, while incremental in-place improvements deliver ongoing value and reduce risk. Sustainable change comes from building a culture of continuous improvement and engineering excellence, where teams refactor and modernise systems piece by piece. Development managers should focus on fostering this culture and invest in gradual, disciplined transformation rather than risky all-at-once rewrites.
 date: 2025-09-08T06:00:00Z
@@ -39,12 +39,12 @@ tags:
   - Change Management
   - Organisational Agility
   - Continuous Learning
+  - Adaptive Operating Model
   - Pragmatic Thinking
   - Digital Transformation
   - Team Collaboration
   - Business Agility
   - Team Motivation
-  - Product Delivery
 Watermarks:
   description: 2025-07-24T14:48:31Z
   short_title: 2025-07-24T14:48:31Z
@@ -59,8 +59,8 @@ resourceTypes:
 isShort: false
 ResourceId: vc1_x8KxSa0
 ResourceType: videos
----
 
+---
 Moving from Legacy Mindset to Engineering Excellence: Why Big Bang Rewrites Fail and Sustainable Change Wins
 
 Over the years, I’ve seen countless organisations wrestle with the challenge of moving from legacy systems to modern engineering practices. There’s a persistent myth that this is a purely technical journey, just swap out the old code for the new, and voilà, you’re modern. But the reality is far more nuanced. Engineering excellence isn’t just about technology; it’s fundamentally about culture.

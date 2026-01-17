@@ -1,6 +1,6 @@
 ---
-title: "Immersive Learning in Scrum: Why Theory and Experience Must Go Hand in Hand"
-short_title: "Immersive Learning in Scrum: Theory & Practice"
+title: 'Immersive Learning in Scrum: Why Theory and Experience Must Go Hand in Hand'
+short_title: 'Immersive Learning in Scrum: Theory & Practice'
 description: Explores how combining theory and hands-on experience in Scrum training leads to deeper understanding, critical thinking, and continuous improvement for Agile teams.
 tldr: Combining theory with hands-on experience is essential for effective Scrum learning and continuous improvement; relying on experience alone leads to missed insights, while theory provides the context and questions needed for growth. Immersive learning, through active engagement, reflection, and real-world scenarios, helps teams understand not just what works, but why, enabling them to adapt and replicate success. Development managers should ensure their teams connect practical experiences with Scrum principles to drive meaningful learning and sustained performance gains.
 date: 2024-02-08T07:00:06Z
@@ -53,8 +53,8 @@ duration: 35
 resourceTypes:
   - video
 isShort: true
----
 
+---
 One of my favorite quotes is from the legendary Peter Drucker: **"Without theory, experience has no meaning. Without theory, one has no questions to ask. Hence, without theory, there is no learning."** This profound idea resonates deeply with my approach to immersive learning, especially in the context of **[Scrum]({{< ref "/categories/scrum" >}})** and **Agile**.
 
 In today's fast-paced world, where information is abundant and available at our fingertips, it's easy to get caught up in endless experiences without taking the time to connect the dots. Immersive learning, especially when training Scrum Masters, is not about fire-hosing participants with endless information but about helping them ask the right questions. Through theory and experience combined, learners are better equipped to navigate the complexity of their roles and continuously improve.

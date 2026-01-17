@@ -30,6 +30,7 @@ categories:
   - Technical Leadership
 tags:
   - Enterprise Agility
+  - Adaptive Operating Model
   - Agile Frameworks
   - Agile Leadership
   - Agile Strategy

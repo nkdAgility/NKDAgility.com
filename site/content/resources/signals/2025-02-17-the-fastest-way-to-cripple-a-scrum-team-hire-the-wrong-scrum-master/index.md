@@ -54,8 +54,8 @@ Watermarks:
   tldr: 2025-08-07T12:36:33Z
 ResourceId: 567GkDxvlbX
 ResourceType: signals
----
 
+---
 The fastest way to cripple a Scrum Team? Hire the wrong Scrum Master.
 
 Too many companies mistake the Scrum Master for a process admin. Someone to book meetings, write Jira tickets, and make sure the team follows “the rules.”

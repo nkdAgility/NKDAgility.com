@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Sustainable Growth: Why Leadership is the Key to Successful Scaling"
+title: 'Unlocking Sustainable Growth: Why Leadership is the Key to Successful Scaling'
 short_title: Leadership for Sustainable Organisational Growth
 description: Effective scaling depends on strong leadership, empowering teams, removing bottlenecks, and decentralising decisions to enable sustainable organisational growth.
 tldr: Successful scaling in software development depends more on effective leadership than on technical solutions. Empowering teams, removing bottlenecks, and decentralising decision-making are key to sustainable growth. Development managers should focus on shaping leadership behaviours to create an environment where teams can scale effectively.
@@ -55,8 +55,8 @@ resourceTypes:
 isShort: false
 ResourceId: ZVZEO1Ggihs
 ResourceType: videos
----
 
+---
 [Scaling]({{< ref "/tags/scaling" >}}) isn't merely a technical challenge; it’s fundamentally a [leadership]({{< ref "/categories/leadership" >}}) challenge. Over the years, I’ve observed that when companies embark on the journey of scaling, their focus often narrows to architecture, infrastructure, and tools. While these elements are undeniably important, the real constraint lies in leadership. At scale, the way people think, collaborate, and make decisions has a far greater impact than any technology could.
 
 As I engage with CTOs, CIOs, and IT managers, I find it crucial to emphasise that scaling isn’t about simply funding more teams or throwing additional engineers at the problem. Instead, it’s about cultivating an environment where scaling is not just possible but sustainable. Here are some key aspects to consider:

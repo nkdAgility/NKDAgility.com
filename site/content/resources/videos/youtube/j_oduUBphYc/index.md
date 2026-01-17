@@ -1,5 +1,5 @@
 ---
-title: "Modernising Legacy Systems: How to Tackle Security Risks Without Breaking Your Business"
+title: 'Modernising Legacy Systems: How to Tackle Security Risks Without Breaking Your Business'
 short_title: Modernising Legacy Systems Securely
 description: Struggling with legacy systems? Discover how to modernise securely, reduce risk, and build resilience, without trading old problems for new ones.
 tldr: Modernising legacy systems is essential for security, but rushing the process can create new risks; instead, map your workflows, embed security throughout development, empower teams, and focus on maintainability and compliance. Treat security as an ongoing mindset, not a one-time task, and continuously adapt as threats evolve. Start by assessing how work and security practices flow in your organisation before making changes.
@@ -48,8 +48,8 @@ resourceTypes:
 isShort: false
 ResourceId: j_oduUBphYc
 ResourceType: videos
----
 
+---
 Legacy systems are a security nightmare. Let’s not sugar-coat it. I’ve seen it time and again: outdated protocols, compliance failures lurking in the shadows, and systems so fragile that nobody dares to touch them for fear of what might break next. If you’re reading this, you probably know exactly what I mean.
 
 The uncomfortable truth is that these systems were built in a different era, under assumptions that simply don’t hold up against today’s threat landscape. They weren’t designed for the relentless pace and sophistication of modern attacks. Yet, despite their age and fragility, businesses still depend on them. Modernisation, then, isn’t a nice-to-have. It’s inevitable.

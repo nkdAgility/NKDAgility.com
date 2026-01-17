@@ -1,5 +1,5 @@
 ---
-title: "Understanding Product Discovery: Why It Matters More Than Ever"
+title: 'Understanding Product Discovery: Why It Matters More Than Ever'
 short_title: Understanding Product Discovery and Its Value
 description: Explains Product Discovery in product development, its role in setting strategy, uncovering opportunities, and aligning teams to build valuable, user-focused products.
 tldr: Product Discovery is a proactive process that helps teams identify what to build and why, ensuring alignment with business goals and user needs. It goes beyond backlog refinement by uncovering new opportunities, involving diverse perspectives, and driving strategic direction at both portfolio and team levels. To maximize product value and ROI, development managers should invest in deliberate discovery practices, involve their teams early, and continuously gather feedback to guide decisions.
@@ -54,8 +54,8 @@ duration: 711
 resourceTypes:
   - video
 isShort: false
----
 
+---
 [Product Discovery]({{< ref "/tags/product-discovery" >}}) is a term that's often used in the world of [product development]({{< ref "/categories/product-development" >}}), but what does it really mean? Is it something new, or is it just a different label for what we've always done? In this post, I'll delve into the nuances of Product Discovery, explain why it’s critical to your product’s success, and share some real-world examples to help you understand its scope and impact.
 
 ## **What is Product Discovery?**

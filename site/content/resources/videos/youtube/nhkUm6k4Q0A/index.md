@@ -1,5 +1,5 @@
 ---
-title: "How to Be an Effective Agile Coach: Agnosticism in Practice"
+title: 'How to Be an Effective Agile Coach: Agnosticism in Practice'
 short_title: Effective Agile Coaching with Framework Agnosticism
 description: Learn how Agile coaches can empower teams by staying framework-agnostic, focusing on core principles, and enabling teams to choose and adapt practices for their needs.
 tldr: Effective Agile coaching means being flexible and not pushing one framework; instead, help teams understand core Agile, Lean, and Scrum principles so they can choose what works best for their context. Encourage experimentation, educate teams on different approaches, and support their decision-making process. Focus on enabling teams to own their process and continuously improve rather than prescribing solutions.
@@ -54,8 +54,8 @@ duration: 61
 resourceTypes:
   - video
 isShort: false
----
 
+---
 If you’re looking to become a great Agile coach, one of the most crucial qualities you need to cultivate is agnosticism in your practices. While you may have your own preferences, mine happens to be [Scrum]({{< ref "/categories/scrum" >}}), it’s important to ensure that the team you’re working with can choose the most effective practices that suit them. This may sometimes mean putting aside your favorite framework and helping the team make decisions that work best for their unique context.
 
 Let’s dive deeper into how you can be an effective Agile coach by becoming practice-agnostic and enabling your teams to make informed decisions.

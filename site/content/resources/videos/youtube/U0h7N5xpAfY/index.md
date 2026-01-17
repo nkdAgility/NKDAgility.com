@@ -57,8 +57,8 @@ duration: 233
 resourceTypes:
   - video
 isShort: false
----
 
+---
 Many [Scrum]({{< ref "/categories/scrum" >}}) Masters step into their role without fully understanding what it entails. Often, the title of [Scrum Master]({{< ref "/tags/scrum-master" >}}) is simply handed to them by their organization, and the expectations within the organization can be quite different from the true accountability of the role within the framework of Scrum.
 
 In this blog post, we'll explore what it means to be a Scrum Master, what key responsibilities you hold, and how to maximize your effectiveness, not just for your [Scrum team]({{< ref "/tags/scrum-team" >}}), but across the entire organization.

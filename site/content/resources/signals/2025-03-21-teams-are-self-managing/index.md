@@ -55,8 +55,8 @@ Watermarks:
   tldr: 2025-08-07T12:34:35Z
 ResourceId: 8EauPhROdZq
 ResourceType: signals
----
 
+---
 “Teams are self-managing. We don’t need a Scrum Master telling us what to do.”
 
 That’s a common misconception. Yes, Scrum is designed for self-managing teams, but self-management is not the absence of structure.

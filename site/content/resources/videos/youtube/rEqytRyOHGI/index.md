@@ -1,5 +1,5 @@
 ---
-title: "Special Sprints: Agile Banditry or Risk Management?"
+title: 'Special Sprints: Agile Banditry or Risk Management?'
 short_title: Special Sprints Undermine Agile Delivery
 description: Explores why special sprints like Sprint Zero or hardening sprints undermine Agile by delaying work, increasing risk, and reducing continuous delivery of usable products.
 tldr: Special sprints like bug-fix or hardening sprints undermine Agile by encouraging teams to defer work and accumulate risk, rather than delivering usable products every sprint. The Azure DevOps team found that relying on a safety net led to overwhelming undone work, but shifting to shipping every sprint improved quality and reduced technical debt. Development managers should eliminate special sprints, ensure each sprint delivers a shippable product, and address issues as they arise to maintain true agility and reduce risk.
@@ -62,8 +62,8 @@ duration: 291
 resourceTypes:
   - video
 isShort: false
----
 
+---
 You can't spend much time in the Agile space without encountering teams doing some kind of special sprints. Whether it's Sprint Zero, refactoring sprints, bug-fix sprints, or hardening sprints, these so-called "special sprints" are quite common. However, let’s cut to the chase: **special sprints are agile banditry**, and those practicing them are bandits in disguise. Here's why they dilute your team's ability to deliver usable, working products, and how you can avoid falling into the same trap.
 
 ## **The Purpose of Agile: Delivering Usable, Working Products**

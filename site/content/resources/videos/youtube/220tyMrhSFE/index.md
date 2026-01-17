@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Team's Efficiency: The Three Core Principles of Caman Workflow Management"
-short_title: "Caman Workflow: Three Core Principles Explained"
-description: "Learn the three key principles of Caman workflow management to boost team efficiency: visualise processes, actively manage tasks, and drive continuous improvement."
+short_title: 'Caman Workflow: Three Core Principles Explained'
+description: 'Learn the three key principles of Caman workflow management to boost team efficiency: visualise processes, actively manage tasks, and drive continuous improvement.'
 tldr: "Caman workflow management focuses on three principles: clearly defining and visualising your team's workflow to improve understanding and spot bottlenecks, actively managing tasks through regular check-ins and prioritisation, and continuously improving processes with feedback and experimentation. Applying these principles can boost team efficiency, collaboration, and adaptability. Consider mapping your workflow and setting up regular reviews to start seeing immediate benefits."
 date: 2024-08-17T19:03:52Z
 lastmod: 2024-08-17T19:03:52Z
@@ -51,8 +51,8 @@ duration: 49
 resourceTypes:
   - video
 isShort: true
----
 
+---
 When I first encountered Caman, I was struck by its simplicity and effectiveness. It’s a framework that resonates deeply with my experiences in agile environments, and I believe it can transform the way teams operate. Today, I want to share the three core principles of Caman that have made a significant impact on my approach to workflow management.
 
 ### 1. Defining and Visualising Your Workflow

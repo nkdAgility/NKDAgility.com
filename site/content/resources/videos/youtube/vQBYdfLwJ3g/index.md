@@ -1,6 +1,6 @@
 ---
-title: "Unlocking the Product Owner Potential: Bridging Theory and Practice in Agile Leadership"
-short_title: "Product Owner Role: Bridging Theory & Practice"
+title: 'Unlocking the Product Owner Potential: Bridging Theory and Practice in Agile Leadership'
+short_title: 'Product Owner Role: Bridging Theory & Practice'
 description: Explores the real-world challenges and expanded responsibilities of product owners, highlighting practical skills, agile leadership, and collaborative learning in organisations.
 tldr: The Product Owner role requires moving beyond theory to practical leadership, taking on broader responsibilities like marketing, sales, and contract negotiation, and influencing key business areas. An immersive, collaborative learning approach helps product owners apply new strategies, share real-world experiences, and learn from peers to drive better outcomes. Development managers should support ongoing learning and cross-functional engagement for their product owners to maximize their impact.
 date: 2023-06-09T07:00:27Z
@@ -50,8 +50,8 @@ duration: 268
 resourceTypes:
   - video
 isShort: false
----
 
+---
 As I reflect on the immersive learning experience of the [Product Owner]({{< ref "/tags/product-owner" >}}) (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations.
 
 ### Understanding the Product Owner Role

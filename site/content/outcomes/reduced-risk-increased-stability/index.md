@@ -4,7 +4,7 @@ short_title: Reduced Risk, Increased Stability
 description: Deploy with confidence and sleep at night. Gain the stability and security that lets you move fast without breaking trust, reputation, or business continuity.
 tldr: Unstable systems and security failures undermine trust and credibility. By creating the conditions for safer delivery, clearer visibility, and proactive risk management, you gain the confidence to deploy reliably while maintaining momentum. Development managers can reduce operational anxiety and build systems where innovation and stability support each other.
 date: 2025-06-01T09:00:00Z
-weight: 500
+weight: 720
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -87,7 +87,7 @@ sections:
     title: What Improves for You
     boxes:
       - box:
-          content: "As a system owner or engineering leader"
+          content: As a system owner or engineering leader
           items:
             - title: Ship with confidence, not anxiety
             - title: Sleep at night without fearing production incidents
@@ -95,7 +95,7 @@ sections:
             - title: Advocate for engineering investment with authority
             - title: Trust that delivery supports strategic goals
       - box:
-          content: "For your organisation"
+          content: For your organisation
           items:
             - title: Operational risk decreases while delivery pace increases
             - title: Security posture strengthens without blocking progress
@@ -103,7 +103,7 @@ sections:
             - title: Leadership gains confidence in technology's reliability
             - title: Business continuity stops being wishful thinking
       - box:
-          content: "For your teams"
+          content: For your teams
           items:
             - title: Manual toil disappears, systemic issues surface
             - title: Quality improves without heroics
@@ -147,7 +147,7 @@ sections:
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: "Stability without bureaucracy. Speed without fragility. **Let's make it real.**"
+      content: Stability without bureaucracy. Speed without fragility. **Let's make it real.**
       button:
         text: Book a Call
         url: /company/book-online
@@ -166,3 +166,4 @@ ResourceId: _QpdqoCkfEl
 ResourceType: outcomes
 
 ---
+

@@ -1,6 +1,6 @@
 ---
 title: Why is Kanban such a popular approach for people in creative industries?
-short_title: "Kanban for Creative Teams: Workflow & Efficiency"
+short_title: 'Kanban for Creative Teams: Workflow & Efficiency'
 description: Explains how Kanban helps creative teams organise workflows, reduce chaos, prioritise tasks, and improve efficiency without stifling creativity, using real-world examples.
 tldr: Kanban is popular in creative industries because it adapts to existing workflows, reduces chaos, and helps teams align on priorities without stifling creativity. It improves efficiency by visualising work, shortening cycle times, and encouraging collective decision-making. Development managers should consider mapping their team's current process with Kanban to enhance collaboration and deliver creative work more predictably.
 date: 2023-08-25T07:00:00Z
@@ -48,8 +48,8 @@ duration: 245
 resourceTypes:
   - video
 isShort: false
----
 
+---
 Creativity, with its boundless landscape, where every spark of inspiration has the potential to morph into a magnum opus, often thrives in a state of organised chaos.  
 
 But when the whirlwind of creative brilliance threatens to scatter ideas like leaves in a storm, [Kanban]({{< ref "/categories/kanban" >}}) steps forward as the beacon of method in the madness. 🎨 

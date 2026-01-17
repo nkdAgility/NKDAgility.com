@@ -4,7 +4,7 @@ short_title: Agile Training for Scrum Masters & Teams
 description: Training courses provide Agile skills for Scrum Masters, Product Owners, and teams, offering immersive and traditional learning tailored to each role’s needs.
 tldr: Our training courses help your team build the skills needed to succeed in Agile by offering role-specific options for Scrum Masters, Product Owners, and team members. Both hands-on and traditional learning formats are available. Consider enrolling your team to strengthen Agile capabilities across roles.
 date: 2024-06-12
-weight: 635
+weight: 675
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -38,7 +38,7 @@ sections:
         text: Book a Mentorship Call
         url: /company/book-online
     boxes: []
-  - title:
+  - title: 
     type: types
     source: mentor-program
   - type: none
@@ -114,14 +114,14 @@ sections:
   - type: boxesrow
     title: What Makes NKD Agility Mentorship Different?
     boxes:
-      - box:
+      - box: 
         title: Typical Experience
         items:
           - title: Training events
           - title: Certifications
           - title: Framework lectures
           - title: Short-term uplift
-      - box:
+      - box: 
         title: NKD Agility Mentorship
         items:
           - title: Embedded guidance in real work
@@ -153,15 +153,15 @@ sections:
   - type: symmetry
     title: Which Mentorship Path Is Right for You?
     boxes:
-      - box:
+      - box: 
         title: If you’re focused on…
         items:
           - title: Team throughput, flow, and delivery outcomes
             icon: fa-users-viewfinder
           - title: Strategic product thinking, leadership, and stakeholder alignment
             icon: fa-users-viewfinder
-      - box:
-        title: "Choose this:"
+      - box: 
+        title: 'Choose this:'
         items:
           - title: Product Development Mentorship
             icon: fa-square-check
@@ -175,8 +175,8 @@ sections:
         text: Book a Call
         url: /company/book-online
     boxes: []
-  - title:
-    content:
+  - title: 
+    content: 
     type: videos
     related:
       - resources/videos/youtube/TCs2IxB118c
@@ -195,6 +195,6 @@ url: /capabilities/mentor-programs/
 icon: fa-people-arrows
 ResourceId: KdeR9TbfRD_
 ResourceType: capabilities
----
 
+---
 Our training courses are designed to equip your team with the skills and knowledge they need to excel in an Agile environment. We offer a variety of courses tailored to different roles, including Scrum Masters, Product Owners, and team members, with both immersive and traditional learning experiences.

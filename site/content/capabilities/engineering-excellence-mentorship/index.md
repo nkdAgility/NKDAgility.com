@@ -4,7 +4,7 @@ short_title: Engineering Excellence Mentorship
 description: A practical guide to effective engineering mentorship, showing how to support growth and excellence with just one focused hour each week.
 tldr: A focused one-hour weekly mentorship program can significantly improve engineering skills and team performance. Regular short sessions help identify challenges early, encourage knowledge sharing, and support continuous growth. Development managers should consider implementing structured weekly mentorship to boost team effectiveness and professional development.
 date: 2025-11-04
-weight: 102
+weight: 840
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -46,21 +46,21 @@ sections:
   - type: boxesrow
     title: Mentorship Service Components
     boxes:
-      - box:
+      - box: 
         title: Technical Guidance
         items:
           - title: Code quality and testing practices
           - title: CI/CD pipeline design and implementation
           - title: Architecture decisions and technical debt strategies
           - title: DevOps practices and tooling selection
-      - box:
+      - box: 
         title: Practice Development
         items:
           - title: Engineering discipline and workflow design
           - title: Team capability assessment and coaching
           - title: Continuous improvement system design
           - title: Technical standards and quality systems
-      - box:
+      - box: 
         title: Ongoing Support
         items:
           - title: Weekly problem-solving sessions
@@ -114,21 +114,21 @@ sections:
     content: |
       Mentorship follows a consistent weekly rhythm, building momentum through regular engagement and sustained focus on engineering capability development.
     boxes:
-      - box:
+      - box: 
         title: Weekly Engagement
         items:
           - title: 60-minute focused mentorship sessions
           - title: Consistent scheduling for sustained momentum
           - title: Regular progress review and guidance
           - title: Ongoing accessibility between sessions
-      - box:
+      - box: 
         title: Topics Covered
         items:
           - title: Engineering practices and technical systems
           - title: CI/CD pipeline design and optimisation
           - title: Code quality and testing strategies
           - title: Architecture decisions and technical debt
-      - box:
+      - box: 
         title: Delivery Approach
         items:
           - title: Problem-solving on real engineering challenges
@@ -140,7 +140,7 @@ sections:
     content: |
       Weekly mentorship addressing engineering practices, technical systems, and delivery capability through consistent engagement.
     boxes:
-      - box:
+      - box: 
         title: Service Format
         content: |
           **Four 60-minute sessions per month**
@@ -148,7 +148,7 @@ sections:
           - Real-time guidance on engineering challenges
           - Consulting, coaching, and technical mentorship combined
           - Clear implementation guidance following each session
-      - box:
+      - box: 
         title: Topics Addressed
         content: |
           - Engineering practices supporting sustainable delivery
@@ -171,7 +171,7 @@ sections:
           Week 4: Reflection and forward planning
   - type: none
     class: sideBySide
-    title: "250+ engineering teams. Decades of impact. One consistent outcome: "
+    title: '250+ engineering teams. Decades of impact. One consistent outcome: '
     subtitle: Engineering excellence
     content: "Martin doesn't theorize about software engineering, he transforms it.\n\nThe Track Record:\n- **17 consecutive years as Microsoft MVP** - a recognition reserved for those who demonstrably advance the software industry\n- **1,000+ engagements across three continents** - from chaotic startups to enterprise-scale transformations\n- **Expert in DevOps, CI/CD, and engineering excellence** - the practices that separate high-performing teams from everyone else\n\n#### What Engineering Leaders Say:\n\n*“Thanks to Martin's guidance and support we successfully upgraded to TFS 2010 from an unstable TFS 2005 database, moved our dev team to Visual Studio 2010 and implemented the finest product build process ever known!*\n \n*I would recommend Martin to anyone, in fact I would insist they use him as he's the best ALM consultant I've worked with.”*\n \nPaul Martin | Interim IT Director\n"
   - type: none
@@ -219,7 +219,6 @@ sections:
         text: Book a Consultation
         url: /company/book-online
     boxes: []
-
 Watermarks:
   description: 2025-11-05T14:53:58Z
   tldr: 2025-11-05T14:54:00Z
@@ -229,4 +228,6 @@ menus:
     parent: Consulting Services
 ResourceId: ozjfdLzy2ra
 ResourceType: capabilities
+
 ---
+

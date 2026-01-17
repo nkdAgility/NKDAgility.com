@@ -1,5 +1,5 @@
 ---
-title: "DevOps: The Practical Path to Modernising Legacy Systems Without Starting Over"
+title: 'DevOps: The Practical Path to Modernising Legacy Systems Without Starting Over'
 short_title: DevOps for Modernising Legacy Systems
 description: Unlock legacy system agility, discover how DevOps transforms slow, brittle tech into fast, scalable, and change-ready platforms without starting from scratch.
 tldr: DevOps enables organisations to modernise legacy systems without starting from scratch by introducing automation, continuous integration and deployment, and observability, which make change safer and more routine. These practices reduce bottlenecks, lower the cost of change, and help teams deliver improvements continuously. Development managers should focus on identifying friction points and adopting DevOps practices to make ongoing system improvements achievable and sustainable.
@@ -56,8 +56,8 @@ resourceTypes:
 isShort: false
 ResourceId: Tr1b0hru0zE
 ResourceType: videos
----
 
+---
 When I walk into organisations wrestling with legacy systems, I see the same story play out time and again. There’s a desire to move faster, to be more responsive, to scale with confidence, but the weight of decades-old decisions drags everything down. These decisions, made with the best intentions and the knowledge available at the time, have become anchors. The risk of change feels insurmountable, and so inertia sets in.
 
 But here’s the thing: you don’t have to live with that pain. You don’t have to accept that legacy means slow, brittle, or unchangeable. The answer, in my experience, is DevOps.

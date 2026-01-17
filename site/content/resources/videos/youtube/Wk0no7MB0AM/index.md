@@ -49,8 +49,8 @@ duration: 59
 resourceTypes:
   - video
 isShort: true
----
 
+---
 In my journey through the world of Agile, I've often encountered various signs that indicate when teams are veering off course. One of the most alarming of these signs is what I like to call "war", a manifestation of team conflict that can derail even the most promising projects.
 
 Now, let me clarify: disagreement is not inherently bad. In fact, it's often the birthplace of innovation. When team members challenge each other's ideas, it can lead to the kind of creative solutions that propel us forward. However, there's a fine line between healthy debate and a full-blown contest where the goal shifts from collaboration to winning the argument.

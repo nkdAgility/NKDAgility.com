@@ -37,8 +37,8 @@ ResourceImportId: 9188
 creator: Martin Hinshelwood
 resourceTypes: blog
 preview: nakedalm-experts-visual-studio-alm-16-16.png
----
 
+---
 Did you know that you can use Teams without areas using a team field in TFS? There are numerous reasons to do this but the decision should not be taken lightly.
 
 Although not the default it will give you greater versatility in configuring for a [single Team Project](http://blog.hinshelwood.com/one-team-project/) with the ability to then use area solely for Product. Lets say that you have a bunch of products and four teams that work on those products. No team particularly owns those Products as you have many more Products than Teams and you have a single backlog of ordered work that represents work across all of those products.

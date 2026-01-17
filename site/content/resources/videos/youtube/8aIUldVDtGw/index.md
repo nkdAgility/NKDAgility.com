@@ -1,5 +1,5 @@
 ---
-title: "Stop Starting and Start Finishing: The Key to Team Success"
+title: 'Stop Starting and Start Finishing: The Key to Team Success'
 short_title: Stop Starting, Start Finishing for Teams
 description: Multitasking reduces team productivity. Learn how focusing on finishing tasks, limiting work in progress, and value-based prioritisation boosts efficiency and business value.
 tldr: Trying to do too many tasks at once reduces team productivity due to context switching and leads to slower delivery and burnout. Focusing on finishing work before starting new tasks, limiting work in progress, and prioritizing by business value helps teams deliver faster and more predictably. Development managers should ensure their teams complete current work before taking on new tasks to maximize efficiency and business impact.
@@ -64,8 +64,8 @@ duration: 496
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In today's fast-paced business environment, there's often a misconception that the more tasks we juggle, the more productive we are. However, as many successful teams have realized, this couldn't be further from the truth. A popular quote from [Lean]({{< ref "/categories/lean" >}}) methodology sums it up perfectly: **"Stop starting and start finishing."** This philosophy emphasizes the importance of focusing on completing work, rather than constantly starting new tasks.
 
 In this blog post, we’ll explore why this mindset is critical for [Scrum]({{< ref "/categories/scrum" >}}) teams and how implementing it can significantly improve efficiency, productivity, and overall business value.

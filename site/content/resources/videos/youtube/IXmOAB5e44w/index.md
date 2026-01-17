@@ -1,5 +1,5 @@
 ---
-title: "Unlock £20 Rewards: Join Our Exciting Referral Program for Collaborative Learning!"
+title: 'Unlock £20 Rewards: Join Our Exciting Referral Program for Collaborative Learning!'
 short_title: £20 Referral Program for Collaborative Learning
 description: Earn £20 credit for each friend you refer to our classes. Both you and your referral get rewards, supporting collaborative learning and building a stronger community.
 tldr: A new referral program offers £20 rewards for both you and your colleagues when you invite them to join classes, encouraging collaborative learning and community building. By sharing a unique code, you both receive discounts or credits, making professional development more cost-effective. Visit the website to get your code and start inviting your team to enhance learning together.
@@ -47,8 +47,8 @@ duration: 147
 resourceTypes:
   - video
 isShort: false
----
 
+---
 I’m excited to share with you a new initiative that I believe will not only enhance your learning experience but also foster a sense of community within our classes. Introducing the **£20 Referral Program**, a simple yet effective way to reward you for bringing your friends and colleagues along on this journey of growth and development.
 
 ### Why a Referral Program?

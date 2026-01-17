@@ -1,5 +1,5 @@
 ---
-title: "Transforming Sprint Reviews: How to Engage Stakeholders and Secure Meaningful Feedback"
+title: 'Transforming Sprint Reviews: How to Engage Stakeholders and Secure Meaningful Feedback'
 short_title: Engaging Stakeholders in Sprint Reviews
 description: Learn practical strategies to boost stakeholder attendance and engagement in Sprint reviews, encouraging valuable feedback and stronger collaboration for product improvement.
 tldr: Sprint reviews often fail to engage stakeholders or generate useful feedback because stakeholders do not see the value or feel emotionally connected to the work. To address this, communicate the benefits of participation early, use visuals, create a safe space for feedback, engage stakeholders before reviews, and tailor your approach to their interests. Development managers should focus on making Sprint reviews relevant and personal to stakeholders to drive better engagement and product outcomes.
@@ -53,8 +53,8 @@ duration: 57
 resourceTypes:
   - video
 isShort: true
----
 
+---
 One of the recurring challenges I encounter in organisations is the struggle that product owners, particularly those who are new to the role, face in securing stakeholder attendance at Sprint reviews. It’s a common scenario: you’ve put in the effort, crafted a compelling presentation, and yet, when the time comes, the room feels more like a ghost town than a vibrant discussion space. Even when stakeholders do show up, getting meaningful feedback can feel like pulling teeth. You ask for their thoughts, and all you hear is the sound of tumbleweeds rolling through the desert.
 
 This situation, in my experience, is fundamentally a marketing issue. The crux of the problem lies in the stakeholders’ lack of understanding of the value of what you’re presenting. If they were truly emotionally engaged with the work, they would be eager to dive into the discussion, share their insights, and provide you with the feedback you need to refine your product. So, how do we bridge this gap? Here are some strategies that I’ve found effective:

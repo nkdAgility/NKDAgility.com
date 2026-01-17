@@ -58,8 +58,8 @@ resourceTypes: blog
 sameAs:
   - https://www.reddit.com/r/scrum/comments/1f9jjqn/the_age_of_the_incompitent_scrum_master/
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
----
 
+---
 As a [DevOps]({{< ref "/categories/devops" >}}) consultant, Agile consultant, and trainer, I’ve worked with hundreds of companies to improve their software [product development]({{< ref "/categories/product-development" >}}). It’s astonishing how many [Scrum]({{< ref "/categories/scrum" >}}) Masters lack even a basic understanding of Scrum, let alone the expertise required to support the teams they work with.
 
 A [significant portion of Scrum Masters (about 61%\*)]({{< ref "/resources/signals/2024-06-03-the-majority-of-scrum-masters-are-not-fit-for-their-position" >}}) have either never read the Scrum Guide, lack technical proficiency relevant to their teams, or have only a superficial grasp of how to apply Scrum principles.

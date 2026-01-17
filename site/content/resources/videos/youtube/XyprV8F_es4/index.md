@@ -1,5 +1,5 @@
 ---
-title: "Empowering Leadership: Driving Cultural Change for Agile Success"
+title: 'Empowering Leadership: Driving Cultural Change for Agile Success'
 short_title: Empowering Leadership for Agile Culture Change
 description: Explores how effective leadership drives cultural change, supports agile practices, and fosters collaboration through vision, automation, learning, and breaking down silos.
 tldr: Leadership is crucial for enabling agile success by setting a clear vision, investing in automation, supporting architectural improvements, fostering continuous learning, and breaking down silos. These actions help teams align with organisational goals, deliver more reliably, and adapt to change. Development managers should prioritise these areas to create a culture that supports frequent, high-quality delivery and ongoing improvement.
@@ -61,8 +61,8 @@ resourceTypes:
 isShort: false
 ResourceId: XyprV8F_es4
 ResourceType: videos
----
 
+---
 In my journey through various organisations, I've come to realise that [leadership]({{< ref "/categories/leadership" >}}) plays a pivotal role in driving cultural and [organisational change]({{< ref "/tags/organisational-change" >}}). This change is essential for supporting frequent and reliable deployments across multiple teams. Today, I want to share some insights on how leaders can effectively facilitate this transformation, drawing from my experiences and observations.
 
 ### Setting a Clear Vision and Goals

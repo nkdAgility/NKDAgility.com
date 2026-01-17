@@ -4,7 +4,7 @@ short_title: AI Opportunity Discovery
 description: Discover where AI creates value in your organisation. Problem-first consulting that helps you identify high-impact opportunities, build structured context, and move from AI hype to disciplined adoption.
 tldr: This capability helps organisations identify where AI creates value by focusing on real problems rather than technology trends. Through structured discovery and context building, you gain clarity on which opportunities matter, what success looks like, and how to prioritise intelligently. Suitable for organisations seeking disciplined AI adoption without chasing hype.
 date: 2025-09-26
-weight: 130
+weight: 855
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -20,7 +20,7 @@ type: capabilities
 sections:
   - type: headline
     headline:
-      title: "AI Opportunity Discovery & Context Sourcing"
+      title: AI Opportunity Discovery & Context Sourcing
       subtitle: Problem-First AI Adoption
       content: |
         You see AI everywhere but struggle to see where it creates value for you.
@@ -62,19 +62,19 @@ sections:
     content: |
       AI adoption fails when organisations chase technology instead of solving problems. This capability helps you avoid that pattern.
     boxes:
-      - box:
+      - box: 
         title: Strategic Clarity
         items:
           - title: See where AI creates value, not just where it can be applied
           - title: Understand which opportunities align with business strategy
           - title: Make better decisions about AI investment and direction
-      - box:
+      - box: 
         title: Reduced Risk
         items:
           - title: Avoid chasing AI trends that don't fit your context
           - title: Build on structured evidence, not vendor promises
           - title: Focus effort on problems you can actually solve
-      - box:
+      - box: 
         title: Team Capability
         items:
           - title: Enable your teams to identify and evaluate AI opportunities
@@ -114,7 +114,7 @@ sections:
   - type: symmetry
     title: The Problem-First Difference
     boxes:
-      - box:
+      - box: 
         title: Technology-First Approach
         items:
           - title: Starts with AI capabilities and looks for problems
@@ -125,7 +125,7 @@ sections:
             icon: fa-face-nose-steam
           - title: High investment with unclear return
             icon: fa-face-tired
-      - box:
+      - box: 
         title: Problem-First Approach
         items:
           - title: Starts with real problems and evaluates whether AI helps
@@ -225,4 +225,6 @@ menus:
     parent: Consulting Services
 ResourceId: p7M4Bv_h_Pa
 ResourceType: capabilities
+
 ---
+

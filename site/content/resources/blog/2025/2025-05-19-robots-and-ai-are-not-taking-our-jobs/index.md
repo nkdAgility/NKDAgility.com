@@ -33,8 +33,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:03Z
 ResourceId: F0yVBj8Tx8H
 ResourceType: blog
----
 
+---
 The future is not about humans fighting to keep soul-crushing work. It is about letting go of the roles we invented to dehumanise ourselves.
 
 We created jobs like scanning groceries, cleaning toilets, packing boxes, and driving taxis not because they were noble pursuits, but because we needed to systematise output. We shaped them at the height of industrialisation under the false assumption that most people were incapable of thinking critically or creatively. That assumption was, and remains, wrong.

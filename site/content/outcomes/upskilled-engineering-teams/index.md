@@ -4,7 +4,7 @@ short_title: Upskilled Engineering Teams
 description: Build engineering capability that becomes competitive advantage. Teams gain the confidence, technical depth, and modern practices to deliver reliably without external dependency or knowledge concentration.
 tldr: Engineering capability becomes competitive advantage when teams build technical depth, modern practices, and delivery confidence. You reduce dependency on contractors, distribute knowledge across the team, and create conditions where engineers grow while delivery continues. Capability building replaces endless hiring.
 date: 2025-06-04
-weight: 500
+weight: 600
 sitemap:
   filename: sitemap.xml
   priority: 0.9
@@ -78,21 +78,21 @@ sections:
   - type: boxesrow
     title: What Changes for You
     boxes:
-      - box:
+      - box: 
         title: Strategic Control
         items:
           - title: Reduced dependency on external contractors
           - title: Internal capability drives technology decisions
           - title: Knowledge retention through team ownership
           - title: Succession planning through distributed expertise
-      - box:
+      - box: 
         title: Engineering Economics
         items:
           - title: Capability building vs endless hiring
           - title: Faster onboarding and time to contribution
           - title: Reduced rework through better practices
           - title: Engineering reputation attracts top talent
-      - box:
+      - box: 
         title: Delivery Confidence
         items:
           - title: Teams own their systems and can change them safely
@@ -149,19 +149,19 @@ sections:
   - type: outcomeboxes
     title: You Experience
     boxes:
-      - box:
+      - box: 
         items:
           - title: Confidence in your team's ability to deliver
           - title: Strategic control through internal capability
           - title: Reduced stress from managing technical decisions
           - title: Pride in your team's growing reputation
-      - box:
+      - box: 
         items:
           - title: Knowledge distributing naturally across the team
           - title: Modern engineering practices becoming standard
           - title: Contractors becoming optional, not required
           - title: Capability building replacing endless hiring
-      - box:
+      - box: 
         items:
           - title: Engineering becoming competitive advantage
           - title: Top talent staying because they grow
@@ -187,4 +187,6 @@ creator: Martin Hinshelwood
 icon: fa-graduation-cap
 ResourceId: SepceedTcGN
 ResourceType: outcomes
+
 ---
+

@@ -49,8 +49,8 @@ Watermarks:
   tldr: 2025-08-07T12:33:57Z
 ResourceId: f6S9lWfTQaQ
 ResourceType: signals
----
 
+---
 Every time I hear, “We don’t have time for automation,” I know exactly what’s coming next.
 
 - Regressions slowing down releases

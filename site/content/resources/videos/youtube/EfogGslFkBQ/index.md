@@ -1,5 +1,5 @@
 ---
-title: "Avoiding Agile Banditry: Why Story Points and Velocity Are Misleading Metrics"
+title: 'Avoiding Agile Banditry: Why Story Points and Velocity Are Misleading Metrics'
 short_title: Why Story Points and Velocity Mislead Agile Teams
 description: Explains why story points and velocity can mislead Agile teams, and recommends focusing on throughput, cycle time, and customer value for effective performance measurement.
 tldr: Story points and velocity often distract teams from delivering real customer value and can lead to counterproductive behaviors, especially when used as performance measures or written into contracts. Instead, focus on metrics like throughput and cycle time, which better reflect actual progress and value delivery. Use story points only for internal team discussions, then discard them, and never include them in contracts or external reporting.
@@ -58,8 +58,8 @@ duration: 293
 resourceTypes:
   - video
 isShort: false
----
 
+---
 **Introduction to Agile Metrics: The Pitfall of Story Points and Velocity**
 
 When it comes to Agile teams, many fall into the trap of focusing on **story points** and **velocity** as key metrics for success. While they may seem helpful, they often lead to inefficiency and distraction from what truly matters, delivering value to customers.

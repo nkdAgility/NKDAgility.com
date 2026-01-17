@@ -44,8 +44,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:07Z
 ResourceId: PWgzGL20QAo
 ResourceType: signals
----
 
+---
 Resilience is not a department. It's not a project. It's not an afterthought.
 
 It is a product capability.

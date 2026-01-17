@@ -1,6 +1,6 @@
 ---
-title: "Beyond the Agile Illusion: Embracing True Agility in a World of Taylorism"
-short_title: "Beyond the Agile Illusion: True Agility"
+title: 'Beyond the Agile Illusion: Embracing True Agility in a World of Taylorism'
+short_title: 'Beyond the Agile Illusion: True Agility'
 description: Explores the difference between true agility and superficial agile practices, highlighting the impact of Taylorism and offering steps to foster genuine agile culture.
 tldr: Many teams claim to be agile but still operate with outdated management mindsets that stifle autonomy and engagement, leading to low adoption of core agile practices like short iterations and retrospectives. True agility requires transparency, regular feedback, and a focus on delivering value rather than just completing tasks. Development managers should assess whether their teams meet these criteria and actively foster a culture that supports genuine agile principles.
 date: 2020-07-21T18:00:53Z
@@ -49,8 +49,8 @@ duration: 4809
 resourceTypes:
   - video
 isShort: false
----
 
+---
 As I reflect on my recent experiences with agile practices and the challenges that many organisations face, I find myself drawn to the concept of [transparency]({{< ref "/tags/transparency" >}}) and the importance of understanding what it truly means to be agile. In a world where 81% of development teams claim to be agile, it’s crucial to ask ourselves: are we genuinely embracing the principles of agility, or are we merely paying lip service to the idea?
 
 ### The Tyranny of Taylorism

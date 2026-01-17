@@ -45,8 +45,8 @@ Watermarks:
   tldr: 2025-07-30T23:12:39Z
 ResourceId: k-kqjqSgdGx
 ResourceType: blog
----
 
+---
 **Most organisations still believe that managing multiple projects means a better organisation. It doesn’t. It could just be hiding your problems or even creating them.**
 
 If you’re still using multiple team projects in Azure DevOps to represent every application, every team, or every product, you may be paying the price in fragmentation, lost observability, and poor flow. That might have made sense in TFS 2005, but it's a liability in 2025.

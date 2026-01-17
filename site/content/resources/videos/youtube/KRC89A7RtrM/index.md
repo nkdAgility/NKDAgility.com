@@ -1,5 +1,5 @@
 ---
-title: "Unlocking TFS: Mastering Permissions for Seamless Team Collaboration"
+title: 'Unlocking TFS: Mastering Permissions for Seamless Team Collaboration'
 description: Learn how to configure Team Foundation Server (TFS) permissions and access levels to enable full feature access and improve team collaboration and project management.
 date: 2014-01-15T14:55:37Z
 lastmod: 2014-01-15T14:55:37Z
@@ -39,8 +39,8 @@ duration: 164
 resourceTypes:
   - video
 isShort: false
----
 
+---
 When I first opened Team Foundation Server (TFS), I encountered a common hurdle that many users face: a message indicating that some features of Team Web Access were not visible to me. Initially, I was directed to an MSDN article that promised a solution, but I quickly realised that the fix was much simpler than it seemed. The key? Having the right administrative access on the TFS server, not just on the collection, but on the entire server itself.
 
 ### Navigating TFS Permissions

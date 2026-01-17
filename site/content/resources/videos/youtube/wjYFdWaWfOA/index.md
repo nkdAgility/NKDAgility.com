@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Team Potential: The Essential Role of a Scrum Master in Agile Success"
+title: 'Unlocking Team Potential: The Essential Role of a Scrum Master in Agile Success'
 short_title: The Essential Role of a Scrum Master in Agile
 description: Explains how a Scrum Master empowers Agile teams by bridging business, technical, and organisational needs to boost effectiveness, collaboration, and delivery outcomes.
 tldr: A Scrum Master is essential for team effectiveness because they guide teams by understanding business needs, technical practices like DevOps, and organisational change. Without this role, teams often struggle to deliver value quickly and improve continuously. Development managers should ensure their teams have access to a skilled Scrum Master or equivalent expertise to maximize productivity and quality.
@@ -53,8 +53,8 @@ duration: 299
 resourceTypes:
   - video
 isShort: false
----
 
+---
 When I reflect on the role of a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself thinking of them as a guide, perhaps a "Scrum Guide" would be a more fitting title, but alas, that name is already taken. The essence of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) lies in their deep technical understanding of Agile principles, practices, and the various methodologies that underpin them. They are there to empower the team, equipping them with the knowledge, tools, and skills necessary to make informed decisions within their specific context.
 
 ### Understanding the Context

@@ -1,5 +1,5 @@
 ---
-title: "Unlocking the Power of Double-Loop Learning: Transform Your Scrum Master Journey with Immersive Training"
+title: 'Unlocking the Power of Double-Loop Learning: Transform Your Scrum Master Journey with Immersive Training'
 short_title: Double-Loop Learning for Scrum Masters
 description: Explore how immersive, double-loop learning in Professional Scrum Master training helps Scrum Masters apply theory, reflect, and collaborate to solve real-world challenges.
 tldr: Immersive Professional Scrum Master training enables deeper learning by encouraging participants to question existing practices, apply new strategies, and collaborate with peers from diverse backgrounds. This approach helps Scrum Masters tackle real-world challenges, uncover organisational barriers, and continuously improve their methods. Consider enrolling in immersive training to foster a culture of reflection and shared problem-solving within your teams.
@@ -53,8 +53,8 @@ duration: 233
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, I've often found that the most profound learning experiences come not just from theory, but from the practical application of that theory in real-world scenarios. This is precisely what the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master (PSM) immersive learning experience offers, a unique opportunity for double-loop learning.
 
 ### The Power of Double-Loop Learning

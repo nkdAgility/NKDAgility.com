@@ -49,8 +49,8 @@ resourceTypes:
 isShort: false
 ResourceId: Q69amJJ8iJY
 ResourceType: videos
----
 
+---
 One of the most common, and frankly, most damaging, mistakes I see organizations make when they set out to “do DevOps” or pursue engineering excellence is this: they outsource the whole thing to a vendor. It’s a pattern I’ve seen repeated across industries and continents, and it almost always leads to the same set of problems.
 
 Let’s be clear: outsourcing your DevOps transformation is the least likely way to achieve a positive, sustainable outcome for your business. Why? Because you’re not just buying a set of tools or a shiny new pipeline. You’re buying a black box, one that your own engineers don’t understand, can’t maintain, and will inevitably become dependent on. This is the very definition of vendor lock-in, and it’s a trap that’s both expensive and difficult to escape.

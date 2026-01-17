@@ -58,8 +58,8 @@ Watermarks:
   tldr: 2025-08-07T12:32:36Z
 ResourceId: 0A8ONYVbWlL
 ResourceType: signals
----
 
+---
 Let’s be blunt:
 
 Those expected to deliver results must have control over what influences their delivery.

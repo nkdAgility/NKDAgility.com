@@ -53,8 +53,8 @@ Watermarks:
   tldr: 2025-08-07T12:34:22Z
 ResourceId: xdKHhjboUgT
 ResourceType: signals
----
 
+---
 Most companies trying to "adopt agility" fail because they think it’s an IT problem.
 
 It’s not.

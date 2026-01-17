@@ -47,8 +47,8 @@ Watermarks:
   tldr: 2025-08-07T12:39:33Z
 ResourceId: lVebZgXa1DP
 ResourceType: signals
----
 
+---
 I keep hearing people justify bad behaviour in Agile teams by saying, “That’s how Agile works.” No. It isn’t.
 
 Agility isn’t an excuse for chaos, poor planning, or avoiding accountability. True agility requires more discipline, not less. More planning, more diligence, more professionalism.

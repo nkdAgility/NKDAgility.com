@@ -1,5 +1,5 @@
 ---
-title: "Embracing Chastity in Agile: Why Taking Your Time is Key to True Transformation"
+title: 'Embracing Chastity in Agile: Why Taking Your Time is Key to True Transformation'
 short_title: Patience and Inclusivity in Agile Transformation
 description: Explores the importance of patience in agile adoption, highlighting inclusive decision-making, stakeholder engagement, and thoughtful organisational change for lasting impact.
 tldr: Rushing into agile practices without fully understanding their impact can lead to shallow adoption and missed opportunities. True transformation requires involving your team in decision-making, aligning organisational and individual goals, and using inclusive tools to support cultural change. Take a deliberate, thoughtful approach to implementing agile and seek expert guidance if needed to ensure lasting results.
@@ -47,8 +47,8 @@ duration: 142
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the realm of agility, one of the seven virtues that often gets overlooked is chastity. Now, before you raise an eyebrow, let me clarify: in our agile context, chastity is all about taking your time. It’s about resisting the urge to rush into the implementation of agile practices without fully understanding the implications of those changes within your organisation.
 
 When we think we’ve successfully adopted agile, it’s tempting to dive headfirst into the myriad of tools and processes available. However, I’ve learned through experience that this can lead to a superficial understanding of agility. The truth is, the implications of agile extend far beyond just the mechanics of how we work. Here are a few key points to consider:

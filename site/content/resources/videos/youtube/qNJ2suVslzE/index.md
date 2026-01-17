@@ -1,5 +1,5 @@
 ---
-title: "Transforming Scope Creep into Success: Embrace Agility and Deliver Value in a Changing Market"
+title: 'Transforming Scope Creep into Success: Embrace Agility and Deliver Value in a Changing Market'
 short_title: Transforming Scope Creep with Agile Value
 description: Learn how to turn scope creep into an advantage by adopting Agile methods, focusing on value delivery, and adapting to changing requirements in dynamic markets.
 tldr: Scope creep is often a sign that traditional fixed-scope approaches are failing in today’s fast-changing market. Focusing on delivering customer value, embracing flexible planning, and actively seeking feedback helps teams adapt and succeed. Development managers should shift from rigid scope management to Agile practices that prioritize value and responsiveness to change.
@@ -60,8 +60,8 @@ resourceTypes:
 isShort: false
 ResourceId: qNJ2suVslzE
 ResourceType: videos
----
 
+---
 If you're grappling with scope creep, you're not alone. It's a common challenge that many teams face, and often, it stems from relying on outdated practices and philosophies that were designed for a world of low variance. In environments where change is minimal, creating a detailed plan or Gantt chart seems effective. You can run the plan, manage risks, and feel in control. However, when the variance, the gap between your expectations and reality, exceeds 50%, those traditional tools start to falter, leading to the dreaded scope creep.
 
 ### Understanding Scope Creep

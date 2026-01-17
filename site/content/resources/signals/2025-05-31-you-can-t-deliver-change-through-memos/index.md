@@ -58,8 +58,8 @@ Watermarks:
   tldr: 2025-08-07T12:29:09Z
 ResourceId: _CXFN2swhdy
 ResourceType: signals
----
 
+---
 You can’t deliver change through memos. Or tool rollouts. Or executive mandates. If people don’t understand the change, they’ll resist it. Silently. Subtly. And completely.
 
 Train everyone. Yes, everyone.

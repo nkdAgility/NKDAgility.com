@@ -48,8 +48,8 @@ duration: 205
 resourceTypes:
   - video
 isShort: false
----
 
+---
 [Scrum]({{< ref "/categories/scrum" >}}) and the Myth of "Twice the Work in Half the Time"
 
 I often find myself reflecting on the phrase, "Scrum allows you to do twice the work in half the time." It’s a catchy tagline, isn’t it? One that seems to promise a miraculous transformation in productivity. But let’s be honest, this is more of a marketing gimmick than a reality.

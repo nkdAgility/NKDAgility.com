@@ -58,8 +58,8 @@ Watermarks:
   tldr: 2025-08-07T12:35:00Z
 ResourceId: 14E6bk6Lmo4
 ResourceType: signals
----
 
+---
 Velocity isn’t how many story points a team burns down. It’s how quickly you can turn an idea into value. That’s why the Azure DevOps team measured it using four key metrics:
 
 1. Time to Build: From code change to a successful build. Faster builds mean faster feedback.

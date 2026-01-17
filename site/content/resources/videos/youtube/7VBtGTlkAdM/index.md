@@ -45,8 +45,8 @@ duration: 55
 resourceTypes:
   - video
 isShort: true
----
 
+---
 ## The Double-Edged Sword of Consulting Contracts
 
 Hello, Agile and Consulting Community!  Today, we will discuss navigating the pitfalls of gaining traction for your consulting engagement.  ⚔️

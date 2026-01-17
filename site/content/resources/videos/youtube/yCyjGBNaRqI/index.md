@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Naked Agility: How Happy Teams Drive Exceptional Products"
+title: 'Unlocking Naked Agility: How Happy Teams Drive Exceptional Products'
 short_title: How Happy Teams Create Exceptional Products
 description: Explores how team happiness, autonomy, mastery, and purpose drive engagement and lead to higher-quality, more impactful products in agile organisations.
 tldr: Happy, engaged teams are essential for building exceptional products; when people have autonomy, opportunities for growth, and a clear sense of purpose, their motivation and output improve significantly. Managers should empower decision-making, invest in skill development, and clearly communicate the vision to foster this environment. Prioritising team well-being leads to better products and more satisfied customers, so focus on creating a culture where your teams can thrive.
@@ -54,8 +54,8 @@ duration: 174
 resourceTypes:
   - video
 isShort: false
----
 
+---
 Creating great teams is at the heart of what I call "naked agility." It’s a straightforward concept, yet it’s often overlooked in the hustle and bustle of organisational life. If we have unhappy, disengaged people, we can’t expect to produce exceptional work or build outstanding products. As customers and users, we deserve better than mediocre offerings; we deserve products that enhance our experiences and help us achieve our goals.
 
 ### The Importance of Happy Teams

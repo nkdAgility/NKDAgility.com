@@ -1,5 +1,5 @@
 ---
-title: "The Power of Immersive Learning in Scrum Training: Why Less Is More"
+title: 'The Power of Immersive Learning in Scrum Training: Why Less Is More'
 short_title: Immersive Learning for Effective Scrum Training
 description: Explores how immersive, bite-sized learning in Scrum training boosts retention, engagement, and real-world application by reducing information overload and promoting reflection.
 tldr: Immersive learning, which breaks Scrum training into smaller, digestible pieces with time for reflection and practice, leads to better retention, higher engagement, and more effective application of knowledge than traditional intensive methods. Applying Scrum principles like iteration and adaptation to learning helps prevent information overload and supports continuous improvement. Development managers should structure training in short, focused sprints and encourage regular reflection to maximize learning outcomes for their teams.
@@ -46,8 +46,8 @@ duration: 43
 resourceTypes:
   - video
 isShort: true
----
 
+---
 One of the most rewarding aspects of teaching [Scrum]({{< ref "/categories/scrum" >}}) is watching students _truly_ absorb what they’re learning. But let’s be honest, traditional learning methods can sometimes feel overwhelming, especially in intensive courses. Have you ever heard the term “drinking from a fire hose”? It’s a phrase I hear often in relation to training, and I’ll admit, it’s accurate.
 
 But here’s the thing, I’ve found a better way. Let’s explore the magic of immersive learning and why **bite-sized** learning experiences make all the difference.

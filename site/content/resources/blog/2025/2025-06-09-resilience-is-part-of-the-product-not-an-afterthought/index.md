@@ -39,8 +39,8 @@ Watermarks:
   tldr: 2025-08-07T12:11:29Z
 ResourceId: EtzHUfsWjsD
 ResourceType: blog
----
 
+---
 Resilience is not a nice-to-have. It is not a department. It is not something you bolt on later if you get around to it. Resilience is part of the product. If you are serious about delivering value, you design resilience deliberately from day one. Any other approach is just gambling with your business, and is adding to your [technical debt]({{< ref "/tags/technical-debt" >}}).
 
 Real resilience is not about having good people with pagers. It is not about heroes. Heroes emerge when systems lack resilience. They hoard work, avoid [transparency]({{< ref "/tags/transparency" >}}), and justify cutting corners by claiming they are "doing whatever it takes." In reality, they introduce silent risks, undermine teamwork, and erode quality standards.

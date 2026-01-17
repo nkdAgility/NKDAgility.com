@@ -1,6 +1,6 @@
 ---
-title: "DevOps: Elevating Your Organization’s Performance Through Bespoke Solutions"
-short_title: "DevOps: Tailored Strategies for Performance"
+title: 'DevOps: Elevating Your Organization’s Performance Through Bespoke Solutions'
+short_title: 'DevOps: Tailored Strategies for Performance'
 description: Learn how tailored DevOps strategies help organisations assess current practices, streamline processes, ensure compliance, and boost software quality and delivery frequency.
 tldr: Tailoring DevOps to your organization’s unique needs starts with assessing your current state, streamlining processes, and choosing the right tools, which leads to higher quality and more frequent software deliveries. Key actions include conducting solo interviews to uncover real issues, automating and rationalizing tools, and empowering teams with end-to-end ownership while ensuring compliance does not block DevOps practices. Start with small, controlled deployments and strategic timing to minimize risk and maximize efficiency.
 date: 2024-08-16T07:18:10Z
@@ -50,8 +50,8 @@ duration: 584
 resourceTypes:
   - video
 isShort: false
----
 
+---
 In the fast-evolving world of [software development]({{< ref "/tags/software-development" >}}) and operations, no two organizations are the same. Every company, every team, and every goal is unique, requiring a tailored approach to [DevOps]({{< ref "/categories/devops" >}}) that aligns with specific needs and objectives. In this post, we’ll explore how understanding your current state, streamlining practices, and adopting the right tools can lead to higher quality, more frequent deliveries, and reduced friction in your software development process.
 
 ## **Understanding the Current State with DevOps Reports**

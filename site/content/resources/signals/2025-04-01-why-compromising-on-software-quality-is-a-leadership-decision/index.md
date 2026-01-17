@@ -45,8 +45,8 @@ Watermarks:
   tldr: 2025-08-07T12:34:12Z
 ResourceId: 3YDTlhSlU4A
 ResourceType: signals
----
 
+---
 Would your CFO sign off on a financial report that was “mostly accurate”? Would your legal team approve a contract that “should be enforceable”? No?
 
 Then why do organisations think it’s acceptable to compromise on software quality?

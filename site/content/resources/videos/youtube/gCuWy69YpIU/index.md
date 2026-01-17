@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Engineering Excellence: How Azure DevOps Transforms Traceability, Transparency, and the Developer Experience"
+title: 'Unlocking Engineering Excellence: How Azure DevOps Transforms Traceability, Transparency, and the Developer Experience'
 short_title: Why Azure DevOps Is a Unified Platform
 description: Unlock engineering excellence with Azure DevOps, boost traceability, transparency, and developer experience for agile, high-performing teams.
 tldr: Azure DevOps is a comprehensive platform that enhances engineering excellence by providing end-to-end traceability, transparency, and an integrated developer experience across planning, code, builds, and testing. Key benefits include instant visibility into what is deployed where, streamlined audit and compliance processes, and reduced friction between developers and testers. Development managers should ensure their teams fully leverage Azure DevOps’ capabilities to improve collaboration, accountability, and product quality.
@@ -51,8 +51,8 @@ resourceTypes:
 isShort: false
 ResourceId: gCuWy69YpIU
 ResourceType: videos
----
 
+---
 Azure DevOps: More Than a Toolset, A Platform for Engineering Excellence
 
 When I talk to teams about Azure DevOps, I often see it misunderstood as just another set of tools. But that’s missing the point entirely. Azure DevOps is not simply a collection of features, it’s a platform for engineering excellence, designed to enable transparency, traceability, and a truly collaborative developer experience.

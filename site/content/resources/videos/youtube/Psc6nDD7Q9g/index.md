@@ -60,8 +60,8 @@ duration: 57
 resourceTypes:
   - video
 isShort: true
----
 
+---
 In the fast-paced world of software engineering, uncertainty is the only certainty. What we expect to happen often diverges dramatically from what actually unfolds during the process. This variance can cause significant challenges, but it also presents opportunities for teams to learn, adapt, and improve. One powerful tool for gaining clarity and creating space for [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) is **[Kanban]({{< ref "/categories/kanban" >}})**.
 
 Kanban is more than just a method; it’s a mindset. It offers [transparency]({{< ref "/tags/transparency" >}}) into your existing system, helping teams gain valuable insights into their processes and identify areas for improvement. In this blog post, we’ll explore how understanding your system through Kanban can transform your workflow and foster an environment of [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) and improvement.

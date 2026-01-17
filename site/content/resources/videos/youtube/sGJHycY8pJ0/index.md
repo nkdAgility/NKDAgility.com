@@ -1,5 +1,5 @@
 ---
-title: "The Open Guide to Kanban: Unlocking Collaborative Flow and Real-World Value for Every Team"
+title: 'The Open Guide to Kanban: Unlocking Collaborative Flow and Real-World Value for Every Team'
 short_title: Open Guide to Kanban Launch Event
 description: Unlock better flow and real value with the Open Guide to Kanban, a practical, community-driven resource for teams in any industry. Join the movement!
 tldr: The Open Guide to Kanban is a collaborative, community-driven resource that makes Kanban accessible and practical for all teams, focusing on real-world value rather than rigid rules or jargon. It encourages managers and teams to start small, visualize work, and continuously improve by contributing to and adapting the guide. Managers should engage directly with their teams, use the guide to enhance visibility and flow, and participate in the community to solve real problems together.
@@ -53,8 +53,8 @@ resourceTypes:
 isShort: false
 ResourceId: sGJHycY8pJ0
 ResourceType: videos
----
 
+---
 The Open Guide to Kanban: A New Chapter in Collaborative Flow
 
 If you’ve been around the agile and lean communities for any length of time, you’ll know that debates about “the right way” to do things are as common as post-it notes at a retrospective. I’ve seen it all: the echo chambers, the rock-throwing from the sidelines, the endless arguments over whether it’s “work in progress” or “work in process.” But every so often, something genuinely collaborative emerges, something that brings together practitioners from across the spectrum, not to win arguments, but to help people solve real problems. The Open Guide to Kanban is one of those rare achievements.

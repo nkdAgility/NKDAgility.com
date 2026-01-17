@@ -45,8 +45,8 @@ Watermarks:
   tldr: 2025-08-07T12:40:06Z
 ResourceId: un1ZqM8aYng
 ResourceType: signals
----
 
+---
 Supporting multiple versions in production is a hidden tax on engineering teams.
 
 Every version adds:

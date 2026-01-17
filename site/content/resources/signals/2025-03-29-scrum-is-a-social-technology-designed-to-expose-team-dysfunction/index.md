@@ -53,8 +53,8 @@ Watermarks:
   tldr: 2025-08-07T12:34:18Z
 ResourceId: CNqQyGHkbF3
 ResourceType: signals
----
 
+---
 Scrum isn’t a process, it’s a social technology designed to expose dysfunction.
 
 - The Scrum Master ensures Scrum is applied effectively.

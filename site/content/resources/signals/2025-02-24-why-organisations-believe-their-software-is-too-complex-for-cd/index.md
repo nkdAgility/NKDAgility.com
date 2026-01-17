@@ -52,8 +52,8 @@ Watermarks:
   tldr: 2025-08-07T12:35:50Z
 ResourceId: T-sHn-OUIvR
 ResourceType: signals
----
 
+---
 Every organisation claims their software is too complex for continuous delivery. It’s not. Complexity is an excuse, not a blocker.
 
 Microsoft’s Azure DevOps team proved it. They moved from shipping new features every two years to every three weeks. At their peak, they were delivering nearly 300 features annually. This wasn’t because their codebase got simpler, it didn’t. They invested in quality practices, tackled technical debt head-on, and built the pipelines needed to deliver continuously.

@@ -1,5 +1,5 @@
 ---
-title: "Unlocking the True Potential of Scrum: Why Professionalism Matters in Agile Teams"
+title: 'Unlocking the True Potential of Scrum: Why Professionalism Matters in Agile Teams'
 short_title: Professionalism in Scrum for Agile Teams
 description: Explores how true professionalism in Scrum enables Agile teams to deliver production-ready products, highlighting the importance of transparency, standards, and work ethic.
 tldr: Many software teams fall short of Scrum’s true potential because organizations prioritize speed over professionalism, leading to shortcuts and unprofessional practices. Achieving real value with Scrum requires a commitment to transparency, production-ready increments each iteration, and honest assessment of current capabilities, often revealing significant gaps. Development managers should focus on fostering a professional work ethic and closing these gaps to unlock Scrum’s full benefits.
@@ -53,8 +53,8 @@ duration: 369
 resourceTypes:
   - video
 isShort: false
----
 
+---
 Do teams truly grasp the power of applying [Scrum]({{< ref "/categories/scrum" >}}) professionally? This is a challenging and somewhat contentious question. In my experience, many teams I've encountered operate more like amateurs than professionals. This isn't necessarily their fault; it's often a reflection of the expectations set by their organisations. Too frequently, companies don't demand professionalism; instead, they push for speed and output, which leads us, as software engineers, to adopt shortcuts that prioritise the easy, fast, and cheap over the right way of doing things. This environment fosters unprofessional behaviour and ultimately undermines the potential of Scrum.
 
 ### Understanding Professional Behaviour

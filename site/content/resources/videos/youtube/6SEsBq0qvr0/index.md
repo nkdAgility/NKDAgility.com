@@ -1,5 +1,5 @@
 ---
-title: "Acceptance Criteria vs Definition of Done: Why Getting This Right Builds Trust and Delivers Quality Faster"
+title: 'Acceptance Criteria vs Definition of Done: Why Getting This Right Builds Trust and Delivers Quality Faster'
 short_title: Acceptance Criteria vs Definition of Done
 description: Stop confusing acceptance criteria with definition of done, learn the crucial difference to boost quality, speed, and trust in your agile delivery.
 tldr: Acceptance criteria specify what each backlog item must do, while the definition of done sets the minimum quality standards for all work. Confusing the two leads to missed requirements, technical debt, and loss of trust. Make both explicit and review them regularly to ensure faster delivery and consistent quality.
@@ -56,8 +56,8 @@ resourceTypes:
 isShort: false
 ResourceId: 6SEsBq0qvr0
 ResourceType: videos
----
 
+---
 I see this confusion time and again: teams muddling up acceptance criteria with the definition of done. It’s a subtle distinction, but one that, if ignored, leads to missed expectations, hidden risks, and ultimately, broken trust between teams and stakeholders. Let’s be clear, one defines quality, the other defines scope. If you want to move fast without cutting corners, you need to get this right.
 
 Acceptance Criteria: The Specifics

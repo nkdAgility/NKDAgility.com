@@ -48,8 +48,8 @@ Watermarks:
 resourceTypes: newsletter
 ResourceId: AORP41zLNTi
 ResourceType: newsletters
----
 
+---
 Modern software organisations don’t fail because of weak teams; they fail because leadership tolerates bad system design , in code, in team structure, and in delivery practice.
 
 This issue calls on CTOs and development managers to **step up as technical leaders** who shape the system, not just manage people.

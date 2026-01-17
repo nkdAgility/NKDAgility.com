@@ -39,8 +39,8 @@ Watermarks:
 ResourceId: bvPDNFJju4h
 ResourceType: newsletters
 resourceTypes: newsletter
----
 
+---
 **Dear Innovators and Product Enthusiasts,**
 
 **Only 5 days left!** This is your last chance to join us for the Professional [Product Validation]({{< ref "/tags/product-validation" >}}) and Discovery Workshop from [Scrum]({{< ref "/categories/scrum" >}}).org!

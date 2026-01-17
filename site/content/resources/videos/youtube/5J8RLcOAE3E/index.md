@@ -45,6 +45,7 @@ tags:
   - Technical Excellence
   - Working Software
   - Product Delivery
+  - Adaptive Operating Model
   - Customer Focus
 Watermarks:
   description: 2025-05-07T12:49:55Z
@@ -60,8 +61,8 @@ resourceTypes:
 isShort: false
 ResourceId: 5J8RLcOAE3E
 ResourceType: videos
----
 
+---
 I often find myself in discussions about the best practices for enabling [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) within teams. It’s a question that comes up frequently, and I want to address it head-on: there are no best practices in complex environments. Best practices are a concept that applies to simple tasks in straightforward situations where a procedure can be followed consistently to achieve the same results. However, the world we operate in is anything but simple.
 
 Instead, I prefer to say that there are only adequate practices tailored to the specific situation at hand, and these practices can, and often do, change. This is a fundamental truth we must embrace. While we may not have a one-size-fits-all solution, there are several practices that many organisations have successfully leveraged to enhance their continuous delivery efforts. Let’s explore some of these practices and how they can support cross-functional collaboration without compromising quality.

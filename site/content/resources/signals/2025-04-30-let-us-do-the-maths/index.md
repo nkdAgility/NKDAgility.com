@@ -56,8 +56,8 @@ Watermarks:
   tldr: 2025-08-07T12:33:03Z
 ResourceId: XYMN44lJp1n
 ResourceType: signals
----
 
+---
 Let’s do the maths.
 
 If your product team delivers every two years, that means feature requests take four years to hit production.

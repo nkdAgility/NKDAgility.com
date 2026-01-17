@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Unrealised Value: The Key to Elevating Your Product Development Strategy"
+title: 'Unlocking Unrealised Value: The Key to Elevating Your Product Development Strategy'
 short_title: Unlocking Unrealised Value in Product Development
 description: Explains how identifying and validating unrealised value, understanding user needs, and rapid feedback loops can enhance product development and maximise user impact.
 tldr: Unrealised value, or the features your users need but you have not built or identified yet, is often overlooked but crucial for product success. To unlock this value, focus on understanding your users, validate assumptions with small experiments before full development, and increase deployment frequency to speed up feedback and learning. Make it a priority to continuously learn from your market and adapt your product strategy to stay relevant and maximise impact.
@@ -60,8 +60,8 @@ resourceTypes:
 isShort: false
 ResourceId: ynIqkNbDN8I
 ResourceType: videos
----
 
+---
 In the realm of evidence-based management, we often discuss various areas of focus, but one key value area that frequently slips under the radar is [unrealised value]({{< ref "/tags/unrealised-value" >}}). This aspect is just as crucial as the others, yet it tends to be overlooked by many organisations and teams. Today, I want to delve into what unrealised value means and why it’s essential for your [product development]({{< ref "/categories/product-development" >}}) strategy.
 
 ### Understanding Unrealised Value

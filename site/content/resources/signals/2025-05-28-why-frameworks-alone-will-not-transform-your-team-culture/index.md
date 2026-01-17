@@ -57,8 +57,8 @@ Watermarks:
   tldr: 2025-08-07T12:29:19Z
 ResourceId: xUJ6VvudvJx
 ResourceType: signals
----
 
+---
 If you're waiting for a framework to shift your culture, you're already on the wrong path.
 
 The biggest obstacle to change isn’t lack of knowledge, it’s inertia. The culture and process you already have are your biggest constraints.

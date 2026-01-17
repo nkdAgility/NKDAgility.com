@@ -1,5 +1,5 @@
 ---
-title: "There’s No Such Thing as an Agile Transformation: Why You Should Focus on the System, Not the Culture"
+title: 'There’s No Such Thing as an Agile Transformation: Why You Should Focus on the System, Not the Culture'
 short_title: Focus on System Change, Not Agile Transformation
 description: Explains why lasting organisational change comes from adjusting systems, rules, processes, and structures, rather than trying to directly transform culture.
 tldr: Focusing on changing organizational culture directly does not work because culture is an outcome of the underlying system, such as rules, processes, and decision-making structures. To achieve real and lasting change, development managers should make small, targeted adjustments to these systems, monitor the impact on team behavior, and iterate as needed. Leaders must support and model these changes, as system tweaks drive the cultural shifts that Agile aims for.
@@ -40,6 +40,7 @@ tags:
   - Organisational Agility
   - Sociotechnical Systems
   - Agile Philosophy
+  - Adaptive Operating Model
 Watermarks:
   description: 2025-05-07T13:06:24Z
   short_title: 2025-07-07T17:50:15Z
@@ -54,8 +55,8 @@ duration: 195
 resourceTypes:
   - video
 isShort: false
----
 
+---
 Agile transformations are often heralded as the magical solution to organizational dysfunction, promising faster delivery, happier teams, and better outcomes. However, there's a quote that resonates deeply with many Agile professionals: “There’s no such thing as an [Agile transformation]({{< ref "/tags/agile-transformation" >}}), it’s a cultural transformation.”
 
 But let me be honest, I half agree with this. While I support the idea that Agile transformation as a standalone concept doesn’t exist, I also disagree with the idea of a cultural transformation. Why? Because culture isn’t something you can directly change. In fact, it’s the outcome of a much deeper process.

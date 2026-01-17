@@ -56,8 +56,8 @@ duration: 50
 resourceTypes:
   - video
 isShort: true
----
 
+---
 If you're talking about [Kanban]({{< ref "/categories/kanban" >}}) versus [Scrum]({{< ref "/categories/scrum" >}}), chances are you might not fully understand what Kanban is all about. Kanban isn’t a rival or alternative to Scrum, it’s a strategy that can complement any system or process. Whether you’re working with Scrum or any other system, integrating Kanban can help you gain deeper insights and improve the overall flow of value.
 
 In this post, we’ll explore how **Kanban** works within the context of Scrum, how it brings [transparency]({{< ref "/tags/transparency" >}}), and why it’s a powerful tool for optimizing your processes. As a [professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer, I’ll share personal experiences and recommendations to help you leverage Kanban in your Scrum practices.
