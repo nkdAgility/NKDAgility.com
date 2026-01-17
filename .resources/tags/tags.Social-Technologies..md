@@ -44,6 +44,7 @@ tags:
   - Continuous Learning
   - Organisational Agility
   - Self Organisation
+  - Adaptive Operating Model
   - Complexity Thinking
   - Organisational Change
   - Decision Making
@@ -52,7 +53,6 @@ tags:
   - Pragmatic Thinking
   - Organisational Physics
   - Sociotechnical Systems
-  - Beta Codex
 ItemId: 8Zc_6SWuElx
 ResourceId: 8Zc_6SWuElx
 ItemType: tags

@@ -40,6 +40,7 @@ categories:
 tags:
   - Organisational Agility
   - Organisational Culture
+  - Adaptive Operating Model
   - Miscellaneous
 ItemId: gren_1MOhpw
 ResourceId: gren_1MOhpw

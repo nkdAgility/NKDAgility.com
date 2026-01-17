@@ -56,9 +56,9 @@ tags:
   - Product Delivery
   - AI Product Operating Model
   - Collective Intelligence
+  - Adaptive Operating Model
   - Agile Strategy
   - Digital Transformation
-  - Technical Mastery
 ItemId: Kt4j5W-hi34
 ResourceId: Kt4j5W-hi34
 ItemType: tags

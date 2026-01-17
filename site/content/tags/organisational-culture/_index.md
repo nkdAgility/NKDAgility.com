@@ -45,6 +45,7 @@ tags:
   - Agile Philosophy
   - Business Agility
   - Team Collaboration
+  - Adaptive Operating Model
 ItemId: hCgDl11FRjF
 ResourceId: hCgDl11FRjF
 ItemType: tags

@@ -50,6 +50,7 @@ tags:
   - Beta Codex
   - Social Technologies
   - Self Organisation
+  - Adaptive Operating Model
   - Organisational Physics
   - Organisational Change
   - Enterprise Agility
@@ -58,7 +59,6 @@ tags:
   - Complexity Thinking
   - Business Agility
   - Market Adaptability
-  - Team Collaboration
 ItemId: 5KmsJtm570B
 ItemType: tags
 ResourceType: tags

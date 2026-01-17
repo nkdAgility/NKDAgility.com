@@ -63,10 +63,26 @@ headline:
   subtitle: Structuring organisations for rapid learning, decentralised decisions, and continuous value delivery in complex, fast-changing environments
   content: Explores organisational structures that enable rapid learning, decentralised decision-making, and outcome-focused value delivery in complex, uncertain environments. Covers distributed authority, explicit feedback loops, stable teams with flexible execution, governance for flow, and the shift from control to empiricism, drawing on product-centric, systems thinking, and complexity-informed approaches.
   updated: 2026-01-16T18:29:20Z
-concepts: []
-categories: []
-tags: []
-weight: 1000
+concepts:
+  - Capability
+categories:
+  - Product Development
+tags:
+  - Operating Model
+  - Organisational Agility
+  - Business Agility
+  - Continuous Learning
+  - Organisational Change
+  - Enterprise Agility
+  - Social Technologies
+  - Value Delivery
+  - Decision Making
+  - Market Adaptability
+  - Sociotechnical Systems
+  - Agile Philosophy
+  - Empirical Process Control
+  - Continuous Improvement
+weight: 545
 
 ---
 ## Adaptive Operating Model

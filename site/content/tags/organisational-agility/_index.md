@@ -40,6 +40,7 @@ tags:
   - Business Agility
   - Agile Philosophy
   - Organisational Culture
+  - Adaptive Operating Model
   - Social Technologies
   - Miscellaneous
 ItemId: bZu9I9fyy6g

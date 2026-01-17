@@ -52,6 +52,7 @@ tags:
   - Social Technologies
   - Organisational Culture
   - Agile Transformation
+  - Adaptive Operating Model
   - Agile Values and Principles
   - Continuous Improvement
 ItemId: oc9MtHVCSoB

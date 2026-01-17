@@ -42,6 +42,7 @@ tags:
   - Organisational Culture
   - Self Organisation
   - Continuous Improvement
+  - Adaptive Operating Model
   - Agile Strategy
   - Organisational Agility
   - Organisational Change
@@ -51,7 +52,6 @@ tags:
   - Market Adaptability
   - Team Motivation
   - Business Agility
-  - Enterprise Agility
 ItemId: ED8JJ5RqjiO
 ResourceId: ED8JJ5RqjiO
 ItemType: tags

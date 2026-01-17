@@ -51,9 +51,9 @@ tags:
   - Organisational Agility
   - Organisational Change
   - Social Technologies
+  - Adaptive Operating Model
   - Operational Practices
   - Organisational Physics
-  - Lean Product Development
 ItemId: OVCwAvo-uiQ
 ResourceId: OVCwAvo-uiQ
 ItemType: tags
