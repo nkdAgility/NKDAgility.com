@@ -4,7 +4,7 @@
 {{ $ItemType := .Params.ItemType }}
 {{ $ItemId := .Params.ItemId }}
 
-{{ $relatedData := slice }}
+{{ $relatedData := dict }}
 
 {{- if not $ItemKind -}}
   {{- warnf "get-classifications.html: ItemKind parameter is missing for page %s" .Path -}}
