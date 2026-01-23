@@ -1,0 +1,767 @@
+context:
+  description: Catalog of reference content filtered by classification scores
+  classifications:
+  - Engineering Excellence
+  - Technical Leadership
+  minimum_score_threshold: 60
+  filter_note: Posts included have at least one classification with a score >= 60.
+  content_count: 76
+  score_note: Scores range from 0-100, where 100 is the highest/best score
+  generated_date: 2026-01-23T10:56:52Z
+catalog:
+- id: W_KrTupmowf
+  title: Telling People What to Do Is Not Leadership. It’s a Failure of System Design
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 97
+  - label: Technical Leadership
+    score: 98
+  tldr: Telling people what to do is not leadership, it is a sign of poor system design that stifles autonomy and slows delivery. Effective leadership means creating systems where teams have clear goals, constraints, and feedback loops so they can self-manage, deliver value, and adapt without micromanagement. Focus on improving your delivery system, set meaningful goals, enable autonomy with clear boundaries, use evidence-based metrics, and empower teams to own outcomes, so you can step back and let professionals do their best work.
+  content_ref: content/reference-content-W_KrTupmowf.md
+- id: _ncZFfeCrnS
+  title: Testing in Production Maximises Quality and Value
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 98
+  - label: Technical Leadership
+    score: 73
+  tldr: Testing in production using audience-based deployment enables faster feedback, safer incremental releases, and better alignment with real user needs compared to traditional Dev-Test-Staging pipelines. Microsoft’s shift to this model, driven by feature flags, progressive rollouts, and real-time monitoring, has improved quality and innovation while reducing risk and overhead. Development managers should consider moving away from environment-based branching and invest in automation, observability, and team upskilling to maximise value and responsiveness.
+  content_ref: content/reference-content-_ncZFfeCrnS.md
+- id: zLhc3UKUWOj
+  title: Stop Building Silos. Start Building Systems
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 98
+  - label: Technical Leadership
+    score: 92
+  tldr: Fragmented automation and tool silos slow delivery, increase risk, and create confusion, while a unified engineering system enables speed, safety, and clarity. Standardising on a single platform like Azure Pipelines, with shared processes and guardrails, empowers teams to focus on delivering value instead of managing complexity. To scale effectively, consolidate your toolchain, define clear boundaries, and invest in platform engineering so teams can work autonomously within a reliable system.
+  content_ref: content/reference-content-zLhc3UKUWOj.md
+- id: AhxlPTOD1yy
+  title: Rethinking Capacity Planning
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 98
+  - label: Technical Leadership
+    score: 88
+  tldr: Capacity planning should focus on optimising system flow and predictability, not tracking individual hours or task assignments. Shifting from micromanagement to managing work as a system at portfolio, category, and team levels helps prevent overload, improves value delivery, and enables reliable forecasting. Development managers should prioritise system-level metrics, enforce work-in-progress limits, and empower teams to pull well-prepared work, creating sustainable and predictable delivery.
+  content_ref: content/reference-content-AhxlPTOD1yy.md
+- id: TwYNSm1pZOS
+  title: The Definition of Done is a Commitment to Quality
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 98
+  - label: Technical Leadership
+    score: 83
+  tldr: A clear, shared Definition of Done is essential for delivering quality, releasable software in Scrum and aligns teams on what “complete” means. It ensures transparency, predictability, and accountability, protects your product’s reputation, and must be created, automated, and regularly improved by all teams working on a product. Development managers should prioritise running DoD workshops, making standards visible, automating checks, and reviewing the DoD every sprint to maintain quality and reduce risk.
+  content_ref: content/reference-content-TwYNSm1pZOS.md
+- id: O_VlmDj7n3V
+  title: Why Topic Branches Drive High-Quality Delivery
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 97
+  - label: Technical Leadership
+    score: 88
+  tldr: Short-lived topic branches help teams deliver high-quality software by making integration easier, reducing merge conflicts, and supporting modular, continuous delivery. Adopting models like GitHub Flow or Release Flow keeps work focused and feedback fast, while long-lived branches increase risk and slow down delivery. Development managers should enforce small, short-lived branches and regularly review branching strategies to maintain flow, agility, and quality.
+  content_ref: content/reference-content-O_VlmDj7n3V.md
+- id: ABbVdMBZ5fI
+  title: Is Agile Really Just a Mindset?
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 97
+  - label: Technical Leadership
+    score: 91
+  tldr: Agile is not just a mindset or set of behaviours; it is a disciplined system of work rooted in engineering excellence, technical leadership, and empirical delivery. True agility requires robust engineering practices like CI/CD, automated testing, and observability, not just ceremonies or coaching. To achieve real Agile outcomes, focus on building systems that enable frequent, reliable delivery and hold both teams and leadership accountable for technical and organisational change.
+  content_ref: content/reference-content-ABbVdMBZ5fI.md
+- id: 7hEAycZIn8w
+  title: Stop Hiding Behind Complexity and Start Delivering Continuously
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 97
+  - label: Technical Leadership
+    score: 82
+  tldr: Complexity is not a valid reason to avoid continuous delivery; organisations like Azure DevOps and Starbucks have proven that even large, complex systems can achieve frequent, reliable releases with the right investment in automation, process improvement, and culture change. Key actions include automating everything, adopting trunk-based development, using feature flags, shifting quality left, and iterating on pain points. Development managers should focus on measuring and improving flow metrics and value delivery, prioritising organisational commitment to overcome resistance and realise the benefits of continuous delivery.
+  content_ref: content/reference-content-7hEAycZIn8w.md
+- id: EtzHUfsWjsD
+  title: Resilience is Part of the Product, Not an Afterthought
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 96
+  - label: Technical Leadership
+    score: 74
+  tldr: Resilience must be designed into your product from the start, not added later or left to individual heroics. Building resilience means engineering for failure containment, rapid recovery, and continuous improvement, using tools like telemetry, feature flags, and safe deployment practices. Make resilience a core part of your development process and culture, treating it as a critical feature to avoid costly outages and business risks.
+  content_ref: content/reference-content-EtzHUfsWjsD.md
+- id: x7ra7pQCDX5
+  title: Stop Promoting Branches
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 96
+  - label: Technical Leadership
+    score: 72
+  tldr: Promoting code through multiple environment branches slows delivery, increases risk, and adds unnecessary complexity. Instead, use simple branching models like GitHub Flow for continuous delivery or Release Flow if you must support multiple live versions; avoid outdated models like Git Flow and never rely on reverse integration. Focus on merging changes directly into main, use feature flags for releases, and keep branching lightweight to deliver value faster.
+  content_ref: content/reference-content-x7ra7pQCDX5.md
+- id: f2RQh2UCwqB
+  title: There Is No Such Thing as a "Junior" Scrum Master
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 79
+  - label: Technical Leadership
+    score: 94
+  tldr: The Scrum Master role requires deep technical, business, and organisational expertise and should not be treated as an entry-level or “junior” position. The most effective Scrum Masters emerge from within high-performing teams, having already demonstrated real-world competence and leadership, not just certification. To ensure team effectiveness and delivery, select Scrum Masters based on proven experience and peer respect, not on cost savings or minimal qualifications.
+  content_ref: content/reference-content-f2RQh2UCwqB.md
+- id: dQjKsWR5qfn
+  title: Great Scrum Masters Need Technical, Business, and Organisational Mastery
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 78
+  - label: Technical Leadership
+    score: 94
+  tldr: Scrum Masters are most effective when they combine strong leadership skills with deep understanding of their team's technical, business, and organisational context. Mastery in these three areas enables them to better remove obstacles, coach both teams and Product Owners, and drive meaningful change across the organisation. Development managers should ensure their Scrum Masters are experienced professionals who continuously build expertise in these domains to maximise team performance and value delivery.
+  content_ref: content/reference-content-dQjKsWR5qfn.md
+- id: vCeqzJIgF1F
+  title: Professional Scrum teams build software that works
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 94
+  - label: Technical Leadership
+    score: 67
+  tldr: Professional Scrum teams must deliver high-quality, working software every sprint, prioritizing quality over speed or feature quantity to build trust and protect the organization's reputation. Developers are accountable for quality and should use automation, DevOps practices, and continuous improvement to avoid technical debt and defects. Managers should empower teams to focus on quality, address technical debt in retrospectives, and consider upskilling developers through professional training.
+  content_ref: content/reference-content-vCeqzJIgF1F.md
+- id: -Z5GGUOjc-d
+  title: Definition of Done - Objective vs Subjective
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 94
+  - label: Technical Leadership
+    score: 77
+  tldr: The Definition of Done (DoD) in Scrum is an objective, measurable checklist that sets the minimum quality standard for every product increment, distinct from the more subjective Product and Sprint Goals. Teams should ensure their DoD is clear, comprehensive, regularly reviewed, and as automated as possible, avoiding subjective approval steps. Development managers should treat the DoD as a non-negotiable baseline for quality, not a ceiling, and keep it updated to reflect evolving standards and business needs.
+  content_ref: content/reference-content--Z5GGUOjc-d.md
+- id: p2XfFa_1tko
+  title: Flow of Value vs Flow of Work – Misnomer or Useful Shorthand?
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 94
+  - label: Technical Leadership
+    score: 94
+  tldr: The phrase “flow of value” is often misused in software development, as value is only confirmed when customers validate it, not just when work is completed. Teams should focus on validating outcomes quickly, breaking work into small, testable increments, and using data to cut features that do not deliver real value. To truly optimise value, ensure every item has a clear hypothesis, measure time to feedback, and prioritise learning over simply moving work through the system.
+  content_ref: content/reference-content-p2XfFa_1tko.md
+- id: eBNUwJszXyE
+  title: Don’t Manage Dependencies, Remove Them
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 94
+  - label: Technical Leadership
+    score: 94
+  tldr: Dependencies are not inevitable but are usually caused by poor system design; instead of managing them, focus on removing them by aligning work, teams, and architecture, making contracts explicit, and clarifying ownership. Only manage the rare dependencies that remain, treating them as design flaws to be fixed, not as normal work. Leadership should prioritise redesigning systems to eliminate dependencies, which leads to faster delivery, fewer defects, and higher team autonomy.
+  content_ref: content/reference-content-eBNUwJszXyE.md
+- id: rE-_hlb3Y34
+  title: 'The Estimation Trap: How Tracking Accuracy Undermines Trust, Flow, and Value in Software Delivery'
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 93
+  - label: Technical Leadership
+    score: 88
+  tldr: Focusing on estimation accuracy as a performance metric leads to fear, gaming, and a culture of compliance rather than real improvement, which undermines trust, innovation, and actual value delivery. Research shows that when teams are judged on how closely they meet estimates, they pad numbers, hide risks, and avoid complex work, resulting in false success and missed opportunities for learning. Instead, shift attention to evidence-based metrics that reflect customer value, system health, and delivery flow, and use estimates only to support learning and informed conversations, not as tools for control.
+  content_ref: content/reference-content-rE-_hlb3Y34.md
+- id: 5wIEg7lD_Xd
+  title: Your Evolving Definition of Done
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 93
+  - label: Technical Leadership
+    score: 87
+  tldr: The Definition of Done should evolve as teams mature, starting with basic quality standards and expanding to include automation, security, and business-level requirements that align with organisational goals. A strong, consistently applied DoD reduces risk, rework, and delays, ensuring every increment is truly releasable and delivers real value. Development managers should regularly review and raise the DoD, embedding it into team practices to protect quality and support strategic objectives.
+  content_ref: content/reference-content-5wIEg7lD_Xd.md
+- id: jBIyK6NW3ZB
+  title: Delivery is the only Measure of Progress in Scrum
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 92
+  - label: Technical Leadership
+    score: 78
+  tldr: Progress in Scrum should be measured by delivering working software to real users, not just completing internal work. Teams must deliver increments to production every Sprint, gather user feedback quickly, and adapt based on that feedback. To stay competitive, make delivery the default by automating releases, breaking down silos, and ensuring value reaches users every iteration.
+  content_ref: content/reference-content-jBIyK6NW3ZB.md
+- id: VThLnxVapgJ
+  title: How to Build for Business Resilience and Continuity
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 92
+  - label: Technical Leadership
+    score: 75
+  tldr: Building business resilience requires intentional design, strong observability, and aggressive decoupling so failures do not cascade across systems. Empower teams to act quickly, treat deployments as routine, and design for fast recovery using practices like chaos engineering and circuit breakers. Make resilience a core part of your culture and operations, not a one-time project, and use real metrics to guide continuous improvement.
+  content_ref: content/reference-content-VThLnxVapgJ.md
+- id: 2cOXevMnGb_
+  title: Release planning and predictable delivery
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 92
+  - label: Technical Leadership
+    score: 83
+  tldr: Predictable delivery and agile release planning are not incompatible, but achieving them requires a shift in mindset, a focus on continuous quality, and embracing transparency. Key actions include making quality non-negotiable, refining backlog items to be small and clear, ensuring teams own the full delivery process, and minimizing dependencies. Development managers should prioritize building working software in regular increments, stop accumulating technical debt, and foster a culture of continuous improvement to improve delivery predictability.
+  content_ref: content/reference-content-2cOXevMnGb_.md
+- id: IO5EHjiHhTf
+  title: Are We Still Pretending Coding Was the Bottleneck?
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 92
+  - label: Technical Leadership
+    score: 78
+  tldr: AI writing code is not the real game-changer; coding was never the main bottleneck in software delivery. The real constraints are in poor system design, handoffs, unclear requirements, and lack of built-in quality, which AI will only make more visible. To benefit from AI, focus on improving flow, building quality in from the start, and making teams accountable for outcomes rather than output.
+  content_ref: content/reference-content-IO5EHjiHhTf.md
+- id: 9asj2UApmVM
+  title: Estimating Better in an Overloaded System Is a Poor Man’s Strategy
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 91
+  - label: Technical Leadership
+    score: 61
+  tldr: Trying to improve estimates in an overloaded system is ineffective because high work in progress causes delays and unpredictability, regardless of estimation accuracy. Real improvements in predictability and throughput come from limiting work in progress, fostering collaboration, and focusing on finishing work rather than starting more. To achieve reliable delivery, reduce WIP and prioritize flow over planning.
+  content_ref: content/reference-content-9asj2UApmVM.md
+- id: utAzlIGxj7O
+  title: Stop Writing Business Logic in Stored Procedures
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 91
+  - label: Technical Leadership
+    score: 61
+  tldr: Stop adding business logic to stored procedures and refactor existing logic into application code as you make changes, rather than rewriting everything at once. Keeping business logic in stored procedures makes testing, deployment, version control, scalability, and maintainability much harder, increasing technical debt and risk. Adopt a gradual, pay-as-you-go approach to modernize your codebase, improve engineering practices, and enable faster, more reliable delivery.
+  content_ref: content/reference-content-utAzlIGxj7O.md
+- id: LdmZbBlwgM-
+  title: Can the Definition of Done change per Sprint?
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 90
+  - label: Technical Leadership
+    score: 70
+  tldr: The Definition of Done can be improved each Sprint to raise quality but should never be changed to lower standards or to vary by backlog item, as this undermines transparency and product value. Consistency in the Definition of Done ensures everyone understands what a usable increment means and supports reliable delivery. Development managers should encourage teams to strengthen the Definition of Done over time, aiming for a shippable product each Sprint.
+  content_ref: content/reference-content-LdmZbBlwgM-.md
+- id: k-kqjqSgdGx
+  title: Should You Use One Project to Rule Them All in Azure DevOps?
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 90
+  - label: Technical Leadership
+    score: 87
+  tldr: Using a single Azure DevOps project for all teams and products reduces fragmentation, improves visibility, and streamlines governance compared to managing multiple projects or organisations. Key benefits include unified reporting, easier collaboration, and lower administrative overhead, while Area Paths and Teams provide the necessary structure and security within one project. Development managers should consolidate into one project where possible, using Area Paths and Teams to model structure and scale, to optimise flow and delivery.
+  content_ref: content/reference-content-k-kqjqSgdGx.md
+- id: LGGuvRq4g7p
+  title: 'Fragile by Design: The Cost of Pretending to Be Resilient'
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 90
+  - label: Technical Leadership
+    score: 77
+  tldr: Most systems fail under real pressure because resilience is often treated as a checkbox or afterthought rather than a core product capability that is engineered, tested, and verified in real-world conditions. High-profile outages at Spain’s grid, Oracle, and Heathrow show that bad engineering, shallow product thinking, and leadership denial lead to systemic fragility. To avoid costly failures, development managers must make resilience a disciplined, ongoing practice by designing for failure, testing recovery regularly, and confronting weaknesses head-on.
+  content_ref: content/reference-content-LGGuvRq4g7p.md
+- id: KHEPBWiFDKJ
+  title: Why Measuring Individual Cycle Time is Killing Your Flow (And What to Do Instead)
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 88
+  - label: Technical Leadership
+    score: 73
+  tldr: Measuring individual cycle time in Kanban misleads teams by focusing on personal speed instead of system flow, which ignores real bottlenecks and encourages counterproductive behaviors. To improve delivery, track system-wide metrics like lead time, work in progress, process cycle efficiency, and blockers, then address constraints at the process level. Development managers should shift measurement and improvement efforts from individuals to the overall workflow to achieve better outcomes.
+  content_ref: content/reference-content-KHEPBWiFDKJ.md
+- id: yqHaiUlMNTP
+  title: You are doing it wrong if you are not using test first
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 87
+  - label: Technical Leadership
+    score: 34
+  tldr: Using test-first approaches like Test Driven Development helps teams deliver software that meets customer needs, reduces maintenance costs, and prevents bugs from reaching production. Writing tests before coding ensures validation at every step, shortens feedback loops, and makes it easier and cheaper to fix issues early. To improve quality and enable confident continuous delivery, development managers should encourage their teams to adopt test-first practices.
+  content_ref: content/reference-content-yqHaiUlMNTP.md
+- id: UfdnQrxv5iF
+  title: Without Delivery, There Is No Value
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 87
+  - label: Technical Leadership
+    score: 77
+  tldr: Value in software is only realised when products are delivered to users, so frequent releases are essential to validate assumptions, gather feedback, and adapt quickly. Delaying delivery increases costs, risks, and missed opportunities, while research shows that teams releasing often are more successful and resilient. Development managers should prioritise short feedback loops and empower teams to release working software regularly to maximise value and minimise waste.
+  content_ref: content/reference-content-UfdnQrxv5iF.md
+- id: z18IcQhlD7I
+  title: Getting started with a Definition of Done (DoD)
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 87
+  - label: Technical Leadership
+    score: 50
+  tldr: A clear Definition of Done (DoD) is essential for ensuring software quality and predictable delivery, as it sets shared criteria for what "done" means for every increment. Involve the whole Scrum Team and relevant experts to create a short, measurable checklist that covers code quality, testing, security, and usability, and review it regularly to keep raising the quality bar. Before starting sprints, make sure your current increment meets the DoD, and continuously improve both your software and your DoD to maintain a working, shippable product.
+  content_ref: content/reference-content-z18IcQhlD7I.md
+- id: UH6M7ujV-kB
+  title: Balance of Leadership and Control in Scrum
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 32
+  - label: Technical Leadership
+    score: 87
+  tldr: Scrum Masters and Product Owners are expected to deliver results, so they need both influence and enough authority to remove obstacles, enforce alignment, and ensure accountability. Too much control stifles team autonomy, but too little makes teams ineffective; the right balance depends on the organisation and situation. Development managers should empower these roles with the authority needed to drive change while maintaining team ownership and continuous improvement.
+  content_ref: content/reference-content-UH6M7ujV-kB.md
+- id: DOMFzBBMzfq
+  title: A better way than staggered iterations for delivery
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 87
+  - label: Technical Leadership
+    score: 78
+  tldr: Staggered iterations slow feedback, increase technical debt, and reduce software quality, making delivery less agile and more expensive. Instead, form cross-functional teams that deliver working software every iteration, integrate all required work including testing into each sprint, and automate as much as possible. Shift away from staged handoffs to continuous, team-owned delivery to improve value and quality.
+  content_ref: content/reference-content-DOMFzBBMzfq.md
+- id: a7UMLdZeVYq
+  title: Work can flow across the Sprint boundary
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 87
+  - label: Technical Leadership
+    score: 84
+  tldr: Allowing work to flow across Sprint boundaries is permitted in Scrum and can improve delivery speed, responsiveness, and value, as long as teams maintain clear, outcome-focused Sprint Goals and consistently deliver Done increments. Adopting practices like Continuous Delivery, feature toggles, and frequent feedback helps teams validate work early and adapt quickly. Development managers should encourage flow principles and robust engineering practices to maximize throughput and support better business decisions.
+  content_ref: content/reference-content-a7UMLdZeVYq.md
+- id: uwJYNXG7yIu
+  title: 'The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie'
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 74
+  - label: Technical Leadership
+    score: 86
+  tldr: Scrum only works when teams have real decision-making power, not just the appearance of self-management. Without agency, accountability is hollow and Scrum devolves into empty rituals that fail to deliver true agility or value. To achieve the benefits of Scrum, leaders must ensure teams and roles have genuine authority to own outcomes and drive change.
+  content_ref: content/reference-content-uwJYNXG7yIu.md
+- id: VTjU5Wl2XWU
+  title: Why Most Scrum Masters Are Failing and What They Should Know
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 78
+  - label: Technical Leadership
+    score: 84
+  tldr: Most Scrum Masters lack the necessary understanding of Scrum and related technical and business practices, which has led to widespread layoffs and questions about their value. Companies now expect Scrum Masters to demonstrate clear competence in areas like DevOps, engineering practices, agile frameworks, release planning, stakeholder management, and metrics. Development managers should ensure their Scrum Masters have foundational knowledge in these areas and can show measurable impact on team effectiveness.
+  content_ref: content/reference-content-VTjU5Wl2XWU.md
+- id: RevK05qtZD7
+  title: The Missing Lever in Agile Transformations
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 48
+  - label: Technical Leadership
+    score: 83
+  tldr: Agile transformations often fail because they focus on following ceremonies instead of building real agency in people and systems. True agility comes from empowering individuals and teams to make decisions and adapt, supported by evidence-based management to measure outcomes and guide change. To succeed, shift your transformation efforts from compliance to fostering agency and use data to drive continuous improvement.
+  content_ref: content/reference-content-RevK05qtZD7.md
+- id: c_gS0nlQD9E
+  title: Live Site Culture & Site Reliability Engineering
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 83
+  - label: Technical Leadership
+    score: 50
+  tldr: To stay competitive in a fast-changing market, teams must adopt DevOps and continuous delivery, shifting from infrequent releases to deploying updates daily. This requires faster feedback, shared responsibility for quality and operations, and new ways of working, as shown by Microsoft's Azure DevOps team. Development managers should consider evolving their team structures and practices to support rapid, customer-focused delivery.
+  content_ref: content/reference-content-c_gS0nlQD9E.md
+- id: 7JJaRr4g-KA
+  title: Blocked Columns on Kanban Boards Obfuscate Workflow and Undermine Effectiveness
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 82
+  - label: Technical Leadership
+    score: 42
+  tldr: Using Blocked columns on Kanban boards hides the true status of work, encourages team disengagement, and leads to stale tasks and inflated work-in-progress limits. Instead, teams should tag blocked items within their current workflow stage and provide clear context, which maintains transparency and accountability. Managers should avoid Blocked columns and use tags or annotations to highlight issues without disrupting the flow or losing critical information.
+  content_ref: content/reference-content-7JJaRr4g-KA.md
+- id: ZSqNF7v9vSR
+  title: All technical debt is a risk to the product and to your business
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 82
+  - label: Technical Leadership
+    score: 50
+  tldr: Technical debt is a significant risk to your product and business, as it undermines quality, slows delivery, and can accumulate unnoticed until it becomes a major problem. The Microsoft Team Foundation Server example shows that ignoring technical debt leads to reduced productivity and competitiveness, while addressing it through transparency and shorter feedback cycles enables faster, higher-quality delivery. Development managers should prioritize eliminating technical debt and fostering a culture of quality to protect business value and avoid long-term risks.
+  content_ref: content/reference-content-ZSqNF7v9vSR.md
+- id: pDvDdIEi9sj
+  title: Why Handoffs Are Killing Your Agility
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 82
+  - label: Technical Leadership
+    score: 82
+  tldr: Excessive handoffs between siloed teams slow delivery, reduce quality, and undermine team morale, making true agility impossible. Key issues include loss of context, increased cycle time, and lower accountability, all of which compound to hurt value delivery. To improve, reorganise into cross-functional teams, automate workflows, limit work in progress, and regularly remove outdated processes to streamline flow and boost team effectiveness.
+  content_ref: content/reference-content-pDvDdIEi9sj.md
+- id: 1EEAZ-ldcTz
+  title: Hiring a Professional Scrum Master
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 67
+  - label: Technical Leadership
+    score: 82
+  tldr: Hiring a Scrum Master is challenging and requires someone who can lead, coach, and support both the team and organization to improve effectiveness and adopt Scrum practices. Key requirements include strong leadership, facilitation, and communication skills, a servant leadership mindset, and relevant certifications, with technical or business domain knowledge as a plus. Focus on candidates who can foster a safe, collaborative environment and drive continuous improvement for reliable product delivery.
+  content_ref: content/reference-content-1EEAZ-ldcTz.md
+- id: yMnia2DLI6q
+  title: The Scrum Master is accountable for Delivery
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 75
+  - label: Technical Leadership
+    score: 81
+  tldr: The Scrum Master is ultimately accountable for ensuring the Scrum Team delivers a usable product increment every sprint, as delivery is the minimum requirement for team effectiveness. While delivery is a shared team responsibility, the Scrum Master must create the right environment, remove impediments, and enable continuous improvement so delivery becomes inevitable. Development managers should hold Scrum Masters accountable for delivery outcomes and empower them with the authority and resources needed to support team success.
+  content_ref: content/reference-content-yMnia2DLI6q.md
+- id: AgIU1SK-3pE
+  title: How Lack of Agency is Killing Your DevOps Initiatives
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 81
+  - label: Technical Leadership
+    score: 62
+  tldr: DevOps only works when developers have real control over production environments, deployments, and telemetry; without this operational agency, automation just creates fragile systems and blocks learning from real user feedback. Most DevOps efforts fail because they focus on tools instead of empowering developers to deploy, monitor, and adapt in production. To succeed, give your teams full operational ownership so they can deliver value continuously and respond quickly to real-world issues.
+  content_ref: content/reference-content-AgIU1SK-3pE.md
+- id: RdwxVidD26i
+  title: Create your own path to Organisational Agility
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 38
+  - label: Technical Leadership
+    score: 80
+  tldr: A one-size-fits-all agile framework rarely works because every organisation’s path to agility is unique; instead, you should define a clear vision, form a cross-functional change team, and use an incremental, evidence-based approach to improvement. Broad, consistent training across all levels ensures everyone understands and supports the change, while involving stakeholders in identifying and prioritising impediments helps create a relevant organisational change backlog. To succeed, secure executive buy-in, empower teams to drive change, and focus on continuous, measurable improvements tailored to your context.
+  content_ref: content/reference-content-RdwxVidD26i.md
+- id: xPJL0I4sjDJ
+  title: Should the Scrum Master always remove impediments?
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 40
+  - label: Technical Leadership
+    score: 79
+  tldr: The Scrum Master is responsible for removing impediments, but should only step in when the team cannot resolve the issue themselves. Their focus should be on enabling the team to handle similar problems independently in the future, building self-sufficiency. Development managers should encourage Scrum Masters to coach teams rather than always solving problems for them.
+  content_ref: content/reference-content-xPJL0I4sjDJ.md
+- id: 7nXTKmU_F04
+  title: Why Most Companies Operating Models Fail in Dynamic Markets
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 68
+  - label: Technical Leadership
+    score: 78
+  tldr: Most organisations still use a Predictive Operating Model built for stable, predictable markets, which now creates massive waste, slow decisions, and disengaged teams in today's dynamic environment. An Adaptive Operating Model, built on empiricism, rapid learning, decentralised decision-making, and persistent cross-functional teams, is a better fit because it focuses on outcomes, adaptability, and continuous alignment with customers. The real work is redesigning structures, measures, and leadership, not just adopting new processes.
+  content_ref: content/reference-content-7nXTKmU_F04.md
+- id: UnSs37BlBV7
+  title: How Usable Working Products Are Your Ultimate Weapon Against Risks
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 78
+  - label: Technical Leadership
+    score: 50
+  tldr: Continuously delivering a usable working product is the most effective way to reduce risk in Agile development. Focus on releasing functional increments, fixing bugs quickly, automating tests, and keeping documentation lean to stay responsive to market needs. Prioritise regular feedback from users and stakeholders to ensure you are building what truly adds value.
+  content_ref: content/reference-content-UnSs37BlBV7.md
+- id: foi9MYyc1vq
+  title: Are technical skills required to be a Scrum Master?
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 67
+  - label: Technical Leadership
+    score: 78
+  tldr: Technical skills are not strictly required to be a Scrum Master, but having a solid understanding of technical, business, and organizational contexts makes a Scrum Master much more effective. Mastery in these areas helps Scrum Masters better support their teams, guide Product Owners, and drive meaningful organizational change. Development managers should ensure their Scrum Masters are equipped with broad contextual knowledge to maximize team and business value.
+  content_ref: content/reference-content-foi9MYyc1vq.md
+- id: xIWBb8Cy_Rv
+  title: How do you handle conflict in a Scrum Team?
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 25
+  - label: Technical Leadership
+    score: 78
+  tldr: When conflict arises in a Scrum Team, first encourage the team to resolve it themselves and use facilitation techniques that ensure everyone is heard, such as structured group discussions. The Scrum Master should coach team members and escalate only if necessary, involving HR or considering team changes as a last resort. Focus on building conflict resolution skills within the team and iteratively adapt your approach to find the best solution.
+  content_ref: content/reference-content-xIWBb8Cy_Rv.md
+- id: Ewu5coIz9qm
+  title: The fallacy of the rejected backlog item
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 78
+  - label: Technical Leadership
+    score: 50
+  tldr: Rejecting individual backlog items at the Sprint Review is a misunderstanding, since the increment is delivered as a whole and removing a single item is complex and risky. The Sprint Review is for feedback and learning, not for accepting or rejecting specific items, and any gaps should inform future backlog updates. Development managers should focus on clear communication, well-structured backlog items, and using feature flags to provide flexibility and faster feedback.
+  content_ref: content/reference-content-Ewu5coIz9qm.md
+- id: WvUOpSMqawD
+  title: 'Evolution not Transformation: This is the Inevitability of change'
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 31
+  - label: Technical Leadership
+    score: 78
+  tldr: Change in software organizations is not a one-time transformation but an ongoing evolution that requires continuous experimentation, adaptation, and learning. Leaders must drive this process from within by fostering a culture of agility, empowering teams, and regularly reassessing goals and practices to stay competitive in a fast-changing market. The key takeaway is to embrace continuous improvement and own the change process rather than relying on external solutions or static best practices.
+  content_ref: content/reference-content-WvUOpSMqawD.md
+- id: mK5twHwVcIg
+  title: 'Evidence-based Management: Gathering the metrics'
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 78
+  - label: Technical Leadership
+    score: 50
+  tldr: 'Evidence-based Management helps software organizations focus on delivering real value by tracking metrics in three areas: current value, time to market, and ability to innovate. Traditional measures like on-time and on-budget delivery miss customer value, so organizations should gather and regularly review these agile-focused metrics to guide improvement. Start collecting baseline data now and reassess quarterly to track progress and demonstrate the impact of agile investments.'
+  content_ref: content/reference-content-mK5twHwVcIg.md
+- id: DcwDyX1ZGUP
+  title: 'The Definition of Done: Ensuring Quality without Compromising Value'
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 78
+  tldr: The Definition of Done (DoD) ensures every release meets clear quality standards, while acceptance criteria define specific content requirements. Mixing acceptance criteria into the DoD can undermine transparency and adaptability, but consistently required quality measures should be added to the DoD itself. Review your acceptance criteria regularly and only update the DoD if it preserves both clarity and flexibility in your team's delivery.
+  content_ref: content/reference-content-DcwDyX1ZGUP.md
+- id: LKp5S7_4Kbw
+  title: Deciphering the Enigma of Story Points Across Teams
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 76
+  - label: Technical Leadership
+    score: 73
+  tldr: Story Points are useful for team discussions and backlog refinement but are too subjective for comparing teams or predicting delivery. Focus instead on objective metrics like throughput, cycle time, and work in process to measure and improve team performance, while also considering value delivered using evidence-based management practices. Shift your attention from normalising Story Points to tracking flow metrics and value to make better decisions and optimise outcomes.
+  content_ref: content/reference-content-LKp5S7_4Kbw.md
+- id: mqbD3iIhRg4
+  title: Stop normalizing unprofessional behaviour in the name of agility
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 62
+  - label: Technical Leadership
+    score: 74
+  tldr: Unprofessional behavior should not be excused as part of agile practices, as true agility requires professionalism, discipline, and competence. Failing to deliver usable increments, lacking team understanding of goals, and rigid processes undermine agility and can lead to serious consequences. Development managers should actively address and correct unprofessional behaviors to ensure ethical, effective, and sustainable agile delivery.
+  content_ref: content/reference-content-mqbD3iIhRg4.md
+- id: Cr7wjIJ8Uvb
+  title: Professional Scrum is for everyone in your organisation
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 52
+  - label: Technical Leadership
+    score: 73
+  tldr: Scrum works best when everyone in the organisation is involved, not just the development teams, as this breaks down old management habits and empowers people at all levels to contribute to value delivery. Training all staff together surfaces misconceptions, encourages open discussion, and creates a shared understanding that drives real change. To maximise the benefits, managers should ensure broad participation in Scrum training and use the resulting organisational change backlog to remove barriers to effective software delivery.
+  content_ref: content/reference-content-Cr7wjIJ8Uvb.md
+- id: 4ukwclfJlXy
+  title: If your backlog is not refined then you are doing it wrong
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 62
+  - label: Technical Leadership
+    score: 72
+  tldr: If your team starts Sprint Planning with backlog items that are not well understood or sized to fit within a sprint, you are setting up for failure. Regular backlog refinement is essential so developers can confidently select and deliver work, and lack of refinement often leads to missed goals and confusion. Make sure your team spends enough time refining upcoming backlog items so they are clear, appropriately sized, and ready for selection in the next two sprints.
+  content_ref: content/reference-content-4ukwclfJlXy.md
+- id: KIG3LzjF3zK
+  title: What's the best way to work around multiple PO?
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 31
+  - label: Technical Leadership
+    score: 72
+  tldr: If multiple people are acting as Product Owners but are not providing clear direction or attending key meetings, your team lacks true ownership of the product backlog and value delivery. This leads to wasted effort on features that may not matter, with industry data showing up to 65 percent of time spent on the wrong work. Raise this issue with management and ensure someone is clearly accountable for prioritizing and validating work, even if it means temporarily assigning the role until a suitable Product Owner is found.
+  content_ref: content/reference-content-KIG3LzjF3zK.md
+- id: -Oo9b3G-8Zw
+  title: Become the leader that you were meant to to be
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 24
+  - label: Technical Leadership
+    score: 72
+  tldr: Leadership in modern software development is about inspiring and enabling teams rather than controlling them; managers should focus on leading people and improving effectiveness. The Scrum Master is a leadership role that supports the team and organization, not a manager or administrator. To drive better results, shift from traditional hierarchy to servant leadership and lead by example.
+  content_ref: content/reference-content--Oo9b3G-8Zw.md
+- id: G1N1dQ6DNEV
+  title: Storms of Neglect The Perils of Not Delivering Usable Products in Agile Iterations
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 72
+  - label: Technical Leadership
+    score: 64
+  tldr: If teams do not deliver a usable product at the end of each iteration, trust with stakeholders erodes, technical debt grows, adaptability slows, and expectations become misaligned. This also leads to lower team morale and a lack of feedback, making it hard to improve or stay on track. To avoid these issues, ensure every iteration results in a usable product so you maintain trust, alignment, and the ability to adapt quickly.
+  content_ref: content/reference-content-G1N1dQ6DNEV.md
+- id: KHNSdDjr5K_
+  title: You can't stop the signal! But you can ignore it!
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 62
+  - label: Technical Leadership
+    score: 72
+  tldr: Agile and Scrum frameworks highlight problems in team processes, but many organizations ignore these signals due to cultural barriers like fear of repercussions and resistance to change. Simply adopting these frameworks is not enough; their effectiveness depends on a culture that encourages transparency, feedback, and continuous improvement. Development managers should focus on building an environment where raising and addressing issues is supported and valued to fully realize the benefits of Agile and Scrum.
+  content_ref: content/reference-content-KHNSdDjr5K_.md
+- id: mkdhLrKu8sh
+  title: Pragmatism crushes Dogma in the wild
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 71
+  - label: Technical Leadership
+    score: 72
+  tldr: Practical use of Scrum in a mentoring program showed that teams succeed by focusing on adaptability and resilience rather than rigidly following rules. Key insights include the importance of making work visible, inspecting progress, and quickly adapting to change, as outlined in the Scrum Guide. Development managers should prioritize flexibility within Scrum’s essential guardrails to help teams handle real-world challenges effectively.
+  content_ref: content/reference-content-mkdhLrKu8sh.md
+- id: RCMVmNzZDfV
+  title: 'Decoding Scrum Team Work: Balancing Sprint and Refinement Work'
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 69
+  - label: Technical Leadership
+    score: 62
+  tldr: Scrum teams need to balance Sprint work, which delivers direct value to stakeholders, with Refinement, which prepares the backlog for future Sprints. Using tools like Azure DevOps to visualise and track both types of work helps teams plan better, avoid unnecessary effort, and stay ready for challenges. Development managers should ensure both work types are visible and managed to improve team efficiency and product outcomes.
+  content_ref: content/reference-content-RCMVmNzZDfV.md
+- id: AcwMGmMo7iU
+  title: What is your perspective on collocation?
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 42
+  - label: Technical Leadership
+    score: 68
+  tldr: Collocation, where all team members work together in the same space, is not required for Scrum but is strongly recommended, especially for new teams, as it improves communication, focus, and team ownership. While remote work is possible with the right technology, it often requires extra effort to replicate the benefits of in-person interaction. If collocation is not feasible, managers should support teams with tools and practices to minimize communication challenges and continuously improve team effectiveness.
+  content_ref: content/reference-content-AcwMGmMo7iU.md
+- id: mzVDd2JFtHO
+  title: From Unused Gym Memberships to Agile Implementation The Parallels of Misapplied Investments
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 67
+  - label: Technical Leadership
+    score: 61
+  tldr: Adopting agile methods is like buying a gym membership; real benefits come only with consistent, committed practice rather than superficial adoption. Key to success are breaking down goals, fostering cross-functional teams, and maintaining quality instead of just following rituals. Development managers should focus on genuine agile implementation and ongoing improvement to avoid wasted investment and missed opportunities.
+  content_ref: content/reference-content-mzVDd2JFtHO.md
+- id: As4R5dKsJtU
+  title: In Nexus with 5 Scrum teams, how can the Product Owner attend all Sprint Planning events?
+  primary_classification: Technical Leadership
+  scored:
+  - label: Technical Leadership
+    score: 67
+  tldr: When managing multiple Scrum teams in a Nexus, the Product Owner should focus on high-level vision and attend only the Nexus Sprint Planning, delegating detailed planning to designated Team Owners or Area Owners for each team. This approach reduces overload, maintains alignment with the product vision, and relies on strong communication and autonomy within teams. To implement this, assign a representative for each team to handle their Sprint Planning and ensure ongoing coordination with the Product Owner.
+  content_ref: content/reference-content-As4R5dKsJtU.md
+- id: vkqr5T9YVsf
+  title: 'Risk Mitigation: Agile Usable Products vs Documentation in Traditional Project Management'
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 67
+  - label: Technical Leadership
+    score: 50
+  tldr: Delivering working software in small increments helps teams identify and address risks early, adapt to changes quickly, and get real feedback from users, while relying mainly on documentation can slow response to shifting needs. Documentation is still important, but focusing on usable products provides more value in fast-changing environments. Development managers should prioritize building and validating working software while maintaining just enough documentation to support adaptation and clarity.
+  content_ref: content/reference-content-vkqr5T9YVsf.md
+- id: DdQ1nKvk-hv
+  title: Scrum is made up of Influencers, Entrepreneurs, and Makers
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 38
+  - label: Technical Leadership
+    score: 67
+  tldr: 'Scrum teams need a balance of three key roles: Influencers who lead and shape the environment, Entrepreneurs who define and communicate the product vision, and Makers who build the product. Each role has its own growth path and is essential for delivering high-value products. Development managers should ensure all three tracks are present and balanced in their teams to maximize success.'
+  content_ref: content/reference-content-DdQ1nKvk-hv.md
+- id: dyxqF7lrHmn
+  title: Luddites have no place in the modern organisation
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 37
+  - label: Technical Leadership
+    score: 67
+  tldr: To build a modern, adaptable software organization, you need to hire people open to change and innovation and be willing to let go of those who resist new ways of working. Cultural resistance from "Luddites" will slow or undermine your agile evolution, as seen in Microsoft's transformation under Satya Nadella. Review your hiring and team composition to ensure you have the right people to support continuous learning and agility.
+  content_ref: content/reference-content-dyxqF7lrHmn.md
+- id: sLRE2HdkUCS
+  title: Sprint Goal is an Immediate Tactical Goal
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 46
+  - label: Technical Leadership
+    score: 66
+  tldr: The Sprint Goal should be a clear, high-level statement that explains the purpose of the Sprint and connects directly to the Product Goal, guiding the team’s immediate tactical efforts. Product Owners should use tools like Lean Canvas to define business objectives and user behaviors, formulating hypotheses with measurable outcomes to maximize value. Focus on solving users’ current problems and iteratively anticipate their needs to drive engagement and deliver impactful features.
+  content_ref: content/reference-content-sLRE2HdkUCS.md
+- id: bpRR4ieKvr3
+  title: Getting Started with Objectives & Key Results
+  primary_classification: Technical Leadership
+  scored:
+  - label: Engineering Excellence
+    score: 29
+  - label: Technical Leadership
+    score: 65
+  tldr: OKRs only work when there is a clear strategy, a culture of transparency and adaptation, empowered teams, and a focus on outcomes over output. They help connect strategy to execution but require ongoing review, learning, and refinement to be effective. Before adopting OKRs, ensure your leadership, culture, and processes support these foundations or the framework will not deliver real value.
+  content_ref: content/reference-content-bpRR4ieKvr3.md
+- id: ICuFIMyhnwj
+  title: Story Points & Velocity are a sign of an unsuccessful team
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 62
+  - label: Technical Leadership
+    score: 62
+  tldr: Story points and velocity are not required by Scrum and relying on them long-term signals a team's lack of maturity and adaptability. While they can help new teams start conversations and build shared understanding, they do not provide real predictability or confidence in delivery. Development managers should focus on transparency, concrete data, and metrics like cycle time to build true confidence and improve predictability for stakeholders.
+  content_ref: content/reference-content-ICuFIMyhnwj.md
+- id: Lv1CLfk5cPM
+  title: No Estimates and is it advisable for a Scrum Team to adopt it?
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 62
+  - label: Technical Leadership
+    score: 50
+  tldr: Estimation is valuable mainly for the team discussions it generates, not the numbers themselves. New Scrum Teams benefit from using Story Points and Velocity, but as they mature, they should shift to flow-based metrics like Cycle Time and Throughput and consider dropping traditional estimation. Teams should regularly review and adapt their process, moving toward simpler sizing and continuous improvement as they gain experience.
+  content_ref: content/reference-content-Lv1CLfk5cPM.md
+- id: KUJ7jHOGqP7
+  title: There is no place like production
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 61
+  - label: Technical Leadership
+    score: 50
+  tldr: To deliver real value and reduce risk, teams must release features to production quickly so real users can provide feedback, since assumptions and testing environments cannot replace actual usage. Key measures like customer satisfaction, product usage, and employee satisfaction help validate value, and releasing early also offers financial benefits through capital expenditure write-downs. Prioritize getting small increments into production to maximize learning, value, and organizational savings.
+  content_ref: content/reference-content-KUJ7jHOGqP7.md
+- id: 7CqdvOa9t4c
+  title: Update to the Scrum Guide on the 25th Anniversary of the Scrum Framework
+  primary_classification: Engineering Excellence
+  scored:
+  - label: Engineering Excellence
+    score: 61
+  - label: Technical Leadership
+    score: 42
+  tldr: The 2020 update to the Scrum Guide simplifies language and reduces prescriptive rules, emphasizing that Scrum Teams are self-managing and collectively accountable for delivering value each Sprint. Key changes include clear commitments for Product Goal, Sprint Goal, and Definition of Done, as well as a focus on cross-functional teams and improved Sprint Planning. Development managers should review the new guide to align their teams with these streamlined practices.
+  content_ref: content/reference-content-7CqdvOa9t4c.md

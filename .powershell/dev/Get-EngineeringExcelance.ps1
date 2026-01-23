@@ -5,106 +5,138 @@
 $ErrorActionPreference = 'Stop'
 $levelSwitch.MinimumLevel = 'Information'
 
-###### EXPORT BLOG POSTS IN WEIGHT CHUNKS ######
+###### EXPORT BLOG POSTS IN SCORE CHUNKS ######
 # Configuration
-$MaxWeight = 400  # Change this value to set the maximum weight to process
-$ChunkSize = 100  # Weight range per file (0-100, 101-200, etc.)
+$MinScore = 60    # Minimum score threshold (0-100, where 100 is best)
+$ChunkSize = 10   # Score range per file (60-69, 70-79, 80-89, 90-100, etc.)
+$classificationNames = @("Engineering Excellence", "Technical Leadership")
 
 # Load all blog posts
 Write-InformationLog "Loading blog posts..."
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\blog" -YearsBack 100
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\blog\" -YearsBack 100
 
-# Filter for posts with weight and under max, from 2014 onwards, sort by weight ascending
+# Filter for posts with score above minimum, from 2018 onwards, sort by score descending
 $cutoffDate = [DateTime]::Parse("2018-01-01")
 $allPosts = $hugoMarkdownObjects | 
 Where-Object { 
-    $_.FrontMatter.date -and
-    [DateTime]::Parse($_.FrontMatter.date) -ge $cutoffDate -and
-    (
-        # Include if old weight field exists and is under max
-        ($_.FrontMatter.weight -and [int]$_.FrontMatter.weight -le $MaxWeight) -or
-        # Include if any weightByClassification entry is under max
-        ($_.FrontMatter.weightByClassification -and 
-         ($_.FrontMatter.weightByClassification | Where-Object { $_.value -and [int]$_.value -le $MaxWeight }))
-    )
+    $post = $_
+    
+    # Check date
+    if (-not $post.FrontMatter.date) { return $false }
+    if ([DateTime]::Parse($post.FrontMatter.date) -lt $cutoffDate) { return $false }
+    
+    # Include if any classification score is above minimum
+    foreach ($name in $classificationNames) {
+        $result = Get-Classification -hugoMarkdown $post -ClassificationName $name
+        if ($result -and $result.final_score) {
+            if ($result.final_score -ge $MinScore) {
+                return $true
+            }
+        }
+    }
+    
+    return $false
 } | 
 Sort-Object { 
-    # Sort by the lowest weight across both weight and weightByClassification
-    if ($_.FrontMatter.weight) {
-        [int]$_.FrontMatter.weight
-    } elseif ($_.FrontMatter.weightByClassification) {
-        ($_.FrontMatter.weightByClassification | Measure-Object -Property value -Minimum).Minimum
-    } else {
-        [int]::MaxValue
+    # Sort by the highest final_score from classifications (descending)
+    $maxScore = 0
+    
+    # Check all classifications for highest score
+    foreach ($name in $classificationNames) {
+        $result = Get-Classification -hugoMarkdown $_ -ClassificationName $name
+        if ($result -and $result.final_score) {
+            if ($result.final_score -gt $maxScore) {
+                $maxScore = $result.final_score
+            }
+        }
     }
+    
+    - $maxScore  # Negative for descending sort
 }
 
-Write-InformationLog "Found $($allPosts.Count) blog posts with weight <= $MaxWeight"
+Write-InformationLog "Found $($allPosts.Count) blog posts with score >= $MinScore"
 
-# Group posts by weight ranges
-$weightRanges = @{}
+# Ensure directories exist
+$referenceDir = ".\\.resources\\reference"
+$contentDir = ".\\.resources\\reference\\content"
+if (-not (Test-Path $referenceDir)) {
+    New-Item -Path $referenceDir -ItemType Directory -Force | Out-Null
+}
+if (-not (Test-Path $contentDir)) {
+    New-Item -Path $contentDir -ItemType Directory -Force | Out-Null
+}
+
+# Build catalog and create individual content files
+$catalogEntries = @()
+
 foreach ($post in $allPosts) {
-    # Get the minimum weight from either the old weight field or weightByClassification
-    $weight = $null
-    if ($post.FrontMatter.weight) {
-        $weight = [int]$post.FrontMatter.weight
-    } elseif ($post.FrontMatter.weightByClassification) {
-        $weight = ($post.FrontMatter.weightByClassification | Measure-Object -Property value -Minimum).Minimum
+    # Get classification results
+    $classificationResults = @()
+    $maxScore = 0
+    $primaryClassification = ""
+    
+    foreach ($name in $classificationNames) {
+        $result = Get-Classification -hugoMarkdown $post -ClassificationName $name
+        if ($result -and $result.final_score) {
+            $classificationResults += [ordered]@{
+                label = $result.category
+                score = [int]$result.final_score
+            }
+            
+            if ($result.final_score -gt $maxScore) {
+                $maxScore = $result.final_score
+                $primaryClassification = $result.category
+            }
+        }
     }
     
-    if ($null -ne $weight) {
-        $rangeStart = [math]::Floor($weight / $ChunkSize) * $ChunkSize
-        $rangeEnd = $rangeStart + $ChunkSize - 1
-        $rangeKey = "$rangeStart-$rangeEnd"
-        
-        if (-not $weightRanges.ContainsKey($rangeKey)) {
-            $weightRanges[$rangeKey] = @()
-        }
-        $weightRanges[$rangeKey] += $post
+    # Extract fields
+    $itemId = if ($post.FrontMatter.ItemId) { $post.FrontMatter.ItemId } else { "unknown" }
+    $title = if ($post.FrontMatter.title) { $post.FrontMatter.title } else { "Untitled" }
+    $tldr = if ($post.FrontMatter.tldr) { $post.FrontMatter.tldr } else { "" }
+    $contentFileName = "reference-content-$itemId.md"
+    
+    # Add to catalog
+    $catalogEntry = [ordered]@{
+        id                     = $itemId
+        title                  = $title
+        primary_classification = $primaryClassification
+        scored                 = $classificationResults
+        tldr                   = $tldr
+        content_ref            = "content/$contentFileName"
     }
+    $catalogEntries += $catalogEntry
+    
+    # Create individual content file
+    $contentPath = ".\.resources\reference\content\$contentFileName"
+    $contentData = [ordered]@{
+        id              = $itemId
+        title           = $title
+        tldr            = $tldr
+        classifications = $classificationResults
+        content         = if ($post.BodyContent) { $post.BodyContent } else { "" }
+    }
+    
+    ConvertTo-Yaml -Data $contentData -OutFile $contentPath -Force
+    Write-InformationLog "Created content file: $contentFileName"
 }
 
-Write-InformationLog "Creating $($weightRanges.Count) output files for weight ranges"
-
-# Process each weight range
-foreach ($rangeKey in ($weightRanges.Keys | Sort-Object)) {
-    $posts = $weightRanges[$rangeKey]
-    $outputPath = ".\.resources\blog-posts-weight-$rangeKey.yaml"
-    $postsArray = @()
-    
-    Write-InformationLog "Processing range $rangeKey with $($posts.Count) posts"
-    
-    $index = 0
-    foreach ($post in $posts) {
-        $index++
-        
-        # Extract required fields
-        $title = if ($post.FrontMatter.title) { $post.FrontMatter.title } else { "" }
-        $tldr = if ($post.FrontMatter.tldr) { $post.FrontMatter.tldr } else { "" }
-        $itemId = if ($post.FrontMatter.ItemId) { $post.FrontMatter.ItemId } else { "" }
-        $content = if ($post.BodyContent) { $post.BodyContent } else { "" }
-        $weight = if ($post.FrontMatter.weight) { [int]$post.FrontMatter.weight } else { 0 }
-        
-        # Create ordered dictionary for this post
-        $postObject = [ordered]@{
-            weight  = $weight
-            title   = $title
-            tldr    = $tldr
-            ItemId  = $itemId
-            content = $content
-        }
-        
-        # Add weightByClassification if it exists
-        if ($post.FrontMatter.weightByClassification) {
-            $postObject['weightByClassification'] = $post.FrontMatter.weightByClassification
-        }
-        
-        $postsArray += $postObject
+# Create catalog file with metadata
+$catalogOutput = [ordered]@{
+    context = [ordered]@{
+        description             = "Catalog of reference content filtered by classification scores"
+        classifications         = $classificationNames
+        minimum_score_threshold = $MinScore
+        filter_note             = "Posts included have at least one classification with a score >= $MinScore."
+        content_count           = $catalogEntries.Count
+        score_note              = "Scores range from 0-100, where 100 is the highest/best score"
+        generated_date          = (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
     }
-    
-    # Convert to YAML and write to file
-    $yamlContent = ConvertTo-Yaml -Data $postsArray -OutFile $outputPath -Force
-    Write-InformationLog "Written $($postsArray.Count) posts to: $outputPath"
+    catalog = $catalogEntries
 }
+
+$catalogPath = ".\.resources\reference\catalog.yaml"
+ConvertTo-Yaml -Data $catalogOutput -OutFile $catalogPath -Force
+Write-InformationLog "Created catalog file: $catalogPath"
 
 Write-InformationLog "All files created successfully. Total posts exported: $($allPosts.Count)"
