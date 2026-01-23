@@ -6,6 +6,11 @@ tldr: Agile transformations often fail because they focus on following ceremonie
 date: 2025-06-02T09:00:00Z
 lastmod: 2025-06-02T09:00:00Z
 weight: 345
+weightByClassification:
+  - name: Engineering Excellence
+    value: 520
+  - name: Technical Leadership
+    value: 170
 sitemap:
   filename: sitemap.xml
   priority: 0.6

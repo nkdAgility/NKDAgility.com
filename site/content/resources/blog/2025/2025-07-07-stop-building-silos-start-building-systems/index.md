@@ -6,6 +6,11 @@ tldr: Fragmented automation and tool silos slow delivery, increase risk, and cre
 date: 2025-07-07T09:00:00Z
 lastmod: 2025-07-07T09:00:00Z
 weight: 50
+weightByClassification:
+  - name: Engineering Excellence
+    value: 20
+  - name: Technical Leadership
+    value: 80
 sitemap:
   filename: sitemap.xml
   priority: 0.9

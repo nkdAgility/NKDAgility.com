@@ -6,6 +6,11 @@ tldr: The Product Goal is a clear, measurable long-term objective in the Product
 date: 2020-11-23
 lastmod: 2020-11-23
 weight: 815
+weightByClassification:
+  - name: Engineering Excellence
+    value: 630
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

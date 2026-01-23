@@ -6,6 +6,11 @@ tldr: Agile is not just a mindset or set of behaviours; it is a disciplined syst
 date: 2025-08-11T09:00:00Z
 lastmod: 2025-08-11T09:00:00Z
 weight: 60
+weightByClassification:
+  - name: Engineering Excellence
+    value: 30
+  - name: Technical Leadership
+    value: 90
 sitemap:
   filename: sitemap.xml
   priority: 0.8

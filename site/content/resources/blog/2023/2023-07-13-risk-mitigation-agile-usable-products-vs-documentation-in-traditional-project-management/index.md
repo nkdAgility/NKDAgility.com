@@ -6,6 +6,11 @@ tldr: Delivering working software in small increments helps teams identify and a
 date: 2023-07-13
 lastmod: 2023-07-13
 weight: 415
+weightByClassification:
+  - name: Engineering Excellence
+    value: 330
+  - name: Technical Leadership
+    value: 500
 sitemap:
   filename: sitemap.xml
   priority: 0.5

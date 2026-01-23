@@ -6,6 +6,11 @@ tldr: Complexity is not a valid reason to avoid continuous delivery; organisatio
 date: 2025-02-24T09:00:00
 lastmod: 2025-02-24T09:00:00
 weight: 105
+weightByClassification:
+  - name: Engineering Excellence
+    value: 30
+  - name: Technical Leadership
+    value: 180
 sitemap:
   filename: sitemap.xml
   priority: 0.8

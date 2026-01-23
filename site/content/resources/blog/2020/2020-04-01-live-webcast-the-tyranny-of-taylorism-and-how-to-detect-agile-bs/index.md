@@ -6,6 +6,11 @@ tldr: Many organizations still use outdated management practices from the indust
 date: 2020-04-01
 lastmod: 2020-04-01
 weight: 640
+weightByClassification:
+  - name: Engineering Excellence
+    value: 670
+  - name: Technical Leadership
+    value: 610
 sitemap:
   filename: sitemap.xml
   priority: 0.3

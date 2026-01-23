@@ -6,6 +6,11 @@ tldr: Most organizations fail to improve software delivery because they resist r
 date: 2020-03-30
 lastmod: 2020-03-30
 weight: 815
+weightByClassification:
+  - name: Engineering Excellence
+    value: 630
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

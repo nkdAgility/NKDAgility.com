@@ -6,6 +6,11 @@ tldr: The article draws parallels between the seven deadly sins of ancient Greec
 date: 2023-10-17
 lastmod: 2023-10-17
 weight: 840
+weightByClassification:
+  - name: Engineering Excellence
+    value: 680
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

@@ -6,6 +6,11 @@ tldr: Relying on rigid hierarchies in the Product Backlog can hinder transparenc
 date: 2023-08-17
 lastmod: 2023-08-17
 weight: 525
+weightByClassification:
+  - name: Engineering Excellence
+    value: 550
+  - name: Technical Leadership
+    value: 500
 sitemap:
   filename: sitemap.xml
   priority: 0.4

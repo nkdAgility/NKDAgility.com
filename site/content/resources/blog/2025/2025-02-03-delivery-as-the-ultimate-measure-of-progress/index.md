@@ -6,6 +6,11 @@ tldr: Progress in Scrum should be measured by delivering working software to rea
 date: 2025-02-03T09:00:00
 lastmod: 2025-02-03T09:00:00
 weight: 150
+weightByClassification:
+  - name: Engineering Excellence
+    value: 80
+  - name: Technical Leadership
+    value: 220
 sitemap:
   filename: sitemap.xml
   priority: 0.8

@@ -6,6 +6,11 @@ tldr: Capacity planning should focus on optimising system flow and predictabilit
 date: 2025-07-21T09:00:00Z
 lastmod: 2025-07-21T09:00:00Z
 weight: 70
+weightByClassification:
+  - name: Engineering Excellence
+    value: 20
+  - name: Technical Leadership
+    value: 120
 sitemap:
   filename: sitemap.xml
   priority: 0.8

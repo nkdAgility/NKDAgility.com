@@ -6,6 +6,11 @@ tldr: Professional Scrum teams must deliver high-quality, working software every
 date: 2020-12-03
 lastmod: 2020-12-03
 weight: 195
+weightByClassification:
+  - name: Engineering Excellence
+    value: 60
+  - name: Technical Leadership
+    value: 330
 sitemap:
   filename: sitemap.xml
   priority: 0.7

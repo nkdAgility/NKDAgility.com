@@ -6,6 +6,11 @@ tldr: Change in software organizations is not a one-time transformation but an o
 date: 2020-07-13
 lastmod: 2020-07-13
 weight: 455
+weightByClassification:
+  - name: Engineering Excellence
+    value: 690
+  - name: Technical Leadership
+    value: 220
 sitemap:
   filename: sitemap.xml
   priority: 0.4

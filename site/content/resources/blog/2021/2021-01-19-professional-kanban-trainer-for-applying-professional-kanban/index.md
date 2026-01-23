@@ -6,6 +6,11 @@ tldr: The new Kanban Guide provides a clear, open framework for optimizing value
 date: 2021-01-19
 lastmod: 2021-01-19
 weight: 790
+weightByClassification:
+  - name: Engineering Excellence
+    value: 580
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

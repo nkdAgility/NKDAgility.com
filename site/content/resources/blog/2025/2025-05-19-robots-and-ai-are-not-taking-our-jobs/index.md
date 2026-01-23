@@ -6,6 +6,11 @@ tldr: AI and automation are not threats to jobs but are removing repetitive, deh
 date: 2025-05-19T09:00:00Z
 lastmod: 2025-05-19T09:00:00Z
 weight: 645
+weightByClassification:
+  - name: Engineering Excellence
+    value: 550
+  - name: Technical Leadership
+    value: 740
 sitemap:
   filename: sitemap.xml
   priority: 0.3

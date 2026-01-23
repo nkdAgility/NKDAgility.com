@@ -6,6 +6,11 @@ tldr: Predictable delivery and agile release planning are not incompatible, but 
 date: 2020-11-24
 lastmod: 2020-11-24
 weight: 125
+weightByClassification:
+  - name: Engineering Excellence
+    value: 80
+  - name: Technical Leadership
+    value: 170
 sitemap:
   filename: sitemap.xml
   priority: 0.8

@@ -6,6 +6,11 @@ tldr: Scrum only works when teams have real decision-making power, not just the 
 date: 2025-05-01T09:00:00Z
 lastmod: 2025-05-01T09:00:00Z
 weight: 200
+weightByClassification:
+  - name: Engineering Excellence
+    value: 260
+  - name: Technical Leadership
+    value: 140
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -6,6 +6,11 @@ tldr: Scrum and Continuous Delivery work well together and can enhance each othe
 date: 2017-06-28
 lastmod: 2017-06-28
 weight: 690
+weightByClassification:
+  - name: Engineering Excellence
+    value: 380
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.2

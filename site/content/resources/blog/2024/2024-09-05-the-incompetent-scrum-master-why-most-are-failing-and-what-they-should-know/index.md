@@ -6,6 +6,11 @@ tldr: Most Scrum Masters lack the necessary understanding of Scrum and related t
 date: 2024-09-05
 lastmod: 2024-09-05
 weight: 190
+weightByClassification:
+  - name: Engineering Excellence
+    value: 220
+  - name: Technical Leadership
+    value: 160
 sitemap:
   filename: sitemap.xml
   priority: 0.7

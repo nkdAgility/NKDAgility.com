@@ -6,6 +6,11 @@ tldr: Keep your product backlog minimal but sufficient, ensuring it is clear and
 date: 2023-08-24
 lastmod: 2023-08-24
 weight: 470
+weightByClassification:
+  - name: Engineering Excellence
+    value: 520
+  - name: Technical Leadership
+    value: 420
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -6,6 +6,11 @@ tldr: Human decision-making is essential for setting strategy, purpose, and adap
 date: 2025-06-30T09:00:00Z
 lastmod: 2025-06-30T09:00:00Z
 weight: 570
+weightByClassification:
+  - name: Engineering Excellence
+    value: 620
+  - name: Technical Leadership
+    value: 520
 sitemap:
   filename: sitemap.xml
   priority: 0.3

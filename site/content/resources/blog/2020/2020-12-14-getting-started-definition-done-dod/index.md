@@ -6,6 +6,11 @@ tldr: A clear Definition of Done (DoD) is essential for ensuring software qualit
 date: 2020-12-14
 lastmod: 2020-12-14
 weight: 315
+weightByClassification:
+  - name: Engineering Excellence
+    value: 130
+  - name: Technical Leadership
+    value: 500
 sitemap:
   filename: sitemap.xml
   priority: 0.6

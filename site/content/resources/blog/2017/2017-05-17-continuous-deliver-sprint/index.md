@@ -6,6 +6,11 @@ tldr: Sprints are not about limiting release frequency but about providing a reg
 date: 2017-05-17
 lastmod: 2017-05-17
 weight: 225
+weightByClassification:
+  - name: Engineering Excellence
+    value: 280
+  - name: Technical Leadership
+    value: 170
 sitemap:
   filename: sitemap.xml
   priority: 0.7

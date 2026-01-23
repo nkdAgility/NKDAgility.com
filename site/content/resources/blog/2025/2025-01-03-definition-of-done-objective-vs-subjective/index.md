@@ -6,6 +6,11 @@ tldr: The Definition of Done (DoD) in Scrum is an objective, measurable checklis
 date: 2025-01-03
 lastmod: 2025-01-03
 weight: 145
+weightByClassification:
+  - name: Engineering Excellence
+    value: 60
+  - name: Technical Leadership
+    value: 230
 sitemap:
   filename: sitemap.xml
   priority: 0.8

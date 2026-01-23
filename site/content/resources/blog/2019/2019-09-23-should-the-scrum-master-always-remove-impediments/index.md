@@ -6,6 +6,11 @@ tldr: The Scrum Master is responsible for removing impediments, but should only 
 date: 2019-09-23
 lastmod: 2019-09-23
 weight: 405
+weightByClassification:
+  - name: Engineering Excellence
+    value: 600
+  - name: Technical Leadership
+    value: 210
 sitemap:
   filename: sitemap.xml
   priority: 0.5

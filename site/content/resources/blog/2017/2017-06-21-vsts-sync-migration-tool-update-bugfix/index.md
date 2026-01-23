@@ -6,6 +6,11 @@ tldr: The VSTS Sync Migration Tool has been updated with new features like work 
 date: 2017-06-21
 lastmod: 2017-06-21
 weight: 705
+weightByClassification:
+  - name: Engineering Excellence
+    value: 410
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.2

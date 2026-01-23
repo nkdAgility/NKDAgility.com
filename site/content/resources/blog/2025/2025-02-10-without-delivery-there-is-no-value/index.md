@@ -6,6 +6,11 @@ tldr: Value in software is only realised when products are delivered to users, s
 date: 2025-02-10T09:00:00
 lastmod: 2025-02-10T09:00:00
 weight: 180
+weightByClassification:
+  - name: Engineering Excellence
+    value: 130
+  - name: Technical Leadership
+    value: 230
 sitemap:
   filename: sitemap.xml
   priority: 0.7

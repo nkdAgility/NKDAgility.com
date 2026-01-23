@@ -6,6 +6,11 @@ tldr: AI writing code is not the real game-changer; coding was never the main bo
 date: 2025-09-01T09:00:00Z
 lastmod: 2025-09-01T09:00:00Z
 weight: 150
+weightByClassification:
+  - name: Engineering Excellence
+    value: 80
+  - name: Technical Leadership
+    value: 220
 sitemap:
   filename: sitemap.xml
   priority: 0.8

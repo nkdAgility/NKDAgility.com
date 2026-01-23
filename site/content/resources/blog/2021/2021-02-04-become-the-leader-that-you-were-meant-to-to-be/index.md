@@ -6,6 +6,11 @@ tldr: Leadership in modern software development is about inspiring and enabling 
 date: 2021-02-04
 lastmod: 2021-02-04
 weight: 520
+weightByClassification:
+  - name: Engineering Excellence
+    value: 760
+  - name: Technical Leadership
+    value: 280
 sitemap:
   filename: sitemap.xml
   priority: 0.4

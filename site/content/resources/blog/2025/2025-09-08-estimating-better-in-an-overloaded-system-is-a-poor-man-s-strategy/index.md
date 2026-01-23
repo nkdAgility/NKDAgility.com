@@ -6,6 +6,11 @@ tldr: Trying to improve estimates in an overloaded system is ineffective because
 date: 2025-09-08T09:00:00Z
 lastmod: 2025-09-08T09:00:00Z
 weight: 240
+weightByClassification:
+  - name: Engineering Excellence
+    value: 90
+  - name: Technical Leadership
+    value: 390
 sitemap:
   filename: sitemap.xml
   priority: 0.7

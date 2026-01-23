@@ -6,6 +6,11 @@ tldr: The Scrum Master role requires deep technical, business, and organisationa
 date: 2025-02-17T09:00:00
 lastmod: 2025-02-17T09:00:00
 weight: 135
+weightByClassification:
+  - name: Engineering Excellence
+    value: 210
+  - name: Technical Leadership
+    value: 60
 sitemap:
   filename: sitemap.xml
   priority: 0.8

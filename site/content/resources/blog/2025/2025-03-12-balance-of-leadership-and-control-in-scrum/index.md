@@ -6,6 +6,11 @@ tldr: Scrum Masters and Product Owners are expected to deliver results, so they 
 date: 2025-03-17T09:00:00
 lastmod: 2025-03-17T09:00:00
 weight: 405
+weightByClassification:
+  - name: Engineering Excellence
+    value: 680
+  - name: Technical Leadership
+    value: 130
 sitemap:
   filename: sitemap.xml
   priority: 0.5

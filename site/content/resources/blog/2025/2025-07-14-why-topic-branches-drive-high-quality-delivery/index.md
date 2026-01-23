@@ -6,6 +6,11 @@ tldr: Short-lived topic branches help teams deliver high-quality software by mak
 date: 2025-07-14T09:00:00Z
 lastmod: 2025-07-14T09:00:00Z
 weight: 75
+weightByClassification:
+  - name: Engineering Excellence
+    value: 30
+  - name: Technical Leadership
+    value: 120
 sitemap:
   filename: sitemap.xml
   priority: 0.8

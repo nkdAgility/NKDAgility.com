@@ -6,6 +6,11 @@ tldr: The Ghana Police Service began grassroots Scrum training with its first Pr
 date: 2017-10-30
 lastmod: 2017-10-30
 weight: 405
+weightByClassification:
+  - name: Engineering Excellence
+    value: 530
+  - name: Technical Leadership
+    value: 280
 sitemap:
   filename: sitemap.xml
   priority: 0.5

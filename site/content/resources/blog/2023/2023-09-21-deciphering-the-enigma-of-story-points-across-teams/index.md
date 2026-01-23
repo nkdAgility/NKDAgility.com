@@ -6,6 +6,11 @@ tldr: Story Points are useful for team discussions and backlog refinement but ar
 date: 2023-09-21
 lastmod: 2023-09-21
 weight: 255
+weightByClassification:
+  - name: Engineering Excellence
+    value: 240
+  - name: Technical Leadership
+    value: 270
 sitemap:
   filename: sitemap.xml
   priority: 0.6

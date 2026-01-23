@@ -6,6 +6,11 @@ tldr: DevOps only works when developers have real control over production enviro
 date: 2025-06-16T09:00:00Z
 lastmod: 2025-06-16T09:00:00Z
 weight: 285
+weightByClassification:
+  - name: Engineering Excellence
+    value: 190
+  - name: Technical Leadership
+    value: 380
 sitemap:
   filename: sitemap.xml
   priority: 0.6

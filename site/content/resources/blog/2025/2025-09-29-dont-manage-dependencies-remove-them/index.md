@@ -6,6 +6,11 @@ tldr: Dependencies are not inevitable but are usually caused by poor system desi
 date: 2025-09-29T09:00:00Z
 lastmod: 2025-09-29T09:00:00Z
 weight: 60
+weightByClassification:
+  - name: Engineering Excellence
+    value: 60
+  - name: Technical Leadership
+    value: 60
 sitemap:
   filename: sitemap.xml
   priority: 0.8

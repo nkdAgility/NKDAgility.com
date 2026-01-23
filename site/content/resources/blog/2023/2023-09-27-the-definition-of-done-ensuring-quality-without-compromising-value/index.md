@@ -6,6 +6,11 @@ tldr: The Definition of Done (DoD) ensures every release meets clear quality sta
 date: 2023-09-27
 lastmod: 2023-09-27
 weight: 610
+weightByClassification:
+  - name: Engineering Excellence
+    value: 220
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.3

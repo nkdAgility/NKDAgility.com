@@ -6,6 +6,11 @@ tldr: Excessive handoffs between siloed teams slow delivery, reduce quality, and
 date: 2025-01-13
 lastmod: 2025-01-13
 weight: 180
+weightByClassification:
+  - name: Engineering Excellence
+    value: 180
+  - name: Technical Leadership
+    value: 180
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -6,6 +6,11 @@ tldr: Measuring individual cycle time in Kanban misleads teams by focusing on pe
 date: 2025-03-03T09:00:00
 lastmod: 2025-03-03T09:00:00
 weight: 195
+weightByClassification:
+  - name: Engineering Excellence
+    value: 120
+  - name: Technical Leadership
+    value: 270
 sitemap:
   filename: sitemap.xml
   priority: 0.7

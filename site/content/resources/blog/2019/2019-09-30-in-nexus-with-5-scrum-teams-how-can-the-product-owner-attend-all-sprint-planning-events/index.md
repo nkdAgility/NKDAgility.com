@@ -6,6 +6,11 @@ tldr: When managing multiple Scrum teams in a Nexus, the Product Owner should fo
 date: 2019-09-30
 lastmod: 2019-09-30
 weight: 665
+weightByClassification:
+  - name: Engineering Excellence
+    value: 1000
+  - name: Technical Leadership
+    value: 330
 sitemap:
   filename: sitemap.xml
   priority: 0.2

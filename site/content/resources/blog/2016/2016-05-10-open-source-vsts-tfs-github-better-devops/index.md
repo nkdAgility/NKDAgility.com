@@ -6,6 +6,11 @@ tldr: You can use VSTS or TFS for full DevOps and agile capabilities while keepi
 date: 2016-05-10
 lastmod: 2016-05-10
 weight: 500
+weightByClassification:
+  - name: Engineering Excellence
+    value: 380
+  - name: Technical Leadership
+    value: 620
 sitemap:
   filename: sitemap.xml
   priority: 0.4

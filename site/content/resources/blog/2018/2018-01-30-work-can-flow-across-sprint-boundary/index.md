@@ -6,6 +6,11 @@ tldr: Allowing work to flow across Sprint boundaries is permitted in Scrum and c
 date: 2018-01-30
 lastmod: 2018-01-30
 weight: 145
+weightByClassification:
+  - name: Engineering Excellence
+    value: 130
+  - name: Technical Leadership
+    value: 160
 sitemap:
   filename: sitemap.xml
   priority: 0.8

@@ -6,6 +6,11 @@ tldr: If teams do not deliver a usable product at the end of each iteration, tru
 date: 2023-07-27
 lastmod: 2023-07-27
 weight: 320
+weightByClassification:
+  - name: Engineering Excellence
+    value: 280
+  - name: Technical Leadership
+    value: 360
 sitemap:
   filename: sitemap.xml
   priority: 0.6

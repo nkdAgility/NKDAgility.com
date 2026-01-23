@@ -6,6 +6,11 @@ tldr: Using test-first approaches like Test Driven Development helps teams deliv
 date: 2020-12-07
 lastmod: 2020-12-07
 weight: 395
+weightByClassification:
+  - name: Engineering Excellence
+    value: 130
+  - name: Technical Leadership
+    value: 660
 sitemap:
   filename: sitemap.xml
   priority: 0.5

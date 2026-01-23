@@ -6,6 +6,11 @@ tldr: The Scrum Master is ultimately accountable for ensuring the Scrum Team del
 date: 2025-01-30
 lastmod: 2025-01-30
 weight: 220
+weightByClassification:
+  - name: Engineering Excellence
+    value: 250
+  - name: Technical Leadership
+    value: 190
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -6,6 +6,11 @@ tldr: Building business resilience requires intentional design, strong observabi
 date: 2025-05-26T09:00:00Z
 lastmod: 2025-05-26T09:00:00Z
 weight: 165
+weightByClassification:
+  - name: Engineering Excellence
+    value: 80
+  - name: Technical Leadership
+    value: 250
 sitemap:
   filename: sitemap.xml
   priority: 0.7

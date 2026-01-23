@@ -6,6 +6,11 @@ tldr: Continuously delivering a usable working product is the most effective way
 date: 2023-07-20
 lastmod: 2023-07-20
 weight: 360
+weightByClassification:
+  - name: Engineering Excellence
+    value: 220
+  - name: Technical Leadership
+    value: 500
 sitemap:
   filename: sitemap.xml
   priority: 0.5

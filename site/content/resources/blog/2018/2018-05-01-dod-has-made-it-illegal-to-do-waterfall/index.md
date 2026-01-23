@@ -6,6 +6,11 @@ tldr: The US Department of Defense has updated its procurement rules to require 
 date: 2018-05-01
 lastmod: 2018-05-01
 weight: 415
+weightByClassification:
+  - name: Engineering Excellence
+    value: 410
+  - name: Technical Leadership
+    value: 420
 sitemap:
   filename: sitemap.xml
   priority: 0.5

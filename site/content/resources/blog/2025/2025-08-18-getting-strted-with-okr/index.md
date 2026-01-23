@@ -6,6 +6,11 @@ tldr: OKRs only work when there is a clear strategy, a culture of transparency a
 date: 2025-08-18T09:00:00Z
 lastmod: 2025-08-18T09:00:00Z
 weight: 530
+weightByClassification:
+  - name: Engineering Excellence
+    value: 710
+  - name: Technical Leadership
+    value: 350
 sitemap:
   filename: sitemap.xml
   priority: 0.4

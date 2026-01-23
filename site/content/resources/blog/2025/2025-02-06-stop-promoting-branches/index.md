@@ -6,6 +6,11 @@ tldr: Promoting code through multiple environment branches slows delivery, incre
 date: 2025-02-06T09:00:00
 lastmod: 2025-02-06T09:00:00
 weight: 160
+weightByClassification:
+  - name: Engineering Excellence
+    value: 40
+  - name: Technical Leadership
+    value: 280
 sitemap:
   filename: sitemap.xml
   priority: 0.7

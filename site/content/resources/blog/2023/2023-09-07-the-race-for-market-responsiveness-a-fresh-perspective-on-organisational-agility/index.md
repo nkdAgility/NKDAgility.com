@@ -6,6 +6,11 @@ tldr: The main point is that true organisational agility is about responding to 
 date: 2023-09-07
 lastmod: 2023-09-07
 weight: 880
+weightByClassification:
+  - name: Engineering Excellence
+    value: 760
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

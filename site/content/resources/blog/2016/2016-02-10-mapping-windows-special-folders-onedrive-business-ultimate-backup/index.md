@@ -6,6 +6,11 @@ tldr: Mapping your Windows special folders like Documents and Desktop to OneDriv
 date: 2016-02-10
 lastmod: 2016-02-10
 weight: 1000
+weightByClassification:
+  - name: Engineering Excellence
+    value: 1000
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

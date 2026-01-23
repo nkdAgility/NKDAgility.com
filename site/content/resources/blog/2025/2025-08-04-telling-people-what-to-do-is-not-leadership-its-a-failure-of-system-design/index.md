@@ -6,6 +6,11 @@ tldr: Telling people what to do is not leadership, it is a sign of poor system d
 date: 2025-08-04T09:00:00Z
 lastmod: 2025-08-04T09:00:00Z
 weight: 25
+weightByClassification:
+  - name: Engineering Excellence
+    value: 30
+  - name: Technical Leadership
+    value: 20
 sitemap:
   filename: sitemap.xml
   priority: 0.9

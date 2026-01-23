@@ -6,6 +6,11 @@ tldr: To deliver effective live virtual training in Microsoft Teams, you need to
 date: 2020-06-22
 lastmod: 2020-06-22
 weight: 890
+weightByClassification:
+  - name: Engineering Excellence
+    value: 1000
+  - name: Technical Leadership
+    value: 780
 sitemap:
   filename: sitemap.xml
   priority: 0.1

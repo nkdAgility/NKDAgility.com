@@ -6,6 +6,11 @@ tldr: If your OneDrive files are taking up too much space on your main drive, yo
 date: 2016-02-03
 lastmod: 2016-02-03
 weight: 945
+weightByClassification:
+  - name: Engineering Excellence
+    value: 890
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

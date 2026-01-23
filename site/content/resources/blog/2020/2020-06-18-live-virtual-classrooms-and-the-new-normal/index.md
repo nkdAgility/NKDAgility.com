@@ -6,6 +6,11 @@ tldr: Virtual training has proven to be as effective as, or even better than, in
 date: 2020-06-18
 lastmod: 2020-06-18
 weight: 830
+weightByClassification:
+  - name: Engineering Excellence
+    value: 890
+  - name: Technical Leadership
+    value: 770
 sitemap:
   filename: sitemap.xml
   priority: 0.1

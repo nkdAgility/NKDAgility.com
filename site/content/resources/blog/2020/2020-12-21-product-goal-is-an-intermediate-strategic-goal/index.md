@@ -6,6 +6,11 @@ tldr: Product Goals serve as intermediate steps that help teams evaluate and ada
 date: 2020-12-21
 lastmod: 2020-12-21
 weight: 560
+weightByClassification:
+  - name: Engineering Excellence
+    value: 620
+  - name: Technical Leadership
+    value: 500
 sitemap:
   filename: sitemap.xml
   priority: 0.3

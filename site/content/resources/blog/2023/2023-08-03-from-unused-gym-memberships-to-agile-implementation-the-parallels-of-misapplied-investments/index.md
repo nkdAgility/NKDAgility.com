@@ -6,6 +6,11 @@ tldr: Adopting agile methods is like buying a gym membership; real benefits come
 date: 2023-08-03
 lastmod: 2023-08-03
 weight: 360
+weightByClassification:
+  - name: Engineering Excellence
+    value: 330
+  - name: Technical Leadership
+    value: 390
 sitemap:
   filename: sitemap.xml
   priority: 0.5

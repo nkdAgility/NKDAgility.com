@@ -6,6 +6,11 @@ tldr: Visual Studio Team Services helps reduce friction and risks when scaling S
 date: 2016-07-06
 lastmod: 2016-07-06
 weight: 345
+weightByClassification:
+  - name: Engineering Excellence
+    value: 310
+  - name: Technical Leadership
+    value: 380
 sitemap:
   filename: sitemap.xml
   priority: 0.6

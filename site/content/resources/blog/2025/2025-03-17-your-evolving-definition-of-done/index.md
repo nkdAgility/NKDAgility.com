@@ -6,6 +6,11 @@ tldr: The Definition of Done should evolve as teams mature, starting with basic 
 date: 2025-03-31T09:00:00
 lastmod: 2025-03-31T09:00:00
 weight: 100
+weightByClassification:
+  - name: Engineering Excellence
+    value: 70
+  - name: Technical Leadership
+    value: 130
 sitemap:
   filename: sitemap.xml
   priority: 0.8

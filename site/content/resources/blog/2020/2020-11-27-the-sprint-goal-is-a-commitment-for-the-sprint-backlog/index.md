@@ -6,6 +6,11 @@ tldr: The Sprint Goal is a clear, single objective for each Sprint that guides t
 date: 2020-11-27
 lastmod: 2020-11-27
 weight: 610
+weightByClassification:
+  - name: Engineering Excellence
+    value: 640
+  - name: Technical Leadership
+    value: 580
 sitemap:
   filename: sitemap.xml
   priority: 0.3

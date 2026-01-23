@@ -6,6 +6,11 @@ tldr: VSTS Sync Migration Tools help teams move work items, test plans, and team
 date: 2016-10-26
 lastmod: 2016-10-26
 weight: 840
+weightByClassification:
+  - name: Engineering Excellence
+    value: 680
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

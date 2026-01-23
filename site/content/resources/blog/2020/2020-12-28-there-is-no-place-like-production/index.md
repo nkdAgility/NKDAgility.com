@@ -6,6 +6,11 @@ tldr: To deliver real value and reduce risk, teams must release features to prod
 date: 2020-12-28
 lastmod: 2020-12-28
 weight: 445
+weightByClassification:
+  - name: Engineering Excellence
+    value: 390
+  - name: Technical Leadership
+    value: 500
 sitemap:
   filename: sitemap.xml
   priority: 0.5

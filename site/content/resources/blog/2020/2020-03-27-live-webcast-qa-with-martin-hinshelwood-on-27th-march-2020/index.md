@@ -6,6 +6,11 @@ tldr: Martin Hinshelwood discusses how to effectively integrate user experience 
 date: 2020-03-27
 lastmod: 2020-03-27
 weight: 850
+weightByClassification:
+  - name: Engineering Excellence
+    value: 700
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

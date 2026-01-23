@@ -6,6 +6,11 @@ tldr: Design Sprints should not be treated as separate or special sprints in Scr
 date: 2019-08-16
 lastmod: 2019-08-16
 weight: 540
+weightByClassification:
+  - name: Engineering Excellence
+    value: 580
+  - name: Technical Leadership
+    value: 500
 sitemap:
   filename: sitemap.xml
   priority: 0.4

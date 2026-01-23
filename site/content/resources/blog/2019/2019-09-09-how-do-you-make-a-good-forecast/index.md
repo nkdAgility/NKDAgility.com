@@ -6,6 +6,11 @@ tldr: To make better forecasts in agile projects, shift from using metrics like 
 date: 2019-09-09
 lastmod: 2019-09-09
 weight: 540
+weightByClassification:
+  - name: Engineering Excellence
+    value: 580
+  - name: Technical Leadership
+    value: 500
 sitemap:
   filename: sitemap.xml
   priority: 0.4

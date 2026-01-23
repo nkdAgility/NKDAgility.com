@@ -6,6 +6,11 @@ tldr: The 2020 update to the Scrum Guide simplifies language and reduces prescri
 date: 2020-11-18
 lastmod: 2020-11-18
 weight: 485
+weightByClassification:
+  - name: Engineering Excellence
+    value: 390
+  - name: Technical Leadership
+    value: 580
 sitemap:
   filename: sitemap.xml
   priority: 0.4
