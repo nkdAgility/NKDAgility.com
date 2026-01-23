@@ -6,6 +6,11 @@ tldr: To build a modern, adaptable software organization, you need to hire peopl
 date: 2020-07-06
 lastmod: 2020-07-06
 weight: 480
+weightByClassification:
+  - name: Engineering Excellence
+    value: 630
+  - name: Technical Leadership
+    value: 330
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -6,6 +6,11 @@ tldr: Traditional management practices like Waterfall are just symptoms of deepe
 date: 2021-01-18
 lastmod: 2021-01-18
 weight: 980
+weightByClassification:
+  - name: Engineering Excellence
+    value: 960
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

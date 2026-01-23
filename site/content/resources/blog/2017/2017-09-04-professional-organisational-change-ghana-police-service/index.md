@@ -6,6 +6,11 @@ tldr: The Ghana Police Service is undergoing a major transformation to address l
 date: 2017-09-04
 lastmod: 2017-09-04
 weight: 480
+weightByClassification:
+  - name: Engineering Excellence
+    value: 680
+  - name: Technical Leadership
+    value: 280
 sitemap:
   filename: sitemap.xml
   priority: 0.4

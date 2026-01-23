@@ -6,6 +6,11 @@ tldr: Hiring a professional Product Owner is increasingly valued, with companies
 date: 2021-05-17
 lastmod: 2021-05-17
 weight: 570
+weightByClassification:
+  - name: Engineering Excellence
+    value: 580
+  - name: Technical Leadership
+    value: 560
 sitemap:
   filename: sitemap.xml
   priority: 0.3

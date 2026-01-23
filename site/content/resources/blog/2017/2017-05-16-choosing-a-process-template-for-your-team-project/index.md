@@ -6,6 +6,11 @@ tldr: For agile software teams using TFS or VSTS, choose the Scrum process templ
 date: 2017-05-16
 lastmod: 2017-05-16
 weight: 645
+weightByClassification:
+  - name: Engineering Excellence
+    value: 680
+  - name: Technical Leadership
+    value: 610
 sitemap:
   filename: sitemap.xml
   priority: 0.3

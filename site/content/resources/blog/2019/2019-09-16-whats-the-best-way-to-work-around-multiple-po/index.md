@@ -6,6 +6,11 @@ tldr: If multiple people are acting as Product Owners but are not providing clea
 date: 2019-09-16
 lastmod: 2019-09-16
 weight: 485
+weightByClassification:
+  - name: Engineering Excellence
+    value: 690
+  - name: Technical Leadership
+    value: 280
 sitemap:
   filename: sitemap.xml
   priority: 0.4

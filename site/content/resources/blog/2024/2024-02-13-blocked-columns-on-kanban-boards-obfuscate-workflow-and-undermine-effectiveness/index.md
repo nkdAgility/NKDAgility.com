@@ -6,6 +6,11 @@ tldr: Using Blocked columns on Kanban boards hides the true status of work, enco
 date: 2024-02-13
 lastmod: 2024-02-13
 weight: 380
+weightByClassification:
+  - name: Engineering Excellence
+    value: 180
+  - name: Technical Leadership
+    value: 580
 sitemap:
   filename: sitemap.xml
   priority: 0.5

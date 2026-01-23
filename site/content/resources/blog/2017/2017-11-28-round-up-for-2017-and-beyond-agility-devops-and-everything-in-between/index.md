@@ -6,6 +6,11 @@ tldr: The author reflects on a busy year of speaking at global conferences and d
 date: 2017-11-28
 lastmod: 2017-11-28
 weight: 495
+weightByClassification:
+  - name: Engineering Excellence
+    value: 380
+  - name: Technical Leadership
+    value: 610
 sitemap:
   filename: sitemap.xml
   priority: 0.4

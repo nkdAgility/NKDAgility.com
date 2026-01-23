@@ -6,6 +6,11 @@ tldr: 'Scrum teams need a balance of three key roles: Influencers who lead and s
 date: 2021-03-01
 lastmod: 2021-03-01
 weight: 475
+weightByClassification:
+  - name: Engineering Excellence
+    value: 620
+  - name: Technical Leadership
+    value: 330
 sitemap:
   filename: sitemap.xml
   priority: 0.4

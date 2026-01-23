@@ -6,6 +6,11 @@ tldr: Agile in Africa 2016 brought together genuine Agile experts to West Africa
 date: 2016-01-27
 lastmod: 2016-01-27
 weight: 885
+weightByClassification:
+  - name: Engineering Excellence
+    value: 770
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

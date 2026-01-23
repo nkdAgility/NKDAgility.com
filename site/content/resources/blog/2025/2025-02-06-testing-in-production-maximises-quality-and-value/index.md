@@ -6,6 +6,11 @@ tldr: Testing in production using audience-based deployment enables faster feedb
 date: 2025-02-13T09:00:00
 lastmod: 2025-02-13T09:00:00
 weight: 145
+weightByClassification:
+  - name: Engineering Excellence
+    value: 20
+  - name: Technical Leadership
+    value: 270
 sitemap:
   filename: sitemap.xml
   priority: 0.8

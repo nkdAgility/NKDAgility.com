@@ -6,6 +6,11 @@ tldr: A clear, shared Definition of Done is essential for delivering quality, re
 date: 2025-07-28T09:00:00Z
 lastmod: 2025-07-28T09:00:00Z
 weight: 95
+weightByClassification:
+  - name: Engineering Excellence
+    value: 20
+  - name: Technical Leadership
+    value: 170
 sitemap:
   filename: sitemap.xml
   priority: 0.8

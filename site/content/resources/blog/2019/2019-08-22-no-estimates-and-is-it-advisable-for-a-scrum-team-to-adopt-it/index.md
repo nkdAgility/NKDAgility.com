@@ -6,6 +6,11 @@ tldr: Estimation is valuable mainly for the team discussions it generates, not t
 date: 2019-08-22
 lastmod: 2019-08-22
 weight: 440
+weightByClassification:
+  - name: Engineering Excellence
+    value: 380
+  - name: Technical Leadership
+    value: 500
 sitemap:
   filename: sitemap.xml
   priority: 0.5

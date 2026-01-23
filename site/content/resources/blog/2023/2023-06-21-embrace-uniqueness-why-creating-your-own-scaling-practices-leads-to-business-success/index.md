@@ -6,6 +6,11 @@ tldr: Relying on generic scaling frameworks can dilute what makes your organizat
 date: 2023-06-21
 lastmod: 2023-06-21
 weight: 550
+weightByClassification:
+  - name: Engineering Excellence
+    value: 660
+  - name: Technical Leadership
+    value: 440
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -6,6 +6,11 @@ tldr: Unprofessional behavior should not be excused as part of agile practices, 
 date: 2021-04-19
 lastmod: 2021-04-19
 weight: 320
+weightByClassification:
+  - name: Engineering Excellence
+    value: 380
+  - name: Technical Leadership
+    value: 260
 sitemap:
   filename: sitemap.xml
   priority: 0.6

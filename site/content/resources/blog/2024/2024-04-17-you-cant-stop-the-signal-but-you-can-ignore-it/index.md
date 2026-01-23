@@ -6,6 +6,11 @@ tldr: Agile and Scrum frameworks highlight problems in team processes, but many 
 date: 2024-04-17
 lastmod: 2024-04-17
 weight: 330
+weightByClassification:
+  - name: Engineering Excellence
+    value: 380
+  - name: Technical Leadership
+    value: 280
 sitemap:
   filename: sitemap.xml
   priority: 0.6

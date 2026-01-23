@@ -6,6 +6,11 @@ tldr: To stay competitive in a fast-changing market, teams must adopt DevOps and
 date: 2020-06-17
 lastmod: 2020-06-17
 weight: 335
+weightByClassification:
+  - name: Engineering Excellence
+    value: 170
+  - name: Technical Leadership
+    value: 500
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -6,6 +6,11 @@ tldr: Professionalism is essential for building great software, yet many teams l
 date: 2017-06-14
 lastmod: 2017-06-14
 weight: 790
+weightByClassification:
+  - name: Engineering Excellence
+    value: 580
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

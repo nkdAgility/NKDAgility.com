@@ -45,6 +45,7 @@ tags:
   - Business Agility
   - Organisational Change
   - Organisational Agility
+  - Adaptive Operating Model
   - Continuous Improvement
   - Enterprise Agility
 ItemId: kAEJI5HVFMc

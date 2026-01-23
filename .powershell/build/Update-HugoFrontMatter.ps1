@@ -20,11 +20,11 @@ $ResourceAliasExpiryDate = (Get-Date).Date.AddYears(-5)
 Start-TokenServer
 
 $hugoMarkdownObjects = @()
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 100
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\training-courses" -YearsBack 100
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\mentor-programs" -YearsBack 100
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\" -YearsBack 100
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\outcomes\" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
+#$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\training-courses" -YearsBack 100
+#$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\mentor-programs" -YearsBack 100
+#$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\capabilities\" -YearsBack 100
+#$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\outcomes\" -YearsBack 100
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
@@ -274,7 +274,19 @@ while ($hugoMarkdownQueue.Count -gt 0) {
                 $result = Get-Classification -hugoMarkdown $hugoMarkdown -ClassificationName $name
                 $classificationResults += $result
             }
-            
+
+
+            # Store numbers used to claculate weight
+            $weightByClassification = @()
+            foreach ($result in $classificationResults) {
+                $weightValue = (1000 - ($result.final_score * 10))
+                $weightByClassification += [ordered]@{
+                    name  = $result.category
+                    value = $weightValue
+                }
+            }
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'weightByClassification' -fieldValue $weightByClassification -Overwrite
+
             # Calculate average weight from all classifications
             $weightSum = 0
             foreach ($result in $classificationResults) {
@@ -371,6 +383,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $list += 'date'
     $list += 'lastmod'
     $list += 'weight'
+    $list += 'weightByClassification'
     $list += 'sitemap'
     $list += 'author'
     $list += 'contributors'

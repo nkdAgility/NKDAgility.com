@@ -6,6 +6,11 @@ tldr: Practical use of Scrum in a mentoring program showed that teams succeed by
 date: 2024-03-21
 lastmod: 2024-03-21
 weight: 285
+weightByClassification:
+  - name: Engineering Excellence
+    value: 290
+  - name: Technical Leadership
+    value: 280
 sitemap:
   filename: sitemap.xml
   priority: 0.6

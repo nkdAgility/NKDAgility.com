@@ -6,6 +6,11 @@ tldr: A well-ordered and regularly refined Product Backlog is essential for guid
 date: 2023-08-10
 lastmod: 2023-08-10
 weight: 580
+weightByClassification:
+  - name: Engineering Excellence
+    value: 630
+  - name: Technical Leadership
+    value: 530
 sitemap:
   filename: sitemap.xml
   priority: 0.3

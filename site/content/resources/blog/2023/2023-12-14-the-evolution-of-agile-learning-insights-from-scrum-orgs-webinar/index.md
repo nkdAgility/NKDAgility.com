@@ -6,6 +6,11 @@ tldr: Immersive learning, which combines incremental classroom sessions, real-wo
 date: 2023-12-14
 lastmod: 2023-12-14
 weight: 630
+weightByClassification:
+  - name: Engineering Excellence
+    value: 580
+  - name: Technical Leadership
+    value: 680
 sitemap:
   filename: sitemap.xml
   priority: 0.3

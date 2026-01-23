@@ -6,6 +6,11 @@ tldr: Scrum works best when everyone in the organisation is involved, not just t
 date: 2018-01-16
 lastmod: 2018-01-16
 weight: 375
+weightByClassification:
+  - name: Engineering Excellence
+    value: 480
+  - name: Technical Leadership
+    value: 270
 sitemap:
   filename: sitemap.xml
   priority: 0.5

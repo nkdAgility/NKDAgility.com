@@ -6,6 +6,11 @@ tldr: Many organisations adopt SAFe hoping for quick agility but end up replacin
 date: 2020-07-01
 lastmod: 2020-07-01
 weight: 850
+weightByClassification:
+  - name: Engineering Excellence
+    value: 700
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

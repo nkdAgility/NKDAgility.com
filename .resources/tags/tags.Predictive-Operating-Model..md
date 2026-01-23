@@ -46,10 +46,17 @@ headline:
   content: Examines the Predictive Operating Model that most companies use today, characterized by command-and-control management, specialized roles, centralized decision-making, and a focus on efficiency and predictability. Explores its historical roots in scientific management, its effectiveness in stable markets, and its limitations in dynamic environments requiring rapid adaptation and learning.
   updated: 2025-11-24T13:22:35Z
 BodyContentGenDate: 2025-11-24T13:22:43
-concepts: []
+concepts:
+  - Model
 categories: []
-tags: []
-weight: 1000
+tags:
+  - Operating Model
+  - Project Management
+  - Sociotechnical Systems
+  - Operational Practices
+  - Organisational Change
+  - Organisational Physics
+weight: 710
 
 ---
 The Predictive Operating Model represents the established approach to organizing work that emerged from the industrial revolution and scientific management principles. It is the model that most companies still use today, built on the core assumption that the environment is predictable enough that organizations succeed through efficiency, standardization, and control. This model has proven highly effective in stable, predictable environments where the goal is to optimize repeatable processes at scale.

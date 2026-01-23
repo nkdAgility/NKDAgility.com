@@ -6,6 +6,11 @@ tldr: The Sprint Goal should be a clear, high-level statement that explains the 
 date: 2021-01-11
 lastmod: 2021-01-11
 weight: 440
+weightByClassification:
+  - name: Engineering Excellence
+    value: 540
+  - name: Technical Leadership
+    value: 340
 sitemap:
   filename: sitemap.xml
   priority: 0.5

@@ -7,6 +7,11 @@ tldr: Most systems fail under real pressure because resilience is often treated 
 date: 2025-05-12T09:00:00Z
 lastmod: 2025-05-12T09:00:00Z
 weight: 165
+weightByClassification:
+  - name: Engineering Excellence
+    value: 100
+  - name: Technical Leadership
+    value: 230
 sitemap:
   filename: sitemap.xml
   priority: 0.7

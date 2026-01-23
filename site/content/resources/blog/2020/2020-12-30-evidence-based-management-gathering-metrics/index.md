@@ -6,6 +6,11 @@ tldr: 'Evidence-based Management helps software organizations focus on deliverin
 date: 2020-12-30
 lastmod: 2020-12-30
 weight: 360
+weightByClassification:
+  - name: Engineering Excellence
+    value: 220
+  - name: Technical Leadership
+    value: 500
 sitemap:
   filename: sitemap.xml
   priority: 0.5

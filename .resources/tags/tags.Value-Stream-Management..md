@@ -47,13 +47,13 @@ tags:
   - Continuous Improvement
   - Organisational Agility
   - Pragmatic Thinking
+  - Adaptive Operating Model
   - Agile Strategy
   - Team Performance
   - Strategic Goals
   - Enterprise Agility
   - Organisational Change
   - Project Management
-  - Social Technologies
 ItemId: E-xzp9Kr-Fu
 ResourceId: E-xzp9Kr-Fu
 ItemType: tags

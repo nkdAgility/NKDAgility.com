@@ -6,6 +6,11 @@ tldr: Scrum Masters are most effective when they combine strong leadership skill
 date: 2025-03-24T09:00:00
 lastmod: 2025-03-24T09:00:00
 weight: 140
+weightByClassification:
+  - name: Engineering Excellence
+    value: 220
+  - name: Technical Leadership
+    value: 60
 sitemap:
   filename: sitemap.xml
   priority: 0.8

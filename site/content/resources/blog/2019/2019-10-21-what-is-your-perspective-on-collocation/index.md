@@ -6,6 +6,11 @@ tldr: Collocation, where all team members work together in the same space, is no
 date: 2019-10-21
 lastmod: 2019-10-21
 weight: 450
+weightByClassification:
+  - name: Engineering Excellence
+    value: 580
+  - name: Technical Leadership
+    value: 320
 sitemap:
   filename: sitemap.xml
   priority: 0.5

@@ -6,6 +6,11 @@ tldr: Migrating a Codeplex repository to GitHub is necessary due to declining su
 date: 2016-03-02
 lastmod: 2016-03-02
 weight: 750
+weightByClassification:
+  - name: Engineering Excellence
+    value: 500
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.2

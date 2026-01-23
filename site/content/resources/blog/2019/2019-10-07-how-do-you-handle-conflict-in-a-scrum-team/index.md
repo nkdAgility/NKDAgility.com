@@ -6,6 +6,11 @@ tldr: When conflict arises in a Scrum Team, first encourage the team to resolve 
 date: 2019-10-07
 lastmod: 2019-10-07
 weight: 485
+weightByClassification:
+  - name: Engineering Excellence
+    value: 750
+  - name: Technical Leadership
+    value: 220
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -6,6 +6,11 @@ tldr: A new Professional Scrum with Kanban class and guide now enable Scrum team
 date: 2018-02-26
 lastmod: 2018-02-26
 weight: 580
+weightByClassification:
+  - name: Engineering Excellence
+    value: 580
+  - name: Technical Leadership
+    value: 580
 sitemap:
   filename: sitemap.xml
   priority: 0.3

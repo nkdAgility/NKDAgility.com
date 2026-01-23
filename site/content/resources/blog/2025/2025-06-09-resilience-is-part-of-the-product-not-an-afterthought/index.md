@@ -6,6 +6,11 @@ tldr: Resilience must be designed into your product from the start, not added la
 date: 2025-06-09T09:00:00Z
 lastmod: 2025-06-09T09:00:00Z
 weight: 150
+weightByClassification:
+  - name: Engineering Excellence
+    value: 40
+  - name: Technical Leadership
+    value: 260
 sitemap:
   filename: sitemap.xml
   priority: 0.8

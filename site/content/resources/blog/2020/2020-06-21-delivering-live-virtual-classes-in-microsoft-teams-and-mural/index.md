@@ -6,6 +6,11 @@ tldr: Delivering live virtual classes using Microsoft Teams and Mural offers str
 date: 2020-06-21
 lastmod: 2020-06-21
 weight: 525
+weightByClassification:
+  - name: Engineering Excellence
+    value: 550
+  - name: Technical Leadership
+    value: 500
 sitemap:
   filename: sitemap.xml
   priority: 0.4

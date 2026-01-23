@@ -6,6 +6,11 @@ tldr: Despite the UK Government's clear Cloud First policy mandating public clou
 date: 2017-05-10
 lastmod: 2017-05-10
 weight: 1000
+weightByClassification:
+  - name: Engineering Excellence
+    value: 1000
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

@@ -6,6 +6,11 @@ tldr: Story points and velocity are not required by Scrum and relying on them lo
 date: 2021-01-04
 lastmod: 2021-01-04
 weight: 380
+weightByClassification:
+  - name: Engineering Excellence
+    value: 380
+  - name: Technical Leadership
+    value: 380
 sitemap:
   filename: sitemap.xml
   priority: 0.5

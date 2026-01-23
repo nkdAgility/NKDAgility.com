@@ -6,6 +6,11 @@ tldr: Technical skills are not strictly required to be a Scrum Master, but havin
 date: 2019-09-01
 lastmod: 2019-09-01
 weight: 275
+weightByClassification:
+  - name: Engineering Excellence
+    value: 330
+  - name: Technical Leadership
+    value: 220
 sitemap:
   filename: sitemap.xml
   priority: 0.6

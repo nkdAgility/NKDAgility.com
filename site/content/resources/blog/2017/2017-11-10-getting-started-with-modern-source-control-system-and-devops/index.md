@@ -6,6 +6,11 @@ tldr: Modern source control systems are essential for managing not just code but
 date: 2017-11-10
 lastmod: 2017-11-10
 weight: 230
+weightByClassification:
+  - name: Engineering Excellence
+    value: 130
+  - name: Technical Leadership
+    value: 330
 sitemap:
   filename: sitemap.xml
   priority: 0.7

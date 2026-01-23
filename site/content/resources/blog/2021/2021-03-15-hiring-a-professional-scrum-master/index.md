@@ -6,6 +6,11 @@ tldr: Hiring a Scrum Master is challenging and requires someone who can lead, co
 date: 2021-03-15
 lastmod: 2021-03-15
 weight: 255
+weightByClassification:
+  - name: Engineering Excellence
+    value: 330
+  - name: Technical Leadership
+    value: 180
 sitemap:
   filename: sitemap.xml
   priority: 0.6

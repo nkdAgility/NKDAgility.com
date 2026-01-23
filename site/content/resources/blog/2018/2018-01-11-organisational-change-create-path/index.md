@@ -6,6 +6,11 @@ tldr: A one-size-fits-all agile framework rarely works because every organisatio
 date: 2018-01-11
 lastmod: 2018-01-11
 weight: 410
+weightByClassification:
+  - name: Engineering Excellence
+    value: 620
+  - name: Technical Leadership
+    value: 200
 sitemap:
   filename: sitemap.xml
   priority: 0.5

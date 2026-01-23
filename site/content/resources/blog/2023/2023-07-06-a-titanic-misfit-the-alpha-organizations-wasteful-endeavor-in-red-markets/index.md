@@ -6,6 +6,11 @@ tldr: Traditional hierarchical organizations that thrived in stable markets are 
 date: 2023-07-06
 lastmod: 2023-07-06
 weight: 865
+weightByClassification:
+  - name: Engineering Excellence
+    value: 730
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

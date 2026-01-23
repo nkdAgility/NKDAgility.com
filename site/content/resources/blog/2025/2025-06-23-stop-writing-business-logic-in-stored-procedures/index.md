@@ -6,6 +6,11 @@ tldr: Stop adding business logic to stored procedures and refactor existing logi
 date: 2025-06-23T09:00:00Z
 lastmod: 2025-06-23T09:00:00Z
 weight: 240
+weightByClassification:
+  - name: Engineering Excellence
+    value: 90
+  - name: Technical Leadership
+    value: 390
 sitemap:
   filename: sitemap.xml
   priority: 0.7

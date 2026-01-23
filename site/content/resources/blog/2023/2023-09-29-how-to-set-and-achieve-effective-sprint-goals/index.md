@@ -6,6 +6,11 @@ tldr: Sprint Goals are essential for guiding teams toward delivering real value 
 date: 2023-09-29
 lastmod: 2023-09-29
 weight: 720
+weightByClassification:
+  - name: Engineering Excellence
+    value: 1000
+  - name: Technical Leadership
+    value: 440
 sitemap:
   filename: sitemap.xml
   priority: 0.2

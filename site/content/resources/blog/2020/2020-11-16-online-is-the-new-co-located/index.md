@@ -6,6 +6,11 @@ tldr: With modern video technology and fast internet, online meetings can now pr
 date: 2020-11-16
 lastmod: 2020-11-16
 weight: 905
+weightByClassification:
+  - name: Engineering Excellence
+    value: 810
+  - name: Technical Leadership
+    value: 1000
 sitemap:
   filename: sitemap.xml
   priority: 0.1

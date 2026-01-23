@@ -6,6 +6,11 @@ tldr: Rejecting individual backlog items at the Sprint Review is a misunderstand
 date: 2020-07-13
 lastmod: 2020-07-13
 weight: 360
+weightByClassification:
+  - name: Engineering Excellence
+    value: 220
+  - name: Technical Leadership
+    value: 500
 sitemap:
   filename: sitemap.xml
   priority: 0.5

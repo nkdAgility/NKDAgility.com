@@ -6,6 +6,11 @@ tldr: Focusing on estimation accuracy as a performance metric leads to fear, gam
 date: 2025-09-22T09:00:00Z
 lastmod: 2025-09-22T09:00:00Z
 weight: 95
+weightByClassification:
+  - name: Engineering Excellence
+    value: 70
+  - name: Technical Leadership
+    value: 120
 sitemap:
   filename: sitemap.xml
   priority: 0.8

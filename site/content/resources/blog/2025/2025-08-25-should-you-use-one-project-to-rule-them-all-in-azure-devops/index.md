@@ -6,6 +6,11 @@ tldr: Using a single Azure DevOps project for all teams and products reduces fra
 date: 2025-08-25T09:00:00Z
 lastmod: 2025-08-25T09:00:00Z
 weight: 115
+weightByClassification:
+  - name: Engineering Excellence
+    value: 100
+  - name: Technical Leadership
+    value: 130
 sitemap:
   filename: sitemap.xml
   priority: 0.8

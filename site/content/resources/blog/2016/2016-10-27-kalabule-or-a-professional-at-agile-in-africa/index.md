@@ -6,6 +6,11 @@ tldr: Many software teams in Africa still operate unprofessionally, delivering p
 date: 2016-10-27
 lastmod: 2016-10-27
 weight: 330
+weightByClassification:
+  - name: Engineering Excellence
+    value: 280
+  - name: Technical Leadership
+    value: 380
 sitemap:
   filename: sitemap.xml
   priority: 0.6

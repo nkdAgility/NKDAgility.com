@@ -6,6 +6,11 @@ tldr: Scrum.org is launching a new one-day Professional Agile Leadership with Ev
 date: 2021-07-21
 lastmod: 2021-07-21
 weight: 530
+weightByClassification:
+  - name: Engineering Excellence
+    value: 560
+  - name: Technical Leadership
+    value: 500
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -6,6 +6,11 @@ tldr: Traditional hierarchical structures are holding back organisations from ad
 date: 2023-06-29
 lastmod: 2023-06-29
 weight: 615
+weightByClassification:
+  - name: Engineering Excellence
+    value: 660
+  - name: Technical Leadership
+    value: 570
 sitemap:
   filename: sitemap.xml
   priority: 0.3

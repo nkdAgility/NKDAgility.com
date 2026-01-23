@@ -6,6 +6,11 @@ tldr: The phrase “flow of value” is often misused in software development, a
 date: 2025-09-15T09:00:00Z
 lastmod: 2025-09-15T09:00:00Z
 weight: 60
+weightByClassification:
+  - name: Engineering Excellence
+    value: 60
+  - name: Technical Leadership
+    value: 60
 sitemap:
   filename: sitemap.xml
   priority: 0.8

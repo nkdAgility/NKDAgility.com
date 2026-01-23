@@ -6,6 +6,11 @@ tldr: If your team starts Sprint Planning with backlog items that are not well u
 date: 2020-12-17
 lastmod: 2020-12-17
 weight: 330
+weightByClassification:
+  - name: Engineering Excellence
+    value: 380
+  - name: Technical Leadership
+    value: 280
 sitemap:
   filename: sitemap.xml
   priority: 0.6

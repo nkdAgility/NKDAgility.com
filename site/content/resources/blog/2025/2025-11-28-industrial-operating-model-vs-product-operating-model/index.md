@@ -6,6 +6,11 @@ tldr: Most organisations still use a Predictive Operating Model built for stable
 date: 2025-12-04
 lastmod: 2025-12-03
 weight: 270
+weightByClassification:
+  - name: Engineering Excellence
+    value: 320
+  - name: Technical Leadership
+    value: 220
 sitemap:
   filename: sitemap.xml
   priority: 0.6

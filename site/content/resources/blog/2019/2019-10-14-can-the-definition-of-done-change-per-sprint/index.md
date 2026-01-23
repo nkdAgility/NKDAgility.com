@@ -6,6 +6,11 @@ tldr: The Definition of Done can be improved each Sprint to raise quality but sh
 date: 2019-10-14
 lastmod: 2019-10-14
 weight: 200
+weightByClassification:
+  - name: Engineering Excellence
+    value: 100
+  - name: Technical Leadership
+    value: 300
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -51,6 +51,7 @@ tags:
   - Business Agility
   - Organisational Agility
   - Organisational Change
+  - Adaptive Operating Model
   - Enterprise Agility
   - Value Delivery
   - Operating Model
@@ -61,7 +62,6 @@ tags:
   - Sociotechnical Systems
   - Organisational Culture
   - Market Adaptability
-  - Customer Focus
 ItemId: 9InuUGAkHO4
 ItemType: tags
 ResourceType: tags

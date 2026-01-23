@@ -6,6 +6,11 @@ tldr: Technical debt is a significant risk to your product and business, as it u
 date: 2021-01-25
 lastmod: 2021-01-25
 weight: 340
+weightByClassification:
+  - name: Engineering Excellence
+    value: 180
+  - name: Technical Leadership
+    value: 500
 sitemap:
   filename: sitemap.xml
   priority: 0.6
