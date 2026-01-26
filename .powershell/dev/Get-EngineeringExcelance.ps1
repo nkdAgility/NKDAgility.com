@@ -14,6 +14,7 @@ $classificationNames = @("Engineering Excellence", "Technical Leadership")
 # Load all blog posts
 Write-InformationLog "Loading blog posts..."
 $hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\blog\" -YearsBack 100
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\case-studies\" -YearsBack 100
 
 # Filter for posts with score above minimum, from 2018 onwards, sort by score descending
 $cutoffDate = [DateTime]::Parse("2018-01-01")
@@ -58,7 +59,7 @@ Write-InformationLog "Found $($allPosts.Count) blog posts with score >= $MinScor
 
 # Ensure directories exist
 $referenceDir = ".\\.resources\\reference"
-$contentDir = ".\\.resources\\reference\\content"
+$contentDir = ".\\.resources\\reference\\reference"
 if (-not (Test-Path $referenceDir)) {
     New-Item -Path $referenceDir -ItemType Directory -Force | Out-Null
 }
@@ -92,6 +93,7 @@ foreach ($post in $allPosts) {
     
     # Extract fields
     $itemId = if ($post.FrontMatter.ItemId) { $post.FrontMatter.ItemId } else { "unknown" }
+    $ItemType = if ($post.FrontMatter.ItemType) { $post.FrontMatter.ItemType } else { "unknown" }
     $title = if ($post.FrontMatter.title) { $post.FrontMatter.title } else { "Untitled" }
     $tldr = if ($post.FrontMatter.tldr) { $post.FrontMatter.tldr } else { "" }
     $contentFileName = "reference-content-$itemId.md"
@@ -99,6 +101,7 @@ foreach ($post in $allPosts) {
     # Add to catalog
     $catalogEntry = [ordered]@{
         id                     = $itemId
+        type                   = $ItemType
         title                  = $title
         primary_classification = $primaryClassification
         scored                 = $classificationResults
