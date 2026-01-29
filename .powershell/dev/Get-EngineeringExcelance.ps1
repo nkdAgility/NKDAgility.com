@@ -9,7 +9,7 @@ $levelSwitch.MinimumLevel = 'Information'
 # Configuration
 $MinScore = 60    # Minimum score threshold (0-100, where 100 is best)
 $ChunkSize = 10   # Score range per file (60-69, 70-79, 80-89, 90-100, etc.)
-$classificationNames = @("Engineering Excellence", "Technical Leadership")
+$classificationNames = @("Engineering Excellence", "Technical Leadership", "Lean", "DevOps", "Product Development", "Accountability", "Capability", "Discipline", "Ethos", "First Principle", "Model", "Observability", "Practice", "Principle", "Strategy", "Tenet", "Operating Model", "One Engineering System", "Adaptive Operating Model", "Predictive Operating Model", "Engineering Practices", "Flow Efficiency", "Throughput", "Lead Time", "Cycle Time", "Value Stream Management", "Value Stream Mapping", "Continuous Integration", "Continuous Delivery", "Deployment Strategies", "Release Management", "Definition of Done", "Technical Debt", "Technical Excellence", "Reversibility", "Change Safety", "Metrics and Learning", "Empirical Process Control", "Evidence Based Management", "Customer Feedback Loops", "Decision Making", "Decision Theory", "Operational Practices", "Platform Engineering", "Internal Developer Platform", "Site Reliability Engineering", "Systems Thinking", "Sociotechnical Systems", "Organisational Physics", "Complexity Thinking", "Feedback Loops", "Flow", "Learning Systems", "Quality as a Constraint", "Authority and Accountability Alignment", "System Design")
 
 # Load all blog posts
 Write-InformationLog "Loading blog posts..."
@@ -98,25 +98,28 @@ foreach ($post in $allPosts) {
     $tldr = if ($post.FrontMatter.tldr) { $post.FrontMatter.tldr } else { "" }
     $contentFileName = "reference-content-$itemId.md"
     
+    # Sort classifications by score and take top 3
+    $topClassifications = $classificationResults | Sort-Object -Property score -Descending | Select-Object -First 3
+    
     # Add to catalog
     $catalogEntry = [ordered]@{
         id                     = $itemId
         type                   = $ItemType
         title                  = $title
         primary_classification = $primaryClassification
-        scored                 = $classificationResults
+        scored                 = $topClassifications
         tldr                   = $tldr
-        content_ref            = "content/$contentFileName"
+        content_ref            = "reference/$contentFileName"
     }
     $catalogEntries += $catalogEntry
     
     # Create individual content file
-    $contentPath = ".\.resources\reference\content\$contentFileName"
+    $contentPath = ".\.resources\reference\reference\$contentFileName"
     $contentData = [ordered]@{
         id              = $itemId
         title           = $title
         tldr            = $tldr
-        classifications = $classificationResults
+        classifications = $topClassifications
         content         = if ($post.BodyContent) { $post.BodyContent } else { "" }
     }
     
