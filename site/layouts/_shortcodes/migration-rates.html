@@ -1,89 +1,153 @@
 <div class="migration-rates">
   <div class="row g-3">
-    <!-- Migration Base -->
-    <div class="col-12 col-md-6 col-lg-4">
+    <!-- Migration Base - Full Height Left Column -->
+    <div class="col-12 col-lg-4">
       <div class="card h-100">
         <div class="card-header">
-          <h6 class="card-title mb-0">Migration Base</h6>
+          <h6 class="card-title mb-0">Migration Base (per source project)</h6>
         </div>
-        <div class="card-body text-center">
-          <div class="display-6 fw-bold mb-2">
+        <div class="card-body">
+          <div class="display-6 fw-bold mb-2 text-center">
             <span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="10" data-nkda-amount="1000">1000</span>
           </div>
-          <p class="text-muted mb-0">Base fee per project</p>
-        </div>
-      </div>
-    </div>
-
-    <!-- Work Items -->
-    <div class="col-12 col-md-6 col-lg-4">
-      <div class="card h-100">
-        <div class="card-header">
-          <h6 class="card-title mb-0">Work Items</h6>
-        </div>
-        <div class="card-body text-center">
-          <div class="fs-4 fw-bold mb-2">
-            <span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="0.01" data-nkda-amount="0.3">0.30</span>
-            <small class="fs-6 text-muted">per item</small>
+          <p class="text-muted mb-3 text-center">Per source project</p>
+          <div class="small">
+            <p class="mb-2 fw-semibold">Base includes <span class="text-muted fw-normal">(~ indicates ±10% tolerance)</span>:</p>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">
+                <strong>Boards</strong>
+                <ul class="mb-0 mt-1">
+                  <li class="text-muted small">~1,000 work items</li>
+                  <li class="text-muted small">Area Paths and Iteration Paths</li>
+                  <li class="text-muted small">~5 custom field mappings (requires upfront planning)</li>
+                  <li class="text-muted small">Teams and backlog configuration</li>
+                  <li class="text-muted small">Shared queries</li>
+                </ul>
+              </li>
+              <li class="list-group-item">
+                <strong>Test Plans</strong>
+                <ul class="mb-0 mt-1">
+                  <li class="text-muted small">~100 test plan suites</li>
+                </ul>
+              </li>
+              <li class="list-group-item">
+                <strong>Repos</strong>
+                <ul class="mb-0 mt-1">
+                  <li class="text-muted small">~5 repositories (per Azure DevOps limits)</li>
+                  <li class="text-muted small">Project Wiki (Git-backed)</li>
+                </ul>
+              </li>
+              <li class="list-group-item">
+                <strong>Pipelines</strong>
+                <ul class="mb-0 mt-1">
+                  <li class="text-muted small">~5 YAML pipelines (developers configure post-migration)</li>
+                </ul>
+              </li>
+              <li class="list-group-item">
+                <strong>Artifacts</strong>
+                <ul class="mb-0 mt-1">
+                  <li class="text-muted small">~100 artifacts (standard packages within service limits)</li>
+                </ul>
+              </li>
+            </ul>
+            <div class="alert alert-warning mt-3 mb-0 small" role="alert"><strong>Excluded:</strong> Project-level permissions, policies, notifications, and organization-level settings unless explicitly agreed.</div>
           </div>
-          <p class="text-muted mb-0">All work item types and history</p>
         </div>
       </div>
     </div>
 
-    <!-- Test Suites -->
-    <div class="col-12 col-md-6 col-lg-4">
-      <div class="card h-100">
-        <div class="card-header">
-          <h6 class="card-title mb-0">Test Suites</h6>
+    <!-- Other Cards - Right Column Grid -->
+    <div class="col-12 col-lg-8">
+      <div class="card h-100 border-start border-light">
+        <div class="card-header bg-transparent border-bottom-0">
+          <h5 class="card-title mb-1">Additional Migration Rates</h5>
+          <p class="text-muted mb-0 small">For volumes exceeding the base inclusions</p>
         </div>
-        <div class="card-body text-center">
-          <div class="fs-4 fw-bold mb-2">
-            <span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="0.01" data-nkda-amount="0.6">0.60</span>
-            <small class="fs-6 text-muted">per suite</small>
+        <div class="card-body pt-0">
+          <div class="row g-3">
+            <!-- Work Items -->
+            <div class="col-12 col-md-6">
+              <div class="card h-100">
+                <div class="card-header">
+                  <h6 class="card-title mb-0">Boards</h6>
+                </div>
+                <div class="card-body text-center">
+                  <div class="fs-4 fw-bold mb-2">
+                    <span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="0.01" data-nkda-amount="0.3">0.30</span>
+                    <small class="fs-6 text-muted">per item</small>
+                  </div>
+                  <p class="text-muted mb-0 small">All work item types, including test cases, attachments, links, tags, and history. Test Plans and Test Suites excluded.</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Test Suites -->
+            <div class="col-12 col-md-6">
+              <div class="card h-100">
+                <div class="card-header">
+                  <h6 class="card-title mb-0">Test Plans</h6>
+                </div>
+                <div class="card-body text-center">
+                  <div class="fs-4 fw-bold mb-2">
+                    <span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="0.01" data-nkda-amount="0.6">0.60</span>
+                    <small class="fs-6 text-muted">per suite</small>
+                  </div>
+                  <p class="text-muted mb-0">Test Plans, Suites, and configurations (priced per suite)</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Repos -->
+            <div class="col-12 col-md-6">
+              <div class="card h-100">
+                <div class="card-header">
+                  <h6 class="card-title mb-0">Repos</h6>
+                </div>
+                <div class="card-body text-center">
+                  <div class="fs-4 fw-bold mb-2">
+                    <span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="10" data-nkda-amount="200">200</span>
+                    <small class="fs-6 text-muted">per Git Repo</small>
+                  </div>
+                  <p class="text-muted small">Standard Git migration (pull, change origin, push). Repos &gt; 5GB: Custom quote required.</p>
+                  <p class="text-muted small">TFVC: Custom quote required</p>
+                  <p class="text-muted small mb-0"><a href="https://learn.microsoft.com/en-us/azure/devops/repos/git/limits?view=azure-devops" target="_blank" rel="noopener" class="text-decoration-none">Azure DevOps limits</a> apply</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Pipelines -->
+            <div class="col-12 col-md-6">
+              <div class="card h-100">
+                <div class="card-header">
+                  <h6 class="card-title mb-0">Pipelines</h6>
+                </div>
+                <div class="card-body text-center">
+                  <div class="fs-4 fw-bold mb-2">
+                    <span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="10" data-nkda-amount="140">140</span>
+                    <small class="fs-6 text-muted">per YAML Pipeline</small>
+                  </div>
+                  <p class="text-muted small">Classic Pipelines: Custom quote required</p>
+                  <p class="text-muted small">XAML Workflows: Custom quote required</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Artifacts -->
+            <div class="col-12 col-md-6">
+              <div class="card h-100">
+                <div class="card-header">
+                  <h6 class="card-title mb-0">Artifacts</h6>
+                </div>
+                <div class="card-body text-center">
+                  <div class="fs-4 fw-bold mb-2">
+                    <span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="0.1" data-nkda-amount="30">30</span>
+                    <small class="fs-6 text-muted">per artifact (package/version)</small>
+                  </div>
+                  <p class="text-muted small">Minimum fee <span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="10" data-nkda-amount="1500">1500</span> for artifacts only. Universal Packages or very large packages may require adjustment.</p>
+                </div>
+              </div>
+            </div>
           </div>
-          <p class="text-muted mb-0">Test cases, plans, and configurations</p>
-        </div>
-      </div>
-    </div>
-
-    <!-- Repositories < 5GB -->
-    <div class="col-12 col-md-6 col-lg-4">
-      <div class="card h-100">
-        <div class="card-header">
-          <h6 class="card-title mb-0">Repositories (&lt; 5GB)</h6>
-        </div>
-        <div class="card-body text-center">
-          <div class="fs-5 fw-bold mb-2">5 included</div>
-          <div class="fs-6 text-muted mb-2"><span data-nkda-toggle="currency" data-nkda-base="GBP" data-nkda-round="10" data-nkda-amount="200">200</span> additional</div>
-          <p class="text-muted mb-0"><a href="https://learn.microsoft.com/en-us/azure/devops/repos/git/limits?view=azure-devops" target="_blank" rel="noopener" class="text-decoration-none">Azure DevOps limits</a> apply</p>
-        </div>
-      </div>
-    </div>
-
-    <!-- Repositories > 5GB -->
-    <div class="col-12 col-md-6 col-lg-4">
-      <div class="card h-100">
-        <div class="card-header">
-          <h6 class="card-title mb-0">Repositories (&gt; 5GB)</h6>
-        </div>
-        <div class="card-body text-center">
-          <div class="fs-5 fw-bold mb-2">Quoted case-by-case</div>
-          <p class="text-muted mb-0">Large repos require custom assessment</p>
-        </div>
-      </div>
-    </div>
-
-    <!-- Build & Release -->
-    <div class="col-12 col-md-6 col-lg-4">
-      <div class="card h-100">
-        <div class="card-header">
-          <h6 class="card-title mb-0">Build &amp; Release</h6>
-        </div>
-        <div class="card-body text-center">
-          <div class="fs-6 fw-bold mb-2">YAML: Included</div>
-          <div class="fs-6 fw-bold mb-2">Classic: Case-by-case</div>
-          <p class="text-muted mb-0">Pipeline definitions and configurations</p>
         </div>
       </div>
     </div>

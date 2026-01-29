@@ -2,11 +2,12 @@ id: -Z5GGUOjc-d
 title: Definition of Done - Objective vs Subjective
 tldr: The Definition of Done (DoD) in Scrum is an objective, measurable checklist that sets the minimum quality standard for every product increment, distinct from the more subjective Product and Sprint Goals. Teams should ensure their DoD is clear, comprehensive, regularly reviewed, and as automated as possible, avoiding subjective approval steps. Development managers should treat the DoD as a non-negotiable baseline for quality, not a ceiling, and keep it updated to reflect evolving standards and business needs.
 classifications:
+
 - label: Engineering Excellence
   score: 94
 - label: Technical Leadership
   score: 77
-content: |
+  content: |
   In countless teams, there’s a recurring mix-up between “what” we’re building, “how” it aligns with business objectives, and the objective quality criteria by which it should be measured. The result? Chaos masquerading as agility. To clear the air: in [Scrum]({{< ref "/categories/scrum" >}}), the “what” and “how” are driven by Product and Sprint Goals. These provide directional clarity but remain inherently subjective, a north star guiding your path, not a litmus test of quality.
 
   Contrast this with the [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD). The DoD is your team’s objective compass, a binary, quantifiable checklist that ensures every [Increment]({{< ref "/tags/increment" >}}) meets professional-grade quality. It’s non-negotiable and should be firmly rooted in your product’s brand, user expectations, and technical robustness.
@@ -40,7 +41,6 @@ content: |
   Each team working on a product would then be responsible for creating a DoD that is appropriate for their context within that product.
 
   This is the seed that will grow into each teams unique quality bar that reflects this DoD. A robust reflection should be:
-
   1. **Objective and Measurable**: Avoid vague criteria and instead focus on things that you can measure.
   2. **Comprehensive**: What are all the things that need to be true for a production deployment of your product to be deployed to production?
   3. **Living Document**: The teams DoD as needed to reflect evolving standards, technologies, and stakeholder expectations of the product as it grows.
@@ -48,7 +48,6 @@ content: |
   ### Common Pitfalls
 
   Despite its critical importance, the DoD is often misunderstood, undervalued, or even undermined. Teams frequently:
-
   - **Blur Subjective and Objective**: Adding criteria like “approved by the [Product Owner]({{< ref "/tags/product-owner" >}})”, which shifts focus from quality to stakeholder satisfaction. Any "approved by ... person or department" should be strictly avoided.
   - **Overlook Automation**: Relying on manual checks leads to inconsistencies and slower feedback loops.
   - **Treat the DoD as a Maximum**: Viewing it as a ceiling instead of a floor hampers innovation and improvement.
@@ -56,7 +55,6 @@ content: |
   ### Practices for Defining Done
 
   To maintain focus on quality, consider the following practices:
-
   1. **Automate Everything:** Automated tests and CI/CD pipelines should validate DoD compliance as part of the development process. If you have things that cant be automated right now, plan the work to change the product to enable those activities to be automated.
   2. **Review Regularly**: Incorporate DoD reviews in retrospectives to ensure its relevance and alignment with current product and organizational needs. Keep a list of "things that need to be true to deploy to production that we cant do yet", and regularly move these to Done.
   3. **Train Teams**: Ensure every team member understands the DoD and its importance in delivering professional-grade Increments.
