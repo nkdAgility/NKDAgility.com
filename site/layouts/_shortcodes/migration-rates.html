@@ -15,25 +15,39 @@
             <p class="mb-2 fw-semibold">Base includes <span class="text-muted fw-normal">(~ indicates ±10% tolerance)</span>:</p>
             <ul class="list-group list-group-flush">
               <li class="list-group-item">
-                ~1,000 work items
-                <div class="text-muted small">Includes Area and Iteration paths</div>
-                <div class="text-muted small">Includes ~5 custom field mappings requiring upfront planning</div>
-                <div class="text-muted small">Includes Teams and backlog configuration</div>
-                <div class="text-muted small">Includes shared queries</div>
-              </li>
-              <li class="list-group-item">~100 test plan suites</li>
-              <li class="list-group-item">
-                ~5 repositories
-                <div class="text-muted small">(per Azure DevOps limits)</div>
-                <div class="text-muted small">Includes Project Wiki</div>
+                <strong>Boards</strong>
+                <ul class="mb-0 mt-1">
+                  <li class="text-muted small">~1,000 work items</li>
+                  <li class="text-muted small">Area Paths and Iteration Paths</li>
+                  <li class="text-muted small">~5 custom field mappings (requires upfront planning)</li>
+                  <li class="text-muted small">Teams and backlog configuration</li>
+                  <li class="text-muted small">Shared queries</li>
+                </ul>
               </li>
               <li class="list-group-item">
-                ~5 YAML pipelines
-                <div class="text-muted small">(developers configure post-migration)</div>
+                <strong>Test Plans</strong>
+                <ul class="mb-0 mt-1">
+                  <li class="text-muted small">~100 test plan suites</li>
+                </ul>
               </li>
               <li class="list-group-item">
-                ~100 artifacts
-                <div class="text-muted small">(standard Azure Artifacts packages within service limits)</div>
+                <strong>Repos</strong>
+                <ul class="mb-0 mt-1">
+                  <li class="text-muted small">~5 repositories (per Azure DevOps limits)</li>
+                  <li class="text-muted small">Project Wiki (Git-backed)</li>
+                </ul>
+              </li>
+              <li class="list-group-item">
+                <strong>Pipelines</strong>
+                <ul class="mb-0 mt-1">
+                  <li class="text-muted small">~5 YAML pipelines (developers configure post-migration)</li>
+                </ul>
+              </li>
+              <li class="list-group-item">
+                <strong>Artifacts</strong>
+                <ul class="mb-0 mt-1">
+                  <li class="text-muted small">~100 artifacts (standard packages within service limits)</li>
+                </ul>
               </li>
             </ul>
             <div class="alert alert-warning mt-3 mb-0 small" role="alert"><strong>Excluded:</strong> Project-level permissions, policies, notifications, and organization-level settings unless explicitly agreed.</div>
