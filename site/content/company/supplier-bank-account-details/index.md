@@ -59,15 +59,9 @@ Use the download button below to get a PDF signed by our CEO on corporate statio
 
 ## Other Bank Details
 
-When TransferWise is not an option (Africa / Middle East / Asia), we provide traditional bricks and mortar details.
+When TransferWise is not an option (Africa / Middle East / Asia), we provide traditional bricks and mortar details upon demand. Please contact us for details.
 
 **For some banks around the world Transferwise is not a happy choice. This account of last resort can receive international transfers in any currency.**
-
-- UK Sort Code: 83-20-22
-- Account number: 10952863
-- Bank code (SWIFT / BIC): RBOSGB2L
-- IBAN: GB75RBOS83 2022 1095 2863
-- Address: 158a Fenwick Road, Giffnock, Glasgow, G46 6XB
 
 ## Supplier & Corporate Details
 
